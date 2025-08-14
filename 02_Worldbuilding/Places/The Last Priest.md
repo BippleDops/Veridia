@@ -1,23 +1,30 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
-danger_level: Moderate
-status: complete
+title: The Last Priest
+type: Location
 tags:
 - aquabyssos
+- status/complete
+- religious
 - complete
 - content/location
 - content/npc
-- hermit
+- place
+- active
 - location
-- religious
-- status/complete
-- tragic
+- hermit
 - world/aquabyssos
-type: Location
+- tragic
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+created_by: auto-stub
+danger_level: Moderate
 updated: '2025-08-13T12:34:17.108445+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -129,6 +136,27 @@ For fifteen years, he has maintained his calling in secret, performing marriages
 ## Death and Legacy
 If Father Aquilus dies, his death could galvanize the underground faith community or lead to its final dissolution. His hidden shrine and library represent irreplaceable cultural and religious heritage.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 The Last Priest embodies themes of faith versus authority, cultural preservation, and personal sacrifice. Use him to explore religious freedom, the cost of standing up for beliefs, and the value of tradition in changing times.
 
@@ -180,3 +208,85 @@ Legends speak of The Last Priest as a nexus where past and present converge. Loc
 - [[The Last Priest]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[Chronokeeper Tide Timestable]]
+- [[04_Resources_Assets_Locations_location-city-plague-crisis-plague-crisis.png]]
+- [[Anchor Stronghaul]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+The Last Priest is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Last Priest
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting The Last Priest:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Last Priest
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

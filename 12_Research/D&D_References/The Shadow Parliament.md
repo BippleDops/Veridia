@@ -1,14 +1,20 @@
+# The Shadow Parliament
+
 ---
+title: The Shadow Parliament
+type: Group
+tags:
+- both
+- active
+- group
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:36.763726+00:00'
 world: Both
-type: Group
-status: active
-tags:
-- active
-- both
-- group
 ---
+
 
 
 
@@ -44,3 +50,8 @@ Legends speak of The Shadow Parliament as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

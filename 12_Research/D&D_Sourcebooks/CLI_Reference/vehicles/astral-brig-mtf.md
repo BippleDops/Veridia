@@ -1,23 +1,29 @@
+# astral-brig-mtf
+
 ---
+title: astral brig mtf
 aliases:
 - Astral Brig
-created: 2025-07-23
-cssclasses: json5e-vehicle
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/vehicle/size/gargantuan
-- ttrpg-cli/vehicle/terrain/air
-- ttrpg-cli/vehicle/type/ship
-- world/both
 type: note
+tags:
+- research
+- world/both
+- active
+- ttrpg-cli/compendium/src/5e/mtf
+- ttrpg-cli/vehicle/type/ship
+- note
+- ttrpg-cli/vehicle/size/gargantuan
+- status/in-progress
+- ttrpg-cli/vehicle/terrain/air
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-vehicle
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:36.560909'
 world: Both
 ---
+
 
 # Astral Brig
 %%-- Embedded content starts on the next line. --%%
@@ -64,3 +70,8 @@ Legends speak of astral brig mtf as a nexus where past and present converge. Loc
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

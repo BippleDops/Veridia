@@ -1,14 +1,20 @@
+# The Reality-Sick Mayor, Lord Quantum Aldrich
+
 ---
+title: The Reality Sick Mayor, Lord Quantum Aldrich
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:36.908892+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-reality-sick-mayor-lord-quantum-aldrich-the-reality-sick-mayor-lord-quantum-aldrich.svg]]
@@ -45,3 +51,8 @@ Legends speak of The Reality Sick Mayor, Lord Quantum Aldrich as a nexus where p
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

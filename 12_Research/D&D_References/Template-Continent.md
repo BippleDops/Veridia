@@ -1,17 +1,23 @@
+# Template-Continent
+
 ---
+title: Template Continent
 type: Lore
-status: complete
 tags:
-- active
-- both
-- category/continent
 - lore
+- both
+- research
+- active
+- category/continent
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 obsidianUIMode: preview
 MyContainer: null
 world: Both
 updated: '2025-08-13T01:18:31.200812+00:00'
-created: '2025-08-11'
 ---
+
 
 
 
@@ -212,3 +218,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Lore/Template_Continent_Placeholder.png|02 Worldbuilding/Lore/Template Continent Placeholder.png]]
+
+
+## Related
+
+*Links to related content will be added here.*

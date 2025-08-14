@@ -1,28 +1,35 @@
+# The Restoration Movement
+
 ---
+title: The Restoration Movement
+type: Lore
 tags:
-- aquabyssos
-- complete
-- democracy
-- historical
 - lore
-- monarchy
-- political-movement
-- reform
-- religious-movement
-- restoration
-- revolution
+- aquabyssos
 - social-change
+- political-movement
+- revolution
+- reform
+- historical
+- research
+- monarchy
+- democracy
+- religious-movement
+- active
+- complete
+- restoration
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 historical_period: Post-Bathyal Succession to Present
 significance: Major
 movement_type: Political and Religious Reform
 current_status: Active but Fragmented
 ---
+
 
 
 
@@ -418,3 +425,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Tidal Memory Ceremonies]]
 - [[Umbral Exchange]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

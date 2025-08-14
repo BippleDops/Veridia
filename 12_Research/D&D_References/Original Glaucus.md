@@ -1,29 +1,36 @@
+# Original Glaucus
+
 ---
+title: Original Glaucus
+type: NPC
 tags:
 - aquabyssos
-- complete
-- npc
-- prisoner
 - senator
+- npc
+- complete
 - shadow-victim
+- research
+- active
+- prisoner
 - tragic
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
-world: Aquabyssos
-type: NPC
 race: Human (Adapted)
 class: Noble/Diplomat
-level: 7
-alignment: Lawful Good
 location: '[[The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]'
+level: 7
+world: Aquabyssos
+alignment: Lawful Good
 faction: '[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] (formerly)'
 status_condition: Imprisoned, Slowly Forgotten
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] Portrait
@@ -338,3 +345,8 @@ Legends speak of Original Glaucus as a nexus where past and present converge. Lo
 <!-- enriched: true -->
 - [[Reflection Pools]]
 - [[Shadow Conspiracy]]
+
+
+## Related
+
+*Links to related content will be added here.*

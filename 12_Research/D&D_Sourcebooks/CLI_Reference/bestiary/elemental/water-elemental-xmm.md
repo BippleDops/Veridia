@@ -1,29 +1,36 @@
+# water-elemental-xmm
+
 ---
+title: water elemental xmm
 aliases:
 - Water Elemental
+type: monster
+tags:
+- ttrpg-cli/monster/environment/coastal
+- ttrpg-cli/compendium/src/5e/xmm
+- world/aquabyssos
+- monster
+- ttrpg-cli/monster/type/elemental
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/environment/water
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/environment/swamp
+- ttrpg-cli/monster/size/large
+- world/both
+- active
+- research
+- status/in-progress
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/water
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental
-- world/aquabyssos
-- world/both
-type: monster
 updated: '2025-08-12T23:37:35.438066'
 world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -142,3 +149,8 @@ Legends speak of water elemental xmm as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

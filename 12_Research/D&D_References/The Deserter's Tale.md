@@ -1,15 +1,22 @@
+# The Deserter's Tale
+
 ---
+title: The Deserter's Tale
+type: Lore
 tags:
+- lore
 - aquabyssos
 - completed
-- dual
-- event
-- historical_legend
 - history
+- dual
+- historical_legend
+- event
+- research
 - honor
-- lore
+- active
+created: '2025-08-11'
+modified: '2025-08-14'
 status: completed
-type: Lore
 world: dual
 connections:
 - '[[Pressure''s End]]'
@@ -21,9 +28,9 @@ themes:
 - redemption
 - duty_vs_survival
 - cosmic_horror
-created: '2025-08-11'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -136,3 +143,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Deep Mother]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,19 +1,26 @@
+# Crystal Cult Temples
+
 ---
+title: Crystal Cult Temples
+type: places
 tags:
 - aquabyssos
-- complete
-- crystal
-- cult
-- places
 - religion
 - temples
+- places
+- cult
+- crystal
+- research
+- active
+- complete
 - transformation
-type: places
-world: Aquabyssos
-status: complete
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.094380+00:00'
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-crystal-cult-temples-crystal-cult-temples.svg]]
@@ -490,3 +497,7 @@ The party discovers that cult healing practices, while religiously motivated, ar
 - [[Quarantine Enforcement]] - Government policies that cults help members evade
 
 <!-- enriched: true -->
+
+## Related
+
+*Links to related content will be added here.*

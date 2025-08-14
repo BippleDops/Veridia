@@ -1,21 +1,28 @@
 ---
-created: '2025-08-12'
-status: complete
+title: House Shadowmere
+type: Faction
 tags:
 - aquabyssos
-- complete
-- content/faction
-- espionage
-- faction
-- noble-house
 - politics
-- shadows
+- noble-house
 - status/complete
+- content/faction
+- faction
+- organization
+- shadows
+- active
+- complete
 - world/aquabyssos
-type: Faction
+- espionage
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.440144+00:00'
 world: Aquabyssos
 ---
+
 
 
 # House Shadowmere
@@ -359,3 +366,8 @@ Legends speak of House Shadowmere as a nexus where past and present converge. Lo
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Known Members
+
+- [[04_Resources_Assets_Locations_location-city-dockmaster-bruno-steadyanchor-dockmaster-bruno-steadyanchor.svg]]

@@ -1,14 +1,20 @@
+# Session-4
+
 ---
-updated: '2025-08-13T01:18:36.971535+00:00'
-created: '2025-08-11'
+title: Session 4
+type: npc
 tags:
 - aquabyssos
-- category/people
-- complete
 - npc
+- research
+- active
+- complete
+- category/people
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
+updated: '2025-08-13T01:18:36.971535+00:00'
 world: Aquabyssos
-type: npc
 obsidianUIMode: preview
 char_status: Alive
 char_race: Human
@@ -26,6 +32,7 @@ accessibility:
   - X-Card
   - Open Door
 ---
+
 
 
 
@@ -85,3 +92,8 @@ Legends speak of Session 4 as a nexus where past and present converge. Locals de
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

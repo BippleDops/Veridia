@@ -1,14 +1,20 @@
+# Captain Thalia Stormguard
+
 ---
-tags:
-- active
-- both
-- npc
+title: Captain Thalia Stormguard
 type: NPC
-world: Both
-status: active
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.996824+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-captain-thalia-stormguard-captain-thalia-stormguard.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Quest - Hearts and Minds]]
+
+
+## Related
+
+*Links to related content will be added here.*

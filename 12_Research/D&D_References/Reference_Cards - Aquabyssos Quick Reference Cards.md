@@ -1,21 +1,28 @@
+# Reference_Cards - Aquabyssos Quick Reference Cards
+
 ---
+title: Reference Cards   Aquabyssos Quick Reference Cards
+type: Lore
 tags:
-- aquabyssos
-- draft
-- gm-resource
 - lore
-- mechanics
+- aquabyssos
+- gm-resource
 - quick-reference
+- mechanics
+- research
+- active
+- draft
 - reference
 - reference-cards
-type: Lore
+created: '2025-08-07'
+modified: '2025-08-14'
+status: draft
 system: D&D 5e
 campaign: Aquabyssos
-created: '2025-08-07'
 world: Aquabyssos
 updated: '2025-08-13T01:18:31.122392+00:00'
-status: draft
 ---
+
 
 
 
@@ -371,3 +378,8 @@ Legends speak of Aquabyssos Quick Reference Cards as a nexus where past and pres
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

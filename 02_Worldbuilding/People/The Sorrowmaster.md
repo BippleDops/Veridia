@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: The Sorrowmaster
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.635817+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -161,6 +169,14 @@ Morteus dwells in the Grief Gardens, a haunted grove where the water itself seem
 **Mannerisms**: Always maintains perfect posture, as if conducting a funeral service. His hands move in subtle blessing gestures when he speaks. He has a habit of touching mourning jewelry worn by others, claiming he can sense the grief contained within. Water around him becomes still and dark, reflecting his emotional state.
 
 
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-commerce-manager-fairdealin-commerce-manager-fairdealin.svg]]: *childhood friend*
+- [[Captain Marcus Voidward]]: *family member*
+- [[Quest - The Bio-Adaptation Crisis]]: *student*
+
 ## Connections
 
 - [[The Resonance Prophet]]
@@ -180,6 +196,119 @@ Legends speak of The Sorrowmaster as a nexus where past and present converge. Lo
 - A rumor ties The Sorrowmaster to a missing shipment, linking factions with competing claims.
 - An NPC seeks discreet help at The Sorrowmaster to avert a public scandal.
 - A map overlay reveals a hidden approach to The Sorrowmaster active only during specific tides/storms.
+
+
+
+## Appearance
+
+The Sorrowmaster presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Brave, clever, brave
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Background
+
+The Sorrowmaster's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Cold and distant
+
+**Speech Pattern**: Carefully chosen words
+
+**Physical Habits**: Steeples fingers when thinking
+
+## Current Activities
+
+The Sorrowmaster is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: The Sorrowmaster needs assistance with a delicate matter
+2. **The Opposition**: Someone wants The Sorrowmaster stopped or removed
+3. **The Secret**: Information about The Sorrowmaster's past surfaces
+4. **The Alliance**: Opportunity to work with or against The Sorrowmaster
+5. **The Crisis**: The Sorrowmaster is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 

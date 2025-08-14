@@ -1,18 +1,26 @@
+# Fortress of the Deeps
+
 ---
+title: Fortress of the Deeps
+type: location
 tags:
 - aquabyssos
-- complete
-- deep-ocean
-- defense
-- depth-wardens
-- fortress
-- location
 - military-base
 - military-command
+- depth-wardens
+- deep-ocean
+- complete
+- research
+- active
+- location
+- defense
+- fortress
 - pressure-architecture
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+population: 5000
 world: Aquabyssos
-type: location
 location_name: Fortress of the Deeps
 location_type: Military Fortress and Command Center
 parent_location: '[[The Abyssal Reaches]]'
@@ -34,7 +42,6 @@ size: Massive Military Complex
 security_level: Maximum
 access: Military Personnel Only
 depth: 8000-12000 feet
-population: 5000
 government: Military Command Structure
 ruler: '[[Commander Typhoon Blackheart]]'
 factions:
@@ -61,9 +68,9 @@ temporal_stability: 92
 shadow_density: High - Constantly monitored
 pressure_effects: Extreme - Specialized equipment required
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:35.837240+00:00'
 ---
+
 
 
 
@@ -639,3 +646,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Location Index|02 Worldbuilding/Lore/Location Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

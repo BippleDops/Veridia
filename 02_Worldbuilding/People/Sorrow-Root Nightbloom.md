@@ -1,14 +1,21 @@
 ---
+title: Sorrow Root Nightbloom
+type: NPC
+tags:
+- character
+- both
+- active
+- npc
 created: null
+modified: '2025-08-14'
+status: active
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.671213+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 
 > [!figure] Portrait
@@ -41,6 +48,16 @@ Once a member of [[The Verdant Accord]], Sorrow-Root Nightbloom now leads the Wi
 - **[[Queen Seraphina Lumengarde]]**: Has sent assassin vines after her multiple times
 - **[[Ambassador Korvin Blacktide]]**: Fascinated by their corruption experiments, secretly funds their research
 - **[[Zephyr Goldwhisper]]**: Their terrorist attacks affect trade routes, making them bad for business
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Direct and concise
+
+**Physical Habits**: Maintains intense eye contact
 
 ## Current Activities
 - Creating hybrid crystal-plant organisms as weapons
@@ -91,6 +108,14 @@ A growing faction of druids, rangers, and fey who believe that:
 - Race to find the components for the Green Death before they do
 
 
+
+
+## Relationship Web
+
+- [[Quest - The Crown's Return]]: *former lover*
+- [[04_Resources_Assets_Locations_location-city-the-luminous-dawn-cathedral-the-luminous-dawn-cathedral.svg]]: *former lover*
+- [[Duke Cyrus Reefheart]]: *informant*
+
 ## Connections
 
 - [[Quest - The Root Network]]
@@ -121,6 +146,86 @@ Legends speak of Sorrow Root Nightbloom as a nexus where past and present conver
 - A rumor ties Sorrow Root Nightbloom to a missing shipment, linking factions with competing claims.
 - An NPC seeks discreet help at Sorrow Root Nightbloom to avert a public scandal.
 - A map overlay reveals a hidden approach to Sorrow Root Nightbloom active only during specific tides/storms.
+
+
+
+## Background
+
+Sorrow-Root Nightbloom's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+## Motivations
+
+**Primary Goal**: Accumulating wealth
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Sorrow-Root Nightbloom harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Forbidden knowledge
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 

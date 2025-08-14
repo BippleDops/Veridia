@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aethermoor
-- complete
-- content/lore
-- historical-region
-- lore
-- status/in-progress
-- world/aethermoor
+title: Colonial Administration
 type: Lore
+tags:
+- lore
+- content/lore
+- world/aethermoor
+- active
+- complete
+- historical-region
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.470756+00:00'
 world: Aethermoor
 ---
+
 
 
 ## Overview
@@ -41,12 +45,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Eastern Kingdoms]]
+- [[Eastern Kingdoms]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Eastern Kingdoms]]
+- [[Eastern Kingdoms]]
 
 
 ## Related

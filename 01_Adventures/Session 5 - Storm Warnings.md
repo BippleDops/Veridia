@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 5   Storm Warnings
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 5 - Storm Warnings
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Locations_location-city-commander-typhoon-blackheart-v1-commander-typhoon-blackheart.svg]]
+- [[04_Resources_Assets_Art_Places_Astrologer_Prime_Cassandra_Starweaver.png]]
+- [[Quest - The Refugee Evacuation]]
+- [[04_Resources_Assets_Locations_location-city-culinary-dreamweaver-sage-gentlespice-culinary-dreamweaver-sage-gentlespice.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-threshold-captain-threshold.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-the-singing-trenches-v1-the-singing-trenches.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-original-palace-the-original-palace.svg]]
+- [[Council of Currents]]

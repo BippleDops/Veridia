@@ -1,23 +1,30 @@
+# Shadow Binding Sanctum
+
 ---
+title: Shadow Binding Sanctum
+type: NPC
 tags:
 - aquabyssos
 - binding
-- complete
-- location
+- shadow
 - magic
 - npc
+- research
+- active
+- location
+- complete
 - sanctum
-- shadow
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: NPC
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Magical
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.836267+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -160,3 +167,8 @@ Legends speak of Shadow Binding Sanctum as a nexus where past and present conver
 - [[Shadow Binding Sanctum|02 Worldbuilding/People/Shadow Binding Sanctum]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

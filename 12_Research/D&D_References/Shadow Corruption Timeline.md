@@ -1,15 +1,21 @@
+# Shadow Corruption Timeline
+
 ---
-tags:
-- active
-- aquabyssos
-- lore
-- npc
+title: Shadow Corruption Timeline
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- npc
+- research
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.631206+00:00'
 ---
+
 
 
 
@@ -216,3 +222,8 @@ In modern Aquabyssos, shadow partnership is available to all citizens seeking co
 The Shadow Corruption timeline provides rich material for exploring themes of fear versus understanding, cooperation versus control, and preparation versus invasion. Use shadow surgery sites as locations where the boundary between individual consciousness and cosmic awareness is thin. NPCs with shadow partnerships should demonstrate enhanced capabilities while maintaining clear individual personality. The historical records offer opportunities for players to uncover the truth about events their characters may have misunderstood, creating revelations about the true nature of cooperation and cosmic preparation.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

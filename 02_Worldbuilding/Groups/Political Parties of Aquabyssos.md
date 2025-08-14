@@ -1,22 +1,29 @@
 ---
-created: '2025-08-12'
-status: complete
+title: Political Parties of Aquabyssos
+type: Faction
 tags:
 - aquabyssos
-- complete
-- content/faction
-- democracy
-- faction
 - intrigue
-- parliament
-- parties
-- politics
 - status/complete
+- content/faction
+- faction
+- parties
+- organization
+- democracy
+- active
+- parliament
+- complete
 - world/aquabyssos
-type: Faction
+- politics
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.343766+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry
@@ -469,3 +476,8 @@ Legends speak of Political Parties of Aquabyssos as a nexus where past and prese
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Known Members
+
+- [[Senator Glaucus]]

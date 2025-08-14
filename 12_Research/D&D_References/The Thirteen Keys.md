@@ -1,20 +1,27 @@
+# The Thirteen Keys
+
 ---
+title: The Thirteen Keys
+type: Location
 tags:
-- ancient-mystery
 - aquabyssos
+- ancient-mystery
 - artifact-hunt
-- complete
-- location
-- puzzle
 - quest
+- research
+- active
+- puzzle
+- location
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.488298+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -164,3 +171,8 @@ Legends speak of The Thirteen Keys as a nexus where past and present converge. L
 - [[The Thirteen Keys|02 Worldbuilding/Places/The Thirteen Keys]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

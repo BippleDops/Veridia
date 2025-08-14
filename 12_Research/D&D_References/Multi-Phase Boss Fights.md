@@ -1,24 +1,31 @@
+# Multi-Phase Boss Fights
+
 ---
+title: Multi Phase Boss Fights
+type: Lore
 tags:
-- boss-fights
+- lore
+- game-mechanics
 - both
+- boss-fights
+- mechanics
 - both-realms
+- research
+- active
+- epic-encounters
 - combat
 - complete
-- epic-encounters
-- game-mechanics
-- lore
-- mechanics
 - multi-phase
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Lore
 system: D&D 5e
 complexity: Advanced
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:35.809148+00:00'
 ---
+
 
 
 

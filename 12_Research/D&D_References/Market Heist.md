@@ -1,20 +1,27 @@
+# Market Heist
+
 ---
+title: Market Heist
+type: Location
 tags:
 - aquabyssos
 - complete
-- crime
-- heist
-- location
 - quest
+- research
+- active
 - stealth
+- location
+- heist
+- crime
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.427127+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-market-heist-market-heist.svg]]
@@ -173,3 +180,8 @@ Legends speak of Market Heist as a nexus where past and present converge. Locals
 - [[Market Heist|02 Worldbuilding/Places/Market Heist]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

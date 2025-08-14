@@ -1,19 +1,25 @@
+# Academic Lineages
+
 ---
-tags:
-- academics
-- aquabyssos
-- complete
-- intellectual-rivalry
-- knowledge
-- lore
-- mentorship
-- research
+title: Academic Lineages
 type: Lore
-world: Aquabyssos
-status: complete
+tags:
+- lore
+- aquabyssos
+- mentorship
+- intellectual-rivalry
+- academics
+- knowledge
+- research
+- active
+- complete
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.140214+00:00'
 ---
+
 
 
 # Academic Lineages
@@ -628,3 +634,8 @@ Legends speak of Academic Lineages as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

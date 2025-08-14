@@ -1,19 +1,25 @@
+# UNIFIED_MECHANICS_GUIDE
+
 ---
 title: Unified Mechanics Guide
 type: Reference
-status: complete
 tags:
-- authoritative
 - both
-- both-worlds
-- complete
+- authoritative
 - mechanics
+- both-worlds
+- research
+- active
+- complete
 - reference
 - standardized
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:37.096042+00:00'
 world: Both
 ---
+
 
 
 # Unified Mechanics Guide

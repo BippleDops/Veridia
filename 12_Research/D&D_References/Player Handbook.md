@@ -1,18 +1,25 @@
+# Player Handbook
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- lore
-- player_resource
-- status/in-progress
-- world/both
+title: Player Handbook
 type: Lore
+tags:
+- lore
+- both
+- content/lore
+- world/both
+- research
+- active
+- complete
+- status/in-progress
+- player_resource
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:29.382922+00:00'
 world: Both
 ---
+
 
 
 
@@ -51,3 +58,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Quick Start Guide]]
+
+
+## Related
+
+*Links to related content will be added here.*

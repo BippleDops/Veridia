@@ -1,26 +1,33 @@
+# Vote Vaults
+
 ---
+title: Vote Vaults
+type: Location
 tags:
 - aquabyssos
-- complete
-- conspiracy
-- hidden
-- location
-- manipulation
-- political
 - voting
+- political
+- hidden
+- research
+- active
+- location
+- complete
+- manipulation
+- conspiracy
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 security_level: maximum
 access: elite_only
 danger_level: Extreme
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] View
@@ -375,3 +382,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Recursion Cult]]
 - [[The Silent Watcher]]
 - [[The Void Touched Depths]]
+
+
+## Related
+
+*Links to related content will be added here.*

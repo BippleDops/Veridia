@@ -1,22 +1,26 @@
 ---
-created: '2025-08-12'
-status: complete
-tags:
-- combat
-- crystal-enhanced
-- aquabyssos
-- complete
-- content/lore
-- content/mechanics
-- lore
-- plague
-- status/complete
-- world/aethermoor
-- world/aquabyssos
+title: Crystal Plague Progression System
 type: Lore
+tags:
+- lore
+- aquabyssos
+- status/complete
+- plague
+- content/lore
+- active
+- combat
+- complete
+- world/aquabyssos
+- content/mechanics
+- world/aethermoor
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.008995+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Crystal Plague Progression System
@@ -308,14 +312,14 @@ The Crystal Plague is a devastating condition that transforms living tissue into
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Crystal Plague Wards]] - Hospital facilities and patient care
-- [[12_Research/D&D_References/Medical Research Facilities]] - Cure development efforts
-- [[12_Research/D&D_References/Black Market Crystal Trade]] - Illegal commerce opportunities
-- [[12_Research/D&D_References/Crystal Cult Temples]] - Religious interpretations
-- [[12_Research/D&D_References/Quarantine Enforcement]] - Government response procedures
-- [[12_Research/D&D_References/Underground Smuggling Networks]] - Resistance movements
+- [[Crystal Plague Wards]] - Hospital facilities and patient care
+- [[Medical Research Facilities]] - Cure development efforts
+- [[Black Market Crystal Trade]] - Illegal commerce opportunities
+- [[Crystal Cult Temples]] - Religious interpretations
+- [[Quarantine Enforcement]] - Government response procedures
+- [[Underground Smuggling Networks]] - Resistance movements
 - [[Brother Marcus]] - Key healing figure
-- [[12_Research/D&D_References/Port Meridian]] - Major plague outbreak location
+- [[Port Meridian]] - Major plague outbreak location
 
 <!-- enriched: true -->
 

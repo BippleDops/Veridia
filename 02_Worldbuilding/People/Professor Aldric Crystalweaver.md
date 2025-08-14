@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Professor Aldric Crystalweaver
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.545694+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -157,6 +165,16 @@ His current obsession involves something he calls "The Crystal Synthesis"—a th
 - **Emergency Crystal Collection** (various crystals for different magical needs)
 - **Laboratory Key Crystal** (grants access to restricted research areas)
 - **Notebook of Living Metal** (automatically records his experiments and observations)
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Cold and distant
+
+**Speech Pattern**: Direct and concise
+
+**Physical Habits**: Paces while speaking
 
 ## Current Activities & Research Projects
 
@@ -349,6 +367,14 @@ Professor Crystalweaver embodies the classic "mad scientist" archetype while rai
 
 His character represents the theme that genius and madness often walk hand-in-hand, and that the pursuit of knowledge can lead to both miraculous discoveries and terrible consequences. He's simultaneously a valuable ally and dangerous enemy, depending on how his research aligns with the party's goals and moral compass.
 
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-merchant-prince-aldric-goldcurrent-v1-merchant-prince-aldric-goldcurrent.svg]]: *childhood friend*
+- [[Captain Rescue]]: *bitter rival*
+- [[Throne of Bubbles]]: *competitor*
+
 ## Connections
 
 - [[The Crystal Throne]]
@@ -375,6 +401,93 @@ Professor Aldric Crystalweaver is a undersea element of the setting, known for b
 ## Lore Details
 
 Legends speak of Professor Aldric Crystalweaver as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Professor Aldric Crystalweaver.
+
+
+
+## Appearance
+
+Professor Aldric Crystalweaver presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Maintaining balance
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Plot Hooks
+
+1. **The Request**: Professor Aldric Crystalweaver needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Professor Aldric Crystalweaver stopped or removed
+3. **The Secret**: Information about Professor Aldric Crystalweaver's past surfaces
+4. **The Alliance**: Opportunity to work with or against Professor Aldric Crystalweaver
+5. **The Crisis**: Professor Aldric Crystalweaver is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 

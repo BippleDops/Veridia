@@ -1,23 +1,29 @@
+# Eastern Kingdom Fleet
+
 ---
+title: Eastern Kingdom Fleet
+type: Lore
 tags:
 - alliance
-- both worlds
-- both-worlds
-- complete
-- eastern-kingdoms
-- external
-- fleet
-- foreign-power
 - lore
-- maritime
+- fleet
 - military
-- naval
+- external
+- both worlds
+- foreign-power
+- both-worlds
 - organization
+- maritime
+- research
+- active
+- eastern-kingdoms
+- complete
+- naval
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both Worlds
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:35.234380+00:00'
 organization_type: Naval Fleet
 scope: International
@@ -25,6 +31,7 @@ allegiance: Eastern Kingdoms
 current_status: Allied Force
 primary_role: Naval Support
 ---
+
 
 
 
@@ -314,3 +321,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Save Both Civilizations|02 Worldbuilding/Lore/Save Both Civilizations]]
 - [[United Councils of Both Worlds]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,27 +1,34 @@
+# Lord Aurelius Goldwave
+
 ---
+title: Lord Aurelius Goldwave
+type: NPC
 tags:
 - aethermoor
-- betrayer-descendant
-- complete
-- crystal-magic
-- lord
 - noble
-- npc
 - political-intrigue
+- npc
+- research
+- active
+- complete
+- betrayer-descendant
+- lord
+- crystal-magic
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
-world: Aethermoor
-type: NPC
-CR: 10
 class: Enchantment Wizard/College of Eloquence Bard
 location: '[[Port Meridian|02 Worldbuilding/Places/Port Meridian]]'
+world: Aethermoor
+CR: 10
 faction: '[[The Order of the Shattered Crown]]'
 created_by: Claude
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] Portrait
@@ -499,3 +506,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 <!-- enriched: true -->
 - [[The Crown of Stars]]
 - [[The Order of the Shattered Crown]]
+
+
+## Related
+
+*Links to related content will be added here.*

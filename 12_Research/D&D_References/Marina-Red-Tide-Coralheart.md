@@ -1,28 +1,36 @@
+# Marina-Red-Tide-Coralheart
+
 ---
-tags:
-- active
-- aethermoor
-- aquabyssos
-- both
-- guardian
-- information-broker
-- npc
-first_name: Marina
-last_name: Coralheart
+title: Marina Red Tide Coralheart
 aliases:
 - Red Tide
 - The Coral Witch
 - Tide Turner
+type: NPC
+tags:
+- aquabyssos
+- both
+- information-broker
+- guardian
+- npc
+- research
+- active
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+race: Human (Aquabyssos Bloodline)
+class: Rogue/Warlock
 location: '[[The Siren''s Rest Tavern]]'
+level: 7
+first_name: Marina
+last_name: Coralheart
 faction: '[[The Depth Wardens]]'
 public_faction: '[[Independent Smugglers]]'
 occupation: Smuggler Captain / Information Broker
 true_occupation: Guardian of the Bloodline
 disposition: 0
 alignment: Chaotic Neutral (Good tendencies)
-race: Human (Aquabyssos Bloodline)
-class: Rogue/Warlock
-level: 7
 ac: 15
 max_hp: 52
 current_hp: 52
@@ -66,10 +74,8 @@ MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:36.913687+00:00'
-created: '2025-08-11'
-status: active
-type: NPC
 ---
+
 
 
 
@@ -261,3 +267,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Jasper Three-Eyes Flint]]
 - [[Lord Aurelius Goldwave]]
 - [[The Bloodline Carrier]]
+
+
+## Related
+
+*Links to related content will be added here.*

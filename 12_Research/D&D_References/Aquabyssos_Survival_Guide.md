@@ -1,15 +1,23 @@
+# Aquabyssos_Survival_Guide
+
 ---
-created: '2025-08-13'
-status: ready
-tags:
-- status/ready
-- type/player-handout
-- world/aquabyssos
-- category/survival
+title: Aquabyssos Survival Guide
 type: Player Handout
+tags:
+- aquabyssos
+- category/survival
+- research
+- type/player-handout
+- active
+- status/ready
+- world/aquabyssos
+created: '2025-08-13'
+modified: '2025-08-14'
+status: ready
 updated: '2025-08-13T12:30:00.000000'
 world: Aquabyssos
 ---
+
 
 # Aquabyssos Survival Guide - Player Handout
 
@@ -186,3 +194,7 @@ world: Aquabyssos
 ---
 
 *This guide is provided by the Aquabyssos Tourism Board in cooperation with the Merchants Guild, Depth Guard, and Temple of the Deep. Current as of the Tidal Year 847.*
+
+## Related
+
+*Links to related content will be added here.*

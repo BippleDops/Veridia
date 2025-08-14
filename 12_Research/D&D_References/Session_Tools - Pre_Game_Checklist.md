@@ -1,14 +1,20 @@
+# Session_Tools - Pre_Game_Checklist
+
 ---
+title: Session Tools   Pre Game Checklist
+type: Mechanic
+tags:
+- both
+- active
+- mechanic
+- research
 created: null
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T04:22:10.866667+00:00'
 world: Both
-status: active
-tags:
-- active
-- both
-- mechanic
-type: Mechanic
 ---
+
 
 
 # Pre-Game Session Checklist
@@ -327,3 +333,8 @@ Legends speak of Pre Game Checklist as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

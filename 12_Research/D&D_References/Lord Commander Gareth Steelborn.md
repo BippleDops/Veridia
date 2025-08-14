@@ -1,14 +1,20 @@
+# Lord Commander Gareth Steelborn
+
 ---
+title: Lord Commander Gareth Steelborn
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 world: Both
 updated: '2025-08-13T01:18:36.909890+00:00'
-created: '2025-08-11'
-status: active
-tags:
-- active
-- both
-- npc
-type: NPC
 ---
+
 
 
 
@@ -431,3 +437,8 @@ Legends speak of Lord Commander Gareth Steelborn as a nexus where past and prese
 - [[High Priestess Celeste Dawnbringer]]
 - [[Quest - The Traitor Within]]
 - [[Ironhold]]
+
+
+## Related
+
+*Links to related content will be added here.*

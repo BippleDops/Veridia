@@ -1,14 +1,20 @@
+# Quest - The Cure for Madness
+
 ---
-tags:
-- active
-- both
-- npc
+title: Quest   The Cure for Madness
 type: NPC
-world: Both
-status: active
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.862711+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-quest-the-cure-for-madness-quest-the-cure-for-madness.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Elder Whisper-In-The-Dark]]
+
+
+## Related
+
+*Links to related content will be added here.*

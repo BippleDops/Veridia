@@ -1,14 +1,20 @@
+# Culture_Builder
+
 ---
-tags:
-- active
-- both
-- group
+title: Culture Builder
 type: Group
-world: Both
-status: active
+tags:
+- both
+- active
+- group
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.747773+00:00'
 ---
+
 
 
 
@@ -55,3 +61,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Vault_Navigation_Hub|Vault Navigation Hub]]
+
+
+## Related
+
+*Links to related content will be added here.*

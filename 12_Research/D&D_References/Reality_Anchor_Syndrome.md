@@ -1,14 +1,21 @@
+# Reality_Anchor_Syndrome
+
 ---
-created: '2025-08-13'
-status: complete
+title: Reality Anchor Syndrome
+type: Transformation Mechanics
 tags:
 - mechanics/transformation
-- reality/anchoring
 - divine/power
-type: Transformation Mechanics
+- research
+- active
+- reality/anchoring
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Reality Anchor Syndrome
 ## Divine Stability Transformation
@@ -47,3 +54,7 @@ Characters who repeatedly use reality-anchoring abilities develop permanent conn
 ---
 
 *Reality anchoring provides stability but at the cost of adaptability and magical flexibility.*
+
+## Related
+
+*Links to related content will be added here.*

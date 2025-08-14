@@ -1,34 +1,39 @@
 ---
+title: The Current Merchants
+type: Npc
+tags:
+- aquabyssos
+- navigator
+- status/complete
+- world/aquabyssos
+- merchant-lord
+- trade-master
+- npc
+- character
+- content/npc
+- active
+- complete
+- entrepreneur
+- status/in-progress
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+race: Sea Elf
+class: Storm Sorcerer/Divination Wizard
+location: '[[The Flowing Market]] - Current''s Edge Trading Post'
+level: 15
 MyCategory: NPC
 MyContainer: None
 affiliation: '[[Deep Current Trading Company]] - Founder and Supreme Navigator'
 age: '78'
 alignment: Chaotic Neutral
-class: Storm Sorcerer/Divination Wizard
-created: '2025-08-08'
 created_by: auto-stub
-level: 15
-location: '[[The Flowing Market]] - Current''s Edge Trading Post'
 obsidianUIMode: preview
-race: Sea Elf
 role: Guildmaster of the Deep Current Trading Company
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/npc
-- entrepreneur
-- merchant-lord
-- navigator
-- npc
-- status/complete
-- status/in-progress
-- trade-master
-- world/aquabyssos
-type: Npc
 updated: '2025-08-13T12:34:17.689216+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -154,12 +159,29 @@ Nereon's commercial empire includes:
 - **Merchant Princess Algae Goldcurrent** - Romantic interest who leads a competing but allied trading company
 - **His Extended Family** - Maintains connections to his kelp-farming roots while supporting relatives' business ventures
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Cold and distant
+
+**Speech Pattern**: Peppered with idioms
+
+**Physical Habits**: Paces while speaking
+
 ## Current Activities
 - Developing new current-enhancement techniques that work with natural flow patterns rather than fighting them
 - Establishing trade relationships with surface world merchants through carefully negotiated diplomatic channels
 - Creating a comprehensive merchant academy to train the next generation of current-riding traders
 - Investigating reports of artificial current disruptions that may indicate sabotage by competitors
 - Planning a grand expedition to map previously unknown deep ocean current systems
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 ## Motivations
 1. **Primary**: Expand and improve the oceanic trade networks that connect all aquatic communities
@@ -301,6 +323,50 @@ Nereon prefers to avoid direct confrontation, but when forced to fight:
 - Potential patron for expeditions, exploration, and diplomatic missions
 - Living embodiment of how individual innovation can reshape entire civilizations
 
+
+
+## Plot Hooks
+
+1. **The Request**: The Current Merchants needs assistance with a delicate matter
+2. **The Opposition**: Someone wants The Current Merchants stopped or removed
+3. **The Secret**: Information about The Current Merchants's past surfaces
+4. **The Alliance**: Opportunity to work with or against The Current Merchants
+5. **The Crisis**: The Current Merchants is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Nereon represents the power of economic forces to shape political and social change
 - His current networks provide a way to quickly move parties and NPCs around the underwater realm
@@ -309,6 +375,13 @@ Nereon prefers to avoid direct confrontation, but when forced to fight:
 - Perfect for campaigns exploring themes of environmental change, economic development, and cultural adaptation
 - His eventual succession crisis could be a major campaign storyline affecting all of Aquabyssos
 
+
+
+
+## Relationship Web
+
+- [[Quest - The Prophecy Fulfilled]]: *patron*
+- [[Captain Hadal Voidwright]]: *bitter rival*
 
 ## Connections
 

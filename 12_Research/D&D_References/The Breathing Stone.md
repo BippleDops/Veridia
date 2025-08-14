@@ -1,21 +1,28 @@
+# The Breathing Stone
+
 ---
+title: The Breathing Stone
+type: Lore
 tags:
-- ancient-magic
-- aquabyssos
-- artifacts
-- breathing
-- complete
-- legendary-items
 - lore
+- aquabyssos
+- ancient-magic
 - survival
+- breathing
+- legendary-items
+- artifacts
+- research
+- active
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 expanded: 2025-08-10
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 # The Breathing Stone
@@ -225,3 +232,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Deep Expeditions|02 Worldbuilding/Lore/Deep Expeditions]]
+
+
+## Related
+
+*Links to related content will be added here.*

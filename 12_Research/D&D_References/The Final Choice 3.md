@@ -1,35 +1,42 @@
+# The Final Choice 3
+
 ---
+title: The Final Choice 3
+type: Lore
+tags:
+- lore
+- status/complete
+- content/lore
+- conspiracy
+- access/secret
+- final-revelation
+- world/both
+- culmination
+- complete
+- divine-intervention
+- both worlds
+- ultimate-choice
+- research
+- deep-mother
+- world-changing
+- active
+- shadow-surgeons
+- reality-alteration
+- world/aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 active_period: Throughout recorded history, culminating in current events
 conspiracy_type: Ultimate Reality Manipulation Conspiracy
-created: '2025-08-08'
 created_by: auto-stub
 danger_level: 10
 primary_agents: The Convergence Council, Deep Mother Cultists, Shadow Surgeons, Ancient
   Powers
 scope: Multiversal - affecting the fundamental nature of reality across both worlds
-status: complete
-tags:
-- access/secret
-- both worlds
-- complete
-- conspiracy
-- content/lore
-- culmination
-- deep-mother
-- divine-intervention
-- final-revelation
-- lore
-- reality-alteration
-- shadow-surgeons
-- status/complete
-- ultimate-choice
-- world-changing
-- world/aethermoor
-- world/both
-type: Lore
 updated: '2025-08-13T12:34:29.033314+00:00'
 world: Both Worlds
 ---
+
 
 
 
@@ -476,3 +483,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Aethermoor]]
 - [[Parliament of Echoes]]
 - [[The Crystal Wardens]]
+
+
+## Related
+
+*Links to related content will be added here.*

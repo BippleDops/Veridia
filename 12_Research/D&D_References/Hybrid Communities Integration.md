@@ -1,18 +1,25 @@
+# Hybrid Communities Integration
+
 ---
+title: Hybrid Communities Integration
+type: Place
 tags:
-- both worlds
-- both-worlds
-- community
-- complete
 - hybrid-species
+- both worlds
+- community
+- both-worlds
 - integration
 - place
-type: Place
-world: Both Worlds
-status: complete
+- research
+- active
+- complete
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Both Worlds
 updated: '2025-08-13T01:18:36.435583+00:00'
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-hybrid-communities-integration-hybrid-communities-integration.svg]]
@@ -307,3 +314,8 @@ Legends speak of Hybrid Communities Integration as a nexus where past and presen
 - [[Hybrid Communities Integration|02 Worldbuilding/Places/Hybrid Communities Integration]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

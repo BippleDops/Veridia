@@ -1,18 +1,27 @@
+# Captain Blackwater's Fate
+
 ---
+title: Captain Blackwater's Fate
+type: Lore
 tags:
-- aquabyssos
-- complete
-- investigation
 - lore
+- aquabyssos
 - mystery
-- naval
+- investigation
 - pirates
 - quest
+- research
+- active
+- complete
+- naval
+created: '2025-08-10'
+modified: '2025-08-14'
+status: complete
+region: Tidecaller Archipelago
 quest_status: Active
 quest_priority: High
 quest_type: Main Story
 world: Aquabyssos
-region: Tidecaller Archipelago
 level_range: 4-7
 duration: 4-6 sessions
 difficulty: Medium
@@ -39,15 +48,13 @@ rewards:
 - Blackwater's Cutlass
 - Treasure Map
 - Ship Upgrade
-status: complete
-created: '2025-08-10'
 last_modified: 2025-08-10 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:34.486880+00:00'
-type: Lore
 ---
+
 
 
 

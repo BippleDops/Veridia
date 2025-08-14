@@ -1,3 +1,15 @@
+# npc_development_framework
+
+---
+title: npc development framework
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # NPC Development Framework
 
 ## Character Depth Matrix Analysis
@@ -61,3 +73,7 @@ NPCs reveal layers when:
 - Faction loyalty tested (Any layer disruption)
 
 *Methodology: Behavioral analysis of 200+ NPCs across 15 Cordelia campaigns*
+
+## Related
+
+*Links to related content will be added here.*

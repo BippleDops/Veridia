@@ -1,26 +1,34 @@
 ---
+title: Quest   The Traitor Within
+type: Npc
+tags:
+- content/adventure
+- status/complete
+- npc
+- political
+- character
+- content/npc
+- world/aethermoor
+- active
+- complete
+- espionage
+- aethermoor
+- betrayal
+created: 2025-08-08 - Category/Quests
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 MyCategory: Political
 MyContainer: None
 cr: '6'
-created: 2025-08-08 - Category/Quests
 created_by: auto-stub
 obsidianUIMode: preview
-status: complete
-tags:
-- aethermoor
-- betrayal
-- complete
-- content/adventure
-- content/npc
-- espionage
-- npc
-- political
-- status/complete
-- world/aethermoor
-type: Npc
 updated: '2025-08-13T12:34:17.581684+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait
@@ -116,9 +124,124 @@ Recent military disasters suggest inside information reached enemy hands. Three 
 - Other security leaks discovered during investigation
 - Traitor's handler leads to larger conspiracy
 
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Finding purpose
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Quest - The Traitor Within harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Lost memory
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Cold and distant
+
+**Speech Pattern**: Formal and elaborate
+
+**Physical Habits**: Gestures expressively
+
+## Current Activities
+
+Quest - The Traitor Within is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Quest - The Traitor Within needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Quest - The Traitor Within stopped or removed
+3. **The Secret**: Information about Quest - The Traitor Within's past surfaces
+4. **The Alliance**: Opportunity to work with or against Quest - The Traitor Within
+5. **The Crisis**: Quest - The Traitor Within is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 This quest explores themes of loyalty, family, and moral complexity in wartime. The investigation should reveal sympathetic motivation behind betrayal, forcing players to balance justice with mercy. Use false leads and red herrings to maintain suspense while building toward emotional climax when truth emerges.
 
+
+
+
+## Relationship Web
+
+- [[Financial Corruption]]: *mentor*
+- [[04_Resources_Assets_Locations_location-city-master-thorek-crystalhammer-v1-master-thorek-crystalhammer.svg]]: *mentor*
+- [[Marina Red Tide Coralheart - Aquabyssos]]: *sworn enemy*
 
 ## Connections
 
@@ -132,6 +255,12 @@ TODO
 
 
 ## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more withdrawn
+- **When Pleased**: Shows open joy
+- **In Conflict**: Tends toward manipulation
+
 
 
 TODO

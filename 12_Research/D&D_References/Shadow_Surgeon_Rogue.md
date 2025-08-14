@@ -1,16 +1,23 @@
+# Shadow_Surgeon_Rogue
+
 ---
-created: '2025-08-13'
-status: ready
-tags:
-- status/ready
-- type/character-build
-- world/aquabyssos
-- class/rogue
-- faction/shadow-conspiracy
+title: Shadow Surgeon Rogue
 type: Character Build
+tags:
+- research
+- class/rogue
+- type/character-build
+- faction/shadow-conspiracy
+- status/ready
+- active
+- world/aquabyssos
+created: '2025-08-13'
+modified: '2025-08-14'
+status: ready
 updated: '2025-08-13T12:00:00.000000'
 world: Aquabyssos
 ---
+
 
 # Shadow Surgeon Rogue - Character Build
 
@@ -218,3 +225,7 @@ Divine magic enhances deception and provides moral complexity.
 The Shadow Surgeon represents one of the most morally ambiguous character options in the setting. Players should work with their DM to explore themes of identity, consciousness, and the ethics of mental manipulation while maintaining party cohesion and campaign tone.
 
 This build is designed for mature players interested in exploring complex moral questions within a fantasy framework.
+
+## Related
+
+*Links to related content will be added here.*

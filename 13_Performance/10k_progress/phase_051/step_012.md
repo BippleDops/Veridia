@@ -1,9 +1,16 @@
 ---
+title: step 012
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 51
 step: 12
 total_step: 5012
 ---
+
 
 # Phase 51 - Step 12
 

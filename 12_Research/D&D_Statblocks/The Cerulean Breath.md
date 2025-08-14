@@ -1,31 +1,38 @@
+# The Cerulean Breath
+
 ---
-tags:
-- ancient
-- aquabyssos
-- breath-weapon
-- complete
-- dragon-turtle
-- npc
-- oceanic
-- sage
-status: complete
-world: Aquabyssos
+title: The Cerulean Breath
 type: NPC
+tags:
+- aquabyssos
+- oceanic
+- npc
+- breath-weapon
+- research
+- ancient
+- active
+- dragon-turtle
+- complete
+- sage
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+race: Ancient Dragon Turtle
+class: Draconic Sorcerer/Circle of the Land Druid
+location: '[[The Cerulean Depths]] - Sapphire Grotto'
+level: 20
+world: Aquabyssos
 role: Ancient Dragon Turtle Sage
 affiliation: '[[The Depth Wardens]] - Elder Advisor'
 age: 2,847
-race: Ancient Dragon Turtle
-class: Draconic Sorcerer/Circle of the Land Druid
-level: 20
 alignment: Neutral Good
-location: '[[The Cerulean Depths]] - Sapphire Grotto'
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] Portrait
@@ -350,3 +357,8 @@ Legends speak of The Cerulean Breath as a nexus where past and present converge.
 - [[Professor Aldric Crystalweaver]]
 - [[Tribune Cassia Deepcurrent]]
 - [[Parliament of Echoes]]
+
+
+## Related
+
+*Links to related content will be added here.*

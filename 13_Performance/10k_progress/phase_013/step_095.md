@@ -1,9 +1,16 @@
 ---
+title: step 095
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 13
 step: 95
 total_step: 1295
 ---
+
 
 # Phase 13 - Step 95
 

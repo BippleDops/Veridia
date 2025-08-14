@@ -1,19 +1,27 @@
+# Template-Player-Demiplane
+
 ---
-NoteIcon: player
+title: Template Player Demiplane
 aliases:
 - Bob
+type: Lore
 tags:
-- active
-- both
-- category/player
 - lore
+- both
+- research
+- category/player
+- active
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+level: 2
+NoteIcon: player
 Player: Bob
 Role: Player
 Class:
 - Barbarian
 Race:
 - Human
-level: 2
 hp: 55
 max_hp: 71
 ac: 16
@@ -49,10 +57,8 @@ obsidianUIMode: preview
 MyContainer: null
 world: Both
 updated: '2025-08-13T01:18:31.196346+00:00'
-created: '2025-08-11'
-status: active
-type: Lore
 ---
+
 
 
 
@@ -282,3 +288,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Lore/Template_Player_Placeholder.png|02 Worldbuilding/Lore/Template Player Placeholder.png]]
+
+
+## Related
+
+*Links to related content will be added here.*

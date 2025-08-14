@@ -1,25 +1,32 @@
 ---
+title: Commander Drake Pressureborn
+type: Location
+tags:
+- aquabyssos
+- status/complete
+- world/aquabyssos
+- military
+- complete
+- content/location
+- place
+- active
+- location
+- defense
+- fortress
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Military Installation
 MyContainer: None
-created: '2025-08-12'
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/location
-- defense
-- fortress
-- location
-- military
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:17.176911+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -397,6 +404,27 @@ Legends speak of Commander Drake Pressureborn as a nexus where past and present 
 - An NPC seeks discreet help at Commander Drake Pressureborn to avert a public scandal.
 - A map overlay reveals a hidden approach to Commander Drake Pressureborn active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -406,3 +434,70 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Commander Drake Pressureborn]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[Royal Protocol]]
+- [[04_Resources_Assets_Locations_location-city-pilgrim-guide-nautilus-pathfinder-v1-pilgrim-guide-nautilus-pathfinder.svg]]
+- [[Bubble Yeastkeeper]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+Commander Drake Pressureborn is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## History
+
+### Founding
+Commander Drake Pressureborn was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Commander Drake Pressureborn:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Commander Drake Pressureborn
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

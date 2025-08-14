@@ -1,30 +1,37 @@
+# Shadow Vale
+
 ---
+title: Shadow Vale
+type: Group
 tags:
 - aquabyssos
-- community
-- complete
 - faction
-- group
+- community
 - mutual-aid
+- research
+- active
+- complete
 - residential
+- group
 - shadow-touched
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+headquarters: '[[The Umbral Community Center]]'
 world: Aquabyssos
-type: Group
 faction_type: Community Organization
 alignment: Neutral Good
-headquarters: '[[The Umbral Community Center]]'
 leader: '[[Community Elder Mistweave]]'
 members: ~3,500 residents and 200 community organizers
 influence: Local district (Shadow Vale neighborhood)
 wealth: Modest (community resources and mutual aid)
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.727705+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] Heraldry

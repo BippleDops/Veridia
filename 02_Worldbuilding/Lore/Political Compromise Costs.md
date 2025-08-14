@@ -1,23 +1,27 @@
 ---
-created: '2025-08-12'
-status: complete
-tags:
-- quest
-- shadow-touched
-- aquabyssos
-- complete
-- compromise
-- content/lore
-- governance
-- lore
-- moral-dilemmas
-- politics
-- status/in-progress
-- world/aquabyssos
+title: Political Compromise Costs
 type: Lore
+tags:
+- lore
+- aquabyssos
+- world/aquabyssos
+- compromise
+- quest
+- content/lore
+- active
+- moral-dilemmas
+- complete
+- status/in-progress
+- politics
+- shadow-touched
+- governance
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:15.964380+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Political Compromise Costs
@@ -427,13 +431,13 @@ Short-term survival requires decisions that may damage long-term governance. Pre
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Ethical Dilemmas in Shadow Times]]
-- [[12_Research/D&D_References/Medical Ethics in Plague Crisis]]
-- [[12_Research/D&D_References/Economic Justice Debates]]
-- [[12_Research/D&D_References/Military Moral Quandaries]]
-- [[12_Research/D&D_References/Parliament of Shadows]]
-- [[12_Research/D&D_References/Cult of the Deep Mother]]
-- [[12_Research/D&D_References/Shadow Corruption Timeline]]
+- [[Ethical Dilemmas in Shadow Times]]
+- [[Medical Ethics in Plague Crisis]]
+- [[Economic Justice Debates]]
+- [[Military Moral Quandaries]]
+- [[Parliament of Shadows]]
+- [[Cult of the Deep Mother]]
+- [[Shadow Corruption Timeline]]
 
 ## Adventure Hooks
 
@@ -461,3 +465,21 @@ Legends speak of Political Compromise Costs as a nexus where past and present co
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

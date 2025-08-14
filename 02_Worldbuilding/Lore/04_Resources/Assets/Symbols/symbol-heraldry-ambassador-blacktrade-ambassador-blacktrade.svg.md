@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry ambassador blacktrade ambassador blacktrade.svg
+aliases:
+- symbol heraldry ambassador blacktrade ambassador blacktradesvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-ambassador-blacktrade-ambassador-blacktrade.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Ambassador Blacktrade]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Ambassador Blacktrade]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

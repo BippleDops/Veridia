@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Windwright Academy
+type: Faction
 tags:
 - both
-- complete
 - content/faction
 - faction
-- status/in-progress
+- organization
 - world/both
-type: Faction
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.425811+00:00'
 world: Both
 ---
+
 
 
 ## Overview
@@ -61,3 +68,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Quest - The Lost Expedition]]
+
+
+## Known Members
+
+- [[The Deep Trade Routes]]
+- [[04_Resources_Assets_Art_Places_Brother_Matthias_Inkdrinker.png]]
+- [[04_Resources_Assets_Vehicles_vehicle-ship-resonance-drive-yacht-resonance-drive-yacht.svg]]

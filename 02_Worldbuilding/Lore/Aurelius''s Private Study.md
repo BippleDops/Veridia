@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Aurelius''s Private Study
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Aurelius''s Private Study
 
@@ -24,8 +28,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Goldwave Manor]]
-- [[12_Research/D&D_References/Goldwave Manor 3]]
+- [[Goldwave Manor]]
+- [[Goldwave Manor 3]]
 - [[02_Worldbuilding/Lore/Goldwave Manor]]
 
 ## Notes

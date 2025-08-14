@@ -1,26 +1,32 @@
 ---
-affiliation: '[[Memory Farmers]] (Reformed Branch)'
-age: '36'
-created: '2025-08-09'
-created_by: auto-stub
-location: '[[Memory Meadows]] - The Ethical Exchange'
-race: Human
-role: Ethical Memory Merchant
-status: complete
+title: Memory Merchant Valeria Siltweave
+type: Npc
 tags:
 - aquabyssos
-- business-owner
-- complete
-- content/npc
 - ethical-merchant
-- memory-trader
-- npc
 - status/complete
+- npc
+- character
+- business-owner
+- content/npc
+- active
+- complete
+- memory-trader
 - world/aquabyssos
-type: Npc
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+race: Human
+class: Unknown
+location: '[[Memory Meadows]] - The Ethical Exchange'
+affiliation: '[[Memory Farmers]] (Reformed Branch)'
+age: '36'
+created_by: auto-stub
+role: Ethical Memory Merchant
 updated: '2025-08-13T12:34:17.549286+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -301,7 +307,14 @@ When encountered in her shop "The Ethical Exchange" in [[Memory Meadows]], Valer
 - Often pauses mid-conversation to check on former clients' mental health
 - Maintains small shrines to donors who've passed away
 
-### Motivations Beyond Business
+#
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations Beyond Business
 - **The Guilt Complex**: Driven by guilt over early career participation in exploitative memory harvesting
 - **The Validation Need**: Desperately wants to prove ethical memory commerce is viable
 - **The Healer's Calling**: Views memory work as medical practice rather than mere business
@@ -556,6 +569,118 @@ Full-scale conflict erupts between ethical and exploitative memory factions. Val
 
 ---
 
+
+
+## Appearance
+
+Memory Merchant Valeria Siltweave presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Loyal, loyal, wise
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+## Secrets
+
+Memory Merchant Valeria Siltweave harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Forbidden knowledge
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Cold and distant
+
+**Speech Pattern**: Peppered with idioms
+
+**Physical Habits**: Paces while speaking
+
+## Current Activities
+
+Memory Merchant Valeria Siltweave is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Memory Merchant Valeria Siltweave needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Memory Merchant Valeria Siltweave stopped or removed
+3. **The Secret**: Information about Memory Merchant Valeria Siltweave's past surfaces
+4. **The Alliance**: Opportunity to work with or against Memory Merchant Valeria Siltweave
+5. **The Crisis**: Memory Merchant Valeria Siltweave is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Perfect source for memory-related services with built-in moral complexity
 - Can provide exposition on memory trade and its social implications
@@ -565,6 +690,14 @@ Full-scale conflict erupts between ethical and exploitative memory factions. Val
 - **Combat Role**: Controller/Support, focuses on protection and memory manipulation rather than direct damage
 - **Social Encounters**: Emphasizes consent, ethics, and long-term consequences of choices
 - **Plot Integration**: Her ethical stance creates natural conflicts with exploitative factions and organizations
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-dock-master-anchor-holdfast-v1-dock-master-anchor-holdfast.svg]]: *debt holder*
+- [[04_Resources_Assets_Art_Places_Forge_Master_Petra_Hammerdeep.png]]: *family member*
+- [[04_Resources_Assets_Art_Places_Dr._Siphon_Gillwater.png]]: *debt holder*
 
 ## Connections
 

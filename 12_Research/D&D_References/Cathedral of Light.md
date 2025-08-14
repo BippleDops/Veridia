@@ -1,33 +1,41 @@
+# Cathedral of Light
+
 ---
+title: Cathedral of Light
+type: Location
 tags:
-- aethermoor
-- cathedral
 - completed
+- religious
 - grand-cathedral
+- research
+- active
 - holy
-- light
 - location
 - magnificent
-- religious
+- cathedral
+- light
+- aethermoor
+created: '2025-08-12'
+modified: '2025-08-14'
 status: completed
-world: Aethermoor
 region: '[[Capital District]]'
-type: Location
 population: 500
+world: Aethermoor
 danger_level: 1
-government: '[[Sacred Order of Luminous Daw|02 Worldbuilding/Groups/Sacred Order Of Luminous Daw]]'
+government: '[[Sacred Order of Luminous Daw|02 Worldbuilding/Groups/Sacred Order Of
+  Luminous Daw]]'
 leader: '[[High Luminary Celestine Brightward]]'
 specialties:
 - Divine Magic
 - Healing Arts
 - Light Magic
 founded: 300 years before Great Crystallization
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-12T00:00:00+00:00'
 ---
+
 
 
 > [!figure] View
@@ -471,3 +479,8 @@ riched: true -->
 - [[Purist Coalition]]
 - [[The Great Crystallization]]
 - [[Sylvanheart]]
+
+
+## Related
+
+*Links to related content will be added here.*

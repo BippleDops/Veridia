@@ -1,31 +1,41 @@
+# Aurelius Goldwave
+
 ---
+title: Aurelius Goldwave
+type: NPC
 tags:
 - aquabyssos
 - banking
-- complete
+- shadow-connection
+- npc
 - corrupt-noble
+- research
+- active
+- complete
 - financial-manipulation
 - merchant
-- npc
-- shadow-connection
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
-world: Aquabyssos
-type: NPC
-alignment: Lawful Evil
 race: Merfolk
 class: Rogue (Mastermind)/Warlock (Great Old One)
 level: 14
+world: Aquabyssos
+alignment: Lawful Evil
 occupation: Senior Partner, Goldwave Financial Consortium
-allegiance: '[[Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking House]] (secretly)'
-current_location: '[[Port Meridian|02 Worldbuilding/Places/Port Meridian]] - Financial District'
-created: '2025-08-08'
+allegiance: '[[Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking
+  House]] (secretly)'
+current_location: '[[Port Meridian|02 Worldbuilding/Places/Port Meridian]] - Financial
+  District'
 updated: '2025-08-11T00:00:00+00:00'
 related_entities:
 - '[[Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking House]]'
 - '[[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]'
 - '[[Memory Meadows Black Market|02 Worldbuilding/Places/Memory Meadows Black Market]]'
-- '[[02_Worldbuilding/Lore/Marina''s Identity Crisis|02 Worldbuilding/Lore/Marina''s Identity Crisis]]'
+- '[[02_Worldbuilding/Lore/Marina''s Identity Crisis|02 Worldbuilding/Lore/Marina''s
+  Identity Crisis]]'
 ---
+
 
 
 > [!figure] Portrait
@@ -343,3 +353,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Economic Warfare|02 Worldbuilding/Quests/Economic Warfare]]
 - [[Goldwave Manor]]
+
+
+## Related
+
+*Links to related content will be added here.*

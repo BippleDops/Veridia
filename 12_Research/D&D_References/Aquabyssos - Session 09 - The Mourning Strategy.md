@@ -1,12 +1,31 @@
+# Aquabyssos - Session 09 - The Mourning Strategy
+
 ---
-MyCategory: Unknown
-MyContainer: None
+title: The Mourning Strategy
+type: Lore
+tags:
+- lore
+- aquabyssos
+- parliament-shadows
+- campaign/session
+- outlined
+- world/aquabyssos
+- content/lore
+- research
+- active
+- planned
+- status/in-progress
 created: '2025-08-11'
-date_played: null
-depth: 8,000+ ft (Abyssal Zone)
-estimated_time: 4 hours
+modified: '2025-08-14'
+status: outlined
 location:
 - - The Mourning Depths
+session_number: 9
+date_played: null
+MyCategory: Unknown
+MyContainer: None
+depth: 8,000+ ft (Abyssal Zone)
+estimated_time: 4 hours
 npcs_featured:
 - - - The Sorrowmaster
 - - - 02_Worldbuilding/People/Shadow Duchess Nyx
@@ -18,27 +37,14 @@ quests_advanced:
 - - - Activate the Grief Bomb
 - - - Navigate Singer Consciousness
 - - - Unite All Factions
-session_number: 9
-status: outlined
-tags:
-- aquabyssos
-- campaign/session
-- content/lore
-- lore
-- outlined
-- parliament-shadows
-- planned
-- status/in-progress
-- world/aquabyssos
 themes:
 - Weaponized sorrow
 - Collective sacrifice
 - Emotional transcendence
-title: The Mourning Strategy
-type: Lore
 updated: '2025-08-13T12:34:17.836193+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -239,3 +245,8 @@ The ocean above turns transparent, revealing the impossible anatomy of the Singe
 
 - [[Sorrow Pearls]]
 - [[The Sorrowmaster]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,3 +1,15 @@
+# session_preparation_optimization
+
+---
+title: session preparation optimization
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Session Preparation Optimization
 
 ## Efficient GM Preparation Strategies for Complex Campaigns
@@ -163,3 +175,7 @@ Quirk: [One memorable characteristic]
 - **Story Advancement**: Each session meaningfully advances campaign narratives
 
 *Research methodology: GM time-tracking studies, preparation efficiency analysis, 124 campaign preparation strategies evaluation*
+
+## Related
+
+*Links to related content will be added here.*

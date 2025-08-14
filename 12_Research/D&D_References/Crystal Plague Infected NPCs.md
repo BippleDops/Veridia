@@ -1,19 +1,26 @@
+# Crystal Plague Infected NPCs
+
 ---
+title: Crystal Plague Infected NPCs
+type: people
 tags:
 - aquabyssos
-- character-profiles
-- complete
-- crystal
-- infected
 - npcs
 - people
 - plague
-type: people
-world: Aquabyssos
-status: complete
+- character-profiles
+- crystal
+- research
+- infected
+- active
+- complete
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.858165+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-crystal-plague-infected-npcs-crystal-plague-infected-npcs.svg]]
@@ -539,3 +546,7 @@ Allow player characters to influence NPC outcomes through their choices and acti
 - [[Underground Smuggling Networks]] - Alternative systems some NPCs utilize
 
 <!-- enriched: true -->
+
+## Related
+
+*Links to related content will be added here.*

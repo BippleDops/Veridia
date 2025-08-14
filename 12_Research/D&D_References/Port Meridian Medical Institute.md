@@ -1,16 +1,22 @@
+# Port Meridian Medical Institute
+
 ---
-tags:
-- active
-- both worlds
-- both-worlds
-- location
+title: Port Meridian Medical Institute
 type: Location
-world: Both Worlds
-status: active
+tags:
+- both worlds
+- research
+- both-worlds
+- active
+- location
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both Worlds
 updated: '2025-08-13T01:18:36.409773+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-port-meridian-medical-institute-port-meridian-medical-institute.svg]]
@@ -62,3 +68,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Port Meridian Medical Institute|02 Worldbuilding/Places/Port Meridian Medical Institute]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

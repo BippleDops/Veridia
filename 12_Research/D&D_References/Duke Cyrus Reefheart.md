@@ -1,14 +1,20 @@
+# Duke Cyrus Reefheart
+
 ---
+title: Duke Cyrus Reefheart
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 world: Both
 updated: '2025-08-13T01:18:36.852928+00:00'
-created: '2025-08-11'
-status: active
-tags:
-- active
-- both
-- npc
-type: NPC
 ---
+
 
 
 
@@ -180,3 +186,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 <!-- enriched: true -->
 - [[Master Cultivator Thalia Greenglow]]
 - [[The Deepmind]]
+
+
+## Related
+
+*Links to related content will be added here.*

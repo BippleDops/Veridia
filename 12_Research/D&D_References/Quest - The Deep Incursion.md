@@ -1,14 +1,20 @@
+# Quest - The Deep Incursion
+
 ---
-tags:
-- active
-- both
-- npc
+title: Quest   The Deep Incursion
 type: NPC
-world: Both
-status: active
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.931086+00:00'
 ---
+
 
 
 
@@ -64,3 +70,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Admiral Thorne Blackwater]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,33 +1,38 @@
 ---
-MyCategory: Honor Society
-MyContainer: Shadow Society
-alignment: Lawful Neutral (Honor-bound)
-created: '2025-08-08'
-created_by: auto-stub
-faction_type: Aristocratic Dueling Society
-headquarters: '[[The Umbral Pavilion]]'
-influence: High Society, Shadow Court
-leader: '[[Shadow Duchess Lysandra Voidgrace]]'
-members: ~75 active duelists, ~300 affiliates
-modified: 2025-08-11 - Category/Group
-obsidianUIMode: preview
-purpose: Maintain honor through formal combat
-status: complete
+title: The Shadow Duchess Duel
+type: Faction
 tags:
 - aquabyssos
-- aristocracy
-- complete
+- honor-codes
+- status/complete
 - content/faction
 - dueling-society
 - faction
-- honor-codes
 - shadow-court
-- status/complete
+- organization
+- active
+- complete
 - world/aquabyssos
-type: Faction
+- aristocracy
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Umbral Pavilion]]'
+membership: Unknown
+MyCategory: Honor Society
+MyContainer: Shadow Society
+alignment: Lawful Neutral (Honor-bound)
+created_by: auto-stub
+faction_type: Aristocratic Dueling Society
+influence: High Society, Shadow Court
+leader: '[[Shadow Duchess Lysandra Voidgrace]]'
+members: ~75 active duelists, ~300 affiliates
+obsidianUIMode: preview
+purpose: Maintain honor through formal combat
 updated: '2025-08-13T12:34:17.367098+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry
@@ -581,3 +586,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Shadow Academy Training Grounds|02 Worldbuilding/Groups/Shadow Academy Training Grounds]]
+
+
+## Known Members
+
+- [[10-combat#Dropping_to_0_Hit_Points#Stabilizing_a_Creature]]
+- [[Lady Vivienne Thornwhisper]]
+- [[Elder Whisper-In-The-Dark]]

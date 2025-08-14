@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Lord Commander Gareth Steelborn
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.561663+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -318,12 +326,29 @@ Lord Commander Gareth Steelborn leads the [[Crystal Wardens]], [[Aethermoor]]'s 
 > - Would turn against the Queen if he knew about her corruption
 > - Has been having prophetic dreams about a great betrayal
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Casual and relaxed
+
+**Physical Habits**: Maintains intense eye contact
+
 ## Current Activities
 - Training new Crystal Warden recruits
 - Investigating [[Purist Coalition]] terrorist cells
 - Planning defenses for Crystal Festival
 - Searching for [[Captain Thaddeus Blackwater]]'s expedition
 - Monitoring [[The Crystalline Wastes]] border
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 ## Motivations
 1. **Primary**: Protect the innocent and maintain order
@@ -374,6 +399,50 @@ Lord Commander Gareth Steelborn leads the [[Crystal Wardens]], [[Aethermoor]]'s 
 - Evening: Personal training
 - Night: Patrol (randomly)
 
+
+
+## Plot Hooks
+
+1. **The Request**: Lord Commander Gareth Steelborn needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Lord Commander Gareth Steelborn stopped or removed
+3. **The Secret**: Information about Lord Commander Gareth Steelborn's past surfaces
+4. **The Alliance**: Opportunity to work with or against Lord Commander Gareth Steelborn
+5. **The Crisis**: Lord Commander Gareth Steelborn is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Will be devastated when Queen's corruption revealed
 - Could become party's greatest ally or enemy depending on approach
@@ -399,6 +468,15 @@ Lord Commander Gareth Steelborn leads the [[Crystal Wardens]], [[Aethermoor]]'s 
 - [[Quest - Diplomatic Immunity]] - Security detail
 - [[Quest - The Traitor Within]] - Investigating corruption
 
+
+
+
+## Relationship Web
+
+- [[Lord Commander Steelborn]]: *mentor*
+- [[04_Resources_Assets_Locations_location-city-brother-matthias-inkdrinker-brother-matthias-inkdrinker.svg]]: *secret ally*
+- [[02_Worldbuilding_Lore_Master_Artificer_Coral_Gemwright]]: *student*
+- [[Captain Thornback]]: *informant*
 
 ## Connections
 

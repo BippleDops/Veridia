@@ -1,23 +1,29 @@
+# Master_Lore_Index
+
 ---
-completion: 100%
-created: '2025-08-11'
-created_by: Agent-20
-last_updated: 2025-08-11
-status: complete
+title: Master Lore Index
+type: Lore
 tags:
-- content/lore
-- master-index
 - navigation
 - status/complete
+- content/lore
 - world/both
+- research
+- active
+- master-index
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+completion: 100%
+created_by: Agent-20
+last_updated: 2025-08-11
 total_lore_entries: 194
-type: Lore
-updated: '2025-08-12T23:37:32.984220'
+updated: 2025-08-13 07:59:50.494449
 world: Universal
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.494449
 ---
+
 # Master Lore Index
 *Comprehensive Directory of All Lore, History, and World Knowledge*
 

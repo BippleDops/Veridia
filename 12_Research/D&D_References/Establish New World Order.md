@@ -1,31 +1,37 @@
+# Establish New World Order
+
 ---
-tags:
-- aethermoor
-- complete
-- crystal-governance
-- faction
-- group
-- institutional-reform
-- moderates
-- political-movement
-status: complete
-world: Aethermoor
+title: Establish New World Order
 type: Group
+tags:
+- crystal-governance
+- political-movement
+- faction
+- research
+- institutional-reform
+- active
+- complete
+- moderates
+- aethermoor
+- group
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Crystal Governance Institute]]'
+world: Aethermoor
 faction_type: Political Reform Movement
 alignment: Lawful Neutral (Systematic Reformers)
-headquarters: '[[The Crystal Governance Institute]]'
 leader: '[[Director Prism Reformheart]]'
 members: ~500 active members, ~2000 supporters
 influence: Political Institutions, Policy Development
 purpose: Systematic governmental reform through crystal-enhanced governance
 created_by: auto-stub
-created: '2025-08-08'
-modified: 2025-08-11 - Category/Group
 MyContainer: Political Reform
 MyCategory: Governance Movement
 obsidianUIMode: preview
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-establish-new-world-order-establish-new-world-order.svg)
@@ -580,3 +586,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Aethermoor - Session 10 The Deep Mother Rises]]
+
+
+## Related
+
+*Links to related content will be added here.*

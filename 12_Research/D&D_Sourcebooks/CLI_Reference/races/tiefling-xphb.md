@@ -1,21 +1,27 @@
+# tiefling-xphb
+
 ---
+title: tiefling xphb
 aliases:
 - Tiefling
-created: 2025-07-23
-cssclasses: json5e-race
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- active
+- ttrpg-cli/race/tiefling
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/race/tiefling
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-race
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:37.707123'
 world: Both
 ---
+
 
 # Tiefling
 *Source: Player's Handbook (2024) p. 197. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -94,3 +100,8 @@ Legends speak of tiefling xphb as a nexus where past and present converge. Local
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

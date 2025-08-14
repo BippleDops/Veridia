@@ -1,17 +1,25 @@
+# The_Second_Rising
+
 ---
+title: The Second Rising
+type: Lore
 tags:
-- both
-- complete
 - lore
+- both
 - quest
-quest_giver: '[[High Tidecaller Nerissa]]'
+- research
+- active
+- complete
+created: '2025-08-11T13:08:50.084026+00:00'
+modified: '2025-08-14'
 status: complete
+location: '[[Aquathys_Overview|Aquathys Overview]]'
+quest_giver: '[[High Tidecaller Nerissa]]'
 priority: urgent
 quest_start: 2025-08-10
 deadline: 2025-09-10
 completion_date: null
 reward: 10000gp + Blessing of the Depths + Surface/Depth Citizenship
-location: '[[Aquathys_Overview|Aquathys Overview]]'
 quest_image: 04_Resources/Assets/quests/second-rising.png
 related_npcs:
 - '[[High Tidecaller Nerissa]]'
@@ -49,9 +57,8 @@ MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:34.498222+00:00'
-created: '2025-08-11T13:08:50.084026+00:00'
-type: Lore
 ---
+
 
 
 
@@ -951,3 +958,8 @@ Legends speak of The Second Rising as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

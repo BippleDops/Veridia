@@ -1,14 +1,20 @@
+# Watch Captain Roderick Shieldbreaker
+
 ---
+title: Watch Captain Roderick Shieldbreaker
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:36.826430+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-watch-captain-roderick-shieldbreaker-v1-watch-captain-roderick-shieldbreaker.svg]]
@@ -45,3 +51,8 @@ Legends speak of Watch Captain Roderick Shieldbreaker as a nexus where past and 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

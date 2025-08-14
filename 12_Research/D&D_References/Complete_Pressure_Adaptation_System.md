@@ -1,20 +1,26 @@
+# Complete_Pressure_Adaptation_System
+
 ---
 title: Complete Pressure Adaptation System
 type: Lore
-status: complete
 tags:
-- adaptation
-- both
 - character-progression
-- complete
 - lore
-- mechanics
+- both
 - pressure
+- mechanics
+- research
+- active
+- adaptation
+- complete
 - transformation
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 world: Both
 updated: '2025-08-13T01:18:37.122026+00:00'
 ---
+
 
 
 
@@ -1147,3 +1153,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Depth Survival Mechanics]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,11 +1,20 @@
+# Abyssos Prime
+
 ---
+title: Abyssos Prime
+type: Location
 tags:
-- active
 - aquabyssos
 - both
-- capital
 - continent
+- capital
+- research
+- active
 - location
+created: '2025-08-12'
+modified: '2025-08-14'
+status: active
+population: 2000000
 location_name: Abyssos Prime
 location_type: Sunken Capital
 parent_location: '[[Aquabyssos]]'
@@ -19,7 +28,6 @@ sub_locations:
 - '[[Throne of Bubbles]]'
 - '[[The Depth Market]]'
 depth: 1000-3000 feet
-population: 2000000
 government: '[[The Eternal Senate]]'
 ruler: '[[The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]'
 factions:
@@ -44,15 +52,13 @@ current_state: Shadow conspiracy active
 temporal_stability: 85
 shadow_density: High
 pressure_effects: Moderate to Severe
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:36.425014+00:00'
-status: active
-type: Location
 ---
+
 
 
 

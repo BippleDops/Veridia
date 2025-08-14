@@ -1,19 +1,26 @@
+# Secret Society Membership Rolls
+
 ---
-tags:
-- aquabyssos
-- complete
-- conspiracies
-- intrigue
-- lore
-- politics
-- relationships
-- secret-societies
+title: Secret Society Membership Rolls
 type: Lore
-world: Aquabyssos
-status: complete
+tags:
+- lore
+- aquabyssos
+- relationships
+- intrigue
+- conspiracies
+- research
+- secret-societies
+- active
+- complete
+- politics
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.997774+00:00'
 ---
+
 
 
 # Secret Society Membership Rolls
@@ -636,3 +643,8 @@ Legends speak of Secret Society Membership Rolls as a nexus where past and prese
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

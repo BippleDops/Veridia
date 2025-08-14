@@ -1,23 +1,30 @@
+# The First Truth
+
 ---
+title: The First Truth
+type: Location
 tags:
-- aquabyssos
-- complete
-- location
 - lore
-- philosophy
-- revelation
+- aquabyssos
 - truth
+- revelation
+- research
+- active
+- location
+- complete
+- philosophy
+created: 2025-08-08 - Category/Lore
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: 2025-08-08 - Category/Lore
 MyContainer: None
 MyCategory: Philosophy
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.029673+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -191,3 +198,8 @@ Legends speak of The First Truth as a nexus where past and present converge. Loc
 - [[The First Truth|02 Worldbuilding/Places/The First Truth]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

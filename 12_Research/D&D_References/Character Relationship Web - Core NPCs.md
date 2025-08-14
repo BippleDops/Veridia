@@ -1,19 +1,26 @@
+# Character Relationship Web - Core NPCs
+
 ---
+title: Character Relationship Web   Core NPCs
+type: Relationship Guide
 tags:
-- both
 - character-connections
-- complete
+- both
 - npc-network
-- plot-hooks
-- relationship guide
-- relationship-guide
 - relationship-web
+- research
+- plot-hooks
+- active
+- relationship-guide
+- complete
+- relationship guide
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Relationship Guide
-created: '2025-08-12'
 updated: '2025-08-13T04:22:14.944155+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-character-relationship-web-core-npcs-character-relationship-web-core-npcs.svg]]
@@ -235,3 +242,7 @@ The richness of these character relationships provides endless opportunities for
 - [[Crystal Corruption]]
 
 <!-- enriched: true -->
+
+## Related
+
+*Links to related content will be added here.*

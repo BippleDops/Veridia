@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Academy of Deep Understanding
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Academy of Deep Understanding
 
@@ -24,9 +28,9 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Abyss Beneath Aquabyssos]]
-- [[12_Research/D&D_References/Scholars of Divine Lore]]
-- [[12_Research/D&D_References/The Abyss Beneath Aquabyssos 3]]
+- [[The Abyss Beneath Aquabyssos]]
+- [[Scholars of Divine Lore]]
+- [[The Abyss Beneath Aquabyssos 3]]
 - [[02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]]
 - [[02_Worldbuilding/Groups/Scholars of Divine Lore]]
 

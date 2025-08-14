@@ -1,21 +1,28 @@
+# The Harmony Collective
+
 ---
+title: The Harmony Collective
+type: NPC
 tags:
 - aquabyssos
-- complete
 - cult
 - harmony
 - npc
 - organization
+- research
+- active
+- complete
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: NPC
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Religious
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.860197+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -150,3 +157,8 @@ Legends speak of The Harmony Collective as a nexus where past and present conver
 - [[The Harmony Collective|02 Worldbuilding/People/The Harmony Collective]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

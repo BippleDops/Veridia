@@ -1,27 +1,34 @@
+# Shadow Broker Mirrors
+
 ---
+title: Shadow Broker Mirrors
+type: Group
 tags:
 - aquabyssos
-- complete
-- espionage
 - faction
-- group
 - information-brokers
 - mirrors
+- research
 - reflection-magic
+- active
+- complete
+- espionage
+- group
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+headquarters: '[[The Reflection Chamber]] (Hidden)'
 world: Aquabyssos
-type: Group
 faction_type: Information Syndicate
 alignment: True Neutral
-headquarters: '[[The Reflection Chamber]] (Hidden)'
 leader: '[[The Prime Reflection]]'
 members: ~200 brokers, spies, and mirror-touched
 influence: Extensive (Information Networks)
 purpose: Control information through reflection magic
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.743175+00:00'
 ---
+
 
 
 > [!figure] Heraldry

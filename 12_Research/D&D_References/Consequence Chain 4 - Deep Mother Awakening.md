@@ -1,20 +1,26 @@
+# Consequence Chain 4 - Deep Mother Awakening
+
 ---
+title: Consequence Chain 4   Deep Mother Awakening
+type: Lore
 tags:
-- aethermoor
+- lore
 - aquabyssos
+- cosmic-entity
+- primordial-contact
 - both worlds
 - both-worlds
-- campaign-consequences
-- complete
-- consciousness-evolution
-- cosmic-entity
+- research
 - deep-mother
-- lore
-- primordial-contact
-type: Lore
-world: Both Worlds
-status: complete
+- consciousness-evolution
+- active
+- complete
+- campaign-consequences
+- aethermoor
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Both Worlds
 updated: '2025-08-13T04:22:14.112129+00:00'
 magnitude: 5
 visibility: 2
@@ -22,6 +28,7 @@ primary_sessions:
 - 'Session 10: The Deep Mother Rises'
 - 'Session 10: The Shadow Finale'
 ---
+
 
 
 
@@ -226,3 +233,7 @@ primary_sessions:
 - [[Cosmic Consciousness Ethics]]
 - [[Reality Stability Protocols]]
 - [[Political Intrigue Master Index]]
+
+## Related
+
+*Links to related content will be added here.*

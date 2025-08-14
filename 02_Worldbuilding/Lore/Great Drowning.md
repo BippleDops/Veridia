@@ -1,24 +1,28 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- combat
-- quest
-- crystal-enhanced
-- shadow-touched
-- aerial
-- aquatic
-- aquabyssos
-- complete
-- content/adventure
-- content/lore
-- lore
-- status/in-progress
-- world/aquabyssos
+title: Great Drowning
 type: Lore
+tags:
+- lore
+- aquabyssos
+- aerial
+- content/adventure
+- world/aquabyssos
+- aquatic
+- quest
+- content/lore
+- active
+- combat
+- complete
+- status/in-progress
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.220848+00:00'
 world: Aquabyssos
 ---
+
 
 
 ## Overview
@@ -203,12 +207,12 @@ The Great Drowning serves as foundational lore explaining why Aquabyssos exists 
 ## Connections
 
 - [[The Catastrophe: Hour by Hour]]
-- [[12_Research/D&D_References/Pre-Drowning Civilization Archives]]
-- [[12_Research/D&D_References/Post-Merge Chronology]]
-- [[12_Research/D&D_References/Shadow Conspiracy Timeline]]
-- [[12_Research/D&D_References/The Deep Mother]]
-- [[12_Research/D&D_References/Reality Anchor Network]]
-- [[12_Research/D&D_References/The Living Weapon]]
+- [[Pre-Drowning Civilization Archives]]
+- [[Post-Merge Chronology]]
+- [[Shadow Conspiracy Timeline]]
+- [[The Deep Mother]]
+- [[Reality Anchor Network]]
+- [[The Living Weapon]]
 - [[12_Research/D&D_Statblocks/The Maw of Darkness]]
 
 

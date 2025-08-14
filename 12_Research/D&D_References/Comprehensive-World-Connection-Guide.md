@@ -1,26 +1,33 @@
+# Comprehensive-World-Connection-Guide
+
 ---
-tags:
-- active merger possibility
-- active-merger-possibility
-- aethermoor
-- aquabyssos
-- both
-- campaign-guide
-- connections
-- lore
-- worldbuilding
-world_type: Parallel Realms
-connection_type: Dimensional Convergence
-status: Active Merger Possibility
-created: '2025-08-07'
-updated: '2025-08-13T01:18:34.791034+00:00'
+title: Comprehensive World Connection Guide
 aliases:
 - World Connection Guide
 - Realm Merger Guide
 - Aquabyssos-Aethermoor Bridge
-world: Both
 type: Lore
+tags:
+- lore
+- aquabyssos
+- both
+- campaign-guide
+- worldbuilding
+- research
+- active-merger-possibility
+- active
+- connections
+- aethermoor
+- active merger possibility
+created: '2025-08-07'
+modified: '2025-08-14'
+status: Active Merger Possibility
+world_type: Parallel Realms
+connection_type: Dimensional Convergence
+updated: '2025-08-13T01:18:34.791034+00:00'
+world: Both
 ---
+
 
 
 
@@ -776,3 +783,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Pressure Terminal]]
 - [[Royal Palace]]
 - [[The Forgotten Representative]]
+
+
+## Related
+
+*Links to related content will be added here.*

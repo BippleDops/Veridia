@@ -1,19 +1,25 @@
+# M-102_Time_Skip_Round
+
 ---
 title: "Encounter Sheet \u2014 M-102 Time Skip Round"
 type: gm_resource
-status: complete
 tags:
 - both
-- complete
-- encounter
-- gm
-- gm_resource
 - merger
+- encounter
 - time
+- gm
+- research
+- active
+- gm_resource
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.139792+00:00'
 world: Both
 ---
+
 
 
 # M-102 Time Skip Round
@@ -58,3 +64,8 @@ Legends speak of M 102 Time Skip Round as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

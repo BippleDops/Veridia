@@ -1,27 +1,34 @@
+# Consequence Chain 1 - Shadow Conspiracy Exposure 3
+
 ---
+title: Consequence Chain 1   Shadow Conspiracy Exposure 3
+type: Lore
+tags:
+- lore
+- aquabyssos
+- status/complete
+- parliament-infiltration
+- political-intrigue
+- content/lore
+- research
+- active
+- campaign/arc
+- complete
+- identity-crisis
+- world/aquabyssos
+- shadow-conspiracy
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 magnitude: 4
 primary_sessions:
 - 'Session 03: Gallery Conspiracy'
 - 'Session 06: Silhouette Surgeons'
-status: complete
-tags:
-- aquabyssos
-- campaign/arc
-- complete
-- content/lore
-- identity-crisis
-- lore
-- parliament-infiltration
-- political-intrigue
-- shadow-conspiracy
-- status/complete
-- world/aquabyssos
-type: Lore
 updated: '2025-08-13T12:34:29.380947+00:00'
 visibility: 3
 world: Aquabyssos
 ---
+
 
 
 
@@ -205,3 +212,7 @@ world: Aquabyssos
 - [[Parliament of Echoes]]
 - [[Shadow Duchess Nyx]]
 - [[Political Intrigue Master Index]]
+
+## Related
+
+*Links to related content will be added here.*

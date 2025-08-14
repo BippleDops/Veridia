@@ -1,25 +1,29 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
-expanded: 2025-08-10
-status: complete
+title: Tide Turner
+type: Lore
 tags:
-- combat
-- aquatic
-- aquabyssos
-- complete
-- content/lore
-- heroes
-- historical-figures
 - lore
+- aquabyssos
+- status/complete
 - mechanics/magic
 - prophecies
-- status/complete
+- aquatic
+- historical-figures
+- content/lore
+- heroes
+- active
+- combat
+- complete
 - world/aquabyssos
-type: Lore
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+created_by: auto-stub
+expanded: 2025-08-10
 updated: '2025-08-13T12:34:16.042217+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Tide Turner
@@ -499,21 +503,21 @@ Something in the deepest ocean trenches is calling to individuals with tidal mag
 
 ## Connected References
 
-- [[12_Research/D&D_References/Pelagic the Current-Walker]] - First historical Tide Turner
+- [[Pelagic the Current-Walker]] - First historical Tide Turner
 - [[Abyssal the Deep-Touched]] - Deep ocean explorer Tide Turner
-- [[12_Research/D&D_References/Marina the Unifier]] - Political unity Tide Turner
-- [[12_Research/D&D_References/Temple of Perpetual Tides]] - Source of original prophecies
-- [[12_Research/D&D_References/Order of the Eternal Current]] - Secret religious organization
+- [[Marina the Unifier]] - Political unity Tide Turner
+- [[Temple of Perpetual Tides]] - Source of original prophecies
+- [[Order of the Eternal Current]] - Secret religious organization
 - [[Church of Tidal Harmony]] - Primary Tide Turner religious group
-- [[12_Research/D&D_References/Council of Depths]] - Government body managing Tide Turner issues
-- [[12_Research/D&D_References/Deep Mother]] - Potential corrupting influence on Tide Turners
-- [[12_Research/D&D_References/Tidal Engineering]] - Technical applications of Tide Turner principles
-- [[12_Research/D&D_References/Current Riders Union]] - Transportation guild influenced by Tide Turner philosophy
-- [[12_Research/D&D_References/Deep Current Society]] - Secret organization preserving Tide Turner knowledge
-- [[12_Research/D&D_References/The Corrupted Current]] - Dark organization opposing Tide Turners
-- [[12_Research/D&D_References/Tide Turner Investigation Committee]] - Government monitoring body
-- [[12_Research/D&D_References/The Ready Current]] - Social preparation movement
-- [[12_Research/D&D_References/Tidal Reserve]] - Economic fund for supporting future Tide Turner
+- [[Council of Depths]] - Government body managing Tide Turner issues
+- [[Deep Mother]] - Potential corrupting influence on Tide Turners
+- [[Tidal Engineering]] - Technical applications of Tide Turner principles
+- [[Current Riders Union]] - Transportation guild influenced by Tide Turner philosophy
+- [[Deep Current Society]] - Secret organization preserving Tide Turner knowledge
+- [[The Corrupted Current]] - Dark organization opposing Tide Turners
+- [[Tide Turner Investigation Committee]] - Government monitoring body
+- [[The Ready Current]] - Social preparation movement
+- [[Tidal Reserve]] - Economic fund for supporting future Tide Turner
 
 ## Long-term Campaign Implications
 
@@ -531,7 +535,7 @@ The Tide Turner serves as both inspiration and cautionary tale, representing the
 
 ## Connections
 
-- [[12_Research/D&D_References/Tide Turner's Trident]]
+- [[Tide Turner's Trident]]
 
 ## Player-Facing Summary
 
@@ -549,10 +553,28 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Deep Mother]]
-- [[12_Research/D&D_References/Deep Mother]]
+- [[Deep Mother]]
+- [[Deep Mother]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

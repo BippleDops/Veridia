@@ -1,29 +1,36 @@
+# The Bloodline Awakens
+
 ---
+title: The Bloodline Awakens
+type: NPC
 tags:
-- ancient-power
 - aquabyssos
-- awakening
+- family-secret
 - bloodline
+- legacy
+- supernatural
+- phenomenon
+- ancient-power
+- npc
+- research
+- active
 - complete
 - curse
-- family-secret
-- legacy
-- npc
-- phenomenon
-- supernatural
+- awakening
 - transformation
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+location: Scattered throughout Aquabyssos
 world: Aquabyssos
-type: NPC
 role: Supernatural Bloodline Event
 affiliation: Ancient Bloodlines (Various)
 danger_level: High
 manifestation_rate: Rare but Increasing
-location: Scattered throughout Aquabyssos
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.927412+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -648,3 +655,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Bloodline Awakens|02 Worldbuilding/People/The Bloodline Awakens]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

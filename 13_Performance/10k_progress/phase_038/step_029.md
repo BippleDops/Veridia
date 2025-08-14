@@ -1,9 +1,16 @@
 ---
+title: step 029
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 38
 step: 29
 total_step: 3729
 ---
+
 
 # Phase 38 - Step 29
 

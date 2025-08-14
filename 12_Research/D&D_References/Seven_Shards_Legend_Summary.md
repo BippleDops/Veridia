@@ -1,14 +1,21 @@
+# Seven_Shards_Legend_Summary
+
 ---
-created: '2025-08-13'
-status: complete
+title: Seven Shards Legend Summary
+type: Handout
 tags:
 - player/handout
 - lore/seven-shards
+- research
 - world/both
-type: Handout
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # The Seven Shards: Legend Summary
 ## Ancient Artifacts of Reality
@@ -107,3 +114,7 @@ The Parliament of Echoes offers substantial rewards for verified information reg
 
 *Knowledge shared for the protection of all realms*
 *May wisdom guide your steps*
+
+## Related
+
+*Links to related content will be added here.*

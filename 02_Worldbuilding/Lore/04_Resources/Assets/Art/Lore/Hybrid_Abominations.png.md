@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Hybrid Abominations.png
+aliases:
+- Hybrid Abominationspng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Art/Lore/Hybrid_Abominations.png
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Hybrid Abominations]]
-- [[12_Research/D&D_References/Hybrid Abominations 3]]
+- [[Hybrid Abominations]]
+- [[Hybrid Abominations 3]]
 - [[02_Worldbuilding/Lore/Hybrid Abominations]]
 
 ## Notes

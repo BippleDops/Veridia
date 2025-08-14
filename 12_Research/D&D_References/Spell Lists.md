@@ -1,22 +1,28 @@
+# Spell Lists
+
 ---
+title: Spell Lists
+type: Lore
 tags:
-- aethermoor
+- lore
 - aquabyssos
+- magic-systems
 - both worlds
+- spellcasting
 - both-worlds
+- surface-magic
+- research
+- spell-lists
+- underwater-magic
+- active
 - complete
 - comprehensive-catalog
-- lore
-- magic-systems
-- spell-lists
-- spellcasting
-- surface-magic
-- underwater-magic
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both Worlds
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:35.164688+00:00'
 magical_focus: Comprehensive Spell Catalog
 scope: Cross-Realm Magic Systems
@@ -24,6 +30,7 @@ application: Spellcaster Reference
 complexity: All Levels
 practitioners: All Magical Traditions
 ---
+
 
 
 
@@ -653,3 +660,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Templater Advanced|02 Worldbuilding/Lore/Templater Advanced]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

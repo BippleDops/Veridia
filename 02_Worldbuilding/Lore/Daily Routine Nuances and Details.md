@@ -1,28 +1,32 @@
 ---
-created: '2025-08-12'
-created_by: claude
-status: complete
+title: Daily Routine Nuances and Details
+type: Lore
 tags:
-- combat
-- quest
-- crystal-enhanced
-- aerial
-- aquatic
+- lore
 - both
+- aerial
+- status/complete
+- nuances
+- culture
+- aquatic
+- quest
+- world/both
+- active
+- combat
 - complete
 - comprehensive
 - cultural-reference
-- culture
-- daily-life
-- lore
-- nuances
 - routine
-- status/complete
-- world/both
-type: Lore
+- daily-life
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+created_by: claude
 updated: '2025-08-13T12:34:16.127784+00:00'
 world: Both
 ---
+
 
 
 # Daily Routine Nuances and Details
@@ -31,7 +35,7 @@ world: Both
 
 ## Overview
 
-This comprehensive guide details over 30 specific nuances of daily life in both [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]], covering wake-up rituals, commute patterns, work schedules, meal customs, social hours, entertainment options, shopping habits, hygiene practices, sleep patterns, and seasonal adjustments. These details bring life and authenticity to the extraordinary environments of the underwater and aerial realms.
+This comprehensive guide details over 30 specific nuances of daily life in both [[Aquabyssos]] and [[Aethermoor]], covering wake-up rituals, commute patterns, work schedules, meal customs, social hours, entertainment options, shopping habits, hygiene practices, sleep patterns, and seasonal adjustments. These details bring life and authenticity to the extraordinary environments of the underwater and aerial realms.
 
 ---
 
@@ -532,11 +536,11 @@ Whether depicting the pressure-pulse alarm that wakes a deep miner or the wind c
 ---
 
 **Related Topics**:
-- [[12_Research/D&D_References/A Day in Aquabyssos]]
-- [[12_Research/D&D_References/Aethermoor Daily Rhythms]]
-- [[12_Research/D&D_References/Working Class Routines]]
-- [[12_Research/D&D_References/Noble Leisure Schedules]]
-- [[12_Research/D&D_References/Child Life in the Realms]]
+- [[A Day in Aquabyssos]]
+- [[Aethermoor Daily Rhythms]]
+- [[Working Class Routines]]
+- [[Noble Leisure Schedules]]
+- [[Child Life in the Realms]]
 - [[Cultural Traditions and Customs]]
 - [[Environmental Adaptations and Survival]]
 

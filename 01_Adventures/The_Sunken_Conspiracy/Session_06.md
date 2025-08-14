@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 06
 type: adventure
-status: active
 tags:
-- combat
+- adventure
 - session-notes
 - aquatic
-- adventure
+- quest
+- active
+- combat
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 06: [Ocean Depths Mystery]
 
@@ -32,7 +38,7 @@ tags:
 ### Underwater Factions
 
 - [[Pearl Divers Guild]] - Information network
-- [[12_Research/D&D_References/Deep Wardens]] - Military authority
+- [[Deep Wardens]] - Military authority
 - [[Tide Singers]] - Mystical knowledge
 
 ## Investigation Elements
@@ -68,3 +74,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Key NPCs
+
+- [[The Crystal Queen Mother]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-quest-the-crystal-innovatio-quest-the-crystal-innovatio.svg]]
+- [[Captain Marrow Drinker]]
+- [[Captain Threshold]]
+- [[Seventh Shard]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-sacred-grief-protocols-sacred-grief-protocols.png]]
+- [[04_Resources_Assets_Locations_location-city-the-hadal-depths-the-hadal-depths.svg]]
+- [[Gem Trueeye]]

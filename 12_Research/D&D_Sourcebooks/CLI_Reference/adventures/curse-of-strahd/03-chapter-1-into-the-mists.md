@@ -1,12 +1,20 @@
+# 03-chapter-1-into-the-mists
+
 ---
-created: 2025-08-11
-status: active
+title: 03 chapter 1 into the mists
+type: research
 tags:
-- status/in-progress
 - world/both
+- status/in-progress
+- active
+- research
+created: 2025-08-11
+modified: '2025-08-14'
+status: active
 updated: '2025-08-12T23:37:34.528210'
 world: Both
 ---
+
 
 
 
@@ -29,3 +37,8 @@ Legends speak of 03 chapter 1 into the mists as a nexus where past and present c
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

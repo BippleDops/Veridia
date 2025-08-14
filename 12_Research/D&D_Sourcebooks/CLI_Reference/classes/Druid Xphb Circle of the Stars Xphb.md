@@ -1,23 +1,28 @@
+# Druid Xphb Circle of the Stars Xphb
+
 ---
+title: Druid Xphb Circle of the Stars Xphb
 aliases:
 - Circle of the Stars
-created: 2025-07-23
-cssclasses: json5e-class
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
+- ttrpg-cli/subclass/druid/stars
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/druid/stars
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-class
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:04.766647+00:00'
 world: Both
 ---
+
 
 
 # Circle of the Stars
@@ -144,3 +149,8 @@ Legends speak of druid xphb circle of the stars xphb as a nexus where past and p
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

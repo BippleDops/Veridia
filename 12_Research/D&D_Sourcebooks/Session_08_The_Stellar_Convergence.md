@@ -1,16 +1,23 @@
+# Session_08_The_Stellar_Convergence
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- campaign/seven-shards
-- session-guide
-- world/both
-- campaign-finale
-- epic-encounters
+title: Session 08 The Stellar Convergence
 type: Quest
+tags:
+- session-guide
+- research
+- world/both
+- active
+- epic-encounters
+- campaign-finale
+- campaign/seven-shards
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T07:30:00.000000+00:00'
 world: Both
 ---
+
 
 # Session 8: The Stellar Convergence
 
@@ -422,3 +429,7 @@ Each character should receive a personalized epilogue based on:
 ---
 
 *Total Campaign Duration: 8 Sessions | Character Progression: Levels 1-10 | Epic Scope: Local → Realm → Cosmic*
+
+## Related
+
+*Links to related content will be added here.*

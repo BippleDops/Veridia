@@ -1,15 +1,21 @@
+# Religious Groups
+
 ---
-tags:
-- active
-- both
-- location
+title: Religious Groups
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.369762+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-religious-groups-religious-groups.svg]]
@@ -66,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Keeper of the Past, Elderly Morgan]]
+
+
+## Related
+
+*Links to related content will be added here.*

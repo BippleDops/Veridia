@@ -1,13 +1,21 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry quest the family reunio quest the family reunio.svg
+aliases:
+- symbol heraldry quest the family reunio quest the family reuniosvg
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-quest-the-family-reunio-quest-the-family-reunio.svg
 
@@ -24,8 +32,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
-- [[12_Research/D&D_References/Quest - The Family Reunio]]
+- [[Faction Symbols & Heraldry]]
+- [[Quest - The Family Reunio]]
 
 ## Notes
 
@@ -36,3 +44,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Priest Faith Crystalsong]]
+- [[High Priestess Celeste]]
+- [[Professor Aldric Crystalweaver]]
+- [[Draft_Content]]
+- [[Shadow Citizenship Act]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-the-whispering-peaks-v1-the-whispering-peaks.svg]]
+- [[04_Resources_Assets_Locations_location-city-anti-smuggling-operations-anti-smuggling-operations.svg]]
+- [[04_Resources_Assets_Locations_location-city-political-intrigue-of-meridian-v1-political-intrigue-of-meridian.svg]]

@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Memory Merchant Valeria.png
+aliases:
+- Memory Merchant Valeriapng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Art/Lore/Memory_Merchant_Valeria.png
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Memory Merchant Valeria]]
+- [[Memory Merchant Valeria]]
 - [[02_Worldbuilding/Lore/Memory Merchant Valeria]]
 
 ## Notes

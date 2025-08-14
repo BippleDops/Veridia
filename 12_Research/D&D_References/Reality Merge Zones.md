@@ -1,25 +1,31 @@
+# Reality Merge Zones
+
 ---
+title: Reality Merge Zones
+type: Lore
 tags:
-- aethermoor
+- lore
 - aquabyssos
+- environmental-hazards
+- merged-zones
 - both worlds
 - both-worlds
-- complete
-- dimensional-bleed
-- environmental-hazards
-- lore
-- magical-phenomena
-- merged-zones
-- planar-boundaries
-- reality-distortion
 - survival-challenges
+- dimensional-bleed
+- reality-distortion
+- research
+- active
+- complete
+- aethermoor
+- magical-phenomena
+- planar-boundaries
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both Worlds
-type: Lore
 category: Environmental Phenomenon
 significance: Critical Infrastructure
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:35.641886+00:00'
 hazard_type: Planar Boundary Distortion
 danger_level: Variable - Moderate to Catastrophic
@@ -27,6 +33,7 @@ scope: Cross-Realm Environmental Zones
 frequency: Rare but Increasing
 detection_difficulty: High
 ---
+
 
 
 
@@ -80,3 +87,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,32 +1,37 @@
 ---
+title: Azure Shard
+type: Npc
+tags:
+- status/complete
+- npc
+- content/lore
+- character
+- immortal
+- content/npc
+- shard-guardian
+- world/aethermoor
+- active
+- complete
+- aethermoor
+- wisdom
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+race: Crystal-Touched Human (Transformed)
+class: Guardian/Oracle/Shard-Keeper
+location: The Skyfall Observatory, Floating Crystal Peaks
+level: 19
 MyCategory: Unknown
 MyContainer: None
 alignment: Lawful Good (Cosmic Perspective)
-class: Guardian/Oracle/Shard-Keeper
-created: '2025-08-08'
 created_by: auto-stub
 faction: The Seven Shard Guardians
-level: 19
-location: The Skyfall Observatory, Floating Crystal Peaks
 obsidianUIMode: preview
-race: Crystal-Touched Human (Transformed)
-status: complete
 status_condition: Active, Merged with Shard
-tags:
-- aethermoor
-- complete
-- content/lore
-- content/npc
-- immortal
-- npc
-- shard-guardian
-- status/complete
-- wisdom
-- world/aethermoor
-type: Npc
 updated: '2025-08-13T12:34:17.639328+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait
@@ -112,7 +117,13 @@ Azure Shard is both a person and an artifact—the human guardian who has become
 - Can maintain conversations without overwhelming presence
 - Still obviously supernatural but non-threatening
 
-## Personality and Nature
+## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more withdrawn
+- **When Pleased**: Shows open joy
+- **In Conflict**: Tends toward confrontation
+ and Nature
 
 ### Core Traits
 - **Cosmically Patient**: Thinks in terms of centuries and millennia
@@ -260,6 +271,16 @@ Azure Shard is both a person and an artifact—the human guardian who has become
 - Plan for potential Crown reunification
 - Azure often serves as mediator due to her detached perspective
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Cold and distant
+
+**Speech Pattern**: Formal and elaborate
+
+**Physical Habits**: Paces while speaking
+
 ## Current Activities and Concerns
 
 ### Immediate Responsibilities
@@ -403,6 +424,104 @@ Azure Shard is both a person and an artifact—the human guardian who has become
 
 *"The sky remembers everything—every cloud that has ever formed, every wind that has ever blown. Nothing is truly lost, only transformed."*
 
+
+
+## Appearance
+
+Azure Shard presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Background
+
+Azure Shard's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Protecting loved ones
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Azure Shard harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Forbidden knowledge
+
+
+
+## Plot Hooks
+
+1. **The Request**: Azure Shard needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Azure Shard stopped or removed
+3. **The Secret**: Information about Azure Shard's past surfaces
+4. **The Alliance**: Opportunity to work with or against Azure Shard
+5. **The Crisis**: Azure Shard is caught in a situation requiring intervention
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 
 ### Using Azure Shard
@@ -467,6 +586,15 @@ Azure Shard is both a person and an artifact—the human guardian who has become
 
 *"I gave up my heart so that the sky might have one. Some days I wonder if that was wisdom or folly. But the storms still answer when I call, and the realm endures another day."*
 
+
+
+
+## Relationship Web
+
+- [[Shadow Citizenship Act]]: *childhood friend*
+- [[The Tidal Council]]: *childhood friend*
+- [[Captain Contraband]]: *former lover*
+- [[The Cerulean Breath]]: *business partner*
 
 ## Connections
 

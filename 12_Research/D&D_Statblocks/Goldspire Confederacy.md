@@ -1,18 +1,24 @@
+# Goldspire Confederacy
+
 ---
+title: Goldspire Confederacy
+type: Lore
 tags:
-- aethermoor
-- complete
-- confederacy
-- crystal-corruption
 - lore
+- crystal-corruption
+- shadow-magic
+- confederacy
 - memory-magic
 - quest
-- shadow-magic
+- research
+- active
+- complete
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.508307+00:00'
 level_range: 3-5
 party_size: 3-6
@@ -21,6 +27,7 @@ MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] View
@@ -719,3 +726,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Goldspire Confederacy|02 Worldbuilding/Places/Goldspire Confederacy]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,26 +1,32 @@
+# Pest Mascot Scc
+
 ---
+title: Pest Mascot Scc
 aliases:
 - Pest Mascot
+type: monster
+tags:
+- both
+- ttrpg-cli/compendium/src/5e/scc
+- monster
+- ttrpg-cli/monster/cr/1-4
+- research
+- world/both
+- ttrpg-cli/monster/type/monstrosity
+- active
+- status/in-progress
+- ttrpg-cli/monster/size/tiny
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- active
-- both
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/scc
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/monstrosity
-- world/both
-type: monster
 updated: '2025-08-13T12:34:05.356572+00:00'
 world: Both
 ---
+
 
 
 
@@ -93,3 +99,8 @@ Legends speak of pest mascot scc as a nexus where past and present converge. Loc
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

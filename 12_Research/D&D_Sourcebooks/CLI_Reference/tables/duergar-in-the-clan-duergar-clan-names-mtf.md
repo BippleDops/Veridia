@@ -1,14 +1,21 @@
+# duergar-in-the-clan-duergar-clan-names-mtf
+
 ---
-created: 2025-08-11
-status: active
+title: duergar in the clan duergar clan names mtf
+type: Group
 tags:
 - content/faction
-- status/in-progress
+- research
 - world/both
-type: Group
+- active
+- status/in-progress
+created: 2025-08-11
+modified: '2025-08-14'
+status: active
 updated: '2025-08-12T23:37:33.324169'
 world: Both
 ---
+
 
 
 
@@ -31,3 +38,8 @@ Legends speak of duergar in the clan duergar clan names mtf as a nexus where pas
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

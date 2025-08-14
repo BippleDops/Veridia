@@ -1,22 +1,29 @@
+# Working Class Routines
+
 ---
+title: Working Class Routines
+type: Social Guide
 tags:
-- both
-- both-realms
-- complete
-- culture
-- daily-life
-- labor
-- routine
-- social guide
-- social-guide
 - working-class
+- both
+- culture
+- both-realms
+- labor
+- social guide
+- research
+- active
+- routine
+- complete
+- social-guide
+- daily-life
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Social Guide
 created_by: claude
-created: '2025-08-12'
 updated: '2025-08-13T04:22:13.903844+00:00'
 ---
+
 
 
 
@@ -576,3 +583,8 @@ Legends speak of Working Class Routines as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

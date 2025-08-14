@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 15   Academy Under Siege
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 15 - Academy Under Siege
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Locations_location-city-ghost-of-dr-thaddeus-brightwater-ghost-of-dr-thaddeus-brightwater.svg]]
+- [[Syndicate War]]
+- [[The Emperor]]
+- [[Senator Marius]]
+- [[Deep Mother Cultist Profiles]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-palace-guardians-palace-guardians.svg]]
+- [[Meridian Undercity]]
+- [[04_Resources_Assets_Locations_location-city-bridge-currentcrosser-bridge-currentcrosser.svg]]

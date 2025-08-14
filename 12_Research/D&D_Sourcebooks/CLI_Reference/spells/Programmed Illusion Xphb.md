@@ -1,27 +1,32 @@
+# Programmed Illusion Xphb
+
 ---
+title: Programmed Illusion Xphb
 aliases:
 - Programmed Illusion
+type: note
+tags:
+- both
+- mechanics/magic
+- research
+- world/both
+- active
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
 classes:
 - Bard
 - Wizard
 - Wizard (Illusionist)
-created: 2025-07-23
 cssclasses: json5e-spell
-modified: 2025-07-23 12:39
 obsidianUIMode: preview
-status: active
-tags:
-- active
-- both
-- mechanics/magic
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-- world/both
-type: note
 updated: '2025-08-13T12:34:06.578806+00:00'
 world: Both
 ---
+
 
 
 # Programmed Illusion
@@ -64,3 +69,8 @@ Legends speak of programmed illusion xphb as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

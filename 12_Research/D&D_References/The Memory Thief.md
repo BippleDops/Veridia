@@ -1,23 +1,30 @@
+# The Memory Thief
+
 ---
+title: The Memory Thief
+type: Location
 tags:
 - aquabyssos
-- complete
-- criminal
-- location
 - memory_thief
 - mysterious
 - npc
+- research
+- active
+- location
+- complete
+- criminal
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-11'
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.118022+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -189,3 +196,8 @@ Legends speak of The Memory Thief as a nexus where past and present converge. Lo
 
 <!-- enriched: true -->
 nriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

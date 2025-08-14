@@ -1,22 +1,29 @@
+# The Bathyal Succession
+
 ---
+title: The Bathyal Succession
+type: Lore
 tags:
-- aquabyssos
-- aquabyssos-history
-- bathyal-zone
-- civil-war
-- complete
-- historical-event
-- historical-events
-- history
 - lore
+- aquabyssos
+- history
+- historical-events
+- bathyal-zone
 - political-conflict
-- royal-succession
-- succession
 - timeline
+- civil-war
 - war
+- historical-event
+- royal-succession
+- research
+- aquabyssos-history
+- active
+- succession
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 category: Political Succession War
 significance: Constitutional Crisis
 time_period: Years 234-267 AS (After Submersion)
@@ -29,7 +36,6 @@ participants:
 - Hadal Council
 outcome: Establishment of Modern Parliamentary System
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 related_entities:
 - '[[The Parliament of Echoes]]'
@@ -38,6 +44,7 @@ related_entities:
 - '[[Emperor Thalassius]]'
 - '[[The Pressure Wars]]'
 ---
+
 
 
 
@@ -701,3 +708,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Master_Lore_Index|Master Lore Index]]
 - [[Aboleth Prime Yoth]]
 - [[Emperor Thalassius]]
+
+
+## Related
+
+*Links to related content will be added here.*

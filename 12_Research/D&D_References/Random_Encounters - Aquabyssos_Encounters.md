@@ -1,19 +1,25 @@
+# Random_Encounters - Aquabyssos_Encounters
+
 ---
 title: Aquabyssos Random Encounters
 type: mechanics
-status: complete
 tags:
 - aquabyssos
-- complete
-- depth-scaled
 - encounters
+- depth-scaled
 - mechanics
 - random-tables
+- research
+- active
 - underwater
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:37.133192+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Aquabyssos Random Encounters
@@ -344,3 +350,8 @@ Legends speak of Aquabyssos Encounters as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

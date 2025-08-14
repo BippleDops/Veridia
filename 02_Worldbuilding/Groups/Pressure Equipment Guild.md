@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Pressure Equipment Guild
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
 
 # Pressure Equipment Guild
 
@@ -24,7 +31,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Depth Effect Quick Reference]]
+- [[Depth Effect Quick Reference]]
 - [[02_Worldbuilding/Lore/Depth Effect Quick Reference]]
 
 ## Notes

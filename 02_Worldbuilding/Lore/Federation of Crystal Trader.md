@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- crystal-enhanced
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
+title: Federation of Crystal Trader
 type: Lore
+tags:
+- lore
+- both
+- content/lore
+- world/both
+- active
+- complete
+- status/in-progress
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.411699+00:00'
 world: Both
 ---
+
 
 
 ## Player-Facing Summary

@@ -1,30 +1,37 @@
+# Captain Rodrigo Ironanchor
+
 ---
+title: Captain Rodrigo Ironanchor
+type: Group
 tags:
-- aethermoor
-- complete
-- faction
-- group
 - iron-fleet
-- mercenary
 - military
 - naval-force
+- faction
+- research
+- active
+- complete
+- mercenary
+- aethermoor
+- group
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+headquarters: '[[The Iron Bastion]]'
 world: Aethermoor
-type: Group
 faction_type: Naval Mercenary Fleet
 alignment: Chaotic Neutral
-headquarters: '[[The Iron Bastion]]'
 leader: '[[Captain Rodrigo Ironanchor]]'
 members: ~1,200 sailors, marines, and support crew
 influence: Maritime (Coastal waters and shipping lanes)
 wealth: Substantial (mercenary contracts and salvage)
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.696552+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] Heraldry
@@ -279,3 +286,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_People_Index|Master People Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

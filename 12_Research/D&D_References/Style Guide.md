@@ -1,12 +1,19 @@
+# Style Guide
+
 ---
+title: Style Guide
 type: Lore
-status: draft
+tags:
+- active
+- research
 created: '2024-01-01'
-updated: '2024-01-01T00:00:00+00:00'
+modified: '2025-08-14'
+status: draft
+updated: 2025-08-13 07:59:50.478235
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.478235
 ---
+
 # Visual Style Guide
 
 - Realms:
@@ -20,3 +27,8 @@ updated: 2025-08-13T07:59:50.478235
 - Vehicles: blueprint cutaways with numbered pins and legend space; no paragraphs.
 - UI: fantasy-themed, high-contrast, readable; short real labels where needed.
 - Negatives: modern signage, sci-fi UI, photoreal CGI, anime, bloom glare, gibberish text.
+
+
+## Related
+
+*Links to related content will be added here.*

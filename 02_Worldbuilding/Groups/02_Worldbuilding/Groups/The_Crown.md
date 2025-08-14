@@ -1,13 +1,24 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: The Crown
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+> [!figure] Asset
+![](04_Resources/Assets/Symbols/symbol-heraldry-the-crown-the-crown.svg)
+
+
 
 # 02_Worldbuilding/Groups/The_Crown
 
@@ -35,3 +46,7 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[04_Resources_Assets_Locations_location-city-marine-druids-v1-marine-druids.svg]]

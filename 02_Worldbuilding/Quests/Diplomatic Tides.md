@@ -1,34 +1,40 @@
+# Diplomatic Tides
+
 ---
+title: Diplomatic Tides
 type: Lore
-status: complete
 tags:
-- combat
-- session-notes
-- crystal-enhanced
-- shadow-touched
-- aquatic
-- aquabyssos
-- complete
-- diplomacy
 - lore
+- aquabyssos
 - multi-faction
+- session-notes
+- diplomacy
+- aquatic
 - negotiation
 - political
+- worldbuilding
 - quest
+- active
+- combat
+- complete
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+location: '[[Parliament of Echoes]], [[The Diplomatic Depths]], [[Deep Embassy]]'
 world: Aquabyssos
 quest_type: Political Negotiation
 level_range: 6-10
-quest_giver: '[[12_Research/D&D_References/Empress Tethys the Ever-Drowning]]'
-location: '[[12_Research/D&D_References/Parliament of Echoes]], [[12_Research/D&D_References/The Diplomatic Depths]],
-  [[12_Research/D&D_References/Deep Embassy]]'
+quest_giver: '[[Empress Tethys the Ever-Drowning]]'
 rewards: 2500 gp, Political Influence, Treaty Benefits, Depth Citizenship
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.469435+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 # Diplomatic Tides
@@ -37,14 +43,14 @@ obsidianUIMode: preview
 
 ## Quest Overview
 
-The first tri-realm diplomatic summit in 300 years brings together representatives from [[12_Research/D&D_References/Aquabyssos]], [[12_Research/D&D_References/Aethermoor]], and the mysterious [[12_Research/D&D_References/Tenebrarum]] to negotiate the groundbreaking [[The Depth Accords|02 Worldbuilding/Quests/The Depth Accords]]. As tensions rise between surface dwellers, shadow-touched beings, and depth inhabitants, the party must serve as neutral facilitators while each faction pursues conflicting agendas that could reshape the relationship between worlds. The stakes couldn't be higher: failure means war across dimensions, while success could usher in an age of unprecedented cooperation—or dangerous interdependence.
+The first tri-realm diplomatic summit in 300 years brings together representatives from [[Aquabyssos]], [[Aethermoor]], and the mysterious [[Tenebrarum]] to negotiate the groundbreaking [[The Depth Accords|02 Worldbuilding/Quests/The Depth Accords]]. As tensions rise between surface dwellers, shadow-touched beings, and depth inhabitants, the party must serve as neutral facilitators while each faction pursues conflicting agendas that could reshape the relationship between worlds. The stakes couldn't be higher: failure means war across dimensions, while success could usher in an age of unprecedented cooperation—or dangerous interdependence.
 
 ## Background
 
 ### The Catalyst
 
 **Why Now?**
-- [[12_Research/D&D_References/Memory Tide Events]] affecting all three realms
+- [[Memory Tide Events]] affecting all three realms
 - Dimensional boundaries weakening due to [[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s activities  
 - Surface world's crystal technology threatening underwater environments
 - Shadow infiltration creating trust issues between all parties
@@ -54,20 +60,20 @@ The first tri-realm diplomatic summit in 300 years brings together representativ
 ### Historical Context
 
 **Previous Relations**
-- Last summit ended in [[12_Research/D&D_References/The War of Forgotten Currents]] 300 years ago
-- [[12_Research/D&D_References/Aquabyssos]] has maintained isolation since
-- [[12_Research/D&D_References/Aethermoor]] considers depths mysterious but valuable
-- [[12_Research/D&D_References/Tenebrarum]] maintains aggressive expansion policy
+- Last summit ended in [[The War of Forgotten Currents]] 300 years ago
+- [[Aquabyssos]] has maintained isolation since
+- [[Aethermoor]] considers depths mysterious but valuable
+- [[Tenebrarum]] maintains aggressive expansion policy
 - No formal diplomatic relations between any pair of realms
 - Trade conducted through intermediaries and smugglers
 
 ### Current Stakes
 
 **What's at Risk**
-- [[12_Research/D&D_References/The Crystalline Wastes]] expansion affecting ocean currents
-- [[12_Research/D&D_References/The Shadow Conspiracy]] using diplomatic chaos for infiltration
+- [[The Crystalline Wastes]] expansion affecting ocean currents
+- [[The Shadow Conspiracy]] using diplomatic chaos for infiltration
 - [[Deep Mother|02 Worldbuilding/Lore/Deep Mother]]'s influence threatening all realms
-- Resource conflicts over [[12_Research/D&D_References/Memory Meadows Black Market]] access
+- Resource conflicts over [[Memory Meadows Black Market]] access
 - Refugee crisis from dimensional instability
 - Potential for three-way war if negotiations fail
 
@@ -79,11 +85,11 @@ The first tri-realm diplomatic summit in 300 years brings together representativ
 
 #### Leadership
 
-- **Chief Negotiator**: [[12_Research/D&D_References/Ambassador Nerida Deepcurrent]] - Experienced diplomat
-- **Military Advisor**: [[12_Research/D&D_References/Commander Tidal Strongcurrent]] - Strategic analyst
-- **Economic Specialist**: [[12_Research/D&D_References/Merchant Prince Coral Goldflow]] - Trade expert
+- **Chief Negotiator**: [[Ambassador Nerida Deepcurrent]] - Experienced diplomat
+- **Military Advisor**: [[Commander Tidal Strongcurrent]] - Strategic analyst
+- **Economic Specialist**: [[Merchant Prince Coral Goldflow]] - Trade expert
 - **Cultural Attaché**: [[12_Research/D&D_Statblocks/High Tidecaller Nerissa]] - Tradition keeper
-- **Security Chief**: [[12_Research/D&D_References/Captain Marina Shieldcurrent]] - Protection specialist
+- **Security Chief**: [[Captain Marina Shieldcurrent]] - Protection specialist
 
 #### Delegation Goals
 
@@ -96,7 +102,7 @@ The first tri-realm diplomatic summit in 300 years brings together representativ
 
 #### Secret Agendas
 
-- **[[12_Research/D&D_References/Empress Tethys the Ever-Drowning]]'s Orders**: Gather intelligence on surface weakness
+- **[[Empress Tethys the Ever-Drowning]]'s Orders**: Gather intelligence on surface weakness
 - **Memory Protection**: Hide evidence of [[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s true nature
 - **Shadow Investigation**: Identify infiltrators in other delegations
 - **Economic Advantage**: Secure favorable trade terms before others realize depth resources' value
@@ -116,11 +122,11 @@ The first tri-realm diplomatic summit in 300 years brings together representativ
 
 #### Leadership
 
-- **Chief Ambassador**: [[12_Research/D&D_References/Lord Reginald Seaworthy]] - Diplomatic veteran
-- **Royal Representative**: [[12_Research/D&D_References/Prince Aurelius Lightbringer]] - Queen's personal envoy
-- **Economic Advisor**: [[12_Research/D&D_References/Zephyr Goldwhisper]] - [[12_Research/D&D_References/Silverscale Consortium]] interests
-- **Military Attaché**: [[12_Research/D&D_References/Captain Thaddeus Blackwater]] - Naval specialist
-- **Magical Consultant**: [[12_Research/D&D_References/Master Artificer Korvin Gearwright]] - Crystal technology expert
+- **Chief Ambassador**: [[Lord Reginald Seaworthy]] - Diplomatic veteran
+- **Royal Representative**: [[Prince Aurelius Lightbringer]] - Queen's personal envoy
+- **Economic Advisor**: [[Zephyr Goldwhisper]] - [[Silverscale Consortium]] interests
+- **Military Attaché**: [[Captain Thaddeus Blackwater]] - Naval specialist
+- **Magical Consultant**: [[Master Artificer Korvin Gearwright]] - Crystal technology expert
 
 #### Delegation Goals
 
@@ -133,8 +139,8 @@ The first tri-realm diplomatic summit in 300 years brings together representativ
 
 #### Secret Agendas
 
-- **[[12_Research/D&D_References/Queen Seraphina Lumengarde]]'s Mission**: Assess whether [[12_Research/D&D_References/Aquabyssos]] poses threat to surface
-- **Consortium Plot**: [[12_Research/D&D_References/Silverscale Consortium]] seeks to dominate inter-realm trade
+- **[[Queen Seraphina Lumengarde]]'s Mission**: Assess whether [[Aquabyssos]] poses threat to surface
+- **Consortium Plot**: [[Silverscale Consortium]] seeks to dominate inter-realm trade
 - **Shard Investigation**: Look for additional crystal sources in depths
 - **Shadow Alliance**: Potential partnership with Tenebrarum against common threats
 - **Military Planning**: Assess feasibility of aquatic invasion if needed
@@ -153,11 +159,11 @@ The first tri-realm diplomatic summit in 300 years brings together representativ
 
 #### Leadership
 
-- **Shadow Ambassador**: [[12_Research/D&D_References/Lord Erasmus Voidheart]] - Mysterious diplomatic expert
+- **Shadow Ambassador**: [[Lord Erasmus Voidheart]] - Mysterious diplomatic expert
 - **War Shade**: [[General Darkness Incarnate]] - Military strategist
-- **Economic Wraith**: [[12_Research/D&D_References/Merchant Null Profiteer]] - Shadow economy specialist
-- **Cultural Phantom**: [[12_Research/D&D_References/The Shadow Duchess Duel]] - Traditional representative
-- **Intelligence Void**: [[12_Research/D&D_References/Spy-Master Nonentity]] - Information warfare specialist
+- **Economic Wraith**: [[Merchant Null Profiteer]] - Shadow economy specialist
+- **Cultural Phantom**: [[The Shadow Duchess Duel]] - Traditional representative
+- **Intelligence Void**: [[Spy-Master Nonentity]] - Information warfare specialist
 
 #### Delegation Goals
 
@@ -170,7 +176,7 @@ The first tri-realm diplomatic summit in 300 years brings together representativ
 
 #### Secret Agendas
 
-- **[[12_Research/D&D_References/The Shadow Conspiracy]] Expansion**: Using diplomacy to legitimize infiltration
+- **[[The Shadow Conspiracy]] Expansion**: Using diplomacy to legitimize infiltration
 - **Memory Harvesting**: Accessing diplomatic memories for intelligence advantage
 - **Reality Manipulation**: Subtly altering other delegations' perceptions
 - **Deep Mother Alliance**: Secret negotiations with [[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]
@@ -181,14 +187,14 @@ The first tri-realm diplomatic summit in 300 years brings together representativ
 - Expansionist shadows vs. isolationist voids
 - Military shadows want conquest, diplomats prefer infiltration
 - Old shadow nobility vs. new shadow merchants
-- Those loyal to [[12_Research/D&D_References/Shadow Duchess Nyx]] vs. other shadow factions
+- Those loyal to [[Shadow Duchess Nyx]] vs. other shadow factions
 - Fundamental disagreement over whether to reveal true capabilities
 
 ## Act 1: Opening Ceremonies
 
 ### The Arrival
 
-**Location**: [[12_Research/D&D_References/The Diplomatic Depths]] - Neutral meeting ground
+**Location**: [[The Diplomatic Depths]] - Neutral meeting ground
 
 **The Setting**
 - Underwater conference facility accessible to all realms
@@ -238,18 +244,18 @@ The first tri-realm diplomatic summit in 300 years brings together representativ
 #### The Memory Incident
 
 **Day 2 Crisis**
-- [[12_Research/D&D_References/Tenebrarum]] delegation accidentally reveals memory-reading capabilities
-- [[12_Research/D&D_References/Aquabyssos]] demands privacy protections
-- [[12_Research/D&D_References/Aethermoor]] threatens to withdraw
+- [[Tenebrarum]] delegation accidentally reveals memory-reading capabilities
+- [[Aquabyssos]] demands privacy protections
+- [[Aethermoor]] threatens to withdraw
 - Party must mediate without revealing their own knowledge of memory magic
 - Solution affects trust levels for entire negotiation
 
 #### The Resource Dispute
 
 **Day 3 Challenge**
-- Discovery that [[12_Research/D&D_References/Depth Crystals]] are more valuable than surface crystals
-- [[12_Research/D&D_References/Silverscale Consortium]] attempts private deal with [[12_Research/D&D_References/Aquabyssos]]
-- [[12_Research/D&D_References/Tenebrarum]] offers shadow-enhanced crystal production
+- Discovery that [[Depth Crystals]] are more valuable than surface crystals
+- [[Silverscale Consortium]] attempts private deal with [[Aquabyssos]]
+- [[Tenebrarum]] offers shadow-enhanced crystal production
 - Military implications change strategic balance
 - Party must prevent economic war from derailing peace talks
 
@@ -302,14 +308,14 @@ The first tri-realm diplomatic summit in 300 years brings together representativ
 - Protection against piracy and shadow-theft
 
 **Resource Sharing**:
-- [[12_Research/D&D_References/Aether Crystals]] vs. [[12_Research/D&D_References/Depth Crystals]] vs. [[12_Research/D&D_References/Shadow Essences]]
+- [[Aether Crystals]] vs. [[Depth Crystals]] vs. [[Shadow Essences]]
 - Knowledge and technology transfer agreements
 - Joint development projects
 - Environmental protection requirements
 - Equitable distribution of benefits
 
 **Economic Challenges**:
-- [[12_Research/D&D_References/Silverscale Consortium]] attempts to dominate trade
+- [[Silverscale Consortium]] attempts to dominate trade
 - Shadow merchants using memory-trading for unfair advantages
 - Aquabyssos isolationist factions sabotaging economic integration
 - Currency manipulation by various parties
@@ -347,10 +353,10 @@ The first tri-realm diplomatic summit in 300 years brings together representativ
 **Days 5-7: Resource Rights**
 
 **The Issue**: Discovery that underwater crystals are far more powerful than surface varieties
-- [[12_Research/D&D_References/Aethermoor]] demands access for "mutual benefit"
-- [[12_Research/D&D_References/Aquabyssos]] claims exclusive ownership
-- [[12_Research/D&D_References/Tenebrarum]] offers shadow-enhancement for mining operations
-- [[12_Research/D&D_References/Silverscale Consortium]] attempts private negotiations
+- [[Aethermoor]] demands access for "mutual benefit"
+- [[Aquabyssos]] claims exclusive ownership
+- [[Tenebrarum]] offers shadow-enhancement for mining operations
+- [[Silverscale Consortium]] attempts private negotiations
 - Military implications could shift realm power balance
 
 **Negotiation Challenges**:
@@ -362,18 +368,18 @@ The first tri-realm diplomatic summit in 300 years brings together representativ
 
 **Possible Outcomes**:
 1. **Joint Development**: Shared mining with agreed benefit splits
-2. **Exclusive Rights**: [[12_Research/D&D_References/Aquabyssos]] maintains control, provides limited export
-3. **Shadow Partnership**: [[12_Research/D&D_References/Tenebrarum]] shadow-enhancement for increased production
-4. **Surface Buyout**: [[12_Research/D&D_References/Silverscale Consortium]] gains access through massive payment
+2. **Exclusive Rights**: [[Aquabyssos]] maintains control, provides limited export
+3. **Shadow Partnership**: [[Tenebrarum]] shadow-enhancement for increased production
+4. **Surface Buyout**: [[Silverscale Consortium]] gains access through massive payment
 5. **Technological Exchange**: Knowledge sharing instead of resource access
 
 #### The Memory Protection Treaty
 
 **Days 8-10: Privacy Rights**
 
-**The Issue**: [[12_Research/D&D_References/Tenebrarum]]'s memory-reading capabilities create trust problems
+**The Issue**: [[Tenebrarum]]'s memory-reading capabilities create trust problems
 - All delegations demand protection from mental intrusion
-- [[12_Research/D&D_References/Tenebrarum]] claims memory-reading is natural communication method
+- [[Tenebrarum]] claims memory-reading is natural communication method
 - Past diplomatic meetings may have been compromised
 - Current negotiations might be influenced by memory manipulation
 - Future relations require trust without mind-reading
@@ -397,9 +403,9 @@ The first tri-realm diplomatic summit in 300 years brings together representativ
 **Days 11-13: Existential Threat**
 
 **The Issue**: [[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s growing influence threatens all realms
-- [[12_Research/D&D_References/Aquabyssos]] reluctant to admit they can't control her
-- [[12_Research/D&D_References/Aethermoor]] fears she might invade surface world
-- [[12_Research/D&D_References/Tenebrarum]] may be secretly allied with or influenced by her
+- [[Aquabyssos]] reluctant to admit they can't control her
+- [[Aethermoor]] fears she might invade surface world
+- [[Tenebrarum]] may be secretly allied with or influenced by her
 - Joint action required but trust levels insufficient
 - Each realm's different capabilities needed for effective response
 
@@ -427,8 +433,8 @@ The first tri-realm diplomatic summit in 300 years brings together representativ
 
 Multiple crises occur simultaneously:
 
-1. **The Assassination Attempt**: [[12_Research/D&D_References/Tenebrarum]] delegation member found dead, apparently murdered
-2. **The Economic Bomb**: [[12_Research/D&D_References/Silverscale Consortium]] attempts hostile takeover of [[12_Research/D&D_References/Aquabyssos]] resources
+1. **The Assassination Attempt**: [[Tenebrarum]] delegation member found dead, apparently murdered
+2. **The Economic Bomb**: [[Silverscale Consortium]] attempts hostile takeover of [[Aquabyssos]] resources
 3. **The Memory Leak**: Sensitive diplomatic memories accidentally shared, revealing secret agendas
 4. **The Deep Mother Manifestation**: [[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s influence detected in conference facility
 5. **The Military Mobilization**: All three realms' armed forces preparing for conflict
@@ -437,7 +443,7 @@ Multiple crises occur simultaneously:
 
 The party must:
 - **Investigate the Murder**: Determine if it was assassination or accident
-- **Counter Economic Warfare**: Prevent [[12_Research/D&D_References/Silverscale Consortium]] from destroying negotiations
+- **Counter Economic Warfare**: Prevent [[Silverscale Consortium]] from destroying negotiations
 - **Manage Information Crisis**: Help delegations deal with revealed secrets
 - **Contain Deep Mother Influence**: Prevent her from sabotaging the summit
 - **De-escalate Military Tensions**: Stop three-way war from breaking out
@@ -454,7 +460,7 @@ The party must:
 - Counter [[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s sabotage
 
 **Outcomes**:
-- **[[12_Research/D&D_References/The Depth Accords]]** signed by all parties
+- **[[The Depth Accords]]** signed by all parties
 - Formal diplomatic relations established
 - Joint response to [[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] threat
 - Trade networks benefit all realms
@@ -495,15 +501,15 @@ The party must:
 #### The Shadow Victory
 
 **Requirements**:
-- [[12_Research/D&D_References/Tenebrarum]] manipulation succeeds
+- [[Tenebrarum]] manipulation succeeds
 - Other realms unknowingly agree to shadow-favorable terms
 - Party fails to detect or counter shadow influence
-- [[12_Research/D&D_References/The Shadow Conspiracy]] achieves major expansion
+- [[The Shadow Conspiracy]] achieves major expansion
 
 **Outcomes**:
-- Treaties signed but heavily favor [[12_Research/D&D_References/Tenebrarum]]
+- Treaties signed but heavily favor [[Tenebrarum]]
 - Shadow influence begins spreading through other realms
-- [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]] slowly lose autonomy
+- [[Aquabyssos]] and [[Aethermoor]] slowly lose autonomy
 - Party may not realize extent of defeat until later
 - Campaign tone shifts to resistance against shadow expansion
 
@@ -511,27 +517,27 @@ The party must:
 
 ### Key Negotiators
 
-- **[[12_Research/D&D_References/Ambassador Nerida Deepcurrent]]** - Aquabyssos chief negotiator
-- **[[12_Research/D&D_References/Lord Reginald Seaworthy]]** - Aethermoor head diplomat
-- **[[12_Research/D&D_References/Lord Erasmus Voidheart]]** - Tenebrarum shadow ambassador
-- **[[12_Research/D&D_References/Commander Tidal Strongcurrent]]** - Military advisor seeking practical solutions
-- **[[12_Research/D&D_References/Zephyr Goldwhisper]]** - Economic interests complicating negotiations
+- **[[Ambassador Nerida Deepcurrent]]** - Aquabyssos chief negotiator
+- **[[Lord Reginald Seaworthy]]** - Aethermoor head diplomat
+- **[[Lord Erasmus Voidheart]]** - Tenebrarum shadow ambassador
+- **[[Commander Tidal Strongcurrent]]** - Military advisor seeking practical solutions
+- **[[Zephyr Goldwhisper]]** - Economic interests complicating negotiations
 
 ### Behind-the-Scenes Players
 
-- **[[12_Research/D&D_References/Empress Tethys the Ever-Drowning]]** - Aquabyssos ruler with hidden agenda
-- **[[12_Research/D&D_References/Queen Seraphina Lumengarde]]** - Surface ruler monitoring negotiations
-- **[[12_Research/D&D_References/Shadow Duchess Nyx]]** - Shadow realm power broker
+- **[[Empress Tethys the Ever-Drowning]]** - Aquabyssos ruler with hidden agenda
+- **[[Queen Seraphina Lumengarde]]** - Surface ruler monitoring negotiations
+- **[[Shadow Duchess Nyx]]** - Shadow realm power broker
 - **[[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]** - Manipulating events for unknown purpose
-- **[[12_Research/D&D_References/Master Facilitator Neutral]]** - Conference organizer trying to maintain peace
+- **[[Master Facilitator Neutral]]** - Conference organizer trying to maintain peace
 
 ### Supporting Characters
 
-- **[[12_Research/D&D_References/Translator Marina Polyglot]]** - Essential for inter-realm communication
-- **[[12_Research/D&D_References/Security Chief Marcus Allguard]]** - Responsible for conference safety
-- **[[12_Research/D&D_References/Cultural Advisor Sarah Bridgekeeper]]** - Helps navigate cultural misunderstandings
+- **[[Translator Marina Polyglot]]** - Essential for inter-realm communication
+- **[[Security Chief Marcus Allguard]]** - Responsible for conference safety
+- **[[Cultural Advisor Sarah Bridgekeeper]]** - Helps navigate cultural misunderstandings
 - **[[Economic Analyst David Numbercruncher]]** - Provides financial expertise
-- **[[12_Research/D&D_References/Protocol Master Elena Etiquette]]** - Ensures diplomatic propriety
+- **[[Protocol Master Elena Etiquette]]** - Ensures diplomatic propriety
 
 ## Rewards & Consequences
 
@@ -575,7 +581,7 @@ The party must:
 ### Investigation Challenges
 
 - **Murder Mystery**: Solving the assassination attempt
-- **Economic Espionage**: Uncovering [[12_Research/D&D_References/Silverscale Consortium]] plot
+- **Economic Espionage**: Uncovering [[Silverscale Consortium]] plot
 - **Memory Analysis**: Investigating leaked diplomatic memories
 - **Deep Mother Detection**: Finding signs of her influence
 - **Shadow Infiltration**: Identifying Tenebrarum agents
@@ -617,35 +623,35 @@ The party must:
 
 ### Key NPCs
 
-- **[[12_Research/D&D_References/Empress Tethys the Ever-Drowning]]** - Quest giver
-- **[[12_Research/D&D_References/Ambassador Nerida Deepcurrent]]** - Primary negotiator
-- **[[12_Research/D&D_References/Lord Reginald Seaworthy]]** - Diplomatic counterpart
-- **[[12_Research/D&D_References/Zephyr Goldwhisper]]** - Economic complication
+- **[[Empress Tethys the Ever-Drowning]]** - Quest giver
+- **[[Ambassador Nerida Deepcurrent]]** - Primary negotiator
+- **[[Lord Reginald Seaworthy]]** - Diplomatic counterpart
+- **[[Zephyr Goldwhisper]]** - Economic complication
 - **[[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]** - Hidden threat
 
 ### Related Locations
 
-- **[[12_Research/D&D_References/The Diplomatic Depths]]** - Neutral conference facility
-- **[[12_Research/D&D_References/Parliament of Echoes]]** - Aquabyssos political center
-- **[[12_Research/D&D_References/Deep Embassy]]** - Diplomatic compound
-- **[[12_Research/D&D_References/The Neutral Zones]]** - Meeting areas for sensitive discussions
-- **[[12_Research/D&D_References/Conference Security Center]]** - Protection and monitoring facility
+- **[[The Diplomatic Depths]]** - Neutral conference facility
+- **[[Parliament of Echoes]]** - Aquabyssos political center
+- **[[Deep Embassy]]** - Diplomatic compound
+- **[[The Neutral Zones]]** - Meeting areas for sensitive discussions
+- **[[Conference Security Center]]** - Protection and monitoring facility
 
 ### Associated Quests
 
 - **[[The Depth Accords|02 Worldbuilding/Quests/The Depth Accords]]** - Main treaty being negotiated
 - **[[Quest - Foreign Interests|02 Worldbuilding/Quests/Quest Foreign Interests]]** - Parallel surface diplomacy
-- **[[12_Research/D&D_References/Quest - The Deep Mother Situation]]** - Major threat requiring cooperation
-- **[[12_Research/D&D_References/Quest - Economic Integration]]** - Trade relationship development
+- **[[Quest - The Deep Mother Situation]]** - Major threat requiring cooperation
+- **[[Quest - Economic Integration]]** - Trade relationship development
 - **[[02_Worldbuilding/Groups/Quest - Cultural Exchang|02 Worldbuilding/Groups/Quest Cultural Exchang]]** - Inter-realm understanding
 
 ### Important Items
 
-- **[[12_Research/D&D_References/The Draft Accords]]** - Proposed treaty documents  
-- **[[12_Research/D&D_References/Diplomatic Immunity Tokens]]** - Protection for negotiators
-- **[[12_Research/D&D_References/Memory Privacy Devices]]** - Protection against mental intrusion
-- **[[12_Research/D&D_References/Translation Matrices]]** - Inter-realm communication devices
-- **[[12_Research/D&D_References/Crisis Communication Array]]** - Emergency contact systems
+- **[[The Draft Accords]]** - Proposed treaty documents  
+- **[[Diplomatic Immunity Tokens]]** - Protection for negotiators
+- **[[Memory Privacy Devices]]** - Protection against mental intrusion
+- **[[Translation Matrices]]** - Inter-realm communication devices
+- **[[Crisis Communication Array]]** - Emergency contact systems
 
 ---
 
@@ -655,7 +661,7 @@ The party must:
 ## Connections
 
 - [[12_Research/D&D_Statblocks/Rescue Senator Glaucus]]
-- [[12_Research/D&D_References/Aquabyssos]]
+- [[Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -718,7 +724,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Aquabyssos]]
-- [[12_Research/D&D_References/Tenebrarum]]
-- [[12_Research/D&D_References/Memory Meadows Black Market]]
-- [[12_Research/D&D_References/The Depth Accords]]
+- [[Aquabyssos]]
+- [[Tenebrarum]]
+- [[Memory Meadows Black Market]]
+- [[The Depth Accords]]

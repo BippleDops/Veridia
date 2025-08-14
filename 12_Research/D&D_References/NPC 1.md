@@ -1,15 +1,21 @@
+# NPC 1
+
 ---
-tags:
-- active
-- both
-- lore
-- note
+title: NPC 1
 type: Lore
-world: Both
-status: active
+tags:
+- lore
+- both
+- research
+- active
+- note
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:35.444732+00:00'
 ---
+
 
 
 
@@ -47,3 +53,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[New Session]]
+
+
+## Related
+
+*Links to related content will be added here.*

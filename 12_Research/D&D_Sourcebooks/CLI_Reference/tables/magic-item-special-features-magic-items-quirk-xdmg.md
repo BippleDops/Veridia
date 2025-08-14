@@ -1,20 +1,25 @@
+# magic-item-special-features-magic-items-quirk-xdmg
+
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-- active
-- both
-- note
-- ttrpg-cli/compendium/src/5e/xdmg
+title: magic item special features magic items quirk xdmg
 aliases:
 - Magic Item Special Features; Magic Item's Quirk
 type: note
+tags:
+- both
+- research
+- active
+- note
+- ttrpg-cli/compendium/src/5e/xdmg
 created: 2025-07-23
-updated: '2025-08-13T01:18:31.609360+00:00'
-modified: 2025-07-23 12:39
-world: Both
+modified: '2025-08-14'
 status: active
+obsidianUIMode: preview
+cssclasses: json5e-note
+updated: '2025-08-13T01:18:31.609360+00:00'
+world: Both
 ---
+
 
 # Magic Item Special Features; Magic Item's Quirk
 *Source: Dungeon Master's Guide (2024) p. 222* 
@@ -54,3 +59,8 @@ Legends speak of magic item special features magic items quirk xdmg as a nexus w
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

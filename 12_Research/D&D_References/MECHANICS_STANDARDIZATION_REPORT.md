@@ -1,19 +1,25 @@
+# MECHANICS_STANDARDIZATION_REPORT
+
 ---
 title: Mechanics Standardization Report
 type: Documentation
-status: complete
 tags:
+- documentation
 - both
+- standardization
+- mechanics
 - both-worlds
+- research
+- active
 - changelog
 - complete
-- documentation
-- mechanics
-- standardization
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:37.123082+00:00'
 world: Both
 ---
+
 
 
 # Mechanics Standardization Report
@@ -275,3 +281,7 @@ For reference when using older mechanics files:
 ---
 
 *This report serves as the permanent record of the standardization process and should be referenced for any future mechanical changes or additions to the campaign systems.*
+
+## Related
+
+*Links to related content will be added here.*

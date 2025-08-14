@@ -1,14 +1,20 @@
+# Screaming Gardens - Songwood Grove
+
 ---
-updated: '2025-08-13T01:18:36.248651+00:00'
-created: '2025-08-11'
+title: Screaming Gardens   Songwood Grove
+type: location
 tags:
 - aquabyssos
 - category/place
-- complete
+- research
+- active
 - location
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
+updated: '2025-08-13T01:18:36.248651+00:00'
 world: Aquabyssos
-type: location
 obsidianUIMode: preview
 accessibility:
   screen_reader_summary: Screaming Gardens - Songwood Grove is a notable location
@@ -23,6 +29,7 @@ accessibility:
   - X-Card
   - Open Door
 ---
+
 
 
 
@@ -90,3 +97,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
+
+
+## Related
+
+*Links to related content will be added here.*

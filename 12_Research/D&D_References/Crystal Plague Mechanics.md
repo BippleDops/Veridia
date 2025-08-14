@@ -1,18 +1,25 @@
+# Crystal Plague Mechanics
+
 ---
-created: '2025-08-12'
-obsidianUIMode: preview
-status: complete
+title: Crystal Plague Mechanics
+type: Mechanics
 tags:
 - aquabyssos
-- complete
-- content/mechanics
-- mechanics
 - status/complete
+- mechanics
+- research
+- active
+- complete
 - world/aquabyssos
-type: Mechanics
+- content/mechanics
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.766480+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -74,3 +81,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,18 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Player Handout Aquabyssos Submarines
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
+- aquabyssos
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Handouts/Ships/Player_Handout_Aquabyssos_Submarines
 
@@ -24,11 +29,11 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Vehicles_Index]]
-- [[12_Research/D&D_References/Vehicles_Index]]
-- [[12_Research/D&D_References/Vehicles - Vehicles Index]]
-- [[12_Research/D&D_References/Vehicles - Vehicles Index]]
-- [[12_Research/D&D_References/Aquabyssos_Session_01]]
+- [[Vehicles_Index]]
+- [[Vehicles_Index]]
+- [[Vehicles - Vehicles Index]]
+- [[Vehicles - Vehicles Index]]
+- [[Aquabyssos_Session_01]]
 
 ## Notes
 

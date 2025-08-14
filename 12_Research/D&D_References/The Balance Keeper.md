@@ -1,16 +1,22 @@
+# The Balance Keeper
+
 ---
-tags:
-- active
-- both aethermoor & aquabyssos
-- both-aethermoor-&-aquabyssos
-- location
+title: The Balance Keeper
 type: Location
-world: Both Aethermoor & Aquabyssos
-status: active
+tags:
+- research
+- both aethermoor & aquabyssos
+- active
+- location
+- both-aethermoor-&-aquabyssos
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both Aethermoor & Aquabyssos
 updated: '2025-08-13T01:18:36.421413+00:00'
 danger_level: Moderate
 ---
+
 
 
 
@@ -64,3 +70,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Void Watchers]]
+
+
+## Related
+
+*Links to related content will be added here.*

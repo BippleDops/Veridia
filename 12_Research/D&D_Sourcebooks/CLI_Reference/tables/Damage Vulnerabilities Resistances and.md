@@ -1,23 +1,28 @@
+# Damage Vulnerabilities Resistances and
+
 ---
+title: Damage Vulnerabilities Resistances and
 aliases:
 - Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Points Based
   on Resistances and Immunities
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- active
-- both
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/dmg
-- world/both
 type: note
+tags:
+- both
+- research
+- world/both
+- active
+- note
+- ttrpg-cli/compendium/src/5e/dmg
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:03.558468+00:00'
 world: Both
 ---
+
 
 
 # Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Points Based on Resistances and Immunities
@@ -52,3 +57,8 @@ Legends speak of damage vulnerabilities resistances and immunities effective hit
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

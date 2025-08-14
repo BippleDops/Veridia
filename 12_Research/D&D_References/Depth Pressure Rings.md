@@ -1,26 +1,33 @@
+# Depth Pressure Rings
+
 ---
+title: Depth Pressure Rings
+type: Item
 tags:
 - aquabyssos
-- common-magic
-- complete
-- item
 - magical-item
-- magical_item
 - pressure-adaptation
+- magical_item
+- research
 - underwater-gear
+- active
+- complete
+- common-magic
+- item
+created: '2025-08-10'
+modified: '2025-08-14'
 status: complete
-world: Aquabyssos
-type: Item
-item_type: Environmental Adaptation Ring
 rarity: Common
+world: Aquabyssos
+item_type: Environmental Adaptation Ring
 requires_attunement: 'No'
 affiliation: Available Throughout Aquabyssos
 current_location: Common Throughout Underwater Communities
 danger_level: 1
 created_by: Claude
-created: '2025-08-10'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 # Depth Pressure Rings
@@ -374,3 +381,8 @@ Legends speak of Depth Pressure Rings as a nexus where past and present converge
 - A map overlay reveals a hidden approach to Depth Pressure Rings active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

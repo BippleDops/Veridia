@@ -1,30 +1,37 @@
+# System Cli Spells School Necromancy
+
 ---
-complexity: Fundamental to Forbidden
+title: System Cli Spells School Necromancy
+type: Lore
+tags:
+- lore
+- status/complete
+- world/aquabyssos
+- mechanics/magic
+- both worlds
+- content/lore
+- world/both
+- research
+- death
+- necromancy
+- active
+- complete
+- undeath
+- content/mechanics
+- world/aethermoor
+- life-force
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+complexity: Fundamental to Forbidden
 created_by: auto-stub
 focus: Death, Undeath, and Life Force Magic
 practitioners: Death speakers, life mages, preservers
 school: Necromancy
-status: complete
-tags:
-- both worlds
-- complete
-- content/lore
-- content/mechanics
-- death
-- life-force
-- lore
-- mechanics/magic
-- necromancy
-- status/complete
-- undeath
-- world/aethermoor
-- world/aquabyssos
-- world/both
-type: Lore
 updated: '2025-08-13T12:34:16.187952+00:00'
 world: Both Worlds
 ---
+
 
 
 
@@ -299,3 +306,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

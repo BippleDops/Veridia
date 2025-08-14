@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: creature creature storm giant quintessent mpmm storm giant quintessent mpmm.png
+aliases:
+- creature creature storm giant quintessent mpmm storm giant quintessent mpmmpng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Creatures/creature-creature-storm-giant-quintessent-mpmm-storm-giant-quintessent-mpmm.png
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Creatures Gallery]]
+- [[Creatures Gallery]]
 - [[12_Research/D&D_Sourcebooks/CLI_Reference/bestiary/giant/storm-giant-quintessent-mpmm]]
 - [[12_Research/D&D_Sourcebooks/CLI_Reference/bestiary/giant/Storm Giant Quintessent Mpmm]]
 

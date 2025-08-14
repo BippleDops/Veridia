@@ -1,6 +1,23 @@
+# friends-xphb
+
 ---
+title: friends xphb
 aliases:
 - Friends
+type: note
+tags:
+- mechanics/magic
+- content/lore
+- world/both
+- research
+- active
+- campaign/arc
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
 classes:
 - Bard
 - Bard (College of Lore)
@@ -9,23 +26,12 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-created: 2025-07-23
 cssclasses: json5e-spell
-modified: 2025-07-23 12:39
 obsidianUIMode: preview
-status: active
-tags:
-- campaign/arc
-- content/lore
-- mechanics/magic
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-- world/both
-type: note
 updated: '2025-08-12T23:37:36.407762'
 world: Both
 ---
+
 
 # Friends
 *cantrip, Enchantment*  
@@ -63,3 +69,8 @@ Legends speak of friends xphb as a nexus where past and present converge. Locals
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

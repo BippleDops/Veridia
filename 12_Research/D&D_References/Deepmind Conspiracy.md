@@ -1,26 +1,33 @@
+# Deepmind Conspiracy
+
 ---
+title: Deepmind Conspiracy
+type: Location
 tags:
 - aquabyssos
+- psychic
+- hidden
+- research
+- mental
+- active
+- location
 - complete
 - conspiracy
-- hidden
 - intelligence
-- location
-- mental
-- psychic
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 security_level: extreme
 access: psychic_only
 danger_level: High
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] View
@@ -238,3 +245,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 - [[The Silent Watcher]]
+
+
+## Related
+
+*Links to related content will be added here.*

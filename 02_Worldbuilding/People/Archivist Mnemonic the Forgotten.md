@@ -1,28 +1,34 @@
 ---
+title: Archivist Mnemonic the Forgotten
+type: Npc
+tags:
+- aquabyssos
+- status/complete
+- forgotten
+- npc
+- deep-mother
+- content/npc
+- character
+- active
+- divine-servant
+- complete
+- world/aquabyssos
+- memory-keeper
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+race: Human (Memory-Touched)
+class: Unknown
+location: '[[The Archive of Unremembered Things]] - The Forgetting Vaults'
 affiliation: '[[The Archive of Unremembered Things]]'
 age: Unknown (memory fragments suggest centuries)
 cr: '5'
-created: '2025-08-09'
 created_by: auto-stub
-location: '[[The Archive of Unremembered Things]] - The Forgetting Vaults'
-race: Human (Memory-Touched)
 role: Keeper of Lost Memories
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/npc
-- deep-mother
-- divine-servant
-- forgotten
-- memory-keeper
-- npc
-- status/complete
-- world/aquabyssos
-type: Npc
 updated: '2025-08-13T12:34:17.492986+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -200,6 +206,122 @@ Archivist Mnemonic exists in a paradoxical state—he remembers everything that 
 - Links individual psychology to cosmic purposes
 - Represents themes of trauma, healing, and the value of both memory and forgetting
 - Bridge between personal identity and collective history
+
+
+
+## Appearance
+
+Archivist Mnemonic the Forgotten presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Creative, creative, curious
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Seeking redemption
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Archivist Mnemonic the Forgotten harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Stolen identity
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Deep and resonant
+
+**Speech Pattern**: Casual and relaxed
+
+**Physical Habits**: Remains perfectly still
+
+## Current Activities
+
+Archivist Mnemonic the Forgotten is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Archivist Mnemonic the Forgotten needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Archivist Mnemonic the Forgotten stopped or removed
+3. **The Secret**: Information about Archivist Mnemonic the Forgotten's past surfaces
+4. **The Alliance**: Opportunity to work with or against Archivist Mnemonic the Forgotten
+5. **The Crisis**: Archivist Mnemonic the Forgotten is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 - Perfect source for revealing suppressed plot information
@@ -540,6 +662,122 @@ Multiple factions want to control or destroy the Archive. Mnemonic must choose b
 
 ---
 
+
+
+## Appearance
+
+Archivist Mnemonic the Forgotten presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Creative, creative, curious
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Seeking redemption
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Archivist Mnemonic the Forgotten harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Stolen identity
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Deep and resonant
+
+**Speech Pattern**: Casual and relaxed
+
+**Physical Habits**: Remains perfectly still
+
+## Current Activities
+
+Archivist Mnemonic the Forgotten is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Archivist Mnemonic the Forgotten needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Archivist Mnemonic the Forgotten stopped or removed
+3. **The Secret**: Information about Archivist Mnemonic the Forgotten's past surfaces
+4. **The Alliance**: Opportunity to work with or against Archivist Mnemonic the Forgotten
+5. **The Crisis**: Archivist Mnemonic the Forgotten is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Perfect source for revealing suppressed plot information
 - Can provide memory-based services to party members
@@ -551,6 +789,15 @@ Multiple factions want to control or destroy the Archive. Mnemonic must choose b
 - **Character Development**: His search for identity can parallel party members' character growth
 - **Campaign Integration**: Archive serves as neutral ground and information source for multiple faction storylines
 - **Philosophical Themes**: Explores questions of identity, memory, and the value of both remembering and forgetting
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-harbor-master-s-tower-harbor-master-s-tower.png]]: *secret ally*
+- [[Captain Prism-Shield Valeria]]: *business partner*
+- [[The Verdant Accord]]: *debt holder*
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-sterling-lightshield-captain-sterling-lightshield.svg]]: *debt holder*
 
 ## Connections
 

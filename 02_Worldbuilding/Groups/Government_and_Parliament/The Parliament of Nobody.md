@@ -1,29 +1,35 @@
 ---
+title: The Parliament of Nobody
+type: Faction
+tags:
+- aquabyssos
+- status/complete
+- content/faction
+- faction
+- political
+- organization
+- active
+- complete
+- world/aquabyssos
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Null Chamber]]'
+membership: Unknown
 MyCategory: Unknown
 MyContainer: None
 alignment: Chaotic Neutral
-created: '2025-08-08'
 created_by: auto-stub
 faction_type: Shadow Government
-headquarters: '[[The Null Chamber]]'
 influence: City-wide (Aquabyssos)
 leader: '[[The Speaker of Silence]]'
 members: Unknown - estimated 200+ active representatives
 obsidianUIMode: preview
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/faction
-- faction
-- political
-- status/complete
-- world/aquabyssos
-type: Faction
 updated: '2025-08-13T12:34:17.415967+00:00'
 wealth: Moderate (funded through information trading)
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry
@@ -403,3 +409,10 @@ Legends speak of The Parliament of Nobody as a nexus where past and present conv
 - [[The Forgetting Bomb]]
 - [[Memory Farmers]]
 - [[Surface Portal Alpha]]
+
+
+## Known Members
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-threshold-captain-threshold.svg]]
+- [[04_Resources_Assets_Locations_location-city-commander-reef-shadowstrike-commander-reef-shadowstrike.svg]]
+- [[04_Resources_Assets_Locations_location-city-master-gardener-sage-harmony-bloomtender-v1-master-gardener-sage-harmony-bloomtender.svg]]

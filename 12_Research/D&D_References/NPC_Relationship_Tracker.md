@@ -1,14 +1,21 @@
+# NPC_Relationship_Tracker
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- player/visual
-- npcs/relationships
-- reference/social
+title: NPC Relationship Tracker
 type: Visual Handout
+tags:
+- npcs/relationships
+- player/visual
+- research
+- active
+- reference/social
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # NPC Relationship Tracker
 ## Personal Connection Map
@@ -199,3 +206,7 @@ RELATIONSHIP DAMAGE:
 *Update this tracker after every significant interaction*
 *Remember: NPCs have their own agendas and relationships*
 *Small gestures often matter more than grand ones*
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,17 +1,23 @@
+# Template-Star-System
+
 ---
+title: Template Star System
+type: Lore
 tags:
-- active
+- lore
 - both
 - category/starsystem
-- lore
+- research
+- active
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 obsidianUIMode: preview
 MyContainer: null
 world: Both
 updated: '2025-08-13T01:18:31.189482+00:00'
-created: '2025-08-11'
-status: active
-type: Lore
 ---
+
 
 
 
@@ -184,3 +190,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Lore/Template_StarSystem_Placeholder.png|02 Worldbuilding/Lore/Template StarSystem Placeholder.png]]
+
+
+## Related
+
+*Links to related content will be added here.*

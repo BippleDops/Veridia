@@ -1,18 +1,25 @@
+# The Merchant's Covenant 3
+
 ---
-created: '2025-08-11'
-status: complete
+title: The Merchant's Covenant 3
+type: Lore
 tags:
+- lore
 - aquabyssos
+- world/aquabyssos
+- content/lore
+- research
+- active
 - campaign/arc
 - complete
-- content/lore
-- lore
 - status/in-progress
-- world/aquabyssos
-type: Lore
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:28.755372+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -54,3 +61,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Angels and Depths]]
 - [[Maelstrom Palace]]
 - [[The Sunken Library of Thalassius]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,24 +1,31 @@
 ---
-created: '2025-08-12'
-status: complete
+title: Shadow Surgery Network
+type: Location
 tags:
-- quest
-- crystal-enhanced
-- shadow-touched
-- aquatic
 - aquabyssos
-- complete
-- content/location
 - facilities
+- status/complete
+- aquatic
+- quest
+- content/location
+- place
+- active
 - location
+- complete
+- world/aquabyssos
 - medical-horror
 - shadow-conspiracy
-- status/complete
-- world/aquabyssos
-type: Location
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 updated: '2025-08-13T12:34:16.609799+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Shadow Surgery Network
@@ -382,15 +389,15 @@ Direct assault on primary facility requires heroes to navigate surgical horrors 
 
 ### Key Figures
 
-#### [[12_Research/D&D_References/The Silhouette Surgeon Prime]]
+#### [[The Silhouette Surgeon Prime]]
 
 The network's chief medical officer and primary architect of shadow surgery techniques. Actually composed of twelve different shadow personalities sharing one body, representing the ultimate evolution of consciousness splicing procedures.
 
 #### [[02_Worldbuilding/People/Dr. Marina Coralheart - Shadow|02 Worldbuilding/People/Dr. Marina Coralheart Shadow]]
 
-A shadow replacement of [[12_Research/D&D_References/Marina-Red-Tide-Coralheart]] who serves as the network's primary liaison with legitimate medical community, using her reputation to recruit unwitting assistants.
+A shadow replacement of [[Marina-Red-Tide-Coralheart]] who serves as the network's primary liaison with legitimate medical community, using her reputation to recruit unwitting assistants.
 
-#### [[12_Research/D&D_References/Vex Shadowthorn]]
+#### [[Vex Shadowthorn]]
 
 Provides funding and political protection for network operations while using surgical services to maintain control over criminal organization through strategic personality modifications.
 
@@ -398,7 +405,7 @@ Provides funding and political protection for network operations while using sur
 
 #### [[Investigate Shadow Surgeons|02 Worldbuilding/Groups/Investigate Shadow Surgeons]]
 
-The legitimate medical organization working to counter shadow surgical procedures, led by [[12_Research/D&D_References/Chief Surgeon Nerissa Tideheart]]. Their research into shadow corruption detection methods poses significant threat to network security.
+The legitimate medical organization working to counter shadow surgical procedures, led by [[Chief Surgeon Nerissa Tideheart]]. Their research into shadow corruption detection methods poses significant threat to network security.
 
 #### The Preservation Society
 
@@ -417,6 +424,27 @@ Supplies network with black market medical equipment, test subjects, and disposa
 ---
 
 *"In the depths of Aquabyssos, where light fails to penetrate, we perform the ultimate surgery - separating who you are from who you could become. The patient always survives the operation. The question is whether they remain themselves afterwards."* - Surgeon Prime's personal notes
+
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
 
 ## DM Notes
 
@@ -457,7 +485,7 @@ Legends speak of Shadow Surgery Network as a nexus where past and present conver
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Shadow Surgery Network]]
+- [[Shadow Surgery Network]]
 
 <!-- enriched: true -->
 
@@ -466,3 +494,97 @@ Legends speak of Shadow Surgery Network as a nexus where past and present conver
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Portraits_portrait-npc-the-scattered-emperor-the-scattered-emperor.svg]]
+- [[04_Resources_Assets_Locations_location-city-memoriam-the-forgotten-continent-v1-memoriam-the-forgotten-continent.svg]]
+- [[Keepers of Memory]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+Shadow Surgery Network is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Shadow Surgery Network
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Shadow Surgery Network was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Shadow Surgery Network:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Shadow Surgery Network
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

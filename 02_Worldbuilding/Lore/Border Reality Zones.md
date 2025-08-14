@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Border Reality Zones
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Border Reality Zones
 
@@ -24,11 +28,11 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Cross-Realm Conspiracy Networks]]
-- [[12_Research/D&D_References/Reality Anchor Network]]
-- [[12_Research/D&D_References/The Transformed Citizens]]
-- [[12_Research/D&D_References/The Transformed Citizens]]
-- [[12_Research/D&D_References/Pressure Point Settlement]]
+- [[Cross-Realm Conspiracy Networks]]
+- [[Reality Anchor Network]]
+- [[The Transformed Citizens]]
+- [[The Transformed Citizens]]
+- [[Pressure Point Settlement]]
 - [[02_Worldbuilding/Lore/The Transformed Citizens]]
 - [[02_Worldbuilding/Lore/The Transformed Citizens]]
 - [[02_Worldbuilding/Places/Reality Anchor Network]]

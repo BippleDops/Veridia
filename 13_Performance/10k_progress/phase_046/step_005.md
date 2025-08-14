@@ -1,9 +1,16 @@
 ---
+title: step 005
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 46
 step: 5
 total_step: 4505
 ---
+
 
 # Phase 46 - Step 5
 

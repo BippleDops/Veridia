@@ -1,38 +1,44 @@
 ---
+title: Parliament of Echoes   Public Gallery
+type: Location
+tags:
+- gallery
+- content/faction
+- content/location
+- democracy
+- access/public
+- parliament
+- shadow-touched
+- session-notes
+- status/complete
+- quest
+- location
+- crystal-enhanced
+- complete
+- observation
+- civic
+- aquabyssos
+- political
+- place
+- active
+- world/aquabyssos
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: 200-800 visitors daily
 MyCategory: Places
 MyContainer: None
-created: '2025-08-08'
 created_by: auto-stub
 danger_level: 1
 government: Parliamentary oversight and citizen access
 location_type: Public Gallery
 obsidianUIMode: preview
 parent_location: Parliament of Echoes
-population: 200-800 visitors daily
-status: complete
-tags:
-- quest
-- session-notes
-- crystal-enhanced
-- shadow-touched
-- access/public
-- aquabyssos
-- civic
-- complete
-- content/faction
-- content/location
-- democracy
-- gallery
-- location
-- observation
-- parliament
-- political
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.912581+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -45,7 +51,7 @@ world: Aquabyssos
 
 ## Overview
 
-The Public Gallery of the [[12_Research/D&D_References/Parliament of Echoes]] represents one of [[12_Research/D&D_References/Aquabyssos]]'s most progressive democratic innovations - a magnificent observation space where citizens can witness their representatives in action and participate in the political process. This architectural marvel, built into the soaring upper reaches of the Parliament complex, provides seating for up to 800 observers while offering unobstructed views of the legislative chambers below.
+The Public Gallery of the [[Parliament of Echoes]] represents one of [[Aquabyssos]]'s most progressive democratic innovations - a magnificent observation space where citizens can witness their representatives in action and participate in the political process. This architectural marvel, built into the soaring upper reaches of the Parliament complex, provides seating for up to 800 observers while offering unobstructed views of the legislative chambers below.
 
 More than a mere spectator area, the Public Gallery serves as the beating heart of Aquabyssos democracy, where public opinion is shaped, political movements are born, and the ancient tradition of citizen engagement with government continues to evolve. The Gallery's unique acoustic design allows visitors to hear every word spoken in the chambers below, while advanced magical dampening fields ensure that disruptions from above cannot interfere with parliamentary proceedings.
 
@@ -68,21 +74,21 @@ The Gallery is constructed as a magnificent amphitheater with seven ascending ti
 - Enhanced comfort with padded seats and personal writing surfaces
 - Priority access during debates affecting trade and commerce
 - Semi-private entrance reducing interaction with general public
-- Used by [[12_Research/D&D_References/The Deep Merchants Guild]], [[12_Research/D&D_References/Artisan Collective]], and similar organizations
+- Used by [[The Deep Merchants Guild]], [[Artisan Collective]], and similar organizations
 
 **Scholars' Tier (Level 3)** - 150 seats
 - Academic seating for researchers, students, and educational groups
 - Equipped with note-taking surfaces and reference material storage
 - Enhanced acoustic systems for detailed study of proceedings
 - Access to transcription services and parliamentary archives
-- Frequently occupied by students from the [[12_Research/D&D_References/Imperial Academy]]
+- Frequently occupied by students from the [[Imperial Academy]]
 
 **Press Gallery (Level 4)** - 100 seats
 - Exclusive access for authorized journalists and public chroniclers
 - Advanced magical communication systems for rapid news transmission
 - Soundproof booth sections for commentary and discussion
 - Direct connection to printing facilities and message distribution
-- Staffed by reporters from [[12_Research/D&D_References/The Depth Herald]] and other publications
+- Staffed by reporters from [[The Depth Herald]] and other publications
 
 **Diplomatic Tier (Level 5)** - 80 seats
 - Reserved for foreign ambassadors and diplomatic observers
@@ -95,11 +101,11 @@ The Gallery is constructed as a magnificent amphitheater with seven ascending ti
 - Exclusive seating for non-parliamentary nobility and their guests
 - Ornate private boxes with climate control and service areas
 - Traditional privilege maintained while ensuring public transparency
-- Often used by [[12_Research/D&D_References/Noble Houses]] to monitor legislation affecting their interests
+- Often used by [[Noble Houses]] to monitor legislation affecting their interests
 - Semi-private entrances and exclusive amenities
 
 **Royal Box (Level 7)** - 10 seats
-- Supreme viewing position for the [[12_Research/D&D_References/Emperor]] and immediate family
+- Supreme viewing position for the [[Emperor]] and immediate family
 - Ceremonial importance during state openings and major addresses
 - Bulletproof crystal barriers and comprehensive security systems
 - Rarely occupied, serving more as symbol of royal oversight
@@ -129,7 +135,7 @@ The Gallery employs sophisticated magical and architectural techniques to ensure
 - Multiple emergency exits on each tier with rapid evacuation capability
 - Magical crowd-calming fields that can be activated during disturbances
 - Discrete but comprehensive surveillance throughout all seating areas
-- Rapid response stations staffed by [[12_Research/D&D_References/Parliament Guards]] on each level
+- Rapid response stations staffed by [[Parliament Guards]] on each level
 - Automated lockdown systems to isolate Gallery from parliament floor if needed
 
 **Security Screening**
@@ -250,7 +256,7 @@ The Gallery has been the birthplace of numerous significant political movements:
 
 ## Notable NPCs and Staff
 
-### [[12_Research/D&D_References/Master of the Gallery Cornelius Publicvoice]]
+### [[Master of the Gallery Cornelius Publicvoice]]
 
 - **Role**: Chief administrator responsible for all Gallery operations
 - **Background**: Former parliamentary clerk with 25 years experience
@@ -332,27 +338,27 @@ Regular hosting of foreign parliamentary observers:
 
 ### Related Locations
 
-- [[12_Research/D&D_References/Parliament of Echoes]] - The main parliamentary complex
-- [[12_Research/D&D_References/Abyssos Prime Upper Districts]] - Government quarter
-- [[12_Research/D&D_References/The Shadow Markets]] - Political intelligence trading
-- [[12_Research/D&D_References/Vote Vaults]] - Electoral administration
-- [[12_Research/D&D_References/Imperial Academy]] - Civic education
+- [[Parliament of Echoes]] - The main parliamentary complex
+- [[Abyssos Prime Upper Districts]] - Government quarter
+- [[The Shadow Markets]] - Political intelligence trading
+- [[Vote Vaults]] - Electoral administration
+- [[Imperial Academy]] - Civic education
 
 ### Associated Organizations
 
-- [[12_Research/D&D_References/The Deep Merchants Guild]] - Guild tier regular occupants
-- [[12_Research/D&D_References/The Depth Herald]] - Press gallery journalists
-- [[12_Research/D&D_References/Parliament Guards]] - Security and protection
-- [[12_Research/D&D_References/Citizens' Budget Review]] - Grassroots movement born in Gallery
-- [[12_Research/D&D_References/Transparency Coalition]] - Government accountability advocates
+- [[The Deep Merchants Guild]] - Guild tier regular occupants
+- [[The Depth Herald]] - Press gallery journalists
+- [[Parliament Guards]] - Security and protection
+- [[Citizens' Budget Review]] - Grassroots movement born in Gallery
+- [[Transparency Coalition]] - Government accountability advocates
 
 ### Key Figures
 
-- [[12_Research/D&D_References/Master of the Gallery Cornelius Publicvoice]] - Chief administrator
-- [[12_Research/D&D_References/Emperor Thalassius]] - Occasional Royal Box occupant
-- [[12_Research/D&D_References/Parliamentary Speaker]] - Gallery policy coordinator
-- [[12_Research/D&D_References/The Opposition Leader]] - Regular Gallery interaction
-- [[12_Research/D&D_References/Gallery Guide Captain Marina Civicvoice]] - Senior visitor services
+- [[Master of the Gallery Cornelius Publicvoice]] - Chief administrator
+- [[Emperor Thalassius]] - Occasional Royal Box occupant
+- [[Parliamentary Speaker]] - Gallery policy coordinator
+- [[The Opposition Leader]] - Regular Gallery interaction
+- [[Gallery Guide Captain Marina Civicvoice]] - Senior visitor services
 
 ## Adventure Hooks and Quest Opportunities
 
@@ -423,16 +429,131 @@ Legends speak of Parliament of Echoes   Public Gallery as a nexus where past and
 - An NPC seeks discreet help at Parliament of Echoes   Public Gallery to avert a public scandal.
 - A map overlay reveals a hidden approach to Parliament of Echoes   Public Gallery active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Parliament of Echoes - Public Gallery]]
+- [[Parliament of Echoes - Public Gallery]]
 
 <!-- enriched: true -->
-- [[12_Research/D&D_References/Emperor Thalassius]]
-- [[12_Research/D&D_References/Abyssos Prime Upper Districts]]
-- [[12_Research/D&D_References/Parliament of Echoes]]
-- [[12_Research/D&D_References/Vote Vaults]]
+- [[Emperor Thalassius]]
+- [[Abyssos Prime Upper Districts]]
+- [[Parliament of Echoes]]
+- [[Vote Vaults]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[Foreign Affairs]]
+- [[04_Resources_Assets_Locations_location-city-withered-court-withered-court.svg]]
+- [[Captain Trawl Netcaster]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+Parliament of Echoes - Public Gallery is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Parliament of Echoes - Public Gallery
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Parliament of Echoes - Public Gallery was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Parliament of Echoes - Public Gallery:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Parliament of Echoes - Public Gallery
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

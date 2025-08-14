@@ -1,29 +1,36 @@
+# The Depth Wardens
+
 ---
+title: The Depth Wardens
+type: NPC
 tags:
 - aquabyssos
-- complete
-- deep-sea
-- depth-wardens
-- elite
-- faction
-- group
 - guardians
 - military
+- deep-sea
+- faction
 - npc
+- depth-wardens
+- research
+- active
+- elite
+- complete
+- group
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: NPC
 category: Military Organization
 size: Elite Unit (50-100 members)
 alignment: Lawful Neutral
 influence: High in Deep Ocean Territories
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.851410+00:00'
 MyContainer: None
 MyCategory: Group
 obsidianUIMode: preview
 ---
+
 
 
 
@@ -332,3 +339,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 <!-- enriched: true -->
 - [[Fortress of the Deeps]]
 - [[Queen Seraphina]]
+
+
+## Related
+
+*Links to related content will be added here.*

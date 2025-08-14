@@ -1,23 +1,30 @@
 ---
-created: '2025-08-11'
-danger_level: Moderate
-status: complete
+title: The Phosphor Markets
+type: Location
 tags:
-- combat
-- quest
-- crystal-enhanced
-- shadow-touched
-- aquatic
 - both
-- complete
+- aquatic
+- quest
+- world/both
 - content/location
+- place
+- active
+- combat
+- complete
 - location
 - status/in-progress
-- world/both
-type: Location
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+danger_level: Moderate
 updated: '2025-08-13T12:34:16.785539+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -28,55 +35,55 @@ world: Both
 
 ## Overview
 
-The Phosphor Markets are a massive floating collection of bioluminescent platforms, ships, and structures that drift through the Gloom Gardens, never staying in one location for more than a week. This mobile marketplace is the economic heart of [[12_Research/D&D_References/Aquabyssos World Overview]], where all factions trade despite political tensions. The market's neutrality is enforced by the [[12_Research/D&D_References/Merchant's Covenant]], a powerful trading guild that predates the drowning.
+The Phosphor Markets are a massive floating collection of bioluminescent platforms, ships, and structures that drift through the Gloom Gardens, never staying in one location for more than a week. This mobile marketplace is the economic heart of [[Aquabyssos World Overview]], where all factions trade despite political tensions. The market's neutrality is enforced by the [[Merchant's Covenant]], a powerful trading guild that predates the drowning.
 
 ## Market Sections
 
 ### The Central Exchange
 
-Massive platform made from a hollowed-out whale corpse, preserved and reinforced with magic. [[12_Research/D&D_References/Market Master Cornelius Driftwood]] oversees all major trades from his office in what was once the creature's heart.
+Massive platform made from a hollowed-out whale corpse, preserved and reinforced with magic. [[Market Master Cornelius Driftwood]] oversees all major trades from his office in what was once the creature's heart.
 
 ### The Glow Gardens
 
-Living market stalls made from cultivated bioluminescent coral and kelp. [[12_Research/D&D_References/Merchant Delilah Currentrunner]] coordinates vendors selling biological goods from [[12_Research/D&D_References/Lumengarde]].
+Living market stalls made from cultivated bioluminescent coral and kelp. [[Merchant Delilah Currentrunner]] coordinates vendors selling biological goods from [[Lumengarde]].
 
 ### The Deep Bazaar
 
-Lower platforms dealing in goods from the dangerous depths. [[12_Research/D&D_References/Trader Grimm Voidheart]] specializes in items from [[12_Research/D&D_References/The Cerulean Trench]] and [[12_Research/D&D_References/The Hadal Depths]].
+Lower platforms dealing in goods from the dangerous depths. [[Trader Grimm Voidheart]] specializes in items from [[The Cerulean Trench]] and [[The Hadal Depths]].
 
 ### The Memory Lane
 
-Section dedicated to pre-drowning artifacts and memories. [[12_Research/D&D_References/Antiquarian Eliza Tidecaller]] authenticates items while [[12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweaver]] trades in extracted memories.
+Section dedicated to pre-drowning artifacts and memories. [[Antiquarian Eliza Tidecaller]] authenticates items while [[12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweaver]] trades in extracted memories.
 
 ### The Black Current
 
-Unofficial section where illegal goods change hands. [[12_Research/D&D_References/Shadow Merchant Riptide]] operates here, selling everything from forbidden adaptations to [[12_Research/D&D_References/Deepmind Conspiracy]] artifacts.
+Unofficial section where illegal goods change hands. [[Shadow Merchant Riptide]] operates here, selling everything from forbidden adaptations to [[Deepmind Conspiracy]] artifacts.
 
 ### The Neutral Docks
 
-Where trading vessels from all factions moor. [[12_Research/D&D_References/Dockmaster Bruno Steadyanchor]] maintains order and assigns berths based on elaborate bribes.
+Where trading vessels from all factions moor. [[Dockmaster Bruno Steadyanchor]] maintains order and assigns berths based on elaborate bribes.
 
 ## Notable Establishments
 
 ### The Floating Fortune Casino
 
-Gambling house run by [[12_Research/D&D_References/Lucky Finn Dicetide]], where fortunes are won and lost on games of chance and skill. Rumored to be rigged with divination magic.
+Gambling house run by [[Lucky Finn Dicetide]], where fortunes are won and lost on games of chance and skill. Rumored to be rigged with divination magic.
 
 ### The Depth's End Tavern
 
-Neutral meeting ground managed by [[12_Research/D&D_References/Barkeep Salty Sarah]], serves drinks that work in both air and water. Information is the real commodity here.
+Neutral meeting ground managed by [[Barkeep Salty Sarah]], serves drinks that work in both air and water. Information is the real commodity here.
 
 ### The Current Exchange Bank
 
-Financial institution managing the market's complex economy. [[12_Research/D&D_References/Banker Titus Goldcurrent]] handles currency exchange between different faction monies.
+Financial institution managing the market's complex economy. [[Banker Titus Goldcurrent]] handles currency exchange between different faction monies.
 
 ### The Adaptation Parlor
 
-[[12_Research/D&D_References/Doctor Coral Shapeshift]] offers temporary and permanent biological modifications, from gills to pressure resistance. Not all procedures are legal or safe.
+[[Doctor Coral Shapeshift]] offers temporary and permanent biological modifications, from gills to pressure resistance. Not all procedures are legal or safe.
 
 ### The Dreamhouse
 
-[[12_Research/D&D_References/Madame Whisper]]'s establishment offers experiences from before the drowning, using memory magic and illusions. Highly addictive and expensive.
+[[Madame Whisper]]'s establishment offers experiences from before the drowning, using memory magic and illusions. Highly addictive and expensive.
 
 ## Trade Goods
 
@@ -101,13 +108,13 @@ Financial institution managing the market's complex economy. [[12_Research/D&D_R
 
 - Deepmind artifacts
 - Forbidden metamorphosis procedures
-- Weapons from [[12_Research/D&D_References/Pressure's End]]
+- Weapons from [[Pressure's End]]
 - Stolen religious relics
 - Slaves (officially banned, still happens)
 
 ## Market Law
 
-- Enforced by the [[12_Research/D&D_References/Merchant's Covenant]] Guard
+- Enforced by the [[Merchant's Covenant]] Guard
 - No violence permitted during trading hours
 - All factions have equal trading rights
 - Disputes settled by market arbitration
@@ -116,11 +123,21 @@ Financial institution managing the market's complex economy. [[12_Research/D&D_R
 ## The Mobile Nature
 
 The market moves on a semi-predictable route:
-1. Near [[12_Research/D&D_References/New Tethys]] - Days 1-7
-2. [[12_Research/D&D_References/Lumengarde]] vicinity - Days 8-14
+1. Near [[New Tethys]] - Days 1-7
+2. [[Lumengarde]] vicinity - Days 8-14
 3. Open water trading - Days 15-21
-4. Near [[12_Research/D&D_References/The Wandering Atoll]] - Days 22-28
+4. Near [[The Wandering Atoll]] - Days 22-28
 5. Deep water mysterious stop - Day 29-30
+
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: The tang of salt air permeates everything
 
 ## Demographics
 
@@ -133,7 +150,7 @@ The market moves on a semi-predictable route:
 ## Current Events
 
 1. Rare depth crystals from the trench flooding the market
-2. [[12_Research/D&D_References/The Free Current]] planning major heist
+2. [[The Free Current]] planning major heist
 3. Mysterious buyer purchasing all memory bubbles
 4. Faction tensions threatening market neutrality
 5. Guardian creatures acting strangely aggressive
@@ -172,15 +189,15 @@ The market moves on a semi-predictable route:
 
 ## Connected NPCs
 
-- [[12_Research/D&D_References/Market Master Cornelius Driftwood]] - Overall leader
-- [[12_Research/D&D_References/Merchant Delilah Currentrunner]] - Major trader
-- [[12_Research/D&D_References/Trader Grimm Voidheart]] - Deep goods specialist
-- [[12_Research/D&D_References/Shadow Merchant Riptide]] - Black market boss
-- [[12_Research/D&D_References/Lucky Finn Dicetide]] - Casino owner
-- [[12_Research/D&D_References/Banker Titus Goldcurrent]] - Financial controller
-- [[12_Research/D&D_References/Doctor Coral Shapeshift]] - Adaptation specialist
-- [[12_Research/D&D_References/Madame Whisper]] - Dreamhouse proprietor
-- [[12_Research/D&D_References/Dockmaster Bruno Steadyanchor]] - Port authority
+- [[Market Master Cornelius Driftwood]] - Overall leader
+- [[Merchant Delilah Currentrunner]] - Major trader
+- [[Trader Grimm Voidheart]] - Deep goods specialist
+- [[Shadow Merchant Riptide]] - Black market boss
+- [[Lucky Finn Dicetide]] - Casino owner
+- [[Banker Titus Goldcurrent]] - Financial controller
+- [[Doctor Coral Shapeshift]] - Adaptation specialist
+- [[Madame Whisper]] - Dreamhouse proprietor
+- [[Dockmaster Bruno Steadyanchor]] - Port authority
 
 ## DM Guidance & Tips
 
@@ -225,10 +242,10 @@ The market moves on a semi-predictable route:
 
 ## Connected Locations
 
-- [[12_Research/D&D_References/New Tethys]] - Major trading partner
-- [[12_Research/D&D_References/Lumengarde]] - Biological goods source
-- [[12_Research/D&D_References/The Wandering Atoll]] - Occasional meeting point
-- [[12_Research/D&D_References/The Cerulean Trench]] - Source of rare goods
+- [[New Tethys]] - Major trading partner
+- [[Lumengarde]] - Biological goods source
+- [[The Wandering Atoll]] - Occasional meeting point
+- [[The Cerulean Trench]] - Source of rare goods
 
 ## Environmental Hazards & Challenges
 
@@ -288,9 +305,9 @@ Central administrative building carved from a fossilized whale skull:
 - **Emergency Assembly Bell**: Massive conch shell that can be heard throughout the market
 
 **NPCs Present**:
-- [[12_Research/D&D_References/Registrar Cornelius Scrollkeeper]] - Meticulous record-keeper with perfect memory
-- [[12_Research/D&D_References/Judge Tidal Fairweather]] - Impartial arbitrator respected by all factions
-- [[12_Research/D&D_References/Chronicler Depth-Song]] - Mer-folk historian documenting market evolution
+- [[Registrar Cornelius Scrollkeeper]] - Meticulous record-keeper with perfect memory
+- [[Judge Tidal Fairweather]] - Impartial arbitrator respected by all factions
+- [[Chronicler Depth-Song]] - Mer-folk historian documenting market evolution
 
 #### The Adaptation Clinic
 
@@ -302,9 +319,9 @@ Medical facility specializing in aquatic modifications:
 - Permanent aquatic adaptation surgery (2,000+ gp, requires 1 month recovery)
 
 **Staff**:
-- [[12_Research/D&D_References/Surgeon Coral Seamender]] - Expert in bio-magical modifications
-- [[12_Research/D&D_References/Healer Tide-Touch]] - Specializes in pressure-related injuries
-- [[12_Research/D&D_References/Apprentice Bubbles]] - Young water elemental learning medical arts
+- [[Surgeon Coral Seamender]] - Expert in bio-magical modifications
+- [[Healer Tide-Touch]] - Specializes in pressure-related injuries
+- [[Apprentice Bubbles]] - Young water elemental learning medical arts
 
 ### The Artisan Districts - Mid-Levels
 
@@ -318,9 +335,9 @@ Crafting spaces utilizing living organisms:
 - **Shell Smiths**: Fashion armor and tools from giant mollusk shells
 
 **Master Craftspeople**:
-- [[12_Research/D&D_References/Artisan Glow-Finger Nerida]] - Creates bioluminescent jewelry
-- [[12_Research/D&D_References/Coral Shaper Polyp]] - Living coral being who grows architectural structures
-- [[12_Research/D&D_References/Pearl Empress Lustrous]] - Makes pearls that store magical energy
+- [[Artisan Glow-Finger Nerida]] - Creates bioluminescent jewelry
+- [[Coral Shaper Polyp]] - Living coral being who grows architectural structures
+- [[Pearl Empress Lustrous]] - Makes pearls that store magical energy
 
 #### The Memory Sculpture Garden
 
@@ -331,7 +348,7 @@ Open area displaying crystallized memories as art:
 - **"The Ancient Songs"**: Whale songs from before civilization
 - **"Dreams of the Deep Mother"**: Controversial and restricted exhibition
 
-**Curator**: [[12_Research/D&D_References/Memory Artist Recall]] - Can extract and display memories as visual art
+**Curator**: [[Memory Artist Recall]] - Can extract and display memories as visual art
 
 ### The Trading Floors - Central Levels
 
@@ -360,9 +377,9 @@ Sophisticated financial trading for future goods delivery:
 - **Weather Derivatives**: Betting on current patterns and seasonal changes
 
 **Key Traders**:
-- [[12_Research/D&D_References/Futures Master Economic-Sense]] - Predicts market trends with supernatural accuracy
-- [[12_Research/D&D_References/Risk Assessor Probability]] - Calculates odds for any venture
-- [[12_Research/D&D_References/Commodity Queen Abundance]] - Controls significant portions of several markets
+- [[Futures Master Economic-Sense]] - Predicts market trends with supernatural accuracy
+- [[Risk Assessor Probability]] - Calculates odds for any venture
+- [[Commodity Queen Abundance]] - Controls significant portions of several markets
 
 ### The Deep Markets - Lower Levels
 
@@ -393,9 +410,9 @@ Secret level where illegal goods are processed and distributed:
 - Dangerous magical items banned by various governments
 
 **Key Figures**:
-- [[12_Research/D&D_References/The Facilitator]] - Mysterious figure who arranges impossible trades
-- [[12_Research/D&D_References/Silence-Keeper Mute]] - Enforces secrecy through magical contracts
-- [[12_Research/D&D_References/The Cleaner]] - Eliminates evidence and witnesses when necessary
+- [[The Facilitator]] - Mysterious figure who arranges impossible trades
+- [[Silence-Keeper Mute]] - Enforces secrecy through magical contracts
+- [[The Cleaner]] - Eliminates evidence and witnesses when necessary
 
 ## Market Economics & Currency
 
@@ -437,7 +454,7 @@ Secret level where illegal goods are processed and distributed:
 
 **Hook**: Strange price fluctuations suggest someone is manipulating the futures market
 **Investigation**: Multiple traders report impossible losses on "sure thing" investments
-**Discovery**: [[12_Research/D&D_References/The Facilitator]] is using time magic to peek at future market conditions
+**Discovery**: [[The Facilitator]] is using time magic to peek at future market conditions
 **Climax**: Confrontation in the Temporal Market zones during a time storm
 **Rewards**: Insider trading information and future market predictions
 
@@ -478,17 +495,17 @@ Secret level where illegal goods are processed and distributed:
 
 ## Quests Available
 
-- [[12_Research/D&D_References/Market Heist]] - The Free Current needs help
-- [[12_Research/D&D_References/The Memory Thief]] - Investigate missing memories
-- [[12_Research/D&D_References/Trade War]] - Prevent faction conflict
-- [[12_Research/D&D_References/The Lost Shipment]] - Recover stolen goods
-- [[12_Research/D&D_References/Market Mystery]] - Why are the guardians aggressive?
+- [[Market Heist]] - The Free Current needs help
+- [[The Memory Thief]] - Investigate missing memories
+- [[Trade War]] - Prevent faction conflict
+- [[The Lost Shipment]] - Recover stolen goods
+- [[Market Mystery]] - Why are the guardians aggressive?
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Abyssos Prime - Pressure Terminal]]
-- [[12_Research/D&D_References/Amnesia Gallery]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Amnesia Gallery]]
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
@@ -505,32 +522,127 @@ Legends speak of The Phosphor Markets as a nexus where past and present converge
 - An NPC seeks discreet help at The Phosphor Markets to avert a public scandal.
 - A map overlay reveals a hidden approach to The Phosphor Markets active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Phosphor Markets]]
+- [[The Phosphor Markets]]
 
 <!-- enriched: true -->
-- [[12_Research/D&D_References/Banker Titus Goldcurrent]]
-- [[12_Research/D&D_References/Antiquarian Eliza Tidecaller]]
-- [[12_Research/D&D_References/Deepmind Conspiracy]]
-- [[12_Research/D&D_References/Dockmaster Bruno Steadyanchor]]
-- [[12_Research/D&D_References/Doctor Coral Shapeshift]]
-- [[12_Research/D&D_References/Madame Whisper]]
-- [[12_Research/D&D_References/Maelstrom Palace]]
-- [[12_Research/D&D_References/Market Heist]]
-- [[12_Research/D&D_References/Market Mystery]]
+- [[Banker Titus Goldcurrent]]
+- [[Antiquarian Eliza Tidecaller]]
+- [[Deepmind Conspiracy]]
+- [[Dockmaster Bruno Steadyanchor]]
+- [[Doctor Coral Shapeshift]]
+- [[Madame Whisper]]
+- [[Maelstrom Palace]]
+- [[Market Heist]]
+- [[Market Mystery]]
 - [[12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweaver]]
-- [[12_Research/D&D_References/Merchant Delilah Currentrunner]]
-- [[12_Research/D&D_References/Shadow Merchant Riptide]]
-- [[12_Research/D&D_References/The Free Current]]
-- [[12_Research/D&D_References/The Hadal Depths]]
-- [[12_Research/D&D_References/The Memory Thief]]
+- [[Merchant Delilah Currentrunner]]
+- [[Shadow Merchant Riptide]]
+- [[The Free Current]]
+- [[The Hadal Depths]]
+- [[The Memory Thief]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[Wise Tide Truthseeker]]
+- [[The Deepmind]]
+- [[Supplier Erikson Tidecaller]]
+
+
+## Description
+
+The Phosphor Markets is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Phosphor Markets
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+The Phosphor Markets was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Phosphor Markets
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

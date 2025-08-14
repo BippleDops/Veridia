@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Administrator Marcus Protocols
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Administrator Marcus Protocols
 
@@ -24,9 +28,9 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Bexley]]
-- [[12_Research/D&D_References/Bexley]]
-- [[12_Research/D&D_References/Bexley]]
+- [[Bexley]]
+- [[Bexley]]
+- [[Bexley]]
 - [[02_Worldbuilding/Groups/Bexley]]
 - [[02_Worldbuilding/Groups/Bexley]]
 - [[02_Worldbuilding/Groups/Bexley]]

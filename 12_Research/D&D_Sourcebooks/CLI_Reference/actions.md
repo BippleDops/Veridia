@@ -1,23 +1,28 @@
+# actions
+
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-- active
-- both
-- note
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/compendium/src/5e/xphb
+title: actions
 aliases:
 - Actions
 type: note
+tags:
+- both
+- ttrpg-cli/compendium/src/5e/xge
+- ttrpg-cli/compendium/src/5e/phb
+- research
+- active
+- note
+- ttrpg-cli/compendium/src/5e/dmg
+- ttrpg-cli/compendium/src/5e/xphb
 created: 2025-07-23
-updated: '2025-08-13T01:18:31.229170+00:00'
-modified: 2025-07-23 12:39
-world: Both
+modified: '2025-08-14'
 status: active
+obsidianUIMode: preview
+cssclasses: json5e-note
+updated: '2025-08-13T01:18:31.229170+00:00'
+world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -428,3 +433,8 @@ Legends speak of actions as a nexus where past and present converge. Locals desc
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

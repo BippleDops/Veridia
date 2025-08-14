@@ -1,3 +1,15 @@
+# Noble_House_Family_Networks
+
+---
+title: Noble House Family Networks
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Noble House Family Networks - Phase 2 Deep Planning
 
 ## Meta Information
@@ -469,3 +481,7 @@
 **Family Networks Mapped**: 3 major houses with 47 individuals
 **Relationship Nodes**: 156 interpersonal connections documented
 **Cross-Campaign Integration**: Noble house responses to all major plot developments planned
+
+## Related
+
+*Links to related content will be added here.*

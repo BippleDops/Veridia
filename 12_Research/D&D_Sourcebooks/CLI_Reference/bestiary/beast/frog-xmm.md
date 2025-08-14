@@ -1,26 +1,33 @@
+# frog-xmm
+
 ---
+title: frog xmm
 aliases:
 - Frog
+type: monster
+tags:
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/type/beast
+- monster
+- ttrpg-cli/monster/cr/0
+- world/both
+- research
+- ttrpg-cli/monster/environment/swamp
+- active
+- ttrpg-cli/monster/environment/forest
+- status/in-progress
+- ttrpg-cli/monster/size/tiny
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/beast
-- world/both
-type: monster
 updated: '2025-08-12T23:37:35.137707'
 world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -98,3 +105,8 @@ Legends speak of frog xmm as a nexus where past and present converge. Locals des
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

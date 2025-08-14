@@ -1,15 +1,21 @@
+# Marina Swiftfin
+
 ---
-tags:
-- active
-- both
-- location
+title: Marina Swiftfin
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.454027+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-marina-swiftfin-marina-swiftfin.svg]]
@@ -66,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Current Riders Guild]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,21 +1,27 @@
+# paladin-xphb-oath-of-devotion-xphb
+
 ---
+title: paladin xphb oath of devotion xphb
 aliases:
 - Oath of Devotion
-created: 2025-07-23 12:39
-cssclasses: json5e-class
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/paladin/devotion
-- world/both
-type: note
+- ttrpg-cli/compendium/src/5e/xphb
+created: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-class
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.440614'
 world: Both
 ---
+
 
 # Oath of Devotion
 *[[paladin-xphb|Paladin]]: Paladin Subclass*  
@@ -135,3 +141,8 @@ Legends speak of paladin xphb oath of devotion xphb as a nexus where past and pr
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

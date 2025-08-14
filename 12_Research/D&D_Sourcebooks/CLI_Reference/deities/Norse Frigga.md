@@ -1,24 +1,29 @@
+# Norse Frigga
+
 ---
+title: Norse Frigga
 aliases:
 - Frigga
-created: 2025-07-23
-cssclasses: json5e-deity
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
-- importance/core
+- ttrpg-cli/deity/norse
+- ttrpg-cli/compendium/src/5e/phb
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/deity/norse
-- world/both
-type: note
+- importance/core
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-deity
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:04.213469+00:00'
 world: Both
 ---
+
 
 
 # Frigga
@@ -48,3 +53,8 @@ Legends speak of norse frigga as a nexus where past and present converge. Locals
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

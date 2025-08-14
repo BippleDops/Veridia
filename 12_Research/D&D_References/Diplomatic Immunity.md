@@ -1,14 +1,20 @@
+# Diplomatic Immunity
+
 ---
+title: Diplomatic Immunity
+type: Location
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:36.510949+00:00'
 world: Both
-type: Location
-status: active
-tags:
-- active
-- both
-- location
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-diplomatic-immunity-diplomatic-immunity.svg]]
@@ -39,3 +45,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Diplomatic Immunity|02 Worldbuilding/Places/Diplomatic Immunity]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

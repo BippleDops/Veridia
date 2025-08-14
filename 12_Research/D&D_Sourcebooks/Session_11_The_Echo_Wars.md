@@ -1,3 +1,15 @@
+# Session_11_The_Echo_Wars
+
+---
+title: Session 11 The Echo Wars
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Session 11: The Echo Wars
 *The Seven Shards Campaign - Beyond the Convergence*
 
@@ -485,3 +497,7 @@ description: Heroes integrate all aspects of possibility, healing dimensional ri
 ```
 
 *"To be complete, one must embrace not just who they are, but who they could have been."* - Brother Marcus the Willing
+
+## Related
+
+*Links to related content will be added here.*

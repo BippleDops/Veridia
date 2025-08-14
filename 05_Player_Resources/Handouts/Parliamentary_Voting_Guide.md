@@ -1,14 +1,21 @@
+# Parliamentary_Voting_Guide
+
 ---
-created: '2025-08-13'
-status: complete
+title: Parliamentary Voting Guide
+type: Handout
 tags:
 - player/handout
+- player-resource
 - politics/parliament
+- active
 - world/aquabyssos
-type: Handout
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Aquabyssos
 ---
+
 
 # Parliamentary Voting Guide
 ## Your Voice in the Depths
@@ -88,3 +95,7 @@ world: Aquabyssos
 
 *Remember: Your vote shapes the future of our realm*
 *Exercise your democratic duty with wisdom*
+
+## Related
+
+*Links to related content will be added here.*

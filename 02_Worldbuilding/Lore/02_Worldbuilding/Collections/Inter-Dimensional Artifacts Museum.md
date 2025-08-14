@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Inter Dimensional Artifacts Museum
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Collections/Inter-Dimensional Artifacts Museum
 
@@ -24,7 +28,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Liminal Trading Company]]
+- [[The Liminal Trading Company]]
 - [[02_Worldbuilding/Groups/The Liminal Trading Company]]
 
 ## Notes

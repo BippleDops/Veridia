@@ -1,15 +1,21 @@
+# The Whisper Keepers
+
 ---
-tags:
-- active
-- aquabyssos
-- location
+title: The Whisper Keepers
 type: Location
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.069240+00:00'
 danger_level: Moderate
 ---
+
 
 
 
@@ -56,3 +62,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Whisper Keepers|02 Worldbuilding/Places/The Whisper Keepers]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

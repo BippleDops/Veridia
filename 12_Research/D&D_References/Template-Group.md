@@ -1,11 +1,17 @@
+# Template-Group
+
 ---
+title: Template Group
 type: Lore
-status: complete
 tags:
-- active
-- both
-- category/group
 - lore
+- both
+- research
+- active
+- category/group
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 MyContainer:
 - '[[Jungle of Screams|Jungle of Screams]]'
 MyCategory: Knightly Order
@@ -33,8 +39,8 @@ benefits:
   reward: What do they get at level 3?
 world: Both
 updated: '2025-08-13T01:18:31.192163+00:00'
-created: '2025-08-11'
 ---
+
 
 
 
@@ -380,3 +386,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Template-Item|05 Templates/World Builder Templates/Template Item]]
+
+
+## Related
+
+*Links to related content will be added here.*

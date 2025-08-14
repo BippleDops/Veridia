@@ -1,15 +1,22 @@
+# Storm_Caller_Druid
+
 ---
-created: '2025-08-13'
-status: ready
-tags:
-- status/ready
-- type/character-build
-- world/aethermoor
-- class/druid
+title: Storm Caller Druid
 type: Character Build
+tags:
+- research
+- class/druid
+- active
+- type/character-build
+- status/ready
+- world/aethermoor
+created: '2025-08-13'
+modified: '2025-08-14'
+status: ready
 updated: '2025-08-13T12:00:00.000000'
 world: Aethermoor
 ---
+
 
 # Storm Caller Druid - Character Build
 
@@ -238,3 +245,7 @@ Storm Callers are revered and feared in equal measure throughout Aethermoor. The
 - Consider leadership roles in weather service organizations as character advances
 
 This build emphasizes the primal connection between druidic magic and the elemental forces of storm and sky, providing both mechanical benefits and rich environmental interaction opportunities.
+
+## Related
+
+*Links to related content will be added here.*

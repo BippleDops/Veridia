@@ -1,24 +1,31 @@
+# Throne Room
+
 ---
+title: Throne Room
+type: Lore
 tags:
-- aethermoor
-- complete
-- corrupted-architecture
-- crystal-possession
-- dimensional-nexus
 - lore
+- crystal-possession
 - political-center
-- royal-palace
 - seat-of-power
 - throne-room
+- complete
+- research
+- active
+- corrupted-architecture
+- aethermoor
+- royal-palace
+- dimensional-nexus
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 category: Royal Location
 significance: Major Landmark
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] View
@@ -354,3 +361,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Crimson Hand]]
 - [[The Queen]]
 - [[The Seven Shards]]
+
+
+## Related
+
+*Links to related content will be added here.*

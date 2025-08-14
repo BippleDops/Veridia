@@ -1,9 +1,16 @@
 ---
+title: step 038
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 40
 step: 38
 total_step: 3938
 ---
+
 
 # Phase 40 - Step 38
 

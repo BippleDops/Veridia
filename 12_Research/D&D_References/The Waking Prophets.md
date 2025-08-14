@@ -1,22 +1,29 @@
+# The Waking Prophets
+
 ---
+title: The Waking Prophets
+type: NPC
 tags:
 - aquabyssos
-- awakening
-- complete
 - cult
 - npc
 - organization
+- research
 - prophecy
+- active
+- complete
+- awakening
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: NPC
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Religious
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.916288+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -157,3 +164,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Waking Prophets|02 Worldbuilding/People/The Waking Prophets]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

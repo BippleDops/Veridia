@@ -1,22 +1,29 @@
+# The Emergence
+
 ---
+title: The Emergence
+type: NPC
 tags:
-- aquabyssos
-- complete
-- emergence
-- event
 - lore
+- aquabyssos
+- emergence
 - npc
+- event
+- research
+- active
+- complete
 - transformation
+created: 2025-08-08 - Category/Lore
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: NPC
 created_by: auto-stub
-created: 2025-08-08 - Category/Lore
 MyContainer: None
 MyCategory: Events
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.966826+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -140,3 +147,8 @@ Legends speak of The Emergence as a nexus where past and present converge. Local
 - [[The Emergence|02 Worldbuilding/People/The Emergence]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

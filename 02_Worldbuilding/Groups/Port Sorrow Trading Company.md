@@ -1,23 +1,29 @@
 ---
-MyCategory: Unknown - Category/Group
-MyContainer: None
+title: Port Sorrow Trading Company
 aliases: []
-created: '2025-07-23'
-modified: 2025-07-23 15:40
-obsidianUIMode: preview
-status: complete
+type: Faction
 tags:
 - both
-- complete
 - content/faction
 - faction
-- mercantile
-- status/in-progress
+- organization
 - world/both
-type: Faction
+- mercantile
+- active
+- complete
+- status/in-progress
+created: '2025-07-23'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
+MyCategory: Unknown - Category/Group
+MyContainer: None
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.326468+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Heraldry
@@ -34,7 +40,7 @@ The Port Sorrow Trading Company is a ruthless and ambitious mercantile company t
 
 ## GM Notes
 - The Port Sorrow Trading Company is a major antagonist for the party, and they will stop at nothing to achieve their goals.
-- The Port Sorrow Trading Company is a rival of the [[02_Worldbuilding/Groups/Shadowhaven Merchant Marine.md|02 Worldbuilding/Groups/Shadowhaven Merchant Marine.md]].
+- The Port Sorrow Trading Company is a rival of the [[02_Worldbuilding/Groups/Shadowhaven Merchant Marine.md|02 Worldbuilding/Groups/Shadowhaven Merchant Marine]].
 - The Port Sorrow Trading Company is secretly in league with the Zhentarim.
 
 ## Player-Facing Summary
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Dr. Siphon Gillwater|02 Worldbuilding/Quests/Dr. Siphon Gillwater]]
+
+
+## Known Members
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-bexley-bexley.svg]]

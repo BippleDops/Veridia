@@ -1,30 +1,37 @@
+# Shadow Surgeon Strike Team
+
 ---
+title: Shadow Surgeon Strike Team
+type: Group
 tags:
 - aquabyssos
-- complete
-- elite-force
-- faction
-- group
 - medical-combat
 - military
+- faction
 - shadow-operations
+- research
+- active
+- complete
+- group
+- elite-force
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+headquarters: '[[The Shadow Operating Theater]]'
 world: Aquabyssos
-type: Group
 faction_type: Elite Special Forces
 alignment: Chaotic Evil
-headquarters: '[[The Shadow Operating Theater]]'
 leader: '[[Colonel Dr. Vivisection]]'
 members: ~50 elite shadow surgeons and support staff
 influence: Covert operations across multiple realms
 wealth: Well-funded by shadow organizations
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.721909+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 

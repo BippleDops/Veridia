@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry detective prime clarity truthseeke detective prime clarity
+  truthseeke.svg
+aliases:
+- symbol heraldry detective prime clarity truthseeke detective prime clarity truthseekesvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-detective-prime-clarity-truthseeke-detective-prime-clarity-truthseeke.svg
 
@@ -24,8 +31,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
-- [[12_Research/D&D_References/Detective-Prime Clarity Truthseeke]]
+- [[Faction Symbols & Heraldry]]
+- [[Detective-Prime Clarity Truthseeke]]
 
 ## Notes
 

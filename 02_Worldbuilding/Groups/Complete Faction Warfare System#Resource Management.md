@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Complete Faction Warfare System#Resource Management
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
 
 # Complete Faction Warfare System#Resource Management
 
@@ -24,7 +31,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Fleet_Dynamics_Generator]]
+- [[Fleet_Dynamics_Generator]]
 
 ## Notes
 
@@ -35,3 +42,8 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[04_Resources_Assets_Art_Places_Astrologer_Prime_Cassandra_Starweaver.png]]
+- [[Quest - Refugees of the Deep]]

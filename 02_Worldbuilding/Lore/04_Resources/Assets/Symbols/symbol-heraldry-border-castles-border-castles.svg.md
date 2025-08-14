@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry border castles border castles.svg
+aliases:
+- symbol heraldry border castles border castlessvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-border-castles-border-castles.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Border Castles]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Border Castles]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

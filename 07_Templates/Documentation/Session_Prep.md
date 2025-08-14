@@ -1,3 +1,15 @@
+# Session_Prep
+
+---
+title: Session Prep
+type: template
+tags:
+- template
+- active
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Session Preparation Template
 
 ## Pre-Session
@@ -14,3 +26,7 @@
 ## Post-Session
 - [ ] Update campaign log
 - [ ] Plan next session
+
+## Related
+
+*Links to related content will be added here.*

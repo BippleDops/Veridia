@@ -1,18 +1,25 @@
+# Noble House Genealogies
+
 ---
+title: Noble House Genealogies
+type: Lore
 tags:
-- aquabyssos
-- complete
-- genealogy
 - lore
+- aquabyssos
+- relationships
+- genealogy
+- complete
+- research
+- active
 - noble-houses
 - politics
-- relationships
-type: Lore
-world: Aquabyssos
-status: complete
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.037054+00:00'
 ---
+
 
 
 # Noble House Genealogies
@@ -433,3 +440,8 @@ Legends speak of Noble House Genealogies as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

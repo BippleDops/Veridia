@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Grand Engineer Prism Masterwork
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Lore/Grand Engineer Prism Masterwork
 
@@ -24,7 +28,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Eastern Kingdom]]
+- [[Eastern Kingdom]]
 - [[02_Worldbuilding/Lore/Eastern Kingdom]]
 
 ## Notes

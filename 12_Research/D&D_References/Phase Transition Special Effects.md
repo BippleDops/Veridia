@@ -1,15 +1,21 @@
+# Phase Transition Special Effects
+
 ---
-tags:
-- active
-- both
-- game-mechanics
-- lore
+title: Phase Transition Special Effects
 type: Lore
-world: Both
-status: active
+tags:
+- lore
+- game-mechanics
+- both
+- research
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:35.508933+00:00'
 ---
+
 
 
 
@@ -47,3 +53,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Multi-Phase Boss Fights]]
+
+
+## Related
+
+*Links to related content will be added here.*

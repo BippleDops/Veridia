@@ -1,21 +1,28 @@
+# Tide Turner
+
 ---
+title: Tide Turner
+type: Lore
 tags:
-- aquabyssos
-- complete
-- heroes
-- historical-figures
-- legendary-figures
 - lore
+- aquabyssos
 - prophecies
+- historical-figures
+- research
+- heroes
+- legendary-figures
+- active
+- complete
 - tidal-magic
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 expanded: 2025-08-10
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -519,3 +526,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
 - [[Deep Mother]]
+
+
+## Related
+
+*Links to related content will be added here.*

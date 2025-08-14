@@ -1,28 +1,32 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aerial
-- aethermoor
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/aethermoor
+title: Aethermoor Trade Commission
 type: Lore
+tags:
+- lore
+- aerial
+- content/lore
+- world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.428776+00:00'
 world: Aethermoor
 ---
 
 
+
 ## Cross-References
 
-- [[12_Research/D&D_References/Port Meridian - Market Square]]
+- [[Port Meridian - Market Square]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Port Meridian - Market Square]]
+- [[Port Meridian - Market Square]]
 
 ## Player-Facing Summary
 

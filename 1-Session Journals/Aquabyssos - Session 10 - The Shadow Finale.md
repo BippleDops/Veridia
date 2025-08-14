@@ -1,17 +1,24 @@
+# Aquabyssos - Session 10 - The Shadow Finale
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/aquabyssos
+title: Aquabyssos   Session 10   The Shadow Finale
 type: Lore
+tags:
+- lore
+- aquabyssos
+- world/aquabyssos
+- note
+- content/lore
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.855845+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -282,3 +289,8 @@ The last words belong to the party member who sacrificed the most: [Player narra
 - [[dark-shard-amulet-xdmg]]
 - [[control-winds-xge]]
 - [[Quest - The Enforcement War]]
+
+
+## Related
+
+*Links to related content will be added here.*

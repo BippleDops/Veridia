@@ -1,32 +1,38 @@
 ---
+title: Shadow Marina
+type: Faction
+tags:
+- aquabyssos
+- status/complete
+- world/aquabyssos
+- content/faction
+- faction
+- shadow-operations
+- organization
+- maritime
+- active
+- smuggling
+- complete
+- transportation
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Phantom Docks]]'
+membership: Unknown
 MyCategory: Unknown
 MyContainer: None
 alignment: Chaotic Neutral
-created: '2025-08-08'
 created_by: auto-stub
 faction_type: Maritime Organization
-headquarters: '[[The Phantom Docks]]'
 influence: Coastal regions and sea routes
 leader: '[[Harbor Master Tideshade]]'
 members: ~800 sailors, dock workers, and maritime specialists
 obsidianUIMode: preview
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/faction
-- faction
-- maritime
-- shadow-operations
-- smuggling
-- status/complete
-- transportation
-- world/aquabyssos
-type: Faction
 updated: '2025-08-13T12:34:17.377816+00:00'
 wealth: Substantial (shadow trade and smuggling)
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry
@@ -462,3 +468,8 @@ Legends speak of Shadow Marina as a nexus where past and present converge. Local
 ## Cross-References
 
 - [[Bexley]]
+
+
+## Known Members
+
+- [[Quest - The Pressure Cure]]

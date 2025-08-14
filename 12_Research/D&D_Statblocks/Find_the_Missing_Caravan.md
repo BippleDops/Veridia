@@ -1,17 +1,25 @@
+# Find_the_Missing_Caravan
+
 ---
+title: Find the Missing Caravan
+type: Lore
 tags:
-- both
-- complete
 - lore
+- both
 - quest
-quest_giver: '[[Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]'
+- research
+- active
+- complete
+created: '2025-08-11T13:08:50.080993+00:00'
+modified: '2025-08-14'
 status: complete
+location: '[[Tradeway Road]]'
+quest_giver: '[[Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]'
 priority: high
 quest_start: 2025-08-01
 deadline: 2025-08-10
 completion_date: null
 reward: 500gp + Masterwork weapon
-location: '[[Tradeway Road]]'
 quest_image: 04_Resources/Assets/quests/missing-caravan.png
 related_npcs:
 - '[[Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]'
@@ -44,9 +52,8 @@ MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:34.483277+00:00'
-created: '2025-08-11T13:08:50.080993+00:00'
-type: Lore
 ---
+
 
 
 
@@ -486,3 +493,8 @@ Legends speak of Find the Missing Caravan as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

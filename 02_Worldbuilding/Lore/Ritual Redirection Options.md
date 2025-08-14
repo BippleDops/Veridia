@@ -1,26 +1,30 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
-expanded: 2025-08-10
-status: complete
+title: Ritual Redirection Options
+type: Lore
 tags:
-- quest
-- session-notes
-- aethermoor
-- complete
-- content/lore
-- content/mechanics
 - lore
+- session-notes
+- status/complete
 - mechanics/magic
 - redirections
 - rituals
-- status/complete
+- content/lore
+- quest
 - techniques
 - world/aethermoor
-type: Lore
+- active
+- complete
+- content/mechanics
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+created_by: auto-stub
+expanded: 2025-08-10
 updated: '2025-08-13T12:34:16.228670+00:00'
 world: Aethermoor
 ---
+
 
 
 # Ritual Redirection Options
@@ -433,21 +437,21 @@ Characters can learn redirection as a specialized skill requiring both magical a
 
 ## Connected References
 
-- [[12_Research/D&D_References/Academy of Redirection]] - Primary training institution
-- [[12_Research/D&D_References/Archmage Deflector Windturner]] - Technique pioneer
-- [[12_Research/D&D_References/Seven Pillars of Redirection Theory]] - Theoretical framework
-- [[12_Research/D&D_References/Royal Redirection Corps]] - Military application
-- [[12_Research/D&D_References/War of Burning Skies]] - Historical origin conflict
-- [[12_Research/D&D_References/Storm of Eternal Lightning]] - Cautionary disaster
-- [[12_Research/D&D_References/Board of Redirection Ethics]] - Regulatory organization
+- [[Academy of Redirection]] - Primary training institution
+- [[Archmage Deflector Windturner]] - Technique pioneer
+- [[Seven Pillars of Redirection Theory]] - Theoretical framework
+- [[Royal Redirection Corps]] - Military application
+- [[War of Burning Skies]] - Historical origin conflict
+- [[Storm of Eternal Lightning]] - Cautionary disaster
+- [[Board of Redirection Ethics]] - Regulatory organization
 - [[Institute of Redirection Studies]] - Research facility
-- [[12_Research/D&D_References/Redirector's Guild]] - Professional organization
-- [[12_Research/D&D_References/Department of Subtle Interventions]] - Intelligence application
-- [[12_Research/D&D_References/Project Mindbridge]] - Experimental research program
-- [[12_Research/D&D_References/Redirection Syndrome]] - Occupational hazard condition
-- [[12_Research/D&D_References/The Last Resort Procedures]] - Emergency protocols
-- [[12_Research/D&D_References/Etheric Currents]] - Magical theory foundation
-- [[12_Research/D&D_References/Intervention Windows]] - Timing technique
+- [[Redirector's Guild]] - Professional organization
+- [[Department of Subtle Interventions]] - Intelligence application
+- [[Project Mindbridge]] - Experimental research program
+- [[Redirection Syndrome]] - Occupational hazard condition
+- [[The Last Resort Procedures]] - Emergency protocols
+- [[Etheric Currents]] - Magical theory foundation
+- [[Intervention Windows]] - Timing technique
 
 ## Future Implications
 
@@ -480,8 +484,31 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Etheric Currents]]
+- [[Etheric Currents]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

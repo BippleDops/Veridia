@@ -1,17 +1,23 @@
+# Knocking Out a Creature Xphb
+
 ---
-created: 2025-08-11
-status: active
-tags:
-- active
-- both
-- content/npc
-- npc
-- status/in-progress
-- world/both
+title: Knocking Out a Creature Xphb
 type: NPC
+tags:
+- both
+- npc
+- research
+- world/both
+- content/npc
+- active
+- status/in-progress
+created: 2025-08-11
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T12:34:04.542650+00:00'
 world: Both
 ---
+
 
 
 
@@ -35,3 +41,8 @@ Legends speak of knocking out a creature xphb as a nexus where past and present 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,23 @@
+# The Eternal Senate
+
 ---
+title: The Eternal Senate
+type: Location
 tags:
 - aquabyssos
 - both
-- complete
-- government
-- location
-- parliament
 - political
+- research
+- government
+- active
+- parliament
+- location
+- complete
 - undead
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+population: 144
 location_name: The Eternal Senate Chamber
 location_type: Undead Parliamentary Complex
 parent_location: '[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
@@ -18,9 +28,9 @@ sub_locations:
 - '[[Memory Archive Vaults]]'
 - '[[The Speaker''s Throne]]'
 depth: 2200-2400 feet
-population: 144
 government: Undead Parliamentary Democracy
-ruler: '[[02_Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The Eternal Speaker]]'
+ruler: '[[02_Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The
+  Eternal Speaker]]'
 factions:
 - '[[The Original Senators]]'
 - '[[Shadow Replacements]]'
@@ -36,7 +46,8 @@ services:
 - Spectral Legal Consultation
 - Death Transition Counseling
 notable_npcs:
-- '[[02_Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The Eternal Speaker]]'
+- '[[02_Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The Eternal
+  Speaker]]'
 - '[[Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]]'
 - '[[Senator Morticia Graveheart]]'
 - '[[The Clerk of Souls]]'
@@ -44,15 +55,13 @@ current_state: Active undead parliament
 temporal_stability: 60
 shadow_density: High
 pressure_effects: Moderate
-status: complete
-created: '2025-08-11'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
-type: Location
 ---
+
 
 
 > [!figure] View
@@ -436,3 +445,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Abyssos Prime]]
+
+
+## Related
+
+*Links to related content will be added here.*

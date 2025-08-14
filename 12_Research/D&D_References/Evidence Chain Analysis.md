@@ -1,31 +1,38 @@
+# Evidence Chain Analysis
+
 ---
+title: Evidence Chain Analysis
+type: Lore
 tags:
-- aquabyssos-aethermoor
+- evidence-analysis
+- lore
+- investigation-procedures
+- secret-investigation
+- investigation
 - both worlds
 - both-worlds
-- complete
+- research
 - conspiracy-detection
-- evidence-analysis
-- forensic-methodology
+- active
 - hidden-knowledge
-- investigation
-- investigation-procedures
-- lore
-- methodology
-- secret-investigation
 - truth-seeking
+- complete
+- methodology
+- forensic-methodology
+- aquabyssos-aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both Worlds
-type: Lore
 system_type: Investigation Methodology
 scope: Multiversal - applicable to investigations across both worlds
 complexity_level: 9
 application_period: Developed over 200 years, refined for conspiracy investigation
 primary_users: Independent Investigators, Truth Seekers, Conspiracy Researchers
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:35.213376+00:00'
 ---
+
 
 
 

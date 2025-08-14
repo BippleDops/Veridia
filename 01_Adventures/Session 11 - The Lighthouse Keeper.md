@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 11   The Lighthouse Keeper
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 11 - The Lighthouse Keeper
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-witness-protection-protocol-v1-witness-protection-protocol.svg]]
+- [[04_Resources_Assets_Locations_location-city-master-engineer-cordelia-pressurewright-master-engineer-cordelia-pressurewright.svg]]
+- [[Quest - The Queen's Secret]]
+- [[04_Resources_Assets_Locations_location-city-dr-marina-voidstudier-dr-marina-voidstudier.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-faction-intelligence-faction-intelligence.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-quest-harbor-security-v1-quest-harbor-security.svg]]
+- [[Flow Circlemaker]]
+- [[04_Resources_Assets_Locations_location-city-the-observatory-the-observatory.svg]]

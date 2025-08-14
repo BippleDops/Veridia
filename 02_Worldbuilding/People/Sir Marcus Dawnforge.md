@@ -1,14 +1,21 @@
 ---
+title: Sir Marcus Dawnforge
+type: NPC
+tags:
+- character
+- both
+- active
+- npc
 created: null
+modified: '2025-08-14'
+status: active
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.518486+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 
 > [!figure] Portrait
@@ -41,6 +48,16 @@ Sir Marcus Dawnforge is a conflicted veteran knight of the [[Order of the Shatte
 - **[[Captain Lyanna Brightshield]]**: Romantic tension - she investigates crystal crimes he's supposed to prevent
 - **[[High Inquisitor Maltheos]]**: Sees Marcus as too moderate, watches him for signs of "weakness"
 - **Ambassador [[Korvin Blacktide]]**: Suspects the Ambassador is corrupting Order members
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Formal and elaborate
+
+**Physical Habits**: Gestures expressively
 
 ## Current Activities
 - Training new Order recruits while subtly teaching them to think independently
@@ -103,6 +120,86 @@ Legends speak of Sir Marcus Dawnforge as a nexus where past and present converge
 - An NPC seeks discreet help at Sir Marcus Dawnforge to avert a public scandal.
 - A map overlay reveals a hidden approach to Sir Marcus Dawnforge active only during specific tides/storms.
 
+
+
+## Background
+
+Sir Marcus Dawnforge's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+## Motivations
+
+**Primary Goal**: Achieving fame
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Sir Marcus Dawnforge harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Cursed bloodline
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -113,6 +210,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-harbor-master-nereid-deepcurrent-harbor-master-nereid-deepcurrent.svg]]: *student*
+- [[#NPCs]]: *secret ally*
+- [[04_Resources_Assets_Symbols_symbol-heraldry-mobile-terror-platform-mobile-terror-platform.svg]]: *former lover*
 
 ## Connections
 

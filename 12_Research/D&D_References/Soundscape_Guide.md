@@ -1,9 +1,17 @@
+# Soundscape_Guide
+
 ---
+title: Soundscape Guide
 type: Lore
-status: draft
+tags:
+- active
+- research
 created: '2024-01-01'
+modified: '2025-08-14'
+status: draft
 updated: '2024-01-01T00:00:00+00:00'
 ---
+
 
 # Soundscape Guide
 
@@ -17,3 +25,8 @@ Recommendations:
 - Free SFX: freesound.org, Sonniss GDC bundles.
 
 Notes: loop-friendly 2–4 min tracks, crossfades, low-CPU players in VTT.
+
+
+## Related
+
+*Links to related content will be added here.*

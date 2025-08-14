@@ -1,16 +1,23 @@
+# Seven_Shards_Tracker
+
 ---
-created: null
-obsidianUIMode: preview
-status: complete
+title: Seven Shards Tracker
+type: Lore
 tags:
 - index
-- shards
 - status/complete
+- research
 - world/both
-type: Lore
+- shards
+- active
+created: null
+modified: '2025-08-14'
+status: complete
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.005834'
 world: Universal
 ---
+
 
 
 # Seven Shards Tracker
@@ -31,3 +38,7 @@ SORT file.name ASC
 ## Notes
 - Activation may require synchronized rituals during Convergence windows or negotiated consent with guardians.
 - Each shard’s impact shifts regional weather, economy, or faction standing when active.
+
+## Related
+
+*Links to related content will be added here.*

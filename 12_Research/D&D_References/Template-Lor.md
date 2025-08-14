@@ -1,17 +1,23 @@
+# Template-Lor
+
 ---
+title: Template Lor
 type: Template
+tags:
+- category/lore
+- both
+- active
+- research
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 updated: '2025-08-13T01:18:31.192984+00:00'
-created: '2025-08-11'
-tags:
-- active
-- both
-- category/lore
 MyContainer: []
 MyCategory: null
 obsidianUIMode: preview
 world: Both
 ---
+
 
 <%*
 const loreName = await tp.system.prompt("Enter Lore Name", tp.file.title);
@@ -132,3 +138,8 @@ Legends speak of Template Lor as a nexus where past and present converge. Locals
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

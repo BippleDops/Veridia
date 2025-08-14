@@ -1,33 +1,40 @@
+# Kraken Territories
+
 ---
+title: Kraken Territories
+type: Lore
 tags:
-- ancient-creatures
-- apex-predator
-- aquabyssos
-- complete
-- deep-sea
 - ecosystem
+- marine-life
+- territories
 - environment
-- geography
+- deep-sea
+- lore
+- underwater-domains
+- ancient-creatures
 - intelligence
 - kraken
-- lore
-- marine-life
-- natural-phenomena
-- ocean-depths
 - territorial-behavior
-- territories
-- underwater-domains
+- complete
+- natural-phenomena
+- aquabyssos
+- research
+- active
+- geography
+- ocean-depths
+- apex-predator
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 location_type: Marine Territory
 ecosystem: Deep Ocean Trenches and Abyssal Plains
 danger_level: 9
 access_difficulty: Extreme - requires specialized deep-sea equipment and kraken permission
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 

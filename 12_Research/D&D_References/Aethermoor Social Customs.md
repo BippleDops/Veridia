@@ -1,19 +1,26 @@
+# Aethermoor Social Customs
+
 ---
+title: Aethermoor Social Customs
+type: Lore
 tags:
-- aethermoor
-- culture
-- complete
-- aerial-customs
-- sky-society
 - wind-traditions
 - lore
-world: Aethermoor
-type: Lore
-status: complete
-created_by: cultural-expansion
+- culture
+- research
+- aerial-customs
+- sky-society
+- active
+- complete
+- aethermoor
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aethermoor
+created_by: cultural-expansion
 updated: '2025-08-12T00:00:00+00:00'
 ---
+
 
 # Aethermoor Social Customs
 *"Like the wind itself, our traditions are both gentle breeze and mighty gale - ever-present, ever-changing, ever-powerful."*
@@ -513,3 +520,7 @@ Use the aerial customs as a framework for creating realistic social interactions
 The altitude-based social hierarchy provides natural tension and conflict opportunities, while the various festivals and ceremonies offer chances for both celebration and disruption. Remember that these traditions are living customs that continue to evolve in response to changing atmospheric conditions and inter-realm relations.
 
 <!-- enriched: true -->
+
+## Related
+
+*Links to related content will be added here.*

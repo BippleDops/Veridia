@@ -1,29 +1,36 @@
+# Customs House 3
+
 ---
-category: Border Facility
+title: Customs House 3
+type: Lore
+tags:
+- lore
+- both
+- status/complete
+- customs-house
+- interdimensional-trade
+- dimensional-gateway
+- content/lore
+- world/both
+- research
+- active
+- border-control
+- complete
+- commerce
+- smuggling
+- world/aquabyssos
+- world/aethermoor
+- merged-reality
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+category: Border Facility
 created_by: auto-stub
 significance: Major Location
-status: complete
-tags:
-- border-control
-- both
-- commerce
-- complete
-- content/lore
-- customs-house
-- dimensional-gateway
-- interdimensional-trade
-- lore
-- merged-reality
-- smuggling
-- status/complete
-- world/aethermoor
-- world/aquabyssos
-- world/both
-type: Lore
 updated: '2025-08-13T12:34:28.668306+00:00'
 world: Both
 ---
+
 
 
 
@@ -417,3 +424,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Convergence Point]]
 - [[The Crimson Hand]]
 - [[The Seven Shards]]
+
+
+## Related
+
+*Links to related content will be added here.*

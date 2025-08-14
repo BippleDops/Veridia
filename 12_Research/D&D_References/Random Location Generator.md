@@ -1,17 +1,24 @@
+# Random Location Generator
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
+title: Random Location Generator
 type: Lore
+tags:
+- lore
+- both
+- content/lore
+- world/both
+- research
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:29.088250+00:00'
 world: Both
 ---
+
 
 
 

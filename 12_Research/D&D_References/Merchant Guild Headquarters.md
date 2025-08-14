@@ -1,15 +1,21 @@
+# Merchant Guild Headquarters
+
 ---
-tags:
-- active
-- both
-- location
+title: Merchant Guild Headquarters
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.595528+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-merchant-guild-headquarters-merchant-guild-headquarters.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Merchant Guild Headquarters|02 Worldbuilding/Places/Merchant Guild Headquarters]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

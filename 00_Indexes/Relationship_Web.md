@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Relationship Web
 type: index
-cssclass: relationship-web
 tags:
-- index
 - relationships
 - npcs
+- index
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+updated: 2025-08-14
+cssclass: relationship-web
 ---
+
 
 # 👥 Character Relationship Web
 

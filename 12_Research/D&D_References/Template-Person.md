@@ -1,16 +1,22 @@
+# Template-Person
+
 ---
+title: Template Person
+aliases:
+- characters other name
 type: Lore
+tags:
+- lore
+- both
+- research
+- active
+- category/people
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 MyContainer: []
 MyCategory: null
-tags:
-- active
-- both
-- category/people
-- lore
 obsidianUIMode: preview
-aliases:
-- characters other name
 NoteStatus: "\u2753"
 char_status: Alive
 char_race: Human
@@ -45,8 +51,8 @@ relationships:
   strength: 3
 world: Both
 updated: '2025-08-13T01:18:31.190995+00:00'
-created: '2025-08-11'
 ---
+
 
 
 
@@ -308,3 +314,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Lore/Template_Person_Placeholder.png|02 Worldbuilding/Lore/Template Person Placeholder.png]]
+
+
+## Related
+
+*Links to related content will be added here.*

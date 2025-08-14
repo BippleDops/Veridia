@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Contradiction Chamber
+type: Lore
 tags:
-- aethermoor
-- complete
+- lore
 - content/lore
 - content/npc
-- lore
-- status/in-progress
 - world/aethermoor
-type: Lore
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.176292+00:00'
 world: Aethermoor
 ---
+
 
 
 ## Overview

@@ -1,17 +1,23 @@
+# Aquabyssos_Session_10
+
 ---
 title: "Session Packet \u2014 Aquabyssos Session 10"
 type: session_packet
-session_number: 10
-campaign_name: Aquabyssos
-status: ready
-created: null
-updated: '2025-08-13T01:18:31.120422+00:00'
-world: Aquabyssos
 tags:
 - aquabyssos
 - ready
 - session_packet
+- research
+- active
+created: null
+modified: '2025-08-14'
+status: ready
+session_number: 10
+campaign_name: Aquabyssos
+updated: '2025-08-13T01:18:31.120422+00:00'
+world: Aquabyssos
 ---
+
 
 
 # Session Packet — Aquabyssos 10
@@ -64,3 +70,8 @@ Legends speak of Aquabyssos Session 10 as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

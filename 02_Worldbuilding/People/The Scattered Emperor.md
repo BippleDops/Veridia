@@ -1,11 +1,30 @@
 ---
+title: The Scattered Emperor
+type: Npc
+tags:
+- both
+- world/aquabyssos
+- npc
+- world/both
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+- content/mechanics
+- fragmented-consciousness
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+race: Distributed Consciousness
+class: Wizard/Aberration
+location: '[[Abyssos Prime - Throne of Bubbles]]'
+level: 20
 MyCategory: Unknown
 MyContainer: None
 ac: Variable
 alignment: Chaotic Neutral
-class: Wizard/Aberration
 consciousness_fragments: 10000
-created: '2025-08-12'
 current_hp: Distributed
 depth_adapted: 6
 description: Consciousness scattered across thousands of sea creatures, primarily
@@ -17,8 +36,6 @@ first_name: Malachus
 influence: 10
 last_encounter: '[[Aquabyssos - Session 01 - The Drowning Welcome]]'
 last_name: the Eternal
-level: 20
-location: '[[Abyssos Prime - Throne of Bubbles]]'
 max_hp: Infinite
 notes: Fragmented himself to avoid shadow replacement. Each fragment has different
   personality aspect.
@@ -26,7 +43,6 @@ obsidianUIMode: preview
 occupation: Fragmented Ruler
 original_race: Human
 portrait: ''
-race: Distributed Consciousness
 related_quests:
 - '[[Unite the Emperor]]'
 - '[[Investigate Shadow Conspiracy]]'
@@ -49,22 +65,10 @@ stats:
   int: 22
   str: Variable
   wis: 8
-status: complete
-tags:
-- both
-- complete
-- content/mechanics
-- content/npc
-- fragmented-consciousness
-- npc
-- status/in-progress
-- world/aquabyssos
-- world/both
-title: The Scattered Emperor
-type: Npc
 updated: '2025-08-13T12:34:17.543151+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -102,7 +106,13 @@ Malachus was the greatest mage-emperor in history, ruling the surface empire of 
 ### The Fragmentation
 When shadows began gaining independence 50 years ago, Malachus realized that a single consciousness could be replaced. In paranoid brilliance, he shattered his mind across thousands of creatures, making shadow replacement impossible. No shadow can replace what has no single form.
 
-## Personality Fragments
+## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more calculating
+- **When Pleased**: Shows quiet pride
+- **In Conflict**: Tends toward manipulation
+ Fragments
 
 ### Major Aspects (In Different Eels)
 1. **The Paranoid:** Suspects everyone of betrayal
@@ -315,6 +325,13 @@ He partially succeeded. Aquabyssos exists in a state between real and unreal, wh
 *"We were many to avoid becoming none. Now we become none to save many."*
 
 
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-dr-bloodletting-captain-dr-bloodletting.svg]]: *student*
+- [[04_Resources_Assets_Locations_location-city-captain-marlowe-tidecrest-captain-marlowe-tidecrest.svg]]: *patron*
+
 ## Connections
 
 - [[The Convergence Point]]
@@ -337,6 +354,124 @@ Legends speak of The Scattered Emperor as a nexus where past and present converg
 - A rumor ties The Scattered Emperor to a missing shipment, linking factions with competing claims.
 - An NPC seeks discreet help at The Scattered Emperor to avert a public scandal.
 - A map overlay reveals a hidden approach to The Scattered Emperor active only during specific tides/storms.
+
+
+
+## Appearance
+
+The Scattered Emperor presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Finding purpose
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+The Scattered Emperor harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Cursed bloodline
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Peppered with idioms
+
+**Physical Habits**: Remains perfectly still
+
+## Current Activities
+
+The Scattered Emperor is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: The Scattered Emperor needs assistance with a delicate matter
+2. **The Opposition**: Someone wants The Scattered Emperor stopped or removed
+3. **The Secret**: Information about The Scattered Emperor's past surfaces
+4. **The Alliance**: Opportunity to work with or against The Scattered Emperor
+5. **The Crisis**: The Scattered Emperor is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 

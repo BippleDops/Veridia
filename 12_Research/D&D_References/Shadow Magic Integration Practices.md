@@ -1,34 +1,41 @@
+# Shadow Magic Integration Practices
+
 ---
+title: Shadow Magic Integration Practices
+type: Lore
 tags:
-- adaptation
-- both
-- both-worlds
-- complete
-- cultural-adaptation
-- culture
-- daily-life
-- integration
 - lore
-- magic
-- magical-system
+- both
+- culture
 - post-catastrophe
-- shadow-harmonization
+- magic
 - shadow-magic
-- society
+- both-worlds
+- integration
+- magical-system
+- cultural-adaptation
 - umbral-techniques
+- active
+- research
+- adaptation
+- complete
+- daily-life
+- society
+- shadow-harmonization
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Lore
 category: Magical Integration System
 significance: Cultural Foundation
 created_by: cultural-expansion
-created: '2025-08-11'
 updated: '2025-08-11T00:00:00+00:00'
 magical_school: Shadow/Umbral Magic
 practitioner_level: Community-wide Integration
 safety_rating: Regulated but Accessible
 cultural_impact: Fundamental
 ---
+
 
 
 
@@ -673,3 +680,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Master_Lore_Index|Master Lore Index]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

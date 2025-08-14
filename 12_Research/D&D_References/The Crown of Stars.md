@@ -1,17 +1,24 @@
+# The Crown of Stars
+
 ---
+title: The Crown of Stars
+type: Lore
 tags:
-- artifact
-- celestial_power
-- completed
+- lore
 - convergence
+- completed
+- celestial_power
 - dual
 - dual_world
-- legendary_artifact
-- lore
 - royal_regalia
 - stellar_magic
+- research
+- legendary_artifact
+- active
+- artifact
+created: '2025-08-11'
+modified: '2025-08-14'
 status: completed
-type: Lore
 world: dual
 connections:
 - '[[Queen Seraphina]]'
@@ -27,8 +34,8 @@ themes:
 - dual_world_sovereignty
 - price_of_power
 updated: '2025-08-11T00:00:00+00:00'
-created: '2025-08-11'
 ---
+
 
 
 
@@ -247,3 +254,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Deep Mother]]
 - [[The Sundering]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,14 +1,20 @@
+# Trade War
+
 ---
-updated: '2025-08-13T01:18:36.332306+00:00'
-created: '2025-08-11'
+title: Trade War
+type: location
 tags:
 - aquabyssos
 - category/place
-- complete
+- research
+- active
 - location
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
+updated: '2025-08-13T01:18:36.332306+00:00'
 world: Aquabyssos
-type: location
 obsidianUIMode: preview
 accessibility:
   screen_reader_summary: Trade War is a notable location in Aquabyssos shaped by tidal
@@ -22,6 +28,7 @@ accessibility:
   - X-Card
   - Open Door
 ---
+
 
 
 
@@ -89,3 +96,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Phosphor Markets]]
+
+
+## Related
+
+*Links to related content will be added here.*

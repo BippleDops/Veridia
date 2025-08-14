@@ -1,24 +1,31 @@
+# otherworldly-steed-xphb
+
 ---
+title: otherworldly steed xphb
 aliases:
 - Otherworldly Steed
+type: monster
+tags:
+- ttrpg-cli/monster/cr/
+- monster
+- research
+- ttrpg-cli/monster/size/large
+- world/both
+- active
+- ttrpg-cli/monster/type/
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/
-- world/both
-type: monster
 updated: '2025-08-12T23:37:35.404866'
 world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -88,3 +95,8 @@ Legends speak of otherworldly steed xphb as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

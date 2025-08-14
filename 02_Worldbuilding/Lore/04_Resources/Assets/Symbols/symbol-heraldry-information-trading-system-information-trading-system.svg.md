@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry information trading system information trading system.svg
+aliases:
+- symbol heraldry information trading system information trading systemsvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-information-trading-system-information-trading-system.svg
 
@@ -24,9 +30,9 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
-- [[12_Research/D&D_References/Information Trading System]]
-- [[12_Research/D&D_References/Information_Trading_System]]
+- [[Faction Symbols & Heraldry]]
+- [[Information Trading System]]
+- [[Information_Trading_System]]
 
 ## Notes
 

@@ -1,34 +1,41 @@
+# Lord Reginald Seaworthy
+
 ---
-tags:
-- aethermoor-liaison
-- ambassador
-- aquabyssos
-- complete
-- diplomat
-- influential
-- location
-- nobility
-- npc
-- person
-- political
-- surface-relations
-status: complete
-world: Aquabyssos
+title: Lord Reginald Seaworthy
 type: Location
-category: Noble Diplomat
+tags:
+- aquabyssos
+- ambassador
+- diplomat
+- person
+- aethermoor-liaison
+- npc
+- political
+- research
+- influential
+- active
+- location
+- complete
+- surface-relations
+- nobility
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 race: Human
 class: Noble
 location: '[[Royal Palace]] - Diplomatic Wing'
+world: Aquabyssos
+category: Noble Diplomat
 faction: '[[Parliament of Echoes]] - Diplomatic Corps'
 influence: High
 danger_level: Low
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.374717+00:00'
 MyContainer: None
 MyCategory: Diplomat
 obsidianUIMode: preview
 ---
+
 
 
 
@@ -167,3 +174,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Aethermoor]]
 - [[Ambassador Lysandra Silvertonge]]
 - [[Parliament of Echoes]]
+
+
+## Related
+
+*Links to related content will be added here.*

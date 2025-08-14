@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: '#Faction Based Organization'
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+![#Faction-Based Organization](../../04_Resources/Assets/Generated/Misc/_faction_based_organization.png)
+
+
 
 # #Faction-Based Organization
 
@@ -24,7 +34,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Master_People_Index]]
+- [[Master_People_Index]]
 
 ## Notes
 
@@ -35,3 +45,8 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-scarlet-torrent-captain-scarlet-torrent.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-nerion-deepward-captain-nerion-deepward.svg]]

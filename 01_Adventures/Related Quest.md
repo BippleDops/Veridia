@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Related Quest
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Related Quest
 
@@ -35,3 +41,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Locations_location-city-master-cultivator-reef-growstone-v1-master-cultivator-reef-growstone.svg]]
+- [[The Pearl Heist]]
+- [[Quest - The Blackmail Papers]]
+- [[The Bloodline Carrier]]
+- [[Lord Magistrate Aldrich Thornwick]]
+
+
+## Important Locations
+
+- [[Luminar the Builder]]
+- [[Twilight Depths]]
+- [[Living Reef]]

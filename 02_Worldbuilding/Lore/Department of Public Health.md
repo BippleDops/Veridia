@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- shadow-touched
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
+title: Department of Public Health
 type: Lore
+tags:
+- lore
+- both
+- content/lore
+- world/both
+- active
+- complete
+- status/in-progress
+- shadow-touched
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:15.960996+00:00'
 world: Both
 ---
+
 
 
 ## Cross-References
@@ -22,7 +26,7 @@ world: Both
 
 ## Connections
 
-- [[12_Research/D&D_References/Investigate Shadow Surgeons]]
+- [[Investigate Shadow Surgeons]]
 
 ## Player-Facing Summary
 

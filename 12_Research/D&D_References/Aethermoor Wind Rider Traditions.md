@@ -1,19 +1,26 @@
+# Aethermoor Wind Rider Traditions
+
 ---
+title: Aethermoor Wind Rider Traditions
+type: Lore
 tags:
-- aerial-customs
-- aethermoor
-- complete
-- culture
 - lore
-- tradition
+- culture
 - wind-riders
+- research
+- aerial-customs
+- active
+- complete
+- aethermoor
+- tradition
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 created_by: cultural-expansion
-created: '2025-08-11'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 # Aethermoor Wind Rider Traditions
@@ -401,3 +408,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[The Wind Shrine Archipelago|02 Worldbuilding/Lore/The Wind Shrine Archipelago]]
+
+
+## Related
+
+*Links to related content will be added here.*

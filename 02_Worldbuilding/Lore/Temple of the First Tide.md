@@ -1,42 +1,46 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- crystal-enhanced
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
+title: Temple of the First Tide
 type: Lore
+tags:
+- lore
+- both
+- content/lore
+- world/both
+- active
+- complete
+- status/in-progress
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.143836+00:00'
 world: Both
 ---
 
 
+
 ## Cross-References
 
-- [[12_Research/D&D_References/Thalassius the Wise]]
+- [[Thalassius the Wise]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Crystal Forest]]
-- [[12_Research/D&D_References/Deep Mother Lore]]
-- [[12_Research/D&D_References/Kraken Territories]]
-- [[12_Research/D&D_References/Pressure Adaptation System]]
-- [[12_Research/D&D_References/Thalassius the Wise]]
-- [[12_Research/D&D_References/The Crimson Hand]]
-- [[12_Research/D&D_References/The Deep Harvest]]
-- [[12_Research/D&D_References/The Great Convergence Prophecies]]
-- [[12_Research/D&D_References/The Pressure Baptism Rites]]
-- [[12_Research/D&D_References/The Restoration Movement]]
-- [[12_Research/D&D_References/The Seven Betrayers]]
-- [[12_Research/D&D_References/The Silverscale Conspiracy]]
-- [[12_Research/D&D_References/Tidal Chambers]]
-- [[12_Research/D&D_References/Tidal Memory Ceremonies]]
-- [[12_Research/D&D_References/Aethermoor]]
+- [[Crystal Forest]]
+- [[Deep Mother Lore]]
+- [[Kraken Territories]]
+- [[Pressure Adaptation System]]
+- [[Thalassius the Wise]]
+- [[The Crimson Hand]]
+- [[The Deep Harvest]]
+- [[The Great Convergence Prophecies]]
+- [[The Pressure Baptism Rites]]
+- [[The Restoration Movement]]
+- [[The Seven Betrayers]]
+- [[The Silverscale Conspiracy]]
+- [[Tidal Chambers]]
+- [[Tidal Memory Ceremonies]]
+- [[Aethermoor]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -63,3 +67,31 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Overview
+
+Temple of the First Tide represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

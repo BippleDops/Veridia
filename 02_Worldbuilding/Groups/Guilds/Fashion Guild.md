@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Fashion Guild
+type: Faction
 tags:
 - both
-- complete
 - content/faction
 - faction
-- status/in-progress
+- organization
 - world/both
-type: Faction
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.460614+00:00'
 world: Both
 ---
+
 
 
 ## Player-Facing Summary
@@ -33,3 +40,10 @@ Legends speak of Fashion Guild as a nexus where past and present converge. Local
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Known Members
+
+- [[04_Resources_Assets_Portraits_portrait-npc-trade-captain-sterling-trade-captain-sterling.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-null-cathedral-v1-the-null-cathedral.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-thaddeus-blackwater-captain-thaddeus-blackwater.svg]]

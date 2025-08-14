@@ -1,23 +1,28 @@
+# Boon of the Stormborn
+
 ---
+title: Boon of the Stormborn
 aliases:
 - Boon of the Stormborn
-created: 2025-07-23
-cssclasses: json5e-reward
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
+- research
+- world/both
+- active
 - note
-- status/in-progress
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/reward/boon
-- world/both
-type: note
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-reward
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:05.128407+00:00'
 world: Both
 ---
+
 
 
 # Boon of the Stormborn
@@ -45,3 +50,8 @@ Legends speak of boon of the stormborn as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,18 +1,25 @@
+# Party Information
+
 ---
+title: Party Information
+type: Lore
 tags:
-- aquabyssos
-- campaign-mechanics
-- character-data
-- complete
 - lore
+- aquabyssos
 - party-tracking
+- research
+- active
+- complete
+- character-data
+- campaign-mechanics
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 

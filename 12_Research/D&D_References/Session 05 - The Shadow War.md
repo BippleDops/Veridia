@@ -1,15 +1,21 @@
+# Session 05 - The Shadow War
+
 ---
-tags:
-- active
-- aquabyssos
-- lore
-- session
+title: Session 05   The Shadow War
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- session
+- research
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.710826+00:00'
 ---
+
 
 
 
@@ -47,3 +53,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Aquabyssos - Session 04 - High Tide Horror]]
+
+
+## Related
+
+*Links to related content will be added here.*

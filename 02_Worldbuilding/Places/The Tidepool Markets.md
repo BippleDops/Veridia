@@ -1,10 +1,30 @@
 ---
-affiliation: Independent Merchants (Loosely [[12_Research/D&D_References/The Liminal Trading Company]] influenced)
+title: The Tidepool Markets
+type: Location
+tags:
+- mechanics/social
+- aquabyssos
+- trade-hub
+- status/complete
+- quest
+- content/location
+- place
+- active
+- combat
+- complete
+- location
+- world/aquabyssos
+- tidal-influenced
+- crystal-enhanced
 created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: ~2,000 daily traders, 10,000+ daily customers
+affiliation: Independent Merchants (Loosely [[The Liminal Trading Company]] influenced)
 created_by: Claude
 danger_level: 2
 location_type: Floating Marketplace
-population: ~2,000 daily traders, 10,000+ daily customers
 services:
 - Trade
 - Crafting
@@ -13,24 +33,10 @@ services:
 - Information
 significance: Major (Primary Commercial Hub)
 size: Large Complex (50+ Individual Markets)
-status: complete
-tags:
-- combat
-- quest
-- crystal-enhanced
-- aquabyssos
-- complete
-- content/location
-- location
-- mechanics/social
-- status/complete
-- tidal-influenced
-- trade-hub
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.639284+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -98,7 +104,7 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 #### The Deep Current Exchange (High Tide Only)
 
 - **Primary Goods**: Bulk commodities, raw materials, industrial supplies
-- **Major Players**: [[12_Research/D&D_References/The Liminal Trading Company]] and other large trading houses
+- **Major Players**: [[The Liminal Trading Company]] and other large trading houses
 - **Infrastructure**: Massive cranes, cargo handling, warehouse complexes
 - **Security**: Professional guards and merchant guild enforcement
 - **Specialization**: International trade and large-scale commercial transactions
@@ -132,14 +138,14 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 #### The Memory Exchange
 
 - **Services**: Legal memory trading, experience sharing, therapeutic recall
-- **Practitioners**: Reformed [[12_Research/D&D_References/Memory Farmers]] operating ethical businesses
+- **Practitioners**: Reformed [[Memory Farmers]] operating ethical businesses
 - **Regulations**: Strict oversight ensuring consensual transactions
 - **Medical Support**: Qualified healers managing memory-related health issues
 - **Cultural Programs**: Educational experiences and historical preservation
 
 #### The Crystal Workshop District
 
-- **Focus**: Items incorporating [[12_Research/D&D_References/The Seven Shards]] energy or crystal technology
+- **Focus**: Items incorporating [[The Seven Shards]] energy or crystal technology
 - **Craftsmen**: Specialists in crystal manipulation and enhancement
 - **Raw Materials**: Fragments and components for magical item creation
 - **Research Services**: Analysis and identification of unknown magical items
@@ -221,7 +227,7 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 
 #### Deepcurrent Trading Post
 
-- **Owner**: [[12_Research/D&D_References/Marina Goldtide]], veteran merchant with 30 years experience
+- **Owner**: [[Marina Goldtide]], veteran merchant with 30 years experience
 - **Specialization**: High-quality goods from across Aquabyssos
 - **Reputation**: Known for honest dealing and authentic products
 - **Services**: Custom orders, bulk purchases, international shipping
@@ -229,7 +235,7 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 
 #### The Salvage Crown
 
-- **Owner**: [[12_Research/D&D_References/Captain Rex Ironhaul]], former deep-sea explorer
+- **Owner**: [[Captain Rex Ironhaul]], former deep-sea explorer
 - **Specialization**: Rare items recovered from dangerous locations
 - **Inventory**: Constantly changing collection of unique finds
 - **Stories**: Every item comes with tale of its discovery
@@ -245,7 +251,7 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 
 #### The Memory Well
 
-- **Proprietor**: [[12_Research/D&D_References/Sage Finn Remembrance]], ethical memory specialist
+- **Proprietor**: [[Sage Finn Remembrance]], ethical memory specialist
 - **Services**: Legal memory trading, therapeutic recall, cultural preservation
 - **Ethics**: Strict standards ensuring consensual and beneficial transactions
 - **Education**: Classes on memory magic and its responsible use
@@ -359,7 +365,7 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 #### The Tide Prophecy
 
 **Level**: 10-15  
-**Hook**: [[12_Research/D&D_References/Oracle Nerida the Tidereader]] predicts disaster befalling markets  
+**Hook**: [[Oracle Nerida the Tidereader]] predicts disaster befalling markets  
 **Urgency**: Limited time to prevent economic catastrophe affecting entire realm  
 **Complexity**: Multiple possible interpretations of prophetic warnings  
 **Investigation**: Determine which threat is real and how to prevent it  
@@ -413,7 +419,7 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 
 #### Crystal Formations
 
-- **Natural Crystals**: Small [[12_Research/D&D_References/The Seven Shards]] fragments in tidepool rock formations
+- **Natural Crystals**: Small [[The Seven Shards]] fragments in tidepool rock formations
 - **Enhancement**: Crystals naturally improve preservation of goods and materials
 - **Navigation**: Glowing crystals provide navigation aids during low light
 - **Research**: Scientists study connection between crystals and tidal patterns
@@ -465,14 +471,35 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 
 ## Connected Elements
 
-- Central hub for [[12_Research/D&D_References/The Liminal Trading Company]] operations
+- Central hub for [[The Liminal Trading Company]] operations
 - Connected to all major settlements and factions through trade relationships
-- Links to [[12_Research/D&D_References/The Seven Shards]] through crystal formations and crystal-based commerce
-- Associated with reformed [[12_Research/D&D_References/Memory Farmers]] through ethical memory trading
-- Connected to [[12_Research/D&D_References/Oracle Nerida the Tidereader]] through tidal prediction needs
+- Links to [[The Seven Shards]] through crystal formations and crystal-based commerce
+- Associated with reformed [[Memory Farmers]] through ethical memory trading
+- Connected to [[Oracle Nerida the Tidereader]] through tidal prediction needs
 - Links to international trade and cross-realm commerce
 - Associated with maritime industries and deep-sea resource exploitation
 - Connected to cultural and educational institutions through diverse merchant knowledge
+
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
 
 ## DM Notes
 
@@ -502,7 +529,7 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 
 ## Connections
 
-- [[12_Research/D&D_References/Old Sally Seasprayer]]
+- [[Old Sally Seasprayer]]
 
 ## Player-Facing Summary
 
@@ -520,14 +547,108 @@ Legends speak of The Tidepool Markets as a nexus where past and present converge
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Tidepool Markets]]
+- [[The Tidepool Markets]]
 
 <!-- enriched: true -->
-- [[12_Research/D&D_References/The Liminal Trading Company]]
-- [[12_Research/D&D_References/Oracle Nerida the Tidereader]]
-- [[12_Research/D&D_References/Memory Farmers]]
+- [[The Liminal Trading Company]]
+- [[Oracle Nerida the Tidereader]]
+- [[Memory Farmers]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-the-bone-colosseum-the-bone-colosseum.svg]]
+- [[Luna Shimmerleaf]]
+- [[04_Resources_Assets_Locations_location-city-marina-bridgewater-marina-bridgewater.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+The Tidepool Markets is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Tidepool Markets
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+The Tidepool Markets was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting The Tidepool Markets:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Tidepool Markets
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

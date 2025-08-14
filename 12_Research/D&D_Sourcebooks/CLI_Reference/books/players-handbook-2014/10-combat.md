@@ -1,20 +1,26 @@
+# 10-combat
+
 ---
+title: 10 combat
 aliases:
 - Combat
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- ttrpg-cli/compendium/src/5e/phb
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/phb
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.864107'
 world: Both
 ---
+
 
 # Combat
 *Source: Player's Handbook (2014), p. 189* 
@@ -593,3 +599,8 @@ Legends speak of 10 combat as a nexus where past and present converge. Locals de
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

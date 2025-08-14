@@ -1,9 +1,16 @@
 ---
+title: step 010
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 7
 step: 10
 total_step: 610
 ---
+
 
 # Phase 7 - Step 10
 

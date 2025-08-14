@@ -1,18 +1,24 @@
+# Crystal Plague Origins
+
 ---
-tags:
-- active
-- aquabyssos
-- crystal-plague
-- history
-- lore
-- medical-crisis
-- patient-zero
+title: Crystal Plague Origins
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- patient-zero
+- history
+- crystal-plague
+- research
+- medical-crisis
+- active
 created: '2025-08-12'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.079497+00:00'
 ---
+
 
 
 # Crystal Plague Origins
@@ -318,3 +324,8 @@ Legends speak of Crystal Plague Origins as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

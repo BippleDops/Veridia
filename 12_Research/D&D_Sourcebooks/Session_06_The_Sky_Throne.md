@@ -1,16 +1,24 @@
+# Session_06_The_Sky_Throne
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- campaign/seven-shards
-- session-guide
-- world/aethermoor
-- investigation
-- court-intrigue
+title: Session 06 The Sky Throne
 type: Quest
+tags:
+- aethermoor
+- court-intrigue
+- investigation
+- session-guide
+- research
+- active
+- world/aethermoor
+- campaign/seven-shards
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T07:30:00.000000+00:00'
 world: Aethermoor
 ---
+
 
 # Session 6: The Sky Throne
 
@@ -335,3 +343,7 @@ As the party attempts to claim or secure the Fifth Shard, **The Collector's** ag
 ---
 
 *"In the heights, perspective changes everything. What seemed vast from below reveals itself as merely one layer of an infinite sky."* - Abbot Serenity Cloudheart
+
+## Related
+
+*Links to related content will be added here.*

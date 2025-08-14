@@ -1,19 +1,26 @@
+# Economic Crime Methods
+
 ---
-world: Both
-updated: '2025-08-13T01:18:35.926651+00:00'
-created: '2025-08-12'
-status: complete
+title: Economic Crime Methods
+type: Lore
 tags:
+- economy
+- lore
 - both
+- research
+- financial
+- active
 - complete
+- fraud
 - corruption
 - crime
-- economy
-- financial
-- fraud
-- lore
-type: Lore
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Both
+updated: '2025-08-13T01:18:35.926651+00:00'
 ---
+
 
 
 > [!figure] Economic Crimes
@@ -522,3 +529,8 @@ Consider how different types of economic crime create different kinds of moral q
 
 The sophisticated nature of economic crime allows for complex plots that develop over multiple sessions, requiring careful investigation, strategic thinking, and difficult moral decisions. These crimes often involve legitimate institutions and respected individuals, creating ambiguity about who can be trusted.
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,9 +1,16 @@
 ---
+title: step 046
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 87
 step: 46
 total_step: 8646
 ---
+
 
 # Phase 87 - Step 46
 

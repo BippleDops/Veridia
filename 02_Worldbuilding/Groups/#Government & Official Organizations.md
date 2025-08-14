@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: '#Government & Official Organizations'
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+![#Government & Official Organizations](../../04_Resources/Assets/Generated/Misc/_government___official_organizations.png)
+
+
 
 # #Government & Official Organizations
 
@@ -24,7 +34,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Master_Groups_Index]]
+- [[Master_Groups_Index]]
 
 ## Notes
 
@@ -35,3 +45,7 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[Captain Marcus Ironwill]]

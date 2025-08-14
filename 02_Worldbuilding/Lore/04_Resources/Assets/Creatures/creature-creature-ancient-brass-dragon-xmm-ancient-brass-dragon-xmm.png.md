@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: creature creature ancient brass dragon xmm ancient brass dragon xmm.png
+aliases:
+- creature creature ancient brass dragon xmm ancient brass dragon xmmpng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Creatures/creature-creature-ancient-brass-dragon-xmm-ancient-brass-dragon-xmm.png
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Creatures Gallery]]
+- [[Creatures Gallery]]
 - [[12_Research/D&D_Sourcebooks/CLI_Reference/bestiary/dragon/ancient-brass-dragon-xmm]]
 - [[12_Research/D&D_Sourcebooks/CLI_Reference/bestiary/dragon/Ancient Brass Dragon Xmm]]
 

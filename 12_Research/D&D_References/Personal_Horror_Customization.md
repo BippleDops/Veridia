@@ -1,17 +1,23 @@
+# Personal_Horror_Customization
+
 ---
 title: Personal Horror Customization
 type: mechanics
-status: complete
 tags:
 - both
-- complete
-- horror
 - mechanics
 - personal
+- research
+- active
+- horror
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:37.097617+00:00'
 world: Both
 ---
+
 
 
 # Personal Horror Customization

@@ -1,12 +1,32 @@
+# Aquabyssos - Session 02 - The Parliament's Paradox
+
 ---
+title: The Parliament's Paradox
+type: Lore
+tags:
+- lore
+- aquabyssos
+- campaign/session
+- political
+- content/lore
+- prepared
+- research
+- active
+- draft
+- world/aquabyssos
+- temporal
+- paradox
+created: '2025-08-11'
+modified: '2025-08-14'
+status: draft
+location: '[[Parliament of Echoes]] - Debate Chambers'
+level: 5
+session_number: 2
+date_played: null
 MyCategory: Unknown
 MyContainer: None
-created: '2025-08-11'
-date_played: null
 depth: 1,800 feet
 estimated_time: 4 hours
-level: 5
-location: '[[Parliament of Echoes]] - Debate Chambers'
 npcs_featured:
 - '[[Senator Glaucus]]'
 - '[[The Forgotten Representative]]'
@@ -17,24 +37,10 @@ quests_advanced:
 - '[[Shadow Conspiracy Investigation]]'
 - '[[Temporal Anomaly Resolution]]'
 - '[[The Vote Vault Mystery]]'
-session_number: 2
-status: draft
-tags:
-- aquabyssos
-- campaign/session
-- content/lore
-- draft
-- lore
-- paradox
-- political
-- prepared
-- temporal
-- world/aquabyssos
-title: The Parliament's Paradox
-type: Lore
 updated: '2025-08-13T12:34:17.855077+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -299,3 +305,8 @@ During the night, the party witnesses their shadows having a meeting without the
 - [[Amnesia Gallery]]
 - [[The Forgotten Representative]]
 - [[Vote Vaults]]
+
+
+## Related
+
+*Links to related content will be added here.*

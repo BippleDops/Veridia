@@ -1,14 +1,20 @@
+# Quest - The Betrayers' Truth
+
 ---
-tags:
-- active
-- both
-- npc
+title: Quest   The Betrayers' Truth
 type: NPC
-world: Both
-status: active
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.853769+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-quest-the-betrayers-truth-quest-the-betrayers-truth.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Crimson Sage]]
+
+
+## Related
+
+*Links to related content will be added here.*

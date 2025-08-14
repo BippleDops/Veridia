@@ -1,22 +1,27 @@
+# List Spells Classes Oath of Glory Xphb
+
 ---
+title: List Spells Classes Oath of Glory Xphb
 aliases:
 - Spells for Oath of Glory
-created: 2025-07-23 12:39
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
 - mechanics/magic
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- world/both
-type: note
+created: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:04.703325+00:00'
 world: Both
 ---
+
 
 
 # Spells for Oath of Glory
@@ -65,3 +70,8 @@ Legends speak of list spells classes oath of glory xphb as a nexus where past an
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

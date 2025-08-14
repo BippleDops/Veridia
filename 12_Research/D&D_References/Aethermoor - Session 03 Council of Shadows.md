@@ -1,12 +1,31 @@
+# Aethermoor - Session 03 Council of Shadows
+
 ---
+title: Council of Shadows
+type: Lore
+tags:
+- lore
+- intrigue
+- campaign/session
+- political
+- content/lore
+- prepared
+- research
+- world/aethermoor
+- murder
+- active
+- draft
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: draft
+location: '[[Port Meridian]] - Noble Quarter'
+level: 3
+session_number: 3
+date_played: null
 MyCategory: Unknown
 MyContainer: None
-created: '2025-08-11'
-date_played: null
 estimated_time: 3-4 hours
-level: 3
-location: '[[Port Meridian]]
-  - Noble Quarter'
 npcs_featured:
 - '[[Lord Aurelius Goldwave]]'
 - '[[High Inquisitor Maltheos]]'
@@ -18,24 +37,10 @@ quests_advanced:
 - '[[Political Intrigue of Meridian]]'
 - '[[The Seven Shards Mystery]]'
 - '[[Investigate the Crystal Plague]]'
-session_number: 3
-status: draft
-tags:
-- aethermoor
-- campaign/session
-- content/lore
-- draft
-- intrigue
-- lore
-- murder
-- political
-- prepared
-- world/aethermoor
-title: Council of Shadows
-type: Lore
 updated: '2025-08-13T12:34:17.834831+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -257,3 +262,8 @@ During the midnight market raid, [[Brother Marcus Steelbane]] arrives franticall
 - [[Brother Marcus Steelbane]]
 - [[Lord Aurelius Goldwave]]
 - [[Cathedral of Light]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 02
 type: adventure
-status: active
 tags:
-- session-notes
-- crystal-enhanced
 - adventure
+- session-notes
+- quest
+- active
+- crystal-enhanced
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 02: [Medical Crisis]
 
@@ -55,7 +61,7 @@ tags:
 
 - [[Doctor/Researcher]] - Expertise and agenda
 - [[Patient Zero]] - Clues they hold
-- [[12_Research/D&D_References/Government Official]] - Political pressure
+- [[Government Official]] - Political pressure
 
 ## Discoveries This Session
 
@@ -65,3 +71,10 @@ tags:
 
 # campaign #crystal_plague #medical #session_02
 
+
+
+## Important Locations
+
+- [[Service Levels]]
+- [[04_Resources_Assets_Locations_location-city-the-phosphor-markets-the-phosphor-markets.png]]
+- [[04_Resources_Assets_Locations_location-city-the-memory-thief-the-memory-thief.svg]]

@@ -1,16 +1,23 @@
+# Encounter_Scaling_Guide
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- gm-resources
-- session-tools
-- encounters
-- scaling
-- balance
+title: Encounter Scaling Guide
 type: Tool
+tags:
+- encounters
+- session-tools
+- balance
+- research
+- gm-resources
+- active
+- scaling
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
+
 
 # Encounter Scaling Guide
 
@@ -282,3 +289,7 @@ world: Both
 - [[Pressure_Combat_Modifiers]]
 - [[Initiative_Tracker]]
 - [[Session_Planning_Template]]
+
+## Related
+
+*Links to related content will be added here.*

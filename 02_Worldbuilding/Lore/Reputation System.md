@@ -1,29 +1,33 @@
 ---
-complexity: Intermediate
-created: '2025-08-08'
-created_by: auto-stub
-status: complete
-system: D&D 5e
+title: Reputation System
+type: Lore
 tags:
-- combat
-- quest
-- crystal-enhanced
-- shadow-touched
-- aerial
-- both
-- complete
-- content/faction
-- content/lore
-- content/mechanics
-- influence
 - lore
+- both
+- aerial
 - reputation
 - status/complete
+- content/faction
+- quest
+- content/lore
 - world/both
-type: Lore
+- active
+- combat
+- complete
+- influence
+- content/mechanics
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+complexity: Intermediate
+created_by: auto-stub
+system: D&D 5e
 updated: '2025-08-13T12:34:16.395514+00:00'
 world: Both
 ---
+
 
 
 # Reputation System
@@ -31,11 +35,11 @@ world: Both
 *Social Standing in the Merged Realms*
 
 > *"In a world where surface and depth have collided, your reputation isn't just about what people think of you—it's about survival. The wrong word in the right place can seal borders, start wars, or save civilizations. Every action echoes through both realms, and memory runs deeper than the ocean trenches."*
-> — [[12_Research/D&D_References/Social Navigator Coral Diplomacy]], Master of Cross-Realm Relations
+> — [[Social Navigator Coral Diplomacy]], Master of Cross-Realm Relations
 
 ## Overview
 
-The Reputation System tracks characters' standing with various factions, organizations, settlements, and influential individuals across both [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]]. Unlike simple approval ratings, this system recognizes that reputation is multifaceted—you might be feared by enemies, respected by allies, and unknown to neutral parties, all simultaneously.
+The Reputation System tracks characters' standing with various factions, organizations, settlements, and influential individuals across both [[Aquabyssos]] and [[Aethermoor]]. Unlike simple approval ratings, this system recognizes that reputation is multifaceted—you might be feared by enemies, respected by allies, and unknown to neutral parties, all simultaneously.
 
 Reputation affects everything from prices in shops to access to restricted areas, availability of services, quest opportunities, and survival during political crises. In the merged realms, reputation with one faction can dramatically affect standing with their allies or enemies, creating complex webs of social consequence.
 
@@ -125,7 +129,7 @@ Actions affecting one faction often impact others based on their relationships:
 
 #### The Royal Court of Aquabyssos
 
-**Leadership**: [[12_Research/D&D_References/Queen Seraphina]] and the Royal Council
+**Leadership**: [[Queen Seraphina]] and the Royal Council
 **Values**: Order, tradition, stability, royal authority
 **Benefits by Reputation Level**:
 - **Honored+**: Access to royal audiences, noble titles available
@@ -142,7 +146,7 @@ Actions affecting one faction often impact others based on their relationships:
 
 #### The Silverscale Consortium
 
-**Leadership**: [[12_Research/D&D_References/Director Hadrian Silverscale]] and the Board
+**Leadership**: [[Director Hadrian Silverscale]] and the Board
 **Values**: Profit, efficiency, innovation, market dominance
 **Benefits by Reputation Level**:
 - **Honored+**: 20% discount on services, investment opportunities
@@ -159,7 +163,7 @@ Actions affecting one faction often impact others based on their relationships:
 
 #### The Deep Guard
 
-**Leadership**: [[12_Research/D&D_References/Captain Nautilus Deepwatch]] and the Command Structure
+**Leadership**: [[Captain Nautilus Deepwatch]] and the Command Structure
 **Values**: Duty, protection, law enforcement, citizen safety
 **Benefits by Reputation Level**:
 - **Honored+**: Legal assistance, guard cooperation
@@ -176,7 +180,7 @@ Actions affecting one faction often impact others based on their relationships:
 
 #### The Memory Merchants
 
-**Leadership**: [[12_Research/D&D_References/Memory Merchant Valeria]] and the Guild Council
+**Leadership**: [[Memory Merchant Valeria]] and the Guild Council
 **Values**: Knowledge, memory preservation, information trading
 **Benefits by Reputation Level**:
 - **Honored+**: Rare memory access, knowledge discounts
@@ -195,7 +199,7 @@ Actions affecting one faction often impact others based on their relationships:
 
 #### The Crystal Court
 
-**Leadership**: [[12_Research/D&D_References/Princess Celestia]] and the Crystal Nobility
+**Leadership**: [[Princess Celestia]] and the Crystal Nobility
 **Values**: Crystal harmony, aerial grace, artistic beauty
 **Benefits by Reputation Level**:
 - **Honored+**: Court invitations, crystal artifact access
@@ -212,7 +216,7 @@ Actions affecting one faction often impact others based on their relationships:
 
 #### The Wind Riders Guild
 
-**Leadership**: [[12_Research/D&D_References/Guildmaster Storm Skywright]] and the Flight Masters
+**Leadership**: [[Guildmaster Storm Skywright]] and the Flight Masters
 **Values**: Freedom, exploration, aerial mastery, independence
 **Benefits by Reputation Level**:
 - **Honored+**: Flight training, mount rental discounts
@@ -229,7 +233,7 @@ Actions affecting one faction often impact others based on their relationships:
 
 #### The Crystal Corruption Researchers
 
-**Leadership**: [[12_Research/D&D_References/Chief Researcher Prism Studywright]] and the Research Council
+**Leadership**: [[Chief Researcher Prism Studywright]] and the Research Council
 **Values**: Scientific progress, corruption understanding, cure development
 **Benefits by Reputation Level**:
 - **Honored+**: Research access, experimental treatments
@@ -265,7 +269,7 @@ Actions affecting one faction often impact others based on their relationships:
 
 #### The Shadow Cult
 
-**Leadership**: [[12_Research/D&D_References/The Unnamed Hierophant]] and Shadow Priests
+**Leadership**: [[The Unnamed Hierophant]] and Shadow Priests
 **Values**: Shadow worship, corruption spread, realm domination
 **Benefits by Reputation Level** (Note: These are corrupted "benefits"):
 - **Honored+**: Shadow powers, corruption resistance
@@ -308,19 +312,19 @@ Individual relationships often matter more than faction standing:
 
 **Key Individual Relationships**:
 
-**[[12_Research/D&D_References/Queen Seraphina]]** (Aquabyssos Ruler)
+**[[Queen Seraphina]]** (Aquabyssos Ruler)
 - **Beloved**: Royal protection, kingdom resources, succession consideration
 - **Nemesis**: Royal assassination attempts, kingdom-wide manhunt
 
-**[[12_Research/D&D_References/Director Hadrian Silverscale]]** (Consortium Leader)
+**[[Director Hadrian Silverscale]]** (Consortium Leader)
 - **Beloved**: Unlimited credit, business partnership, insider trading
 - **Nemesis**: Economic warfare, market manipulation against character
 
-**[[12_Research/D&D_References/Princess Celestia]]** (Aethermoor Noble)
+**[[Princess Celestia]]** (Aethermoor Noble)
 - **Beloved**: Crystal court influence, magical artifacts, succession rights
 - **Nemesis**: Crystal curse, aerial banishment, court intrigue
 
-**[[12_Research/D&D_References/Memory Merchant Valeria]]** (Knowledge Broker)
+**[[Memory Merchant Valeria]]** (Knowledge Broker)
 - **Beloved**: Free memory services, rare knowledge, guild secrets
 - **Nemesis**: Memory theft, information warfare, knowledge denial
 
@@ -638,25 +642,25 @@ Faction relationships create complex political networks:
 ### Related Mechanics
 
 - **[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Mental effects can impact reputation management
-- **[[12_Research/D&D_References/Investigation Procedures]]**: Research faction interests and relationships
-- **[[12_Research/D&D_References/Memory Alterations]]**: Faction memories can be modified to affect reputation
-- **[[12_Research/D&D_References/Social Navigation Protocols]]**: Formal procedures for reputation management
-- **[[12_Research/D&D_References/Diplomatic Immunity Systems]]**: Legal protection through high reputation
+- **[[Investigation Procedures]]**: Research faction interests and relationships
+- **[[Memory Alterations]]**: Faction memories can be modified to affect reputation
+- **[[Social Navigation Protocols]]**: Formal procedures for reputation management
+- **[[Diplomatic Immunity Systems]]**: Legal protection through high reputation
 
 ### Key Locations
 
-- **[[12_Research/D&D_References/Royal Embassy]]**: Cross-realm diplomatic reputation management
-- **[[12_Research/D&D_References/Silverscale Banking House]]**: Economic reputation and financial influence
-- **[[12_Research/D&D_References/The Coral Courts]]**: Social reputation and cultural standing
-- **[[12_Research/D&D_References/Crystal Festival Grounds]]**: Public reputation through performance and display
-- **[[12_Research/D&D_References/Memory Merchant Headquarters]]**: Information-based reputation management
+- **[[Royal Embassy]]**: Cross-realm diplomatic reputation management
+- **[[Silverscale Banking House]]**: Economic reputation and financial influence
+- **[[The Coral Courts]]**: Social reputation and cultural standing
+- **[[Crystal Festival Grounds]]**: Public reputation through performance and display
+- **[[Memory Merchant Headquarters]]**: Information-based reputation management
 
 ### Important Organizations
 
-- **[[12_Research/D&D_References/Diplomatic Corps]]**: Professional reputation management services
-- **[[12_Research/D&D_References/Social Intelligence Network]]**: Reputation monitoring and analysis
+- **[[Diplomatic Corps]]**: Professional reputation management services
+- **[[Social Intelligence Network]]**: Reputation monitoring and analysis
 - **[[Cross-Realm Cultural Exchange]]**: Reputation building between realms
-- **[[12_Research/D&D_References/Reputation Recovery Services]]**: Professional reputation rehabilitation
+- **[[Reputation Recovery Services]]**: Professional reputation rehabilitation
 - **[[02_Worldbuilding/Groups/Political Consulting Guil|02 Worldbuilding/Groups/Political Consulting Guil]]**: Strategic reputation campaign management
 
 The reputation system serves as both a mechanical framework for social interaction and a narrative driver for character development, political intrigue, and long-term campaign consequences. Success in the merged realms often depends as much on who trusts you as on what you can do.
@@ -664,12 +668,12 @@ The reputation system serves as both a mechanical framework for social interacti
 
 ## Connections
 
-- [[12_Research/D&D_References/Initiative Tracker]]
+- [[Initiative Tracker]]
 - [[12_Research/D&D_Statblocks/Random Encounters]]
-- [[12_Research/D&D_References/Silver Mask]]
-- [[12_Research/D&D_References/The Deep Mother]]
-- [[12_Research/D&D_References/The Restoration Movement]]
-- [[12_Research/D&D_References/The Silverscale Conspiracy]]
+- [[Silver Mask]]
+- [[The Deep Mother]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]
 
 ## Player-Facing Summary
 
@@ -694,6 +698,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[12_Research/D&D_References/Crystal Festival Grounds]]
-- [[12_Research/D&D_References/Investigation Procedures]]
-- [[12_Research/D&D_References/Royal Embassy]]
+- [[Crystal Festival Grounds]]
+- [[Investigation Procedures]]
+- [[Royal Embassy]]
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

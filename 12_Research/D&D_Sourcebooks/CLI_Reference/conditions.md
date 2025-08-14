@@ -1,20 +1,25 @@
+# conditions
+
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-- active
-- both
-- note
-- ttrpg-cli/compendium/src/5e/xphb
+title: conditions
 aliases:
 - Conditions
 type: note
+tags:
+- both
+- research
+- active
+- note
+- ttrpg-cli/compendium/src/5e/xphb
 created: 2025-07-23
-updated: '2025-08-13T01:18:31.223997+00:00'
-modified: 2025-07-23 12:39
-world: Both
+modified: '2025-08-14'
 status: active
+obsidianUIMode: preview
+cssclasses: json5e-note
+updated: '2025-08-13T01:18:31.223997+00:00'
+world: Both
 ---
+
 
 # Conditions
 
@@ -232,3 +237,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014|03 Mechanics/Rules Reference/Quick Reference/DnD5e DM Screen 2014]]
+
+
+## Related
+
+*Links to related content will be added here.*

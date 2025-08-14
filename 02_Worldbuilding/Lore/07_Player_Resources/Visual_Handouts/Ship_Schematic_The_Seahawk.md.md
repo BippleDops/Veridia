@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Ship Schematic The Seahawk.md
+aliases:
+- Ship Schematic The Seahawkmd
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 07_Player_Resources/Visual_Handouts/Ship_Schematic_The_Seahawk.md
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/INDEX]]
+- [[INDEX]]
 
 ## Notes
 

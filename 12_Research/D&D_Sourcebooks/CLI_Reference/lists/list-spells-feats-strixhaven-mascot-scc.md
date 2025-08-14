@@ -1,20 +1,26 @@
+# list-spells-feats-strixhaven-mascot-scc
+
 ---
+title: list spells feats strixhaven mascot scc
 aliases:
 - Spells for Strixhaven Mascot
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
 - mechanics/magic
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.286029'
 world: Both
 ---
+
 
 # Spells for Strixhaven Mascot
 
@@ -41,3 +47,8 @@ Legends speak of list spells feats strixhaven mascot scc as a nexus where past a
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

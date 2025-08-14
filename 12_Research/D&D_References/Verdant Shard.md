@@ -1,32 +1,39 @@
+# Verdant Shard
+
 ---
+title: Verdant Shard
+type: NPC
 tags:
-- aethermoor
-- ancient
-- complete
-- druid
-- forest-bound
 - growth
-- immortal
 - nature-touched
 - npc
+- complete
+- research
+- immortal
 - shard-guardian
+- ancient
+- druid
+- active
+- forest-bound
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
-world: Aethermoor
-type: NPC
 race: Nature-Touched Elf (Transformed)
 class: Guardian/Druid/Shard-Keeper
-level: 19
-alignment: Neutral Good (Natural Balance)
 location: The Heart Grove, Whispering Wildlands
+level: 19
+world: Aethermoor
+alignment: Neutral Good (Natural Balance)
 faction: The Seven Shard Guardians
 status_condition: Active, Merged with Shard
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-verdant-shard-verdant-shard.svg]]
@@ -517,3 +524,8 @@ Legends speak of Verdant Shard as a nexus where past and present converge. Local
 - [[Verdant Shard|02 Worldbuilding/People/Verdant Shard]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

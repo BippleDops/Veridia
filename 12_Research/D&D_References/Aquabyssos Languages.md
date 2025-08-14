@@ -1,18 +1,25 @@
+# Aquabyssos Languages
+
 ---
-created: '2025-08-11'
-obsidianUIMode: preview
-status: complete
+title: Aquabyssos Languages
+type: Mechanics
 tags:
 - aquabyssos
-- complete
-- content/mechanics
-- mechanics
 - status/complete
+- mechanics
+- research
+- active
+- complete
 - world/aquabyssos
-type: Mechanics
+- content/mechanics
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.792202+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -170,3 +177,8 @@ The linguistic diversity of Aquabyssos and Aethermoor reflects the environmental
 - [[Marina Red Tide Coralheart - Aquabyssos]] - Dual-nature speech patterns
 - [[Queen Seraphina Lumengarde]] - Royal wind song and crystal corruption effects
 - [[Senator Glaucus]] - Shadow-replaced linguistic differences
+
+
+## Related
+
+*Links to related content will be added here.*

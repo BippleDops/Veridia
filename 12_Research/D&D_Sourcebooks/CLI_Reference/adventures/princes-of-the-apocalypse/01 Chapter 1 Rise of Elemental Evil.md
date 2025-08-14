@@ -1,22 +1,27 @@
+# 01 Chapter 1 Rise of Elemental Evil
+
 ---
+title: 01 Chapter 1 Rise of Elemental Evil
 aliases:
 - Chapter 1: Rise of Elemental Evil
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- active
-- both
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/pota
-- world/both
 type: note
+tags:
+- both
+- research
+- world/both
+- active
+- note
+- ttrpg-cli/compendium/src/5e/pota
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:04.958345+00:00'
 world: Both
 ---
+
 
 
 # Chapter 1: Rise of Elemental Evil
@@ -477,3 +482,8 @@ Legends speak of 01 chapter 1 rise of elemental evil as a nexus where past and p
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

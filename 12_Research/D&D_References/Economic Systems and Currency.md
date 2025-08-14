@@ -1,18 +1,25 @@
+# Economic Systems and Currency
+
 ---
-world: Both
-updated: '2025-08-13T01:18:35.453716+00:00'
-created: '2025-08-12'
-status: complete
+title: Economic Systems and Currency
+type: Lore
 tags:
-- banking
+- economy
+- lore
 - both
+- banking
+- finance
+- research
+- active
 - complete
 - currency
-- economy
-- finance
-- lore
-type: Lore
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Both
+updated: '2025-08-13T01:18:35.453716+00:00'
 ---
+
 
 
 > [!figure] Currency
@@ -592,3 +599,8 @@ Use the economic systems as a foundation for complex political intrigue, allowin
 
 The criminal financial networks offer alternative paths for character development and plot advancement, while the legitimate economic systems provide a framework for understanding how society functions and how player actions might affect broader political and social stability.
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

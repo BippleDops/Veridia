@@ -1,32 +1,37 @@
 ---
+title: The Lock
+type: Location
+tags:
+- fortress
+- aquabyssos
+- deep
+- status/complete
+- world/aquabyssos
+- mechanics/magic
+- importance/critical
+- content/location
+- place
+- active
+- location
+- draft
+- barrier
+created: '2025-08-12'
+modified: '2025-08-14'
+status: draft
+region: '[[The Hadal Depths]] Border'
+population: 800
 MyCategory: Unknown
 MyContainer: None
 commander: '[[Admiral Thorne Blackwater]]'
-created: '2025-08-12'
 danger_level: 9
 depth: 15,000 feet below surface
 government: '[[Deep Watch Command]]'
 obsidianUIMode: preview
-population: 800
 purpose: Seal against The Hadal Depths
-region: '[[The Hadal Depths]] Border'
-status: draft
-tags:
-- aquabyssos
-- barrier
-- content/location
-- deep
-- draft
-- fortress
-- importance/critical
-- location
-- mechanics/magic
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:17.237202+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -457,6 +462,27 @@ Legends speak of The Lock as a nexus where past and present converge. Locals des
 - An NPC seeks discreet help at The Lock to avert a public scandal.
 - A map overlay reveals a hidden approach to The Lock active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -468,3 +494,86 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 <!-- enriched: true -->
 - [[Abyssos Prime]]
 - [[The Hadal Depths]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[The Reflection Pools]]
+- [[04_Resources_Assets_Locations_location-city-crystalline-wastes-crystalline-wastes.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-archive-of-unremembered-things-the-archive-of-unremembered-things.svg]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+The Lock is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Lock
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+The Lock was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Lock
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

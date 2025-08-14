@@ -1,14 +1,20 @@
+# Shadow Womb Shard
+
 ---
-tags:
-- active
-- aquabyssos
-- lore
+title: Shadow Womb Shard
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- active
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.550634+00:00'
 ---
+
 
 
 
@@ -46,3 +52,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Deep Mother]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,17 +1,23 @@
+# Crystal_Artillery_Player
+
 ---
 title: "Player Handout \u2014 Crystal Artillery Doctrine"
 type: handout
-status: complete
-audience: player
 tags:
 - both
-- complete
 - doctrine
 - handout
+- research
+- active
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+audience: player
 updated: '2025-08-13T01:18:37.194747+00:00'
 world: Both
 ---
+
 
 
 # Crystal Artillery
@@ -32,3 +38,8 @@ Risks
 ## Cross-References
 
 - [[Doctrine_Quick_Reference|04 Resources/Handouts/Doctrines/Doctrine Quick Reference]]
+
+
+## Related
+
+*Links to related content will be added here.*

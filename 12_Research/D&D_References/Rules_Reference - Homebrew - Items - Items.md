@@ -1,20 +1,26 @@
+# Rules_Reference - Homebrew - Items - Items
+
 ---
+title: Rules Reference   Homebrew   Items   Items
 aliases: []
-created: '2025-07-23'
-modified: 2025-07-23 12:39
-status: complete
+type: Item
 tags:
 - both
 - complete
-- content/item
-- item
-- note
-- status/in-progress
+- research
 - world/both
-type: Item
+- active
+- note
+- content/item
+- status/in-progress
+- item
+created: '2025-07-23'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.804719+00:00'
 world: Both
 ---
+
 
 
 
@@ -41,3 +47,8 @@ Legends speak of Items as a nexus where past and present converge. Locals descri
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

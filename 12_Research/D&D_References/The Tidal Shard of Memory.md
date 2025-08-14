@@ -1,25 +1,32 @@
+# The Tidal Shard of Memory
+
 ---
+title: The Tidal Shard of Memory
+type: Item
 tags:
 - aquabyssos
+- seven-shards
+- research
+- memory-magic
+- legendary-artifact
+- active
 - artifact
 - complete
 - item
-- legendary-artifact
-- memory-magic
-- seven-shards
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
-world: Aquabyssos
-type: Item
-item_type: Legendary Artifact (The Seven Shards)
 rarity: Legendary
+world: Aquabyssos
+item_type: Legendary Artifact (The Seven Shards)
 requires_attunement: 'Yes'
 affiliation: '[[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]'
 current_location: Unknown (Hidden)
 danger_level: 5
 created_by: Claude
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -311,3 +318,8 @@ Legends speak of The Tidal Shard of Memory as a nexus where past and present con
 ## Connections
 
 - [[Memory Farmers]]
+
+
+## Related
+
+*Links to related content will be added here.*

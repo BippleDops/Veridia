@@ -1,22 +1,29 @@
+# The Seven Shards 3
+
 ---
-created: '2024-12-20'
-image: 04_Resources/Assets/Lore/seven_shards.jpg
-importance: Campaign-Defining
-status: complete
+title: The Seven Shards 3
+type: Lore
 tags:
+- lore
 - both
+- content/lore
+- world/both
+- research
+- shards
+- divine
+- active
 - complete
 - content/item
-- content/lore
-- divine
-- lore
-- shards
 - status/in-progress
-- world/both
-type: Lore
+created: '2024-12-20'
+modified: '2025-08-14'
+status: complete
+image: 04_Resources/Assets/Lore/seven_shards.jpg
+importance: Campaign-Defining
 updated: '2025-08-13T12:34:29.131882+00:00'
 world: Both
 ---
+
 
 
 

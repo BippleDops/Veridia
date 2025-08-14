@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 03
 type: adventure
-status: active
 tags:
-- combat
+- adventure
 - session-notes
 - aquatic
-- adventure
+- quest
+- active
+- combat
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 03: [Ocean Depths Mystery]
 
@@ -32,7 +38,7 @@ tags:
 ### Underwater Factions
 
 - [[Pearl Divers Guild]] - Information network
-- [[12_Research/D&D_References/Deep Wardens]] - Military authority
+- [[Deep Wardens]] - Military authority
 - [[Tide Singers]] - Mystical knowledge
 
 ## Investigation Elements
@@ -68,3 +74,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Key NPCs
+
+- [[04_Resources_Assets_Locations_location-city-lord-reginald-seaworthy-v1-lord-reginald-seaworthy.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-war-room-sanctuary-the-war-room-sanctuary.svg]]
+- [[Admiral Thorne Blackwater]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-sterling-lightshield-captain-sterling-lightshield.svg]]
+- [[The Depth Lords]]
+
+
+## Important Locations
+
+- [[Pressure Engineers]]
+- [[04_Resources_Assets_Portraits_portrait-npc-crystal-plague-infected-npcs-crystal-plague-infected-npcs.svg]]
+- [[04_Resources_Assets_Locations_location-city-black-market-deal-black-market-deal.svg]]

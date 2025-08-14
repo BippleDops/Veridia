@@ -1,3 +1,15 @@
+# combat_narrative_integration
+
+---
+title: combat narrative integration
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Combat Narrative Integration
 
 ## Weaving Story Elements into Tactical Encounters
@@ -161,3 +173,7 @@ Effective combat narrative integration shows:
 - **Emotional Investment**: Players care about combat outcomes beyond mechanical victory
 
 *Research methodology: Combat design analysis, 245 encounter effectiveness studies, player engagement measurement*
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,15 +1,21 @@
+# The Progressive Coalition Headquarters
+
 ---
-tags:
-- active
-- aquabyssos
-- location
+title: The Progressive Coalition Headquarters
 type: Location
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.386333+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-progressive-coalition-headquarters-the-progressive-coalition-headquarters.svg]]
@@ -66,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Senator]]
+
+
+## Related
+
+*Links to related content will be added here.*

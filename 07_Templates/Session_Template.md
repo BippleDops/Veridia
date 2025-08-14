@@ -1,16 +1,15 @@
+# Session_Template
+
 ---
-created: {{date}}
-updated: {{date}}
-type: session
-status: planned
+title: Session Template
+type: template
 tags:
-- session
-- {{campaign}}
-- session-{{number}}
-campaign: {{campaign}}
-session: {{number}}
-date: {{date}}
+- template
+- active
+created: '2025-08-14'
+modified: '2025-08-14'
 ---
+
 
 # Session {{number}}: {{title}}
 

@@ -1,15 +1,23 @@
+# Dr. Matthias Voidheart
+
 ---
-tags:
-- active
-- both
-- complete
-- lore
+title: Dr. Matthias Voidheart
+aliases:
+- Dr Matthias Voidheart
 type: Lore
-world: Both
-status: complete
+tags:
+- lore
+- both
+- research
+- active
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+world: Both
 updated: '2025-08-13T12:34:12.122158+00:00'
 ---
+
 
 
 

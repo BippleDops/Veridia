@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Living Economy Syste
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 03_Mechanics/Living_Economy_Syste
 
@@ -24,16 +28,16 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Weather and Season]]
-- [[12_Research/D&D_References/Weather_And_Seasons]]
-- [[12_Research/D&D_References/Weather_And_Season]]
-- [[12_Research/D&D_References/Rumor_Mill_Networ]]
-- [[12_Research/D&D_References/Economic Warfare and Trade Sanctions]]
-- [[12_Research/D&D_References/Economic Systems and Currency]]
-- [[12_Research/D&D_References/Major Trading Companies]]
-- [[12_Research/D&D_References/The Grand Trade Routes]]
-- [[12_Research/D&D_References/Commercial Hubs and Markets]]
-- [[12_Research/D&D_References/Trade Goods Catalog]]
+- [[Weather and Season]]
+- [[Weather_And_Seasons]]
+- [[Weather_And_Season]]
+- [[Rumor_Mill_Networ]]
+- [[Economic Warfare and Trade Sanctions]]
+- [[Economic Systems and Currency]]
+- [[Major Trading Companies]]
+- [[The Grand Trade Routes]]
+- [[Commercial Hubs and Markets]]
+- [[Trade Goods Catalog]]
 
 ## Notes
 

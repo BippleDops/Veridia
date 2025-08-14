@@ -1,15 +1,21 @@
+# Shadow Liberation Front
+
 ---
-tags:
-- active
-- aquabyssos
-- lore
-- npc
+title: Shadow Liberation Front
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- npc
+- research
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.879289+00:00'
 ---
+
 
 
 
@@ -49,3 +55,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Lord Vexton Shadowmere]]
 - [[Silverscale Consortium]]
 - [[Tribune Cassia Deepcurrent]]
+
+
+## Related
+
+*Links to related content will be added here.*

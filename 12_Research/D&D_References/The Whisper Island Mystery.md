@@ -1,20 +1,27 @@
+# The Whisper Island Mystery
+
 ---
+title: The Whisper Island Mystery
+type: Location
 tags:
-- aethermoor
-- complete
-- investigation
-- location
 - mystery
-- quest
 - supernatural
+- investigation
+- quest
+- research
+- active
+- location
+- complete
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.502924+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -170,3 +177,8 @@ Legends speak of The Whisper Island Mystery as a nexus where past and present co
 - [[The Whisper Island Mystery|02 Worldbuilding/Places/The Whisper Island Mystery]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

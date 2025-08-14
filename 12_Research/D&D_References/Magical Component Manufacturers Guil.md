@@ -1,14 +1,20 @@
+# Magical Component Manufacturers Guil
+
 ---
-tags:
-- active
-- aethermoor
-- group
+title: Magical Component Manufacturers Guil
 type: Group
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- group
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.676344+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-magical-component-manufacturers-guil-magical-component-manufacturers-guil.svg]]
@@ -55,3 +61,8 @@ Legends speak of Magical Component Manufacturers Guild 2 as a nexus where past a
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

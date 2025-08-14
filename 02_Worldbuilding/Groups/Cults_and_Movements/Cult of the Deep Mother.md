@@ -1,22 +1,29 @@
 ---
-created: '2025-08-12'
-created_by: claude
-status: complete
+title: Cult of the Deep Mother
+type: Faction
 tags:
 - both
-- complete
-- content/faction
-- cult
-- deep-mother
-- eldritch-horror
-- faction
 - status/complete
-- world/aquabyssos
+- cult
+- eldritch-horror
+- content/faction
+- faction
+- organization
 - world/both
-type: Faction
+- deep-mother
+- active
+- complete
+- world/aquabyssos
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
+created_by: claude
 updated: '2025-08-13T12:34:17.399778+00:00'
 world: Both
 ---
+
 
 
 # Cult of the Deep Mother
@@ -355,3 +362,8 @@ Use the concentric circle structure to provide different levels of opposition an
 - A map overlay reveals a hidden approach to Cult of the Deep Mother active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+
+## Known Members
+
+- [[Prince Caspian Duskwater]]

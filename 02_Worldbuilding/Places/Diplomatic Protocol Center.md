@@ -1,23 +1,30 @@
 ---
-created: '2025-08-12'
-status: complete
+title: Diplomatic Protocol Center
+type: Location
 tags:
-- crystal-enhanced
+- mechanics/social
 - aerial
+- embassy
+- status/complete
 - aquatic
 - both worlds
-- complete
-- content/location
-- cultural-exchange
-- embassy
-- location
-- mechanics/social
-- status/complete
 - world/both
-type: Location
+- content/location
+- place
+- active
+- location
+- complete
+- cultural-exchange
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 updated: '2025-08-13T12:34:16.722758+00:00'
 world: Both Worlds
 ---
+
 
 
 > [!figure] View
@@ -250,6 +257,27 @@ The complex's unique architecture adapts to serve both aquatic and aerial inhabi
 
 **Evacuation Coordination Office**: Pre-positioned resources and detailed plans for protecting diplomatic personnel and evacuating the complex if necessary during various types of emergencies.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 ### Running Diplomatic Adventures
@@ -274,12 +302,12 @@ The complex's unique architecture adapts to serve both aquatic and aerial inhabi
 
 ## Connections
 
-- [[12_Research/D&D_References/Cross-Dimensional Transit Authority]]
-- [[12_Research/D&D_References/Inter-Realm Council]]
+- [[Cross-Dimensional Transit Authority]]
+- [[Inter-Realm Council]]
 - [[Cultural Exchange Programs]]
-- [[12_Research/D&D_References/Cross-Realm Cooperation Authority]]
+- [[Cross-Realm Cooperation Authority]]
 - [[Inter-Realm Trade Routes]]
-- [[12_Research/D&D_References/Hybrid Communities Integration]]
+- [[Hybrid Communities Integration]]
 
 ## Player-Facing Summary
 
@@ -291,7 +319,7 @@ Legends speak of Diplomatic Protocol Center as a nexus where past and present co
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Diplomatic Protocol Center]]
+- [[Diplomatic Protocol Center]]
 
 <!-- enriched: true -->
 
@@ -299,3 +327,97 @@ Legends speak of Diplomatic Protocol Center as a nexus where past and present co
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-infrastructure-development-infrastructure-development.svg]]
+- [[Pressure Polyps]]
+- [[Court Manager Noble]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+Diplomatic Protocol Center is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Diplomatic Protocol Center
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Diplomatic Protocol Center was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Diplomatic Protocol Center:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Diplomatic Protocol Center
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

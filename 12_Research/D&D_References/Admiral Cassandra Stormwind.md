@@ -1,15 +1,21 @@
+# Admiral Cassandra Stormwind
+
 ---
+title: Admiral Cassandra Stormwind
+type: NPC
+tags:
+- both
+- npc
+- research
+- active
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 world: Both
 updated: '2025-08-13T12:34:14.401376+00:00'
-created: '2025-08-11'
-status: complete
-tags:
-- active
-- both
-- complete
-- npc
-type: NPC
 ---
+
 
 
 
@@ -346,3 +352,8 @@ Legends speak of Admiral Cassandra Stormwind as a nexus where past and present c
 - [[Admiral Cassandra Stormwind|02 Worldbuilding/People/Admiral Cassandra Stormwind]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

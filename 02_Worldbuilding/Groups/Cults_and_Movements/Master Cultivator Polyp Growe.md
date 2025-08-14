@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Master Cultivator Polyp Growe
+type: Faction
 tags:
 - aquabyssos
-- complete
+- world/aquabyssos
 - content/faction
 - faction
+- organization
+- active
+- complete
 - status/in-progress
-- world/aquabyssos
-type: Faction
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.399072+00:00'
 world: Aquabyssos
 ---
+
 
 
 ## Overview

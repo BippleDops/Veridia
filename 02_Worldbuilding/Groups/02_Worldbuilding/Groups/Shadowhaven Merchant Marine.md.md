@@ -1,13 +1,22 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Shadowhaven Merchant Marine.md
+aliases:
+- Shadowhaven Merchant Marinemd
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Groups/Shadowhaven Merchant Marine.md
 
@@ -24,7 +33,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Port Sorrow Trading Company]]
+- [[Port Sorrow Trading Company]]
 - [[02_Worldbuilding/Groups/Port Sorrow Trading Company]]
 
 ## Notes
@@ -36,3 +45,8 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[The Senator]]
+- [[Sir Marcus Dawnforge]]

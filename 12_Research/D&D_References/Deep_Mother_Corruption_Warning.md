@@ -1,14 +1,21 @@
+# Deep_Mother_Corruption_Warning
+
 ---
-created: '2025-08-13'
-status: complete
+title: Deep Mother Corruption Warning
+type: Handout
 tags:
 - player/handout
-- corruption/deep-mother
+- research
+- active
 - world/aquabyssos
-type: Handout
+- corruption/deep-mother
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Aquabyssos
 ---
+
 
 # Deep Mother Corruption Warning
 ## Official Advisory from the Council of Depths
@@ -50,3 +57,7 @@ The Deep Mother's influence is NOT the victim's fault. Compassion and swift acti
 
 *By order of High Oracle Serenity Deepcall*
 *Blessed be the depths that protect us*
+
+## Related
+
+*Links to related content will be added here.*

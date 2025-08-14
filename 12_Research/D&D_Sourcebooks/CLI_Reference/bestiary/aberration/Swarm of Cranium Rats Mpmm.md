@@ -1,28 +1,34 @@
+# Swarm of Cranium Rats Mpmm
+
 ---
+title: Swarm of Cranium Rats Mpmm
 aliases:
 - Swarm of Cranium Rats
+type: monster
+tags:
+- ttrpg-cli/monster/size/medium
+- both
+- ttrpg-cli/monster/environment/urban
+- monster
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/type/aberration
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/5
+- world/both
+- research
+- active
+- status/in-progress
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- active
-- both
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration
-- world/both
-type: monster
 updated: '2025-08-13T12:34:05.597959+00:00'
 world: Both
 ---
+
 
 
 
@@ -120,3 +126,8 @@ Legends speak of swarm of cranium rats mpmm as a nexus where past and present co
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

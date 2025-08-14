@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Dataview Query Guide.png
+aliases:
+- Dataview Query Guidepng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Art/Lore/Dataview_Query_Guide.png
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Dataview Query Guide]]
+- [[Dataview Query Guide]]
 - [[02_Worldbuilding/Lore/Dataview Query Guide]]
 
 ## Notes

@@ -1,13 +1,21 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: The Whispering Expanse.md
+aliases:
+- The Whispering Expansemd
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Quests/The Whispering Expanse.md
 
@@ -24,16 +32,16 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Verdant Accord]]
-- [[12_Research/D&D_References/The Verdant Accord]]
-- [[12_Research/D&D_References/The Verdant Accord]]
-- [[12_Research/D&D_References/Sage Lyralei Starweaver]]
-- [[12_Research/D&D_References/Sage Lyralei Starweaver]]
-- [[12_Research/D&D_References/Quest - The Pretender]]
-- [[12_Research/D&D_References/Quest - The Pretender]]
-- [[12_Research/D&D_References/Quest - The Pretender]]
-- [[12_Research/D&D_References/The Corroded Crown]]
-- [[12_Research/D&D_References/The Corroded Crown]]
+- [[The Verdant Accord]]
+- [[The Verdant Accord]]
+- [[The Verdant Accord]]
+- [[Sage Lyralei Starweaver]]
+- [[Sage Lyralei Starweaver]]
+- [[Quest - The Pretender]]
+- [[Quest - The Pretender]]
+- [[Quest - The Pretender]]
+- [[The Corroded Crown]]
+- [[The Corroded Crown]]
 
 ## Notes
 
@@ -44,3 +52,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Locations_location-city-harbormaster-creedence-tidereader-harbormaster-creedence-tidereader.svg]]
+- [[Crystal Wardens]]
+- [[Captain Tempest-Eye Marelda]]
+- [[Captain Marcus Voidward]]
+- [[Lady Nexus Goldcurrent]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-shadow-noble-districts-shadow-noble-districts.svg]]
+- [[Merchant Quarter Guildhalls]]
+- [[04_Resources_Assets_Handouts_handout-handout-temple-prayer-sheet-v2-temple-prayer-sheet.png]]

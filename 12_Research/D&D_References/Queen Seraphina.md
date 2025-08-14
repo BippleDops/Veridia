@@ -1,30 +1,35 @@
+# Queen Seraphina
+
 ---
-tags:
-- aquabyssos
-- complete
-- coral-crown
-- crisis-leadership
-- deep-nobility
-- npc
-- person
-- political-leader
-- queen
-- royalty
-status: complete
-world: Aquabyssos
+title: Queen of the Depths, Sovereign of the Coral Throne, Protector of the Abyssal
+  Realms
 type: npc
+tags:
+- political-leader
+- aquabyssos
+- deep-nobility
+- royalty
+- person
+- coral-crown
+- npc
+- research
+- active
+- crisis-leadership
+- complete
+- queen
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+race: Human (Deep-Adapted)
+location: '[[The Royal Palace - Aquabyssos]]'
+world: Aquabyssos
 role: Reigning Monarch
 affiliation: '[[The Coral Crown]]'
 age: '47'
-race: Human (Deep-Adapted)
-location: '[[The Royal Palace - Aquabyssos]]'
-title: Queen of the Depths, Sovereign of the Coral Throne, Protector of the Abyssal
-  Realms
 reign_length: 23 years
 ruling_style: Constitutional Monarchy with Emergency Powers
 political_alignment: Moderate Progressive
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:35.219460+00:00'
 notable_achievements:
 - Survived the Depth Crown Crisis
@@ -45,6 +50,7 @@ danger_level: 2
 influence_level: Maximum within Aquabyssos
 access_level: Royal Court Only
 ---
+
 
 
 
@@ -628,3 +634,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Sky Burial Traditions]]
 - [[The Crown of Stars]]
 - [[The Great Convergence Prophecies]]
+
+
+## Related
+
+*Links to related content will be added here.*

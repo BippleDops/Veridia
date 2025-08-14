@@ -1,4 +1,19 @@
 ---
+title: Unite or Divide
+type: Lore
+tags:
+- lore
+- aquabyssos
+- status/complete
+- content/lore
+- quest
+- active
+- complete
+- world/aquabyssos
+- shadow-touched
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 accessibility:
   content_warnings: []
   pronunciation: Unite or Divide
@@ -7,22 +22,11 @@ accessibility:
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
     its consequences for play.
-created: '2025-08-11'
 obsidianUIMode: preview
-status: complete
-tags:
-- quest
-- shadow-touched
-- aquabyssos
-- complete
-- content/lore
-- lore
-- status/complete
-- world/aquabyssos
-type: Lore
 updated: '2025-08-13T12:34:15.974545+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Unite or Divide
@@ -47,15 +51,15 @@ Unite or Divide describes a turning current in history where choices about memor
 
 ## Threads and Revelations
 
-- Records implicate agents tied to [[12_Research/D&D_References/The Sunken Library of Thalassius]].
+- Records implicate agents tied to [[The Sunken Library of Thalassius]].
 - A rite echoes the activation cadence needed for [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
-- Testimony suggests [[12_Research/D&D_References/Vex Shadowthorn]] financed a pivotal bribe.
+- Testimony suggests [[Vex Shadowthorn]] financed a pivotal bribe.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Sunken Library of Thalassius]]
+- [[The Sunken Library of Thalassius]]
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[12_Research/D&D_References/Vex Shadowthorn]]
+- [[Vex Shadowthorn]]
 
 ## Player-Facing Summary
 
@@ -80,3 +84,26 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Overview
+
+Unite or Divide represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

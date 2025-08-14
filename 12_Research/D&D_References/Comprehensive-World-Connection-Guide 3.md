@@ -1,28 +1,35 @@
+# Comprehensive-World-Connection-Guide 3
+
 ---
+title: Comprehensive World Connection Guide 3
 aliases:
 - World Connection Guide
 - Realm Merger Guide
 - Aquabyssos-Aethermoor Bridge
-connection_type: Dimensional Convergence
-created: '2025-08-07'
-status: complete
+type: Lore
 tags:
+- lore
 - both
+- world/aquabyssos
+- worldbuilding
+- content/lore
+- world/both
+- research
+- active
+- connections
 - campaign/arc
 - complete
-- connections
-- content/lore
-- lore
 - status/in-progress
 - world/aethermoor
-- world/aquabyssos
-- world/both
-- worldbuilding
-type: Lore
+created: '2025-08-07'
+modified: '2025-08-14'
+status: complete
+connection_type: Dimensional Convergence
 updated: '2025-08-13T12:34:28.921682+00:00'
 world: Both
 world_type: Parallel Realms
 ---
+
 
 
 
@@ -779,3 +786,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Pressure Terminal]]
 - [[Royal Palace]]
 - [[The Forgotten Representative]]
+
+
+## Related
+
+*Links to related content will be added here.*

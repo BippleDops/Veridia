@@ -1,21 +1,27 @@
+# owlin-scc
+
 ---
+title: owlin scc
 aliases:
 - Owlin
-created: 2025-07-23
-cssclasses: json5e-race
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/scc
-- ttrpg-cli/race/owlin
-- world/both
 type: note
+tags:
+- ttrpg-cli/compendium/src/5e/scc
+- research
+- world/both
+- active
+- note
+- ttrpg-cli/race/owlin
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-race
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:37.710033'
 world: Both
 ---
+
 
 # Owlin
 *Source: Strixhaven: A Curriculum of Chaos p. 29*  
@@ -70,3 +76,8 @@ Legends speak of owlin scc as a nexus where past and present converge. Locals de
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

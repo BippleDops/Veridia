@@ -1,24 +1,28 @@
 ---
-created: '2025-08-12'
-created_by: cultural-expansion
-status: complete
-tags:
-- combat
-- quest
-- shadow-touched
-- aquatic
-- aquabyssos
-- complete
-- content/lore
-- cultural-customs
-- culture
-- lore
-- status/complete
-- world/aquabyssos
+title: Aquabyssos Cultural Codex
 type: Lore
+tags:
+- lore
+- aquabyssos
+- cultural-customs
+- status/complete
+- culture
+- aquatic
+- quest
+- content/lore
+- active
+- combat
+- complete
+- world/aquabyssos
+- shadow-touched
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+created_by: cultural-expansion
 updated: '2025-08-13T12:34:16.201291+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Aquabyssos Cultural Codex
@@ -541,7 +545,7 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 
 ## Connected Locations
 
-- [[12_Research/D&D_References/Aquabyssos]] - Primary homeland where these customs are practiced
+- [[Aquabyssos]] - Primary homeland where these customs are practiced
 - [[02_Worldbuilding/Places/The Deep Academy|02 Worldbuilding/Places/The Deep Academy]] - Educational institution teaching cultural traditions
 - [[The Cultural Heritage Center]] - Museum and preservation site for cultural artifacts
 - [[The Community Feast Halls]] - Social gathering spaces for cultural celebrations
@@ -554,10 +558,10 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Aethermoor Social Customs]]
-- [[12_Research/D&D_References/Cross-Realm Etiquette Guide]]
-- [[12_Research/D&D_References/Festival Calendar Complete]]
-- [[12_Research/D&D_References/Guild Traditions Compendium]]
+- [[Aethermoor Social Customs]]
+- [[Cross-Realm Etiquette Guide]]
+- [[Festival Calendar Complete]]
+- [[Guild Traditions Compendium]]
 
 ## Player-Facing Summary
 

@@ -1,15 +1,21 @@
+# Depth Plague
+
 ---
-tags:
-- active
-- both
-- location
+title: Depth Plague
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.211643+00:00'
 danger_level: Moderate
 ---
+
 
 
 
@@ -66,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Coral Throne Syndicate]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,26 +1,33 @@
 ---
+title: Angel of the Depths
+type: Location
+tags:
+- aquabyssos
+- status/complete
+- shadow-corruption
+- religious
+- content/location
+- place
+- active
+- divine
+- location
+- complete
+- monument
+- world/aquabyssos
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Religious Monument
 MyContainer: None
-created: '2025-08-11'
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/location
-- divine
-- location
-- monument
-- religious
-- shadow-corruption
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:17.217547+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -209,6 +216,27 @@ The statue stands at the center of an ancient magical pact between the surface a
 5. The statue's whispers reveal a specific clue or warning
 6. Shadow creatures emerge from cracks in the statue's surface
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes and Campaign Integration
 
 The Angel of the Depths serves multiple purposes in an Aquabyssos campaign:
@@ -247,6 +275,27 @@ Legends speak of Angel of the Depths as a nexus where past and present converge.
 - An NPC seeks discreet help at Angel of the Depths to avert a public scandal.
 - A map overlay reveals a hidden approach to Angel of the Depths active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -257,3 +306,71 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 riched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Portraits_portrait-npc-archbishop-matthias-lightbringer-archbishop-matthias-lightbringer.svg]]
+- [[04_Resources_Assets_Locations_location-city-medical-research-facilities-v1-medical-research-facilities.svg]]
+- [[04_Resources_Assets_Locations_location-city-anti-smuggling-operations-anti-smuggling-operations.svg]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+Angel of the Depths is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Angel of the Depths:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Angel of the Depths
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

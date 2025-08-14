@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: The Brotherhood of the Black Anchor
+type: Faction
 tags:
 - both
-- complete
 - content/faction
 - faction
-- status/in-progress
+- organization
 - world/both
-type: Faction
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.301215+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Heraldry
@@ -61,3 +68,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Groups_Index|Master Groups Index]]
+
+
+## Known Members
+
+- [[04_Resources_Assets_Locations_location-city-the-dreamwhisper-inn-v1-the-dreamwhisper-inn.svg]]

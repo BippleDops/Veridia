@@ -1,9 +1,16 @@
 ---
+title: step 093
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 16
 step: 93
 total_step: 1593
 ---
+
 
 # Phase 16 - Step 93
 

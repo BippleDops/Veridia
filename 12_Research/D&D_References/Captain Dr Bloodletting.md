@@ -1,17 +1,24 @@
+# Captain Dr Bloodletting
+
 ---
-created: '2025-08-11'
-status: complete
+title: Captain Dr Bloodletting
+type: Npc
 tags:
 - aquabyssos
-- complete
-- content/npc
-- npc
-- status/in-progress
 - world/aquabyssos
-type: Npc
+- npc
+- research
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.697841+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -72,3 +79,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Shadow Surgeon Strike Team]]
+
+
+## Related
+
+*Links to related content will be added here.*

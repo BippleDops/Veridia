@@ -1,19 +1,26 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- session-notes
-- shadow-touched
-- both
-- complete
-- content/location
-- location
-- status/in-progress
-- world/both
+title: The Shadow Markets
 type: Location
+tags:
+- both
+- session-notes
+- world/both
+- content/location
+- place
+- active
+- location
+- complete
+- status/in-progress
+- shadow-touched
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 updated: '2025-08-13T12:34:16.831879+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -27,25 +34,25 @@ world: Both
 
 ## Connections
 
-- [[12_Research/D&D_References/Deep Mother]]
-- [[12_Research/D&D_References/The Great Convergence Prophecies]]
-- [[12_Research/D&D_References/Timeline of the Drowning]]
-- [[12_Research/D&D_References/Deepmind Conspiracy]]
-- [[12_Research/D&D_References/Depth Wardens]]
-- [[12_Research/D&D_References/Parliament of Echoes - Public Gallery]]
-- [[12_Research/D&D_References/Parliament of Echoes]]
-- [[12_Research/D&D_References/Port Meridian - Market Square]]
-- [[12_Research/D&D_References/Port Meridian Harbor]]
-- [[12_Research/D&D_References/Reflection Pools - Surgical Theater]]
-- [[12_Research/D&D_References/Secret Vault Beneath Throne]]
-- [[12_Research/D&D_References/Shadow Market Canals]]
-- [[12_Research/D&D_References/The Recursion Cult]]
-- [[12_Research/D&D_References/The Royal Palace]]
+- [[Deep Mother]]
+- [[The Great Convergence Prophecies]]
+- [[Timeline of the Drowning]]
+- [[Deepmind Conspiracy]]
+- [[Depth Wardens]]
+- [[Parliament of Echoes - Public Gallery]]
+- [[Parliament of Echoes]]
+- [[Port Meridian - Market Square]]
+- [[Port Meridian Harbor]]
+- [[Reflection Pools - Surgical Theater]]
+- [[Secret Vault Beneath Throne]]
+- [[Shadow Market Canals]]
+- [[The Recursion Cult]]
+- [[The Royal Palace]]
 - [[12_Research/D&D_Statblocks/The Void Touched Depths]]
-- [[12_Research/D&D_References/Vote Vaults]]
+- [[Vote Vaults]]
 - [[12_Research/D&D_Statblocks/Smuggler]]
 - [[12_Research/D&D_Statblocks/Traveling Merchant Finn]]
-- [[12_Research/D&D_References/Aquabyssos - Session 05 - Descent into Darkness]]
+- [[Aquabyssos - Session 05 - Descent into Darkness]]
 
 ## Player-Facing Summary
 
@@ -61,6 +68,27 @@ Legends speak of The Shadow Markets as a nexus where past and present converge. 
 - An NPC seeks discreet help at The Shadow Markets to avert a public scandal.
 - A map overlay reveals a hidden approach to The Shadow Markets active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -72,3 +100,97 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[The Missing Diplomat]]
+- [[Memory Merchant Headquarters]]
+- [[04_Resources_Assets_Locations_location-city-mira-algaebrew-mira-algaebrew.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+The Shadow Markets is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Shadow Markets
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+The Shadow Markets was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting The Shadow Markets:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Shadow Markets
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

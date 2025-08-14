@@ -1,24 +1,31 @@
+# The Light Preservation Society
+
 ---
+title: The Light Preservation Society
+type: Group
 tags:
 - anti-shadow
 - aquabyssos
+- preservation
+- research
+- active
 - complete
 - group
-- preservation
 - resistance
-type: Group
-world: Aquabyssos
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
+headquarters: '[[The Hidden Archive]]'
+world: Aquabyssos
 faction_type: Resistance Movement
 alignment: Lawful Good
-headquarters: '[[The Hidden Archive]]'
 leader: '[[Keeper Luminous Truehart]]'
 members: ~3,400 active resistors, ~15,000 sympathizers
 influence: Underground Continental Network
 purpose: Preserve human identity and resist shadow integration
-created: '2025-08-12'
 updated: '2025-08-13T01:18:36.684877+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-the-light-preservation-society-the-light-preservation-society.svg]]
@@ -623,3 +630,8 @@ Legends speak of The Light Preservation Society as a nexus where past and presen
 - A map overlay reveals a hidden approach to The Light Preservation Society active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

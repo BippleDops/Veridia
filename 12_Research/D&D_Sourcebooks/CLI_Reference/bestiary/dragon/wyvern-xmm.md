@@ -1,26 +1,33 @@
+# wyvern-xmm
+
 ---
+title: wyvern xmm
 aliases:
 - Wyvern
+type: monster
+tags:
+- ttrpg-cli/monster/type/dragon
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/environment/mountain
+- monster
+- research
+- ttrpg-cli/monster/size/large
+- world/both
+- active
+- ttrpg-cli/monster/cr/6
+- status/in-progress
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/dragon
-- world/both
-type: monster
 updated: '2025-08-12T23:37:35.763153'
 world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -103,3 +110,8 @@ Legends speak of wyvern xmm as a nexus where past and present converge. Locals d
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,18 +1,25 @@
+# Compass Quest
+
 ---
+title: Compass Quest
+type: Location
 tags:
-- ancient-artifacts
+- mystery
 - aquabyssos
-- compass
-- complete
+- navigation
 - depth-navigation
+- compass
+- quest
+- research
+- active
 - exploration
 - location
-- mystery
-- navigation
-- quest
+- complete
+- ancient-artifacts
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 complexity: Advanced
 danger_level: Moderate
 estimated_duration: 3-5 sessions
@@ -21,9 +28,9 @@ required_skills:
 - Investigation
 - Survival
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.099585+00:00'
 ---
+
 
 
 

@@ -1,38 +1,44 @@
 ---
+title: Reflection Pools   Surgical Theater
+type: Location
+tags:
+- reflection_pools
+- content/location
+- healing
+- shadow-touched
+- session-notes
+- medical
+- status/complete
+- quest
+- specialized
+- location
+- crystal-enhanced
+- consciousness
+- surgical
+- complete
+- aquabyssos
+- theater
+- memory
+- place
+- active
+- world/aquabyssos
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: 50-80 medical staff, 20-40 patients daily
 MyCategory: Places
 MyContainer: None
-created: '2025-08-08'
 created_by: auto-stub
 danger_level: 3
 government: Medical Board oversight and Imperial licensing
 location_type: Medical Theater
 obsidianUIMode: preview
 parent_location: The Reflection Pools
-population: 50-80 medical staff, 20-40 patients daily
-status: complete
-tags:
-- quest
-- session-notes
-- crystal-enhanced
-- shadow-touched
-- aquabyssos
-- complete
-- consciousness
-- content/location
-- healing
-- location
-- medical
-- memory
-- reflection_pools
-- specialized
-- status/complete
-- surgical
-- theater
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.751526+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -45,7 +51,7 @@ world: Aquabyssos
 
 ## Overview
 
-The Surgical Theater within [[12_Research/D&D_Statblocks/The Reflection Pools]] represents the pinnacle of [[12_Research/D&D_References/Aquabyssos]]'s medical advancement - a revolutionary facility where traditional surgery merges with consciousness manipulation and memory-based healing techniques. This extraordinary medical complex utilizes the unique properties of the Reflection Pools' memory-infused waters to perform procedures that would be impossible in conventional settings.
+The Surgical Theater within [[12_Research/D&D_Statblocks/The Reflection Pools]] represents the pinnacle of [[Aquabyssos]]'s medical advancement - a revolutionary facility where traditional surgery merges with consciousness manipulation and memory-based healing techniques. This extraordinary medical complex utilizes the unique properties of the Reflection Pools' memory-infused waters to perform procedures that would be impossible in conventional settings.
 
 Unlike surface-world medicine that focuses purely on physical intervention, the Surgical Theater operates on the principle that consciousness and memory directly affect physical healing. Here, surgeons work not only with scalpels and sutures, but with extracted memories, consciousness-altering environments, and the mystical properties of reflection-enhanced healing chambers. Patients may undergo procedures that heal both their bodies and their minds simultaneously, emerging not only physically restored but with enhanced mental clarity, resolved trauma, or improved cognitive function.
 
@@ -196,7 +202,7 @@ Advanced techniques for rebuilding damaged consciousness structures:
 
 ### Chief Medical Personnel
 
-**[[12_Research/D&D_References/Chief Surgeon Dr. Coral Mindsplice]]**
+**[[Chief Surgeon Dr. Coral Mindsplice]]**
 - **Specialization**: Consciousness surgery and memory extraction
 - **Background**: Former military surgeon who pioneered battlefield consciousness stabilization
 - **Innovation**: Developed rapid trauma extraction techniques saving hundreds of lives
@@ -210,7 +216,7 @@ Advanced techniques for rebuilding damaged consciousness structures:
 - **Research**: Leading authority on therapeutic memory implantation
 - **Ethics**: Strong advocate for informed consent in consciousness procedures
 
-**[[12_Research/D&D_References/Director of Experimental Procedures Dr. Siren Voidtouch]]**
+**[[Director of Experimental Procedures Dr. Siren Voidtouch]]**
 - **Specialization**: Consciousness transfer and extreme experimental techniques
 - **Background**: Mysterious past involving personal consciousness transfer experience
 - **Innovation**: Pioneered temporary consciousness relocation procedures
@@ -357,7 +363,7 @@ Advanced techniques for rebuilding damaged consciousness structures:
 - **Staff Exchange**: Medical personnel work across different areas of the complex
 - **Research Coordination**: Joint research projects with other Reflection Pool facilities
 
-### [[12_Research/D&D_References/The Shadow Markets]] - Underground Connections
+### [[The Shadow Markets]] - Underground Connections
 
 - **Illegal Services**: Black market consciousness modification and memory trading
 - **Ethics Violations**: Some rejected procedures available through criminal networks
@@ -365,7 +371,7 @@ Advanced techniques for rebuilding damaged consciousness structures:
 - **Information Security**: Protecting patient data from criminal intelligence gathering
 - **Enforcement Cooperation**: Working with authorities to stop illegal consciousness procedures
 
-### [[12_Research/D&D_References/Imperial Academy]] - Educational Partnership
+### [[Imperial Academy]] - Educational Partnership
 
 - **Medical Training**: Advanced students receive training in consciousness surgery
 - **Research Collaboration**: Joint projects advancing consciousness medicine
@@ -373,7 +379,7 @@ Advanced techniques for rebuilding damaged consciousness structures:
 - **Innovation Development**: Academic research contributing to surgical advancement
 - **International Exchange**: Foreign medical students learning Aquabyssos techniques
 
-### [[12_Research/D&D_References/Parliament of Echoes]] - Regulatory Oversight
+### [[Parliament of Echoes]] - Regulatory Oversight
 
 - **Legislative Framework**: Laws governing consciousness surgery and patient rights
 - **Funding Authorization**: Parliamentary approval for research and facility expansion
@@ -479,8 +485,8 @@ The facility's most closely guarded secret is a device preventing reality distor
 
 ## Connections
 
-- [[12_Research/D&D_References/Shadow Market Canals]]
-- [[12_Research/D&D_References/Aquabyssos - Session 04 - High Tide Horror]]
+- [[Shadow Market Canals]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
 - [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
@@ -498,18 +504,134 @@ Legends speak of Reflection Pools   Surgical Theater as a nexus where past and p
 - An NPC seeks discreet help at Reflection Pools   Surgical Theater to avert a public scandal.
 - A map overlay reveals a hidden approach to Reflection Pools   Surgical Theater active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Reflection Pools - Surgical Theater]]
+- [[Reflection Pools - Surgical Theater]]
 
 <!-- enriched: true -->
-- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[Parliament of Echoes]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
+
+
+## Notable Residents
+
+- [[Archdruid Thornweaver]]
+- [[Pirate Lords of the Spiral Depths]]
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-community-organizations-community-organizations.svg]]
+- [[Economic Planning]]
+- [[04_Resources_Assets_Locations_location-city-pressure-weighted-representation-pressure-weighted-representation.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+Reflection Pools - Surgical Theater is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Reflection Pools - Surgical Theater
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Reflection Pools - Surgical Theater was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Reflection Pools - Surgical Theater:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Reflection Pools - Surgical Theater
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

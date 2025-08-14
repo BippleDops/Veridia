@@ -1,23 +1,29 @@
+# astral-skiff-mtf
+
 ---
+title: astral skiff mtf
 aliases:
 - Astral Skiff
-created: 2025-07-23
-cssclasses: json5e-vehicle
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- active
+- ttrpg-cli/compendium/src/5e/mtf
+- ttrpg-cli/vehicle/type/ship
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/vehicle/size/huge
 - ttrpg-cli/vehicle/terrain/air
-- ttrpg-cli/vehicle/type/ship
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-vehicle
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:36.557413'
 world: Both
 ---
+
 
 # Astral Skiff
 %%-- Embedded content starts on the next line. --%%
@@ -60,3 +66,8 @@ Legends speak of astral skiff mtf as a nexus where past and present converge. Lo
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

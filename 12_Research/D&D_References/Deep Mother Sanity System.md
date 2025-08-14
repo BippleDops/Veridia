@@ -1,24 +1,31 @@
+# Deep Mother Sanity System
+
 ---
-created: '2025-08-12'
-created_by: claude
-status: complete
+title: Deep Mother Sanity System
+type: Mechanics
 tags:
 - both
-- complete
-- content/mechanics
-- deep-mother
-- horror
-- madness
-- mechanics
-- sanity
 - status/complete
-- world/aethermoor
-- world/aquabyssos
+- mechanics
+- madness
+- research
 - world/both
-type: Mechanics
+- deep-mother
+- active
+- horror
+- complete
+- sanity
+- world/aquabyssos
+- content/mechanics
+- world/aethermoor
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+created_by: claude
 updated: '2025-08-13T12:34:17.777992+00:00'
 world: Both
 ---
+
 
 
 
@@ -370,3 +377,8 @@ Legends speak of Deep Mother Sanity System as a nexus where past and present con
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

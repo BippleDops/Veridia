@@ -1,18 +1,26 @@
 ---
-cr: '15'
-created: '2025-08-11'
-status: complete
+title: High Priestess Celeste Dawnbringer
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
+cr: '15'
 updated: '2025-08-13T12:34:17.638639+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -101,12 +109,29 @@ High Priestess Celeste Dawnbringer leads the Church of the Luminous Dawn in [[Cr
 > - Has created false healing miracles to maintain public confidence
 > - Knows the location of two of [[The Seven Shards]] through the queen
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Deep and resonant
+
+**Speech Pattern**: Formal and elaborate
+
+**Physical Habits**: Remains perfectly still
+
 ## Current Activities
 - Providing secret medical treatments to [[Queen Seraphina Lumengarde]]
 - Developing new anti-corruption healing techniques
 - Managing the public face of the church while hiding royal secrets
 - Training select acolytes in advanced healing without revealing why
 - Investigating reports of corruption outbreaks in distant provinces
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 ## Motivations
 1. **Primary**: Heal and protect [[Queen Seraphina Lumengarde]] at all costs
@@ -158,6 +183,61 @@ High Priestess Celeste Dawnbringer leads the Church of the Luminous Dawn in [[Cr
 *"Your Majesty, the treatments are holding, but we must find a permanent solution soon."* - Secret consultation
 
 *"I have sworn sacred oaths - to heal, to protect, to serve the light. Sometimes those oaths conflict, and we must choose which light shines brightest."* - Private anguish
+
+
+
+## Background
+
+High Priestess Celeste Dawnbringer's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Plot Hooks
+
+1. **The Request**: High Priestess Celeste Dawnbringer needs assistance with a delicate matter
+2. **The Opposition**: Someone wants High Priestess Celeste Dawnbringer stopped or removed
+3. **The Secret**: Information about High Priestess Celeste Dawnbringer's past surfaces
+4. **The Alliance**: Opportunity to work with or against High Priestess Celeste Dawnbringer
+5. **The Crisis**: High Priestess Celeste Dawnbringer is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 - Perfect for moral complexity and political intrigue
@@ -431,6 +511,14 @@ Wonders if her treatments actually heal the queen or simply postpone inevitable 
 - [[Quest - The Successor's Burden]] - Training replacement who can handle the truth
 - [[Quest - The Corruption Cure]] - Developing permanent solution to crystal corruption
 
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-depth-safety-authorit-depth-safety-authorit.svg]]: *mentor*
+- [[Queen Morwyn Lumengarde]]: *sworn enemy*
+- [[High Inquisitor Maltheos]]: *debt holder*
 
 ## Connections
 

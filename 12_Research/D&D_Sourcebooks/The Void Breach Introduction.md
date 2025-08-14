@@ -1,34 +1,40 @@
+# The Void Breach Introduction
+
 ---
+title: The Void Breach - Introduction
+type: Adventure
+tags:
+- aquabyssos
+- adventure
+- cosmic-horror
+- content/adventure
+- mechanics/exploration
+- status/complete
+- research
+- reality-corruption
+- active
+- horror
+- complete
+- world/aquabyssos
+- content/mechanics
+- void-breach
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 connections:
 - '[[Deep Mother Lore]]'
 - '[[Deep Mother Cult Practices]]'
 - '[[Sanity_Horror_Framework|Sanity Horror Framework]]'
-created: '2025-08-11'
 level-range: 7-9
-status: complete
-tags:
-- adventure
-- aquabyssos
-- complete
-- content/adventure
-- content/mechanics
-- cosmic-horror
-- horror
-- mechanics/exploration
-- reality-corruption
-- status/complete
-- void-breach
-- world/aquabyssos
 themes:
 - psychological_horror
 - reality_distortion
 - eldritch_investigation
 - sanity_loss
-title: The Void Breach - Introduction
-type: Adventure
 updated: '2025-08-13T12:34:17.816607+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -352,3 +358,8 @@ Legends speak of Introduction as a nexus where past and present converge. Locals
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

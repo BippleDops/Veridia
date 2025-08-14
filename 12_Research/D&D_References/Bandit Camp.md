@@ -1,19 +1,28 @@
+# Bandit Camp
+
 ---
+title: Bandit Camp
+type: Lore
 tags:
-- aquabyssos
-- bandits
-- combat
-- complete
-- investigation
 - lore
-- quest
+- aquabyssos
+- investigation
 - social
 - trade-routes
+- quest
+- research
+- active
+- combat
+- complete
+- bandits
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: The Windlass Islands
 quest_status: Active
 quest_priority: High
 quest_type: Main Quest
 world: Aquabyssos
-region: The Windlass Islands
 level_range: 2-4
 duration: 3-5 sessions
 difficulty: Medium
@@ -42,15 +51,13 @@ rewards:
 - Merchant Favor
 - Trading Post Shares
 - Navigation Rights
-status: complete
-created: '2025-08-08'
 last_modified: 2025-08-10 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:34.502353+00:00'
-type: Lore
 ---
+
 
 
 
@@ -346,3 +353,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[reports/bidirectional_links|Reports/bidirectional Links]]
+
+
+## Related
+
+*Links to related content will be added here.*

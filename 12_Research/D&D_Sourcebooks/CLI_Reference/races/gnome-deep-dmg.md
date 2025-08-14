@@ -1,21 +1,27 @@
+# gnome-deep-dmg
+
 ---
+title: gnome deep dmg
 aliases:
 - Gnome (Deep)
-created: 2025-07-23
-cssclasses: json5e-race
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/race/gnome/deep
-- world/both
 type: note
+tags:
+- ttrpg-cli/race/gnome/deep
+- research
+- world/both
+- active
+- note
+- ttrpg-cli/compendium/src/5e/dmg
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-race
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:37.709340'
 world: Both
 ---
+
 
 # Gnome (Deep)
 *Source: Dungeon Master's Guide p. 282*  
@@ -72,3 +78,8 @@ Legends speak of gnome deep dmg as a nexus where past and present converge. Loca
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

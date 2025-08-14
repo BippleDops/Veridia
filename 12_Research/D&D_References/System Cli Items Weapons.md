@@ -1,21 +1,28 @@
+# System Cli Items Weapons
+
 ---
-created: '2025-08-08'
-created_by: auto-stub
-status: complete
+title: System Cli Items Weapons
+type: Lore
 tags:
+- lore
 - aquabyssos
+- status/complete
+- content/lore
+- research
+- crafting
+- active
 - complete
 - content/item
-- content/lore
-- crafting
-- lore
-- mechanics/combat
-- status/complete
 - world/aquabyssos
-type: Lore
+- mechanics/combat
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+created_by: auto-stub
 updated: '2025-08-13T12:34:29.313479+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -134,3 +141,8 @@ Legends speak of Ω System CLI items weapons as a nexus where past and present c
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

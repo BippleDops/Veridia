@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Campaign Center
 type: index
-cssclass: campaign-center
 tags:
-- index
-- campaign
 - management
+- index
+- active
+- campaign
+created: 2025-08-14
+modified: '2025-08-14'
+updated: 2025-08-14
+cssclass: campaign-center
 ---
+
 
 # ⚔️ Campaign Command Center
 

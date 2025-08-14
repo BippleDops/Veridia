@@ -1,16 +1,22 @@
+# Gastón Flambéheart
+
 ---
+title: "Gasto\u0301n Flambe\u0301heart"
 type: Lore
-status: complete
 tags:
-- active
+- lore
 - dimensional nexus (both realms)
 - dimensional-nexus-(both-realms)
+- research
+- active
 - location
-- lore
-world: Dimensional Nexus (Both Realms)
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+world: Dimensional Nexus (Both Realms)
 updated: '2025-08-13T01:18:34.666591+00:00'
 ---
+
 
 
 
@@ -49,3 +55,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Floating Market]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,25 +1,32 @@
+# The Shadow Conspiracy Hierarchy
+
 ---
+title: The Shadow Conspiracy Hierarchy
+type: Group
 tags:
 - aquabyssos
-- complete
-- group
-- hierarchy
 - leadership
 - organization
+- research
+- active
+- complete
 - shadow-conspiracy
-type: Group
-world: Aquabyssos
+- group
+- hierarchy
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
+headquarters: '[[The Umbral Nexus]]'
+world: Aquabyssos
 faction_type: Secret Organization
 alignment: Neutral Evil
-headquarters: '[[The Umbral Nexus]]'
 leader: '[[The Umbral Council]]'
 members: ~12,000 operatives across all levels
 influence: Continental
 purpose: Species evolution through shadow-human integration
-created: '2025-08-12'
 updated: '2025-08-13T01:18:36.738567+00:00'
 ---
+
 
 
 # The Shadow Conspiracy Hierarchy
@@ -531,3 +538,8 @@ Legends speak of The Shadow Conspiracy Hierarchy as a nexus where past and prese
 - A map overlay reveals a hidden approach to The Shadow Conspiracy Hierarchy active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

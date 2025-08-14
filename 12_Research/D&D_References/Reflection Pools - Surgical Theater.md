@@ -1,31 +1,38 @@
+# Reflection Pools - Surgical Theater
+
 ---
+title: Reflection Pools   Surgical Theater
+type: Location
 tags:
 - aquabyssos
-- complete
-- consciousness
-- healing
-- location
-- medical
-- memory
-- reflection_pools
-- specialized
-- surgical
 - theater
+- consciousness
+- medical
+- reflection_pools
+- memory
+- research
+- surgical
+- active
+- specialized
+- location
+- complete
+- healing
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+population: 50-80 medical staff, 20-40 patients daily
 world: Aquabyssos
-type: Location
 location_type: Medical Theater
 parent_location: The Reflection Pools
 danger_level: 3
-population: 50-80 medical staff, 20-40 patients daily
 government: Medical Board oversight and Imperial licensing
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] View
@@ -495,3 +502,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 - [[Parliament of Echoes]]
+
+
+## Related
+
+*Links to related content will be added here.*

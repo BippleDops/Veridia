@@ -1,9 +1,16 @@
 ---
+title: step 077
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 50
 step: 77
 total_step: 4977
 ---
+
 
 # Phase 50 - Step 77
 

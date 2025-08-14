@@ -1,14 +1,20 @@
+# Captain Repossession
+
 ---
-tags:
-- active
-- aethermoor
-- npc
+title: Captain Repossession
 type: NPC
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.973106+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-captain-repossession-captain-repossession.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Consortium Security Constructs]]
+
+
+## Related
+
+*Links to related content will be added here.*

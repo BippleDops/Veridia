@@ -1,15 +1,21 @@
+# Marcus Evenscale
+
 ---
-tags:
-- active
-- both
-- location
+title: Marcus Evenscale
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.062505+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-marcus-evenscale-marcus-evenscale.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Marcus Evenscale|02 Worldbuilding/Places/Marcus Evenscale]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

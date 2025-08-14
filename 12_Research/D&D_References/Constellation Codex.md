@@ -1,20 +1,27 @@
+# Constellation Codex
+
 ---
+title: Constellation Codex
+type: Location
 tags:
-- ancient-wisdom
 - aquabyssos
-- artifact
-- astronomical-knowledge
 - book
-- complete
+- research
+- active
+- artifact
 - location
+- complete
+- ancient-wisdom
+- astronomical-knowledge
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.422402+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View

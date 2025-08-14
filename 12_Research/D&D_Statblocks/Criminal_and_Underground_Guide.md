@@ -1,17 +1,24 @@
+# Criminal_and_Underground_Guide
+
 ---
-created: '2025-08-13'
-status: complete
+title: Criminal and Underground Guide
+type: Guide
 tags:
-- gm-resources
+- underground
 - npc-guides
 - criminals
-- underground
-- shadow-conspiracy
 - thieves
-type: Guide
+- research
+- gm-resources
+- active
+- shadow-conspiracy
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
+
 
 # Criminal and Underground Guide
 
@@ -419,3 +426,7 @@ world: Both
 - [[Criminal_Organizations]]
 - [[Faction_Quick_Reference]]
 - [[Social_Encounter_Reference]]
+
+## Related
+
+*Links to related content will be added here.*

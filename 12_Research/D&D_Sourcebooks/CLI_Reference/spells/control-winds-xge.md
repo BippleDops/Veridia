@@ -1,26 +1,32 @@
+# control-winds-xge
+
 ---
+title: control winds xge
 aliases:
 - Control Winds
+type: note
+tags:
+- ttrpg-cli/compendium/src/5e/xge
+- mechanics/magic
+- research
+- world/both
+- active
+- note
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
 classes:
 - Bard
 - Druid
 - Sorcerer
 - Wizard
-created: 2025-07-23
 cssclasses: json5e-spell
-modified: 2025-07-23 12:39
 obsidianUIMode: preview
-status: active
-tags:
-- mechanics/magic
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xge
-- world/both
-type: note
 updated: '2025-08-12T23:37:36.399918'
 world: Both
 ---
+
 
 # Control Winds
 *5th-level, Transmutation*  
@@ -70,3 +76,8 @@ Legends speak of control winds xge as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,34 +1,41 @@
+# Keeper Elara Mindwell
+
 ---
+title: Keeper Elara Mindwell
+type: Location
 tags:
-- advisor
-- aquabyssos
-- character
-- complete
-- keeper
-- knowledge
-- location
 - lore
+- aquabyssos
 - mindwell
 - npc
+- knowledge
+- research
+- character
 - scholar
-status: complete
-world: Aquabyssos
-type: Location
-created_by: auto-stub
+- active
+- location
+- complete
+- advisor
+- keeper
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+class: Wizard/Lore Master
+location: Academy Archives, Aquabyssos
+level: 12
+world: Aquabyssos
+created_by: auto-stub
 updated: '2025-08-13T01:18:35.957086+00:00'
 character_type: Knowledge Keeper
 faction: Aquabyssos Academy
-class: Wizard/Lore Master
-level: 12
 cr: 8
 occupation: Senior Cultural Advisor
-location: Academy Archives, Aquabyssos
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 
 
@@ -323,3 +330,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 - [[Archivist Vera Glowmind]]
+
+
+## Related
+
+*Links to related content will be added here.*

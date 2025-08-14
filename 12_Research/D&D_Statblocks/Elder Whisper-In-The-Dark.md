@@ -1,14 +1,20 @@
+# Elder Whisper-In-The-Dark
+
 ---
+title: Elder Whisper In The Dark
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 world: Both
 updated: '2025-08-13T01:18:36.824118+00:00'
-created: '2025-08-11'
-status: active
-tags:
-- active
-- both
-- npc
-type: NPC
 ---
+
 
 
 
@@ -355,3 +361,8 @@ Legends speak of Elder Whisper In The Dark as a nexus where past and present con
 - [[Aethermoor]]
 - [[The Cerulean Trench]]
 - [[The Primordial Vaults]]
+
+
+## Related
+
+*Links to related content will be added here.*

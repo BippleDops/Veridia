@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Pattern Mirror Divination
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Techniques/Pattern Mirror Divination
 
@@ -24,7 +28,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Shadow Broker Mirrors]]
+- [[Shadow Broker Mirrors]]
 - [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Broker Mirrors]]
 
 ## Notes

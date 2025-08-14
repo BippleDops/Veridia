@@ -1,25 +1,33 @@
+# Pressure Angel Benthia
+
 ---
+title: Pressure Angel Benthia
+type: NPC
 tags:
 - aquabyssos
-- complete
-- deep-mother
-- divine-servant
+- person
 - guardian
 - npc
-- person
+- research
+- deep-mother
 - pressure-angel
+- active
+- divine-servant
+- complete
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
+race: Pressure Angel (Divine Being)
+location: '[[The Hadal Depths|02 Worldbuilding/Places/The Hadal Depths]] - Pressure
+  Nexus Points'
 world: Aquabyssos
-type: NPC
 role: Pressure Angel
 affiliation: '[[The Deep Mother]] (Direct Service)'
 age: Timeless (exists outside normal temporal flow)
-race: Pressure Angel (Divine Being)
-location: '[[The Hadal Depths|02 Worldbuilding/Places/The Hadal Depths]] - Pressure Nexus Points'
 created_by: auto-stub
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.png]]
@@ -664,3 +672,8 @@ Legends speak of Pressure Angel Benthia as a nexus where past and present conver
 - [[The Scattered Emperor]]
 - [[The Shadow Singer Naia]]
 - [[The Hadal Depths]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: vehicle ship abyssal scout submarine v1 abyssal scout submarine.png
+aliases:
+- vehicle ship abyssal scout submarine v1 abyssal scout submarinepng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Vehicles/vehicle-ship-abyssal-scout-submarine-v1-abyssal-scout-submarine.png
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Vehicles & Ships Gallery]]
-- [[12_Research/D&D_References/Vehicles & Ships Gallery]]
+- [[Vehicles & Ships Gallery]]
+- [[Vehicles & Ships Gallery]]
 
 ## Notes
 

@@ -1,25 +1,32 @@
 ---
+title: Azure Citadel
+type: Location
+tags:
+- aquabyssos
+- status/complete
+- world/aquabyssos
+- military
+- content/faction
+- content/location
+- place
+- active
+- location
+- complete
+- fortress
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Unknown
 MyContainer: None
-created: '2025-08-12'
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/faction
-- content/location
-- fortress
-- location
-- military
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:17.231588+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -430,6 +437,27 @@ The Azure Citadel stands as [[Aquabyssos]]'s primary military headquarters and g
 - **Aether Fragment**: Functions as a Rod of Absorption but only for spells of 3rd level or lower
 - **Citadel Command Crystal**: Allows communication with any creature within the citadel, requires attunement by military officer
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 ### Using Azure Citadel
@@ -512,3 +540,85 @@ riched: true -->
 - [[Memory Farmers]]
 - [[Parliament of Echoes]]
 - [[The Hadal Depths]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[Healing Temples]]
+- [[04_Resources_Assets_Locations_location-city-war-machine-assembly-halls-v1-war-machine-assembly-halls.svg]]
+- [[04_Resources_Assets_Locations_location-city-harbor-district-harbor-district.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+Azure Citadel is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Azure Citadel
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Azure Citadel:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Azure Citadel
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

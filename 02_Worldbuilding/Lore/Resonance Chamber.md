@@ -1,15 +1,18 @@
 ---
+title: Resonance Chamber
 type: Lore
-status: complete
+tags:
+- lore
+- both
+- active
+- crystal-enhanced
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:34.551366+00:00'
 world: Both
-tags:
-- crystal-enhanced
-- active
-- both
-- lore
 ---
+
 
 
 ## Cross-References
@@ -19,14 +22,14 @@ tags:
 
 ## Connections
 
-- [[12_Research/D&D_References/Master Artificers Guild]]
-- [[12_Research/D&D_References/Crystal-Corruption-Tracking-Sheet]]
-- [[12_Research/D&D_References/Eastern Kingdom]]
-- [[12_Research/D&D_References/Resonance Peaks]]
-- [[12_Research/D&D_References/The Possessed Queen]]
-- [[12_Research/D&D_References/United Councils of Both Worlds]]
-- [[12_Research/D&D_References/Aethermoor]]
-- [[12_Research/D&D_References/Royal Palace]]
+- [[Master Artificers Guild]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Eastern Kingdom]]
+- [[Resonance Peaks]]
+- [[The Possessed Queen]]
+- [[United Councils of Both Worlds]]
+- [[Aethermoor]]
+- [[Royal Palace]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -52,3 +55,31 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Overview
+
+Resonance Chamber represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

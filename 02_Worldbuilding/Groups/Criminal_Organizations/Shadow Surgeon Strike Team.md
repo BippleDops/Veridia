@@ -1,32 +1,38 @@
 ---
+title: Shadow Surgeon Strike Team
+type: Faction
+tags:
+- aquabyssos
+- status/complete
+- military
+- content/faction
+- faction
+- shadow-operations
+- organization
+- active
+- complete
+- world/aquabyssos
+- mechanics/combat
+- elite-force
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Shadow Operating Theater]]'
+membership: Unknown
 MyCategory: Unknown
 MyContainer: None
 alignment: Chaotic Evil
-created: '2025-08-08'
 created_by: auto-stub
 faction_type: Elite Special Forces
-headquarters: '[[The Shadow Operating Theater]]'
 influence: Covert operations across multiple realms
 leader: '[[Colonel Dr. Vivisection]]'
 members: ~50 elite shadow surgeons and support staff
 obsidianUIMode: preview
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/faction
-- elite-force
-- faction
-- mechanics/combat
-- military
-- shadow-operations
-- status/complete
-- world/aquabyssos
-type: Faction
 updated: '2025-08-13T12:34:17.372889+00:00'
 wealth: Well-funded by shadow organizations
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry
@@ -464,3 +470,9 @@ Legends speak of Shadow Surgeon Strike Team as a nexus where past and present co
 ## Connections
 
 - [[Memory Farmers]]
+
+
+## Known Members
+
+- [[Archon Meredith Saltweaver]]
+- [[04_Resources_Assets_Locations_location-city-marina-dreamwhisper-marina-dreamwhisper.svg]]

@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Border Castles
+type: Faction
 tags:
-- aethermoor
-- complete
 - content/faction
 - faction
-- status/in-progress
+- organization
 - world/aethermoor
-type: Faction
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.303021+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Heraldry
@@ -65,3 +72,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Crown]]
+
+
+## Known Members
+
+- [[Quest - The Sanctuary's Secret]]
+- [[04_Resources_Assets_Locations_location-city-the-null-cathedral-the-null-cathedral.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-drowned-embassy-the-drowned-embassy.svg]]

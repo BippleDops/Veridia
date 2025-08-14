@@ -1,6 +1,24 @@
+# acid-splash-xphb
+
 ---
+title: acid splash xphb
 aliases:
 - Acid Splash
+type: note
+tags:
+- world/surface
+- mechanics/magic
+- content/lore
+- world/both
+- research
+- active
+- campaign/arc
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
 classes:
 - Bard (College of Lore)
 - Druid (Circle of the Land)
@@ -9,24 +27,12 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-created: 2025-07-23
 cssclasses: json5e-spell
-modified: 2025-07-23 12:39
 obsidianUIMode: preview
-status: active
-tags:
-- campaign/arc
-- content/lore
-- mechanics/magic
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-- world/both
-- world/surface
-type: note
 updated: '2025-08-12T23:37:36.540033'
 world: Both
 ---
+
 
 # Acid Splash
 *cantrip, Evocation*  
@@ -64,3 +70,8 @@ Legends speak of acid splash xphb as a nexus where past and present converge. Lo
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

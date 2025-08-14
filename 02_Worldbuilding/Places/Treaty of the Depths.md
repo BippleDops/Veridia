@@ -1,7 +1,32 @@
 ---
+title: Treaty of the Depths
+type: Location
+tags:
+- mechanics/social
+- status/complete
+- treaty
+- inter-realm
+- aquatic
+- both worlds
+- content/lore
+- world/both
+- agreement
+- content/location
+- law
+- place
+- active
+- location
+- complete
+- world/aquabyssos
+- politics
+- world/aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Unknown
 MyContainer: None
-created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 lore_type: Political Document
@@ -9,29 +34,11 @@ obsidianUIMode: preview
 primary_participants: Aquabyssos and Aethermoor
 scope: Inter-Realm Relations
 significance: Foundational
-status: complete
-tags:
-- aquatic
-- agreement
-- both worlds
-- complete
-- content/location
-- content/lore
-- inter-realm
-- law
-- location
-- mechanics/social
-- politics
-- status/complete
-- treaty
-- world/aethermoor
-- world/aquabyssos
-- world/both
 time_period: Current Era
-type: Location
 updated: '2025-08-13T12:34:16.538517+00:00'
 world: Both Worlds
 ---
+
 
 
 > [!figure] View
@@ -47,7 +54,7 @@ world: Both Worlds
 
 ## Overview
 
-The Treaty of the Depths stands as the foundational diplomatic agreement between [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]], establishing formal relations between the underwater and surface realms while creating frameworks for cooperation, trade, and mutual assistance. This landmark document transformed centuries of separation and occasional conflict into structured partnership based on mutual respect and shared interests.
+The Treaty of the Depths stands as the foundational diplomatic agreement between [[Aquabyssos]] and [[Aethermoor]], establishing formal relations between the underwater and surface realms while creating frameworks for cooperation, trade, and mutual assistance. This landmark document transformed centuries of separation and occasional conflict into structured partnership based on mutual respect and shared interests.
 
 Negotiated over eighteen months of complex diplomatic discussions, the Treaty addresses everything from territorial boundaries and trade relationships to cultural exchange and mutual defense arrangements. Its success has served as model for subsequent inter-realm agreements and established precedents for international cooperation in an increasingly interconnected world.
 
@@ -57,7 +64,7 @@ The Treaty's implementation has created lasting institutions and relationships t
 
 ### Pre-Treaty Relations
 
-Before the Treaty of the Depths, relations between [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]] were characterized by mutual ignorance punctuated by occasional misunderstandings and minor conflicts over resource access and territorial boundaries.
+Before the Treaty of the Depths, relations between [[Aquabyssos]] and [[Aethermoor]] were characterized by mutual ignorance punctuated by occasional misunderstandings and minor conflicts over resource access and territorial boundaries.
 
 Both realms maintained separate development paths with minimal contact, leading to divergent cultural practices, technological advancement, and political systems that created barriers to communication and cooperation.
 
@@ -65,7 +72,7 @@ Increasing population and resource pressures in both realms created situations w
 
 ### Catalyst Events
 
-The immediate catalyst for treaty negotiations was the [[12_Research/D&D_References/Depth Current Crisis]], when environmental changes affecting both realms required coordinated response that existing informal communication channels could not adequately address.
+The immediate catalyst for treaty negotiations was the [[Depth Current Crisis]], when environmental changes affecting both realms required coordinated response that existing informal communication channels could not adequately address.
 
 Secondary factors included recognition that both realms faced similar threats from external forces and supernatural phenomena that could be more effectively addressed through cooperation than individual action.
 
@@ -83,7 +90,7 @@ The negotiation process itself became foundation for ongoing diplomatic relation
 
 ### Foundational Principles
 
-The Treaty establishes fundamental principles of mutual respect, sovereign equality, and voluntary cooperation as basis for all inter-realm relations between [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]].
+The Treaty establishes fundamental principles of mutual respect, sovereign equality, and voluntary cooperation as basis for all inter-realm relations between [[Aquabyssos]] and [[Aethermoor]].
 
 Recognition of distinct cultural values and governmental systems ensures that cooperation enhances rather than undermines each realm's unique characteristics and autonomous decision-making authority.
 
@@ -133,7 +140,7 @@ Joint environmental monitoring and research programs advance scientific understa
 
 ### Treaty Administration
 
-The [[12_Research/D&D_References/United Councils of Both Worlds]] serves as primary administrative body for treaty implementation, providing forum for ongoing communication and coordination between realm representatives.
+The [[United Councils of Both Worlds]] serves as primary administrative body for treaty implementation, providing forum for ongoing communication and coordination between realm representatives.
 
 Specialized committees address specific treaty areas, including trade, cultural exchange, environmental protection, and security cooperation, ensuring detailed attention to implementation challenges.
 
@@ -269,7 +276,7 @@ Evolution of both societies continues to create new opportunities for cooperatio
 
 ### Preamble
 
-*"We, the representatives of the sovereign realms of [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]], recognizing our shared heritage, common challenges, and complementary strengths, do hereby establish this Treaty of the Depths to guide our relations in a spirit of mutual respect, voluntary cooperation, and peaceful coexistence."*
+*"We, the representatives of the sovereign realms of [[Aquabyssos]] and [[Aethermoor]], recognizing our shared heritage, common challenges, and complementary strengths, do hereby establish this Treaty of the Depths to guide our relations in a spirit of mutual respect, voluntary cooperation, and peaceful coexistence."*
 
 ### Article I: Fundamental Principles
 
@@ -303,7 +310,7 @@ Its ultimate significance may lie not just in specific provisions or immediate b
 ## Connections
 
 - [[12_Research/D&D_Statblocks/Envoy Blackwater Jr.]]
-- [[12_Research/D&D_References/The Bathyal Palace]]
+- [[The Bathyal Palace]]
 
 ## Player-Facing Summary
 
@@ -319,19 +326,134 @@ Legends speak of Treaty of the Depths as a nexus where past and present converge
 - An NPC seeks discreet help at Treaty of the Depths to avert a public scandal.
 - A map overlay reveals a hidden approach to Treaty of the Depths active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Treaty of the Depths]]
+- [[Treaty of the Depths]]
 
 <!-- enriched: true -->
-- [[12_Research/D&D_References/United Councils of Both Worlds]]
-- [[12_Research/D&D_References/Aethermoor]]
+- [[United Councils of Both Worlds]]
+- [[Aethermoor]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-the-living-quarters-v1-the-living-quarters.svg]]
+- [[04_Resources_Assets_Locations_location-city-wealthy-goldstream-wealthy-goldstream.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-sundered-peaks-v1-the-sundered-peaks.svg]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+Treaty of the Depths is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Treaty of the Depths
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Treaty of the Depths was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Treaty of the Depths:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Treaty of the Depths
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

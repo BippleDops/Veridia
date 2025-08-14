@@ -1,21 +1,28 @@
+# Medical Research Facilities
+
 ---
-created: '2025-08-12'
-status: complete
+title: Medical Research Facilities
+type: Location
 tags:
 - aquabyssos
-- complete
+- medical
+- status/complete
+- plague
+- research
 - content/location
 - cure
+- active
 - location
-- medical
-- plague
-- status/complete
-- world/aethermoor
+- complete
 - world/aquabyssos
-type: Location
+- world/aethermoor
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.078345+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -488,3 +495,7 @@ A young researcher has made a revolutionary discovery but refuses to share it wi
 - [[Quarantine Enforcement]] - Government response and control measures
 
 <!-- enriched: true -->
+
+## Related
+
+*Links to related content will be added here.*

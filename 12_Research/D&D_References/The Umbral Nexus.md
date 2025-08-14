@@ -1,21 +1,28 @@
+# The Umbral Nexus
+
 ---
+title: The Umbral Nexus
+type: Place
 tags:
 - aquabyssos
-- complete
-- headquarters
+- research
 - place
+- headquarters
 - secret-facility
+- active
+- complete
 - shadow-conspiracy
-type: Place
-world: Aquabyssos
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
+world: Aquabyssos
 depth: 6,800 feet
 location_type: Secret Headquarters
 security_level: Maximum
 access_restriction: First and Second Sphere Shadow Operatives Only
-created: '2025-08-12'
 updated: '2025-08-13T01:18:36.533048+00:00'
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-umbral-nexus-the-umbral-nexus.svg]]
@@ -406,3 +413,8 @@ Legends speak of The Umbral Nexus as a nexus where past and present converge. Lo
 - [[The Umbral Nexus|02 Worldbuilding/Places/The Umbral Nexus]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

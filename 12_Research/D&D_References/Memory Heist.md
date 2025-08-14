@@ -1,23 +1,29 @@
+# Memory Heist
+
 ---
+title: Memory Heist
+type: Location
 tags:
-- both worlds
-- both-worlds
-- complete
-- crime
-- heist
-- investigation
-- location
 - lore
-- magic
-- memory
-- mental
 - psychological
+- investigation
 - theft
+- memory
+- both worlds
+- magic
+- both-worlds
+- research
+- mental
+- active
+- heist
+- complete
+- location
+- crime
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both Worlds
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:35.974237+00:00'
 lore_type: Criminal Technique
 scope: Magical Crime
@@ -29,6 +35,7 @@ MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 
 
@@ -395,3 +402,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

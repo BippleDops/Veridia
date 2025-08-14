@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Resonant Crystals
 type: item
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - item
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+rarity: Unknown
+value: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Items/Resonant_Crystals
 
@@ -24,10 +30,10 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Transformations - Crystal - Crystal Resonance]]
-- [[12_Research/D&D_References/Crystal - Crystal_Resonanc]]
-- [[12_Research/D&D_References/Crystal - Crystal_Resonance]]
-- [[12_Research/D&D_References/Transformations - Crystal - Crystal Resonanc]]
+- [[Transformations - Crystal - Crystal Resonance]]
+- [[Crystal - Crystal_Resonanc]]
+- [[Crystal - Crystal_Resonance]]
+- [[Transformations - Crystal - Crystal Resonanc]]
 
 ## Notes
 

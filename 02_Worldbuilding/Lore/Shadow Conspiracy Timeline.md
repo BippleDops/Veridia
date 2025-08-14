@@ -1,24 +1,28 @@
 ---
-created: '2025-08-12'
-status: complete
+title: Shadow Conspiracy Timeline
+type: Lore
 tags:
-- quest
-- crystal-enhanced
-- shadow-touched
-- aquatic
+- lore
 - aquabyssos
+- shadow-surgery
+- world/aquabyssos
+- aquatic
+- quest
+- content/lore
+- active
 - complete
 - conspiracy
-- content/lore
-- lore
-- shadow-conspiracy
-- shadow-surgery
 - status/in-progress
-- world/aquabyssos
-type: Lore
+- shadow-conspiracy
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.436458+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Shadow Conspiracy Timeline
@@ -734,17 +738,17 @@ The Shadow Conspiracy is now understood as the most successful intelligence and 
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Pre-Drowning Civilization Archives]]
+- [[Pre-Drowning Civilization Archives]]
 - [[The Catastrophe: Hour by Hour]]
-- [[12_Research/D&D_References/Post-Merge Chronology]]
-- [[12_Research/D&D_References/Crystal Plague Origins]]
-- [[12_Research/D&D_References/The Deep Mother]]
-- [[12_Research/D&D_References/Parliamentary Founding]]
-- [[12_Research/D&D_References/Shadow Surgeons Collective]]
-- [[12_Research/D&D_References/Agent Vex Shadowmere]]
+- [[Post-Merge Chronology]]
+- [[Crystal Plague Origins]]
+- [[The Deep Mother]]
+- [[Parliamentary Founding]]
+- [[Shadow Surgeons Collective]]
+- [[Agent Vex Shadowmere]]
 - [[Deep Speaker Marina Voidheart]]
 - [[Order of Deep Speakers]]
-- [[12_Research/D&D_References/Reality Anchor Network]]
+- [[Reality Anchor Network]]
 - [[Truth and Reconciliation Depths Commission]]
 
 ## Player-Facing Summary
@@ -774,3 +778,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

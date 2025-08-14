@@ -1,21 +1,28 @@
+# Merchant NPC Generator
+
 ---
-created: '2025-08-12'
-status: complete
-tags:
-- both
-- complete
-- content/adventure
-- content/mechanics
-- content/npc
-- economy
-- mechanics
-- merchants
-- status/complete
-- world/both
+title: Merchant NPC Generator
 type: Mechanics
+tags:
+- economy
+- both
+- content/adventure
+- status/complete
+- mechanics
+- research
+- world/both
+- content/npc
+- active
+- complete
+- content/mechanics
+- merchants
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.791773+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Merchant Types
@@ -510,3 +517,8 @@ Legends speak of Merchant NPC Generator as a nexus where past and present conver
 - A map overlay reveals a hidden approach to Merchant NPC Generator active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

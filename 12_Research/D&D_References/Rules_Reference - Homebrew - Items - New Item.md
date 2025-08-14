@@ -1,27 +1,34 @@
+# Rules_Reference - Homebrew - Items - New Item
+
 ---
+title: Rules Reference   Homebrew   Items   New Item
 aliases:
 - ItemOtherName
+type: Item
+tags:
+- both
+- research
+- world/both
+- active
+- complete
+- content/item
+- status/in-progress
+- item
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 attunement: false
 connected_-groups:
 - Template-Group
 connected_-quests:
 - Template-Quest
-created: '2025-08-11'
 my-category: null
 my-container: '[[The Giants Skull]]'
 obsidian-u-i-mode: preview
-status: complete
-tags:
-- both
-- complete
-- content/item
-- item
-- status/in-progress
-- world/both
-type: Item
 updated: '2025-08-13T12:34:17.776950+00:00'
 world: Both
 ---
+
 
 
 
@@ -110,3 +117,8 @@ Legends speak of New Item as a nexus where past and present converge. Locals des
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

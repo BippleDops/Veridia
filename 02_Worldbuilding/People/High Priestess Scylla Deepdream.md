@@ -1,14 +1,21 @@
 ---
+title: High Priestess Scylla Deepdream
+type: NPC
+tags:
+- character
+- both
+- active
+- npc
 created: null
+modified: '2025-08-14'
+status: active
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.574113+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 
 > [!figure] Portrait
@@ -70,6 +77,16 @@ Once a surface world oracle who foresaw the Great Drowning, Scylla chose to drow
 - **[[The Crimson Sage]]:** Knows his true identity, prophesied his fall
 - **[[Sister Morwyn Veilkeeper]]:** Exchanges prophecies across realms
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Deep and resonant
+
+**Speech Pattern**: Direct and concise
+
+**Physical Habits**: Remains perfectly still
+
 ## Current Activities
 - Orchestrating ritual to wake Thal'mexis
 - Sending dreams to surface dwellers to prepare them
@@ -127,9 +144,72 @@ Her seat of power:
 - "Your future flows into my past. Shall we swim together?"
 - "Death is a shallow concept. Let me show you depth."
 
+
+
+## Background
+
+High Priestess Scylla Deepdream's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Motivations
+
+**Primary Goal**: Protecting loved ones
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 Scylla represents the alien horror of Aquabyssos—someone who chose transformation and can't understand why others resist. Her temporal abilities make her nearly impossible to surprise or defeat conventionally. She should feel like a force of nature rather than a person, speaking in paradoxes and prophecies that come true in unexpected ways. Her genuine belief that she's saving the world through drowning makes her sympathetic yet terrifying.
 
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-keeper-valdris-goldvault-v1-keeper-valdris-goldvault.svg]]: *competitor*
+- [[04_Resources_Assets_Locations_location-city-terminal-director-admiral-current-swiftflow-terminal-director-admiral-current-swiftflow.svg]]: *former lover*
 
 ## Connections
 

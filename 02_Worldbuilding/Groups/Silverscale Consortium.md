@@ -1,30 +1,36 @@
 ---
+title: Silverscale Consortium
+type: Faction
+tags:
+- status/complete
+- content/faction
+- faction
+- organization
+- world/aethermoor
+- active
+- complete
+- economic
+- aethermoor
+- merchant
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Silver Tower of Commerce]]'
+membership: Unknown
 MyCategory: Unknown
 MyContainer: None
 alignment: Lawful Neutral (leaning Evil)
-created: '2025-08-08'
 created_by: auto-stub
 faction_type: Economic Power
-headquarters: '[[The Silver Tower of Commerce]]'
 influence: Continental
 leader: '[[Zephyr Goldwhisper]]'
 members: ~50,000 employees, contractors, agents
 obsidianUIMode: preview
-status: complete
-tags:
-- aethermoor
-- complete
-- content/faction
-- economic
-- faction
-- merchant
-- status/complete
-- world/aethermoor
-type: Faction
 updated: '2025-08-13T12:34:17.303706+00:00'
 wealth: Controls 60% of crystal trade
 world: Aethermoor
 ---
+
 
 
 > [!figure] Heraldry
@@ -438,3 +444,10 @@ Legends speak of Silverscale Consortium as a nexus where past and present conver
 
 - [[Master_Groups_Index|Master Groups Index]]
 - [[The Nameless Auditor]]
+
+
+## Known Members
+
+- [[NPC Relationship System]]
+- [[Tidal Priest Marina Deepcurrent]]
+- [[Gareth Goldenheart, The Chosen Vessel]]

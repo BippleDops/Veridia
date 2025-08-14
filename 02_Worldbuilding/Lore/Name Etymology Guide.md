@@ -1,26 +1,30 @@
 ---
-created: '2025-08-12'
-obsidianUIMode: preview
-status: complete
-tags:
-- crystal-enhanced
-- aerial
-- aquatic
-- both
-- complete
-- content/lore
-- cultural_reference
-- culture
-- etymology
-- linguistics
-- lore
-- names
-- status/complete
-- world/both
+title: Name Etymology Guide
 type: Lore
+tags:
+- cultural_reference
+- lore
+- both
+- aerial
+- linguistics
+- status/complete
+- culture
+- aquatic
+- names
+- content/lore
+- etymology
+- world/both
+- active
+- complete
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:16.313303+00:00'
 world: Both
 ---
+
 
 
 # Name Etymology Guide
@@ -439,12 +443,12 @@ Names indicating high social status:
 
 ## Connections
 
-- [[12_Research/D&D_References/Depth Speak Variations]]
-- [[12_Research/D&D_References/Wind Song Linguistic Guide]]
-- [[12_Research/D&D_References/Common Idioms and Sayings]]
-- [[12_Research/D&D_References/Professional Terminology]]
-- [[12_Research/D&D_References/Cultural Exchange Society]]
-- [[12_Research/D&D_References/Marriage Between Worlds]]
+- [[Depth Speak Variations]]
+- [[Wind Song Linguistic Guide]]
+- [[Common Idioms and Sayings]]
+- [[Professional Terminology]]
+- [[Cultural Exchange Society]]
+- [[Marriage Between Worlds]]
 
 ## Player-Facing Summary
 
@@ -471,3 +475,31 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Overview
+
+Name Etymology Guide represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

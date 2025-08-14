@@ -1,23 +1,29 @@
+# Eastern Kingdom
+
 ---
+title: Eastern Kingdom
+type: Lore
 tags:
-- advanced-crafting
-- aethermoor
-- complete
-- crystal-engineering
-- eastern-kingdoms
-- industrial-complex
-- innovation
-- location
 - lore
-- magical-workshops
-- technological-advancement
 - technology
+- crystal-engineering
+- innovation
+- technological-advancement
+- complete
+- research
+- magical-workshops
+- industrial-complex
+- active
+- eastern-kingdoms
+- advanced-crafting
+- location
 - trade-guilds
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 created_by: lore-expansion
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 location_type: Regional Technological Complex
 scope: Continental Significance
@@ -38,6 +44,7 @@ themes:
 - guild_cooperation
 - crystal_mastery
 ---
+
 
 
 
@@ -432,3 +439,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Lore/Grand Engineer Prism Masterwork|02 Worldbuilding/Lore/Grand Engineer Prism Masterwork]]
+
+
+## Related
+
+*Links to related content will be added here.*

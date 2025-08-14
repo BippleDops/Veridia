@@ -1,19 +1,26 @@
+# Favor Exchange Networks
+
 ---
-world: Both
-updated: '2025-08-13T01:18:35.050840+00:00'
-created: '2025-08-12'
-status: complete
+title: Favor Exchange Networks
+type: Lore
 tags:
-- both
-- complete
 - economy
-- favors
 - lore
-- networks
+- both
 - non-monetary
 - social
-type: Lore
+- research
+- active
+- networks
+- complete
+- favors
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Both
+updated: '2025-08-13T01:18:35.050840+00:00'
 ---
+
 
 
 > [!figure] Favor Networks
@@ -441,3 +448,8 @@ Consider how different cultural backgrounds create different expectations about 
 
 The non-monetary nature of favor networks allows characters to access resources and opportunities that money cannot buy, while creating social obligations that limit their freedom of action in interesting ways. This creates a different type of resource management challenge that emphasizes relationships over wealth.
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

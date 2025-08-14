@@ -1,15 +1,22 @@
+# Depth_Walker_Ranger
+
 ---
-created: '2025-08-13'
-status: ready
-tags:
-- status/ready
-- type/character-build
-- world/aquabyssos
-- class/ranger
+title: Depth Walker Ranger
 type: Character Build
+tags:
+- class/ranger
+- research
+- active
+- type/character-build
+- status/ready
+- world/aquabyssos
+created: '2025-08-13'
+modified: '2025-08-14'
+status: ready
 updated: '2025-08-13T12:00:00.000000'
 world: Aquabyssos
 ---
+
 
 # Depth Walker Ranger - Character Build
 
@@ -172,3 +179,7 @@ You know the safest and most efficient routes through dangerous deep-sea territo
 - Consider multiclassing with Druid (Circle of Land - Coast) or Warlock (Great Old One patron)
 
 This build emphasizes the unique challenges and opportunities of the underwater environment while maintaining the core ranger identity of guide, tracker, and protector.
+
+## Related
+
+*Links to related content will be added here.*

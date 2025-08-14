@@ -1,14 +1,20 @@
+# The Pressure Forges
+
 ---
-tags:
-- active
-- aquabyssos
-- lore
+title: The Pressure Forges
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- active
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.481476+00:00'
 ---
+
 
 > [!figure] Asset
 ![[04_Resources/Assets/Locations/location-city-the-pressure-forges-the-pressure-forges.svg]]
@@ -44,3 +50,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Pressure Forges|02 Worldbuilding/Places/The Pressure Forges]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

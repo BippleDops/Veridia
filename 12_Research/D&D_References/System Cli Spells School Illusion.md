@@ -1,21 +1,28 @@
+# System Cli Spells School Illusion
+
 ---
-created: '2025-08-08'
-created_by: auto-stub
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/lore
-- deception
-- illusion
-- lore
-- mechanics/magic
-- status/complete
-- world/aquabyssos
+title: System Cli Spells School Illusion
 type: Lore
+tags:
+- lore
+- aquabyssos
+- status/complete
+- mechanics/magic
+- illusion
+- content/lore
+- research
+- active
+- complete
+- world/aquabyssos
+- deception
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+created_by: auto-stub
 updated: '2025-08-13T12:34:16.474184+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -121,3 +128,8 @@ Legends speak of Ω System CLI spells school illusion as a nexus where past and 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 07
 type: adventure
-status: active
 tags:
-- combat
-- session-notes
-- aerial
 - adventure
+- aerial
+- session-notes
+- quest
+- active
+- combat
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 07: [Sky Realm Crisis]
 
@@ -62,3 +68,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Key NPCs
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-storm-ambushmaster-captain-storm-ambushmaster.svg]]
+- [[04_Resources_Assets_Locations_location-city-master-gardener-sage-harmony-bloomtender-v1-master-gardener-sage-harmony-bloomtender.svg]]
+- [[Castellan Ironledger III]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-shadowsail-captain-shadowsail.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-lord-commander-gareth-steelborn-lord-commander-gareth-steelborn.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Portraits_portrait-npc-quest-the-bio-adaptation-crisis-quest-the-bio-adaptation-crisis.svg]]
+- [[04_Resources_Assets_Locations_location-city-keeper-of-the-dead-sister-morwyn-v1-keeper-of-the-dead-sister-morwyn.svg]]
+- [[04_Resources_Assets_Locations_location-city-harbor-defense-grid-v1-harbor-defense-grid.svg]]

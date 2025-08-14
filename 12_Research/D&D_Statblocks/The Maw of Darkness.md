@@ -1,22 +1,29 @@
+# The Maw of Darkness
+
 ---
+title: The Maw of Darkness
+type: Lore
 tags:
+- lore
 - aquabyssos
-- complete
-- cosmic-threat
+- quest
+- research
+- active
 - exploration
 - horror
-- lore
-- quest
+- complete
+- cosmic-threat
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:34.504254+00:00'
 ---
+
 
 
 
@@ -408,3 +415,8 @@ Legends speak of The Maw of Darkness as a nexus where past and present converge.
 - [[The Lock]]
 - [[The Singing Trenches]]
 - [[Vault Keeper Eternal]]
+
+
+## Related
+
+*Links to related content will be added here.*

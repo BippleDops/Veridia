@@ -1,22 +1,27 @@
+# Thieves Guild
+
 ---
-type: Group
-tags:
-- active
-- both
-- criminal
-- faction
-- group
+title: Thieves Guild
 aliases:
 - The Guild
+type: Group
+tags:
+- both
+- faction
+- research
+- active
+- group
+- criminal
 created: '2025-07-23'
-modified: 2025-07-23 14:30
+modified: '2025-08-14'
+status: active
 MyContainer: None
 MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:36.803414+00:00'
-status: active
 ---
+
 
 
 
@@ -69,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Rescue Senator Glaucus|02 Worldbuilding/Quests/Rescue Senator Glaucus]]
+
+
+## Related
+
+*Links to related content will be added here.*

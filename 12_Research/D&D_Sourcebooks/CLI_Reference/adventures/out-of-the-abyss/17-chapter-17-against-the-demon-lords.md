@@ -1,20 +1,26 @@
+# 17-chapter-17-against-the-demon-lords
+
 ---
+title: 17 chapter 17 against the demon lords
 aliases:
 - Chapter 17: Against the Demon Lords
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- ttrpg-cli/compendium/src/5e/oota
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/oota
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.651682'
 world: Both
 ---
+
 
 # Chapter 17: Against the Demon Lords
 *Source: Out of the Abyss, p. 215* 
@@ -311,3 +317,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
  enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry witness protection protocol v1 witness protection protocol.svg
+aliases:
+- symbol heraldry witness protection protocol v1 witness protection protocolsvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-witness-protection-protocol-v1-witness-protection-protocol.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Witness Protection Protocol]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Witness Protection Protocol]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

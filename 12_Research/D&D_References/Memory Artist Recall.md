@@ -1,15 +1,21 @@
+# Memory Artist Recall
+
 ---
+title: Memory Artist Recall
+type: Location
+tags:
+- both
+- research
+- active
+- location
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:13.887307+00:00'
 world: Both
-type: Location
-status: complete
-tags:
-- active
-- both
-- complete
-- location
 ---
+
 
 
 
@@ -43,3 +49,8 @@ Legends speak of Memory Artist Recall as a nexus where past and present converge
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

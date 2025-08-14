@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session Recap
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session Recap
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Pirate Captain Blacktide]]
+- [[04_Resources_Assets_Locations_location-city-communications-master-signal-cryptkeeper-communications-master-signal-cryptkeeper.svg]]
+- [[Shadow Embassy]]
+- [[Quest - The Pressure Cure]]
+- [[04_Resources_Assets_Locations_location-city-harbormaster-creedence-tidereader-v1-harbormaster-creedence-tidereader.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-military-intelligence-v1-military-intelligence.svg]]
+- [[04_Resources_Assets_Locations_location-city-police-chief-sarah-lawkeeper-police-chief-sarah-lawkeeper.svg]]
+- [[Commander Drake Pressureborn]]

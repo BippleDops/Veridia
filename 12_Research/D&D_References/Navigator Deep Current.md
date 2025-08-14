@@ -1,14 +1,20 @@
+# Navigator Deep Current
+
 ---
-tags:
-- active
-- aquabyssos
-- lore
+title: Navigator Deep Current
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- active
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.577008+00:00'
 ---
+
 
 
 
@@ -47,3 +53,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Eastern Kingdom Fleet]]
 - [[Shattered Isles]]
+
+
+## Related
+
+*Links to related content will be added here.*

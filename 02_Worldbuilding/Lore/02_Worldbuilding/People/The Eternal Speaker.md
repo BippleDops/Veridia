@@ -1,13 +1,22 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: The Eternal Speaker
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- npc
+- character
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+race: Unknown
+class: Unknown
+location: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/People/The Eternal Speaker
 
@@ -24,9 +33,9 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Eternal Senate]]
-- [[12_Research/D&D_References/The Eternal Senate]]
-- [[12_Research/D&D_References/The Eternal Senate]]
+- [[The Eternal Senate]]
+- [[The Eternal Senate]]
+- [[The Eternal Senate]]
 - [[02_Worldbuilding/Places/The Eternal Senate]]
 - [[02_Worldbuilding/Places/The Eternal Senate]]
 - [[02_Worldbuilding/Places/The Eternal Senate]]

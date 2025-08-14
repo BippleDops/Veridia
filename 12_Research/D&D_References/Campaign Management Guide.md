@@ -1,14 +1,20 @@
+# Campaign Management Guide
+
 ---
-tags:
-- active
-- lore
-- universal
+title: Campaign Management Guide
 type: Lore
-world: Universal
-status: active
+tags:
+- lore
+- research
+- active
+- universal
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Universal
 updated: '2025-08-13T01:18:35.919587+00:00'
 ---
+
 
 
 
@@ -40,3 +46,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

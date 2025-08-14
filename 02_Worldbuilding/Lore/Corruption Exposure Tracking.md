@@ -1,35 +1,39 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- session-notes
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
+title: Corruption Exposure Tracking
 type: Lore
+tags:
+- lore
+- both
+- session-notes
+- content/lore
+- world/both
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:15.856875+00:00'
 world: Both
 ---
 
 
+
 ## Cross-References
 
-- [[12_Research/D&D_References/Rewriting the Ritual]]
+- [[Rewriting the Ritual]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Depth Adaptation Points]]
-- [[12_Research/D&D_References/Echo of the Mother]]
-- [[12_Research/D&D_References/Investigation Procedures]]
-- [[12_Research/D&D_References/Madness Effects]]
-- [[12_Research/D&D_References/Sorrow Pearls]]
-- [[12_Research/D&D_References/Spell Components]]
-- [[12_Research/D&D_References/Aethermoor]]
-- [[12_Research/D&D_References/Port Meridian]]
+- [[Depth Adaptation Points]]
+- [[Echo of the Mother]]
+- [[Investigation Procedures]]
+- [[Madness Effects]]
+- [[Sorrow Pearls]]
+- [[Spell Components]]
+- [[Aethermoor]]
+- [[Port Meridian]]
 - [[12_Research/D&D_Statblocks/Aethermoor - Session 04 The Silverscale Gambit]]
 
 ## Player-Facing Summary

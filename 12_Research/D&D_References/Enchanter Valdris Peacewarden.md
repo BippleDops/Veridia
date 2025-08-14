@@ -1,23 +1,30 @@
+# Enchanter Valdris Peacewarden
+
 ---
+title: Enchanter Valdris Peacewarden
+type: Location
 tags:
 - aquabyssos
-- complete
-- enchanter
-- location
 - magic
 - npc
+- research
+- active
+- location
+- complete
 - peacewarden
+- enchanter
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:35.984469+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -176,3 +183,8 @@ Legends speak of Enchanter Valdris Peacewarden as a nexus where past and present
 - [[Enchanter Valdris Peacewarden|02 Worldbuilding/Places/Enchanter Valdris Peacewarden]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

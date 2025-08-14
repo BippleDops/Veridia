@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry temporal engineering guil temporal engineering guil.svg
+aliases:
+- symbol heraldry temporal engineering guil temporal engineering guilsvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-temporal-engineering-guil-temporal-engineering-guil.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Temporal Engineering Guil]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Temporal Engineering Guil]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

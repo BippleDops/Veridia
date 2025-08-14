@@ -1,15 +1,21 @@
+# Quest - Portal Conspiracy
+
 ---
-tags:
-- active
-- aethermoor
-- location
+title: Quest   Portal Conspiracy
 type: Location
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.034784+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-quest-portal-conspiracy-quest-portal-conspiracy.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Quest - Portal Conspiracy|02 Worldbuilding/Places/Quest Portal Conspiracy]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,24 +1,33 @@
+# Commander Thrace Ironwood
+
 ---
+title: Commander Thrace Ironwood
+type: NPC
 tags:
-- aethermoor
-- complete
 - former-crystal-warden
+- person
 - military-commander
 - npc
-- person
+- research
 - purist-coalition
-status: complete
-world: Aethermoor
-type: NPC
-role: Military Commander
-affiliation: '[[Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] - Military Wing'
-age: '43'
-race: Human
-location: '[[The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]] - Coalition Military Base'
-created_by: auto-stub
+- active
+- complete
+- aethermoor
 created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+race: Human
+location: '[[The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]] - Coalition
+  Military Base'
+world: Aethermoor
+role: Military Commander
+affiliation: '[[Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] - Military
+  Wing'
+age: '43'
+created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -544,3 +553,8 @@ Legends speak of Commander Thrace Ironwood as a nexus where past and present con
 - [[Queen Seraphina Lumengarde]]
 - [[Aethermoor]]
 - [[The Verdant Reach]]
+
+
+## Related
+
+*Links to related content will be added here.*

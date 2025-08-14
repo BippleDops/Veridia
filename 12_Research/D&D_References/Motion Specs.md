@@ -1,12 +1,19 @@
+# Motion Specs
+
 ---
+title: Motion Specs
 type: Lore
-status: draft
+tags:
+- active
+- research
 created: '2024-01-01'
-updated: '2024-01-01T00:00:00+00:00'
+modified: '2025-08-14'
+status: draft
+updated: 2025-08-13 07:59:50.493310
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.493310
 ---
+
 # Animated Elements Guide
 
 - Spells: water jets, wind trails, void rifts (parallax)
@@ -15,3 +22,8 @@ updated: 2025-08-13T07:59:50.493310
 - Interactive maps: toggles, animated hazards, pulse markers
 
 Specs: 24–30 fps, WebM (alpha), short seamless loops.
+
+
+## Related
+
+*Links to related content will be added here.*

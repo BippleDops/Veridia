@@ -1,24 +1,29 @@
+# X L-12 the Deep Mothers Bridge of Dreams
+
 ---
-audience: player
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- campaign/session
-- complete
-- handout
-- lore
-- mixed
-- status/complete
-- world/both
-title: Player Handout — X-L-12 The Deep Mother’s Bridge of Dreams
+title: "Player Handout \u2014 X-L-12 The Deep Mother\u2019s Bridge of Dreams"
 type: Lore
-updated: '2025-08-13T12:34:32.380808+00:00'
+tags:
+- lore
+- both
+- status/complete
+- campaign/session
+- handout
+- world/both
+- active
+- complete
+- mixed
+- resource
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+audience: player
+updated: 2025-08-13 07:59:50.468848
 world: Both
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.468848
 ---
+
 # The Deep Mother’s Bridge of Dreams
 
 A bridge woven from song and sleep stretches between worlds.
@@ -35,3 +40,8 @@ Possible outcomes
 - You cross and are changed
 - You cross and are shaken
 - You do not cross
+
+
+## Related
+
+*Links to related content will be added here.*

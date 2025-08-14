@@ -1,3 +1,15 @@
+# Atmospheric_Art
+
+---
+title: Atmospheric Art
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 
 ## Consequence Chains
 
@@ -1717,3 +1729,8 @@ The actions and decisions involving Scene-Setting Atmospheric Art Prompts create
   }
 ]
 ```
+
+
+## Related
+
+*Links to related content will be added here.*

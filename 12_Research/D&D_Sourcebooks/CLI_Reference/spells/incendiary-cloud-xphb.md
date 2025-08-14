@@ -1,26 +1,32 @@
+# incendiary-cloud-xphb
+
 ---
+title: incendiary cloud xphb
 aliases:
 - Incendiary Cloud
+type: note
+tags:
+- mechanics/magic
+- research
+- world/both
+- active
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
 classes:
 - Bard
 - Druid
 - Sorcerer
 - Wizard
-created: 2025-07-23
 cssclasses: json5e-spell
-modified: 2025-07-23 12:39
 obsidianUIMode: preview
-status: active
-tags:
-- mechanics/magic
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-- world/both
-type: note
 updated: '2025-08-12T23:37:36.252753'
 world: Both
 ---
+
 
 # Incendiary Cloud
 *8th-level, Conjuration*  
@@ -60,3 +66,8 @@ Legends speak of incendiary cloud xphb as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

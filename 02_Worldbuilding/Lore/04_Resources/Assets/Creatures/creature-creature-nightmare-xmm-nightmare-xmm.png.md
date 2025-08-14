@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: creature creature nightmare xmm nightmare xmm.png
+aliases:
+- creature creature nightmare xmm nightmare xmmpng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Creatures/creature-creature-nightmare-xmm-nightmare-xmm.png
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Creatures Gallery]]
+- [[Creatures Gallery]]
 - [[12_Research/D&D_Sourcebooks/CLI_Reference/bestiary/fiend/Nightmare Xmm]]
 - [[12_Research/D&D_Sourcebooks/CLI_Reference/bestiary/fiend/nightmare-xmm]]
 

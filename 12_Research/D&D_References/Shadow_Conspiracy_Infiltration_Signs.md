@@ -1,16 +1,23 @@
+# Shadow_Conspiracy_Infiltration_Signs
+
 ---
-created: '2025-08-13'
-status: ready
+title: Shadow Conspiracy Infiltration Signs
+type: Player Handout
 tags:
-- status/ready
+- research
 - type/player-handout
+- active
+- faction/shadow-conspiracy
+- status/ready
 - world/aquabyssos
 - category/intelligence
-- faction/shadow-conspiracy
-type: Player Handout
+created: '2025-08-13'
+modified: '2025-08-14'
+status: ready
 updated: '2025-08-13T12:30:00.000000'
 world: Aquabyssos
 ---
+
 
 # Shadow Conspiracy Infiltration Signs - Player Handout
 
@@ -237,3 +244,7 @@ This document contains classified intelligence regarding the [[Shadow Conspiracy
 ---
 
 *This document is classified under the National Security Act. Distribution is limited to authorized personnel only. Unauthorized possession or disclosure is a capital offense.*
+
+## Related
+
+*Links to related content will be added here.*

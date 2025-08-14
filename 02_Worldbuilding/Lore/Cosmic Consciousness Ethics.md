@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Cosmic Consciousness Ethics
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Cosmic Consciousness Ethics
 
@@ -24,7 +28,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Consequence Chain 4 - Deep Mother Awakening]]
+- [[Consequence Chain 4 - Deep Mother Awakening]]
 - [[02_Worldbuilding/Lore/Consequence Chain 4 - Deep Mother Awakening]]
 
 ## Notes

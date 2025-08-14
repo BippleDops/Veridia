@@ -1,16 +1,21 @@
 ---
-created: null
-obsidianUIMode: preview
-status: complete
+title: Master Narrative Web
+type: Lore
 tags:
 - index
-- narrative
 - status/complete
+- report
+- narrative
 - world/both
-type: Lore
+- active
+created: null
+modified: '2025-08-14'
+status: complete
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.011061'
 world: Universal
 ---
+
 
 
 # Master Narrative Web

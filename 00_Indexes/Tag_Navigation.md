@@ -1,13 +1,18 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Tag Navigation
 type: navigation
-cssclass: tag-hierarchy
 tags:
 - navigation
+- index
+- active
 - tags
 - hierarchy
+created: 2025-08-14
+modified: '2025-08-14'
+updated: 2025-08-14
+cssclass: tag-hierarchy
 ---
+
 
 # 🏷️ Tag Navigation System
 

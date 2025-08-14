@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- complete
-- content/location
-- content/lore
-- dimensional nexus (both realms)
-- lore
-- status/in-progress
-- world/both
+title: Brightforge
 type: Lore
+tags:
+- lore
+- dimensional nexus (both realms)
+- content/lore
+- world/both
+- content/location
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:15.878680+00:00'
 world: Dimensional Nexus (Both Realms)
 ---
+
 
 
 ## Overview
@@ -41,9 +45,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Floating Market]]
+- [[The Floating Market]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/The Floating Market]]
+- [[The Floating Market]]

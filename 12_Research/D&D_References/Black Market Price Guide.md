@@ -1,19 +1,26 @@
+# Black Market Price Guide
+
 ---
+title: Black Market Price Guide
+type: Lore
+tags:
+- economy
+- lore
+- both
+- prices
+- black-market
+- research
+- active
+- complete
+- illegal
+- crime
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 world: Both
 updated: '2025-08-13T01:18:35.009903+00:00'
-created: '2025-08-12'
-status: complete
-tags:
-- black-market
-- both
-- complete
-- crime
-- economy
-- illegal
-- lore
-- prices
-type: Lore
 ---
+
 
 
 > [!figure] Black Market Operations
@@ -496,3 +503,8 @@ Consider the moral ambiguity inherent in black markets - they often provide serv
 
 The interconnected nature of legal and illegal economies means that disrupting black markets can have unexpected consequences for legitimate businesses and ordinary citizens, allowing for complex plots where simple solutions create new problems.
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

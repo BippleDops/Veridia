@@ -1,30 +1,36 @@
 ---
+title: The Hadal Depths
+type: Location
+tags:
+- aquabyssos
+- cosmic-horror
+- status/complete
+- primordial
+- content/location
+- dangerous
+- place
+- active
+- location
+- complete
+- deepest-zone
+- world/aquabyssos
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown (Non-Euclidean)
 MyCategory: Unknown
 MyContainer: None
-created: '2025-08-08'
 created_by: auto-stub
 danger_level: Catastrophic
 depth: 20,000-36,000+ feet
 location_type: Abyssal Zone
 obsidianUIMode: preview
-population: Unknown (Non-Euclidean)
 ruler: '[[Deep Mother]] (Sleeping)'
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/location
-- cosmic-horror
-- dangerous
-- deepest-zone
-- location
-- primordial
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:17.273793+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -437,6 +443,27 @@ Legends speak of The Hadal Depths as a nexus where past and present converge. Lo
 - An NPC seeks discreet help at The Hadal Depths to avert a public scandal.
 - A map overlay reveals a hidden approach to The Hadal Depths active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -446,3 +473,70 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Hadal Depths]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- [[Quest - The Deepmind Weapon]]
+
+## Trade Routes
+
+- [[Port Meridian Harbor]]
+- [[04_Resources_Assets_Locations_location-city-bubble-burst-bubble-burst.svg]]
+- [[04_Resources_Assets_Locations_location-city-thorek-crystalhammer-v1-thorek-crystalhammer.png]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+The Hadal Depths is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## History
+
+### Founding
+The Hadal Depths was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting The Hadal Depths:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Hadal Depths
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

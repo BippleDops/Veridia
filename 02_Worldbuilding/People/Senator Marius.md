@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Senator Marius
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.521012+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -65,6 +73,16 @@ Born to House Tidespeaker, a minor noble family that lost their fortune defendin
 
 **Parliamentary Immunity (3/Day).** Can invoke senatorial privilege to avoid consequences of social or legal challenges.
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Carefully chosen words
+
+**Physical Habits**: Steeples fingers when thinking
+
 ## Current Activities
 - Leading parliamentary reform movement to increase democratic representation
 - Investigating corruption within the Senate and imperial bureaucracy
@@ -110,6 +128,14 @@ Born to House Tidespeaker, a minor noble family that lost their fortune defendin
 
 Marcus represents idealistic reform in a corrupt system, serving as a potential patron for heroic characters while facing constant threats from those who profit from the status quo. He embodies the struggle between pragmatic politics and moral principles.
 
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-terminal-director-admiral-current-swiftflow-terminal-director-admiral-current-swiftflow.svg]]: *informant*
+- [[04_Resources_Assets_Symbols_symbol-heraldry-regulatory-medical-authorit-regulatory-medical-authorit.svg]]: *secret ally*
+- [[04_Resources_Assets_Symbols_symbol-heraldry-archmerchant-codex-goldstrea-archmerchant-codex-goldstrea.svg]]: *family member*
+
 ## Connections
 
 - [[Senator_Glaucus_Brain|Senator Glaucus Brain]]
@@ -122,6 +148,12 @@ TODO
 
 
 ## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more aggressive
+- **When Pleased**: Shows open joy
+- **In Conflict**: Tends toward avoidance
+
 
 
 TODO
@@ -145,6 +177,86 @@ Senator Marius is a undersea element of the setting, known for bioluminescent gl
 ## Lore Details
 
 Legends speak of Senator Marius as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Senator Marius.
+
+
+
+## Background
+
+Senator Marius's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+## Motivations
+
+**Primary Goal**: Pursuing knowledge
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Plot Hooks
+
+1. **The Request**: Senator Marius needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Senator Marius stopped or removed
+3. **The Secret**: Information about Senator Marius's past surfaces
+4. **The Alliance**: Opportunity to work with or against Senator Marius
+5. **The Crisis**: Senator Marius is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 

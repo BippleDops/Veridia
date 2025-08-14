@@ -1,22 +1,29 @@
 ---
-created: '2025-08-11'
-danger_level: Moderate
-status: complete
+title: The Crimson Foundries
+type: Location
 tags:
-- combat
-- quest
-- crystal-enhanced
-- shadow-touched
 - both
-- complete
+- quest
+- world/both
 - content/location
+- place
+- active
+- combat
+- complete
 - location
 - status/in-progress
-- world/both
-type: Location
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+danger_level: Moderate
 updated: '2025-08-13T12:34:16.812641+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -29,16 +36,16 @@ world: Both
 
 ## Overview
 
-The Crimson Foundries are a massive industrial fortress built into the volcanic peaks of [[12_Research/D&D_References/The Sundered Peaks]], serving as the primary weapons manufacturing facility for [[12_Research/D&D_References/The Crimson Fleet]]. This multi-level complex combines military fortification with advanced metallurgy, powered by volcanic heat and manned by enslaved workers, corrupted guards, and fire elementals bound to serve [[12_Research/D&D_References/Captain Marrow Drinker]].
+The Crimson Foundries are a massive industrial fortress built into the volcanic peaks of [[The Sundered Peaks]], serving as the primary weapons manufacturing facility for [[The Crimson Fleet]]. This multi-level complex combines military fortification with advanced metallurgy, powered by volcanic heat and manned by enslaved workers, corrupted guards, and fire elementals bound to serve [[Captain Marrow Drinker]].
 
 ## Fortress Structure
 
 ### Level 1: The Anvil Gates
 
-- **Main Entrance**: Massive adamantine gates guarded by [[12_Research/D&D_References/The Crimson Fleet]] marines
+- **Main Entrance**: Massive adamantine gates guarded by [[The Crimson Fleet]] marines
 - **Visitor Processing**: Where legitimate traders and spies are sorted
 - **Guard Barracks**: 200 elite marines commanded by [[Commander Drake Pressureborn|02 Worldbuilding/People/Commander Drake Pressureborn]]
-- **Weapon Testing Grounds**: Live fire ranges overlooking [[12_Research/D&D_References/The Crystalline Wastes]]
+- **Weapon Testing Grounds**: Live fire ranges overlooking [[The Crystalline Wastes]]
 
 ### Level 2: Production Floors
 
@@ -64,7 +71,7 @@ The Crimson Foundries are a massive industrial fortress built into the volcanic 
 ### The Depths: The Slag Pits
 
 - **Slave Quarters**: Hundreds of workers in horrific conditions
-- **Punishment Chambers**: Torture facilities run by [[12_Research/D&D_References/Enforcer Chief Mako Ironjaw]]
+- **Punishment Chambers**: Torture facilities run by [[Enforcer Chief Mako Ironjaw]]
 - **Failed Experiments**: Mutated creatures from crystal corruption tests
 - **Emergency Evacuation**: Secret tunnels to [[12_Research/D&D_Statblocks/Hidden Smuggler's Cove]]
 
@@ -88,7 +95,7 @@ The Crimson Foundries are a massive industrial fortress built into the volcanic 
 
 ### Garrison
 
-- 200 [[12_Research/D&D_References/The Crimson Fleet]] marines
+- 200 [[The Crimson Fleet]] marines
 - 50 corrupted crystal guardians
 - 12 bound fire elementals
 - 30 enslaved war machines
@@ -112,23 +119,23 @@ The Crimson Foundries are a massive industrial fortress built into the volcanic 
 ### Supply Network
 
 - Raw materials from [[02_Worldbuilding/Places/The Crystal Mines of Sorrow|02 Worldbuilding/Places/The Crystal Mines Of Sorrow]]
-- Slave labor raids from [[12_Research/D&D_References/Nereidios]]
-- Coal shipments from [[12_Research/D&D_References/The Shadow Markets]]
+- Slave labor raids from [[Nereidios]]
+- Coal shipments from [[The Shadow Markets]]
 - Crystal corruption research shared with [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
 
 ### Military Coordination
 
-- Direct command link to [[12_Research/D&D_References/Captain Marrow Drinker]]
-- Supplies weapons to [[12_Research/D&D_References/Purist Coalition]] (secretly)
-- Coordinates with [[12_Research/D&D_References/The Kraken's Harbor]] for naval warfare
+- Direct command link to [[Captain Marrow Drinker]]
+- Supplies weapons to [[Purist Coalition]] (secretly)
+- Coordinates with [[The Kraken's Harbor]] for naval warfare
 - Intelligence sharing with [[Spymaster Crow|02 Worldbuilding/People/Spymaster Crow]]
 
 ### Economic Impact
 
-- Competes with legitimate smiths in [[12_Research/D&D_References/Port Meridian]]
+- Competes with legitimate smiths in [[Port Meridian]]
 - Supplies to mercenary groups via [[Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]
 - Crystal weapons traded through [[Memory Merchant Valeria|02 Worldbuilding/People/Memory Merchant Valeria]]
-- Profits flow to [[12_Research/D&D_References/Banker Titus Goldcurrent]] for laundering
+- Profits flow to [[Banker Titus Goldcurrent]] for laundering
 
 ## Combat Encounters
 
@@ -136,7 +143,7 @@ The Crimson Foundries are a massive industrial fortress built into the volcanic 
 
 | Roll | Encounter |
 |------|-----------|
-| 1-2 | Patrol of 4 [[12_Research/D&D_References/The Crimson Fleet]] marines |
+| 1-2 | Patrol of 4 [[The Crimson Fleet]] marines |
 | 3-4 | Steam vent eruption (3d6 fire damage, CON save) |
 | 5-6 | Enslaved smith begging for rescue |
 | 7-8 | Bound fire elemental testing its bonds |
@@ -162,7 +169,7 @@ The Crimson Foundries are a massive industrial fortress built into the volcanic 
 ### Secret Intelligence
 
 > [!warning] DM Only
-> - Contains plans for invasion of [[12_Research/D&D_References/Crystalhaven]]
+> - Contains plans for invasion of [[Crystalhaven]]
 > - Holds one of the Seven Shards in the master forge
 > - Secret tunnel connects to [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] operations
 > - Fire elementals can be turned against captors with right ritual
@@ -173,7 +180,7 @@ The Crimson Foundries are a massive industrial fortress built into the volcanic 
 
 1. **Free the Slaves**: Help [[Forge Master Petra Hammerdeep|02 Worldbuilding/People/Forge Master Petra Hammerdeep]] organize uprising
 2. **Sabotage Production**: Destroy weapon manufacturing for [[12_Research/D&D_Statblocks/Crystal Wardens]]
-3. **Steal the Plans**: Acquire invasion blueprints for [[12_Research/D&D_References/Lord Commander Gareth Steelborn]]
+3. **Steal the Plans**: Acquire invasion blueprints for [[Lord Commander Gareth Steelborn]]
 4. **Free the Elementals**: Help bound fire elementals escape
 
 ### Investigation Plots
@@ -217,25 +224,25 @@ The Crimson Foundries are a massive industrial fortress built into the volcanic 
 
 ## Connected Locations
 
-- [[12_Research/D&D_References/The Sundered Peaks]] - Mountain region housing the foundries
+- [[The Sundered Peaks]] - Mountain region housing the foundries
 - [[02_Worldbuilding/Places/The Crystal Mines of Sorrow|02 Worldbuilding/Places/The Crystal Mines Of Sorrow]] - Raw material source
-- [[12_Research/D&D_References/The Kraken's Harbor]] - Naval coordination point
+- [[The Kraken's Harbor]] - Naval coordination point
 - [[12_Research/D&D_Statblocks/Hidden Smuggler's Cove]] - Emergency escape route
-- [[12_Research/D&D_References/The Shadow Markets]] - Supply chain connection
+- [[The Shadow Markets]] - Supply chain connection
 
 ## Connected Factions
 
-- [[12_Research/D&D_References/The Crimson Fleet]] - Primary controllers
+- [[The Crimson Fleet]] - Primary controllers
 - [[12_Research/D&D_Statblocks/Crystal Wardens]] - Primary enemies
 - [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Secret cooperation
-- [[12_Research/D&D_References/Purist Coalition]] - Secret weapons recipients
+- [[Purist Coalition]] - Secret weapons recipients
 
 ## Active Threats
 
 - Slave rebellion brewing under [[Forge Master Petra Hammerdeep|02 Worldbuilding/People/Forge Master Petra Hammerdeep]]
 - Fire elementals growing increasingly restless
 - Crystal corruption spreading to nearby areas
-- [[12_Research/D&D_References/Captain Lyanna Brightshield]] planning investigation
+- [[Captain Lyanna Brightshield]] planning investigation
 
 ## Player-Facing Summary
 
@@ -250,6 +257,27 @@ Legends speak of The Crimson Foundries as a nexus where past and present converg
 - A rumor ties The Crimson Foundries to a missing shipment, linking factions with competing claims.
 - An NPC seeks discreet help at The Crimson Foundries to avert a public scandal.
 - A map overlay reveals a hidden approach to The Crimson Foundries active only during specific tides/storms.
+
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
 
 ## DM Notes
 
@@ -271,3 +299,97 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 - [[02_Worldbuilding/Groups/Crystal Wardens]]
 - [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
+
+
+## Notable Residents
+
+- [[Priest Faith Crystalsong]]
+
+## Trade Routes
+
+- [[Memory Thief]]
+- [[04_Resources_Assets_Locations_location-city-the-grand-bazaar-of-echoing-coins-v1-the-grand-bazaar-of-echoing-coins.svg]]
+- [[04_Resources_Assets_Locations_location-city-harvester-keth-reefrender-harvester-keth-reefrender.svg]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+The Crimson Foundries is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Crimson Foundries
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+The Crimson Foundries was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting The Crimson Foundries:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Crimson Foundries
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

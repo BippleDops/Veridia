@@ -1,4 +1,20 @@
 ---
+title: Mad Prophet Silas the Depth Touched
+type: Location
+tags:
+- aquabyssos
+- status/complete
+- content/location
+- place
+- active
+- location
+- complete
+- world/aquabyssos
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 accessibility:
   content_warnings:
   - political coercion
@@ -11,20 +27,11 @@ accessibility:
   screen_reader_summary: Mad Prophet Silas the Depth-Touched is a notable location
     in Aquabyssos shaped by tidal politics and Convergence anomalies. This entry is
     structured for fast table use.
-created: '2025-08-11'
 obsidianUIMode: preview
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/location
-- location
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.971096+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Mad Prophet Silas the Depth-Touched
@@ -78,6 +85,27 @@ Legends speak of Mad Prophet Silas the Depth Touched as a nexus where past and p
 - An NPC seeks discreet help at Mad Prophet Silas the Depth Touched to avert a public scandal.
 - A map overlay reveals a hidden approach to Mad Prophet Silas the Depth Touched active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -89,3 +117,97 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Prophet Nerida Voidgazer]]
 - [[The Cerulean Trench]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-international-trade-agreements-v1-international-trade-agreements.svg]]
+- [[Chief Engineer Nereus Flowstream]]
+- [[Madame Whisper]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+Mad Prophet Silas the Depth-Touched is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Mad Prophet Silas the Depth-Touched
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Mad Prophet Silas the Depth-Touched was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Mad Prophet Silas the Depth-Touched:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Mad Prophet Silas the Depth-Touched
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

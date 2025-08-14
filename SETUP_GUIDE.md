@@ -1,3 +1,15 @@
+# SETUP_GUIDE
+
+---
+title: SETUP GUIDE
+type: note
+tags:
+- active
+- note
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # 🚀 TTRPG Online Integration Setup Guide
 
 ## ✅ Already Configured
@@ -165,3 +177,8 @@ cat 09_Performance/production_report.json
 ---
 
 Ready to generate amazing TTRPG content with AI! 🎲✨
+
+
+## Related
+
+*Links to related content will be added here.*

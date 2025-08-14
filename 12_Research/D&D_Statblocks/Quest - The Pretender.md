@@ -1,19 +1,25 @@
+# Quest - The Pretender
+
 ---
+title: Quest   The Pretender
+type: Location
 tags:
-- aethermoor
-- complete
-- deception
-- identity
-- location
-- noble-houses
 - political-intrigue
+- noble-houses
 - quest
+- research
+- active
+- location
+- complete
 - succession
+- aethermoor
+- identity
+- deception
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Location
 created_by: auto-stub
-created: '2025-08-11'
 updated: '2025-08-13T01:18:36.201499+00:00'
 quest_type: Political Intrigue/Identity Mystery
 level_range: 6-12
@@ -23,6 +29,7 @@ difficulty: Hard
 primary_location: Port Meridian Noble Quarter and Crystal Throne territories
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -356,3 +363,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Quest - The Pretender|02 Worldbuilding/Places/Quest The Pretender]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

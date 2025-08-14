@@ -1,13 +1,18 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Planar Breaches of Aquabyssos
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
+- aquabyssos
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Lore/Planar Breaches of Aquabyssos
 

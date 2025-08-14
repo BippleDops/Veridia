@@ -1,23 +1,30 @@
 ---
+title: The Constellation Mystery
+type: Location
+tags:
+- mystery
+- aquabyssos
+- ancient-knowledge
+- content/adventure
+- status/complete
+- celestial
+- content/location
+- place
+- active
+- location
+- complete
+- world/aquabyssos
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 created_by: auto-stub
 danger_level: Moderate
-status: complete
-tags:
-- ancient-knowledge
-- aquabyssos
-- celestial
-- complete
-- content/adventure
-- content/location
-- location
-- mystery
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:17.042681+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -174,6 +181,27 @@ Scholars and mystics believe the shifting constellations herald either great for
  - **Investigation**: Gathering and analyzing evidence
 - **Astronomy**: Understanding celestial mechanics
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 This mystery combines cosmic horror elements with scholarly investigation. The shifting constellations should feel ominous and significant. Use the investigation to reveal deeper campaign lore and set up future cosmic threats or opportunities.
 
@@ -190,3 +218,97 @@ Legends speak of The Constellation Mystery as a nexus where past and present con
 - [[The Constellation Mystery]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-barkeep-mira-algaebrew-v1-barkeep-mira-algaebrew.svg]]
+- [[04_Resources_Assets_Locations_location-city-voices-from-below-voices-from-below.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-floating-market-the-floating-market.svg]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+The Constellation Mystery is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Constellation Mystery
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+The Constellation Mystery was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting The Constellation Mystery:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Constellation Mystery
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

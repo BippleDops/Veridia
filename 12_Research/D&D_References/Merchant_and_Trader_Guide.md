@@ -1,17 +1,24 @@
+# Merchant_and_Trader_Guide
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- gm-resources
-- npc-guides
-- merchants
-- traders
-- commerce
-- economics
+title: Merchant and Trader Guide
 type: Guide
+tags:
+- npc-guides
+- economics
+- research
+- traders
+- gm-resources
+- active
+- commerce
+- merchants
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
+
 
 # Merchant and Trader Guide
 
@@ -386,3 +393,7 @@ world: Both
 - [[Trade_Goods_Catalog]]
 - [[Economic_Warfare_Simulator]]
 - [[Merchant_Guilds]]
+
+## Related
+
+*Links to related content will be added here.*

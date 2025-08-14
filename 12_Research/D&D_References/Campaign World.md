@@ -1,18 +1,25 @@
+# Campaign World
+
 ---
+title: Campaign World
+type: Lore
 tags:
-- aethermoor
+- lore
 - aquabyssos
 - campaign-setting
-- complete
-- lore
+- research
 - world-overview
+- active
+- complete
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 

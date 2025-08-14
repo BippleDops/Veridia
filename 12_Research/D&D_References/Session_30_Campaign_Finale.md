@@ -1,14 +1,21 @@
+# Session_30_Campaign_Finale
+
 ---
-created: '2025-08-13'
-status: complete
+title: Session 30 Campaign Finale
+type: Session Summary
 tags:
 - player/session-summary
 - campaign/example
+- research
 - finale/epic
-type: Session Summary
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Session 30: Campaign Finale
 ## The Convergence of All Things
@@ -168,3 +175,7 @@ The party successfully prevented catastrophic merger while allowing beneficial c
 ---
 
 *A successful campaign finale resolves character arcs and plot threads while honoring player agency and the collaborative story created together.*
+
+## Related
+
+*Links to related content will be added here.*

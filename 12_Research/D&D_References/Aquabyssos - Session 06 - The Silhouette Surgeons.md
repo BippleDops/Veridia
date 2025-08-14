@@ -1,12 +1,31 @@
+# Aquabyssos - Session 06 - The Silhouette Surgeons
+
 ---
-MyCategory: Unknown
-MyContainer: None
+title: The Silhouette Surgeons
+type: Lore
+tags:
+- lore
+- aquabyssos
+- parliament-shadows
+- campaign/session
+- outlined
+- world/aquabyssos
+- content/lore
+- research
+- active
+- planned
+- status/in-progress
 created: '2025-08-11'
-date_played: null
-depth: 4,000 ft
-estimated_time: 4 hours
+modified: '2025-08-14'
+status: outlined
 location:
 - - Tenebrarum
+session_number: 6
+date_played: null
+MyCategory: Unknown
+MyContainer: None
+depth: 4,000 ft
+estimated_time: 4 hours
 npcs_featured:
 - - - 02_Worldbuilding/People/The Silhouette Surgeon Prime
 - - - 02_Worldbuilding/People/Marina-Red-Tide-Coralheart
@@ -18,27 +37,14 @@ quests_advanced:
 - - - Stop the Shadow Harvest
 - - - 02_Worldbuilding/Lore/Discover Marina's Truth|Discover Marina's Truth
 - - - Infiltrate Surgical Facilities
-session_number: 6
-status: outlined
-tags:
-- aquabyssos
-- campaign/session
-- content/lore
-- lore
-- outlined
-- parliament-shadows
-- planned
-- status/in-progress
-- world/aquabyssos
 themes:
 - Body horror
 - Identity crisis
 - Medical nightmare
-title: The Silhouette Surgeons
-type: Lore
 updated: '2025-08-13T12:34:17.839818+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -227,3 +233,8 @@ Through the window, the party sees the ocean literally cracking like glass, reve
 
 - [[Sorrow Pearls]]
 - [[Crystallium]]
+
+
+## Related
+
+*Links to related content will be added here.*

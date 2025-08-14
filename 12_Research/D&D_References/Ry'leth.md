@@ -1,15 +1,21 @@
+# Ry'leth
+
 ---
-tags:
-- active
-- aquabyssos
-- lore
-- quest
+title: Ry'leth
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- research
+- quest
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.222383+00:00'
 ---
+
 
 
 
@@ -47,3 +53,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Depth Accords]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,17 +1,23 @@
+# Establish the New Order
+
 ---
+title: Establish the New Order
+type: Group
 tags:
-- aethermoor
-- aethermoor/politics
-- aethermoor/restoration
 - category/group
-- complete
 - faction
+- research
+- aethermoor/politics
+- active
+- complete
+- aethermoor/restoration
+- aethermoor
 - group
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Group
 created_by: expansion
-created: '2025-08-11'
 MyContainer: '[[Lumengarde|Lumengarde]]'
 MyCategory: Revolutionary Political Movement
 obsidianUIMode: preview
@@ -39,6 +45,7 @@ benefits:
   reward: Direct council with the Architect and realm-shaping authority
 updated: '2025-08-13T01:18:36.796786+00:00'
 ---
+
 
 
 
@@ -425,3 +432,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Commander Thrace Ironwood]]
 - [[Lumengarde]]
 - [[The Sundered Peaks]]
+
+
+## Related
+
+*Links to related content will be added here.*

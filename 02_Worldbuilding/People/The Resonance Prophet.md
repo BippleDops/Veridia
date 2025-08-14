@@ -1,30 +1,37 @@
 ---
+title: The Resonance Prophet
+type: Npc
+tags:
+- both
+- world/aquabyssos
+- npc
+- importance/major
+- world/both
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+- prophet
+- world/aethermoor
+created: 2025-08-07 - Category/People
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location:
+- - Crystallium
 MyCategory: Unknown
 MyContainer: None
-created: 2025-08-07 - Category/People
 disposition: -2
 faction:
 - - The Harmony Collective
-location:
-- - Crystallium
 npc_type: Continental Leader
 obsidianUIMode: preview
-status: complete
-tags:
-- both
-- complete
-- content/npc
-- importance/major
-- npc
-- prophet
-- status/in-progress
-- world/aethermoor
-- world/aquabyssos
-- world/both
-type: Npc
 updated: '2025-08-13T12:34:17.551289+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -138,7 +145,13 @@ Creatures that spend 1 hour within 100 ft must make DC 16 WIS save or begin harm
 
 ## 🧠 Personality & Motivations
 
-### Personality Traits
+### Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more aggressive
+- **When Pleased**: Shows open joy
+- **In Conflict**: Tends toward avoidance
+ Traits
 - Speaks in musical terms and metaphors
 - Finds dissonance physically painful
 - Believes all consciousness should be unified
@@ -271,6 +284,124 @@ Legends speak of The Resonance Prophet as a nexus where past and present converg
 - An NPC seeks discreet help at The Resonance Prophet to avert a public scandal.
 - A map overlay reveals a hidden approach to The Resonance Prophet active only during specific tides/storms.
 
+
+
+## Background
+
+The Resonance Prophet's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Gaining power
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+The Resonance Prophet harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Secret alliance
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Carefully chosen words
+
+**Physical Habits**: Maintains intense eye contact
+
+## Current Activities
+
+The Resonance Prophet is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: The Resonance Prophet needs assistance with a delicate matter
+2. **The Opposition**: Someone wants The Resonance Prophet stopped or removed
+3. **The Secret**: Information about The Resonance Prophet's past surfaces
+4. **The Alliance**: Opportunity to work with or against The Resonance Prophet
+5. **The Crisis**: The Resonance Prophet is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -281,6 +412,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 
+
+
+
+## Relationship Web
+
+- [[Captain Swift Cloudracer]]: *secret ally*
+- [[Shadow Conspiracy]]: *debt holder*
+- [[04_Resources_Assets_Locations_location-city-pilgrimage-master-depth-guide-melancholy-v1-pilgrimage-master-depth-guide-melancholy.svg]]: *competitor*
 
 ## Connections
 

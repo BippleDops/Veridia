@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Marina's Identity Crisis
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Lore/Marina's Identity Crisis
 
@@ -24,7 +28,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Aquabyssos Trade Seal]]
+- [[Aquabyssos Trade Seal]]
 - [[12_Research/D&D_Statblocks/Aurelius Goldwave]]
 - [[02_Worldbuilding/Lore/Aurelius Goldwave]]
 - [[02_Worldbuilding/Lore/Aquabyssos Trade Seal]]

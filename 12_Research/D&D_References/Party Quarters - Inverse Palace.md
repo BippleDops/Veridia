@@ -1,19 +1,26 @@
+# Party Quarters - Inverse Palace
+
 ---
+title: Party Quarters   Inverse Palace
+type: Location
 tags:
 - aquabyssos
-- complete
-- entertainment
-- location
 - luxury
+- research
+- active
+- location
+- complete
 - palace
+- entertainment
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-party-quarters-inverse-palace-party-quarters-inverse-palace.svg)
@@ -124,3 +131,8 @@ Legends speak of Party Quarters   Inverse Palace as a nexus where past and prese
 - [[Party Quarters - Inverse Palace|02 Worldbuilding/Places/Party Quarters Inverse Palace]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,22 +1,29 @@
+# Pressure Tube Operator Krill
+
 ---
+title: Pressure Tube Operator Krill
+type: Lore
+tags:
+- lore
+- aquabyssos
+- both
+- operator
+- npc
+- worldbuilding
+- research
+- transport
+- active
+- complete
+- pressure-tube
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
-tags:
-- aquabyssos
-- both
-- complete
-- lore
-- npc
-- operator
-- pressure-tube
-- transport
-- worldbuilding
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
-created: '2025-08-11'
-type: Lore
 ---
+
 
 
 

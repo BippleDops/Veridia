@@ -1,19 +1,25 @@
+# Crystallium
+
 ---
+title: Crystallium
+type: Location
 tags:
 - aquabyssos
 - completed
 - crystal
+- research
 - crystal-research-facility
+- science
 - facility
 - location
-- research
-- science
 - underwater
+- active
+created: 2025-08-08 - Category/Place
+modified: '2025-08-14'
 status: completed
-world: Aquabyssos
 region: '[[Pressure Zones]]'
-type: Location
 population: 1200
+world: Aquabyssos
 danger_level: 6
 government: '[[The Crystal Academy Council]]'
 leader: '[[Master Crystallographer Aurora Prismheart]]'
@@ -22,12 +28,12 @@ specialties:
 - Pressure Magic
 - Deep Science
 depth: 8,000 feet below surface
-created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] View
@@ -295,3 +301,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Port Meridian - Merchant Quarter]]
 - [[The Hadal Depths]]
 - [[The Lock]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,6 +1,32 @@
 ---
-access_restrictions: Magical wards, natural hazards, crystal guardians
+title: Crystal Caverns
+type: Location
+tags:
+- aerial
+- aquatic
+- content/location
+- status/in-progress
+- shadow-touched
+- mechanics/magic
+- quest
+- dangerous
+- combat
+- location
+- caverns
+- crystal-enhanced
+- world/both
+- complete
+- underground
+- both
+- place
+- active
+- world/aethermoor
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+access_restrictions: Magical wards, natural hazards, crystal guardians
 danger_level: High
 depth: 200-2000 feet underground
 location_type: Underground Crystal Formation
@@ -9,30 +35,11 @@ notable_resources:
 - Crystal Songs
 - Memory Crystals
 - Corrupted Shards
-parent_location: '[[12_Research/D&D_References/The Sundered Peaks]]'
-status: complete
-tags:
-- combat
-- quest
-- crystal-enhanced
-- shadow-touched
-- aerial
-- aquatic
-- both
-- caverns
-- complete
-- content/location
-- dangerous
-- location
-- mechanics/magic
-- status/in-progress
-- underground
-- world/aethermoor
-- world/both
-type: Location
+parent_location: '[[The Sundered Peaks]]'
 updated: '2025-08-13T12:34:16.582331+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -46,7 +53,7 @@ world: Both
 
 ## Overview
 
-The Crystal Caverns represent one of the most spectacular and dangerous natural formations in both [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]], existing as a vast underground network where massive aether crystals grow in their purest form. Located deep beneath [[12_Research/D&D_References/The Sundered Peaks]], these caverns serve as both the primary source of the world's most powerful crystals and a place of pilgrimage for those seeking to understand the fundamental nature of crystallized magic.
+The Crystal Caverns represent one of the most spectacular and dangerous natural formations in both [[Aethermoor]] and [[Aquabyssos]], existing as a vast underground network where massive aether crystals grow in their purest form. Located deep beneath [[The Sundered Peaks]], these caverns serve as both the primary source of the world's most powerful crystals and a place of pilgrimage for those seeking to understand the fundamental nature of crystallized magic.
 
 The caverns exist partially in both realms simultaneously, creating unique dimensional pockets where surface dwellers and deep-sea adapted beings can encounter each other in neutral territory. This dimensional overlap makes the caverns a crucial location for cross-realm politics, magical research, and unfortunately, the source of crystal corruption that threatens both civilizations.
 
@@ -275,16 +282,16 @@ The caverns exist partially in both realms simultaneously, creating unique dimen
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Depth Plague]] - Corruption spread into aquatic regions
-- [[12_Research/D&D_References/The Sundered Peaks]] - Mountain range containing the caverns
-- [[12_Research/D&D_References/Crystalhaven]] - City built around smaller crystal formations
-- [[12_Research/D&D_References/The Observatory Between]] - Another interdimensional meeting point
+- [[The Depth Plague]] - Corruption spread into aquatic regions
+- [[The Sundered Peaks]] - Mountain range containing the caverns
+- [[Crystalhaven]] - City built around smaller crystal formations
+- [[The Observatory Between]] - Another interdimensional meeting point
 - [[02_Worldbuilding/Lore/Crystal Corruption Timeline|02 Worldbuilding/Lore/Crystal Corruption Timeline]] - Historical progression of corruption
 - [[02_Worldbuilding/Lore/Crystal Magic Theory|02 Worldbuilding/Lore/Crystal Magic Theory]] - Magical principles governing crystal behavior
 
 ## Connections
 
-- [[12_Research/D&D_References/The Depth Plague]] - Aquatic manifestation of crystal corruption
+- [[The Depth Plague]] - Aquatic manifestation of crystal corruption
 - [[02_Worldbuilding/People/The Crystal Shepherds|02 Worldbuilding/People/The Crystal Shepherds]] - Traditional guardians and guides
 - [[02_Worldbuilding/Groups/Cross-Realm Research Coalition|02 Worldbuilding/Groups/Cross Realm Research Coalition]] - Scientific collaboration organization
 - [[02_Worldbuilding/Groups/Crystal Preservation Society|02 Worldbuilding/Groups/Crystal Preservation Society]] - Conservation advocacy group
@@ -305,6 +312,27 @@ Legends speak of Crystal Caverns as the heart of the world where crystallized ma
 - Cross-realm diplomatic crisis requires neutral ground for resolution
 - Ancient crystal consciousness awakens and seeks communication
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Emphasize the sensory overwhelm and wonder of the crystal environment. Use the harmonic descriptions to create atmospheric mood, and remember that the caverns respond to party emotions and actions. The interdimensional aspects allow for encounters with beings from either realm, while corruption areas provide constant environmental threat.
@@ -315,3 +343,73 @@ Emphasize the sensory overwhelm and wonder of the crystal environment. Use the h
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-ambassador-marina-bridgewater-ambassador-marina-bridgewater.svg]]
+- [[04_Resources_Assets_Locations_location-city-surface-observation-posts-surface-observation-posts.svg]]
+- [[Adventure Boldexplorer]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+Crystal Caverns is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Crystal Caverns
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## History
+
+### Founding
+Crystal Caverns was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Crystal Caverns
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

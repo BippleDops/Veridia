@@ -1,17 +1,15 @@
+# INDEX
+
 ---
-created: '2025-08-13'
-updated: '2025-08-13T12:48:04.962245'
-status: active
-world: Both
-type: Resource
+title: INDEX
+type: research
 tags:
-- type/resource
-- dnd/sourcebook
-- status/active
-- integration/available
-sourcebook: 'Baldur's Gate: Descent into Avernus'
-abbreviation: 'DiA'
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
 ---
+
 
 # Baldur's Gate: Descent into Avernus - Integration Index
 
@@ -128,3 +126,8 @@ This content can be used as:
 ---
 *Integration managed through the D&D Sourcebook Integration System*  
 *Last updated: 2025-08-13 12:48*
+
+
+## Related
+
+*Links to related content will be added here.*

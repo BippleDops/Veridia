@@ -1,17 +1,21 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
+title: Leviathan Graveyard
 type: Lore
+tags:
+- lore
+- both
+- content/lore
+- world/both
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:29.064928+00:00'
 world: Both
 ---
+
 
 
 ## Cross-References
@@ -22,12 +26,12 @@ world: Both
 ## Connections
 
 - [[12_Research/D&D_Statblocks/Aurelius Goldwave]]
-- [[12_Research/D&D_References/Kraken Territories]]
-- [[12_Research/D&D_References/Order of the Sunken Crown]]
-- [[12_Research/D&D_References/Thalassius the Wise]]
-- [[12_Research/D&D_References/The Abyss Beneath Aquabyssos]]
-- [[12_Research/D&D_References/The Restoration Movement]]
-- [[12_Research/D&D_References/The Seven Shards]]
+- [[Kraken Territories]]
+- [[Order of the Sunken Crown]]
+- [[Thalassius the Wise]]
+- [[The Abyss Beneath Aquabyssos]]
+- [[The Restoration Movement]]
+- [[The Seven Shards]]
 
 ## Player-Facing Summary
 
@@ -53,3 +57,31 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
+
+
+## Overview
+
+Leviathan Graveyard represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

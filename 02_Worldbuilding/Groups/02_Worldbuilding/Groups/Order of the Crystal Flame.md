@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Order of the Crystal Flame
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Groups/Order of the Crystal Flame
 
@@ -24,8 +31,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Brother Marcus Steelbane]]
-- [[12_Research/D&D_References/Brother Marcus Steelbane]]
+- [[Brother Marcus Steelbane]]
+- [[Brother Marcus Steelbane]]
 - [[02_Worldbuilding/People/Brother Marcus Steelbane]]
 - [[02_Worldbuilding/People/Brother Marcus Steelbane]]
 
@@ -38,3 +45,8 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[Current-Lord Triton of House Pelagios]]
+- [[His Own Shadow]]

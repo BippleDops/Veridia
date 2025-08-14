@@ -1,32 +1,38 @@
 ---
+title: Master Chen Wei
+type: Faction
+tags:
+- status/complete
+- monastery
+- content/faction
+- faction
+- organization
+- martial-order
+- world/aethermoor
+- active
+- complete
+- mechanics/combat
+- aethermoor
+- spiritual-discipline
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Temple of Flowing Waters]]'
+membership: Unknown
 MyCategory: Unknown
 MyContainer: None
 alignment: Lawful Neutral
-created: '2025-08-08'
 created_by: auto-stub
 faction_type: Martial Arts Order
-headquarters: '[[The Temple of Flowing Waters]]'
 influence: Regional (Martial arts community and spiritual seekers)
 leader: '[[Master Chen Wei]]'
 members: ~150 monks, students, and initiates
 obsidianUIMode: preview
-status: complete
-tags:
-- aethermoor
-- complete
-- content/faction
-- faction
-- martial-order
-- mechanics/combat
-- monastery
-- spiritual-discipline
-- status/complete
-- world/aethermoor
-type: Faction
 updated: '2025-08-13T12:34:17.285290+00:00'
 wealth: Modest (Donations and training fees)
 world: Aethermoor
 ---
+
 
 
 > [!figure] Heraldry

@@ -1,21 +1,28 @@
+# Session Planning Guide 3
+
 ---
-created: '2025-08-08'
-created_by: auto-stub
-status: complete
+title: Session Planning Guide 3
+type: Lore
 tags:
+- lore
 - aquabyssos
-- campaign/arc
+- status/complete
 - campaign/session
+- content/lore
+- research
+- active
+- campaign/arc
 - complete
 - content/item
-- content/lore
-- lore
-- status/complete
 - world/aquabyssos
-type: Lore
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+created_by: auto-stub
 updated: '2025-08-13T12:34:29.364449+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -78,3 +85,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

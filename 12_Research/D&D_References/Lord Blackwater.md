@@ -1,14 +1,20 @@
+# Lord Blackwater
+
 ---
-tags:
-- active
-- aethermoor
-- npc
+title: Lord Blackwater
 type: NPC
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:37.075494+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-lord-blackwater-lord-blackwater.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Quest - The Truth Unveiled]]
+
+
+## Related
+
+*Links to related content will be added here.*

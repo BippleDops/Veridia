@@ -1,28 +1,33 @@
 ---
-affiliation: '[[Queen Seraphina Lumengarde]] (Royal Mint Authority)'
-created: '2025-08-10'
-created_by: Claude
-current_location: Throughout Aethermoor Economic System
-danger_level: 1
-item_type: Crystallized Magical Energy
-rarity: Common to Legendary (varies by size and purity)
-requires_attunement: No (for basic use)
-status: complete
+title: Aether Crystals
+type: Item
 tags:
-- aethermoor
+- seven-shards-connected
+- status/complete
+- mechanics/magic
+- world/aethermoor
+- active
 - complete
 - content/item
 - content/mechanics
 - currency
+- aethermoor
 - item
-- mechanics/magic
-- seven-shards-connected
-- status/complete
-- world/aethermoor
-type: Item
+created: '2025-08-10'
+modified: '2025-08-14'
+status: complete
+rarity: Common to Legendary (varies by size and purity)
+value: Unknown
+affiliation: '[[Queen Seraphina Lumengarde]] (Royal Mint Authority)'
+created_by: Claude
+current_location: Throughout Aethermoor Economic System
+danger_level: 1
+item_type: Crystallized Magical Energy
+requires_attunement: No (for basic use)
 updated: '2025-08-13T12:34:17.753729+00:00'
 world: Aethermoor
 ---
+
 
 
 

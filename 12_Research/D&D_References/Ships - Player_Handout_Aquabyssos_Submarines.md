@@ -1,18 +1,24 @@
+# Ships - Player_Handout_Aquabyssos_Submarines
+
 ---
 title: "Player Handout \u2014 Aquabyssos Submarines"
 type: handout
+tags:
+- submarines
+- aquabyssos
+- handout
+- vehicles
+- research
+- active
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 audience: player
-tags:
-- aquabyssos
-- complete
-- handout
-- submarines
-- vehicles
-created: '2025-08-11'
 updated: '2025-08-13T01:18:37.191209+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Aquabyssos Submarines — Visual & Vibe Guide
@@ -31,3 +37,8 @@ Choosing a ship affects your story: see [[Vehicle_Core_Rules|Vehicle Core Rules]
 ## Cross-References
 
 - [[Aquabyssos_Session_01|06 GM Resources/Session Packets/Aquabyssos Session 01]]
+
+
+## Related
+
+*Links to related content will be added here.*

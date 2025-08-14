@@ -1,19 +1,26 @@
+# Deep Mother Lore
+
 ---
+title: Deep Mother Lore
+type: Lore
 tags:
-- aquabyssos
-- complete
-- deep-mother
-- deity-lore
 - lore
-- ocean-entity
+- aquabyssos
 - primordial
+- research
+- deep-mother
+- active
+- complete
+- deity-lore
+- ocean-entity
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -72,3 +79,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Comprehensive-World-Connection-Guide|02 Worldbuilding/Lore/Comprehensive World Connection Guide]]
+
+
+## Related
+
+*Links to related content will be added here.*

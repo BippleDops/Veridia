@@ -1,24 +1,30 @@
+# Quest - The Convergence Crisis
+
 ---
+title: Quest   The Convergence Crisis
+type: Lore
 tags:
+- lore
+- convergence
+- high-stakes
+- quest
+- research
 - both aethermoor & aquabyssos
+- crisis-management
+- active
+- world-bridging
 - both-aethermoor-&-aquabyssos
 - complete
-- convergence
-- crisis-management
 - cross-realm
-- high-stakes
-- lore
-- quest
-- world-bridging
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
+location: Multiple locations in both realms
 world: Both Aethermoor & Aquabyssos
-type: Lore
 quest_type: Cross-Realm Crisis
 difficulty: Legendary (Levels 10-20)
 patron: '[[The Void Watchers]] or [[The Convergence Seekers]]'
-location: Multiple locations in both realms
 created_by: auto-stub
-created: '2025-08-09'
 updated: '2025-08-13T01:18:34.488714+00:00'
 quest_length: Legendary Campaign Arc (40-50 sessions)
 sessions_per_act: 6-12 sessions each
@@ -29,6 +35,7 @@ world_consequences: Reality-shaping
 prerequisite_level: 10
 content_warning: Contains themes of reality alteration and existential choice
 ---
+
 
 
 
@@ -536,3 +543,8 @@ Legends speak of Quest   The Convergence Crisis as a nexus where past and presen
 - [[The Azure Coast]]
 - [[The Floating Market]]
 - [[The Threshold Chambers]]
+
+
+## Related
+
+*Links to related content will be added here.*

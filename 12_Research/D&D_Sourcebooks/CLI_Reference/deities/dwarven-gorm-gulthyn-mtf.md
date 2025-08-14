@@ -1,22 +1,28 @@
+# dwarven-gorm-gulthyn-mtf
+
 ---
+title: dwarven gorm gulthyn mtf
 aliases:
 - Gorm Gulthyn
-created: 2025-07-23
-cssclasses: json5e-deity
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- importance/core
+- research
+- world/both
+- ttrpg-cli/deity/dwarven
+- active
+- ttrpg-cli/compendium/src/5e/mtf
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/dwarven
-- world/both
-type: note
+- importance/core
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-deity
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.042323'
 world: Both
 ---
+
 
 # Gorm Gulthyn
 *Source: Mordenkainen's Tome of Foes p. 73* 
@@ -47,3 +53,8 @@ Legends speak of dwarven gorm gulthyn mtf as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

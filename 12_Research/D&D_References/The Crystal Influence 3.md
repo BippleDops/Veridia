@@ -1,17 +1,24 @@
+# The Crystal Influence 3
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aethermoor
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/aethermoor
+title: The Crystal Influence 3
 type: Lore
+tags:
+- lore
+- content/lore
+- research
+- world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:29.065372+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -61,3 +68,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Temporal Navigation Hazards]]
 - [[The Possessed Queen]]
 - [[United Councils of Both Worlds]]
+
+
+## Related
+
+*Links to related content will be added here.*

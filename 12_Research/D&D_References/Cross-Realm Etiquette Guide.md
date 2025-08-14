@@ -1,20 +1,27 @@
+# Cross-Realm Etiquette Guide
+
 ---
-tags:
-- both
-- culture
-- complete
-- diplomacy
-- cross-cultural
-- etiquette-guide
-- inter-realm
-- lore
-world: Both
+title: Cross Realm Etiquette Guide
 type: Lore
-status: complete
-created_by: cultural-expansion
+tags:
+- lore
+- both
+- diplomacy
+- culture
+- inter-realm
+- cross-cultural
+- research
+- active
+- complete
+- etiquette-guide
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Both
+created_by: cultural-expansion
 updated: '2025-08-12T00:00:00+00:00'
 ---
+
 
 # Cross-Realm Etiquette Guide
 *"Where water meets air and depth encounters sky, wisdom lies in the space between traditions."*
@@ -496,3 +503,7 @@ Use the cross-cultural protocols as a framework for creating complex diplomatic 
 The guide provides opportunities for character growth through cultural learning, and rewards players who invest time in understanding different cultural perspectives. Remember that successful cross-cultural interaction often requires creativity and adaptation rather than rigid adherence to rules, and that the best diplomatic solutions often emerge from genuine respect for cultural differences rather than attempts to eliminate them.
 
 <!-- enriched: true -->
+
+## Related
+
+*Links to related content will be added here.*

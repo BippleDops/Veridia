@@ -1,28 +1,35 @@
+# Quest - The Void Conspiracy
+
 ---
+title: Quest   The Void Conspiracy
+type: Quest
 tags:
-- aethermoor
+- investigation
+- high-level
+- quest
+- research
+- active
+- dimensional
 - complete
 - conspiracy
-- dimensional
-- high-level
-- investigation
-- quest
 - shadow-crystal
+- aethermoor
 - void
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
-world: Aethermoor
-type: Quest
-level: 11-15
-category: Major Story Arc
 location: Multiple - Aethermoor Cities
+level: 11-15
+world: Aethermoor
+category: Major Story Arc
 reward: Epic
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.825140+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-quest-the-void-conspiracy.png]]
@@ -388,3 +395,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Quest - The Void Conspiracy|02 Worldbuilding/People/Quest The Void Conspiracy]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

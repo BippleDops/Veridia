@@ -1,50 +1,56 @@
+# Quest - The Drowned Prophecy
+
 ---
+title: Quest   The Drowned Prophecy
 type: Lore
-status: complete
 tags:
-- combat
-- crystal-enhanced
-- shadow-touched
-- aquatic
-- active
+- lore
 - both
 - investigation
-- lore
-- mid-level
+- aquatic
 - political
+- worldbuilding
 - quest
 - shadowmere
-quest_giver: '[[12_Research/D&D_References/Sister Morwyn Veilkeeper]]'
+- active
+- combat
+- mid-level
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+quest_giver: '[[Sister Morwyn Veilkeeper]]'
 level_range: 5-8
 reward_tier: Significant
 locations:
-- '[[12_Research/D&D_References/The Shadowmere]]'
-- '[[12_Research/D&D_References/The Embassy Quarter]]'
-- '[[12_Research/D&D_References/The Sunken Markets]]'
+- '[[The Shadowmere]]'
+- '[[The Embassy Quarter]]'
+- '[[The Sunken Markets]]'
 npcs_involved:
-- '[[12_Research/D&D_References/Sister Morwyn Veilkeeper]]'
-- '[[12_Research/D&D_References/Ambassador Nerida Deepcurrent]]'
-- '[[12_Research/D&D_References/Marcus Shardbreaker Grimm]]'
-- '[[12_Research/D&D_References/Vex Shadowthorn]]'
+- '[[Sister Morwyn Veilkeeper]]'
+- '[[Ambassador Nerida Deepcurrent]]'
+- '[[Marcus Shardbreaker Grimm]]'
+- '[[Vex Shadowthorn]]'
 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:34.479424+00:00'
-created: '2025-08-11'
 ---
+
 
 
 # Quest: The Drowned Prophecy
 
 ## Overview
 
-Ancient prophecies are manifesting as physical objects in [[12_Research/D&D_References/The Shadowmere]]'s Lake Gloom—crystallized predictions of a coming flood that will transform Aethermoor into a second Aquabyssos. Someone is collecting these prophecy shards, and their intent could either prevent or ensure this catastrophic future.
+Ancient prophecies are manifesting as physical objects in [[The Shadowmere]]'s Lake Gloom—crystallized predictions of a coming flood that will transform Aethermoor into a second Aquabyssos. Someone is collecting these prophecy shards, and their intent could either prevent or ensure this catastrophic future.
 
 ## Quest Hook
 
-[[12_Research/D&D_References/Sister Morwyn Veilkeeper]] contacts the party through disturbing dreams, showing visions of Crystalhaven underwater, its citizens transformed into aquatic horrors. She reveals that prophecy shards are being stolen from Lake Gloom, and without them, she cannot determine which future is becoming real.
+[[Sister Morwyn Veilkeeper]] contacts the party through disturbing dreams, showing visions of Crystalhaven underwater, its citizens transformed into aquatic horrors. She reveals that prophecy shards are being stolen from Lake Gloom, and without them, she cannot determine which future is becoming real.
 
 ## Act 1: Shadows and Prophecies
 
@@ -64,17 +70,17 @@ Ancient prophecies are manifesting as physical objects in [[12_Research/D&D_Refe
 - Local shadowkin report seeing "fish people" that shouldn't exist here
 
 **Clues Found:**
-- Tidal Court diplomatic seal (leads to [[12_Research/D&D_References/Ambassador Nerida Deepcurrent]])
+- Tidal Court diplomatic seal (leads to [[Ambassador Nerida Deepcurrent]])
 - Crystal Warden patrol schedule (inside information)
-- Payment ledger in Whisper Syndicate cipher (involves [[12_Research/D&D_References/Vex Shadowthorn]])
+- Payment ledger in Whisper Syndicate cipher (involves [[Vex Shadowthorn]])
 
 ## Act 2: The Conspiracy Web
 
 ### The Embassy Investigation
 
 **Infiltrating the Cerulean Depths:**
-- [[12_Research/D&D_References/Ambassador Nerida Deepcurrent]]'s embassy shows signs of recent construction
-- Hidden basement contains portal pool to [[12_Research/D&D_References/The Sunken Markets]]
+- [[Ambassador Nerida Deepcurrent]]'s embassy shows signs of recent construction
+- Hidden basement contains portal pool to [[The Sunken Markets]]
 - Diplomatic papers discussing "accelerated integration timeline"
 - Servants are deep-touched, showing early signs of aquatic transformation
 
@@ -87,9 +93,9 @@ Ancient prophecies are manifesting as physical objects in [[12_Research/D&D_Refe
 ### The Sunken Markets Trail
 
 **Following the Smuggling Route:**
-- [[12_Research/D&D_References/Vex Shadowthorn]] has been moving prophecy shards through the markets
+- [[Vex Shadowthorn]] has been moving prophecy shards through the markets
 - Claims he's just the middleman, doesn't know final buyer
-- [[12_Research/D&D_References/Marcus Shardbreaker Grimm]] has been hired to protect shipments
+- [[Marcus Shardbreaker Grimm]] has been hired to protect shipments
 - Marcus reveals buyer uses Crystal Warden codes
 
 **The Depth Speaker's Warning:**
@@ -104,7 +110,7 @@ Ancient prophecies are manifesting as physical objects in [[12_Research/D&D_Refe
 ### The True Conspirator
 
 > [!warning] DM Secret
-> [[12_Research/D&D_References/Prince Caspian Duskwater]] is collecting the shards, believing he can use them to overthrow his mother and prevent both the crystal corruption and the drowning. He's being manipulated by Thal'mexis through dreams.
+> [[Prince Caspian Duskwater]] is collecting the shards, believing he can use them to overthrow his mother and prevent both the crystal corruption and the drowning. He's being manipulated by Thal'mexis through dreams.
 
 **Evidence Points:**
 - Crystal Warden resources diverted to "special projects"
@@ -142,7 +148,7 @@ Ancient prophecies are manifesting as physical objects in [[12_Research/D&D_Refe
   - Destroyed (removes prophecy but not threat)
   - Used differently (party's choice, major consequences)
 - Prince's fate affects succession crisis
-- [[12_Research/D&D_References/Ambassador Nerida Deepcurrent]]'s reaction depends on party's approach
+- [[Ambassador Nerida Deepcurrent]]'s reaction depends on party's approach
 
 ### If Party Allies with Prince
 
@@ -171,7 +177,7 @@ Ancient prophecies are manifesting as physical objects in [[12_Research/D&D_Refe
 ### Information Rewards
 
 - Location of one of the Seven Shards
-- Truth about [[12_Research/D&D_References/Queen Seraphina Lumengarde]]'s corruption source
+- Truth about [[Queen Seraphina Lumengarde]]'s corruption source
 - Map to pre-Shattering ruins beneath Crystalhaven
 - Prophecy about each party member's future
 
@@ -186,14 +192,14 @@ Ancient prophecies are manifesting as physical objects in [[12_Research/D&D_Refe
 ### The Assassin's Mark
 
 - Someone wants the investigation stopped
-- [[12_Research/D&D_References/Marcus Shardbreaker Grimm]] hired to kill party
+- [[Marcus Shardbreaker Grimm]] hired to kill party
 - Can be turned into ally with right approach
 
 ### The Diplomatic Incident
 
 - Investigation exposes embassy secrets
 - International tensions threaten war
-- [[12_Research/D&D_References/Castellan Ironledger III]] offers to mediate (for a price)
+- [[Castellan Ironledger III]] offers to mediate (for a price)
 
 ## NPC Motivations
 

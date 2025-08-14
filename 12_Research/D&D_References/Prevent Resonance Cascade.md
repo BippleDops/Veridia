@@ -1,19 +1,26 @@
+# Prevent Resonance Cascade
+
 ---
+title: Prevent Resonance Cascade
+type: Lore
 tags:
-- aquabyssos
-- complete
-- crisis-response
 - lore
-- prevention
+- aquabyssos
+- crisis-response
 - quest
+- research
 - resonance-cascade
+- active
+- complete
+- prevention
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 # Prevent Resonance Cascade
@@ -72,3 +79,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

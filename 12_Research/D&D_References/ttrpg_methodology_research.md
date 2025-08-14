@@ -1,3 +1,15 @@
+# ttrpg_methodology_research
+
+---
+title: ttrpg methodology research
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # TTRPG Methodology Research Notes
 
 ## Campaign Structure Analysis
@@ -42,3 +54,7 @@ Using our vault metrics, successful campaigns show:
 4. Design climaxes that require both realms for resolution
 
 *Research methodology: Analysis of 47 completed Cordelia campaigns, 2023-2024*
+
+## Related
+
+*Links to related content will be added here.*

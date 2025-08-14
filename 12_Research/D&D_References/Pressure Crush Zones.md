@@ -1,19 +1,26 @@
+# Pressure Crush Zones
+
 ---
+title: Pressure Crush Zones
+type: Lore
 tags:
+- lore
 - aquabyssos
+- hazard
+- pressure-zones
+- research
+- active
+- underwater
 - complete
 - environmental-danger
-- hazard
-- lore
-- pressure-zones
-- underwater
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -73,3 +80,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Initiative Tracker|02 Worldbuilding/Lore/Initiative Tracker]]
+
+
+## Related
+
+*Links to related content will be added here.*

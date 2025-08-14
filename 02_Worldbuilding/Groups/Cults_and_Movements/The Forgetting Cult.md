@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: The Forgetting Cult
+type: Faction
 tags:
 - aquabyssos
-- complete
+- world/aquabyssos
 - content/faction
 - faction
+- organization
+- active
+- complete
 - status/in-progress
-- world/aquabyssos
-type: Faction
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.402653+00:00'
 world: Aquabyssos
 ---
+
 
 
 ## Overview
@@ -63,3 +70,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Archivist Mnemonic the Forgotten]]
 - [[Memory Harvester Kythara]]
 - [[The Shadow Singer Naia]]
+
+
+## Known Members
+
+- [[NPC Statblock]]
+- [[04_Resources_Assets_Locations_location-city-master-elena-preserver-master-elena-preserver.svg]]
+- [[04_Resources_Assets_Locations_location-city-keeper-valdris-goldvault-keeper-valdris-goldvault.svg]]

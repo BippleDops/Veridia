@@ -1,15 +1,21 @@
+# Pilgrimage Master Depth Guide Melancholy
+
 ---
-tags:
-- active
-- both
-- location
+title: Pilgrimage Master Depth Guide Melancholy
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.001205+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-pilgrimage-master-depth-guide-melancholy-pilgrimage-master-depth-guide-melancholy.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Pilgrimage Master Depth Guide Melancholy|02 Worldbuilding/Places/Pilgrimage Master Depth Guide Melancholy]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

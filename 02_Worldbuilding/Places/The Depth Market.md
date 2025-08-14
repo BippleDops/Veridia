@@ -1,22 +1,29 @@
 ---
-created: '2025-08-11'
-danger_level: Moderate
-status: complete
+title: The Depth Market
+type: Location
 tags:
-- combat
-- quest
-- crystal-enhanced
-- aquatic
 - both
-- complete
+- aquatic
+- quest
+- world/both
 - content/location
+- place
+- active
+- combat
+- complete
 - location
 - status/in-progress
-- world/both
-type: Location
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+danger_level: Moderate
 updated: '2025-08-13T12:34:16.524836+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -28,11 +35,11 @@ world: Both
 *Where the Abyss Yields Its Treasures*
 
 > *"Down here, in the crushing dark where pressure makes diamonds and cold preserves wonders, you can find anything - if you're willing to pay the price. Just remember: in the depths, everything costs more than money."*
-> — [[12_Research/D&D_References/Master Trader Abyss Currentbinder]], Chief of the Depth Merchant's Consortium
+> — [[Master Trader Abyss Currentbinder]], Chief of the Depth Merchant's Consortium
 
 ## Overview
 
-The Depth Market stands as [[12_Research/D&D_References/Aquabyssos]]'s most dangerous and exotic trading hub, a massive complex of interconnected chambers and tunnels carved into the walls of an abyssal trench where the deepest currents meet the ocean floor. Here, in the crushing depths where few dare to venture, merchants trade in the rarest and most valuable goods the deep ocean has to offer: abyssal crystals that glow with their own light, preserved specimens from creatures that have never seen sunlight, and artifacts recovered from ruins so ancient their builders are forgotten by history. The market operates under its own laws, independent of surface authority, where survival depends as much on cunning and courage as on coin.
+The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hub, a massive complex of interconnected chambers and tunnels carved into the walls of an abyssal trench where the deepest currents meet the ocean floor. Here, in the crushing depths where few dare to venture, merchants trade in the rarest and most valuable goods the deep ocean has to offer: abyssal crystals that glow with their own light, preserved specimens from creatures that have never seen sunlight, and artifacts recovered from ruins so ancient their builders are forgotten by history. The market operates under its own laws, independent of surface authority, where survival depends as much on cunning and courage as on coin.
 
 ## History and Foundation
 
@@ -48,7 +55,7 @@ The Depth Market stands as [[12_Research/D&D_References/Aquabyssos]]'s most dang
 
 **Timeline**: 300-280 years ago, organization of independent traders  
 **Need**: Coordination required for survival and mutual protection  
-**Leadership**: [[12_Research/D&D_References/Master Trader Abyss Currentbinder]] and founding merchants  
+**Leadership**: [[Master Trader Abyss Currentbinder]] and founding merchants  
 **Governance**: Development of basic trading laws and mutual defense agreements  
 **Growth**: Expansion from temporary camps to permanent installations
 
@@ -310,7 +317,7 @@ The Depth Market stands as [[12_Research/D&D_References/Aquabyssos]]'s most dang
 
 ### The Depth Merchant's Consortium
 
-#### Master Trader [[12_Research/D&D_References/Abyss Currentbinder]]
+#### Master Trader [[Abyss Currentbinder]]
 
 **Leadership**: Founding leader and current head of the merchant consortium  
 **Experience**: 40 years of deep-sea trading and exploration  
@@ -318,7 +325,7 @@ The Depth Market stands as [[12_Research/D&D_References/Aquabyssos]]'s most dang
 **Vision**: Architect of the market's growth from small outpost to major trading hub  
 **Network**: Extensive contacts throughout the deep-sea trading world
 
-#### Trade Coordinator [[12_Research/D&D_References/Deep Current Flowmaster]]
+#### Trade Coordinator [[Deep Current Flowmaster]]
 
 **Role**: Day-to-day operational management of market activities  
 **Skills**: Expert logistics coordinator and negotiator  
@@ -326,7 +333,7 @@ The Depth Market stands as [[12_Research/D&D_References/Aquabyssos]]'s most dang
 **Diplomacy**: Key diplomatic contact with various trading factions  
 **Innovation**: Developer of improved trading procedures and safety protocols
 
-#### Security Chief [[12_Research/D&D_References/Pressure Guard Steelwall]]
+#### Security Chief [[Pressure Guard Steelwall]]
 
 **Background**: Former military specialist in deep-sea operations  
 **Responsibility**: Overall security and emergency response for the market  
@@ -338,7 +345,7 @@ The Depth Market stands as [[12_Research/D&D_References/Aquabyssos]]'s most dang
 
 #### The Crystal Seekers Guild
 
-**Leader**: [[12_Research/D&D_References/Gem Deepseeker]], master crystal identifier  
+**Leader**: [[Gem Deepseeker]], master crystal identifier  
 **Specialization**: Deep-sea crystal mining, processing, and trading  
 **Membership**: Elite crystal specialists with advanced technical knowledge  
 **Resources**: Advanced crystal detection and processing equipment  
@@ -346,7 +353,7 @@ The Depth Market stands as [[12_Research/D&D_References/Aquabyssos]]'s most dang
 
 #### The Artifact Hunters Society
 
-**Leadership**: [[12_Research/D&D_References/Ancient Echo Truthfinder]], archaeological trading expert  
+**Leadership**: [[Ancient Echo Truthfinder]], archaeological trading expert  
 **Focus**: Recovery and trading of ancient artifacts and archaeological materials  
 **Exploration**: Organizes expeditions to newly discovered ruins  
 **Scholarship**: Combines trading expertise with serious archaeological research  
@@ -354,7 +361,7 @@ The Depth Market stands as [[12_Research/D&D_References/Aquabyssos]]'s most dang
 
 #### The Specimen Exchange
 
-**Director**: [[12_Research/D&D_References/Specimen Careful Lifeguard]], biological trading specialist  
+**Director**: [[Specimen Careful Lifeguard]], biological trading specialist  
 **Mission**: Ethical trading in biological specimens and live creatures  
 **Conservation**: Strong commitment to conservation and sustainable harvesting  
 **Research**: Collaboration with surface researchers and institutions  
@@ -641,7 +648,7 @@ The Depth Market stands as [[12_Research/D&D_References/Aquabyssos]]'s most dang
 
 ## Connections to Other Locations
 
-### [[12_Research/D&D_References/Abyssos Prime]]
+### [[Abyssos Prime]]
 
 **Trade**: Major supplier of exotic goods to the capital city  
 **Independence**: Maintains independence while respecting royal authority  
@@ -649,7 +656,7 @@ The Depth Market stands as [[12_Research/D&D_References/Aquabyssos]]'s most dang
 **Support**: Informal support arrangements during major crises  
 **Taxation**: Negotiations over taxation of deep-sea trade
 
-### [[12_Research/D&D_References/The Free Current]]
+### [[The Free Current]]
 
 **Philosophy**: Shared commitment to free trade and minimal government interference  
 **Cooperation**: Cooperation on trade routes and mutual defense  
@@ -657,7 +664,7 @@ The Depth Market stands as [[12_Research/D&D_References/Aquabyssos]]'s most dang
 **Competition**: Some competition for independent trading opportunities  
 **Alliances**: Natural allies in maintaining trading independence
 
-### [[12_Research/D&D_References/Parliament of Echoes]]
+### [[Parliament of Echoes]]
 
 **Politics**: Complex political relationship with parliamentary authority  
 **Regulation**: Resistance to regulatory oversight of deep-sea trading  
@@ -665,7 +672,7 @@ The Depth Market stands as [[12_Research/D&D_References/Aquabyssos]]'s most dang
 **Taxation**: Disputes over taxation and fees on deep-sea trade  
 **Autonomy**: Desire to maintain autonomy while participating in broader economy
 
-### [[12_Research/D&D_References/Azure Citadel]]
+### [[Azure Citadel]]
 
 **Security**: Cooperation on security threats affecting all of Aquabyssos  
 **Intelligence**: Limited sharing of intelligence about deep-sea threats  
@@ -676,7 +683,7 @@ The Depth Market stands as [[12_Research/D&D_References/Aquabyssos]]'s most dang
 ## Secrets and Hidden Aspects
 
 > [!secret] DM Secret - The Deep Pact
-> The market's survival depends on a secret agreement with an ancient and powerful deep-sea entity known as the Depth Sovereign. [[12_Research/D&D_References/Master Trader Abyss Currentbinder]] personally negotiates this pact, which requires regular tribute of rare artifacts and magical items. The entity provides protection from the most dangerous abyssal creatures and favorable currents for trade routes, but the demands are becoming increasingly costly and dangerous. Breaking the pact would result in the market being destroyed by creatures and natural disasters.
+> The market's survival depends on a secret agreement with an ancient and powerful deep-sea entity known as the Depth Sovereign. [[Master Trader Abyss Currentbinder]] personally negotiates this pact, which requires regular tribute of rare artifacts and magical items. The entity provides protection from the most dangerous abyssal creatures and favorable currents for trade routes, but the demands are becoming increasingly costly and dangerous. Breaking the pact would result in the market being destroyed by creatures and natural disasters.
 
 > [!secret] DM Secret - The Living Market
 > The market complex itself is partially alive, grown rather than built using ancient biotechnology discovered in the ruins. The "walls" are actually a massive, slow-growing organism that responds to the needs of the inhabitants by creating new chambers and passages. Only a few of the oldest traders know this secret, and they've been carefully nurturing the growth while keeping it hidden. The organism requires specific nutrients and conditions to remain healthy, and its death would cause the entire market to collapse.
@@ -687,30 +694,30 @@ The Depth Market stands as [[12_Research/D&D_References/Aquabyssos]]'s most dang
 ---
 
 **Related Locations**:
-- [[12_Research/D&D_References/Abyssos Prime]]
-- [[12_Research/D&D_References/The Free Current]]
-- [[12_Research/D&D_References/Parliament of Echoes]]
-- [[12_Research/D&D_References/Azure Citadel]]
+- [[Abyssos Prime]]
+- [[The Free Current]]
+- [[Parliament of Echoes]]
+- [[Azure Citadel]]
 
 **Related NPCs**:
-- [[12_Research/D&D_References/Master Trader Abyss Currentbinder]]
-- [[12_Research/D&D_References/Deep Current Flowmaster]]
-- [[12_Research/D&D_References/Pressure Guard Steelwall]]
-- [[12_Research/D&D_References/Gem Deepseeker]]
+- [[Master Trader Abyss Currentbinder]]
+- [[Deep Current Flowmaster]]
+- [[Pressure Guard Steelwall]]
+- [[Gem Deepseeker]]
 
 **Related Items and Concepts**:
-- [[12_Research/D&D_References/Abyssal Crystals]]
-- [[12_Research/D&D_References/Deep-Sea Artifacts]]
-- [[12_Research/D&D_References/Pressure Technology]]
-- [[12_Research/D&D_References/Depth Merchant's Consortium]]
+- [[Abyssal Crystals]]
+- [[Deep-Sea Artifacts]]
+- [[Pressure Technology]]
+- [[Depth Merchant's Consortium]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/The Frozen Throne]]
-- [[12_Research/D&D_References/The Inverse Palace]]
-- [[12_Research/D&D_References/The Sinking Atoll]]
-- [[12_Research/D&D_References/Void Currents]]
+- [[The Frozen Throne]]
+- [[The Inverse Palace]]
+- [[The Sinking Atoll]]
+- [[Void Currents]]
 - [[12_Research/D&D_Statblocks/Rescue Senator Glaucus]]
 
 ## Player-Facing Summary
@@ -727,13 +734,34 @@ Legends speak of The Depth Market as a nexus where past and present converge. Lo
 - An NPC seeks discreet help at The Depth Market to avert a public scandal.
 - A map overlay reveals a hidden approach to The Depth Market active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Depth Market]]
+- [[The Depth Market]]
 
 <!-- enriched: true -->
 
@@ -741,3 +769,74 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+The Depth Market is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Depth Market
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting The Depth Market:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Depth Market
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

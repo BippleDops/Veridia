@@ -1,7 +1,34 @@
 ---
+title: Quest   The Missing Fleet
+type: Location
+tags:
+- aerial
+- mechanics/exploration
+- aquatic
+- content/location
+- shadow-touched
+- mystery
+- content/adventure
+- status/complete
+- quest
+- combat
+- location
+- aethermoor
+- naval
+- missing-fleet
+- complete
+- military
+- place
+- diplomatic
+- active
+- world/aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Unknown
 MyContainer: None
-created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 difficulty: Moderate to Hard
@@ -11,30 +38,10 @@ obsidianUIMode: preview
 party_size: 4-6 characters
 primary_location: Aethermoor Maritime Region
 quest_type: Investigation/Diplomatic Mission
-status: complete
-tags:
-- combat
-- quest
-- shadow-touched
-- aerial
-- aquatic
-- aethermoor
-- complete
-- content/adventure
-- content/location
-- diplomatic
-- location
-- mechanics/exploration
-- military
-- missing-fleet
-- mystery
-- naval
-- status/complete
-- world/aethermoor
-type: Location
 updated: '2025-08-13T12:34:16.521010+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View
@@ -46,11 +53,11 @@ world: Aethermoor
 *A Diplomatic Crisis Beneath the Waves*
 
 > *"When ships vanish without a trace and nations point fingers, someone must dive beneath the surface of both water and politics to find the truth that could prevent a war."*
-> — [[12_Research/D&D_References/Admiral Marina Stormcrest]], briefing the investigation team
+> — [[Admiral Marina Stormcrest]], briefing the investigation team
 
 ## Quest Overview
 
-The Missing Fleet is a complex investigation and diplomatic mission that challenges players to solve a maritime mystery while navigating delicate political relationships between [[12_Research/D&D_References/Aethermoor]] and its neighboring realms. When an entire diplomatic fleet disappears during routine negotiations, the party must uncover the truth behind their fate while preventing the incident from escalating into open conflict.
+The Missing Fleet is a complex investigation and diplomatic mission that challenges players to solve a maritime mystery while navigating delicate political relationships between [[Aethermoor]] and its neighboring realms. When an entire diplomatic fleet disappears during routine negotiations, the party must uncover the truth behind their fate while preventing the incident from escalating into open conflict.
 
 This quest combines elements of naval investigation, underwater exploration, political intrigue, and diplomatic problem-solving, requiring players to use investigation skills, social abilities, and combat prowess to resolve a situation that threatens regional stability.
 
@@ -58,9 +65,9 @@ This quest combines elements of naval investigation, underwater exploration, pol
 
 ### The Diplomatic Mission
 
-Three weeks ago, [[12_Research/D&D_References/Admiral Diplomatic Envoy Thornwick]] departed [[12_Research/D&D_References/Aethermoor]] with a fleet of five ships carrying a delegation intended to negotiate new trade agreements with the [[12_Research/D&D_References/Coral Reef Republics]]. The fleet included the flagship *Windward Negotiator*, two escort vessels, a supply ship, and a specialized communication vessel equipped for long-range magical correspondence.
+Three weeks ago, [[Admiral Diplomatic Envoy Thornwick]] departed [[Aethermoor]] with a fleet of five ships carrying a delegation intended to negotiate new trade agreements with the [[Coral Reef Republics]]. The fleet included the flagship *Windward Negotiator*, two escort vessels, a supply ship, and a specialized communication vessel equipped for long-range magical correspondence.
 
-The diplomatic mission represented months of careful preparation and significant political investment, as the proposed trade agreements could provide [[12_Research/D&D_References/Aethermoor]] with access to rare deep-sea resources while offering the Coral Reef Republics expanded markets for their unique magical goods.
+The diplomatic mission represented months of careful preparation and significant political investment, as the proposed trade agreements could provide [[Aethermoor]] with access to rare deep-sea resources while offering the Coral Reef Republics expanded markets for their unique magical goods.
 
 Initial reports indicated that the fleet had safely reached international waters and established contact with Coral Reef Republic representatives, suggesting that negotiations were proceeding according to schedule.
 
@@ -70,15 +77,15 @@ Four days ago, all communication with the diplomatic fleet ceased abruptly durin
 
 The Coral Reef Republics claim no knowledge of what happened to the fleet after their representatives departed following successful preliminary negotiations. They have offered full cooperation with search efforts but maintain that the fleet left their territorial waters safely.
 
-Political tensions are rising as some [[12_Research/D&D_References/Aethermoor]] officials suggest that the disappearance may not be accidental, while others worry that accusations without evidence could damage crucial diplomatic relationships and derail important negotiations.
+Political tensions are rising as some [[Aethermoor]] officials suggest that the disappearance may not be accidental, while others worry that accusations without evidence could damage crucial diplomatic relationships and derail important negotiations.
 
 ### Rising Tensions
 
-The disappearance has created a complex political crisis, with various factions within [[12_Research/D&D_References/Aethermoor]] government advocating different responses ranging from immediate military action to patient investigation and diplomatic pressure.
+The disappearance has created a complex political crisis, with various factions within [[Aethermoor]] government advocating different responses ranging from immediate military action to patient investigation and diplomatic pressure.
 
-Rumors and speculation are spreading throughout [[12_Research/D&D_References/Aethermoor]] society, with some suggesting sabotage by trade rivals, others blaming sea monsters or magical phenomena, and conspiracy theorists proposing elaborate plots involving multiple governments.
+Rumors and speculation are spreading throughout [[Aethermoor]] society, with some suggesting sabotage by trade rivals, others blaming sea monsters or magical phenomena, and conspiracy theorists proposing elaborate plots involving multiple governments.
 
-The [[12_Research/D&D_References/Coral Reef Republics]] are becoming increasingly defensive about repeated questioning of their involvement, while other neighboring powers are watching the situation carefully to assess implications for their own relationships with [[12_Research/D&D_References/Aethermoor]].
+The [[Coral Reef Republics]] are becoming increasingly defensive about repeated questioning of their involvement, while other neighboring powers are watching the situation carefully to assess implications for their own relationships with [[Aethermoor]].
 
 ## Quest Objectives
 
@@ -90,7 +97,7 @@ The [[12_Research/D&D_References/Coral Reef Republics]] are becoming increasingl
 
 3. **Preserve Diplomatic Relations** - Conduct the investigation in a manner that maintains positive relationships with the Coral Reef Republics and other regional powers, avoiding actions that could escalate tensions unnecessarily.
 
-4. **Prevent Political Crisis** - Provide clear, accurate information to [[12_Research/D&D_References/Aethermoor]] leadership to enable informed decision-making and prevent hasty actions that could damage long-term political interests.
+4. **Prevent Political Crisis** - Provide clear, accurate information to [[Aethermoor]] leadership to enable informed decision-making and prevent hasty actions that could damage long-term political interests.
 
 ### Secondary Objectives
 
@@ -106,35 +113,35 @@ The [[12_Research/D&D_References/Coral Reef Republics]] are becoming increasingl
 
 ### Quest Givers and Authorities
 
-**[[12_Research/D&D_References/Admiral Marina Stormcrest]]** - Senior naval officer overseeing the search operation, who serves as primary contact for the investigation team. She provides resources and authority while expecting regular reports and professional conduct.
+**[[Admiral Marina Stormcrest]]** - Senior naval officer overseeing the search operation, who serves as primary contact for the investigation team. She provides resources and authority while expecting regular reports and professional conduct.
 
-**[[12_Research/D&D_References/Diplomatic Minister Reef]]** - Foreign ministry official responsible for managing the political aspects of the crisis. He provides diplomatic guidance and context while emphasizing the importance of maintaining regional relationships.
+**[[Diplomatic Minister Reef]]** - Foreign ministry official responsible for managing the political aspects of the crisis. He provides diplomatic guidance and context while emphasizing the importance of maintaining regional relationships.
 
 **[[Intelligence Coordinator Shadow]]** - Government intelligence specialist who provides background information, analysis capabilities, and access to classified resources relevant to the investigation.
 
 ### Diplomatic Contacts
 
-**[[12_Research/D&D_References/Ambassador Coral]]** - Representative of the Coral Reef Republics assigned to liaise with the investigation team. She is helpful but defensive about implications that her government might be involved in the disappearance.
+**[[Ambassador Coral]]** - Representative of the Coral Reef Republics assigned to liaise with the investigation team. She is helpful but defensive about implications that her government might be involved in the disappearance.
 
-**[[12_Research/D&D_References/Trade Captain Current]]** - Independent merchant captain familiar with regional waters and political dynamics. He provides practical knowledge about maritime conditions and commercial activities in the area.
+**[[Trade Captain Current]]** - Independent merchant captain familiar with regional waters and political dynamics. He provides practical knowledge about maritime conditions and commercial activities in the area.
 
-**[[12_Research/D&D_References/Neutral Observer Peace]]** - Representative from uninvolved regional power serving as neutral mediator. She helps facilitate communication between different parties and provides external perspective on political implications.
+**[[Neutral Observer Peace]]** - Representative from uninvolved regional power serving as neutral mediator. She helps facilitate communication between different parties and provides external perspective on political implications.
 
 ### Potential Suspects and Witnesses
 
-**[[12_Research/D&D_References/Pirate Captain Blacktide]]** - Notorious criminal leader operating in regional waters, who has both motive and capability for attacking diplomatic vessels but claims innocence in this case.
+**[[Pirate Captain Blacktide]]** - Notorious criminal leader operating in regional waters, who has both motive and capability for attacking diplomatic vessels but claims innocence in this case.
 
-**[[12_Research/D&D_References/Rival Merchant Prince Gold]]** - Competitor who would benefit from disrupted trade agreements, but whose involvement would be politically and economically risky if discovered.
+**[[Rival Merchant Prince Gold]]** - Competitor who would benefit from disrupted trade agreements, but whose involvement would be politically and economically risky if discovered.
 
 **[[Cultist Leader Depth]]** - Fanatic opposed to increased surface-underwater cooperation, leading organization capable of sabotage but typically focused on different types of targets.
 
 ### Missing Persons
 
-**[[12_Research/D&D_References/Admiral Diplomatic Envoy Thornwick]]** - Fleet commander and chief diplomatic representative, whose fate and any final messages could provide crucial clues about what happened to the expedition.
+**[[Admiral Diplomatic Envoy Thornwick]]** - Fleet commander and chief diplomatic representative, whose fate and any final messages could provide crucial clues about what happened to the expedition.
 
-**[[12_Research/D&D_References/Navigation Master Course]]** - Expert navigator whose knowledge of safe routes and dangerous areas could explain the fleet's disappearance or provide clues about unusual conditions.
+**[[Navigation Master Course]]** - Expert navigator whose knowledge of safe routes and dangerous areas could explain the fleet's disappearance or provide clues about unusual conditions.
 
-**[[12_Research/D&D_References/Trade Specialist Commerce]]** - Economic expert carrying detailed information about proposed trade agreements, whose survival could help salvage diplomatic progress despite the crisis.
+**[[Trade Specialist Commerce]]** - Economic expert carrying detailed information about proposed trade agreements, whose survival could help salvage diplomatic progress despite the crisis.
 
 ## Locations and Investigation Sites
 
@@ -150,7 +157,7 @@ The [[12_Research/D&D_References/Coral Reef Republics]] are becoming increasingl
 
 ### Secondary Locations
 
-**[[12_Research/D&D_References/Aethermoor]] Naval Base** - Military facility serving as investigation headquarters, providing resources, information, and coordination capabilities for the search operation.
+**[[Aethermoor]] Naval Base** - Military facility serving as investigation headquarters, providing resources, information, and coordination capabilities for the search operation.
 
 **Diplomatic Quarter** - Government district where political implications are being debated and managed, offering opportunities to gather intelligence about official responses and concerns.
 
@@ -214,7 +221,7 @@ The [[12_Research/D&D_References/Coral Reef Republics]] are becoming increasingl
 
 ### Scenario B: Pirate Attack
 
-**The Truth**: [[12_Research/D&D_References/Pirate Captain Blacktide]]'s organization attacked the fleet for ransom purposes, but the operation went wrong when magical defenses caused uncontrolled magical effects that scattered or destroyed both attackers and targets.
+**The Truth**: [[Pirate Captain Blacktide]]'s organization attacked the fleet for ransom purposes, but the operation went wrong when magical defenses caused uncontrolled magical effects that scattered or destroyed both attackers and targets.
 
 **Evidence**: Pirate equipment among debris, survivor accounts of attack, and eventual discovery of pirates also affected by magical backlash.
 
@@ -224,7 +231,7 @@ The [[12_Research/D&D_References/Coral Reef Republics]] are becoming increasingl
 
 ### Scenario C: Political Sabotage
 
-**The Truth**: [[12_Research/D&D_References/Rival Merchant Prince Gold]] orchestrated the fleet's disappearance through hired agents to prevent trade agreements that would damage his commercial interests, but underestimated the political implications of his actions.
+**The Truth**: [[Rival Merchant Prince Gold]] orchestrated the fleet's disappearance through hired agents to prevent trade agreements that would damage his commercial interests, but underestimated the political implications of his actions.
 
 **Evidence**: Financial records showing suspicious payments, agent confessions under pressure, and discovery of sabotage equipment or magical items used in the operation.
 
@@ -272,7 +279,7 @@ The [[12_Research/D&D_References/Coral Reef Republics]] are becoming increasingl
 
 ### Successful Resolution Rewards
 
-**Political Favor** - Permanent positive reputation with [[12_Research/D&D_References/Aethermoor]] government and allied powers, providing ongoing benefits for future diplomatic or political activities.
+**Political Favor** - Permanent positive reputation with [[Aethermoor]] government and allied powers, providing ongoing benefits for future diplomatic or political activities.
 
 **Naval Connections** - Relationships with maritime organizations, providing access to ships, crews, and naval resources for future adventures.
 
@@ -299,6 +306,27 @@ The [[12_Research/D&D_References/Coral Reef Republics]] are becoming increasingl
 **Future Opportunities** - Demonstrated competence leads to offers for additional diplomatic and investigation missions.
 
 **Alliance Formation** - Cooperation during crisis creates lasting relationships with multiple regional powers.
+
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
 
 ## DM Notes and Variations
 
@@ -349,7 +377,7 @@ Regardless of which scenario proves true, the investigation process creates oppo
 
 ## Connections
 
-- [[12_Research/D&D_References/Port Meridian]]
+- [[Port Meridian]]
 
 ## Player-Facing Summary
 
@@ -365,6 +393,27 @@ Legends speak of Quest   The Missing Fleet as a nexus where past and present con
 - An NPC seeks discreet help at Quest   The Missing Fleet to avert a public scandal.
 - A map overlay reveals a hidden approach to Quest   The Missing Fleet active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -374,8 +423,102 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[12_Research/D&D_Statblocks/Quest - The Missing Fleet]]
 
 <!-- enriched: true -->
-- [[12_Research/D&D_References/Aethermoor]]
+- [[Aethermoor]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Portraits_portrait-npc-agent-whisper-voidheart-agent-whisper-voidheart.svg]]
+- [[04_Resources_Assets_Locations_location-city-public-safety-v1-public-safety.svg]]
+- [[04_Resources_Assets_Locations_location-city-bubble-burst-v1-bubble-burst.svg]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+Quest - The Missing Fleet is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Quest - The Missing Fleet
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Quest - The Missing Fleet was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Quest - The Missing Fleet:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Quest - The Missing Fleet
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

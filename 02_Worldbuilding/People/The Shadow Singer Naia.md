@@ -1,27 +1,33 @@
 ---
+title: The Shadow Singer Naia
+type: Npc
+tags:
+- dream-servant
+- aquabyssos
+- status/complete
+- npc
+- sorrow-singer
+- deep-mother
+- content/npc
+- character
+- active
+- complete
+- world/aquabyssos
+- shadow-touched
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+race: Human (Shadow-Born)
+class: Unknown
+location: '[[Shadow Wells]] - The Echoing Chamber'
 affiliation: '[[The Sorrow Singers]] (Shadow Choir)'
 age: '26'
-created: '2025-08-09'
 created_by: auto-stub
-location: '[[Shadow Wells]] - The Echoing Chamber'
-race: Human (Shadow-Born)
 role: Deep Mother's Voice
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/npc
-- deep-mother
-- dream-servant
-- npc
-- shadow-touched
-- sorrow-singer
-- status/complete
-- world/aquabyssos
-type: Npc
 updated: '2025-08-13T12:34:17.604379+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -314,6 +320,136 @@ Naia's connection to the [[The Deep Mother]] grants her prophetic dreams:
 
 ---
 
+
+
+## Appearance
+
+The Shadow Singer Naia presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Cautious, creative, patient
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Finding purpose
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+The Shadow Singer Naia harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Divine mission
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Deep and resonant
+
+**Speech Pattern**: Formal and elaborate
+
+**Physical Habits**: Gestures expressively
+
+## Current Activities
+
+The Shadow Singer Naia is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: The Shadow Singer Naia needs assistance with a delicate matter
+2. **The Opposition**: Someone wants The Shadow Singer Naia stopped or removed
+3. **The Secret**: Information about The Shadow Singer Naia's past surfaces
+4. **The Alliance**: Opportunity to work with or against The Shadow Singer Naia
+5. **The Crisis**: The Shadow Singer Naia is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Perfect for emotionally heavy roleplaying scenes
 - Can provide healing services for traumatized party members
@@ -324,6 +460,14 @@ Naia's connection to the [[The Deep Mother]] grants her prophetic dreams:
 - **Social Role**: Bridge between worlds, translator of divine will, emotional counselor
 - **Plot Function**: Can provide exposition about Shard bearers' emotional states and motivations
 - **Power Balance**: Strong but focused on support and emotional effects rather than direct damage
+
+
+
+## Relationship Web
+
+- [[Abyssos Prime Government]]: *secret ally*
+- [[04_Resources_Assets_Portraits_portrait-npc-house-guard-captains-house-guard-captains.svg]]: *former lover*
+- [[04_Resources_Assets_Portraits_portrait-npc-lord-aldric-blackwater-lord-aldric-blackwater.svg]]: *mentor*
 
 ## Connections
 

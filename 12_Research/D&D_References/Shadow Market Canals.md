@@ -1,27 +1,34 @@
+# Shadow Market Canals
+
 ---
+title: Shadow Market Canals
+type: Location
 tags:
-- aquabyssos
-- black_market
-- canals
-- complete
-- criminal
-- location
-- smuggling
 - underground
+- aquabyssos
 - waterways
+- black_market
+- research
+- canals
+- active
+- location
+- complete
+- smuggling
+- criminal
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 security_level: high
 access: invitation_only
 danger_level: Moderate
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] View
@@ -578,3 +585,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Memory Thief]]
 - [[Reflection Pools - Surgical Theater]]
 - [[The Silent Watcher]]
+
+
+## Related
+
+*Links to related content will be added here.*

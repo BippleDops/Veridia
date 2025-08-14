@@ -1,19 +1,26 @@
+# Continental Connections Map
+
 ---
+title: Continental Connections Map
+type: Lore
 tags:
-- aquabyssos
-- complete
-- continental-connections
-- geography
-- inter-realm
 - lore
+- aquabyssos
+- inter-realm
+- continental-connections
+- research
 - map
+- geography
+- active
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -70,3 +77,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

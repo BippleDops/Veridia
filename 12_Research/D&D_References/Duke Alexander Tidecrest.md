@@ -1,14 +1,20 @@
+# Duke Alexander Tidecrest
+
 ---
+title: Duke Alexander Tidecrest
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:36.963662+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-duke-alexander-tidecrest-duke-alexander-tidecrest.svg]]
@@ -39,3 +45,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Duke Alexander Tidecrest|02 Worldbuilding/People/Duke Alexander Tidecrest]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

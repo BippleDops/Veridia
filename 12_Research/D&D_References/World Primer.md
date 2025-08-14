@@ -1,21 +1,27 @@
+# World Primer
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- lore
-- player-resource
-- player_resource
-- status/complete
-- world-guide
-- world/both
 title: World Primer - Player's Guide to Aquabyssos & Aethermoor
 type: Lore
+tags:
+- lore
+- both
+- world-guide
+- status/complete
+- content/lore
+- player-resource
+- world/both
+- research
+- active
+- complete
+- player_resource
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.933555+00:00'
 world: Both
 ---
+
 
 
 
@@ -424,3 +430,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Campaign_Index|Master Campaign Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

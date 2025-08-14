@@ -1,14 +1,20 @@
+# Bioluminescent Processing Centers
+
 ---
-tags:
-- active
-- aquabyssos
-- lore
+title: Bioluminescent Processing Centers
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- active
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.559438+00:00'
 ---
+
 
 
 

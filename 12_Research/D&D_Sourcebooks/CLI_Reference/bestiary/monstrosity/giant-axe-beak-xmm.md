@@ -1,27 +1,34 @@
+# giant-axe-beak-xmm
+
 ---
+title: giant axe beak xmm
 aliases:
 - Giant Axe Beak
+type: monster
+tags:
+- world/surface
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/size/huge
+- monster
+- ttrpg-cli/monster/cr/5
+- world/both
+- research
+- ttrpg-cli/monster/type/monstrosity
+- active
+- campaign/arc
+- status/in-progress
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- campaign/arc
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/monstrosity
-- world/both
-- world/surface
-type: monster
 updated: '2025-08-12T23:37:35.000228'
 world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -111,3 +118,8 @@ Legends speak of giant axe beak xmm as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

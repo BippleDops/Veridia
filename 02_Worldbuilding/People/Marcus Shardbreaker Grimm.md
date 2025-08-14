@@ -1,14 +1,21 @@
 ---
+title: Marcus Shardbreaker Grimm
+type: NPC
+tags:
+- character
+- both
+- active
+- npc
 created: null
+modified: '2025-08-14'
+status: active
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.613272+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 
 > [!figure] Portrait
@@ -62,6 +69,16 @@ A disgraced former Crystal Warden turned mercenary, Marcus gained his moniker af
 - **[[Master Artificer Korvin Gearwright]]**: Supplies his suppressants in exchange for field data
 - **Sister Morwyn Veilkeeper**: Warned him about his eventual fate if corruption continues
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Direct and concise
+
+**Physical Habits**: Remains perfectly still
+
 ## Current Activities
 - Hunting a crystal-infected cult in [[Port Meridian]]'s quarantine zone
 - Investigating reports of "living crystals" that move with purpose
@@ -95,6 +112,62 @@ A disgraced former Crystal Warden turned mercenary, Marcus gained his moniker af
 - "I've shattered men I called brothers. What's one more monster?"
 - "Every dawn I check the mirror. The day I don't recognize myself, I'm done."
 - "There's no cure, only delay. Make your time count."
+
+
+
+## Background
+
+Marcus Shardbreaker Grimm's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Motivations
+
+**Primary Goal**: Maintaining balance
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 Marcus represents the personal cost of the crystal corruption and serves as a morally grey ally. He's useful for introducing party members to the darker aspects of the crystal plague while providing a potential tragic figure who might need saving—or stopping—depending on how his corruption progresses. His connections span multiple factions, making him an excellent information broker and quest giver for mid-level threats.
@@ -130,3 +203,26 @@ Legends speak of Marcus Shardbreaker Grimm as a nexus where past and present con
 - [[Marcus Shardbreaker Grimm]]
 
 <!-- enriched: true -->
+
+
+
+
+## Relationship Web
+
+- [[The Crimson Sage]]: *informant*
+- [[04_Resources_Assets_Locations_location-city-quartermaster-david-simpleton-v1-quartermaster-david-simpleton.svg]]: *student*
+- [[Archon Meredith Saltweaver]]: *patron*
+- [[Archdruid Thornweaver]]: *student*
+
+## Connections
+
+### Home
+- [[04_Resources_Assets_Locations_location-city-surface-trade-ports-surface-trade-ports.svg]]
+
+### Affiliations
+- [[Parliament Guards]]
+
+### Known Associates
+- [[04_Resources_Assets_Locations_location-city-spymaster-crow-v1-spymaster-crow.svg]] (colleague)
+- [[The Siren's Mask]] (ally)
+- [[04_Resources_Assets_Portraits_portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]] (ally)

@@ -1,20 +1,25 @@
+# mounts-and-vehicles-tack-harness-and-drawn-vehicles-phb
+
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-- active
-- both
-- note
-- ttrpg-cli/compendium/src/5e/phb
+title: mounts and vehicles tack harness and drawn vehicles phb
 aliases:
 - Mounts and Vehicles; Tack, Harness, and Drawn Vehicles
 type: note
+tags:
+- both
+- ttrpg-cli/compendium/src/5e/phb
+- research
+- active
+- note
 created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+obsidianUIMode: preview
+cssclasses: json5e-note
 updated: '2025-08-13T01:18:31.645531+00:00'
 world: Both
-status: active
 ---
+
 
 # Mounts and Vehicles; Tack, Harness, and Drawn Vehicles
 *Source: Player's Handbook p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 
@@ -59,3 +64,8 @@ Legends speak of mounts and vehicles tack harness and drawn vehicles phb as a ne
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

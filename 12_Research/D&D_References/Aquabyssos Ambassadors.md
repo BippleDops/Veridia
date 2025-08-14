@@ -1,23 +1,31 @@
+# Aquabyssos Ambassadors
+
 ---
+title: Aquabyssos Ambassadors
+type: Lore
 tags:
-- ambassadors
+- lore
 - aquabyssos
-- both aethermoor and aquabyssos
-- both-aethermoor-and-aquabyssos
+- diplomatic-corps
 - completed
 - diplomacy
-- diplomatic-corps
 - faction
-- lore
-- politics
-- surface-relations
+- both-aethermoor-and-aquabyssos
+- research
+- active
 - underwater
+- ambassadors
+- politics
+- both aethermoor and aquabyssos
+- surface-relations
+created: '2025-08-09'
+modified: '2025-08-14'
 status: completed
-world: Both Aethermoor and Aquabyssos
-type: Lore
-danger_level: 4
 headquarters: '[[The Embassy Quarter|02 Worldbuilding/Places/The Embassy Quarter]]'
-parent_organization: '[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
+world: Both Aethermoor and Aquabyssos
+danger_level: 4
+parent_organization: '[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of
+  Echoes]]'
 leader: '[[Ambassador Korvin Blacktide|02 Worldbuilding/People/Ambassador Korvin Blacktide]]'
 specialties:
 - Inter-realm Diplomacy
@@ -25,13 +33,13 @@ specialties:
 - Trade Negotiation
 - Crisis Management
 founded: After the Great Drowning
-created: '2025-08-09'
 updated: '2025-08-13T01:18:34.530639+00:00'
 related_entities:
 - '[[Port Meridian|02 Worldbuilding/Places/Port Meridian]]'
 - '[[Aquabyssos-Aethermoor Treaties|02 Worldbuilding/Lore/Aquabyssos Aethermoor Treaties]]'
 - '[[Surface Syndicate|02 Worldbuilding/Groups/Surface Syndicate]]'
 ---
+
 
 
 
@@ -235,3 +243,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Aquabyssos-Aethermoor Treaties|02 Worldbuilding/Lore/Aquabyssos Aethermoor Treaties]]
+
+
+## Related
+
+*Links to related content will be added here.*

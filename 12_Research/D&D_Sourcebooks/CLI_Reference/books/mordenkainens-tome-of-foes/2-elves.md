@@ -1,20 +1,26 @@
+# 2-elves
+
 ---
+title: 2 elves
 aliases:
 - Elves
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- active
+- ttrpg-cli/compendium/src/5e/mtf
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/mtf
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.764630'
 world: Both
 ---
+
 
 # Elves
 *Source: Mordenkainen's Tome of Foes, p. 35* 
@@ -798,3 +804,8 @@ Legends speak of 2 elves as a nexus where past and present converge. Locals desc
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

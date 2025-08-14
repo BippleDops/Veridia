@@ -1,15 +1,21 @@
+# Wind Riders Union
+
 ---
+title: Wind Riders Union
+type: Lore
 tags:
-- active
-- aethermoor
 - lore
 - npc
-type: Lore
-world: Aethermoor
-status: active
+- research
+- active
+- aethermoor
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:35.495489+00:00'
 ---
+
 
 
 
@@ -47,3 +53,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Quest - Crystal Innovation]]
+
+
+## Related
+
+*Links to related content will be added here.*

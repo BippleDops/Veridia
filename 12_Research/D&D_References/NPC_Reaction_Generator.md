@@ -1,16 +1,23 @@
+# NPC_Reaction_Generator
+
 ---
-created: '2025-08-13'
-status: complete
+title: NPC Reaction Generator
+type: Tool
 tags:
-- gm-resources
+- generator
 - session-tools
 - npc
+- research
 - reactions
-- generator
-type: Tool
+- gm-resources
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
+
 
 # NPC Reaction Generator
 
@@ -204,3 +211,7 @@ When NPCs are affected by memory magic or Memory Pearls:
 - [[NPC_Reactions]]
 - [[Faction_Network_Tracker]]
 - [[Social_Encounter_Guidelines]]
+
+## Related
+
+*Links to related content will be added here.*

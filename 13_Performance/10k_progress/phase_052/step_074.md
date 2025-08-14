@@ -1,9 +1,16 @@
 ---
+title: step 074
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 52
 step: 74
 total_step: 5174
 ---
+
 
 # Phase 52 - Step 74
 

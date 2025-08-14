@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Echo Prime Cacophony Voidlungs
+type: Faction
 tags:
 - both
-- complete
 - content/faction
 - faction
-- status/in-progress
+- organization
 - world/both
-type: Faction
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.331915+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Heraldry
@@ -46,3 +53,8 @@ Legends speak of Echo Prime Cacophony Voidlungs as a nexus where past and presen
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Known Members
+
+- [[Quest - The Betrayers' Truth]]

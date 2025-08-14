@@ -1,25 +1,31 @@
+# Crystal Palace
+
 ---
+title: Crystal Palace
+type: Location
+tags:
+- aquabyssos
+- both
+- royal
+- crystal
+- research
+- active
+- location
+- palace
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+population: 500
 updated: '2025-08-13T01:18:36.344811+00:00'
 world: Both
 location_name: Crystal Palace
 location_type: Royal Residence
 depth: 800-1200 feet
-population: 500
 government: Absolute Monarchy
 ruler: Crystal Sovereign Prism-Heart
 danger_level: 8
-status: active
-type: Location
-tags:
-- active
-- aquabyssos
-- both
-- crystal
-- location
-- palace
-- royal
 ---
+
 
 
 > [!figure] View
@@ -248,3 +254,7 @@ The Crystal Palace represents the ultimate expression of magical architecture, w
 Emphasize the synesthetic quality of the palace—sounds have colors, lights have textures, and emotions leave visible trails in the crystal. Use the structure itself as an active participant in political intrigue, with walls that remember conversations and light patterns that reveal hidden truths.
 
 <!-- enriched: true -->
+
+## Related
+
+*Links to related content will be added here.*

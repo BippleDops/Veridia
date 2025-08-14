@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Race Against the Festival.png
+aliases:
+- Race Against the Festivalpng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Art/Lore/Race_Against_the_Festival.png
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Race Against the Festival]]
+- [[Race Against the Festival]]
 - [[02_Worldbuilding/Lore/Race Against the Festival]]
 
 ## Notes

@@ -1,14 +1,22 @@
+# Quest - Nature's Balance
+
 ---
+title: Quest   Nature's Balance
+type: Lore
 tags:
-- active
-- balance
+- lore
 - both
+- environmental
+- nature
 - both-realms
 - elemental
-- environmental
-- lore
-- nature
+- balance
 - quest
+- research
+- active
+created: '2025-08-08'
+modified: '2025-08-14'
+status: active
 quest_status: Available
 quest_priority: High
 quest_type: Main Quest
@@ -18,14 +26,12 @@ quest_giver: The Emerald Sage Willowbark
 rewards: Legendary Items, Realm Stability, Nature's Blessing
 time_limit: 30 days before irreversible damage
 created_by: system
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.495040+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
-status: active
-type: Lore
 ---
+
 
 
 

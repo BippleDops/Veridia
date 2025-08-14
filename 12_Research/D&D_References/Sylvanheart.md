@@ -1,20 +1,27 @@
+# Sylvanheart
+
 ---
+title: Sylvanheart
+type: Location
 tags:
-- aethermoor
-- city
 - completed
-- druidic
 - environmental
-- forest
-- forest-city
 - harmony
-- location
 - nature
 - sylvan
+- research
+- city
+- forest
+- forest-city
+- active
+- location
+- aethermoor
+- druidic
+created: '2025-08-09'
+modified: '2025-08-14'
 status: completed
-world: Aethermoor
-type: Location
 population: 180000
+world: Aethermoor
 government: Circle of Elders
 leader: '[[Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]]'
 specialties:
@@ -24,7 +31,6 @@ specialties:
 - Forest Protection
 founded: Time Immemorial
 climate: Temperate Forest
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 related_entities:
 - '[[The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]]'
@@ -32,6 +38,7 @@ related_entities:
 - '[[The Restoration Movement|02 Worldbuilding/Lore/The Restoration Movement]]'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-sylvanheart-sylvanheart.svg]]
@@ -397,3 +404,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Sylvanheart|02 Worldbuilding/Places/Sylvanheart]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

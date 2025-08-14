@@ -1,27 +1,34 @@
+# Quest - The Crown Reborn
+
 ---
+title: Quest   The Crown Reborn
+type: Lore
 tags:
-- aethermoor
-- complete
-- crown
-- epic
-- level-10-15
 - lore
-- major-campaign
-- quest
+- crown
 - seven-shards
+- quest
+- research
+- active
+- level-10-15
+- complete
+- epic
+- aethermoor
+- major-campaign
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 level_range: 10-15
 quest_type: Epic Campaign Arc
 estimated_sessions: 6-8
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.489566+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 
@@ -432,3 +439,8 @@ Legends speak of Quest   The Crown Reborn as a nexus where past and present conv
 ## Cross-References
 
 - [[The Crown's Burden|02 Worldbuilding/Quests/The Crown's Burden]]
+
+
+## Related
+
+*Links to related content will be added here.*

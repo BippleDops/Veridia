@@ -1,18 +1,25 @@
+# Crystal Plague Wards
+
 ---
+title: Crystal Plague Wards
+type: places
 tags:
 - aquabyssos
-- complete
-- crystal
-- medical
 - places
+- medical
 - plague
+- crystal
+- research
+- active
 - port-meridian
-type: places
-world: Aquabyssos
-status: complete
+- complete
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.368673+00:00'
 ---
+
 
 
 # Crystal Plague Wards
@@ -348,3 +355,7 @@ A wealthy merchant family is hiding a Stage 4 member in their private mansion, u
 - [[Black Market Crystal Trade]] - Economic aspects of the crisis
 
 <!-- enriched: true -->
+
+## Related
+
+*Links to related content will be added here.*

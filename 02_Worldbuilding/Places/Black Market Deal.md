@@ -1,29 +1,36 @@
 ---
+title: Black Market Deal
+type: Location
+tags:
+- aquabyssos
+- content/adventure
+- black_market
+- deal
+- intrigue
+- status/complete
+- aquatic
+- quest
+- content/location
+- place
+- active
+- location
+- complete
+- world/aquabyssos
+- shadow-touched
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Quest
 MyContainer: None
-created: '2025-08-12'
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
-status: complete
-tags:
-- quest
-- shadow-touched
-- aquatic
-- aquabyssos
-- black_market
-- complete
-- content/adventure
-- content/location
-- deal
-- intrigue
-- location
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.566995+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -177,6 +184,27 @@ Participation in black market activities can lead to:
 
 3. **The Double Agent**: A prominent citizen is using black market channels to secretly support an opposing faction, and the PCs must decide whether to expose them or protect their operation.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Use the Black Market Deal structure to:
@@ -189,7 +217,7 @@ Use the Black Market Deal structure to:
 
 ## Connections
 
-- [[12_Research/D&D_References/Pearl Harbor City]]
+- [[Pearl Harbor City]]
 
 ## Player-Facing Summary
 
@@ -201,10 +229,104 @@ Legends speak of Black Market Deal as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Black Market Deal]]
+- [[Black Market Deal]]
 
 <!-- enriched: true -->
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-nereidios-nereidios.svg]]
+- [[Traditional Elder Wisdom Keeper]]
+- [[Sacred Grief Protocols]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+Black Market Deal is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Black Market Deal
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Black Market Deal was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Black Market Deal:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Black Market Deal
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

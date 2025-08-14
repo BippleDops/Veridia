@@ -1,13 +1,22 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: The Crimson Fleet.md
+aliases:
+- The Crimson Fleetmd
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Groups/The Crimson Fleet.md
 
@@ -24,7 +33,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Merchants Guild]]
+- [[Merchants Guild]]
 
 ## Notes
 
@@ -35,3 +44,7 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[The Harmony Collective]]

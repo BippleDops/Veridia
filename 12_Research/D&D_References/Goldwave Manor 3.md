@@ -1,4 +1,27 @@
+# Goldwave Manor 3
+
 ---
+title: Goldwave Manor 3
+type: Location
+tags:
+- noble-house
+- status/complete
+- luxury
+- research
+- content/location
+- cross-realm-trade
+- manor
+- world/aethermoor
+- active
+- location
+- complete
+- financial-power
+- status/archived
+- aethermoor
+- merchant
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 access: By invitation only
 architecture: Crystal and Gold Fusion
 connected_locations:
@@ -6,7 +29,6 @@ connected_locations:
 - '[[The Royal Palace]]'
 - '[[Silverscale Banking House]]'
 - '[[The Shadow Markets]]'
-created: '2025-08-08'
 created_by: auto-stub
 current_state: Thriving financial hub
 danger_level: 1
@@ -28,34 +50,19 @@ services:
 - Diplomatic Hosting
 shadow_density: Low
 size: Large Estate
-status: complete
 sub_locations:
 - '[[Goldwave Private Offices]]'
 - '[[The Crystal Conservatory]]'
 - '[[Aurelius''s Private Study]]'
 - '[[The Vault of Currents]]'
 - '[[Goldwave Guest Quarters]]'
-tags:
-- aethermoor
-- complete
-- content/location
-- cross-realm-trade
-- financial-power
-- location
-- luxury
-- manor
-- merchant
-- noble-house
-- status/archived
-- status/complete
-- world/aethermoor
 temporal_stability: 95
-type: Location
 updated: '2025-08-13T12:34:29.458017+00:00'
 visited: false
 wealth_level: Extreme
 world: Aethermoor
 ---
+
 
 
 
@@ -172,3 +179,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[The Silverscale Conspiracy]]
 - [[Aethermoor - Session 03 Council of Shadows]]
+
+
+## Related
+
+*Links to related content will be added here.*

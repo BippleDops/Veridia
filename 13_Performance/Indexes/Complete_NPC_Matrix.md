@@ -1,16 +1,21 @@
 ---
-created: null
-obsidianUIMode: preview
-status: complete
+title: Complete NPC Matrix
+type: Lore
 tags:
-- content/npc
 - index
 - status/complete
+- report
 - world/both
-type: Lore
+- content/npc
+- active
+created: null
+modified: '2025-08-14'
+status: complete
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.013920'
 world: Universal
 ---
+
 
 
 # Complete NPC Matrix

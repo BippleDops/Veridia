@@ -1,32 +1,38 @@
 ---
+title: Nereidios
+type: Location
+tags:
+- both
+- world/surface
+- world/aquabyssos
+- quest
+- knowledge
+- content/location
+- world/both
+- place
+- scholars
+- active
+- combat
+- complete
+- horror
+- location
+- status/in-progress
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: ~500000
 MyCategory: Unknown
 MyContainer: None
-created: '2025-08-12'
 danger_level: High (Mental)
 depth_range: 500-2000 feet
 government: The Cognition Collective
 obsidianUIMode: preview
-population: ~500000
-status: complete
-tags:
-- combat
-- quest
-- crystal-enhanced
-- both
-- complete
-- content/location
-- horror
-- knowledge
-- location
-- scholars
-- status/in-progress
-- world/aquabyssos
-- world/both
-- world/surface
-type: Location
 updated: '2025-08-13T12:34:16.756134+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -160,16 +166,37 @@ The scholars discovered their reality is itself being written. The Infinite Arch
 
 ## Connections to Other Continents
 
-- **[[12_Research/D&D_References/Crystallium]]**: Share the Resonance Network for data transfer
-- **[[12_Research/D&D_References/Abyssos Prime]]**: Provide intelligence services to the Parliament
-- **[[12_Research/D&D_References/Memoriam]]**: Secret tunnel through forgotten knowledge
-- **[[12_Research/D&D_References/Vorthak]]**: Exchange temporal paradoxes for probability studies
+- **[[Crystallium]]**: Share the Resonance Network for data transfer
+- **[[Abyssos Prime]]**: Provide intelligence services to the Parliament
+- **[[Memoriam]]**: Secret tunnel through forgotten knowledge
+- **[[Vorthak]]**: Exchange temporal paradoxes for probability studies
 
 ## Notable Quotes
 
 > *"In Nereidios, forgetting is a luxury we can't afford, and remembering is a curse we can't escape."* - The Mothkeeper
 
 > *"We discovered the truth: every book is true somewhere, every story is real to someone, and every ending is just another beginning we haven't read yet."* - Unknown Scholar
+
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
 
 ## DM Notes
 
@@ -191,7 +218,7 @@ The scholars discovered their reality is itself being written. The Infinite Arch
 
 ## Connections
 
-- [[12_Research/D&D_References/Crystallium]]
+- [[Crystallium]]
 
 ## Player-Facing Summary
 
@@ -203,12 +230,93 @@ Legends speak of Nereidios as a nexus where past and present converge. Locals de
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Nereidios]]
+- [[Nereidios]]
 
 <!-- enriched: true -->
-- [[12_Research/D&D_References/Vorthak]]
-- [[12_Research/D&D_References/Memoriam]]
+- [[Vorthak]]
+- [[Memoriam]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[Memorial Tender Sarah]]
+- [[04_Resources_Assets_Portraits_portrait-npc-deep-fortress-network-deep-fortress-network.svg]]
+- [[Surface Loyalist Safe Houses]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+Nereidios is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Nereidios
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## History
+
+### Founding
+Nereidios was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Nereidios:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Nereidios
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

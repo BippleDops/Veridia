@@ -1,25 +1,32 @@
+# Shadow Wells
+
 ---
+title: Shadow Wells
+type: Location
 tags:
 - aquabyssos
-- complete
-- deep-mother
-- location
 - mysterious-sites
+- research
+- deep-mother
 - place
+- active
+- location
+- complete
 - shadow-manifestation
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
+population: Variable (Pilgrims and Researchers)
 world: Aquabyssos
-type: Location
 location_type: Shadow Manifestation Sites
 affiliation: '[[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] (Natural Phenomenon)'
 significance: Major (Deep Mother Activity)
 size: Multiple Sites Throughout Realm
-population: Variable (Pilgrims and Researchers)
 created_by: auto-stub
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-shadow-wells-shadow-wells.svg]]
@@ -312,3 +319,8 @@ Legends speak of Shadow Wells as a nexus where past and present converge. Locals
 - [[Shadow Wells|02 Worldbuilding/Places/Shadow Wells]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

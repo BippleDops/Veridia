@@ -1,3 +1,15 @@
+# horror_atmosphere_techniques
+
+---
+title: horror atmosphere techniques
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Horror Atmosphere Techniques
 
 ## Psychological Framework for Sustained Dread in TTRPGs
@@ -165,3 +177,7 @@ Effective horror atmosphere shows:
 - **Recovery Balance**: Horror balanced with relief and empowerment
 
 *Research methodology: Horror psychology studies, 89 horror campaign analysis, player stress response measurement*
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,23 @@
+# The Silent Watcher
+
 ---
+title: The Silent Watcher
+type: Location
 tags:
 - aquabyssos
 - both
-- complete
-- location
 - mysterious
-- observatory
-- sentinel
 - surveillance
+- sentinel
+- research
+- active
+- location
+- complete
+- observatory
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+population: 1
 location_name: The Silent Watcher Observatory
 location_type: Ancient Sentinel Complex
 parent_location: '[[Abyssos Prime]]'
@@ -18,9 +28,9 @@ sub_locations:
 - '[[Sentinel Archive Vaults]]'
 - '[[The Watcher''s Throne]]'
 depth: 3800-4100 feet
-population: 1
 government: Ancient Custodianship
-ruler: '[[02_Worldbuilding/People/The Silent Watcher Entity|02 Worldbuilding/People/The Silent Watcher Entity]]'
+ruler: '[[02_Worldbuilding/People/The Silent Watcher Entity|02 Worldbuilding/People/The
+  Silent Watcher Entity]]'
 factions:
 - '[[The Observers]]'
 - '[[Record Keepers]]'
@@ -35,22 +45,21 @@ services:
 - Threat Assessment
 - Temporal Observation
 notable_npcs:
-- '[[02_Worldbuilding/People/The Silent Watcher Entity|02 Worldbuilding/People/The Silent Watcher Entity]]'
+- '[[02_Worldbuilding/People/The Silent Watcher Entity|02 Worldbuilding/People/The
+  Silent Watcher Entity]]'
 - '[[Echo-Scribe Matthias]]'
 - '[[Observation Tender Clara]]'
 current_state: Active ancient surveillance
 temporal_stability: 90
 shadow_density: Minimal
 pressure_effects: Extreme
-status: complete
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-12T00:00:00+00:00'
-type: Location
 ---
+
 
 
 > [!figure] View
@@ -403,3 +412,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 - [[Abyssos Prime]]
+
+
+## Related
+
+*Links to related content will be added here.*

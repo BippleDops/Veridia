@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Abyssal Courts
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Abyssal Courts
 
@@ -24,14 +28,14 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Depth Accords]]
-- [[12_Research/D&D_References/The Depth Accords]]
-- [[12_Research/D&D_References/The Depth Accords]]
-- [[12_Research/D&D_References/The Depth Accords]]
-- [[12_Research/D&D_References/The Original Palace]]
-- [[12_Research/D&D_References/The Original Palace]]
-- [[12_Research/D&D_References/The Original Palace]]
-- [[12_Research/D&D_References/The Original Palace]]
+- [[The Depth Accords]]
+- [[The Depth Accords]]
+- [[The Depth Accords]]
+- [[The Depth Accords]]
+- [[The Original Palace]]
+- [[The Original Palace]]
+- [[The Original Palace]]
+- [[The Original Palace]]
 - [[02_Worldbuilding/Quests/The Depth Accords]]
 - [[02_Worldbuilding/Quests/The Depth Accords]]
 

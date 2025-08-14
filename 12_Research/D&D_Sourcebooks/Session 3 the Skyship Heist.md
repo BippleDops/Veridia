@@ -1,29 +1,36 @@
+# Session 3 the Skyship Heist
+
 ---
-adventure: Winds of Rebellion
-created: '2025-08-11'
-estimated_duration: 4-5 hours
-level_range: 4-6
-session_number: 3
-session_type: Heist & Aerial Infiltration
-status: complete
+title: Session 3 the Skyship Heist
+type: Adventure
 tags:
 - adventure
-- aethermoor
-- complete
 - content/adventure
 - levels-4-6
-- status/in-progress
+- research
 - world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+session_number: 3
+adventure: Winds of Rebellion
+estimated_duration: 4-5 hours
+level_range: 4-6
+session_type: Heist & Aerial Infiltration
 themes:
 - aerial-heist
 - stealth-infiltration
 - sky-vessel-combat
 - evidence-gathering
 - naval-politics
-type: Adventure
 updated: '2025-08-13T12:34:17.821676+00:00'
 world: Aethermoor
 ---
+
 
 
 

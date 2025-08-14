@@ -1,13 +1,18 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Aquabyssos World Overview#The Great Drowning
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
+- aquabyssos
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Aquabyssos World Overview#The Great Drowning
 
@@ -24,16 +29,16 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Ancient Mer-Folk Empire]]
-- [[12_Research/D&D_References/Ancient Mer-Folk Empire]]
-- [[12_Research/D&D_References/Order of the Drowned Star]]
-- [[12_Research/D&D_References/Order of the Drowned Star]]
-- [[12_Research/D&D_References/Cult of Screams]]
-- [[12_Research/D&D_References/Cult of Screams]]
-- [[12_Research/D&D_References/Merchant's Covenant]]
-- [[12_Research/D&D_References/Merchant's Covenant]]
-- [[12_Research/D&D_References/Temple of Divine Order]]
-- [[12_Research/D&D_References/Temple of Divine Order]]
+- [[Ancient Mer-Folk Empire]]
+- [[Ancient Mer-Folk Empire]]
+- [[Order of the Drowned Star]]
+- [[Order of the Drowned Star]]
+- [[Cult of Screams]]
+- [[Cult of Screams]]
+- [[Merchant's Covenant]]
+- [[Merchant's Covenant]]
+- [[Temple of Divine Order]]
+- [[Temple of Divine Order]]
 
 ## Notes
 

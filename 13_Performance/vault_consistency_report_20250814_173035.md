@@ -1,3 +1,13 @@
+---
+title: vault consistency report 20250814 173035
+type: report
+tags:
+- active
+- report
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Vault Consistency Review Report
 
 Generated: 2025-08-14T17:30:35.114005

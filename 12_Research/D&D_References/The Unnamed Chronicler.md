@@ -1,14 +1,20 @@
+# The Unnamed Chronicler
+
 ---
-tags:
-- active
-- aquabyssos
-- lore
+title: The Unnamed Chronicler
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- active
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.777936+00:00'
 ---
+
 
 
 

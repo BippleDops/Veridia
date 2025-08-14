@@ -1,23 +1,29 @@
 ---
-MyCategory: Unknown - Category/Group
-MyContainer: None
+title: Merchants Guild
 aliases: []
-created: '2025-07-23'
-modified: 2025-07-23 17:30
-obsidianUIMode: preview
-status: complete
+type: Faction
 tags:
 - both
-- complete
 - content/faction
 - faction
-- mercantile
-- status/in-progress
+- organization
 - world/both
-type: Faction
+- mercantile
+- active
+- complete
+- status/in-progress
+created: '2025-07-23'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
+MyCategory: Unknown - Category/Group
+MyContainer: None
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.459986+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Heraldry
@@ -34,7 +40,7 @@ The Merchants Guild is a powerful and influential guild that controls all of the
 
 ## GM Notes
 - The guild is led by a council of wealthy merchants, including Lady Seraphina Goldleaf.
-- The guild is a rival of the [[02_Worldbuilding/Groups/Thieves Guild.md|02 Worldbuilding/Groups/Thieves Guild.md]] and the [[The Crimson Fleet]].
+- The guild is a rival of the [[02_Worldbuilding/Groups/Thieves Guild.md|02 Worldbuilding/Groups/Thieves Guild]] and the [[The Crimson Fleet]].
 - The guild is a potential patron for the party, but they will expect a hefty price for their services.
 
 
@@ -65,3 +71,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Groups_Index|Master Groups Index]]
+
+
+## Known Members
+
+- [[The Azure Prophet Nerissa]]

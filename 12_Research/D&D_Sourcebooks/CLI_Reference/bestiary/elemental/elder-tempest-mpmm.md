@@ -1,29 +1,36 @@
+# elder-tempest-mpmm
+
 ---
+title: elder tempest mpmm
 aliases:
 - Elder Tempest
+type: monster
+tags:
+- ttrpg-cli/monster/environment/coastal
+- world/surface
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/cr/23
+- ttrpg-cli/monster/environment/mountain
+- monster
+- ttrpg-cli/monster/type/elemental
+- ttrpg-cli/compendium/src/5e/mpmm
+- world/both
+- research
+- active
+- campaign/arc
+- status/in-progress
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- campaign/arc
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/23
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/elemental
-- world/both
-- world/surface
-type: monster
 updated: '2025-08-12T23:37:35.425364'
 world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -143,3 +150,8 @@ Legends speak of elder tempest mpmm as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

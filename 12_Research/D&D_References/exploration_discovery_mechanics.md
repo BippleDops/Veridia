@@ -1,3 +1,15 @@
+# exploration_discovery_mechanics
+
+---
+title: exploration discovery mechanics
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Exploration Discovery Mechanics
 
 ## Systematic Frameworks for Meaningful Environmental Interaction
@@ -170,3 +182,7 @@ Effective exploration mechanics show:
 - **Collaborative Engagement**: Exploration encourages teamwork and discussion
 
 *Research methodology: Environmental psychology studies, 167 exploration encounter analyses, player discovery engagement measurement*
+
+## Related
+
+*Links to related content will be added here.*

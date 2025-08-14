@@ -1,26 +1,36 @@
 ---
-affiliation: '[[The Deep Mother]] (Direct Service)'
-age: Timeless (exists outside normal temporal flow)
-created: '2025-08-09'
-created_by: auto-stub
-location: '[[The Hadal Depths]] - Pressure Nexus Points'
-race: Pressure Angel (Divine Being)
-role: Pressure Angel
-status: complete
+title: Pressure Angel Benthia
+type: Npc
 tags:
 - aquabyssos
-- complete
-- content/npc
-- deep-mother
-- divine-servant
+- status/complete
 - guardian
 - npc
-- status/complete
+- deep-mother
+- content/npc
+- character
+- active
+- divine-servant
+- complete
 - world/aquabyssos
-type: Npc
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+race: Pressure Angel (Divine Being)
+class: Unknown
+location: '[[The Hadal Depths]] - Pressure Nexus Points'
+affiliation: '[[The Deep Mother]] (Direct Service)'
+age: Timeless (exists outside normal temporal flow)
+created_by: auto-stub
+role: Pressure Angel
 updated: '2025-08-13T12:34:17.513326+00:00'
 world: Aquabyssos
 ---
+
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.png)
+
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.png)
@@ -735,6 +745,147 @@ Benthia needs mortals to serve as her representatives in negotiations with surfa
 
 ---
 
+
+
+## Appearance
+
+Pressure Angel Benthia presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Curious, loyal, empathetic
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Background
+
+Pressure Angel Benthia's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Accumulating wealth
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Pressure Angel Benthia harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Double agent
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Casual and relaxed
+
+**Physical Habits**: Paces while speaking
+
+## Current Activities
+
+Pressure Angel Benthia is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Pressure Angel Benthia needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Pressure Angel Benthia stopped or removed
+3. **The Secret**: Information about Pressure Angel Benthia's past surfaces
+4. **The Alliance**: Opportunity to work with or against Pressure Angel Benthia
+5. **The Crisis**: Pressure Angel Benthia is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Perfect for high-stakes divine encounters and trials
 - Can serve as ultimate test of party's worthiness for deep secrets
@@ -746,6 +897,13 @@ Benthia needs mortals to serve as her representatives in negotiations with surfa
 - **Social Encounters**: Otherworldly perspective, speaks in cosmic concepts, demands absolute honesty
 - **Character Development**: Her trials should provide permanent character growth and spiritual insights
 - **Campaign Integration**: Her involvement signals cosmic-level consequences for party actions
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-navigator-captain-navigator.svg]]: *business partner*
+- [[Lord Erasmus Voidheart]]: *secret ally*
 
 ## Connections
 

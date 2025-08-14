@@ -1,15 +1,21 @@
+# Memory Extraction Device
+
 ---
+title: Memory Extraction Device
+type: Lore
 tags:
-- active
+- lore
 - aquabyssos
 - faction
-- lore
-type: Lore
-world: Aquabyssos
-status: active
+- research
+- active
 created: '2025-08-11T13:08:46.670338+00:00'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.540579+00:00'
 ---
+
 
 
 
@@ -37,3 +43,8 @@ Legends speak of Memory Extraction Device as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

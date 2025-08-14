@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Dr. Marina Gentlehand
+aliases:
+- Dr Marina Gentlehand
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Dr. Marina Gentlehand
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Shadow Surgery Network]]
+- [[Shadow Surgery Network]]
 - [[02_Worldbuilding/Places/Shadow Surgery Network]]
 
 ## Notes

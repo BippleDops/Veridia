@@ -1,31 +1,38 @@
+# Northgate
+
 ---
-tags:
-- aquabyssos
-- border-control
-- caravan-protection
-- complete
-- diplomacy
-- frontier
-- lore
-- quest
-- smuggling
-- trading
-- wilderness
-status: complete
-world: Aquabyssos
+title: Northgate
 type: Lore
+tags:
+- lore
+- aquabyssos
+- trading
+- caravan-protection
+- diplomacy
+- quest
+- research
+- active
+- border-control
+- complete
+- smuggling
+- frontier
+- wilderness
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 level: 3-7
+world: Aquabyssos
 duration: 4-6 sessions
 threat_level: medium
 quest_giver: Caravan Master Dolrim
 created_by: auto-stub
-created: '2025-08-08'
 last_modified: 2025-08-10 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:34.465666+00:00'
 ---
+
 
 
 
@@ -320,3 +327,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+
+
+## Related
+
+*Links to related content will be added here.*

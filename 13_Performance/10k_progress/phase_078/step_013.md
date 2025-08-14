@@ -1,9 +1,16 @@
 ---
+title: step 013
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 78
 step: 13
 total_step: 7713
 ---
+
 
 # Phase 78 - Step 13
 

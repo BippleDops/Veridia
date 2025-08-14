@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry minister truth darknes minister truth darknes.svg
+aliases:
+- symbol heraldry minister truth darknes minister truth darknessvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-minister-truth-darknes-minister-truth-darknes.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Minister Truth Darknes]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Minister Truth Darknes]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

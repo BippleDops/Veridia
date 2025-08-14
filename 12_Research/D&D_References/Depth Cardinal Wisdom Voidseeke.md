@@ -1,14 +1,20 @@
+# Depth Cardinal Wisdom Voidseeke
+
 ---
-tags:
-- active
-- both
-- group
+title: Depth Cardinal Wisdom Voidseeke
 type: Group
-world: Both
-status: active
+tags:
+- both
+- active
+- group
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.674251+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-depth-cardinal-wisdom-voidseeke-depth-cardinal-wisdom-voidseeke.svg]]
@@ -55,3 +61,8 @@ Legends speak of Depth Cardinal Wisdom Voidseeker 2 as a nexus where past and pr
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Shadow Silk Weavers Guil
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Groups/Shadow-Silk Weavers Guil
 
@@ -36,3 +43,7 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[04_Resources_Assets_Locations_location-city-innkeeper-marina-dreamwhisper-v1-innkeeper-marina-dreamwhisper.svg]]

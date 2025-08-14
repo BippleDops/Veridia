@@ -1,31 +1,37 @@
+# Ancient Mer-Folk Empire
+
 ---
-type: Group
-tags:
-- ancient
-- aquabyssos
-- aquatic-empire
-- complete
-- deep-sea-civilization
-- faction
-- group
-- mer-folk
+title: Ancient Mer Folk Empire
 aliases:
 - The Deep Kingdom
 - Aeridor Empire
 - Children of the Abyss
-world: Aquabyssos
+type: Group
+tags:
+- aquabyssos
+- deep-sea-civilization
+- aquatic-empire
+- faction
+- research
+- ancient
+- active
+- complete
+- mer-folk
+- group
 created: '2025-07-23'
-modified: 2025-08-10
-leader: Deep Lord Pelagios the Eternal
+modified: '2025-08-14'
+status: complete
 headquarters: The Sunken City of Aeridor
+world: Aquabyssos
+leader: Deep Lord Pelagios the Eternal
 alignment: Lawful Neutral
 power_level: Ancient Major Power
-status: complete
 MyContainer: Aquabyssos
 MyCategory: Ancient Civilization - Category/Group
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.607532+00:00'
 ---
+
 
 
 > [!figure] Heraldry
@@ -458,3 +464,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Enforcement Authority Charte]]
 - [[Vehicles - Aethermoor Airships Catalog]]
 - [[Border Territories]]
+
+
+## Related
+
+*Links to related content will be added here.*

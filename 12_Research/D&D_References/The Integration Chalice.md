@@ -1,14 +1,20 @@
+# The Integration Chalice
+
 ---
-tags:
-- active
-- both
-- lore
+title: The Integration Chalice
 type: Lore
-world: Both
-status: active
+tags:
+- lore
+- both
+- active
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:35.124208+00:00'
 ---
+
 
 
 
@@ -36,3 +42,8 @@ Legends speak of The Integration Chalice as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

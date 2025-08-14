@@ -1,30 +1,36 @@
 ---
-affiliation: '[[12_Research/D&D_References/The Deep Mother]] (Natural Phenomenon)'
+title: Shadow Wells
+type: Location
+tags:
+- aquabyssos
+- status/complete
+- quest
+- content/location
+- deep-mother
+- place
+- active
+- combat
+- complete
+- location
+- world/aquabyssos
+- shadow-manifestation
+- shadow-touched
+- crystal-enhanced
 created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Variable (Pilgrims and Researchers)
+affiliation: '[[The Deep Mother]] (Natural Phenomenon)'
 created_by: auto-stub
 danger_level: Moderate
 location_type: Shadow Manifestation Sites
-population: Variable (Pilgrims and Researchers)
 significance: Major (Deep Mother Activity)
 size: Multiple Sites Throughout Realm
-status: complete
-tags:
-- combat
-- quest
-- crystal-enhanced
-- shadow-touched
-- aquabyssos
-- complete
-- content/location
-- deep-mother
-- location
-- shadow-manifestation
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.917740+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -37,7 +43,7 @@ world: Aquabyssos
 
 ## Overview
 
-Shadow Wells are mysterious phenomena scattered throughout [[12_Research/D&D_References/Aquabyssos]], appearing as pools of absolute darkness from which emerge the [[12_Research/D&D_References/The Deep Mother]]'s nightmares and darker dreams. These sites serve as manifestation points where the sleeping goddess's unconscious anxieties, fears, and sorrows take physical form in the material world. Each Well represents a different aspect of cosmic dread, making them both fascinating research sites and extremely dangerous locations.
+Shadow Wells are mysterious phenomena scattered throughout [[Aquabyssos]], appearing as pools of absolute darkness from which emerge the [[The Deep Mother]]'s nightmares and darker dreams. These sites serve as manifestation points where the sleeping goddess's unconscious anxieties, fears, and sorrows take physical form in the material world. Each Well represents a different aspect of cosmic dread, making them both fascinating research sites and extremely dangerous locations.
 
 ## Nature & Properties
 
@@ -63,7 +69,7 @@ Shadow Wells are mysterious phenomena scattered throughout [[12_Research/D&D_Ref
 
 #### The Despair Depths
 
-**Location**: Deepest oceanic trenches near [[12_Research/D&D_References/The Hadal Depths]]  
+**Location**: Deepest oceanic trenches near [[The Hadal Depths]]  
 **Count**: ~50 Wells  
 **Manifestations**: Existential dread, cosmic loneliness, fear of meaninglessness
 - **The Void Well**: Largest Well producing entities of pure nihilism
@@ -137,7 +143,7 @@ Shadow Wells are mysterious phenomena scattered throughout [[12_Research/D&D_Ref
 
 #### The Drowning Fear
 
-- **Origin**: Well near [[12_Research/D&D_References/Parliament of Echoes]]
+- **Origin**: Well near [[Parliament of Echoes]]
 - **Nature**: Manifestation of society's fear of losing democracy
 - **Appearance**: Massive humanoid figure made of crushing water
 - **Behavior**: Appears during political crises, attempts to "drown" dissent
@@ -204,7 +210,7 @@ Shadow Wells are mysterious phenomena scattered throughout [[12_Research/D&D_Ref
 - **Belief**: Wells provide direct connection to sleeping goddess's mind
 - **Practices**: Meditation at Well edges, attempting communication with shadow entities
 - **Risks**: Frequent psychological casualties among unprepared pilgrims
-- **Guidance**: [[12_Research/D&D_References/Sister Thalassa the Depth-Touched]] provides spiritual counsel
+- **Guidance**: [[Sister Thalassa the Depth-Touched]] provides spiritual counsel
 - **Sacred Journey**: Multi-Well pilgrimage representing different aspects of divine sorrow
 
 ## Well Monitoring & Management
@@ -313,11 +319,32 @@ Shadow Wells are mysterious phenomena scattered throughout [[12_Research/D&D_Ref
 
 ## Connected Elements
 
-- Direct manifestations of [[12_Research/D&D_References/The Deep Mother]]'s unconscious mind
+- Direct manifestations of [[The Deep Mother]]'s unconscious mind
 - Source of materials and services for shadow-based magic and therapy
 - Location for [[12_Research/D&D_Statblocks/The Shadow Singer Naia]]'s spiritual work
-- Sites visited by [[12_Research/D&D_References/Sister Thalassa the Depth-Touched]] and other Deep Mother servants
+- Sites visited by [[Sister Thalassa the Depth-Touched]] and other Deep Mother servants
 - Research locations for studying cosmic psychology and fear manifestation
+
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
 
 ## DM Notes
 
@@ -340,14 +367,14 @@ Shadow Wells are mysterious phenomena scattered throughout [[12_Research/D&D_Ref
 ## Connections
 
 - [[12_Research/D&D_Statblocks/Crystal Wardens]]
-- [[12_Research/D&D_References/Deep Mother]]
-- [[12_Research/D&D_References/Discover Marina's Truth]]
-- [[12_Research/D&D_References/Environmental Hazards]]
-- [[12_Research/D&D_References/Initiative Tracker]]
+- [[Deep Mother]]
+- [[Discover Marina's Truth]]
+- [[Environmental Hazards]]
+- [[Initiative Tracker]]
 - [[12_Research/D&D_Statblocks/Random Encounters]]
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[12_Research/D&D_Statblocks/The Shadow Singer Naia]]
-- [[12_Research/D&D_References/Quest - Nature's Balance]]
+- [[Quest - Nature's Balance]]
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
@@ -366,7 +393,7 @@ Legends speak of Shadow Wells as a nexus where past and present converge. Locals
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Shadow Wells]]
+- [[Shadow Wells]]
 
 <!-- enriched: true -->
 
@@ -376,3 +403,97 @@ Legends speak of Shadow Wells as a nexus where past and present converge. Locals
 - [[02_Worldbuilding/Groups/Crystal Wardens]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-the-perfect-symbiosis-the-perfect-symbiosis.svg]]
+- [[Memory Crystal Archivist Nautilus Storykeeper]]
+- [[Senior Investigator Shadow Trackhound]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+Shadow Wells is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Shadow Wells
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Shadow Wells was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Shadow Wells:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Shadow Wells
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

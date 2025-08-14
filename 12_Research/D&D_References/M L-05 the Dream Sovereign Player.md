@@ -1,24 +1,29 @@
+# M L-05 the Dream Sovereign Player
+
 ---
-audience: player
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- campaign/session
-- complete
-- handout
-- lore
-- merger
-- status/complete
-- world/both
-title: Player Handout — M-L-05 The Dream Sovereign
+title: "Player Handout \u2014 M-L-05 The Dream Sovereign"
 type: Lore
-updated: '2025-08-13T12:34:32.381778+00:00'
+tags:
+- lore
+- both
+- status/complete
+- campaign/session
+- merger
+- handout
+- research
+- world/both
+- active
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+audience: player
+updated: 2025-08-13 07:59:50.468967
 world: Both
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.468967
 ---
+
 # The Dream Sovereign
 
 Sleep leans over everything. You can feel a question in the dark: Will you dream with me?
@@ -35,3 +40,8 @@ Possible outcomes
 - A boon you’ll never forget
 - A curse you can live with
 - A rule written in someone else’s dream
+
+
+## Related
+
+*Links to related content will be added here.*

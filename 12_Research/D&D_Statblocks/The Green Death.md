@@ -1,25 +1,32 @@
+# The Green Death
+
 ---
+title: The Green Death
+type: Lore
 tags:
 - available
-- both
-- combat
 - combat/exploration
-- corruption
+- both
 - lore
-- moral-choice
 - nature
+- moral-choice
 - quest
-level: 8-10
-type: Lore
+- research
+- active
+- combat
+- corruption
+created: '2025-08-11'
+modified: '2025-08-14'
 status: Available
+level: 8-10
 reward: Major - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:34.495825+00:00'
-created: '2025-08-11'
 ---
+
 
 
 
@@ -233,3 +240,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Goldspire Confederacy]]
 - [[Aether Crystals]]
+
+
+## Related
+
+*Links to related content will be added here.*

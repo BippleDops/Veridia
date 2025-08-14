@@ -1,19 +1,23 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Admiral Diplomatic Envoy Thornwick
+type: Lore
 tags:
-- quest
-- aethermoor
-- complete
+- lore
 - content/adventure
 - content/lore
-- lore
-- status/in-progress
+- quest
 - world/aethermoor
-type: Lore
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:15.903209+00:00'
 world: Aethermoor
 ---
+
 
 
 ## Overview

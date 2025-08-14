@@ -1,22 +1,28 @@
+# The Gilded Shard
+
 ---
+title: The Gilded Shard
+type: Location
 tags:
 - academy
-- aethermoor
-- complete
-- location
 - magic
 - research
+- active
+- location
+- complete
+- aethermoor
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Location
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-12T00:00:00+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -585,3 +591,8 @@ Legends speak of The Gilded Shard as a nexus where past and present converge. Lo
 - [[Memory Farmers]]
 - [[Parliament of Echoes]]
 - [[The Hadal Depths]]
+
+
+## Related
+
+*Links to related content will be added here.*

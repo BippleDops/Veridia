@@ -1,18 +1,24 @@
+# Political Compromise Costs
+
 ---
+title: Political Compromise Costs
+type: Lore
 tags:
-- active
+- lore
 - aquabyssos
 - compromise
-- governance
-- lore
+- research
+- active
 - moral-dilemmas
 - politics
-type: Lore
-world: Aquabyssos
-status: active
+- governance
 created: '2025-08-12'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.505228+00:00'
 ---
+
 
 
 # Political Compromise Costs
@@ -426,3 +432,8 @@ Political Compromise Costs is a undersea element of the setting, known for biolu
 Legends speak of Political Compromise Costs as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Political Compromise Costs.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

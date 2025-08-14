@@ -1,4 +1,20 @@
+# Mediator Stillwater
+
 ---
+title: Mediator Stillwater
+type: Location
+tags:
+- aquabyssos
+- status/complete
+- research
+- content/location
+- active
+- location
+- complete
+- world/aquabyssos
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 accessibility:
   content_warnings:
   - political coercion
@@ -11,20 +27,11 @@ accessibility:
   screen_reader_summary: Mediator Stillwater is a notable location in Aquabyssos shaped
     by tidal politics and Convergence anomalies. This entry is structured for fast
     table use.
-created: '2025-08-11'
 obsidianUIMode: preview
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/location
-- location
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.786781+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -93,3 +100,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Bathyal Palace]]
+
+
+## Related
+
+*Links to related content will be added here.*

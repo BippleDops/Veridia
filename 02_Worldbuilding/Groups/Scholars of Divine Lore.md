@@ -1,23 +1,30 @@
 ---
-created: '2025-08-12'
-created_by: claude
-status: complete
+title: Scholars of Divine Lore
+type: Faction
 tags:
 - both
-- complete
-- content/faction
-- deep-mother
-- faction
-- resistance
-- scholars
 - status/complete
-- world/aethermoor
-- world/aquabyssos
+- content/faction
+- faction
+- organization
 - world/both
-type: Faction
+- deep-mother
+- scholars
+- active
+- complete
+- world/aquabyssos
+- world/aethermoor
+- resistance
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
+created_by: claude
 updated: '2025-08-13T12:34:17.339140+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Heraldry
@@ -470,3 +477,9 @@ Legends speak of Scholars of Divine Lore as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Known Members
+
+- [[Quest - The Royal Treatment]]
+- [[04_Resources_Assets_Locations_location-city-captain-trawl-netcaster-captain-trawl-netcaster.svg]]

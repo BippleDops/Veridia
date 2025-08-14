@@ -1,19 +1,25 @@
+# The Seven Shards
+
 ---
+title: The Seven Shards
+type: Lore
 tags:
+- lore
+- both
+- research
 - active
 - artifact
-- both
 - divine
-- lore
 - shards
-type: Lore
-importance: Campaign-Defining
 created: '2024-12-20'
+modified: '2025-08-14'
+status: active
+importance: Campaign-Defining
 image: 04_Resources/Assets/Lore/seven_shards.jpg
 world: Both
 updated: '2025-08-13T01:18:34.945029+00:00'
-status: active
 ---
+
 
 
 

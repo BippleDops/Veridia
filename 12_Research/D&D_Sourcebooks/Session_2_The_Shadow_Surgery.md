@@ -1,3 +1,15 @@
+# Session_2_The_Shadow_Surgery
+
+---
+title: Session 2 The Shadow Surgery
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Session 2: The Shadow Surgery
 *The Shadow Conspiracy Campaign - Investigation Deepens*
 
@@ -350,3 +362,7 @@ LABEL[Evidence Collected: 12/20]
 ---
 
 *"The human mind is remarkably adaptable. With proper surgical intervention, even the most independent thinker can be made... cooperative."* - Dr. Umbral Voidheart
+
+## Related
+
+*Links to related content will be added here.*

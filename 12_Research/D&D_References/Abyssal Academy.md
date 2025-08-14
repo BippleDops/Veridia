@@ -1,18 +1,25 @@
+# Abyssal Academy
+
 ---
+title: Abyssal Academy
+type: Lore
 tags:
+- lore
 - academy
 - aquabyssos
 - completed
 - deep-lore
-- education
 - educational-institution
-- forbidden-knowledge
 - institution
+- research
+- active
+- education
 - location
-- lore
+- forbidden-knowledge
+created: '2025-08-09'
+modified: '2025-08-14'
 status: completed
 world: Aquabyssos
-type: Lore
 danger_level: 6
 parent_location: '[[Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]'
 government: '[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
@@ -23,13 +30,13 @@ specialties:
 - Aberrant Biology
 - Ancient History
 founded: Third Age of Aquabyssos
-created: '2025-08-09'
 updated: '2025-08-13T01:18:35.632835+00:00'
 related_entities:
 - '[[Deep Mother|02 Worldbuilding/Lore/Deep Mother]]'
 - '[[02_Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]'
 - '[[The Abyss Beneath Aquabyssos|02 Worldbuilding/Places/The Abyss Beneath Aquabyssos]]'
 ---
+
 
 
 
@@ -215,3 +222,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Convergence Point|02 Worldbuilding/Lore/Convergence Point]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Aethermoor Academy of Mystical Science
+type: Faction
 tags:
-- aethermoor
-- complete
 - content/faction
 - faction
-- status/in-progress
+- organization
 - world/aethermoor
-type: Faction
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.421910+00:00'
 world: Aethermoor
 ---
+
 
 
 ## Overview
@@ -52,3 +59,9 @@ Legends speak of Aethermoor Academy of Mystical Sciences 2 as a nexus where past
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Known Members
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-magical-component-manufacturers-guil-magical-component-manufacturers-guil.svg]]
+- [[Weaponsmith Captain Marcus Sharpedge]]

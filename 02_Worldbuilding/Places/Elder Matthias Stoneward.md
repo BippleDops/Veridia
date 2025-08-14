@@ -1,30 +1,37 @@
 ---
+title: Elder Matthias Stoneward
+type: Location
+tags:
+- dwarf
+- aerial
+- engineer
+- status/complete
+- quest
+- content/location
+- content/npc
+- place
+- world/aethermoor
+- active
+- elder
+- complete
+- location
+- stoneward
+- aethermoor
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: NPC
 MyContainer: None
-created: '2025-08-11'
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
-status: complete
-tags:
-- quest
-- crystal-enhanced
-- aerial
-- aethermoor
-- complete
-- content/location
-- content/npc
-- dwarf
-- elder
-- engineer
-- location
-- status/complete
-- stoneward
-- world/aethermoor
-type: Location
 updated: '2025-08-13T12:34:16.559062+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View
@@ -128,6 +135,27 @@ He's been conducting discrete investigations while maintaining his regular dutie
 2. The party needs access to restricted areas of Aethermoor, and Matthias can provide passage through maintenance tunnels in exchange for help with his investigation.
 3. A critical system failure threatens the island's stability, requiring the party to assist Matthias with dangerous repairs while avoiding those who might want the island to fall.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Matthias serves as a valuable source of information about Aethermoor's hidden areas and structural vulnerabilities. His engineering expertise can provide creative solutions to challenges or create dramatic scenarios involving the island's stability. Use his outsider perspective and growing suspicions to highlight the Silverscale Conspiracy's influence while providing a trustworthy ally for characters seeking to uncover the truth.
@@ -136,7 +164,7 @@ Matthias serves as a valuable source of information about Aethermoor's hidden ar
 ## Connections
 
 - [[12_Research/D&D_Statblocks/Captain Blackwater]]
-- [[12_Research/D&D_References/Captain Thaddeus Blackwater]]
+- [[Captain Thaddeus Blackwater]]
 
 
 ## History
@@ -184,7 +212,7 @@ Legends speak of Elder Matthias Stoneward as a nexus where past and present conv
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Elder Matthias Stoneward]]
+- [[Elder Matthias Stoneward]]
 
 <!-- enriched: true -->
 nriched: true -->
@@ -192,3 +220,85 @@ nriched: true -->
 
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-high-chancellor-nerissa-deepcurrent-high-chancellor-nerissa-deepcurrent.svg]]
+- [[04_Resources_Assets_Locations_location-city-regional-courts-regional-courts.svg]]
+- [[04_Resources_Assets_Locations_location-city-community-support-networks-community-support-networks.svg]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+Elder Matthias Stoneward is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Elder Matthias Stoneward
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Elder Matthias Stoneward:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Elder Matthias Stoneward
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

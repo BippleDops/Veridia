@@ -1,25 +1,31 @@
 ---
-affiliation: '[[The Depth Wardens]]'
-age: '34'
-created: '2025-08-11'
-created_by: auto-stub
-location: '[[The Hadal Depths]] - Mobile Command'
-race: Human (Depth-Touched)
-role: Naval Captain and Depth Explorer
-status: complete
+title: Captain Marina Saltborn
+type: Npc
 tags:
 - aquabyssos
-- captain
-- complete
-- content/npc
 - naval-officer
-- npc
 - status/complete
+- captain
+- npc
+- character
+- content/npc
+- active
+- complete
 - world/aquabyssos
-type: Npc
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Human (Depth-Touched)
+class: Unknown
+location: '[[The Hadal Depths]] - Mobile Command'
+affiliation: '[[The Depth Wardens]]'
+age: '34'
+created_by: auto-stub
+role: Naval Captain and Depth Explorer
 updated: '2025-08-13T12:34:17.541507+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -312,6 +318,15 @@ Captain Marina Saltborn commands the deepest patrol vessels in the [[Aquabyssos]
 - [[Memory Merchant Valeria Siltweave]]
 - [[The Depth Wardens]]
 
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-admiral-thalassa-stormcurrent-v1-admiral-thalassa-stormcurrent.svg]]: *informant*
+- [[The Northern Kingdoms]]: *childhood friend*
+- [[04_Resources_Assets_Symbols_symbol-heraldry-sister-benthos-scrollheart-sister-benthos-scrollheart.svg]]: *student*
+- [[Duke Sterling Truecrystal]]: *former lover*
+
 ## Connections
 
 - [[Ambush Point]]
@@ -331,6 +346,136 @@ Legends speak of Captain Marina Saltborn as a bridge between the surface world a
 - A rumor suggests Marina has discovered evidence of an ancient deep-sea civilization that could change everything known about Aquabyssos's history
 - An NPC seeks discrete help reaching Marina in the deepest trenches to warn her about a threat from the surface world
 - A map overlay reveals Marina's patrol routes align perfectly with mysterious disappearances, raising questions about her true loyalties
+
+
+
+## Personality
+
+**Traits**: Clever, patient, creative
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Background
+
+Captain Marina Saltborn's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Protecting loved ones
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Captain Marina Saltborn harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Stolen identity
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Formal and elaborate
+
+**Physical Habits**: Remains perfectly still
+
+## Current Activities
+
+Captain Marina Saltborn is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Captain Marina Saltborn needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Captain Marina Saltborn stopped or removed
+3. **The Secret**: Information about Captain Marina Saltborn's past surfaces
+4. **The Alliance**: Opportunity to work with or against Captain Marina Saltborn
+5. **The Crisis**: Captain Marina Saltborn is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 

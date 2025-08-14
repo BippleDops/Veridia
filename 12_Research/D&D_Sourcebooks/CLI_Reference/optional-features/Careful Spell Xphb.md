@@ -1,23 +1,28 @@
+# Careful Spell Xphb
+
 ---
+title: Careful Spell Xphb
 aliases:
 - Careful Spell
-created: 2025-07-23
-cssclasses: json5e-feat
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/optional-feature/mm
-- world/both
-type: note
+- ttrpg-cli/compendium/src/5e/xphb
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-feat
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:06.141200+00:00'
 world: Both
 ---
+
 
 
 # Careful Spell
@@ -44,3 +49,8 @@ Legends speak of careful spell xphb as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

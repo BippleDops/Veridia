@@ -1,19 +1,26 @@
+# Random Encounter Tables
+
 ---
+title: Random Encounter Tables
+type: Lore
 tags:
-- aquabyssos
-- campaign-tools
-- complete
-- encounters
 - lore
+- aquabyssos
+- encounters
+- campaign-tools
+- research
 - random-events
+- active
 - tables
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 

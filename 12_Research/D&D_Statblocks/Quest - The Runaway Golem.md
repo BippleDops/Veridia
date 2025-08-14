@@ -1,23 +1,30 @@
+# Quest - The Runaway Golem
+
 ---
+title: Quest   The Runaway Golem
+type: NPC
 tags:
-- aethermoor
-- complete
-- construct
-- golem
 - npc
 - quest
+- research
 - runaway
+- active
+- construct
+- complete
+- golem
+- aethermoor
+created: 2025-08-08 - Category/Quests
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: NPC
 created_by: auto-stub
-created: 2025-08-08 - Category/Quests
 MyContainer: None
 MyCategory: Magical
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.939009+00:00'
 cr: '5'
 ---
+
 
 
 > [!figure] Portrait
@@ -122,3 +129,8 @@ Legends speak of Quest   The Runaway Golem as a nexus where past and present con
 - [[Quest - The Runaway Golem|02 Worldbuilding/People/Quest The Runaway Golem]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,10 +1,29 @@
+# Aquabyssos - Session 03 - The Gallery Conspiracy
+
 ---
+title: The Gallery Conspiracy
+type: Lore
+tags:
+- lore
+- aquabyssos
+- parliament-shadows
+- identity-horror
+- campaign/session
+- world/aquabyssos
+- content/lore
+- research
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+session_number: 3
 MyCategory: Unknown
 MyContainer: None
 absent: []
 ap_gained: 3
 campaign: The Parliament of Shadows
-created: '2025-08-11'
 date: null
 depth: 1600
 duration_hours: 4
@@ -46,25 +65,12 @@ quests_started:
 - '[[Rescue Senator Glaucus]]'
 - '[[Investigate Shadow Surgeons]]'
 session: Session 03 Aquabyssos
-session_number: 3
 shadow_level_change: 1
-status: complete
-tags:
-- aquabyssos
-- campaign/session
-- complete
-- content/lore
-- identity-horror
-- lore
-- parliament-shadows
-- status/in-progress
-- world/aquabyssos
-title: The Gallery Conspiracy
-type: Lore
 updated: '2025-08-13T12:34:17.838153+00:00'
 world: Aquabyssos
 xp_awarded: 1100
 ---
+
 
 
 
@@ -429,3 +435,8 @@ This session's revelations connect to:
 
 - [[Memory Meadows Black Market]]
 - [[Party Quarters - Inverse Palace]]
+
+
+## Related
+
+*Links to related content will be added here.*

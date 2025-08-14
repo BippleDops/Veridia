@@ -1,14 +1,20 @@
+# Scholar-Priest Tidal-Memory
+
 ---
-tags:
-- active
-- aquabyssos
-- npc
+title: Scholar Priest Tidal Memory
 type: NPC
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.862327+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-scholar-priest-tidal-memory-scholar-priest-tidal-memory.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Restoration Movement]]
+
+
+## Related
+
+*Links to related content will be added here.*

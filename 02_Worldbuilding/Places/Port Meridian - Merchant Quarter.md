@@ -1,36 +1,41 @@
 ---
+title: Port Meridian   Merchant Quarter
+type: Location
+tags:
+- trading
+- district
+- status/complete
+- campaign/hook
+- commercial-district
+- bustling
+- content/location
+- place
+- world/aethermoor
+- active
+- location
+- draft
+- commercial
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: draft
+region: '[[The Azure Coast]]'
+population: 85000
 MyCategory: Unknown
 MyContainer: None
-created: '2025-08-11'
 danger_level: 4
 government: '[[Merchant Council of Port Meridian]]'
 leader: '[[Trade Master Silas Goldwater]]'
 obsidianUIMode: preview
 parent_location: '[[Port Meridian]]'
-population: 85000
-region: '[[The Azure Coast]]'
 specialties:
 - International Trade
 - Crystal Commerce
 - Information Brokerage
-status: draft
-tags:
-- aethermoor
-- bustling
-- campaign/hook
-- commercial
-- commercial-district
-- content/location
-- district
-- draft
-- location
-- status/complete
-- trading
-- world/aethermoor
-type: Location
 updated: '2025-08-13T12:34:17.256148+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View
@@ -535,6 +540,27 @@ Legends speak of Port Meridian   Merchant Quarter as a nexus where past and pres
 - An NPC seeks discreet help at Port Meridian   Merchant Quarter to avert a public scandal.
 - A map overlay reveals a hidden approach to Port Meridian   Merchant Quarter active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -547,3 +573,86 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Crystal Wardens]]
 - [[The Whisper Syndicate]]
 - [[Customs House]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-merchant-delilah-currentrunner-v1-merchant-delilah-currentrunner.svg]]
+- [[04_Resources_Assets_Locations_location-city-crimson-velocity-v1-crimson-velocity.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-blackwater-estate-blackwater-estate.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+Port Meridian - Merchant Quarter is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Port Meridian - Merchant Quarter
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Port Meridian - Merchant Quarter was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Port Meridian - Merchant Quarter
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Quest Giver
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Quest Giver
 
@@ -35,3 +41,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[High King Aurelius Skyborn]]
+- [[04_Resources_Assets_Locations_location-city-dr-marina-voidstudier-v1-dr-marina-voidstudier.svg]]
+- [[Umbral Crystal Miners]]
+- [[Sir Ruben Redtape]]
+- [[The Siren]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-law-enforcement-medical-support-v1-law-enforcement-medical-support.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-progressive-coalition-headquarters-v1-the-progressive-coalition-headquarters.svg]]
+- [[04_Resources_Assets_Locations_location-city-palace-artificers-v1-palace-artificers.svg]]

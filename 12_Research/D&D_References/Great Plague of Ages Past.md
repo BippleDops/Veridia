@@ -1,15 +1,21 @@
+# Great Plague of Ages Past
+
 ---
-tags:
-- active
-- both
-- location
+title: Great Plague of Ages Past
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:35.967029+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-great-plague-of-ages-past-great-plague-of-ages-past.svg]]
@@ -66,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Memoriam]]
+
+
+## Related
+
+*Links to related content will be added here.*

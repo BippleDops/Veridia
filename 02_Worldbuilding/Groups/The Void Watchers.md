@@ -1,30 +1,36 @@
 ---
-alignment: Lawful Neutral (Cosmic Perspective)
+title: The Void Watchers
+type: Faction
+tags:
+- guardians
+- status/complete
+- content/faction
+- faction
+- content/lore
+- organization
+- both aethermoor & aquabyssos
+- reality-protectors
+- active
+- void-watchers
+- complete
+- cross-realm
+- world/aethermoor
 created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Observatory Between]] (outside normal reality)'
+membership: Unknown
+alignment: Lawful Neutral (Cosmic Perspective)
 created_by: auto-stub
 faction_type: Reality Guardian Order
-headquarters: '[[The Observatory Between]] (outside normal reality)'
 influence: Hidden but Critical
 leader: '[[The First Watcher]] (ancient entity)'
 members: ~200 across both realms and beyond
 purpose: Prevent reality collapse and dimensional instability
-status: complete
-tags:
-- both aethermoor & aquabyssos
-- complete
-- content/faction
-- content/lore
-- cross-realm
-- faction
-- guardians
-- reality-protectors
-- status/complete
-- void-watchers
-- world/aethermoor
-type: Faction
 updated: '2025-08-13T12:34:17.327916+00:00'
 world: Both Aethermoor & Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry
@@ -481,3 +487,8 @@ Legends speak of The Void Watchers as a nexus where past and present converge. L
 
 - [[Master_Groups_Index|Master Groups Index]]
 - [[The Liminal Trading Company]]
+
+
+## Known Members
+
+- [[High King Aurelius Skyborn]]

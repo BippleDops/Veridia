@@ -1,25 +1,32 @@
+# Memory Harvester Kythara
+
 ---
+title: Memory Harvester Kythara
+type: NPC
 tags:
 - aquabyssos
-- complete
-- deep-mother
-- memory-farmer
-- npc
 - person
 - servant
+- npc
+- memory-farmer
+- research
+- deep-mother
+- active
+- complete
 - shadow-touched
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
+race: Human (Shadow-Touched)
+location: '[[Memory Meadows]] - The Harvesting Fields'
 world: Aquabyssos
-type: NPC
 role: Memory Harvester
 affiliation: '[[Memory Farmers]] & The Deep Mother''s Service'
 age: '42'
-race: Human (Shadow-Touched)
-location: '[[Memory Meadows]] - The Harvesting Fields'
 created_by: auto-stub
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -769,3 +776,8 @@ Legends speak of Memory Harvester Kythara as a nexus where past and present conv
 
 <!-- enriched: true -->
 - [[Memory Farmers]]
+
+
+## Related
+
+*Links to related content will be added here.*

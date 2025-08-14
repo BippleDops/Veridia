@@ -1,14 +1,20 @@
+# Crystal Corruption
+
 ---
-tags:
-- active
-- aethermoor
-- lore
+title: Crystal Corruption
 type: Lore
-world: Aethermoor
-status: active
+tags:
+- lore
+- aethermoor
+- active
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:35.884303+00:00'
 ---
+
 
 
 
@@ -40,3 +46,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Crystal Corruption|02 Worldbuilding/Places/Crystal Corruption]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

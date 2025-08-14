@@ -1,26 +1,32 @@
+# Ambush Point
+
 ---
+title: Ambush Point
 type: Lore
-status: complete
 tags:
-- combat
-- crystal-enhanced
-- shadow-touched
-- aquatic
-- ambush
+- lore
 - aquabyssos
+- resistance-movement
+- aquatic
+- worldbuilding
+- quest
+- tactical-warfare
+- ambush
+- active
+- combat
 - complete
 - guerrilla-tactics
-- lore
-- quest
-- resistance-movement
 - shadow-conspiracy
-- tactical-warfare
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 world: Aquabyssos
 level_range: 5-10
 quest_type: Tactical Combat & Resistance Operations
 estimated_sessions: 4-6
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.472845+00:00'
 MyContainer: None
 MyCategory: Unknown
@@ -28,29 +34,30 @@ obsidianUIMode: preview
 ---
 
 
+
 # Ambush Point
 
 **Type:** Tactical Combat/Resistance Operations/Guerrilla Warfare  
 **Level:** 5-10  
-**Location:** [[12_Research/D&D_References/Border Territories]], [[12_Research/D&D_References/Tradeway]], [[12_Research/D&D_Statblocks/Hidden Smuggler's Cove]]  
+**Location:** [[Border Territories]], [[Tradeway]], [[12_Research/D&D_Statblocks/Hidden Smuggler's Cove]]  
 **Duration:** 4-6 sessions  
 **Threat:** A critical supply convoy carrying Shadow Conspiracy resources must be stopped before it reaches its destination and strengthens enemy operations
 
-**Connected Locations:** [[12_Research/D&D_Statblocks/The Whispering Expanse]], [[12_Research/D&D_References/Shadow Market Canals]], [[12_Research/D&D_Statblocks/The Deepmind]]  
-**Related Groups:** [[12_Research/D&D_References/The Shadow Conspiracy]], [[12_Research/D&D_Statblocks/Crystal Wardens]], [[12_Research/D&D_References/The Purist Coalition]], [[12_Research/D&D_References/Depth Wardens]]  
-**Key Themes:** Tactical planning, [[12_Research/D&D_References/The Seven Shards]], guerrilla warfare, moral choices in conflict
+**Connected Locations:** [[12_Research/D&D_Statblocks/The Whispering Expanse]], [[Shadow Market Canals]], [[12_Research/D&D_Statblocks/The Deepmind]]  
+**Related Groups:** [[The Shadow Conspiracy]], [[12_Research/D&D_Statblocks/Crystal Wardens]], [[The Purist Coalition]], [[Depth Wardens]]  
+**Key Themes:** Tactical planning, [[The Seven Shards]], guerrilla warfare, moral choices in conflict
 
 ## Overview
 
-Intelligence reports indicate that [[12_Research/D&D_References/The Shadow Conspiracy]] is transporting a massive supply convoy through the [[12_Research/D&D_References/Border Territories]] - weapons, corrupted crystals, mind-control devices, and worst of all, a shipment of imprisoned citizens being taken to shadow replacement facilities. The convoy is too well-guarded for a direct assault, but there's a perfect ambush point where the [[12_Research/D&D_References/Tradeway]] passes through [[12_Research/D&D_References/Devil's Gorge]] - a narrow canyon where superior numbers mean little and tactical positioning means everything.
+Intelligence reports indicate that [[The Shadow Conspiracy]] is transporting a massive supply convoy through the [[Border Territories]] - weapons, corrupted crystals, mind-control devices, and worst of all, a shipment of imprisoned citizens being taken to shadow replacement facilities. The convoy is too well-guarded for a direct assault, but there's a perfect ambush point where the [[Tradeway]] passes through [[Devil's Gorge]] - a narrow canyon where superior numbers mean little and tactical positioning means everything.
 
 The party must organize, plan, and execute a precision strike that stops the convoy while minimizing casualties and preventing the Shadow Conspiracy from retaliating against innocent communities. But they'll discover that this "simple" ambush is part of a much larger conflict, and success here will mark them as primary targets for shadow retaliation.
 
 ## Background
 
-The [[12_Research/D&D_References/Shadow Conspiracy]] has been growing bolder in their operations, no longer content with subtle infiltration and replacement. This convoy represents their largest single movement of resources in decades - enough to establish permanent shadow strongholds in three major cities and begin mass population replacement.
+The [[Shadow Conspiracy]] has been growing bolder in their operations, no longer content with subtle infiltration and replacement. This convoy represents their largest single movement of resources in decades - enough to establish permanent shadow strongholds in three major cities and begin mass population replacement.
 
-[[12_Research/D&D_References/Captain Marina Saltborn]] intercepted communications about the convoy through her network of resistance contacts, but official military channels are compromised. The party represents the only force capable of independent action without alerting shadow agents embedded in the government.
+[[Captain Marina Saltborn]] intercepted communications about the convoy through her network of resistance contacts, but official military channels are compromised. The party represents the only force capable of independent action without alerting shadow agents embedded in the government.
 
 ### The Stakes
 
@@ -64,7 +71,7 @@ The [[12_Research/D&D_References/Shadow Conspiracy]] has been growing bolder in 
 ### Scene 1: The Resistance Contact
 
 **Location**: [[12_Research/D&D_Statblocks/Hidden Smuggler's Cove]]  
-**NPCs**: [[12_Research/D&D_References/Captain Marina Saltborn]], [[12_Research/D&D_References/Reef Saltwater]], Underground resistance cell
+**NPCs**: [[Captain Marina Saltborn]], [[Reef Saltwater]], Underground resistance cell
 
 The party is contacted by Captain Saltborn through intermediaries - she can't meet them directly due to shadow surveillance, but she has crucial intelligence about the convoy. The meeting takes place in a network of sea caves used by smugglers and resistance fighters.
 
@@ -73,7 +80,7 @@ The party is contacted by Captain Saltborn through intermediaries - she can't me
 - Guard complement of 60+ shadow agents and replaced soldiers
 - Three cargo ships carrying prisoners, weapons, and corrupted crystals
 - Route passes through Devil's Gorge in exactly 8 days
-- Convoy commander is [[12_Research/D&D_References/Shadow Admiral Vex]], a high-ranking replacement
+- Convoy commander is [[Shadow Admiral Vex]], a high-ranking replacement
 
 **Initial Challenges**:
 - **Trust Issues**: Resistance members test party loyalty and competence
@@ -83,7 +90,7 @@ The party is contacted by Captain Saltborn through intermediaries - she can't me
 
 ### Scene 2: Scouting Devil's Gorge
 
-**Location**: [[12_Research/D&D_References/Border Territories]] - Devil's Gorge  
+**Location**: [[Border Territories]] - Devil's Gorge  
 **Challenge Type**: Reconnaissance and tactical assessment
 
 The party must thoroughly scout the ambush site to understand the tactical situation and plan their assault. Devil's Gorge is a narrow underwater canyon with steep walls, strong currents, and multiple hiding spots.
@@ -511,7 +518,7 @@ This quest provides a masterclass in tactical planning and execution while explo
 
 ## Connections
 
-- [[12_Research/D&D_References/Aquabyssos]]
+- [[Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -533,12 +540,12 @@ Legends speak of Ambush Point as a nexus where past and present converge. Locals
 
 - [[Traveling Merchant Finn|02 Worldbuilding/Quests/Traveling Merchant Finn]]
 - [[12_Research/D&D_Statblocks/Crystal Wardens]]
-- [[12_Research/D&D_References/The Shadow Conspiracy]]
-- [[12_Research/D&D_References/The Seven Shards]]
-- [[12_Research/D&D_References/Shadow Conspiracy]]
-- [[12_Research/D&D_References/Depth Wardens]]
+- [[The Shadow Conspiracy]]
+- [[The Seven Shards]]
+- [[Shadow Conspiracy]]
+- [[Depth Wardens]]
 - [[12_Research/D&D_Statblocks/Hidden Smuggler's Cove]]
-- [[12_Research/D&D_References/Shadow Market Canals]]
+- [[Shadow Market Canals]]
 - [[12_Research/D&D_Statblocks/The Deepmind]]
 - [[12_Research/D&D_Statblocks/The Whispering Expanse]]
 - [[12_Research/D&D_Statblocks/Traveling Merchant Finn]]

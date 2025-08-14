@@ -1,45 +1,49 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- combat
-- crystal-enhanced
-- shadow-touched
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
+title: Environmental Hazards
 type: Lore
+tags:
+- lore
+- both
+- content/lore
+- world/both
+- active
+- combat
+- complete
+- status/in-progress
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.111506+00:00'
 world: Both
 ---
 
 
+
 ## Cross-References
 
-- [[12_Research/D&D_References/Temporal Navigation Hazards]]
+- [[Temporal Navigation Hazards]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Crystal Forest]]
-- [[12_Research/D&D_References/Crystal-Corruption-Tracking-Sheet]]
-- [[12_Research/D&D_References/Depth Effect Quick Reference]]
-- [[12_Research/D&D_References/Initiative Tracker]]
-- [[12_Research/D&D_References/Kraken Territories]]
-- [[12_Research/D&D_References/Multi-Phase Boss Fights]]
-- [[12_Research/D&D_References/Pressure Adaptation System]]
+- [[Crystal Forest]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Depth Effect Quick Reference]]
+- [[Initiative Tracker]]
+- [[Kraken Territories]]
+- [[Multi-Phase Boss Fights]]
+- [[Pressure Adaptation System]]
 - [[12_Research/D&D_Statblocks/Random Encounters]]
-- [[12_Research/D&D_References/Reality Merge Zones]]
-- [[12_Research/D&D_References/Silver Mask]]
-- [[12_Research/D&D_References/Temporal Anomaly Resolution]]
-- [[12_Research/D&D_References/Temporal Distortion Zones]]
-- [[12_Research/D&D_References/Temporal Navigation Hazards]]
-- [[12_Research/D&D_References/The Bloom Fields]]
-- [[12_Research/D&D_References/The Threshold]]
-- [[12_Research/D&D_References/Shadow Wells]]
+- [[Reality Merge Zones]]
+- [[Silver Mask]]
+- [[Temporal Anomaly Resolution]]
+- [[Temporal Distortion Zones]]
+- [[Temporal Navigation Hazards]]
+- [[The Bloom Fields]]
+- [[The Threshold]]
+- [[Shadow Wells]]
 
 ## Player-Facing Summary
 

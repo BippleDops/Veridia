@@ -1,6 +1,24 @@
+# detect-magic-xphb
+
 ---
+title: detect magic xphb
 aliases:
 - Detect Magic
+type: note
+tags:
+- access/secret
+- mechanics/magic
+- content/lore
+- world/both
+- research
+- active
+- campaign/arc
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
 classes:
 - Bard
 - Bard (College of Lore)
@@ -15,24 +33,12 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Diviner)
-created: 2025-07-23
 cssclasses: json5e-spell
-modified: 2025-07-23 12:39
 obsidianUIMode: preview
-status: active
-tags:
-- access/secret
-- campaign/arc
-- content/lore
-- mechanics/magic
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-- world/both
-type: note
 updated: '2025-08-12T23:37:36.444495'
 world: Both
 ---
+
 
 # Detect Magic
 *1st-level, Divination (ritual)*  
@@ -76,3 +82,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014|03 Mechanics/Rules Reference/Quick Reference/DnD5e DM Screen 2014]]
+
+
+## Related
+
+*Links to related content will be added here.*

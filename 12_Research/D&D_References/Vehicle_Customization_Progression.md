@@ -1,18 +1,24 @@
+# Vehicle_Customization_Progression
+
 ---
 title: Vehicle Customization & Progression
 type: mechanics
-status: complete
 tags:
-- both
-- complete
-- mechanics
 - progression
-- upgrades
+- both
+- mechanics
 - vehicles
+- research
+- active
+- upgrades
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:37.143885+00:00'
 world: Both
 ---
+
 
 
 
@@ -79,3 +85,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Crafting_Transcendence|Crafting Transcendence]]
 - [[Player_Handout_Aethermoor_Airships|Player Handout Aethermoor Airships]]
+
+
+## Related
+
+*Links to related content will be added here.*

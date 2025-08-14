@@ -1,20 +1,26 @@
+# Bestiary - Aquabyssos Creature Compendium
+
 ---
-tags:
-- active
-- aquabyssos
-- bestiary
-- homebrew
-- lore
-- monsters
-- stat-blocks
+title: Bestiary   Aquabyssos Creature Compendium
 type: Lore
+tags:
+- lore
+- aquabyssos
+- homebrew
+- bestiary
+- monsters
+- research
+- stat-blocks
+- active
+created: '2025-08-07'
+modified: '2025-08-14'
+status: active
 system: D&D 5e
 campaign: Aquabyssos
-created: '2025-08-07'
 world: Aquabyssos
 updated: '2025-08-13T01:18:37.138218+00:00'
-status: active
 ---
+
 
 
 
@@ -421,3 +427,8 @@ Legends speak of Aquabyssos Creature Compendium as a nexus where past and presen
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

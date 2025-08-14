@@ -1,17 +1,23 @@
+# 15 Chapter 13 the Amber Temple
+
 ---
-created: 2025-08-11
-status: active
+title: 15 Chapter 13 the Amber Temple
+type: Location
 tags:
-- active
 - both
+- research
+- world/both
 - content/location
+- active
 - location
 - status/in-progress
-- world/both
-type: Location
+created: 2025-08-11
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T12:34:04.944942+00:00'
 world: Both
 ---
+
 
 
 
@@ -35,3 +41,8 @@ Legends speak of 15 chapter 13 the amber temple as a nexus where past and presen
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

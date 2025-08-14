@@ -1,22 +1,32 @@
+# Sister Morwyn
+
 ---
+title: Sister Morwyn
+type: Location
 tags:
 - aquabyssos
 - both
-- complete
-- death
-- location
-- memory
 - temple
+- memory
+- research
+- death
+- active
+- location
+- complete
+created: 2025-08-11 - Category/Place
+modified: '2025-08-14'
+status: complete
+population: 50
 location_name: Sister Morwyn's Memorial Sanctuary
 location_type: Sacred Memorial Site
 parent_location: '[[Abyssos Prime]]'
 sub_locations:
-- '[[The Archive of Unremembered Things|02 Worldbuilding/Places/The Archive Of Unremembered Things]]'
+- '[[The Archive of Unremembered Things|02 Worldbuilding/Places/The Archive Of Unremembered
+  Things]]'
 - '[[The Memory Vaults|02 Worldbuilding/Lore/The Memory Vaults]]'
 - '[[Garden of Whispered Names]]'
 - '[[Hall of Final Echoes]]'
 depth: 2500-2800 feet
-population: 50
 government: Sacred Trust
 ruler: '[[Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister Morwyn Veilkeeper]]'
 factions:
@@ -40,15 +50,13 @@ current_state: Active memorial site
 temporal_stability: 95
 shadow_density: Low
 pressure_effects: Moderate
-status: complete
-created: 2025-08-11 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
-type: Location
 ---
+
 
 
 > [!figure] View
@@ -379,3 +387,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Harmony Collective]]
 - [[Abyssos Prime]]
 - [[Parliament of Echoes]]
+
+
+## Related
+
+*Links to related content will be added here.*

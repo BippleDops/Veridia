@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Crystal Navigation Tools
 type: item
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - item
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+rarity: Unknown
+value: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Items/Crystal Navigation Tools
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Crystal Caverns]]
+- [[Crystal Caverns]]
 - [[02_Worldbuilding/Places/Crystal Caverns]]
 
 ## Notes

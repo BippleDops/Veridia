@@ -1,22 +1,29 @@
+# Deep Mother Influence
+
 ---
+title: Deep Mother Influence
+type: Lore
 tags:
+- lore
 - aquabyssos
+- eldritch
+- religion
+- entities
+- deep-sea
+- research
+- active
+- influence
 - complete
 - corruption
-- deep-sea
-- eldritch
-- entities
-- influence
-- lore
-- religion
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 expanded: 2025-08-10
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -337,3 +344,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[The Transformed Citizens|02 Worldbuilding/Lore/The Transformed Citizens]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,18 +1,25 @@
+# Reality Anchor Network
+
 ---
+title: Reality Anchor Network
+type: Place
 tags:
+- reality-anchors
 - both worlds
 - both-worlds
-- complete
-- dimensional-stability
-- infrastructure
+- research
 - place
-- reality-anchors
-type: Place
-world: Both Worlds
-status: complete
+- active
+- complete
+- infrastructure
+- dimensional-stability
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Both Worlds
 updated: '2025-08-13T01:18:36.349777+00:00'
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-reality-anchor-network-reality-anchor-network.svg]]
@@ -378,3 +385,8 @@ Legends speak of Reality Anchor Network as a nexus where past and present conver
 - [[Reality Anchor Network|02 Worldbuilding/Places/Reality Anchor Network]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

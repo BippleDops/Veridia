@@ -1,16 +1,22 @@
+# Foreign Merchants
+
 ---
-tags:
-- active
-- aethermoor
-- complete
-- faction
-- lore
+title: Foreign Merchants
 type: Lore
-world: Aethermoor
-status: complete
+tags:
+- lore
+- faction
+- research
+- active
+- complete
+- aethermoor
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+world: Aethermoor
 updated: '2025-08-13T12:34:12.947638+00:00'
 ---
+
 
 
 
@@ -49,3 +55,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Crown Authority]]
+
+
+## Related
+
+*Links to related content will be added here.*

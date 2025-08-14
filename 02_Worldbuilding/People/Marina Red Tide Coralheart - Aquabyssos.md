@@ -1,32 +1,37 @@
 ---
+title: Marina Red Tide Coralheart   Aquabyssos
+type: Npc
+tags:
+- aquabyssos
+- ranger
+- status/complete
+- shadow-resistant
+- guide
+- npc
+- adapted
+- character
+- content/npc
+- active
+- complete
+- world/aquabyssos
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+race: Human (Depth-Adapted)
+class: Ranger/Druid
+location: '[[Abyssos Prime]]'
+level: 10
 MyCategory: Unknown
 MyContainer: None
 alignment: Neutral Good
-class: Ranger/Druid
-created: '2025-08-08'
 created_by: auto-stub
 faction: Independent (Former [[Depth Guard]])
-level: 10
-location: '[[Abyssos Prime]]'
 obsidianUIMode: preview
-race: Human (Depth-Adapted)
-status: complete
 status_condition: Switching with Shadow
-tags:
-- adapted
-- aquabyssos
-- complete
-- content/npc
-- guide
-- npc
-- ranger
-- shadow-resistant
-- status/complete
-- world/aquabyssos
-type: Npc
 updated: '2025-08-13T12:34:17.527797+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -172,6 +177,16 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[A
 - **[[Memory Farmers]]**: Want her unique memories
 - **Surface world**: Would see her as monster
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Direct and concise
+
+**Physical Habits**: Steeples fingers when thinking
+
 ## Current Activities
 
 ### Public Role
@@ -269,7 +284,13 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[A
 4. **The Third Option**: Find coexistence solution
 5. **Love Interest**: Complicated romance
 
-## Personality & Mannerisms
+## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more focused
+- **When Pleased**: Shows subtle satisfaction
+- **In Conflict**: Tends toward manipulation
+ & Mannerisms
 
 ### Marina (Original)
 - Laughs like bubbles rising
@@ -331,6 +352,78 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[A
 - Possible separation
 - Sacrifice potential
 
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Pursuing knowledge
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Marina Red Tide Coralheart - Aquabyssos harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Stolen identity
+
+
+
+## Plot Hooks
+
+1. **The Request**: Marina Red Tide Coralheart - Aquabyssos needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Marina Red Tide Coralheart - Aquabyssos stopped or removed
+3. **The Secret**: Information about Marina Red Tide Coralheart - Aquabyssos's past surfaces
+4. **The Alliance**: Opportunity to work with or against Marina Red Tide Coralheart - Aquabyssos
+5. **The Crisis**: Marina Red Tide Coralheart - Aquabyssos is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 
 ### Using Marina
@@ -388,6 +481,13 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[A
 
 *"In the depths, you learn that identity isn't about who you were—it's about who you choose to be when you could be anyone."*
 
+
+
+
+## Relationship Web
+
+- [[The Tidecaller]]: *student*
+- [[Captain Nerion Deepward]]: *mentor*
 
 ## Connections
 

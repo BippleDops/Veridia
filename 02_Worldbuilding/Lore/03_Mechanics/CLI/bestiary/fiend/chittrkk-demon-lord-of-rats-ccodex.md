@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: chittrkk demon lord of rats ccodex
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 03_Mechanics/CLI/bestiary/fiend/chittrkk-demon-lord-of-rats-ccodex
 
@@ -24,8 +28,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Bestiary - Custom Homebrew Monster]]
-- [[12_Research/D&D_References/Rules_Reference - Homebrew - Bestiary - Custom Homebrew Monster]]
+- [[Bestiary - Custom Homebrew Monster]]
+- [[Rules_Reference - Homebrew - Bestiary - Custom Homebrew Monster]]
 
 ## Notes
 

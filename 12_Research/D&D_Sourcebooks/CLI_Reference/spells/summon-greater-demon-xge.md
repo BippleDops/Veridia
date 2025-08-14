@@ -1,28 +1,34 @@
+# summon-greater-demon-xge
+
 ---
+title: summon greater demon xge
 aliases:
 - Summon Greater Demon
+type: note
+tags:
+- ttrpg-cli/compendium/src/5e/xge
+- mechanics/magic
+- research
+- world/both
+- active
+- campaign/arc
+- note
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
 classes:
 - Bard
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Warlock
 - Wizard
-created: 2025-07-23
 cssclasses: json5e-spell
-modified: 2025-07-23 12:39
 obsidianUIMode: preview
-status: active
-tags:
-- campaign/arc
-- mechanics/magic
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xge
-- world/both
-type: note
 updated: '2025-08-12T23:37:36.098433'
 world: Both
 ---
+
 
 # Summon Greater Demon
 *4th-level, Conjuration*  
@@ -66,3 +72,8 @@ Legends speak of summon greater demon xge as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

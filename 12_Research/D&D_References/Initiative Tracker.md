@@ -1,24 +1,31 @@
+# Initiative Tracker
+
 ---
+title: Initiative Tracker
+type: Lore
 tags:
-- both
-- both-realms
-- combat-management
-- combat-tools
-- complete
-- game-mechanics
-- initiative
 - lore
+- game-mechanics
+- both
+- combat-management
+- initiative
 - mechanics
+- both-realms
+- research
+- combat-tools
+- active
+- complete
 - turn-order
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Lore
 system: D&D 5e
 complexity: Intermediate
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:35.391357+00:00'
 ---
+
 
 
 > [!figure] Asset

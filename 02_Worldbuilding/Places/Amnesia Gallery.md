@@ -1,37 +1,44 @@
 ---
+title: Amnesia Gallery
+type: Location
+tags:
+- gallery
+- aquatic
+- content/location
+- entertainment
+- shadow-touched
+- session-notes
+- status/complete
+- mechanics/magic
+- quest
+- dangerous
+- combat
+- location
+- crystal-enhanced
+- complete
+- aquabyssos
+- memory
+- place
+- active
+- world/aquabyssos
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Memory Gallery
 MyContainer: None
 category: Entertainment/Gallery
-created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate-High
 depth: 800-1200 feet
 difficulty: Levels 3-8
 obsidianUIMode: preview
 owner: '[[12_Research/D&D_Statblocks/Keeper Elara Mindwell]]'
-status: complete
-tags:
-- combat
-- quest
-- session-notes
-- crystal-enhanced
-- shadow-touched
-- aquatic
-- aquabyssos
-- complete
-- content/location
-- dangerous
-- entertainment
-- gallery
-- location
-- mechanics/magic
-- memory
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.856563+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -44,19 +51,19 @@ world: Aquabyssos
 
 ## Overview
 
-The Amnesia Gallery stands as one of [[12_Research/D&D_References/Aquabyssos]]'s most enigmatic and dangerous cultural institutions—a floating exhibition space dedicated to the art of forgetting. Housed within a translucent crystalline sphere that drifts through the [[12_Research/D&D_References/Memory Depths]], this gallery displays memories that have been extracted, crystallized, and transformed into hauntingly beautiful artworks. 
+The Amnesia Gallery stands as one of [[Aquabyssos]]'s most enigmatic and dangerous cultural institutions—a floating exhibition space dedicated to the art of forgetting. Housed within a translucent crystalline sphere that drifts through the [[Memory Depths]], this gallery displays memories that have been extracted, crystallized, and transformed into hauntingly beautiful artworks. 
 
 Visitors come to experience memories that are not their own, to lose unwanted thoughts, or to witness the strange beauty that emerges when consciousness is given physical form. The gallery exists in a state of controlled temporal flux, where past, present, and future memories intermingle in displays that shift and evolve with each viewer's psyche.
 
-The establishment operates under the patronage of the [[02_Worldbuilding/Groups/The Memory Merchants Guild|02 Worldbuilding/Groups/The Memory Merchants Guild]], serving both as entertainment venue and research facility for the study of consciousness and temporal memory. However, beneath its artistic facade lies a deeper purpose: the systematic collection and cataloging of significant memories from across [[12_Research/D&D_References/Aquabyssos]] for unknown ends.
+The establishment operates under the patronage of the [[02_Worldbuilding/Groups/The Memory Merchants Guild|02 Worldbuilding/Groups/The Memory Merchants Guild]], serving both as entertainment venue and research facility for the study of consciousness and temporal memory. However, beneath its artistic facade lies a deeper purpose: the systematic collection and cataloging of significant memories from across [[Aquabyssos]] for unknown ends.
 
 ## Physical Description & Atmosphere
 
 ### Exterior Architecture
 
-The Amnesia Gallery floats within a massive hollow crystal sphere, approximately 300 feet in diameter, suspended in the twilight depths of the [[12_Research/D&D_References/Memory Depths]] region. The crystal walls are semi-translucent, allowing glimpses of the swirling exhibitions within while filtering the deep-sea bioluminescence into an ethereal, ever-changing light show. Tendrils of crystallized thought energy spiral around the exterior, creating anchor points where smaller viewing pods and research laboratories attach like metallic barnacles.
+The Amnesia Gallery floats within a massive hollow crystal sphere, approximately 300 feet in diameter, suspended in the twilight depths of the [[Memory Depths]] region. The crystal walls are semi-translucent, allowing glimpses of the swirling exhibitions within while filtering the deep-sea bioluminescence into an ethereal, ever-changing light show. Tendrils of crystallized thought energy spiral around the exterior, creating anchor points where smaller viewing pods and research laboratories attach like metallic barnacles.
 
-The sphere's surface is carved with flowing script in the ancient [[12_Research/D&D_References/Deep Script]] language, forming memory-binding runes that prevent the exhibitions from escaping or contaminating visitors' minds. At night, these runes pulse with soft silver light, making the entire structure visible from miles away in the abyssal depths.
+The sphere's surface is carved with flowing script in the ancient [[Deep Script]] language, forming memory-binding runes that prevent the exhibitions from escaping or contaminating visitors' minds. At night, these runes pulse with soft silver light, making the entire structure visible from miles away in the abyssal depths.
 
 ### Interior Layout
 
@@ -78,7 +85,7 @@ The gallery space itself defies conventional architecture, with exhibition areas
 
 #### Reception Abyss
 
-The gallery's main entrance features a circular reception desk staffed by [[12_Research/D&D_References/Memory Attendants]]—beings whose faces constantly shift between different identities they've absorbed. The walls display a rotating preview of current exhibitions, while the ceiling shows a live feed of memories being processed in the extraction laboratories above.
+The gallery's main entrance features a circular reception desk staffed by [[Memory Attendants]]—beings whose faces constantly shift between different identities they've absorbed. The walls display a rotating preview of current exhibitions, while the ceiling shows a live feed of memories being processed in the extraction laboratories above.
 
 **Services Available:**
 - Exhibition tickets (Standard: 25 gp, Premium: 75 gp, Exclusive: 200 gp)
@@ -126,7 +133,7 @@ A more intimate space featuring personal memories donated by citizens:
 #### The Nightmare Alcove
 
 A restricted section displaying traumatic memories, heavily regulated:
-- Requires special permit from [[12_Research/D&D_References/The Memory Wardens]]
+- Requires special permit from [[The Memory Wardens]]
 - Visitors must pass psychological evaluation
 - Constant monitoring by trained psychic healers
 - Features memories of war, loss, and existential horror
@@ -375,7 +382,7 @@ A virulent memory has escaped containment and is spreading through visitors, gra
 
 ### The Consciousness Heist (Levels 12-15)
 
-Someone has stolen the complete memory archive of a legendary hero, intending to resurrect them by implanting their consciousness into a new body. The party must navigate complex moral questions about identity and death while stopping a scheme that could destabilize the balance of power in [[12_Research/D&D_References/Aquabyssos]].
+Someone has stolen the complete memory archive of a legendary hero, intending to resurrect them by implanting their consciousness into a new body. The party must navigate complex moral questions about identity and death while stopping a scheme that could destabilize the balance of power in [[Aquabyssos]].
 
 **Key Elements**:
 - High-stakes infiltration of heavily secured areas
@@ -399,19 +406,19 @@ The gallery's Collective Consciousness Chamber has begun spontaneously creating 
 
 - **[[12_Research/D&D_Statblocks/The Deepmind]]**: May be secretly influencing or drawing from the gallery's archives
 - **[[02_Worldbuilding/Groups/The Memory Merchants Guild|02 Worldbuilding/Groups/The Memory Merchants Guild]]**: Primary patrons and oversight organization
-- **[[12_Research/D&D_References/The Phosphor Markets]]**: Memories are traded here as commodities
-- **[[12_Research/D&D_References/Parliament of Echoes]]**: Politicians may use the gallery to manipulate public memory
+- **[[The Phosphor Markets]]**: Memories are traded here as commodities
+- **[[Parliament of Echoes]]**: Politicians may use the gallery to manipulate public memory
 
 ### Indirect Connections
 
 - **[[12_Research/D&D_Statblocks/Scholar Vivienne the Chronicler]]**: Potential researcher or consultant
 - **[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Competing repository of knowledge and memories
-- **[[12_Research/D&D_References/Abyssos Prime]]**: Many visitors and donors come from the capital
-- **[[12_Research/D&D_References/Memory Meadows]]**: Natural memory phenomenon that may supply raw materials
+- **[[Abyssos Prime]]**: Many visitors and donors come from the capital
+- **[[Memory Meadows]]**: Natural memory phenomenon that may supply raw materials
 
 ### Regional Impact
 
-The Amnesia Gallery serves as a cultural and research hub for memory-related activities throughout [[12_Research/D&D_References/Aquabyssos]]. Its influence extends into:
+The Amnesia Gallery serves as a cultural and research hub for memory-related activities throughout [[Aquabyssos]]. Its influence extends into:
 - **Educational Institutions**: Providing memory-based learning experiences
 - **Legal System**: Memories as evidence in court proceedings
 - **Medical Field**: Therapeutic applications for trauma and mental illness
@@ -424,7 +431,7 @@ The Amnesia Gallery serves as a cultural and research hub for memory-related act
 
 ## Connections
 
-- [[12_Research/D&D_References/Aquabyssos - Session 02 - The Parliament's Paradox]]
+- [[Aquabyssos - Session 02 - The Parliament's Paradox]]
 
 ## Player-Facing Summary
 
@@ -434,24 +441,139 @@ Amnesia Gallery is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Amnesia Gallery as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Amnesia Gallery.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Amnesia Gallery]]
+- [[Amnesia Gallery]]
 
 <!-- enriched: true -->
 - [[12_Research/D&D_Statblocks/Scholar Vivienne the Chronicler]]
-- [[12_Research/D&D_References/Abyssos Prime]]
+- [[Abyssos Prime]]
 - [[12_Research/D&D_Statblocks/Keeper Elara Mindwell]]
-- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[Parliament of Echoes]]
 - [[12_Research/D&D_Statblocks/The Deepmind]]
-- [[12_Research/D&D_References/The Phosphor Markets]]
-- [[12_Research/D&D_References/The Sunken Library of Thalassius]]
+- [[The Phosphor Markets]]
+- [[The Sunken Library of Thalassius]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
+
+
+## Notable Residents
+
+- [[Quest - Syndicate Shadows]]
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-wandering-prophet-coral-stormrider-v1-wandering-prophet-coral-stormrider.svg]]
+- [[Chancellor Octavius]]
+- [[04_Resources_Assets_Locations_location-city-chronos-tidekeep-v1-chronos-tidekeep.svg]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+Amnesia Gallery is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Amnesia Gallery
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Amnesia Gallery was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Amnesia Gallery:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Amnesia Gallery
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

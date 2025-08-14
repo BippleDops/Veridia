@@ -1,14 +1,20 @@
+# Border Castles
+
 ---
-tags:
-- active
-- aethermoor
-- group
+title: Border Castles
 type: Group
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- group
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.658909+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-border-castles-border-castles.svg]]
@@ -65,3 +71,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Crown]]
+
+
+## Related
+
+*Links to related content will be added here.*

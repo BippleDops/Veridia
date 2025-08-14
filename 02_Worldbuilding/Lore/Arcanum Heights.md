@@ -1,42 +1,45 @@
 ---
+title: Arcanum Heights
+type: Lore
+tags:
+- lore
+- aerial
+- status/complete
+- academia
+- mechanics/magic
+- aquatic
+- quest
+- content/lore
+- content/location
+- tower-district
+- world/aethermoor
+- active
+- draft
+- heights
+- aethermoor
+- crystal-enhanced
 created: '2025-08-09'
+modified: '2025-08-14'
+status: draft
+population: 12000
 danger_level: 5
 elevation: Upper Crystal Spires
 founded: Early Crystal Age
-government: '[[12_Research/D&D_References/Crystalhaven]]
-  Council of Mages'
-parent_location: '[[12_Research/D&D_References/Crystalhaven]]'
-population: 12000
+government: '[[Crystalhaven]] Council of Mages'
+parent_location: '[[Crystalhaven]]'
 related_entities:
 - '[[12_Research/D&D_Statblocks/Professor Aldric Crystalweaver]]'
 - '[[12_Research/D&D_Statblocks/Crystal Gardens]]'
-- '[[12_Research/D&D_References/Abyssal Academy]]'
+- '[[Abyssal Academy]]'
 specialties:
 - Advanced Magic Research
 - Artifact Creation
 - Planar Studies
 - Elemental Manipulation
-status: draft
-tags:
-- quest
-- crystal-enhanced
-- aerial
-- aquatic
-- academia
-- aethermoor
-- content/location
-- content/lore
-- draft
-- heights
-- lore
-- mechanics/magic
-- status/complete
-- tower-district
-- world/aethermoor
-type: Lore
 updated: '2025-08-13T12:34:16.294391+00:00'
 world: Aethermoor
 ---
+
 
 
 # Arcanum Heights
@@ -45,7 +48,7 @@ world: Aethermoor
 
 ## Overview
 
-Suspended high above [[12_Research/D&D_References/Crystalhaven]] on crystally-powered levitation platforms, Arcanum Heights represents the pinnacle of magical achievement in [[12_Research/D&D_References/Aethermoor]]. This district of floating towers, aerial bridges, and gravity-defying gardens serves as the premier magical research and education center for the surface world, rivaling even the infamous [[12_Research/D&D_References/Abyssal Academy]] in the depths of [[12_Research/D&D_References/Aquabyssos]].
+Suspended high above [[Crystalhaven]] on crystally-powered levitation platforms, Arcanum Heights represents the pinnacle of magical achievement in [[Aethermoor]]. This district of floating towers, aerial bridges, and gravity-defying gardens serves as the premier magical research and education center for the surface world, rivaling even the infamous [[Abyssal Academy]] in the depths of [[Aquabyssos]].
 
 The Heights house the most advanced magical practitioners, dangerous experimental facilities, and the largest collection of pre-[[The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]] magical knowledge remaining on the surface. Here, crystal-powered enchantments push the boundaries of what many consider possible, creating both wonders and catastrophes in equal measure.
 
@@ -124,7 +127,7 @@ Seven major towers hover at different altitudes above Crystalhaven, each dedicat
 
 ### Dangerous Research Projects
 
-**Project Convergence**: Attempting to replicate [[12_Research/D&D_References/Convergence Point]] phenomena
+**Project Convergence**: Attempting to replicate [[Convergence Point]] phenomena
 **The Weather Engine**: Large-scale climate modification experiments
 **Dimensional Gateway Research**: Creating stable portals to other planes
 **Consciousness Transfer Studies**: Moving minds between bodies and constructs
@@ -160,8 +163,8 @@ Students and faculty can access:
 ### The Convergence Observatory
 
 *Facility studying connections between realms*
-- Monitors magical flux between [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]]
-- Contains communication array for contacting [[12_Research/D&D_References/Abyssal Academy]]
+- Monitors magical flux between [[Aethermoor]] and [[Aquabyssos]]
+- Contains communication array for contacting [[Abyssal Academy]]
 - Research into [[The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]] magical causes
 - Potential source of warnings about dimensional instabilities
 
@@ -223,17 +226,17 @@ Recent experiments have produced concerning results:
 
 ### Academic Rivalries
 
-**Surface vs. Deep Knowledge**: Tension between Heights and [[12_Research/D&D_References/Abyssal Academy]]
+**Surface vs. Deep Knowledge**: Tension between Heights and [[Abyssal Academy]]
 **Traditional vs. Innovation**: Conservative faculty resist experimental approaches
 **Resource Competition**: Limited funding creates conflicts between departments
 **Publication Disputes**: Competing claims over magical discoveries
 
 ### Political Pressures
 
-- [[12_Research/D&D_References/Crystalhaven]] government wants militarily useful research
+- [[Crystalhaven]] government wants militarily useful research
 - Other cities demand access to Heights discoveries
 - International pressure over dangerous experimental programs
-- [[12_Research/D&D_References/Purist Coalition]] infiltration attempts
+- [[Purist Coalition]] infiltration attempts
 
 ## Quest Hooks
 
@@ -242,7 +245,7 @@ Recent experiments have produced concerning results:
 3. **The Artifact Heist**: Thieves steal dangerous magical items from the vault
 4. **The Academic Sabotage**: Someone is causing magical accidents to discredit the Heights
 5. **The Ethical Investigation**: Characters investigate reports of illegal magical experimentation
-6. **The Diplomatic Mission**: Negotiate academic exchange program with [[12_Research/D&D_References/Abyssal Academy]]
+6. **The Diplomatic Mission**: Negotiate academic exchange program with [[Abyssal Academy]]
 7. **The Planar Invasion**: Conjuration experiments accidentally open gateway for hostile entities
 8. **The Time Loop**: Temporal research creates repeating time loop trapping the Heights
 9. **The Knowledge War**: Rival institutions compete to steal Heights research
@@ -252,7 +255,7 @@ Recent experiments have produced concerning results:
 
 ### Innovation Hub
 
-Arcanum Heights drives magical innovation across [[12_Research/D&D_References/Aethermoor]]:
+Arcanum Heights drives magical innovation across [[Aethermoor]]:
 - New spell development and refinement
 - Magical item design and mass production
 - Training for court wizards and magical advisors
@@ -267,7 +270,7 @@ Arcanum Heights drives magical innovation across [[12_Research/D&D_References/Ae
 
 ### Economic Influence
 
-- Major employer in [[12_Research/D&D_References/Crystalhaven]]
+- Major employer in [[Crystalhaven]]
 - Attracts wealthy students and their families
 - Drives demand for rare magical components
 - Patents and licensing for magical innovations
@@ -287,7 +290,7 @@ EOF < /dev/null
 
 ## Connections
 
-- [[12_Research/D&D_References/Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
 
 ## Player-Facing Summary
 
@@ -311,7 +314,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Location Index]]
+- [[Location Index]]
 
 
 ## Related

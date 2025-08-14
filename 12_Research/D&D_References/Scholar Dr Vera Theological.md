@@ -1,18 +1,25 @@
+# Scholar Dr Vera Theological
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aethermoor
-- complete
-- content/lore
-- grand-cathedral
-- lore
-- status/in-progress
-- world/aethermoor
+title: Scholar Dr Vera Theological
 type: Lore
+tags:
+- lore
+- grand-cathedral
+- content/lore
+- research
+- world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:15.896640+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -52,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Cathedral of Light]]
+
+
+## Related
+
+*Links to related content will be added here.*

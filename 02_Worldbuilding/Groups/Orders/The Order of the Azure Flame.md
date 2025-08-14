@@ -1,26 +1,32 @@
 ---
-MyCategory: Unknown - Category/Group
-MyContainer: None
+title: The Order of the Azure Flame
 aliases:
 - Azure Flame
 - The Order
-created: '2025-07-23'
-modified: 2025-07-23 18:50
-obsidianUIMode: preview
-status: complete
+type: Faction
 tags:
 - both
-- complete
+- mechanics/magic
 - content/faction
 - faction
-- mechanics/magic
-- status/in-progress
+- organization
 - world/both
 - zealots
-type: Faction
+- active
+- complete
+- status/in-progress
+created: '2025-07-23'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
+MyCategory: Unknown - Category/Group
+MyContainer: None
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.442762+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Heraldry
@@ -78,3 +84,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Groups_Index|Master Groups Index]]
+
+
+## Known Members
+
+- [[Trade Captain Current]]
+- [[The Northern Kingdoms]]

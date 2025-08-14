@@ -1,18 +1,25 @@
+# The Green Death
+
 ---
+title: The Green Death
 type: Lore
-status: draft
 tags:
-- crystal-enhanced
-- aquatic
 - available
-- both
-- combat
 - combat/exploration
-- corruption
+- both
 - lore
-- moral-choice
 - nature
+- aquatic
+- worldbuilding
+- moral-choice
 - quest
+- active
+- combat
+- corruption
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: draft
 level: 8-10
 reward: Major - Category/Quest
 MyContainer: None
@@ -20,8 +27,8 @@ MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:34.495825+00:00'
-created: '2025-08-11'
 ---
+
 
 
 # The Green Death
@@ -30,15 +37,15 @@ created: '2025-08-11'
 
 ## Quest Overview
 
-[[12_Research/D&D_References/Sorrow-Root Nightbloom]] has completed their fungal weapon designed to kill anyone exposed to crystal corruption. With 90% of Aethermoor's population having some crystal exposure, this represents genocide. The party must navigate the dangerous [[12_Research/D&D_Statblocks/The Synthesis Gardens]], stop the weapon's deployment, and decide whether Sorrow-Root is villain or inadvertent savior.
+[[Sorrow-Root Nightbloom]] has completed their fungal weapon designed to kill anyone exposed to crystal corruption. With 90% of Aethermoor's population having some crystal exposure, this represents genocide. The party must navigate the dangerous [[12_Research/D&D_Statblocks/The Synthesis Gardens]], stop the weapon's deployment, and decide whether Sorrow-Root is villain or inadvertent savior.
 
 ## Quest Giver
 
-**[[12_Research/D&D_Statblocks/Archdruid Thornweaver]]** desperately seeks help after several of his druids were corrupted attempting to stop their former colleague. Alternatively, **[[12_Research/D&D_References/Sir Marcus Dawnforge]]** receives intelligence about the threat through his underground network.
+**[[12_Research/D&D_Statblocks/Archdruid Thornweaver]]** desperately seeks help after several of his druids were corrupted attempting to stop their former colleague. Alternatively, **[[Sir Marcus Dawnforge]]** receives intelligence about the threat through his underground network.
 
 ## Background
 
-Sorrow-Root's research has uncovered a terrible truth: the [[12_Research/D&D_References/Aether Crystals]] aren't just corrupting magic stones - they're eggs of an extraplanar parasite. The Green Death might be the only way to stop a worse catastrophe, but at the cost of nearly everyone in Aethermoor.
+Sorrow-Root's research has uncovered a terrible truth: the [[Aether Crystals]] aren't just corrupting magic stones - they're eggs of an extraplanar parasite. The Green Death might be the only way to stop a worse catastrophe, but at the cost of nearly everyone in Aethermoor.
 
 ## Objectives
 
@@ -59,11 +66,11 @@ Sorrow-Root's research has uncovered a terrible truth: the [[12_Research/D&D_Ref
 
 ## Key NPCs Involved
 
-- **[[12_Research/D&D_References/Sorrow-Root Nightbloom]]** - Primary antagonist with valid concerns
+- **[[Sorrow-Root Nightbloom]]** - Primary antagonist with valid concerns
 - **[[12_Research/D&D_Statblocks/Archdruid Thornweaver]]** - Desperate to save both nature and people
-- **[[12_Research/D&D_References/Ambassador Korvin Blacktide]]** - Secretly funding research for his own purposes
-- **[[12_Research/D&D_References/Zephyr Goldwhisper]]** - Has Confederate resources that might help
-- **[[12_Research/D&D_References/High Inquisitor Maltheos]]** - May temporarily ally against this threat
+- **[[Ambassador Korvin Blacktide]]** - Secretly funding research for his own purposes
+- **[[Zephyr Goldwhisper]]** - Has Confederate resources that might help
+- **[[High Inquisitor Maltheos]]** - May temporarily ally against this threat
 - **[[12_Research/D&D_Statblocks/The Crimson Sage]]** - Knows the truth about the crystals
 
 ## Investigation Discoveries
@@ -88,9 +95,9 @@ Through Sorrow-Root's research notes, the party learns:
 
 Hidden in the research:
 - Batch 7-Alpha can reverse corruption if mass-produced
-- [[12_Research/D&D_References/Goldspire Port]]'s null technology might destroy eggs
+- [[Goldspire Port]]'s null technology might destroy eggs
 - The [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] united might purge all corruption
-- [[12_Research/D&D_References/Aquabyssos]] magic could transform people to survive
+- [[Aquabyssos]] magic could transform people to survive
 
 ## Paths Through the Gardens
 
@@ -118,7 +125,7 @@ Hidden in the research:
 ### The Alliance Option
 
 - Unite unlikely allies against threat
-- Bring [[12_Research/D&D_References/High Inquisitor Maltheos]] and [[12_Research/D&D_Statblocks/Archdruid Thornweaver]] together
+- Bring [[High Inquisitor Maltheos]] and [[12_Research/D&D_Statblocks/Archdruid Thornweaver]] together
 - Coordinate multi-pronged approach
 - Risk: Alliance instability, conflicting goals
 
@@ -213,8 +220,8 @@ Hidden in the research:
 - 90% population death
 - Survivors immune to corruption
 - Rebuilding civilization focus
-- [[12_Research/D&D_References/Aquabyssos]] may invade weakened surface
-- [[12_Research/D&D_References/Goldspire Confederacy]] implements quarantine
+- [[Aquabyssos]] may invade weakened surface
+- [[Goldspire Confederacy]] implements quarantine
 
 ### If Alternative Found
 
@@ -251,13 +258,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Aether Crystals]]
+- [[Aether Crystals]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Goldspire Confederacy]]
-- [[12_Research/D&D_References/Aether Crystals]]
+- [[Goldspire Confederacy]]
+- [[Aether Crystals]]
 
 
 ## Related

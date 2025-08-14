@@ -1,14 +1,20 @@
+# The Pressure Crown
+
 ---
-updated: '2025-08-13T01:18:36.363635+00:00'
-created: '2025-08-12'
+title: The Pressure Crown
+type: location
 tags:
 - aquabyssos
 - category/place
-- complete
+- research
+- active
 - location
+- complete
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
+updated: '2025-08-13T01:18:36.363635+00:00'
 world: Aquabyssos
-type: location
 obsidianUIMode: preview
 accessibility:
   screen_reader_summary: The Pressure Crown is a notable location in Aquabyssos shaped
@@ -23,6 +29,7 @@ accessibility:
   - X-Card
   - Open Door
 ---
+
 
 
 
@@ -93,3 +100,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Forge of War]]
 - [[New Tethys]]
 - [[The Bathyal Palace]]
+
+
+## Related
+
+*Links to related content will be added here.*

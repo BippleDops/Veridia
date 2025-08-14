@@ -1,23 +1,30 @@
+# Consequence Chain 2 - Crystal Trade Disruption
+
 ---
+title: Consequence Chain 2   Crystal Trade Disruption
+type: Lore
 tags:
-- aethermoor
-- campaign-consequences
-- complete
-- crystal-trade
-- economic-warfare
 - financial-corruption
 - lore
+- aethermoor
 - silverscale-consortium
-type: Lore
-world: Aethermoor
-status: complete
+- research
+- active
+- economic-warfare
+- complete
+- campaign-consequences
+- crystal-trade
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aethermoor
 updated: '2025-08-13T01:18:34.737572+00:00'
 magnitude: 4
 visibility: 4
 primary_sessions:
 - 'Session 04: The Silverscale Gambit'
 ---
+
 
 
 # Consequence Chain 2: Crystal Trade Disruption
@@ -211,3 +218,7 @@ primary_sessions:
 - [[Economic History of the Realms]]
 - [[Director Hadrian Silverscale|02 Worldbuilding/People/Director Hadrian Silverscale]]
 - [[Port Meridian|02 Worldbuilding/Places/Port Meridian]]
+
+## Related
+
+*Links to related content will be added here.*

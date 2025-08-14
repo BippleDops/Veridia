@@ -1,22 +1,29 @@
+# Interrogation Techniques 3
+
 ---
-created: '2025-08-08'
-created_by: auto-stub
-status: complete
+title: Interrogation Techniques 3
+type: Lore
 tags:
+- lore
 - aquabyssos
+- status/complete
+- mechanics/exploration
 - complete
 - content/lore
-- interrogation
-- law-enforcement
-- lore
-- mechanics/exploration
-- status/complete
 - techniques
+- research
+- active
+- interrogation
 - world/aquabyssos
-type: Lore
+- law-enforcement
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+created_by: auto-stub
 updated: '2025-08-13T12:34:29.349202+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -80,3 +87,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

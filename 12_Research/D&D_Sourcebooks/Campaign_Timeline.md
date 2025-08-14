@@ -1,16 +1,23 @@
+# Campaign_Timeline
+
 ---
-created: '2025-08-13'
-status: active
+title: Campaign Timeline
+type: Reference
 tags:
 - timeline/seven-shards
 - calendar-integration
-- campaign-tracking
+- research
 - world/both
 - status/active
-type: Reference
+- active
+- campaign-tracking
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T16:45:00.000000'
 world: Both
 ---
+
 
 # Seven Shards Campaign: Timeline & Calendar Integration
 *Complete Timeline with Fantasy Calendar Plugin Integration*
@@ -611,3 +618,7 @@ Automatic event tracking and timeline visualization through dataview queries emb
 - Slow down if players need more time to process developments
 - Shift events between sessions to maintain pacing
 - Use timeline pressure as motivation for decisive action
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,4 +1,17 @@
+# Pier 8
+
 ---
+title: Pier 8
+type: Lore
+tags:
+- status/complete
+- research
+- content/lore
+- active
+- world/aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 accessibility:
   content_warnings: []
   pronunciation: Pier 7
@@ -7,17 +20,11 @@ accessibility:
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
     its consequences for play.
-created: '2025-08-11'
 obsidianUIMode: preview
-status: complete
-tags:
-- content/lore
-- status/complete
-- world/aethermoor
-type: Lore
 updated: '2025-08-12T23:37:39.694492'
 world: Aethermoor
 ---
+
 
 
 
@@ -74,3 +81,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Aethermoor - Session 01 Blood in the Harbor]]
+
+
+## Related
+
+*Links to related content will be added here.*

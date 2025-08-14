@@ -1,24 +1,28 @@
 ---
-created: '2025-08-12'
-obsidianUIMode: preview
-status: complete
-tags:
-- combat
-- crystal-enhanced
-- aquatic
-- aquabyssos
-- communication
-- complete
-- content/lore
-- content/mechanics
-- linguistics
-- lore
-- status/complete
-- world/aquabyssos
+title: Depth Speak Variations
 type: Lore
+tags:
+- lore
+- aquabyssos
+- linguistics
+- status/complete
+- aquatic
+- content/lore
+- active
+- combat
+- complete
+- world/aquabyssos
+- content/mechanics
+- communication
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:16.221354+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Depth Speak Variations
@@ -204,10 +208,10 @@ The pressure-influenced speech patterns and linguistic variations found througho
 
 ## Connections
 
-- [[12_Research/D&D_References/Wind Song Linguistic Guide]]
-- [[12_Research/D&D_References/Aquabyssos Languages]]
-- [[12_Research/D&D_References/Common Idioms and Sayings]]
-- [[12_Research/D&D_References/Professional Terminology]]
+- [[Wind Song Linguistic Guide]]
+- [[Aquabyssos Languages]]
+- [[Common Idioms and Sayings]]
+- [[Professional Terminology]]
 
 ## Player-Facing Summary
 

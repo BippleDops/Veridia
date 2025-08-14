@@ -1,18 +1,25 @@
+# Dr Tidal Depth
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/adventure
-- content/lore
-- lore
-- status/in-progress
-- world/aquabyssos
+title: Dr Tidal Depth
 type: Lore
+tags:
+- lore
+- aquabyssos
+- content/adventure
+- world/aquabyssos
+- content/lore
+- research
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.000108+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -41,3 +48,8 @@ Legends speak of Dr. Tidal Depth as a nexus where past and present converge. Loc
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

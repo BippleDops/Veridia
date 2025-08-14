@@ -1,22 +1,28 @@
+# Rewriting the Ritual
+
 ---
+title: Rewriting the Ritual
+type: Lore
 tags:
-- adaptation
-- aethermoor
-- complete
+- lore
+- magical-theory
+- magic
+- ritual
+- research
+- rewriting
+- ritual-modification
 - corruption-response
 - crystal-influence
+- adaptation
+- complete
 - dangerous-magic
-- lore
-- magic
-- magical-theory
-- rewriting
-- ritual
-- ritual-modification
+- active
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ritual_type: Adaptive Counter-Magic
 scope: Regional
@@ -24,6 +30,7 @@ danger_level: Extreme
 magical_school: Transmutation/Abjuration
 origin: Emergency Response
 ---
+
 
 
 
@@ -344,3 +351,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

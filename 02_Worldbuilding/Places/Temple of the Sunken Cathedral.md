@@ -1,26 +1,33 @@
 ---
-created: '2025-08-12'
-created_by: claude
-status: complete
-tags:
-- combat
-- quest
-- aquatic
-- aquabyssos
-- campaign/arc
-- complete
-- content/location
-- cult
-- deep-mother
-- eldritch-horror
-- location
-- status/complete
-- temple
-- world/aquabyssos
+title: Temple of the Sunken Cathedral
 type: Location
+tags:
+- aquabyssos
+- status/complete
+- cult
+- eldritch-horror
+- temple
+- aquatic
+- quest
+- content/location
+- deep-mother
+- place
+- active
+- campaign/arc
+- combat
+- complete
+- location
+- world/aquabyssos
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+created_by: claude
 updated: '2025-08-13T12:34:16.841076+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Temple of the Sunken Cathedral
@@ -376,12 +383,12 @@ When describing the cathedral's aberrant architecture:
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Cult of the Deep Mother]]
+- [[Cult of the Deep Mother]]
 - [[12_Research/D&D_Statblocks/Reality Breach Locations]]
-- [[12_Research/D&D_References/Deep Mother Sanity System]]
-- [[12_Research/D&D_References/The Deep Prophecies]]
-- [[12_Research/D&D_References/Deep Mother Lore]]
-- [[12_Research/D&D_References/High Oracle Serenity Deepcall]]
+- [[Deep Mother Sanity System]]
+- [[The Deep Prophecies]]
+- [[Deep Mother Lore]]
+- [[High Oracle Serenity Deepcall]]
 - [[Brother Pelagios Irondeep]]
 - [[Complete Deep Mother Subsystem]]
 - [[Transformation Mechanics]]
@@ -401,6 +408,27 @@ Legends speak of Temple of the Sunken Cathedral as a nexus where past and presen
 - An NPC seeks discreet help at Temple of the Sunken Cathedral to avert a public scandal.
 - A map overlay reveals a hidden approach to Temple of the Sunken Cathedral active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -411,3 +439,97 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-the-whispering-depths-the-whispering-depths.svg]]
+- [[International Trade]]
+- [[Disaster Prevention Centers]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+Temple of the Sunken Cathedral is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Temple of the Sunken Cathedral
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Temple of the Sunken Cathedral was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Temple of the Sunken Cathedral:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Temple of the Sunken Cathedral
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

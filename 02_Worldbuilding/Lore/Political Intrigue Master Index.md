@@ -1,24 +1,28 @@
 ---
-created: '2025-08-12'
-status: complete
+title: Political Intrigue Master Index
+type: Lore
 tags:
-- crystal-enhanced
-- shadow-touched
+- lore
 - aquabyssos
-- complete
-- content/lore
 - index
 - intrigue
-- lore
-- master-document
-- parliament
-- politics
 - status/complete
+- content/lore
+- master-document
+- active
+- parliament
+- complete
 - world/aquabyssos
-type: Lore
+- politics
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.467849+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Political Intrigue Master Index
@@ -34,7 +38,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 
 ## Core Political Framework Documents
 
-### [[12_Research/D&D_References/Parliamentary Procedures and Loopholes]]
+### [[Parliamentary Procedures and Loopholes]]
 
 **Key Systems:**
 - Tidal Parliament voting procedures and pressure-based discrimination
@@ -45,7 +49,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 
 **Primary Use:** Understanding how laws are made, broken, and manipulated in Aquabyssos government
 
-### [[12_Research/D&D_References/Succession Crisis Contingencies]]  
+### [[Succession Crisis Contingencies]]  
 
 **Key Systems:**
 - The Scattered Emperor problem and seven personality fragments
@@ -56,7 +60,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 
 **Primary Use:** Managing the central political crisis driving current events
 
-### [[12_Research/D&D_References/Political Parties of Aquabyssos]]
+### [[Political Parties of Aquabyssos]]
 
 **Key Systems:**
 - Six major political parties with public platforms and hidden agendas
@@ -71,9 +75,9 @@ This master index provides a comprehensive guide to the political intrigue syste
 
 ### Noble Houses
 
-- **[[12_Research/D&D_References/House Deepcurrent]]:** Ancient nobility with deep-sea entity connections and shadow daughter secrets
-- **[[12_Research/D&D_References/House Brightshield]]:** Progressive democrats hiding memory plague guilt and constructed family members
-- **[[12_Research/D&D_References/House Shadowmere]]:** Information brokers with dead matriarch and triple agent complications
+- **[[House Deepcurrent]]:** Ancient nobility with deep-sea entity connections and shadow daughter secrets
+- **[[House Brightshield]]:** Progressive democrats hiding memory plague guilt and constructed family members
+- **[[House Shadowmere]]:** Information brokers with dead matriarch and triple agent complications
 
 **Interconnections:**
 - Marriage alliances creating political leverage and personal complications
@@ -83,8 +87,8 @@ This master index provides a comprehensive guide to the political intrigue syste
 
 ### Foreign Intelligence Operations
 
-- **[[12_Research/D&D_References/Tenebrarum Embassy]]:** Shadow nation spy network with replacement program and cultural integration
-- **[[12_Research/D&D_References/Crystallium Embassy]]:** Technology nation surveillance operation with predictive modeling and economic espionage
+- **[[Tenebrarum Embassy]]:** Shadow nation spy network with replacement program and cultural integration
+- **[[Crystallium Embassy]]:** Technology nation surveillance operation with predictive modeling and economic espionage
 
 **Intelligence Network Overlaps:**
 - Competing operations for same intelligence targets
@@ -94,7 +98,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 
 ## Operational Systems
 
-### [[12_Research/D&D_References/Assassination Plot Frameworks]]
+### [[Assassination Plot Frameworks]]
 
 **Key Methods:**
 - Pressure accidents exploiting environmental vulnerability
@@ -109,7 +113,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 - Political party competition escalating to physical violence
 - Succession crisis creating multiple assassination motivations
 
-### [[12_Research/D&D_References/Diplomatic Event Scenarios]]
+### [[Diplomatic Event Scenarios]]
 
 **Key Templates:**
 - Trade negotiations masking political intelligence operations
@@ -368,3 +372,26 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

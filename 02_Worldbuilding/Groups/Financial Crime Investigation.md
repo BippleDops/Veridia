@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Financial Crime Investigation
+type: Faction
 tags:
 - both
-- complete
 - content/faction
 - faction
-- status/in-progress
+- organization
 - world/both
-type: Faction
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.357698+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Heraldry
@@ -37,3 +44,10 @@ Legends speak of Financial Crime Investigation as a nexus where past and present
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Known Members
+
+- [[Sage Lysander Deepthought]]
+- [[04_Resources_Assets_Portraits_portrait-npc-lord-general-harrison-ironhold-lord-general-harrison-ironhold.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-master-trader-darkmarke-master-trader-darkmarke.svg]]

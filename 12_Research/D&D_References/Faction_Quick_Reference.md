@@ -1,16 +1,23 @@
+# Faction_Quick_Reference
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- gm-resources
-- reference-cards
-- factions
-- politics
-- quick-reference
+title: Faction Quick Reference
 type: Reference
+tags:
+- factions
+- quick-reference
+- research
+- gm-resources
+- active
+- reference-cards
+- politics
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
+
 
 # Faction Quick Reference
 
@@ -279,3 +286,7 @@ world: Both
 - [[Crystal_Cults]]
 - [[Deep_Mother_Cult]]
 - [[Parliament_of_Echoes]]
+
+## Related
+
+*Links to related content will be added here.*

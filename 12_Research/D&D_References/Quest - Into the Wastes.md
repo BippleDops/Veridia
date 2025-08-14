@@ -1,14 +1,20 @@
+# Quest - Into the Wastes
+
 ---
-updated: '2025-08-13T01:18:36.998745+00:00'
-created: '2025-08-11'
+title: Quest   Into the Wastes
+type: npc
 tags:
+- npc
+- research
+- active
+- complete
 - aethermoor
 - category/people
-- complete
-- npc
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
+updated: '2025-08-13T01:18:36.998745+00:00'
 world: Aethermoor
-type: npc
 obsidianUIMode: preview
 char_status: Alive
 char_race: Human
@@ -26,6 +32,7 @@ accessibility:
   - X-Card
   - Open Door
 ---
+
 
 
 
@@ -92,3 +99,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Captain Thaddeus Blackwater]]
+
+
+## Related
+
+*Links to related content will be added here.*

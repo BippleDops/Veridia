@@ -1,18 +1,24 @@
+# Quest - Hearts and Minds
+
 ---
+title: Quest   Hearts and Minds
 type: Lore
+tags:
+- lore
+- both
+- aerial
+- worldbuilding
+- quest
+- active
+- combat
+- shadow-touched
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Both
 updated: '2025-08-13T01:18:34.472080+00:00'
-created: '2025-08-11'
-tags:
-- combat
-- quest
-- shadow-touched
-- aerial
-- active
-- both
-- lore
 ---
+
 
 
 # Quest - Hearts and Minds
@@ -25,9 +31,9 @@ tags:
 
 ## Quest Summary
 
-The floating city of [[12_Research/D&D_References/New Skyholm]] teeters on the brink of civil war. What began as peaceful protests by the [[12_Research/D&D_References/The Groundling Liberation Movement]] has escalated into violent confrontations with the city's [[12_Research/D&D_References/The Skyborn Elite]]. As tensions reach a breaking point, mysterious incidents have begun occurring—bombings blamed on groundling terrorists, but evidence suggests darker forces are manipulating both sides toward inevitable conflict.
+The floating city of [[New Skyholm]] teeters on the brink of civil war. What began as peaceful protests by the [[The Groundling Liberation Movement]] has escalated into violent confrontations with the city's [[The Skyborn Elite]]. As tensions reach a breaking point, mysterious incidents have begun occurring—bombings blamed on groundling terrorists, but evidence suggests darker forces are manipulating both sides toward inevitable conflict.
 
-The party must navigate the complex web of political intrigue, uncover the true puppet masters behind the escalating violence, and find a way to prevent a war that could tear [[12_Research/D&D_References/New Skyholm]] apart and destabilize all of [[12_Research/D&D_References/Aethermoor]]. Success requires more than sword and sorcery—it demands understanding the hearts and minds of a divided people.
+The party must navigate the complex web of political intrigue, uncover the true puppet masters behind the escalating violence, and find a way to prevent a war that could tear [[New Skyholm]] apart and destabilize all of [[Aethermoor]]. Success requires more than sword and sorcery—it demands understanding the hearts and minds of a divided people.
 
 ---
 
@@ -35,21 +41,21 @@ The party must navigate the complex web of political intrigue, uncover the true 
 
 ### Opening Hook
 
-The party arrives in [[12_Research/D&D_References/New Skyholm]] just as the latest protests turn violent. They are approached by one of several potential quest givers:
+The party arrives in [[New Skyholm]] just as the latest protests turn violent. They are approached by one of several potential quest givers:
 
-- **[[12_Research/D&D_References/Councilor Elena Brightwind]]** (Skyborn moderate) seeks neutral investigators to uncover the truth behind recent bombings
-- **[[12_Research/D&D_References/Marcus Ironwright]]** (Groundling leader) believes his movement is being framed and needs proof of a conspiracy  
-- **[[12_Research/D&D_References/Captain Thalia Stormguard]]** (City Watch) requires outside help to maintain order while investigating threats to both communities
-- **[[12_Research/D&D_References/Ambassador Kael Windweaver]]** (representing the [[12_Research/D&D_References/Aethermoor Council]]) fears civil war will spread to other floating cities
+- **[[Councilor Elena Brightwind]]** (Skyborn moderate) seeks neutral investigators to uncover the truth behind recent bombings
+- **[[Marcus Ironwright]]** (Groundling leader) believes his movement is being framed and needs proof of a conspiracy  
+- **[[Captain Thalia Stormguard]]** (City Watch) requires outside help to maintain order while investigating threats to both communities
+- **[[Ambassador Kael Windweaver]]** (representing the [[Aethermoor Council]]) fears civil war will spread to other floating cities
 
 ### The Current Crisis (Sessions 1-2)
 
-**Setting:** [[12_Research/D&D_References/New Skyholm]], a stratified floating city where the wealthy [[12_Research/D&D_References/The Skyborn Elite]] literally live above the working-class [[12_Research/D&D_References/Groundling]] districts
+**Setting:** [[New Skyholm]], a stratified floating city where the wealthy [[The Skyborn Elite]] literally live above the working-class [[Groundling]] districts
 
 #### Key Tensions:
 
 - **Economic:** Groundlings work dangerous jobs maintaining the city's floating mechanisms while Skyborn profit from trade and magic
-- **Political:** Skyborn control the [[12_Research/D&D_References/High Council]] while Groundlings have minimal representation
+- **Political:** Skyborn control the [[High Council]] while Groundlings have minimal representation
 - **Social:** Centuries of segregation have created deep cultural divides and mutual mistrust
 - **Magical:** Skyborn monopolize flight magic and advanced spellcasting education
 
@@ -64,7 +70,7 @@ The party arrives in [[12_Research/D&D_References/New Skyholm]] just as the late
 #### The Groundling Quarter
 
 - **Industrial District:** Where city maintenance workers live and work
-- **The Anchor Tavern:** Meeting place for [[12_Research/D&D_References/The Groundling Liberation Movement]]
+- **The Anchor Tavern:** Meeting place for [[The Groundling Liberation Movement]]
 - **Underground Networks:** Literal and figurative—maintenance tunnels and resistance cells
 
 #### The Skyborn Districts  
@@ -96,7 +102,7 @@ As the party investigates, they discover evidence suggesting a third party is ma
 
 #### Major NPCs & Their Secrets
 
-**[[12_Research/D&D_References/Marcus Ironwright]]** - Groundling Leader
+**[[Marcus Ironwright]]** - Groundling Leader
 *Medium humanoid (human), lawful good*  
 **AC** 14 (Studded Leather), **HP** 52, **Speed** 30 ft.
 
@@ -116,7 +122,7 @@ As the party investigates, they discover evidence suggesting a third party is ma
 - **Worker's Hammer:** +6 to hit, 1d8+3 bludgeoning damage
 - **Rally the Workers (1/Day):** Summons 2d4 commoner allies who arrive in 1d4 rounds
 
-**[[12_Research/D&D_References/Lord Aldric Highwind]]** - Skyborn Hardliner  
+**[[Lord Aldric Highwind]]** - Skyborn Hardliner  
 *Medium humanoid (human), lawful evil*  
 **AC** 15 (Studded Leather +1), **HP** 71, **Speed** 30 ft., fly 60 ft.
 
@@ -136,7 +142,7 @@ As the party investigates, they discover evidence suggesting a third party is ma
 **Motivation:** Wants to eliminate Groundling political rights entirely and establish pure Skyborn rule
 **Services:** Access to Skyborn social circles and political information
 
-**[[12_Research/D&D_References/Councilor Elena Brightwind]]** - Skyborn Moderate
+**[[Councilor Elena Brightwind]]** - Skyborn Moderate
 *Medium humanoid (elf), lawful good*  
 **AC** 16 (Mage Armor), **HP** 58, **Speed** 30 ft.
 
@@ -155,7 +161,7 @@ As the party investigates, they discover evidence suggesting a third party is ma
 **Motivation:** Prevent civil war while advancing peaceful reform
 **Services:** Political connections, access to official records, legal authority
 
-**[[12_Research/D&D_References/Agent Vex Shadowmere]]** - Foreign Infiltrator (Hidden Antagonist)
+**[[Agent Vex Shadowmere]]** - Foreign Infiltrator (Hidden Antagonist)
 *Medium humanoid (half-elf), neutral evil*  
 **AC** 17 (Studded Leather +2), **HP** 84, **Speed** 30 ft.
 
@@ -175,7 +181,7 @@ As the party investigates, they discover evidence suggesting a third party is ma
 - **Cunning Action:** Dash, Disengage, or Hide as bonus action
 - **Master of Disguise:** Can maintain multiple identities with different personas
 
-**Background:** Agent of the [[12_Research/D&D_References/Terrestrial Coalition]] seeking to destabilize sky-cities
+**Background:** Agent of the [[Terrestrial Coalition]] seeking to destabilize sky-cities
 **Secret:** Has been posing as various people to manipulate both factions toward war
 **Motivation:** Believes floating cities are an affront to natural order
 **Methods:** Uses memory modification to cover tracks and create false evidence
@@ -250,21 +256,21 @@ The heroes must:
 
 ## Supporting Characters & Organizations
 
-### [[12_Research/D&D_References/The Groundling Liberation Movement]]
+### [[The Groundling Liberation Movement]]
 
 - **Core Philosophy:** Equal rights, economic justice, political representation
 - **Methods:** Protests, strikes, some sabotage
 - **Leadership:** Divided between moderates like Marcus and emerging radicals
 - **Support:** Most working-class Groundlings, some sympathetic Skyborn
 
-### [[12_Research/D&D_References/The Skyborn Elite]]
+### [[The Skyborn Elite]]
 
 - **Core Philosophy:** Traditional hierarchy, magical superiority, maintaining order
 - **Methods:** Political control, economic pressure, social exclusion
 - **Leadership:** High Council dominated by hereditary nobles
 - **Support:** Wealthy Skyborn, some middle-class who aspire to rise
 
-### [[12_Research/D&D_References/Terrestrial Coalition]] (Foreign Antagonists)
+### [[Terrestrial Coalition]] (Foreign Antagonists)
 
 - **Core Philosophy:** Ground-based civilization, opposition to "unnatural" sky-cities
 - **Methods:** Espionage, sabotage, political manipulation, economic warfare
@@ -273,19 +279,19 @@ The heroes must:
 
 ### Minor NPCs
 
-**[[12_Research/D&D_References/Captain Thalia Stormguard]]** - City Watch Commander
+**[[Captain Thalia Stormguard]]** - City Watch Commander
 *Medium humanoid (human), lawful neutral*
 **Skills:** Investigation +6, Insight +7, Intimidation +5
 **Role:** Struggling to maintain order while investigating conspiracies
 **Services:** Information about crimes, protection, official authority
 
-**[[12_Research/D&D_References/Jenny Copperwright]]** - Young Groundling Activist
+**[[Jenny Copperwright]]** - Young Groundling Activist
 *Medium humanoid (human), chaotic good*
 **Skills:** Persuasion +5, Stealth +6, Sleight of Hand +4
 **Role:** Represents the next generation seeking change
 **Services:** Access to youth networks, street-level information
 
-**[[12_Research/D&D_References/Lord Admiral Gaius Windcutter]]** - Skyborn Military Leader
+**[[Lord Admiral Gaius Windcutter]]** - Skyborn Military Leader
 *Medium humanoid (human), lawful neutral*
 **Skills:** Intimidation +7, Athletics +6, History +5
 **Role:** Professional soldier concerned about civil war impact on defense
@@ -311,26 +317,26 @@ The heroes must:
 
 ### Magical Rewards:
 
-- **[[12_Research/D&D_References/Skywind Cloak]]:** Grants limited flight ability (30 ft. fly speed for 10 minutes/day)
-- **[[12_Research/D&D_References/Groundbreaker's Hammer]]:** +1 warhammer that deals double damage to constructs and structures
-- **[[12_Research/D&D_References/Mediator's Pendant]]:** Advantage on Persuasion checks for peaceful solutions
-- **[[12_Research/D&D_References/Truth-seeker's Lens]]:** See through illusions and detect lies (3 charges/day)
+- **[[Skywind Cloak]]:** Grants limited flight ability (30 ft. fly speed for 10 minutes/day)
+- **[[Groundbreaker's Hammer]]:** +1 warhammer that deals double damage to constructs and structures
+- **[[Mediator's Pendant]]:** Advantage on Persuasion checks for peaceful solutions
+- **[[Truth-seeker's Lens]]:** See through illusions and detect lies (3 charges/day)
 
 ### Long-term Consequences:
 
 - **City Politics:** The party's actions determine New Skyholm's future government structure
 - **Regional Stability:** Success or failure affects other floating cities' internal politics
-- **Foreign Relations:** The [[12_Research/D&D_References/Terrestrial Coalition]]'s response to their defeat or success
+- **Foreign Relations:** The [[Terrestrial Coalition]]'s response to their defeat or success
 - **Personal Enemies:** Antagonized factions may target the party in future adventures
 - **Reform Progress:** Speed and scope of social changes implemented
 
 ### Future Adventure Hooks:
 
 - Other sky-cities request help with similar problems
-- The [[12_Research/D&D_References/Terrestrial Coalition]] escalates their campaign against floating cities
+- The [[Terrestrial Coalition]] escalates their campaign against floating cities
 - Surviving extremists from both factions plot revenge
 - New Skyholm faces external threats requiring united defense
-- The party becomes involved in broader [[12_Research/D&D_References/Aethermoor]] politics
+- The party becomes involved in broader [[Aethermoor]] politics
 
 ---
 
@@ -359,9 +365,9 @@ The heroes must:
 
 ## Connections
 
-- [[12_Research/D&D_References/Purist Coalition]]
-- [[12_Research/D&D_References/The Shadow War Coalition]]
-- [[12_Research/D&D_References/Quest - Diplomatic Immunity]]
+- [[Purist Coalition]]
+- [[The Shadow War Coalition]]
+- [[Quest - Diplomatic Immunity]]
 
 ## Player-Facing Summary
 
@@ -409,7 +415,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Quest - Diplomatic Immunity|02 Worldbuilding/Quests/Quest Diplomatic Immunity]]
-- [[12_Research/D&D_References/Aethermoor]]
+- [[Aethermoor]]
 
 
 ## Related

@@ -1,14 +1,20 @@
+# Quest - Breaking the Scales
+
 ---
-tags:
-- active
-- aethermoor
-- npc
+title: Quest   Breaking the Scales
 type: NPC
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.933887+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-quest-breaking-the-scales-quest-breaking-the-scales.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Silverscale Consortium]]
+
+
+## Related
+
+*Links to related content will be added here.*

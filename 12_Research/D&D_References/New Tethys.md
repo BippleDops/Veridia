@@ -1,26 +1,32 @@
+# New Tethys
+
 ---
-tags:
-- active
-- both
-- city
-- location
-- major_settlement
-- twilight_reaches
+title: New Tethys
 aliases:
 - The Glass City
 - The First Refuge
+type: Location
+tags:
+- major_settlement
+- both
+- research
+- city
+- active
+- location
+- twilight_reaches
 created: '2024-12-19'
+modified: '2025-08-14'
+status: active
+population: 75000 - Category/Place
 image: 04_Resources/Assets/Locations/new_tethys.jpg
 danger_level: Moderate
-population: 75000 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:36.540669+00:00'
-status: active
-type: Location
 ---
+
 
 
 
@@ -231,3 +237,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Depth Plague]]
 - [[The Free Current]]
 - [[The Vanishing Depths]]
+
+
+## Related
+
+*Links to related content will be added here.*

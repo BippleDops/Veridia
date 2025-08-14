@@ -1,24 +1,31 @@
+# ixitxachitl-oota
+
 ---
+title: ixitxachitl oota
 aliases:
 - Ixitxachitl
+type: monster
+tags:
+- ttrpg-cli/compendium/src/5e/oota
+- monster
+- ttrpg-cli/monster/type/aberration
+- ttrpg-cli/monster/cr/1-4
+- research
+- world/both
+- active
+- status/in-progress
+- ttrpg-cli/monster/size/small
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/aberration
-- world/both
-type: monster
 updated: '2025-08-12T23:37:35.357163'
 world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -97,3 +104,8 @@ Legends speak of ixitxachitl oota as a nexus where past and present converge. Lo
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

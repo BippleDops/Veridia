@@ -1,3 +1,15 @@
+# Seven_Shards_Publishing_Package
+
+---
+title: Seven Shards Publishing Package
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Professional Publishing Package
         
 *Generated: 2025-08-13 10:33*
@@ -56,3 +68,7 @@ An epic 8-session campaign spanning the dual realms of Aquabyssos and Aethermoor
 - Direct PDF sales
 - Print-on-demand options
         
+
+## Related
+
+*Links to related content will be added here.*

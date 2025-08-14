@@ -1,3 +1,15 @@
+# collaborative_worldbuilding_methodology
+
+---
+title: collaborative worldbuilding methodology
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Collaborative Worldbuilding Methodology
 
 ## Integrating Player Input into Complex World Systems
@@ -175,3 +187,7 @@ pending_integrations: List[str]  # Contributions waiting for implementation
 - **Compromise Solutions**: Find middle ground between player vision and world needs
 
 *Research methodology: Collaborative creativity studies, 67 player-GM collaboration case studies, world consistency analysis*
+
+## Related
+
+*Links to related content will be added here.*

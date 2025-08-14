@@ -1,15 +1,21 @@
+# Council Representative
+
 ---
-tags:
-- active
-- aquabyssos
-- character
-- lore
+title: Council Representative
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- research
+- character
+- active
 created: '2025-08-11T13:08:46.455142+00:00'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.533216+00:00'
 ---
+
 
 
 
@@ -37,3 +43,8 @@ Legends speak of Council Representative as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

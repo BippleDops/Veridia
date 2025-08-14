@@ -1,32 +1,37 @@
 ---
+title: Original Glaucus
+type: Npc
+tags:
+- aquabyssos
+- senator
+- status/complete
+- npc
+- complete
+- shadow-victim
+- character
+- content/npc
+- active
+- prisoner
+- world/aquabyssos
+- tragic
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+race: Human (Adapted)
+class: Noble/Diplomat
+location: '[[The Memory Meadows]]'
+level: 7
 MyCategory: Unknown
 MyContainer: None
 alignment: Lawful Good
-class: Noble/Diplomat
-created: '2025-08-08'
 created_by: auto-stub
 faction: '[[Parliament of Echoes]] (formerly)'
-level: 7
-location: '[[The Memory Meadows]]'
 obsidianUIMode: preview
-race: Human (Adapted)
-status: complete
 status_condition: Imprisoned, Slowly Forgotten
-tags:
-- aquabyssos
-- complete
-- content/npc
-- npc
-- prisoner
-- senator
-- shadow-victim
-- status/complete
-- tragic
-- world/aquabyssos
-type: Npc
 updated: '2025-08-13T12:34:17.701619+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -192,7 +197,13 @@ The real Senator Glaucus Tidecaller has been imprisoned in the [[The Memory Mead
 - Daughter reunion complicated
 - Political rehabilitation necessary
 
-## Personality & Mannerisms
+## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more aggressive
+- **When Pleased**: Shows open joy
+- **In Conflict**: Tends toward manipulation
+ & Mannerisms
 
 ### Original Traits (Fading)
 - Thoughtful speaker, chose words carefully
@@ -255,6 +266,124 @@ The real Senator Glaucus Tidecaller has been imprisoned in the [[The Memory Mead
 - Combat capabilities permanently reduced
 - Psychological trauma effects
 
+
+
+## Appearance
+
+Original Glaucus presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Protecting loved ones
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Original Glaucus harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Double agent
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Sharp and precise
+
+**Speech Pattern**: Peppered with idioms
+
+**Physical Habits**: Paces while speaking
+
+## Current Activities
+
+Original Glaucus is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Original Glaucus needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Original Glaucus stopped or removed
+3. **The Secret**: Information about Original Glaucus's past surfaces
+4. **The Alliance**: Opportunity to work with or against Original Glaucus
+5. **The Crisis**: Original Glaucus is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 
 ### Using Original Glaucus
@@ -312,6 +441,14 @@ The real Senator Glaucus Tidecaller has been imprisoned in the [[The Memory Mead
 
 *"In the Memory Meadows, you don't just forget who you were—you watch yourself become nothing, one memory at a time."*
 
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-dockworkers-union-dockworkers-union.svg]]: *former lover*
+- [[The Golden Fishook Tavern]]: *debt holder*
+- [[Merchant Captain Trade]]: *debt holder*
 
 ## Connections
 

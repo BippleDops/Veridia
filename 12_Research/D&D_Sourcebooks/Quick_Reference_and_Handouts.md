@@ -1,18 +1,25 @@
+# Quick_Reference_and_Handouts
+
 ---
-created: '2025-08-13'
-status: active
-tags:
-- reference/seven-shards
-- quick-reference
-- player-handouts
-- random-tables
-- gm-tools
-- world/both
-- status/active
+title: Quick Reference and Handouts
 type: Reference
+tags:
+- quick-reference
+- random-tables
+- research
+- world/both
+- gm-tools
+- player-handouts
+- reference/seven-shards
+- status/active
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T16:45:00.000000'
 world: Both
 ---
+
 
 # Seven Shards Campaign: Quick Reference & Player Handouts
 *Essential Tables, References, and Player Materials*
@@ -539,3 +546,7 @@ If campaign goes off rails, return to:
 - Cordelia world setting and cultures
 - Campaign-specific NPCs and locations
 - Integration systems for Obsidian plugins
+
+## Related
+
+*Links to related content will be added here.*

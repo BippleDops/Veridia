@@ -1,18 +1,24 @@
+# High Inquisitor Maltheos
+
 ---
-created: '2025-08-11'
-updated: '2025-08-13T01:18:37.005137+00:00'
-world: Aethermoor
+title: High Inquisitor Maltheos
 type: NPC
-status: active
 tags:
+- npc
+- religious-leader
+- research
+- purist-coalition
+- political-opposition
 - active
 - aethermoor
 - anti-crystal
-- npc
-- political-opposition
-- purist-coalition
-- religious-leader
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+updated: '2025-08-13T01:18:37.005137+00:00'
+world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait
@@ -251,3 +257,8 @@ High Inquisitor Maltheos leads a growing religious and political movement agains
 - His genuine divine blessing makes him formidable opponent to corrupted forces
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

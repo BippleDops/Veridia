@@ -1,22 +1,29 @@
+# Azure Citadel
+
 ---
+title: Azure Citadel
+type: Location
 tags:
 - aquabyssos
+- military
+- research
+- government
+- active
+- location
 - complete
 - fortress
-- government
-- location
-- military
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-12T00:00:00+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -512,3 +519,8 @@ riched: true -->
 - [[Memory Farmers]]
 - [[Parliament of Echoes]]
 - [[The Hadal Depths]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,19 +1,25 @@
+# X-103_Leviathan_Mirror_Chase
+
 ---
 title: "Encounter Sheet \u2014 X-103 Leviathan Mirror Chase"
 type: gm_resource
-status: complete
 tags:
-- both
-- complete
 - ecosystem
+- both
 - encounter
 - gm
+- research
+- active
 - gm_resource
+- complete
 - mixed
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.127144+00:00'
 world: Both
 ---
+
 
 
 # X-103 Leviathan Mirror Chase
@@ -58,3 +64,8 @@ Legends speak of X 103 Leviathan Mirror Chase as a nexus where past and present 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

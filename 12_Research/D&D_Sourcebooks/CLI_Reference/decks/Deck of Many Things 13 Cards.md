@@ -1,22 +1,27 @@
+# Deck of Many Things 13 Cards
+
 ---
+title: Deck of Many Things 13 Cards
 aliases:
 - Deck of Many Things (13 Cards)
-created: 2025-07-23 12:39
-cssclasses: json5e-deck
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- active
-- both
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/dmg
-- world/both
 type: note
+tags:
+- both
+- research
+- world/both
+- active
+- note
+- ttrpg-cli/compendium/src/5e/dmg
+- status/in-progress
+created: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-deck
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:05.249736+00:00'
 world: Both
 ---
+
 
 
 # Deck of Many Things (13 Cards)
@@ -126,3 +131,8 @@ Legends speak of deck of many things 13 cards as a nexus where past and present 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

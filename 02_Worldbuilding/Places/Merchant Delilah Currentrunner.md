@@ -1,29 +1,36 @@
 ---
+title: Merchant Delilah Currentrunner
+type: Location
+tags:
+- aquabyssos
+- trade
+- status/complete
+- world/aquabyssos
+- aquatic
+- quest
+- content/location
+- content/npc
+- place
+- active
+- location
+- complete
+- status/in-progress
+- delilah
+- merchant
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: NPC
 MyContainer: None
-created: '2025-08-11'
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
-status: complete
-tags:
-- quest
-- aquatic
-- aquabyssos
-- complete
-- content/location
-- content/npc
-- delilah
-- location
-- merchant
-- status/complete
-- status/in-progress
-- trade
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.596010+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -129,6 +136,27 @@ She's also investigating reports of interference with shipping lanes and suspici
 2. The party needs fast, discrete transportation to reach a critical location, requiring negotiation with Delilah for her services.
 3. Attacks on merchant vessels threaten to disrupt Delilah's business, and she needs investigators to identify the perpetrators.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Delilah serves as both a transportation resource and a source of information about regional trade and politics. Her independent status and diverse client base make her useful for introducing plot complications and opportunities. Use her merchant network to provide information and her vessels for transportation while creating moral dilemmas about the nature of her various clients.
@@ -136,10 +164,10 @@ Delilah serves as both a transportation resource and a source of information abo
 
 ## Connections
 
-- [[12_Research/D&D_References/Captain Garrett Stormcutter]]
-- [[12_Research/D&D_References/Lumengarde]]
-- [[12_Research/D&D_References/New Tethys]]
-- [[12_Research/D&D_References/The Phosphor Markets]]
+- [[Captain Garrett Stormcutter]]
+- [[Lumengarde]]
+- [[New Tethys]]
+- [[The Phosphor Markets]]
 
 
 ## History
@@ -187,10 +215,92 @@ Legends speak of Merchant Delilah Currentrunner as a nexus where past and presen
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Merchant Delilah Currentrunner]]
+- [[Merchant Delilah Currentrunner]]
 
 <!-- enriched: true -->
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-archaeological-society-archaeological-society.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-spectral-gallery-v1-the-spectral-gallery.svg]]
+- [[Temple Council]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+Merchant Delilah Currentrunner is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Merchant Delilah Currentrunner
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Merchant Delilah Currentrunner:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Merchant Delilah Currentrunner
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

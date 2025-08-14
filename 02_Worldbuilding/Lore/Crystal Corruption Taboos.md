@@ -1,40 +1,44 @@
 ---
+title: Crystal Corruption Taboos
+type: Lore
+tags:
+- traditional-beliefs
+- historical-trauma
+- aquatic
+- cultural-taboos
+- historical-development
+- collective-fear
+- cultural-identity
+- lore
+- mechanics/social
+- status/complete
+- quest
+- content/lore
+- combat
+- crystal-enhanced
+- corruption-prevention
+- world/both
+- complete
+- cultural-evolution
+- both
+- cultural-restrictions
+- active
+- moral-boundaries
+- world/aethermoor
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 created_by: cultural-expansion
 cultural_scope: Universal Across Both Worlds
 current_status: Actively Enforced
 enforcement_level: Community-Based Social Control
 historical_period: Post-Great Crystallization to Present (500+ Years)
 significance: Fundamental Cultural Framework
-status: complete
 taboo_category: Existential Threat Response
-tags:
-- combat
-- quest
-- crystal-enhanced
-- aquatic
-- both
-- collective-fear
-- complete
-- content/lore
-- corruption-prevention
-- cultural-evolution
-- cultural-identity
-- cultural-restrictions
-- cultural-taboos
-- historical-development
-- historical-trauma
-- lore
-- mechanics/social
-- moral-boundaries
-- status/complete
-- traditional-beliefs
-- world/aethermoor
-- world/both
-type: Lore
 updated: '2025-08-13T12:34:15.807434+00:00'
 world: Both
 ---
+
 
 
 # Crystal Corruption Taboos
@@ -46,7 +50,7 @@ world: Both
 
 ## Overview
 
-The Crystal Corruption Taboos represent the most pervasive and deeply ingrained cultural restrictions in both [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]], forming an intricate web of social rules, prohibitions, and collective behaviors designed to prevent, contain, and respond to crystal corruption incidents. These taboos emerged organically in the centuries following [[12_Research/D&D_References/The Great Crystallization]], evolving from practical survival strategies into fundamental cultural institutions that shape social interaction, community identity, and individual behavior across both worlds.
+The Crystal Corruption Taboos represent the most pervasive and deeply ingrained cultural restrictions in both [[Aethermoor]] and [[Aquabyssos]], forming an intricate web of social rules, prohibitions, and collective behaviors designed to prevent, contain, and respond to crystal corruption incidents. These taboos emerged organically in the centuries following [[The Great Crystallization]], evolving from practical survival strategies into fundamental cultural institutions that shape social interaction, community identity, and individual behavior across both worlds.
 
 Unlike formal laws imposed by governmental authority, the Crystal Corruption Taboos operate through informal social pressure, community enforcement, and deeply internalized cultural conditioning. They represent humanity's collective psychological response to an existential threat that cannot be fully understood, controlled, or eliminated—only managed through rigid social discipline and cultural vigilance.
 
@@ -60,7 +64,7 @@ What makes these taboos particularly complex is their dual nature as both protec
 
 *"When Fear Became Wisdom"*
 
-The earliest Crystal Corruption Taboos emerged during the chaotic years immediately following [[12_Research/D&D_References/The Great Crystallization]], when communities struggled to understand and respond to the unprecedented threat of reality-warping corruption.
+The earliest Crystal Corruption Taboos emerged during the chaotic years immediately following [[The Great Crystallization]], when communities struggled to understand and respond to the unprecedented threat of reality-warping corruption.
 
 **Initial Response Patterns (Years 1-5)**:
 - **Instinctive Avoidance**: Natural human tendency to avoid obviously corrupted areas and individuals
@@ -1015,36 +1019,36 @@ Taboo variation between communities and worlds creates adventures focused on cul
 
 ### Institutional Connections
 
-- [[12_Research/D&D_References/The Warden Guilds]] - Professional organizations enforcing corruption taboos and community safety
-- [[12_Research/D&D_References/The Purification Temples]] - Religious institutions providing spiritual framework for taboo observance
-- [[12_Research/D&D_References/The Integration Institute]] - Research and educational organization studying corruption and taboo effectiveness
-- [[12_Research/D&D_References/The Rights Advocacy Alliance]] - Legal and social organization protecting individuals from taboo-related discrimination
+- [[The Warden Guilds]] - Professional organizations enforcing corruption taboos and community safety
+- [[The Purification Temples]] - Religious institutions providing spiritual framework for taboo observance
+- [[The Integration Institute]] - Research and educational organization studying corruption and taboo effectiveness
+- [[The Rights Advocacy Alliance]] - Legal and social organization protecting individuals from taboo-related discrimination
 - [[The Cultural Preservation Society]] - Traditional organization maintaining historical taboo practices and knowledge
 
 ### Geographic Connections
 
-- [[12_Research/D&D_References/The Crystallization Sites]] - Original locations where corruption taboos first developed
-- [[12_Research/D&D_References/The Reform Communities]] - Progressive areas experimenting with modified taboo approaches
-- [[12_Research/D&D_References/The Traditional Enclaves]] - Conservative communities maintaining strict historical taboo practices
-- [[12_Research/D&D_References/The Neutral Zones]] - Areas attempting to balance different approaches to taboo and corruption
-- [[12_Research/D&D_References/The Hybrid Settlements]] - Communities developing compromise solutions between traditional and reform approaches
+- [[The Crystallization Sites]] - Original locations where corruption taboos first developed
+- [[The Reform Communities]] - Progressive areas experimenting with modified taboo approaches
+- [[The Traditional Enclaves]] - Conservative communities maintaining strict historical taboo practices
+- [[The Neutral Zones]] - Areas attempting to balance different approaches to taboo and corruption
+- [[The Hybrid Settlements]] - Communities developing compromise solutions between traditional and reform approaches
 
 ### Individual Connections
 
 - [[Cultural Anthropologist Warden Clearlight]] - Leading researcher studying taboo development and social effects
-- [[12_Research/D&D_References/Reform Advocate Justice Truthseeker]] - Prominent activist working to modify discriminatory taboo practices
-- [[12_Research/D&D_References/Traditional Elder Wisdom Keeper]] - Respected community leader defending historical taboo importance
-- [[12_Research/D&D_References/Legal Advocate Rights Defender]] - Professional lawyer specializing in corruption discrimination cases
-- [[12_Research/D&D_References/Community Mediator Balance Wright]] - Specialist helping communities navigate taboo-related conflicts
+- [[Reform Advocate Justice Truthseeker]] - Prominent activist working to modify discriminatory taboo practices
+- [[Traditional Elder Wisdom Keeper]] - Respected community leader defending historical taboo importance
+- [[Legal Advocate Rights Defender]] - Professional lawyer specializing in corruption discrimination cases
+- [[Community Mediator Balance Wright]] - Specialist helping communities navigate taboo-related conflicts
 
 ---
 
 *"The taboos we create to protect ourselves can become the chains that bind us. The wisdom lies not in abandoning all boundaries, but in ensuring that our protective measures serve justice as well as safety, compassion as well as survival."*
-*— [[12_Research/D&D_References/Philosopher-Reformer Unity Bridgewright]], "The Ethics of Necessary Boundaries"*
+*— [[Philosopher-Reformer Unity Bridgewright]], "The Ethics of Necessary Boundaries"*
 
 ## Connections
 
-- [[12_Research/D&D_References/The Deep Mother]]
+- [[The Deep Mother]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -1070,8 +1074,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[12_Research/D&D_References/The Great Crystallization]]
-- [[12_Research/D&D_References/Aethermoor]]
+- [[The Great Crystallization]]
+- [[Aethermoor]]
 
 
 ## Related

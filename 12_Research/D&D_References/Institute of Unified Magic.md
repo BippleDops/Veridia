@@ -1,15 +1,21 @@
+# Institute of Unified Magic
+
 ---
-tags:
-- active
-- both worlds
-- both-worlds
-- lore
+title: Institute of Unified Magic
 type: Lore
-world: Both Worlds
-status: active
+tags:
+- lore
+- both worlds
+- research
+- both-worlds
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both Worlds
 updated: '2025-08-13T01:18:35.049666+00:00'
 ---
+
 
 
 
@@ -48,3 +54,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Spell Lists]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,14 +1,20 @@
+# Captain Torren Stormwright
+
 ---
-tags:
-- active
-- both
-- npc
+title: Captain Torren Stormwright
 type: NPC
-world: Both
-status: active
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.854909+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-captain-torren-stormwright-captain-torren-stormwright.svg]]
@@ -62,3 +68,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Captain Torren Stormwright|02 Worldbuilding/People/Captain Torren Stormwright]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

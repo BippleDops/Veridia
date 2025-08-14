@@ -1,22 +1,29 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
-danger_level: Moderate
-status: complete
+title: The Unremembered Parliament
+type: Location
 tags:
 - aquabyssos
-- complete
-- content/faction
-- content/location
-- content/lore
-- location
-- status/complete
 - supernatural
+- status/complete
+- content/faction
+- content/lore
+- content/location
+- place
+- active
+- location
+- complete
 - world/aquabyssos
-type: Location
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+created_by: auto-stub
+danger_level: Moderate
 updated: '2025-08-13T12:34:17.112888+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -128,6 +135,27 @@ The spirits cannot rest until their final legislation is properly addressed:
 - Government agents protecting state secrets
 - Spiritual attachment to unresolved political anger
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 This location works well for political campaigns exploring themes of democracy, corruption, and historical truth. The supernatural elements add mystery while the political implications create ongoing consequences for character actions.
 
@@ -168,3 +196,85 @@ Legends speak of The Unremembered Parliament as a nexus where past and present c
 - [[The Unremembered Parliament]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-wandering-prophet-coral-stormrider-v1-wandering-prophet-coral-stormrider.svg]]
+- [[Aethermoor]]
+- [[04_Resources_Assets_Locations_location-city-memory-tide-pools-v1-memory-tide-pools.svg]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+The Unremembered Parliament is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Unremembered Parliament
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting The Unremembered Parliament:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Unremembered Parliament
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

@@ -1,15 +1,21 @@
+# Stormwatch Keep
+
 ---
-tags:
-- active
-- both
-- location
+title: Stormwatch Keep
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.411022+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-stormwatch-keep-stormwatch-keep.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Stormwatch Keep|02 Worldbuilding/Places/Stormwatch Keep]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

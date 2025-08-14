@@ -1,24 +1,31 @@
+# Warden Marcus Stonehand
+
 ---
+title: Warden Marcus Stonehand
+type: Location
 tags:
 - aquabyssos
-- complete
-- location
-- marcus
 - npc
 - prison
-- stonehand
+- research
+- active
 - warden
+- location
+- complete
+- stonehand
+- marcus
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.124884+00:00'
 danger_level: Moderate
 ---
+
 
 
 
@@ -168,3 +175,8 @@ Legends speak of Warden Marcus Stonehand as a nexus where past and present conve
 - [[Warden Marcus Stonehand|02 Worldbuilding/Places/Warden Marcus Stonehand]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

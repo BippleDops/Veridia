@@ -1,22 +1,28 @@
+# United Councils of Both Worlds
+
 ---
+title: United Councils of Both Worlds
+type: Lore
 tags:
-- aethermoor
 - alliance
 - aquabyssos
-- both worlds
-- both-worlds
-- complete
-- cooperation
-- diplomacy
-- government
-- joint-council
 - lore
+- diplomacy
+- cooperation
+- both worlds
+- joint-council
+- both-worlds
 - organization
+- government
+- research
+- active
+- complete
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both Worlds
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.510517+00:00'
 organization_type: International Alliance
 scope: Both Worlds
@@ -24,6 +30,7 @@ authority: Diplomatic/Advisory
 current_status: Active
 leadership: Joint Council
 ---
+
 
 
 
@@ -393,3 +400,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Ocean Ecosystem Management]]
 - [[Deputy Archmerchant Scroll Deepmind]]
 - [[Finn Deepmarket]]
+
+
+## Related
+
+*Links to related content will be added here.*

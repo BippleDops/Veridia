@@ -1,30 +1,37 @@
+# The Crown Authority
+
 ---
-tags:
-- aethermoor
-- bureaucracy
-- complete
-- faction
-- government
-- group
-- major-faction
-- political
-status: complete
-world: Aethermoor
+title: The Crown Authority
 type: Group
+tags:
+- faction
+- political
+- research
+- government
+- active
+- complete
+- bureaucracy
+- major-faction
+- aethermoor
+- group
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Administrative Palace]]'
+world: Aethermoor
 faction_type: Royal Administration
 alignment: Lawful Neutral
-headquarters: '[[The Administrative Palace]]'
 leader: '[[High Administrator Cornelius Protocols]]'
 members: ~15,000 civil servants, clerks, and administrators
 influence: Kingdom-wide
 wealth: Substantial (royal treasury access)
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.766907+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] Heraldry

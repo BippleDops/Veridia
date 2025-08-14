@@ -1,27 +1,34 @@
+# Keeper of the Dead Sister Morwyn
+
 ---
-MyCategory: NPC
-MyContainer: None
-created: '2025-08-11'
-created_by: auto-stub
-danger_level: Moderate
-obsidianUIMode: preview
-status: complete
+title: Keeper of the Dead Sister Morwyn
+type: Location
 tags:
 - aquabyssos
-- cleric
-- complete
+- status/complete
+- sister
+- research
 - content/location
 - content/npc
 - death
-- keeper
+- active
 - location
-- sister
-- status/complete
+- complete
+- keeper
 - world/aquabyssos
-type: Location
+- cleric
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+MyCategory: NPC
+MyContainer: None
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.012331+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -174,3 +181,8 @@ Legends speak of Keeper of the Dead, Sister Morwyn as a nexus where past and pre
 
 <!-- enriched: true -->
 nriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

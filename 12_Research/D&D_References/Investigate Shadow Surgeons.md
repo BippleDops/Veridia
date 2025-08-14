@@ -1,27 +1,34 @@
+# Investigate Shadow Surgeons
+
 ---
+title: Investigate Shadow Surgeons
+type: Group
 tags:
 - aquabyssos
-- complete
-- faction
-- group
-- healing
-- investigation
 - medical-organization
+- investigation
 - shadow-research
+- faction
+- research
+- active
+- complete
+- healing
+- group
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+headquarters: '[[The Surgical Sanctum]] (Hospital Complex)'
 world: Aquabyssos
-type: Group
 faction_type: Medical Research Organization
 alignment: Neutral Good
-headquarters: '[[The Surgical Sanctum]] (Hospital Complex)'
 leader: '[[Chief Surgeon Nerissa Tideheart]]'
 members: ~450 medical professionals and researchers
 influence: Significant (Medical Community)
 purpose: Study and counter shadow-based medical afflictions
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.744178+00:00'
 ---
+
 
 
 > [!figure] Heraldry

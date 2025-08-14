@@ -1,11 +1,16 @@
 ---
-created: 2025-08-14
+title: Quick NPC Search
 type: search-tool
 tags:
-- search
-- reference
+- index
 - tool
+- reference
+- active
+- search
+created: 2025-08-14
+modified: '2025-08-14'
 ---
+
 
 # Quick NPC Search
 

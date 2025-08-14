@@ -1,31 +1,38 @@
+# Timeline of Crimes
+
 ---
+title: Timeline of Crimes
+type: Lore
 tags:
-- aquabyssos-aethermoor
-- both worlds
-- both-worlds
-- chronological-crimes
-- complete
-- conspiracy
-- conspiracy-development
-- criminal-patterns
-- hidden-history
-- historical-analysis
-- investigation-framework
 - lore
 - secret-operations
+- conspiracy-development
+- historical-analysis
+- chronological-crimes
 - timeline
+- both worlds
+- hidden-history
+- both-worlds
+- research
+- active
+- complete
+- criminal-patterns
+- conspiracy
+- investigation-framework
+- aquabyssos-aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both Worlds
-type: Lore
 system_type: Chronological Investigation Framework
 scope: Multiversal - tracking conspiracy development across both worlds and time
 complexity_level: 9
 timeline_span: From pre-history to current events, approximately 3,000+ years
 primary_users: Master Investigators, Temporal Researchers, Conspiracy Analysts
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:35.533787+00:00'
 ---
+
 
 
 
@@ -117,3 +124,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Final Choice]]
 - [[The Silverscale Conspiracy]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

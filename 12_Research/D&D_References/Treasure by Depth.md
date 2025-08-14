@@ -1,19 +1,26 @@
+# Treasure by Depth
+
 ---
+title: Treasure by Depth
+type: Lore
 tags:
-- aquabyssos
-- complete
-- depth-scaling
-- loot-tables
 - lore
+- aquabyssos
 - rewards
+- depth-scaling
 - treasure
+- research
+- active
+- complete
+- loot-tables
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -71,3 +78,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

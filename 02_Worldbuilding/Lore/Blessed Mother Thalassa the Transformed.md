@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Blessed Mother Thalassa the Transformed
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Blessed Mother Thalassa the Transformed
 
@@ -24,7 +28,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Temple of Divine Order]]
+- [[Temple of Divine Order]]
 - [[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]
 
 ## Notes

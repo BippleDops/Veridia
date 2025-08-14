@@ -1,18 +1,25 @@
 ---
-created: '2025-08-11'
-danger_level: Moderate
-status: complete
+title: Archivist Vera Glowmind
+type: Location
 tags:
 - both
-- complete
-- content/location
-- location
-- status/in-progress
 - world/both
-type: Location
+- content/location
+- place
+- active
+- location
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+danger_level: Moderate
 updated: '2025-08-13T12:34:17.067183+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -291,6 +298,27 @@ The Glowmind Archives stand as [[Aquabyssos]]'s premier repository of knowledge,
 **Community**: Supporting community knowledge and memory  
 **Celebration**: Celebrating cultural achievements and contributions
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes and Plot Hooks
 
 ### Information Hub
@@ -347,6 +375,27 @@ Legends speak of Archivist Vera Glowmind as a nexus where past and present conve
 - An NPC seeks discreet help at Archivist Vera Glowmind to avert a public scandal.
 - A map overlay reveals a hidden approach to Archivist Vera Glowmind active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -356,3 +405,85 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Archivist Vera Glowmind]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- [[NPC Name 1]]
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-grand-harbor-v1-grand-harbor.svg]]
+- [[Military Intelligence]]
+- [[The Whispering Peaks]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+Archivist Vera Glowmind is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Archivist Vera Glowmind
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Archivist Vera Glowmind:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Archivist Vera Glowmind
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

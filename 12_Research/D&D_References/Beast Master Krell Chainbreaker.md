@@ -1,20 +1,27 @@
+# Beast Master Krell Chainbreaker
+
 ---
+title: Beast Master Krell Chainbreaker
+type: Location
 tags:
 - aquabyssos
 - beast-master
+- npc
+- research
+- dangerous
+- active
+- location
 - complete
 - criminal
-- dangerous
-- location
-- npc
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.548516+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -149,3 +156,8 @@ Legends speak of Beast Master Krell Chainbreaker as a nexus where past and prese
 - [[Beast Master Krell Chainbreaker|02 Worldbuilding/Places/Beast Master Krell Chainbreaker]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

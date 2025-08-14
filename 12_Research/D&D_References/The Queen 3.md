@@ -1,26 +1,33 @@
+# The Queen 3
+
 ---
-category: Royal Authority
-created: '2025-08-08'
-created_by: auto-stub
-significance: Campaign-Critical
-status: complete
+title: The Queen 3
+type: Lore
 tags:
-- aethermoor
-- campaign/arc
-- complete
-- content/lore
-- convergence
 - lore
 - political-power
-- queen-seraphina
+- convergence
 - royal-court
-- shadow-corruption
 - status/complete
+- shadow-corruption
+- content/lore
+- research
+- queen-seraphina
 - world/aethermoor
-type: Lore
+- campaign/arc
+- active
+- complete
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+category: Royal Authority
+created_by: auto-stub
+significance: Campaign-Critical
 updated: '2025-08-13T12:34:29.314752+00:00'
 world: Aethermoor
 ---
+
 
 
 

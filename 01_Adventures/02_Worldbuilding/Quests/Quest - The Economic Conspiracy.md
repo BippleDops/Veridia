@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Quest   The Economic Conspiracy
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Quests/Quest - The Economic Conspiracy
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Banker Titus Goldcurrent]]
+- [[Banker Titus Goldcurrent]]
 - [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
 
 ## Notes
@@ -36,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Locations_location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
+- [[04_Resources_Assets_Locations_location-city-archdruid-marina-kelpweaver-v1-archdruid-marina-kelpweaver.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-archmerchant-codex-goldstrea-archmerchant-codex-goldstrea.svg]]
+- [[04_Resources_Assets_Locations_location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-dockworkers-union-dockworkers-union.svg]]
+
+
+## Important Locations
+
+- [[Royal Palace of Meridian]]
+- [[04_Resources_Assets_Locations_location-city-transportation-guild-v1-transportation-guild.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-shadow-markets-new-the-shadow-markets-new.svg]]

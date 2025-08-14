@@ -1,22 +1,29 @@
+# Garden of Shadows
+
 ---
+title: Garden of Shadows
+type: Location
 tags:
 - aquabyssos
-- complete
-- garden
-- location
 - mysterious
+- complete
+- research
 - shadows
+- active
+- location
+- garden
+created: 2025-08-08 - Category/Place
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Location
 obsidianUIMode: preview
 updated: '2025-08-11T00:00:00+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-garden-of-shadows-garden-of-shadows.svg]]
@@ -166,3 +173,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Garden of Shadows|02 Worldbuilding/Places/Garden Of Shadows]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

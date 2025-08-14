@@ -1,14 +1,21 @@
+# Session_12_Character_Focused_Example
+
 ---
-created: '2025-08-13'
-status: complete
+title: Session 12 Character Focused Example
+type: Session Summary
 tags:
 - player/session-summary
 - campaign/example
+- research
+- active
 - character/development
-type: Session Summary
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Aquabyssos
 ---
+
 
 # Session 12: Character Development Focus
 ## Personal Stakes and Family Bonds
@@ -131,3 +138,7 @@ While focusing on character development, the session advanced several campaign p
 ---
 
 *Character-focused sessions create emotional investment and make the larger campaign more personally meaningful for players.*
+
+## Related
+
+*Links to related content will be added here.*

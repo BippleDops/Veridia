@@ -1,13 +1,21 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry quest the family reconciliatio quest the family reconciliatio.svg
+aliases:
+- symbol heraldry quest the family reconciliatio quest the family reconciliatiosvg
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-quest-the-family-reconciliatio-quest-the-family-reconciliatio.svg
 
@@ -24,8 +32,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Quest - The Family Reconciliatio]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Quest - The Family Reconciliatio]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 
@@ -36,3 +44,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Senator Glaucus Brain]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-silverscale-consortium-silverscale-consortium.svg]]
+- [[Ambassador Korvin Blacktide]]
+- [[04_Resources_Assets_Locations_location-city-master-finn-liquidlight-v1-master-finn-liquidlight.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-pressure-lords-pressure-lords.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-wandering-prophet-coral-stormrider-v1-wandering-prophet-coral-stormrider.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-queen-nerida-queen-nerida.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-shadow-binding-sanctum-shadow-binding-sanctum.svg]]

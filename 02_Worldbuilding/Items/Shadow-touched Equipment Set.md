@@ -1,27 +1,32 @@
 ---
-affiliation: '[[The Deep Mother]] (Corrupted by Shadow)'
+title: Shadow touched Equipment Set
+type: Item
+tags:
+- aquabyssos
+- cursed
+- deep-mother-connected
+- status/complete
+- active
+- complete
+- content/item
+- world/aquabyssos
+- item
+- shadow-touched
 created: '2025-08-10'
+modified: '2025-08-14'
+status: complete
+rarity: Very Rare (Cursed)
+value: Unknown
+affiliation: '[[The Deep Mother]] (Corrupted by Shadow)'
 created_by: Claude
 current_location: Scattered Across Shadow-Touched Locations
 danger_level: 4
 item_type: Cursed Equipment Set
-rarity: Very Rare (Cursed)
 requires_attunement: Yes (by a creature that has been touched by shadow magic)
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/item
-- cursed
-- deep-mother-connected
-- item
-- shadow-touched
-- status/complete
-- world/aquabyssos
-type: Item
 updated: '2025-08-13T12:34:17.756120+00:00'
 world: Aquabyssos
 ---
+
 
 
 

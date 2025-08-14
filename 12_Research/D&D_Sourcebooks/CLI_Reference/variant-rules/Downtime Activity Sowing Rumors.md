@@ -1,22 +1,27 @@
+# Downtime Activity Sowing Rumors
+
 ---
+title: Downtime Activity Sowing Rumors
 aliases:
 - Downtime Activity: Sowing Rumors
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- active
-- both
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/dmg
-- world/both
 type: note
+tags:
+- both
+- research
+- world/both
+- active
+- note
+- ttrpg-cli/compendium/src/5e/dmg
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:04.618299+00:00'
 world: Both
 ---
+
 
 
 # Downtime Activity: Sowing Rumors
@@ -58,3 +63,8 @@ Legends speak of downtime activity sowing rumors as a nexus where past and prese
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

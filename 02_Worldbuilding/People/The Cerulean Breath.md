@@ -1,33 +1,38 @@
 ---
+title: The Cerulean Breath
+type: Npc
+tags:
+- aquabyssos
+- status/complete
+- world/aquabyssos
+- npc
+- content/lore
+- character
+- content/npc
+- active
+- dragon-turtle
+- complete
+- content/item
+- sage
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+race: Ancient Dragon Turtle
+class: Draconic Sorcerer/Circle of the Land Druid
+location: '[[The Cerulean Depths]] - Sapphire Grotto'
+level: 20
 MyCategory: NPC
 MyContainer: None
 affiliation: '[[The Depth Wardens]] - Elder Advisor'
 age: 2,847
 alignment: Neutral Good
-class: Draconic Sorcerer/Circle of the Land Druid
-created: '2025-08-08'
 created_by: auto-stub
-level: 20
-location: '[[The Cerulean Depths]] - Sapphire Grotto'
 obsidianUIMode: preview
-race: Ancient Dragon Turtle
 role: Ancient Dragon Turtle Sage
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/item
-- content/lore
-- content/npc
-- dragon-turtle
-- npc
-- sage
-- status/complete
-- world/aquabyssos
-type: Npc
 updated: '2025-08-13T12:34:17.687488+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -160,12 +165,29 @@ Maraleth's shell hosts a complex ecosystem that serves multiple purposes:
 - **Younger Generations** - Balances mentorship with concern about their lack of historical perspective
 - **Her Own Mortality** - Philosophical struggle with the burden of outliving everyone she cares about
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Sharp and precise
+
+**Speech Pattern**: Casual and relaxed
+
+**Physical Habits**: Steeples fingers when thinking
+
 ## Current Activities
 - Documenting the complete history of Aquabyssos before any knowledge is lost to time
 - Training successor scholars who can maintain the Deep Memory Archives after her eventual passing
 - Mediating increasingly complex disputes between Aquabyssos factions with different visions for the future
 - Researching ancient prophecies to help the realm prepare for potential catastrophes
 - Establishing communication with surface world scholars to expand the scope of knowledge preservation
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 ## Motivations
 1. **Primary**: Preserve all knowledge and wisdom for future generations of Aquabyssos inhabitants
@@ -315,6 +337,50 @@ Despite her peaceful nature, Maraleth is still an ancient dragon turtle when thr
 - Guardian of cultural continuity and defender of accumulated wisdom
 - Potential key to resolving major campaign mysteries involving ancient knowledge
 
+
+
+## Plot Hooks
+
+1. **The Request**: The Cerulean Breath needs assistance with a delicate matter
+2. **The Opposition**: Someone wants The Cerulean Breath stopped or removed
+3. **The Secret**: Information about The Cerulean Breath's past surfaces
+4. **The Alliance**: Opportunity to work with or against The Cerulean Breath
+5. **The Crisis**: The Cerulean Breath is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Maraleth provides a way to deliver exposition naturally through her vast knowledge and experience
 - Her long lifespan allows her to serve as witness to major historical events and provide context for current conflicts
@@ -323,6 +389,15 @@ Despite her peaceful nature, Maraleth is still an ancient dragon turtle when thr
 - The Deep Memory Archives provide plot hooks involving lost knowledge, historical mysteries, and cultural preservation
 - Her philosophical struggles with immortality and loss create opportunities for deeper character development and moral complexity
 
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-deep-expansion-the-deep-expansion.svg]]: *mentor*
+- [[04_Resources_Assets_Locations_location-city-quartermaster-shadow-supply-quartermaster-shadow-supply.svg]]: *competitor*
+- [[Lady Victoria Pennworth]]: *family member*
+- [[04_Resources_Assets_Locations_location-city-enchanter-valdris-peacewarden-v1-enchanter-valdris-peacewarden.svg]]: *family member*
 
 ## Connections
 

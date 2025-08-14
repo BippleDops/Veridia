@@ -1,17 +1,23 @@
+# Scholar_and_Academic_Guide
+
 ---
-created: '2025-08-13'
-status: complete
+title: Scholar and Academic Guide
+type: Guide
 tags:
-- gm-resources
 - npc-guides
-- scholars
 - academics
 - research
 - knowledge
-type: Guide
+- gm-resources
+- scholars
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
+
 
 # Scholar and Academic Guide
 
@@ -383,3 +389,7 @@ world: Both
 - [[Memory_Magic_Reference]]
 - [[Crystal_Corruption_Reference]]
 - [[Shadow_Conspiracy]]
+
+## Related
+
+*Links to related content will be added here.*

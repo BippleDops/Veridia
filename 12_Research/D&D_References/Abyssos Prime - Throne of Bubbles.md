@@ -1,25 +1,32 @@
+# Abyssos Prime - Throne of Bubbles
+
 ---
-MyCategory: Royal
-MyContainer: None
-created: '2025-08-11'
-created_by: auto-stub
-obsidianUIMode: preview
-status: complete
+title: Abyssos Prime   Throne of Bubbles
+type: Npc
 tags:
 - aquabyssos
-- bubbles
-- complete
+- status/complete
+- royal
+- throne
+- npc
+- research
 - content/location
 - content/npc
-- npc
-- royal
-- status/complete
-- throne
+- active
+- complete
 - world/aquabyssos
-type: Npc
+- bubbles
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+MyCategory: Royal
+MyContainer: None
+created_by: auto-stub
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.475939+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -146,3 +153,8 @@ Legends speak of Abyssos Prime   Throne of Bubbles as a nexus where past and pre
 
 <!-- enriched: true -->
 nriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

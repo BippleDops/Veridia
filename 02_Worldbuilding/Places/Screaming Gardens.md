@@ -1,20 +1,27 @@
 ---
-created: '2025-08-11'
-danger_level: Moderate
-status: complete
+title: Screaming Gardens
+type: Location
 tags:
-- combat
-- crystal-enhanced
 - both
-- complete
+- world/both
 - content/location
+- place
+- active
+- combat
+- complete
 - location
 - status/in-progress
-- world/both
-type: Location
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+danger_level: Moderate
 updated: '2025-08-13T12:34:16.721580+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -40,7 +47,7 @@ During the Cataclysm of Tides, thousands of children were at the Meridian Youth 
 
 ### The Conductor's Arrival
 
-Fifty years ago, a musician named Orpheus Deepnote went mad trying to compose a symphony from the screams. He transformed himself into living sound, becoming [[12_Research/D&D_References/The Conductor]], and now orchestrates the gardens' cacophony into prophetic warnings.
+Fifty years ago, a musician named Orpheus Deepnote went mad trying to compose a symphony from the screams. He transformed himself into living sound, becoming [[The Conductor]], and now orchestrates the gardens' cacophony into prophetic warnings.
 
 ## Geography
 
@@ -223,13 +230,34 @@ The gardens are expanding faster than new deaths can account for. Trees are appe
 
 ### To Aethermoor
 
-The gardens exist partially in [[12_Research/D&D_References/Port Meridian]], where sensitive individuals hear children singing/screaming near the old academy ruins. During crystal plague outbreaks, new trees appear in both locations simultaneously.
+The gardens exist partially in [[Port Meridian]], where sensitive individuals hear children singing/screaming near the old academy ruins. During crystal plague outbreaks, new trees appear in both locations simultaneously.
 
 ### To Other Districts
 
 - **Parliament of Echoes**: Executions performed here end in the gardens
 - **Memory Meadows**: Memory parasites migrate between locations
 - **Reflection Pools**: Sometimes reflect the gardens' victims before transformation
+
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
 
 ## DM Notes
 
@@ -260,20 +288,20 @@ The gardens exist partially in [[12_Research/D&D_References/Port Meridian]], whe
 ---
 
 **Related Locations**:
-- [[12_Research/D&D_References/Abyssos Prime]]
-- [[12_Research/D&D_References/Parliament of Echoes]]
-- [[12_Research/D&D_References/Gallery of Frozen Waves]]
+- [[Abyssos Prime]]
+- [[Parliament of Echoes]]
+- [[Gallery of Frozen Waves]]
 - [[12_Research/D&D_Statblocks/The Memory Meadows]]
 
 **Related NPCs**:
-- [[12_Research/D&D_References/The Conductor]]
-- [[12_Research/D&D_References/The Scattered Emperor]]
-- [[12_Research/D&D_References/Marina-Red-Tide-Coralheart]]
+- [[The Conductor]]
+- [[The Scattered Emperor]]
+- [[Marina-Red-Tide-Coralheart]]
 
 **Related Mechanics**:
-- [[12_Research/D&D_References/Scream Saturation Rules]]
-- [[12_Research/D&D_References/Memory Parasite Infection]]
-- [[12_Research/D&D_References/Crystallization Process]]
+- [[Scream Saturation Rules]]
+- [[Memory Parasite Infection]]
+- [[Crystallization Process]]
 
 ## Player-Facing Summary
 
@@ -291,7 +319,7 @@ Legends speak of Screaming Gardens as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Screaming Gardens]]
+- [[Screaming Gardens]]
 
 <!-- enriched: true -->
 
@@ -299,3 +327,58 @@ Legends speak of Screaming Gardens as a nexus where past and present converge. L
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-temple-of-echoing-tides-v1-temple-of-echoing-tides.svg]]
+- [[04_Resources_Assets_Locations_location-city-portal-technician-voidwalk-v1-portal-technician-voidwalk.svg]]
+- [[04_Resources_Assets_Locations_location-city-port-meridian-v1-port-meridian.svg]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+Screaming Gardens is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Current Events
+
+Ongoing situations affecting Screaming Gardens:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Screaming Gardens
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

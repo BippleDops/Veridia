@@ -1,21 +1,27 @@
+# ability-score-improvement-xphb
+
 ---
+title: ability score improvement xphb
 aliases:
 - Ability Score Improvement
-created: 2025-07-23
-cssclasses: json5e-feat
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- ttrpg-cli/feat
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/feat
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-feat
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.475793'
 world: Both
 ---
+
 
 # Ability Score Improvement
 *Source: Player's Handbook (2024) p. 202. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -45,3 +51,8 @@ Legends speak of ability score improvement xphb as a nexus where past and presen
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

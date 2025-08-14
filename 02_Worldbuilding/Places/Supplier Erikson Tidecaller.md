@@ -1,35 +1,42 @@
 ---
+title: Supplier Erikson Tidecaller
+type: Location
+tags:
+- aquabyssos
+- status/complete
+- mechanics/magic
+- business
+- content/location
+- content/npc
+- supplier
+- place
+- active
+- location
+- complete
+- reliable
+- world/aquabyssos
+- naval-supplies
+- merchant
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+race: Triton
+class: Expert/Artificer
+location: '[[Harbor District]] - Tidecaller''s Emporium'
+region: Unknown
+population: Unknown
 MyCategory: Merchant
 MyContainer: None
 category: Magical Supplier
-class: Expert/Artificer
-created: '2025-08-08'
 created_by: auto-stub
 danger_level: Low
 faction: Independent Merchant
 influence: Moderate
-location: '[[Harbor District]] - Tidecaller''s Emporium'
 obsidianUIMode: preview
-race: Triton
-status: complete
-tags:
-- aquabyssos
-- business
-- complete
-- content/location
-- content/npc
-- location
-- mechanics/magic
-- merchant
-- naval-supplies
-- reliable
-- status/complete
-- supplier
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.982925+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -156,6 +163,27 @@ Supplier Erikson Tidecaller is a undersea element of the setting, known for biol
 
 Legends speak of Supplier Erikson Tidecaller as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Supplier Erikson Tidecaller.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -167,3 +195,85 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 <!-- enriched: true -->
 - [[Abyssos Prime]]
 - [[Harbor Master Luna Freedrift]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-the-forgotten-mourner-the-forgotten-mourner.svg]]
+- [[04_Resources_Assets_Locations_location-city-garden-of-shadows-v1-garden-of-shadows.svg]]
+- [[Navigator Flux]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+Supplier Erikson Tidecaller is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Supplier Erikson Tidecaller
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Supplier Erikson Tidecaller:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Supplier Erikson Tidecaller
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

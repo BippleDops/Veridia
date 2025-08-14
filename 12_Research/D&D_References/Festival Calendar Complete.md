@@ -1,20 +1,27 @@
+# Festival Calendar Complete
+
 ---
-tags:
-- both
-- culture
-- complete
-- festivals
-- calendar
-- celebrations
-- seasonal-events
-- lore
-world: Both
+title: Festival Calendar Complete
 type: Lore
-status: complete
-created_by: cultural-expansion
+tags:
+- lore
+- both
+- festivals
+- culture
+- seasonal-events
+- calendar
+- research
+- active
+- complete
+- celebrations
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Both
+created_by: cultural-expansion
 updated: '2025-08-12T00:00:00+00:00'
 ---
+
 
 # Festival Calendar Complete
 *"In the rhythm of seasons and tides, both realms find their heartbeat - celebrating what connects us to the eternal cycles of water and wind."*
@@ -664,3 +671,7 @@ Consider how festival timing might affect other campaign elements - trade routes
 The extensive festival calendar also provides natural campaign pacing, with seasonal celebrations marking the passage of time and providing regular opportunities for characters to engage with community life and cultural traditions.
 
 <!-- enriched: true -->
+
+## Related
+
+*Links to related content will be added here.*

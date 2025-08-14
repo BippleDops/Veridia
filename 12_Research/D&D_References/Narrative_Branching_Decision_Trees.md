@@ -1,3 +1,15 @@
+# Narrative_Branching_Decision_Trees
+
+---
+title: Narrative Branching Decision Trees
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Narrative Branching Decision Trees - Phase 2 Deep Planning
 
 ## Meta Information
@@ -469,3 +481,7 @@ Queen's Corruption Response
 **Decision Points Mapped**: 47 major choice nodes
 **Consequence Chains**: 156 tracked outcome sequences
 **Integration Depth**: Cross-campaign decision impact analysis complete
+
+## Related
+
+*Links to related content will be added here.*

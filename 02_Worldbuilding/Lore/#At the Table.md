@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: '#At the Table'
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # #At the Table
 
@@ -24,8 +28,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Template-Lore]]
-- [[12_Research/D&D_References/Template-Lor]]
+- [[Template-Lore]]
+- [[Template-Lor]]
 
 ## Notes
 

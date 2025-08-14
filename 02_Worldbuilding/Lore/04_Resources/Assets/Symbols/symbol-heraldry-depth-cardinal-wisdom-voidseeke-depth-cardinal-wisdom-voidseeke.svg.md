@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry depth cardinal wisdom voidseeke depth cardinal wisdom voidseeke.svg
+aliases:
+- symbol heraldry depth cardinal wisdom voidseeke depth cardinal wisdom voidseekesvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-depth-cardinal-wisdom-voidseeke-depth-cardinal-wisdom-voidseeke.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Depth Cardinal Wisdom Voidseeke]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Depth Cardinal Wisdom Voidseeke]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

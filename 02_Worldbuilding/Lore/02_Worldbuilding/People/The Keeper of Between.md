@@ -1,13 +1,22 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: The Keeper of Between
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- npc
+- character
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+race: Unknown
+class: Unknown
+location: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/People/The Keeper of Between
 
@@ -24,7 +33,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Observatory Between]]
+- [[The Observatory Between]]
 - [[02_Worldbuilding/Places/The Observatory Between]]
 
 ## Notes

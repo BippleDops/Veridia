@@ -1,11 +1,18 @@
+# DM_Advice_Articles
+
 ---
-created: 2025-08-14
+title: DM Advice Articles
 type: research
 tags:
-- articles
 - dm-advice
+- research
+- articles
+- active
 - reference
+created: 2025-08-14
+modified: '2025-08-14'
 ---
+
 
 # Essential DM Advice Articles
 
@@ -42,3 +49,8 @@ tags:
 
 ---
 *Curated DM advice from expert sources*
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,14 +1,20 @@
+# Parliament of Shadow
+
 ---
-tags:
-- active
-- aquabyssos
-- group
+title: Parliament of Shadow
 type: Group
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- group
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.769559+00:00'
 ---
+
 
 
 
@@ -51,3 +57,8 @@ Legends speak of Parliament of Shadows 2 as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

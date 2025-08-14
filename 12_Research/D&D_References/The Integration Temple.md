@@ -1,15 +1,21 @@
+# The Integration Temple
+
 ---
-tags:
-- active
-- both
-- location
+title: The Integration Temple
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.433156+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-integration-temple-the-integration-temple.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Integration Temple|02 Worldbuilding/Places/The Integration Temple]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

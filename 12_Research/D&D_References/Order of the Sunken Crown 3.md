@@ -1,21 +1,28 @@
+# Order of the Sunken Crown 3
+
 ---
-created: '2025-08-08'
-created_by: auto-stub
-status: complete
+title: Order of the Sunken Crown 3
+type: Lore
 tags:
-- aquabyssos
-- complete
-- content/faction
-- content/lore
 - lore
+- aquabyssos
 - order
 - status/complete
 - sunken-crown
+- content/faction
+- content/lore
+- research
+- active
+- complete
 - world/aquabyssos
-type: Lore
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+created_by: auto-stub
 updated: '2025-08-13T12:34:29.129405+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -85,3 +92,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Thalassius the Wise]]
+
+
+## Related
+
+*Links to related content will be added here.*

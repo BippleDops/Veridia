@@ -1,18 +1,25 @@
+# The Seven Shards Campaign Act Structure
+
 ---
-created: '2025-08-11'
-obsidianUIMode: preview
-status: complete
+title: The Seven Shards Campaign Act Structure
+type: Adventure
 tags:
 - adventure
-- campaign/arc
-- complete
 - status/complete
-- universal
+- complete
+- research
 - world/both
-type: Adventure
+- active
+- campaign/arc
+- universal
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.817254+00:00'
 world: Universal
 ---
+
 
 
 
@@ -71,3 +78,8 @@ Legends speak of Act Structure as a nexus where past and present converge. Local
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

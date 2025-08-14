@@ -1,22 +1,29 @@
+# The Recursion Oracle
+
 ---
+title: The Recursion Oracle
+type: Lore
+tags:
+- lore
+- aquabyssos
+- both
+- oracle
+- time
+- worldbuilding
+- research
+- prophecy
+- active
+- complete
+- recursion
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
-tags:
-- aquabyssos
-- both
-- complete
-- lore
-- oracle
-- prophecy
-- recursion
-- time
-- worldbuilding
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
-created: '2025-08-11'
-type: Lore
 ---
+
 
 
 

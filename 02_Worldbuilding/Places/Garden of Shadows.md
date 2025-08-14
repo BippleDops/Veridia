@@ -1,27 +1,34 @@
 ---
+title: Garden of Shadows
+type: Location
+tags:
+- aquabyssos
+- mysterious
+- status/complete
+- aquatic
+- content/location
+- shadows
+- place
+- active
+- garden
+- complete
+- location
+- world/aquabyssos
+- shadow-touched
+created: 2025-08-08 - Category/Place
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Location
 MyContainer: None
-created: 2025-08-08 - Category/Place
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
-status: complete
-tags:
-- shadow-touched
-- aquatic
-- aquabyssos
-- complete
-- content/location
-- garden
-- location
-- mysterious
-- shadows
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.682610+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -130,7 +137,7 @@ Initially viewed with suspicion by some citizens who associated darkness with ma
 ## Connections
 
 The Garden connects to Aquabyssos's main thoroughfares through a series of gradually darkening passages that allow visitors to adapt to the lightless environment. Secret passages link it to other mystical sites in the city, while its philosophical network extends to similar institutions in other underwater realms and even some surface locations dedicated to the study of darkness and shadow.
-- [[12_Research/D&D_References/Lumengarde]]
+- [[Lumengarde]]
 
 
 ## Layout
@@ -164,16 +171,94 @@ Garden of Shadows is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Garden of Shadows as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Garden of Shadows.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Garden of Shadows]]
+- [[Garden of Shadows]]
 
 <!-- enriched: true -->
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[Mad Prophet Silas the Depth-Touched]]
+- [[Current Peaceweaver]]
+- [[04_Resources_Assets_Locations_location-city-the-gilded-shard-the-gilded-shard.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+Garden of Shadows is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Garden of Shadows
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

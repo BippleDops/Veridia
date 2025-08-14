@@ -1,25 +1,31 @@
+# Transformation Compendium
+
 ---
-created: '2025-01-23'
-status: complete
-tags:
-- body-horror
-- both
-- complete
-- content/lore
-- content/mechanics
-- content/npc
-- evolution
-- lore
-- mutation
-- status/complete
-- transformation
-- world/both
 title: Complete Transformation Compendium
 type: Lore
+tags:
+- lore
+- both
+- status/complete
+- mutation
+- body-horror
+- content/lore
+- world/both
+- research
+- content/npc
+- active
+- complete
+- transformation
+- evolution
+- content/mechanics
+created: '2025-01-23'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.813701+00:00'
 version: 1.0
 world: Both
 ---
+
 
 
 
@@ -1085,3 +1091,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Vault_Navigation_Hub|Vault Navigation Hub]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Brother Marcus Steelbane
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.536756+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -110,12 +118,29 @@ Born **Marcus Ironwright** in the Forge District, he was destined to follow his 
 > - Once killed a man in self-defense before becoming a monk (the trauma shaped his pacifist ideals)
 > - His meditation practices include techniques that border on the forbidden
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Deep and resonant
+
+**Speech Pattern**: Casual and relaxed
+
+**Physical Habits**: Paces while speaking
+
 ## Current Activities
 - Leading daily prayers and meditation sessions at the Crystal Temple
 - Training novice monks in martial arts and spiritual discipline
 - Researching the connection between forge-fire and crystal-fire magic
 - Investigating reports of corrupted flame crystals in the region
 - Serving as spiritual counselor to former criminals seeking redemption
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 ## Motivations
 1. **Primary**: Achieve perfect harmony between inner fire and spiritual peace
@@ -179,6 +204,50 @@ Marcus believes that true strength comes from discipline, not power. He teaches 
 - **Sacred duty**: Protecting others is more important than personal advancement
 - **Balance in all things**: Extremism in any direction leads to corruption
 
+
+
+## Plot Hooks
+
+1. **The Request**: Brother Marcus Steelbane needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Brother Marcus Steelbane stopped or removed
+3. **The Secret**: Information about Brother Marcus Steelbane's past surfaces
+4. **The Alliance**: Opportunity to work with or against Brother Marcus Steelbane
+5. **The Crisis**: Brother Marcus Steelbane is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Perfect mentor figure who can provide training and spiritual guidance
 - His past connections to the forge district provide industrial plot hooks
@@ -206,6 +275,13 @@ Marcus believes that true strength comes from discipline, not power. He teaches 
 - [[02_Worldbuilding/Quests/Quest - Corruption in the Temple|02 Worldbuilding/Quests/Quest Corruption In The Temple]] - Internal investigation
 - [[02_Worldbuilding/Quests/Quest - The Forge of Memory|02 Worldbuilding/Quests/Quest The Forge Of Memory]] - Confronting his past
 
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-witness-protection-protocols-v1-witness-protection-protocols.svg]]: *family member*
+- [[04_Resources_Assets_Portraits_portrait-npc-lady-seraphina-goldleaf-lady-seraphina-goldleaf.svg]]: *sworn enemy*
 
 ## Connections
 

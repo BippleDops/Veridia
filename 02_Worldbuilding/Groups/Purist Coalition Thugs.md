@@ -1,31 +1,37 @@
 ---
+title: Purist Coalition Thugs
+type: Faction
+tags:
+- status/complete
+- content/faction
+- faction
+- organization
+- world/aethermoor
+- active
+- militant
+- complete
+- anti-corruption
+- aethermoor
+- extremist
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Pure Sanctum]]'
+membership: Unknown
 MyCategory: Unknown
 MyContainer: None
 alignment: Chaotic Good (extremist methods)
-created: '2025-08-08'
 created_by: auto-stub
 faction_type: Extremist Movement
-headquarters: '[[The Pure Sanctum]]'
 influence: Regional (Underground network)
 leader: '[[Purifier Marcus Steelbane]]'
 members: ~2,000 active militants, 5,000+ sympathizers
 obsidianUIMode: preview
-status: complete
-tags:
-- aethermoor
-- anti-corruption
-- complete
-- content/faction
-- extremist
-- faction
-- militant
-- status/complete
-- world/aethermoor
-type: Faction
 updated: '2025-08-13T12:34:17.313053+00:00'
 wealth: Limited (donations and seized assets)
 world: Aethermoor
 ---
+
 
 
 > [!figure] Heraldry
@@ -392,3 +398,10 @@ Legends speak of Purist Coalition Thugs as a nexus where past and present conver
 
 - [[Master_Groups_Index|Master Groups Index]]
 - [[Brother Marcus Steelbane]]
+
+
+## Known Members
+
+- [[The Resonance Prophet]]
+- [[Lady Jade Clawgrip]]
+- [[The Sorrowmaster]]

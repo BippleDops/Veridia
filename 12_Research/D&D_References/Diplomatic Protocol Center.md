@@ -1,18 +1,25 @@
+# Diplomatic Protocol Center
+
 ---
+title: Diplomatic Protocol Center
+type: Place
 tags:
+- embassy
+- diplomacy
 - both worlds
 - both-worlds
+- research
+- place
+- active
 - complete
 - cultural-exchange
-- diplomacy
-- embassy
-- place
-type: Place
-world: Both Worlds
-status: complete
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Both Worlds
 updated: '2025-08-13T01:18:36.170709+00:00'
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-diplomatic-protocol-center-diplomatic-protocol-center.svg]]
@@ -289,3 +296,8 @@ Legends speak of Diplomatic Protocol Center as a nexus where past and present co
 - [[Diplomatic Protocol Center|02 Worldbuilding/Places/Diplomatic Protocol Center]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

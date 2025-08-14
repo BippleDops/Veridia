@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: 08 using ability scores#Charisma
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 08-using-ability-scores#Charisma
 
@@ -24,10 +28,10 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Rules_Reference - Quick_Reference - DnD5e-DM Screen-2014]]
-- [[12_Research/D&D_References/Rules_Reference - Quick_Reference - DnD5e-SideScreen-2014]]
-- [[12_Research/D&D_References/Quick_Reference - DnD5e-DM Screen-2014]]
-- [[12_Research/D&D_References/Quick_Reference - DnD5e-SideScreen-2014]]
+- [[Rules_Reference - Quick_Reference - DnD5e-DM Screen-2014]]
+- [[Rules_Reference - Quick_Reference - DnD5e-SideScreen-2014]]
+- [[Quick_Reference - DnD5e-DM Screen-2014]]
+- [[Quick_Reference - DnD5e-SideScreen-2014]]
 
 ## Notes
 

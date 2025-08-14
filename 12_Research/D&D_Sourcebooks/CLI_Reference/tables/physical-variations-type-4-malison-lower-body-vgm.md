@@ -1,20 +1,26 @@
+# physical-variations-type-4-malison-lower-body-vgm
+
 ---
+title: physical variations type 4 malison lower body vgm
 aliases:
 - Physical Variations; Type 4 Malison: Lower Body
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/vgm
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.564147'
 world: Both
 ---
+
 
 # Physical Variations; Type 4 Malison: Lower Body
 *Source: Volo's Guide to Monsters p. 97* 
@@ -50,3 +56,8 @@ Legends speak of physical variations type 4 malison lower body vgm as a nexus wh
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

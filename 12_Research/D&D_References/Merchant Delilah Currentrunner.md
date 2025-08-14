@@ -1,24 +1,31 @@
+# Merchant Delilah Currentrunner
+
 ---
+title: Merchant Delilah Currentrunner
+type: Location
 tags:
 - aquabyssos
-- complete
-- currentrunner
-- delilah
-- location
-- merchant
-- npc
 - trade
+- currentrunner
+- npc
+- research
+- active
+- location
+- complete
+- delilah
+- merchant
+created: 2025-08-11
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: 2025-08-11
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.054860+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-merchant-delilah-currentrunner-merchant-delilah-currentrunner.svg]]
@@ -180,3 +187,8 @@ Legends speak of Merchant Delilah Currentrunner as a nexus where past and presen
 - [[Merchant Delilah Currentrunner|02 Worldbuilding/Places/Merchant Delilah Currentrunner]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Captain Rhea Blackwater
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.696308+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -25,6 +33,12 @@ TODO
 
 TODO
 ## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more aggressive
+- **When Pleased**: Shows open joy
+- **In Conflict**: Tends toward negotiation
+
 
 TODO
 ## Goals
@@ -54,6 +68,100 @@ Legends speak of Captain Rhea Blackwater as a nexus where past and present conve
 - An NPC seeks discreet help at Captain Rhea Blackwater to avert a public scandal.
 - A map overlay reveals a hidden approach to Captain Rhea Blackwater active only during specific tides/storms.
 
+
+
+## Background
+
+Captain Rhea Blackwater's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Accumulating wealth
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Captain Rhea Blackwater harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Dark patron
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Direct and concise
+
+**Physical Habits**: Gestures expressively
+
+## Current Activities
+
+Captain Rhea Blackwater is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Captain Rhea Blackwater needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Captain Rhea Blackwater stopped or removed
+3. **The Secret**: Information about Captain Rhea Blackwater's past surfaces
+4. **The Alliance**: Opportunity to work with or against Captain Rhea Blackwater
+5. **The Crisis**: Captain Rhea Blackwater is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -63,3 +171,30 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Captain Rhea Blackwater]]
 
 <!-- enriched: true -->
+
+
+
+
+## Relationship Web
+
+- [[Otherworldly Pacts]]: *business partner*
+- [[NPCs Statblocks]]: *bitter rival*
+- [[04_Resources_Assets_Locations_location-city-culinary-dreamweaver-sage-gentlespice-v1-culinary-dreamweaver-sage-gentlespice.svg]]: *family member*
+
+## Connections
+
+### Home
+- [[04_Resources_Assets_Locations_location-city-the-umbral-nexus-v1-the-umbral-nexus.svg]]
+
+### Frequently Visits
+- [[04_Resources_Assets_Locations_location-city-marquis-aldwin-goldcurrent-v1-marquis-aldwin-goldcurrent.svg]]
+- [[04_Resources_Assets_Locations_location-city-insurance-industry-v1-insurance-industry.svg]]
+- [[Community Organizations]]
+
+### Affiliations
+- [[Master Cultivator Apprenticeships]]
+
+### Known Associates
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-succession-crisis-the-succession-crisis.svg]] (enemy)
+- [[Emperor Thalassius the Wise]] (ally)
+- [[04_Resources_Assets_Portraits_portrait-npc-lady-catherine-mourning-lady-catherine-mourning.svg]] (enemy)

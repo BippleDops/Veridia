@@ -1,20 +1,27 @@
+# The Eel Keepers
+
 ---
+title: The Eel Keepers
+type: Location
 tags:
 - aquabyssos
-- complete
-- eel-handlers
 - faction
-- guild
+- research
+- active
+- eel-handlers
 - location
+- complete
 - specialized
+- guild
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.517952+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -164,3 +171,8 @@ Legends speak of The Eel Keepers as a nexus where past and present converge. Loc
 - [[The Eel Keepers|02 Worldbuilding/Places/The Eel Keepers]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,27 +1,34 @@
+# Memory Alteration Consequences
+
 ---
+title: Memory Alteration Consequences
+type: Lore
 tags:
-- aquabyssos
-- complete
-- consequences
-- ethics
-- identity
 - lore
+- aquabyssos
 - medical
 - memory-alteration
+- trauma
+- side-effects
+- consequences
+- complete
+- research
 - psychology
 - reality-distortion
-- side-effects
+- active
+- ethics
 - society
-- trauma
+- identity
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 category: Medical/Psychological
 significance: Social Foundation
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -751,3 +758,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Convergence Point|02 Worldbuilding/Lore/The Convergence Point]]
 - [[The Convergence Point]]
 - [[Timeline of the Drowning]]
+
+
+## Related
+
+*Links to related content will be added here.*

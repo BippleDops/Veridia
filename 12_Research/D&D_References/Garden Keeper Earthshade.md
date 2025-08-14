@@ -1,15 +1,21 @@
+# Garden Keeper Earthshade
+
 ---
-tags:
-- active
-- aquabyssos
-- location
+title: Garden Keeper Earthshade
 type: Location
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.241469+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-garden-keeper-earthshade-garden-keeper-earthshade.svg]]
@@ -66,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Shadow Vale]]
+
+
+## Related
+
+*Links to related content will be added here.*

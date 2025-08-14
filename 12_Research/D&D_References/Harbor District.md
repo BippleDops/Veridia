@@ -1,24 +1,30 @@
+# Harbor District
+
 ---
+title: Harbor District
+type: Location
+tags:
+- aquabyssos
+- both
+- harbor
+- research
+- dock
+- active
+- location
+- commercial
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+population: 15000
 updated: '2025-08-13T01:18:36.497355+00:00'
 world: Both
 location_name: Harbor District
 location_type: Commercial Port
 depth: 200-800 feet
-population: 15000
 government: Harbor Authority
 danger_level: 4
-status: active
-type: Location
-tags:
-- active
-- aquabyssos
-- both
-- commercial
-- dock
-- harbor
-- location
 ---
+
 
 
 > [!figure] View
@@ -334,3 +340,7 @@ The Harbor District evolved from emergency surface refugee facilities into a per
 Emphasize the constant sensory complexity of the harbor - sounds echoing strangely through water, smells mixing from a dozen different cultures and species, the tactile pressure of depth constantly reminding characters of their environment. Use the three-level structure to create natural scene transitions and to reinforce the social and economic hierarchies that define the district's politics.
 
 <!-- enriched: true -->
+
+## Related
+
+*Links to related content will be added here.*

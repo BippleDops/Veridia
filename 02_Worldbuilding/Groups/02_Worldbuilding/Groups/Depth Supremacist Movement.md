@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Depth Supremacist Movement
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+![02_Worldbuilding/Groups/Depth Supremacist Movement](../../../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_depth_supremacist_movement.png)
+
+
 
 # 02_Worldbuilding/Groups/Depth Supremacist Movement
 
@@ -24,7 +34,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Aquabyssos]]
+- [[Aquabyssos]]
 - [[02_Worldbuilding/Places/Aquabyssos]]
 
 ## Notes
@@ -36,3 +46,8 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-dockworkers-union-dockworkers-union.svg]]
+- [[02_Worldbuilding_Lore_Master_Artificer_Coral_Gemwright]]

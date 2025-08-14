@@ -1,10 +1,28 @@
+# Aquabyssos - Session 01 - The Drowning Welcome
+
 ---
+title: The Drowning Welcome
+type: Lore
+tags:
+- lore
+- aquabyssos
+- parliament-shadows
+- campaign/session
+- world/aquabyssos
+- content/lore
+- research
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+session_number: 1
 MyCategory: Unknown
 MyContainer: None
 absent: []
 ap_gained: 2
 campaign: The Parliament of Shadows
-created: '2025-08-11'
 date: null
 depth: 1500
 duration_hours: 4
@@ -40,24 +58,12 @@ quests_started:
 - '[[Investigate Shadow Conspiracy]]'
 - '[[Discover Shadow Market Location]]'
 session: Session 01 Aquabyssos
-session_number: 1
 shadow_level_change: 0
-status: complete
-tags:
-- aquabyssos
-- campaign/session
-- complete
-- content/lore
-- lore
-- parliament-shadows
-- status/in-progress
-- world/aquabyssos
-title: The Drowning Welcome
-type: Lore
 updated: '2025-08-13T12:34:17.849223+00:00'
 world: Aquabyssos
 xp_awarded: null
 ---
+
 
 
 
@@ -357,3 +363,8 @@ Each character gains:
 - [[Inverted Ballroom Wing - Party Quarters]]
 - [[Inverted Ballroom Wing]]
 - [[Parliament of Echoes - Public Gallery]]
+
+
+## Related
+
+*Links to related content will be added here.*

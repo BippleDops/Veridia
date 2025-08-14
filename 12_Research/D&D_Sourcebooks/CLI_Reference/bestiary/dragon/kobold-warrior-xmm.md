@@ -1,33 +1,40 @@
+# kobold-warrior-xmm
+
 ---
+title: kobold warrior xmm
 aliases:
 - Kobold Warrior
+type: monster
+tags:
+- ttrpg-cli/monster/environment/coastal
+- ttrpg-cli/monster/type/dragon
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/environment/urban
+- ttrpg-cli/monster/environment/mountain
+- monster
+- ttrpg-cli/monster/environment/underdark
+- research
+- world/both
+- ttrpg-cli/monster/environment/swamp
+- active
+- campaign/arc
+- ttrpg-cli/monster/environment/forest
+- ttrpg-cli/monster/cr/1-8
+- status/in-progress
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/environment/desert
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- campaign/arc
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/dragon
-- world/both
-type: monster
 updated: '2025-08-12T23:37:35.768007'
 world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -111,3 +118,8 @@ Legends speak of kobold warrior xmm as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

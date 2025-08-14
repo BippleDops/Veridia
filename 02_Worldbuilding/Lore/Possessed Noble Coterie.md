@@ -1,14 +1,17 @@
 ---
+title: Possessed Noble Coterie
 type: Lore
-status: complete
+tags:
+- lore
+- both
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:34.942690+00:00'
 world: Both
-tags:
-- active
-- both
-- lore
 ---
+
 
 
 ## Cross-References
@@ -18,12 +21,12 @@ tags:
 
 ## Connections
 
-- [[12_Research/D&D_References/Customs House]]
-- [[12_Research/D&D_References/The Convergence Point]]
-- [[12_Research/D&D_References/The Crimson Hand]]
-- [[12_Research/D&D_References/The Queen]]
-- [[12_Research/D&D_References/The Seven Shards]]
-- [[12_Research/D&D_References/Throne Room]]
+- [[Customs House]]
+- [[The Convergence Point]]
+- [[The Crimson Hand]]
+- [[The Queen]]
+- [[The Seven Shards]]
+- [[Throne Room]]
 
 ## Player-Facing Summary
 
@@ -48,3 +51,31 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Related
 - [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
+
+
+## Overview
+
+Possessed Noble Coterie represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

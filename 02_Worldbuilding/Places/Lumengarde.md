@@ -1,27 +1,33 @@
 ---
-MyCategory: Unknown
-MyContainer: None
+title: Lumengarde
 aliases:
 - The Living Light
 - Garden City
+type: Location
+tags:
+- both
+- world/both
+- content/location
+- place
+- active
+- location
+- complete
+- gloom_gardens
+- status/in-progress
 created: '2024-12-19'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: 45000 - Category/Place
+MyCategory: Unknown
+MyContainer: None
 danger_level: Low-Moderate
 image: 04_Resources/Assets/Locations/lumengarde.jpg
 obsidianUIMode: preview
-population: 45000 - Category/Place
-status: complete
-tags:
-- both
-- complete
-- content/location
-- gloom_gardens
-- location
-- status/in-progress
-- world/both
-type: Location
 updated: '2025-08-13T12:34:17.093006+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -86,6 +92,16 @@ Tavern run by [[Barkeep Mira Algaebrew]], serves bioluminescent drinks that prov
 - Laws focus on biological harmony and sustainable growth
 - Crimes are punished through biological alteration or symbiont removal
 - [[Reef Guard Captain Torrent Shellborn]] maintains order
+
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: The tang of salt air permeates everything
 
 ## Demographics
 - 60% Fully Adapted (biologically modified for underwater life)
@@ -206,6 +222,27 @@ Legends speak of Lumengarde as a nexus where past and present converge. Locals d
 - An NPC seeks discreet help at Lumengarde to avert a public scandal.
 - A map overlay reveals a hidden approach to Lumengarde active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -227,3 +264,65 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Gloom Gardens]]
 - [[The Living Weapon]]
 - [[The Mothercoral Crisis]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-archive-kelpmere-v1-archive-kelpmere.svg]]
+- [[04_Resources_Assets_Locations_location-city-undead-rights-organization-hq-v1-undead-rights-organization-hq.svg]]
+- [[04_Resources_Assets_Locations_location-city-conservatory-of-memory-v1-conservatory-of-memory.svg]]
+
+
+## Description
+
+Lumengarde is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Lumengarde
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Lumengarde
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

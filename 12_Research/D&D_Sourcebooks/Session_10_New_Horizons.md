@@ -1,16 +1,23 @@
+# Session_10_New_Horizons
+
 ---
-created: '2025-08-13'
-status: active
-tags:
-- session/seven-shards
-- act-3
-- campaign-finale
-- world/both
-- status/active
+title: Session 10 New Horizons
 type: Session
+tags:
+- act-3
+- research
+- world/both
+- session/seven-shards
+- status/active
+- active
+- campaign-finale
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T16:45:00.000000'
 world: Both
 ---
+
 
 # Session 10: New Horizons
 *The Seven Shards Campaign - Epic Finale*
@@ -493,3 +500,7 @@ type: milestone
 importance: legendary
 description: Heroes complete the greatest adventure in recorded history
 ```
+
+## Related
+
+*Links to related content will be added here.*

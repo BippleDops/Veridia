@@ -1,16 +1,22 @@
+# Archdruid Thornweaver
+
 ---
+title: Archdruid Thornweaver
+type: NPC
+tags:
+- both
+- npc
+- research
+- active
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 world: Both
 updated: '2025-08-13T12:34:14.329319+00:00'
-created: '2025-08-11'
-status: complete
-tags:
-- active
-- both
-- complete
-- npc
-type: NPC
 cr: '6'
 ---
+
 
 
 
@@ -300,3 +306,8 @@ Legends speak of Archdruid Thornweaver as a nexus where past and present converg
 <!-- enriched: true -->
 - [[Quest - The Dying Forest]]
 - [[Quest - Nature's Balance]]
+
+
+## Related
+
+*Links to related content will be added here.*

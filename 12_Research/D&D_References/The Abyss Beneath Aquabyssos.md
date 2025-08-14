@@ -1,28 +1,35 @@
+# The Abyss Beneath Aquabyssos
+
 ---
-tags:
-- abyss
-- ancient-powers
-- aquabyssos
-- complete
-- darkness
-- depths
-- forbidden-knowledge
-- leviathan
-- location
-- lore
-- mystery
-- void
-status: complete
-world: Aquabyssos
+title: The Abyss Beneath Aquabyssos
 type: Lore
-created_by: auto-stub
+tags:
+- lore
+- aquabyssos
+- mystery
+- darkness
+- research
+- leviathan
+- abyss
+- active
+- location
+- complete
+- ancient-powers
+- forbidden-knowledge
+- depths
+- void
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+population: Unknown entities of incomprehensible nature
+world: Aquabyssos
+created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 danger_level: 5
 depth: Below 10,000 feet - The Measureless Deep
 government: None - Primordial Chaos
-population: Unknown entities of incomprehensible nature
 ---
+
 
 
 
@@ -183,3 +190,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Abyssal Cyclicalism|02 Worldbuilding/Lore/Abyssal Cyclicalism]]
+
+
+## Related
+
+*Links to related content will be added here.*

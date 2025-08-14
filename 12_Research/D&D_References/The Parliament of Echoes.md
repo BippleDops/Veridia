@@ -1,14 +1,20 @@
+# The Parliament of Echoes
+
 ---
+title: The Parliament of Echoes
+type: Group
 tags:
 - active
-- dual
 - group
-type: Group
-world: dual
-status: active
+- dual
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: dual
 updated: '2025-08-13T01:18:36.760571+00:00'
 ---
+
 
 
 
@@ -67,3 +73,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Great Convergence Prophecies]]
 - [[Timeline of the Drowning]]
 - [[Vote Vaults]]
+
+
+## Related
+
+*Links to related content will be added here.*

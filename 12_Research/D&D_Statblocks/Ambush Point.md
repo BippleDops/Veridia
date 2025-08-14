@@ -1,27 +1,34 @@
+# Ambush Point
+
 ---
+title: Ambush Point
+type: Lore
 tags:
-- ambush
+- lore
 - aquabyssos
+- resistance-movement
+- quest
+- research
+- tactical-warfare
+- ambush
+- active
 - complete
 - guerrilla-tactics
-- lore
-- quest
-- resistance-movement
 - shadow-conspiracy
-- tactical-warfare
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 level_range: 5-10
 quest_type: Tactical Combat & Resistance Operations
 estimated_sessions: 4-6
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.472845+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 
@@ -514,3 +521,8 @@ Legends speak of Ambush Point as a nexus where past and present converge. Locals
 - [[The Deepmind]]
 - [[The Whispering Expanse]]
 - [[Traveling Merchant Finn]]
+
+
+## Related
+
+*Links to related content will be added here.*

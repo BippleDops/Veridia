@@ -1,22 +1,29 @@
+# The Purification Gardens
+
 ---
+title: The Purification Gardens
+type: NPC
 tags:
-- aethermoor
-- complete
-- gardens
-- healing
-- location
-- npc
 - purification
+- npc
+- research
+- active
+- location
+- complete
+- healing
+- gardens
+- aethermoor
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: NPC
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Religious
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.970774+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -162,3 +169,8 @@ Legends speak of The Purification Gardens as a nexus where past and present conv
 - [[The Purification Gardens|02 Worldbuilding/People/The Purification Gardens]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

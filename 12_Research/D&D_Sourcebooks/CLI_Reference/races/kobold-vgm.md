@@ -1,21 +1,27 @@
+# kobold-vgm
+
 ---
+title: kobold vgm
 aliases:
 - Kobold
-created: 2025-07-23
-cssclasses: json5e-race
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- note
-- status/archived
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/vgm
-- world/both
 type: note
+tags:
+- research
+- world/both
+- active
+- note
+- status/in-progress
+- status/archived
+- ttrpg-cli/compendium/src/5e/vgm
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-race
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:37.691652'
 world: Both
 ---
+
 
 # Kobold
 *Source: Volo's Guide to Monsters p. 119*  
@@ -74,3 +80,8 @@ Legends speak of kobold vgm as a nexus where past and present converge. Locals d
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

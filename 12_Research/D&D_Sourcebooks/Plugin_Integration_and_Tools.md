@@ -1,20 +1,27 @@
+# Plugin_Integration_and_Tools
+
 ---
-created: '2025-08-13'
-status: active
+title: Plugin Integration and Tools
+type: Reference
 tags:
 - plugin-integration/seven-shards
 - obsidian-tools
-- dataview
-- meta-bind
-- dice-roller
 - initiative-tracker
-- templater
+- meta-bind
 - world/both
 - status/active
-type: Reference
+- templater
+- active
+- research
+- dataview
+- dice-roller
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T16:45:00.000000'
 world: Both
 ---
+
 
 # Seven Shards Campaign: Plugin Integration & Tools
 *Complete Obsidian Plugin Integration for Enhanced Campaign Management*
@@ -746,3 +753,7 @@ recurring-event:
 4. **Customize Templates**: Adapt templates to your GMing style
 5. **Practice Usage**: Familiarize yourself with all tools before first session
 6. **Create Backups**: Establish backup procedures for campaign data
+
+## Related
+
+*Links to related content will be added here.*

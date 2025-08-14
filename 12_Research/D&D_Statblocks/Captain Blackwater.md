@@ -1,14 +1,20 @@
+# Captain Blackwater
+
 ---
+title: Captain Blackwater
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
+created: 2025-08-11
+modified: '2025-08-14'
+status: active
 world: Both
 updated: '2025-08-13T01:18:36.823617+00:00'
-created: 2025-08-11
-status: active
-tags:
-- active
-- both
-- npc
-type: NPC
 ---
+
 
 
 

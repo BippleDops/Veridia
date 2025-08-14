@@ -1,24 +1,30 @@
+# Location_Template
+
 ---
-tags:
-- active
-- additional_tags
-- aquabyssos or aethermoor
-- aquabyssos-or-aethermoor
-- location
-- world_name
-status: active
-world: Aquabyssos OR Aethermoor
+title: Location Template
 type: location
-created_by: YOUR_NAME
+tags:
+- world_name
+- aquabyssos-or-aethermoor
+- aquabyssos or aethermoor
+- research
+- active
+- location
+- additional_tags
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+population: ~NUMBER and demographics
+world: Aquabyssos OR Aethermoor
+created_by: YOUR_NAME
 updated: '2025-08-13T04:22:10.911458+00:00'
 location_type: TYPE (e.g., City, Dungeon, Wilderness)
 parent_location: '[[Parent_Location_Name|Parent Location Name]]'
 depth: Surface/Shallow/Medium/Deep/Abyss
 danger_level: 1-6
-population: ~NUMBER and demographics
 government: Government type and leadership
 ---
+
 
 
 
@@ -175,3 +181,8 @@ Legends speak of Location Template as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

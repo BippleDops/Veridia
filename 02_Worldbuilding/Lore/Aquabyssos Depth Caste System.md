@@ -1,17 +1,21 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/aquabyssos
+title: Aquabyssos Depth Caste System
 type: Lore
+tags:
+- lore
+- aquabyssos
+- world/aquabyssos
+- content/lore
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.366782+00:00'
 world: Aquabyssos
 ---
+
 
 
 ## Cross-References
@@ -21,9 +25,9 @@ world: Aquabyssos
 
 ## Connections
 
-- [[12_Research/D&D_References/Kraken Territories]]
-- [[12_Research/D&D_References/The Restoration Movement]]
-- [[12_Research/D&D_References/The Silverscale Conspiracy]]
+- [[Kraken Territories]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

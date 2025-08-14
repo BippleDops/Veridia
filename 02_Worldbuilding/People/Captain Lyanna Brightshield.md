@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Captain Lyanna Brightshield
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.540034+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -181,6 +189,89 @@ Captain Lyanna Brightshield is the youngest captain in [[Crystal Wardens]] histo
 - Evening: Reports to Lord Commander
 - Night: Personal investigation (secret)
 
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Seeking redemption
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Direct and concise
+
+**Physical Habits**: Steeples fingers when thinking
+
+## Current Activities
+
+Captain Lyanna Brightshield is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Captain Lyanna Brightshield needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Captain Lyanna Brightshield stopped or removed
+3. **The Secret**: Information about Captain Lyanna Brightshield's past surfaces
+4. **The Alliance**: Opportunity to work with or against Captain Lyanna Brightshield
+5. **The Crisis**: Captain Lyanna Brightshield is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Bridge between party and authorities
 - Her investigation could expose Queen's secret
@@ -210,6 +301,14 @@ Captain Lyanna Brightshield is the youngest captain in [[Crystal Wardens]] histo
   - Military support
   - Intelligence on criminals
 
+
+
+
+## Relationship Web
+
+- [[Lord Marcus Shadowbane]]: *student*
+- [[Lord Chancellor Prism Valdrick]]: *former lover*
+- [[04_Resources_Assets_Locations_location-city-captain-marlowe-tidecrest-v1-captain-marlowe-tidecrest.svg]]: *patron*
 
 ## Connections
 

@@ -1,29 +1,36 @@
 ---
+title: Enchanter Valdris Peacewarden
+type: Location
+tags:
+- aquabyssos
+- status/complete
+- mechanics/magic
+- aquatic
+- peacewarden
+- quest
+- content/location
+- content/npc
+- place
+- active
+- combat
+- complete
+- location
+- world/aquabyssos
+- enchanter
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: NPC
 MyContainer: None
-created: '2025-08-12'
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
-status: complete
-tags:
-- combat
-- quest
-- aquatic
-- aquabyssos
-- complete
-- content/location
-- content/npc
-- enchanter
-- location
-- mechanics/magic
-- peacewarden
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.545412+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -129,6 +136,27 @@ He's been quietly investigating the source of this magical disruption while main
 2. The party needs specialized enchanted items for a dangerous mission, and Valdris requires them to complete a task proving their peaceful intentions first.
 3. A diplomatic meeting under Valdris's protection is attacked by unknown assailants using magic that shouldn't work in his peace zone.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Valdris serves as an excellent source of magical items, information about the city's political situation, and a safe meeting place for NPCs. His peace zones can provide interesting roleplay opportunities where combat is discouraged. Use his ethical stance to challenge players' assumptions about the morality of magic use.
@@ -136,7 +164,7 @@ Valdris serves as an excellent source of magical items, information about the ci
 
 ## Connections
 
-- [[12_Research/D&D_References/The Bathyal Palace]]
+- [[The Bathyal Palace]]
 
 
 ## History
@@ -184,10 +212,92 @@ Legends speak of Enchanter Valdris Peacewarden as a nexus where past and present
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Enchanter Valdris Peacewarden]]
+- [[Enchanter Valdris Peacewarden]]
 
 <!-- enriched: true -->
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Notable Residents
+
+- [[#NPCs]]
+
+## Trade Routes
+
+- [[Pilgrimage Routes]]
+- [[04_Resources_Assets_Portraits_portrait-npc-marina-red-tide-coralheart-marina-red-tide-coralheart.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-commodity-queen-abundance-commodity-queen-abundance.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+Enchanter Valdris Peacewarden is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Enchanter Valdris Peacewarden
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Enchanter Valdris Peacewarden:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Enchanter Valdris Peacewarden
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

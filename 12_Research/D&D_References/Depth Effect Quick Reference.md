@@ -1,28 +1,35 @@
+# Depth Effect Quick Reference
+
 ---
+title: Depth Effect Quick Reference
+type: Lore
 tags:
-- aquabyssos
 - biological-systems
-- complete
-- depth-adaptation
+- aquabyssos
 - environmental-hazards
 - environmental-mechanics
 - lore
 - pressure-effects
 - quick-reference
+- research
+- active
+- complete
 - underwater-survival
+- depth-adaptation
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 category: Environmental Reference Guide
 significance: Essential Survival Information
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 reference_type: Depth-Based Environmental Effects
 scope: Underwater Environmental Conditions
 application: Field Reference and Survival Planning
 complexity: Moderate to Advanced
 ---
+
 
 
 
@@ -667,3 +674,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Tidal Chambers]]
 - [[Aethermoor]]
 - [[Pressure Tubes]]
+
+
+## Related
+
+*Links to related content will be added here.*

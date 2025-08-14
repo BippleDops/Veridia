@@ -1,21 +1,28 @@
+# Reality Breach Locations
+
 ---
+title: Reality Breach Locations
+type: Places
 tags:
-- aethermoor
 - aquabyssos
 - both
-- complete
-- deep-mother
-- eldritch-horror
-- manifestation
 - places
+- eldritch-horror
+- research
+- deep-mother
 - reality-breach
+- active
+- manifestation
+- complete
+- aethermoor
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Places
 created_by: claude
-created: '2025-08-12'
 updated: '2025-08-13T01:18:35.990681+00:00'
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-reality-breach-locations-reality-breach-locations.svg]]
@@ -314,3 +321,8 @@ Legends speak of Reality Breach Locations as a nexus where past and present conv
 - A map overlay reveals a hidden approach to Reality Breach Locations active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

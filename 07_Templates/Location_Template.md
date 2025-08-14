@@ -1,14 +1,15 @@
+# Location_Template
+
 ---
-created: {{date}}
-updated: {{date}}
-type: location
-status: draft
+title: Location Template
+type: template
 tags:
-- location
-- {{region}}
-- {{realm}}
-world: {{Aquabyssos/Aethermoor}}
+- template
+- active
+created: '2025-08-14'
+modified: '2025-08-14'
 ---
+
 
 # {{title}}
 

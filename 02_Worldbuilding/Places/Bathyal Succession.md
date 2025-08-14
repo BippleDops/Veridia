@@ -1,23 +1,30 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
-danger_level: Moderate
-status: complete
+title: Bathyal Succession
+type: Location
 tags:
 - aquabyssos
-- complete
-- content/location
-- event
-- location
-- politics
-- royal
 - status/complete
+- royal
+- event
+- content/location
+- place
+- active
+- location
+- complete
 - succession
 - world/aquabyssos
-type: Location
+- politics
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+created_by: auto-stub
+danger_level: Moderate
 updated: '2025-08-13T12:34:17.192517+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -90,6 +97,27 @@ The succession process is expected to take 3-6 months, with each phase potential
 **Revolutionary Change**: Common citizens reject monarchy entirely
 **Shadow Victory**: Duke Hadean manipulates trials through criminal networks
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 This succession crisis provides a backdrop for political intrigue, moral choices, and large-scale consequences based on player actions. Each faction should have compelling motivations and legitimate grievances.
 
@@ -141,3 +169,85 @@ Legends speak of Bathyal Succession as a nexus where past and present converge. 
 - [[Bathyal Succession]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-the-neutral-current-tavern-the-neutral-current-tavern.svg]]
+- [[Pilgrim Guide Nautilus Pathfinder]]
+- [[04_Resources_Assets_Locations_location-city-port-nimbus-v1-port-nimbus.svg]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+Bathyal Succession is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Bathyal Succession
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Bathyal Succession:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Bathyal Succession
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

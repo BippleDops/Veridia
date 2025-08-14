@@ -1,16 +1,22 @@
+# The Inter-Realm Council Chambers
+
 ---
-tags:
-- active
-- both aethermoor & aquabyssos
-- both-aethermoor-&-aquabyssos
-- faction
-- lore
+title: The Inter Realm Council Chambers
 type: Lore
-world: Both Aethermoor & Aquabyssos
-status: active
+tags:
+- lore
+- faction
+- research
+- both aethermoor & aquabyssos
+- active
+- both-aethermoor-&-aquabyssos
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both Aethermoor & Aquabyssos
 updated: '2025-08-13T01:18:34.683104+00:00'
 ---
+
 
 
 
@@ -49,3 +55,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Parliament-of-Shadows-Campaign]]
+
+
+## Related
+
+*Links to related content will be added here.*

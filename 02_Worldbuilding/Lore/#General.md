@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: '#General'
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # #General
 
@@ -24,13 +28,13 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Template-Person]]
-- [[12_Research/D&D_References/Template-Group]]
-- [[12_Research/D&D_References/Template-Hub]]
-- [[12_Research/D&D_References/Template-SapientSpecies]]
-- [[12_Research/D&D_References/Template-PointofInterest]]
-- [[12_Research/D&D_References/Template-Player]]
-- [[12_Research/D&D_References/Template-Place]]
+- [[Template-Person]]
+- [[Template-Group]]
+- [[Template-Hub]]
+- [[Template-SapientSpecies]]
+- [[Template-PointofInterest]]
+- [[Template-Player]]
+- [[Template-Place]]
 
 ## Notes
 

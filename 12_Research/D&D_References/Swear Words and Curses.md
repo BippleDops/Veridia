@@ -1,20 +1,27 @@
+# Swear Words and Curses
+
 ---
-updated: '2025-08-13T01:18:35.117708+00:00'
-created: '2025-08-12'
+title: Swear Words and Curses
+type: cultural_reference
 tags:
-- both
-- complete
 - cultural_reference
+- lore
+- both
+- linguistics
 - culture
 - curses
-- linguistics
-- lore
+- research
+- active
 - profanity
+- complete
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
+updated: '2025-08-13T01:18:35.117708+00:00'
 world: Both
-type: cultural_reference
 obsidianUIMode: preview
 ---
+
 
 
 # Swear Words and Curses
@@ -386,3 +393,8 @@ Legends speak of Swear Words and Curses as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

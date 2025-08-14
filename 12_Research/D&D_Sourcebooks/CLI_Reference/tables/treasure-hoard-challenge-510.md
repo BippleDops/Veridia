@@ -1,20 +1,26 @@
+# treasure-hoard-challenge-510
+
 ---
+title: treasure hoard challenge 510
 aliases:
-- Treasure Hoard: Challenge 5—10
-created: 2025-07-23 12:39
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/dmg
-- world/both
+- Treasure Hoard: "Challenge 5\u201410"
 type: note
+tags:
+- research
+- world/both
+- active
+- note
+- ttrpg-cli/compendium/src/5e/dmg
+- status/in-progress
+created: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.411500'
 world: Both
 ---
+
 
 # Treasure Hoard: Challenge 5—10
 *Source: Dungeon Master's Guide p. 133* 
@@ -80,3 +86,8 @@ Legends speak of treasure hoard challenge 510 as a nexus where past and present 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,20 +1,26 @@
+# list-spells-classes-death-domain-dmg
+
 ---
+title: list spells classes death domain dmg
 aliases:
 - Spells for Death Domain
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- importance/core
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- world/both
-type: note
+- importance/core
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.342877'
 world: Both
 ---
+
 
 # Spells for Death Domain
 
@@ -69,3 +75,8 @@ Legends speak of list spells classes death domain dmg as a nexus where past and 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,19 +1,25 @@
+# S-009_Void_Moan
+
 ---
 title: "Encounter Sheet \u2014 S-009 Void Moan"
 type: gm_resource
-status: complete
 tags:
 - both
-- complete
 - encounter
 - gm
+- research
+- active
 - gm_resource
+- complete
 - horror
 - sky
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.135047+00:00'
 world: Both
 ---
+
 
 
 # S-009 Void Moan
@@ -61,3 +67,8 @@ Legends speak of S 009 Void Moan as a nexus where past and present converge. Loc
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

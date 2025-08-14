@@ -1,30 +1,37 @@
+# The Crystal Festival 3
+
 ---
+title: The Crystal Festival 3
+type: Lore
+tags:
+- lore
+- bloodline
+- celebration
+- status/complete
+- ritual
+- festival
+- event
+- content/lore
+- research
+- queen-seraphina
+- world/aethermoor
+- active
+- complete
+- transformation
+- disaster
+- aethermoor
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+location: '[[Crystal Festival Grounds]], [[Port Meridian]]'
 created_by: auto-stub
 duration: Originally 7 days, final year lasted 3 hours
 event_type: Annual Festival turned Catastrophic Ritual
-location: '[[Crystal Festival Grounds]], [[Port Meridian]]'
 participants: Entire population of [[Port Meridian]] and neighboring regions
-status: complete
-tags:
-- aethermoor
-- bloodline
-- celebration
-- complete
-- content/lore
-- disaster
-- event
-- festival
-- lore
-- queen-seraphina
-- ritual
-- status/complete
-- transformation
-- world/aethermoor
-type: Lore
 updated: '2025-08-13T12:34:29.367652+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -195,3 +202,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Traveling Merchant Finn]]
 - [[Aethermoor]]
 - [[Port Meridian]]
+
+
+## Related
+
+*Links to related content will be added here.*

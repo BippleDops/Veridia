@@ -1,13 +1,21 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Maps
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
+> [!figure] Map
+![](04_Resources/Assets/Maps/maps_aethermoor_1755205553168.png)
+
+
 
 # 04_Resources/Maps
 

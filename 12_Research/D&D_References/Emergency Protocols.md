@@ -1,14 +1,20 @@
+# Emergency Protocols
+
 ---
+title: Emergency Protocols
+type: Lore
+tags:
+- lore
+- both
+- active
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:35.028390+00:00'
 world: Both
-type: Lore
-status: active
-tags:
-- active
-- both
-- lore
 ---
+
 
 > [!figure] Asset
 ![[04_Resources/Assets/Locations/location-city-emergency-protocols-emergency-protocols.svg]]
@@ -39,3 +45,8 @@ Legends speak of Emergency Protocols as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

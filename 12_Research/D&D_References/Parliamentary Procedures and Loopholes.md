@@ -1,18 +1,25 @@
+# Parliamentary Procedures and Loopholes
+
 ---
-tags:
-- aquabyssos
-- complete
-- government
-- intrigue
-- lore
-- politics
-- procedures
+title: Parliamentary Procedures and Loopholes
 type: Lore
-world: Aquabyssos
-status: complete
+tags:
+- lore
+- aquabyssos
+- intrigue
+- research
+- government
+- procedures
+- active
+- complete
+- politics
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.112432+00:00'
 ---
+
 
 
 # Parliamentary Procedures and Loopholes
@@ -344,3 +351,8 @@ Legends speak of Parliamentary Procedures and Loopholes as a nexus where past an
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

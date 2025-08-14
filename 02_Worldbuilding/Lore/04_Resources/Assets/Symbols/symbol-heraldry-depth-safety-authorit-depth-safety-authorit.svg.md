@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry depth safety authorit depth safety authorit.svg
+aliases:
+- symbol heraldry depth safety authorit depth safety authoritsvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-depth-safety-authorit-depth-safety-authorit.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Depth Safety Authorit]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Depth Safety Authorit]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

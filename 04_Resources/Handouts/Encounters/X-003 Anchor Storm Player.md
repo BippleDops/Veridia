@@ -1,24 +1,29 @@
+# X-003 Anchor Storm Player
+
 ---
-audience: player
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- campaign/session
-- complete
-- handout
-- lore
-- mixed
-- status/complete
-- world/both
-title: Player Handout — X-003 Anchor Storm
+title: "Player Handout \u2014 X-003 Anchor Storm"
 type: Lore
-updated: '2025-08-13T12:34:32.391589+00:00'
+tags:
+- lore
+- both
+- status/complete
+- campaign/session
+- handout
+- world/both
+- active
+- complete
+- mixed
+- resource
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+audience: player
+updated: 2025-08-13 07:59:50.470556
 world: Both
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.470556
 ---
+
 # Anchor Storm
 
 Anchors sing to one another. The ship steadies; the air tastes like copper and rain.
@@ -35,3 +40,8 @@ Possible outcomes
 - The way grows still and sure
 - The song wavers
 - Something tries to break the harmony
+
+
+## Related
+
+*Links to related content will be added here.*

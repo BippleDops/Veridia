@@ -1,29 +1,33 @@
 ---
-created: '2025-08-11'
-level_range: 1-3
-sessions: 5
-status: complete
-tags:
-- combat
-- quest
-- session-notes
-- shadow-touched
-- aquatic
-- adventure
-- aquabyssos
-- complete
-- conspiracy
-- content/adventure
-- levels-1-3
-- mechanics/exploration
-- smuggling
-- status/complete
-- world/aquabyssos
 title: The Sunken Conspiracy - Introduction
 type: Adventure
+tags:
+- aquabyssos
+- adventure
+- session-notes
+- content/adventure
+- mechanics/exploration
+- status/complete
+- levels-1-3
+- aquatic
+- quest
+- active
+- combat
+- complete
+- smuggling
+- conspiracy
+- world/aquabyssos
+- shadow-touched
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+level: 1-5
+level_range: 1-3
+sessions: 5
 updated: '2025-08-13T12:34:17.824659+00:00'
 world: Aquabyssos
 ---
+
 
 
 # The Sunken Conspiracy
@@ -39,7 +43,7 @@ world: Aquabyssos
 
 ### Synopsis
 
-The busy port of [[12_Research/D&D_References/Port Meridian]] has become plagued by mysterious ship disappearances. What begins as a simple investigation into missing merchant vessels soon unravels a complex conspiracy involving smugglers, corrupt officials, and ancient technology that threatens the stability of both Aquabyssos and the surface world. The party must navigate treacherous political waters, pursue enemies through pressure tube systems, infiltrate a hidden smuggling base, and ultimately confront a conspiracy that reaches to the highest levels of government.
+The busy port of [[Port Meridian]] has become plagued by mysterious ship disappearances. What begins as a simple investigation into missing merchant vessels soon unravels a complex conspiracy involving smugglers, corrupt officials, and ancient technology that threatens the stability of both Aquabyssos and the surface world. The party must navigate treacherous political waters, pursue enemies through pressure tube systems, infiltrate a hidden smuggling base, and ultimately confront a conspiracy that reaches to the highest levels of government.
 
 ### Central Mystery
 
@@ -127,7 +131,7 @@ The adventure is designed as a five-session investigation with multiple paths an
 - Commands significant resources and loyal agents
 - Complex motivations involving family and survival
 
-**[[12_Research/D&D_References/Captain Marrow Drinker]]** (Recurring Threat)
+**[[Captain Marrow Drinker]]** (Recurring Threat)
 - Vampire pirate working with the conspiracy
 - Provides the muscle for major operations
 - Operates from the shadows with supernatural crew
@@ -445,3 +449,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-the-time-keeper-v1-the-time-keeper.svg]]
+- [[Royal Bloodline Powers]]
+- [[Forge Master Petra Hammerdeep]]

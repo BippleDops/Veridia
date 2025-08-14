@@ -1,24 +1,31 @@
+# Captain Marcus
+
 ---
+title: Captain Marcus
+type: Location
 tags:
 - aquabyssos
-- captain
-- complete
-- location
-- marcus
 - military
-- naval
+- captain
 - npc
+- research
+- active
+- location
+- complete
+- marcus
+- naval
+created: 2025-08-08 - Category/People
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.113048+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-captain-marcus-captain-marcus.svg]]
@@ -171,3 +178,8 @@ Legends speak of Captain Marcus as a nexus where past and present converge. Loca
 - [[Captain Marcus|02 Worldbuilding/Places/Captain Marcus]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

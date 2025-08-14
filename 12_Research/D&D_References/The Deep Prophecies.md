@@ -1,22 +1,29 @@
+# The Deep Prophecies
+
 ---
+title: The Deep Prophecies
+type: Lore
 tags:
-- aethermoor
-- ancient-lore
+- lore
 - aquabyssos
 - both
-- complete
-- deep-mother
 - eldritch-horror
-- forbidden-knowledge
-- lore
+- ancient-lore
+- research
+- deep-mother
 - prophecy
+- active
+- complete
+- forbidden-knowledge
+- aethermoor
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Lore
 created_by: claude
-created: '2025-08-12'
 updated: '2025-08-13T01:18:35.461121+00:00'
 ---
+
 
 
 # The Deep Prophecies
@@ -402,3 +409,8 @@ Legends speak of The Deep Prophecies as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

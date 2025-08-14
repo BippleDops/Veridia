@@ -1,31 +1,37 @@
+# Shadow Behavior Guidelines
+
 ---
+title: Shadow Behavior Guidelines
+type: Group
 tags:
 - aquabyssos
-- behavioral-code
-- complete
-- ethical-framework
-- faction
-- group
 - self-regulation
 - shadow-society
+- faction
+- complete
+- behavioral-code
+- research
+- active
+- ethical-framework
+- group
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+headquarters: '[[The Council of Shadows]]'
 world: Aquabyssos
-type: Group
 faction_type: Shadow Society Regulatory Body
 alignment: Lawful Neutral (Ethical Framework)
-headquarters: '[[The Council of Shadows]]'
 leader: '[[Shadow Magistrate Umbrian Darkwise]]'
 members: ~50 magistrates, ~200 enforcement officers, ~1000 community volunteers
 influence: Shadow-Touched Community Self-Regulation
 purpose: Establish ethical standards for shadow energy use
 created_by: auto-stub
-created: '2025-08-08'
-modified: 2025-08-11 - Category/Group
 MyContainer: Shadow Society
 MyCategory: Regulatory Body
 obsidianUIMode: preview
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-shadow-behavior-guidelines-shadow-behavior-guidelines.svg)
@@ -601,3 +607,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Shadow Surgeon Apprentice|02 Worldbuilding/Groups/Shadow Surgeon Apprentice]]
+
+
+## Related
+
+*Links to related content will be added here.*

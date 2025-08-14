@@ -1,29 +1,36 @@
 ---
-MyCategory: NPC
-MyContainer: None
-created: '2025-08-11'
-created_by: auto-stub
-danger_level: Moderate
-obsidianUIMode: preview
-status: complete
+title: The Memory Thief
+type: Location
 tags:
-- combat
-- quest
-- shadow-touched
 - aquabyssos
-- complete
-- content/faction
-- content/location
-- content/npc
-- location
 - memory_thief
 - mysterious
 - status/complete
+- content/faction
+- quest
+- content/location
+- content/npc
+- place
+- active
+- combat
+- complete
+- location
 - world/aquabyssos
-type: Location
+- shadow-touched
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+MyCategory: NPC
+MyContainer: None
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:16.687287+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -140,6 +147,27 @@ The entity has also been linked to a growing black market in stolen memories, wh
 
 4. **The Collector's Purpose**: Evidence suggests the Memory Thief is assembling memories related to a specific historical event or piece of knowledge that could affect the city's fate.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 The Memory Thief serves as both a recurring antagonist and a source of mystery in the campaign. Their ability to alter memories creates unique storytelling opportunities where players must question the reliability of their own knowledge and experiences. Use the Memory Thief to introduce plot twists, remove inconvenient knowledge from NPCs, or create situations where the party must decide whether recovering stolen memories is worth the risks involved.
@@ -147,8 +175,8 @@ The Memory Thief serves as both a recurring antagonist and a source of mystery i
 
 ## Connections
 
-- [[12_Research/D&D_References/Vex Shadowthorn]]
-- [[12_Research/D&D_References/The Phosphor Markets]]
+- [[Vex Shadowthorn]]
+- [[The Phosphor Markets]]
 
 
 ## History
@@ -196,7 +224,7 @@ Legends speak of The Memory Thief as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Memory Thief]]
+- [[The Memory Thief]]
 
 <!-- enriched: true -->
 nriched: true -->
@@ -204,3 +232,85 @@ nriched: true -->
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[Rational Philosophy Framework]]
+- [[04_Resources_Assets_Locations_location-city-constitutional-monarchy-v1-constitutional-monarchy.svg]]
+- [[04_Resources_Assets_Locations_location-city-tenebrarum-embassy-tenebrarum-embassy.svg]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+The Memory Thief is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Memory Thief
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting The Memory Thief:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Memory Thief
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

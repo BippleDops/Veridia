@@ -1,18 +1,25 @@
+# Faction-Quick-Reference
+
 ---
-created: '2025-08-11'
-obsidianUIMode: preview
-status: complete
+title: Faction Quick Reference
+type: Mechanics
 tags:
-- aethermoor
+- status/complete
+- mechanics
+- research
+- world/aethermoor
+- active
 - complete
 - content/mechanics
-- mechanics
-- status/complete
-- world/aethermoor
-type: Mechanics
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.788136+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -67,3 +74,8 @@ Legends speak of Faction Quick Reference as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

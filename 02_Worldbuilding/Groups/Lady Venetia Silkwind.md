@@ -1,31 +1,37 @@
 ---
+title: Lady Venetia Silkwind
+type: Faction
+tags:
+- textiles
+- status/complete
+- content/faction
+- faction
+- complete
+- organization
+- world/aethermoor
+- active
+- luxury-goods
+- silk-trade
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Golden Loom]]'
+membership: Unknown
 MyCategory: Unknown
 MyContainer: None
 alignment: Lawful Neutral
-created: '2025-08-08'
 created_by: auto-stub
 faction_type: Luxury Merchant Guild
-headquarters: '[[The Golden Loom]]'
 influence: International (Aethermoor and Aquabyssos)
 leader: '[[Lady Venetia Silkwind]]'
 members: ~800 artisans, merchants, and traders
 obsidianUIMode: preview
-status: complete
-tags:
-- aethermoor
-- complete
-- content/faction
-- faction
-- luxury-goods
-- silk-trade
-- status/complete
-- textiles
-- world/aethermoor
-type: Faction
 updated: '2025-08-13T12:34:17.351793+00:00'
 wealth: Exceptional (luxury goods monopoly)
 world: Aethermoor
 ---
+
 
 
 > [!figure] Heraldry
@@ -274,3 +280,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Master_People_Index|Master People Index]]
 - [[Silverscale Consortium]]
+
+
+## Known Members
+
+- [[Emperor Thalassius the Wise]]
+- [[Lady Seraphina Goldleaf]]

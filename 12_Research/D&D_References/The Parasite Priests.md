@@ -1,29 +1,36 @@
+# The Parasite Priests
+
 ---
+title: The Parasite Priests
+type: NPC
 tags:
 - aquabyssos
+- mysterious
+- cult
+- npc
+- symbiosis
+- organization
 - biological-horror
+- research
+- parasite
+- active
 - complete
 - corruption
-- cult
-- mysterious
-- npc
-- organization
-- parasite
-- symbiosis
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+location: '[[The Symbiotic Sanctuaries]] - Hidden throughout Aquabyssos'
 world: Aquabyssos
-type: NPC
 role: Symbiotic Cult
 affiliation: '[[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] (Claimed)'
 size: Unknown (Estimated 200-500 Members)
-location: '[[The Symbiotic Sanctuaries]] - Hidden throughout Aquabyssos'
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.974707+00:00'
 influence: Growing
 secrecy_level: High
 danger_level: Extreme
 ---
+
 
 
 
@@ -439,3 +446,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 - [[Throne of Bubbles]]
+
+
+## Related
+
+*Links to related content will be added here.*

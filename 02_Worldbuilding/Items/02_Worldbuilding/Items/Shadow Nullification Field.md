@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Shadow Nullification Field
 type: item
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - item
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+rarity: Unknown
+value: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Items/Shadow Nullification Field
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Shadow Conspiracy Investigation]]
+- [[Shadow Conspiracy Investigation]]
 - [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Conspiracy Investigation]]
 
 ## Notes

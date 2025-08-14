@@ -1,21 +1,28 @@
+# Shadow Surgeons Collective
+
 ---
+title: Shadow Surgeons Collective
+type: Group
 tags:
 - aquabyssos
-- complete
-- criminal-group
-- faction
-- group
 - medical-organization
+- faction
 - shadow-magic
+- research
+- criminal-group
+- active
+- complete
+- group
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Group
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.736204+00:00'
 category: Group
 obsidianUIMode: preview
 ---
+
 
 
 
@@ -423,3 +430,8 @@ Legends speak of Shadow Surgeons Collective as a nexus where past and present co
 - [[Parliament of Echoes]]
 - [[Shadow Market Canals]]
 - [[Aether Crystals]]
+
+
+## Related
+
+*Links to related content will be added here.*

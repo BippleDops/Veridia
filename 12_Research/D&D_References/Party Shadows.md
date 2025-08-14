@@ -1,17 +1,23 @@
+# Party Shadows
+
 ---
+title: Party Shadows
+type: Group
 tags:
 - aquabyssos
-- aquabyssos/politics
 - aquabyssos/shadow
-- category/group
-- complete
 - faction
+- research
+- active
+- aquabyssos/politics
+- complete
+- category/group
 - group
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Group
 created_by: expansion
-created: '2025-08-11'
 MyContainer: '[[Parliament of Echoes|Parliament of Echoes]]'
 MyCategory: Shadow Influence Network
 obsidianUIMode: preview
@@ -39,6 +45,7 @@ benefits:
   reward: Direct audience with Shadow Broker Mist and parliamentary influence
 updated: '2025-08-13T01:18:36.734565+00:00'
 ---
+
 
 
 
@@ -308,3 +315,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[New Thalassopolis]]
 - [[Parliament of Echoes]]
 - [[The Bathyal Palace]]
+
+
+## Related
+
+*Links to related content will be added here.*

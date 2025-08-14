@@ -1,0 +1,13 @@
+{
+  "title": "#Cultural & Professional Groups",
+  "prompt": "#cultural & professional groups, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:00:58.024Z",
+  "sourceFile": "/02_Worldbuilding/Groups/#Cultural & Professional Groups.md"
+}

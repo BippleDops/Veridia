@@ -1,19 +1,24 @@
 ---
-created: null
-obsidianUIMode: preview
-status: complete
+title: Quest Dependency System
+type: Lore
 tags:
-- complete
-- content/adventure
-- index
 - lore
+- index
 - status/complete
+- content/adventure
+- report
 - universal
 - world/both
-type: Lore
+- active
+- complete
+created: null
+modified: '2025-08-14'
+status: complete
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:03.167080+00:00'
 world: Universal
 ---
+
 
 
 

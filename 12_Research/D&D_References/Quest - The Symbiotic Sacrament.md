@@ -1,14 +1,20 @@
+# Quest - The Symbiotic Sacrament
+
 ---
+title: Quest   The Symbiotic Sacrament
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:36.894412+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-quest-the-symbiotic-sacrament-quest-the-symbiotic-sacrament.svg]]
@@ -39,3 +45,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Quest - The Symbiotic Sacrament|02 Worldbuilding/People/Quest The Symbiotic Sacrament]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

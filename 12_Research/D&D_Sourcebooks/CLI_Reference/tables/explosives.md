@@ -1,20 +1,25 @@
+# explosives
+
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-- active
-- both
-- note
-- ttrpg-cli/compendium/src/5e/dmg
+title: explosives
 aliases:
 - Explosives
 type: note
+tags:
+- both
+- research
+- active
+- note
+- ttrpg-cli/compendium/src/5e/dmg
 created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+obsidianUIMode: preview
+cssclasses: json5e-note
 updated: '2025-08-13T01:18:31.602134+00:00'
 world: Both
-status: active
 ---
+
 
 # Explosives
 *Source: Dungeon Master's Guide p. 267* 
@@ -55,3 +60,8 @@ Legends speak of explosives as a nexus where past and present converge. Locals d
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,27 +1,33 @@
 ---
-affiliation: '[[Purist Coalition]]'
-age: '45'
-created: '2025-08-09'
-created_by: auto-stub
-location: '[[The Verdant Reach]] - Coalition Monastery'
-race: Human (Shard-bearer)
-role: Unknowing Shard Bearer
-status: complete
+title: Brother Matthias the Amber Bearer
+type: Npc
 tags:
-- aethermoor
-- amber-shard
-- complete
-- content/npc
-- npc
-- purist-coalition
-- seven-shards
 - status/complete
 - unknowing-bearer
+- seven-shards
+- amber-shard
+- npc
+- purist-coalition
+- content/npc
+- character
 - world/aethermoor
-type: Npc
+- active
+- complete
+- aethermoor
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+race: Human (Shard-bearer)
+class: Unknown
+location: '[[The Verdant Reach]] - Coalition Monastery'
+affiliation: '[[Purist Coalition]]'
+age: '45'
+created_by: auto-stub
+role: Unknowing Shard Bearer
 updated: '2025-08-13T12:34:17.712139+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait
@@ -392,6 +398,136 @@ Matthias receives what he believes are divine visions:
 
 ---
 
+
+
+## Appearance
+
+Brother Matthias the Amber Bearer presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Creative, clever, disciplined
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Seeking redemption
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Brother Matthias the Amber Bearer harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Double agent
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Peppered with idioms
+
+**Physical Habits**: Steeples fingers when thinking
+
+## Current Activities
+
+Brother Matthias the Amber Bearer is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Brother Matthias the Amber Bearer needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Brother Matthias the Amber Bearer stopped or removed
+3. **The Secret**: Information about Brother Matthias the Amber Bearer's past surfaces
+4. **The Alliance**: Opportunity to work with or against Brother Matthias the Amber Bearer
+5. **The Crisis**: Brother Matthias the Amber Bearer is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Perfect for exploring themes of faith vs. evidence
 - His revelation can drive major campaign plot points
@@ -402,6 +538,14 @@ Matthias receives what he believes are divine visions:
 - **Social Role**: Moral authority and Coalition spokesperson
 - **Plot Function**: Walking contradiction that can shatter faction ideologies
 - **Power Balance**: Very strong but believes his power comes from faith, creating interesting RP moments
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-harbor-master-tideshade-harbor-master-tideshade.svg]]: *informant*
+- [[Lady Crystal-Heart Miraleth]]: *former lover*
+- [[04_Resources_Assets_Symbols_symbol-heraldry-depth-cardinal-wisdom-voidseeke-depth-cardinal-wisdom-voidseeke.svg]]: *mentor*
 
 ## Connections
 

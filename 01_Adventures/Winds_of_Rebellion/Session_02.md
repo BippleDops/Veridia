@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 02
 type: adventure
-status: active
 tags:
-- combat
-- session-notes
-- aerial
 - adventure
+- aerial
+- session-notes
+- quest
+- active
+- combat
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 02: [Sky Realm Crisis]
 
@@ -62,3 +68,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Key NPCs
+
+- [[Ambassador Nerida Deepcurrent]]
+- [[Captain Shadowsail]]
+- [[Captain Cornelius Deepwater]]
+- [[Duke Hadal]]
+- [[04_Resources_Assets_Locations_location-city-ambassador-lysandra-silvertonge-v1-ambassador-lysandra-silvertonge.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-toxin-specialist-venom-reef-toxin-specialist-venom-reef.svg]]
+- [[04_Resources_Assets_Locations_location-city-marcus-clausewright-marcus-clausewright.svg]]
+- [[University Philosophy Departments]]

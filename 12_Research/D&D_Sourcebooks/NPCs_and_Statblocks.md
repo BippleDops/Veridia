@@ -1,16 +1,23 @@
+# NPCs_and_Statblocks
+
 ---
-created: '2025-08-13'
-status: active
+title: NPCs and Statblocks
+type: NPCs
 tags:
-- npcs/shadow-conspiracy
-- statblocks
-- 5e-compatible
+- research
 - world/both
 - status/active
-type: NPCs
+- npcs/shadow-conspiracy
+- active
+- statblocks
+- 5e-compatible
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T17:05:00.000000'
 world: Both
 ---
+
 
 # Shadow Conspiracy: NPCs and Statblocks
 *Complete NPC Roster with 5e-Compatible Statistics*
@@ -525,3 +532,7 @@ actions:
 - [[Investigation Techniques]]
 - [[Shadow Detection Methods]]
 - [[Consciousness Surgery Rules]]
+
+## Related
+
+*Links to related content will be added here.*

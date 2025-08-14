@@ -1,27 +1,33 @@
+# Gelatinous Cube Xmm
+
 ---
+title: Gelatinous Cube Xmm
 aliases:
 - Gelatinous Cube
+type: monster
+tags:
+- both
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/type/ooze
+- monster
+- ttrpg-cli/monster/environment/underdark
+- research
+- ttrpg-cli/monster/size/large
+- world/both
+- active
+- ttrpg-cli/monster/cr/2
+- status/in-progress
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- active
-- both
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/ooze
-- world/both
-type: monster
 updated: '2025-08-13T12:34:05.688350+00:00'
 world: Both
 ---
+
 
 
 
@@ -141,3 +147,8 @@ Legends speak of gelatinous cube xmm as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

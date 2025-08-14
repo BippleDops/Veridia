@@ -1,6 +1,23 @@
+# Charm Monster Xphb
+
 ---
+title: Charm Monster Xphb
 aliases:
 - Charm Monster
+type: monster
+tags:
+- both
+- mechanics/magic
+- monster
+- research
+- world/both
+- active
+- campaign/arc
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
+created: null
+modified: '2025-08-14'
+status: active
 classes:
 - Bard
 - Druid
@@ -10,23 +27,12 @@ classes:
 - Sorcerer (Draconic Sorcery)
 - Warlock
 - Wizard
-created: null
 cssclasses: json5e-spell
 obsidian-u-i-mode: preview
-status: active
-tags:
-- active
-- both
-- campaign/arc
-- mechanics/magic
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-- world/both
-type: monster
 updated: '2025-08-13T12:34:06.417263+00:00'
 world: Both
 ---
+
 
 
 # Charm Monster
@@ -65,3 +71,8 @@ Legends speak of charm monster xphb as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

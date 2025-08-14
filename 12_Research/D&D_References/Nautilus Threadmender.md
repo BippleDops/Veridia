@@ -1,15 +1,21 @@
+# Nautilus Threadmender
+
 ---
-tags:
-- active
-- both
-- location
+title: Nautilus Threadmender
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.397173+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-nautilus-threadmender-nautilus-threadmender.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Nautilus Threadmender|02 Worldbuilding/Places/Nautilus Threadmender]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

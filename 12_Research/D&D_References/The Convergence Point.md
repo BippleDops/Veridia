@@ -1,26 +1,33 @@
+# The Convergence Point
+
 ---
+title: The Convergence Point
+type: Lore
 tags:
-- aethermoor
-- apocalypse
+- lore
 - aquabyssos
 - both
-- complete
 - convergence
-- dimensional
-- lore
 - metaphysical
-- prophecy
-- reality-merge
 - shadow-corruption
+- research
+- apocalypse
+- prophecy
+- active
+- dimensional
+- complete
+- reality-merge
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Lore
 category: Cosmic Event
 significance: Campaign-Defining
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 

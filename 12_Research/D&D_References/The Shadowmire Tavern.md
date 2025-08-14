@@ -1,21 +1,28 @@
+# The Shadowmire Tavern
+
 ---
+title: The Shadowmire Tavern
+type: Location
 tags:
 - aquabyssos
-- complete
-- location
-- neutral-ground
-- place
-- shadow-touched
 - social-hub
 - tavern
+- complete
+- research
+- place
+- active
+- location
+- neutral-ground
+- shadow-touched
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
+population: ~50-200 daily patrons
 world: Aquabyssos
-type: Location
 location_type: Tavern & Social Hub
 affiliation: Neutral Territory
 significance: Minor (Social Gathering Point)
 size: Medium Building
-population: ~50-200 daily patrons
 danger_level: 2
 services:
 - Food
@@ -24,9 +31,9 @@ services:
 - Information
 - Neutral Meeting Space
 created_by: Claude
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] View
@@ -325,3 +332,8 @@ Legends speak of The Shadowmire Tavern as a nexus where past and present converg
 - [[The Depth Wardens]]
 - [[The Nameless Auditor]]
 - [[Memory Farmers]]
+
+
+## Related
+
+*Links to related content will be added here.*

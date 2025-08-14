@@ -1,26 +1,33 @@
+# The Festival of Rising Tides
+
 ---
+title: The Festival of Rising Tides
+type: Lore
 tags:
+- lore
 - aquabyssos
 - celebration
-- community
-- complete
-- cultural-event
-- festival
-- lore
-- seasonal
-- spiritual
 - tides
+- spiritual
+- community
+- festival
+- seasonal
+- research
+- cultural-event
+- active
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: cultural-expansion
-created: '2025-08-11'
 updated: '2025-08-11T00:00:00+00:00'
 festival_type: Annual Community Celebration
 season: Spring
 duration: Seven Days
 participants: All Aquabyssos Communities
 ---
+
 
 
 
@@ -588,3 +595,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Tidal Memory Ceremonies]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

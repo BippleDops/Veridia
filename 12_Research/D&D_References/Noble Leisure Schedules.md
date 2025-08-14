@@ -1,23 +1,30 @@
+# Noble Leisure Schedules
+
 ---
+title: Noble Leisure Schedules
+type: Social Guide
 tags:
 - both
-- both-realms
-- complete
 - culture
-- daily-life
+- both-realms
 - leisure
-- nobility
-- routine
 - social guide
+- research
+- active
+- routine
+- complete
 - social-guide
+- nobility
+- daily-life
 - upper-class
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Social Guide
 created_by: claude
-created: '2025-08-12'
 updated: '2025-08-13T04:22:14.115994+00:00'
 ---
+
 
 
 
@@ -487,3 +494,8 @@ Legends speak of Noble Leisure Schedules as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

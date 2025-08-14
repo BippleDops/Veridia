@@ -1,14 +1,20 @@
+# Banking Lord Cornelius Coinwright
+
 ---
-tags:
-- active
-- aethermoor
-- npc
+title: Banking Lord Cornelius Coinwright
 type: NPC
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- npc
+- research
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.841303+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-banking-lord-cornelius-coinwright-banking-lord-cornelius-coinwright.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Port Meridian - Merchant Quarter]]
+
+
+## Related
+
+*Links to related content will be added here.*

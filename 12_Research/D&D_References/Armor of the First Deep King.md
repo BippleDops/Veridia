@@ -1,15 +1,21 @@
+# Armor of the First Deep King
+
 ---
-tags:
-- active
-- aquabyssos
-- complete
-- npc
+title: Armor of the First Deep King
 type: NPC
-world: Aquabyssos
-status: complete
+tags:
+- aquabyssos
+- npc
+- research
+- active
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T12:34:14.515858+00:00'
 ---
+
 
 
 
@@ -66,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Original Palace]]
+
+
+## Related
+
+*Links to related content will be added here.*

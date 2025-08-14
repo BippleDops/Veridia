@@ -1,20 +1,26 @@
+# arcana-common-xdmg
+
 ---
+title: arcana common xdmg
 aliases:
 - Arcana - Common
-created: 2025-07-23 12:39
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- world/both
-type: note
+created: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.304631'
 world: Both
 ---
+
 
 # Arcana - Common
 *Source: Dungeon Master's Guide (2024) p. 326* 
@@ -82,3 +88,8 @@ Legends speak of arcana common xdmg as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

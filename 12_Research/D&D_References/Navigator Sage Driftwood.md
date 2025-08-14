@@ -1,24 +1,31 @@
+# Navigator Sage Driftwood
+
 ---
+title: Navigator Sage Driftwood
+type: Location
 tags:
 - aquabyssos
-- complete
-- driftwood
-- exploration
-- location
 - navigator
 - npc
+- research
+- active
+- exploration
+- location
+- complete
 - sage
+- driftwood
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.116111+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -179,3 +186,8 @@ Legends speak of Navigator Sage Driftwood as a nexus where past and present conv
 - [[Navigator Sage Driftwood|02 Worldbuilding/Places/Navigator Sage Driftwood]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

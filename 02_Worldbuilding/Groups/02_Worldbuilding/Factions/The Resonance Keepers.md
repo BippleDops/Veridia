@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: The Resonance Keepers
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+![02_Worldbuilding/Factions/The Resonance Keepers](../../../../04_Resources/Assets/Generated/Misc/02_worldbuilding_factions_the_resonance_keepers.png)
+
+
 
 # 02_Worldbuilding/Factions/The Resonance Keepers
 
@@ -24,9 +34,9 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/System Cli Spells School Enchantment]]
-- [[12_Research/D&D_References/System Cli Items Weapons]]
-- [[12_Research/D&D_References/System Cli Spells School Illusion]]
+- [[System Cli Spells School Enchantment]]
+- [[System Cli Items Weapons]]
+- [[System Cli Spells School Illusion]]
 
 ## Notes
 
@@ -37,3 +47,7 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[04_Resources_Assets_Locations_location-city-beast-master-krell-chainbreaker-v1-beast-master-krell-chainbreaker.svg]]

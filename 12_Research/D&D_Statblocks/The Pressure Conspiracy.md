@@ -1,22 +1,29 @@
+# The Pressure Conspiracy
+
 ---
+title: The Pressure Conspiracy
+type: Location
 tags:
 - aquabyssos
-- complete
-- conspiracy
-- location
 - political-intrigue
+- research
+- active
+- location
+- complete
 - secret-society
+- conspiracy
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-pressure-conspiracy-the-pressure-conspiracy.svg]]
@@ -484,3 +491,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Pressure Conspiracy|02 Worldbuilding/Places/The Pressure Conspiracy]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

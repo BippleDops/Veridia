@@ -1,18 +1,25 @@
+# Consciousness Manipulation Technology
+
 ---
-tags:
-- aquabyssos
-- complete
-- consciousness
-- lore
-- memory-manipulation
-- shadow-conspiracy
-- technology
+title: Consciousness Manipulation Technology
 type: Lore
-world: Aquabyssos
-status: complete
+tags:
+- lore
+- aquabyssos
+- technology
+- memory-manipulation
+- consciousness
+- research
+- active
+- complete
+- shadow-conspiracy
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.606969+00:00'
 ---
+
 
 
 # Consciousness Manipulation Technology
@@ -473,3 +480,8 @@ Legends speak of Consciousness Manipulation Technology as a nexus where past and
 - A map overlay reveals a hidden approach to Consciousness Manipulation Technology active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

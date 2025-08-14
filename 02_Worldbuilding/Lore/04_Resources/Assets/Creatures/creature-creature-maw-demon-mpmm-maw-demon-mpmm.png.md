@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: creature creature maw demon mpmm maw demon mpmm.png
+aliases:
+- creature creature maw demon mpmm maw demon mpmmpng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Creatures/creature-creature-maw-demon-mpmm-maw-demon-mpmm.png
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Creatures Gallery]]
+- [[Creatures Gallery]]
 - [[12_Research/D&D_Sourcebooks/CLI_Reference/bestiary/fiend/maw-demon-mpmm]]
 - [[12_Research/D&D_Sourcebooks/CLI_Reference/bestiary/fiend/Maw Demon Mpmm]]
 

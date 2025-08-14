@@ -1,20 +1,26 @@
+# Aquabyssos
+
 ---
-tags:
-- active
-- aquabyssos
-- continent
-- place
-- realm
-- underwater
+title: Aquabyssos
 type: Place
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- realm
+- continent
+- research
+- place
+- active
+- underwater
 created: '2025-08-12'
+modified: '2025-08-14'
+status: active
+population: 15000000
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.569100+00:00'
 danger_level: Variable
-population: 15000000
 government_type: Parliamentary Democracy with Shadow Infiltration
 ---
+
 
 
 > [!figure] View

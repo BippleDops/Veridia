@@ -1,22 +1,30 @@
+# Aquabyssos-Aethermoor Treaties
+
 ---
+title: Aquabyssos Aethermoor Treaties
+type: Lore
 tags:
-- aethermoor
-- complete
+- lore
+- aquabyssos
+- trade
 - diplomacy
 - inter-dimensional
-- lore
+- research
 - peace
-- politics
-- trade
+- active
 - treaties
+- complete
+- politics
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 expanded: 2025-08-10
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -329,3 +337,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Aquabyssos Ambassadors|02 Worldbuilding/Lore/Aquabyssos Ambassadors]]
+
+
+## Related
+
+*Links to related content will be added here.*

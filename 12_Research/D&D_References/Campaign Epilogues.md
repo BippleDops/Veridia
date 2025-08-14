@@ -1,21 +1,27 @@
+# Campaign Epilogues
+
 ---
+title: Campaign Epilogues
+type: Lore
 tags:
+- lore
 - aftermath
-- both worlds
-- both-worlds
-- campaign-structure
-- complete
-- consequences
 - endings
 - epilogues
-- future-stories
-- lore
+- both worlds
+- consequences
+- both-worlds
+- research
 - resolution
+- campaign-structure
+- active
+- complete
+- future-stories
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both Worlds
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:35.853626+00:00'
 structure_type: Campaign Framework
 scope: Both Worlds
@@ -23,6 +29,7 @@ purpose: Campaign Resolution
 usage: Epilogue Guidance
 timeframe: Post-Campaign
 ---
+
 
 
 
@@ -253,3 +260,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Eastern Kingdom Fleet]]
 - [[United Councils of Both Worlds]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

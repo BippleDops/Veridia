@@ -1,19 +1,26 @@
+# Surface Sympathizer Settlements
+
 ---
+title: Surface Sympathizer Settlements
+type: Location
 tags:
 - aquabyssos
-- complete
-- hidden
-- location
 - political-dissidents
+- hidden
+- research
 - settlements
+- active
+- location
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-surface-sympathizer-settlements-surface-sympathizer-settlements.svg)
@@ -179,3 +186,8 @@ Legends speak of Surface Sympathizer Settlements as a nexus where past and prese
 - [[Surface Sympathizer Settlements|02 Worldbuilding/Places/Surface Sympathizer Settlements]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

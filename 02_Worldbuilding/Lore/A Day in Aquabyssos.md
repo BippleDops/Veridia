@@ -1,25 +1,29 @@
 ---
-created: '2025-08-12'
-created_by: claude
-status: complete
-tags:
-- quest
-- crystal-enhanced
-- aquatic
-- aquabyssos
-- complete
-- cultural-guide
-- culture
-- daily-life
-- lore
-- routine
-- status/complete
-- world/aquabyssos
-- worldbuilding
+title: A Day in Aquabyssos
 type: Lore
+tags:
+- lore
+- aquabyssos
+- status/complete
+- culture
+- aquatic
+- worldbuilding
+- quest
+- active
+- routine
+- complete
+- world/aquabyssos
+- daily-life
+- cultural-guide
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+created_by: claude
 updated: '2025-08-13T12:34:15.840456+00:00'
 world: Aquabyssos
 ---
+
 
 
 # A Day in Aquabyssos
@@ -28,7 +32,7 @@ world: Aquabyssos
 
 ## Overview
 
-Life in [[12_Research/D&D_References/Aquabyssos]] flows with the natural rhythms of the ocean depths, shaped by pressure cycles, bioluminescent patterns, and the eternal dance of current and tide. The underwater realm's inhabitants have evolved complex daily routines that blend practicality with the unique challenges and opportunities of their aquatic existence.
+Life in [[Aquabyssos]] flows with the natural rhythms of the ocean depths, shaped by pressure cycles, bioluminescent patterns, and the eternal dance of current and tide. The underwater realm's inhabitants have evolved complex daily routines that blend practicality with the unique challenges and opportunities of their aquatic existence.
 
 ## The Aquabyssos Day Cycle
 
@@ -603,12 +607,12 @@ From the early morning pressure adjustments to the evening social gatherings, ev
 ---
 
 **Related Topics**:
-- [[12_Research/D&D_References/Aethermoor Daily Rhythms]]
-- [[12_Research/D&D_References/Working Class Routines]]
-- [[12_Research/D&D_References/Noble Leisure Schedules]]
-- [[12_Research/D&D_References/Child Life in the Realms]]
+- [[Aethermoor Daily Rhythms]]
+- [[Working Class Routines]]
+- [[Noble Leisure Schedules]]
+- [[Child Life in the Realms]]
 - [[12_Research/D&D_Statblocks/Pressure Terminal]]
-- [[12_Research/D&D_References/The Hadal Depths]]
+- [[The Hadal Depths]]
 - [[Aquabyssos Culture and Society]]
 
 ## Player-Facing Summary

@@ -1,15 +1,23 @@
+# Aethermoor_Sky_Navigation_Chart
+
 ---
-created: '2025-08-13'
-status: ready
-tags:
-- status/ready
-- type/player-handout
-- world/aethermoor
-- category/navigation
+title: Aethermoor Sky Navigation Chart
 type: Player Handout
+tags:
+- aethermoor
+- research
+- type/player-handout
+- category/navigation
+- active
+- status/ready
+- world/aethermoor
+created: '2025-08-13'
+modified: '2025-08-14'
+status: ready
 updated: '2025-08-13T12:30:00.000000'
 world: Aethermoor
 ---
+
 
 # Aethermoor Sky Navigation Chart - Player Handout
 
@@ -255,3 +263,7 @@ world: Aethermoor
 ---
 
 *Issued by the Royal Aethermoor Navigation Authority in cooperation with the Sky Pilots Guild. Chart valid through Storm Season 848.*
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,24 +1,29 @@
+# S L-11 Platform Unmooring Player
+
 ---
-audience: player
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- campaign/session
-- complete
-- handout
-- lore
-- status/complete
-- world/aethermoor
-- world/both
-title: Player Handout — S-L-11 Platform Unmooring
+title: "Player Handout \u2014 S-L-11 Platform Unmooring"
 type: Lore
-updated: '2025-08-13T12:34:32.390960+00:00'
+tags:
+- lore
+- both
+- status/complete
+- campaign/session
+- handout
+- world/both
+- active
+- complete
+- world/aethermoor
+- resource
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+audience: player
+updated: 2025-08-13 07:59:50.470464
 world: Both
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.470464
 ---
+
 # Platform Unmooring
 
 The city shifts underfoot as if remembering how to drift.
@@ -35,3 +40,8 @@ Possible outcomes
 - The city holds
 - It drifts for a time
 - It’s lost
+
+
+## Related
+
+*Links to related content will be added here.*

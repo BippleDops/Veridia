@@ -1,20 +1,26 @@
+# halfling-tables-reasons-for-adventuring-mtf
+
 ---
+title: halfling tables reasons for adventuring mtf
 aliases:
 - Halfling Tables; Reasons for Adventuring
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- active
+- ttrpg-cli/compendium/src/5e/mtf
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/mtf
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.340895'
 world: Both
 ---
+
 
 # Halfling Tables; Reasons for Adventuring
 *Source: Mordenkainen's Tome of Foes p. 105* 
@@ -52,3 +58,8 @@ Legends speak of halfling tables reasons for adventuring mtf as a nexus where pa
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

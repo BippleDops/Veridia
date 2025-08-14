@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session Planning Workflow
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session Planning Workflow
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Duke Sterling Truecrystal]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-sunken-observatory-the-sunken-observatory.svg]]
+- [[Quest - The Corruption Files]]
+- [[Quest - The Deep Mother's Truth]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-umbral-exchange-the-umbral-exchange.svg]]
+
+
+## Important Locations
+
+- [[Sacred Grottos]]
+- [[Thomas Deepanchor]]
+- [[04_Resources_Assets_Portraits_portrait-npc-sage-lysander-deepthought-sage-lysander-deepthought.svg]]

@@ -1,19 +1,26 @@
+# Save the Citizens
+
 ---
+title: Save the Citizens
+type: Lore
 tags:
-- aethermoor
-- citizens
-- complete
-- emergency-response
 - lore
 - quest
+- research
+- active
+- complete
+- emergency-response
+- citizens
 - rescue-mission
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 # Save the Citizens
@@ -67,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Aethermoor - Session 07 The Festival of Transformation]]
+
+
+## Related
+
+*Links to related content will be added here.*

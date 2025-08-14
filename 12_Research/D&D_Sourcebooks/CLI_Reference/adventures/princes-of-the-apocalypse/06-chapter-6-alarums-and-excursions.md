@@ -1,20 +1,26 @@
+# 06-chapter-6-alarums-and-excursions
+
 ---
+title: 06 chapter 6 alarums and excursions
 aliases:
 - Chapter 6: Alarums and Excursions
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/pota
-- world/both
 type: note
+tags:
+- research
+- world/both
+- active
+- note
+- ttrpg-cli/compendium/src/5e/pota
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.590107'
 world: Both
 ---
+
 
 # Chapter 6: Alarums and Excursions
 *Source: Princes of the Apocalypse, p. 148* 
@@ -1915,3 +1921,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
  enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,33 +1,38 @@
 ---
+title: Shadow Behavior Guidelines
+type: Faction
+tags:
+- aquabyssos
+- status/complete
+- self-regulation
+- shadow-society
+- content/faction
+- faction
+- behavioral-code
+- organization
+- active
+- complete
+- world/aquabyssos
+- content/template
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Council of Shadows]]'
+membership: Unknown
 MyCategory: Regulatory Body
 MyContainer: Shadow Society
 alignment: Lawful Neutral (Ethical Framework)
-created: '2025-08-08'
 created_by: auto-stub
 faction_type: Shadow Society Regulatory Body
-headquarters: '[[The Council of Shadows]]'
 influence: Shadow-Touched Community Self-Regulation
 leader: '[[Shadow Magistrate Umbrian Darkwise]]'
 members: ~50 magistrates, ~200 enforcement officers, ~1000 community volunteers
-modified: 2025-08-11 - Category/Group
 obsidianUIMode: preview
 purpose: Establish ethical standards for shadow energy use
-status: complete
-tags:
-- aquabyssos
-- behavioral-code
-- complete
-- content/faction
-- content/template
-- faction
-- self-regulation
-- shadow-society
-- status/complete
-- world/aquabyssos
-type: Faction
 updated: '2025-08-13T12:34:17.373813+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry
@@ -603,3 +608,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Shadow Surgeon Apprentice|02 Worldbuilding/Groups/Shadow Surgeon Apprentice]]
+
+
+## Known Members
+
+- [[04_Resources_Assets_Locations_location-city-dr-vera-spectrumseeker-v1-dr-vera-spectrumseeker.svg]]

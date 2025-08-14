@@ -1,25 +1,32 @@
+# Thalassius the Wise 3
+
 ---
+title: Thalassius the Wise 3
+type: Lore
+tags:
+- lore
+- thalassius
+- both
+- wise
+- status/complete
+- worldbuilding
+- content/lore
+- world/both
+- research
+- content/npc
+- scholar
+- active
+- complete
+- world/aquabyssos
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- content/npc
-- lore
-- scholar
-- status/complete
-- thalassius
-- wise
-- world/aquabyssos
-- world/both
-- worldbuilding
-type: Lore
 updated: '2025-08-13T12:34:28.877055+00:00'
 world: Both
 ---
+
 
 
 

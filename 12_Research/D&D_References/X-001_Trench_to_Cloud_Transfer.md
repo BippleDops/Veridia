@@ -1,19 +1,25 @@
+# X-001_Trench_to_Cloud_Transfer
+
 ---
 title: "Encounter Sheet \u2014 X-001 Trench-to-Cloud Transfer"
 type: gm_resource
-status: complete
 tags:
 - both
-- complete
 - encounter
 - gm
+- research
+- active
 - gm_resource
+- complete
 - mixed
 - transfer
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.136752+00:00'
 world: Both
 ---
+
 
 
 # X-001 Trench-to-Cloud Transfer
@@ -57,3 +63,8 @@ Legends speak of X 001 Trench to Cloud Transfer as a nexus where past and presen
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

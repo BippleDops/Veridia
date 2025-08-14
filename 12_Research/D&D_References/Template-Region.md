@@ -1,17 +1,23 @@
+# Template-Region
+
 ---
+title: Template Region
 type: Lore
-status: complete
 tags:
-- active
-- both
-- category/region
 - lore
+- both
+- research
+- active
+- category/region
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 obsidianUIMode: preview
 MyContainer: null
 world: Both
 updated: '2025-08-13T01:18:31.188412+00:00'
-created: '2025-08-11'
 ---
+
 
 
 
@@ -234,3 +240,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Lore/The Island of Screams.jpg|02 Worldbuilding/Lore/The Island Of Screams.jpg]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,14 +1,20 @@
+# Captain Tempest-Eye Marelda
+
 ---
-tags:
-- active
-- aquabyssos
-- npc
+title: Captain Tempest Eye Marelda
 type: NPC
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.972409+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-captain-tempest-eye-marelda-captain-tempest-eye-marelda.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Lighthouse of Storms]]
+
+
+## Related
+
+*Links to related content will be added here.*

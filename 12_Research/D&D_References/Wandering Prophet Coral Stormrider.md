@@ -1,14 +1,20 @@
+# Wandering Prophet Coral Stormrider
+
 ---
+title: Wandering Prophet Coral Stormrider
+type: Location
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:36.068437+00:00'
 world: Both
-type: Location
-status: active
-tags:
-- active
-- both
-- location
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-wandering-prophet-coral-stormrider-v1-wandering-prophet-coral-stormrider.svg]]
@@ -45,3 +51,8 @@ Legends speak of Wandering Prophet Coral Stormrider as a nexus where past and pr
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

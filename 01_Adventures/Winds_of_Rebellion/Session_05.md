@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 05
 type: adventure
-status: active
 tags:
-- combat
-- session-notes
-- aerial
 - adventure
+- aerial
+- session-notes
+- quest
+- active
+- combat
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 05: [Sky Realm Crisis]
 
@@ -62,3 +68,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Key NPCs
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-mistwalker-captain-mistwalker.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-high-priestess-scylla-deepdream-high-priestess-scylla-deepdream.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-harmonic-mind-contro-harmonic-mind-contro.svg]]
+- [[Quest - The Democratic Balance]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-archmerchant-codex-goldstrea-archmerchant-codex-goldstrea.svg]]
+
+
+## Important Locations
+
+- [[Whisper-Witch Naia Softcurrent]]
+- [[Temple-Scholar Depth-Seer]]
+- [[Quest - The Pretender]]

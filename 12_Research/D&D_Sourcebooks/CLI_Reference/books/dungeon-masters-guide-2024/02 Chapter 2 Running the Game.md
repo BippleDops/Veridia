@@ -1,22 +1,27 @@
+# 02 Chapter 2 Running the Game
+
 ---
+title: 02 Chapter 2 Running the Game
 aliases:
 - Chapter 2: Running the Game
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:05.170088+00:00'
 world: Both
 ---
+
 
 
 # Chapter 2: Running the Game
@@ -1121,3 +1126,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
  enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,28 +1,34 @@
+# Crystal Corruption Taboos
+
 ---
+title: Crystal Corruption Taboos
+type: Lore
 tags:
-- both
-- both-worlds
-- collective-fear
-- complete
-- corruption-prevention
-- crystal-corruption
-- cultural-evolution
-- cultural-identity
-- cultural-restrictions
+- traditional-beliefs
+- historical-trauma
 - cultural-taboos
 - historical-development
-- historical-trauma
-- lore
-- moral-boundaries
 - social-control
+- collective-fear
+- cultural-identity
+- lore
 - social-ostracism
+- corruption-prevention
+- complete
 - social-stigma
-- traditional-beliefs
+- cultural-evolution
+- both
+- cultural-restrictions
+- crystal-corruption
+- both-worlds
+- research
+- active
+- moral-boundaries
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Lore
 created_by: cultural-expansion
-created: '2025-08-11'
 updated: '2025-08-11T00:00:00+00:00'
 historical_period: Post-Great Crystallization to Present (500+ Years)
 significance: Fundamental Cultural Framework
@@ -31,6 +37,7 @@ current_status: Actively Enforced
 cultural_scope: Universal Across Both Worlds
 enforcement_level: Community-Based Social Control
 ---
+
 
 
 
@@ -1045,3 +1052,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Master_Lore_Index|Master Lore Index]]
 - [[The Great Crystallization]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

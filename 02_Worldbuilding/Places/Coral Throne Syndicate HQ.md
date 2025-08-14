@@ -1,35 +1,39 @@
 ---
-category: Fortress/Stronghold
-controlled_by: '[[Coral Throne Syndicate|02 Worldbuilding/Groups/Coral
-  Throne Syndicate]]'
+title: Coral Throne Syndicate HQ
+type: Location
+tags:
+- aquabyssos
+- status/complete
+- content/faction
+- content/location
+- headquarters
+- place
+- active
+- location
+- complete
+- coral-formation
+- world/aquabyssos
+- status/archived
 created: '2025-08-10'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: 500+ (guards, staff, prisoners)
+category: Fortress/Stronghold
+controlled_by: '[[Coral Throne Syndicate|02 Worldbuilding/Groups/Coral Throne Syndicate]]'
 danger_level: Very High
 depth: 1800-2200 feet
 difficulty: Levels 8-15
-population: 500+ (guards, staff, prisoners)
 related_entities:
-- '[[Coral Throne Syndicate|02 Worldbuilding/Groups/Coral
-  Throne Syndicate]]'
+- '[[Coral Throne Syndicate|02 Worldbuilding/Groups/Coral Throne Syndicate]]'
 - '[[Coral Empress Scarletina]]'
 - '[[02_Worldbuilding/Places/The Crimson Reef|02 Worldbuilding/Places/The Crimson
   Reef]]'
 ruler: '[[Coral Empress Scarletina]]'
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/faction
-- content/location
-- coral-formation
-- headquarters
-- location
-- status/archived
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:17.255195+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -680,6 +684,27 @@ Legends speak of Coral Throne Syndicate HQ as a nexus where past and present con
 - An NPC seeks discreet help at Coral Throne Syndicate HQ to avert a public scandal.
 - A map overlay reveals a hidden approach to Coral Throne Syndicate HQ active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -689,3 +714,97 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Coral Throne Syndicate HQ]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-the-thornfield-district-the-thornfield-district.svg]]
+- [[04_Resources_Assets_Locations_location-city-ancient-treasury-of-tides-ancient-treasury-of-tides.svg]]
+- [[04_Resources_Assets_Locations_location-city-high-hierophant-meridius-high-hierophant-meridius.svg]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+Coral Throne Syndicate HQ is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Coral Throne Syndicate HQ
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Coral Throne Syndicate HQ was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Coral Throne Syndicate HQ:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Coral Throne Syndicate HQ
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

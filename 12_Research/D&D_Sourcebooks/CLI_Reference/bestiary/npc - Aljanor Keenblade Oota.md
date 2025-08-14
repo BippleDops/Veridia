@@ -1,26 +1,33 @@
+# npc - Aljanor Keenblade Oota
+
 ---
+title: npc   Aljanor Keenblade Oota
 aliases:
 - Aljanor Keenblade
+type: npc
+tags:
+- ttrpg-cli/monster/size/medium
+- both
+- ttrpg-cli/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/oota
+- alive
+- npc
+- research
+- world/both
+- content/npc
+- active
+- ttrpg-cli/monster/cr/3
 created: 2025-08-11
+modified: '2025-08-14'
+status: alive
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: alive
-tags:
-- alive
-- both
-- content/npc
-- npc
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/human
-- world/both
-type: npc
 updated: '2025-08-13T12:34:05.280567+00:00'
 world: Both
 ---
+
 
 
 
@@ -101,3 +108,8 @@ Legends speak of aljanor keenblade oota as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

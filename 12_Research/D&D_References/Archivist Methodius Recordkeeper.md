@@ -1,16 +1,22 @@
+# Archivist Methodius Recordkeeper
+
 ---
-tags:
-- active
-- both worlds
-- both-worlds
-- location
+title: Archivist Methodius Recordkeeper
 type: Location
-world: Both Worlds
-status: active
+tags:
+- both worlds
+- research
+- both-worlds
+- active
+- location
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both Worlds
 updated: '2025-08-13T01:18:36.603603+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-archivist-methodius-recordkeeper-archivist-methodius-recordkeeper.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Evidence Chain Analysis]]
+
+
+## Related
+
+*Links to related content will be added here.*

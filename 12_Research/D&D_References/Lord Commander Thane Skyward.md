@@ -1,14 +1,21 @@
+# Lord Commander Thane Skyward
+
 ---
+title: Lord Commander Thane Skyward
+type: NPC
 tags:
-- active
 - both
 - npc
-type: NPC
-world: Both
-status: active
+- research
+- active
+- aethermoor
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:37.017072+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-lord-commander-thane-skyward-lord-commander-thane-skyward.svg]]
@@ -68,3 +75,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Quest - The Lost Expedition]]
+
+
+## Related
+
+*Links to related content will be added here.*

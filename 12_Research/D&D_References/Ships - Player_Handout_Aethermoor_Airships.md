@@ -1,18 +1,24 @@
+# Ships - Player_Handout_Aethermoor_Airships
+
 ---
 title: "Player Handout \u2014 Aethermoor Airships"
 type: handout
-status: complete
-audience: player
 tags:
-- aethermoor
 - airships
-- complete
 - handout
 - vehicles
+- research
+- active
+- complete
+- aethermoor
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+audience: player
 updated: '2025-08-13T01:18:37.191802+00:00'
 world: Aethermoor
 ---
+
 
 
 # Aethermoor Airships — Visual & Vibe Guide
@@ -29,3 +35,8 @@ Ship choice shapes play: speed, stealth, sanity resilience, and upgrade slots di
 ## Cross-References
 
 - [[Aethermoor_Session_01|06 GM Resources/Session Packets/Aethermoor Session 01]]
+
+
+## Related
+
+*Links to related content will be added here.*

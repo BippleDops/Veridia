@@ -1,21 +1,28 @@
+# Crimson Hand Strike Team
+
 ---
-status: complete
-date_created: '2025-08-11'
-date_modified: '2025-08-11'
+title: Crimson Hand Strike Team
+type: Lore
 tags:
-- aethermoor
-- both
-- complete
-- crimson-hand
 - lore
+- both
 - military
 - strike-team
 - worldbuilding
+- research
+- crimson-hand
+- active
+- complete
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+date_created: '2025-08-11'
+date_modified: '2025-08-11'
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
-created: '2025-08-11'
-type: Lore
 ---
+
 
 
 

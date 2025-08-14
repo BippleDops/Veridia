@@ -1,19 +1,26 @@
+# The Royal Palace
+
 ---
+title: The Royal Palace
+type: Location
 tags:
-- aethermoor
-- complete
-- government
-- location
-- palace
 - royal
+- complete
+- research
+- government
+- active
+- palace
+- location
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-royal-palace-the-royal-palace.svg]]
@@ -197,3 +204,8 @@ Legends speak of The Royal Palace as a nexus where past and present converge. Lo
 - [[Parliament of Echoes]]
 - [[Royal Palace of Meridian]]
 - [[Throne Room - Heart of Palace]]
+
+
+## Related
+
+*Links to related content will be added here.*

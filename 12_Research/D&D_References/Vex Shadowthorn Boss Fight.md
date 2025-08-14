@@ -1,31 +1,37 @@
+# Vex Shadowthorn Boss Fight
+
 ---
-tags:
-- aethermoor
-- boss-hunting
-- combat-specialists
-- complete
-- faction
-- group
-- mercenary-company
-- professional-fighters
-status: complete
-world: Aethermoor
+title: Vex Shadowthorn Boss Fight
 type: Group
+tags:
+- faction
+- combat-specialists
+- mercenary-company
+- research
+- boss-hunting
+- active
+- professional-fighters
+- complete
+- aethermoor
+- group
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Battle Forge Arena]]'
+world: Aethermoor
 faction_type: Elite Combat Mercenary Company
 alignment: Chaotic Neutral (Professional Warriors)
-headquarters: '[[The Battle Forge Arena]]'
 leader: '[[Commander Vex Shadowthorn]]'
 members: ~45 elite fighters, ~150 support personnel
 influence: Combat Training, Mercenary Services
 purpose: Eliminate dangerous creatures and hostile entities
 created_by: auto-stub
-created: '2025-08-08'
-modified: 2025-08-11 - Category/Group
 MyContainer: Combat Services
 MyCategory: Mercenary Company
 obsidianUIMode: preview
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-vex-shadowthorn-boss-fight-vex-shadowthorn-boss-fight.png]]
@@ -610,3 +616,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Aethermoor - Session 04 The Silverscale Gambit]]
+
+
+## Related
+
+*Links to related content will be added here.*

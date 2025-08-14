@@ -1,23 +1,28 @@
+# Dark Gift of Shami Amourae the Lady of
+
 ---
+title: Dark Gift of Shami Amourae the Lady of
 aliases:
 - Dark Gift of Shami-Amourae, the Lady of Delights
-created: 2025-07-23
-cssclasses: json5e-reward
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
+- research
+- world/both
+- active
+- ttrpg-cli/reward/charm
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/cos
-- ttrpg-cli/reward/charm
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-reward
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:05.110333+00:00'
 world: Both
 ---
+
 
 
 # Dark Gift of Shami-Amourae, the Lady of Delights
@@ -48,3 +53,8 @@ Legends speak of dark gift of shami amourae the lady of delights cos as a nexus 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

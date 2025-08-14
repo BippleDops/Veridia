@@ -1,25 +1,31 @@
 ---
-created: '2025-08-12'
-created_by: claude
-status: complete
+title: Forbidden Tomes of Deep Mother
+type: Item
 tags:
-- books
+- tomes
 - both
+- status/complete
+- world/both
+- deep-mother
+- active
+- sanity-cost
 - complete
 - content/item
-- deep-mother
-- forbidden-knowledge
-- item
-- sanity-cost
-- status/complete
-- tomes
-- world/aethermoor
 - world/aquabyssos
-- world/both
-type: Item
+- forbidden-knowledge
+- world/aethermoor
+- item
+- books
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+rarity: Unknown
+value: Unknown
+created_by: claude
 updated: '2025-08-13T12:34:17.752704+00:00'
 world: Both
 ---
+
 
 
 

@@ -1,26 +1,32 @@
+# Nereidios
+
 ---
+title: Nereidios
+type: Location
 tags:
-- active
 - aquabyssos
 - both
 - continent
-- horror
 - knowledge
-- location
+- research
+- active
 - scholars
-depth_range: 500-2000 feet
+- horror
+- location
+created: '2025-08-12'
+modified: '2025-08-14'
+status: active
 population: ~500000
+depth_range: 500-2000 feet
 government: The Cognition Collective
 danger_level: High (Mental)
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:36.192299+00:00'
-status: active
-type: Location
 ---
+
 
 
 
@@ -193,3 +199,8 @@ Legends speak of Nereidios as a nexus where past and present converge. Locals de
 <!-- enriched: true -->
 - [[Vorthak]]
 - [[Memoriam]]
+
+
+## Related
+
+*Links to related content will be added here.*

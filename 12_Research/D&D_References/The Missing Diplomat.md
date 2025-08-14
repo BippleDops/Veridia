@@ -1,20 +1,27 @@
+# The Missing Diplomat
+
 ---
+title: The Missing Diplomat
+type: Location
 tags:
 - aquabyssos
-- complete
-- diplomacy
 - investigation
-- location
+- diplomacy
 - political-intrigue
 - quest
+- research
+- active
+- location
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.460862+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -182,3 +189,8 @@ Legends speak of The Missing Diplomat as a nexus where past and present converge
 - [[The Missing Diplomat|02 Worldbuilding/Places/The Missing Diplomat]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

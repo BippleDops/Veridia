@@ -1,19 +1,23 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Admiral Darkwater
+type: Lore
 tags:
-- shadow-touched
+- lore
 - aquabyssos
-- complete
+- world/aquabyssos
 - content/faction
 - content/lore
-- lore
+- active
+- complete
 - status/in-progress
-- world/aquabyssos
-type: Lore
+- shadow-touched
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.182882+00:00'
 world: Aquabyssos
 ---
+
 
 
 ## Overview
@@ -47,7 +51,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[12_Research/D&D_References/The Shadow Conspiracy]]
+- [[The Shadow Conspiracy]]
 
 
 ## Related

@@ -1,20 +1,26 @@
+# 07-chapter-7-escape-from-the-underdark
+
 ---
+title: 07 chapter 7 escape from the underdark
 aliases:
 - Chapter 7: Escape from the Underdark
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- ttrpg-cli/compendium/src/5e/oota
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/oota
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.650744'
 world: Both
 ---
+
 
 # Chapter 7: Escape from the Underdark
 *Source: Out of the Abyss, p. 116* 
@@ -204,3 +210,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
  enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Fragment Wars
+type: Lore
 tags:
+- lore
 - aquabyssos
-- complete
+- world/aquabyssos
 - content/lore
 - content/npc
-- lore
+- active
+- complete
 - status/in-progress
-- world/aquabyssos
-type: Lore
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.334612+00:00'
 world: Aquabyssos
 ---
+
 
 
 ## Overview

@@ -1,31 +1,36 @@
 ---
-alignment: True Neutral (Profit-focused)
+title: The Liminal Trading Company
+type: Faction
+tags:
+- status/complete
+- world/aquabyssos
+- content/faction
+- faction
+- trading-company
+- organization
+- both aethermoor & aquabyssos
+- active
+- complete
+- cross-realm
+- world/aethermoor
+- smugglers
+- merchants
 created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[pat]] (dimensional nexus)'
+membership: Unknown
+alignment: True Neutral (Profit-focused)
 created_by: auto-stub
 faction_type: Cross-Realm Trading Syndicate
-headquarters: '[[pat]] (dimensional
-  nexus)'
 influence: Significant (controls cross-realm commerce)
 leader: '[[Merchant Prince Vortex]]'
 members: ~1,200 traders, smugglers, and support staff
 purpose: Profit from inter-dimensional trade
-status: complete
-tags:
-- both aethermoor & aquabyssos
-- complete
-- content/faction
-- cross-realm
-- faction
-- merchants
-- smugglers
-- status/complete
-- trading-company
-- world/aethermoor
-- world/aquabyssos
-type: Faction
 updated: '2025-08-13T12:34:17.362001+00:00'
 world: Both Aethermoor & Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry
@@ -475,3 +480,8 @@ Legends speak of The Liminal Trading Company as a nexus where past and present c
 - [[Quest - The Convergence Crisis]]
 - [[Memory Farmers]]
 - [[The Floating Market]]
+
+
+## Known Members
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-torren-stormwright-captain-torren-stormwright.svg]]

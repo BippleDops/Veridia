@@ -6806,6 +6806,9 @@
 ## location_void_1755203022407
 ![](04_Resources/Assets/Locations/location_void_1755203022407.png)
 
+## locations_1755209667472
+![](04_Resources/Assets/Locations/locations_1755209667472.png)
+
 ## locations_aethermoor_1755205554710
 ![](04_Resources/Assets/Locations/locations_aethermoor_1755205554710.png)
 
@@ -6820,3 +6823,8 @@
 
 ## locations_void_1755205559048
 ![](04_Resources/Assets/Locations/locations_void_1755205559048.png)
+
+
+## Related
+
+*Links to related content will be added here.*

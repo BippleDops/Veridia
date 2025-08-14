@@ -1,14 +1,21 @@
+# Magic_Items_Quick_Reference
+
 ---
-created: '2025-08-13'
-status: complete
+title: Magic Items Quick Reference
+type: Visual Handout
 tags:
-- player/visual
 - items/magic
 - reference/quick
-type: Visual Handout
+- player/visual
+- research
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Magic Items Quick Reference
 ## Common Campaign Items
@@ -194,3 +201,7 @@ BLACK MARKET MULTIPLIERS:
 *Keep this reference during shopping and equipment planning*
 *Emergency items should always be carried*
 *Check with GM for availability and local pricing variations*
+
+## Related
+
+*Links to related content will be added here.*

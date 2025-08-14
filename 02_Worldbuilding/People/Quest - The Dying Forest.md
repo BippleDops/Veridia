@@ -1,26 +1,34 @@
 ---
+title: Quest   The Dying Forest
+type: Npc
+tags:
+- content/adventure
+- status/complete
+- npc
+- character
+- content/npc
+- death
+- forest
+- world/aethermoor
+- active
+- complete
+- corruption
+- aethermoor
+created: 2025-08-08 - Category/Quests
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 MyCategory: Environmental
 MyContainer: None
 cr: '6'
-created: 2025-08-08 - Category/Quests
 created_by: auto-stub
 obsidianUIMode: preview
-status: complete
-tags:
-- aethermoor
-- complete
-- content/adventure
-- content/npc
-- corruption
-- death
-- forest
-- npc
-- status/complete
-- world/aethermoor
-type: Npc
 updated: '2025-08-13T12:34:17.495333+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait
@@ -104,9 +112,124 @@ The Silverleaf Forest has stood for millennia, its magical trees providing prote
 - Hunt escaped corrupted creatures in civilized areas
 - Prevent Malachar's cult from completing revenge plans
 
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Finding purpose
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Quest - The Dying Forest harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Dark patron
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Direct and concise
+
+**Physical Habits**: Remains perfectly still
+
+## Current Activities
+
+Quest - The Dying Forest is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Quest - The Dying Forest needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Quest - The Dying Forest stopped or removed
+3. **The Secret**: Information about Quest - The Dying Forest's past surfaces
+4. **The Alliance**: Opportunity to work with or against Quest - The Dying Forest
+5. **The Crisis**: Quest - The Dying Forest is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 This quest explores environmental themes and offers multiple problem-solving approaches. The corruption provides visceral horror while the dying forest creates urgency. Use the investigation phase to build tension before revealing the supernatural threat. The multiple solution paths accommodate different party strengths and moral approaches.
 
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-shadowsail-captain-shadowsail.svg]]: *sworn enemy*
+- [[Captain Marcus Voidward]]: *secret ally*
+- [[Azure Shard]]: *business partner*
 
 ## Connections
 
@@ -127,6 +250,12 @@ TODO
 
 
 ## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more calculating
+- **When Pleased**: Shows quiet pride
+- **In Conflict**: Tends toward negotiation
+
 
 
 TODO

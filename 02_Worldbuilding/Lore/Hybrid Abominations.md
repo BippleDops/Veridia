@@ -1,15 +1,18 @@
 ---
+title: Hybrid Abominations
 type: Lore
+tags:
+- lore
+- category/lore
+- aquabyssos
+- session-notes
+- active
+- complete
+- shadow-touched
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 updated: '2025-08-13T01:18:35.288508+00:00'
-created: '2025-08-11'
-tags:
-- session-notes
-- shadow-touched
-- aquabyssos
-- category/lore
-- complete
-- lore
 world: Aquabyssos
 obsidianUIMode: preview
 accessibility:
@@ -21,6 +24,7 @@ accessibility:
   - Lines & Veils
   - X-Card
 ---
+
 
 
 # Hybrid Abominations
@@ -45,15 +49,15 @@ Hybrid Abominations describes a turning current in history where choices about m
 
 ## Threads and Revelations
 
-- Records implicate agents tied to [[12_Research/D&D_References/The Sunken Library of Thalassius]].
-- A rite echoes the activation cadence needed for [[12_Research/D&D_References/Aquabyssos]].
-- Testimony suggests [[12_Research/D&D_References/Vex Shadowthorn]] financed a pivotal bribe.
+- Records implicate agents tied to [[The Sunken Library of Thalassius]].
+- A rite echoes the activation cadence needed for [[Aquabyssos]].
+- Testimony suggests [[Vex Shadowthorn]] financed a pivotal bribe.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Sunken Library of Thalassius]]
-- [[12_Research/D&D_References/Aquabyssos]]
-- [[12_Research/D&D_References/Vex Shadowthorn]]
+- [[The Sunken Library of Thalassius]]
+- [[Aquabyssos]]
+- [[Vex Shadowthorn]]
 
 ## Player-Facing Summary
 
@@ -78,10 +82,33 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[12_Research/D&D_References/The Seven Shards]]
-- [[12_Research/D&D_References/Aquabyssos - Session 04 - High Tide Horror]]
+- [[The Seven Shards]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
+
+
+## Overview
+
+Hybrid Abominations represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

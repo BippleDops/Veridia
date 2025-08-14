@@ -1,14 +1,20 @@
+# Working Class Citizens
+
 ---
-tags:
-- active
-- aethermoor
-- npc
+title: Working Class Citizens
 type: NPC
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:37.040721+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-working-class-citizens-v1-working-class-citizens.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Purist Coalition Thugs]]
+
+
+## Related
+
+*Links to related content will be added here.*

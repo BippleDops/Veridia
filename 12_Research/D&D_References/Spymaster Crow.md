@@ -1,24 +1,31 @@
+# Spymaster Crow
+
 ---
+title: Spymaster Crow
+type: Location
 tags:
 - aquabyssos
-- complete
-- espionage
 - hidden
-- intelligence
-- location
+- research
+- active
 - parliament
+- location
+- complete
 - shadow-network
+- espionage
+- intelligence
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Intelligence Network
 obsidianUIMode: preview
 updated: '2025-08-12T00:00:00+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-spymaster-crow-spymaster-crow.svg]]
@@ -323,3 +330,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Spymaster Crow|02 Worldbuilding/Places/Spymaster Crow]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

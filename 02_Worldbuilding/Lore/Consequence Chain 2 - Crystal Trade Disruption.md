@@ -1,27 +1,31 @@
 ---
+title: Consequence Chain 2   Crystal Trade Disruption
 type: Lore
-status: complete
 tags:
-- quest
-- session-notes
-- crystal-enhanced
-- shadow-touched
-- aethermoor
-- campaign-consequences
-- complete
-- crystal-trade
-- economic-warfare
 - financial-corruption
 - lore
+- session-notes
 - silverscale-consortium
-world: Aethermoor
+- quest
+- active
+- economic-warfare
+- complete
+- campaign-consequences
+- crystal-trade
+- aethermoor
+- shadow-touched
+- crystal-enhanced
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aethermoor
 updated: '2025-08-13T01:18:34.737572+00:00'
 magnitude: 4
 visibility: 4
 primary_sessions:
 - 'Session 04: The Silverscale Gambit'
 ---
+
 
 
 # Consequence Chain 2: Crystal Trade Disruption
@@ -34,16 +38,16 @@ primary_sessions:
 - Witnessed and investigated the Silverscale flagship 'Golden Promise' explosion in Port Meridian harbor
 - Raided the Silverscale Banking House emergency vault during Crimson Hand operation
 - Recovered critical documents exposing cross-realm excavation operations
-- Confronted [[12_Research/D&D_References/Director Hadrian Silverscale]] and chose to expose rather than accept bribes
-- Defeated [[12_Research/D&D_References/Vex Shadowthorn]] and discovered connection to Aquabyssos entities
+- Confronted [[Director Hadrian Silverscale]] and chose to expose rather than accept bribes
+- Defeated [[Vex Shadowthorn]] and discovered connection to Aquabyssos entities
 - Revealed Silverscale's illegal excavation of Aquabyssos ruins for profit
 
 **Who was directly affected:**
-- **[[12_Research/D&D_References/Silverscale Consortium]]**: Core operations exposed, leadership under investigation
-- **[[12_Research/D&D_References/Director Hadrian Silverscale]]**: Public reputation destroyed, criminal charges pending
-- **[[12_Research/D&D_References/Marina-Red-Tide-Coralheart]]**: Identity as Depth Guard revealed, becomes key witness
-- **[[12_Research/D&D_References/Queen Seraphina Lumengarde]]**: Authority challenged by corporate overreach
-- **[[12_Research/D&D_References/Vex Shadowthorn]]**: Operations disrupted, forced underground
+- **[[Silverscale Consortium]]**: Core operations exposed, leadership under investigation
+- **[[Director Hadrian Silverscale]]**: Public reputation destroyed, criminal charges pending
+- **[[Marina-Red-Tide-Coralheart]]**: Identity as Depth Guard revealed, becomes key witness
+- **[[Queen Seraphina Lumengarde]]**: Authority challenged by corporate overreach
+- **[[Vex Shadowthorn]]**: Operations disrupted, forced underground
 - **Nobles with Silverscale debts**: Financial leverage exposed, political autonomy threatened
 
 **Immediate visible results:**
@@ -68,7 +72,7 @@ primary_sessions:
 - **Emergency Corporate Regulation Act** passed within two weeks
 - **Royal Asset Seizure Decree** allowed Crown to freeze Consortium holdings
 - **Parliamentary Investigation Committee** formed with expanded powers
-- **[[12_Research/D&D_References/Queen Seraphina Lumengarde]]** gained popular support for anti-corruption stance
+- **[[Queen Seraphina Lumengarde]]** gained popular support for anti-corruption stance
 - **Noble debt restructuring**: Crown mediated debt forgiveness for cooperation
 - **Diplomatic crisis**: Aquabyssos demanded reparations for grave robbery
 
@@ -90,10 +94,10 @@ primary_sessions:
 ## Secondary Ripples (Weeks/Months)
 
 **Faction realignments:**
-- **[[12_Research/D&D_References/The Crown]]** authority strengthened through popular anti-corporate campaign
+- **[[The Crown]]** authority strengthened through popular anti-corporate campaign
 - **Independent Merchant Guilds** formed alliance to fill Silverscale's market position
 - **[[12_Research/D&D_Statblocks/The Crimson Sage]]** influence increased as "honest advisor" vs corporate corruption
-- **[[12_Research/D&D_References/Noble Houses]]** split between Consortium loyalists and Crown supporters
+- **[[Noble Houses]]** split between Consortium loyalists and Crown supporters
 - **[[Workers' Liberation Movement]]** emerged from ex-Consortium employee organizing
 - **[[Depth Guard|02 Worldbuilding/Lore/Depth Guard]]** officially recognized as diplomatic liaison with Aquabyssos
 
@@ -189,7 +193,7 @@ primary_sessions:
 ### Links to Other Major Events
 
 - **[[Consequence Chain 5 - Marina's Identity Revelation]]**: Marina's Depth Guard status legitimized cross-realm cooperation
-- **[[12_Research/D&D_References/Crystal Plague Origins]]**: Democratized research accelerated plague treatment development
+- **[[Crystal Plague Origins]]**: Democratized research accelerated plague treatment development
 - **[[Cross-realm diplomatic relations]]**: Economic cooperation laid foundation for political alliance
 - **[[Worker organization movements]]**: Labor solidarity spread to other realms
 
@@ -216,14 +220,42 @@ primary_sessions:
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Campaign Consequence Tracking Framework]]
-- [[12_Research/D&D_References/Silverscale Consortium]]
+- [[Campaign Consequence Tracking Framework]]
+- [[Silverscale Consortium]]
 - [[12_Research/D&D_Statblocks/Aethermoor - Session 04 The Silverscale Gambit]]
-- [[12_Research/D&D_References/The Silverscale Conspiracy]]
-- [[12_Research/D&D_References/Economic History of the Realms]]
-- [[12_Research/D&D_References/Director Hadrian Silverscale]]
-- [[12_Research/D&D_References/Port Meridian]]
+- [[The Silverscale Conspiracy]]
+- [[Economic History of the Realms]]
+- [[Director Hadrian Silverscale]]
+- [[Port Meridian]]
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Overview
+
+Consequence Chain 2 - Crystal Trade Disruption represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

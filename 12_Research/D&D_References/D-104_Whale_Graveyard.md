@@ -1,20 +1,26 @@
+# D-104_Whale_Graveyard
+
 ---
 title: "Encounter Sheet \u2014 D-104 Whale Graveyard"
 type: gm_resource
-status: complete
 tags:
 - both
-- complete
-- depth
 - discovery
+- depth
 - encounter
 - gm
+- research
+- active
 - gm_resource
+- complete
 - horror
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.126591+00:00'
 world: Both
 ---
+
 
 
 # D-104 Whale Graveyard
@@ -60,3 +66,8 @@ Legends speak of D 104 Whale Graveyard as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

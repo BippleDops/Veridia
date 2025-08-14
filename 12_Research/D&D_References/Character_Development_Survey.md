@@ -1,14 +1,21 @@
+# Character_Development_Survey
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- player/feedback
-- character/development
-- campaign/planning
+title: Character Development Survey
 type: Feedback Form
+tags:
+- campaign/planning
+- research
+- player/feedback
+- active
+- character/development
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Character Development Survey
 ## Help shape your character's story arc
@@ -288,3 +295,7 @@ __________________________________________
 
 *Your character's growth is important to the campaign's success*
 *Don't hesitate to discuss these topics with your GM*
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,22 +1,27 @@
+# Campaign_Dashboard
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- campaign/arc
-- content/lore
-- dashboard
-- master-control
-- status/in-progress
-- tracking
-- world/both
 title: Campaign Dashboard - Aquabyssos & Aethermoor
 type: Lore
-updated: '2025-08-12T23:37:32.982593'
+tags:
+- dashboard
+- master-control
+- tracking
+- content/lore
+- world/both
+- research
+- active
+- campaign/arc
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+updated: 2025-08-13 07:59:50.494234
 world: Both
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.494234
 ---
+
 # 🌊🌬️ Campaign Dashboard
 *Master Control Center for the Dual Worlds*
 
@@ -405,3 +410,8 @@ if (daysSinceUpdate > 7) {
 - [[Vehicles - Vehicle Core Rules]]
 - [[06_GM_Resources/Travel/Travel Event Table]]
 - [[Quick Start Guide]]
+
+
+## Related
+
+*Links to related content will be added here.*

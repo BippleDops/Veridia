@@ -1,22 +1,27 @@
+# Human Names Norse Female Xge
+
 ---
+title: Human Names Norse Female Xge
 aliases:
-- Human Names – Norse, Female
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+- "Human Names \u2013 Norse, Female"
+type: note
 tags:
-- active
 - both
+- ttrpg-cli/compendium/src/5e/xge
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/xge
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:03.966611+00:00'
 world: Both
 ---
+
 
 
 # Human Names – Norse, Female
@@ -99,3 +104,8 @@ Legends speak of human names norse female xge as a nexus where past and present 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,20 +1,26 @@
+# list-spells-optional-features-gift-of-the-depths-xphb
+
 ---
+title: list spells optional features gift of the depths xphb
 aliases:
 - Spells for Gift of the Depths
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- world/aquabyssos
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- world/aquabyssos
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.321436'
 world: Both
 ---
+
 
 # Spells for Gift of the Depths
 
@@ -42,3 +48,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
  enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

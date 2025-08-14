@@ -1,21 +1,28 @@
+# Guild Traditions Compendium
+
 ---
-tags:
-- both
-- culture
-- complete
-- guilds
-- professions
-- traditions
-- initiation-rites
-- trade-secrets
-- lore
-world: Both
+title: Guild Traditions Compendium
 type: Lore
-status: complete
-created_by: cultural-expansion
+tags:
+- lore
+- both
+- traditions
+- culture
+- guilds
+- research
+- trade-secrets
+- initiation-rites
+- active
+- complete
+- professions
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Both
+created_by: cultural-expansion
 updated: '2025-08-12T00:00:00+00:00'
 ---
+
 
 # Guild Traditions Compendium
 *"In the ancient brotherhood of craft and skill, traditions bind us stronger than contracts and deeper than the ocean depths or highest skies."*
@@ -711,3 +718,7 @@ Consider how guild politics and inter-professional relationships might create co
 The extensive guild system provides natural explanations for professional competency, quality control, and economic organization while creating rich opportunities for political intrigue, professional advancement, and cultural exploration.
 
 <!-- enriched: true -->
+
+## Related
+
+*Links to related content will be added here.*

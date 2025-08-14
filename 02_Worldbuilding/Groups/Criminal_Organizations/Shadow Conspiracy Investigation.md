@@ -1,29 +1,35 @@
 ---
-alignment: Lawful Good
+title: Shadow Conspiracy Investigation
+type: Faction
+tags:
+- aquabyssos
+- access/secret
+- status/complete
+- mechanics/exploration
+- content/faction
+- faction
+- shadow-resistance
+- organization
+- active
+- complete
+- world/aquabyssos
+- law-enforcement
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Obsidian Archive]] (Hidden)'
+membership: Unknown
+alignment: Lawful Good
 created_by: auto-stub
 faction_type: Intelligence Organization
-headquarters: '[[The Obsidian Archive]] (Hidden)'
 influence: Secret but Growing
 leader: '[[Investigator Supreme Lucian Brightwater]]'
 members: ~300 investigators, analysts, and agents
 purpose: Investigate and counter The Shadow Conspiracy
-status: complete
-tags:
-- access/secret
-- aquabyssos
-- complete
-- content/faction
-- faction
-- law-enforcement
-- mechanics/exploration
-- shadow-resistance
-- status/complete
-- world/aquabyssos
-type: Faction
 updated: '2025-08-13T12:34:17.395657+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry

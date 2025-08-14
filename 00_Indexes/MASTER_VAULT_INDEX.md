@@ -1,17 +1,21 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: MASTER VAULT INDEX
 type: note
-status: active
 tags:
-- combat
-- session-notes
-- crystal-enhanced
-- shadow-touched
 - aerial
-- aquatic
+- session-notes
 - index
+- aquatic
+- active
+- combat
+- shadow-touched
+- crystal-enhanced
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+updated: 2025-08-14
 ---
+
 
 # Vault Master Index
 

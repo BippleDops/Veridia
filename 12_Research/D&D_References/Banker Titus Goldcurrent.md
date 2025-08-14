@@ -1,14 +1,20 @@
+# Banker Titus Goldcurrent
+
 ---
+title: Banker Titus Goldcurrent
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
+created: 2025-08-11
+modified: '2025-08-14'
+status: active
 world: Both
 updated: '2025-08-13T01:18:36.867584+00:00'
-created: 2025-08-11
-status: active
-tags:
-- active
-- both
-- npc
-type: NPC
 ---
+
 
 
 
@@ -249,3 +255,8 @@ Legends speak of Banker Titus Goldcurrent as a nexus where past and present conv
 - [[Banker Titus Goldcurrent|02 Worldbuilding/People/Banker Titus Goldcurrent]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

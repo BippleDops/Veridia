@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Confront the Possessed Queen.png
+aliases:
+- Confront the Possessed Queenpng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Art/Lore/Confront_the_Possessed_Queen.png
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Confront the Possessed Queen]]
+- [[Confront the Possessed Queen]]
 - [[02_Worldbuilding/Lore/Confront the Possessed Queen]]
 
 ## Notes

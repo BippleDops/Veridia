@@ -1,20 +1,27 @@
+# The Deep Patrol
+
 ---
+title: The Deep Patrol
+type: Location
 tags:
 - aquabyssos
-- complete
-- deep-sea
-- location
 - military
+- deep-sea
 - organization
+- research
+- active
+- location
+- complete
 - patrol
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.396674+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -178,3 +185,8 @@ Legends speak of The Deep Patrol as a nexus where past and present converge. Loc
 - [[The Deep Patrol|02 Worldbuilding/Places/The Deep Patrol]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

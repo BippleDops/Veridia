@@ -1,16 +1,21 @@
 ---
-created: null
-obsidianUIMode: preview
-status: complete
+title: Location Network Graph
+type: Lore
 tags:
-- content/location
 - index
 - status/complete
+- report
 - world/both
-type: Lore
+- content/location
+- active
+created: null
+modified: '2025-08-14'
+status: complete
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.014460'
 world: Universal
 ---
+
 
 
 # Location Network Graph

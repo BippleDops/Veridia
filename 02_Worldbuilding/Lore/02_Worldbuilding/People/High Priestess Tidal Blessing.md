@@ -1,13 +1,22 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: High Priestess Tidal Blessing
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- npc
+- character
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+race: Unknown
+class: Unknown
+location: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/People/High Priestess Tidal Blessing
 
@@ -24,8 +33,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Festival Calendar Complete]]
-- [[12_Research/D&D_References/Aquabyssos Cultural Codex]]
+- [[Festival Calendar Complete]]
+- [[Aquabyssos Cultural Codex]]
 - [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex]]
 
 ## Notes

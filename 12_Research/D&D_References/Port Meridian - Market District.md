@@ -1,15 +1,21 @@
+# Port Meridian - Market District
+
 ---
-tags:
-- active
-- both
-- location
+title: Port Meridian   Market District
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.205906+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-port-meridian-market-district-port-meridian-market-district.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Port Meridian - Market District|02 Worldbuilding/Places/Port Meridian Market District]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

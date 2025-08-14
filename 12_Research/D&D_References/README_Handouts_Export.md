@@ -1,16 +1,22 @@
+# README_Handouts_Export
+
 ---
 title: Handouts Export Guide
 type: guide
-status: complete
-audience: dm
-created: '2025-08-11'
-updated: '2025-08-13T01:18:37.190567+00:00'
-world: Both
 tags:
 - both
-- complete
 - guide
+- research
+- active
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+audience: dm
+updated: '2025-08-13T01:18:37.190567+00:00'
+world: Both
 ---
+
 
 
 # Handouts Export Guide
@@ -44,3 +50,8 @@ This guide explains how to export player handouts and GM encounter sheets to PDF
 ## Troubleshooting
 - If prints include UI, enable “Simplified page” in your browser or use Obsidian’s native export.
 - If code/boxed text looks off, ensure `04_Resources/Styles/print.css` is loaded by your theme.
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Meta Bind Examples.png
+aliases:
+- Meta Bind Examplespng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Art/Lore/Meta_Bind_Examples.png
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Meta Bind Examples]]
+- [[Meta Bind Examples]]
 - [[02_Worldbuilding/Lore/Meta Bind Examples]]
 
 ## Notes

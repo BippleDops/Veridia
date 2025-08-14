@@ -1,19 +1,26 @@
+# Aquabyssos Cultural Codex
+
 ---
-tags:
-- aquabyssos
-- culture
-- complete
-- cultural-customs
-- depth-society
-- underwater-civilization
-- lore
-world: Aquabyssos
+title: Aquabyssos Cultural Codex
 type: Lore
-status: complete
-created_by: cultural-expansion
+tags:
+- lore
+- aquabyssos
+- cultural-customs
+- culture
+- underwater-civilization
+- research
+- active
+- complete
+- depth-society
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
+created_by: cultural-expansion
 updated: '2025-08-12T00:00:00+00:00'
 ---
+
 
 # Aquabyssos Cultural Codex
 *"In the depths, tradition flows like the eternal currents - ancient, powerful, and ever-present."*
@@ -519,3 +526,7 @@ Use the cultural customs as a framework for creating realistic social interactio
 The depth-based hierarchy provides natural tension and conflict opportunities, while the various ceremonies and festivals offer chances for both celebration and disruption. Remember that these customs are living traditions that may be evolving in response to current events in your campaign.
 
 <!-- enriched: true -->
+
+## Related
+
+*Links to related content will be added here.*

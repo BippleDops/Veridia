@@ -1,3 +1,15 @@
+# DC_Guidelines
+
+---
+title: DC Guidelines
+type: resource
+tags:
+- active
+- resource
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Difficulty Class Guidelines
 
 ## Task Difficulty
@@ -7,3 +19,7 @@
 - **Hard**: DC 20
 - **Very Hard**: DC 25
 - **Nearly Impossible**: DC 30
+
+## Related
+
+*Links to related content will be added here.*

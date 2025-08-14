@@ -1,30 +1,37 @@
+# United Councils of Both Worlds 3
+
 ---
-authority: Diplomatic/Advisory
+title: United Councils of Both Worlds 3
+type: Lore
+tags:
+- alliance
+- lore
+- mechanics/social
+- status/complete
+- content/faction
+- cooperation
+- both worlds
+- joint-council
+- content/lore
+- world/both
+- research
+- active
+- complete
+- world/aquabyssos
+- world/aethermoor
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+authority: Diplomatic/Advisory
 created_by: auto-stub
 current_status: Active
 leadership: Joint Council
 organization_type: International Alliance
 scope: Both Worlds
-status: complete
-tags:
-- alliance
-- both worlds
-- complete
-- content/faction
-- content/lore
-- cooperation
-- joint-council
-- lore
-- mechanics/social
-- status/complete
-- world/aethermoor
-- world/aquabyssos
-- world/both
-type: Lore
 updated: '2025-08-13T12:34:28.577652+00:00'
 world: Both Worlds
 ---
+
 
 
 
@@ -382,3 +389,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Vault_Navigation_Hub|Vault Navigation Hub]]
 - [[Aethermoor]]
 - [[Parliament of Echoes]]
+
+
+## Related
+
+*Links to related content will be added here.*

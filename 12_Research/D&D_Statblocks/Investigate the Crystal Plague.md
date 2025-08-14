@@ -1,23 +1,30 @@
+# Investigate the Crystal Plague
+
 ---
+title: Investigate the Crystal Plague
+type: NPC
 tags:
-- aethermoor
-- complete
-- crystal
 - investigation
-- npc
 - plague
+- crystal
+- npc
 - quest
+- research
+- active
+- complete
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: NPC
 created_by: auto-stub
-created: '2025-08-11'
 MyContainer: None
 MyCategory: Investigation
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.834409+00:00'
 cr: '8'
 ---
+
 
 
 > [!figure] Portrait
@@ -138,3 +145,8 @@ Legends speak of Investigate the Crystal Plague as a nexus where past and presen
 
 <!-- enriched: true -->
 nriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

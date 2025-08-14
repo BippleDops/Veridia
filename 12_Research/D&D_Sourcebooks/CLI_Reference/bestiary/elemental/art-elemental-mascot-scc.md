@@ -1,24 +1,31 @@
+# art-elemental-mascot-scc
+
 ---
+title: art elemental mascot scc
 aliases:
 - Art Elemental Mascot
+type: monster
+tags:
+- ttrpg-cli/compendium/src/5e/scc
+- monster
+- ttrpg-cli/monster/type/elemental
+- ttrpg-cli/monster/cr/1-4
+- research
+- world/both
+- active
+- status/in-progress
+- ttrpg-cli/monster/size/small
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/scc
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/elemental
-- world/both
-type: monster
 updated: '2025-08-12T23:37:35.453359'
 world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -103,3 +110,8 @@ Legends speak of art elemental mascot scc as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

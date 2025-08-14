@@ -1,26 +1,32 @@
+# Session 2 Harbor Investigation
+
 ---
-adventure: The Sunken Conspiracy
-created: '2025-08-11'
-duration: 4-5 hours
-level_range: 1-3
-session_number: 2
-status: complete
-tags:
-- adventure
-- aquabyssos
-- campaign/session
-- complete
-- conspiracy
-- mechanics/exploration
-- mechanics/social
-- port-meridian
-- status/complete
-- world/aquabyssos
 title: 'The Sunken Conspiracy - Session 2: Harbor Investigation'
 type: Adventure
+tags:
+- mechanics/social
+- aquabyssos
+- adventure
+- status/complete
+- campaign/session
+- mechanics/exploration
+- research
+- active
+- port-meridian
+- complete
+- conspiracy
+- world/aquabyssos
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+session_number: 2
+adventure: The Sunken Conspiracy
+duration: 4-5 hours
+level_range: 1-3
 updated: '2025-08-13T12:34:17.828503+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -816,3 +822,8 @@ Legends speak of Session 2 Harbor Investigation as a nexus where past and presen
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

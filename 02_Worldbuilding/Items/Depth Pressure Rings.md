@@ -1,25 +1,30 @@
 ---
-affiliation: Available Throughout Aquabyssos
+title: Depth Pressure Rings
+type: Item
+tags:
+- aquabyssos
+- status/complete
+- mechanics/magic
+- active
+- complete
+- content/item
+- world/aquabyssos
+- item
 created: '2025-08-10'
+modified: '2025-08-14'
+status: complete
+rarity: Common
+value: Unknown
+affiliation: Available Throughout Aquabyssos
 created_by: Claude
 current_location: Common Throughout Underwater Communities
 danger_level: 1
 item_type: Environmental Adaptation Ring
-rarity: Common
 requires_attunement: 'No'
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/item
-- item
-- mechanics/magic
-- status/complete
-- world/aquabyssos
-type: Item
 updated: '2025-08-13T12:34:17.756842+00:00'
 world: Aquabyssos
 ---
+
 
 
 

@@ -1,17 +1,23 @@
+# Stop the Shadow Harvest
+
 ---
+title: Stop the Shadow Harvest
+type: Group
 tags:
 - aquabyssos
 - aquabyssos/resistance
 - aquabyssos/shadow
-- category/group
-- complete
 - faction
+- research
+- active
+- complete
+- category/group
 - group
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Group
 created_by: expansion
-created: '2025-08-11'
 MyContainer: '[[New Thalassopolis|New Thalassopolis]]'
 MyCategory: Anti-Shadow Resistance Movement
 obsidianUIMode: preview
@@ -39,6 +45,7 @@ benefits:
   reward: Council membership and covert operations authority
 updated: '2025-08-13T01:18:36.729371+00:00'
 ---
+
 
 
 
@@ -439,3 +446,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Parliament of Echoes]]
 - [[The Memory Meadows]]
 - [[The Primordial Vaults]]
+
+
+## Related
+
+*Links to related content will be added here.*

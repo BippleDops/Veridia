@@ -1,13 +1,24 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Silverscale Consortium
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+> [!figure] Asset
+![](04_Resources/Assets/Symbols/symbol-heraldry-silverscale-consortium-silverscale-consortium.svg)
+
+
 
 # 02_Worldbuilding/Groups/Silverscale_Consortium
 

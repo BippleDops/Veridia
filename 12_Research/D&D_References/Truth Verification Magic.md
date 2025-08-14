@@ -1,15 +1,21 @@
+# Truth Verification Magic
+
 ---
-tags:
-- active
-- both
-- location
+title: Truth Verification Magic
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.410189+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-truth-verification-magic-truth-verification-magic.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Truth Verification Magic|02 Worldbuilding/Places/Truth Verification Magic]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

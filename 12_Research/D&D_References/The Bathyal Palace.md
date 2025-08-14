@@ -1,26 +1,32 @@
+# The Bathyal Palace
+
 ---
-tags:
-- active
-- both
-- location
-- midnight_expanse
-- palace
-- political_center
+title: The Bathyal Palace
 aliases:
 - The Neutral Deep
 - The Court of Currents
+type: Location
+tags:
+- both
+- political_center
+- research
+- active
+- palace
+- location
+- midnight_expanse
 created: '2024-12-19'
+modified: '2025-08-14'
+status: active
+population: 8000 - Category/Place
 image: 04_Resources/Assets/Locations/bathyal_palace.jpg
 danger_level: Moderate
-population: 8000 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:36.455489+00:00'
-status: active
-type: Location
 ---
+
 
 
 
@@ -203,3 +209,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Tethyan Hegemony]]
 - [[The Missing Diplomat]]
 - [[Treaty of the Depths]]
+
+
+## Related
+
+*Links to related content will be added here.*

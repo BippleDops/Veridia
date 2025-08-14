@@ -1,9 +1,16 @@
 ---
+title: step 096
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 57
 step: 96
 total_step: 5696
 ---
+
 
 # Phase 57 - Step 96
 

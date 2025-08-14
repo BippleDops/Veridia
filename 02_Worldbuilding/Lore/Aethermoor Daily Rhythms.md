@@ -1,25 +1,29 @@
 ---
-created: '2025-08-12'
-created_by: claude
-status: complete
-tags:
-- quest
-- crystal-enhanced
-- aerial
-- aethermoor
-- complete
-- cultural-guide
-- culture
-- daily-life
-- lore
-- routine
-- status/complete
-- world/aethermoor
-- worldbuilding
+title: Aethermoor Daily Rhythms
 type: Lore
+tags:
+- lore
+- aerial
+- status/complete
+- culture
+- worldbuilding
+- quest
+- daily-life
+- world/aethermoor
+- routine
+- complete
+- active
+- aethermoor
+- cultural-guide
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+created_by: claude
 updated: '2025-08-13T12:34:16.169232+00:00'
 world: Aethermoor
 ---
+
 
 
 # Aethermoor Daily Rhythms
@@ -28,7 +32,7 @@ world: Aethermoor
 
 ## Overview
 
-Life in [[12_Research/D&D_References/Aethermoor]] moves with the rhythm of winds and the dance of sky currents. The floating cities and cloud-bound settlements have developed intricate daily patterns that honor both the freedom of flight and the practical necessities of aerial existence. Every aspect of daily life is touched by the three-dimensional nature of sky living, from wind-powered morning routines to evening migrations between floating districts.
+Life in [[Aethermoor]] moves with the rhythm of winds and the dance of sky currents. The floating cities and cloud-bound settlements have developed intricate daily patterns that honor both the freedom of flight and the practical necessities of aerial existence. Every aspect of daily life is touched by the three-dimensional nature of sky living, from wind-powered morning routines to evening migrations between floating districts.
 
 ## The Aethermoor Sky Cycle
 
@@ -583,10 +587,10 @@ From the early morning wind readings to the evening social flights, every aspect
 ---
 
 **Related Topics**:
-- [[12_Research/D&D_References/A Day in Aquabyssos]]
-- [[12_Research/D&D_References/Working Class Routines]]  
-- [[12_Research/D&D_References/Noble Leisure Schedules]]
-- [[12_Research/D&D_References/Child Life in the Realms]]
+- [[A Day in Aquabyssos]]
+- [[Working Class Routines]]  
+- [[Noble Leisure Schedules]]
+- [[Child Life in the Realms]]
 - [[Wind Engineering and Sky Architecture]]
 - [[Aerial Transportation Networks]]
 - [[Aethermoor Culture and Society]]

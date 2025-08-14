@@ -1,15 +1,21 @@
+# Palace Security Chief
+
 ---
-tags:
-- active
-- both
-- location
+title: Palace Security Chief
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.336715+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-palace-security-chief-palace-security-chief.svg]]
@@ -66,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Ancient Tunnels Beneath Palace]]
+
+
+## Related
+
+*Links to related content will be added here.*

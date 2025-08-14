@@ -1,31 +1,38 @@
+# Quest - The Crown Reborn
+
 ---
+title: Quest   The Crown Reborn
 type: Lore
-status: complete
 tags:
-- combat
-- crystal-enhanced
-- shadow-touched
-- aquatic
-- aethermoor
-- complete
-- crown
-- epic
-- level-10-15
 - lore
 - major-campaign
-- quest
+- crown
+- aquatic
 - seven-shards
+- worldbuilding
+- quest
+- active
+- level-10-15
+- combat
+- complete
+- epic
+- aethermoor
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 world: Aethermoor
 level_range: 10-15
 quest_type: Epic Campaign Arc
 estimated_sessions: 6-8
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.489566+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 # Quest - The Crown Reborn
@@ -34,7 +41,7 @@ obsidianUIMode: preview
 
 ## Overview
 
-The legendary Seven Shards of the Crown of Stars, scattered and hidden across [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]] for centuries, hold the key to preventing a catastrophic awakening of [[The Deep Mother|02 Worldbuilding/People/The Deep Mother]]. As reality grows thin and the boundaries between worlds blur, only the reformed Crown can stabilize both realms and prevent cosmic destruction. But gathering the Shards will attract the attention of every major power, and the party must navigate political intrigue, ancient guardians, and moral dilemmas about who should wield such power.
+The legendary Seven Shards of the Crown of Stars, scattered and hidden across [[Aethermoor]] and [[Aquabyssos]] for centuries, hold the key to preventing a catastrophic awakening of [[The Deep Mother|02 Worldbuilding/People/The Deep Mother]]. As reality grows thin and the boundaries between worlds blur, only the reformed Crown can stabilize both realms and prevent cosmic destruction. But gathering the Shards will attract the attention of every major power, and the party must navigate political intrigue, ancient guardians, and moral dilemmas about who should wield such power.
 
 ## Background
 
@@ -44,8 +51,8 @@ Long ago, the Crown of Stars was the ultimate artifact of unity, worn by the fir
 
 ### Current Crisis
 
-- [[12_Research/D&D_References/Queen Seraphina Lumengarde]] knows the location of three Shards but is corrupted by crystal plague
-- [[12_Research/D&D_References/Emperor Thalassius]] holds knowledge of three different Shards in Aquabyssos
+- [[Queen Seraphina Lumengarde]] knows the location of three Shards but is corrupted by crystal plague
+- [[Emperor Thalassius]] holds knowledge of three different Shards in Aquabyssos
 - The seventh Shard is lost, possibly destroyed or hidden by [[12_Research/D&D_Statblocks/The Crimson Sage]]
 - Reality destabilization increases daily as the Deep Mother's dreams bleed into both worlds
 - Multiple factions seek the Shards for their own purposes
@@ -55,7 +62,7 @@ Long ago, the Crown of Stars was the ultimate artifact of unity, worn by the fir
 ### Scene 1: The Revelation
 
 **Location**: Crystal Palace throne room or equivalent high-security meeting
-**NPCs**: [[12_Research/D&D_References/Queen Seraphina Lumengarde]], [[12_Research/D&D_Statblocks/The Crimson Sage]] (projection), [[12_Research/D&D_References/Lord Commander Gareth Steelborn]]
+**NPCs**: [[Queen Seraphina Lumengarde]], [[12_Research/D&D_Statblocks/The Crimson Sage]] (projection), [[Lord Commander Gareth Steelborn]]
 
 The party is summoned for an urgent audience where they learn the true nature of the Seven Shards. Queen Seraphina, in a rare moment of clarity between corruption episodes, reveals her knowledge and desperation.
 
@@ -73,7 +80,7 @@ The party is summoned for an urgent audience where they learn the true nature of
 **Location**: [[12_Research/D&D_Statblocks/The Memory Meadows]] (Aquabyssos)
 **Challenge Type**: Infiltration and puzzle
 
-The first Shard lies trapped in the memory prison where [[12_Research/D&D_References/The Shadow Conspiracy]] stores their victims. The party must infiltrate this nightmare facility while avoiding shadow detection.
+The first Shard lies trapped in the memory prison where [[The Shadow Conspiracy]] stores their victims. The party must infiltrate this nightmare facility while avoiding shadow detection.
 
 **Obstacles**:
 - Shadow guards and replaced sentinels
@@ -97,7 +104,7 @@ The first Shard lies trapped in the memory prison where [[12_Research/D&D_Refere
 ### Scene 3: Political Complications
 
 **Location**: Various political meetings and courts
-**NPCs**: [[12_Research/D&D_References/Purist Coalition]] leaders, [[12_Research/D&D_References/Prince Caspian Duskwater]], [[Senator_Glaucus_Brain|02 Worldbuilding/People/Senator Glaucus Brain]] (shadow)
+**NPCs**: [[Purist Coalition]] leaders, [[Prince Caspian Duskwater]], [[Senator_Glaucus_Brain|02 Worldbuilding/People/Senator Glaucus Brain]] (shadow)
 
 Word of the party's activities reaches multiple factions. Each tries to recruit, threaten, or manipulate them:
 
@@ -112,10 +119,10 @@ Word of the party's activities reaches multiple factions. Each tries to recruit,
 
 ### Scene 4: The Sunken Archive
 
-**Location**: Ruins of the ancient library beneath [[12_Research/D&D_References/Aquabyssos]]
+**Location**: Ruins of the ancient library beneath [[Aquabyssos]]
 **Challenge Type**: Exploration and knowledge gathering
 
-The second and third Shards are hidden in separate locations known only through ancient texts. The party must navigate flooded ruins while avoiding [[12_Research/D&D_References/Aboleth Prime Yoth]]'s influence.
+The second and third Shards are hidden in separate locations known only through ancient texts. The party must navigate flooded ruins while avoiding [[Aboleth Prime Yoth]]'s influence.
 
 **Environmental Hazards**:
 - Crushing water pressure (Constitution saves)
@@ -133,8 +140,8 @@ The second and third Shards are hidden in separate locations known only through 
 
 ### Scene 5: The Tidal Throne
 
-**Location**: [[12_Research/D&D_References/Emperor Thalassius]]'s deepest sanctum
-**NPCs**: [[12_Research/D&D_References/Emperor Thalassius]], his court, [[12_Research/D&D_References/Duchess Marina Ever-Drowning]]
+**Location**: [[Emperor Thalassius]]'s deepest sanctum
+**NPCs**: [[Emperor Thalassius]], his court, [[Duchess Marina Ever-Drowning]]
 
 The Emperor agrees to parley about the Shards' locations, but his price is steep - he wants guarantees that the reformed Crown won't threaten Aquabyssos's independence.
 
@@ -153,7 +160,7 @@ The Emperor agrees to parley about the Shards' locations, but his price is steep
 
 ### Scene 6: The Abyssal Gardens
 
-**Location**: [[12_Research/D&D_References/Master Cultivator Thalia Greenglow]]'s corrupted grove
+**Location**: [[Master Cultivator Thalia Greenglow]]'s corrupted grove
 **Challenge Type**: Survival horror and purification
 
 The fourth Shard has corrupted an entire grove, causing plants to grow in impossible ways while feeding on [[The Deep Mother|02 Worldbuilding/People/The Deep Mother]]'s dreams.
@@ -181,7 +188,7 @@ The fourth Shard has corrupted an entire grove, causing plants to grow in imposs
 
 ### Scene 7: The Singing Depths
 
-**Location**: [[12_Research/D&D_References/The Singing Trenches]]
+**Location**: [[The Singing Trenches]]
 **Challenge Type**: Underwater dungeon with sonic hazards
 
 The fifth Shard lies in the deepest part of the ocean, where [[The Deep Mother|02 Worldbuilding/People/The Deep Mother]]'s songs are strongest. The party must survive both physical and mental challenges.
@@ -314,23 +321,23 @@ The reformation ritual requires the party to channel immense power while every f
 
 ### Allies
 
-- **[[12_Research/D&D_References/Queen Seraphina Lumengarde]]**: Desperately wants to be cured and save her kingdom
+- **[[Queen Seraphina Lumengarde]]**: Desperately wants to be cured and save her kingdom
 - **[[12_Research/D&D_Statblocks/The Crimson Sage]]**: Tests worthiness but ultimately supports the mission
 - **[[12_Research/D&D_Statblocks/Archdruid Thornweaver]]**: Seeks redemption for her ancestor's actions
-- **[[12_Research/D&D_References/Lord Commander Gareth Steelborn]]**: Loyal soldier who follows the party's lead
+- **[[Lord Commander Gareth Steelborn]]**: Loyal soldier who follows the party's lead
 
 ### Complicated
 
-- **[[12_Research/D&D_References/Emperor Thalassius]]**: Wants the Crown reformed but under Aquabyssos control
-- **[[12_Research/D&D_References/Master Cultivator Thalia Greenglow]]**: Corrupted but fighting the influence
+- **[[Emperor Thalassius]]**: Wants the Crown reformed but under Aquabyssos control
+- **[[Master Cultivator Thalia Greenglow]]**: Corrupted but fighting the influence
 - **[[Senator_Glaucus_Brain|02 Worldbuilding/People/Senator Glaucus Brain]]**: May be shadow replacement trying to sabotage
 
 ### Antagonists
 
-- **[[12_Research/D&D_References/Prince Caspian Duskwater]]**: Wants the Crown for personal power
-- **[[12_Research/D&D_References/Purist Coalition]]**: Believes the Shards should be destroyed
-- **[[12_Research/D&D_References/The Shadow Conspiracy]]**: Wants to prevent stabilization for their Dark Harvest
-- **[[12_Research/D&D_References/Aboleth Prime Yoth]]**: Seeks to control or corrupt the Deep Mother
+- **[[Prince Caspian Duskwater]]**: Wants the Crown for personal power
+- **[[Purist Coalition]]**: Believes the Shards should be destroyed
+- **[[The Shadow Conspiracy]]**: Wants to prevent stabilization for their Dark Harvest
+- **[[Aboleth Prime Yoth]]**: Seeks to control or corrupt the Deep Mother
 
 ## Combat Encounters Summary
 

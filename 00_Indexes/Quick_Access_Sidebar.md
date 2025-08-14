@@ -1,13 +1,18 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Quick Access Sidebar
 type: sidebar
-cssclass: quick-access
 tags:
 - navigation
+- index
 - sidebar
+- active
 - quick-access
+created: 2025-08-14
+modified: '2025-08-14'
+updated: 2025-08-14
+cssclass: quick-access
 ---
+
 
 # ⚡ Quick Access Panel
 

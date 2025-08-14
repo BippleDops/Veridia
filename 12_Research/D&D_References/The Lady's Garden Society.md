@@ -1,14 +1,20 @@
+# The Lady's Garden Society
+
 ---
-tags:
-- active
-- aethermoor
-- npc
+title: The Lady's Garden Society
 type: NPC
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.961768+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-lady-s-garden-society-the-lady-s-garden-society.svg]]
@@ -62,3 +68,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Lady's Garden Society|02 Worldbuilding/People/The Lady's Garden Society]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

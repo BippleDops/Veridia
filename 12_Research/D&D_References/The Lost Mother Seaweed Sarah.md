@@ -1,17 +1,24 @@
+# The Lost Mother Seaweed Sarah
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
+title: The Lost Mother Seaweed Sarah
 type: Lore
+tags:
+- lore
+- both
+- content/lore
+- world/both
+- research
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:29.004830+00:00'
 world: Both
 ---
+
 
 
 
@@ -50,3 +57,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Transformed Citizens]]
+
+
+## Related
+
+*Links to related content will be added here.*

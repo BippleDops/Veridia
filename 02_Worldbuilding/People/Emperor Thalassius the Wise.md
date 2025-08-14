@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Emperor Thalassius the Wise
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.562103+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -276,6 +284,13 @@ For three millennia, he has maintained the delicate balance of power in the dept
 - **Memory Prison**: Within his palace lies a chamber where he stores the extracted memories of traitors and enemies, creating a living archive of sedition.
 - **The Heir Apparent**: He has already chosen a successor but keeps their identity secret, even from them, training them through mysterious dreams and visions.
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary**: Maintain the eternal stability and prosperity of Aquabyssos at any cost
@@ -295,6 +310,13 @@ For three millennia, he has maintained the delicate balance of power in the dept
 **Voice**: Speaks in a deep, echoing tone that seems to come from the ocean itself. His words carry the sound of distant tides and whale songs. Often pauses mid-sentence as if consulting memories from ages past.
 
 **Mannerisms**: Never hurries, moves with the deliberate grace of deep currents. Occasionally, small fish swim through his translucent form. His crown constantly drips water that never seems to run out.
+
+
+
+## Relationship Web
+
+- [[Gareth Goldenheart, The Chosen Vessel]]: *business partner*
+- [[04_Resources_Assets_Art_Places_Market_Master_Cornelius_Driftwood.png]]: *informant*
 
 ## Connections
 
@@ -327,6 +349,134 @@ Legends speak of Emperor Thalassius the Wise as a nexus where past and present c
 - A rumor ties Emperor Thalassius the Wise to a missing shipment, linking factions with competing claims.
 - An NPC seeks discreet help at Emperor Thalassius the Wise to avert a public scandal.
 - A map overlay reveals a hidden approach to Emperor Thalassius the Wise active only during specific tides/storms.
+
+
+
+## Appearance
+
+Emperor Thalassius the Wise presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Brave, patient, clever
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Background
+
+Emperor Thalassius the Wise's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+## Relationships
+
+### Allies
+- Professional colleagues and supporters
+- Political or business connections
+
+### Rivals
+- Competitors in their field
+- Ideological opponents
+
+### Neutral Parties
+- Those who could be swayed either way
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Deep and resonant
+
+**Speech Pattern**: Peppered with idioms
+
+**Physical Habits**: Maintains intense eye contact
+
+## Current Activities
+
+Emperor Thalassius the Wise is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Emperor Thalassius the Wise needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Emperor Thalassius the Wise stopped or removed
+3. **The Secret**: Information about Emperor Thalassius the Wise's past surfaces
+4. **The Alliance**: Opportunity to work with or against Emperor Thalassius the Wise
+5. **The Crisis**: Emperor Thalassius the Wise is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 

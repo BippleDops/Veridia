@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 10   New Horizons
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 10 - New Horizons
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Quest - The Crimson Tide]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-border-checkpoints-border-checkpoints.svg]]
+- [[Parliament Loyalists]]
+- [[Surface Ambassador Lord Seaworthy]]
+- [[04_Resources_Assets_Locations_location-city-freedrift-network-v1-freedrift-network.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-embassy-quarter-v1-embassy-quarter.svg]]
+- [[04_Resources_Assets_Locations_location-city-infrastructure-development-infrastructure-development.svg]]
+- [[Noble Houses]]

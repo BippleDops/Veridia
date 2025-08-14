@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Ambassador Lysandra Silvertonge''s Embassy
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Ambassador Lysandra Silvertonge''s Embassy
 
@@ -24,7 +28,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Concierge Phillip Gracewater]]
+- [[Concierge Phillip Gracewater]]
 - [[02_Worldbuilding/Places/Concierge Phillip Gracewater]]
 
 ## Notes

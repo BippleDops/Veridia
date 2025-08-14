@@ -1,21 +1,27 @@
+# Sky Burial Traditions
+
 ---
+title: Sky Burial Traditions
+type: Lore
 tags:
-- aerial-rituals
-- aethermoor
-- afterlife
-- burial
-- complete
-- culture
-- death-customs
 - lore
+- afterlife
 - religion
 - sky-burial
+- culture
 - wind-spirits
+- research
+- aerial-rituals
+- death-customs
+- active
+- complete
+- burial
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 created_by: cultural-expansion
-created: '2025-08-11'
 updated: '2025-08-11T00:00:00+00:00'
 connections:
 - '[[Aethermoor]]'
@@ -32,6 +38,7 @@ themes:
 - sky_sanctification
 - atmospheric_communion
 ---
+
 
 
 
@@ -305,3 +312,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

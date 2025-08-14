@@ -1,22 +1,28 @@
+# cleric-xphb-death-domain-dmg
+
 ---
+title: cleric xphb death domain dmg
 aliases:
 - Death Domain
-created: 2025-07-23
-cssclasses: json5e-class
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- importance/core
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/subclass/cleric/death
-- world/both
 type: note
+tags:
+- research
+- world/both
+- active
+- note
+- ttrpg-cli/subclass/cleric/death
+- ttrpg-cli/compendium/src/5e/dmg
+- importance/core
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-class
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.389911'
 world: Both
 ---
+
 
 # Death Domain
 *[[cleric-xphb|Cleric]]: Cleric Subclass*  
@@ -117,3 +123,8 @@ Legends speak of cleric xphb death domain dmg as a nexus where past and present 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

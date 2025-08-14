@@ -1,24 +1,30 @@
+# enthrall-xphb
+
 ---
+title: enthrall xphb
 aliases:
 - Enthrall
-classes:
-- Bard
-- Warlock
-created: 2025-07-23
-cssclasses: json5e-spell
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
 - mechanics/magic
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+classes:
+- Bard
+- Warlock
+cssclasses: json5e-spell
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:36.104660'
 world: Both
 ---
+
 
 # Enthrall
 *2nd-level, Enchantment*  
@@ -54,3 +60,8 @@ Legends speak of enthrall xphb as a nexus where past and present converge. Local
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

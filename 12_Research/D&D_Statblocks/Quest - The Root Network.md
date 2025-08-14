@@ -1,21 +1,27 @@
+# Quest - The Root Network
+
 ---
+title: Quest   The Root Network
+type: Location
 tags:
-- aethermoor
-- complete
-- corruption
-- druid
-- exploration
-- location
-- nature
-- network
-- quest
 - underground
+- network
+- nature
+- quest
+- research
+- active
+- exploration
+- druid
+- complete
+- location
 - verdant-reach
+- corruption
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Location
 created_by: auto-stub
-created: '2025-08-11'
 updated: '2025-08-13T01:18:36.213665+00:00'
 quest_type: Exploration/Environmental Adventure
 level_range: 7-13
@@ -25,6 +31,7 @@ difficulty: Hard
 primary_location: The Verdant Reach underground network and surrounding regions
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -360,3 +367,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Quest - The Root Network|02 Worldbuilding/Places/Quest The Root Network]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

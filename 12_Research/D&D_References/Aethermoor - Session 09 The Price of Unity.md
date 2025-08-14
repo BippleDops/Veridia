@@ -1,11 +1,31 @@
+# Aethermoor - Session 09 The Price of Unity
+
 ---
+title: The Price of Unity
+type: Lore
+tags:
+- lore
+- campaign/session
+- world/aquabyssos
+- content/lore
+- research
+- new-world
+- world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+- merged-reality
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+location: New Meridian - The Merged City
+level: 5
+session_number: 9
+date_played: null
 MyCategory: Unknown
 MyContainer: None
-created: '2025-08-11'
-date_played: null
 estimated_time: 3-4 hours
-level: 5
-location: New Meridian - The Merged City
 npcs_featured:
 - '[[Queen Seraphina Lumengarde]]'
 - '[[Captain Lyanna Brightshield]]'
@@ -17,24 +37,10 @@ quests_advanced:
 - '[[Establish the New Order]]'
 - '[[The Crown''s Burden]]'
 - '[[Healing Two Worlds]]'
-session_number: 9
-status: complete
-tags:
-- aethermoor
-- campaign/session
-- complete
-- content/lore
-- lore
-- merged-reality
-- new-world
-- status/in-progress
-- world/aethermoor
-- world/aquabyssos
-title: The Price of Unity
-type: Lore
 updated: '2025-08-13T12:34:17.843318+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -173,3 +179,8 @@ Political Balance:
 ## Cross-References
 
 - [[Campaign Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

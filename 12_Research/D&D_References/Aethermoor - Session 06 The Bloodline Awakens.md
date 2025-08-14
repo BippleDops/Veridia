@@ -1,11 +1,30 @@
+# Aethermoor - Session 06 The Bloodline Awakens
+
 ---
+title: The Bloodline Awakens
+type: Lore
+tags:
+- lore
+- bloodline
+- campaign/session
+- revelation
+- content/lore
+- research
+- world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+location: '[[Lighthouse Ruins]] to [[Hidden Sanctuary]]'
+level: 4
+session_number: 6
+date_played: null
 MyCategory: Unknown
 MyContainer: None
-created: '2025-08-11'
-date_played: null
 estimated_time: 3-4 hours
-level: 4
-location: '[[Lighthouse Ruins]] to [[Hidden Sanctuary]]'
 npcs_featured:
 - '[[The Crimson Sage]]'
 - '[[Marina-Red-Tide-Coralheart]]'
@@ -16,23 +35,10 @@ quests_advanced:
 - '[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]'
 - '[[Uniting the Factions]]'
 - '[[Rewriting the Ritual]]'
-session_number: 6
-status: complete
-tags:
-- aethermoor
-- bloodline
-- campaign/session
-- complete
-- content/lore
-- lore
-- revelation
-- status/in-progress
-- world/aethermoor
-title: The Bloodline Awakens
-type: Lore
 updated: '2025-08-13T12:34:17.844426+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -170,3 +176,8 @@ Key Decision Points:
 ## Cross-References
 
 - [[Campaign Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

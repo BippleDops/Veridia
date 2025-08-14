@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Crystal Wardens
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+![02_Worldbuilding/Groups/Crystal_Wardens](../../../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_crystal_wardens.png)
+
+
 
 # 02_Worldbuilding/Groups/Crystal_Wardens
 
@@ -35,3 +45,7 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[The Emergence]]

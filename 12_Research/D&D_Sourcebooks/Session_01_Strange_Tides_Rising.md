@@ -1,15 +1,22 @@
+# Session_01_Strange_Tides_Rising
+
 ---
-created: '2025-08-13'
-status: active
-tags:
-- session/seven-shards
-- act-1
-- world/aquabyssos
-- status/active
+title: Session 01 Strange Tides Rising
 type: Session
+tags:
+- act-1
+- research
+- status/active
+- session/seven-shards
+- active
+- world/aquabyssos
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T16:45:00.000000'
 world: Aquabyssos
 ---
+
 
 # Session 1: Strange Tides Rising
 *The Seven Shards Campaign - Act I*
@@ -248,3 +255,7 @@ Based on their choices and discoveries, the heroes realize they've encountered s
 - [[Memory Corruption Mechanics]]
 - [[Dr Marina Voidseeker]] - full NPC profile
 - [[Port Meridian Festival Guide]]
+
+## Related
+
+*Links to related content will be added here.*

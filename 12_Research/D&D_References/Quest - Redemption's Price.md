@@ -1,14 +1,20 @@
+# Quest - Redemption's Price
+
 ---
-tags:
-- active
-- both
-- quest
+title: Quest   Redemption's Price
 type: Quest
-world: Both
-status: active
+tags:
+- both
+- research
+- active
+- quest
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.819177+00:00'
 ---
+
 
 
 
@@ -71,3 +77,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[fiendish-cults-cult-organization-mtf]]
 - [[new-organizations]]
 - [[Border Fortresses]]
+
+
+## Related
+
+*Links to related content will be added here.*

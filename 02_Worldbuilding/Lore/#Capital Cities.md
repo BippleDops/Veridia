@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: '#Capital Cities'
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # #Capital Cities
 
@@ -24,8 +28,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Template-Planet]]
-- [[12_Research/D&D_References/Template-Continent]]
+- [[Template-Planet]]
+- [[Template-Continent]]
 
 ## Notes
 

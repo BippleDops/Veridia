@@ -1,28 +1,34 @@
+# Kuo Toa Whip Xmm
+
 ---
+title: Kuo Toa Whip Xmm
 aliases:
 - Kuo-toa Whip
+type: monster
+tags:
+- ttrpg-cli/monster/environment/coastal
+- ttrpg-cli/monster/size/medium
+- both
+- ttrpg-cli/compendium/src/5e/xmm
+- monster
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/type/aberration
+- world/both
+- research
+- active
+- status/in-progress
 created: null
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- active
-- both
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration
-- world/both
-type: monster
 updated: '2025-08-13T12:34:05.602341+00:00'
 world: Both
 ---
+
 
 
 
@@ -168,3 +174,8 @@ Legends speak of kuo toa whip xmm as a nexus where past and present converge. Lo
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

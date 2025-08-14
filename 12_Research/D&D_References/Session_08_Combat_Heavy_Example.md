@@ -1,14 +1,21 @@
+# Session_08_Combat_Heavy_Example
+
 ---
-created: '2025-08-13'
-status: complete
+title: Session 08 Combat Heavy Example
+type: Session Summary
 tags:
 - player/session-summary
 - campaign/example
+- research
+- active
 - combat/tactical
-type: Session Summary
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Session 8: Combat Heavy Example
 ## The Siege of Meridian Junction
@@ -142,3 +149,7 @@ Shadow Conspiracy forces launched a coordinated assault on Meridian Junction to 
 ---
 
 *This session shows how extended combat can remain engaging through environmental variety, tactical challenges, and character development opportunities.*
+
+## Related
+
+*Links to related content will be added here.*

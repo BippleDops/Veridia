@@ -1,17 +1,24 @@
+# INDEX
+
 ---
-created: '2025-08-13'
-updated: '2025-08-13T12:48:04.963950'
-status: active
-world: Both
+title: INDEX
 type: Resource
 tags:
-- type/resource
-- dnd/sourcebook
-- status/active
 - integration/available
-sourcebook: 'Call of the Netherdeep'
-abbreviation: 'CoN'
+- type/resource
+- research
+- status/active
+- dnd/sourcebook
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
+updated: '2025-08-13T12:48:04.963950'
+world: Both
+sourcebook: Call of the Netherdeep
+abbreviation: CoN
 ---
+
 
 # Call of the Netherdeep - Integration Index
 
@@ -128,3 +135,8 @@ This content can be used as:
 ---
 *Integration managed through the D&D Sourcebook Integration System*  
 *Last updated: 2025-08-13 12:48*
+
+
+## Related
+
+*Links to related content will be added here.*

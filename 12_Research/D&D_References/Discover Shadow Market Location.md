@@ -1,20 +1,27 @@
+# Discover Shadow Market Location
+
 ---
+title: Discover Shadow Market Location
+type: Location
 tags:
 - aquabyssos
-- black-market
-- complete
 - investigation
-- location
+- black-market
 - quest
+- research
+- active
 - stealth
+- location
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.571690+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -125,3 +132,8 @@ Legends speak of Discover Shadow Market Location as a nexus where past and prese
 - [[Discover Shadow Market Location|02 Worldbuilding/Places/Discover Shadow Market Location]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

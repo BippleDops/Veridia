@@ -1,26 +1,33 @@
+# Customs House
+
 ---
+title: Customs House
+type: Lore
 tags:
-- aethermoor
-- aquabyssos
-- border-control
-- both
-- commerce
-- complete
-- customs-house
-- dimensional-gateway
-- interdimensional-trade
 - lore
-- merged-reality
+- aquabyssos
+- both
+- customs-house
+- interdimensional-trade
+- dimensional-gateway
+- research
+- active
+- border-control
+- complete
+- commerce
 - smuggling
+- aethermoor
+- merged-reality
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Lore
 category: Border Facility
 significance: Major Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] View
@@ -413,3 +420,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Convergence Point]]
 - [[The Crimson Hand]]
 - [[The Seven Shards]]
+
+
+## Related
+
+*Links to related content will be added here.*

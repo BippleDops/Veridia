@@ -1,9 +1,16 @@
 ---
+title: step 028
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 51
 step: 28
 total_step: 5028
 ---
+
 
 # Phase 51 - Step 28
 

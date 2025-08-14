@@ -1,14 +1,21 @@
+# Pressure_Adaptation_Transformation
+
 ---
-created: '2025-08-13'
-status: complete
+title: Pressure Adaptation Transformation
+type: Transformation Mechanics
 tags:
 - mechanics/transformation
 - pressure/adaptation
+- research
+- active
 - aquabyssos/survival
-type: Transformation Mechanics
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Aquabyssos
 ---
+
 
 # Pressure Adaptation Transformation
 ## Deep Pressure Evolution System
@@ -223,3 +230,7 @@ Transformation Complications: ___________
 ---
 
 *Pressure adaptation represents a meaningful choice with both benefits and costs, suitable for characters committed to deep-water exploration and the themes of transformation and sacrifice for power.*
+
+## Related
+
+*Links to related content will be added here.*

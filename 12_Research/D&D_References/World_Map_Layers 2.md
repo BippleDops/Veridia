@@ -1,3 +1,15 @@
+# World_Map_Layers 2
+
+---
+title: World Map Layers 2
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # World Map Layer Prompts
 
 ```json
@@ -688,3 +700,8 @@
   }
 ]
 ```
+
+
+## Related
+
+*Links to related content will be added here.*

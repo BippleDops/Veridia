@@ -1,20 +1,27 @@
+# Academic Jargon
+
 ---
-updated: '2025-08-13T01:18:34.686434+00:00'
-created: '2025-08-12'
-tags:
-- academic
-- both
-- complete
-- linguistics
-- lore
-- professional_reference
-- scholarly
-- terminology
-status: complete
-world: Both
+title: Academic Jargon
 type: professional_reference
+tags:
+- lore
+- both
+- linguistics
+- academic
+- scholarly
+- research
+- active
+- professional_reference
+- terminology
+- complete
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+updated: '2025-08-13T01:18:34.686434+00:00'
+world: Both
 obsidianUIMode: preview
 ---
+
 
 
 # Academic Jargon
@@ -261,3 +268,8 @@ Legends speak of Academic Jargon as a nexus where past and present converge. Loc
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

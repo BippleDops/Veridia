@@ -1,20 +1,27 @@
+# The Constellation Mystery
+
 ---
+title: The Constellation Mystery
+type: Location
 tags:
-- ancient-knowledge
-- aquabyssos
-- celestial
-- complete
-- location
 - mystery
+- aquabyssos
+- ancient-knowledge
 - quest
+- research
+- celestial
+- active
+- location
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.423116+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -188,3 +195,8 @@ Legends speak of The Constellation Mystery as a nexus where past and present con
 - [[The Constellation Mystery|02 Worldbuilding/Places/The Constellation Mystery]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

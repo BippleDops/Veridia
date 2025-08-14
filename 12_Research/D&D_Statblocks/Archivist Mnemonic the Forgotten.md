@@ -1,26 +1,33 @@
+# Archivist Mnemonic the Forgotten
+
 ---
+title: Archivist Mnemonic the Forgotten
+type: NPC
 tags:
 - aquabyssos
-- complete
-- deep-mother
-- divine-servant
-- forgotten
-- memory-keeper
-- npc
 - person
+- forgotten
+- npc
+- research
+- deep-mother
+- active
+- divine-servant
+- complete
+- memory-keeper
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
+race: Human (Memory-Touched)
+location: '[[The Archive of Unremembered Things]] - The Forgetting Vaults'
 world: Aquabyssos
-type: NPC
 role: Keeper of Lost Memories
 affiliation: '[[The Archive of Unremembered Things]]'
 age: Unknown (memory fragments suggest centuries)
-race: Human (Memory-Touched)
-location: '[[The Archive of Unremembered Things]] - The Forgetting Vaults'
 created_by: auto-stub
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 cr: '5'
 ---
+
 
 
 > [!figure] Portrait
@@ -576,3 +583,8 @@ Legends speak of Archivist Mnemonic the Forgotten as a nexus where past and pres
 - [[Memory Harvester Kythara]]
 - [[The Scattered Emperor]]
 - [[The Archive of Unremembered Things]]
+
+
+## Related
+
+*Links to related content will be added here.*

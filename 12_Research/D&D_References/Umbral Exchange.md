@@ -1,25 +1,31 @@
+# Umbral Exchange
+
 ---
+title: Umbral Exchange
+type: Lore
 tags:
+- lore
 - aquabyssos
+- shadow-manipulation
+- reality-interface
+- technology
+- inter-dimensional
+- economic-systems
+- magical-trading
+- magical-infrastructure
+- shadow-magic
+- umbral-technology
+- research
+- active
 - complete
 - dimensional-commerce
-- economic-systems
-- inter-dimensional
-- lore
-- magical-infrastructure
-- magical-trading
-- reality-interface
-- shadow-magic
-- shadow-manipulation
-- technology
-- umbral-technology
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 category: Magical Commerce Technology
 significance: Critical Economic Infrastructure
 created_by: auto-stub
-created: '2025-08-08'
 expanded: 2025-08-11
 technology_type: Dimensional Commerce Interface
 access_restriction: Licensed Traders Only
@@ -27,6 +33,7 @@ danger_level: Moderate
 operational_status: Active with Restrictions
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -528,3 +535,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[The Crimson Hand|02 Worldbuilding/Lore/The Crimson Hand]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

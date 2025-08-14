@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: '#Quest Info'
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # #Quest Info
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Template-Quest]]
+- [[Template-Quest]]
 
 ## Notes
 
@@ -35,3 +41,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Marina-Red-Tide-Coralheart]]
+- [[04_Resources_Assets_Portraits_portrait-npc-the-reality-sick-mayor-lord-quantum-aldrich-the-reality-sick-mayor-lord-quantum-aldrich.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-war-room-sanctuary-the-war-room-sanctuary.svg]]
+- [[Lady Pelagic]]
+- [[Lord Flux the Inconsistent]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-harbor-facilities-harbor-facilities.svg]]
+- [[Deep Stone Eaters]]
+- [[Pilgrimage Coordinators]]

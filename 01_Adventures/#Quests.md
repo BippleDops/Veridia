@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: '#Quests'
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # #Quests
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Template-Region]]
-- [[12_Research/D&D_References/Template-PointofInterest]]
+- [[Template-Region]]
+- [[Template-PointofInterest]]
 
 ## Notes
 
@@ -36,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Defense Captain Ironguard]]
+- [[vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_M_L-05_the_Dream_Sovereign]]
+- [[Zephyr Goldwhisper]]
+- [[04_Resources_Assets_Locations_location-city-the-drowning-truth-the-drowning-truth.svg]]
+- [[04_Resources_Assets_Locations_location-city-marine-druids-marine-druids.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-sage-iris-crystalbloom-sage-iris-crystalbloom.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-the-siren-the-siren.svg]]
+- [[Theological Warfare]]

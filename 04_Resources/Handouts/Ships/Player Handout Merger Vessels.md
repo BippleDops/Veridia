@@ -1,24 +1,29 @@
+# Player Handout Merger Vessels
+
 ---
-audience: player
-created: '2025-08-11'
-status: complete
+title: "Player Handout \u2014 Merger Vessels"
+type: Lore
 tags:
-- both
-- complete
-- handout
 - lore
-- merger
+- both
 - status/complete
+- merger
+- handout
 - vehicles
 - world/both
-title: Player Handout — Merger Vessels
-type: Lore
-updated: '2025-08-13T12:34:32.367318+00:00'
+- active
+- complete
+- resource
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+audience: player
+updated: 2025-08-13 07:59:50.467097
 world: Both
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.467097
 ---
+
 # Merger Vessels — What Impossible Looks Like
 
 - Time Skipper: Deck clocks run backwards; wake arrives before hull.
@@ -32,3 +37,8 @@ These ships demand anchors, charts, and strong minds. Read [[Merger Hybrid Vehic
 ## Cross-References
 
 - [[Player Portal]]
+
+
+## Related
+
+*Links to related content will be added here.*

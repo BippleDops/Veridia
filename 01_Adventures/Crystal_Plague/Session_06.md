@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 06
 type: adventure
-status: active
 tags:
-- session-notes
-- crystal-enhanced
 - adventure
+- session-notes
+- quest
+- active
+- crystal-enhanced
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 06: [Medical Crisis]
 
@@ -55,7 +61,7 @@ tags:
 
 - [[Doctor/Researcher]] - Expertise and agenda
 - [[Patient Zero]] - Clues they hold
-- [[12_Research/D&D_References/Government Official]] - Political pressure
+- [[Government Official]] - Political pressure
 
 ## Discoveries This Session
 
@@ -65,3 +71,10 @@ tags:
 
 # campaign #crystal_plague #medical #session_06
 
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-harvester-keth-reefrender-v1-harvester-keth-reefrender.svg]]
+- [[04_Resources_Assets_Locations_location-city-crystal-palace-complex-crystal-palace-complex.svg]]
+- [[04_Resources_Assets_Locations_location-city-voices-from-below-v1-voices-from-below.svg]]

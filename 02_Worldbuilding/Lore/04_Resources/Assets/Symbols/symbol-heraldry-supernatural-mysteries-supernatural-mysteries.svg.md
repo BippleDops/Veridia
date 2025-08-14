@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry supernatural mysteries supernatural mysteries.svg
+aliases:
+- symbol heraldry supernatural mysteries supernatural mysteriessvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-supernatural-mysteries-supernatural-mysteries.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Supernatural Mysteries]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Supernatural Mysteries]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

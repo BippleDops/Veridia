@@ -1,22 +1,28 @@
+# The Possessed Queen
+
 ---
+title: The Possessed Queen
+type: Lore
 tags:
-- aethermoor
-- campaign-threat
-- complete
-- corruption
-- crystal-influence
 - lore
-- major-npc
-- person
-- political-crisis
 - possession
 - ruler
+- person
+- political-crisis
+- research
+- major-npc
+- campaign-threat
+- crystal-influence
+- active
+- complete
 - tragedy
+- corruption
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 person_type: Corrupted Ruler
 scope: National Significance
@@ -24,6 +30,7 @@ threat_level: Extreme
 status_condition: Crystal Possessed
 political_impact: Constitutional Crisis
 ---
+
 
 
 
@@ -384,3 +391,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[United Councils of Both Worlds]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

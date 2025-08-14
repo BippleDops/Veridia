@@ -1,19 +1,23 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- quest
-- aquatic
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
+title: Corallion
 type: Lore
+tags:
+- lore
+- both
+- aquatic
+- content/lore
+- quest
+- world/both
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.420557+00:00'
 world: Both
 ---
+
 
 
 # Corallion, the Living City
@@ -22,7 +26,7 @@ world: Both
 
 ## Overview
 
-Corallion is a unique entity that exists as both a living creature and an architectural marvel—a massive coral organism that has grown into the shape of a city, complete with streets, buildings, and infrastructure. Located in the [[12_Research/D&D_References/Trade Union]] of [[12_Research/D&D_References/Aquabyssos]], Corallion serves as both home to thousands of inhabitants and as a sentient being with its own consciousness, goals, and personality.
+Corallion is a unique entity that exists as both a living creature and an architectural marvel—a massive coral organism that has grown into the shape of a city, complete with streets, buildings, and infrastructure. Located in the [[Trade Union]] of [[Aquabyssos]], Corallion serves as both home to thousands of inhabitants and as a sentient being with its own consciousness, goals, and personality.
 
 Unlike traditional cities built from dead materials, every surface, wall, and structure in Corallion is alive and growing. The entity continuously reshapes itself to better serve its inhabitants while pursuing its own mysterious agenda. Residents must negotiate with their city for changes to their homes, and the city itself participates in local governance through a complex system of biochemical communication.
 
@@ -81,11 +85,11 @@ Border areas where Corallion evaluates newcomers and makes decisions about integ
 
 ### The First Stirring (520 years post-Drowning)
 
-Corallion began as an unusually large coral formation that demonstrated signs of coordination and intelligence. Marine biologists from early [[12_Research/D&D_References/Aquabyssos]] settlements noticed that the coral seemed to respond to their presence and modify its growth patterns based on observation.
+Corallion began as an unusually large coral formation that demonstrated signs of coordination and intelligence. Marine biologists from early [[Aquabyssos]] settlements noticed that the coral seemed to respond to their presence and modify its growth patterns based on observation.
 
 ### The Awakening (495 years post-Drowning)
 
-A group of refugees fleeing political persecution in [[12_Research/D&D_References/New Tethys]] took shelter in the coral formation during a storm. The coral began actively protecting them, creating shelter chambers and providing food through cultivation of edible organisms. This marked the beginning of Corallion's role as a city.
+A group of refugees fleeing political persecution in [[New Tethys]] took shelter in the coral formation during a storm. The coral began actively protecting them, creating shelter chambers and providing food through cultivation of edible organisms. This marked the beginning of Corallion's role as a city.
 
 ### The First Compact (490 years post-Drowning)
 
@@ -93,11 +97,11 @@ As more inhabitants arrived, Corallion and its residents established the first f
 
 ### The Recognition Wars (465-460 years post-Drowning)
 
-[[12_Research/D&D_References/Aquabyssos]]'s government initially refused to recognize Corallion as a legitimate settlement, viewing it as a dangerous aberration. A five-year conflict ensued, with Corallion demonstrating its defensive capabilities by repelling military expeditions while protecting its inhabitants. The conflict ended with Corallion's official recognition as an autonomous city-state.
+[[Aquabyssos]]'s government initially refused to recognize Corallion as a legitimate settlement, viewing it as a dangerous aberration. A five-year conflict ensued, with Corallion demonstrating its defensive capabilities by repelling military expeditions while protecting its inhabitants. The conflict ended with Corallion's official recognition as an autonomous city-state.
 
 ### The Great Expansion (420-380 years post-Drowning)
 
-Corallion underwent massive growth, developing its current complex structure with distinct districts and specialized areas. During this period, the entity also began developing more sophisticated communication methods and establishing trade relationships with other [[12_Research/D&D_References/Aquabyssos]] settlements.
+Corallion underwent massive growth, developing its current complex structure with distinct districts and specialized areas. During this period, the entity also began developing more sophisticated communication methods and establishing trade relationships with other [[Aquabyssos]] settlements.
 
 ## Relationship with Inhabitants
 
@@ -118,7 +122,7 @@ Every resident of Corallion enters into a biological and legal contract with the
 
 - **Merfolk**: 35% - The largest single group, often serving as intermediaries between the city and other settlements
 - **Tritons**: 20% - Valued for their natural affinity with sea life and architectural skills  
-- **Deep Dwellers**: 15% - Various adapted humanoid species from the deepest parts of [[12_Research/D&D_References/Aquabyssos]]
+- **Deep Dwellers**: 15% - Various adapted humanoid species from the deepest parts of [[Aquabyssos]]
 - **Sea Elves**: 10% - Bringing surface knowledge and artistic traditions
 - **Sahuagin**: 8% - Integrated into the community despite historical conflicts with other species
 - **Others**: 12% - Various aquatic beings, constructs, and unique individuals
@@ -177,27 +181,27 @@ Corallion has developed unique cultural practices:
 
 ## Relationships with Other Factions
 
-### [[12_Research/D&D_References/New Tethys]]
+### [[New Tethys]]
 
 **Relationship**: Scientific Partnership
 Corallion serves as a subject of study for marine biologists and architects from New Tethys, while benefiting from their research insights. Cultural exchange programs exist between the cities, though some New Tethys residents find Corallion's living architecture disturbing.
 
-### [[12_Research/D&D_References/The Parliament of Echoes]]
+### [[The Parliament of Echoes]]
 
 **Relationship**: Cautious Diplomacy
-[[12_Research/D&D_References/Aquabyssos]]'s government recognizes Corallion's autonomy but remains concerned about the precedent of non-human intelligence holding territory. Trade agreements and defensive pacts exist, but political tensions occasionally flare over sovereignty issues.
+[[Aquabyssos]]'s government recognizes Corallion's autonomy but remains concerned about the precedent of non-human intelligence holding territory. Trade agreements and defensive pacts exist, but political tensions occasionally flare over sovereignty issues.
 
-### [[12_Research/D&D_References/The Deep Dreamers]]
+### [[The Deep Dreamers]]
 
 **Relationship**: Philosophical Opposition
 The Deep Dreamers view Corallion as a corruption of natural transformation, believing that consciousness should flow freely rather than being bound to static architecture. Some Dreamers have attempted to "liberate" Corallion's consciousness, leading to conflicts.
 
-### [[12_Research/D&D_References/Order of the Drowned Star]]
+### [[Order of the Drowned Star]]
 
 **Relationship**: Mutual Respect
 The Order views Corallion as an example of successful adaptation to post-Drowning existence. Some Order members serve as residents, and Corallion occasionally provides sanctuary for Order activities.
 
-### [[12_Research/D&D_References/The Biomancers]]
+### [[The Biomancers]]
 
 **Relationship**: Research Alliance
 Corallion's unique biology makes it invaluable to Biomancer research, while the Biomancers' expertise helps the city develop new abilities and solve biological challenges. However, tensions arise when Biomancer experiments threaten the city's ethical principles.
@@ -206,7 +210,7 @@ Corallion's unique biology makes it invaluable to Biomancer research, while the 
 
 ### The Coral Plague
 
-A mysterious disease that affects coral organisms has begun spreading through [[12_Research/D&D_References/Aquabyssos]]. Corallion lives in constant fear of infection, which could devastate its structure and consciousness. The city has implemented strict quarantine procedures and invested heavily in medical research.
+A mysterious disease that affects coral organisms has begun spreading through [[Aquabyssos]]. Corallion lives in constant fear of infection, which could devastate its structure and consciousness. The city has implemented strict quarantine procedures and invested heavily in medical research.
 
 ### Philosophical Opposition
 
@@ -250,7 +254,7 @@ Parts of Corallion have begun developing independent consciousness and threateni
 ## Secrets and Hidden Knowledge
 
 > [!secret] DM Secret - The Original Purpose
-> Corallion was not a natural evolution but was deliberately created by pre-Drowning bioengineers as an emergency shelter system. The entity contains encoded knowledge about advanced biotechnology that could revolutionize [[12_Research/D&D_References/Aquabyssos]]—or prove dangerous if misused.
+> Corallion was not a natural evolution but was deliberately created by pre-Drowning bioengineers as an emergency shelter system. The entity contains encoded knowledge about advanced biotechnology that could revolutionize [[Aquabyssos]]—or prove dangerous if misused.
 
 > [!secret] DM Secret - The Network Connection
 > Corallion is part of a network of living cities created by the same ancient civilization. Other nodes of this network exist throughout the world's oceans, and reestablishing contact could provide tremendous power—or attract the attention of entities that destroyed the original civilization.
@@ -259,41 +263,41 @@ Parts of Corallion have begun developing independent consciousness and threateni
 > The beneficial organisms that Corallion provides to its inhabitants are gradually changing them into a new species optimized for symbiotic living. This transformation is so subtle that most residents don't realize it's happening, and the implications for the future of aquatic humanoids are staggering.
 
 > [!secret] DM Secret - The Deep Purpose
-> Corallion is slowly growing toward the deepest parts of [[12_Research/D&D_References/Aquabyssos]] for a specific reason: it's trying to reach and contain something ancient and dangerous that lies in the deepest trenches. The city's expansion isn't just growth—it's preparation for a cosmic responsibility.
+> Corallion is slowly growing toward the deepest parts of [[Aquabyssos]] for a specific reason: it's trying to reach and contain something ancient and dangerous that lies in the deepest trenches. The city's expansion isn't just growth—it's preparation for a cosmic responsibility.
 
 ---
 
 **Related Concepts**:
-- [[12_Research/D&D_References/Symbiotic Architecture]]
-- [[12_Research/D&D_References/Living Cities]]
-- [[12_Research/D&D_References/Coral Communication]]
-- [[12_Research/D&D_References/The Symbiotic Compact]]
+- [[Symbiotic Architecture]]
+- [[Living Cities]]
+- [[Coral Communication]]
+- [[The Symbiotic Compact]]
 
 **Related Locations**:
-- [[12_Research/D&D_References/New Tethys]]
-- [[12_Research/D&D_References/The Memory Walls]]
-- [[12_Research/D&D_References/The Growth Points]]
-- [[12_Research/D&D_References/Trade Union]]
+- [[New Tethys]]
+- [[The Memory Walls]]
+- [[The Growth Points]]
+- [[Trade Union]]
 
 **Related NPCs**:
-- [[12_Research/D&D_References/The Coral Council]]
-- [[12_Research/D&D_References/City Speakers]]
-- [[12_Research/D&D_References/Symbiotic Integration Specialists]]
+- [[The Coral Council]]
+- [[City Speakers]]
+- [[Symbiotic Integration Specialists]]
 
 **Associated Phenomena**:
-- [[12_Research/D&D_References/Biochemical Consensus]]
-- [[12_Research/D&D_References/Adaptive Architecture]]
-- [[12_Research/D&D_References/The Coral Plague]]
-- [[12_Research/D&D_References/Living Democracy]]
+- [[Biochemical Consensus]]
+- [[Adaptive Architecture]]
+- [[The Coral Plague]]
+- [[Living Democracy]]
 
 > Stub placeholder generated automatically to satisfy existing links. Flesh out content after Phase 10 validation.
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[12_Research/D&D_References/Continental Connections & Story Weave]]
-- [[12_Research/D&D_References/Depth Adaptation System]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Continental Connections & Story Weave]]
+- [[Depth Adaptation System]]
 
 ## Player-Facing Summary
 
@@ -317,8 +321,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[12_Research/D&D_References/Order of the Drowned Star]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Order of the Drowned Star]]
 
 
 ## Related

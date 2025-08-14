@@ -1,30 +1,36 @@
 ---
+title: Order of the Shattered Crown
+type: Npc
+tags:
+- status/complete
+- grand-master
+- campaign/hook
+- seven-shards
+- npc
+- character
+- content/npc
+- world/aethermoor
+- active
+- complete
+- aethermoor
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+race: Human (Heavily Crystal-touched)
+class: Unknown
+location: '[[The Crystalline Wastes]]'
 MyCategory: Unknown
 MyContainer: None
 affiliation: Order of the Shattered Crown (Founder & Leader)
 age: '73'
 cr: '8'
-created: '2025-08-12'
 created_by: expansion
-location: '[[The Crystalline Wastes]]'
 obsidianUIMode: preview
-race: Human (Heavily Crystal-touched)
 role: Grand Master of the Shattered Crown
-status: complete
-tags:
-- aethermoor
-- campaign/hook
-- complete
-- content/npc
-- grand-master
-- npc
-- seven-shards
-- status/complete
-- world/aethermoor
-type: Npc
 updated: '2025-08-13T12:34:17.711198+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait
@@ -64,7 +70,13 @@ Despite his transformed state, signs of Valdric's advanced age and the terrible 
 
 ---
 
-## Personality and Motivations
+## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more aggressive
+- **When Pleased**: Shows open joy
+- **In Conflict**: Tends toward confrontation
+ and Motivations
 ### The Visionary Leader
 Valdric possesses the complex personality of someone who has spent decades balancing cosmic responsibility with human leadership, resulting in a figure who is simultaneously inspiring and terrifying.
 
@@ -444,6 +456,114 @@ Specialized magical instruments created by Valdric for detecting, analyzing, and
 
 ---
 
+
+
+## Appearance
+
+Order of the Shattered Crown presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Protecting loved ones
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Carefully chosen words
+
+**Physical Habits**: Remains perfectly still
+
+## Current Activities
+
+Order of the Shattered Crown is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Order of the Shattered Crown needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Order of the Shattered Crown stopped or removed
+3. **The Secret**: Information about Order of the Shattered Crown's past surfaces
+4. **The Alliance**: Opportunity to work with or against Order of the Shattered Crown
+5. **The Crisis**: Order of the Shattered Crown is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes and Campaign Integration
 ### Versatile Role Options
 **Mentor Figure**: Guide and teacher for parties interested in Shard lore and cosmic mysteries
@@ -479,6 +599,15 @@ Specialized magical instruments created by Valdric for detecting, analyzing, and
 **Character Growth**: Provides opportunities for party members to explore their own relationships with power and responsibility
 
 
+
+
+## Relationship Web
+
+- [[Priest Faith Crystalsong]]: *sworn enemy*
+- [[04_Resources_Assets_Locations_location-city-beast-master-krell-chainbreaker-beast-master-krell-chainbreaker.svg]]: *bitter rival*
+- [[04_Resources_Assets_Locations_location-city-cathedral-of-light-v1-cathedral-of-light.png]]: *student*
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-henrik-proudbanner-captain-henrik-proudbanner.svg]]: *patron*
+
 ## Connections
 
 - [[The Convergence Seekers]]
@@ -503,6 +632,114 @@ Legends speak of Order of the Shattered Crown as a nexus where past and present 
 - A rumor ties Order of the Shattered Crown to a missing shipment, linking factions with competing claims.
 - An NPC seeks discreet help at Order of the Shattered Crown to avert a public scandal.
 - A map overlay reveals a hidden approach to Order of the Shattered Crown active only during specific tides/storms.
+
+
+
+## Appearance
+
+Order of the Shattered Crown presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Protecting loved ones
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Carefully chosen words
+
+**Physical Habits**: Remains perfectly still
+
+## Current Activities
+
+Order of the Shattered Crown is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Order of the Shattered Crown needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Order of the Shattered Crown stopped or removed
+3. **The Secret**: Information about Order of the Shattered Crown's past surfaces
+4. **The Alliance**: Opportunity to work with or against Order of the Shattered Crown
+5. **The Crisis**: Order of the Shattered Crown is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 

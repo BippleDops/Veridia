@@ -1,23 +1,27 @@
 ---
-created: '2025-08-12'
-status: complete
+title: Post Merge Chronology
+type: Lore
 tags:
-- crystal-enhanced
-- shadow-touched
-- aerial
-- aquatic
+- lore
 - aquabyssos
-- chronology
+- post-drowning
+- aerial
+- world/aquabyssos
+- aquatic
 - complete
 - content/lore
-- lore
-- post-drowning
+- active
+- chronology
 - status/in-progress
-- world/aquabyssos
-type: Lore
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.449383+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Post-Merge Chronology
@@ -538,16 +542,16 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 ## Cross-References
 
 - [[The Catastrophe: Hour by Hour]]
-- [[12_Research/D&D_References/Pre-Drowning Civilization Archives]]
-- [[12_Research/D&D_References/Shadow Conspiracy Timeline]]
-- [[12_Research/D&D_References/Economic History of the Realms]]
-- [[12_Research/D&D_References/Crystal Plague Origins]]
-- [[12_Research/D&D_References/Parliamentary Founding]]
-- [[12_Research/D&D_References/The Deep Mother]]
-- [[12_Research/D&D_References/Reality Anchor Network]]
-- [[12_Research/D&D_References/Great Drowning]] (enhanced)
-- [[12_Research/D&D_References/New Tethys]]
-- [[12_Research/D&D_References/Port Meridian]]
+- [[Pre-Drowning Civilization Archives]]
+- [[Shadow Conspiracy Timeline]]
+- [[Economic History of the Realms]]
+- [[Crystal Plague Origins]]
+- [[Parliamentary Founding]]
+- [[The Deep Mother]]
+- [[Reality Anchor Network]]
+- [[Great Drowning]] (enhanced)
+- [[New Tethys]]
+- [[Port Meridian]]
 - [[Deep Parliament Chambers]]
 
 ## Player-Facing Summary
@@ -576,3 +580,26 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
 - [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

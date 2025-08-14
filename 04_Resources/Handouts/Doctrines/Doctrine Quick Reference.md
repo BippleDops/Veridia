@@ -1,24 +1,29 @@
+# Doctrine Quick Reference
+
 ---
-audience: player
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/faction
-- doctrine
-- handout
-- lore
-- status/complete
-- world/both
-title: Player Handout — Doctrine Quick Reference
+title: "Player Handout \u2014 Doctrine Quick Reference"
 type: Lore
-updated: '2025-08-13T12:34:32.374691+00:00'
+tags:
+- lore
+- both
+- status/complete
+- doctrine
+- content/faction
+- handout
+- world/both
+- active
+- complete
+- resource
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+audience: player
+updated: 2025-08-13 07:59:50.467876
 world: Both
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.467876
 ---
+
 # Doctrine Quick Reference
 
 Travel feels different under each doctrine. Use this as a vibe guide and checklist for your crew.
@@ -63,3 +68,8 @@ Travel feels different under each doctrine. Use this as a vibe guide and checkli
 **Influence Maximization**: Leveraging relationships for faction goals
 **Diplomatic Priorities**: Key relationships requiring attention
 
+
+
+## Related
+
+*Links to related content will be added here.*

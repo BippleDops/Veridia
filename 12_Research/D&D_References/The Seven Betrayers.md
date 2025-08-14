@@ -1,20 +1,27 @@
+# The Seven Betrayers
+
 ---
+title: The Seven Betrayers
+type: Lore
 tags:
-- aethermoor
 - ancient-conspiracy
-- betrayal
-- complete
-- crown-shattering
-- divine-betrayal
-- historical-event
-- history
 - lore
-- political-intrigue
-- pre-crystallization
+- history
 - seven-shards
+- historical-event
+- political-intrigue
+- research
+- pre-crystallization
+- crown-shattering
+- active
+- divine-betrayal
+- complete
+- aethermoor
+- betrayal
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 category: Ancient Conspiracy
 significance: World-Defining
 time_period: Pre-Crystallization Era, Year 1 BGC (Before Great Crystallization)
@@ -25,7 +32,6 @@ participants:
 - Divine Court
 outcome: Catastrophic Success - Crown Shattered, Crystallization Triggered
 created_by: auto-stub
-created: '2025-08-08'
 expanded: 2025-08-11
 related_entities:
 - '[[The Great Crystallization]]'
@@ -35,6 +41,7 @@ related_entities:
 - '[[The Shattering of the Crown]]'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -571,3 +578,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Crown of Stars]]
 - [[Queen Seraphina Lumengarde]]
 - [[The Crimson Sage]]
+
+
+## Related
+
+*Links to related content will be added here.*

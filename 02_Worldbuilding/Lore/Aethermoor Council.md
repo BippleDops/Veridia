@@ -1,19 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- quest
-- aerial
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
+title: Aethermoor Council
 type: Lore
+tags:
+- lore
+- both
+- aerial
+- content/lore
+- quest
+- world/both
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:15.973603+00:00'
 world: Both
 ---
+
 
 
 ## Overview

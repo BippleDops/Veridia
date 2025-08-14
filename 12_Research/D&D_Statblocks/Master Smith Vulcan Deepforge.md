@@ -1,36 +1,43 @@
+# Master Smith Vulcan Deepforge
+
 ---
-MyCategory: Unknown
-MyContainer: None
-character_type: Master Craftsman
-class: Artificer
-cr: 10
-created: '2025-08-08'
-created_by: auto-stub
-danger_level: Moderate
-faction: Artisan Guild
-level: 14
-location: The Great Forge, Aquabyssos
-obsidianUIMode: preview
-occupation: Master Smith and Weaponsmith
-status: complete
+title: Master Smith Vulcan Deepforge
+type: Location
 tags:
 - aquabyssos
 - artisan
-- complete
-- content/item
+- status/complete
+- craftsman
+- research
+- deepforge
 - content/location
 - content/npc
-- craftsman
-- deepforge
-- location
 - master
-- smith
-- status/complete
+- active
+- location
+- complete
+- content/item
 - world/aquabyssos
-type: Location
+- smith
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+class: Artificer
+location: The Great Forge, Aquabyssos
+level: 14
+MyCategory: Unknown
+MyContainer: None
+character_type: Master Craftsman
+cr: 10
+created_by: auto-stub
+danger_level: Moderate
+faction: Artisan Guild
+obsidianUIMode: preview
+occupation: Master Smith and Weaponsmith
 updated: '2025-08-13T12:34:16.502537+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -328,3 +335,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

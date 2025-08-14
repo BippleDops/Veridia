@@ -1,14 +1,20 @@
+# Redirector's Guild
+
 ---
-tags:
-- active
-- aethermoor
-- group
+title: Redirector's Guild
 type: Group
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- group
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.815579+00:00'
 ---
+
 
 
 
@@ -61,3 +67,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Ritual Redirection Options]]
+
+
+## Related
+
+*Links to related content will be added here.*

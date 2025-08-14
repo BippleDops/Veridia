@@ -1,14 +1,20 @@
+# Choir Master Celestine Hymnsinger
+
 ---
-updated: '2025-08-13T01:18:36.177082+00:00'
-created: '2025-08-12'
+title: Choir Master Celestine Hymnsinger
+type: location
 tags:
 - aquabyssos
 - category/place
-- complete
+- research
+- active
 - location
+- complete
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
+updated: '2025-08-13T01:18:36.177082+00:00'
 world: Aquabyssos
-type: location
 obsidianUIMode: preview
 accessibility:
   screen_reader_summary: Choir Master Celestine Hymnsinger is a notable location in
@@ -23,6 +29,7 @@ accessibility:
   - X-Card
   - Open Door
 ---
+
 
 
 
@@ -91,3 +98,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Prophet Nerida Voidgazer]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
+
+
+## Related
+
+*Links to related content will be added here.*

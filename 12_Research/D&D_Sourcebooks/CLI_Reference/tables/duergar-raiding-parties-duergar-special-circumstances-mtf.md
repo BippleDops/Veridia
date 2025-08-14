@@ -1,20 +1,25 @@
+# duergar-raiding-parties-duergar-special-circumstances-mtf
+
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-- active
-- both
-- note
-- ttrpg-cli/compendium/src/5e/mtf
+title: duergar raiding parties duergar special circumstances mtf
 aliases:
 - Duergar Raiding Parties; Duergar Special Circumstances
 type: note
+tags:
+- both
+- research
+- active
+- ttrpg-cli/compendium/src/5e/mtf
+- note
 created: 2025-07-23
-updated: '2025-08-13T01:18:31.387677+00:00'
-modified: 2025-07-23 12:39
-world: Both
+modified: '2025-08-14'
 status: active
+obsidianUIMode: preview
+cssclasses: json5e-note
+updated: '2025-08-13T01:18:31.387677+00:00'
+world: Both
 ---
+
 
 # Duergar Raiding Parties; Duergar Special Circumstances
 *Source: Mordenkainen's Tome of Foes p. 83* 
@@ -50,3 +55,8 @@ Legends speak of duergar raiding parties duergar special circumstances mtf as a 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

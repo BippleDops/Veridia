@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Circle of Eternal Seasons
+type: Lore
 tags:
-- aethermoor
-- complete
+- lore
 - content/lore
 - content/npc
-- lore
-- status/in-progress
 - world/aethermoor
-type: Lore
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.215810+00:00'
 world: Aethermoor
 ---
+
 
 
 ## Overview
@@ -41,12 +45,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Verdant Shard]]
+- [[Verdant Shard]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Verdant Shard]]
+- [[Verdant Shard]]
 
 
 ## Related

@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "The Floating Market"
             }
+          },
+          {
+            "id": "fa5c4d6e2915788c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.8"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.8"
+            }
           }
         ]
       }
@@ -368,6 +380,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,

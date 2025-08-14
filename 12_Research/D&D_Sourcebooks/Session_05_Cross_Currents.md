@@ -1,16 +1,23 @@
+# Session_05_Cross_Currents
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- campaign/seven-shards
-- session-guide
-- world/both
-- diplomacy
-- exploration
+title: Session 05 Cross Currents
 type: Quest
+tags:
+- diplomacy
+- session-guide
+- research
+- world/both
+- active
+- exploration
+- campaign/seven-shards
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T07:30:00.000000+00:00'
 world: Both
 ---
+
 
 # Session 5: Cross Currents
 
@@ -276,3 +283,7 @@ Rather than a fight to the death, this is a test of the party's worthiness and u
 ---
 
 *"When currents cross, wise swimmers do not fight the flow - they use the confluence to reach deeper waters than either current alone could provide."* - Ambassador Elena Diplomatic
+
+## Related
+
+*Links to related content will be added here.*

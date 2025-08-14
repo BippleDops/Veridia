@@ -1,23 +1,30 @@
+# Quest - The Traitor Within
+
 ---
+title: Quest   The Traitor Within
+type: NPC
 tags:
-- aethermoor
-- betrayal
-- complete
-- espionage
 - npc
 - political
 - quest
+- research
+- active
+- complete
+- espionage
+- aethermoor
+- betrayal
+created: 2025-08-08 - Category/Quests
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: NPC
 created_by: auto-stub
-created: 2025-08-08 - Category/Quests
 MyContainer: None
 MyCategory: Political
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.929147+00:00'
 cr: '6'
 ---
+
 
 
 > [!figure] Portrait
@@ -174,3 +181,8 @@ Legends speak of Quest   The Traitor Within as a nexus where past and present co
 - [[Quest - The Traitor Within|02 Worldbuilding/People/Quest The Traitor Within]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

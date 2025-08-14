@@ -1,22 +1,29 @@
+# Daily Routine Nuances and Details
+
 ---
+title: Daily Routine Nuances and Details
+type: Cultural Reference
 tags:
 - both
-- both-realms
-- complete
-- comprehensive
-- cultural reference
-- cultural-reference
-- culture
-- daily-life
 - nuances
+- culture
+- both-realms
+- research
+- active
+- cultural reference
+- comprehensive
+- complete
+- cultural-reference
 - routine
+- daily-life
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Cultural Reference
 created_by: claude
-created: '2025-08-12'
 updated: '2025-08-13T04:22:14.119896+00:00'
 ---
+
 
 
 
@@ -532,3 +539,8 @@ Legends speak of Daily Routine Nuances and Details as a nexus where past and pre
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

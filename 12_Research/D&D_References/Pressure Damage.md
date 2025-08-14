@@ -1,20 +1,27 @@
+# Pressure Damage
+
 ---
+title: Pressure Damage
+type: Lore
 tags:
-- aquabyssos
-- complete
-- damage
-- environmental
-- hazard
 - lore
+- aquabyssos
 - pressure
+- damage
+- hazard
+- environmental
+- research
+- active
 - underwater
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -79,3 +86,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Depth Adaptation Points|02 Worldbuilding/Lore/Depth Adaptation Points]]
+
+
+## Related
+
+*Links to related content will be added here.*

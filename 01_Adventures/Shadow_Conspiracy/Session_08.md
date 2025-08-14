@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 08
 type: adventure
-status: active
 tags:
-- combat
-- session-notes
-- shadow-touched
 - adventure
+- session-notes
+- quest
+- active
+- combat
+- shadow-touched
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 08: [Political Crisis]
 
@@ -73,3 +79,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
+
+
+## Key NPCs
+
+- [[Lady Jade Clawgrip]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-deep-sea-agricultural-research-institut-deep-sea-agricultural-research-institut.svg]]
+- [[Pressure Angel Benthia]]
+- [[NPC2]]
+- [[04_Resources_Assets_Portraits_portrait-npc-lady-crystal-heart-miraleth-lady-crystal-heart-miraleth.svg]]
+
+
+## Important Locations
+
+- [[Port Meridian - Merchant Quarter]]
+- [[04_Resources_Assets_Locations_location-city-insurance-industry-v1-insurance-industry.svg]]
+- [[04_Resources_Assets_Locations_location-city-crystal-engineer-reef-sparkwright-v1-crystal-engineer-reef-sparkwright.svg]]

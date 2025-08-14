@@ -1,12 +1,20 @@
+# Session_5_The_Wind_Singer
+
 ---
+title: Session 5 The Wind Singer
+type: research
 tags:
-- active
-- adventure-session
-- aethermoor
 - ancient-magic
+- adventure-session
 - levels-4-6
 - spiritual-journey
+- research
+- active
 - winds-of-rebellion
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 session_number: 5
 adventure: Winds of Rebellion
 level_range: 4-6
@@ -19,10 +27,9 @@ themes:
 - cultural-heritage
 - alliance-building
 - power-sacrifice
-created: '2025-08-11'
 updated: '2025-08-13T01:18:37.154474+00:00'
-status: active
 ---
+
 
 
 # Session 5: The Wind Singer

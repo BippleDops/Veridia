@@ -1,20 +1,26 @@
+# The Great Crystallization
+
 ---
-tags:
-- active
-- both
-- catastrophe
-- event
-- history
-- lore
+title: The Great Crystallization
 type: Lore
+tags:
+- lore
+- both
+- history
+- event
+- research
+- catastrophe
+- active
+created: '2024-12-20'
+modified: '2025-08-14'
+status: active
 period: 500 years ago
 importance: World-Defining
-created: '2024-12-20'
 image: 04_Resources/Assets/Lore/great_crystallization.jpg
 world: Both
 updated: '2025-08-13T01:18:34.562222+00:00'
-status: active
 ---
+
 
 
 

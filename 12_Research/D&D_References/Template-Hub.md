@@ -1,18 +1,24 @@
+# Template-Hub
+
 ---
+title: Template Hub
 type: Lore
-status: complete
 tags:
-- active
-- both
-- category/hub
 - lore
+- both
+- research
+- active
+- category/hub
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 MyContainer: null
 MyCategory: Hamlet <80
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:31.195115+00:00'
-created: '2025-08-11'
 ---
+
 
 
 
@@ -400,3 +406,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Template-Place|05 Templates/World Builder Templates/Template Place]]
+
+
+## Related
+
+*Links to related content will be added here.*

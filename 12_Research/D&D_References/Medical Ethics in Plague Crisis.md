@@ -1,18 +1,24 @@
+# Medical Ethics in Plague Crisis
+
 ---
-tags:
-- active
-- aquabyssos
-- lore
-- medical-ethics
-- moral-dilemmas
-- plague
-- shadow-corruption
+title: Medical Ethics in Plague Crisis
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- shadow-corruption
+- plague
+- research
+- active
+- moral-dilemmas
+- medical-ethics
 created: '2025-08-12'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.881366+00:00'
 ---
+
 
 
 # Medical Ethics in Plague Crisis
@@ -304,3 +310,8 @@ Medical Ethics in Plague Crisis is a undersea element of the setting, known for 
 Legends speak of Medical Ethics in Plague Crisis as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Medical Ethics in Plague Crisis.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,14 +1,20 @@
+# The Sunken Library of Thalassius
+
 ---
+title: The Sunken Library of Thalassius
+type: Quest
+tags:
+- both
+- research
+- active
+- quest
 created: '2024-01-01'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T04:22:13.296891+00:00'
 world: Both
-status: active
-tags:
-- active
-- both
-- quest
-type: Quest
 ---
+
 
 
 
@@ -41,3 +47,8 @@ Legends speak of The Sunken Library of Thalassius as a nexus where past and pres
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,25 +1,31 @@
+# efreeti-chain-xdmg
+
 ---
+title: efreeti chain xdmg
 aliases:
 - Efreeti Chain
 - Efreeti Chain Mail
 - Efreeti Chain Shirt
-attunement: false
-created: 2025-07-23
-cssclasses: json5e-item
-modified: 2025-07-23 12:39
-obsidian-u-i-mode: preview
-status: active
+type: note
 tags:
-- content/item
 - content/lore
+- world/both
+- research
+- active
 - note
+- content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+attunement: false
+cssclasses: json5e-item
+obsidian-u-i-mode: preview
 updated: '2025-08-12T23:37:37.607893'
 world: Both
 ---
+
 
 # Efreeti Chain
 *Legendary (requires attunement)*  
@@ -66,3 +72,8 @@ Legends speak of efreeti chain xdmg as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,22 +1,28 @@
+# egyptian-osiris
+
 ---
+title: egyptian osiris
 aliases:
 - Osiris
-created: 2025-07-23
-cssclasses: json5e-deity
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- importance/core
-- note
-- status/in-progress
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/egyptian
+- research
 - world/both
-type: note
+- active
+- note
+- status/in-progress
+- importance/core
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-deity
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.866816'
 world: Both
 ---
+
 
 # Osiris
 *Source: Player's Handbook p. 299, Xanathar's Guide to Everything p. 19. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
@@ -46,3 +52,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
  enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

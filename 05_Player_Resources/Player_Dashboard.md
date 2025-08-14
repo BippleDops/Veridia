@@ -1,11 +1,18 @@
+# Player_Dashboard
+
 ---
-created: 2025-08-14
+title: Player Dashboard
 type: player-resource
 tags:
-- player
+- player-resource
 - character
+- active
+- player
 - resource
+created: 2025-08-14
+modified: '2025-08-14'
 ---
+
 
 # Player Dashboard
 
@@ -67,3 +74,8 @@ SORT relationship DESC
 
 ---
 *Player dashboard - auto-updating*
+
+
+## Related
+
+*Links to related content will be added here.*

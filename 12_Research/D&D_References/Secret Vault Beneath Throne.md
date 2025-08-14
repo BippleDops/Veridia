@@ -1,26 +1,33 @@
+# Secret Vault Beneath Throne
+
 ---
+title: Secret Vault Beneath Throne
+type: Location
 tags:
-- aethermoor
-- complete
-- conspiracy
-- hidden
-- location
 - royal
 - treasury
 - vault
+- hidden
+- research
+- active
+- location
+- complete
+- conspiracy
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Location
 security_level: maximum
 access: royal_only
 danger_level: Extreme
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] View
@@ -429,3 +436,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Shrinking Sanctuary]]
 - [[The Silent Watcher]]
 - [[The Void Touched Depths]]
+
+
+## Related
+
+*Links to related content will be added here.*

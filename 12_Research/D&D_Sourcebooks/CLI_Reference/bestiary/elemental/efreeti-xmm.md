@@ -1,27 +1,34 @@
+# efreeti-xmm
+
 ---
+title: efreeti xmm
 aliases:
 - Efreeti
+type: monster
+tags:
+- ttrpg-cli/compendium/src/5e/xmm
+- monster
+- ttrpg-cli/monster/environment/fire
+- research
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/environment/planar
+- world/both
+- active
+- ttrpg-cli/monster/type/elemental/genie
+- ttrpg-cli/monster/cr/11
+- status/in-progress
+- ttrpg-cli/monster/environment/desert
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/fire
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental/genie
-- world/both
-type: monster
 updated: '2025-08-12T23:37:35.417121'
 world: Both
 ---
+
 
 # [[efreeti-xmm|Efreeti]]
 *Source: Monster Manual (2024) p. 109. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -129,3 +136,8 @@ Legends speak of efreeti xmm as a nexus where past and present converge. Locals 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

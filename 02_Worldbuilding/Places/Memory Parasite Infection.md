@@ -1,22 +1,29 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
-danger_level: Moderate
-status: complete
+title: Memory Parasite Infection
+type: Location
 tags:
 - aquabyssos
-- complete
-- content/location
-- event
-- location
-- medical-crisis
-- memory
 - status/complete
+- memory
+- event
+- medical-crisis
+- content/location
+- place
+- active
+- location
+- complete
 - world/aquabyssos
-type: Location
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+created_by: auto-stub
+danger_level: Moderate
 updated: '2025-08-13T12:34:17.064457+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -151,6 +158,27 @@ The parasites are not native to local waters, suggesting either artificial intro
 - Memory parasites may have intelligent behavior
 - Connection to larger environmental crisis
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 This outbreak provides opportunities for medical mysteries, social drama, and moral dilemmas about identity and memory. Consider how the infection affects NPCs players know, and whether memory loss is always purely negative.
 
@@ -172,3 +200,97 @@ Legends speak of Memory Parasite Infection as a nexus where past and present con
 - [[Memory Parasite Infection]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Portraits_portrait-npc-quest-the-bio-adaptation-crisis-quest-the-bio-adaptation-crisis.svg]]
+- [[04_Resources_Assets_Locations_location-city-flame-keeper-brother-ignatius-flame-keeper-brother-ignatius.svg]]
+- [[Chief Engineer Marina Crystalwright]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+Memory Parasite Infection is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Memory Parasite Infection
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Memory Parasite Infection was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Memory Parasite Infection:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Memory Parasite Infection
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

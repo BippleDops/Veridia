@@ -1,22 +1,29 @@
+# Depth Survival Mechanics
+
 ---
-complexity: advanced
-created: '2025-08-07'
-status: complete
-system: D&D 5e
-tags:
-- both
-- complete
-- content/lore
-- content/mechanics
-- lore
-- status/in-progress
-- survival
-- world/aquabyssos
-- world/both
+title: Depth Survival Mechanics
 type: Lore
+tags:
+- lore
+- both
+- world/aquabyssos
+- survival
+- content/lore
+- world/both
+- research
+- active
+- complete
+- status/in-progress
+- content/mechanics
+created: '2025-08-07'
+modified: '2025-08-14'
+status: complete
+complexity: advanced
+system: D&D 5e
 updated: '2025-08-13T12:34:17.806307+00:00'
 world: Both
 ---
+
 
 
 
@@ -387,3 +394,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Aethermoor_Airships|Aethermoor Airships]]
 - [[Vehicle_Core_Rules|Vehicle Core Rules]]
 - [[Pressure_Weather_Events|Pressure Weather Events]]
+
+
+## Related
+
+*Links to related content will be added here.*

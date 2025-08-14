@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 03
 type: adventure
-status: active
 tags:
-- session-notes
-- crystal-enhanced
 - adventure
+- session-notes
+- quest
+- active
+- crystal-enhanced
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 03: [Medical Crisis]
 
@@ -55,7 +61,7 @@ tags:
 
 - [[Doctor/Researcher]] - Expertise and agenda
 - [[Patient Zero]] - Clues they hold
-- [[12_Research/D&D_References/Government Official]] - Political pressure
+- [[Government Official]] - Political pressure
 
 ## Discoveries This Session
 
@@ -65,3 +71,10 @@ tags:
 
 # campaign #crystal_plague #medical #session_03
 
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-coral-gardens-district-v1-coral-gardens-district.svg]]
+- [[Foam Deepferment]]
+- [[04_Resources_Assets_Locations_location-city-the-embassy-quarter-v1-the-embassy-quarter.svg]]

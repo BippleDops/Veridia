@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/lore
-- lore
-- royal-palace
-- status/in-progress
-- world/aquabyssos
+title: Duchess Wave Tsunami
 type: Lore
+tags:
+- lore
+- aquabyssos
+- world/aquabyssos
+- content/lore
+- active
+- complete
+- status/in-progress
+- royal-palace
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.083327+00:00'
 world: Aquabyssos
 ---
+
 
 
 ## Overview
@@ -41,12 +45,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Maelstrom Palace]]
+- [[Maelstrom Palace]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Maelstrom Palace]]
+- [[Maelstrom Palace]]
 
 
 ## Related

@@ -1,15 +1,21 @@
+# Inter-Realm Relations
+
 ---
-tags:
-- active
-- both
-- location
+title: Inter Realm Relations
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.323973+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-inter-realm-relations-inter-realm-relations.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Inter-Realm Relations|02 Worldbuilding/Places/Inter Realm Relations]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

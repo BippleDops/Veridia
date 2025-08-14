@@ -1,34 +1,43 @@
+# Envoy Blackwater Jr.
+
 ---
+title: Envoy Blackwater Jr.
+aliases:
+- Envoy Blackwater Jr
+type: Location
 tags:
 - aquabyssos
-- blackwater-family
-- character
-- complete
-- diplomat
 - envoy
-- location
 - negotiator
+- diplomat
 - noble
 - npc
 - political
-status: complete
-world: Aquabyssos
-type: Location
-created_by: auto-stub
+- research
+- character
+- blackwater-family
+- active
+- location
+- complete
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+class: Noble/Diplomat
+location: Political Quarter, Aquabyssos
+level: 8
+world: Aquabyssos
+created_by: auto-stub
 updated: '2025-08-13T01:18:35.954680+00:00'
 character_type: Political Envoy
 faction: Blackwater Noble House
-class: Noble/Diplomat
-level: 8
 cr: 5
 occupation: Senior Diplomatic Envoy
-location: Political Quarter, Aquabyssos
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -352,3 +361,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Envoy Blackwater Jr.|02 Worldbuilding/Places/Envoy Blackwater Jr.]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

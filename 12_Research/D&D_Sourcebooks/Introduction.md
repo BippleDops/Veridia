@@ -1,11 +1,19 @@
+# Introduction
+
 ---
+title: Introduction
+type: research
 tags:
-- active
 - adventure-module
-- aethermoor
-- levels-4-6
 - political-intrigue
+- levels-4-6
+- research
+- active
 - winds-of-rebellion
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 adventure_level: 4-6
 adventure_type: Political Intrigue & Social Combat
 world: Aethermoor
@@ -16,10 +24,9 @@ themes:
 - court-intrigue
 - factional-warfare
 - wind-rider-traditions
-created: '2025-08-11'
 updated: '2025-08-13T01:18:37.155299+00:00'
-status: active
 ---
+
 
 
 # Winds of Rebellion

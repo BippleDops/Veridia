@@ -1,22 +1,28 @@
 ---
-created: '2025-08-12'
-danger_level: Variable
-government_type: Parliamentary Democracy with Shadow Infiltration
-population: 15000000
-status: complete
+title: Aquabyssos
+type: Location
 tags:
 - aquabyssos
-- complete
-- content/location
-- location
-- realm
-- status/in-progress
-- world/aquabyssos
 - world/surface
-type: Location
+- realm
+- world/aquabyssos
+- content/location
+- place
+- active
+- location
+- complete
+- status/in-progress
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: 15000000
+danger_level: Variable
+government_type: Parliamentary Democracy with Shadow Infiltration
 updated: '2025-08-13T12:34:17.232976+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -355,3 +361,106 @@ Geological instability threatening pressure-dependent infrastructure and requiri
 ---
 
 *"In Aquabyssos, democracy flows like current—sometimes swift and clear, sometimes murky and treacherous, but always carrying the will of the depths toward an uncertain shore."*
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[Temple Districts]]
+- [[Scholar-Merchant Remembrance Tidekeep]]
+- [[04_Resources_Assets_Locations_location-city-the-archive-of-unremembered-things-the-archive-of-unremembered-things.svg]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+Aquabyssos is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Aquabyssos
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Aquabyssos was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Aquabyssos
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions

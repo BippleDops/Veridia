@@ -1,11 +1,32 @@
+# Aethermoor - Session 10 The Deep Mother Rises
+
 ---
+title: The Deep Mother Rises
+type: Lore
+tags:
+- lore
+- campaign/session
+- finale
+- world/aquabyssos
+- primordial
+- content/lore
+- research
+- deep-mother
+- world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+location: '[[The Abyss Beneath Aquabyssos]]'
+level: 6
+session_number: 10
+date_played: null
 MyCategory: Unknown
 MyContainer: None
-created: '2025-08-11'
-date_played: null
 estimated_time: 4-5 hours
-level: 6
-location: '[[The Abyss Beneath Aquabyssos]]'
 npcs_featured:
 - '[[The Deep Mother]]'
 - '[[United Councils of Both Worlds]]'
@@ -16,25 +37,10 @@ quests_advanced:
 - '[[Face the Ancient Threat]]'
 - '[[Unite the Two Worlds]]'
 - '[[Establish New World Order]]'
-session_number: 10
-status: complete
-tags:
-- aethermoor
-- campaign/session
-- complete
-- content/lore
-- deep-mother
-- finale
-- lore
-- primordial
-- status/in-progress
-- world/aethermoor
-- world/aquabyssos
-title: The Deep Mother Rises
-type: Lore
 updated: '2025-08-13T12:34:17.850810+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -210,3 +216,8 @@ Future Hooks:
 ## Cross-References
 
 - [[Campaign Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

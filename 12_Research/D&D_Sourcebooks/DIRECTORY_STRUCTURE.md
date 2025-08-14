@@ -1,3 +1,15 @@
+# DIRECTORY_STRUCTURE
+
+---
+title: DIRECTORY STRUCTURE
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Vault Directory Structure
 *Official directory organization and purpose*
 
@@ -80,3 +92,8 @@ Vault metrics, logs, and performance data.
 
 ---
 *Last Updated: 2025-08-13*
+
+
+## Related
+
+*Links to related content will be added here.*

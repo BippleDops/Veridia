@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Navigation Hub
 type: index
-cssclass: navigation-hub
 tags:
-- index
+- active
 - navigation
+- index
 - dynamic
+created: 2025-08-14
+modified: '2025-08-14'
+updated: 2025-08-14
+cssclass: navigation-hub
 ---
+
 
 # 🗺️ Vault Navigation Hub
 

@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Pressure Safety Authorit
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Groups/Pressure Safety Authorit
 
@@ -24,7 +31,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Pressure Adaptation System]]
+- [[Pressure Adaptation System]]
 - [[02_Worldbuilding/Lore/Pressure Adaptation System]]
 
 ## Notes
@@ -36,3 +43,8 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[04_Resources_Assets_Locations_location-city-choir-master-celestine-hymnsinger-choir-master-celestine-hymnsinger.svg]]
+- [[Queen Lyralei Stormheart]]

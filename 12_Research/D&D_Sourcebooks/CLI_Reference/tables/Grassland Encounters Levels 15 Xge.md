@@ -1,22 +1,27 @@
+# Grassland Encounters Levels 15 Xge
+
 ---
+title: Grassland Encounters Levels 15 Xge
 aliases:
-- Grassland Encounters (Levels 1—5)
-created: 2025-07-23 12:39
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+- "Grassland Encounters (Levels 1\u20145)"
+type: note
 tags:
-- active
 - both
+- ttrpg-cli/compendium/src/5e/xge
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/xge
-- world/both
-type: note
+created: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:03.348565+00:00'
 world: Both
 ---
+
 
 
 # Grassland Encounters (Levels 1—5)
@@ -91,3 +96,8 @@ Legends speak of grassland encounters levels 15 xge as a nexus where past and pr
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

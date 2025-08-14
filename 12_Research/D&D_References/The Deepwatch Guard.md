@@ -1,28 +1,35 @@
+# The Deepwatch Guard
+
 ---
+title: The Deepwatch Guard
+type: Group
 tags:
 - aquabyssos
+- specialized-forces
+- shadow-watchers
+- organization
+- research
+- active
 - complete
+- military-unit
 - elite-guards
 - group
-- military-unit
-- organization
-- shadow-watchers
-- specialized-forces
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
+headquarters: '[[The Shadowwatch Bastion]]'
 world: Aquabyssos
-type: Group
 organization_type: Elite Military Unit
 affiliation: '[[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] Government'
 leadership: '[[Captain Marcus Voidward]]'
 size: ~200 Active Members
 specialization: Shadow Corruption & Deep Threat Response
-headquarters: '[[The Shadowwatch Bastion]]'
 founded: 2987
 motto: Where Light Cannot Reach, We Stand Guard
 created_by: Claude
-created: '2025-08-09'
 updated: '2025-08-13T01:18:36.663573+00:00'
 ---
+
 
 
 
@@ -455,3 +462,8 @@ Legends speak of The Deepwatch Guard as a nexus where past and present converge.
 
 - [[Master_Groups_Index|Master Groups Index]]
 - [[The Depth Wardens]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,20 +1,27 @@
+# Scene Framing Templates
+
 ---
+title: Scene Framing Templates
+type: Lore
 tags:
-- both
-- dm-tool
-- draft
-- gm-resource
 - lore
+- both
+- gm-resource
+- templates
 - scene-framing
 - session-management
-- templates
-type: Lore
-campaign: Aquabyssos
+- dm-tool
+- research
+- active
+- draft
 created: '2025-08-07'
+modified: '2025-08-14'
+status: draft
+campaign: Aquabyssos
 world: Both
 updated: '2025-08-13T01:18:31.118853+00:00'
-status: draft
 ---
+
 
 
 
@@ -346,3 +353,8 @@ Legends speak of Scene Framing Templates as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

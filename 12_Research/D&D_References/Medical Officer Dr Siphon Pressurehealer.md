@@ -1,18 +1,25 @@
+# Medical Officer Dr Siphon Pressurehealer
+
 ---
-created: '2025-08-11'
-status: complete
+title: Medical Officer Dr Siphon Pressurehealer
+type: Lore
 tags:
-- aquabyssos
-- complete
-- content/lore
 - lore
+- aquabyssos
+- world/aquabyssos
+- content/lore
+- research
+- active
+- complete
 - status/in-progress
 - world/aethermoor
-- world/aquabyssos
-type: Lore
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:29.047184+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -52,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Crystallium]]
+
+
+## Related
+
+*Links to related content will be added here.*

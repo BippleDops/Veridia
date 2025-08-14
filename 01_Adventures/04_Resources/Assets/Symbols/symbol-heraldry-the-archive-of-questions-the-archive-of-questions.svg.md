@@ -1,13 +1,21 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry the archive of questions the archive of questions.svg
+aliases:
+- symbol heraldry the archive of questions the archive of questionssvg
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-the-archive-of-questions-the-archive-of-questions.svg
 
@@ -24,8 +32,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
-- [[12_Research/D&D_References/The Archive of Questions]]
+- [[Faction Symbols & Heraldry]]
+- [[The Archive of Questions]]
 
 ## Notes
 
@@ -36,3 +44,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Intelligence Services]]
+- [[High Priestess Nerida Deepcurrent]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-divine-transformation-theolog-divine-transformation-theolog.svg]]
+- [[04_Resources_Assets_Locations_location-city-dr-reef-brightwater-v1-dr-reef-brightwater.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-sunken-cathedral-of-perfect-order-v1-the-sunken-cathedral-of-perfect-order.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-secular-community-practices-v1-secular-community-practices.svg]]
+- [[04_Resources_Assets_Locations_location-city-kraken-kraken.svg]]
+- [[04_Resources_Assets_Locations_location-city-reflection-broker-mirrors-reflection-broker-mirrors.svg]]

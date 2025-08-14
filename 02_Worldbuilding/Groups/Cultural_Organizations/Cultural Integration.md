@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Cultural Integration
+type: Faction
 tags:
 - both
-- complete
 - content/faction
 - faction
-- status/in-progress
+- organization
 - world/both
-type: Faction
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.431140+00:00'
 world: Both
 ---
+
 
 
 ## Overview
@@ -61,3 +68,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Surface Tensions]]
+
+
+## Known Members
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-quest-the-family-reconciliatio-quest-the-family-reconciliatio.svg]]

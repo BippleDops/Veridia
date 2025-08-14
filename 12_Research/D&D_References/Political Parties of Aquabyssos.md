@@ -1,19 +1,26 @@
+# Political Parties of Aquabyssos
+
 ---
+title: Political Parties of Aquabyssos
+type: Group
 tags:
 - aquabyssos
-- complete
-- democracy
-- group
 - intrigue
-- parliament
 - parties
+- research
+- democracy
+- active
+- parliament
+- complete
 - politics
-type: Group
-world: Aquabyssos
-status: complete
+- group
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.693771+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-political-parties-of-aquabyssos-political-parties-of-aquabyssos.svg]]
@@ -466,3 +473,8 @@ Legends speak of Political Parties of Aquabyssos as a nexus where past and prese
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

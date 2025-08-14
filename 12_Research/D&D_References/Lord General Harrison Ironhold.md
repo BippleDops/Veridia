@@ -1,14 +1,20 @@
+# Lord General Harrison Ironhold
+
 ---
-tags:
-- active
-- aethermoor
-- npc
+title: Lord General Harrison Ironhold
 type: NPC
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.888750+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-lord-general-harrison-ironhold-lord-general-harrison-ironhold.svg]]
@@ -62,3 +68,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Lord General Harrison Ironhold|02 Worldbuilding/People/Lord General Harrison Ironhold]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

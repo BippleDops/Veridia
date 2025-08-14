@@ -1,19 +1,26 @@
+# The Deep Uprising
+
 ---
+title: The Deep Uprising
+type: Lore
 tags:
-- aquabyssos
-- complete
-- deep-dwellers
 - lore
+- aquabyssos
 - political-conflict
 - revolution
+- research
+- active
+- complete
+- deep-dwellers
 - uprising
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -71,3 +78,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

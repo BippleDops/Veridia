@@ -1,21 +1,27 @@
+# Vehicles - Journey Event Compiler
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- campaign/session
-- complete
-- content/mechanics
-- events
-- mechanics
-- status/complete
-- travel
-- world/both
 title: Journey Event Compiler
 type: Mechanics
+tags:
+- both
+- status/complete
+- campaign/session
+- mechanics
+- research
+- travel
+- world/both
+- events
+- active
+- complete
+- content/mechanics
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.793157+00:00'
 world: Both
 ---
+
 
 
 
@@ -78,3 +84,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Merger_Hybrid_Vehicles|Merger Hybrid Vehicles]]
 - [[Transportation_Infrastructure|Transportation Infrastructure]]
 - [[Travel_Event_Table|Travel Event Table]]
+
+
+## Related
+
+*Links to related content will be added here.*

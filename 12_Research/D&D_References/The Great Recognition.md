@@ -1,14 +1,20 @@
+# The Great Recognition
+
 ---
-tags:
-- active
-- both
-- group
+title: The Great Recognition
 type: Group
-world: Both
-status: active
+tags:
+- both
+- active
+- group
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.671041+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-the-great-recognition-the-great-recognition.svg]]
@@ -65,3 +71,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Temple of Divine Order]]
+
+
+## Related
+
+*Links to related content will be added here.*

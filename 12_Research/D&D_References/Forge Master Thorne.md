@@ -1,15 +1,21 @@
+# Forge Master Thorne
+
 ---
-tags:
-- active
-- both
-- complete
-- lore
+title: Forge Master Thorne
 type: Lore
-world: Both
-status: complete
+tags:
+- lore
+- both
+- research
+- active
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+world: Both
 updated: '2025-08-13T12:34:12.233636+00:00'
 ---
+
 
 
 

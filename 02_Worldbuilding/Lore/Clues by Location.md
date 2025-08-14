@@ -1,4 +1,19 @@
 ---
+title: Clues by Location
+type: Lore
+tags:
+- lore
+- aquabyssos
+- status/complete
+- content/lore
+- quest
+- active
+- complete
+- world/aquabyssos
+- shadow-touched
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 accessibility:
   content_warnings: []
   pronunciation: Clues by Location
@@ -7,22 +22,11 @@ accessibility:
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
     its consequences for play.
-created: '2025-08-11'
 obsidianUIMode: preview
-status: complete
-tags:
-- quest
-- shadow-touched
-- aquabyssos
-- complete
-- content/lore
-- lore
-- status/complete
-- world/aquabyssos
-type: Lore
 updated: '2025-08-13T12:34:15.999589+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Clues by Location
@@ -47,15 +51,15 @@ Clues by Location describes a turning current in history where choices about mem
 
 ## Threads and Revelations
 
-- Records implicate agents tied to [[12_Research/D&D_References/The Sunken Library of Thalassius]].
+- Records implicate agents tied to [[The Sunken Library of Thalassius]].
 - A rite echoes the activation cadence needed for [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
-- Testimony suggests [[12_Research/D&D_References/Vex Shadowthorn]] financed a pivotal bribe.
+- Testimony suggests [[Vex Shadowthorn]] financed a pivotal bribe.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Sunken Library of Thalassius]]
+- [[The Sunken Library of Thalassius]]
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[12_Research/D&D_References/Vex Shadowthorn]]
+- [[Vex Shadowthorn]]
 
 ## Player-Facing Summary
 

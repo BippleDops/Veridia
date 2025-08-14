@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Previous Session
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Previous Session
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Captain Thrace Deeprunner]]
+- [[Ice Kingdom Magic]]
+- [[The Golden Fishook Tavern]]
+- [[04_Resources_Assets_Locations_location-city-dr-marina-voidstudier-v1-dr-marina-voidstudier.svg]]
+- [[The Verdant Accord]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-wise-tide-truthseeker-wise-tide-truthseeker.svg]]
+- [[Parliament Deep District]]
+- [[04_Resources_Assets_Locations_location-city-pressure-portals-pressure-portals.svg]]

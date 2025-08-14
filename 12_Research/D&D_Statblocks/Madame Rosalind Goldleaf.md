@@ -1,34 +1,41 @@
+# Madame Rosalind Goldleaf
+
 ---
+title: Madame Rosalind Goldleaf
+type: Location
 tags:
-- aethermoor
-- character
-- complete
-- goldleaf
 - influencer
-- location
-- madame
-- merchant
 - noble
 - npc
+- research
+- character
+- madame
+- active
+- goldleaf
+- complete
+- location
 - socialite
-status: complete
-world: Aethermoor
-type: Location
-created_by: auto-stub
+- aethermoor
+- merchant
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+class: Noble/Bard
+location: Goldleaf Manor, Aethermoor
+level: 11
+world: Aethermoor
+created_by: auto-stub
 updated: '2025-08-13T01:18:35.973337+00:00'
 character_type: Noble Merchant
 faction: Goldleaf Trading House
-class: Noble/Bard
-level: 11
 cr: 8
 occupation: Trading House Matriarch
-location: Goldleaf Manor, Aethermoor
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 
 
@@ -333,3 +340,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,15 +1,23 @@
+# Quest - The Crystal Black Market
+
 ---
-tags:
-- active
-- both
-- criminal
-- investigation
-- lore
-- merchant
-- mid-level
-- quest
+title: Quest   The Crystal Black Market
 type: Lore
-quest_giver: '[[Castellan Ironledger III|02 Worldbuilding/People/Castellan Ironledger III]]'
+tags:
+- lore
+- both
+- investigation
+- quest
+- research
+- active
+- mid-level
+- merchant
+- criminal
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+quest_giver: '[[Castellan Ironledger III|02 Worldbuilding/People/Castellan Ironledger
+  III]]'
 level_range: 6-9
 reward_tier: Significant
 locations:
@@ -21,16 +29,16 @@ npcs_involved:
 - '[[Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'
 - '[[Marcus Shardbreaker Grimm|02 Worldbuilding/People/Marcus Shardbreaker Grimm]]'
 - '[[Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]'
-- '[[Master Artificer Korvin Gearwright|02 Worldbuilding/People/Master Artificer Korvin Gearwright]]'
+- '[[Master Artificer Korvin Gearwright|02 Worldbuilding/People/Master Artificer Korvin
+  Gearwright]]'
 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:34.468309+00:00'
-created: '2025-08-11'
-status: active
 ---
+
 
 
 
@@ -276,3 +284,8 @@ Legends speak of Quest   The Crystal Black Market as a nexus where past and pres
 - A map overlay reveals a hidden approach to Quest   The Crystal Black Market active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

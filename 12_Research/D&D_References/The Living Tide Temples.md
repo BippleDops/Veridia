@@ -1,15 +1,21 @@
+# The Living Tide Temples
+
 ---
-tags:
-- active
-- both
-- location
+title: The Living Tide Temples
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.123072+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-living-tide-temples-the-living-tide-temples.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Living Tide Temples|02 Worldbuilding/Places/The Living Tide Temples]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

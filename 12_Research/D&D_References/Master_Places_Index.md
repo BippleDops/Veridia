@@ -1,24 +1,30 @@
+# Master_Places_Index
+
 ---
-completion: 100%
-created: '2025-08-11'
-created_by: Agent-20
-last_updated: 2025-08-11
-status: complete
+title: Master Places Index
+type: Lore
 tags:
-- content/location
-- content/lore
-- master-index
 - navigation
 - status/complete
+- content/lore
 - world/both
+- content/location
+- research
+- active
+- master-index
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+completion: 100%
+created_by: Agent-20
+last_updated: 2025-08-11
 total_locations: 248
-type: Lore
-updated: '2025-08-12T23:37:32.987604'
+updated: 2025-08-13 07:59:50.495071
 world: Universal
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.495071
 ---
+
 # Master Places Index
 *Comprehensive Directory of All Locations in Aquabyssos & Aethermoor*
 

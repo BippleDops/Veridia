@@ -1,20 +1,25 @@
+# artifact-properties-major-detrimental-properties-xdmg
+
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-- active
-- both
-- note
-- ttrpg-cli/compendium/src/5e/xdmg
+title: artifact properties major detrimental properties xdmg
 aliases:
 - Artifact Properties; Major Detrimental Properties
 type: note
+tags:
+- both
+- research
+- active
+- note
+- ttrpg-cli/compendium/src/5e/xdmg
 created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+obsidianUIMode: preview
+cssclasses: json5e-note
 updated: '2025-08-13T01:18:31.258703+00:00'
 world: Both
-status: active
 ---
+
 
 # Artifact Properties; Major Detrimental Properties
 *Source: Dungeon Master's Guide (2024) p. 224* 
@@ -58,3 +63,8 @@ Legends speak of artifact properties major detrimental properties xdmg as a nexu
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,14 +1,21 @@
+# portcullises-xdmg
+
 ---
-created: 2025-08-11
-status: active
-tags:
-- content/location
-- status/in-progress
-- world/both
+title: portcullises xdmg
 type: Location
+tags:
+- research
+- world/both
+- content/location
+- active
+- status/in-progress
+created: 2025-08-11
+modified: '2025-08-14'
+status: active
 updated: '2025-08-12T23:37:33.236980'
 world: Both
 ---
+
 
 
 
@@ -31,3 +38,8 @@ Legends speak of portcullises xdmg as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

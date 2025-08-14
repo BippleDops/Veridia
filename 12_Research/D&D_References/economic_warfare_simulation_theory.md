@@ -1,3 +1,15 @@
+# economic_warfare_simulation_theory
+
+---
+title: economic warfare simulation theory
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Economic Warfare Simulation Theory
 
 ## Modeling Complex Economic Systems in TTRPG Environments
@@ -144,3 +156,7 @@ class TradeRoute(BaseModel):
 - Long-term consequence tracking
 
 *Research methodology: Economic game theory analysis, historical trade war studies, 12 economic warfare campaigns*
+
+## Related
+
+*Links to related content will be added here.*

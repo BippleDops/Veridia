@@ -1,14 +1,21 @@
+# Session_15_Exploration_Discovery
+
 ---
-created: '2025-08-13'
-status: complete
+title: Session 15 Exploration Discovery
+type: Session Summary
 tags:
 - player/session-summary
 - campaign/example
+- research
+- active
 - exploration/discovery
-type: Session Summary
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Session 15: Exploration & Discovery
 ## The Ancient Observatory
@@ -173,3 +180,7 @@ world: Both
 ---
 
 *Exploration sessions reward curiosity and provide context that enriches the entire campaign narrative.*
+
+## Related
+
+*Links to related content will be added here.*

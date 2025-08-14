@@ -1,14 +1,20 @@
+# Department of Underwater Transit Authority
+
 ---
-tags:
-- active
-- both
-- group
+title: Department of Underwater Transit Authority
 type: Group
-world: Both
-status: active
+tags:
+- both
+- active
+- group
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.757184+00:00'
 ---
+
 
 
 
@@ -61,3 +67,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Pressure Tubes]]
+
+
+## Related
+
+*Links to related content will be added here.*

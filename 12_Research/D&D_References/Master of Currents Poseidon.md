@@ -1,14 +1,20 @@
+# Master of Currents Poseidon
+
 ---
+title: Master of Currents Poseidon
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:36.924367+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-master-of-currents-poseidon-master-of-currents-poseidon.svg]]
@@ -45,3 +51,8 @@ Legends speak of Master of Currents Poseidon as a nexus where past and present c
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

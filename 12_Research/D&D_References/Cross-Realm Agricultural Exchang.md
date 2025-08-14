@@ -1,14 +1,20 @@
+# Cross-Realm Agricultural Exchang
+
 ---
-tags:
-- active
-- aquabyssos
-- group
+title: Cross Realm Agricultural Exchang
 type: Group
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- group
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.684117+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-cross-realm-agricultural-exchang-cross-realm-agricultural-exchang.svg]]
@@ -55,3 +61,8 @@ Legends speak of Cross Realm Agricultural Exchange 2 as a nexus where past and p
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

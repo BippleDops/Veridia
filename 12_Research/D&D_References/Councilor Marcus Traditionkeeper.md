@@ -1,15 +1,21 @@
+# Councilor Marcus Traditionkeeper
+
 ---
-tags:
-- active
-- aquabyssos
-- location
+title: Councilor Marcus Traditionkeeper
 type: Location
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.307449+00:00'
 danger_level: Moderate
 ---
+
 
 
 
@@ -56,3 +62,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Councilor Marcus Traditionkeeper|02 Worldbuilding/Places/Councilor Marcus Traditionkeeper]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

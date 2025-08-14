@@ -1,16 +1,23 @@
+# Quick_NPC_Generator
+
 ---
-created: '2025-08-13'
-status: complete
+title: Quick NPC Generator
+type: Tool
 tags:
-- gm-resources
-- session-tools
-- npc
 - generator
 - improvisation
-type: Tool
+- session-tools
+- npc
+- research
+- gm-resources
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
+
 
 # Quick NPC Generator
 
@@ -275,3 +282,7 @@ Roll once on each table or choose as needed for quick NPC creation.
 - [[NPC_Reaction_Generator]]
 - [[Faction_Network_Tracker]]
 - [[Session_Planning_Template]]
+
+## Related
+
+*Links to related content will be added here.*

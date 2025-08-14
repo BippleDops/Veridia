@@ -1,5 +1,17 @@
 # Battle Maps Gallery
 
+---
+title: Battle Maps Gallery
+type: resource
+tags:
+- active
+- resource
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
+# Battle Maps Gallery
+
 %% Use reading mode for visual gallery %%
 
 ## map-map-abyssal-trench-ledge-abyssal-trench-ledge
@@ -378,3 +390,8 @@
 **Influence Maximization**: Leveraging relationships for faction goals
 **Diplomatic Priorities**: Key relationships requiring attention
 
+
+
+## Related
+
+*Links to related content will be added here.*

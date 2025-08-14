@@ -1,22 +1,27 @@
+# Razorvine Xdmg
+
 ---
+title: Razorvine Xdmg
 aliases:
 - Razorvine
-created: 2025-07-23
-cssclasses: json5e-hazard
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-hazard
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:05.027548+00:00'
 world: Both
 ---
+
 
 
 # Razorvine
@@ -47,3 +52,8 @@ Legends speak of razorvine xdmg as a nexus where past and present converge. Loca
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,9 +1,16 @@
 ---
+title: step 035
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 29
 step: 35
 total_step: 2835
 ---
+
 
 # Phase 29 - Step 35
 

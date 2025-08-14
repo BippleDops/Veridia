@@ -1,17 +1,24 @@
+# Shard_Powers_and_Treasure
+
 ---
-created: '2025-08-13'
-status: active
+title: Shard Powers and Treasure
+type: Reference
 tags:
 - treasure/seven-shards
-- shard-powers
-- magic-items
 - rewards
+- shard-powers
+- research
 - world/both
 - status/active
-type: Reference
+- magic-items
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T16:45:00.000000'
 world: Both
 ---
+
 
 # Seven Shards: Powers and Treasure System
 *Complete Reward and Power Progression for the Seven Shards Campaign*
@@ -474,3 +481,7 @@ Rewards escalate from uncommon items in early sessions to legendary artifacts by
 
 ### Player Agency
 The corruption system and shard powers give players meaningful choices about character development, with no "correct" path through the campaign's challenges.
+
+## Related
+
+*Links to related content will be added here.*

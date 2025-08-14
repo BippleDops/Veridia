@@ -1,27 +1,33 @@
+# The Shrinking Sanctuary
+
 ---
+title: The Shrinking Sanctuary
+type: Location
 tags:
 - aquabyssos
-- community
-- complete
-- crisis
-- dimensional-anomaly
-- dimensional-refuge
-- location
 - magical-space
-- refuge
 - sanctuary
+- community
+- refuge
+- research
+- dimensional-anomaly
+- crisis
+- location
+- complete
+- active
+- dimensional-refuge
 - shrinking
-status: complete
-world: Aquabyssos
-type: Location
-created_by: auto-stub
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+population: ~300 refugees and guardians
+world: Aquabyssos
+created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 location_type: Dimensional Pocket
 parent_location: The Wandering Depths
 depth: Variable (exists outside normal depth)
 danger_level: 5
-population: ~300 refugees and guardians
 government: Council of Sanctuary Keepers
 shrinking_rate: 5 cubic feet per hour
 original_size: 10 square miles
@@ -32,6 +38,7 @@ related_entities:
 - '[[The Memory Meadows]]'
 - '[[Dimensional Research Institute]]'
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-shrinking-sanctuary-the-shrinking-sanctuary.svg]]
@@ -484,3 +491,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Shrinking Sanctuary|02 Worldbuilding/Places/The Shrinking Sanctuary]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

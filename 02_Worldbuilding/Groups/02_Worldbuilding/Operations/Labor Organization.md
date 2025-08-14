@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Labor Organization
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Operations/Labor Organization
 
@@ -24,7 +31,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Purist Coalition]]
+- [[Purist Coalition]]
 - [[02_Worldbuilding/Groups/Purist Coalition]]
 
 ## Notes

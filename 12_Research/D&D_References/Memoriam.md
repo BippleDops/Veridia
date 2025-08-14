@@ -1,16 +1,22 @@
+# Memoriam
+
 ---
+title: Memoriam
+type: Location
+tags:
+- both
+- research
+- active
+- location
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 world: Both
 updated: '2025-08-13T12:34:14.012120+00:00'
-created: '2025-08-11'
-status: complete
-tags:
-- active
-- both
-- complete
-- location
-type: Location
 danger_level: Moderate
 ---
+
 
 
 
@@ -248,3 +254,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 <!-- enriched: true -->
 - [[Coral Throne Syndicate]]
 - [[The Depth Plague]]
+
+
+## Related
+
+*Links to related content will be added here.*

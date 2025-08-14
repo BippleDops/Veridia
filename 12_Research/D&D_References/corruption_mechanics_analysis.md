@@ -1,3 +1,15 @@
+# corruption_mechanics_analysis
+
+---
+title: corruption mechanics analysis
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Corruption Mechanics Analysis
 
 ## Psychological and Mechanical Framework for Transformation Systems
@@ -111,3 +123,7 @@ Successful corruption systems maintain:
 - Moral compromise accumulation
 
 *Research methodology: Psychological impact studies, 150+ character corruption arcs, player satisfaction surveys*
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,21 +1,27 @@
+# Prince Caspian Duskwater
+
 ---
-tags:
-- alive
-- both
-- category/people
-- noble
-- npc
-- prince
-- rival
+title: Prince Caspian Duskwater
 type: NPC
+tags:
+- both
+- rival
+- noble
+- alive
+- prince
+- npc
+- research
+- active
+- category/people
+created: '2024-12-20'
+modified: '2025-08-14'
+status: Alive
 race: Human
 class: Noble/Warlock
+location: Exile (Various)
 level: 11
 alignment: Lawful Evil
-location: Exile (Various)
 faction: Independent (Building own)
-status: Alive
-created: '2024-12-20'
 image: 04_Resources/Assets/NPCs/prince_caspian.jpg
 MyContainer: None
 MyCategory: Unknown
@@ -28,6 +34,7 @@ ac: 15
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -284,3 +291,8 @@ Legends speak of Prince Caspian Duskwater as a nexus where past and present conv
 <!-- enriched: true -->
 - [[Quest - The Void Conspiracy]]
 - [[Quest - The Pretender's Crown]]
+
+
+## Related
+
+*Links to related content will be added here.*

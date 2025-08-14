@@ -1,24 +1,29 @@
+# Celtic the Daghdha
+
 ---
+title: Celtic the Daghdha
 aliases:
 - The Daghdha
-created: 2025-07-23
-cssclasses: json5e-deity
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
-- importance/core
+- ttrpg-cli/deity/celtic
+- ttrpg-cli/compendium/src/5e/phb
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/deity/celtic
-- world/both
-type: note
+- importance/core
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-deity
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:04.436513+00:00'
 world: Both
 ---
+
 
 
 # The Daghdha
@@ -48,3 +53,8 @@ Legends speak of celtic the daghdha as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

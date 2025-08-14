@@ -1,32 +1,37 @@
 ---
+title: Rewrite the World Order
+type: Faction
+tags:
+- status/complete
+- extremists
+- content/faction
+- faction
+- organization
+- revolutionary-movement
+- world/aethermoor
+- active
+- complete
+- aethermoor
+- world-transformation
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Crystal Manifesto]]'
+membership: Unknown
 MyCategory: Revolutionary Movement
 MyContainer: Crystal Society
 alignment: Chaotic Neutral (Radical Reformers)
-created: '2025-08-08'
 created_by: auto-stub
 faction_type: Revolutionary Transformation Movement
-headquarters: '[[The Crystal Manifesto]]'
 influence: Underground Networks, Intellectual Circles
 leader: '[[Architect Prime Crystalline Vision]]'
 members: ~300 active revolutionaries, ~1200 sympathizers
-modified: 2025-08-11 - Category/Group
 obsidianUIMode: preview
 purpose: Complete societal transformation through crystal integration
-status: complete
-tags:
-- aethermoor
-- complete
-- content/faction
-- extremists
-- faction
-- revolutionary-movement
-- status/complete
-- world-transformation
-- world/aethermoor
-type: Faction
 updated: '2025-08-13T12:34:17.444428+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Heraldry
@@ -583,3 +588,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Establish New World Order|02 Worldbuilding/Groups/Establish New World Order]]
+
+
+## Known Members
+
+- [[The Coral Throne Syndicate]]
+- [[Character Name]]

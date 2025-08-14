@@ -1,29 +1,36 @@
+# The Deserter's Tale 3
+
 ---
+title: The Deserter's Tale 3
+type: Lore
+tags:
+- lore
+- status/complete
+- dual
+- event
+- content/lore
+- research
+- honor
+- active
+- draft
+- world/aquabyssos
+created: '2025-08-11'
+modified: '2025-08-14'
+status: draft
 connections:
 - '[[Pressure''s End]]'
 - '[[Honor Guard]]'
 - '[[Deep Mother]]'
 - '[[The Tidal Council]]'
-created: '2025-08-11'
-status: draft
-tags:
-- content/lore
-- draft
-- dual
-- event
-- honor
-- lore
-- status/complete
-- world/aquabyssos
 themes:
 - betrayal
 - redemption
 - duty_vs_survival
 - cosmic_horror
-type: Lore
 updated: '2025-08-13T12:34:28.929505+00:00'
 world: dual
 ---
+
 
 
 
@@ -137,3 +144,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Deep Mother]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

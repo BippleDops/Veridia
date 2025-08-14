@@ -1,11 +1,17 @@
+
 ---
-created: 2025-08-14
+title: Bookmark Collections
 type: bookmarks
 tags:
+- index
 - bookmarks
 - campaigns
+- active
 - collections
+created: 2025-08-14
+modified: '2025-08-14'
 ---
+
 
 # Campaign Bookmark Collections
 

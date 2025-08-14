@@ -1,20 +1,27 @@
+# Port Meridian - Merchant Quarter
+
 ---
+title: Port Meridian   Merchant Quarter
+type: Location
 tags:
-- aethermoor
-- bustling
-- commercial
-- commercial-district
+- trading
 - completed
 - district
-- location
+- commercial-district
+- bustling
+- research
 - port
-- trading
+- active
+- location
+- commercial
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
 status: completed
+region: '[[The Azure Coast]]'
+population: 85000
 world: Aethermoor
 parent_location: '[[Port Meridian|02 Worldbuilding/Places/Port Meridian]]'
-region: '[[The Azure Coast]]'
-type: Location
-population: 85000
 danger_level: 4
 government: '[[Merchant Council of Port Meridian]]'
 leader: '[[Trade Master Silas Goldwater]]'
@@ -22,12 +29,12 @@ specialties:
 - International Trade
 - Crystal Commerce
 - Information Brokerage
-created: '2025-08-11'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] View
@@ -547,3 +554,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Crystal Wardens]]
 - [[The Whisper Syndicate]]
 - [[Customs House]]
+
+
+## Related
+
+*Links to related content will be added here.*

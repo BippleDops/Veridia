@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Knight
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.473526+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -151,6 +159,119 @@ Sir Theron serves as an ideal quest giver for parties aligned with justice and o
 - **The Shadow Infiltrator** - A member of the Crystal Guard exhibits suspicious behavior, but Theron needs proof before taking action  
 - **The Ancient Prophecy** - Fragments of an old prophecy suggest Theron has a greater destiny, but fulfilling it may require sacrificing everything he holds dear
 
+
+
+## Appearance
+
+Knight presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Honest, determined, clever
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Background
+
+Knight's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Cold and distant
+
+**Speech Pattern**: Carefully chosen words
+
+**Physical Habits**: Steeples fingers when thinking
+
+## Current Activities
+
+Knight is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Knight needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Knight stopped or removed
+3. **The Secret**: Information about Knight's past surfaces
+4. **The Alliance**: Opportunity to work with or against Knight
+5. **The Crisis**: Knight is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 
 Theron works best as a recurring ally who grows and changes alongside the party. His formal speech patterns and tendency to quote classical wisdom can provide comic relief, while his genuine care for others creates emotional investment. Use his crystal pendant as a visual cue for his emotional state - it glows brighter when he's confident and dims when he's troubled. His nightmares about corrupted crystals can provide adventure hooks or foreshadowing for major threats.
@@ -161,6 +282,14 @@ Theron works best as a recurring ally who grows and changes alongside the party.
 
 <!-- enriched: true -->
 
+
+
+
+## Relationship Web
+
+- [[Goldwave Financial Offices]]: *secret ally*
+- [[04_Resources_Assets_Locations_location-city-harbor-master-tideshade-harbor-master-tideshade.svg]]: *bitter rival*
+- [[The Shadow Surgeons]]: *mentor*
 
 ## Connections
 

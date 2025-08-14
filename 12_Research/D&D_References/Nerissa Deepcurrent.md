@@ -1,17 +1,24 @@
+# Nerissa Deepcurrent
+
 ---
-created: '2025-08-11'
-status: complete
+title: Nerissa Deepcurrent
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
+- research
 - world/both
-type: Npc
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.504368+00:00'
 world: Both
 ---
+
 
 
 
@@ -235,3 +242,8 @@ Legends speak of Nerissa Deepcurrent as a nexus where past and present converge.
 - [[The Depth Wardens]]
 - [[The Heart of Oceanus]]
 - [[The Maw of Darkness]]
+
+
+## Related
+
+*Links to related content will be added here.*

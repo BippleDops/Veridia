@@ -1,31 +1,38 @@
+# guard-drake-blue-mpmm
+
 ---
+title: guard drake blue mpmm
 aliases:
 - Guard Drake (Blue)
+type: monster
+tags:
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/dragon
+- ttrpg-cli/monster/environment/urban
+- ttrpg-cli/monster/environment/mountain
+- monster
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/compendium/src/5e/mpmm
+- world/both
+- research
+- ttrpg-cli/monster/environment/swamp
+- active
+- campaign/arc
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/environment/forest
+- status/in-progress
+- ttrpg-cli/monster/environment/desert
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- campaign/arc
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/dragon
-- world/both
-type: monster
 updated: '2025-08-12T23:37:35.741930'
 world: Both
 ---
+
 
 # [[guard-drake-blue-mpmm|Guard Drake (Blue)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151, Hoard of the Dragon Queen p. 91*  
@@ -93,3 +100,8 @@ Legends speak of guard drake blue mpmm as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

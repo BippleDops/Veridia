@@ -1,14 +1,22 @@
+# Aethermoor_Wind_Current_Map
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- player/visual
-- map/aethermoor
-- reference/navigation
+title: Aethermoor Wind Current Map
 type: Visual Handout
+tags:
+- reference/navigation
+- map/aethermoor
+- player/visual
+- research
+- active
+- aethermoor
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Aethermoor
 ---
+
 
 # Aethermoor Wind Current Map
 ## Sky Navigation Reference
@@ -217,3 +225,7 @@ WIND EMERGENCY PROTOCOLS:
 *Check weather conditions before every flight*
 *Never fly alone above 8,000 feet*
 *Emergency descent is always preferable to storm flying*
+
+## Related
+
+*Links to related content will be added here.*

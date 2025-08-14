@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Education Director Selene Shadowscholar
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Education Director Selene Shadowscholar
 
@@ -24,7 +28,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Shadow Behavior Guidelines]]
+- [[Shadow Behavior Guidelines]]
 - [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Behavior Guidelines]]
 
 ## Notes

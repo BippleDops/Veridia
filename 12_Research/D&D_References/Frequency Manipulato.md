@@ -1,16 +1,22 @@
+# Frequency Manipulato
+
 ---
+title: Frequency Manipulato
+type: Lore
 tags:
-- active
-- aethermoor
-- complete
 - lore
 - quest
-type: Lore
-world: Aethermoor
-status: complete
+- research
+- active
+- complete
+- aethermoor
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+world: Aethermoor
 updated: '2025-08-13T12:34:11.972194+00:00'
 ---
+
 
 
 
@@ -39,3 +45,8 @@ Legends speak of Frequency Manipulator 2 as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

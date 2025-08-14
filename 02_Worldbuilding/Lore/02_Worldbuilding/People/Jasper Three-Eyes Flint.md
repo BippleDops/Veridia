@@ -1,13 +1,26 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Jasper Three Eyes Flint
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- npc
+- character
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+race: Unknown
+class: Unknown
+location: Unknown
+updated: 2025-08-14
 ---
+
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-jasper-three-eyes-flint-jasper-three-eyes-flint.png)
+
+
 
 # 02_Worldbuilding/People/Jasper Three-Eyes Flint
 
@@ -24,8 +37,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Border Checkpoints]]
-- [[12_Research/D&D_References/Vex Shadowthorn]]
+- [[Border Checkpoints]]
+- [[Vex Shadowthorn]]
 - [[02_Worldbuilding/Groups/Border Checkpoints]]
 - [[02_Worldbuilding/People/Vex Shadowthorn]]
 

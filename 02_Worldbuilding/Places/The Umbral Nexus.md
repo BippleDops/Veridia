@@ -1,24 +1,31 @@
 ---
-access_restriction: First and Second Sphere Shadow Operatives Only
+title: The Umbral Nexus
+type: Location
+tags:
+- aquabyssos
+- access/secret
+- status/complete
+- content/location
+- headquarters
+- place
+- active
+- location
+- complete
+- world/aquabyssos
+- shadow-conspiracy
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+access_restriction: First and Second Sphere Shadow Operatives Only
 depth: 6,800 feet
 location_type: Secret Headquarters
 security_level: Maximum
-status: complete
-tags:
-- access/secret
-- aquabyssos
-- complete
-- content/location
-- headquarters
-- location
-- shadow-conspiracy
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:17.188310+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -364,6 +371,27 @@ Important ally has undergone voluntary shadow consciousness enhancement and now 
 
 *"Here, in the depths where light has never fallen, we kindle the flame of consciousness that will illuminate the path forward for both our species. The Nexus is not a place - it is a promise."* - Inscription above the Confluence Chamber entrance
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 ### Running the Nexus
@@ -409,3 +437,97 @@ Legends speak of The Umbral Nexus as a nexus where past and present converge. Lo
 - [[The Umbral Nexus]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-acoustic-infection-acoustic-infection.svg]]
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-harvester-keth-reefrender-v1-harvester-keth-reefrender.svg]]
+- [[The Void Tears]]
+- [[04_Resources_Assets_Locations_location-city-teacher-miranda-hopekeeper-teacher-miranda-hopekeeper.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+The Umbral Nexus is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Umbral Nexus
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+The Umbral Nexus was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting The Umbral Nexus:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Umbral Nexus
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

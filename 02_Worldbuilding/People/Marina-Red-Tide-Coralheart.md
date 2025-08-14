@@ -1,14 +1,34 @@
 ---
-MyCategory: Unknown
-MyContainer: None
-ac: 15
+title: Marina Red Tide Coralheart
 aliases:
 - Red Tide
 - The Coral Witch
 - Tide Turner
-alignment: Chaotic Neutral (Good tendencies)
-class: Rogue/Warlock
+type: Npc
+tags:
+- both
+- world/aquabyssos
+- information-broker
+- guardian
+- npc
+- world/both
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+- world/aethermoor
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Human (Aquabyssos Bloodline)
+class: Rogue/Warlock
+location: '[[The Siren''s Rest Tavern]]'
+level: 7
+MyCategory: Unknown
+MyContainer: None
+ac: 15
+alignment: Chaotic Neutral (Good tendencies)
 current_hp: 52
 description: Striking woman in her late 20s with deep red hair that seems to move
   like water. Sea-green eyes that shift color with her mood. Numerous nautical tattoos
@@ -20,15 +40,12 @@ first_name: Marina
 influence: 8
 last_encounter: '[[Aethermoor - Session 01 Blood in the Harbor]]'
 last_name: Coralheart
-level: 7
-location: '[[The Siren''s Rest Tavern]]'
 max_hp: 52
 notes: Descendant of Aquabyssos survivors. Can breathe underwater. Senses shard presence.
 obsidianUIMode: preview
 occupation: Smuggler Captain / Information Broker
 portrait: ''
 public_faction: '[[Independent Smugglers]]'
-race: Human (Aquabyssos Bloodline)
 related_quests:
 - '[[Investigate the Crystal Plague]]'
 - '[[The Seven Shards Mystery]]'
@@ -56,23 +73,11 @@ stats:
   int: 15
   str: 10
   wis: 14
-status: complete
-tags:
-- both
-- complete
-- content/npc
-- guardian
-- information-broker
-- npc
-- status/in-progress
-- world/aethermoor
-- world/aquabyssos
-- world/both
 true_occupation: Guardian of the Bloodline
-type: Npc
 updated: '2025-08-13T12:34:17.565234+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -114,6 +119,16 @@ Marina leads a secret organization descended from Aquabyssos survivors who chose
 - **[[Jasper Three-Eyes Flint]]**: Protects him as potential bloodline carrier, but his madness makes it difficult.
 - **[[Vex Shadowthorn]]**: Old rivalry from academy days before Marina faked her death.
 - **Her Shadow Self**: Has been switching places, creating identity confusion.
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Sharp and precise
+
+**Speech Pattern**: Formal and elaborate
+
+**Physical Habits**: Maintains intense eye contact
 
 ## Current Activities
 - Monitoring crystal plague progression
@@ -229,6 +244,15 @@ Marina's shadow has gained independence and occasionally switches places with he
 - Her death triggers Depth Warden intervention
 
 
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-harbor-pilot-captain-storm-skyreacher-v1-harbor-pilot-captain-storm-skyreacher.svg]]: *patron*
+- [[Master of Currents Poseidon]]: *childhood friend*
+- [[Quest - Into the Wastes]]: *childhood friend*
+- [[04_Resources_Assets_Locations_location-city-lord-reginald-seaworthy-v1-lord-reginald-seaworthy.svg]]: *childhood friend*
+
 ## Connections
 
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
@@ -246,6 +270,105 @@ Legends speak of Marina Red Tide Coralheart as a nexus where past and present co
 - A rumor ties Marina Red Tide Coralheart to a missing shipment, linking factions with competing claims.
 - An NPC seeks discreet help at Marina Red Tide Coralheart to avert a public scandal.
 - A map overlay reveals a hidden approach to Marina Red Tide Coralheart active only during specific tides/storms.
+
+
+
+## Appearance
+
+Marina-Red-Tide-Coralheart presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Patient, creative, creative
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Protecting loved ones
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Plot Hooks
+
+1. **The Request**: Marina-Red-Tide-Coralheart needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Marina-Red-Tide-Coralheart stopped or removed
+3. **The Secret**: Information about Marina-Red-Tide-Coralheart's past surfaces
+4. **The Alliance**: Opportunity to work with or against Marina-Red-Tide-Coralheart
+5. **The Crisis**: Marina-Red-Tide-Coralheart is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 

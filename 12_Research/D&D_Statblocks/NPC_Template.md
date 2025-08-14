@@ -1,22 +1,29 @@
+# NPC_Template
+
 ---
+title: NPC Template
+type: NPC
 tags:
-- active/missing/dead/unknown
-- additional_tags
 - both
 - npc
-type: NPC
+- research
+- active
+- additional_tags
+- active/missing/dead/unknown
+created: '2025-08-11'
+modified: '2025-08-14'
+status: Active/Missing/Dead/Unknown
 race: Race (subrace if applicable)
 class: Class/Profession
+location: '[[Current_Location|Current Location]]'
 level: X
 alignment: Alignment
-location: '[[Current_Location|Current Location]]'
 faction: '[[Faction_Name|Faction Name]] OR Independent'
-status: Active/Missing/Dead/Unknown
-created: '2025-08-11'
 updated: '2025-08-13T01:18:31.183178+00:00'
 image: 04_Resources/Assets/NPCs/filename.jpg
 world: Both
 ---
+
 
 
 # NPC Name
@@ -207,3 +214,8 @@ Legends speak of NPC Template as a nexus where past and present converge. Locals
 - A map overlay reveals a hidden approach to NPC Template active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

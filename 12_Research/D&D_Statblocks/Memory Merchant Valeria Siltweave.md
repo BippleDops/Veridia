@@ -1,24 +1,31 @@
+# Memory Merchant Valeria Siltweave
+
 ---
+title: Memory Merchant Valeria Siltweave
+type: NPC
 tags:
 - aquabyssos
-- business-owner
-- complete
 - ethical-merchant
-- memory-trader
-- npc
 - person
+- npc
+- complete
+- research
+- business-owner
+- active
+- memory-trader
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
+race: Human
+location: '[[Memory Meadows]] - The Ethical Exchange'
 world: Aquabyssos
-type: NPC
 role: Ethical Memory Merchant
 affiliation: '[[Memory Farmers]] (Reformed Branch)'
 age: '36'
-race: Human
-location: '[[Memory Meadows]] - The Ethical Exchange'
 created_by: auto-stub
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -595,3 +602,8 @@ Legends speak of Memory Merchant Valeria Siltweave as a nexus where past and pre
 - [[Tribune Cassia Deepcurrent]]
 - [[Memory Farmers]]
 - [[The Hadal Depths]]
+
+
+## Related
+
+*Links to related content will be added here.*

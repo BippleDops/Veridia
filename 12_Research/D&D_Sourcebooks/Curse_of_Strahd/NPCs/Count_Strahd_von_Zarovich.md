@@ -1,19 +1,28 @@
+# Count_Strahd_von_Zarovich
+
 ---
-created: '2025-08-13'
-updated: '2025-08-13T12:48:04.965404'
-status: active
-world: Convergence
+title: Count Strahd von Zarovich
+aliases:
+- The Shadow Count
+- Lord of Crystal Barovia
 type: Character
 tags:
-- type/character
-- importance/major
-- corruption/critical
 - world/convergence
+- corruption/critical
+- importance/major
+- research
 - source/curse_of_strahd
-full_name: "Count Strahd von Zarovich"
-aliases: ["The Shadow Count", "Lord of Crystal Barovia"]
-corruption_level: "Critical"
+- active
+- type/character
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
+updated: '2025-08-13T12:48:04.965404'
+world: Convergence
+full_name: Count Strahd von Zarovich
+corruption_level: Critical
 ---
+
 
 # Count Strahd von Zarovich - Shadow-Crystal Lord
 
@@ -47,3 +56,8 @@ Strahd discovered crystal technology during his vampiric existence and became ob
 
 ---
 *Adapted from Curse of Strahd for Cordelia dual-realm campaign*
+
+
+## Related
+
+*Links to related content will be added here.*

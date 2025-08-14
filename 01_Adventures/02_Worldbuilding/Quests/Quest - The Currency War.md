@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Quest   The Currency War
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Quests/Quest - The Currency War
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Banker Titus Goldcurrent]]
+- [[Banker Titus Goldcurrent]]
 - [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
 
 ## Notes
@@ -36,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Quest - The Runaway Golem]]
+- [[04_Resources_Assets_Portraits_portrait-npc-lady-resistance-brightshield-lady-resistance-brightshield.svg]]
+- [[Madame Nightwhisper]]
+- [[High Priest Daemon Shadowprayer]]
+- [[04_Resources_Assets_Locations_location-city-master-thorek-crystalhammer-master-thorek-crystalhammer.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-the-banker-fish-v1-the-banker-fish.svg]]
+- [[The Floating Markets of Nereidios]]
+- [[04_Resources_Assets_Locations_location-city-warrior-thane-visionward-warrior-thane-visionward.svg]]

@@ -1,18 +1,25 @@
+# Depth Speak Variations
+
 ---
-updated: '2025-08-13T01:18:35.756892+00:00'
-created: '2025-08-12'
-tags:
-- aquabyssos
-- communication
-- complete
-- cultural_system
-- linguistics
-- lore
-status: complete
-world: Aquabyssos
+title: Depth Speak Variations
 type: cultural_system
+tags:
+- lore
+- aquabyssos
+- linguistics
+- cultural_system
+- research
+- active
+- complete
+- communication
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+updated: '2025-08-13T01:18:35.756892+00:00'
+world: Aquabyssos
 obsidianUIMode: preview
 ---
+
 
 
 # Depth Speak Variations
@@ -203,3 +210,8 @@ Legends speak of Depth Speak Variations as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

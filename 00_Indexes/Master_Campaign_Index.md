@@ -1,54 +1,56 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- combat
-- quest
-- session-notes
-- crystal-enhanced
-- aerial
-- aquatic
-- content/lore
-- index
-- master-control
-- navigation
-- status/complete
-- world/both
 title: Master Campaign Index
 type: Lore
-updated: '2025-08-12T23:37:32.992050'
+tags:
+- navigation
+- aerial
+- session-notes
+- index
+- master-control
+- status/complete
+- aquatic
+- quest
+- content/lore
+- world/both
+- active
+- combat
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+updated: 2025-08-13 07:59:50.495916
 world: Both
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.495916
 ---
+
 # Master Campaign Index
 
 *Complete Navigation System for Aquabyssos & Aethermoor*
 
-See also: [[12_Research/D&D_References/Phase Omega Enhanced Index]]
+See also: [[Phase Omega Enhanced Index]]
 
 ## 🎮 Control Centers
 
 ### Existing Dashboards & Trackers
 
 - [[1-DM Toolkit/DM Board]] - Quick creation buttons and party overview
-- [[12_Research/D&D_References/Quest Campaign Tracker]] - Comprehensive quest management
-- [[12_Research/D&D_References/Faction Tracker]] - Faction relationship tracking
-- [[12_Research/D&D_References/Session Log]] - Session history and notes
+- [[Quest Campaign Tracker]] - Comprehensive quest management
+- [[Faction Tracker]] - Faction relationship tracking
+- [[Session Log]] - Session history and notes
 - [[02_Worldbuilding/Lore/NPC Directory.base|02 Worldbuilding/Lore/NPC Directory.base]] - Complete NPC management
-- [[12_Research/D&D_References/Combat Tracker]] - Battle management
-- [[12_Research/D&D_References/Location Tracker]] - Place tracking system
-- [[12_Research/D&D_References/Item Catalog]] - Equipment and treasure
-- [[12_Research/D&D_References/Spell Compendium]] - Magic reference
+- [[Combat Tracker]] - Battle management
+- [[Location Tracker]] - Place tracking system
+- [[Item Catalog]] - Equipment and treasure
+- [[Spell Compendium]] - Magic reference
 
 ### New Integrated Systems
 
 - [[Campaign_Dashboard|Campaign Dashboard]] - High-level campaign overview
-- [[12_Research/D&D_References/Complete Pressure Adaptation System]] - Full transformation mechanics
-- [[12_Research/D&D_References/Complete Faction Warfare System]] - Political warfare rules
-- [[12_Research/D&D_References/Complete Reality Merger System]] - Dimensional mechanics
-- [[12_Research/D&D_References/Vehicles - Vehicles Index]] - Aquatic, aerial, and merger vessels
+- [[Complete Pressure Adaptation System]] - Full transformation mechanics
+- [[Complete Faction Warfare System]] - Political warfare rules
+- [[Complete Reality Merger System]] - Dimensional mechanics
+- [[Vehicles - Vehicles Index]] - Aquatic, aerial, and merger vessels
 
 ## 📚 Content by Category
 
@@ -86,24 +88,24 @@ SORT file.name ASC
 #### Core Systems
 
 **Environmental**:
-- [[12_Research/D&D_References/Aquabyssos Survival Mechanics]] - Underwater survival
-- [[12_Research/D&D_References/Depth Adaptation System]] - Transformation mechanics
-- [[12_Research/D&D_References/Crystal Plague Mechanics]] - Corruption system
+- [[Aquabyssos Survival Mechanics]] - Underwater survival
+- [[Depth Adaptation System]] - Transformation mechanics
+- [[Crystal Plague Mechanics]] - Corruption system
 
 **Social/Political**:
-- [[12_Research/D&D_References/Faction Standing System]] - Reputation tracking
-- [[12_Research/D&D_References/NPC Reactions]] - Social mechanics
-- [[12_Research/D&D_References/Political Maneuvering]] - Intrigue rules
+- [[Faction Standing System]] - Reputation tracking
+- [[NPC Reactions]] - Social mechanics
+- [[Political Maneuvering]] - Intrigue rules
 
 **Combat/Action**:
-- [[12_Research/D&D_References/Underwater Combat Rules]] - 3D combat
-- [[12_Research/D&D_References/Pressure Combat Modifiers]] - Environmental effects
+- [[Underwater Combat Rules]] - 3D combat
+- [[Pressure Combat Modifiers]] - Environmental effects
 - [[Mass Combat Resolution]] - Large battles
 
 **Reality/Horror**:
-- [[12_Research/D&D_References/Reality Merger Mechanics]] - Dimensional rules
-- [[12_Research/D&D_References/Aquabyssos]] - Madness tracking
-- [[12_Research/D&D_References/Memory Absorption Rules]] - Memory mechanics
+- [[Reality Merger Mechanics]] - Dimensional rules
+- [[Aquabyssos]] - Madness tracking
+- [[Memory Absorption Rules]] - Memory mechanics
 
 ### 📁 Resources (04_Resources/)
 
@@ -116,32 +118,32 @@ SORT file.name ASC
 
 #### Tables & Generators
 
-- [[12_Research/D&D_References/Random Encounter Tables]] - Comprehensive encounters
-- [[12_Research/D&D_References/Random Encounter Tables - Aquabyssos]] - Underwater specific
-- [[12_Research/D&D_References/Aquabyssos Rumors]] - Information generation
+- [[Random Encounter Tables]] - Comprehensive encounters
+- [[Random Encounter Tables - Aquabyssos]] - Underwater specific
+- [[Aquabyssos Rumors]] - Information generation
 
 #### Templates
 
 - [[05_Templates|05 Templates]] - All template files
-- [[12_Research/D&D_References/Meta Bind Examples]] - Button and form templates
-- [[12_Research/D&D_References/Dataview Query Guide]] - Query references
+- [[Meta Bind Examples]] - Button and form templates
+- [[Dataview Query Guide]] - Query references
 
 ### 👥 Player Resources (07_Player_Resources/)
 
-- [[12_Research/D&D_References/Player Portal]] - Central player hub
-- [[12_Research/D&D_References/Quick Start Guide]] - New player introduction
-- [[12_Research/D&D_References/Character Creation Extended]] - Full character building
-- [[12_Research/D&D_References/Rules Reference]] - Complete rules compilation
-- [[12_Research/D&D_References/World Primer]] - Setting information
-- [[12_Research/D&D_References/Faction Guide]] - Organization details
+- [[Player Portal]] - Central player hub
+- [[Quick Start Guide]] - New player introduction
+- [[Character Creation Extended]] - Full character building
+- [[Rules Reference]] - Complete rules compilation
+- [[World Primer]] - Setting information
+- [[Faction Guide]] - Organization details
 
 ### 🎲 GM Resources (06_GM_Resources/)
 
-- [[12_Research/D&D_References/Campaign Management Guide]] - Campaign orchestration
-- [[12_Research/D&D_References/Encounter Builder]] - Combat creation
-- [[12_Research/D&D_References/Session Planning Toolkit]] - Session preparation
-- [[12_Research/D&D_References/NPC Quick Reference Guide]] - NPC management
-- [[12_Research/D&D_References/Scene Framing Templates]] - Narrative tools
+- [[Campaign Management Guide]] - Campaign orchestration
+- [[Encounter Builder]] - Combat creation
+- [[Session Planning Toolkit]] - Session preparation
+- [[NPC Quick Reference Guide]] - NPC management
+- [[Scene Framing Templates]] - Narrative tools
 
 ### 📖 Session Records (1-Session Journals/)
 
@@ -222,10 +224,10 @@ LIMIT 10
 ### Cross-System References
 
 Every major system connects to:
-- [[12_Research/D&D_References/Faction Tracker]] - Live faction tracking
-- [[12_Research/D&D_References/Quest Campaign Tracker.base]] - Quest management
+- [[Faction Tracker]] - Live faction tracking
+- [[Quest Campaign Tracker.base]] - Quest management
 - [[NPC Directory.base]] - Character relationships
-- [[12_Research/D&D_References/Session Log.base]] - Historical record
+- [[Session Log.base]] - Historical record
 
 ### Data Flow
 ```
@@ -242,8 +244,8 @@ Reality Stability → Merger Events
 ### Vault Health Checks
 
 - [[VAULT_COMPLETION_STATUS|VAULT COMPLETION STATUS]] - Current completion metrics
-- [[12_Research/D&D_References/Unified Vault Completion Guide]] - Standards guide
-- [[12_Research/D&D_References/Readme Future Work]] - Technical maintenance
+- [[Unified Vault Completion Guide]] - Standards guide
+- [[Readme Future Work]] - Technical maintenance
 
 ### Update Procedures
 
@@ -267,12 +269,12 @@ FROM "02_Worldbuilding"
 
 ### Session Prep
 
-1. Check [[12_Research/D&D_References/Session Log]] for last session
-2. Update [[12_Research/D&D_References/Faction Tracker]] standings
-3. Review [[12_Research/D&D_References/Quest Campaign Tracker]] status
+1. Check [[Session Log]] for last session
+2. Update [[Faction Tracker]] standings
+3. Review [[Quest Campaign Tracker]] status
 4. Check [[02_Worldbuilding/Lore/NPC Directory.base|02 Worldbuilding/Lore/NPC Directory.base]] for active NPCs
-5. Generate encounters with [[12_Research/D&D_References/Encounter Builder]]
-6. Prepare scenes with [[12_Research/D&D_References/Scene Framing Templates]]
+5. Generate encounters with [[Encounter Builder]]
+6. Prepare scenes with [[Scene Framing Templates]]
 
 ### World Building
 
@@ -284,10 +286,10 @@ FROM "02_Worldbuilding"
 
 ### Player Management
 
-1. Direct players to [[12_Research/D&D_References/Player Portal]]
-2. Use [[12_Research/D&D_References/Quick Start Guide]] for new players
-3. Reference [[12_Research/D&D_References/Rules Reference]] for disputes
-4. Track progress in [[12_Research/D&D_References/Session Log]]
+1. Direct players to [[Player Portal]]
+2. Use [[Quick Start Guide]] for new players
+3. Reference [[Rules Reference]] for disputes
+4. Track progress in [[Session Log]]
 
 ---
 
@@ -326,29 +328,29 @@ updated: 2025-08-13T07:59:50.321845
 
 *Complete Navigation System for Aquabyssos & Aethermoor*
 
-See also: [[12_Research/D&D_References/Phase Omega Enhanced Index]]
+See also: [[Phase Omega Enhanced Index]]
 
 ## 🎮 Control Centers
 
 ### Existing Dashboards & Trackers
 
 - [[1-DM Toolkit/DM Board]] - Quick creation buttons and party overview
-- [[12_Research/D&D_References/Quest Campaign Tracker]] - Comprehensive quest management
-- [[12_Research/D&D_References/Faction Tracker]] - Faction relationship tracking
-- [[12_Research/D&D_References/Session Log]] - Session history and notes
+- [[Quest Campaign Tracker]] - Comprehensive quest management
+- [[Faction Tracker]] - Faction relationship tracking
+- [[Session Log]] - Session history and notes
 - [[02_Worldbuilding/Lore/NPC Directory.base|02 Worldbuilding/Lore/NPC Directory.base]] - Complete NPC management
-- [[12_Research/D&D_References/Combat Tracker]] - Battle management
-- [[12_Research/D&D_References/Location Tracker]] - Place tracking system
-- [[12_Research/D&D_References/Item Catalog]] - Equipment and treasure
-- [[12_Research/D&D_References/Spell Compendium]] - Magic reference
+- [[Combat Tracker]] - Battle management
+- [[Location Tracker]] - Place tracking system
+- [[Item Catalog]] - Equipment and treasure
+- [[Spell Compendium]] - Magic reference
 
 ### New Integrated Systems
 
 - [[Campaign_Dashboard|Campaign Dashboard]] - High-level campaign overview
-- [[12_Research/D&D_References/Complete Pressure Adaptation System]] - Full transformation mechanics
-- [[12_Research/D&D_References/Complete Faction Warfare System]] - Political warfare rules
-- [[12_Research/D&D_References/Complete Reality Merger System]] - Dimensional mechanics
-- [[12_Research/D&D_References/Vehicles - Vehicles Index]] - Aquatic, aerial, and merger vessels
+- [[Complete Pressure Adaptation System]] - Full transformation mechanics
+- [[Complete Faction Warfare System]] - Political warfare rules
+- [[Complete Reality Merger System]] - Dimensional mechanics
+- [[Vehicles - Vehicles Index]] - Aquatic, aerial, and merger vessels
 
 ## 📚 Content by Category
 
@@ -386,24 +388,24 @@ SORT file.name ASC
 #### Core Systems
 
 **Environmental**:
-- [[12_Research/D&D_References/Aquabyssos Survival Mechanics]] - Underwater survival
-- [[12_Research/D&D_References/Depth Adaptation System]] - Transformation mechanics
-- [[12_Research/D&D_References/Crystal Plague Mechanics]] - Corruption system
+- [[Aquabyssos Survival Mechanics]] - Underwater survival
+- [[Depth Adaptation System]] - Transformation mechanics
+- [[Crystal Plague Mechanics]] - Corruption system
 
 **Social/Political**:
-- [[12_Research/D&D_References/Faction Standing System]] - Reputation tracking
-- [[12_Research/D&D_References/NPC Reactions]] - Social mechanics
-- [[12_Research/D&D_References/Political Maneuvering]] - Intrigue rules
+- [[Faction Standing System]] - Reputation tracking
+- [[NPC Reactions]] - Social mechanics
+- [[Political Maneuvering]] - Intrigue rules
 
 **Combat/Action**:
-- [[12_Research/D&D_References/Underwater Combat Rules]] - 3D combat
-- [[12_Research/D&D_References/Pressure Combat Modifiers]] - Environmental effects
+- [[Underwater Combat Rules]] - 3D combat
+- [[Pressure Combat Modifiers]] - Environmental effects
 - [[Mass Combat Resolution]] - Large battles
 
 **Reality/Horror**:
-- [[12_Research/D&D_References/Reality Merger Mechanics]] - Dimensional rules
-- [[12_Research/D&D_References/Aquabyssos]] - Madness tracking
-- [[12_Research/D&D_References/Memory Absorption Rules]] - Memory mechanics
+- [[Reality Merger Mechanics]] - Dimensional rules
+- [[Aquabyssos]] - Madness tracking
+- [[Memory Absorption Rules]] - Memory mechanics
 
 ### 📁 Resources (04_Resources/)
 
@@ -416,32 +418,32 @@ SORT file.name ASC
 
 #### Tables & Generators
 
-- [[12_Research/D&D_References/Random Encounter Tables]] - Comprehensive encounters
-- [[12_Research/D&D_References/Random Encounter Tables - Aquabyssos]] - Underwater specific
-- [[12_Research/D&D_References/Aquabyssos Rumors]] - Information generation
+- [[Random Encounter Tables]] - Comprehensive encounters
+- [[Random Encounter Tables - Aquabyssos]] - Underwater specific
+- [[Aquabyssos Rumors]] - Information generation
 
 #### Templates
 
 - [[05_Templates|05 Templates]] - All template files
-- [[12_Research/D&D_References/Meta Bind Examples]] - Button and form templates
-- [[12_Research/D&D_References/Dataview Query Guide]] - Query references
+- [[Meta Bind Examples]] - Button and form templates
+- [[Dataview Query Guide]] - Query references
 
 ### 👥 Player Resources (07_Player_Resources/)
 
-- [[12_Research/D&D_References/Player Portal]] - Central player hub
-- [[12_Research/D&D_References/Quick Start Guide]] - New player introduction
-- [[12_Research/D&D_References/Character Creation Extended]] - Full character building
-- [[12_Research/D&D_References/Rules Reference]] - Complete rules compilation
-- [[12_Research/D&D_References/World Primer]] - Setting information
-- [[12_Research/D&D_References/Faction Guide]] - Organization details
+- [[Player Portal]] - Central player hub
+- [[Quick Start Guide]] - New player introduction
+- [[Character Creation Extended]] - Full character building
+- [[Rules Reference]] - Complete rules compilation
+- [[World Primer]] - Setting information
+- [[Faction Guide]] - Organization details
 
 ### 🎲 GM Resources (06_GM_Resources/)
 
-- [[12_Research/D&D_References/Campaign Management Guide]] - Campaign orchestration
-- [[12_Research/D&D_References/Encounter Builder]] - Combat creation
-- [[12_Research/D&D_References/Session Planning Toolkit]] - Session preparation
-- [[12_Research/D&D_References/NPC Quick Reference Guide]] - NPC management
-- [[12_Research/D&D_References/Scene Framing Templates]] - Narrative tools
+- [[Campaign Management Guide]] - Campaign orchestration
+- [[Encounter Builder]] - Combat creation
+- [[Session Planning Toolkit]] - Session preparation
+- [[NPC Quick Reference Guide]] - NPC management
+- [[Scene Framing Templates]] - Narrative tools
 
 ### 📖 Session Records (1-Session Journals/)
 
@@ -522,10 +524,10 @@ LIMIT 10
 ### Cross-System References
 
 Every major system connects to:
-- [[12_Research/D&D_References/Faction Tracker]] - Live faction tracking
-- [[12_Research/D&D_References/Quest Campaign Tracker.base]] - Quest management
+- [[Faction Tracker]] - Live faction tracking
+- [[Quest Campaign Tracker.base]] - Quest management
 - [[NPC Directory.base]] - Character relationships
-- [[12_Research/D&D_References/Session Log.base]] - Historical record
+- [[Session Log.base]] - Historical record
 
 ### Data Flow
 ```
@@ -542,8 +544,8 @@ Reality Stability → Merger Events
 ### Vault Health Checks
 
 - [[VAULT_COMPLETION_STATUS|VAULT COMPLETION STATUS]] - Current completion metrics
-- [[12_Research/D&D_References/Unified Vault Completion Guide]] - Standards guide
-- [[12_Research/D&D_References/Readme Future Work]] - Technical maintenance
+- [[Unified Vault Completion Guide]] - Standards guide
+- [[Readme Future Work]] - Technical maintenance
 
 ### Update Procedures
 
@@ -567,12 +569,12 @@ FROM "02_Worldbuilding"
 
 ### Session Prep
 
-1. Check [[12_Research/D&D_References/Session Log]] for last session
-2. Update [[12_Research/D&D_References/Faction Tracker]] standings
-3. Review [[12_Research/D&D_References/Quest Campaign Tracker]] status
+1. Check [[Session Log]] for last session
+2. Update [[Faction Tracker]] standings
+3. Review [[Quest Campaign Tracker]] status
 4. Check [[02_Worldbuilding/Lore/NPC Directory.base|02 Worldbuilding/Lore/NPC Directory.base]] for active NPCs
-5. Generate encounters with [[12_Research/D&D_References/Encounter Builder]]
-6. Prepare scenes with [[12_Research/D&D_References/Scene Framing Templates]]
+5. Generate encounters with [[Encounter Builder]]
+6. Prepare scenes with [[Scene Framing Templates]]
 
 ### World Building
 
@@ -584,10 +586,10 @@ FROM "02_Worldbuilding"
 
 ### Player Management
 
-1. Direct players to [[12_Research/D&D_References/Player Portal]]
-2. Use [[12_Research/D&D_References/Quick Start Guide]] for new players
-3. Reference [[12_Research/D&D_References/Rules Reference]] for disputes
-4. Track progress in [[12_Research/D&D_References/Session Log]]
+1. Direct players to [[Player Portal]]
+2. Use [[Quick Start Guide]] for new players
+3. Reference [[Rules Reference]] for disputes
+4. Track progress in [[Session Log]]
 
 ---
 
@@ -607,11 +609,11 @@ FROM "02_Worldbuilding"
 
 ### Key Relationships
 
-- [[12_Research/D&D_References/Faction Tracker]]: Relationship status pending classification
-- [[12_Research/D&D_References/Complete Faction Warfare System]]: Relationship status pending classification
-- [[12_Research/D&D_References/Faction Standing System]]: Relationship status pending classification
-- [[12_Research/D&D_References/Faction Guide]]: Relationship status pending classification
-- [[12_Research/D&D_References/Faction Tracker]]: Relationship status pending classification
+- [[Faction Tracker]]: Relationship status pending classification
+- [[Complete Faction Warfare System]]: Relationship status pending classification
+- [[Faction Standing System]]: Relationship status pending classification
+- [[Faction Guide]]: Relationship status pending classification
+- [[Faction Tracker]]: Relationship status pending classification
 
 ### Relationship Dynamics
 

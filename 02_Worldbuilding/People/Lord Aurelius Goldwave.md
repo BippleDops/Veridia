@@ -1,29 +1,35 @@
 ---
+title: Lord Aurelius Goldwave
+type: Npc
+tags:
+- status/complete
+- noble
+- political-intrigue
+- npc
+- character
+- content/npc
+- world/aethermoor
+- active
+- complete
+- betrayer-descendant
+- lord
+- aethermoor
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Enchantment Wizard/College of Eloquence Bard
+location: '[[Port Meridian]]'
 CR: 10
 MyCategory: Unknown
 MyContainer: None
-class: Enchantment Wizard/College of Eloquence Bard
-created: '2025-08-09'
 created_by: Claude
 faction: '[[The Order of the Shattered Crown]]'
-location: '[[Port Meridian]]'
 obsidianUIMode: preview
-status: complete
-tags:
-- aethermoor
-- betrayer-descendant
-- complete
-- content/npc
-- lord
-- noble
-- npc
-- political-intrigue
-- status/complete
-- world/aethermoor
-type: Npc
 updated: '2025-08-13T12:34:17.502860+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait
@@ -455,6 +461,15 @@ Use his various businesses and contacts to:
 *"They say gold cannot buy redemption. Perhaps not. But it can purchase the opportunity to earn it, and that, my friends, is priceless."*
 
 
+
+
+## Relationship Web
+
+- [[Mirror-Breaking Crystals]]: *secret ally*
+- [[High Priestess Celeste Dawnbringer]]: *bitter rival*
+- [[Economic Manipulation]]: *former lover*
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-dr-bloodletting-captain-dr-bloodletting.svg]]: *sworn enemy*
+
 ## Connections
 
 - [[Merchant Princes]]
@@ -487,6 +502,103 @@ Legends speak of Lord Aurelius Goldwave as a nexus where past and present conver
 - A rumor ties Lord Aurelius Goldwave to a missing shipment, linking factions with competing claims.
 - An NPC seeks discreet help at Lord Aurelius Goldwave to avert a public scandal.
 - A map overlay reveals a hidden approach to Lord Aurelius Goldwave active only during specific tides/storms.
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Accumulating wealth
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Sharp and precise
+
+**Speech Pattern**: Direct and concise
+
+**Physical Habits**: Gestures expressively
+
+## Current Activities
+
+Lord Aurelius Goldwave is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Lord Aurelius Goldwave needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Lord Aurelius Goldwave stopped or removed
+3. **The Secret**: Information about Lord Aurelius Goldwave's past surfaces
+4. **The Alliance**: Opportunity to work with or against Lord Aurelius Goldwave
+5. **The Crisis**: Lord Aurelius Goldwave is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 

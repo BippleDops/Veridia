@@ -1,26 +1,34 @@
+# Crown of Tidal Sovereignty
+
 ---
+title: Crown of Tidal Sovereignty
+type: Item
 tags:
 - aquabyssos
+- crown
+- seven-shards-connected
+- legendary
+- research
+- active
 - artifact
 - complete
-- crown
-- item
-- legendary
 - political-artifact
-- seven-shards-connected
+- item
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
-world: Aquabyssos
-type: Item
-item_type: Crown of Rule (Seven Shards Enhanced)
 rarity: Legendary
+world: Aquabyssos
+item_type: Crown of Rule (Seven Shards Enhanced)
 requires_attunement: Yes (by a creature of noble blood or appointed by divine authority)
-affiliation: '[[The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]] (Currently Fragmented)'
+affiliation: '[[The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]
+  (Currently Fragmented)'
 current_location: Multiple Pieces Scattered Across Aquabyssos
 danger_level: 4
 created_by: Claude
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -311,3 +319,8 @@ Legends speak of Crown of Tidal Sovereignty as a nexus where past and present co
 
 - [[Sister Morwyn|02 Worldbuilding/Places/Sister Morwyn]]
 - [[Oracle Nerida the Tidereader]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,25 +1,31 @@
+# Memory Farmers
+
 ---
+title: Memory Farmers
+type: Location
 tags:
 - aquabyssos
-- completed
-- criminal-organization
-- dangerous
-- draft
-- faction
-- farming
-- location
-- memory
-- merchants
 - psychological
+- completed
+- faction
+- memory
+- research
 - unethical
+- dangerous
+- active
+- criminal-organization
+- location
+- draft
+- farming
+- merchants
+created: '2025-08-09'
+modified: '2025-08-14'
 status: draft
+headquarters: '[[Memory Meadows Black Market|02 Worldbuilding/Places/Memory Meadows
+  Black Market]]'
 world: Aquabyssos
-type: Location
 danger_level: 8
-headquarters: '[[Memory Meadows Black Market|02 Worldbuilding/Places/Memory
-  Meadows Black Market]]'
-leader: '[[Memory Merchant Valeria|02 Worldbuilding/People/Memory
-  Merchant Valeria]]'
+leader: '[[Memory Merchant Valeria|02 Worldbuilding/People/Memory Merchant Valeria]]'
 specialties:
 - Memory Extraction
 - Experience Harvesting
@@ -27,14 +33,13 @@ specialties:
 - Psychological Manipulation
 founded: Second Age of Aquabyssos
 current_status: Active but Underground
-created: '2025-08-09'
 updated: '2025-08-13T12:34:14.019338+00:00'
 related_entities:
 - '[[Memory Alterations|02 Worldbuilding/Lore/Memory Alterations]]'
 - '[[02_Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]'
-- '[[Memory Trader Kellian|02 Worldbuilding/People/Memory
-  Trader Kellian]]'
+- '[[Memory Trader Kellian|02 Worldbuilding/People/Memory Trader Kellian]]'
 ---
+
 
 
 
@@ -316,3 +321,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Memory Farmers|02 Worldbuilding/Places/Memory Farmers]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,27 +1,34 @@
+# The Original Palace
+
 ---
+title: The Original Palace
+type: Location
 tags:
-- ancient
 - aquabyssos
-- complete
-- coral
+- royal
 - deep-sea
+- research
+- ancient
+- underwater
+- coral
+- complete
 - location
 - palace
-- royal
-- underwater
+- active
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 location_type: Royal Palace
 depth: 2,000 fathoms below surface
 created_by: auto-stub
-created: '2025-08-11'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-11T00:00:00+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -330,3 +337,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 <!-- enriched: true -->
 riched: true -->
 - [[The Depth Accords]]
+
+
+## Related
+
+*Links to related content will be added here.*

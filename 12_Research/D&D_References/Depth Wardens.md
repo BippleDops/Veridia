@@ -1,27 +1,34 @@
+# Depth Wardens
+
 ---
+title: Depth Wardens
+type: Location
 tags:
 - aquabyssos
-- complete
-- depth-wardens
-- government
-- law-enforcement
-- location
 - military
+- depth-wardens
 - organization
+- research
+- government
 - security
+- active
+- location
+- complete
+- law-enforcement
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 category: Government Agency
 significance: Major
 scope: Realm-wide
 authority_level: High
 member_count: ~2,000 active wardens
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.295420+00:00'
 danger_level: Moderate
 ---
+
 
 
 
@@ -723,3 +730,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 <!-- enriched: true -->
 - [[Port Meridian]]
 - [[The Hadal Depths]]
+
+
+## Related
+
+*Links to related content will be added here.*

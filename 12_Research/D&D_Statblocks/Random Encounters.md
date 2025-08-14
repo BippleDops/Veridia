@@ -1,23 +1,30 @@
+# Random Encounters
+
 ---
+title: Random Encounters
+type: Lore
 tags:
-- both
-- both-realms
-- complete
 - encounter-generation
 - game-mechanics
+- both
 - lore
-- mechanics
-- procedural-content
 - random-encounters
+- mechanics
+- both-realms
+- procedural-content
+- research
+- active
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Lore
 system: D&D 5e
 complexity: Advanced
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:35.435418+00:00'
 ---
+
 
 
 

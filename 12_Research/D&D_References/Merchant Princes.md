@@ -1,14 +1,20 @@
+# Merchant Princes
+
 ---
+title: Merchant Princes
+type: Group
+tags:
+- both
+- active
+- group
+- research
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 world: Both
 updated: '2025-08-13T01:18:36.639409+00:00'
-created: '2025-08-11'
-status: active
-tags:
-- active
-- both
-- group
-type: Group
 ---
+
 
 
 
@@ -304,3 +310,8 @@ Legends speak of Merchant Princes as a nexus where past and present converge. Lo
 - [[Lord Aurelius Goldwave]]
 - [[Madame Rosalind Goldleaf]]
 - [[The Azure Coast]]
+
+
+## Related
+
+*Links to related content will be added here.*

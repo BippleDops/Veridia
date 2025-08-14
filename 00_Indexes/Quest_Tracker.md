@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Quest Tracker
 type: index
-cssclass: quest-tracker
 tags:
+- active
 - index
-- quests
 - objectives
+- quests
+created: 2025-08-14
+modified: '2025-08-14'
+updated: 2025-08-14
+cssclass: quest-tracker
 ---
+
 
 # 📜 Quest Tracker
 

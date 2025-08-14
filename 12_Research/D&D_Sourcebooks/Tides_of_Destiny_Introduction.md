@@ -1,20 +1,26 @@
+# Tides_of_Destiny_Introduction
+
 ---
 title: Tides of Destiny - Introduction
+type: Epic Finale Adventure
 tags:
 - adventure
-- both aethermoor and aquabyssos
-- both-aethermoor-and-aquabyssos
-- complete
-- epic
-- epic finale adventure
 - epic-finale
 - epic-finale-adventure
-- levels-13-15
-- tides-of-destiny
+- both-aethermoor-and-aquabyssos
+- epic finale adventure
 - world-shaping
+- research
+- tides-of-destiny
+- active
+- levels-13-15
+- complete
+- epic
+- both aethermoor and aquabyssos
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Both Aethermoor and Aquabyssos
-type: Epic Finale Adventure
 campaign_type: Multi-World Epic Conclusion
 level_range: 13-15
 party_size: 4-6 characters
@@ -25,7 +31,6 @@ themes:
 - legacy creation
 - cosmic resolution
 - hero ascension
-created: '2025-08-11'
 updated: '2025-08-13T04:22:14.984235+00:00'
 connections:
 - '[[Convergence Point]]'
@@ -33,6 +38,7 @@ connections:
 - '[[Queen Seraphina Lumengarde]]'
 - '[[Campaign_Legacy_System|Campaign Legacy System]]'
 ---
+
 
 
 
@@ -464,3 +470,8 @@ Legends speak of Introduction as a nexus where past and present converge. Locals
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,15 +1,22 @@
+# D&D_SOURCEBOOK_INTEGRATION_DASHBOARD
+
 ---
-created: '2025-08-13'
-updated: '2025-08-13T12:48:04.965254'
-status: active
-world: Both
+title: D&D SOURCEBOOK INTEGRATION DASHBOARD
 type: Dashboard
 tags:
 - type/dashboard
-- dnd/integration
+- research
 - status/active
+- active
+- dnd/integration
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
+updated: '2025-08-13T12:48:04.965254'
+world: Both
 cssclass: dashboard
 ---
+
 
 # 📚 D&D Sourcebook Integration Dashboard
 
@@ -405,3 +412,8 @@ The vault website includes a front-page multi-select interface for choosing whic
 **Last Updated**: 2025-08-13 12:48  
 **Total Sourcebooks**: 13  
 **Integration Progress**: 0/13 complete
+
+
+## Related
+
+*Links to related content will be added here.*

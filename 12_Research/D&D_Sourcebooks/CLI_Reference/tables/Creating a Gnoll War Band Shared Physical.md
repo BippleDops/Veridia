@@ -1,22 +1,27 @@
+# Creating a Gnoll War Band Shared Physical
+
 ---
+title: Creating a Gnoll War Band Shared Physical
 aliases:
 - Creating a Gnoll War Band; Shared Physical Trait
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/vgm
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:03.758780+00:00'
 world: Both
 ---
+
 
 
 # Creating a Gnoll War Band; Shared Physical Trait
@@ -59,3 +64,8 @@ Legends speak of creating a gnoll war band shared physical trait vgm as a nexus 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

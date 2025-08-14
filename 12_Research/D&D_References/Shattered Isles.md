@@ -1,22 +1,28 @@
+# Shattered Isles
+
 ---
+title: Shattered Isles
+type: Lore
 tags:
+- lore
 - aquabyssos
-- archipelago
-- complete
+- underwater-islands
+- isolation
 - crystal-corruption
 - dangerous-region
-- exploration
+- research
 - fractured-reality
-- isolation
+- archipelago
+- active
+- exploration
 - location
-- lore
-- underwater-islands
+- complete
 - void-influence
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 location_type: Dangerous Archipelago
 scope: Regional
@@ -24,6 +30,7 @@ danger_level: Extreme
 environmental_hazards: Multiple
 access_restriction: Prohibited Without Authorization
 ---
+
 
 
 
@@ -399,3 +406,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Quest - The Lost Expedition|02 Worldbuilding/Quests/Quest The Lost Expedition]]
 - [[Eastern Kingdom Fleet]]
 - [[United Councils of Both Worlds]]
+
+
+## Related
+
+*Links to related content will be added here.*

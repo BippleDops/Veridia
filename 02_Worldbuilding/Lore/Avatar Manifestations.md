@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Avatar Manifestations
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Avatar Manifestations
 
@@ -24,8 +28,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Cult of the Deep Mother]]
-- [[12_Research/D&D_References/Deep Mother Sanity System]]
+- [[Cult of the Deep Mother]]
+- [[Deep Mother Sanity System]]
 - [[12_Research/D&D_Statblocks/Reality Breach Locations]]
 - [[02_Worldbuilding/Places/Reality Breach Locations]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

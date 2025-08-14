@@ -1,12 +1,31 @@
+# Aquabyssos - Session 08 - The Fractal Conspiracy
+
 ---
-MyCategory: Unknown
-MyContainer: None
+title: The Fractal Conspiracy
+type: Lore
+tags:
+- lore
+- aquabyssos
+- parliament-shadows
+- campaign/session
+- outlined
+- world/aquabyssos
+- content/lore
+- research
+- active
+- planned
+- status/in-progress
 created: '2025-08-11'
-date_played: null
-depth: Variable (Reality Layers)
-estimated_time: 4 hours
+modified: '2025-08-14'
+status: outlined
 location:
 - - Multiple Recursion Levels
+session_number: 8
+date_played: null
+MyCategory: Unknown
+MyContainer: None
+depth: Variable (Reality Layers)
+estimated_time: 4 hours
 npcs_featured:
 - - - Lord Flux the Inconsistent
 - - - The Sorrowmaster
@@ -18,27 +37,14 @@ quests_advanced:
 - - - Navigate Fractal Reality
 - - - Find the Grief Bomb
 - - - Unite the Recursions
-session_number: 8
-status: outlined
-tags:
-- aquabyssos
-- campaign/session
-- content/lore
-- lore
-- outlined
-- parliament-shadows
-- planned
-- status/in-progress
-- world/aquabyssos
 themes:
 - Reality fragmentation
 - Recursive existence
 - Probability warfare
-title: The Fractal Conspiracy
-type: Lore
 updated: '2025-08-13T12:34:17.832300+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -246,3 +252,8 @@ Marina's echo speaks one last time: "The Mourning Depths knows the way. The Sorr
 - [[Sorrow Pearls]]
 - [[Vorthak]]
 - [[Memoriam]]
+
+
+## Related
+
+*Links to related content will be added here.*

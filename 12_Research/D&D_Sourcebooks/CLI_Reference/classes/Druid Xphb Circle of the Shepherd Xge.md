@@ -1,23 +1,28 @@
+# Druid Xphb Circle of the Shepherd Xge
+
 ---
+title: Druid Xphb Circle of the Shepherd Xge
 aliases:
 - Circle of the Shepherd
-created: 2025-07-23
-cssclasses: json5e-class
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
+- ttrpg-cli/compendium/src/5e/xge
+- research
+- world/both
+- active
+- ttrpg-cli/subclass/druid/shepherd
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/druid/shepherd
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-class
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:04.804611+00:00'
 world: Both
 ---
+
 
 
 # Circle of the Shepherd
@@ -134,3 +139,8 @@ Legends speak of druid xphb circle of the shepherd xge as a nexus where past and
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

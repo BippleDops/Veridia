@@ -1,9 +1,16 @@
 ---
+title: step 001
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 65
 step: 1
 total_step: 6401
 ---
+
 
 # Phase 65 - Step 1
 

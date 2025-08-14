@@ -1,3 +1,15 @@
+# Battle_Maps_Gallery 2
+
+---
+title: Battle Maps Gallery 2
+type: resource
+tags:
+- active
+- resource
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Battle Maps Gallery
 
 %% Use reading mode for visual gallery %%
@@ -355,3 +367,8 @@
 
 ## world-map
 ![[04_Resources/Assets/Maps/world-map.png]]
+
+
+## Related
+
+*Links to related content will be added here.*

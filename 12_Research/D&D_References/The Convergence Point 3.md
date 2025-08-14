@@ -1,28 +1,35 @@
+# The Convergence Point 3
+
 ---
-category: Cosmic Event
-created: '2025-08-08'
-created_by: auto-stub
-significance: Campaign-Defining
-status: complete
+title: The Convergence Point 3
+type: Lore
 tags:
-- apocalypse
-- both
-- complete
-- content/lore
-- convergence
 - lore
+- convergence
+- both
 - metaphysical
-- prophecy
-- reality-merge
 - shadow-corruption
 - status/complete
-- world/aethermoor
-- world/aquabyssos
+- content/lore
 - world/both
-type: Lore
+- research
+- apocalypse
+- prophecy
+- active
+- complete
+- reality-merge
+- world/aquabyssos
+- world/aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+category: Cosmic Event
+created_by: auto-stub
+significance: Campaign-Defining
 updated: '2025-08-13T12:34:28.715035+00:00'
 world: Both
 ---
+
 
 
 

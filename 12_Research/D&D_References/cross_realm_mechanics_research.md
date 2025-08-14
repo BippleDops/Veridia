@@ -1,3 +1,15 @@
+# cross_realm_mechanics_research
+
+---
+title: cross realm mechanics research
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Cross-Realm Mechanics Research
 
 ## Dual-World Integration Methodology
@@ -108,3 +120,7 @@ Effective cross-realm mechanics show:
 - **Political Complexity**: 50% of cross-realm relationships affect faction standing
 
 *Research basis: Environmental psychology studies, 34 cross-realm campaigns, adaptation difficulty analysis*
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,4 +1,21 @@
 ---
+title: Aethermoor Archives
+type: Lore
+tags:
+- lore
+- aquabyssos
+- aerial
+- status/complete
+- quest
+- content/lore
+- active
+- complete
+- world/aquabyssos
+- aethermoor
+- shadow-touched
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 accessibility:
   content_warnings: []
   pronunciation: Aethermoor Archives
@@ -7,23 +24,11 @@ accessibility:
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
     its consequences for play.
-created: '2025-08-11'
 obsidianUIMode: preview
-status: complete
-tags:
-- quest
-- shadow-touched
-- aerial
-- aquabyssos
-- complete
-- content/lore
-- lore
-- status/complete
-- world/aquabyssos
-type: Lore
 updated: '2025-08-13T12:34:15.828504+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Aethermoor Archives
@@ -48,15 +53,15 @@ Aethermoor Archives describes a turning current in history where choices about m
 
 ## Threads and Revelations
 
-- Records implicate agents tied to [[12_Research/D&D_References/The Sunken Library of Thalassius]].
+- Records implicate agents tied to [[The Sunken Library of Thalassius]].
 - A rite echoes the activation cadence needed for [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
-- Testimony suggests [[12_Research/D&D_References/Vex Shadowthorn]] financed a pivotal bribe.
+- Testimony suggests [[Vex Shadowthorn]] financed a pivotal bribe.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Sunken Library of Thalassius]]
+- [[The Sunken Library of Thalassius]]
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[12_Research/D&D_References/Vex Shadowthorn]]
+- [[Vex Shadowthorn]]
 
 ## Player-Facing Summary
 
@@ -81,10 +86,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[12_Research/D&D_References/Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[12_Research/D&D_References/Silver Mask]]
-- [[12_Research/D&D_References/Thalassius the Wise]]
-- [[12_Research/D&D_References/The Seven Betrayers]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Silver Mask]]
+- [[Thalassius the Wise]]
+- [[The Seven Betrayers]]
 
 
 ## Related

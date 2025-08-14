@@ -1,10 +1,28 @@
 ---
-affiliation: Neutral Territory
+title: The Shadowmire Tavern
+type: Location
+tags:
+- mechanics/social
+- aquabyssos
+- status/complete
+- tavern
+- content/location
+- place
+- active
+- location
+- complete
+- world/aquabyssos
+- neutral-ground
+- shadow-touched
 created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: ~50-200 daily patrons
+affiliation: Neutral Territory
 created_by: Claude
 danger_level: 2
 location_type: Tavern & Social Hub
-population: ~50-200 daily patrons
 services:
 - Food
 - Drink
@@ -13,22 +31,10 @@ services:
 - Neutral Meeting Space
 significance: Minor (Social Gathering Point)
 size: Medium Building
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/location
-- location
-- mechanics/social
-- neutral-ground
-- shadow-touched
-- status/complete
-- tavern
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:17.037453+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -277,6 +283,27 @@ The Shadowmire Tavern serves as one of Aquabyssos's premier neutral meeting grou
 - Information source for [[The Nameless Auditor]] and other intelligence networks
 - Cultural bridge between different regions and social classes of [[Aquabyssos]]
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 ### Campaign Integration
 - Perfect social hub for faction-based campaigns
@@ -326,3 +353,85 @@ Legends speak of The Shadowmire Tavern as a nexus where past and present converg
 - [[The Depth Wardens]]
 - [[The Nameless Auditor]]
 - [[Memory Farmers]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-guardian-neutralwatch-guardian-neutralwatch.svg]]
+- [[Maritime Security Chief Reef]]
+- [[04_Resources_Assets_Locations_location-city-memory-tide-pools-v1-memory-tide-pools.svg]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+The Shadowmire Tavern is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Shadowmire Tavern
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting The Shadowmire Tavern:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Shadowmire Tavern
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 04
 type: adventure
-status: active
 tags:
-- combat
-- session-notes
-- aerial
 - adventure
+- aerial
+- session-notes
+- quest
+- active
+- combat
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 04: [Sky Realm Crisis]
 
@@ -62,3 +68,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Key NPCs
+
+- [[04_Resources_Assets_Locations_location-city-commander-typhoon-blackheart-v1-commander-typhoon-blackheart.svg]]
+- [[Archbishop Matthias Lightbringer]]
+- [[High Priestess Marina Oracleguard]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-anonymous-protocol-the-anonymous-protocol.svg]]
+- [[04_Resources_Assets_Locations_location-city-surge-mixmaster-v1-surge-mixmaster.png]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-world-map-v1-world-map.svg]]
+- [[04_Resources_Assets_Locations_location-city-port-nimbus-v1-port-nimbus.svg]]
+- [[04_Resources_Assets_Locations_location-city-observation-tender-clara-v1-observation-tender-clara.svg]]

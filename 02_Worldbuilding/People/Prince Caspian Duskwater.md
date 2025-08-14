@@ -1,35 +1,40 @@
 ---
+title: Prince Caspian Duskwater
+type: Npc
+tags:
+- both
+- rival
+- noble
+- alive
+- prince
+- npc
+- world/both
+- character
+- content/npc
+- active
+- draft
+created: '2024-12-20'
+modified: '2025-08-14'
+status: draft
+race: Human
+class: Noble/Warlock
+location: Exile (Various)
+level: 11
 MyCategory: Unknown
 MyContainer: None
 ac: 15
 alignment: Lawful Evil
-class: Noble/Warlock
-created: '2024-12-20'
 current_hp: 38
 faction: Independent (Building own)
 image: 04_Resources/Assets/NPCs/prince_caspian.jpg
 in_combat: true
 initiative: 14
-level: 11
-location: Exile (Various)
 max_hp: 55
 obsidianUIMode: preview
-race: Human
-status: draft
-tags:
-- alive
-- both
-- content/npc
-- draft
-- noble
-- npc
-- prince
-- rival
-- world/both
-type: Npc
 updated: '2025-08-13T12:34:17.697072+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -226,6 +231,103 @@ Prince Caspian Duskwater is [[Queen Seraphina Lumengarde]]'s younger brother, ex
 - Void pact consequences manifest
 - Final battle for throne
 
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Achieving fame
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Carefully chosen words
+
+**Physical Habits**: Paces while speaking
+
+## Current Activities
+
+Prince Caspian Duskwater is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Prince Caspian Duskwater needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Prince Caspian Duskwater stopped or removed
+3. **The Secret**: Information about Prince Caspian Duskwater's past surfaces
+4. **The Alliance**: Opportunity to work with or against Prince Caspian Duskwater
+5. **The Crisis**: Prince Caspian Duskwater is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Not purely evil, driven by legitimate grievance
 - His success means void entity invasion
@@ -251,6 +353,14 @@ Prince Caspian Duskwater is [[Queen Seraphina Lumengarde]]'s younger brother, ex
 - **Void Stone**: Communication with patron
 - **Letters**: Evidence of Queen's crimes
 
+
+
+
+## Relationship Web
+
+- [[Captain Mistwalker]]: *secret ally*
+- [[04_Resources_Assets_Symbols_symbol-heraldry-border-territories-border-territories.svg]]: *student*
+- [[04_Resources_Assets_Locations_location-city-drift-harbor-district-drift-harbor-district.svg]]: *patron*
 
 ## Connections
 

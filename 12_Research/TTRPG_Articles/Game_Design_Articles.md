@@ -1,11 +1,18 @@
+# Game_Design_Articles
+
 ---
-created: 2025-08-14
+title: Game Design Articles
 type: research
 tags:
-- articles
 - game-design
+- research
+- active
+- articles
 - theory
+created: 2025-08-14
+modified: '2025-08-14'
 ---
+
 
 # TTRPG Game Design Articles
 
@@ -44,3 +51,8 @@ tags:
 
 ---
 *Game design theory and practice*
+
+
+## Related
+
+*Links to related content will be added here.*

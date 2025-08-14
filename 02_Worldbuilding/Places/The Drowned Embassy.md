@@ -1,14 +1,20 @@
 ---
+title: The Drowned Embassy
+type: Location
+tags:
+- place
+- both
+- active
+- location
 created: null
+modified: '2025-08-14'
+status: active
+region: Unknown
+population: Unknown
 updated: '2025-08-13T12:34:17.015403+00:00'
 world: Both
-type: Location
-status: active
-tags:
-- active
-- both
-- location
 ---
+
 
 
 > [!figure] View
@@ -139,6 +145,27 @@ Legends speak of The Drowned Embassy as a nexus where past and present converge.
 - An NPC seeks discreet help at The Drowned Embassy to avert a public scandal.
 - A map overlay reveals a hidden approach to The Drowned Embassy active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -149,3 +176,61 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 - [[Aether Crystals]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[High Vigil Keeper Thalassa Depthmind]]
+- [[04_Resources_Assets_Locations_location-city-adult-education-programs-adult-education-programs.svg]]
+- [[Heart of Eternal Vigilance]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting The Drowned Embassy:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Drowned Embassy
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

@@ -1,17 +1,21 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both worlds
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
+title: Commander Eastwind Stormbreak
 type: Lore
+tags:
+- lore
+- both worlds
+- content/lore
+- world/both
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:15.861158+00:00'
 world: Both Worlds
 ---
+
 
 
 ## Overview
@@ -40,9 +44,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Eastern Kingdom Fleet]]
+- [[Eastern Kingdom Fleet]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Eastern Kingdom Fleet]]
+- [[Eastern Kingdom Fleet]]

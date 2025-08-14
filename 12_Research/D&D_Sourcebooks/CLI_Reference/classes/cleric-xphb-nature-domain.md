@@ -1,22 +1,28 @@
+# cleric-xphb-nature-domain
+
 ---
+title: cleric xphb nature domain
 aliases:
 - Nature Domain
-created: 2025-07-23 12:39
-cssclasses: json5e-class
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- importance/core
+- ttrpg-cli/subclass/cleric/nature
+- ttrpg-cli/compendium/src/5e/phb
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/cleric/nature
-- world/both
-type: note
+- importance/core
+created: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-class
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.455306'
 world: Both
 ---
+
 
 # Nature Domain
 *[[cleric-xphb|Cleric]]: Cleric Subclass*  
@@ -117,3 +123,8 @@ Legends speak of cleric xphb nature domain as a nexus where past and present con
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

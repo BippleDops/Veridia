@@ -1,20 +1,25 @@
+# Quick_Reference - DnD5e-DM Screen-2014
+
 ---
-type: Lore
-tags:
-- 5e
-- active
-- both
-- dm-screen
-- lore
-- note
+title: Quick Reference   DnD5e DM Screen 2014
 aliases:
 - DM Screen
+type: Lore
+tags:
+- lore
+- both
+- dm-screen
+- research
+- active
+- note
+- 5e
 created: '2025-07-23'
-modified: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
 world: Both
 updated: '2025-08-13T01:18:37.134317+00:00'
-status: active
 ---
+
 
 
 
@@ -181,3 +186,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[actions|03 Mechanics/CLI/actions]]
+
+
+## Related
+
+*Links to related content will be added here.*

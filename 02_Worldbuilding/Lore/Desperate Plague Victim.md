@@ -1,32 +1,36 @@
 ---
-category: Individual Character
-created: '2025-08-08'
-created_by: auto-stub
-significance: Human Representative
-status: complete
+title: Desperate Plague Victim
+type: Lore
 tags:
-- combat
-- quest
-- session-notes
-- crystal-enhanced
-- shadow-touched
-- both
-- complete
-- content/lore
-- desperation
 - human-cost
+- shadow-corruption
 - individual-story
+- desperation
+- shadow-touched
 - lore
 - plague-victim
-- reality-sickness
-- shadow-corruption
+- session-notes
 - status/complete
-- transformation-trauma
+- reality-sickness
+- quest
+- content/lore
+- combat
+- crystal-enhanced
 - world/both
-type: Lore
+- transformation-trauma
+- complete
+- both
+- active
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+category: Individual Character
+created_by: auto-stub
+significance: Human Representative
 updated: '2025-08-13T12:34:16.020645+00:00'
 world: Both
 ---
+
 
 
 # Desperate Plague Victim
@@ -35,16 +39,16 @@ world: Both
 
 ## Overview
 
-[[12_Research/D&D_References/Mira Shadowtouched]] represents thousands of ordinary citizens throughout both [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]] who have been caught in the crossfire of cosmic forces beyond their understanding. A former seamstress from [[12_Research/D&D_References/Crystalhaven]], Mira contracted a severe case of [[Shadow Corruption]] while caring for infected family members. Now slowly dying from reality sickness, she has become a desperate wanderer seeking any cure, no matter how dangerous or morally compromising.
+[[Mira Shadowtouched]] represents thousands of ordinary citizens throughout both [[Aethermoor]] and [[Aquabyssos]] who have been caught in the crossfire of cosmic forces beyond their understanding. A former seamstress from [[Crystalhaven]], Mira contracted a severe case of [[Shadow Corruption]] while caring for infected family members. Now slowly dying from reality sickness, she has become a desperate wanderer seeking any cure, no matter how dangerous or morally compromising.
 
-Her story exemplifies the human tragedy underlying the grand cosmic drama of [[12_Research/D&D_References/The Convergence Point]]—ordinary people suffering extraordinary consequences while powerful forces pursue their own agendas. Mira's desperate search for healing has led her into contact with every major faction and phenomenon in both worlds, making her both a victim and an unwitting catalyst for larger events.
+Her story exemplifies the human tragedy underlying the grand cosmic drama of [[The Convergence Point]]—ordinary people suffering extraordinary consequences while powerful forces pursue their own agendas. Mira's desperate search for healing has led her into contact with every major faction and phenomenon in both worlds, making her both a victim and an unwitting catalyst for larger events.
 
 ## Background and Personal History
 
 ### Before the Corruption
 
 **Life as a Seamstress (Ages 16-34)**
-Mira lived a simple but fulfilling life in [[12_Research/D&D_References/Crystalhaven]]'s artisan district:
+Mira lived a simple but fulfilling life in [[Crystalhaven]]'s artisan district:
 - **Family Business**: Inherited her mother's tailoring shop specializing in crystal-enhanced fabrics
 - **Community Standing**: Respected member of the Seamstress Guild with steady clientele
 - **Personal Life**: Married to [[02_Worldbuilding/Lore/Gareth Brightweave]], a fellow textile worker, with two young children
@@ -139,11 +143,11 @@ Unlike many corruption cases, Mira retains most of her individuality while the s
 ### Cross-Dimensional Hope
 
 **Recent Developments (Months 12-18):**
-- **[[12_Research/D&D_References/Customs House]] Crossing**: Illegally entered [[12_Research/D&D_References/Aquabyssos]] seeking different medical approaches
+- **[[Customs House]] Crossing**: Illegally entered [[Aquabyssos]] seeking different medical approaches
 - **Memory Therapy**: Attempted consciousness treatments that nearly drove her insane
 - **Pressure Experiments**: Underwent deep-sea pressure treatments that caused severe pain
-- **[[12_Research/D&D_References/Crystal Garden]] Pilgrimage**: Visited healing sanctuary but was turned away due to corruption risk
-- **[[12_Research/D&D_References/The Crimson Hand]] Contact**: Approached by recruiters offering cure in exchange for service
+- **[[Crystal Garden]] Pilgrimage**: Visited healing sanctuary but was turned away due to corruption risk
+- **[[The Crimson Hand]] Contact**: Approached by recruiters offering cure in exchange for service
 
 ## Current Situation and Daily Struggle
 
@@ -181,7 +185,7 @@ Unlike many corruption cases, Mira retains most of her individuality while the s
 
 ## Interactions with Major Factions
 
-### [[12_Research/D&D_References/The Crystal Throne]]
+### [[The Crystal Throne]]
 
 **Official Government Response:**
 - **Initial Contact**: Sought help from royal healers and government medical facilities
@@ -190,7 +194,7 @@ Unlike many corruption cases, Mira retains most of her individuality while the s
 - **Security Concerns**: Viewed as potential threat due to corruption's unpredictable nature
 - **Current Status**: Persona non grata in official facilities due to illegal activities
 
-### [[12_Research/D&D_References/The Crimson Hand]]
+### [[The Crimson Hand]]
 
 **Recruitment Attempts:**
 - **Initial Approach**: Contacted by recruiters offering cure in exchange for service
@@ -205,10 +209,10 @@ Unlike many corruption cases, Mira retains most of her individuality while the s
 - **Unconditional Support**: Only faction offering help without demanding service in return
 - **Resource Sharing**: Providing basic necessities and emotional support
 - **Research Cooperation**: Working with her to document corruption progression
-- **Healing Attempts**: Using [[12_Research/D&D_References/Healing Two Worlds]] techniques for treatment
+- **Healing Attempts**: Using [[Healing Two Worlds]] techniques for treatment
 - **Current Status**: Primary support network, though their resources are limited
 
-### [[12_Research/D&D_References/The Transformed Citizens]]
+### [[The Transformed Citizens]]
 
 **Peer Community:**
 - **Shared Experience**: Other transformation victims who understand her struggles
@@ -229,7 +233,7 @@ Mira's story illustrates how ordinary people suffer when powerful forces clash:
 - **Economic Exploitation**: Vulnerable individuals targeted by criminals and extremists
 - **Moral Compromise**: Desperation leading to ethically questionable choices
 
-### [[12_Research/D&D_References/The Convergence Point]] Preparation
+### [[The Convergence Point]] Preparation
 
 **Individual Perspective:**
 - **Fear of Change**: Terror that convergence will worsen her condition
@@ -295,9 +299,9 @@ Mira's story illustrates how ordinary people suffer when powerful forces clash:
 ### Potential Cures
 
 **Traditional Healing:**
-- **[[12_Research/D&D_References/Healing Two Worlds]] Techniques**: Unity-based approaches to corruption treatment
-- **[[12_Research/D&D_References/Crystal Garden]] Sanctuary**: Possible healing in stable merged reality zone
-- **Divine Intervention**: Direct assistance from [[12_Research/D&D_Statblocks/The Crimson Sage]] or [[12_Research/D&D_References/The Deep Mother]]
+- **[[Healing Two Worlds]] Techniques**: Unity-based approaches to corruption treatment
+- **[[Crystal Garden]] Sanctuary**: Possible healing in stable merged reality zone
+- **Divine Intervention**: Direct assistance from [[12_Research/D&D_Statblocks/The Crimson Sage]] or [[The Deep Mother]]
 - **Convergence Resolution**: Corruption eliminated when dimensional wounds heal
 - **Medical Breakthrough**: Scientific discovery enabling corruption reversal
 
@@ -358,7 +362,7 @@ Mira's story illustrates how ordinary people suffer when powerful forces clash:
 
 ## Connections
 
-- [[12_Research/D&D_References/Aethermoor - Session 01 Blood in the Harbor]]
+- [[Aethermoor - Session 01 Blood in the Harbor]]
 
 ## Player-Facing Summary
 
@@ -382,12 +386,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Customs House]]
-- [[12_Research/D&D_References/Crystal Garden]]
-- [[12_Research/D&D_References/Customs House]]
-- [[12_Research/D&D_References/The Convergence Point]]
-- [[12_Research/D&D_References/The Crimson Hand]]
-- [[12_Research/D&D_References/The Transformed Citizens]]
+- [[Customs House]]
+- [[Crystal Garden]]
+- [[Customs House]]
+- [[The Convergence Point]]
+- [[The Crimson Hand]]
+- [[The Transformed Citizens]]
 
 
 ## Related

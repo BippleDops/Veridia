@@ -1,14 +1,21 @@
+# Arctic Encounters Levels 14 Xge
+
 ---
-created: 2025-08-11
-status: active
+title: Arctic Encounters Levels 14 Xge
+type: research
 tags:
-- active
 - both
-- status/in-progress
+- research
 - world/both
+- active
+- status/in-progress
+created: 2025-08-11
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T12:34:03.830558+00:00'
 world: Both
 ---
+
 
 
 
@@ -32,3 +39,8 @@ Legends speak of arctic encounters levels 14 xge as a nexus where past and prese
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

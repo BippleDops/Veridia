@@ -1,13 +1,21 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Aethermoor Session 01
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+- aethermoor
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # 06_GM_Resources/Session_Packets/Aethermoor Session 01
 
@@ -24,8 +32,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/S-018 Choir Pirates Player]]
-- [[12_Research/D&D_References/Player Handout Aethermoor Airships]]
+- [[S-018 Choir Pirates Player]]
+- [[Player Handout Aethermoor Airships]]
 - [[04_Resources/Handouts/Doctrines/Doctrine Quick Reference]]
 - [[04_Resources/Handouts/Encounters/S-004 Cloud Canyon Player]]
 - [[04_Resources/Handouts/Encounters/S-201 Eclipse Raid Window Player]]
@@ -41,3 +49,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Captain Thorne Darkwater]]
+- [[04_Resources_Assets_Locations_location-city-dr-reef-brightwater-v1-dr-reef-brightwater.svg]]
+- [[04_Resources_Assets_Locations_location-city-pilgrimage-master-depth-guide-melancholy-v1-pilgrimage-master-depth-guide-melancholy.svg]]
+- [[04_Resources_Assets_Locations_location-city-cathedral-of-light-v1-cathedral-of-light.png]]
+- [[All NPCs]]
+
+
+## Important Locations
+
+- [[Memory Coral Reefs]]
+- [[Garden of Shadows]]
+- [[Duchess Cordelia Pearlheart]]

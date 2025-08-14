@@ -1,17 +1,23 @@
+# Template-Planet
+
 ---
+title: Template Planet
 type: Lore
-status: complete
 tags:
-- active
+- lore
 - both
 - category/planet
-- lore
+- research
+- active
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 obsidianUIMode: preview
 MyContainer: null
 world: Both
 updated: '2025-08-13T01:18:31.198930+00:00'
-created: '2025-08-11'
 ---
+
 
 
 
@@ -230,3 +236,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Lore/Template_Planet_Placeholder.png|02 Worldbuilding/Lore/Template Planet Placeholder.png]]
+
+
+## Related
+
+*Links to related content will be added here.*

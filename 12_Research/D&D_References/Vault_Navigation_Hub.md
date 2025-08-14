@@ -1,27 +1,33 @@
+# Vault_Navigation_Hub
+
 ---
+title: Vault Navigation Hub
 aliases:
 - Navigation Hub
 - Vault Home
 - Campaign Central
 - Master Index
-campaign: Aquabyssos & Aethermoor
-created: '2025-08-11'
-status: complete
-tags:
-- content/item
-- content/lore
-- hub
-- navigation
-- status/complete
-- vault-home
-- world/both
 type: Lore
-updated: '2025-08-12T23:37:32.978053'
+tags:
+- navigation
+- hub
+- status/complete
+- content/lore
+- world/both
+- research
+- vault-home
+- active
+- content/item
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+campaign: Aquabyssos & Aethermoor
+updated: 2025-08-13 07:59:50.494011
 world: Both
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.494011
 ---
+
 # 🧭 AQUABYSSOS & AETHERMOOR - Vault Navigation Hub
 
 > *Your complete guide to navigating the twin realms where ocean depths meet sky kingdoms*
@@ -302,3 +308,8 @@ updated: 2025-08-13T07:59:50.494011
 - [[Campaign_Dashboard|Campaign Dashboard]]
 - [[Campaign Quick Reference Sheets]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
+
+
+## Related
+
+*Links to related content will be added here.*

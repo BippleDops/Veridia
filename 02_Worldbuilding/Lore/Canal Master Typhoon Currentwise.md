@@ -1,19 +1,23 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- shadow-touched
-- aquabyssos
-- complete
-- content/location
-- content/lore
-- lore
-- status/in-progress
-- world/aquabyssos
+title: Canal Master Typhoon Currentwise
 type: Lore
+tags:
+- lore
+- aquabyssos
+- world/aquabyssos
+- content/lore
+- content/location
+- active
+- complete
+- status/in-progress
+- shadow-touched
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:15.945211+00:00'
 world: Aquabyssos
 ---
+
 
 
 ## Overview
@@ -42,12 +46,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Shadow Market Canals]]
+- [[Shadow Market Canals]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Shadow Market Canals]]
+- [[Shadow Market Canals]]
 
 
 ## Related

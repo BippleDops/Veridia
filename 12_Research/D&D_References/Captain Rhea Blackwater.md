@@ -1,14 +1,20 @@
+# Captain Rhea Blackwater
+
 ---
-tags:
-- active
-- both
-- npc
+title: Captain Rhea Blackwater
 type: NPC
-world: Both
-status: active
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:37.028588+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-captain-rhea-blackwater-captain-rhea-blackwater.svg]]
@@ -62,3 +68,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Captain Rhea Blackwater|02 Worldbuilding/People/Captain Rhea Blackwater]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

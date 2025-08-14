@@ -1,14 +1,21 @@
+# Sky Trader Zephyr Windcatcher
+
 ---
-updated: '2025-08-13T01:18:36.282377+00:00'
-created: '2025-08-11'
+title: Sky Trader Zephyr Windcatcher
+type: location
 tags:
 - aquabyssos
 - category/place
-- complete
+- research
+- active
 - location
+- complete
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
+updated: '2025-08-13T01:18:36.282377+00:00'
 world: Aquabyssos
-type: location
 obsidianUIMode: preview
 accessibility:
   screen_reader_summary: Sky Trader Zephyr Windcatcher is a notable location in Aquabyssos
@@ -23,6 +30,7 @@ accessibility:
   - X-Card
   - Open Door
 ---
+
 
 
 
@@ -84,3 +92,8 @@ Legends speak of Sky Trader Zephyr Windcatcher as a nexus where past and present
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,19 +1,26 @@
+# Underground Smuggling Networks
+
 ---
-tags:
-- aquabyssos
-- complete
-- criminal
-- lore
-- networks
-- resistance
-- smuggling
-- underground
+title: Underground Smuggling Networks
 type: lore
-world: Aquabyssos
-status: complete
+tags:
+- lore
+- aquabyssos
+- underground
+- research
+- active
+- networks
+- complete
+- smuggling
+- resistance
+- criminal
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.568579+00:00'
 ---
+
 
 
 # Underground Smuggling Networks
@@ -499,3 +506,7 @@ A foreign embassy is providing sanctuary for plague victims fleeing quarantine, 
 - [[Crystal Plague Infected NPCs]] - Individuals who networks serve and protect
 
 <!-- enriched: true -->
+
+## Related
+
+*Links to related content will be added here.*

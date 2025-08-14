@@ -1,37 +1,44 @@
+# Arcanum Heights
+
 ---
+title: Arcanum Heights
+type: Lore
 tags:
-- academia
-- aethermoor
-- completed
-- crystalhaven
-- enchantment
-- heights
-- location
 - lore
 - magical
 - magical-district
+- completed
+- academia
+- research
 - tower-district
+- active
+- location
+- heights
+- aethermoor
+- crystalhaven
+- enchantment
+created: '2025-08-09'
+modified: '2025-08-14'
 status: completed
+population: 12000
 world: Aethermoor
-type: Lore
 danger_level: 5
 parent_location: '[[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]'
 elevation: Upper Crystal Spires
 government: '[[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] Council of Mages'
-population: 12000
 specialties:
 - Advanced Magic Research
 - Artifact Creation
 - Planar Studies
 - Elemental Manipulation
 founded: Early Crystal Age
-created: '2025-08-09'
 updated: '2025-08-13T01:18:35.804454+00:00'
 related_entities:
 - '[[Professor Aldric Crystalweaver|02 Worldbuilding/People/Professor Aldric Crystalweaver]]'
 - '[[Crystal Gardens|02 Worldbuilding/Places/Crystal Gardens]]'
 - '[[Abyssal Academy|02 Worldbuilding/Lore/Abyssal Academy]]'
 ---
+
 
 
 
@@ -284,3 +291,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Location Index|02 Worldbuilding/Lore/Location Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

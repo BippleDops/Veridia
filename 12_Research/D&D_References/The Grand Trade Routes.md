@@ -1,18 +1,25 @@
+# The Grand Trade Routes
+
 ---
-world: Both
-updated: '2025-08-13T01:18:35.552832+00:00'
-created: '2025-08-12'
-status: complete
+title: The Grand Trade Routes
+type: Lore
 tags:
-- both
-- complete
-- cross-realm
 - economy
 - lore
-- merchant-princes
+- both
 - trade-routes
-type: Lore
+- research
+- active
+- complete
+- cross-realm
+- merchant-princes
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Both
+updated: '2025-08-13T01:18:35.552832+00:00'
 ---
+
 
 
 > [!figure] Map
@@ -451,3 +458,8 @@ Use the trade routes as a framework for economic intrigue, political machination
 
 The economic complexity allows for sophisticated plots involving market manipulation, supply chain disruption, and financial warfare. Routes can be altered by political events, natural disasters, or supernatural interference, creating dynamic conditions that keep players engaged with the evolving economic landscape.
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

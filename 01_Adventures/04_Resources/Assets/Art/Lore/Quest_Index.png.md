@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Quest Index.png
+aliases:
+- Quest Indexpng
 type: quest
-status: placeholder
 tags:
 - placeholder
+- lore
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Art/Lore/Quest_Index.png
 
@@ -24,7 +31,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Quest Index]]
+- [[Quest Index]]
 - [[02_Worldbuilding/Lore/Quest Index]]
 
 ## Notes
@@ -36,3 +43,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Locations_location-city-grief-overwhelming-syndrome-grief-overwhelming-syndrome.svg]]
+- [[04_Resources_Assets_Locations_location-city-deep-current-flowmaster-v1-deep-current-flowmaster.svg]]
+- [[Lady Crystal-Heart Miraleth]]
+- [[Quest - The Corruption Cure]]
+- [[04_Resources_Assets_Locations_location-city-terminal-master-hadrian-depthbridge-v1-terminal-master-hadrian-depthbridge.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-international-trade-routes-international-trade-routes.svg]]
+- [[04_Resources_Assets_Locations_location-city-archivist-reef-bookkeeper-archivist-reef-bookkeeper.svg]]
+- [[04_Resources_Assets_Locations_location-city-symphony-of-the-abyss-recipe-symphony-of-the-abyss-recipe.svg]]

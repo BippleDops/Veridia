@@ -1,14 +1,21 @@
+# World_Building_Input
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- player/feedback
-- worldbuilding/input
-- campaign/development
+title: World Building Input
 type: Feedback Form
+tags:
+- worldbuilding/input
+- research
+- player/feedback
+- active
+- campaign/development
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # World Building Input
 ## Help expand the campaign world
@@ -158,3 +165,7 @@ _______________________________________
 ```
 
 *Player input makes the world richer and more engaging*
+
+## Related
+
+*Links to related content will be added here.*

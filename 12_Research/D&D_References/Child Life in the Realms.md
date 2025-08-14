@@ -1,22 +1,29 @@
+# Child Life in the Realms
+
 ---
+title: Child Life in the Realms
+type: Social Guide
 tags:
 - both
-- both-realms
 - children
-- complete
 - culture
-- daily-life
-- education
+- both-realms
 - family
 - social guide
+- research
+- active
+- education
+- complete
 - social-guide
+- daily-life
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Social Guide
 created_by: claude
-created: '2025-08-12'
 updated: '2025-08-13T04:22:13.596477+00:00'
 ---
+
 
 
 
@@ -687,3 +694,8 @@ Legends speak of Child Life in the Realms as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

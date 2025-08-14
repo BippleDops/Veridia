@@ -1,27 +1,33 @@
 ---
-affiliation: '[[The Verdant Accord]] & The Heart Tree'
-age: Unknown (appears ancient)
-created: '2025-08-09'
-created_by: auto-stub
-location: '[[The Verdant Reach]] - Heart Tree Grove'
-race: Half-Dryad (Shard-fused)
-role: Shard-Bonded Druid
-status: complete
+title: The Emerald Sage Willowbark
+type: Npc
 tags:
-- aethermoor
-- complete
-- content/npc
-- druid
-- emerald-shard
+- status/complete
+- seven-shards
 - nature-guardian
 - npc
-- seven-shards
-- status/complete
+- emerald-shard
+- content/npc
+- character
 - world/aethermoor
-type: Npc
+- druid
+- active
+- complete
+- aethermoor
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+race: Half-Dryad (Shard-fused)
+class: Unknown
+location: '[[The Verdant Reach]] - Heart Tree Grove'
+affiliation: '[[The Verdant Accord]] & The Heart Tree'
+age: Unknown (appears ancient)
+created_by: auto-stub
+role: Shard-Bonded Druid
 updated: '2025-08-13T12:34:17.586760+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait
@@ -432,6 +438,136 @@ Willowbark focuses on preparing others and chooses to:
 
 ---
 
+
+
+## Appearance
+
+The Emerald Sage Willowbark presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Determined, empathetic, cautious
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Seeking redemption
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+The Emerald Sage Willowbark harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Divine mission
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Deep and resonant
+
+**Speech Pattern**: Formal and elaborate
+
+**Physical Habits**: Gestures expressively
+
+## Current Activities
+
+The Emerald Sage Willowbark is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: The Emerald Sage Willowbark needs assistance with a delicate matter
+2. **The Opposition**: Someone wants The Emerald Sage Willowbark stopped or removed
+3. **The Secret**: Information about The Emerald Sage Willowbark's past surfaces
+4. **The Alliance**: Opportunity to work with or against The Emerald Sage Willowbark
+5. **The Crisis**: The Emerald Sage Willowbark is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Represents wisdom and long-term perspective on Shard crisis
 - Can provide exposition on natural magic and Shard history
@@ -442,6 +578,13 @@ Willowbark focuses on preparing others and chooses to:
 - **Social Role**: Ancient wisdom keeper, environmental advocate, bridge to fey courts
 - **Plot Function**: Living example of successful Shard integration and its costs
 - **Power Balance**: Extremely powerful within her domain, but bound to [[The Verdant Reach]]
+
+
+
+## Relationship Web
+
+- [[Captain Storm Tideguard]]: *former lover*
+- [[04_Resources_Assets_Symbols_symbol-heraldry-divine-transformation-theolog-divine-transformation-theolog.svg]]: *secret ally*
 
 ## Connections
 

@@ -1,22 +1,28 @@
+# flamethrower-coach-xdmg
+
 ---
+title: flamethrower coach xdmg
 aliases:
 - Flamethrower Coach
-created: 2025-07-23
-cssclasses: json5e-object
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- content/item
+- ttrpg-cli/object/size/large
+- research
+- world/both
+- active
 - note
+- content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/object/size/large
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-object
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.752596'
 world: Both
 ---
+
 
 # Flamethrower Coach
 %%-- Embedded content starts on the next line. --%%
@@ -67,3 +73,8 @@ Legends speak of flamethrower coach xdmg as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

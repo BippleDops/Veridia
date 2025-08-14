@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Quest1
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Quest1
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Location_Template]]
+- [[Location_Template]]
 - [[12_Research/D&D_Statblocks/NPC_Template]]
 
 ## Notes
@@ -36,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Portraits_portrait-npc-trade-captain-sterling-trade-captain-sterling.svg]]
+- [[Captain Marrow Drinker]]
+- [[Otherworldly Pacts]]
+- [[04_Resources_Assets_Locations_location-city-master-thorek-crystalhammer-master-thorek-crystalhammer.svg]]
+- [[Sir Theron Crystalward]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-chief-engineer-vera-steamheart-v1-chief-engineer-vera-steamheart.svg]]
+- [[04_Resources_Assets_Locations_location-city-alternative-path-fled-city-alternative-path-fled-city.svg]]
+- [[04_Resources_Assets_Locations_location-city-current-riders-guild-v1-current-riders-guild.svg]]

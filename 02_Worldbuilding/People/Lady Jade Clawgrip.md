@@ -1,26 +1,32 @@
 ---
-affiliation: '[[Silverscale Consortium]] - Board of Scales'
-age: '38'
-created: '2025-08-09'
-created_by: auto-stub
-location: '[[The Silver Tower of Commerce]] - Acquisitions Floor'
-race: Half-Dragon (Silver Heritage)
-role: Scale of Acquisition
-status: complete
+title: Lady Jade Clawgrip
+type: Npc
 tags:
-- aethermoor
-- complete
-- content/npc
+- status/complete
 - corporate-raider
 - npc
-- ruthless-executive
 - silverscale-consortium
-- status/complete
+- character
+- content/npc
+- ruthless-executive
 - world/aethermoor
-type: Npc
+- active
+- complete
+- aethermoor
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+race: Half-Dragon (Silver Heritage)
+class: Unknown
+location: '[[The Silver Tower of Commerce]] - Acquisitions Floor'
+affiliation: '[[Silverscale Consortium]] - Board of Scales'
+age: '38'
+created_by: auto-stub
+role: Scale of Acquisition
 updated: '2025-08-13T12:34:17.700652+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait
@@ -275,7 +281,14 @@ When encountered in [[The Silver Tower of Commerce]] or another major business l
 - Unconsciously hoards valuable items brought into her presence
 - Temperature drops slightly around her when angry
 
-### Motivations Beyond Profit
+#
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations Beyond Profit
 - **Grandfather's Legacy**: Proving worthy of [[Argyros the Silver]]'s business empire
 - **Dragon Validation**: Establishing dominance in human society as dragon ancestor did
 - **Perfectionist Drive**: Cannot tolerate inefficiency or wasted potential
@@ -485,6 +498,104 @@ Internal Consortium politics threaten civil war as board members position themse
 
 ---
 
+
+
+## Appearance
+
+Lady Jade Clawgrip presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Wise, determined, wise
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Secrets
+
+Lady Jade Clawgrip harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Stolen identity
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Direct and concise
+
+**Physical Habits**: Gestures expressively
+
+## Current Activities
+
+Lady Jade Clawgrip is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Lady Jade Clawgrip needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Lady Jade Clawgrip stopped or removed
+3. **The Secret**: Information about Lady Jade Clawgrip's past surfaces
+4. **The Alliance**: Opportunity to work with or against Lady Jade Clawgrip
+5. **The Crisis**: Lady Jade Clawgrip is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Perfect corporate villain with supernatural backing
 - Her dragon nature explains superhuman business abilities  
@@ -495,6 +606,14 @@ Internal Consortium politics threaten civil war as board members position themse
 - **Social Encounters**: Negotiations are always high-stakes with hidden consequences  
 - **Character Development**: Can evolve from business rival to existential threat as dragon nature emerges
 - **Campaign Impact**: Her success or failure should have lasting economic and political consequences
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-pool-of-sacred-drowning-v1-pool-of-sacred-drowning.svg]]: *bitter rival*
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-shadowsail-captain-shadowsail.svg]]: *childhood friend*
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-stellar-confluence-the-stellar-confluence.svg]]: *mentor*
 
 ## Connections
 

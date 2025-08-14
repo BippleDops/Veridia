@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Master Cultivator Thalia Greenglow
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.682577+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -98,12 +106,29 @@ Master Cultivator Thalia Greenglow represents one of the most extraordinary achi
 > - Has found a way to communicate with the [[Deep Mother]] through root networks
 > - Is working on a "healing vine" that could cure crystal corruption
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Cold and distant
+
+**Speech Pattern**: Carefully chosen words
+
+**Physical Habits**: Gestures expressively
+
 ## Current Activities
 - Developing new strains of plants that can clean corruption from both realms
 - Training apprentices in dual-realm cultivation techniques
 - Negotiating with both governments for expanded research permissions
 - Investigating reports of wild crystal-plant hybrids appearing naturally
 - Creating emergency food supplies that work in both environments
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 ## Motivations
 1. **Primary**: Prove that cooperation between realms is not only possible but beneficial
@@ -148,6 +173,61 @@ Master Cultivator Thalia Greenglow represents one of the most extraordinary achi
 
 *"I have seen crystal roses bloom in the deepest trenches and kelp forests singing with crystal resonance. Tell me again why we must remain divided?"* - Challenging opposition
 
+
+
+## Background
+
+Master Cultivator Thalia Greenglow's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Plot Hooks
+
+1. **The Request**: Master Cultivator Thalia Greenglow needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Master Cultivator Thalia Greenglow stopped or removed
+3. **The Secret**: Information about Master Cultivator Thalia Greenglow's past surfaces
+4. **The Alliance**: Opportunity to work with or against Master Cultivator Thalia Greenglow
+5. **The Crisis**: Master Cultivator Thalia Greenglow is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Perfect mediator between realm conflicts
 - Her research can provide solutions to major plot problems
@@ -170,6 +250,14 @@ Master Cultivator Thalia Greenglow represents one of the most extraordinary achi
 - [[The Depth Accords]] - Provides agricultural solutions
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - May have the cure
 
+
+
+
+## Relationship Web
+
+- [[Character_Creation_Extended]]: *sworn enemy*
+- [[Madame Crystal Eye]]: *patron*
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-nerida-stormcrest-captain-nerida-stormcrest.svg]]: *secret ally*
 
 ## Connections
 

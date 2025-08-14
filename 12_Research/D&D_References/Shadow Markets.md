@@ -1,15 +1,21 @@
+# Shadow Markets
+
 ---
-tags:
-- active
-- aquabyssos
-- lore
-- npc
+title: Shadow Markets
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- npc
+- research
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.667243+00:00'
 ---
+
 
 
 
@@ -53,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Aboleth Prime Yoth]]
 - [[The Deepmind]]
 - [[Quest - The Pretender's Crown]]
+
+
+## Related
+
+*Links to related content will be added here.*

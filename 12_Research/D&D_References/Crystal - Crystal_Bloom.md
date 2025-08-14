@@ -1,18 +1,24 @@
+# Crystal - Crystal_Bloom
+
 ---
 title: Crystal Bloom Transformation
 type: transformation
 tags:
+- progression
 - both
 - character-options
-- complete
 - crystal
-- progression
+- research
+- active
+- complete
 - transformation
-status: complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:37.131232+00:00'
 world: Both
 ---
+
 
 
 # Crystal Bloom
@@ -215,3 +221,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Transformation_Compendium|03 Mechanics/Transformations/Transformation Compendium]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,17 +1,24 @@
+# Pressure_Altitude_Reference
+
 ---
-created: '2025-08-13'
-status: complete
+title: Pressure Altitude Reference
+type: Reference
 tags:
-- gm-resources
-- reference-cards
 - pressure
-- altitude
 - environment
 - mechanics
-type: Reference
+- research
+- gm-resources
+- active
+- altitude
+- reference-cards
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
+
 
 # Pressure & Altitude Reference
 
@@ -244,3 +251,7 @@ world: Both
 - [[Complete_Pressure_Adaptation_System]]
 - [[Underwater_Combat_Rules]]
 - [[Vehicles]]
+
+## Related
+
+*Links to related content will be added here.*

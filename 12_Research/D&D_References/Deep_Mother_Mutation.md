@@ -1,15 +1,22 @@
+# Deep_Mother_Mutation
+
 ---
-created: '2025-08-13'
-status: ready
-tags:
-- status/ready
-- type/transformation-rules
-- world/both
-- threat/deep-mother
+title: Deep Mother Mutation
 type: Mechanics
+tags:
+- research
+- world/both
+- type/transformation-rules
+- active
+- threat/deep-mother
+- status/ready
+created: '2025-08-13'
+modified: '2025-08-14'
+status: ready
 updated: '2025-08-13T12:45:00.000000'
 world: Both
 ---
+
 
 # Deep Mother Mutation - Transformation Rules
 
@@ -200,3 +207,7 @@ Deep Mother Mutation represents the most dangerous form of transformation in bot
 ---
 
 **Warning**: This transformation represents an existential threat to player agency and campaign stability. Use sparingly and always provide hope for recovery or prevention until the final stage.
+
+## Related
+
+*Links to related content will be added here.*

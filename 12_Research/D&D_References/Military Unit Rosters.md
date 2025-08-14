@@ -1,19 +1,26 @@
+# Military Unit Rosters
+
 ---
-tags:
-- aquabyssos
-- brotherhood
-- command-structure
-- complete
-- lore
-- military
-- relationships
-- warfare
+title: Military Unit Rosters
 type: Lore
-world: Aquabyssos
-status: complete
+tags:
+- lore
+- aquabyssos
+- relationships
+- military
+- brotherhood
+- research
+- active
+- complete
+- command-structure
+- warfare
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.876301+00:00'
 ---
+
 
 
 # Military Unit Rosters
@@ -623,3 +630,8 @@ Legends speak of Military Unit Rosters as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

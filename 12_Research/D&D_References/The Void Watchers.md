@@ -1,29 +1,36 @@
+# The Void Watchers
+
 ---
+title: The Void Watchers
+type: Group
 tags:
-- ancient
+- guardians
+- faction
+- research
 - both aethermoor & aquabyssos
+- reality-protectors
+- ancient
+- active
 - both-aethermoor-&-aquabyssos
 - complete
-- cross-realm
-- faction
-- group
-- guardians
-- reality-protectors
 - void-watchers
+- cross-realm
+- group
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
+headquarters: '[[The Observatory Between]] (outside normal reality)'
 world: Both Aethermoor & Aquabyssos
-type: Group
 faction_type: Reality Guardian Order
 alignment: Lawful Neutral (Cosmic Perspective)
-headquarters: '[[The Observatory Between]] (outside normal reality)'
 leader: '[[The First Watcher]] (ancient entity)'
 members: ~200 across both realms and beyond
 influence: Hidden but Critical
 purpose: Prevent reality collapse and dimensional instability
 created_by: auto-stub
-created: '2025-08-09'
 updated: '2025-08-13T01:18:36.680537+00:00'
 ---
+
 
 
 
@@ -484,3 +491,8 @@ Legends speak of The Void Watchers as a nexus where past and present converge. L
 
 - [[Master_Groups_Index|Master Groups Index]]
 - [[The Liminal Trading Company]]
+
+
+## Related
+
+*Links to related content will be added here.*

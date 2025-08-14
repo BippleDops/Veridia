@@ -1,15 +1,21 @@
+# Sunken Ruins of Tidal's Rest
+
 ---
-tags:
-- active
-- aquabyssos
-- location
-- lore
+title: Sunken Ruins of Tidal's Rest
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- research
+- active
+- location
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.192575+00:00'
 ---
+
 
 
 
@@ -37,3 +43,8 @@ Legends speak of Sunken Ruins of Tidal's Rest as a nexus where past and present 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

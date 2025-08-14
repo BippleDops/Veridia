@@ -1,16 +1,24 @@
+# Dr. Melissa Healwright
+
 ---
+title: Dr. Melissa Healwright
+aliases:
+- Dr Melissa Healwright
+type: Lore
 tags:
-- active
-- aethermoor
-- complete
 - lore
 - quest
-type: Lore
-world: Aethermoor
-status: complete
+- research
+- active
+- complete
+- aethermoor
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+world: Aethermoor
 updated: '2025-08-13T12:34:13.323504+00:00'
 ---
+
 
 
 
@@ -49,3 +57,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Quest - The Pretender]]
+
+
+## Related
+
+*Links to related content will be added here.*

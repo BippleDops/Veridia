@@ -1,13 +1,22 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Marina Tidecrest
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- npc
+- character
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+race: Unknown
+class: Unknown
+location: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/People/Marina Tidecrest
 
@@ -24,8 +33,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/World_Bible_Index]]
-- [[12_Research/D&D_References/World Bible Index]]
+- [[World_Bible_Index]]
+- [[World Bible Index]]
 
 ## Notes
 

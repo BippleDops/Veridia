@@ -1,15 +1,21 @@
+# Councilor Tidal Balancekeeper
+
 ---
-tags:
-- active
-- aquabyssos
-- location
+title: Councilor Tidal Balancekeeper
 type: Location
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.173423+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-councilor-tidal-balancekeeper-councilor-tidal-balancekeeper.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Councilor Tidal Balancekeeper|02 Worldbuilding/Places/Councilor Tidal Balancekeeper]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

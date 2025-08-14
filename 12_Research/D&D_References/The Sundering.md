@@ -1,22 +1,30 @@
+# The Sundering
+
 ---
+title: The Sundering
 aliases:
 - The Great Sundering
 - The Magical Cataclysm
 - The Breaking of Aethel
-tags:
-- aethel-shattered-isles
-- both
-- cataclysm
-- complete
-- historical-event
-- historical-events
-- history
-- lore
-- magical-disaster
-- magocracy
-- timeline
-- world-changing-event
 type: Lore
+tags:
+- lore
+- both
+- history
+- historical-events
+- timeline
+- historical-event
+- magocracy
+- world-changing-event
+- magical-disaster
+- research
+- active
+- complete
+- cataclysm
+- aethel-shattered-isles
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 category: Magical Cataclysm
 significance: World-Shaping Disaster
 time_period: Year 847 BCE (Before Current Era)
@@ -27,8 +35,6 @@ participants:
 - Nine High Magisters
 - Continental Population
 outcome: Shattering of Continent, Formation of Shattered Isles
-status: complete
-created: '2025-08-11'
 updated: '2025-08-11T00:00:00+00:00'
 related_entities:
 - '[[The Shattered Isles]]'
@@ -40,6 +46,7 @@ related_entities:
 - '[[Aethermoor]]'
 world: Both
 ---
+
 
 
 
@@ -1291,3 +1298,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Master_Lore_Index|Master Lore Index]]
 - [[Aetheric Wind Songs]]
+
+
+## Related
+
+*Links to related content will be added here.*

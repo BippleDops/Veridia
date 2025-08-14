@@ -1,25 +1,31 @@
+# Items - New Item
+
 ---
+title: Items   New Item
+aliases:
+- ItemOtherName
 type: Item
+tags:
+- both
+- category/item
+- research
+- active
+- item
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 attunement: false
 my-container: '[[The Giants Skull]]'
 my-category: null
-tags:
-- active
-- both
-- category/item
-- item
 obsidian-u-i-mode: preview
-aliases:
-- ItemOtherName
 connected_-quests:
 - Template-Quest
 connected_-groups:
 - Template-Group
 world: Both
 updated: '2025-08-13T01:18:37.140457+00:00'
-created: '2025-08-11'
-status: active
 ---
+
 
 
 
@@ -107,3 +113,8 @@ Legends speak of New Item as a nexus where past and present converge. Locals des
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

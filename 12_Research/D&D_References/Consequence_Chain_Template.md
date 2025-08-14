@@ -1,3 +1,15 @@
+# Consequence_Chain_Template
+
+---
+title: Consequence Chain Template
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Consequence Chain Tracking System
 
 ## Overview
@@ -89,3 +101,8 @@ Economic actions that reshape larger market and social systems
 
 ---
 *Use this framework to create living, reactive world where player actions have meaningful and trackable consequences.*
+
+
+## Related
+
+*Links to related content will be added here.*

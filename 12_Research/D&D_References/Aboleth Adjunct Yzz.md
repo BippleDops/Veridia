@@ -1,29 +1,35 @@
+# Aboleth Adjunct Yzz
+
 ---
+title: Aboleth Adjunct Yzz
+type: Location
 tags:
-- aboleth
-- alien-intelligence
 - aquabyssos
-- bio-laboratory
-- complete
-- dangerous
+- aboleth
 - deep-sea
-- location
 - research
+- dangerous
+- active
+- location
+- complete
+- alien-intelligence
+- bio-laboratory
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 category: Bio-Research Facility
 depth: 3,000+ feet
 difficulty: Levels 8-15
 owner: Aboleth Consortium
 danger_level: Extreme
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Research Laboratory
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] View
@@ -537,3 +543,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Gilded Shard]]
 - [[The Hadal Depths]]
 - [[The Sunken Library of Thalassius]]
+
+
+## Related
+
+*Links to related content will be added here.*

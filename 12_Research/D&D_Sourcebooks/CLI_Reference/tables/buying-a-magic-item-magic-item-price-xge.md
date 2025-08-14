@@ -1,20 +1,26 @@
+# buying-a-magic-item-magic-item-price-xge
+
 ---
+title: buying a magic item magic item price xge
 aliases:
 - Buying a Magic Item; Magic Item Price
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- ttrpg-cli/compendium/src/5e/xge
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/xge
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.672269'
 world: Both
 ---
+
 
 # Buying a Magic Item; Magic Item Price
 *Source: Xanathar's Guide to Everything p. 126* 
@@ -51,3 +57,8 @@ Legends speak of buying a magic item magic item price xge as a nexus where past 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,26 +1,30 @@
 ---
-created: '2025-08-12'
-status: complete
+title: Diplomatic Event Scenarios
+type: Lore
 tags:
-- quest
-- crystal-enhanced
-- shadow-touched
-- aquatic
+- lore
 - aquabyssos
-- complete
+- mechanics/social
 - content/adventure
+- status/complete
+- international
+- aquatic
+- quest
 - content/lore
 - events
-- international
-- lore
-- mechanics/social
-- politics
-- status/complete
+- active
+- complete
 - world/aquabyssos
-type: Lore
+- politics
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.035286+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Diplomatic Event Scenarios

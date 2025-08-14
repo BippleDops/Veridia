@@ -1,3 +1,15 @@
+# VIDEO_TUTORIAL_SCRIPTS
+
+---
+title: VIDEO TUTORIAL SCRIPTS
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # CORDELIA VAULT - VIDEO TUTORIAL SCRIPTS
 
 **Version**: 1.0 | **Updated**: August 13, 2025  
@@ -977,3 +989,7 @@ python scripts/database_optimizer.py --vault-path . --optimize-all
 **Estimated Production Time**: 40 hours (recording + editing)  
 **Target Completion**: Phase 5 implementation  
 **Next Review**: Post-production feedback integration
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,27 +1,34 @@
+# The Pressure Maelstroms
+
 ---
-affected_areas: Deep Ocean Zones
+title: The Pressure Maelstroms
+type: Mechanics
+tags:
+- environmental-hazard
+- aquabyssos
+- dangerous-waters
+- status/complete
+- hazard
+- mechanics
+- research
+- natural-phenomenon
+- active
+- complete
+- environmental_hazard
+- world/aquabyssos
 created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+affected_areas: Deep Ocean Zones
 created_by: Claude
 danger_level: 4
 duration: 3-7 days per manifestation
 frequency: Rare but Predictable
 hazard_type: Pressure Anomaly
-status: complete
-tags:
-- aquabyssos
-- complete
-- dangerous-waters
-- environmental-hazard
-- environmental_hazard
-- hazard
-- mechanics
-- natural-phenomenon
-- status/complete
-- world/aquabyssos
-type: Mechanics
 updated: '2025-08-13T12:34:28.522553+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -345,3 +352,8 @@ Legends speak of The Pressure Maelstroms as a nexus where past and present conve
 
 - [[The Liminal Trading Company]]
 - [[The Depth Wardens]]
+
+
+## Related
+
+*Links to related content will be added here.*

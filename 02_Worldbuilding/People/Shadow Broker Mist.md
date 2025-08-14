@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Shadow Broker Mist
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.679974+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -99,12 +107,29 @@ Known only as "Mist," this enigmatic figure operates in the liminal spaces betwe
 > - Her shadow nature is slowly consuming her - she's running out of time
 > - The violet eyes are actually trapped souls of her first victims
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Sharp and precise
+
+**Speech Pattern**: Formal and elaborate
+
+**Physical Habits**: Maintains intense eye contact
+
 ## Current Activities
 - Building comprehensive blackmail files on [[Parliament of Echoes]]
 - Investigating the connection between surface and depth shadow magic
 - Competing with [[Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] for information supremacy
 - Recruiting new shadow-touched agents through manipulation and desperation
 - Searching for ways to stabilize her shadow form
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 ## Motivations
 1. **Primary**: Accumulate secrets and power to control both realms
@@ -150,6 +175,61 @@ Known only as "Mist," this enigmatic figure operates in the liminal spaces betwe
 
 *"Shadows remember what light forgets. I am shadow, therefore I am memory incarnate."* - Philosophical observation
 
+
+
+## Background
+
+Shadow Broker Mist's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Plot Hooks
+
+1. **The Request**: Shadow Broker Mist needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Shadow Broker Mist stopped or removed
+3. **The Secret**: Information about Shadow Broker Mist's past surfaces
+4. **The Alliance**: Opportunity to work with or against Shadow Broker Mist
+5. **The Crisis**: Shadow Broker Mist is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Use sparingly - her presence should feel supernatural and threatening
 - Perfect for providing exposition through blackmail or information sales
@@ -172,6 +252,15 @@ Known only as "Mist," this enigmatic figure operates in the liminal spaces betwe
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Competing for same secrets
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Her shadow network is involved
 
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-marina-dreamwhisper-marina-dreamwhisper.svg]]: *family member*
+- [[04_Resources_Assets_Locations_location-city-portal-commander-marina-bridgewright-v1-portal-commander-marina-bridgewright.png]]: *sworn enemy*
+- [[04_Resources_Assets_Locations_location-city-dr-vera-spectrumseeker-v1-dr-vera-spectrumseeker.svg]]: *sworn enemy*
+- [[04_Resources_Assets_Locations_location-city-the-crystal-cathedral-of-pure-light-v1-the-crystal-cathedral-of-pure-light.svg]]: *patron*
 
 ## Connections
 

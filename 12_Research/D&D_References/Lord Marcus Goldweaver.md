@@ -1,14 +1,20 @@
+# Lord Marcus Goldweaver
+
 ---
-tags:
-- active
-- aethermoor
-- npc
+title: Lord Marcus Goldweaver
 type: NPC
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.828702+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-lord-marcus-goldweaver-lord-marcus-goldweaver.svg]]
@@ -62,3 +68,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Lord Marcus Goldweaver|02 Worldbuilding/People/Lord Marcus Goldweaver]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

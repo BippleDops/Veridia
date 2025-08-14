@@ -1,23 +1,29 @@
+# Rules_Reference - Quick_Reference - DnD5e-SideScreen-2014
+
 ---
+title: Rules Reference   Quick Reference   DnD5e SideScreen 2014
 aliases:
 - Side Screen
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
-status: draft
-tags:
-- 5e
-- both
-- content/lore
-- dm-screen
-- draft
-- lore
-- note
-- status/draft
-- world/both
 type: Lore
+tags:
+- lore
+- both
+- status/draft
+- note
+- dm-screen
+- content/lore
+- world/both
+- research
+- active
+- draft
+- 5e
+created: 2025-07-23 12:39
+modified: '2025-08-14'
+status: draft
 updated: '2025-08-13T12:34:17.782198+00:00'
 world: Both
 ---
+
 
 
 
@@ -179,3 +185,8 @@ Legends speak of DnD5e SideScreen 2014 as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

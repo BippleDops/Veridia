@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 8   The Stellar Convergence
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 8 - The Stellar Convergence
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[High Tide Environmental Effects]]
+- [[NPC Name 2]]
+- [[The King's Ears]]
+- [[The Resonance Prophet]]
+- [[Medic Captain Truewater]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-crystal-mines-crystal-mines.svg]]
+- [[04_Resources_Assets_Locations_location-city-university-system-v1-university-system.svg]]
+- [[Memory Merchant Zephyr Mindweaver]]

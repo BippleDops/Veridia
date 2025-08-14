@@ -1,9 +1,16 @@
 ---
+title: step 004
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 92
 step: 4
 total_step: 9104
 ---
+
 
 # Phase 92 - Step 4
 

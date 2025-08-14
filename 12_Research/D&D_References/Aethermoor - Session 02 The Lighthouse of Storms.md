@@ -1,17 +1,24 @@
+# Aethermoor - Session 02 The Lighthouse of Storms
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aethermoor
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/aethermoor
+title: Aethermoor   Session 02 The Lighthouse of Storms
 type: Lore
+tags:
+- lore
+- content/lore
+- research
+- world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.831062+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -263,3 +270,8 @@ Per Player: 200-250 (depending on party size)
 - [[Vex Shadowthorn's Apprentices]]
 - [[The Whisper Island Mystery]]
 - [[Captain Blackwater's Fate]]
+
+
+## Related
+
+*Links to related content will be added here.*

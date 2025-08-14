@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Sacred Order of Luminous Daw
+type: Faction
 tags:
-- aethermoor
-- complete
 - content/faction
 - faction
-- status/in-progress
+- organization
 - world/aethermoor
-type: Faction
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.445012+00:00'
 world: Aethermoor
 ---
+
 
 
 ## Overview
@@ -52,3 +59,8 @@ Legends speak of Sacred Order of Luminous Dawn 2 as a nexus where past and prese
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Known Members
+
+- [[Working Class Citizens]]

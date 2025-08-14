@@ -1,19 +1,26 @@
+# Order of the Sunken Crown
+
 ---
+title: Order of the Sunken Crown
+type: Lore
 tags:
-- aquabyssos
-- complete
-- faction
 - lore
+- aquabyssos
 - order
-- organization
 - sunken-crown
+- faction
+- organization
+- research
+- active
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -82,3 +89,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Thalassius the Wise|02 Worldbuilding/Lore/Thalassius The Wise]]
+
+
+## Related
+
+*Links to related content will be added here.*

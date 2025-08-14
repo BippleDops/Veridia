@@ -1,32 +1,38 @@
 ---
+title: Consortium Security Constructs
+type: Faction
+tags:
+- status/complete
+- content/faction
+- faction
+- enforcement
+- silverscale-consortium
+- organization
+- security
+- world/aethermoor
+- construct
+- active
+- complete
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Enforcement Citadel]]'
+membership: Unknown
 MyCategory: Unknown
 MyContainer: None
 alignment: Lawful Evil
-created: '2025-08-08'
 created_by: auto-stub
 faction_type: Corporate Security Force
-headquarters: '[[The Enforcement Citadel]]'
 influence: Continental (enforcement operations)
 leader: '[[Commander Ironprice]]'
 members: ~1,200 crystal constructs and operators
 obsidianUIMode: preview
-status: complete
-tags:
-- aethermoor
-- complete
-- construct
-- content/faction
-- enforcement
-- faction
-- security
-- silverscale-consortium
-- status/complete
-- world/aethermoor
-type: Faction
 updated: '2025-08-13T12:34:17.282975+00:00'
 wealth: Corporate funded - unlimited budget
 world: Aethermoor
 ---
+
 
 
 > [!figure] Heraldry
@@ -436,3 +442,9 @@ Legends speak of Consortium Security Constructs as a nexus where past and presen
 ## Connections
 
 - [[Crystal Wardens]]
+
+
+## Known Members
+
+- [[Senator Glaucus Brain]]
+- [[High Priestess Nerida Deepcurrent]]

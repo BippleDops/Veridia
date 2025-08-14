@@ -1,28 +1,35 @@
+# Crystal Garden 3
+
 ---
-category: Unique Location
+title: Crystal Garden 3
+type: Lore
+tags:
+- lore
+- both
+- status/complete
+- mechanics/magic
+- impossible-growth
+- content/lore
+- world/both
+- content/location
+- dimensional-bleed
+- reality-anchor
+- active
+- research
+- complete
+- world/aquabyssos
+- world/aethermoor
+- merged-reality
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+category: Unique Location
 created_by: auto-stub
 significance: Major Landmark
-status: complete
-tags:
-- both
-- complete
-- content/location
-- content/lore
-- dimensional-bleed
-- impossible-growth
-- lore
-- mechanics/magic
-- merged-reality
-- reality-anchor
-- status/complete
-- world/aethermoor
-- world/aquabyssos
-- world/both
-type: Lore
 updated: '2025-08-13T12:34:29.442615+00:00'
 world: Both
 ---
+
 
 
 

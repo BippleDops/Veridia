@@ -1,14 +1,21 @@
+# Art Brief Database
+
 ---
-created: '2025-08-11'
-obsidianUIMode: preview
-status: complete
-tags:
-- briefs
-- content/item
+title: Art Brief Database
 type: Mechanics
+tags:
+- content/item
+- resource
+- active
+- briefs
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:41.260994'
 world: Universal
 ---
+
 
 # Art Brief Database
 
@@ -53,3 +60,7 @@ world: Universal
 - Color swatches per realm
 - Textures: coral, crystal, kelp, brass, shadow-silk
 - Suggested references: abyss photography, bioluminescence, storm skies
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,29 +1,37 @@
+# Diplomatic Tides
+
 ---
+title: Diplomatic Tides
+type: Lore
 tags:
-- aquabyssos
-- complete
-- diplomacy
 - lore
+- aquabyssos
 - multi-faction
+- diplomacy
 - negotiation
 - political
 - quest
+- research
+- active
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+location: '[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]],
+  [[The Diplomatic Depths]], [[Deep Embassy]]'
 world: Aquabyssos
-type: Lore
 quest_type: Political Negotiation
 level_range: 6-10
-quest_giver: '[[Empress Tethys the Ever-Drowning|02 Worldbuilding/People/Empress Tethys The Ever Drowning]]'
-location: '[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]], [[The Diplomatic Depths]],
-  [[Deep Embassy]]'
+quest_giver: '[[Empress Tethys the Ever-Drowning|02 Worldbuilding/People/Empress Tethys
+  The Ever Drowning]]'
 rewards: 2500 gp, Political Influence, Treaty Benefits, Depth Citizenship
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.469435+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 

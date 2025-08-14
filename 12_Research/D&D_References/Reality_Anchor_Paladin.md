@@ -1,16 +1,23 @@
+# Reality_Anchor_Paladin
+
 ---
-created: '2025-08-13'
-status: ready
+title: Reality Anchor Paladin
+type: Character Build
 tags:
-- status/ready
-- type/character-build
-- world/both
 - class/paladin
 - oath/stability
-type: Character Build
+- research
+- world/both
+- type/character-build
+- active
+- status/ready
+created: '2025-08-13'
+modified: '2025-08-14'
+status: ready
 updated: '2025-08-13T12:00:00.000000'
 world: Both
 ---
+
 
 # Reality Anchor Paladin - Character Build
 
@@ -225,3 +232,7 @@ Magical theory enhances protective and reality-stabilizing abilities.
 Reality Anchors serve as the ultimate guardians of dimensional stability, protecting not just individual communities but the very fabric of existence itself. Their divine oaths bind them to duties that transcend normal heroic concerns, making them essential figures in campaigns involving dimensional threats, reality manipulation, and cosmic horror.
 
 This build emphasizes the intersection of divine magic and cosmic responsibility, offering both powerful defensive abilities and meaningful roleplay opportunities around duty, sacrifice, and the nature of reality itself.
+
+## Related
+
+*Links to related content will be added here.*

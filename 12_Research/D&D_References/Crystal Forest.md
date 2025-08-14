@@ -1,23 +1,29 @@
+# Crystal Forest
+
 ---
+title: Crystal Forest
+type: Lore
 tags:
-- aquabyssos
-- bio-magical-farming
-- complete
-- crystal-cultivation
-- crystal-technology
-- innovation
-- location
 - lore
+- aquabyssos
 - magical-agriculture
+- innovation
 - resource-production
+- bio-magical-farming
 - sustainability
+- research
+- active
+- location
+- complete
+- crystal-technology
+- crystal-cultivation
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 category: Resource Production Facility
 significance: Critical Infrastructure
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 location_type: Magical Agricultural Complex
 scope: City-Wide Resource Production
@@ -25,6 +31,7 @@ danger_level: Moderate
 magical_properties: Crystal Growth Acceleration
 access_restriction: Authorized Personnel and Guided Tours
 ---
+
 
 
 

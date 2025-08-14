@@ -1,18 +1,25 @@
+# Location Index
+
 ---
+title: Location Index
+type: Lore
 tags:
-- complete
-- index
-- location
 - lore
+- index
+- complete
+- research
+- active
+- location
 - universal
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Universal
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 completed: 2025-08-11
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 # Location Index
@@ -296,3 +303,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Update Indexes|02 Worldbuilding/Lore/Update Indexes]]
+
+
+## Related
+
+*Links to related content will be added here.*

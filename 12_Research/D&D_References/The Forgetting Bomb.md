@@ -1,25 +1,32 @@
+# The Forgetting Bomb
+
 ---
+title: The Forgetting Bomb
+type: Lore
 tags:
-- aquabyssos
-- complete
-- forgetting-bomb
 - lore
-- mass-amnesia
-- memory-alteration
-- memory-weapon
-- psychological-warfare
-- strategic-weapon
+- aquabyssos
 - technology
+- memory-alteration
+- psychological-warfare
+- forgetting-bomb
+- research
+- strategic-weapon
+- active
+- mass-amnesia
+- memory-weapon
+- complete
 - warfare
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 category: Weapon Technology
 significance: Strategic Threat
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 

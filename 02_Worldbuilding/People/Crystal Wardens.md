@@ -1,31 +1,36 @@
 ---
+title: Crystal Wardens
+type: Npc
+tags:
+- status/complete
+- campaign/hook
+- npc
+- protector
+- character
+- content/npc
+- world/aethermoor
+- active
+- complete
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+race: Crystal-Touched Elf
+class: Eldritch Knight Fighter/Abjuration Wizard
+location: '[[The Crystal Spires]] - Warden''s Sanctum'
+level: 17
 MyCategory: NPC
 MyContainer: None
 affiliation: '[[Crystal Wardens Order]] - Supreme Commander'
 age: '156'
 alignment: Lawful Good
-class: Eldritch Knight Fighter/Abjuration Wizard
-created: '2025-08-08'
 created_by: auto-stub
-level: 17
-location: '[[The Crystal Spires]] - Warden''s Sanctum'
 obsidianUIMode: preview
-race: Crystal-Touched Elf
 role: High Warden of the Crystal Order
-status: complete
-tags:
-- aethermoor
-- campaign/hook
-- complete
-- content/npc
-- npc
-- protector
-- status/complete
-- world/aethermoor
-type: Npc
 updated: '2025-08-13T12:34:17.669446+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait
@@ -152,12 +157,29 @@ Luminara commands an organization of 800 active Wardens plus 2,000 auxiliary mem
 - **Shadow Cultists** - Groups seeking to corrupt crystal formations for dark magical purposes
 - **Rogue Mages** - Practitioners who use dangerous or forbidden crystal magic techniques
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Direct and concise
+
+**Physical Habits**: Gestures expressively
+
 ## Current Activities
 - Investigating reports of crystal formations developing independent consciousness
 - Training the next generation of Wardens in advanced crystal bonding techniques
 - Negotiating international agreements for magical material trade and security
 - Researching methods to reverse crystal corruption without destroying the formations
 - Preparing defenses against a prophesied "Great Dimming" that would drain all crystal magic
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 ## Motivations
 1. **Primary**: Protect all crystal formations from corruption, theft, and misuse
@@ -299,6 +321,50 @@ On initiative 20, Luminara can:
 - Guardian of ancient magical knowledge and artifacts that could reshape the campaign world
 - Living example of the costs and benefits of magical transformation and absolute dedication
 
+
+
+## Plot Hooks
+
+1. **The Request**: Crystal Wardens needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Crystal Wardens stopped or removed
+3. **The Secret**: Information about Crystal Wardens's past surfaces
+4. **The Alliance**: Opportunity to work with or against Crystal Wardens
+5. **The Crisis**: Crystal Wardens is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Luminara represents both the noble protector and the cautionary tale of losing one's humanity to power
 - Her crystal network provides a way for DMs to convey information across the realm and create connected plot threads
@@ -321,6 +387,14 @@ Legends speak of Crystal Wardens as a nexus where past and present converge. Loc
 
 <!-- enriched: true -->
 
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]: *family member*
+- [[Mist Walker Captain Luna Pathfinder]]: *competitor*
+- [[Lord Aldric Blackwater]]: *competitor*
 
 ## Connections
 

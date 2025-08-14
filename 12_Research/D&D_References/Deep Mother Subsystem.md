@@ -1,15 +1,21 @@
+# Deep Mother Subsystem
+
 ---
-tags:
-- active
-- both
-- lore
-- mechanics
+title: Deep Mother Subsystem
 type: Lore
-world: Both
-status: active
+tags:
+- lore
+- both
+- mechanics
+- research
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:35.391785+00:00'
 ---
+
 
 
 
@@ -47,3 +53,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Complete_Reality_Merger_System|Complete Reality Merger System]]
+
+
+## Related
+
+*Links to related content will be added here.*

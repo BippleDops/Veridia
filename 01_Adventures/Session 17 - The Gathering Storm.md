@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 17   The Gathering Storm
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 17 - The Gathering Storm
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[The Sorrowmaster]]
+- [[02_Worldbuilding_People_Master_Artificer_Coral_Gemwright]]
+- [[Quest - The Runaway Golem]]
+- [[Abyssos Prime Government]]
+- [[NPC Relationship System]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-echo-keeper-selin-echo-keeper-selin.svg]]
+- [[04_Resources_Assets_Locations_location-city-pearl-sharpedge-v1-pearl-sharpedge.svg]]
+- [[04_Resources_Assets_Locations_location-city-wandering-prophet-coral-stormrider-v1-wandering-prophet-coral-stormrider.svg]]

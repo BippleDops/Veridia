@@ -1,29 +1,35 @@
 ---
-alignment: True Neutral
+title: Shadow Broker Mirrors
+type: Faction
+tags:
+- aquabyssos
+- status/complete
+- mechanics/magic
+- content/faction
+- faction
+- information-brokers
+- mirrors
+- organization
+- active
+- complete
+- world/aquabyssos
+- espionage
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Reflection Chamber]] (Hidden)'
+membership: Unknown
+alignment: True Neutral
 created_by: auto-stub
 faction_type: Information Syndicate
-headquarters: '[[The Reflection Chamber]] (Hidden)'
 influence: Extensive (Information Networks)
 leader: '[[The Prime Reflection]]'
 members: ~200 brokers, spies, and mirror-touched
 purpose: Control information through reflection magic
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/faction
-- espionage
-- faction
-- information-brokers
-- mechanics/magic
-- mirrors
-- status/complete
-- world/aquabyssos
-type: Faction
 updated: '2025-08-13T12:34:17.393258+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry

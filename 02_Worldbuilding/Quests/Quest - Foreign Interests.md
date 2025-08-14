@@ -1,32 +1,39 @@
+# Quest - Foreign Interests
+
 ---
+title: Quest   Foreign Interests
 type: Lore
-status: complete
 tags:
-- combat
-- session-notes
-- crystal-enhanced
-- shadow-touched
-- aethermoor
-- complete
-- espionage
-- investigation
 - lore
 - major-quest
+- session-notes
+- investigation
 - political
+- worldbuilding
 - quest
+- active
+- combat
+- complete
+- espionage
+- aethermoor
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+location: '[[Lumengarde City]] and surrounding nations'
 world: Aethermoor
 quest_type: Political Intrigue
 level_range: 5-9
-quest_giver: '[[12_Research/D&D_References/Queen Seraphina Lumengarde]]'
-location: '[[12_Research/D&D_References/Lumengarde City]] and surrounding nations'
+quest_giver: '[[Queen Seraphina Lumengarde]]'
 rewards: 3000 gp, Diplomatic Immunity, Noble Favor
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.509148+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 # Quest - Foreign Interests
@@ -35,16 +42,16 @@ obsidianUIMode: preview
 
 ## Quest Overview
 
-Multiple foreign powers have sent "diplomatic missions" to [[12_Research/D&D_References/Aethermoor]] ahead of the [[Quest - The Crystal Festival|02 Worldbuilding/Quests/Quest The Crystal Festival]]. While publicly celebrating the 500th anniversary, these delegations secretly pursue their own agendas—stealing crystal technology, manipulating the succession crisis, establishing spy networks, and potentially preparing for invasion. The party must navigate a web of international intrigue while preventing any single foreign power from gaining too much influence.
+Multiple foreign powers have sent "diplomatic missions" to [[Aethermoor]] ahead of the [[Quest - The Crystal Festival|02 Worldbuilding/Quests/Quest The Crystal Festival]]. While publicly celebrating the 500th anniversary, these delegations secretly pursue their own agendas—stealing crystal technology, manipulating the succession crisis, establishing spy networks, and potentially preparing for invasion. The party must navigate a web of international intrigue while preventing any single foreign power from gaining too much influence.
 
 ## Background
 
 ### The Political Situation
 
 **Why Now?**
-- [[12_Research/D&D_References/Queen Seraphina Lumengarde]]'s weakness perceived
+- [[Queen Seraphina Lumengarde]]'s weakness perceived
 - Crystal corruption crisis creates opportunity
-- [[12_Research/D&D_References/Silverscale Consortium]] economic pressure
+- [[Silverscale Consortium]] economic pressure
 - Succession uncertainty with missing prince
 - Seven Shards rumors attracting attention
 
@@ -54,8 +61,8 @@ Multiple foreign powers have sent "diplomatic missions" to [[12_Research/D&D_Ref
 
 **Northern Trade Empire**
 - Wants exclusive crystal trade rights
-- Secretly funding [[12_Research/D&D_References/Silverscale Consortium]]
-- Ambassador: [[12_Research/D&D_References/Lord Magnus Goldspire]]
+- Secretly funding [[Silverscale Consortium]]
+- Ambassador: [[Lord Magnus Goldspire]]
 - Hidden Agenda: Economic takeover
 - Assets: Unlimited funds, merchant spies
 
@@ -64,7 +71,7 @@ Multiple foreign powers have sent "diplomatic missions" to [[12_Research/D&D_Ref
 **Eastern Nature Kingdom**
 - Opposes crystal technology expansion
 - Allied with [[12_Research/D&D_Statblocks/Archdruid Thornweaver]]
-- Ambassador: [[12_Research/D&D_References/Lady Willow Greenbough]]
+- Ambassador: [[Lady Willow Greenbough]]
 - Hidden Agenda: Sabotage crystal infrastructure
 - Assets: Druidic magic, beast spies
 
@@ -80,8 +87,8 @@ Multiple foreign powers have sent "diplomatic missions" to [[12_Research/D&D_Ref
 #### The Shadowmere Republic
 
 **Southern Mysterious Nation**
-- Already infiltrated by [[12_Research/D&D_References/Aquabyssos]] shadows
-- Ambassador: [[12_Research/D&D_References/Count Erasmus Shadowmere]]
+- Already infiltrated by [[Aquabyssos]] shadows
+- Ambassador: [[Count Erasmus Shadowmere]]
 - Hidden Agenda: Spread shadow corruption
 - Assets: Shadow operatives, void magic
 
@@ -89,7 +96,7 @@ Multiple foreign powers have sent "diplomatic missions" to [[12_Research/D&D_Ref
 
 **Maritime Confederation**
 - Controls sea trade routes
-- Ambassador: [[12_Research/D&D_References/Aquabyssos]]
+- Ambassador: [[Aquabyssos]]
 - Hidden Agenda: Naval base establishment
 - Assets: Ship blockades, pirate connections
 
@@ -98,7 +105,7 @@ Multiple foreign powers have sent "diplomatic missions" to [[12_Research/D&D_Ref
 ### Opening Scene
 
 **The Queen's Request**
-**Location**: [[12_Research/D&D_References/The Crystal Palace - Throne Room]]
+**Location**: [[The Crystal Palace - Throne Room]]
 
 **Read Aloud:**
 *"These delegations arrive with smiles and gifts, but I taste poison in their wine and see daggers behind their bows. I need eyes and ears I can trust—yours. Officially, you'll be cultural liaisons. Unofficially, discover what each delegation truly wants and prevent catastrophe."*
@@ -111,7 +118,7 @@ Multiple foreign powers have sent "diplomatic missions" to [[12_Research/D&D_Ref
 - Each delegation presents gifts
 - Veiled threats in pleasantries
 - Obvious tension between groups
-- [[12_Research/D&D_References/The Siren]] performs (gathering secrets)
+- [[The Siren]] performs (gathering secrets)
 - First assassination attempt (wine poisoning)
 
 #### Embassy Assignments
@@ -130,7 +137,7 @@ Multiple foreign powers have sent "diplomatic missions" to [[12_Research/D&D_Ref
 - Goldspire bribing nobles
 - Consortium coordination documents
 - Plans to crash crystal market
-- Secret loans to [[12_Research/D&D_References/The Crown]]
+- Secret loans to [[The Crown]]
 - Monopoly establishment timeline
 
 #### Clue Set 2: Military Intelligence
@@ -145,8 +152,8 @@ Multiple foreign powers have sent "diplomatic missions" to [[12_Research/D&D_Ref
 
 - Shadowmere delegates are all shadows
 - Converting other embassy staff
-- Portal to [[12_Research/D&D_References/Aquabyssos]] in basement
-- [[12_Research/D&D_References/The Shadow Conspiracy]] coordination
+- Portal to [[Aquabyssos]] in basement
+- [[The Shadow Conspiracy]] coordination
 - Plans for Festival attack
 
 ## Act 2: Escalating Tensions
@@ -172,7 +179,7 @@ Multiple foreign powers have sent "diplomatic missions" to [[12_Research/D&D_Ref
 
 **Economic Attack**
 - Attempt to buy majority crystal shares
-- Coordinated with [[12_Research/D&D_References/Zephyr Goldwhisper]]
+- Coordinated with [[Zephyr Goldwhisper]]
 - Noble houses offered massive bribes
 - Party must prevent or expose
 - Consequences affect Festival
@@ -290,27 +297,27 @@ Multiple foreign powers have sent "diplomatic missions" to [[12_Research/D&D_Ref
 
 ### Major Ambassadors
 
-- **[[12_Research/D&D_References/Lord Magnus Goldspire]]**: Goldspire Confederacy
-- **[[12_Research/D&D_References/Lady Willow Greenbough]]**: Emerald Reaches
+- **[[Lord Magnus Goldspire]]**: Goldspire Confederacy
+- **[[Lady Willow Greenbough]]**: Emerald Reaches
 - **[[General Viktor Ironhold]]**: Iron Principalities
-- **[[12_Research/D&D_References/Count Erasmus Shadowmere]]**: Shadowmere Republic (shadow)
-- **[[12_Research/D&D_References/Aquabyssos]]**: Azure Fleet
+- **[[Count Erasmus Shadowmere]]**: Shadowmere Republic (shadow)
+- **[[Aquabyssos]]**: Azure Fleet
 
 ### Embassy Staff (Spies)
 
-- **[[12_Research/D&D_References/Silk Merchant Chen]]**: Goldspire spy master
-- **[[12_Research/D&D_References/Druid Oakshadow]]**: Emerald saboteur
-- **[[12_Research/D&D_References/Captain Steelhart]]**: Iron military intelligence
-- **[[12_Research/D&D_References/Shadow Attache Void]]**: Shadowmere infiltrator
-- **[[12_Research/D&D_References/Navigator Saltwind]]**: Azure Fleet intelligence
+- **[[Silk Merchant Chen]]**: Goldspire spy master
+- **[[Druid Oakshadow]]**: Emerald saboteur
+- **[[Captain Steelhart]]**: Iron military intelligence
+- **[[Shadow Attache Void]]**: Shadowmere infiltrator
+- **[[Navigator Saltwind]]**: Azure Fleet intelligence
 
 ### Double Agents
 
-- **[[12_Research/D&D_References/Translator Polyglot]]**: Works for everyone
-- **[[12_Research/D&D_References/Servant Mary]]**: Palace spy
-- **[[12_Research/D&D_References/Guard Captain Morris]]**: Bought by Goldspire
-- **[[12_Research/D&D_References/Scribe Pennsworth]]**: Selling secrets
-- **[[12_Research/D&D_References/Chef Lafayette]]**: Poisoner for hire
+- **[[Translator Polyglot]]**: Works for everyone
+- **[[Servant Mary]]**: Palace spy
+- **[[Guard Captain Morris]]**: Bought by Goldspire
+- **[[Scribe Pennsworth]]**: Selling secrets
+- **[[Chef Lafayette]]**: Poisoner for hire
 
 ## Investigation Mechanics
 
@@ -325,7 +332,7 @@ Multiple foreign powers have sent "diplomatic missions" to [[12_Research/D&D_Ref
 5. **Surveillance**: Watching delegations
 6. **Double Agent**: Running assets
 7. **Magical Spying**: Scrying, divination
-8. **Information Trading**: Using [[12_Research/D&D_References/The Siren]]
+8. **Information Trading**: Using [[The Siren]]
 
 ### Evidence Types
 
@@ -426,34 +433,34 @@ Multiple foreign powers have sent "diplomatic missions" to [[12_Research/D&D_Ref
 ### Related Quests
 
 - [[Quest - The Crystal Festival|02 Worldbuilding/Quests/Quest The Crystal Festival]] - Culmination
-- [[12_Research/D&D_References/Aquabyssos]] - Foreign interest
-- [[12_Research/D&D_References/Quest - Economic Warfare]] - Goldspire plot
-- [[12_Research/D&D_References/Quest - Shadow Infiltration]] - Shadowmere connection
-- [[12_Research/D&D_References/Quest - The Queen's Secret]] - Leverage
+- [[Aquabyssos]] - Foreign interest
+- [[Quest - Economic Warfare]] - Goldspire plot
+- [[Quest - Shadow Infiltration]] - Shadowmere connection
+- [[Quest - The Queen's Secret]] - Leverage
 
 ### Key NPCs
 
-- [[12_Research/D&D_References/Queen Seraphina Lumengarde]] - Quest giver
-- [[12_Research/D&D_References/Zephyr Goldwhisper]] - Consortium coordination
-- [[12_Research/D&D_References/The Siren]] - Information broker
+- [[Queen Seraphina Lumengarde]] - Quest giver
+- [[Zephyr Goldwhisper]] - Consortium coordination
+- [[The Siren]] - Information broker
 - [[12_Research/D&D_Statblocks/The Crimson Sage]] - Manipulating events
-- [[12_Research/D&D_References/Captain Thaddeus Blackwater]] - Naval intelligence
+- [[Captain Thaddeus Blackwater]] - Naval intelligence
 
 ### Locations
 
-- [[12_Research/D&D_References/Lumengarde City]] - Primary setting
-- [[12_Research/D&D_References/Embassy District]] - Investigation area
+- [[Lumengarde City]] - Primary setting
+- [[Embassy District]] - Investigation area
 - [[02_Worldbuilding/Places/The Crystal Palace|02 Worldbuilding/Places/The Crystal Palace]] - Reporting
-- [[12_Research/D&D_References/The Diplomatic Quarter]] - Social encounters
-- [[12_Research/D&D_References/Border Fortresses]] - Military threat
+- [[The Diplomatic Quarter]] - Social encounters
+- [[Border Fortresses]] - Military threat
 
 ### Organizations
 
-- [[12_Research/D&D_References/The Crown]] - Employer
-- [[12_Research/D&D_References/Silverscale Consortium]] - Economic threat
-- [[12_Research/D&D_References/The Shadow Conspiracy]] - Hidden danger
+- [[The Crown]] - Employer
+- [[Silverscale Consortium]] - Economic threat
+- [[The Shadow Conspiracy]] - Hidden danger
 - [[Foreign Intelligence Services]] - Opposition
-- [[12_Research/D&D_References/Royal Intelligence]] - Support
+- [[Royal Intelligence]] - Support
 
 ---
 
@@ -462,7 +469,7 @@ Multiple foreign powers have sent "diplomatic missions" to [[12_Research/D&D_Ref
 
 ## Connections
 
-- [[12_Research/D&D_References/Quest - Diplomatic Immunity]]
+- [[Quest - Diplomatic Immunity]]
 - [[12_Research/D&D_Statblocks/Quest - The Crystal Festival]]
 
 ## Player-Facing Summary

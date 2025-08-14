@@ -1,22 +1,29 @@
+# The Tidal Council
+
 ---
+title: The Tidal Council
+type: NPC
 tags:
 - aquabyssos
-- complete
 - council
-- government
 - npc
 - organization
+- research
+- government
 - tidal
+- active
+- complete
+created: 2025-08-08 - Category/Groups
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: NPC
 created_by: auto-stub
-created: 2025-08-08 - Category/Groups
 MyContainer: None
 MyCategory: Government
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.962333+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -160,3 +167,8 @@ Legends speak of The Tidal Council as a nexus where past and present converge. L
 - [[The Tidal Council|02 Worldbuilding/People/The Tidal Council]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Cloud Shepherd Guild
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+![02_Worldbuilding/Groups/Cloud Shepherd Guild](../../../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_cloud_shepherd_guild.png)
+
+
 
 # 02_Worldbuilding/Groups/Cloud Shepherd Guild
 
@@ -36,3 +46,9 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[The Shadow Singer Naia]]
+- [[Captain Repossession]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-morgrim-lastvessel-captain-morgrim-lastvessel.svg]]

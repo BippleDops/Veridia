@@ -1,15 +1,21 @@
+# Prince Caspian
+
 ---
+title: Prince Caspian
+type: Lore
 tags:
-- active
 - lore
 - relationship-matrix
+- research
+- active
 - universal
-type: Lore
-world: Universal
-status: active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Universal
 updated: '2025-08-13T01:18:35.313293+00:00'
 ---
+
 
 
 
@@ -45,3 +51,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
+
+
+## Related
+
+*Links to related content will be added here.*

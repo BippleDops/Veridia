@@ -1,22 +1,29 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
-danger_level: Moderate
-status: complete
+title: The Eel Keepers
+type: Location
 tags:
 - aquabyssos
-- complete
+- status/complete
 - content/faction
 - content/location
+- place
+- active
 - eel-handlers
 - location
+- complete
 - specialized
-- status/complete
 - world/aquabyssos
-type: Location
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+created_by: auto-stub
+danger_level: Moderate
 updated: '2025-08-13T12:34:17.166214+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -112,6 +119,27 @@ This ancient guild has served the underwater kingdom for over 300 years, develop
 - **Custom Training**: 100-500 gp depending on complexity
 - **Breeding Services**: 500-2000 gp for rare varieties
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 The Eel Keepers provide both mundane city services and adventure opportunities. Their specialized knowledge makes them valuable allies or obstacles depending on party needs and political situations.
 
@@ -163,3 +191,85 @@ Legends speak of The Eel Keepers as a nexus where past and present converge. Loc
 - [[The Eel Keepers]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-public-libraries-public-libraries.svg]]
+- [[04_Resources_Assets_Locations_location-city-garden-of-shadows-v1-garden-of-shadows.svg]]
+- [[Anti-Religious Philosophical Arguments]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+The Eel Keepers is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Eel Keepers
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting The Eel Keepers:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Eel Keepers
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

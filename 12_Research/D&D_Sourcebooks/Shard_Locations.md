@@ -1,16 +1,23 @@
+# Shard_Locations
+
 ---
-created: '2025-08-13'
-status: active
+title: Shard Locations
+type: Reference
 tags:
-- locations/seven-shards
 - shard-sites
-- reference
+- locations/seven-shards
+- research
 - world/both
 - status/active
-type: Reference
+- active
+- reference
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T16:45:00.000000'
 world: Both
 ---
+
 
 # Seven Shards: Detailed Locations
 *Complete Location Guides for Each Shard Discovery Site*
@@ -565,3 +572,7 @@ args: ["1d100"]
 - [[Environmental Challenge Guidelines]]
 - [[Location-Based Encounter Tables]]
 - [[Reality Distortion Mechanics]]
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,3 +1,15 @@
+# Battle_Map_Descriptions
+
+---
+title: Battle Map Descriptions
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 
 ## Consequence Chains
 
@@ -3247,3 +3259,8 @@ The actions and decisions involving Battle Map Descriptions (VTT-Ready) create c
   }
 ]
 ```
+
+
+## Related
+
+*Links to related content will be added here.*

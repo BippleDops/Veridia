@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Purist Coalition
+type: Faction
 tags:
 - both
-- complete
 - content/faction
 - faction
-- status/in-progress
+- organization
 - world/both
-type: Faction
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.363056+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Heraldry
@@ -575,3 +582,8 @@ Legends speak of Purist Coalition as a nexus where past and present converge. Lo
 - [[The Order of the Shattered Crown]]
 - [[Quest - Hearts and Minds]]
 - [[Quest - The Crystal Festival]]
+
+
+## Known Members
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-shattering-the-shattering.svg]]

@@ -1,18 +1,25 @@
+# Current PC Lead
+
 ---
+title: Current PC Lead
+type: Lore
 tags:
-- aquabyssos
-- campaign-mechanics
-- complete
-- leadership
 - lore
+- aquabyssos
 - party-dynamics
+- leadership
+- research
+- active
+- complete
+- campaign-mechanics
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 

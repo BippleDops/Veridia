@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Synthesis Consciousness Transfer
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Treatments/Synthesis Consciousness Transfer
 
@@ -24,7 +28,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Shadow-Crystal Synthesis]]
+- [[The Shadow-Crystal Synthesis]]
 - [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
 
 ## Notes

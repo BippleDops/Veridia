@@ -1,18 +1,25 @@
+# Cross-Realm Conspiracy Networks
+
 ---
+title: Cross Realm Conspiracy Networks
+type: Lore
 tags:
+- lore
 - both worlds
 - both-worlds
+- research
+- active
+- smuggling
 - complete
 - conspiracy
 - criminal
-- lore
-- smuggling
-type: Lore
-world: Both Worlds
-status: complete
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Both Worlds
 updated: '2025-08-13T01:18:34.535710+00:00'
 ---
+
 
 
 ## Overview
@@ -362,3 +369,8 @@ Cross Realm Conspiracy Networks is a undersea element of the setting, known for 
 Legends speak of Cross Realm Conspiracy Networks as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Cross Realm Conspiracy Networks.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

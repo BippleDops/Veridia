@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Aboleth Mind Mazes
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Lore/Aboleth Mind Mazes
 
@@ -24,14 +28,14 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/World_Bible_Index]]
-- [[12_Research/D&D_References/Whisper Island]]
-- [[12_Research/D&D_References/World Bible Index]]
-- [[12_Research/D&D_References/Abyssal Academy]]
-- [[12_Research/D&D_References/Abyssal Academy]]
-- [[12_Research/D&D_References/Memory Farmers]]
-- [[12_Research/D&D_References/Memory Farmers]]
-- [[12_Research/D&D_References/Ancient Aquabyssos Rulers]]
+- [[World_Bible_Index]]
+- [[Whisper Island]]
+- [[World Bible Index]]
+- [[Abyssal Academy]]
+- [[Abyssal Academy]]
+- [[Memory Farmers]]
+- [[Memory Farmers]]
+- [[Ancient Aquabyssos Rulers]]
 - [[02_Worldbuilding/Lore/Abyssal Academy]]
 - [[02_Worldbuilding/Lore/Abyssal Academy]]
 

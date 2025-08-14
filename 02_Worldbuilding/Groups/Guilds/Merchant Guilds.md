@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Merchant Guilds
+type: Faction
 tags:
 - both
-- complete
 - content/faction
 - faction
-- status/in-progress
+- organization
 - world/both
-type: Faction
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.464607+00:00'
 world: Both
 ---
+
 
 
 ## Overview
@@ -64,3 +71,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Inverted Ballroom Wing]]
 - [[Keeper of the Past, Elderly Morgan]]
 - [[Mad Oracle Thessaly]]
+
+
+## Known Members
+
+- [[The_Crimson_Pearl]]
+- [[Shadow Conspiracy NPCs]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-mobile-terror-platform-mobile-terror-platform.svg]]

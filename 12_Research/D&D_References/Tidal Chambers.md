@@ -1,30 +1,37 @@
+# Tidal Chambers
+
 ---
+title: Tidal Chambers
+type: Lore
 tags:
+- lore
 - aquabyssos
+- technology
 - bio-magical-fusion
+- pressure-systems
+- tidal-power
+- magical-engineering
+- research
+- tidal-manipulation
+- mechanical-systems
+- water-magic
+- active
 - complete
 - infrastructure
-- lore
-- magical-engineering
-- mechanical-systems
-- pressure-systems
-- technology
-- tidal-manipulation
-- tidal-power
-- water-magic
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 category: Magical Technology
 significance: Critical Infrastructure
 created_by: auto-stub
-created: '2025-08-08'
 expanded: 2025-08-11
 technology_type: Tidal Manipulation System
 access_restriction: Guild Controlled
 danger_level: High
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -531,3 +538,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Deepwatch Guard]]
 - [[Aethermoor]]
 - [[Pressure Tubes]]
+
+
+## Related
+
+*Links to related content will be added here.*

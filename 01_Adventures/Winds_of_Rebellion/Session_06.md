@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 06
 type: adventure
-status: active
 tags:
-- combat
-- session-notes
-- aerial
 - adventure
+- aerial
+- session-notes
+- quest
+- active
+- combat
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 06: [Sky Realm Crisis]
 
@@ -62,3 +68,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Key NPCs
+
+- [[04_Resources_Assets_Locations_location-city-deputy-harbor-master-marina-stormwright-v1-deputy-harbor-master-marina-stormwright.svg]]
+- [[02_Worldbuilding_People_Archmaster_Lyralei]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-temporal-engineering-guil-temporal-engineering-guil.svg]]
+- [[The Lady's Garden Society]]
+- [[Deep-Priest Covenant]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-shadow-portal-nexus-v1-shadow-portal-nexus.svg]]
+- [[Shadow Replacements]]
+- [[04_Resources_Assets_Locations_location-city-international-relations-v1-international-relations.svg]]

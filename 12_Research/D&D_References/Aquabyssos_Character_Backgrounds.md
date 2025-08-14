@@ -1,16 +1,23 @@
+# Aquabyssos_Character_Backgrounds
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- player-resources
-- character-options
-- backgrounds
-- aquabyssos
-- character-creation
+title: Aquabyssos Character Backgrounds
 type: Option
+tags:
+- aquabyssos
+- backgrounds
+- character-options
+- character-creation
+- research
+- player-resources
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Aquabyssos
 ---
+
 
 # Aquabyssos Character Backgrounds
 
@@ -237,3 +244,7 @@ Background features can be customized to better fit your character's story while
 - [[Aquabyssos_Character_Creation]]
 - [[Aquabyssos_Cultural_Codex]]
 - [[World_Primer]]
+
+## Related
+
+*Links to related content will be added here.*

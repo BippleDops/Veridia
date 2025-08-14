@@ -1,32 +1,37 @@
 ---
+title: Vex Shadowthorn Boss Fight
+type: Faction
+tags:
+- status/complete
+- content/faction
+- faction
+- mercenary-company
+- organization
+- boss-hunting
+- world/aethermoor
+- active
+- complete
+- mechanics/combat
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Battle Forge Arena]]'
+membership: Unknown
 MyCategory: Mercenary Company
 MyContainer: Combat Services
 alignment: Chaotic Neutral (Professional Warriors)
-created: '2025-08-08'
 created_by: auto-stub
 faction_type: Elite Combat Mercenary Company
-headquarters: '[[The Battle Forge Arena]]'
 influence: Combat Training, Mercenary Services
 leader: '[[Commander Vex Shadowthorn]]'
 members: ~45 elite fighters, ~150 support personnel
-modified: 2025-08-11 - Category/Group
 obsidianUIMode: preview
 purpose: Eliminate dangerous creatures and hostile entities
-status: complete
-tags:
-- aethermoor
-- boss-hunting
-- complete
-- content/faction
-- faction
-- mechanics/combat
-- mercenary-company
-- status/complete
-- world/aethermoor
-type: Faction
 updated: '2025-08-13T12:34:17.370580+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Heraldry
@@ -611,3 +616,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Aethermoor - Session 04 The Silverscale Gambit]]
+
+
+## Known Members
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-master-chen-wei-master-chen-wei.png]]

@@ -1,14 +1,22 @@
+# Director of Experimental Procedures Dr. Siren Voidtouch
+
 ---
-tags:
-- active
-- aquabyssos
-- npc
+title: Director of Experimental Procedures Dr. Siren Voidtouch
+aliases:
+- Director of Experimental Procedures Dr Siren Voidtouch
 type: NPC
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.859653+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-director-of-experimental-procedures-dr-siren-voidtouch-director-of-experimental-procedures-dr-siren-voidtouch.svg]]
@@ -68,3 +76,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Reflection Pools - Surgical Theater]]
+
+
+## Related
+
+*Links to related content will be added here.*

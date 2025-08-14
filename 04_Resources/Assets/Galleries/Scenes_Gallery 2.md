@@ -1,3 +1,15 @@
+# Scenes_Gallery 2
+
+---
+title: Scenes Gallery 2
+type: resource
+tags:
+- active
+- resource
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Scenes Gallery
 
 %% Use reading mode for visual gallery %%
@@ -277,3 +289,8 @@
 
 ## scene-scene-whisper-island-fog-dawn-whisper-island-fog-dawn
 ![[04_Resources/Assets/Scenes/scene-scene-whisper-island-fog-dawn-whisper-island-fog-dawn.svg]]
+
+
+## Related
+
+*Links to related content will be added here.*

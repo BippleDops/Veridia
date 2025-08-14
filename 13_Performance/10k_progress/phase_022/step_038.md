@@ -1,9 +1,16 @@
 ---
+title: step 038
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 22
 step: 38
 total_step: 2138
 ---
+
 
 # Phase 22 - Step 38
 

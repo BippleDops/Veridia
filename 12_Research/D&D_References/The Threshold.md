@@ -1,23 +1,29 @@
+# The Threshold
+
 ---
+title: The Threshold
+type: Lore
 tags:
-- ancient-magic
-- betrayer-legacy
-- both worlds
-- both-worlds
-- catastrophe-site
-- complete
-- dangerous-zone
-- dimensional-barrier
-- interdimensional-gateway
-- location
 - lore
+- ancient-magic
+- catastrophe-site
+- both worlds
+- interdimensional-gateway
+- both-worlds
+- research
 - reality-breach
+- active
 - threshold
+- location
+- complete
+- dimensional-barrier
+- betrayer-legacy
+- dangerous-zone
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both Worlds
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:35.331865+00:00'
 location_type: Dimensional Nexus
 scope: Reality-threatening anomaly
@@ -25,6 +31,7 @@ danger_level: 5
 active_period: Post-Catastrophe to present
 primary_effects: Dimensional instability and reality distortion
 ---
+
 
 
 
@@ -369,3 +376,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Crown of Stars]]
 - [[The Seven Betrayers]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Deep Parliament Chambers
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Deep Parliament Chambers
 
@@ -24,10 +28,10 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Parliamentary Founding]]
-- [[12_Research/D&D_References/Economic History of the Realms]]
-- [[12_Research/D&D_References/Trade Route Establishment]]
-- [[12_Research/D&D_References/Post-Merge Chronology]]
+- [[Parliamentary Founding]]
+- [[Economic History of the Realms]]
+- [[Trade Route Establishment]]
+- [[Post-Merge Chronology]]
 - [[02_Worldbuilding/Lore/Trade Route Establishment]]
 - [[02_Worldbuilding/Lore/Post-Merge Chronology]]
 

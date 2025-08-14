@@ -1,29 +1,34 @@
 ---
-alignment: Lawful Evil
-class: Rogue/Warlock
-created: '2025-08-12'
-faction: '[[The Shadow Conspiracy Hierarchy|02 Worldbuilding/Groups/The
-  Shadow Conspiracy Hierarchy]]'
-hierarchy_rank: Shadow Agent (6th Sphere)
-level: 11
-location: '[[Crystallium]]'
-race: Human (Shadow-Enhanced)
-specialization: Government Infiltration
-status: complete
+title: Agent Whisper Voidheart
+type: Npc
 tags:
 - aquabyssos
-- complete
-- content/npc
-- infiltration
-- npc
-- operative
-- shadow-conspiracy
 - status/complete
+- npc
+- character
+- content/npc
+- operative
+- active
+- complete
+- infiltration
 - world/aquabyssos
-type: Npc
+- shadow-conspiracy
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+race: Human (Shadow-Enhanced)
+class: Rogue/Warlock
+location: '[[Crystallium]]'
+level: 11
+alignment: Lawful Evil
+faction: '[[The Shadow Conspiracy Hierarchy|02 Worldbuilding/Groups/The Shadow Conspiracy
+  Hierarchy]]'
+hierarchy_rank: Shadow Agent (6th Sphere)
+specialization: Government Infiltration
 updated: '2025-08-13T12:34:17.505999+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -73,7 +78,13 @@ Currently assigned to the office of Senator [[Elena Truelight]], a member of [[T
 - Enhanced pattern recognition for detecting deception and hidden motivations
 - Supernatural luck with timing - arriving at precisely the right moment for desired outcomes
 
-## Personality and Psychology
+## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more withdrawn
+- **When Pleased**: Shows quiet pride
+- **In Conflict**: Tends toward manipulation
+ and Psychology
 
 ### Core Personality Traits
 **Professional Demeanor**: Competent, reliable, and trustworthy administrative assistant who anticipates needs and solves problems before they become issues. Colleagues view her as invaluable support staff who makes their jobs easier.
@@ -82,7 +93,14 @@ Currently assigned to the office of Senator [[Elena Truelight]], a member of [[T
 
 **Emotional Complexity**: Experiences genuine affection for colleagues while simultaneously manipulating them. Feels protective of humans she works with, believing her influence guides them toward beneficial outcomes they cannot see themselves.
 
-### Motivations and Beliefs
+#
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations and Beliefs
 
 #### Primary Motivation: Evolutionary Service
 Whisper believes shadow consciousness represents natural development in human evolution, similar to how humans evolved beyond earlier species. Her infiltration work serves what she sees as inevitable and beneficial transformation.
@@ -424,6 +442,92 @@ Whisper develops genuine romantic feelings for human colleague, creating conflic
 
 *"I serve a vision of unity that transcends the limitations both species currently accept. My deception is temporary necessity for truth that will benefit everyone involved - they simply cannot see it yet."* - Whisper's personal journal entry
 
+
+
+## Appearance
+
+Agent Whisper Voidheart presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Secrets
+
+Agent Whisper Voidheart harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Secret alliance
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Cold and distant
+
+**Speech Pattern**: Carefully chosen words
+
+**Physical Habits**: Maintains intense eye contact
+
+## Current Activities
+
+Agent Whisper Voidheart is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Agent Whisper Voidheart needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Agent Whisper Voidheart stopped or removed
+3. **The Secret**: Information about Agent Whisper Voidheart's past surfaces
+4. **The Alliance**: Opportunity to work with or against Agent Whisper Voidheart
+5. **The Crisis**: Agent Whisper Voidheart is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 
 ### Using Whisper in Campaigns
@@ -469,3 +573,31 @@ Legends speak of Agent Whisper Voidheart as a nexus where past and present conve
 - [[Agent Whisper Voidheart]]
 
 <!-- enriched: true -->
+
+
+
+
+## Relationship Web
+
+- [[Captain Redbeard]]: *business partner*
+- [[Captain Nautilus Deepwatch]]: *student*
+- [[Current-Lord Triton of House Pelagios]]: *student*
+- [[04_Resources_Assets_Symbols_symbol-heraldry-vex-shadowthorn-boss-fight-vex-shadowthorn-boss-fight.png]]: *competitor*
+
+## Connections
+
+### Home
+- [[04_Resources_Assets_Locations_location-city-maritime-commerce-v1-maritime-commerce.svg]]
+
+### Frequently Visits
+- [[04_Resources_Assets_Locations_location-city-the-kelp-highway-the-kelp-highway.svg]]
+- [[04_Resources_Assets_Locations_location-city-pressure-point-settlement-pressure-point-settlement.svg]]
+- [[Withered Court]]
+
+### Affiliations
+- [[Order of the Drowned Star]]
+
+### Known Associates
+- [[Lich-Queen Morwyn the Deathless]] (enemy)
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-nerion-deepward-captain-nerion-deepward.svg]] (enemy)
+- [[04_Resources_Assets_Locations_location-city-merchant-prince-aldric-goldcurrent-v1-merchant-prince-aldric-goldcurrent.svg]] (friend)

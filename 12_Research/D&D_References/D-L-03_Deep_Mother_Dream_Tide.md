@@ -1,19 +1,25 @@
+# D-L-03_Deep_Mother_Dream_Tide
+
 ---
 title: "Encounter Sheet \u2014 D-L-03 Deep Mother Dream Tide"
 type: gm_resource
-status: complete
 tags:
 - both
-- complete
-- depth
-- encounter
-- gm
-- gm_resource
 - legendary
+- encounter
+- depth
+- gm
+- research
+- active
+- gm_resource
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.131852+00:00'
 world: Both
 ---
+
 
 
 # D-L-03 Deep Mother Dream Tide
@@ -66,3 +72,8 @@ Legends speak of D L 03 Deep Mother Dream Tide as a nexus where past and present
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

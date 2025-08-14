@@ -1,32 +1,39 @@
+# Whisper Island
+
 ---
+title: Whisper Island
+type: Location
 tags:
-- both aethermoor and aquabyssos
-- both-aethermoor-and-aquabyssos
-- completed
-- island
-- isolated
-- location
 - mysterious
-- mysterious-island
-- secrets
+- completed
 - supernatural
 - whispers
+- mysterious-island
+- both-aethermoor-and-aquabyssos
+- research
+- island
+- active
+- location
+- isolated
+- both aethermoor and aquabyssos
+- secrets
+created: '2025-08-09'
+modified: '2025-08-14'
 status: completed
-world: Both Aethermoor and Aquabyssos
-type: Location
-danger_level: 9
 location: '[[The Azure Coast|02 Worldbuilding/Places/The Azure Coast]] waters'
 population: Unknown (Estimated 200-500)
+world: Both Aethermoor and Aquabyssos
+danger_level: 9
 government: None (Anarchic)
 climate: Temperate, frequently shrouded in mist
 size: 12 square miles
-created: '2025-08-09'
 updated: '2025-08-13T01:18:36.395958+00:00'
 related_entities:
 - '[[The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]'
 - '[[Memory Alterations|02 Worldbuilding/Lore/Memory Alterations]]'
 - '[[Memory Meadows Black Market|02 Worldbuilding/Places/Memory Meadows Black Market]]'
 ---
+
 
 
 > [!figure] View
@@ -282,3 +289,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Whisper Island|02 Worldbuilding/Places/Whisper Island]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

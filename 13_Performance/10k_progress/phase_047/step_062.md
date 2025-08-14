@@ -1,9 +1,16 @@
 ---
+title: step 062
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 47
 step: 62
 total_step: 4662
 ---
+
 
 # Phase 47 - Step 62
 

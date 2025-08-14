@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry harmonic mind contro harmonic mind contro.svg
+aliases:
+- symbol heraldry harmonic mind contro harmonic mind controsvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-harmonic-mind-contro-harmonic-mind-contro.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Harmonic Mind Contro]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Harmonic Mind Contro]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

@@ -1,15 +1,21 @@
+# Marcus Clausewright
+
 ---
-tags:
-- active
-- both
-- location
+title: Marcus Clausewright
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.156787+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-marcus-clausewright-marcus-clausewright.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Marcus Clausewright|02 Worldbuilding/Places/Marcus Clausewright]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

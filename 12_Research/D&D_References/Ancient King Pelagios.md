@@ -1,15 +1,21 @@
+# Ancient King Pelagios
+
 ---
-tags:
-- active
-- both
-- complete
-- npc
+title: Ancient King Pelagios
 type: NPC
-world: Both
-status: complete
+tags:
+- both
+- npc
+- research
+- active
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+world: Both
 updated: '2025-08-13T12:34:14.403974+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -70,3 +76,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Memoriam]]
+
+
+## Related
+
+*Links to related content will be added here.*

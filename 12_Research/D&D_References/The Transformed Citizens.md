@@ -1,26 +1,33 @@
+# The Transformed Citizens
+
 ---
+title: The Transformed Citizens
+type: Lore
 tags:
-- adaptation
-- both
-- complete
-- convergence-effects
-- dimensional-bleed
 - lore
-- mutation
-- ordinary-people
+- both
 - reality-sickness
 - shadow-corruption
+- mutation
 - survival
+- complete
+- research
+- dimensional-bleed
+- ordinary-people
+- active
+- convergence-effects
+- adaptation
 - transformed-citizens
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Lore
 category: Population Effects
 significance: Campaign-Critical
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 

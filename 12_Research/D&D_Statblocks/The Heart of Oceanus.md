@@ -1,31 +1,38 @@
+# The Heart of Oceanus
+
 ---
+title: The Heart of Oceanus
+type: NPC
 tags:
-- ancient
 - aquabyssos
-- complete
-- divine
 - entity
+- oceanus
 - heart
 - npc
-- oceanus
-- patron
 - primordial
+- research
+- patron
+- ancient
+- divine
+- active
+- complete
 - sea-spirit
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+race: Primordial Entity
+location: The Deepest Depths of All Oceans
 world: Aquabyssos
-type: NPC
 role: Primordial Sea Spirit
 affiliation: The Ocean Itself
 age: Ancient - Pre-Creation
-race: Primordial Entity
-location: The Deepest Depths of All Oceans
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-heart-of-oceanus-the-heart-of-oceanus.svg]]
@@ -315,3 +322,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Heart of Oceanus|02 Worldbuilding/People/The Heart Of Oceanus]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

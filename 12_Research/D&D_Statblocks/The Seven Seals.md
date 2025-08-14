@@ -1,14 +1,20 @@
+# The Seven Seals
+
 ---
-updated: '2025-08-13T01:18:37.034110+00:00'
-created: '2025-08-11'
+title: The Seven Seals
+type: group
 tags:
 - aquabyssos
 - category/people
+- research
+- active
 - complete
 - group
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
+updated: '2025-08-13T01:18:37.034110+00:00'
 world: Aquabyssos
-type: group
 obsidianUIMode: preview
 accessibility:
   screen_reader_summary: Ancient guardians who embody reality's foundations, structured
@@ -21,6 +27,7 @@ accessibility:
   - X-Card
   - Open Door
 ---
+
 
 
 

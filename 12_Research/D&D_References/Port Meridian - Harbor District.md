@@ -1,14 +1,20 @@
+# Port Meridian - Harbor District
+
 ---
-updated: '2025-08-13T01:18:36.244993+00:00'
-created: '2025-08-12'
-tags:
-- aethermoor
-- category/place
-- complete
-- location
-status: complete
-world: Aethermoor
+title: Port Meridian   Harbor District
 type: location
+tags:
+- category/place
+- research
+- active
+- location
+- complete
+- aethermoor
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+updated: '2025-08-13T01:18:36.244993+00:00'
+world: Aethermoor
 obsidianUIMode: preview
 accessibility:
   screen_reader_summary: Port Meridian - Harbor District is a notable location in
@@ -23,6 +29,7 @@ accessibility:
   - X-Card
   - Open Door
 ---
+
 
 
 
@@ -178,3 +185,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Quest - The Truth Unveiled]]
 - [[Find the Grief Bomb]]
+
+
+## Related
+
+*Links to related content will be added here.*

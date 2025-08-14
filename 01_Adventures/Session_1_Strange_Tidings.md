@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 1 Strange Tidings
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session_1_Strange_Tidings
 
@@ -36,3 +43,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[NPC Relationship System]]
+- [[Throne of Bubbles]]
+- [[High Priest Daemon Shadowprayer]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-nerida-stormcrest-captain-nerida-stormcrest.svg]]
+- [[Abyssos Prime Government]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-age-of-wonders-age-of-wonders.svg]]
+- [[04_Resources_Assets_Locations_location-city-harbor-district-harbor-district.svg]]
+- [[Temple of Sacred Dreams]]

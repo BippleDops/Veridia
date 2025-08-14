@@ -1,26 +1,30 @@
 ---
+title: Investigation Procedures
 type: Lore
+tags:
+- lore
+- aquabyssos
+- both
+- session-notes
+- investigation
+- aquatic
+- worldbuilding
+- quest
+- procedures
+- active
+- combat
+- complete
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
-tags:
-- combat
-- quest
-- session-notes
-- crystal-enhanced
-- shadow-touched
-- aquatic
-- aquabyssos
-- both
-- complete
-- investigation
-- lore
-- procedures
-- worldbuilding
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
-created: '2025-08-11'
 ---
+
 
 
 # Investigation Procedures
@@ -149,11 +153,11 @@ Mastery of investigation procedures allows the party to uncover the deepest secr
 
 ## Related Lore
 
-- [[12_Research/D&D_References/The Pearl Guard]]
+- [[The Pearl Guard]]
 - [[12_Research/D&D_Statblocks/The Shadow Warren]]
-- [[12_Research/D&D_References/Corruption Exposure Tracking]]
-- [[12_Research/D&D_References/Spymaster Crow]]
-- [[12_Research/D&D_References/Crystal corruption mechanics]]
+- [[Corruption Exposure Tracking]]
+- [[Spymaster Crow]]
+- [[Crystal corruption mechanics]]
 
 ## DM Guidance
 
@@ -176,21 +180,21 @@ Adapt procedures to reflect your campaign's tone - more bureaucratic for politic
 
 ## Connections
 
-- [[12_Research/D&D_References/Citizens of Meridian]]
-- [[12_Research/D&D_References/Crimson Hand Strike Team]]
-- [[12_Research/D&D_References/Evidence Chain Analysis]]
-- [[12_Research/D&D_References/Evidence Types Guide]]
-- [[12_Research/D&D_References/Fear Farms]]
-- [[12_Research/D&D_References/Pressure Tube Operator Krill]]
+- [[Citizens of Meridian]]
+- [[Crimson Hand Strike Team]]
+- [[Evidence Chain Analysis]]
+- [[Evidence Types Guide]]
+- [[Fear Farms]]
+- [[Pressure Tube Operator Krill]]
 - [[12_Research/D&D_Statblocks/Random Encounters]]
-- [[12_Research/D&D_References/Reputation System]]
-- [[12_Research/D&D_References/Session 0 - Aquabyssos]]
-- [[12_Research/D&D_References/Silver Mask]]
-- [[12_Research/D&D_References/Spell Components]]
-- [[12_Research/D&D_References/Thalassius the Wise]]
-- [[12_Research/D&D_References/The Deep Mother]]
-- [[12_Research/D&D_References/The Restoration Movement]]
-- [[12_Research/D&D_References/The Silverscale Conspiracy]]
+- [[Reputation System]]
+- [[Session 0 - Aquabyssos]]
+- [[Silver Mask]]
+- [[Spell Components]]
+- [[Thalassius the Wise]]
+- [[The Deep Mother]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]
 
 ## Player-Facing Summary
 
@@ -209,3 +213,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

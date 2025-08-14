@@ -1,14 +1,20 @@
+# Lady Cordelia Windham
+
 ---
-tags:
-- active
-- aethermoor
-- npc
+title: Lady Cordelia Windham
 type: NPC
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.992184+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-lady-cordelia-windham-lady-cordelia-windham.svg]]
@@ -62,3 +68,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Lady Cordelia Windham|02 Worldbuilding/People/Lady Cordelia Windham]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

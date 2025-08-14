@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: The Crimson Sage
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.618182+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -90,6 +98,16 @@ The Crimson Sage appears as a mysterious scholar researching crystal corruption 
 > 5. **Level 5**: Genuinely uncertain if godhood should be reclaimed
 > 6. **Level 6**: The corruption might be his subconsious attempt at reunion with creation
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Sharp and precise
+
+**Speech Pattern**: Peppered with idioms
+
+**Physical Habits**: Steeples fingers when thinking
+
 ## Current Activities
 - Providing selective truth to multiple factions
 - Searching for the Seventh Shard
@@ -102,6 +120,13 @@ The Crimson Sage appears as a mysterious scholar researching crystal corruption 
 - **Master Aldwyn** - Reclusive researcher in [[The Sundered Peaks]]
 - **The Whispered One** - Mythical figure in criminal underworld
 - **Brother Clemens** - Humble priest in small villages
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 ## Motivations (Conflicting)
 1. Restore the Crown and reclaim godhood
@@ -155,6 +180,61 @@ The Crimson Sage appears as a mysterious scholar researching crystal corruption 
 3. Understanding of crystal magic
 4. Visions of the past
 5. Divine spark (dangerous)
+
+
+
+## Background
+
+The Crimson Sage's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Plot Hooks
+
+1. **The Request**: The Crimson Sage needs assistance with a delicate matter
+2. **The Opposition**: Someone wants The Crimson Sage stopped or removed
+3. **The Secret**: Information about The Crimson Sage's past surfaces
+4. **The Alliance**: Opportunity to work with or against The Crimson Sage
+5. **The Crisis**: The Crimson Sage is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 - Never fully reveal identity unless campaign-ending
@@ -403,6 +483,14 @@ The campaign will eventually force the Sage to choose between four ultimate fate
 
 This choice will determine not just his fate, but the future of magic, monarchy, and mortality itself.
 
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-pool-of-sacred-drowning-v1-pool-of-sacred-drowning.svg]]: *business partner*
+- [[Captain Scale-Walker]]: *informant*
+- [[Blood in the Water]]: *mentor*
 
 ## Connections
 

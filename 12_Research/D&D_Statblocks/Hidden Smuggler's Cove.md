@@ -1,28 +1,35 @@
+# Hidden Smuggler's Cove
+
 ---
-tags:
-- aethermoor
-- coastal
-- complete
-- crystals
-- dangerous
-- location
-- pirates
-- secret
-- smuggling
-status: complete
-world: Aethermoor
+title: Hidden Smuggler's Cove
 type: Location
+tags:
+- coastal
+- secret
+- pirates
+- crystals
+- research
+- dangerous
+- active
+- location
+- complete
+- smuggling
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Shattered Coast
+world: Aethermoor
 danger_level: Moderate
 access: hidden
-region: Shattered Coast
 faction_influence: Shadowhawk Syndicate
 created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
-created: '2025-08-11'
 ---
+
 
 
 > [!figure] View
@@ -592,3 +599,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 <!-- enriched: true -->
 - [[Crystal Wardens]]
 - [[Memory Merchant Zephyr Mindweaver]]
+
+
+## Related
+
+*Links to related content will be added here.*

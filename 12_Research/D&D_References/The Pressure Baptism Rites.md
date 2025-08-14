@@ -1,21 +1,27 @@
+# The Pressure Baptism Rites
+
 ---
+title: The Pressure Baptism Rites
+type: Lore
 tags:
-- aquabyssos
-- baptism
-- ceremony
-- complete
-- depth-adaptation
-- initiation
 - lore
+- aquabyssos
 - pressure
 - religion
-- spiritual-transformation
 - underwater-rituals
+- ceremony
+- research
+- spiritual-transformation
+- initiation
+- active
+- complete
+- baptism
+- depth-adaptation
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: cultural-expansion
-created: '2025-08-11'
 updated: '2025-08-11T00:00:00+00:00'
 connections:
 - '[[Deep Mother Cult Practices]]'
@@ -32,6 +38,7 @@ themes:
 - spiritual_adaptation
 - aquatic_communion
 ---
+
 
 
 
@@ -337,3 +344,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Kraken Territories|02 Worldbuilding/Lore/Kraken Territories]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

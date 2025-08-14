@@ -1,16 +1,23 @@
+# Names_and_Languages_Reference
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- gm-resources
-- reference-cards
-- names
-- languages
-- worldbuilding
+title: Names and Languages Reference
 type: Reference
+tags:
+- names
+- worldbuilding
+- research
+- gm-resources
+- active
+- reference-cards
+- languages
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
+
 
 # Names and Languages Reference
 
@@ -306,3 +313,7 @@ world: Both
 - [[Aquabyssos_Cultural_Codex]]
 - [[Quick_NPC_Generator]]
 - [[Faction_Quick_Reference]]
+
+## Related
+
+*Links to related content will be added here.*

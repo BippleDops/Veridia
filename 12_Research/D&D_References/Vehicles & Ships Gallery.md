@@ -1,5 +1,17 @@
 # Vehicles & Ships Gallery
 
+---
+title: Vehicles & Ships Gallery
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
+# Vehicles & Ships Gallery
+
 %% Use reading mode for visual gallery %%
 
 ## vehicle-ship-abyssal-scout-submarine-abyssal-scout-submarine
@@ -208,3 +220,8 @@
 
 ## vehicle-ship-void-skimmer-cutter-void-skimmer-cutter
 ![[04_Resources/Assets/Vehicles/vehicle-ship-void-skimmer-cutter-void-skimmer-cutter.svg]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Academy of Depths
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+![02_Worldbuilding/Groups/Academy_of_Depths](../../../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_academy_of_depths.png)
+
+
 
 # 02_Worldbuilding/Groups/Academy_of_Depths
 
@@ -35,3 +45,7 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[Sea Spirit Priests]]

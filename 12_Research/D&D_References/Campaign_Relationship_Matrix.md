@@ -1,3 +1,15 @@
+# Campaign_Relationship_Matrix
+
+---
+title: Campaign Relationship Matrix
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 
 ## Culture & Daily Life
 

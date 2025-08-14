@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 22   Deep Mother Rising
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 22 - Deep Mother Rising
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Queen Glacialis]]
+- [[04_Resources_Assets_Portraits_portrait-npc-trade-captain-current-trade-captain-current.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-unnamed-watcher-the-unnamed-watcher.svg]]
+- [[Shadow Conspiracy]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-cornelius-deepwater-captain-cornelius-deepwater.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-cultural-advisor-sarah-bridgekeeper-v1-cultural-advisor-sarah-bridgekeeper.svg]]
+- [[04_Resources_Assets_Locations_location-city-crystallization-process-v1-crystallization-process.png]]
+- [[Abyssos Prime]]

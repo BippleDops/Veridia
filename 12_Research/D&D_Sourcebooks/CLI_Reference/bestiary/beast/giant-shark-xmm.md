@@ -1,25 +1,32 @@
+# giant-shark-xmm
+
 ---
+title: giant shark xmm
 aliases:
 - Giant Shark
+type: monster
+tags:
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/beast
+- world/aquabyssos
+- monster
+- ttrpg-cli/monster/cr/5
+- world/both
+- research
+- active
+- status/in-progress
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/beast
-- world/aquabyssos
-- world/both
-type: monster
 updated: '2025-08-12T23:37:35.235372'
 world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -94,3 +101,8 @@ Legends speak of giant shark xmm as a nexus where past and present converge. Loc
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

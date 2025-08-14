@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry the stellar confluence the stellar confluence.svg
+aliases:
+- symbol heraldry the stellar confluence the stellar confluencesvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-the-stellar-confluence-the-stellar-confluence.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Stellar Confluence]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[The Stellar Confluence]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

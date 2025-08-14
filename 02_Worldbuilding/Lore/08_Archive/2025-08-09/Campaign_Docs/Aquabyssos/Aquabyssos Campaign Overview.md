@@ -24,8 +24,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Player Portal]]
-- [[12_Research/D&D_References/Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Player Portal]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
 - [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
 
 ## Notes

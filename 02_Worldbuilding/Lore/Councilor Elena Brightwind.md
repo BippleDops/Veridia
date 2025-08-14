@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- quest
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
+title: Councilor Elena Brightwind
 type: Lore
+tags:
+- lore
+- both
+- content/lore
+- quest
+- world/both
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:15.718189+00:00'
 world: Both
 ---
+
 
 
 ## Overview

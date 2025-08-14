@@ -1,24 +1,28 @@
 ---
-created: '2025-08-12'
-status: complete
-tags:
-- combat
-- quest
-- shadow-touched
-- aquabyssos
-- complete
-- content/lore
-- lore
-- military-ethics
-- moral-dilemmas
-- shadow-corruption
-- status/in-progress
-- warfare
-- world/aquabyssos
+title: Military Moral Quandaries
 type: Lore
+tags:
+- lore
+- aquabyssos
+- warfare
+- shadow-corruption
+- world/aquabyssos
+- military-ethics
+- quest
+- content/lore
+- active
+- moral-dilemmas
+- combat
+- complete
+- status/in-progress
+- shadow-touched
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:15.751262+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Military Moral Quandaries
@@ -422,13 +426,13 @@ Military planning assault on cult stronghold in abandoned cathedral:
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Ethical Dilemmas in Shadow Times]]
-- [[12_Research/D&D_References/Medical Ethics in Plague Crisis]]
-- [[12_Research/D&D_References/Economic Justice Debates]]
-- [[12_Research/D&D_References/Political Compromise Costs]]
-- [[12_Research/D&D_References/Cult of the Deep Mother]]
-- [[12_Research/D&D_References/Shadow Corruption Timeline]]
-- [[12_Research/D&D_References/The Deepwatch Guard]]
+- [[Ethical Dilemmas in Shadow Times]]
+- [[Medical Ethics in Plague Crisis]]
+- [[Economic Justice Debates]]
+- [[Political Compromise Costs]]
+- [[Cult of the Deep Mother]]
+- [[Shadow Corruption Timeline]]
+- [[The Deepwatch Guard]]
 
 ## Adventure Hooks
 
@@ -455,3 +459,21 @@ Legends speak of Military Moral Quandaries as a nexus where past and present con
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

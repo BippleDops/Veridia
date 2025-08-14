@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 07
 type: adventure
-status: active
 tags:
-- combat
+- adventure
 - session-notes
 - aquatic
-- adventure
+- quest
+- active
+- combat
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 07: [Ocean Depths Mystery]
 
@@ -32,7 +38,7 @@ tags:
 ### Underwater Factions
 
 - [[Pearl Divers Guild]] - Information network
-- [[12_Research/D&D_References/Deep Wardens]] - Military authority
+- [[Deep Wardens]] - Military authority
 - [[Tide Singers]] - Mystical knowledge
 
 ## Investigation Elements
@@ -68,3 +74,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Key NPCs
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-henrik-saltbreeze-captain-henrik-saltbreeze.svg]]
+- [[04_Resources_Assets_Locations_location-city-dr-vera-spectrumseeker-v1-dr-vera-spectrumseeker.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-current-lord-triton-of-house-pelagios-current-lord-triton-of-house-pelagios.svg]]
+- [[The Bloodline Carrier]]
+- [[04_Resources_Assets_Locations_location-city-keeper-valdris-goldvault-keeper-valdris-goldvault.svg]]
+
+
+## Important Locations
+
+- [[reports_bidirectional_links]]
+- [[04_Resources_Assets_Locations_location-city-the-azure-coast-v1-the-azure-coast.svg]]
+- [[04_Resources_Assets_Locations_location-city-current-solidarity-v1-current-solidarity.svg]]

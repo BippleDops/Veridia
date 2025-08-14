@@ -1,11 +1,29 @@
+# Aethermoor - Session 07 The Festival of Transformation
+
 ---
+title: The Festival of Transformation
+type: Lore
+tags:
+- aethermoor
+- campaign/session
+- climax
+- festival
+- content/lore
+- research
+- active
+- transformation
+- status/in-progress
+- world/aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+location: '[[Crystal Festival Grounds]]'
+level: 5
+session_number: 7
+date_played: null
 MyCategory: Unknown
 MyContainer: None
-created: '2025-08-11'
-date_played: null
 estimated_time: 4 hours
-level: 5
-location: '[[Crystal Festival Grounds]]'
 npcs_featured:
 - '[[Queen Seraphina Lumengarde]]'
 - '[[Vex Shadowthorn]]'
@@ -17,21 +35,10 @@ quests_advanced:
 - '[[Stop the Crystal Festival Ritual]]'
 - '[[Save the Citizens]]'
 - '[[Confront the Possessed Queen]]'
-session_number: 7
-status: complete
-tags:
-- campaign/session
-- climax
-- content/lore
-- festival
-- status/in-progress
-- transformation
-- world/aethermoor
-title: The Festival of Transformation
-type: Lore
 updated: '2025-08-12T23:37:41.188374'
 world: Aethermoor
 ---
+
 
 
 
@@ -175,3 +182,8 @@ Environmental Effects:
 ## Connections
 
 - [[Brother Marcus Steelbane]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,16 +1,23 @@
+# Tide_Monk_Way_of_Flowing_Current
+
 ---
-created: '2025-08-13'
-status: ready
-tags:
-- status/ready
-- type/character-build
-- world/aquabyssos
-- class/monk
-- tradition/flowing-current
+title: Tide Monk Way of Flowing Current
 type: Character Build
+tags:
+- tradition/flowing-current
+- research
+- type/character-build
+- active
+- status/ready
+- class/monk
+- world/aquabyssos
+created: '2025-08-13'
+modified: '2025-08-14'
+status: ready
 updated: '2025-08-13T12:00:00.000000'
 world: Aquabyssos
 ---
+
 
 # Tide Monk - Way of the Flowing Current
 
@@ -214,3 +221,7 @@ Tide Monks are respected throughout Aquabyssos as keepers of ancient wisdom and 
 - **Combat Flow**: Sparring that emphasizes redirection over direct confrontation
 
 This build emphasizes the unique aspects of underwater martial arts while maintaining the core monk identity of wisdom, balance, and spiritual development.
+
+## Related
+
+*Links to related content will be added here.*

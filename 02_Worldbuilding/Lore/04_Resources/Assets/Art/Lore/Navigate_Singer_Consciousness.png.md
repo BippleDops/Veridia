@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Navigate Singer Consciousness.png
+aliases:
+- Navigate Singer Consciousnesspng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Art/Lore/Navigate_Singer_Consciousness.png
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Navigate Singer Consciousness]]
+- [[Navigate Singer Consciousness]]
 - [[02_Worldbuilding/Lore/Navigate Singer Consciousness]]
 
 ## Notes

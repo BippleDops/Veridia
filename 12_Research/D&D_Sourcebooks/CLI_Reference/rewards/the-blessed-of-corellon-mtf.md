@@ -1,21 +1,27 @@
+# the-blessed-of-corellon-mtf
+
 ---
+title: the blessed of corellon mtf
 aliases:
 - The Blessed of Corellon
-created: 2025-07-23
-cssclasses: json5e-reward
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- ttrpg-cli/reward/other
+- research
+- world/both
+- active
+- ttrpg-cli/compendium/src/5e/mtf
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/reward/other
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-reward
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.748631'
 world: Both
 ---
+
 
 # The Blessed of Corellon
 *Other*  
@@ -45,3 +51,8 @@ Legends speak of the blessed of corellon mtf as a nexus where past and present c
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

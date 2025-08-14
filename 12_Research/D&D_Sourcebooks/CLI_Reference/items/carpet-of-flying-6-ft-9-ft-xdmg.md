@@ -1,22 +1,28 @@
+# carpet-of-flying-6-ft-9-ft-xdmg
+
 ---
+title: carpet of flying 6 ft 9 ft xdmg
 aliases:
-- Carpet of Flying, 6 ft. × 9 ft.
-attunement: false
-created: 2025-07-23 12:39
-cssclasses: json5e-item
-modified: 2025-07-23 12:39
-obsidian-u-i-mode: preview
-status: active
+- "Carpet of Flying, 6 ft. \xD7 9 ft."
+type: note
 tags:
-- content/item
+- research
+- world/both
+- active
 - note
+- content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- world/both
-type: note
+created: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+attunement: false
+cssclasses: json5e-item
+obsidian-u-i-mode: preview
 updated: '2025-08-12T23:37:37.301218'
 world: Both
 ---
+
 
 
 > [!figure] Item
@@ -52,3 +58,8 @@ Legends speak of carpet of flying 6 ft 9 ft xdmg as a nexus where past and prese
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

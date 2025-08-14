@@ -1,35 +1,40 @@
 ---
+title: Parliament of Shadows Campaign
+type: Faction
+tags:
+- status/complete
+- content/faction
+- faction
+- organization
+- world/both
+- both aethermoor & aquabyssos
+- active
+- campaign/arc
+- inter-realm-politics
+- complete
+- shadow-representation
+- world/aethermoor
+- governance
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Inter-Realm Council Chambers]]'
+membership: Unknown
 MyCategory: Advocacy Campaign
 MyContainer: Inter-Realm Politics
 alignment: Lawful Good (Democratic Representation)
-created: '2025-08-08'
 created_by: auto-stub
 faction_type: Cross-Realm Political Movement
-headquarters: '[[The Inter-Realm Council Chambers]]'
 influence: Cross-Realm Politics, Shadow Community Advocacy
 leader: '[[Campaign Director Umbra Bridgeworth]]'
 members: ~150 campaign organizers, ~800 volunteer activists, ~5000 supporters
-modified: 2025-08-11 - Category/Group
 obsidianUIMode: preview
 purpose: Establish political representation for shadow-touched individuals across
   both realms
-status: complete
-tags:
-- both aethermoor & aquabyssos
-- campaign/arc
-- complete
-- content/faction
-- faction
-- governance
-- inter-realm-politics
-- shadow-representation
-- status/complete
-- world/aethermoor
-- world/both
-type: Faction
 updated: '2025-08-13T12:34:17.412286+00:00'
 world: Both Aethermoor & Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry

@@ -1,19 +1,26 @@
+# Black Market Crystal Trade
+
 ---
+title: Black Market Crystal Trade
+type: lore
 tags:
+- lore
 - aquabyssos
+- trade
+- economics
+- crystal
 - black-market
+- research
+- active
 - complete
 - criminal
-- crystal
-- economics
-- lore
-- trade
-type: lore
-world: Aquabyssos
-status: complete
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.098779+00:00'
 ---
+
 
 
 # Black Market Crystal Trade
@@ -429,3 +436,7 @@ Evidence suggests that foreign powers are deliberately spreading black market pl
 - [[Brother Marcus]] - Legitimate healer whose services are often counterfeited
 
 <!-- enriched: true -->
+
+## Related
+
+*Links to related content will be added here.*

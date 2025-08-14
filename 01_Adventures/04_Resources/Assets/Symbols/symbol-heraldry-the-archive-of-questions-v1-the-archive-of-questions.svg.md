@@ -1,13 +1,21 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry the archive of questions v1 the archive of questions.svg
+aliases:
+- symbol heraldry the archive of questions v1 the archive of questionssvg
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-the-archive-of-questions-v1-the-archive-of-questions.svg
 
@@ -24,7 +32,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 
@@ -35,3 +43,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Locations_location-city-spymaster-crow-v1-spymaster-crow.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-depth-wars-the-depth-wars.svg]]
+- [[Guard Captain Morris]]
+- [[04_Resources_Assets_Locations_location-city-the-crystal-cathedral-of-pure-light-v1-the-crystal-cathedral-of-pure-light.svg]]
+- [[Captain Henrik Proudbanner]]
+
+
+## Important Locations
+
+- [[Pressure Wraiths]]
+- [[04_Resources_Assets_Locations_location-city-quest-the-truth-unveiled-v1-quest-the-truth-unveiled.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-trencher-folk-the-trencher-folk.svg]]

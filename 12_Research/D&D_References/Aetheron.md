@@ -1,14 +1,21 @@
+# Aetheron
+
 ---
+title: Aetheron
+type: Lore
+tags:
+- lore
+- both
+- research
+- active
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 world: Both
 updated: '2025-08-13T01:18:35.563768+00:00'
-created: '2025-08-11'
-status: active
-tags:
-- active
-- both
-- lore
-type: Lore
 ---
+
 
 
 
@@ -249,3 +256,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Aether Crystals|02 Worldbuilding/Quests/Aether Crystals]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Identity Crisis Resolution.png
+aliases:
+- Identity Crisis Resolutionpng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Art/Lore/Identity_Crisis_Resolution.png
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Identity Crisis Resolution]]
+- [[Identity Crisis Resolution]]
 - [[02_Worldbuilding/Lore/Identity Crisis Resolution]]
 
 ## Notes

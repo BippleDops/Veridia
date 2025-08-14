@@ -1,21 +1,27 @@
+# goliath-xphb
+
 ---
+title: goliath xphb
 aliases:
 - Goliath
-created: 2025-07-23
-cssclasses: json5e-race
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- ttrpg-cli/race/goliath
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/race/goliath
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-race
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:37.712208'
 world: Both
 ---
+
 
 # Goliath
 *Source: Player's Handbook (2024) p. 192. Available in the Free Rules (2024)*  
@@ -72,3 +78,8 @@ Legends speak of goliath xphb as a nexus where past and present converge. Locals
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

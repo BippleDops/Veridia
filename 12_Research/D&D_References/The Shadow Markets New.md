@@ -1,15 +1,21 @@
+# The Shadow Markets New
+
 ---
+title: The Shadow Markets New
+type: Location
+tags:
+- both
+- active
+- location
+- research
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 world: Both
 updated: '2025-08-13T01:18:36.469822+00:00'
-created: '2025-08-11'
-status: active
-tags:
-- active
-- both
-- location
-type: Location
 danger_level: Moderate
 ---
+
 
 
 
@@ -95,3 +101,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Shadow Markets New|02 Worldbuilding/Places/The Shadow Markets New]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,29 +1,36 @@
+# The Lock
+
 ---
+title: The Lock
+type: Location
 tags:
+- fortress
 - aquabyssos
-- barrier
+- deep
 - completed
 - critical
-- deep
-- fortress
-- location
 - magical-barrier-fortress
+- research
+- active
+- location
+- barrier
+created: '2025-08-12'
+modified: '2025-08-14'
 status: completed
-world: Aquabyssos
 region: '[[The Hadal Depths]] Border'
-type: Location
 population: 800
+world: Aquabyssos
 danger_level: 9
 government: '[[Deep Watch Command]]'
 commander: '[[Admiral Thorne Blackwater]]'
 purpose: Seal against The Hadal Depths
 depth: 15,000 feet below surface
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-12T00:00:00+00:00'
 ---
+
 
 
 > [!figure] View
@@ -469,3 +476,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 <!-- enriched: true -->
 - [[Abyssos Prime]]
 - [[The Hadal Depths]]
+
+
+## Related
+
+*Links to related content will be added here.*

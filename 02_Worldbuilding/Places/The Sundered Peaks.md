@@ -1,18 +1,25 @@
 ---
-created: '2025-08-11'
-danger_level: Moderate
-status: complete
+title: The Sundered Peaks
+type: Location
 tags:
 - both
-- complete
-- content/location
-- location
-- status/in-progress
 - world/both
-type: Location
+- content/location
+- place
+- active
+- location
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+danger_level: Moderate
 updated: '2025-08-13T12:34:17.143420+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -232,6 +239,27 @@ Pre-Shattering tunnel system:
 - [[Merchant Princes]] - Control trade
 - [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Smuggling
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 - Balance tradition vs. progress
 - Mining drives economy
@@ -263,3 +291,84 @@ Legends speak of The Sundered Peaks as a nexus where past and present converge. 
 <!-- enriched: true -->
 - [[Crystal Wardens]]
 - [[Ironhold]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[The Progressive Coalition Headquarters]]
+- [[Thomas Deepanchor]]
+- [[The Umbral Nexus]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+The Sundered Peaks is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Sundered Peaks
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## History
+
+### Founding
+The Sundered Peaks was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting The Sundered Peaks:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Sundered Peaks
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

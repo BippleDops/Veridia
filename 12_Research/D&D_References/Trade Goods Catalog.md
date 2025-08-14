@@ -1,18 +1,25 @@
+# Trade Goods Catalog
+
 ---
+title: Trade Goods Catalog
+type: Items
+tags:
+- economy
+- prices
+- both
+- items
+- mechanics
+- trade-goods
+- research
+- active
+- complete
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 world: Both
 updated: '2025-08-12T00:00:00+00:00'
-created: '2025-08-12'
-status: complete
-tags:
-- both
-- complete
-- economy
-- trade-goods
-- items
-- prices
-- mechanics
-type: Items
 ---
+
 
 > [!figure] Trade Goods
 ![](04_Resources/Assets/Items/items-trade-goods-catalog.svg)
@@ -621,3 +628,8 @@ Consider how the complex web of legitimate and criminal commerce creates moral a
 
 The economic complexity allows for sophisticated plots involving market manipulation, supply chain disruption, and the far-reaching consequences of seemingly simple commercial decisions. Use trade goods as a way to connect distant events and demonstrate how individual character actions can have widespread economic and social impacts.
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

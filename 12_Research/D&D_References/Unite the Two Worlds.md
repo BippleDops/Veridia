@@ -1,14 +1,20 @@
+# Unite the Two Worlds
+
 ---
-updated: '2025-08-13T01:18:35.389219+00:00'
-created: '2025-08-12'
-tags:
-- aethermoor
-- category/lore
-- complete
-- lore
-status: complete
-world: Aethermoor
+title: Unite the Two Worlds
 type: lore
+tags:
+- lore
+- category/lore
+- research
+- active
+- complete
+- aethermoor
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+updated: '2025-08-13T01:18:35.389219+00:00'
+world: Aethermoor
 obsidianUIMode: preview
 accessibility:
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -19,6 +25,7 @@ accessibility:
   - Lines & Veils
   - X-Card
 ---
+
 
 
 
@@ -68,3 +75,8 @@ Legends speak of Unite the Two Worlds as a nexus where past and present converge
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

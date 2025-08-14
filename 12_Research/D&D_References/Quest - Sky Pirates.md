@@ -1,14 +1,21 @@
+# Quest - Sky Pirates
+
 ---
-tags:
-- active
-- both
-- lore
+title: Quest   Sky Pirates
 type: Lore
-world: Both
-status: active
+tags:
+- lore
+- both
+- research
+- active
+- aethermoor
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:35.900483+00:00'
 ---
+
 
 
 

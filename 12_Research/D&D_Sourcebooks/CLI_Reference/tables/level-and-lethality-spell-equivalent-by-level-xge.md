@@ -1,12 +1,20 @@
+# level-and-lethality-spell-equivalent-by-level-xge
+
 ---
-created: 2025-08-11
-status: active
+title: level and lethality spell equivalent by level xge
+type: research
 tags:
-- status/in-progress
 - world/both
+- status/in-progress
+- active
+- research
+created: 2025-08-11
+modified: '2025-08-14'
+status: active
 updated: '2025-08-12T23:37:33.500801'
 world: Both
 ---
+
 
 
 
@@ -29,3 +37,8 @@ Legends speak of level and lethality spell equivalent by level xge as a nexus wh
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

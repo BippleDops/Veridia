@@ -1,18 +1,25 @@
+# Master Goldwin Ledgerkeeper
+
 ---
-created: '2025-08-11'
-danger_level: Moderate
-status: complete
-tags:
-- aethermoor
-- complete
-- content/location
-- location
-- status/in-progress
-- world/aethermoor
+title: Master Goldwin Ledgerkeeper
 type: Location
+tags:
+- research
+- content/location
+- world/aethermoor
+- active
+- location
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+danger_level: Moderate
 updated: '2025-08-13T12:34:16.540135+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View
@@ -70,3 +77,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Crown Authority]]
+
+
+## Related
+
+*Links to related content will be added here.*

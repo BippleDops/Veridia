@@ -1,16 +1,23 @@
+# The Drowned God
+
 ---
+title: The Drowned God
+type: Lore
 tags:
+- lore
 - completed
+- dual
 - creation_myth
 - deity
-- drowning
-- dual
 - dual_world
-- lore
+- research
 - sacrifice
+- drowning
+- active
 - transformation
+created: '2025-08-11'
+modified: '2025-08-14'
 status: completed
-type: Lore
 world: dual
 connections:
 - '[[The Great Drowning]]'
@@ -24,8 +31,8 @@ themes:
 - protective_drowning
 - dual_nature_deity
 updated: '2025-08-11T00:00:00+00:00'
-created: '2025-08-11'
 ---
+
 
 
 
@@ -207,3 +214,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
 - [[Deep Mother]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

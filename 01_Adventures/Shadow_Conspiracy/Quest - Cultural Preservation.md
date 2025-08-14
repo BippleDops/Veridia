@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Quest   Cultural Preservation
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Quest - Cultural Preservation
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Shadow Vale]]
+- [[Shadow Vale]]
 - [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Vale]]
 
 ## Notes
@@ -36,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Locations_location-city-the-drowned-embassy-the-drowned-embassy.svg]]
+- [[The Crimson Sage]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-echo-succession-the-echo-succession.svg]]
+- [[04_Resources_Assets_Locations_location-city-scout-captain-vera-deepwatch-scout-captain-vera-deepwatch.svg]]
+- [[Memory Harvester Kythara]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-elder-matthias-stoneward-v1-elder-matthias-stoneward.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-whisper-island-mystery-v1-the-whisper-island-mystery.png]]
+- [[04_Resources_Assets_Locations_location-city-deep-pearls-deep-pearls.svg]]

@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Cultural Preservation Societ
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+![02_Worldbuilding/Groups/Cultural Preservation Societ](../../../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_cultural_preservation_societ.png)
+
+
 
 # 02_Worldbuilding/Groups/Cultural Preservation Societ
 
@@ -36,3 +46,8 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[Master_Wind_Singer_Melody_Tradition]]
+- [[The Waking Prophets]]

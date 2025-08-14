@@ -1,14 +1,21 @@
 ---
+title: Ambassador Nerida Deepcurrent
+type: NPC
+tags:
+- character
+- both
+- active
+- npc
 created: null
+modified: '2025-08-14'
+status: active
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.484964+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 
 > [!figure] Portrait
@@ -59,6 +66,16 @@ The enigmatic envoy from the Tidal Courts of Aquabyssos, a vast underwater empir
 - **[[Master Artificer Korvin Gearwright]]**: Fascinated by his crystal technology; secretly offers deep-sea materials
 - **Sister Morwyn Veilkeeper**: Exchanges prophetic visions about the coming convergence
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Formal and elaborate
+
+**Physical Habits**: Maintains intense eye contact
+
 ## Current Activities
 - Negotiating exclusive trade rights for deep-sea resources
 - Secretly mapping Aethermoor's crystal deposits for the Drowned Parliament
@@ -94,9 +111,73 @@ Located in Crystalhaven's Embassy Quarter, her residence is a architectural marv
 - "Depth has privileges you surface dwellers cannot fathom."
 - "The tide rises, whether you will it or not."
 
+
+
+## Background
+
+Ambassador Nerida Deepcurrent's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Motivations
+
+**Primary Goal**: Protecting loved ones
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 Nerida represents the looming threat of Aquabyssos while maintaining plausible deniability. She's a master manipulator who views the surface world as a chess board for the Tidal Courts' expansion. Her presence should make players question whether cooperation or conflict with the underwater realm is inevitable.
 
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-border-fortresses-border-fortresses.svg]]: *student*
+- [[Tenebrarum]]: *sworn enemy*
+- [[04_Resources_Assets_Locations_location-city-captain-marcus-v1-captain-marcus.svg]]: *student*
 
 ## Connections
 

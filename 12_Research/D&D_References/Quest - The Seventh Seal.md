@@ -1,14 +1,21 @@
+# Quest - The Seventh Seal
+
 ---
+title: Quest   The Seventh Seal
+type: Lore
 tags:
-- active
-- both
 - lore
-- mid-level
+- both
 - mystical
-- order-of-shattered-crown
 - personal
 - quest
-type: Lore
+- research
+- active
+- mid-level
+- order-of-shattered-crown
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 quest_giver: '[[The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
 level_range: 7-10
 reward_tier: Major
@@ -29,9 +36,8 @@ MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:34.484578+00:00'
-created: '2025-08-11'
-status: active
 ---
+
 
 
 
@@ -317,3 +323,8 @@ Legends speak of Quest   The Seventh Seal as a nexus where past and present conv
 - A map overlay reveals a hidden approach to Quest   The Seventh Seal active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

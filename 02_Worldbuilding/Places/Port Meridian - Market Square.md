@@ -1,34 +1,41 @@
 ---
+title: Port Meridian   Market Square
+type: Location
+tags:
+- economy
+- mechanics/social
+- trading
+- status/complete
+- market
+- aquatic
+- bustling
+- content/location
+- port_meridian
+- place
+- world/aethermoor
+- active
+- location
+- complete
+- commerce
+- aethermoor
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Places
 MyContainer: None
 access: public
-created: '2025-08-08'
 created_by: auto-stub
 danger_level: Low
 obsidianUIMode: preview
 security_level: moderate
-status: complete
-tags:
-- crystal-enhanced
-- shadow-touched
-- aquatic
-- aethermoor
-- bustling
-- commerce
-- complete
-- content/location
-- economy
-- location
-- market
-- mechanics/social
-- port_meridian
-- status/complete
-- trading
-- world/aethermoor
-type: Location
 updated: '2025-08-13T12:34:16.795897+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View
@@ -41,7 +48,7 @@ world: Aethermoor
 
 ## Overview
 
-The Market Square of [[12_Research/D&D_References/Port Meridian]] stands as the beating commercial heart of [[12_Research/D&D_References/Aethermoor]]'s greatest port city. This massive open plaza, spanning nearly three acres at the city's center, serves as the primary marketplace where merchants, travelers, and citizens from across multiple realms gather to engage in the fundamental activities of civilization: trade, communication, and the exchange of ideas.
+The Market Square of [[Port Meridian]] stands as the beating commercial heart of [[Aethermoor]]'s greatest port city. This massive open plaza, spanning nearly three acres at the city's center, serves as the primary marketplace where merchants, travelers, and citizens from across multiple realms gather to engage in the fundamental activities of civilization: trade, communication, and the exchange of ideas.
 
 More than a simple marketplace, the Market Square represents the intersection of cultures, currencies, and concepts that have shaped Port Meridian's identity as a cosmopolitan hub. Here, the crystal-powered innovations of Aethermoor meet the practical needs of daily life, creating a unique synthesis of advanced technology and traditional commerce that attracts visitors from across dimensional boundaries.
 
@@ -318,13 +325,13 @@ The Market Square operates under the **Charter of Fair Trade**, a foundational d
 
 **Regulatory Authority**:
 **The Market Council** - Seven-member governing body responsible for policy and enforcement:
-- **Market Master General** [[12_Research/D&D_References/Sterling Goldbalance]] - Overall administration and final authority
+- **Market Master General** [[Sterling Goldbalance]] - Overall administration and final authority
 - **Guild Representative** [[Master Merchant Luna Fairweigh]] - Voice of established merchant interests
-- **Citizen Advocate** [[12_Research/D&D_References/Counselor Marcus Publicvoice]] - Representative of general population interests
-- **Cultural Liaison** [[12_Research/D&D_References/Ambassador Sage Bridgebuilder]] - Expert in inter-realm relations and customs
-- **Legal Advisor** [[12_Research/D&D_References/Magistrate Justice Lawkeeper]] - Interpretation and enforcement of commercial law
-- **Economic Analyst** [[12_Research/D&D_References/Treasurer Mint Coinwise]] - Financial oversight and market analysis
-- **Security Coordinator** [[12_Research/D&D_References/Captain Guard Peacehold]] - Safety and law enforcement coordination
+- **Citizen Advocate** [[Counselor Marcus Publicvoice]] - Representative of general population interests
+- **Cultural Liaison** [[Ambassador Sage Bridgebuilder]] - Expert in inter-realm relations and customs
+- **Legal Advisor** [[Magistrate Justice Lawkeeper]] - Interpretation and enforcement of commercial law
+- **Economic Analyst** [[Treasurer Mint Coinwise]] - Financial oversight and market analysis
+- **Security Coordinator** [[Captain Guard Peacehold]] - Safety and law enforcement coordination
 
 ### Licensing and Permits
 
@@ -556,29 +563,29 @@ A deal involving artifacts of immense power and value brings representatives fro
 
 ### Related Locations
 
-- [[12_Research/D&D_References/Port Meridian]] - The greater city containing the Market Square
-- [[12_Research/D&D_References/Port Meridian Harbor]] - Underwater connection and source of much trade goods and merchant activity
-- [[12_Research/D&D_References/Port Meridian - Merchant Quarter]] - Residential and business area for wealthy traders
-- [[12_Research/D&D_References/Port Meridian - Noble Quarter]] - Location of the city's wealthiest customers
-- [[12_Research/D&D_References/The Royal Palace]] - Political authority overseeing trade policy
-- [[12_Research/D&D_References/Aethermoor]] - The surface kingdom this market serves
+- [[Port Meridian]] - The greater city containing the Market Square
+- [[Port Meridian Harbor]] - Underwater connection and source of much trade goods and merchant activity
+- [[Port Meridian - Merchant Quarter]] - Residential and business area for wealthy traders
+- [[Port Meridian - Noble Quarter]] - Location of the city's wealthiest customers
+- [[The Royal Palace]] - Political authority overseeing trade policy
+- [[Aethermoor]] - The surface kingdom this market serves
 
 ### Associated Organizations
 
 - [[02_Worldbuilding/Groups/Crystal Merchants Guil|02 Worldbuilding/Groups/Crystal Merchants Guil]] - Professional organization for crystal-related commerce
-- [[12_Research/D&D_References/Aethermoor Trade Commission]] - Government agency regulating inter-realm commerce
-- [[12_Research/D&D_References/Market Security Force]] - Specialized law enforcement for commercial areas
-- [[12_Research/D&D_References/Cultural Exchange Society]] - Organization promoting understanding between different realms
-- [[12_Research/D&D_References/Master Artificers Guild]] - Suppliers of crystal technology and magical items
-- [[12_Research/D&D_References/The Shadow Markets]] - Underground competition and alternative trading network
-- [[12_Research/D&D_References/Depth Wardens]] - Security coordination between surface and underwater commerce
+- [[Aethermoor Trade Commission]] - Government agency regulating inter-realm commerce
+- [[Market Security Force]] - Specialized law enforcement for commercial areas
+- [[Cultural Exchange Society]] - Organization promoting understanding between different realms
+- [[Master Artificers Guild]] - Suppliers of crystal technology and magical items
+- [[The Shadow Markets]] - Underground competition and alternative trading network
+- [[Depth Wardens]] - Security coordination between surface and underwater commerce
 
 ### Key Figures
 
-- [[12_Research/D&D_References/Sterling Goldbalance]] - Market Master General and chief administrator
+- [[Sterling Goldbalance]] - Market Master General and chief administrator
 - [[Master Merchant Luna Fairweigh]] - Guild representative and merchant advocate
-- [[12_Research/D&D_References/Luminous Sterling]] - Premier crystal jewelry artisan
-- [[12_Research/D&D_References/Magnus Fairweight]] - Master tool and equipment provider
+- [[Luminous Sterling]] - Premier crystal jewelry artisan
+- [[Magnus Fairweight]] - Master tool and equipment provider
 
 ## Secrets and Mysteries
 
@@ -588,7 +595,7 @@ A deal involving artifacts of immense power and value brings representatives fro
 Beneath the Market Square lies a hidden vault containing the original founder's treasure, including artifacts and currency from the city's earliest days. Access to this wealth could dramatically shift the economic balance of power.
 
 **The Merchant Conspiracy**
-A secret society of the most powerful merchants coordinates policy and manipulates market conditions to their advantage, operating through seemingly independent decisions that actually follow a coordinated plan with connections to [[12_Research/D&D_References/The Shadow Markets]] and [[12_Research/D&D_References/The Royal Palace]].
+A secret society of the most powerful merchants coordinates policy and manipulates market conditions to their advantage, operating through seemingly independent decisions that actually follow a coordinated plan with connections to [[The Shadow Markets]] and [[The Royal Palace]].
 
 **The Cultural Artifact**
 Hidden within one of the permanent stalls is an artifact of immense cultural significance to a distant realm, placed there for safekeeping during a long-ago crisis and now forgotten by all who knew of its presence.
@@ -602,7 +609,7 @@ Some merchants seem to always know exactly what prices to set for maximum profit
 Occasionally, merchants disappear overnight, leaving their stalls empty and no trace of where they went. These disappearances follow no apparent pattern and have never been solved.
 
 **The Midnight Market**
-Rumors persist of a secret market that operates in the Square during the darkest hours of night, dealing in goods and services that cannot be traded during daylight hours, possibly connected to [[12_Research/D&D_References/The Shadow Markets]] operations.
+Rumors persist of a secret market that operates in the Square during the darkest hours of night, dealing in goods and services that cannot be traded during daylight hours, possibly connected to [[The Shadow Markets]] operations.
 
 ---
 
@@ -611,9 +618,9 @@ Rumors persist of a secret market that operates in the Square during the darkest
 
 ## Connections
 
-- [[12_Research/D&D_References/Port Meridian Harbor]]
-- [[12_Research/D&D_References/The Royal Palace]]
-- [[12_Research/D&D_References/The Shadow Markets]]
+- [[Port Meridian Harbor]]
+- [[The Royal Palace]]
+- [[The Shadow Markets]]
 
 ## Player-Facing Summary
 
@@ -629,18 +636,133 @@ Legends speak of Port Meridian   Market Square as a nexus where past and present
 - An NPC seeks discreet help at Port Meridian   Market Square to avert a public scandal.
 - A map overlay reveals a hidden approach to Port Meridian   Market Square active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Port Meridian - Market Square]]
+- [[Port Meridian - Market Square]]
 
 <!-- enriched: true -->
-- [[12_Research/D&D_References/Master Artificers Guild]]
-- [[12_Research/D&D_References/Goldwave Manor]]
-- [[12_Research/D&D_References/Aethermoor]]
-- [[12_Research/D&D_References/Depth Wardens]]
-- [[12_Research/D&D_References/Port Meridian - Merchant Quarter]]
-- [[12_Research/D&D_References/Port Meridian]]
+- [[Master Artificers Guild]]
+- [[Goldwave Manor]]
+- [[Aethermoor]]
+- [[Depth Wardens]]
+- [[Port Meridian - Merchant Quarter]]
+- [[Port Meridian]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-memory-farmer-thane-memory-farmer-thane.svg]]
+- [[Chief Diplomat Corallion Reefwright]]
+- [[04_Resources_Assets_Locations_location-city-high-tide-keeper-nautilus-primordial-high-tide-keeper-nautilus-primordial.svg]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+Port Meridian - Market Square is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Port Meridian - Market Square
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Port Meridian - Market Square was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Port Meridian - Market Square:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Port Meridian - Market Square
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

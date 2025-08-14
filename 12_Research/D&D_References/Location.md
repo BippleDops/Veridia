@@ -1,15 +1,21 @@
+# Location
+
 ---
-tags:
-- active
-- both
-- lore
-- note
+title: Location
 type: Lore
-world: Both
-status: active
+tags:
+- lore
+- both
+- research
+- active
+- note
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:34.688352+00:00'
 ---
+
 
 
 
@@ -53,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[New Location]]
 - [[New NPC]]
 - [[New Quest]]
+
+
+## Related
+
+*Links to related content will be added here.*

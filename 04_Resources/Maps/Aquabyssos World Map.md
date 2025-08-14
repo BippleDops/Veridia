@@ -1,24 +1,30 @@
+# Aquabyssos World Map
+
 ---
+title: Aquabyssos World Map
 aliases:
 - Aquabyssos Map Demo
-created: '2025-08-12'
-status: draft
-tags:
-- aquabyssos
-- content/lore
-- draft
-- leaflet
-- lore
-- map
-- stable
-- world/aquabyssos
 type: Lore
-updated: '2025-08-13T12:34:32.365044+00:00'
+tags:
+- lore
+- aquabyssos
+- stable
+- leaflet
+- content/lore
+- map
+- active
+- draft
+- world/aquabyssos
+- resource
+created: '2025-08-12'
+modified: '2025-08-14'
+status: draft
+updated: 2025-08-13 07:59:50.466320
 world: Aquabyssos
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.466320
 ---
+
 # Aquabyssos World Map (Leaflet Demo)
 
 Use this interactive map to drop markers that link to locations in Aquabyssos.
@@ -49,3 +55,8 @@ Notes
 ## Cross-References
 
 - [[Aquabyssos Vault Readme]]
+
+
+## Related
+
+*Links to related content will be added here.*

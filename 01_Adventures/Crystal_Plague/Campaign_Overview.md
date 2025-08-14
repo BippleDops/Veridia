@@ -1,21 +1,27 @@
 ---
-created: '2025-08-13'
-status: active
+title: Campaign Overview
+type: Campaign
 tags:
-- combat
-- quest
+- adventure
 - session-notes
-- crystal-enhanced
 - campaign/crystal-plague
-- medical-mystery
-- corruption
+- quest
 - cure-quest
 - world/both
 - status/active
-type: Campaign
+- active
+- combat
+- corruption
+- medical-mystery
+- crystal-enhanced
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
+level: 1-5
 updated: '2025-08-13T17:20:00.000000'
 world: Both
 ---
+
 
 # Crystal Plague Cure: Medical Mystery Campaign
 
@@ -498,3 +504,10 @@ Each component requires a mini-adventure:
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Portraits_portrait-npc-archbishop-matthias-lightbringer-archbishop-matthias-lightbringer.svg]]
+- [[Echo-Theorist Maya]]
+- [[The Hadal Depths]]

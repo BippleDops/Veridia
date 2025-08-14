@@ -1,22 +1,29 @@
+# The Stolen Anvil
+
 ---
+title: The Stolen Anvil
+type: NPC
 tags:
-- anvil
-- aquabyssos
-- complete
-- crafting
 - lore
-- npc
+- aquabyssos
 - theft
+- anvil
+- npc
+- research
+- crafting
+- active
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: NPC
 created_by: auto-stub
-created: '2025-08-11'
 MyContainer: None
 MyCategory: Events
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.934411+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -165,3 +172,8 @@ Legends speak of The Stolen Anvil as a nexus where past and present converge. Lo
 
 <!-- enriched: true -->
 iched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

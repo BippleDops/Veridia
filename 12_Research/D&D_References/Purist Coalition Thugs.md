@@ -1,30 +1,37 @@
+# Purist Coalition Thugs
+
 ---
-tags:
-- aethermoor
-- anti-corruption
-- complete
-- extremist
-- faction
-- group
-- militant
-- minor-faction
-status: complete
-world: Aethermoor
+title: Purist Coalition Thugs
 type: Group
+tags:
+- minor-faction
+- faction
+- research
+- active
+- militant
+- complete
+- anti-corruption
+- aethermoor
+- group
+- extremist
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Pure Sanctum]]'
+world: Aethermoor
 faction_type: Extremist Movement
 alignment: Chaotic Good (extremist methods)
-headquarters: '[[The Pure Sanctum]]'
 leader: '[[Purifier Marcus Steelbane]]'
 members: ~2,000 active militants, 5,000+ sympathizers
 influence: Regional (Underground network)
 wealth: Limited (donations and seized assets)
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.668805+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 

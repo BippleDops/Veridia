@@ -1,17 +1,23 @@
+# Teleportation Xphb
+
 ---
-created: 2025-08-11
-status: active
+title: Teleportation Xphb
+type: Location
 tags:
-- active
 - both
+- research
+- world/both
 - content/location
+- active
 - location
 - status/in-progress
-- world/both
-type: Location
+created: 2025-08-11
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T12:34:04.524248+00:00'
 world: Both
 ---
+
 
 
 
@@ -35,3 +41,8 @@ Legends speak of teleportation xphb as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,21 +1,27 @@
+# aarakocra-dmg
+
 ---
+title: aarakocra dmg
 aliases:
 - Aarakocra
-created: 2025-07-23
-cssclasses: json5e-race
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/race/aarakocra
-- world/both
 type: note
+tags:
+- research
+- world/both
+- ttrpg-cli/race/aarakocra
+- active
+- note
+- ttrpg-cli/compendium/src/5e/dmg
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-race
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:37.680414'
 world: Both
 ---
+
 
 # Aarakocra
 *Source: Dungeon Master's Guide p. 282*  
@@ -58,3 +64,8 @@ Legends speak of aarakocra dmg as a nexus where past and present converge. Local
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,29 +1,36 @@
 ---
+title: Madame Whisper
+type: Location
+tags:
+- aquabyssos
+- whisper
+- status/complete
+- information
+- aquatic
+- spy
+- quest
+- content/location
+- content/npc
+- madame
+- place
+- active
+- location
+- complete
+- world/aquabyssos
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: NPC
 MyContainer: None
-created: '2025-08-11'
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
-status: complete
-tags:
-- quest
-- aquatic
-- aquabyssos
-- complete
-- content/location
-- content/npc
-- information
-- location
-- madame
-- spy
-- status/complete
-- whisper
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.554417+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -123,6 +130,27 @@ She's also investigating reports of outside interference in Aquabyssos's politic
 2. The party needs access to high society or sensitive information, leading them to negotiate with Madame Whisper for her assistance.
 3. Someone has been feeding false information into Madame Whisper's network, and she needs trustworthy investigators to identify the source.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Madame Whisper serves as an excellent source of information and social connections while maintaining neutrality that makes her useful to any party regardless of their factional allegiances. Her salon can serve as a safe meeting ground and her information network can advance or complicate plots as needed. Use her sophisticated approach to espionage to contrast with cruder spy operations in the campaign.
@@ -130,7 +158,7 @@ Madame Whisper serves as an excellent source of information and social connectio
 
 ## Connections
 
-- [[12_Research/D&D_References/The Phosphor Markets]]
+- [[The Phosphor Markets]]
 
 
 ## History
@@ -178,10 +206,93 @@ Legends speak of Madame Whisper as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Madame Whisper]]
+- [[Madame Whisper]]
 
 <!-- enriched: true -->
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Notable Residents
+
+- [[Professor Aldric Crystalweaver]]
+- [[Madame Nightwhisper]]
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-safety-coordinator-reef-safeguard-v1-safety-coordinator-reef-safeguard.svg]]
+- [[Manta Ray]]
+- [[04_Resources_Assets_Locations_location-city-thalassa-the-deepmother-v1-thalassa-the-deepmother.svg]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+Madame Whisper is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Madame Whisper
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Madame Whisper:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Madame Whisper
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

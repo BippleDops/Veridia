@@ -1,28 +1,32 @@
 ---
-created: '2025-08-12'
-obsidianUIMode: preview
-status: complete
-tags:
-- combat
-- crystal-enhanced
-- shadow-touched
-- aerial
-- aquatic
-- both
-- complete
-- content/faction
-- content/lore
-- linguistics
-- lore
-- professional_reference
-- professions
-- status/complete
-- terminology
-- world/both
+title: Professional Terminology
 type: Lore
+tags:
+- lore
+- both
+- aerial
+- linguistics
+- status/complete
+- content/faction
+- aquatic
+- content/lore
+- world/both
+- active
+- professional_reference
+- combat
+- complete
+- professions
+- terminology
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:15.715984+00:00'
 world: Both
 ---
+
 
 
 # Professional Terminology
@@ -330,11 +334,11 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 
 ## Connections
 
-- [[12_Research/D&D_References/Common Idioms and Sayings]]
-- [[12_Research/D&D_References/Depth Speak Variations]]
-- [[12_Research/D&D_References/Wind Song Linguistic Guide]]  
-- [[12_Research/D&D_References/Swear Words and Curses]]
-- [[12_Research/D&D_References/The Traders Guild]]
+- [[Common Idioms and Sayings]]
+- [[Depth Speak Variations]]
+- [[Wind Song Linguistic Guide]]  
+- [[Swear Words and Curses]]
+- [[The Traders Guild]]
 - [[Crystal Engineering Guild]]
 - [[Deep Mining Guild]]
 
@@ -362,3 +366,31 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Overview
+
+Professional Terminology represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

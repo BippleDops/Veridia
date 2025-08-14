@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry aquabyssos faction web aquabyssos faction web.svg
+aliases:
+- symbol heraldry aquabyssos faction web aquabyssos faction websvg
 type: faction
-status: placeholder
 tags:
 - placeholder
+- aquabyssos
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-aquabyssos-faction-web-aquabyssos-faction-web.svg
 
@@ -24,8 +34,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Aquabyssos Faction Web]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Aquabyssos Faction Web]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

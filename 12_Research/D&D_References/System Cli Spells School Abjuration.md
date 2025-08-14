@@ -1,30 +1,37 @@
+# System Cli Spells School Abjuration
+
 ---
-complexity: Fundamental to Advanced
+title: System Cli Spells School Abjuration
+type: Lore
+tags:
+- lore
+- banishment
+- status/complete
+- mechanics/magic
+- both worlds
+- abjuration
+- warding
+- content/lore
+- world/both
+- research
+- active
+- protection
+- complete
+- world/aquabyssos
+- content/mechanics
+- world/aethermoor
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+complexity: Fundamental to Advanced
 created_by: auto-stub
 focus: Protective and Banishment Magic
 practitioners: Protective mages, clerics, wardens
 school: Abjuration
-status: complete
-tags:
-- abjuration
-- banishment
-- both worlds
-- complete
-- content/lore
-- content/mechanics
-- lore
-- mechanics/magic
-- protection
-- status/complete
-- warding
-- world/aethermoor
-- world/aquabyssos
-- world/both
-type: Lore
 updated: '2025-08-13T12:34:28.822818+00:00'
 world: Both Worlds
 ---
+
 
 
 
@@ -255,3 +262,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Spell Components]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

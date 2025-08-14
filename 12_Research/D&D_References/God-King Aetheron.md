@@ -1,15 +1,22 @@
+# God-King Aetheron
+
 ---
-tags:
-- active
-- both worlds
-- both-worlds
-- npc
+title: God King Aetheron
 type: NPC
-world: Both Worlds
-status: active
+tags:
+- both worlds
+- npc
+- both-worlds
+- research
+- active
+- aethermoor
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both Worlds
 updated: '2025-08-13T01:18:37.009772+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-god-king-aetheron-god-king-aetheron.svg]]
@@ -71,3 +78,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[The Final Choice]]
 - [[The Threshold]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,21 +1,27 @@
+# D-201 Abyss Mirror Lake Player
+
 ---
-audience: player
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- campaign/session
-- complete
-- handout
-- lore
-- status/complete
-- world/aquabyssos
-- world/both
-title: Player Handout — D-201 Abyss Mirror Lake
+title: "Player Handout \u2014 D-201 Abyss Mirror Lake"
 type: Lore
+tags:
+- lore
+- both
+- status/complete
+- campaign/session
+- handout
+- world/both
+- active
+- complete
+- world/aquabyssos
+- resource
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+audience: player
 updated: '2025-08-13T12:34:32.394810+00:00'
 world: Both
 ---
+
 
 
 
@@ -39,3 +45,8 @@ Possible outcomes
 ## Cross-References
 
 - [[06_GM_Resources/Session_Packets/Aquabyssos Session 01]]
+
+
+## Related
+
+*Links to related content will be added here.*

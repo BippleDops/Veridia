@@ -1,21 +1,27 @@
+# Harbor Master's Compass
+
 ---
-type: Item
-status: complete
-tags:
-- active
-- both
-- compass
-- item
-- magic-item
-- quest-reward
-- wondrous-item
+title: Harbor Master's Compass
 aliases:
 - Strange Compass
 - The Wayward Needle
+type: Item
+tags:
+- both
+- quest-reward
+- compass
+- research
+- wondrous-item
+- active
+- magic-item
+- item
+created: '2025-01-25'
+modified: '2025-08-14'
+status: complete
+rarity: Rare
 cssclasses:
 - magic-item
 - rare-item
-rarity: Rare
 attunement: true
 school: Divination
 price: 2500
@@ -23,11 +29,10 @@ weight: 1
 description: A brass compass whose needle spins wildly, pointing toward mysteries
   rather than magnetic north
 image_path: 04_Resources/Assets/Items/harbor_masters_compass.jpg
-created: '2025-01-25'
-modified: 2025-07-23 12:39
 world: Both
 updated: '2025-08-13T01:18:37.139811+00:00'
 ---
+
 
 
 
@@ -159,3 +164,8 @@ Legends speak of Harbor Master's Compass as a nexus where past and present conve
 ## Cross-References
 
 - [[Harbor Master's Compass|03 Mechanics/Rules Reference/Homebrew/Items/Harbor Master's Compass]]
+
+
+## Related
+
+*Links to related content will be added here.*

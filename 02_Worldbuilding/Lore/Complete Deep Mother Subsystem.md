@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Complete Deep Mother Subsystem
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Complete Deep Mother Subsystem
 
@@ -24,13 +28,13 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Ethical Dilemmas in Shadow Times]]
-- [[12_Research/D&D_References/Forbidden Tomes of Deep Mother]]
-- [[12_Research/D&D_References/Medical Ethics in Plague Crisis]]
-- [[12_Research/D&D_References/Cult of the Deep Mother]]
-- [[12_Research/D&D_References/Deep Mother Sanity System]]
-- [[12_Research/D&D_References/Scholars of Divine Lore]]
-- [[12_Research/D&D_References/The Deep Prophecies]]
+- [[Ethical Dilemmas in Shadow Times]]
+- [[Forbidden Tomes of Deep Mother]]
+- [[Medical Ethics in Plague Crisis]]
+- [[Cult of the Deep Mother]]
+- [[Deep Mother Sanity System]]
+- [[Scholars of Divine Lore]]
+- [[The Deep Prophecies]]
 - [[12_Research/D&D_Statblocks/Reality Breach Locations]]
 - [[12_Research/D&D_Statblocks/Deep Mother Cultist Profiles]]
 - [[12_Research/D&D_Statblocks/Temple of the Sunken Cathedral]]

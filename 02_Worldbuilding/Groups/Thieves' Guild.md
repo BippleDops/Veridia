@@ -1,13 +1,24 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Thieves' Guild
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-thieves-guild-thieves-guild.svg)
+
+
 
 # Thieves' Guild
 
@@ -36,3 +47,10 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[Captain Blackwater]]
+- [[Eastern Kingdom Fleet Admiral]]
+- [[The Shadow Warren]]
+- [[Captain Guard Peacehold]]

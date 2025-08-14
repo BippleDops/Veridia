@@ -1,22 +1,28 @@
+# silk-rope-50-feet
+
 ---
+title: silk rope 50 feet
 aliases:
 - Silk Rope (50 feet)
-attunement: false
-created: 2025-07-23
-cssclasses: json5e-item
-modified: 2025-07-23 12:39
-obsidian-u-i-mode: preview
-status: active
-tags:
-- content/item
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/phb
-- world/both
 type: note
+tags:
+- ttrpg-cli/compendium/src/5e/phb
+- research
+- world/both
+- active
+- note
+- content/item
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+attunement: false
+cssclasses: json5e-item
+obsidian-u-i-mode: preview
 updated: '2025-08-12T23:37:37.571780'
 world: Both
 ---
+
 
 
 > [!figure] Item
@@ -52,3 +58,8 @@ Legends speak of silk rope 50 feet as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

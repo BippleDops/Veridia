@@ -1,23 +1,29 @@
 ---
-MyCategory: Unknown - Category/Group
-MyContainer: None
+title: The Shadowhaven Smugglers Ring
 aliases: []
-created: '2025-07-23'
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: complete
+type: Faction
 tags:
 - both
-- complete
 - content/faction
 - faction
+- complete
+- organization
+- world/both
+- active
 - note
 - status/in-progress
-- world/both
-type: Faction
+created: '2025-07-23'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
+MyCategory: Unknown - Category/Group
+MyContainer: None
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.384123+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Heraldry
@@ -394,3 +400,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Lord Vexton Shadowmere]]
+
+
+## Known Members
+
+- [[04_Resources_Assets_Locations_location-city-weapon-master-dain-sharpedge-weapon-master-dain-sharpedge.svg]]
+- [[04_Resources_Assets_Locations_location-city-cathedral-of-light-v1-cathedral-of-light.png]]

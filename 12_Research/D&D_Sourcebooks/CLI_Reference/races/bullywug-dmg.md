@@ -1,21 +1,27 @@
+# bullywug-dmg
+
 ---
+title: bullywug dmg
 aliases:
 - Bullywug
-created: 2025-07-23
-cssclasses: json5e-race
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/race/bullywug
-- world/both
 type: note
+tags:
+- ttrpg-cli/race/bullywug
+- research
+- world/both
+- active
+- note
+- ttrpg-cli/compendium/src/5e/dmg
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-race
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:37.703312'
 world: Both
 ---
+
 
 # Bullywug
 *Source: Dungeon Master's Guide p. 282*  
@@ -66,3 +72,8 @@ Legends speak of bullywug dmg as a nexus where past and present converge. Locals
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,27 +1,32 @@
 ---
-affiliation: '[[Memory Farmers]] (Primary Creators)'
+title: Memory Pearls
+type: Item
+tags:
+- aquabyssos
+- memory-farmers
+- status/complete
+- mechanics/magic
+- active
+- complete
+- content/item
+- world/aquabyssos
+- item
+- consumable
 created: '2025-08-10'
+modified: '2025-08-14'
+status: complete
+rarity: Uncommon to Legendary (varies by content)
+value: Unknown
+affiliation: '[[Memory Farmers]] (Primary Creators)'
 created_by: Claude
 current_location: Various Markets and Collections Throughout Aquabyssos
 danger_level: 2
 item_type: Memory Storage Consumable
-rarity: Uncommon to Legendary (varies by content)
 requires_attunement: 'No'
-status: complete
-tags:
-- aquabyssos
-- complete
-- consumable
-- content/item
-- item
-- mechanics/magic
-- memory-farmers
-- status/complete
-- world/aquabyssos
-type: Item
 updated: '2025-08-13T12:34:17.751649+00:00'
 world: Aquabyssos
 ---
+
 
 
 

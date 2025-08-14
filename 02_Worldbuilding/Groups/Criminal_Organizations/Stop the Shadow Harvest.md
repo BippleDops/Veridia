@@ -1,4 +1,20 @@
 ---
+title: Stop the Shadow Harvest
+type: Faction
+tags:
+- aquabyssos
+- status/complete
+- content/faction
+- faction
+- organization
+- active
+- complete
+- world/aquabyssos
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 MyCategory: Anti-Shadow Resistance Movement
 MyContainer: '[[New Thalassopolis]]'
 benefits:
@@ -8,7 +24,6 @@ benefits:
   standing: 2
 - reward: Council membership and covert operations authority
   standing: 3
-created: '2025-08-11'
 created_by: expansion
 faction: Purist Coalition
 initiates:
@@ -26,18 +41,10 @@ officers:
 - Brother Matthias the Amber Bearer
 - Scholar Vivienne the Chronicler
 primary_contact: Captain Elara Shadowshard
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/faction
-- faction
-- status/complete
-- world/aquabyssos
-type: Faction
 updated: '2025-08-13T12:34:17.381162+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry
@@ -436,3 +443,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Parliament of Echoes]]
 - [[The Memory Meadows]]
 - [[The Primordial Vaults]]
+
+
+## Known Members
+
+- [[High Chamberlain Nautilus Deepcurrent]]

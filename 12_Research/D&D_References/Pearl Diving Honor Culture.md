@@ -1,19 +1,26 @@
+# Pearl Diving Honor Culture
+
 ---
+title: Pearl Diving Honor Culture
+type: Lore
 tags:
-- aquabyssos
-- complete
-- culture
-- honor-code
 - lore
+- aquabyssos
+- culture
 - pearl-diving
+- honor-code
+- research
+- active
+- complete
 - tradition
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: cultural-expansion
-created: '2025-08-11'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -198,3 +205,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

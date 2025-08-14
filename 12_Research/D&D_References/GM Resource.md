@@ -1,18 +1,25 @@
+# GM Resource
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- dashboard
-- lore
-- status/in-progress
-- world/both
+title: GM Resource
 type: Lore
+tags:
+- lore
+- dashboard
+- both
+- content/lore
+- world/both
+- research
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.005148+00:00'
 world: Both
 ---
+
 
 
 
@@ -41,3 +48,8 @@ Legends speak of GM Resources 2 as a nexus where past and present converge. Loca
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

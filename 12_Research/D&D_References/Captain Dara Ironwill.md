@@ -1,15 +1,21 @@
+# Captain Dara Ironwill
+
 ---
+title: Captain Dara Ironwill
+type: NPC
 tags:
-- active
 - dimensional nexus (both realms)
 - dimensional-nexus-(both-realms)
 - npc
-type: NPC
-world: Dimensional Nexus (Both Realms)
-status: active
+- research
+- active
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
+world: Dimensional Nexus (Both Realms)
 updated: '2025-08-13T01:18:37.041126+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-captain-dara-ironwill-captain-dara-ironwill.svg]]
@@ -70,3 +76,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Floating Market]]
+
+
+## Related
+
+*Links to related content will be added here.*

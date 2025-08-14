@@ -1,20 +1,28 @@
 ---
-created: '2025-08-12'
-status: complete
+title: Crystal Plague Infected NPCs
+type: Npc
 tags:
 - aquabyssos
-- complete
+- status/complete
+- plague
+- npc
+- character
 - content/npc
 - infected
-- npc
-- plague
-- status/complete
-- world/aethermoor
+- active
+- complete
 - world/aquabyssos
-type: Npc
+- world/aethermoor
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.505285+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -540,3 +548,140 @@ Allow player characters to influence NPC outcomes through their choices and acti
 - [[Underground Smuggling Networks]] - Alternative systems some NPCs utilize
 
 <!-- enriched: true -->
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Portraits_portrait-npc-master-smith-priest-vulcan-depthforge-master-smith-priest-vulcan-depthforge.svg]]: *secret ally*
+- [[04_Resources_Assets_Portraits_portrait-npc-lord-chancellor-prism-lord-chancellor-prism.svg]]: *patron*
+- [[Lord Magistrate Aldrich Thornwick]]: *debt holder*
+- [[Captain Henrik Proudbanner]]: *mentor*
+
+## Connections
+
+### Home
+- [[Underwater Cuisine Techniques]]
+
+### Known Associates
+- [[Reflection Captain Vantage]] (rival)
+- [[Captain Garrett Stormcutter]] (ally)
+- [[04_Resources_Assets_Symbols_symbol-heraldry-crisis-response-service-crisis-response-service.svg]] (rival)
+
+
+## Appearance
+
+Crystal Plague Infected NPCs presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+## Background
+
+Crystal Plague Infected NPCs's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+## Motivations
+
+**Primary Goal**: Accumulating wealth
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+## Secrets
+
+Crystal Plague Infected NPCs harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Cursed bloodline
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Cold and distant
+
+**Speech Pattern**: Casual and relaxed
+
+**Physical Habits**: Paces while speaking
+
+## Current Activities
+
+Crystal Plague Infected NPCs is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
+## DM Notes
+
+### Usage Tips
+- Crystal Plague Infected NPCs works best as a recurring NPC
+- Can serve as quest giver, information source, or obstacle
+- Personality should be consistent but can evolve
+
+### Scaling
+- Adjust capabilities to party level
+- Influence can grow or wane with story
+- Secrets can be revealed gradually

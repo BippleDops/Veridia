@@ -1,15 +1,21 @@
+# The Hall of Records
+
 ---
-tags:
-- active
-- aethermoor
-- location
-- lore
+title: The Hall of Records
 type: Lore
-world: Aethermoor
-status: active
+tags:
+- lore
+- research
+- active
+- location
+- aethermoor
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:35.910316+00:00'
 ---
+
 
 
 
@@ -37,3 +43,8 @@ Legends speak of The Hall of Records as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

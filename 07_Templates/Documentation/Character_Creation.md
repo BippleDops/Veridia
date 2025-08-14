@@ -1,3 +1,15 @@
+# Character_Creation
+
+---
+title: Character Creation
+type: template
+tags:
+- template
+- active
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Character Creation Guide
 
 ## Steps
@@ -12,3 +24,7 @@
 - Motivations
 - Connections
 - Secrets
+
+## Related
+
+*Links to related content will be added here.*

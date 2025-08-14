@@ -1,25 +1,32 @@
+# Scholar Vivienne the Chronicler
+
 ---
+title: Scholar Vivienne the Chronicler
+type: NPC
 tags:
-- aethermoor
-- complete
-- lore-keeper
+- person
+- seven-shards
 - neutral
 - npc
-- person
+- research
 - scholar
-- seven-shards
+- active
+- lore-keeper
+- complete
+- aethermoor
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
+race: Half-Elf
+location: '[[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] - The Grand Library'
 world: Aethermoor
-type: NPC
 role: Shard Historian
 affiliation: '[[The Archive of Forgotten Things]]'
 age: '62'
-race: Half-Elf
-location: '[[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] - The Grand Library'
 created_by: auto-stub
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -318,3 +325,8 @@ Legends speak of Scholar Vivienne the Chronicler as a nexus where past and prese
 <!-- enriched: true -->
 - [[The Crown of Stars]]
 - [[Keeper of the Shattered Crown, Marcus Crystalvein]]
+
+
+## Related
+
+*Links to related content will be added here.*

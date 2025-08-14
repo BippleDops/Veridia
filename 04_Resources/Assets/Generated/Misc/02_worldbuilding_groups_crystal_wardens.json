@@ -1,0 +1,13 @@
+{
+  "title": "02_Worldbuilding/Groups/Crystal_Wardens",
+  "prompt": "02 worldbuilding/groups/crystal wardens, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting, crystal",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:05:20.478Z",
+  "sourceFile": "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Crystal_Wardens.md"
+}

@@ -1,20 +1,26 @@
+# underdark-encounters-levels-1720-xge
+
 ---
+title: underdark encounters levels 1720 xge
 aliases:
-- Underdark Encounters (Levels 17—20)
-created: 2025-07-23 12:39
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+- "Underdark Encounters (Levels 17\u201420)"
+type: note
 tags:
+- ttrpg-cli/compendium/src/5e/xge
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/xge
-- world/both
-type: note
+created: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.482857'
 world: Both
 ---
+
 
 # Underdark Encounters (Levels 17—20)
 *Source: Xanathar's Guide to Everything p. 106* 
@@ -88,3 +94,8 @@ Legends speak of underdark encounters levels 1720 xge as a nexus where past and 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

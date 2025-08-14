@@ -1,33 +1,40 @@
 ---
+title: Secret Vault Beneath Throne
+type: Location
+tags:
+- access/secret
+- session-notes
+- status/complete
+- royal
+- treasury
+- vault
+- content/location
+- place
+- world/aethermoor
+- active
+- combat
+- complete
+- location
+- conspiracy
+- aethermoor
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Places
 MyContainer: None
 access: royal_only
-created: '2025-08-08'
 created_by: auto-stub
 danger_level: Extreme
 obsidianUIMode: preview
 security_level: maximum
-status: complete
-tags:
-- combat
-- session-notes
-- crystal-enhanced
-- shadow-touched
-- access/secret
-- aethermoor
-- complete
-- conspiracy
-- content/location
-- location
-- royal
-- status/complete
-- treasury
-- vault
-- world/aethermoor
-type: Location
 updated: '2025-08-13T12:34:16.673858+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View
@@ -42,7 +49,7 @@ world: Aethermoor
 
 Deep beneath the Crystal Throne of Aethermoor lies one of the realm's most closely guarded secrets - a vast underground vault system that serves as both royal treasury and emergency command center. Built over centuries by paranoid monarchs, this hidden complex contains the crown's most precious treasures, darkest secrets, and contingency plans for the realm's survival.
 
-The vault exists on seven distinct levels, each more secure and dangerous than the last. Only three living individuals know of its full extent: the reigning monarch, the Royal Treasurer [[12_Research/D&D_References/Keeper Valdris Goldvault]], and the mysterious [[12_Research/D&D_References/Vault Guardian Prime]], whose identity is known only to the crown.
+The vault exists on seven distinct levels, each more secure and dangerous than the last. Only three living individuals know of its full extent: the reigning monarch, the Royal Treasurer [[Keeper Valdris Goldvault]], and the mysterious [[Vault Guardian Prime]], whose identity is known only to the crown.
 
 ## Discovery and Access
 
@@ -91,7 +98,7 @@ The primary entrance to the vault is concealed within the throne room itself, ac
 **Layer 6: The Final Seal**
 - Requires willing blood sacrifice from royal family member
 - Alternative: Crown jewel used as key (depletes its power)
-- Last resort: [[12_Research/D&D_References/Emergency Protocol Omega]]
+- Last resort: [[Emergency Protocol Omega]]
 
 ## Vault Levels
 
@@ -106,8 +113,8 @@ The primary entrance to the vault is concealed within the throne room itself, ac
 
 **Secrets Hidden Here**:
 - Hidden compartment containing backup royal bloodline records
-- Emergency beacon to summon the [[12_Research/D&D_References/Royal Guard of Shadows]]
-- Concealed passage to [[12_Research/D&D_References/Shadow Chancellor]]'s private chamber
+- Emergency beacon to summon the [[Royal Guard of Shadows]]
+- Concealed passage to [[Shadow Chancellor]]'s private chamber
 
 ### Level 2: The Treasury Proper
 
@@ -143,10 +150,10 @@ The primary entrance to the vault is concealed within the throne room itself, ac
 - **The Assassination Archive**: Records of all royal-ordered deaths
 
 **Key Documents**:
-- Original treaty with [[12_Research/D&D_References/The Shadowhawk Syndicate]]
-- Proof of [[12_Research/D&D_References/The Crystal Council]] corruption
-- Evidence of [[12_Research/D&D_References/Cross-Realm Conspiracy]] between Aethermoor and Aquabyssos
-- The [[12_Research/D&D_References/Deep Mother Protocol]] - contingency for otherworldly invasion
+- Original treaty with [[The Shadowhawk Syndicate]]
+- Proof of [[The Crystal Council]] corruption
+- Evidence of [[Cross-Realm Conspiracy]] between Aethermoor and Aquabyssos
+- The [[Deep Mother Protocol]] - contingency for otherworldly invasion
 - Maps of [[12_Research/D&D_Statblocks/Hidden Smuggler's Cove]] and other criminal networks
 
 **Secrets**: Several files are protected by curse magic - reading without permission causes blindness and memory loss
@@ -192,11 +199,11 @@ The primary entrance to the vault is concealed within the throne room itself, ac
 **Bloodline Secrets**:
 - Preserved samples of royal blood from every monarch (can be used for magical purposes)
 - Hidden children of past rulers, kept in magical stasis
-- The [[12_Research/D&D_References/True Crown Bloodline]] - evidence that current dynasty is illegitimate
+- The [[True Crown Bloodline]] - evidence that current dynasty is illegitimate
 - Pacts made with otherworldly entities to maintain royal power
-- The [[12_Research/D&D_References/Blood Price Protocol]] - sacrificial rituals that maintain the realm's stability
+- The [[Blood Price Protocol]] - sacrificial rituals that maintain the realm's stability
 
-**Guardian**: [[12_Research/D&D_References/The First Queen's Shade]] - incorporeal spirit of the dynasty founder
+**Guardian**: [[The First Queen's Shade]] - incorporeal spirit of the dynasty founder
 
 **Secrets**: The pool contains a portal to a pocket dimension where the "true" royal family lives in exile
 
@@ -258,7 +265,7 @@ The primary entrance to the vault is concealed within the throne room itself, ac
 - All subjects gain hive-mind connection to throne
 - Last resort for preserving the realm's existence
 
-**Guardian**: [[12_Research/D&D_References/The Crown Eternal]] - fusion of all past monarchs' consciousness
+**Guardian**: [[The Crown Eternal]] - fusion of all past monarchs' consciousness
 
 **Secrets**: The throne is actually a prison containing an ancient entity that grants power in exchange for gradual possession of the royal line
 
@@ -267,25 +274,25 @@ The primary entrance to the vault is concealed within the throne room itself, ac
 ### The Shadow Administration
 
 Secret government that operates parallel to public institutions:
-- **[[12_Research/D&D_References/Shadow Chancellor]]**: Coordinates hidden royal operations
-- **[[12_Research/D&D_References/Vote Vaults]]**: Hidden chambers where real political decisions are made
-- **[[12_Research/D&D_References/Deepmind Conspiracy]]**: Intelligence network reporting directly to the vault
-- **[[12_Research/D&D_References/The Silent Watcher]]**: Surveillance system monitoring all threats to the crown
+- **[[Shadow Chancellor]]**: Coordinates hidden royal operations
+- **[[Vote Vaults]]**: Hidden chambers where real political decisions are made
+- **[[Deepmind Conspiracy]]**: Intelligence network reporting directly to the vault
+- **[[The Silent Watcher]]**: Surveillance system monitoring all threats to the crown
 
 ### Criminal Underworld Connections
 
 The crown maintains secret relationships with criminal organizations:
-- **[[12_Research/D&D_References/The Shadow Markets]]**: Royal fence for stolen artifacts and forbidden items
-- **[[12_Research/D&D_References/Shadow Market Canals]]**: Transportation network for moving royal agents
-- **[[12_Research/D&D_References/Syndicate Enforcers]]**: Criminal muscle for royal black operations
+- **[[The Shadow Markets]]**: Royal fence for stolen artifacts and forbidden items
+- **[[Shadow Market Canals]]**: Transportation network for moving royal agents
+- **[[Syndicate Enforcers]]**: Criminal muscle for royal black operations
 - **[[12_Research/D&D_Statblocks/Hidden Smuggler's Cove]]**: Royal-protected smuggling operations
 
 ### Cross-Realm Intelligence
 
 Secret diplomatic channels with other realms:
-- **[[12_Research/D&D_References/The Recursion Cult]]**: Mystical advisors on otherworldly threats
+- **[[The Recursion Cult]]**: Mystical advisors on otherworldly threats
 - **[[12_Research/D&D_Statblocks/The Void Touched Depths]]**: Monitoring dimensional incursions
-- **[[12_Research/D&D_References/Whisper Translation]]**: Communication network with other realms
+- **[[Whisper Translation]]**: Communication network with other realms
 - **[[12_Research/D&D_Statblocks/Memory Thief]]**: Intelligence gathering through extracted memories
 
 ## Notable NPCs
@@ -320,10 +327,10 @@ Ghost of the dynasty's founder, bound to protect the bloodline.
 ### Royal Agent Network
 
 Secret operatives reporting directly to the vault:
-- **[[12_Research/D&D_References/Spymaster Echo]]**: Coordinates intelligence operations
-- **[[12_Research/D&D_References/The Loyal Shadows]]**: Elite assassins sworn to the crown
-- **[[12_Research/D&D_References/Court Whisperer]]**: Gathers information from within the palace
-- **[[12_Research/D&D_References/The King's Ears]]**: Network of servants and minor nobles
+- **[[Spymaster Echo]]**: Coordinates intelligence operations
+- **[[The Loyal Shadows]]**: Elite assassins sworn to the crown
+- **[[Court Whisperer]]**: Gathers information from within the palace
+- **[[The King's Ears]]**: Network of servants and minor nobles
 
 ## Threats and Complications
 
@@ -339,7 +346,7 @@ Secret operatives reporting directly to the vault:
 
 - **Foreign Espionage**: Enemy agents seeking vault intelligence
 - **Criminal Infiltration**: Thieves attempting the ultimate heist
-- **Cult Activity**: [[12_Research/D&D_References/The Recursion Cult]] seeking forbidden artifacts
+- **Cult Activity**: [[The Recursion Cult]] seeking forbidden artifacts
 - **Dimensional Intrusion**: Otherworldly entities attracted to vault's power
 - **Revolutionary Forces**: Rebels seeking to expose royal corruption
 
@@ -355,11 +362,11 @@ Secret operatives reporting directly to the vault:
 
 ### Level 1-5: The Royal Summons
 
-Characters are recruited by [[12_Research/D&D_References/Keeper Valdris Goldvault]] to investigate strange disturbances in the upper vault levels. Something is affecting the magical defenses, and several treasures show signs of tampering.
+Characters are recruited by [[Keeper Valdris Goldvault]] to investigate strange disturbances in the upper vault levels. Something is affecting the magical defenses, and several treasures show signs of tampering.
 
 ### Level 6-10: The Succession Crisis
 
-With the monarch mysteriously ill, multiple claimants seek access to [[12_Research/D&D_References/The Mirror of Succession]]. The party must navigate royal politics while protecting the vault from those who would abuse its power.
+With the monarch mysteriously ill, multiple claimants seek access to [[The Mirror of Succession]]. The party must navigate royal politics while protecting the vault from those who would abuse its power.
 
 ### Level 11-15: The Deep Secrets
 
@@ -373,7 +380,7 @@ An otherworldly invasion threatens the realm. The party must decide whether to a
 
 ### The Ultimate Truth
 
-The entire royal vault system is actually a prison designed to contain [[12_Research/D&D_References/The Crown Eternal]] - an ancient entity that feeds on mortal ambition and power. Every monarch believes they rule, but they are actually being slowly consumed by this entity.
+The entire royal vault system is actually a prison designed to contain [[The Crown Eternal]] - an ancient entity that feeds on mortal ambition and power. Every monarch believes they rule, but they are actually being slowly consumed by this entity.
 
 ### The Real Purpose
 
@@ -399,34 +406,34 @@ This has happened before. The ruins scattered across Aethermoor are remnants of 
 ### The Shadow Government Campaign
 
 Investigating the vault leads to discovery of the secret parallel government operating in Aethermoor. Characters uncover connections between:
-- **[[12_Research/D&D_References/Vote Vaults]]**: Where real political decisions are made
-- **[[12_Research/D&D_References/Shadow Chancellor]]**: Coordinator of hidden operations
-- **[[12_Research/D&D_References/The Silent Watcher]]**: Surveillance network
-- **[[12_Research/D&D_References/Deepmind Conspiracy]]**: Intelligence gathering
+- **[[Vote Vaults]]**: Where real political decisions are made
+- **[[Shadow Chancellor]]**: Coordinator of hidden operations
+- **[[The Silent Watcher]]**: Surveillance network
+- **[[Deepmind Conspiracy]]**: Intelligence gathering
 
 ### The Criminal Underground Arc
 
 The royal family's connections to criminal organizations provide:
-- **[[12_Research/D&D_References/The Shadow Markets]]**: Royal black market operations
-- **[[12_Research/D&D_References/Shadow Market Canals]]**: Hidden transportation network
-- **[[12_Research/D&D_References/Syndicate Enforcers]]**: Crown-sponsored crime
+- **[[The Shadow Markets]]**: Royal black market operations
+- **[[Shadow Market Canals]]**: Hidden transportation network
+- **[[Syndicate Enforcers]]**: Crown-sponsored crime
 - **[[12_Research/D&D_Statblocks/Hidden Smuggler's Cove]]**: Royal smuggling operations
 
 ### The Cross-Realm Conspiracy
 
 Vault intelligence reveals secret connections to:
-- **[[12_Research/D&D_References/The Recursion Cult]]**: Mystical advisors
+- **[[The Recursion Cult]]**: Mystical advisors
 - **[[12_Research/D&D_Statblocks/The Void Touched Depths]]**: Dimensional monitoring
-- **[[12_Research/D&D_References/Whisper Translation]]**: Inter-realm communications
+- **[[Whisper Translation]]**: Inter-realm communications
 - **[[12_Research/D&D_Statblocks/Memory Thief]]**: Cross-dimensional intelligence
 
 ### The Mystical Sanctuary Network
 
 Other hidden locations connected to the vault:
-- **[[12_Research/D&D_References/The Shrinking Sanctuary]]**: Royal safe house
-- **[[12_Research/D&D_References/The Singing Shadows]]**: Mystical meeting ground
-- **[[12_Research/D&D_References/Breaking the Deep]]**: Revolutionary hideout (ironically, royal-sponsored)
-- **[[12_Research/D&D_References/The Forgotten Collective]]**: Memory preservation facility
+- **[[The Shrinking Sanctuary]]**: Royal safe house
+- **[[The Singing Shadows]]**: Mystical meeting ground
+- **[[Breaking the Deep]]**: Revolutionary hideout (ironically, royal-sponsored)
+- **[[The Forgotten Collective]]**: Memory preservation facility
 
 ---
 
@@ -435,10 +442,10 @@ Other hidden locations connected to the vault:
 
 ## Connections
 
-- [[12_Research/D&D_References/Deepmind Conspiracy]]
-- [[12_Research/D&D_References/Shadow Market Canals]]
-- [[12_Research/D&D_References/The Living Weapon]]
-- [[12_Research/D&D_References/Vote Vaults]]
+- [[Deepmind Conspiracy]]
+- [[Shadow Market Canals]]
+- [[The Living Weapon]]
+- [[Vote Vaults]]
 - [[12_Research/D&D_Statblocks/Aethermoor - Session 05 The Queens Madness]]
 
 ## Player-Facing Summary
@@ -449,20 +456,41 @@ Secret Vault Beneath Throne is a undersea element of the setting, known for biol
 
 Legends speak of Secret Vault Beneath Throne as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Secret Vault Beneath Throne.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Secret Vault Beneath Throne]]
+- [[Secret Vault Beneath Throne]]
 
 <!-- enriched: true -->
 - [[12_Research/D&D_Statblocks/Hidden Smuggler's Cove]]
 - [[12_Research/D&D_Statblocks/Memory Thief]]
-- [[12_Research/D&D_References/The Recursion Cult]]
-- [[12_Research/D&D_References/The Shrinking Sanctuary]]
-- [[12_Research/D&D_References/The Silent Watcher]]
+- [[The Recursion Cult]]
+- [[The Shrinking Sanctuary]]
+- [[The Silent Watcher]]
 - [[12_Research/D&D_Statblocks/The Void Touched Depths]]
 
 
@@ -470,3 +498,97 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[Magistrate Justice Lawkeeper]]
+- [[04_Resources_Assets_Locations_location-city-memory-farmers-v1-memory-farmers.svg]]
+- [[04_Resources_Assets_Locations_location-city-reality-breach-locations-reality-breach-locations.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+Secret Vault Beneath Throne is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Secret Vault Beneath Throne
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Secret Vault Beneath Throne was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Secret Vault Beneath Throne:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Secret Vault Beneath Throne
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

@@ -1,24 +1,31 @@
+# Madame Whisper
+
 ---
+title: Madame Whisper
+type: Location
 tags:
 - aquabyssos
-- complete
+- whisper
 - information
-- location
-- madame
 - npc
 - spy
-- whisper
+- research
+- madame
+- active
+- location
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-11'
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:35.992810+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -171,3 +178,8 @@ Legends speak of Madame Whisper as a nexus where past and present converge. Loca
 - [[Madame Whisper|02 Worldbuilding/Places/Madame Whisper]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

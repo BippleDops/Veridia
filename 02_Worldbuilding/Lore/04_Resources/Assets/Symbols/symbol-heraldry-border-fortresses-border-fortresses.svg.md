@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry border fortresses border fortresses.svg
+aliases:
+- symbol heraldry border fortresses border fortressessvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-border-fortresses-border-fortresses.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Border Fortresses]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Border Fortresses]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

@@ -1,20 +1,27 @@
+# Artificer
+
 ---
+title: Artificer
+type: Location
 tags:
-- aethermoor
+- npc
+- research
 - artificer
+- magical-technology
+- location
 - complete
 - inventor
-- location
-- magical-technology
-- npc
+- active
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.467889+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -188,3 +195,8 @@ Legends speak of Artificer as a nexus where past and present converge. Locals de
 - [[Artificer|02 Worldbuilding/Places/Artificer]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

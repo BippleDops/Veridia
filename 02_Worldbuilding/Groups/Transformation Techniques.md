@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Transformation Techniques
+type: Faction
 tags:
 - both
-- complete
 - content/faction
 - faction
-- status/in-progress
+- organization
 - world/both
-type: Faction
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.351053+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Heraldry
@@ -65,3 +72,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Merchant's Covenant]]
+
+
+## Known Members
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-dr-bloodletting-captain-dr-bloodletting.svg]]
+- [[Deep Sea Explorer Captain Abyss]]

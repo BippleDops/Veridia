@@ -1,16 +1,23 @@
+# The Emperor's Gambit
+
 ---
+title: The Emperor's Gambit
+type: Lore
 tags:
+- lore
 - aquabyssos
 - completed
-- dual
 - history
-- lore
-- plot
+- dual
 - political_intrigue
 - political_legend
 - strategy
+- plot
+- research
+- active
+created: '2025-08-11'
+modified: '2025-08-14'
 status: completed
-type: Lore
 world: dual
 connections:
 - '[[The Scattered Emperor]]'
@@ -23,9 +30,9 @@ themes:
 - long_term_strategy
 - hidden_knowledge
 - sacrifice_of_self
-created: '2025-08-11'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -192,3 +199,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Aethermoor]]
 - [[Depth Wardens]]
 - [[Parliament of Echoes]]
+
+
+## Related
+
+*Links to related content will be added here.*

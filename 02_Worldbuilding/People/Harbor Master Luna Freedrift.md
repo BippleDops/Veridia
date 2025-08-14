@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Harbor Master Luna Freedrift
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.710313+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -132,6 +140,16 @@ Harbor Master Luna Freedrift controls [[02_Worldbuilding/Places/Freedom Harbor|0
 - **Deep Trench Ambassadors** - Has connections in the deepest parts of Aquabyssos
 - **Free Port Alliance** - Network of independent harbors and trading posts
 - **Exile Communities** - Maintains contact with Aquabyssos refugees in other realms
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Carefully chosen words
+
+**Physical Habits**: Paces while speaking
 
 ## Current Activities
 ### Official Duties
@@ -333,6 +351,68 @@ Harbor Master Luna Freedrift controls [[02_Worldbuilding/Places/Freedom Harbor|0
 - Connected to trade, smuggling, and information warfare storylines
 - Bridge between political intrigue and personal heroism
 
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Maintaining balance
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Plot Hooks
+
+1. **The Request**: Harbor Master Luna Freedrift needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Harbor Master Luna Freedrift stopped or removed
+3. **The Secret**: Information about Harbor Master Luna Freedrift's past surfaces
+4. **The Alliance**: Opportunity to work with or against Harbor Master Luna Freedrift
+5. **The Crisis**: Harbor Master Luna Freedrift is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Perfect patron for resistance-themed campaigns or morally complex missions
 - Her dual role creates opportunities for political intrigue and ethical dilemmas
@@ -376,6 +456,14 @@ Legends speak of Harbor Master Luna Freedrift as a nexus where past and present 
 
 <!-- enriched: true -->
 
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-border-territories-border-territories.svg]]: *student*
+- [[Ancient King Pelagios]]: *sworn enemy*
+- [[Memory Merchants]]: *family member*
 
 ## Connections
 

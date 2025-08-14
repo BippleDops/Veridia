@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Crystal Cultivators Guil
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+![02_Worldbuilding/Groups/Crystal Cultivators Guil](../../../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_crystal_cultivators_guil.png)
+
+
 
 # 02_Worldbuilding/Groups/Crystal Cultivators Guil
 
@@ -36,3 +46,8 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[Quest - The Bio-Adaptation Crisis]]
+- [[04_Resources_Assets_Portraits_portrait-npc-house-guard-captains-house-guard-captains.svg]]

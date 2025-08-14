@@ -1,3 +1,15 @@
+# Npc Portraits Gallery
+
+---
+title: Npc Portraits Gallery
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # NPC Portraits Gallery
 
 %% Use reading mode for visual gallery %%
@@ -3982,3 +3994,8 @@
 
 ## portrait-npc-zephyr-goldwhisper-zephyr-goldwhisper
 ![[04_Resources/Assets/Portraits/portrait-npc-zephyr-goldwhisper-zephyr-goldwhisper.svg]]
+
+
+## Related
+
+*Links to related content will be added here.*

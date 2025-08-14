@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Elder Whisper In The Dark
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.474835+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -130,6 +138,16 @@ Elder Whisper-In-The-Dark is an ancient triton oracle who was among the first to
 - **[[Archbishop Mordecai Stormwright]]** - Church leader trying to "save" her
 - **Her Former Self** - Constantly battles against the person she used to be
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Carefully chosen words
+
+**Physical Habits**: Maintains intense eye contact
+
 ## Current Activities
 - Receiving and interpreting increasingly urgent whispers from [[The Deep Mother]]
 - Training new cultists in the art of "listening to the depths"
@@ -137,6 +155,13 @@ Elder Whisper-In-The-Dark is an ancient triton oracle who was among the first to
 - Studying ancient texts about the time before the Great Drowning
 - Preparing her followers for "The Rising" - a prophesied catastrophic event
 - Documenting her visions in the "Chronicle of Deep Truths"
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 ## Motivations
 1. **Primary**: Serve as conduit for the Deep Mother's will and wisdom
@@ -300,6 +325,50 @@ The area within 3 miles of the Whispering Chamber has the following effects:
 - Provides historical context for events leading to [[Aquabyssos World Overview]]
 - Connection point between political intrigue and cosmic horror elements
 
+
+
+## Plot Hooks
+
+1. **The Request**: Elder Whisper-In-The-Dark needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Elder Whisper-In-The-Dark stopped or removed
+3. **The Secret**: Information about Elder Whisper-In-The-Dark's past surfaces
+4. **The Alliance**: Opportunity to work with or against Elder Whisper-In-The-Dark
+5. **The Crisis**: Elder Whisper-In-The-Dark is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Perfect source for exposition about ancient history and future events
 - Her prophecies can drive major plot developments or provide cryptic guidance
@@ -344,6 +413,13 @@ Legends speak of Elder Whisper In The Dark as a nexus where past and present con
 
 <!-- enriched: true -->
 
+
+
+
+## Relationship Web
+
+- [[The Crystal Queen Mother]]: *mentor*
+- [[#Character-Faction Relationship Matrix]]: *bitter rival*
 
 ## Connections
 

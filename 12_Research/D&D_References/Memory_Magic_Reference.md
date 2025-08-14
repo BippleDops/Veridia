@@ -1,16 +1,23 @@
+# Memory_Magic_Reference
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- gm-resources
-- reference-cards
-- memory-magic
-- mechanics
-- quick-reference
+title: Memory Magic Reference
 type: Reference
+tags:
+- quick-reference
+- mechanics
+- research
+- memory-magic
+- gm-resources
+- active
+- reference-cards
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
+
 
 # Memory Magic Reference
 
@@ -246,3 +253,7 @@ world: Both
 - [[Memory_Trading_Economy]]
 - [[Shadow_Conspiracy]]
 - [[Aquabyssos_Cultural_Codex]]
+
+## Related
+
+*Links to related content will be added here.*

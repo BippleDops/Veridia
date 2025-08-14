@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry salvage master ironwork salvage master ironwork.svg
+aliases:
+- symbol heraldry salvage master ironwork salvage master ironworksvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-salvage-master-ironwork-salvage-master-ironwork.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Salvage Master Ironwork]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Salvage Master Ironwork]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

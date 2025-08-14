@@ -1,15 +1,21 @@
+# Planning Director Strategy Deepthink
+
 ---
-tags:
-- active
-- aquabyssos
-- criminal-headquarters
-- lore
+title: Planning Director Strategy Deepthink
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- research
+- active
+- criminal-headquarters
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.788391+00:00'
 ---
+
 
 
 
@@ -48,3 +54,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Coral Throne Syndicate HQ]]
+
+
+## Related
+
+*Links to related content will be added here.*

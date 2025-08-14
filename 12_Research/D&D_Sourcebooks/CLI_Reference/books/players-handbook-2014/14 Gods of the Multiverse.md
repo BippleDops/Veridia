@@ -1,14 +1,21 @@
+# 14 Gods of the Multiverse
+
 ---
-created: 2025-08-11
-status: active
+title: 14 Gods of the Multiverse
+type: research
 tags:
-- active
 - both
-- status/in-progress
+- research
 - world/both
+- active
+- status/in-progress
+created: 2025-08-11
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T12:34:05.215497+00:00'
 world: Both
 ---
+
 
 
 
@@ -32,3 +39,8 @@ Legends speak of 14 gods of the multiverse as a nexus where past and present con
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

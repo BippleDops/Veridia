@@ -1,14 +1,21 @@
+# Player_Comfort_Check
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- player/feedback
-- safety/comfort
-- session/wellness
+title: Player Comfort Check
 type: Feedback Form
+tags:
+- safety/comfort
+- player-resource
+- player/feedback
+- active
+- session/wellness
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Player Comfort Check
 ## Ensuring everyone's enjoyment and safety
@@ -138,3 +145,7 @@ Anonymous submission preferred?
 
 *Your comfort and safety are the top priority*
 *All feedback will be handled respectfully and confidentially*
+
+## Related
+
+*Links to related content will be added here.*

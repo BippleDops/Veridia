@@ -1,20 +1,27 @@
+# Street Urchin Gang
+
 ---
+title: Street Urchin Gang
+type: Location
 tags:
 - aquabyssos
-- complete
 - criminals
-- faction
-- location
 - survival
+- faction
+- research
 - youth
+- active
+- location
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.557309+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -132,3 +139,8 @@ Legends speak of Street Urchin Gang as a nexus where past and present converge. 
 - [[Street Urchin Gang|02 Worldbuilding/Places/Street Urchin Gang]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

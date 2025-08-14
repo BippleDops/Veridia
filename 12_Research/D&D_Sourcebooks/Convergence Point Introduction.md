@@ -1,31 +1,38 @@
+# Convergence Point Introduction
+
 ---
-campaign_type: Multi-Session Epic Campaign
-created: '2025-08-11'
-duration: 6-8 sessions
-level_range: 10-12
-party_size: 4-6 characters
-status: complete
+title: Convergence Point Introduction
+type: Adventure
 tags:
 - adventure
 - both aethermoor and aquabyssos
-- complete
 - content/adventure
-- convergence-point
-- cross-realm
-- epic
-- levels-10-12
 - status/complete
+- research
 - world/aethermoor
+- active
+- complete
+- epic
+- cross-realm
+- convergence-point
+- levels-10-12
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+campaign_type: Multi-Session Epic Campaign
+duration: 6-8 sessions
+level_range: 10-12
+party_size: 4-6 characters
 themes:
 - unity
 - sacrifice
 - cosmic stakes
 - planar convergence
 - world-shaping choices
-type: Adventure
 updated: '2025-08-13T12:34:17.815673+00:00'
 world: Both Aethermoor and Aquabyssos
 ---
+
 
 
 
@@ -348,3 +355,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[reports/bidirectional_links|Reports/bidirectional Links]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,28 +1,36 @@
+# Quest - Foreign Interests
+
 ---
+title: Quest   Foreign Interests
+type: Lore
 tags:
-- aethermoor
-- complete
-- espionage
-- investigation
 - lore
 - major-quest
+- investigation
 - political
 - quest
+- research
+- active
+- complete
+- espionage
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+location: '[[Lumengarde City]] and surrounding nations'
 world: Aethermoor
-type: Lore
 quest_type: Political Intrigue
 level_range: 5-9
-quest_giver: '[[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'
-location: '[[Lumengarde City]] and surrounding nations'
+quest_giver: '[[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina
+  Lumengarde]]'
 rewards: 3000 gp, Diplomatic Immunity, Noble Favor
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.509148+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 

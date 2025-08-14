@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Prophet Nerida Voidgazer
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.637362+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -58,6 +66,16 @@ Prophet Nerida Voidgazer leads the [[Church of the Tidal Throne]] from [[The Sun
 
 ## History
 Was a young priestess when the drowning began. Tried to hold back the waters with prayer and was swept into [[The Cerulean Trench]]. Emerged three days later, changed. Has led the Church for 127 years, not aging but slowly becoming less human. Claims to have spoken with the gods beneath the waters.
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Formal and elaborate
+
+**Physical Habits**: Maintains intense eye contact
 
 ## Current Activities
 1. Preparing faithful for "The Second Drowning"
@@ -143,6 +161,14 @@ Recent visions she's shared:
 - **The Ascending**: Prepare for the Second Drowning
 
 
+
+
+## Relationship Web
+
+- [[Deep Anarchists]]: *informant*
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-thaddeus-blackwater-captain-thaddeus-blackwater.svg]]: *patron*
+- [[The Shadow Warren]]: *student*
+
 ## Connections
 
 - [[The Drowning Welcome]]
@@ -179,6 +205,69 @@ Legends speak of Prophet Nerida Voidgazer as a nexus where past and present conv
 - A rumor ties Prophet Nerida Voidgazer to a missing shipment, linking factions with competing claims.
 - An NPC seeks discreet help at Prophet Nerida Voidgazer to avert a public scandal.
 - A map overlay reveals a hidden approach to Prophet Nerida Voidgazer active only during specific tides/storms.
+
+
+
+## Background
+
+Prophet Nerida Voidgazer's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Finding purpose
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 

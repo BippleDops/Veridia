@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 08
 type: adventure
-status: active
 tags:
-- combat
+- adventure
 - session-notes
 - aquatic
-- adventure
+- quest
+- active
+- combat
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 08: [Ocean Depths Mystery]
 
@@ -32,7 +38,7 @@ tags:
 ### Underwater Factions
 
 - [[Pearl Divers Guild]] - Information network
-- [[12_Research/D&D_References/Deep Wardens]] - Military authority
+- [[Deep Wardens]] - Military authority
 - [[Tide Singers]] - Mystical knowledge
 
 ## Investigation Elements
@@ -68,3 +74,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Key NPCs
+
+- [[Quest - The Underground Railroad]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-henrik-proudbanner-captain-henrik-proudbanner.svg]]
+- [[04_Resources_Assets_Locations_location-city-captain-trawl-netcaster-v1-captain-trawl-netcaster.svg]]
+- [[King Marcus Lumengarde]]
+- [[04_Resources_Assets_Locations_location-city-dockmaster-bruno-steadyanchor-dockmaster-bruno-steadyanchor.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-quest-the-harbor-war-v1-quest-the-harbor-war.svg]]
+- [[Harbor Wall]]
+- [[Shadow Trackhound]]

@@ -1,20 +1,26 @@
+# 09-running-the-game
+
 ---
+title: 09 running the game
 aliases:
 - Running the Game
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/dmg
-- world/both
 type: note
+tags:
+- research
+- world/both
+- active
+- note
+- ttrpg-cli/compendium/src/5e/dmg
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.798939'
 world: Both
 ---
+
 
 # Running the Game
 *Source: Dungeon Master's Guide (2014), p. 235* 
@@ -1028,3 +1034,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
  enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,25 +1,32 @@
+# Depth Adaptation System
+
 ---
+title: Depth Adaptation System
+type: Lore
+tags:
+- lore
+- both
+- world/aquabyssos
+- survival
+- content/lore
+- world/both
+- research
+- active
+- adaptation
+- complete
+- transformation
+- status/in-progress
+- content/mechanics
 created: '2025-08-07'
+modified: '2025-08-14'
+status: complete
 danger_level: Escalating
 mechanic_type: Environmental Progression
-status: complete
 system: D&D 5e
-tags:
-- adaptation
-- both
-- complete
-- content/lore
-- content/mechanics
-- lore
-- status/in-progress
-- survival
-- transformation
-- world/aquabyssos
-- world/both
-type: Lore
 updated: '2025-08-13T12:34:17.772051+00:00'
 world: Both
 ---
+
 
 
 
@@ -309,3 +316,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Corallion]]
 - [[Vehicle_Core_Rules|Vehicle Core Rules]]
+
+
+## Related
+
+*Links to related content will be added here.*

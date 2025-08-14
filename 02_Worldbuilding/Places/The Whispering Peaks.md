@@ -1,36 +1,40 @@
 ---
+title: The Whispering Peaks
+type: Location
+tags:
+- aquabyssos
+- mountains
+- status/complete
+- mechanics/magic
+- content/location
+- dangerous
+- haunted
+- place
+- active
+- location
+- draft
+- haunted-mountain-range
+- world/aquabyssos
+created: '2025-07-23'
+modified: '2025-08-14'
+status: draft
+region: '[[Northern Shattered Isles]]'
+population: 800
 MyCategory: Unknown
 MyContainer: None
-created: '2025-07-23'
 danger_level: 8
 elevation: Sea level to 12,000 feet above surface
 government: '[[The Order of Azure Flame]]'
 leader: '[[Grand Master Tempest Windvoice]]'
-modified: 2025-08-09 - Category/Place
 obsidianUIMode: preview
-population: 800
-region: '[[Northern Shattered Isles]]'
 specialties:
 - Spirit Communication
 - Ancient Mysteries
 - Wind Magic
-status: draft
-tags:
-- aquabyssos
-- content/location
-- dangerous
-- draft
-- haunted
-- haunted-mountain-range
-- location
-- mechanics/magic
-- mountains
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:17.238165+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -371,6 +375,27 @@ Legends speak of The Whispering Peaks as a nexus where past and present converge
 - An NPC seeks discreet help at The Whispering Peaks to avert a public scandal.
 - A map overlay reveals a hidden approach to The Whispering Peaks active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -385,3 +410,86 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Hadal Depths]]
+
+
+## Notable Residents
+
+- [[Madame Crystal Eye]]
+
+## Trade Routes
+
+- [[04_Resources_Assets_Portraits_portrait-npc-the-bloodline-awakens-the-bloodline-awakens.svg]]
+- [[Memorial Tender Sarah]]
+- [[04_Resources_Assets_Locations_location-city-crystal-powered-vessels-crystal-powered-vessels.svg]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+The Whispering Peaks is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Whispering Peaks
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+The Whispering Peaks was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Whispering Peaks
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

@@ -1,15 +1,21 @@
+# Artisan Associations
+
 ---
-tags:
-- active
-- both
-- location
+title: Artisan Associations
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.400816+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-artisan-associations-artisan-associations.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Artisan Associations|02 Worldbuilding/Places/Artisan Associations]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

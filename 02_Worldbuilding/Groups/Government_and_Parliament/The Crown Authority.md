@@ -1,30 +1,36 @@
 ---
+title: The Crown Authority
+type: Faction
+tags:
+- status/complete
+- content/faction
+- faction
+- political
+- organization
+- world/aethermoor
+- active
+- complete
+- bureaucracy
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Administrative Palace]]'
+membership: Unknown
 MyCategory: Unknown
 MyContainer: None
 alignment: Lawful Neutral
-created: '2025-08-08'
 created_by: auto-stub
 faction_type: Royal Administration
-headquarters: '[[The Administrative Palace]]'
 influence: Kingdom-wide
 leader: '[[High Administrator Cornelius Protocols]]'
 members: ~15,000 civil servants, clerks, and administrators
 obsidianUIMode: preview
-status: complete
-tags:
-- aethermoor
-- bureaucracy
-- complete
-- content/faction
-- faction
-- political
-- status/complete
-- world/aethermoor
-type: Faction
 updated: '2025-08-13T12:34:17.417731+00:00'
 wealth: Substantial (royal treasury access)
 world: Aethermoor
 ---
+
 
 
 > [!figure] Heraldry
@@ -430,3 +436,9 @@ Legends speak of The Crown Authority as a nexus where past and present converge.
 ## Cross-References
 
 - [[Master_Groups_Index|Master Groups Index]]
+
+
+## Known Members
+
+- [[Lord Erasmus Voidheart]]
+- [[04_Resources_Assets_Locations_location-city-hadrian-depthbridge-hadrian-depthbridge.svg]]

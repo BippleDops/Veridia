@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 18   Queen's Gambit
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 18 - Queen's Gambit
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-doctor-harmony-whisperfall-doctor-harmony-whisperfall.svg]]
+- [[Duke Gale Vortex]]
+- [[Quest - The Admiral's Gambit]]
+- [[Pearl Empress Lustrous]]
+- [[Captain Storm Tideguard]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-the-azure-coast-v1-the-azure-coast.svg]]
+- [[Council of Faiths]]
+- [[Martha Hillbrook]]

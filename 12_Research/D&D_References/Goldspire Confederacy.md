@@ -1,21 +1,28 @@
+# Goldspire Confederacy
+
 ---
+title: Goldspire Confederacy
+type: Location
 tags:
+- completed
 - beyond aethermoor
 - beyond-aethermoor
-- completed
-- confederacy
-- economic
-- foreign-nation
-- foreign-power
 - goldspire
+- political
+- foreign-power
+- confederacy
+- research
+- active
 - location
 - nation
-- political
+- economic
+- foreign-nation
+created: '2025-08-09'
+modified: '2025-08-14'
 status: completed
-world: Beyond Aethermoor
-type: Location
-government: Merchant Confederacy
 population: 2500000
+world: Beyond Aethermoor
+government: Merchant Confederacy
 capital: '[[Goldspire Port|02 Worldbuilding/Places/Goldspire Port]]'
 leader: Trade Prince Aurelius Gilt
 specialties:
@@ -24,7 +31,6 @@ specialties:
 - Naval Power
 - Null Technology
 relationship_with_aethermoor: Opportunistic Economic Partner
-created: '2025-08-09'
 updated: '2025-08-13T01:18:36.598279+00:00'
 related_entities:
 - '[[Economic Warfare|02 Worldbuilding/Quests/Economic Warfare]]'
@@ -32,6 +38,7 @@ related_entities:
 - '[[The Azure Coast|02 Worldbuilding/Places/The Azure Coast]]'
 danger_level: Moderate
 ---
+
 
 
 
@@ -357,3 +364,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 <!-- enriched: true -->
 - [[The Liminal Trading Company]]
 - [[The Void Watchers]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry thalassa the pathfinder thalassa the pathfinder.svg
+aliases:
+- symbol heraldry thalassa the pathfinder thalassa the pathfindersvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-thalassa-the-pathfinder-thalassa-the-pathfinder.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Thalassa the Pathfinder]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Thalassa the Pathfinder]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

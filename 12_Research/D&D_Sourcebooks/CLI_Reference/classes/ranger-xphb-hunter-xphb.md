@@ -1,21 +1,27 @@
+# ranger-xphb-hunter-xphb
+
 ---
+title: ranger xphb hunter xphb
 aliases:
 - Hunter
-created: 2025-07-23
-cssclasses: json5e-class
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- active
+- ttrpg-cli/subclass/ranger/hunter
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/ranger/hunter
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-class
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.449303'
 world: Both
 ---
+
 
 # Hunter
 *[[ranger-xphb|Ranger]]: Ranger Subclass*  
@@ -116,3 +122,8 @@ Legends speak of ranger xphb hunter xphb as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

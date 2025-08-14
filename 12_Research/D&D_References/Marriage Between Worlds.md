@@ -1,23 +1,30 @@
+# Marriage Between Worlds
+
 ---
+title: Marriage Between Worlds
+type: Lore
 tags:
-- aethermoor
+- lore
 - aquabyssos
 - both
-- complete
-- culture
-- customs
 - diplomacy
+- culture
 - inter-realm
-- lore
-- marriage
+- customs
 - social-practices
+- research
+- marriage
+- active
+- complete
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Lore
 created_by: cultural-expansion
-created: '2025-08-11'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -281,3 +288,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Aquabyssos-Aethermoor Treaties]]
 - [[Ambassador Nerida Deepcurrent]]
+
+
+## Related
+
+*Links to related content will be added here.*

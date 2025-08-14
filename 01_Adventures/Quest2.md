@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Quest2
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Quest2
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Location_Template]]
+- [[Location_Template]]
 - [[12_Research/D&D_Statblocks/NPC_Template]]
 
 ## Notes
@@ -36,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-elara-crystalline-elara-crystalline.svg]]
+- [[Captain Marrow Drinker]]
+- [[Siren]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-information-broker-whisper-goldtongu-information-broker-whisper-goldtongu.svg]]
+- [[King Marcus Lumengarde]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-plague-crisis-plague-crisis.png]]
+- [[04_Resources_Assets_Locations_location-city-comparative-religion-experts-v1-comparative-religion-experts.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-shadowmire-tavern-v1-the-shadowmire-tavern.svg]]

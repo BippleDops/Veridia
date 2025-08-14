@@ -1,24 +1,29 @@
+# Chunk of Meat
+
 ---
+title: Chunk of Meat
 aliases:
 - Chunk of Meat
-attunement: false
-created: 2025-07-23
-cssclasses: json5e-item
-modified: 2025-07-23 12:39
-obsidian-u-i-mode: preview
-status: active
-tags:
-- active
-- both
-- content/item
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/phb
-- world/both
 type: note
+tags:
+- both
+- ttrpg-cli/compendium/src/5e/phb
+- research
+- world/both
+- active
+- note
+- content/item
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+attunement: false
+cssclasses: json5e-item
+obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:07.032077+00:00'
 world: Both
 ---
+
 
 
 
@@ -52,3 +57,8 @@ Legends speak of chunk of meat as a nexus where past and present converge. Local
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

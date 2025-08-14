@@ -1,20 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- quest
-- crystal-enhanced
-- aerial
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
+title: Aethermoor Navigation Crystal
 type: Lore
+tags:
+- lore
+- both
+- aerial
+- quest
+- content/lore
+- world/both
+- active
+- complete
+- status/in-progress
+- aethermoor
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:15.730320+00:00'
 world: Both
 ---
+
 
 
 ## Overview

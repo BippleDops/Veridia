@@ -1,19 +1,26 @@
+# Economic Warfare and Trade Sanctions
+
 ---
-world: Both
-updated: '2025-08-13T01:18:35.273525+00:00'
-created: '2025-08-12'
-status: complete
+title: Economic Warfare and Trade Sanctions
+type: Lore
 tags:
-- both
-- complete
 - economy
 - lore
-- merchant-princes
-- politics
+- both
 - sanctions
+- research
+- active
+- complete
+- politics
+- merchant-princes
 - warfare
-type: Lore
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Both
+updated: '2025-08-13T01:18:35.273525+00:00'
 ---
+
 
 
 > [!figure] Economic Warfare
@@ -556,3 +563,8 @@ Consider how economic warfare affects the daily lives of ordinary people, creati
 
 The invisible nature of economic warfare allows for subtle, long-term campaign development where the consequences of early adventures continue to influence later events in unexpected ways.
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

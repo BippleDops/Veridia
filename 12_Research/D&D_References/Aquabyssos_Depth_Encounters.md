@@ -1,15 +1,23 @@
+# Aquabyssos_Depth_Encounters
+
 ---
-created: '2025-08-13'
-status: ready
-tags:
-- status/ready
-- type/encounter-table
-- world/aquabyssos
-- category/exploration
+title: Aquabyssos Depth Encounters
 type: Mechanics
+tags:
+- aquabyssos
+- research
+- type/encounter-table
+- active
+- status/ready
+- category/exploration
+- world/aquabyssos
+created: '2025-08-13'
+modified: '2025-08-14'
+status: ready
 updated: '2025-08-13T12:50:00.000000'
 world: Aquabyssos
 ---
+
 
 # Aquabyssos Depth Encounters - Random Encounter Table
 
@@ -171,3 +179,7 @@ world: Aquabyssos
 ---
 
 **DM Note**: These encounters are designed to reinforce the themes of depth, pressure, and cosmic horror that define Aquabyssos. Adjust frequency and intensity based on desired campaign tone.
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,15 +1,21 @@
+# Cultural Advisor Sarah Bridgekeeper
+
 ---
-tags:
-- active
-- aquabyssos
-- location
+title: Cultural Advisor Sarah Bridgekeeper
 type: Location
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.483794+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-cultural-advisor-sarah-bridgekeeper-cultural-advisor-sarah-bridgekeeper.svg]]
@@ -66,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Diplomatic Tides]]
+
+
+## Related
+
+*Links to related content will be added here.*

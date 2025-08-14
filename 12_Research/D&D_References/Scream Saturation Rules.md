@@ -1,20 +1,27 @@
+# Scream Saturation Rules
+
 ---
+title: Scream Saturation Rules
+type: Location
 tags:
 - aquabyssos
-- complete
-- location
-- magical-mechanics
-- rules
 - sonic-magic
+- research
+- active
+- magical-mechanics
+- location
+- complete
+- rules
 - system
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.429955+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -189,3 +196,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Scream Saturation Rules|02 Worldbuilding/Places/Scream Saturation Rules]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

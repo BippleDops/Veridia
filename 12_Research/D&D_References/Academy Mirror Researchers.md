@@ -1,15 +1,21 @@
+# Academy Mirror Researchers
+
 ---
+title: Academy Mirror Researchers
+type: Group
 tags:
 - academy
-- active
 - aquabyssos
+- research
+- active
 - group
-type: Group
-world: Aquabyssos
-status: active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.774874+00:00'
 ---
+
 
 
 
@@ -52,3 +58,8 @@ A secretive research division of the Academy that studies mirror-based conscious
 - Missing researcher discovered trapped inside a mirror dimension
 - Mirror interface technology goes rogue, creating consciousness echoes
 - Competing academy factions seek to steal mirror research secrets
+
+
+## Related
+
+*Links to related content will be added here.*

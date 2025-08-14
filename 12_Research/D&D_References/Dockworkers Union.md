@@ -1,21 +1,26 @@
+# Dockworkers Union
+
 ---
+title: Dockworkers Union
+aliases: []
 type: Group
 tags:
-- active
 - both
 - faction
-- group
+- research
+- active
 - union
-aliases: []
+- group
 created: '2025-07-23'
-modified: 2025-07-23 18:00
+modified: '2025-08-14'
+status: active
 MyContainer: None
 MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:36.665506+00:00'
-status: active
 ---
+
 
 
 
@@ -35,7 +40,7 @@ The Dockworkers Union is a powerful and influential union that represents the in
 
 ## GM Notes
 - The union is led by the tough and charismatic Thresh "Ironhook" Valdris.
-- The union is a rival of the [[02_Worldbuilding/Groups/Merchants Guild.md|02 Worldbuilding/Groups/Merchants Guild.md]].
+- The union is a rival of the [[02_Worldbuilding/Groups/Merchants Guild.md|02 Worldbuilding/Groups/Merchants Guild]].
 - The union is a potential ally for the party, but they will expect a hefty price for their services.
 
 ## Player-Facing Summary
@@ -61,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[The Shadowhaven Smugglers Ring|02 Worldbuilding/Groups/The Shadowhaven Smugglers Ring]]
+
+
+## Related
+
+*Links to related content will be added here.*

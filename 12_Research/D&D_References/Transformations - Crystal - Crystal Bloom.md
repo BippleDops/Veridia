@@ -1,21 +1,27 @@
+# Transformations - Crystal - Crystal Bloom
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/npc
-- mechanics
-- progression
-- status/complete
-- transformation
-- world/aethermoor
-- world/both
 title: Crystal Bloom Transformation
 type: Mechanics
+tags:
+- progression
+- both
+- status/complete
+- mechanics
+- research
+- world/both
+- content/npc
+- active
+- complete
+- transformation
+- world/aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.798695+00:00'
 world: Both
 ---
+
 
 
 
@@ -219,3 +225,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Transformation_Compendium|03 Mechanics/Transformations/Transformation Compendium]]
+
+
+## Related
+
+*Links to related content will be added here.*

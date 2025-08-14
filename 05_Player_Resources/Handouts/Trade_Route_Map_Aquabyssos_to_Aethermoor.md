@@ -1,14 +1,23 @@
+# Trade_Route_Map_Aquabyssos_to_Aethermoor
+
 ---
-created: '2025-08-13'
-status: complete
+title: Trade Route Map Aquabyssos to Aethermoor
+type: Handout
 tags:
+- aquabyssos
 - player/handout
 - trade/routes
+- player-resource
 - world/both
-type: Handout
+- active
+- aethermoor
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Trade Route Map: Aquabyssos ⟷ Aethermoor
 ## Merchant's Navigation Guide
@@ -71,3 +80,7 @@ world: Both
 
 *Updated by the Cross-Realm Merchant's Covenant*
 *Safe travels and fair profits*
+
+## Related
+
+*Links to related content will be added here.*

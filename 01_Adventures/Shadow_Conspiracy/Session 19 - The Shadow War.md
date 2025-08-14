@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 19   The Shadow War
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 19 - The Shadow War
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Prince Caspian Duskwater]]
+- [[High Inquisitor Maltheos]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-inventor-chief-adaptatio-inventor-chief-adaptatio.svg]]
+- [[Captain Harmony Tidereader]]
+- [[Free Current Safe Houses]]
+
+
+## Important Locations
+
+- [[University System]]
+- [[04_Resources_Assets_Portraits_portrait-npc-blackwater-estate-blackwater-estate.svg]]
+- [[04_Resources_Assets_Locations_location-city-circle-of-mourners-circle-of-mourners.svg]]

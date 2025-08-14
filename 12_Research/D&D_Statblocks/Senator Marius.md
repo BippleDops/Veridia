@@ -1,14 +1,20 @@
+# Senator Marius
+
 ---
+title: Senator Marius
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 world: Both
 updated: '2025-08-13T01:18:36.873351+00:00'
-created: '2025-08-11'
-status: active
-tags:
-- active
-- both
-- npc
-type: NPC
 ---
+
 
 
 
@@ -159,3 +165,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 - [[Emperor Thalassius the Wise]]
+
+
+## Related
+
+*Links to related content will be added here.*

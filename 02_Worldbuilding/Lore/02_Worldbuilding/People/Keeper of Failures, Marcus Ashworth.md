@@ -1,13 +1,22 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Keeper of Failures, Marcus Ashworth
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- npc
+- character
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+race: Unknown
+class: Unknown
+location: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth
 
@@ -24,9 +33,9 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The First Failure]]
-- [[12_Research/D&D_References/The First Failure]]
-- [[12_Research/D&D_References/The First Failure]]
+- [[The First Failure]]
+- [[The First Failure]]
+- [[The First Failure]]
 - [[02_Worldbuilding/Places/The First Failure]]
 - [[02_Worldbuilding/Places/The First Failure]]
 - [[02_Worldbuilding/Places/The First Failure]]

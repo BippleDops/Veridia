@@ -1,21 +1,27 @@
+# warlock-xphb-great-old-one-patron-xphb
+
 ---
+title: warlock xphb great old one patron xphb
 aliases:
 - Great Old One Patron
-created: 2025-07-23
-cssclasses: json5e-class
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- note
-- status/archived
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-- world/both
 type: note
+tags:
+- research
+- world/both
+- active
+- note
+- status/in-progress
+- status/archived
+- ttrpg-cli/compendium/src/5e/xphb
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-class
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.392456'
 world: Both
 ---
+
 
 # Great Old One Patron
 *[[warlock-xphb|Warlock]]: Warlock Subclass*  
@@ -124,3 +130,8 @@ Legends speak of warlock xphb great old one patron xphb as a nexus where past an
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

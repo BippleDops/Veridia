@@ -1,14 +1,21 @@
+# Session_01_The_Convergence_Mystery
+
 ---
-created: '2025-08-13'
-status: complete
+title: Session 01 The Convergence Mystery
+type: Session Summary
 tags:
 - player/session-summary
 - campaign/example
+- research
+- active
 - story/recap
-type: Session Summary
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Session 1: The Convergence Mystery
 ## Example Session Recap - Investigation Style
@@ -119,3 +126,7 @@ Serafina landed the killing blow with a precision strike that severed the creatu
 ---
 
 *This recap was written collaboratively by the players, with each contributing their character's perspective on events. The format encourages players to reflect on both plot and character development while creating a useful reference for future sessions.*
+
+## Related
+
+*Links to related content will be added here.*

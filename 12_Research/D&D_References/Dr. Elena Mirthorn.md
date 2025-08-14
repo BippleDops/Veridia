@@ -1,17 +1,25 @@
+# Dr. Elena Mirthorn
+
 ---
+title: Dr. Elena Mirthorn
+aliases:
+- Dr Elena Mirthorn
+type: Lore
 tags:
-- active
-- complete
+- lore
 - dimensional nexus (both realms)
 - dimensional-nexus-(both-realms)
+- research
+- active
 - location
-- lore
-type: Lore
-world: Dimensional Nexus (Both Realms)
-status: complete
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+world: Dimensional Nexus (Both Realms)
 updated: '2025-08-13T12:34:13.018098+00:00'
 ---
+
 
 
 
@@ -51,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Floating Market]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,20 +1,26 @@
+# 03-chapter-3-dms-toolbox
+
 ---
+title: 03 chapter 3 dms toolbox
 aliases:
 - Chapter 3: DM's Toolbox
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.787563'
 world: Both
 ---
+
 
 # Chapter 3: DM's Toolbox
 *Source: Dungeon Master's Guide (2024), p. 51* 
@@ -1320,3 +1326,8 @@ Legends speak of 03 chapter 3 dms toolbox as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

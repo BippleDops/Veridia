@@ -1,21 +1,26 @@
+# Bexley Port Authority
+
 ---
+title: Bexley Port Authority
+aliases: []
 type: Group
 tags:
-- active
 - both
 - faction
-- group
+- research
 - law
-aliases: []
+- active
+- group
 created: '2025-07-23'
-modified: 2025-07-23 18:15
+modified: '2025-08-14'
+status: active
 MyContainer: None
 MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:36.768075+00:00'
-status: active
 ---
+
 
 
 
@@ -36,7 +41,7 @@ The Bexley Port Authority is the law enforcement agency that is responsible for 
 
 ## GM Notes
 - The Port Authority is led by the tough and determined Captain Helena Stormwatch.
-- The Port Authority is a rival of the [[02_Worldbuilding/Groups/The Crimson Tide Pirates.md|02 Worldbuilding/Groups/The Crimson Tide Pirates.md]].
+- The Port Authority is a rival of the [[02_Worldbuilding/Groups/The Crimson Tide Pirates.md|02 Worldbuilding/Groups/The Crimson Tide Pirates]].
 - The Port Authority is a potential ally for the party, but they are also very by-the-book and will not tolerate any illegal activities.
 
 ## Player-Facing Summary
@@ -67,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Bexley]]
+
+
+## Related
+
+*Links to related content will be added here.*

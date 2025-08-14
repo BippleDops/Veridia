@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 01
 type: adventure
-status: active
 tags:
-- combat
+- adventure
 - session-notes
 - aquatic
-- adventure
+- quest
+- active
+- combat
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 01: [Ocean Depths Mystery]
 
@@ -32,7 +38,7 @@ tags:
 ### Underwater Factions
 
 - [[Pearl Divers Guild]] - Information network
-- [[12_Research/D&D_References/Deep Wardens]] - Military authority
+- [[Deep Wardens]] - Military authority
 - [[Tide Singers]] - Mystical knowledge
 
 ## Investigation Elements
@@ -68,3 +74,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Key NPCs
+
+- [[Siren]]
+- [[The Party]]
+- [[Mayor's Manor]]
+- [[04_Resources_Assets_Locations_location-city-harbor-pilot-captain-storm-skyreacher-v1-harbor-pilot-captain-storm-skyreacher.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-stellar-commander-nereus-voidcaller-stellar-commander-nereus-voidcaller.svg]]
+
+
+## Important Locations
+
+- [[Pressure Portals]]
+- [[04_Resources_Assets_Locations_location-city-keeper-thundercall-keeper-thundercall.svg]]
+- [[04_Resources_Assets_Locations_location-city-embassy-district-embassy-district.svg]]

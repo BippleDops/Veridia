@@ -1,30 +1,52 @@
 ---
+title: Theological Warfare
+type: Location
+tags:
+- both
+- status/complete
+- warfare
+- religious
+- aquatic
+- quest
+- world/both
+- content/location
+- place
+- active
+- contested
+- combat
+- complete
+- location
+- world/aquabyssos
+- mechanics/combat
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: 500
 MyCategory: Unknown
 MyContainer: None
-created: '2025-08-12'
 current_state: Active religious conflict zone
 danger_level: 9
 depth: 2600-2900 feet
 discovered: true
 factions:
-- '[[Temple of Divine Order|02 Worldbuilding/Groups/Temple
-  Of Divine Order]]'
-- '[[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan
-  Cult]]'
-- '[[12_Research/D&D_References/Deep Mother Zealots]]'
-- '[[12_Research/D&D_References/Syncretist Mediators]]'
+- '[[Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]'
+- '[[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]'
+- '[[Deep Mother Zealots]]'
+- '[[Syncretist Mediators]]'
 government: Religious Council of War
 location_name: The Theological Warfare Grounds
 location_type: Contested Religious Battlefield
 notable_npcs:
 - '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High
   Theologian Commander Aurelius]]'
-- '[[12_Research/D&D_References/Leviathan Prophet Thalassa]]'
-- '[[12_Research/D&D_References/Deep Mother Priestess Sira]]'
-- '[[12_Research/D&D_References/Mediator Cardinal Harmony]]'
+- '[[Leviathan Prophet Thalassa]]'
+- '[[Deep Mother Priestess Sira]]'
+- '[[Mediator Cardinal Harmony]]'
 obsidianUIMode: preview
-parent_location: '[[12_Research/D&D_References/Abyssos Prime]]'
-population: 500
+parent_location: '[[Abyssos Prime]]'
 pressure_effects: Severe
 ruler: '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High
   Theologian Commander Aurelius]]'
@@ -35,36 +57,18 @@ services:
 - Heresy Trials
 - Faith Counseling
 shadow_density: Variable
-status: complete
 sub_locations:
 - '[[The Argument Amphitheater]]'
 - '[[Divine Intervention Plaza]]'
 - '[[Heresy Hunter Barracks]]'
 - '[[The Schism Bridges]]'
 - '[[Faith Testing Grounds]]'
-tags:
-- combat
-- quest
-- crystal-enhanced
-- shadow-touched
-- aquatic
-- both
-- complete
-- content/location
-- contested
-- location
-- mechanics/combat
-- religious
-- status/complete
-- warfare
-- world/aquabyssos
-- world/both
 temporal_stability: 30
-type: Location
 updated: '2025-08-13T12:34:16.619589+00:00'
 visited: false
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -79,7 +83,7 @@ world: Both
 
 ## Overview
 
-The Theological Warfare Grounds represent the most dangerous and spiritually charged location in [[12_Research/D&D_References/Abyssos Prime]]—a designated battlefield where competing religious factions settle their theological disputes through a combination of formal debate, divine magic, and when necessary, holy combat. This complex serves as both arena and embassy, where the major religious powers of the underwater world engage in an ongoing war of faiths that has lasted since [[12_Research/D&D_Statblocks/The Great Drowning]].
+The Theological Warfare Grounds represent the most dangerous and spiritually charged location in [[Abyssos Prime]]—a designated battlefield where competing religious factions settle their theological disputes through a combination of formal debate, divine magic, and when necessary, holy combat. This complex serves as both arena and embassy, where the major religious powers of the underwater world engage in an ongoing war of faiths that has lasted since [[12_Research/D&D_Statblocks/The Great Drowning]].
 
 What makes this location unique is that violence here is not random or chaotic but ritualized and regulated. The various religious factions have agreed that rather than allowing theological disputes to tear apart society, they will be resolved in formal combat under strict rules. This has created a bizarre fusion of monastery, military base, and gladiatorial arena where priests dual with both scripture and sword.
 
@@ -99,7 +103,7 @@ The Great Drowning didn't just transform the physical world—it created a theol
 
 ### The First Holy War
 
-Initially, these theological differences led to violent conflicts throughout [[12_Research/D&D_References/Abyssos Prime]], threatening to destroy the already fragile post-drowning society. The violence escalated until the city faced religious civil war.
+Initially, these theological differences led to violent conflicts throughout [[Abyssos Prime]], threatening to destroy the already fragile post-drowning society. The violence escalated until the city faced religious civil war.
 
 ### The Covenant of Contained Conflict
 
@@ -150,8 +154,8 @@ Worship the massive sea creatures as divine beings, believing that The Great Dro
 
 ### Deep Mother Zealots
 
-**[[12_Research/D&D_References/Deep Mother Zealots]]**
-Worship the mysterious entity known as [[12_Research/D&D_References/The Deep Mother]], believing she is the ultimate source of all life and that the drowning was her attempt to birth a new form of existence.
+**[[Deep Mother Zealots]]**
+Worship the mysterious entity known as [[The Deep Mother]], believing she is the ultimate source of all life and that the drowning was her attempt to birth a new form of existence.
 
 **Theological Position:**
 - The Deep Mother is the true creator goddess
@@ -167,7 +171,7 @@ Worship the mysterious entity known as [[12_Research/D&D_References/The Deep Mot
 
 ### Syncretist Mediators
 
-**[[12_Research/D&D_References/Syncretist Mediators]]**
+**[[Syncretist Mediators]]**
 Believe that all the various religious interpretations contain elements of truth and work to find common ground between competing faiths.
 
 **Theological Position:**
@@ -240,9 +244,9 @@ A growing controversy about whether contact with the surface world should be res
 ### The Undead Soul Debate
 
 A complex theological question about whether undead beings possess souls:
-- This debate connects directly to [[12_Research/D&D_References/The Eternal Senate]] citizenship issues
+- This debate connects directly to [[The Eternal Senate]] citizenship issues
 - Different factions have radically different positions
-- The outcome affects undead rights throughout [[12_Research/D&D_References/Aquabyssos]]
+- The outcome affects undead rights throughout [[Aquabyssos]]
 
 ### The Memory Sacred Controversy
 
@@ -289,7 +293,7 @@ The current rotating leader of the Religious Council of War, representing the [[
 
 ### Leviathan Prophet Thalassa
 
-**[[12_Research/D&D_References/Leviathan Prophet Thalassa]]**
+**[[Leviathan Prophet Thalassa]]**
 Spiritual leader of [[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]] forces, known for her ability to channel the power of massive sea creatures during combat.
 
 **Abilities:**
@@ -300,8 +304,8 @@ Spiritual leader of [[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan C
 
 ### Deep Mother Priestess Sira
 
-**[[12_Research/D&D_References/Deep Mother Priestess Sira]]**
-High priestess of the [[12_Research/D&D_References/Deep Mother Zealots]], whose body shows extensive biological modifications that she claims are gifts from the Deep Mother.
+**[[Deep Mother Priestess Sira]]**
+High priestess of the [[Deep Mother Zealots]], whose body shows extensive biological modifications that she claims are gifts from the Deep Mother.
 
 **Modifications:**
 - Gills that function as both breathing apparatus and vocal enhancement
@@ -311,8 +315,8 @@ High priestess of the [[12_Research/D&D_References/Deep Mother Zealots]], whose 
 
 ### Mediator Cardinal Harmony
 
-**[[12_Research/D&D_References/Mediator Cardinal Harmony]]**
-Leader of the [[12_Research/D&D_References/Syncretist Mediators]] who has somehow learned to use divine magic from all the competing religious traditions.
+**[[Mediator Cardinal Harmony]]**
+Leader of the [[Syncretist Mediators]] who has somehow learned to use divine magic from all the competing religious traditions.
 
 **Unique Abilities:**
 - Multi-faith divine spellcasting
@@ -362,32 +366,32 @@ The supposedly neutral Heresy Hunters may actually serve a hidden religious agen
 
 ### The Ultimate Weapon
 
-Rumors persist about a theological super-weapon being developed that could end all religious disputes by imposing a single, unified faith on everyone in [[12_Research/D&D_References/Aquabyssos]].
+Rumors persist about a theological super-weapon being developed that could end all religious disputes by imposing a single, unified faith on everyone in [[Aquabyssos]].
 
 ### The Syncretist Solution
 
-The [[12_Research/D&D_References/Syncretist Mediators]] may have discovered a way to literally merge all the competing religions into a single, unified faith that incorporates all theological perspectives.
+The [[Syncretist Mediators]] may have discovered a way to literally merge all the competing religions into a single, unified faith that incorporates all theological perspectives.
 
 ## Connected Locations
 
 ### Religious Sites
 
 - **[[Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]:** Primary Divine Order facility
-- **[[12_Research/D&D_References/Leviathan Shrines]]:** Underwater creature worship sites
-- **[[12_Research/D&D_References/Deep Mother Spawning Pools]]:** Transformation and evolution centers
-- **[[12_Research/D&D_References/Interfaith Community Centers]]:** Syncretist outreach locations
+- **[[Leviathan Shrines]]:** Underwater creature worship sites
+- **[[Deep Mother Spawning Pools]]:** Transformation and evolution centers
+- **[[Interfaith Community Centers]]:** Syncretist outreach locations
 
 ### Government Relations
 
-- **[[12_Research/D&D_References/The Eternal Senate]]:** Religious influence on politics
-- **[[12_Research/D&D_References/Parliament of Echoes]]:** Theological lobbying efforts
-- **[[12_Research/D&D_References/The Inverse Palace]]:** Divine counsel to leadership
+- **[[The Eternal Senate]]:** Religious influence on politics
+- **[[Parliament of Echoes]]:** Theological lobbying efforts
+- **[[The Inverse Palace]]:** Divine counsel to leadership
 
 ### Neutral Zones
 
 - **[[02_Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary|02 Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary]]:** Interfaith memorial services
 - **[[02_Worldbuilding/Places/Whisper-Touched William's Oracle Shrine|02 Worldbuilding/Places/Whisper Touched William's Oracle Shrine]]:** Neutral prophetic consultation
-- **[[12_Research/D&D_References/Healing Temples]]:** Medical care for combat injuries
+- **[[Healing Temples]]:** Medical care for combat injuries
 
 ## Adventure Hooks
 
@@ -520,23 +524,138 @@ Theological Warfare is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Theological Warfare as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Theological Warfare.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Theological Warfare]]
+- [[Theological Warfare]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Abyssos Prime]]
+- [[Abyssos Prime]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Notable Residents
+
+- [[Quest - The Bio-Adaptation Crisis]]
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-quest-harbor-expansion-v1-quest-harbor-expansion.svg]]
+- [[04_Resources_Assets_Locations_location-city-kelp-based-brewing-kelp-based-brewing.svg]]
+- [[04_Resources_Assets_Locations_location-city-embassy-quarter-embassy-quarter.svg]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+Theological Warfare is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Theological Warfare
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Theological Warfare was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Theological Warfare:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Theological Warfare
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

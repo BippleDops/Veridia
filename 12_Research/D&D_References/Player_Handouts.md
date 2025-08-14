@@ -1,14 +1,20 @@
+# Player_Handouts
+
 ---
-tags:
-- active
-- both
-- lore
+title: Player Handouts
 type: Lore
-world: Both
-status: active
+tags:
+- lore
+- both
+- active
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:34.804782+00:00'
 ---
+
 
 
 

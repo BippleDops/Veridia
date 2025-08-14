@@ -1,3 +1,15 @@
+# campaign_coherence_maintenance
+
+---
+title: campaign coherence maintenance
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Campaign Coherence Maintenance
 
 ## Systems for Maintaining Narrative and World Consistency
@@ -155,3 +167,7 @@ Effective coherence maintenance shows:
 - **Collaborative Engagement**: Players actively contribute to maintaining coherence
 
 *Research methodology: Narrative consistency studies, 203 campaign coherence analyses, player immersion measurement*
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,28 +1,35 @@
+# Ambassador Lysandra Silvertonge
+
 ---
+title: Ambassador Lysandra Silvertonge
+type: Location
 tags:
-- aethermoor-relations
 - aquabyssos
-- complete
-- diplomatic
 - embassy
-- government
-- location
+- aethermoor-relations
 - political
+- research
+- government
+- diplomatic
+- active
+- location
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 category: Diplomatic Embassy
 depth: 800-1000 feet
 difficulty: Levels 2-8
 owner: Aethermoor Diplomatic Service
 danger_level: Low
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Embassy Compound
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] View
@@ -497,3 +504,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Abyssos Prime]]
 - [[Aethermoor]]
 - [[Parliament of Echoes]]
+
+
+## Related
+
+*Links to related content will be added here.*

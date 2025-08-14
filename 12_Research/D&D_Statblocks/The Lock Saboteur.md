@@ -1,24 +1,31 @@
+# The Lock Saboteur
+
 ---
-tags:
-- aquabyssos
-- complete
-- environmental-horror
-- infiltration
-- lore
-- mystery
-- quest
-- sabotage
-- the-lock
-status: complete
-world: Aquabyssos
+title: The Lock Saboteur
 type: Lore
+tags:
+- lore
+- aquabyssos
+- mystery
+- the-lock
+- sabotage
+- quest
+- research
+- active
+- complete
+- infiltration
+- environmental-horror
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 level: 10-14
+world: Aquabyssos
 duration: 2-3 sessions
 threat_level: extreme
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.503279+00:00'
 ---
+
 
 
 
@@ -326,3 +333,8 @@ Legends speak of The Lock Saboteur as a nexus where past and present converge. L
 - [[The Hadal Depths]]
 - [[The Lock]]
 - [[Vault Keeper Eternal]]
+
+
+## Related
+
+*Links to related content will be added here.*

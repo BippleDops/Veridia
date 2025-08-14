@@ -1,26 +1,31 @@
 ---
-affiliation: '[[The Seven Shards]] (Resonance Network)'
+title: The Resonance Forge Hammer
+type: Item
+tags:
+- seven-shards-connected
+- status/complete
+- content/lore
+- world/aethermoor
+- active
+- complete
+- content/item
+- aethermoor
+- item
 created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+rarity: Legendary
+value: Unknown
+affiliation: '[[The Seven Shards]] (Resonance Network)'
 created_by: Claude
 current_location: '[[The Crystalline Foundry]]'
 danger_level: 2
 item_type: Artifact Crafting Tool
-rarity: Legendary
 requires_attunement: Yes (by a creature proficient with smith's tools)
-status: complete
-tags:
-- aethermoor
-- complete
-- content/item
-- content/lore
-- item
-- seven-shards-connected
-- status/complete
-- world/aethermoor
-type: Item
 updated: '2025-08-13T12:34:17.757559+00:00'
 world: Aethermoor
 ---
+
 
 
 

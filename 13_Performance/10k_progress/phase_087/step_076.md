@@ -1,9 +1,16 @@
 ---
+title: step 076
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 87
 step: 76
 total_step: 8676
 ---
+
 
 # Phase 87 - Step 76
 

@@ -1,15 +1,15 @@
+# Item_Template
+
 ---
-created: {{date}}
-updated: {{date}}
-type: item
-status: draft
+title: Item Template
+type: template
 tags:
-- item
-- {{rarity}}
-- {{type}}
-rarity: common/uncommon/rare/very-rare/legendary/artifact
-attunement: false
+- template
+- active
+created: '2025-08-14'
+modified: '2025-08-14'
 ---
+
 
 # {{title}}
 

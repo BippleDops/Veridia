@@ -1,15 +1,23 @@
+# Sky_Sailor_Fighter
+
 ---
-created: '2025-08-13'
-status: ready
-tags:
-- status/ready
-- type/character-build
-- world/aethermoor
-- class/fighter
+title: Sky Sailor Fighter
 type: Character Build
+tags:
+- aethermoor
+- class/fighter
+- research
+- active
+- type/character-build
+- status/ready
+- world/aethermoor
+created: '2025-08-13'
+modified: '2025-08-14'
+status: ready
 updated: '2025-08-13T12:00:00.000000'
 world: Aethermoor
 ---
+
 
 # Sky Sailor Fighter - Character Build
 
@@ -199,3 +207,7 @@ For those who've encountered strange entities in the high atmosphere. Adds cosmi
 Sky Sailors represent the proud maritime tradition of Aethermoor adapted to aerial warfare. They maintain many traditional naval customs while developing new techniques for three-dimensional combat. Honor, duty, and crew loyalty are central values, along with the freedom that comes from mastering the endless expanse of sky.
 
 This build emphasizes the unique aspects of aerial naval combat while maintaining classic fighter versatility and battlefield control options.
+
+## Related
+
+*Links to related content will be added here.*

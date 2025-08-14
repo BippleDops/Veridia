@@ -1,22 +1,27 @@
+# Wild Magic Surge Phb
+
 ---
+title: Wild Magic Surge Phb
 aliases:
 - Wild Magic Surge
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
+- ttrpg-cli/compendium/src/5e/phb
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/phb
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:03.923872+00:00'
 world: Both
 ---
+
 
 
 # Wild Magic Surge
@@ -100,3 +105,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
  enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

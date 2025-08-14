@@ -1,31 +1,38 @@
+# Tenebrarum
+
 ---
-tags:
-- ambassador
-- ancient
-- aquabyssos
-- complete
-- extraplanar
-- mysterious
-- npc
-- shadows
-- void
-status: complete
-world: Aquabyssos
+title: Tenebrarum
 type: NPC
+tags:
+- aquabyssos
+- mysterious
+- ambassador
+- extraplanar
+- npc
+- research
+- shadows
+- ancient
+- active
+- complete
+- void
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 race: Void-Touched Humanoid (Original Race Unknown)
 class: Warlock/Diplomat/Aberrant
-level: 18
-alignment: Lawful Neutral (Void Perspective)
 location: Embassy of Emptiness, Deep Parliament District
+level: 18
+world: Aquabyssos
+alignment: Lawful Neutral (Void Perspective)
 faction: The Void Realms (Ambassador)
 status_condition: Active, Negotiating
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-tenebrarum-ambassadors-tenebrarum-ambassadors.svg]]
@@ -411,3 +418,8 @@ Legends speak of Tenebrarum as a nexus where past and present converge. Locals d
 - [[Tenebrarum|02 Worldbuilding/People/Tenebrarum]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

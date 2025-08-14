@@ -1,20 +1,26 @@
+# a-sample-pantheon-dawn-war-deities
+
 ---
+title: a sample pantheon dawn war deities
 aliases:
 - A Sample Pantheon; Dawn War Deities
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/dmg
-- world/both
 type: note
+tags:
+- research
+- world/both
+- active
+- note
+- ttrpg-cli/compendium/src/5e/dmg
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.330197'
 world: Both
 ---
+
 
 # A Sample Pantheon; Dawn War Deities
 *Source: Dungeon Master's Guide p. 11* 
@@ -65,3 +71,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
  enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

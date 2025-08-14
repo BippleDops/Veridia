@@ -1,24 +1,29 @@
+# X-005 Dream Sailing Convoy Player
+
 ---
-audience: player
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- campaign/session
-- complete
-- handout
-- lore
-- mixed
-- status/complete
-- world/both
-title: Player Handout — X-005 Dream Sailing Convoy
+title: "Player Handout \u2014 X-005 Dream Sailing Convoy"
 type: Lore
-updated: '2025-08-13T12:34:32.383241+00:00'
+tags:
+- lore
+- both
+- status/complete
+- campaign/session
+- handout
+- world/both
+- active
+- complete
+- mixed
+- resource
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+audience: player
+updated: 2025-08-13 07:59:50.469171
 world: Both
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.469171
 ---
+
 # Dream Sailing Convoy
 
 Voices weave in the dark. The whole fleet seems to move as one, drawn along a song no chart can show.
@@ -35,3 +40,8 @@ Possible outcomes
 - The night shortens under your feet
 - The song falters
 - A dream gets loose
+
+
+## Related
+
+*Links to related content will be added here.*

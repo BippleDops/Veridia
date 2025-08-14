@@ -1,16 +1,23 @@
+# Travel_and_Navigation_Reference
+
 ---
-created: '2025-08-13'
-status: complete
+title: Travel and Navigation Reference
+type: Reference
 tags:
-- gm-resources
-- reference-cards
-- travel
 - navigation
 - vehicles
-type: Reference
+- research
+- travel
+- gm-resources
+- active
+- reference-cards
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
+
 
 # Travel and Navigation Reference
 
@@ -293,3 +300,7 @@ world: Both
 - [[Aquabyssos_Submarines]]
 - [[Aethermoor_Airships]]
 - [[Travel_Rules]]
+
+## Related
+
+*Links to related content will be added here.*

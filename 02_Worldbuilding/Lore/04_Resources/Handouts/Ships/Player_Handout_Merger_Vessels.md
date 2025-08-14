@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Player Handout Merger Vessels
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Handouts/Ships/Player_Handout_Merger_Vessels
 
@@ -24,10 +28,10 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Vehicles_Index]]
-- [[12_Research/D&D_References/Vehicles_Index]]
-- [[12_Research/D&D_References/Vehicles - Vehicles Index]]
-- [[12_Research/D&D_References/Vehicles - Vehicles Index]]
+- [[Vehicles_Index]]
+- [[Vehicles_Index]]
+- [[Vehicles - Vehicles Index]]
+- [[Vehicles - Vehicles Index]]
 
 ## Notes
 

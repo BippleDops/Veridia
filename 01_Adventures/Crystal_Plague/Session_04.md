@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 04
 type: adventure
-status: active
 tags:
-- session-notes
-- crystal-enhanced
 - adventure
+- session-notes
+- quest
+- active
+- crystal-enhanced
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 04: [Medical Crisis]
 
@@ -55,7 +61,7 @@ tags:
 
 - [[Doctor/Researcher]] - Expertise and agenda
 - [[Patient Zero]] - Clues they hold
-- [[12_Research/D&D_References/Government Official]] - Political pressure
+- [[Government Official]] - Political pressure
 
 ## Discoveries This Session
 
@@ -65,3 +71,10 @@ tags:
 
 # campaign #crystal_plague #medical #session_04
 
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-stormwatch-keep-v1-stormwatch-keep.svg]]
+- [[04_Resources_Assets_Locations_location-city-concierge-phillip-gracewater-v1-concierge-phillip-gracewater.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-sunken-markets-the-sunken-markets.svg]]

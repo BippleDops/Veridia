@@ -1,21 +1,27 @@
+# blessing-of-wound-closure-xdmg
+
 ---
+title: blessing of wound closure xdmg
 aliases:
 - Blessing of Wound Closure
-created: 2025-07-23
-cssclasses: json5e-reward
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- ttrpg-cli/reward/blessing
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/reward/blessing
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-reward
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.737634'
 world: Both
 ---
+
 
 # Blessing of Wound Closure
 
@@ -42,3 +48,8 @@ Legends speak of blessing of wound closure xdmg as a nexus where past and presen
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

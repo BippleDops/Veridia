@@ -1,26 +1,34 @@
+# The Resonance Forge Hammer
+
 ---
-tags:
-- aethermoor
-- complete
-- crafting-tool
-- item
-- legendary-artifact
-- magical-weapon
-- magical_weapon
-- seven-shards-connected
-status: complete
-world: Aethermoor
+title: The Resonance Forge Hammer
 type: Item
-item_type: Artifact Crafting Tool
+tags:
+- seven-shards-connected
+- research
+- legendary-artifact
+- crafting-tool
+- magical_weapon
+- active
+- complete
+- magical-weapon
+- aethermoor
+- item
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
 rarity: Legendary
+world: Aethermoor
+item_type: Artifact Crafting Tool
 requires_attunement: Yes (by a creature proficient with smith's tools)
-affiliation: '[[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] (Resonance Network)'
+affiliation: '[[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] (Resonance
+  Network)'
 current_location: '[[The Crystalline Foundry]]'
 danger_level: 2
 created_by: Claude
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -363,3 +371,8 @@ Legends speak of The Resonance Forge Hammer as a nexus where past and present co
 - [[Crystal Wardens]]
 - [[Queen Seraphina Lumengarde]]
 - [[The Crystalline Foundry]]
+
+
+## Related
+
+*Links to related content will be added here.*

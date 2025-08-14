@@ -1,17 +1,23 @@
+# Shadow Independence Levels
+
 ---
+title: Shadow Independence Levels
+type: Group
 tags:
 - aquabyssos
 - aquabyssos/shadow
-- aquabyssos/society
-- category/group
-- complete
 - faction
+- research
+- active
+- aquabyssos/society
+- complete
+- category/group
 - group
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Group
 created_by: expansion
-created: '2025-08-11'
 MyContainer: '[[The Shadowmere|The Shadowmere]]'
 MyCategory: Shadow Autonomy Movement
 obsidianUIMode: preview
@@ -39,6 +45,7 @@ benefits:
   reward: Council membership consideration and shadow realm territory rights
 updated: '2025-08-13T01:18:36.730980+00:00'
 ---
+
 
 
 
@@ -404,3 +411,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Shadow Singer Naia]]
 - [[New Thalassopolis]]
 - [[Parliament of Echoes]]
+
+
+## Related
+
+*Links to related content will be added here.*

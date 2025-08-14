@@ -1,17 +1,24 @@
+# Cult_and_Religious_Guide
+
 ---
-created: '2025-08-13'
-status: complete
+title: Cult and Religious Guide
+type: Guide
 tags:
-- gm-resources
+- religion
 - npc-guides
 - cults
-- religion
 - crystal-cults
+- research
 - deep-mother
-type: Guide
+- gm-resources
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
+
 
 # Cult and Religious Guide
 
@@ -413,3 +420,7 @@ world: Both
 - [[Deep_Mother_Cult]]
 - [[Crystal_Corruption_Reference]]
 - [[Faction_Quick_Reference]]
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,18 +1,25 @@
+# Abyssal Pearls 3
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/adventure
-- content/lore
-- lore
-- status/in-progress
-- world/aquabyssos
+title: Abyssal Pearls 3
 type: Lore
+tags:
+- lore
+- aquabyssos
+- content/adventure
+- world/aquabyssos
+- content/lore
+- research
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:28.924310+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -52,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[The Original Palace]]
 - [[The Depth Accords]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,24 +1,30 @@
+# arms-of-hadar-xphb
+
 ---
+title: arms of hadar xphb
 aliases:
 - Arms of Hadar
-classes:
-- Sorcerer (Aberrant Sorcery)
-- Warlock
-created: 2025-07-23
-cssclasses: json5e-spell
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
 - mechanics/magic
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+classes:
+- Sorcerer (Aberrant Sorcery)
+- Warlock
+cssclasses: json5e-spell
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:35.999173'
 world: Both
 ---
+
 
 # Arms of Hadar
 *1st-level, Conjuration*  
@@ -56,3 +62,8 @@ Legends speak of arms of hadar xphb as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

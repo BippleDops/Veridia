@@ -1,19 +1,23 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- combat
-- both
-- complete
-- content/lore
-- content/mechanics
-- lore
-- status/in-progress
-- world/both
+title: Emergency Response Procedures
 type: Lore
+tags:
+- lore
+- both
+- content/lore
+- world/both
+- active
+- combat
+- complete
+- status/in-progress
+- content/mechanics
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.153555+00:00'
 world: Both
 ---
+
 
 
 ## Overview

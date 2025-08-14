@@ -1,13 +1,18 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: The Parliament of Shadows Campaign
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
+- aquabyssos
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign
 
@@ -24,7 +29,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[Parliament of Echoes]]
 - [[02_Worldbuilding/Places/Parliament of Echoes]]
 
 ## Notes

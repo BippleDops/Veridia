@@ -1,3 +1,15 @@
+# Atmospheric_Art 2
+
+---
+title: Atmospheric Art 2
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Scene-Setting Atmospheric Art Prompts
 
 ```json
@@ -1624,3 +1636,8 @@
   }
 ]
 ```
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,14 +1,21 @@
+# Storm_Soul_Integration
+
 ---
-created: '2025-08-13'
-status: complete
+title: Storm Soul Integration
+type: Transformation Mechanics
 tags:
 - mechanics/transformation
-- storm/magic
 - elemental/integration
-type: Transformation Mechanics
+- research
+- active
+- storm/magic
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Storm Soul Integration
 ## Elemental Weather Transformation
@@ -107,3 +114,7 @@ Druids and storm mages who channel powerful weather magic gradually merge with e
 ---
 
 *Storm soul integration grants mastery over weather but risks losing human identity to elemental forces.*
+
+## Related
+
+*Links to related content will be added here.*

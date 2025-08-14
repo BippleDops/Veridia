@@ -1,16 +1,22 @@
+# The Quantum Accountant
+
 ---
-tags:
-- active
-- both aethermoor & aquabyssos
-- both-aethermoor-&-aquabyssos
-- faction
-- lore
+title: The Quantum Accountant
 type: Lore
-world: Both Aethermoor & Aquabyssos
-status: active
+tags:
+- lore
+- faction
+- research
+- both aethermoor & aquabyssos
+- active
+- both-aethermoor-&-aquabyssos
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both Aethermoor & Aquabyssos
 updated: '2025-08-13T01:18:35.638590+00:00'
 ---
+
 
 
 
@@ -49,3 +55,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Liminal Trading Company]]
+
+
+## Related
+
+*Links to related content will be added here.*

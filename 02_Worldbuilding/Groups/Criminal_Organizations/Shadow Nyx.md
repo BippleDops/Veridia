@@ -1,32 +1,38 @@
 ---
+title: Shadow Nyx
+type: Faction
+tags:
+- aquabyssos
+- status/complete
+- content/faction
+- faction
+- organization
+- active
+- complete
+- shadow-network
+- world/aquabyssos
+- espionage
+- shadow-touched
+- intelligence
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Shadowmeld Sanctum]]'
+membership: Unknown
 MyCategory: Unknown
 MyContainer: None
 alignment: Chaotic Neutral
-created: '2025-08-08'
 created_by: auto-stub
 faction_type: Intelligence Network
-headquarters: '[[The Shadowmeld Sanctum]]'
 influence: Citywide (Information networks throughout Aquabyssos)
 leader: '[[Shadow Nyx]]'
 members: ~300 operatives and informants
 obsidianUIMode: preview
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/faction
-- espionage
-- faction
-- intelligence
-- shadow-network
-- shadow-touched
-- status/complete
-- world/aquabyssos
-type: Faction
 updated: '2025-08-13T12:34:17.383424+00:00'
 wealth: Moderate (Information brokerage and contracts)
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry
@@ -276,3 +282,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Shadow Nyx|02 Worldbuilding/Groups/Shadow Nyx]]
+
+
+## Known Members
+
+- [[House Guard Captains]]
+- [[04_Resources_Assets_Locations_location-city-noble-palatemaster-v1-noble-palatemaster.png]]
+- [[The Party]]

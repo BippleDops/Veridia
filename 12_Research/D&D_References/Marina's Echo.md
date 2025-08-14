@@ -1,15 +1,21 @@
+# Marina's Echo
+
 ---
+title: Marina's Echo
+type: Lore
 tags:
-- active
-- both
 - lore
+- both
 - marina
+- research
+- active
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 world: Both
 updated: '2025-08-13T01:18:34.766776+00:00'
-created: '2025-08-11'
-status: active
-type: Lore
 ---
+
 
 
 
@@ -134,3 +140,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Deep Mother]]
 - [[Marina Red Tide Coralheart - Aquabyssos]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

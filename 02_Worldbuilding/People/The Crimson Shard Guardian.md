@@ -1,28 +1,33 @@
 ---
+title: The Crimson Shard Guardian
+type: Npc
+tags:
+- status/complete
+- seven-shards
+- guardian
+- elemental
+- npc
+- character
+- content/npc
+- world/aethermoor
+- active
+- complete
+- corrupted
+- aethermoor
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+race: Corrupted Water Elemental
+class: Unknown
+location: '[[Port Meridian]] Harbor (Sunken Ship)'
 affiliation: None (Bound to Shard)
 cr: '18'
-created: '2025-08-09'
 created_by: auto-stub
-location: '[[Port Meridian]]
-  Harbor (Sunken Ship)'
-race: Corrupted Water Elemental
 role: Shard Guardian
-status: complete
-tags:
-- aethermoor
-- complete
-- content/npc
-- corrupted
-- elemental
-- guardian
-- npc
-- seven-shards
-- status/complete
-- world/aethermoor
-type: Npc
 updated: '2025-08-13T12:34:17.532847+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait
@@ -460,6 +465,122 @@ During a moment of clarity, the Guardian manages to communicate its desire for f
 - Harbor remains contaminated without Guardian to contain it
 - City may hire assassins to recover Shard
 
+
+
+## Appearance
+
+The Crimson Shard Guardian presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Ambitious, ambitious, clever
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Achieving fame
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+The Crimson Shard Guardian harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Prophetic visions
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Casual and relaxed
+
+**Physical Habits**: Gestures expressively
+
+## Current Activities
+
+The Crimson Shard Guardian is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: The Crimson Shard Guardian needs assistance with a delicate matter
+2. **The Opposition**: Someone wants The Crimson Shard Guardian stopped or removed
+3. **The Secret**: Information about The Crimson Shard Guardian's past surfaces
+4. **The Alliance**: Opportunity to work with or against The Crimson Shard Guardian
+5. **The Crisis**: The Crimson Shard Guardian is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - **Redeemable Antagonist**: Guardian can be saved if Shard is properly removed
 - **Environmental Theme**: Represents corruption of nature and consequences of unchecked magical power
@@ -471,6 +592,13 @@ During a moment of clarity, the Guardian manages to communicate its desire for f
 - **Character Development**: Guardian's fate reflects party's approach to redemption vs. destruction
 - **Campaign Integration**: Central to Port Meridian storylines and Crimson Shard arc
 - **Power Balance**: Extremely dangerous in harbor environment, helpless if separated from water
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-crisis-response-service-crisis-response-service.svg]]: *family member*
+- [[04_Resources_Assets_Locations_location-city-master-engineer-cordelia-pressurewright-master-engineer-cordelia-pressurewright.svg]]: *debt holder*
 
 ## Connections
 

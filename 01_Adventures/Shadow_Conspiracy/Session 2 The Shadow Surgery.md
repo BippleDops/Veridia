@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 2 The Shadow Surgery
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 2 The Shadow Surgery
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Portraits_portrait-npc-duke-aldric-blackwater-duke-aldric-blackwater.svg]]
+- [[Watch Captain Roderick Shieldbreaker]]
+- [[04_Resources_Assets_Portraits_portrait-npc-lord-commander-steelborn-lord-commander-steelborn.svg]]
+- [[04_Resources_Assets_Locations_location-city-harbor-master-tideshade-harbor-master-tideshade.svg]]
+- [[04_Resources_Assets_Locations_location-city-merchant-prince-aldric-goldcurrent-merchant-prince-aldric-goldcurrent.svg]]
+
+
+## Important Locations
+
+- [[Depth Warden Patrol]]
+- [[04_Resources_Assets_Locations_location-city-the-unremembered-parliament-the-unremembered-parliament.svg]]
+- [[04_Resources_Assets_Locations_location-city-silent-guardian-marcus-v1-silent-guardian-marcus.svg]]

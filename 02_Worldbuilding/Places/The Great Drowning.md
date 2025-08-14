@@ -1,4 +1,24 @@
 ---
+title: The Great Drowning
+type: Location
+tags:
+- aquabyssos
+- status/complete
+- aquatic
+- content/location
+- place
+- active
+- combat
+- complete
+- location
+- world/aquabyssos
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 accessibility:
   content_warnings:
   - political coercion
@@ -11,24 +31,11 @@ accessibility:
   screen_reader_summary: The Great Drowning is a notable location in Aquabyssos shaped
     by tidal politics and Convergence anomalies. This entry is structured for fast
     table use.
-created: '2025-08-11'
 obsidianUIMode: preview
-status: complete
-tags:
-- combat
-- crystal-enhanced
-- shadow-touched
-- aquatic
-- aquabyssos
-- complete
-- content/location
-- location
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.867597+00:00'
 world: Aquabyssos
 ---
+
 
 
 # The Great Drowning
@@ -266,6 +273,27 @@ This spiral shell constantly drips with water that never runs dry. While attuned
 - Can hear whispers from the Great Drowning regardless of distance
 - Cursed: Must make DC 15 Wisdom save each dawn or be compelled to visit the Great Drowning
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 ### Scaling the Horror
@@ -295,9 +323,9 @@ The Great Drowning serves as:
 
 ## See Also
 
-- [[12_Research/D&D_References/Deep Mother]]
+- [[Deep Mother]]
 - [[02_Worldbuilding/Places/Thalassopolis Ruins|02 Worldbuilding/Places/Thalassopolis Ruins]]
-- [[12_Research/D&D_References/Depth Guard]]
+- [[Depth Guard]]
 - [[02_Worldbuilding/Lore/Planar Breaches of Aquabyssos|02 Worldbuilding/Lore/Planar Breaches Of Aquabyssos]]
 - [[03_Mechanics/Temporal_Mechanics_System|03 Mechanics/Temporal Mechanics System]]
 
@@ -320,41 +348,109 @@ Legends speak of The Great Drowning as a nexus where past and present converge. 
 
 ## Connections
 
-- [[12_Research/D&D_References/Establish the New Order]]
-- [[12_Research/D&D_References/Shadow Independence Levels]]
-- [[12_Research/D&D_References/Aetheron]]
-- [[12_Research/D&D_References/Aquabyssos-Aethermoor Treaties]]
-- [[12_Research/D&D_References/Corallion]]
-- [[12_Research/D&D_References/Queen Seraphina]]
-- [[12_Research/D&D_References/The Breathing Stone]]
-- [[12_Research/D&D_References/Vorthak]]
-- [[12_Research/D&D_References/Prophet Nerida Voidgazer]]
-- [[12_Research/D&D_References/Amnesia Gallery]]
-- [[12_Research/D&D_References/Crystallium]]
+- [[Establish the New Order]]
+- [[Shadow Independence Levels]]
+- [[Aetheron]]
+- [[Aquabyssos-Aethermoor Treaties]]
+- [[Corallion]]
+- [[Queen Seraphina]]
+- [[The Breathing Stone]]
+- [[Vorthak]]
+- [[Prophet Nerida Voidgazer]]
+- [[Amnesia Gallery]]
+- [[Crystallium]]
 - [[12_Research/D&D_Statblocks/Forge of War]]
 - [[12_Research/D&D_Statblocks/Luminous Hollow]]
-- [[12_Research/D&D_References/New Tethys]]
-- [[12_Research/D&D_References/Old Valdris]]
-- [[12_Research/D&D_References/Pressure's End]]
-- [[12_Research/D&D_References/Sister Morwyn]]
-- [[12_Research/D&D_References/The Archive of Unremembered Things]]
-- [[12_Research/D&D_References/The Bathyal Palace]]
-- [[12_Research/D&D_References/The Cerulean Trench]]
-- [[12_Research/D&D_References/The Eternal Senate]]
-- [[12_Research/D&D_References/The First Failure]]
+- [[New Tethys]]
+- [[Old Valdris]]
+- [[Pressure's End]]
+- [[Sister Morwyn]]
+- [[The Archive of Unremembered Things]]
+- [[The Bathyal Palace]]
+- [[The Cerulean Trench]]
+- [[The Eternal Senate]]
+- [[The First Failure]]
 - [[12_Research/D&D_Statblocks/The Foundation Depths]]
-- [[12_Research/D&D_References/The Lock]]
-- [[12_Research/D&D_References/The Primordial Vaults]]
-- [[12_Research/D&D_References/The Recursion Cult]]
-- [[12_Research/D&D_References/The Silent Watcher]]
-- [[12_Research/D&D_References/The Singing Trenches]]
-- [[12_Research/D&D_References/The Vanishing Depths]]
-- [[12_Research/D&D_References/The Whispering Peaks]]
-- [[12_Research/D&D_References/Theological Warfare]]
-- [[12_Research/D&D_References/Whisper-Touched William]]
+- [[The Lock]]
+- [[The Primordial Vaults]]
+- [[The Recursion Cult]]
+- [[The Silent Watcher]]
+- [[The Singing Trenches]]
+- [[The Vanishing Depths]]
+- [[The Whispering Peaks]]
+- [[Theological Warfare]]
+- [[Whisper-Touched William]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-temple-districts-v1-temple-districts.svg]]
+- [[Surface Contact Prohibition]]
+- [[Tidal Harmony]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+The Great Drowning is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting The Great Drowning:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Great Drowning
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

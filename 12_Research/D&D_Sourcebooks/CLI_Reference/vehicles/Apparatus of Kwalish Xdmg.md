@@ -1,25 +1,30 @@
+# Apparatus of Kwalish Xdmg
+
 ---
+title: Apparatus of Kwalish Xdmg
 aliases:
 - Apparatus of Kwalish
-created: 2025-07-23 12:39
-cssclasses: json5e-vehicle
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
+- world/aquabyssos
+- research
+- world/both
+- active
+- ttrpg-cli/vehicle/type/object
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/vehicle/size/large
-- ttrpg-cli/vehicle/type/object
-- world/aquabyssos
-- world/both
-type: note
+- ttrpg-cli/compendium/src/5e/xdmg
+created: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-vehicle
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:06.715431+00:00'
 world: Both
 ---
+
 
 
 # Apparatus of Kwalish
@@ -88,3 +93,8 @@ Legends speak of apparatus of kwalish xdmg as a nexus where past and present con
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

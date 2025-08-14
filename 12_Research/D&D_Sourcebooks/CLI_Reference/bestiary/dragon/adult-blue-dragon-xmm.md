@@ -1,26 +1,33 @@
+# adult-blue-dragon-xmm
+
 ---
+title: adult blue dragon xmm
 aliases:
 - Adult Blue Dragon
+type: monster
+tags:
+- ttrpg-cli/monster/environment/coastal
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/size/huge
+- monster
+- ttrpg-cli/monster/type/dragon/chromatic
+- research
+- world/both
+- active
+- ttrpg-cli/monster/cr/16
+- status/in-progress
+- ttrpg-cli/monster/environment/desert
 created: null
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/dragon/chromatic
-- world/both
-type: monster
 updated: '2025-08-12T23:37:35.750486'
 world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -152,3 +159,8 @@ Legends speak of adult blue dragon xmm as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

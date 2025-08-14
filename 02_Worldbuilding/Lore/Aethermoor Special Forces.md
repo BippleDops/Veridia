@@ -1,19 +1,23 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- shadow-touched
-- aerial
-- aethermoor
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/aethermoor
+title: Aethermoor Special Forces
 type: Lore
+tags:
+- lore
+- aerial
+- content/lore
+- world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+- shadow-touched
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.019302+00:00'
 world: Aethermoor
 ---
+
 
 
 ## Cross-References
@@ -23,7 +27,7 @@ world: Aethermoor
 
 ## Connections
 
-- [[12_Research/D&D_References/Shadow Ambush - Optional]]
+- [[Shadow Ambush - Optional]]
 
 ## Player-Facing Summary
 

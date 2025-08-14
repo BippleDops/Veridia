@@ -1,28 +1,35 @@
 ---
-category: Mobile Patrol Unit
+title: Depth Warden Patrol
+type: Location
+tags:
+- aquabyssos
+- status/complete
+- campaign/session
+- content/location
+- patrol
+- security
+- place
+- active
+- location
+- complete
+- world/aquabyssos
+- mobile-unit
+- law-enforcement
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+category: Mobile Patrol Unit
 created_by: auto-stub
 danger_level: Variable
 encounter_type: Social/Combat
 frequency: Common
 location_type: Any depth zone
-status: complete
-tags:
-- aquabyssos
-- campaign/session
-- complete
-- content/location
-- law-enforcement
-- location
-- mobile-unit
-- patrol
-- security
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.942275+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -471,6 +478,27 @@ Legends speak of Depth Warden Patrol as a nexus where past and present converge.
 - An NPC seeks discreet help at Depth Warden Patrol to avert a public scandal.
 - A map overlay reveals a hidden approach to Depth Warden Patrol active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -481,3 +509,97 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 - [[Port Meridian]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[Port Nimbus]]
+- [[04_Resources_Assets_Locations_location-city-the-twin-prophets-v1-the-twin-prophets.svg]]
+- [[Quest - Harbor Security]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+Depth Warden Patrol is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Depth Warden Patrol
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Depth Warden Patrol was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Depth Warden Patrol:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Depth Warden Patrol
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

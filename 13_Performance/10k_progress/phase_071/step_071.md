@@ -1,9 +1,16 @@
 ---
+title: step 071
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 71
 step: 71
 total_step: 7071
 ---
+
 
 # Phase 71 - Step 71
 

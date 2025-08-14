@@ -1,20 +1,26 @@
+# saving-throws-proficiency-bonus-by-challenge-rating-mm
+
 ---
+title: saving throws proficiency bonus by challenge rating mm
 aliases:
 - Saving Throws; Proficiency Bonus by Challenge Rating
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- ttrpg-cli/compendium/src/5e/mm
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/mm
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.500147'
 world: Both
 ---
+
 
 # Saving Throws; Proficiency Bonus by Challenge Rating
 *Source: Monster Manual p. 8* 
@@ -61,3 +67,8 @@ Legends speak of saving throws proficiency bonus by challenge rating mm as a nex
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Chief Medical Officer Dr. Coral Deephealer
+aliases:
+- Chief Medical Officer Dr Coral Deephealer
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Chief Medical Officer Dr. Coral Deephealer
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Fortress of the Deeps]]
-- [[12_Research/D&D_References/Fortress of the Deeps]]
+- [[Fortress of the Deeps]]
+- [[Fortress of the Deeps]]
 - [[02_Worldbuilding/Lore/Fortress of the Deeps]]
 - [[02_Worldbuilding/Lore/Fortress of the Deeps]]
 

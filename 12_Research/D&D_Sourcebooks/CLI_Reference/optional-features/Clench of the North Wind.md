@@ -1,23 +1,28 @@
+# Clench of the North Wind
+
 ---
+title: Clench of the North Wind
 aliases:
 - Clench of the North Wind
-created: 2025-07-23
-cssclasses: json5e-feat
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- active
-- both
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/optional-feature/ed
-- world/both
 type: note
+tags:
+- both
+- ttrpg-cli/compendium/src/5e/phb
+- research
+- world/both
+- active
+- note
+- ttrpg-cli/optional-feature/ed
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-feat
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:06.124590+00:00'
 world: Both
 ---
+
 
 
 # Clench of the North Wind
@@ -46,3 +51,8 @@ Legends speak of clench of the north wind as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,3 +1,15 @@
+# Magical_Items_Gallery
+
+---
+title: Magical Items Gallery
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Magical Items Gallery
 
 %% Use reading mode for visual gallery %%
@@ -316,3 +328,8 @@
 
 ## item-artifact-windvane-pota-windvane-pota
 ![[04_Resources/Assets/Items/item-artifact-windvane-pota-windvane-pota.png]]
+
+
+## Related
+
+*Links to related content will be added here.*

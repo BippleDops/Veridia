@@ -1,27 +1,33 @@
 ---
+title: Surface Ambassador Lord Seaworthy
+type: Npc
+tags:
+- aquabyssos
+- world/surface
+- ambassador
+- diplomat
+- status/complete
+- npc
+- character
+- content/npc
+- active
+- complete
+- world/aquabyssos
+- aristocrat
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+race: Human (Air-breathing)
+class: Unknown
+location: '[[The Diplomatic Quarter]] - Surface Embassy'
 affiliation: '[[Surface Kingdoms]] - Diplomatic Corps'
 age: '52'
-created: '2025-08-09'
 created_by: auto-stub
-location: '[[The Diplomatic Quarter]] - Surface Embassy'
-race: Human (Air-breathing)
 role: Surface Ambassador
-status: complete
-tags:
-- ambassador
-- aquabyssos
-- aristocrat
-- complete
-- content/npc
-- diplomat
-- npc
-- status/complete
-- world/aquabyssos
-- world/surface
-type: Npc
 updated: '2025-08-13T12:34:17.682008+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -533,6 +539,137 @@ Political upheaval in Aquabyssos or surface kingdoms threatens established diplo
 
 ---
 
+
+
+## Appearance
+
+Surface Ambassador Lord Seaworthy presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Curious, empathetic, loyal
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Relationships
+
+### Allies
+- Professional colleagues and supporters
+- Political or business connections
+
+### Rivals
+- Competitors in their field
+- Ideological opponents
+
+### Neutral Parties
+- Those who could be swayed either way
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Achieving fame
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Surface Ambassador Lord Seaworthy harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Prophetic visions
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Deep and resonant
+
+**Speech Pattern**: Direct and concise
+
+**Physical Habits**: Maintains intense eye contact
+
+## Current Activities
+
+Surface Ambassador Lord Seaworthy is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Surface Ambassador Lord Seaworthy needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Surface Ambassador Lord Seaworthy stopped or removed
+3. **The Secret**: Information about Surface Ambassador Lord Seaworthy's past surfaces
+4. **The Alliance**: Opportunity to work with or against Surface Ambassador Lord Seaworthy
+5. **The Crisis**: Surface Ambassador Lord Seaworthy is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Perfect source for political intrigue and diplomatic storylines
 - Can provide exposition about both surface and Aquabyssos affairs
@@ -543,6 +680,15 @@ Political upheaval in Aquabyssos or surface kingdoms threatens established diplo
 - **Social Encounters**: Master of complex negotiations and cultural translation
 - **Plot Integration**: His diplomatic position makes him involved in major political developments
 - **Character Development**: His struggles with divided loyalty can mirror party member conflicts
+
+
+
+## Relationship Web
+
+- [[Shadow Conspiracy]]: *childhood friend*
+- [[Captain Storm Tideguard]]: *mentor*
+- [[04_Resources_Assets_Locations_location-city-master-gardener-sage-harmony-bloomtender-v1-master-gardener-sage-harmony-bloomtender.svg]]: *student*
+- [[The Pressure Pirates]]: *family member*
 
 ## Connections
 

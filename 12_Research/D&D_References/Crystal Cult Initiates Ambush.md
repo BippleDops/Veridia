@@ -1,20 +1,27 @@
+# Crystal Cult Initiates Ambush
+
 ---
+title: Crystal Cult Initiates Ambush
+type: Lore
 tags:
-- aethermoor
-- ambush
-- combat
-- complete
-- crystals
+- lore
 - cult
 - encounter
-- lore
+- crystals
+- research
+- ambush
+- active
+- combat
+- complete
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 

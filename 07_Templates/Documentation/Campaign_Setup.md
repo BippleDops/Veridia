@@ -1,3 +1,15 @@
+# Campaign_Setup
+
+---
+title: Campaign Setup
+type: template
+tags:
+- template
+- active
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Campaign Setup Guide
 
 ## Initial Setup
@@ -11,3 +23,7 @@
 - Setting materials
 - Character sheets
 - Safety tools
+
+## Related
+
+*Links to related content will be added here.*

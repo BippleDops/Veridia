@@ -1,24 +1,31 @@
+# Quartermaster Judith Steadfast
+
 ---
+title: Quartermaster Judith Steadfast
+type: Location
 tags:
-- aquabyssos
-- complete
-- location
-- logistics
-- military-supply
-- provisioning
 - supply-depot
+- aquabyssos
+- military-supply
+- research
 - warehouse
+- logistics
+- active
+- location
+- complete
+- provisioning
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Supply Facility
 obsidianUIMode: preview
 updated: '2025-08-12T00:00:00+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-quartermaster-judith-steadfast-quartermaster-judith-steadfast.svg]]
@@ -362,3 +369,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Quartermaster Judith Steadfast|02 Worldbuilding/Places/Quartermaster Judith Steadfast]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

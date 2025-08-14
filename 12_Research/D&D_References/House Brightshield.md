@@ -1,21 +1,28 @@
+# House Brightshield
+
 ---
-created: '2025-08-12'
-status: complete
+title: House Brightshield
+type: Faction
 tags:
 - aquabyssos
-- brightshield
-- complete
-- content/faction
-- democracy
-- faction
 - noble-house
-- politics
 - status/complete
+- content/faction
+- faction
+- research
+- democracy
+- active
+- complete
 - world/aquabyssos
-type: Faction
+- politics
+- brightshield
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.441350+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -352,3 +359,8 @@ Legends speak of House Brightshield as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Harbor District Medical Corps
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+![02_Worldbuilding/Groups/Harbor District Medical Corps](../../../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_harbor_district_medical_corps.png)
+
+
 
 # 02_Worldbuilding/Groups/Harbor District Medical Corps
 
@@ -35,3 +45,9 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[04_Resources_Assets_Locations_location-city-quartermaster-judith-steadfast-quartermaster-judith-steadfast.svg]]
+- [[04_Resources_Assets_Locations_location-city-court-herald-master-proclamation-crownvoice-court-herald-master-proclamation-crownvoice.svg]]
+- [[04_Resources_Assets_Locations_location-city-master-chef-coral-seasweaver-master-chef-coral-seasweaver.svg]]

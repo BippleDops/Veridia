@@ -1,14 +1,20 @@
+# Family Retainer
+
 ---
-tags:
-- active
-- aethermoor
-- group
+title: Family Retainer
 type: Group
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- group
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.687741+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-family-retainer-family-retainer.svg]]
@@ -65,3 +71,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Pip Goldleaf]]
+
+
+## Related
+
+*Links to related content will be added here.*

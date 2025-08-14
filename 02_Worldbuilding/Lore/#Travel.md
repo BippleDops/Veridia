@@ -1,13 +1,21 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: '#Travel'
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Items/item-artifact-travelers-clothes-xphb-travelers-clothes-xphb.png)
+
+
 
 # #Travel
 
@@ -24,8 +32,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Template-Hub]]
-- [[12_Research/D&D_References/Template-PointofInterest]]
+- [[Template-Hub]]
+- [[Template-PointofInterest]]
 
 ## Notes
 

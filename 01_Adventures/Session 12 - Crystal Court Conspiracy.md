@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 12   Crystal Court Conspiracy
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 12 - Crystal Court Conspiracy
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Merchant Captain Tobias Stormwind]]
+- [[The First King's Diary]]
+- [[The Tidal Council]]
+- [[04_Resources_Assets_Locations_location-city-forge-master-petra-hammerdeep-v1-forge-master-petra-hammerdeep.svg]]
+- [[Captain Sky Horizon]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Portraits_portrait-npc-senator-glaucus-brain-senator-glaucus-brain.svg]]
+- [[Geometric Tidepools]]
+- [[04_Resources_Assets_Portraits_portrait-npc-marcus-shardbreaker-grimm-marcus-shardbreaker-grimm.svg]]

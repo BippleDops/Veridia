@@ -1,14 +1,21 @@
+# Character_Creation_Flowchart
+
 ---
-created: '2025-08-13'
-status: complete
+title: Character Creation Flowchart
+type: Visual Handout
 tags:
-- player/visual
 - character/creation
 - reference/guide
-type: Visual Handout
+- player/visual
+- research
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Character Creation Flowchart
 ## Step-by-Step Character Building
@@ -223,3 +230,7 @@ How does your character know the party?
 
 *Choose options that create natural party dynamics*
 *Consider how your character's goals align with the campaign*
+
+## Related
+
+*Links to related content will be added here.*

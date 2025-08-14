@@ -1,14 +1,21 @@
+# Age of Skybound Empires
+
 ---
-tags:
-- active
-- both
-- lore
+title: Age of Skybound Empires
 type: Lore
-world: Both
-status: active
+tags:
+- lore
+- both
+- research
+- active
+- aethermoor
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:35.235962+00:00'
 ---
+
 
 
 

@@ -1,18 +1,25 @@
+# Dock Master Voidpilings
+
 ---
-created: '2025-08-11'
-status: complete
+title: Dock Master Voidpilings
+type: Lore
 tags:
+- lore
 - aquabyssos
-- complete
+- world/aquabyssos
 - content/faction
 - content/lore
-- lore
+- research
+- active
+- complete
 - status/in-progress
-- world/aquabyssos
-type: Lore
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:15.947998+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -51,3 +58,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Shadow Marina]]
+
+
+## Related
+
+*Links to related content will be added here.*

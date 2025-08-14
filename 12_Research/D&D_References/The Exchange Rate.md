@@ -1,16 +1,22 @@
+# The Exchange Rate
+
 ---
+title: The Exchange Rate
+type: Lore
 tags:
-- active
+- lore
 - dimensional nexus (both realms)
 - dimensional-nexus-(both-realms)
+- research
+- active
 - location
-- lore
-type: Lore
-world: Dimensional Nexus (Both Realms)
-status: active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Dimensional Nexus (Both Realms)
 updated: '2025-08-13T01:18:35.917812+00:00'
 ---
+
 
 
 
@@ -49,3 +55,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Floating Market]]
+
+
+## Related
+
+*Links to related content will be added here.*

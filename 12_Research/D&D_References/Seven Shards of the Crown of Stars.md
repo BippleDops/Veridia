@@ -1,15 +1,21 @@
+# Seven Shards of the Crown of Stars
+
 ---
+title: Seven Shards of the Crown of Stars
+type: Lore
 tags:
+- lore
+- research
+- quest
 - active
 - aethermoor
-- lore
-- quest
-type: Lore
-world: Aethermoor
-status: active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:34.812029+00:00'
 ---
+
 
 
 
@@ -48,3 +54,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Goldspire Confederacy]]
 - [[Tradeway Road]]
+
+
+## Related
+
+*Links to related content will be added here.*

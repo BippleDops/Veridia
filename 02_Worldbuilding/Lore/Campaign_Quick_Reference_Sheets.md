@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Campaign Quick Reference Sheets
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Campaign_Quick_Reference_Sheets
 
@@ -24,16 +28,16 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Port Meridian]]
-- [[12_Research/D&D_References/Royal Palace]]
-- [[12_Research/D&D_References/The Celestial Wind]]
-- [[12_Research/D&D_References/Reflection Pools - Surgical Theater]]
-- [[12_Research/D&D_References/Parliament of Echoes]]
-- [[12_Research/D&D_References/Goldwave Manor]]
-- [[12_Research/D&D_References/Silverscale Banking House]]
-- [[12_Research/D&D_References/Crystalhaven]]
-- [[12_Research/D&D_References/Abyssos Prime]]
-- [[12_Research/D&D_References/The Lighthouse of Storms]]
+- [[Port Meridian]]
+- [[Royal Palace]]
+- [[The Celestial Wind]]
+- [[Reflection Pools - Surgical Theater]]
+- [[Parliament of Echoes]]
+- [[Goldwave Manor]]
+- [[Silverscale Banking House]]
+- [[Crystalhaven]]
+- [[Abyssos Prime]]
+- [[The Lighthouse of Storms]]
 
 ## Notes
 

@@ -1,23 +1,30 @@
+# Investigation Procedures 3
+
 ---
+title: Investigation Procedures 3
+type: Lore
+tags:
+- lore
+- both
+- status/complete
+- mechanics/exploration
+- worldbuilding
+- content/lore
+- world/both
+- research
+- procedures
+- active
+- complete
+- world/aquabyssos
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- lore
-- mechanics/exploration
-- procedures
-- status/complete
-- world/aquabyssos
-- world/both
-- worldbuilding
-type: Lore
 updated: '2025-08-13T12:34:28.597486+00:00'
 world: Both
 ---
+
 
 
 

@@ -1,14 +1,21 @@
+# Session_05_Political_Intrigue_Example
+
 ---
-created: '2025-08-13'
-status: complete
+title: Session 05 Political Intrigue Example
+type: Session Summary
 tags:
 - player/session-summary
 - campaign/example
 - politics/intrigue
-type: Session Summary
+- research
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Aquabyssos
 ---
+
 
 # Session 5: Political Intrigue Example
 ## The Parliament's Hidden Chamber
@@ -93,3 +100,7 @@ The party attended a formal parliamentary session as "cultural observers" while 
 ---
 
 *This session demonstrates how political intrigue can be just as engaging as combat, with careful relationship management and information gathering creating tension and excitement.*
+
+## Related
+
+*Links to related content will be added here.*

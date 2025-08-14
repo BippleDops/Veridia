@@ -1,14 +1,20 @@
+# The Deep Trade Routes
+
 ---
-tags:
-- active
-- both
-- npc
+title: The Deep Trade Routes
 type: NPC
-world: Both
-status: active
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:37.029552+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-deep-trade-routes-the-deep-trade-routes.svg]]
@@ -62,3 +68,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Deep Trade Routes|02 Worldbuilding/People/The Deep Trade Routes]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

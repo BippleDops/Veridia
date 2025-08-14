@@ -1,14 +1,20 @@
+# The Observatory
+
 ---
-tags:
-- active
-- both
-- lore
+title: The Observatory
 type: Lore
-world: Both
-status: active
+tags:
+- lore
+- both
+- active
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:34.554375+00:00'
 ---
+
 
 > [!figure] Asset
 ![[04_Resources/Assets/Locations/location-city-the-observatory-the-observatory.svg]]

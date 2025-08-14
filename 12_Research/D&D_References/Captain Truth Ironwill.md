@@ -1,14 +1,20 @@
+# Captain Truth Ironwill
+
 ---
+title: Captain Truth Ironwill
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:36.968723+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-captain-truth-ironwill-captain-truth-ironwill.svg]]
@@ -39,3 +45,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Captain Truth Ironwill|02 Worldbuilding/People/Captain Truth Ironwill]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,15 +1,21 @@
+# Pressure-Lock Systems
+
 ---
-tags:
-- active
-- both
-- location
+title: Pressure Lock Systems
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.461634+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-pressure-lock-systems-pressure-lock-systems.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Pressure-Lock Systems|02 Worldbuilding/Places/Pressure Lock Systems]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

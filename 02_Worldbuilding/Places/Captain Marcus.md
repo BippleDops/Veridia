@@ -1,30 +1,37 @@
 ---
+title: Captain Marcus
+type: Location
+tags:
+- aquabyssos
+- status/complete
+- military
+- captain
+- aquatic
+- quest
+- content/location
+- content/npc
+- place
+- active
+- campaign/arc
+- combat
+- complete
+- location
+- world/aquabyssos
+- naval
+created: 2025-08-08 - Category/People
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: NPC
 MyContainer: None
-created: 2025-08-08 - Category/People
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
-status: complete
-tags:
-- combat
-- quest
-- aquatic
-- aquabyssos
-- campaign/arc
-- captain
-- complete
-- content/location
-- content/npc
-- location
-- military
-- naval
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.683256+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -130,6 +137,27 @@ He's also been quietly preparing contingency plans for various scenarios, includ
 2. The party requires naval transport for a dangerous mission, leading them to negotiate with Marcus for the use of his ship and crew.
 3. Strange signals from the deep ocean suggest an imminent threat, and Marcus needs the party's help to investigate without alarming the civilian population.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Captain Marcus serves as a reliable military contact and source of information about external threats to Aquabyssos. His neutral political stance makes him useful to any party regardless of their factional allegiances, while his military resources can provide transportation and support for maritime adventures. Use him to represent the professional military's concerns about how political conflicts might affect the city's defenses.
@@ -180,10 +208,92 @@ Legends speak of Captain Marcus as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Captain Marcus]]
+- [[Captain Marcus]]
 
 <!-- enriched: true -->
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-causality-shadow-causality-shadow.png]]
+- [[Community Groups]]
+- [[04_Resources_Assets_Locations_location-city-undead-services-bureau-v1-undead-services-bureau.svg]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+Captain Marcus is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Captain Marcus
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Captain Marcus:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Captain Marcus
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

@@ -1,24 +1,31 @@
+# Aquabyssos Trade Seal
+
 ---
-tags:
-- aquabyssos
-- artifact
-- authentication
-- complete
-- diplomacy
-- lore
-- magical-artifact
-- magical-item
-- political-tool
-- trade
-status: complete
-world: Aquabyssos
+title: Aquabyssos Trade Seal
 type: Lore
-danger_level: 3
+tags:
+- lore
+- aquabyssos
+- magical-item
+- trade
+- diplomacy
+- authentication
+- research
+- active
+- artifact
+- political-tool
+- complete
+- magical-artifact
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 rarity: Legendary (Government Controlled)
+world: Aquabyssos
+danger_level: 3
 creator: '[[Thalassius the Wise|02 Worldbuilding/Lore/Thalassius The Wise]]'
 created_date: Second Age of Aquabyssos
-current_location: '[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] Vault'
-created: '2025-08-08'
+current_location: '[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]
+  Vault'
 updated: '2025-08-13T01:18:35.731152+00:00'
 related_entities:
 - '[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
@@ -26,6 +33,7 @@ related_entities:
 - '[[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]'
 - '[[Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking House]]'
 ---
+
 
 
 
@@ -340,3 +348,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

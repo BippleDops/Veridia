@@ -1,26 +1,33 @@
 ---
-created: '2025-08-12'
-status: complete
-tags:
-- combat
-- quest
-- crystal-enhanced
-- aquatic
-- aquabyssos
-- complete
-- content/location
-- cult
-- location
-- religion
-- status/complete
-- temples
-- transformation
-- world/aethermoor
-- world/aquabyssos
+title: Crystal Cult Temples
 type: Location
+tags:
+- aquabyssos
+- religion
+- temples
+- status/complete
+- cult
+- aquatic
+- quest
+- content/location
+- place
+- active
+- combat
+- complete
+- location
+- transformation
+- world/aquabyssos
+- world/aethermoor
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 updated: '2025-08-13T12:34:16.652441+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -101,7 +108,7 @@ The most sacred ritual, where willing members undergo procedures to accelerate t
 
 **Age:** 43 (appears ageless due to crystallization)  
 **Stage:** 4 (Voluntarily infected 3 years ago)  
-**Background:** Former [[12_Research/D&D_References/Medical Research Facilities]] who became convinced that cure research was misguided  
+**Background:** Former [[Medical Research Facilities]] who became convinced that cure research was misguided  
 **Abilities:** Levitation, crystal communion, harmonic voice projection
 
 High Priestess Seraphina founded the temple after her deliberate infection with the plague. Her scientific background lends credibility to the cult's theological claims about the divine nature of crystallization.
@@ -113,7 +120,7 @@ Her crystalline formations follow geometric patterns that seem to shift and flow
 *Current Projects:*
 - Developing theological framework for crystalline society
 - Training Stage 3-4 members in temple leadership roles  
-- Coordinating with [[12_Research/D&D_References/Black Market Crystal Trade]] suppliers for medical equipment
+- Coordinating with [[Black Market Crystal Trade]] suppliers for medical equipment
 - Establishing satellite temples in other cities
 
 #### The Living Saints - Stage 5 Oracles
@@ -141,7 +148,7 @@ Saint Marina's crystalline form incorporates patterns reminiscent of deep-sea pr
 **Sister Coral Gentletouch**  
 **Age:** 29, **Stage:** 2  
 **Role:** Community outreach and new member recruitment  
-**Method:** Visits [[12_Research/D&D_References/Crystal Plague Wards]] to offer spiritual comfort to patients
+**Method:** Visits [[Crystal Plague Wards]] to offer spiritual comfort to patients
 
 Sister Coral presents herself as a compassionate volunteer providing emotional support to plague victims. Her genuine care and acceptance offers stark contrast to the fear and rejection plague victims encounter elsewhere.
 
@@ -339,7 +346,7 @@ More paranoid cult factions believe the plague was deliberately introduced by fo
 - Timing of plague emergence coincided with international tensions
 - Government response seems designed to hide truth rather than provide aid
 - Foreign nations offer assistance while secretly studying plague effects
-- [[12_Research/D&D_References/Black Market Crystal Trade]] operations may be foreign intelligence gathering
+- [[Black Market Crystal Trade]] operations may be foreign intelligence gathering
 
 **Cult Response:**
 - Members must protect themselves from foreign exploitation
@@ -466,6 +473,27 @@ The party discovers that cult healing practices, while religiously motivated, ar
 - What happens to patients who improve under cult care but refuse conventional treatment?
 - Can government and cult organizations cooperate without compromising either group's principles?
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 ### Religious Sensitivity
@@ -498,15 +526,109 @@ The party discovers that cult healing practices, while religiously motivated, ar
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Crystal Plague Progression System]] - Disease mechanics that cult members interpret spiritually
-- [[12_Research/D&D_References/Crystal Plague Wards]] - Official medical system that cults offer alternative to
-- [[12_Research/D&D_References/Medical Research Facilities]] - Scientific establishments that cults view as misguided
-- [[12_Research/D&D_References/Black Market Crystal Trade]] - Economic networks that cults sometimes utilize
+- [[Crystal Plague Progression System]] - Disease mechanics that cult members interpret spiritually
+- [[Crystal Plague Wards]] - Official medical system that cults offer alternative to
+- [[Medical Research Facilities]] - Scientific establishments that cults view as misguided
+- [[Black Market Crystal Trade]] - Economic networks that cults sometimes utilize
 - [[Brother Marcus]] - Legitimate healer whose methods cults sometimes emulate
-- [[12_Research/D&D_References/Underground Smuggling Networks]] - Distribution systems for cult materials and members
-- [[12_Research/D&D_References/Quarantine Enforcement]] - Government policies that cults help members evade
+- [[Underground Smuggling Networks]] - Distribution systems for cult materials and members
+- [[Quarantine Enforcement]] - Government policies that cults help members evade
 
 <!-- enriched: true -->
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-infrastructure-development-v1-infrastructure-development.svg]]
+- [[04_Resources_Assets_Locations_location-city-wave-traderwind-v1-wave-traderwind.svg]]
+- [[Kelp-Based Brewing]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+Crystal Cult Temples is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Crystal Cult Temples
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Crystal Cult Temples was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Crystal Cult Temples:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Crystal Cult Temples
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

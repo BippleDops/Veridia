@@ -1,16 +1,22 @@
+# Template-Player
+
 ---
-type: Lore
-status: complete
+title: Template Player
 aliases:
 - Bob
+type: Lore
 tags:
-- active
-- both
-- category/player
 - lore
+- both
+- research
+- category/player
+- active
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+level: 11
 Player: Bob
 Role: Player
-level: 11
 hp: 50
 max_hp: 71
 ac: 80
@@ -51,8 +57,8 @@ MyContainer: null
 MyCategory: null
 world: Both
 updated: '2025-08-13T01:18:31.200054+00:00'
-created: '2025-08-11'
 ---
+
 
 
 
@@ -451,3 +457,8 @@ Legends speak of Template Player as a nexus where past and present converge. Loc
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,17 +1,24 @@
+# Director of Experimental Procedures Dr Siren
+
 ---
-created: '2025-08-11'
-status: complete
+title: Director of Experimental Procedures Dr Siren
+type: Npc
 tags:
 - aquabyssos
-- complete
-- content/npc
-- npc
-- status/in-progress
 - world/aquabyssos
-type: Npc
+- npc
+- research
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.617009+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -72,3 +79,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Reflection Pools - Surgical Theater]]
+
+
+## Related
+
+*Links to related content will be added here.*

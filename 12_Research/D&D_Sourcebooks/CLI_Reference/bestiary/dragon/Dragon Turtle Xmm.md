@@ -1,28 +1,34 @@
+# Dragon Turtle Xmm
+
 ---
+title: Dragon Turtle Xmm
 aliases:
 - Dragon Turtle
+type: monster
+tags:
+- ttrpg-cli/monster/environment/coastal
+- ttrpg-cli/monster/type/dragon
+- both
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/size/gargantuan
+- world/aquabyssos
+- monster
+- research
+- world/both
+- active
+- ttrpg-cli/monster/cr/17
+- status/in-progress
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- active
-- both
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/17
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/dragon
-- world/aquabyssos
-- world/both
-type: monster
 updated: '2025-08-13T12:34:06.019792+00:00'
 world: Both
 ---
+
 
 
 # [[dragon-turtle-xmm|Dragon Turtle]]
@@ -112,3 +118,8 @@ Legends speak of dragon turtle xmm as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

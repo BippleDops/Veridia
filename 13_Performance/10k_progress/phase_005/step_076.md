@@ -1,9 +1,16 @@
 ---
+title: step 076
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 5
 step: 76
 total_step: 476
 ---
+
 
 # Phase 5 - Step 76
 

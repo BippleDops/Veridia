@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry cross realm agricultural exchang cross realm agricultural exchang.svg
+aliases:
+- symbol heraldry cross realm agricultural exchang cross realm agricultural exchangsvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-cross-realm-agricultural-exchang-cross-realm-agricultural-exchang.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Cross-Realm Agricultural Exchang]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Cross-Realm Agricultural Exchang]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

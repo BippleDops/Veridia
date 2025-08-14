@@ -1,21 +1,28 @@
+# The Tethyan Hegemony
+
 ---
+title: The Tethyan Hegemony
+type: Lore
 tags:
 - ancient-civilizations
 - aquabyssos
-- aquabyssos-history
-- complete
-- empires
-- historical-events
 - lore
+- historical-events
+- empires
+- research
+- aquabyssos-history
+- active
+- complete
 - politics
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 expanded: 2025-08-10
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -489,3 +496,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Thalassius the Wise|02 Worldbuilding/Lore/Thalassius The Wise]]
+
+
+## Related
+
+*Links to related content will be added here.*

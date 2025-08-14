@@ -1,9 +1,16 @@
 ---
+title: step 014
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 29
 step: 14
 total_step: 2814
 ---
+
 
 # Phase 29 - Step 14
 

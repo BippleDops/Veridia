@@ -1,14 +1,21 @@
+# NPC_Interaction_Review
+
 ---
-created: '2025-08-13'
-status: complete
+title: NPC Interaction Review
+type: Feedback Form
 tags:
+- research
 - player/feedback
+- active
 - npcs/review
 - roleplay/assessment
-type: Feedback Form
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # NPC Interaction Review
 ## Help improve character portrayals
@@ -138,3 +145,7 @@ _______________________________________
 
 *Good NPCs make the world feel alive*
 *Your feedback helps improve character interactions*
+
+## Related
+
+*Links to related content will be added here.*

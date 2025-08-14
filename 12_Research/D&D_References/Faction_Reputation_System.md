@@ -1,15 +1,22 @@
+# Faction_Reputation_System
+
 ---
-created: '2025-08-13'
-status: ready
+title: Faction Reputation System
+type: Mechanics
 tags:
-- status/ready
 - type/social-mechanics
+- research
 - world/both
 - category/reputation
-type: Mechanics
+- active
+- status/ready
+created: '2025-08-13'
+modified: '2025-08-14'
+status: ready
 updated: '2025-08-13T12:55:00.000000'
 world: Both
 ---
+
 
 # Faction Reputation System - Social Mechanics
 
@@ -249,3 +256,7 @@ The Faction Reputation System tracks character standing with the major political
 ---
 
 **Designer Note**: This system emphasizes that actions have lasting consequences and that political relationships are complex and interconnected. Players must think strategically about their choices and accept that they cannot please everyone.
+
+## Related
+
+*Links to related content will be added here.*

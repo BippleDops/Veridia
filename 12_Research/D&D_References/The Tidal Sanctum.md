@@ -1,15 +1,21 @@
+# The Tidal Sanctum
+
 ---
-tags:
-- active
-- aquabyssos
-- artifact
-- lore
+title: The Tidal Sanctum
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- research
+- active
+- artifact
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.576975+00:00'
 ---
+
 
 
 
@@ -47,3 +53,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Crown of Tidal Sovereignty]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,15 +1,21 @@
+# Abyssos Prime Upper Districts
+
 ---
+title: Abyssos Prime Upper Districts
+type: Location
+tags:
+- both
+- active
+- location
+- research
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 world: Both
 updated: '2025-08-13T01:18:36.591424+00:00'
-created: '2025-08-11'
-status: active
-tags:
-- active
-- both
-- location
-type: Location
 danger_level: Moderate
 ---
+
 
 
 
@@ -234,3 +240,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Abyssos Prime Upper Districts|02 Worldbuilding/Places/Abyssos Prime Upper Districts]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

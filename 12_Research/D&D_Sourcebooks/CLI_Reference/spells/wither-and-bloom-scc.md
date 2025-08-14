@@ -1,6 +1,23 @@
+# wither-and-bloom-scc
+
 ---
+title: wither and bloom scc
 aliases:
 - Wither and Bloom
+type: note
+tags:
+- ttrpg-cli/compendium/src/5e/scc
+- mechanics/magic
+- content/lore
+- world/both
+- research
+- active
+- campaign/arc
+- note
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
 classes:
 - Bard
 - Bard (College of Lore)
@@ -9,23 +26,12 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-created: 2025-07-23
 cssclasses: json5e-spell
-modified: 2025-07-23 12:39
 obsidianUIMode: preview
-status: active
-tags:
-- campaign/arc
-- content/lore
-- mechanics/magic
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/scc
-- world/both
-type: note
 updated: '2025-08-12T23:37:36.258340'
 world: Both
 ---
+
 
 # Wither and Bloom
 *2nd-level, Necromancy*  
@@ -65,3 +71,8 @@ Legends speak of wither and bloom scc as a nexus where past and present converge
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

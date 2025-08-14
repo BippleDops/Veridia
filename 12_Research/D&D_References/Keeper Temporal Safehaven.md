@@ -1,15 +1,21 @@
+# Keeper Temporal Safehaven
+
 ---
-tags:
-- active
-- aquabyssos
-- location
+title: Keeper Temporal Safehaven
 type: Location
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.044501+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-keeper-temporal-safehaven-keeper-temporal-safehaven.svg]]
@@ -66,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Shrinking Sanctuary]]
+
+
+## Related
+
+*Links to related content will be added here.*

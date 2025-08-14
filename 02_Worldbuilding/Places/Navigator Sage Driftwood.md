@@ -1,30 +1,37 @@
 ---
+title: Navigator Sage Driftwood
+type: Location
+tags:
+- aquabyssos
+- navigator
+- status/complete
+- mechanics/exploration
+- world/aquabyssos
+- aquatic
+- quest
+- content/location
+- content/npc
+- place
+- active
+- combat
+- complete
+- location
+- sage
+- driftwood
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: NPC
 MyContainer: None
-created: '2025-08-12'
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
-status: complete
-tags:
-- combat
-- quest
-- aquatic
-- aquabyssos
-- complete
-- content/location
-- content/npc
-- driftwood
-- location
-- mechanics/exploration
-- navigator
-- sage
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.684963+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -130,6 +137,27 @@ She's also been approached by various factions seeking her navigation services f
 2. Strange disturbances in oceanic patterns suggest supernatural interference, and Driftwood needs investigators to help identify the source.
 3. The party requires safe passage through dangerous waters, leading them to seek Driftwood's unique navigation expertise.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Sage Driftwood serves as both a practical resource for oceanic travel and a source of wisdom about the deeper mysteries of the sea. Her philosophical approach to navigation can provide unique insights into problems, while her oceanic connections offer opportunities for underwater adventures and encounters with sea creatures. Use her neutral stance and ancient wisdom to provide guidance that transcends factional politics.
@@ -137,9 +165,9 @@ Sage Driftwood serves as both a practical resource for oceanic travel and a sour
 
 ## Connections
 
-- [[12_Research/D&D_References/Compass Quest]]
-- [[12_Research/D&D_References/The Forgotten One]]
-- [[12_Research/D&D_References/The Wandering Atoll]]
+- [[Compass Quest]]
+- [[The Forgotten One]]
+- [[The Wandering Atoll]]
 
 
 ## History
@@ -187,10 +215,93 @@ Legends speak of Navigator Sage Driftwood as a nexus where past and present conv
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Navigator Sage Driftwood]]
+- [[Navigator Sage Driftwood]]
 
 <!-- enriched: true -->
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Notable Residents
+
+- [[Captain Marrow Drinker]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-vex-shadowthorn-boss-fight-vex-shadowthorn-boss-fight.png]]
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-port-meridian-merchant-quarter-v1-port-meridian-merchant-quarter.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-missing-diplomat-v1-the-missing-diplomat.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-first-truth-the-first-truth.svg]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+Navigator Sage Driftwood is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Navigator Sage Driftwood
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Navigator Sage Driftwood:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Navigator Sage Driftwood
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

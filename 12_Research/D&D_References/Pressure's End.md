@@ -1,26 +1,32 @@
+# Pressure's End
+
 ---
-tags:
-- active
-- both
-- city
-- location
-- midnight_expanse
-- military_stronghold
+title: Pressure's End
 aliases:
 - The Iron Deep
 - The Last Stand
+type: Location
+tags:
+- both
+- military_stronghold
+- research
+- city
+- active
+- location
+- midnight_expanse
 created: '2024-12-19'
+modified: '2025-08-14'
+status: active
+population: 35000 - Category/Place
 image: 04_Resources/Assets/Locations/pressures_end.jpg
 danger_level: High
-population: 35000 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:36.341120+00:00'
-status: active
-type: Location
 ---
+
 
 
 
@@ -206,3 +212,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Lock]]
 - [[The Pressure Conspiracy]]
 - [[Warden Marcus Stonehand]]
+
+
+## Related
+
+*Links to related content will be added here.*

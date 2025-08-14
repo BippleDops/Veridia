@@ -1,18 +1,24 @@
+# Quest - Diplomatic Immunity
+
 ---
+title: Quest   Diplomatic Immunity
 type: Lore
+tags:
+- lore
+- both
+- worldbuilding
+- quest
+- active
+- combat
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Both
 updated: '2025-08-13T01:18:34.475253+00:00'
-created: '2025-08-11'
-tags:
-- combat
-- quest
-- crystal-enhanced
-- shadow-touched
-- active
-- both
-- lore
 ---
+
 
 
 # Quest - Diplomatic Immunity
@@ -21,16 +27,16 @@ tags:
 
 ## Overview
 
-Tensions between [[12_Research/D&D_References/The Crystal Throne]], [[12_Research/D&D_References/Purist Coalition]], and [[12_Research/D&D_References/The Verdant Accord]] have reached a breaking point. [[12_Research/D&D_References/Queen Seraphina Lumengarde]] secretly commissions neutral mediators to negotiate peace before the Crystal Festival becomes a bloodbath. Multiple factions plan violence, and only careful diplomacy can prevent civil war.
+Tensions between [[The Crystal Throne]], [[Purist Coalition]], and [[The Verdant Accord]] have reached a breaking point. [[Queen Seraphina Lumengarde]] secretly commissions neutral mediators to negotiate peace before the Crystal Festival becomes a bloodbath. Multiple factions plan violence, and only careful diplomacy can prevent civil war.
 
 ## The Situation
 
 ### Rising Tensions
 
-- [[12_Research/D&D_References/Purist Coalition]] planning Festival attack
+- [[Purist Coalition]] planning Festival attack
 - [[12_Research/D&D_Statblocks/Crystal Wardens]] on high alert
-- [[12_Research/D&D_References/The Verdant Accord]] considering alliance with Purists
-- [[12_Research/D&D_References/Prince Caspian Duskwater]] funding instability
+- [[The Verdant Accord]] considering alliance with Purists
+- [[Prince Caspian Duskwater]] funding instability
 - Citizens choosing sides
 
 ### The Stakes
@@ -46,14 +52,14 @@ Tensions between [[12_Research/D&D_References/The Crystal Throne]], [[12_Researc
 ### Stage 1: Initial Contact
 
 **Objectives**:
-- Meet [[12_Research/D&D_References/Queen Seraphina Lumengarde]] secretly
+- Meet [[Queen Seraphina Lumengarde]] secretly
 - Receive diplomatic credentials
 - Understand each faction's position
 - Identify moderate voices
 
 **Key NPCs**:
-- [[12_Research/D&D_References/Captain Lyanna Brightshield]] - Provides intelligence
-- [[12_Research/D&D_References/Brother Marcus Steelbane]] - Moderate Purist
+- [[Captain Lyanna Brightshield]] - Provides intelligence
+- [[Brother Marcus Steelbane]] - Moderate Purist
 - [[12_Research/D&D_Statblocks/High Priestess Celeste Dawnbringer]] - Neutral voice
 
 ### Stage 2: Faction Negotiations
@@ -76,7 +82,7 @@ Tensions between [[12_Research/D&D_References/The Crystal Throne]], [[12_Researc
 
 #### Purist Coalition
 
-**Leader**: [[12_Research/D&D_References/High Inquisitor Maltheos]]
+**Leader**: [[High Inquisitor Maltheos]]
 
 **Demands**:
 - Destroy all crystals
@@ -88,7 +94,7 @@ Tensions between [[12_Research/D&D_References/The Crystal Throne]], [[12_Researc
 - Corruption victim protection
 - Religious freedom
 
-**Moderate Voice**: [[12_Research/D&D_References/Brother Marcus Steelbane]]
+**Moderate Voice**: [[Brother Marcus Steelbane]]
 
 #### The Verdant Accord
 
@@ -108,7 +114,7 @@ Tensions between [[12_Research/D&D_References/The Crystal Throne]], [[12_Researc
 
 **Groups Working Against Peace**:
 - [[12_Research/D&D_Statblocks/The Whisper Syndicate]] - Profits from chaos
-- [[12_Research/D&D_References/Prince Caspian Duskwater]] - Wants throne
+- [[Prince Caspian Duskwater]] - Wants throne
 - Extremist cells - Both factions
 - War profiteers
 
@@ -121,9 +127,9 @@ Tensions between [[12_Research/D&D_References/The Crystal Throne]], [[12_Researc
 ### Stage 4: The Peace Summit
 
 **Location Options**:
-- [[12_Research/D&D_References/The Verdant Reach]] - Neutral ground
+- [[The Verdant Reach]] - Neutral ground
 - Ancient temple - Sacred space
-- [[12_Research/D&D_References/Port Meridian]] - International observers
+- [[Port Meridian]] - International observers
 
 **Negotiation Challenges**:
 - Language barriers
@@ -191,28 +197,28 @@ Need 25+ points for lasting peace
 
 ### Faction Representatives
 
-- [[12_Research/D&D_References/Queen Seraphina Lumengarde]] - Crystal Throne
-- [[12_Research/D&D_References/High Inquisitor Maltheos]] - Purist Coalition
+- [[Queen Seraphina Lumengarde]] - Crystal Throne
+- [[High Inquisitor Maltheos]] - Purist Coalition
 - [[12_Research/D&D_Statblocks/Archdruid Thornweaver]] - Verdant Accord
 - [[12_Research/D&D_Statblocks/Lord Aurelius Goldwave]] - Merchant Princes
 
 ### Moderates
 
-- [[12_Research/D&D_References/Brother Marcus Steelbane]] - Purist moderate
-- [[12_Research/D&D_References/Captain Lyanna Brightshield]] - Royal moderate
+- [[Brother Marcus Steelbane]] - Purist moderate
+- [[Captain Lyanna Brightshield]] - Royal moderate
 - [[12_Research/D&D_Statblocks/High Priestess Celeste Dawnbringer]] - Religious moderate
 
 ### Saboteurs
 
-- [[12_Research/D&D_References/Vex Shadowthorn]] - Chaos profiteer
-- [[12_Research/D&D_References/Prince Caspian Duskwater]] - Throne seeker
+- [[Vex Shadowthorn]] - Chaos profiteer
+- [[Prince Caspian Duskwater]] - Throne seeker
 - Extremist cells - Various
 
 ## Complications
 
 ### Assassination Attempts
 
-- Target: [[12_Research/D&D_References/Brother Marcus Steelbane]]
+- Target: [[Brother Marcus Steelbane]]
 - Assassin: Purist extremist
 - Prevention: DC 15 Investigation
 - Failure: Moderates lose influence
@@ -309,7 +315,7 @@ Need 25+ points for lasting peace
 
 - [[12_Research/D&D_Statblocks/Quest - The Crystal Festival]] - Deadline event
 - [[12_Research/D&D_Statblocks/Quest - Hearts and Minds]] - Public opinion
-- [[12_Research/D&D_References/Aquabyssos]] - Protecting moderates
+- [[Aquabyssos]] - Protecting moderates
 - [[12_Research/D&D_Statblocks/Quest - Foreign Interests]] - External threats
 
 ## Long-term Impact
@@ -323,7 +329,7 @@ Need 25+ points for lasting peace
 
 ## Connections
 
-- [[12_Research/D&D_References/The Shadow War Coalition]]
+- [[The Shadow War Coalition]]
 
 ## Player-Facing Summary
 
@@ -372,7 +378,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Quest - Hearts and Minds|02 Worldbuilding/Quests/Quest Hearts And Minds]]
 - [[12_Research/D&D_Statblocks/Crystal Wardens]]
-- [[12_Research/D&D_References/Brother Marcus Steelbane]]
+- [[Brother Marcus Steelbane]]
 - [[12_Research/D&D_Statblocks/High Priestess Celeste Dawnbringer]]
 - [[12_Research/D&D_Statblocks/Lord Aurelius Goldwave]]
 - [[12_Research/D&D_Statblocks/Quest - Foreign Interests]]

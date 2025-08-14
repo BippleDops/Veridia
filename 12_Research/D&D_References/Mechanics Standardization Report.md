@@ -1,21 +1,27 @@
+# Mechanics Standardization Report
+
 ---
-created: '2025-08-12'
-status: complete
+title: Mechanics Standardization Report
+type: Lore
 tags:
+- lore
+- documentation
 - both
+- status/complete
+- standardization
+- research
+- world/both
+- active
 - changelog
 - complete
 - content/mechanics
-- documentation
-- lore
-- standardization
-- status/complete
-- world/both
-title: Mechanics Standardization Report
-type: Lore
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.758703+00:00'
 world: Both
 ---
+
 
 
 
@@ -278,3 +284,7 @@ For reference when using older mechanics files:
 ---
 
 *This report serves as the permanent record of the standardization process and should be referenced for any future mechanical changes or additions to the campaign systems.*
+
+## Related
+
+*Links to related content will be added here.*

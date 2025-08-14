@@ -1,9 +1,16 @@
 ---
+title: step 092
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 90
 step: 92
 total_step: 8992
 ---
+
 
 # Phase 90 - Step 92
 

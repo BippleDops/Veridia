@@ -1,11 +1,17 @@
+# Template-Quest
+
 ---
+title: Template Quest
 type: Lore
-status: complete
 tags:
-- active
-- both
 - category/quest
 - lore
+- both
+- research
+- active
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 MyContainer: []
 MyCategory: null
 obsidianUIMode: preview
@@ -20,8 +26,8 @@ questLookEarned: null
 NoteIcon: quest
 world: Both
 updated: '2025-08-13T01:18:31.193835+00:00'
-created: '2025-08-11'
 ---
+
 
 
 
@@ -223,3 +229,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Template-Item|05 Templates/World Builder Templates/Template Item]]
+
+
+## Related
+
+*Links to related content will be added here.*

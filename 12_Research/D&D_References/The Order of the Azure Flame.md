@@ -1,24 +1,29 @@
+# The Order of the Azure Flame
+
 ---
-type: Group
-tags:
-- active
-- both
-- faction
-- group
-- magic-hunters
-- zealots
+title: The Order of the Azure Flame
 aliases:
 - Azure Flame
 - The Order
+type: Group
+tags:
+- both
+- magic-hunters
+- faction
+- research
+- active
+- zealots
+- group
 created: '2025-07-23'
-modified: 2025-07-23 18:50
+modified: '2025-08-14'
+status: active
 MyContainer: None
 MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:36.790917+00:00'
-status: active
 ---
+
 
 
 
@@ -79,3 +84,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Groups_Index|Master Groups Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

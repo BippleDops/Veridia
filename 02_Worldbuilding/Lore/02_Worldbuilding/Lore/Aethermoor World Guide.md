@@ -1,13 +1,18 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Aethermoor World Guide
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+- aethermoor
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Lore/Aethermoor World Guide
 
@@ -26,7 +31,7 @@ tags:
 ### Referenced In
 - [[00_Indexes/MASTER_VAULT_INDEX]]
 - [[00_Indexes/Master_Campaign_Index]]
-- [[12_Research/D&D_References/README]]
+- [[README]]
 - [[02_Worldbuilding/Quests/Economic Warfare]]
 - [[02_Worldbuilding/Quests/Quest - The Lost Expedition]]
 - [[02_Worldbuilding/Quests/Stop the Crystal Festival Ritual]]

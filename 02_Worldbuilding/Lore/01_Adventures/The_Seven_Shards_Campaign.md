@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: The Seven Shards Campaign
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 01_Adventures/The_Seven_Shards_Campaign
 
@@ -24,8 +28,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Living Economy System]]
-- [[12_Research/D&D_References/Living_Economy_System]]
+- [[Living Economy System]]
+- [[Living_Economy_System]]
 
 ## Notes
 

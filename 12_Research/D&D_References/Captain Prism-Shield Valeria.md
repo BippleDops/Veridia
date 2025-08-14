@@ -1,14 +1,20 @@
+# Captain Prism-Shield Valeria
+
 ---
+title: Captain Prism Shield Valeria
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:36.886818+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-captain-prism-shield-valeria-captain-prism-shield-valeria.svg]]
@@ -39,3 +45,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Captain Prism-Shield Valeria|02 Worldbuilding/People/Captain Prism Shield Valeria]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

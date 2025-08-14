@@ -1,14 +1,23 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- content/npc
-- status/in-progress
-- world/both
+title: The Crimson Pearl
 type: Npc
+tags:
+- npc
+- world/both
+- character
+- content/npc
+- active
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-12T23:37:40.839699'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -254,6 +263,116 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 - *"The tide turns for everyone eventually. I just give it a push."*
 - *"Legal is just illegal with more paperwork."*
 
+
+
+## Appearance
+
+The_Crimson_Pearl presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Cautious, clever, wise
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Finding purpose
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Casual and relaxed
+
+**Physical Habits**: Gestures expressively
+
+## Current Activities
+
+The_Crimson_Pearl is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: The_Crimson_Pearl needs assistance with a delicate matter
+2. **The Opposition**: Someone wants The_Crimson_Pearl stopped or removed
+3. **The Secret**: Information about The_Crimson_Pearl's past surfaces
+4. **The Alliance**: Opportunity to work with or against The_Crimson_Pearl
+5. **The Crisis**: The_Crimson_Pearl is caught in a situation requiring intervention
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 
 ### Playing the Pearl
@@ -302,6 +421,13 @@ Legends speak of The Crimson Pearl as a nexus where past and present converge. L
 
 <!-- enriched: true -->
 
+
+
+
+## Relationship Web
+
+- [[Oracle Nerida the Tidereader]]: *debt holder*
+- [[04_Resources_Assets_Locations_location-city-master-archivist-thomas-scrollkeeper-master-archivist-thomas-scrollkeeper.png]]: *mentor*
 
 ## Connections
 

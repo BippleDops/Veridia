@@ -1,21 +1,28 @@
+# The Tidepool Markets
+
 ---
+title: The Tidepool Markets
+type: Location
 tags:
 - aquabyssos
-- complete
-- location
-- marketplace
+- trade-hub
+- research
 - place
+- marketplace
+- active
+- location
+- complete
 - social-center
 - tidal-influenced
-- trade-hub
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
+population: ~2,000 daily traders, 10,000+ daily customers
 world: Aquabyssos
-type: Location
 location_type: Floating Marketplace
 affiliation: Independent Merchants (Loosely [[The Liminal Trading Company]] influenced)
 significance: Major (Primary Commercial Hub)
 size: Large Complex (50+ Individual Markets)
-population: ~2,000 daily traders, 10,000+ daily customers
 danger_level: 2
 services:
 - Trade
@@ -24,9 +31,9 @@ services:
 - Entertainment
 - Information
 created_by: Claude
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] View
@@ -448,3 +455,8 @@ Legends speak of The Tidepool Markets as a nexus where past and present converge
 - [[The Liminal Trading Company]]
 - [[Oracle Nerida the Tidereader]]
 - [[Memory Farmers]]
+
+
+## Related
+
+*Links to related content will be added here.*

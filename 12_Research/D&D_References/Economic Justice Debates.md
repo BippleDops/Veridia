@@ -1,18 +1,24 @@
+# Economic Justice Debates
+
 ---
-tags:
-- active
-- aquabyssos
-- economics
-- justice
-- lore
-- moral-dilemmas
-- resource-allocation
+title: Economic Justice Debates
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- resource-allocation
+- economics
+- research
+- active
+- moral-dilemmas
+- justice
 created: '2025-08-12'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.528258+00:00'
 ---
+
 
 
 # Economic Justice Debates
@@ -354,3 +360,8 @@ Economic Justice Debates is a undersea element of the setting, known for biolumi
 Legends speak of Economic Justice Debates as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Economic Justice Debates.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

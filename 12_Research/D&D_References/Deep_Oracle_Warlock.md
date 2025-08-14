@@ -1,16 +1,23 @@
+# Deep_Oracle_Warlock
+
 ---
-created: '2025-08-13'
-status: ready
-tags:
-- status/ready
-- type/character-build
-- world/aquabyssos
-- class/warlock
-- entity/deep-mother
+title: Deep Oracle Warlock
 type: Character Build
+tags:
+- class/warlock
+- research
+- type/character-build
+- entity/deep-mother
+- status/ready
+- active
+- world/aquabyssos
+created: '2025-08-13'
+modified: '2025-08-14'
+status: ready
 updated: '2025-08-13T12:00:00.000000'
 world: Aquabyssos
 ---
+
 
 # Deep Oracle Warlock - Character Build
 
@@ -227,3 +234,7 @@ Natural psychic abilities enhanced by cosmic contact.
 Deep Oracles incorporate cosmic horror themes while remaining playable characters. They balance terrifying cosmic awareness with heroic agency, serving as bridges between incomprehensible entities and mortal concerns. The build emphasizes the price of cosmic knowledge while providing meaningful character agency.
 
 This character represents the intersection of cosmic horror and heroic fantasy, perfect for campaigns exploring reality, prophecy, and the price of forbidden knowledge.
+
+## Related
+
+*Links to related content will be added here.*

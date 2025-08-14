@@ -1,18 +1,24 @@
+# Military Moral Quandaries
+
 ---
-tags:
-- active
-- aquabyssos
-- lore
-- military-ethics
-- moral-dilemmas
-- shadow-corruption
-- warfare
+title: Military Moral Quandaries
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- shadow-corruption
+- military-ethics
+- research
+- active
+- moral-dilemmas
+- warfare
 created: '2025-08-12'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.329174+00:00'
 ---
+
 
 
 # Military Moral Quandaries
@@ -424,3 +430,8 @@ Military Moral Quandaries is a undersea element of the setting, known for biolum
 Legends speak of Military Moral Quandaries as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Military Moral Quandaries.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Duke Cyrus Reefheart
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.499732+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -58,6 +66,16 @@ Duke Cyrus Reefheart leads the [[Coral Courts]] from [[Lumengarde]], championing
 
 ## History
 Born to ancient noble family that ruled the Coral Islands before drowning. Family was first to accept biological adaptation to survive. Cyrus took the process further than anyone, allowing complete symbiosis with coral palace. Has ruled Lumengarde for 89 years but appears ageless due to constant regeneration.
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Casual and relaxed
+
+**Physical Habits**: Paces while speaking
 
 ## Current Activities
 1. Merging further with his palace-body
@@ -130,6 +148,14 @@ Born to ancient noble family that ruled the Coral Islands before drowning. Famil
 - Grows: Throughout any coral structure in Lumengarde
 
 
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-ghost-of-dr-thaddeus-brightwater-ghost-of-dr-thaddeus-brightwater.svg]]: *student*
+- [[Quest - The Cure for Madness]]: *competitor*
+- [[04_Resources_Assets_Locations_location-city-forge-master-petra-hammerdeep-v1-forge-master-petra-hammerdeep.svg]]: *patron*
+
 ## Connections
 
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
@@ -165,6 +191,69 @@ Legends speak of Duke Cyrus Reefheart as a nexus where past and present converge
 - A rumor ties Duke Cyrus Reefheart to a missing shipment, linking factions with competing claims.
 - An NPC seeks discreet help at Duke Cyrus Reefheart to avert a public scandal.
 - A map overlay reveals a hidden approach to Duke Cyrus Reefheart active only during specific tides/storms.
+
+
+
+## Background
+
+Duke Cyrus Reefheart's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Protecting loved ones
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 

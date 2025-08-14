@@ -1,14 +1,21 @@
+# Merchant_Guild_Membership_Benefits
+
 ---
-created: '2025-08-13'
-status: complete
+title: Merchant Guild Membership Benefits
+type: Handout
 tags:
 - player/handout
 - trade/guilds
+- research
 - world/both
-type: Handout
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Merchant Guild Membership Benefits
 ## Cross-Realm Trading Opportunities
@@ -138,3 +145,7 @@ world: Both
 
 *Join today and expand your trading horizons across both realms*
 *Guild motto: "Profit through unity, prosperity through courage"*
+
+## Related
+
+*Links to related content will be added here.*

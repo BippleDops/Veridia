@@ -1,19 +1,26 @@
+# Poverty Survival Strategies
+
 ---
-world: Both
-updated: '2025-08-13T01:18:34.934194+00:00'
-created: '2025-08-12'
-status: complete
+title: Poverty Survival Strategies
+type: Lore
 tags:
-- barter
-- both
-- complete
 - economy
 - lore
-- poverty
-- social
+- both
 - survival
-type: Lore
+- social
+- research
+- barter
+- active
+- complete
+- poverty
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Both
+updated: '2025-08-13T01:18:34.934194+00:00'
 ---
+
 
 
 > [!figure] Survival Economics
@@ -613,3 +620,8 @@ Consider how poverty survival strategies challenge assumptions about individual 
 
 The sophisticated nature of community survival strategies demonstrates that poverty communities are not passive victims but active agents creating solutions to systemic problems. This can lead to adventures involving community organizing, alternative economic development, and social justice advocacy.
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

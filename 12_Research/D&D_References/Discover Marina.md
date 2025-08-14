@@ -1,18 +1,27 @@
+# Discover Marina
+
 ---
+title: Discover Marina
+type: Lore
 tags:
-- ancient-ruins
-- aquabyssos
-- complete
-- exploration
 - lore
-- magic
+- aquabyssos
 - mystery
+- magic
 - quest
+- research
+- active
+- exploration
+- ancient-ruins
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: The Deepmere Reaches
 quest_status: Active
 quest_priority: Medium
 quest_type: Side Quest
 world: Aquabyssos
-region: The Deepmere Reaches
 level_range: 3-5
 duration: 2-4 sessions
 difficulty: Medium
@@ -39,15 +48,13 @@ rewards:
 - Marina's Compass
 - Deepmere Breathing Apparatus
 - Scholar's Favor
-status: complete
-created: '2025-08-08'
 last_modified: 2025-08-10 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:34.491683+00:00'
-type: Lore
 ---
+
 
 
 
@@ -301,3 +308,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Elder Whisper-In-The-Dark|02 Worldbuilding/People/Elder Whisper In The Dark]]
+
+
+## Related
+
+*Links to related content will be added here.*

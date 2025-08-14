@@ -1,9 +1,28 @@
+# Aquabyssos - Session 04 - High Tide Horror
+
 ---
+title: Aquabyssos   Session 04   High Tide Horror
+type: Lore
+tags:
+- lore
+- aquabyssos
+- campaign/session
+- world/aquabyssos
+- content/lore
+- shadow-harvest
+- research
+- active
+- parliament-of-shadows
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+level: 5
 MyCategory: Unknown
 MyContainer: None
 absent: []
 campaign: Aquabyssos - The Parliament of Shadows
-created: '2025-08-11'
 danger_level: 9
 date: null
 duration_hours: 4
@@ -16,7 +35,6 @@ items_gained:
 - Shadow Lock Chains
 - Emperor's Final Gift
 - Nyx's Shadow Blade
-level: 5
 locations_visited:
 - '[[Reflection Pools - Surgical Theater]]'
 - '[[Shadow Market Canals]]'
@@ -45,22 +63,11 @@ quests_started:
 - '[[Unite or Divide]]'
 session: Session-04
 shadow_activity: Critical
-status: complete
-tags:
-- aquabyssos
-- campaign/session
-- complete
-- content/lore
-- lore
-- parliament-of-shadows
-- shadow-harvest
-- status/in-progress
-- world/aquabyssos
-type: Lore
 updated: '2025-08-13T12:34:17.845927+00:00'
 world: Aquabyssos
 xp_awarded: 2000
 ---
+
 
 
 

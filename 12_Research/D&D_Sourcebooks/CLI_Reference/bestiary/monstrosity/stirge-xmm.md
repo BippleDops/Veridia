@@ -1,32 +1,39 @@
+# stirge-xmm
+
 ---
+title: stirge xmm
 aliases:
 - Stirge
+type: monster
+tags:
+- world/surface
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/environment/urban
+- ttrpg-cli/monster/environment/mountain
+- monster
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/size/tiny
+- research
+- world/both
+- ttrpg-cli/monster/environment/swamp
+- ttrpg-cli/monster/type/monstrosity
+- active
+- ttrpg-cli/monster/environment/forest
+- ttrpg-cli/monster/cr/1-8
+- status/in-progress
+- ttrpg-cli/monster/environment/desert
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/monstrosity
-- world/both
-- world/surface
-type: monster
 updated: '2025-08-12T23:37:35.019801'
 world: Both
 ---
+
 
 # [[stirge-xmm|Stirge]]
 *Source: Monster Manual (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -111,3 +118,8 @@ Legends speak of stirge xmm as a nexus where past and present converge. Locals d
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

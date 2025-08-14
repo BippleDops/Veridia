@@ -1,33 +1,39 @@
+# Swarm of Insects Xmm
+
 ---
+title: Swarm of Insects Xmm
 aliases:
 - Swarm of Insects
+type: monster
+tags:
+- ttrpg-cli/monster/size/medium
+- both
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/type/beast
+- world/surface
+- ttrpg-cli/monster/environment/urban
+- monster
+- ttrpg-cli/monster/environment/underdark
+- research
+- world/both
+- ttrpg-cli/monster/environment/swamp
+- active
+- ttrpg-cli/monster/environment/forest
+- status/in-progress
+- ttrpg-cli/monster/environment/desert
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- active
-- both
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/beast
-- world/both
-- world/surface
-type: monster
 updated: '2025-08-13T12:34:05.495624+00:00'
 world: Both
 ---
+
 
 
 
@@ -109,3 +115,8 @@ Legends speak of swarm of insects xmm as a nexus where past and present converge
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

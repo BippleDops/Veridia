@@ -1,9 +1,17 @@
+# Ship_Blueprints
+
 ---
+title: Ship Blueprints
 type: Lore
-status: draft
+tags:
+- active
+- research
 created: '2024-01-01'
+modified: '2025-08-14'
+status: draft
 updated: '2024-01-01T00:00:00+00:00'
 ---
+
 
 # Vehicle & Ship Blueprint Prompts
 
@@ -1691,3 +1699,8 @@ updated: '2024-01-01T00:00:00+00:00'
   }
 ]
 ```
+
+
+## Related
+
+*Links to related content will be added here.*

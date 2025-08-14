@@ -1,20 +1,28 @@
+# Aethermoor to Aquabyssos Transition Guide
+
 ---
+title: Aethermoor to Aquabyssos Transition Guide
+type: Lore
 tags:
-- aquabyssos
-- campaign-mechanics
-- complete
-- guide
 - lore
+- aquabyssos
 - surface-to-underwater
 - transition
+- guide
+- research
 - travel
+- active
+- complete
+- aethermoor
+- campaign-mechanics
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 

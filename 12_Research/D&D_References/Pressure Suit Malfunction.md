@@ -1,20 +1,27 @@
+# Pressure Suit Malfunction
+
 ---
+title: Pressure Suit Malfunction
+type: Location
 tags:
 - aquabyssos
-- complete
-- danger
 - emergency
-- equipment-failure
 - event
+- danger
+- research
+- active
 - location
+- complete
+- equipment-failure
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.393847+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -182,3 +189,8 @@ Legends speak of Pressure Suit Malfunction as a nexus where past and present con
 - [[Pressure Suit Malfunction|02 Worldbuilding/Places/Pressure Suit Malfunction]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

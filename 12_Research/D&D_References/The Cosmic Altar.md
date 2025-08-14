@@ -1,15 +1,21 @@
+# The Cosmic Altar
+
 ---
+title: The Cosmic Altar
+type: Lore
 tags:
+- lore
+- grand-cathedral
+- research
 - active
 - aethermoor
-- grand-cathedral
-- lore
-type: Lore
-world: Aethermoor
-status: active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:35.088183+00:00'
 ---
+
 
 
 
@@ -48,3 +54,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Cathedral of Light]]
+
+
+## Related
+
+*Links to related content will be added here.*

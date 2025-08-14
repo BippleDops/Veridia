@@ -1,29 +1,37 @@
+# Quest - The Crystal Festival
+
 ---
+title: Quest   The Crystal Festival
+type: Lore
 tags:
-- aethermoor
-- complete
-- crystal
-- festival
-- investigation
 - lore
 - major-quest
+- investigation
+- crystal
+- festival
 - political
 - quest
+- research
+- active
+- complete
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+location: '[[The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]]'
 world: Aethermoor
-type: Lore
 quest_type: Main Story
 level_range: 8-12
-quest_giver: '[[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'
-location: '[[The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]]'
+quest_giver: '[[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina
+  Lumengarde]]'
 rewards: 5000 gp, Noble Title, Crystal Artifacts
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.490528+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 
@@ -388,3 +396,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Quest - Diplomatic Immunity|02 Worldbuilding/Quests/Quest Diplomatic Immunity]]
 - [[Quest - Foreign Interests]]
+
+
+## Related
+
+*Links to related content will be added here.*

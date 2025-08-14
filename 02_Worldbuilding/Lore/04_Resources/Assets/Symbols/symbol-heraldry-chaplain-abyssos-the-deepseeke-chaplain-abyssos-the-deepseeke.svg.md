@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry chaplain abyssos the deepseeke chaplain abyssos the deepseeke.svg
+aliases:
+- symbol heraldry chaplain abyssos the deepseeke chaplain abyssos the deepseekesvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-chaplain-abyssos-the-deepseeke-chaplain-abyssos-the-deepseeke.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
-- [[12_Research/D&D_References/Chaplain Abyssos the Deepseeke]]
+- [[Faction Symbols & Heraldry]]
+- [[Chaplain Abyssos the Deepseeke]]
 
 ## Notes
 

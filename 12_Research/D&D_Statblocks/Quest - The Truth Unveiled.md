@@ -1,19 +1,25 @@
+# Quest - The Truth Unveiled
+
 ---
+title: Quest   The Truth Unveiled
+type: Location
 tags:
-- aethermoor
+- mystery
+- investigation
+- political-intrigue
+- high-stakes
+- quest
+- research
+- active
+- location
 - complete
 - conspiracy
-- high-stakes
-- investigation
-- location
-- mystery
-- political-intrigue
-- quest
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.605275+00:00'
 quest_type: Investigation/Political Thriller
 level_range: 5-10
@@ -23,6 +29,7 @@ difficulty: Hard
 primary_location: Port Meridian and surrounding regions
 danger_level: Moderate
 ---
+
 
 
 
@@ -349,3 +356,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Aethermoor]]
 - [[Parliament of Echoes]]
 - [[Port Meridian]]
+
+
+## Related
+
+*Links to related content will be added here.*

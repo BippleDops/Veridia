@@ -1,22 +1,27 @@
+# The Cerulean Archipelago
+
 ---
-type: Location
-tags:
-- active
-- both
-- location
-- region
+title: The Cerulean Archipelago
 aliases:
 - Cerulean Archipelago
+type: Location
+tags:
+- both
+- research
+- region
+- active
+- location
 created: '2025-07-23'
-modified: 2025-07-23 16:10
+modified: '2025-08-14'
+status: active
 MyContainer: None
 MyCategory: Unknown - Category/Place
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:36.384053+00:00'
-status: active
 danger_level: Moderate
 ---
+
 
 
 
@@ -98,3 +103,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Cerulean Archipelago|02 Worldbuilding/Places/The Cerulean Archipelago]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

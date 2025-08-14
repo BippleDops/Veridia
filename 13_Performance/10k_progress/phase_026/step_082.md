@@ -1,9 +1,16 @@
 ---
+title: step 082
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 26
 step: 82
 total_step: 2582
 ---
+
 
 # Phase 26 - Step 82
 

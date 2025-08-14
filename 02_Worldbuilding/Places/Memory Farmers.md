@@ -1,40 +1,45 @@
 ---
+title: Memory Farmers
+type: Location
+tags:
+- aquabyssos
+- psychological
+- status/complete
+- world/aquabyssos
+- content/faction
+- memory
+- unethical
+- content/location
+- dangerous
+- place
+- active
+- location
+- draft
+- farming
+- merchants
 created: '2025-08-09'
+modified: '2025-08-14'
+status: draft
+region: Unknown
+population: Unknown
+headquarters: '[[Memory Meadows Black Market]]'
 current_status: Active but Underground
 danger_level: 8
 founded: Second Age of Aquabyssos
-headquarters: '[[Memory Meadows Black Market]]'
-leader: '[[Memory Merchant Valeria|02 Worldbuilding/People/Memory
-  Merchant Valeria]]'
+leader: '[[Memory Merchant Valeria|02 Worldbuilding/People/Memory Merchant Valeria]]'
 related_entities:
 - '[[Memory Alterations]]'
 - '[[02_Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]'
-- '[[Memory Trader Kellian|02 Worldbuilding/People/Memory
-  Trader Kellian]]'
+- '[[Memory Trader Kellian|02 Worldbuilding/People/Memory Trader Kellian]]'
 specialties:
 - Memory Extraction
 - Experience Harvesting
 - Consciousness Trafficking
 - Psychological Manipulation
-status: draft
-tags:
-- aquabyssos
-- content/faction
-- content/location
-- dangerous
-- draft
-- farming
-- location
-- memory
-- merchants
-- psychological
-- status/complete
-- unethical
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:17.210525+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -303,6 +308,27 @@ Legends speak of Memory Farmers as a nexus where past and present converge. Loca
 - An NPC seeks discreet help at Memory Farmers to avert a public scandal.
 - A map overlay reveals a hidden approach to Memory Farmers active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -312,3 +338,97 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Memory Farmers]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-brother-thaddeus-the-rememberer-v1-brother-thaddeus-the-rememberer.svg]]
+- [[04_Resources_Assets_Locations_location-city-surgeon-coral-seamender-surgeon-coral-seamender.svg]]
+- [[Memoriam - The Forgotten Continent]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+Memory Farmers is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Memory Farmers
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Memory Farmers was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Memory Farmers:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Memory Farmers
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

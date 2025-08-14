@@ -1,18 +1,25 @@
+# Dr Coral Soulseeker
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/lore
-- haunted-mountain-range
-- lore
-- status/in-progress
-- world/aquabyssos
+title: Dr Coral Soulseeker
 type: Lore
+tags:
+- lore
+- aquabyssos
+- world/aquabyssos
+- content/lore
+- research
+- active
+- complete
+- haunted-mountain-range
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.053434+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -52,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Whispering Peaks]]
+
+
+## Related
+
+*Links to related content will be added here.*

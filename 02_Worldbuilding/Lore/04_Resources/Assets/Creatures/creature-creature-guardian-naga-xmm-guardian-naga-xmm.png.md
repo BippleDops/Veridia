@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: creature creature guardian naga xmm guardian naga xmm.png
+aliases:
+- creature creature guardian naga xmm guardian naga xmmpng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Creatures/creature-creature-guardian-naga-xmm-guardian-naga-xmm.png
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Creatures Gallery]]
+- [[Creatures Gallery]]
 - [[12_Research/D&D_Sourcebooks/CLI_Reference/bestiary/celestial/Guardian Naga Xmm]]
 - [[12_Research/D&D_Sourcebooks/CLI_Reference/bestiary/celestial/guardian-naga-xmm]]
 

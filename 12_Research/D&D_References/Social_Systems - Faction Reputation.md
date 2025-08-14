@@ -1,22 +1,29 @@
+# Social_Systems - Faction Reputation
+
 ---
-created: '2025-08-11'
-created_by: Claude
-status: complete
+title: Social Systems   Faction Reputation
+type: Mechanics
 tags:
-- both worlds
-- campaign/session
-- complete
-- content/faction
-- content/mechanics
-- mechanics
 - mechanics/social
 - reputation
+- campaign/session
 - status/complete
+- content/faction
+- mechanics
+- both worlds
+- research
 - world/both
-type: Mechanics
+- active
+- complete
+- content/mechanics
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+created_by: Claude
 updated: '2025-08-13T12:34:17.788624+00:00'
 world: Both Worlds
 ---
+
 
 
 
@@ -344,3 +351,8 @@ Legends speak of Faction Reputation as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

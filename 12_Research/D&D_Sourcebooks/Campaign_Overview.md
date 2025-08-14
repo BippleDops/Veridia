@@ -1,15 +1,22 @@
+# Campaign_Overview
+
 ---
-created: '2025-08-13'
-status: active
+title: Campaign Overview
+type: Campaign
 tags:
-- campaign/seven-shards
-- epic-arc
+- research
 - world/both
 - status/active
-type: Campaign
+- active
+- epic-arc
+- campaign/seven-shards
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T16:45:00.000000'
 world: Both
 ---
+
 
 # The Seven Shards Campaign
 *An Epic Cross-Realm Adventure*
@@ -239,3 +246,7 @@ Each shard's influence creates specific mechanical effects:
 - [[Ancient Artifacts System]] - Magical item rules
 - [[Reality Merger Mechanics]] - World-crossing rules
 - [[Seven Shards Quick Reference]] - GM screen content
+
+## Related
+
+*Links to related content will be added here.*

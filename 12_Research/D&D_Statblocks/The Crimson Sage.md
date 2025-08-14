@@ -1,14 +1,20 @@
+# The Crimson Sage
+
 ---
+title: The Crimson Sage
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 world: Both
 updated: '2025-08-13T01:18:36.964763+00:00'
-created: '2025-08-11'
-status: active
-tags:
-- active
-- both
-- npc
-type: NPC
 ---
+
 
 
 
@@ -437,3 +443,8 @@ Legends speak of The Crimson Sage as a nexus where past and present converge. Lo
 - [[Professor Aldric Crystalweaver]]
 - [[Quest - Divine Intervention]]
 - [[The Whispering Expanse]]
+
+
+## Related
+
+*Links to related content will be added here.*

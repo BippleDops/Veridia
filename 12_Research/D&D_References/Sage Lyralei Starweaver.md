@@ -1,14 +1,20 @@
+# Sage Lyralei Starweaver
+
 ---
-updated: '2025-08-13T01:18:36.180955+00:00'
-created: '2025-08-11'
-tags:
-- aethermoor
-- category/place
-- complete
-- location
-status: complete
-world: Aethermoor
+title: Sage Lyralei Starweaver
 type: location
+tags:
+- category/place
+- research
+- active
+- location
+- complete
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+updated: '2025-08-13T01:18:36.180955+00:00'
+world: Aethermoor
 obsidianUIMode: preview
 accessibility:
   screen_reader_summary: Sage Lyralei Starweaver is a notable location in Aethermoor
@@ -23,6 +29,7 @@ accessibility:
   - X-Card
   - Open Door
 ---
+
 
 
 
@@ -91,3 +98,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Master Artificer Korvin Gearwright]]
 - [[Crystalhaven]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- crystal-enhanced
-- aethermoor
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/aethermoor
+title: Central Crystal Processing Plant
 type: Lore
+tags:
+- lore
+- content/lore
+- world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.489605+00:00'
 world: Aethermoor
 ---
+
 
 
 ## Overview

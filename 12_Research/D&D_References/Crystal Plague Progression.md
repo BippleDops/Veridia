@@ -1,18 +1,25 @@
+# Crystal Plague Progression
+
 ---
-created: '2025-08-11'
-obsidianUIMode: preview
-status: complete
+title: Crystal Plague Progression
+type: Mechanics
 tags:
 - aquabyssos
-- complete
-- content/mechanics
-- mechanics
 - status/complete
+- mechanics
+- research
+- active
+- complete
 - world/aquabyssos
-type: Mechanics
+- content/mechanics
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.779210+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -76,3 +83,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Comprehensive-World-Connection-Guide]]
 - [[Depth Adaptation System]]
 - [[Aethermoor - Session 04 The Silverscale Gambit]]
+
+
+## Related
+
+*Links to related content will be added here.*

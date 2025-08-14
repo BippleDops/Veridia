@@ -1,34 +1,39 @@
 ---
+title: Tenebrarum
+type: Npc
+tags:
+- aquabyssos
+- mysterious
+- ambassador
+- status/complete
+- extraplanar
+- npc
+- content/lore
+- shadows
+- content/npc
+- character
+- active
+- complete
+- world/aquabyssos
+- void
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+race: Void-Touched Humanoid (Original Race Unknown)
+class: Warlock/Diplomat/Aberrant
+location: Embassy of Emptiness, Deep Parliament District
+level: 18
 MyCategory: Unknown
 MyContainer: None
 alignment: Lawful Neutral (Void Perspective)
-class: Warlock/Diplomat/Aberrant
-created: '2025-08-08'
 created_by: auto-stub
 faction: The Void Realms (Ambassador)
-level: 18
-location: Embassy of Emptiness, Deep Parliament District
 obsidianUIMode: preview
-race: Void-Touched Humanoid (Original Race Unknown)
-status: complete
 status_condition: Active, Negotiating
-tags:
-- ambassador
-- aquabyssos
-- complete
-- content/lore
-- content/npc
-- extraplanar
-- mysterious
-- npc
-- shadows
-- status/complete
-- void
-- world/aquabyssos
-type: Npc
 updated: '2025-08-13T12:34:17.644697+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -70,7 +75,13 @@ Tenebrarum is the official ambassador from the Void Realms to [[Aquabyssos]], re
 - Surrounding temperature drops significantly
 - Reality seems to thin in their immediate vicinity
 
-## Personality & Diplomacy
+## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more calculating
+- **When Pleased**: Shows quiet pride
+- **In Conflict**: Tends toward manipulation
+ & Diplomacy
 
 ### Core Traits
 - **Infinitely Patient**: Operates on timescales mortals cannot comprehend
@@ -322,6 +333,135 @@ Tenebrarum is the official ambassador from the Void Realms to [[Aquabyssos]], re
 - Managing the diplomatic chaos of reality collision
 - Creating frameworks for merged-world governance
 
+
+
+## Appearance
+
+Tenebrarum presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Background
+
+Tenebrarum's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Maintaining balance
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Tenebrarum harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Secret alliance
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Peppered with idioms
+
+**Physical Habits**: Gestures expressively
+
+## Current Activities
+
+Tenebrarum is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Tenebrarum needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Tenebrarum stopped or removed
+3. **The Secret**: Information about Tenebrarum's past surfaces
+4. **The Alliance**: Opportunity to work with or against Tenebrarum
+5. **The Crisis**: Tenebrarum is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 
 ### Using Tenebrarum
@@ -386,6 +526,13 @@ Tenebrarum is the official ambassador from the Void Realms to [[Aquabyssos]], re
 
 *"In the end, all things return to the void. I merely negotiate the terms of their journey."*
 
+
+
+
+## Relationship Web
+
+- [[Sirens]]: *informant*
+- [[04_Resources_Assets_Portraits_portrait-npc-director-of-experimental-procedures-dr-siren-voidtouch-director-of-experimental-procedures-dr-siren-voidtouch.svg]]: *competitor*
 
 ## Connections
 

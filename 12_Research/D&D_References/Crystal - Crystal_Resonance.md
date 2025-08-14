@@ -1,21 +1,27 @@
+# Crystal - Crystal_Resonance
+
 ---
 title: Crystal Resonance Transformation
 type: mechanics
 tags:
-- body-horror
+- progression
 - both
-- complete
 - crystal
+- body-horror
 - magic-enhancement
 - mechanics
-- progression
 - resonance
+- research
+- active
+- complete
 - transformation
-status: complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:37.132487+00:00'
 world: Both
 ---
+
 
 
 # Crystal Resonance Transformation Path

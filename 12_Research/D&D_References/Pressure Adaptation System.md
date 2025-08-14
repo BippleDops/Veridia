@@ -1,25 +1,32 @@
+# Pressure Adaptation System
+
 ---
+title: Pressure Adaptation System
+type: Lore
 tags:
-- aquabyssos
-- bio-mechanical
-- complete
-- depth-survival
-- engineering
-- innovation
-- life-support
 - lore
-- pressure-adaptation
-- pressure-regulation
+- aquabyssos
 - technology
+- depth-survival
+- innovation
+- pressure-regulation
+- engineering
+- research
+- active
+- complete
+- pressure-adaptation
+- bio-mechanical
+- life-support
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 category: Bio-Mechanical Technology
 significance: Critical Infrastructure
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 

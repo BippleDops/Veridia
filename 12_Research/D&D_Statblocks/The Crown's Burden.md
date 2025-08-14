@@ -1,13 +1,21 @@
+# The Crown's Burden
+
 ---
+title: The Crown's Burden
+type: Lore
 tags:
-- active
-- aethermoor
-- curse
 - lore
-- moral-choice
 - psychological
-- quest
 - royalty
+- moral-choice
+- quest
+- research
+- active
+- curse
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: active
 quest_status: Available
 quest_priority: High
 quest_type: Character Quest
@@ -17,14 +25,12 @@ quest_giver: Queen Seraphina Lumengarde
 rewards: Royal Blessing, Curse Removal, Ancient Knowledge
 time_limit: Before the Queen's Mind Breaks (21 days)
 created_by: system
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.473763+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
-status: active
-type: Lore
 ---
+
 
 
 

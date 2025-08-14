@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/location
-- content/lore
-- lore
-- status/in-progress
-- world/aquabyssos
+title: Leviathan
 type: Lore
+tags:
+- lore
+- aquabyssos
+- world/aquabyssos
+- content/lore
+- content/location
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:28.837189+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -45,15 +49,38 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Azure Citadel]]
+- [[Azure Citadel]]
 
 
 ## Connections
 
 - [[12_Research/D&D_Statblocks/Abyssos Prime - Inverse Palace]]
-- [[12_Research/D&D_References/Angels and Depths]]
-- [[12_Research/D&D_References/Azure Citadel]]
+- [[Angels and Depths]]
+- [[Azure Citadel]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

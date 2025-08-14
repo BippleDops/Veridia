@@ -1,16 +1,22 @@
+# The Portal Wars
+
 ---
+title: The Portal Wars
+type: Location
 tags:
-- active
 - dimensional nexus (both realms)
 - dimensional-nexus-(both-realms)
+- research
+- active
 - location
-type: Location
-world: Dimensional Nexus (Both Realms)
-status: active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Dimensional Nexus (Both Realms)
 updated: '2025-08-13T01:18:36.329820+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-portal-wars-the-portal-wars.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Floating Market]]
+
+
+## Related
+
+*Links to related content will be added here.*

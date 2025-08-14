@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Professor Euclid Mindmaze.png
+aliases:
+- Professor Euclid Mindmazepng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Art/Lore/Professor_Euclid_Mindmaze.png
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Professor Euclid Mindmaze]]
+- [[Professor Euclid Mindmaze]]
 - [[02_Worldbuilding/Lore/Professor Euclid Mindmaze]]
 
 ## Notes

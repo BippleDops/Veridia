@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: The Crystal Forge Guild
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+![02_Worldbuilding/Factions/The Crystal Forge Guild](../../../../04_Resources/Assets/Generated/Misc/02_worldbuilding_factions_the_crystal_forge_guild.png)
+
+
 
 # 02_Worldbuilding/Factions/The Crystal Forge Guild
 
@@ -24,7 +34,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/System Cli Items Weapons]]
+- [[System Cli Items Weapons]]
 
 ## Notes
 
@@ -35,3 +45,7 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[Foreign Trader Captain Hassan al-Rimal]]

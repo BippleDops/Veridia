@@ -1,15 +1,21 @@
+# Master Gardener Sage Harmony Bloomtender
+
 ---
-tags:
-- active
-- both
-- location
+title: Master Gardener Sage Harmony Bloomtender
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.567205+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-master-gardener-sage-harmony-bloomtender-master-gardener-sage-harmony-bloomtender.svg]]
@@ -66,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Palace Courtyard - Crystal Garden]]
+
+
+## Related
+
+*Links to related content will be added here.*

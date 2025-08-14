@@ -1,23 +1,30 @@
+# The Shadow Warren
+
 ---
+title: The Shadow Warren
+type: NPC
 tags:
-- aethermoor
-- complete
-- leader
+- underground
 - mysterious
 - network
-- npc
 - shadow-corruption
-- underground
+- leader
+- npc
+- research
+- active
+- complete
+- aethermoor
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: NPC
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Shadow Network Leader
 obsidianUIMode: preview
 updated: '2025-08-12T00:00:00+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-shadow-warren-the-shadow-warren.svg]]
@@ -363,3 +370,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Shadow Warren|02 Worldbuilding/People/The Shadow Warren]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

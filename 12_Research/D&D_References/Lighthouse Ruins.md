@@ -1,29 +1,36 @@
+# Lighthouse Ruins
+
 ---
-tags:
-- aethermoor
-- beacon
-- coastal
-- complete
-- destruction
-- haunted
-- lighthouse
-- location
-- lore
-- maritime
-- ruins
-- tragedy
-status: complete
-world: Aethermoor
+title: Lighthouse Ruins
 type: Lore
-created_by: auto-stub
+tags:
+- lore
+- destruction
+- coastal
+- lighthouse
+- ruins
+- research
+- maritime
+- beacon
+- haunted
+- active
+- location
+- complete
+- tragedy
+- aethermoor
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Aethermoor Coast
+world: Aethermoor
+created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 location_type: Ruined Lighthouse
-region: Aethermoor Coast
 significance: Former Navigation Aid
 accessibility: Dangerous
 current_status: Abandoned Ruins
 ---
+
 
 
 
@@ -322,3 +329,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

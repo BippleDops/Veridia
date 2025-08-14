@@ -1,3 +1,15 @@
+# PLAYER_HANDBOOK
+
+---
+title: PLAYER HANDBOOK
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # CORDELIA PLAYER HANDBOOK
 
 **Version**: 1.0 | **Updated**: August 13, 2025  
@@ -732,3 +744,7 @@ Build meaningful relationships that evolve over time:
 **Last Updated**: August 13, 2025  
 **Version**: 1.0  
 **Next Review**: Post-Campaign Feedback
+
+## Related
+
+*Links to related content will be added here.*

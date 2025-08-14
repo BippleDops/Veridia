@@ -1,14 +1,21 @@
+# Session_Feedback_Form
+
 ---
-created: '2025-08-13'
-status: complete
+title: Session Feedback Form
+type: Feedback Form
 tags:
-- player/feedback
 - session/review
 - campaign/improvement
-type: Feedback Form
+- research
+- player/feedback
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Session Feedback Form
 ## Help improve your campaign experience
@@ -238,3 +245,7 @@ SHARING PREFERENCES:
 
 *Thank you for taking the time to provide feedback!*
 *Your input helps make the game better for everyone.*
+
+## Related
+
+*Links to related content will be added here.*

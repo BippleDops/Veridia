@@ -1,16 +1,23 @@
+# Session_03_Memories_Lost_and_Found
+
 ---
-created: '2025-08-13'
-status: active
-tags:
-- session/seven-shards
-- act-1
-- world/both
-- memory-manipulation
-- status/active
+title: Session 03 Memories Lost and Found
 type: Session
+tags:
+- memory-manipulation
+- act-1
+- research
+- world/both
+- status/active
+- session/seven-shards
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T16:45:00.000000'
 world: Both
 ---
+
 
 # Session 3: Memories Lost and Found
 *The Seven Shards Campaign - Act I*
@@ -348,3 +355,7 @@ Based on how the heroes handle the memory crisis, they either gain Queen Seraphi
 - [[Queen Seraphina Lumengarde]] - full character profile
 - [[Deepwater Palace]] - complete location guide
 - [[Memory Storm Random Events]]
+
+## Related
+
+*Links to related content will be added here.*

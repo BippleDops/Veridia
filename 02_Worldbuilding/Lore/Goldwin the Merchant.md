@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aethermoor
-- complete
-- content/lore
-- historical-event
-- lore
-- status/in-progress
-- world/aethermoor
+title: Goldwin the Merchant
 type: Lore
+tags:
+- lore
+- historical-event
+- content/lore
+- world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.295279+00:00'
 world: Aethermoor
 ---
+
 
 
 ## Overview
@@ -41,12 +45,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Shattering of the Crown]]
+- [[The Shattering of the Crown]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/The Shattering of the Crown]]
+- [[The Shattering of the Crown]]
 
 
 ## Related

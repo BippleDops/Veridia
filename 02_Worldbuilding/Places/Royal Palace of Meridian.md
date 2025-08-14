@@ -1,22 +1,29 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
-danger_level: Moderate
-status: complete
+title: Royal Palace of Meridian
+type: Location
 tags:
-- aethermoor
-- complete
+- status/complete
+- royal
 - content/faction
 - content/location
-- location
-- palace
-- royal
-- status/complete
+- place
 - world/aethermoor
-type: Location
+- active
+- location
+- complete
+- palace
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+created_by: auto-stub
+danger_level: Moderate
 updated: '2025-08-13T12:34:17.016940+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View
@@ -134,6 +141,27 @@ The Royal Palace of Meridian is the seat of government for the surface kingdom o
 **Royal Hospitality**: Accommodations for important state guests
 **Official Ceremonies**: Formal events marking significant occasions
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 The Royal Palace serves as center for political adventures, diplomatic missions, and court intrigue. Use the complex relationships between nobles, foreign agents, and government officials to create multilayered plots with significant consequences for player choices.
 
@@ -185,3 +213,85 @@ Legends speak of Royal Palace of Meridian as a nexus where past and present conv
 - [[Royal Palace of Meridian]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-chronomancer-paradox-chronomancer-paradox.svg]]
+- [[04_Resources_Assets_Locations_location-city-memorial-district-of-abyssos-prime-memorial-district-of-abyssos-prime.svg]]
+- [[04_Resources_Assets_Locations_location-city-reality-distortion-effects-reality-distortion-effects.svg]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+Royal Palace of Meridian is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Royal Palace of Meridian
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Royal Palace of Meridian:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Royal Palace of Meridian
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

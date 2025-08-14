@@ -1,14 +1,21 @@
+# Pressure_Depth_Survival_Chart
+
 ---
-created: '2025-08-13'
-status: complete
+title: Pressure Depth Survival Chart
+type: Visual Handout
 tags:
 - player/visual
-- mechanics/pressure
 - reference/survival
-type: Visual Handout
+- research
+- active
+- mechanics/pressure
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Aquabyssos
 ---
+
 
 # Pressure Depth Survival Chart
 ## Essential Guide for Surface Dwellers
@@ -190,3 +197,7 @@ From 50-200 fathoms:
 *Never descend alone below 200 fathoms*
 *When in doubt, ascend immediately*
 *Your life is worth more than any mission*
+
+## Related
+
+*Links to related content will be added here.*

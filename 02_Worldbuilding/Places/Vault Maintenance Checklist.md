@@ -1,23 +1,30 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
-danger_level: Moderate
-status: complete
+title: Vault Maintenance Checklist
+type: Location
 tags:
 - aquabyssos
-- complete
-- content/location
-- document
-- importance/core
-- location
-- royal-vault
-- security
 - status/complete
+- royal-vault
+- document
+- content/location
+- security
+- place
+- active
+- location
+- complete
 - world/aquabyssos
-type: Location
+- importance/core
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+created_by: auto-stub
+danger_level: Moderate
 updated: '2025-08-13T12:34:17.169838+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -118,6 +125,27 @@ All maintenance activities require dual authentication:
 **Gross Negligence**: Termination, criminal investigation
 **Suspected Corruption**: Immediate arrest, full investigation
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 This document can serve as exposition for vault security, a source of information for heist planning, or evidence in corruption investigations. The detailed procedures show how seriously the kingdom takes vault security.
 
@@ -170,3 +198,86 @@ Legends speak of Vault Maintenance Checklist as a nexus where past and present c
 - [[Vault Maintenance Checklist]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- [[Militant-Priest Abyssal]]
+- [[04_Resources_Assets_Locations_location-city-court-herald-master-proclamation-crownvoice-v1-court-herald-master-proclamation-crownvoice.svg]]
+
+## Trade Routes
+
+- [[Throne Room - Heart of Palace]]
+- [[04_Resources_Assets_Locations_location-city-house-pressureborn-v1-house-pressureborn.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-militant-priest-abyssal-militant-priest-abyssal.svg]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+Vault Maintenance Checklist is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Vault Maintenance Checklist
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Vault Maintenance Checklist:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Vault Maintenance Checklist
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

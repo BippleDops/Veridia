@@ -1,23 +1,28 @@
+# Trophy Room
+
 ---
+title: Trophy Room
 aliases:
 - Trophy Room
-created: 2025-07-23
-cssclasses: json5e-bastion
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
+- ttrpg-cli/bastion
+- world/both
+- research
+- active
 - note
 - status/in-progress
-- ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/xdmg
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-bastion
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:05.232400+00:00'
 world: Both
 ---
+
 
 
 # Trophy Room
@@ -58,3 +63,8 @@ Legends speak of trophy room as a nexus where past and present converge. Locals 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

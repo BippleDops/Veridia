@@ -1,3 +1,15 @@
+# social_encounter_frameworks
+
+---
+title: social encounter frameworks
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Social Encounter Frameworks
 
 ## Systematic Approaches to Non-Combat Challenges
@@ -182,3 +194,7 @@ Effective social encounters show:
 - **Replayability**: Social encounters can be resolved in multiple interesting ways
 
 *Research methodology: Social psychology studies, 189 social encounter analyses, player engagement measurement*
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,17 +1,24 @@
+# Pressure Point Settlement
+
 ---
+title: Pressure Point Settlement
+type: Place
 tags:
 - border-zone
+- settlement
 - both worlds
 - both-worlds
-- complete
+- research
 - place
-- settlement
-type: Place
-world: Both Worlds
-status: complete
+- active
+- complete
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Both Worlds
 updated: '2025-08-13T01:18:36.554774+00:00'
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-pressure-point-settlement-pressure-point-settlement.svg]]
@@ -227,3 +234,8 @@ Legends speak of Pressure Point Settlement as a nexus where past and present con
 - [[Pressure Point Settlement|02 Worldbuilding/Places/Pressure Point Settlement]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

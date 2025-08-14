@@ -1,15 +1,21 @@
+# The Trade Quarter
+
 ---
-tags:
-- active
-- aquabyssos
-- location
+title: The Trade Quarter
 type: Location
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.522188+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-trade-quarter-the-trade-quarter.svg]]
@@ -67,3 +73,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Smuggler]]
 - [[Traveling Merchant Finn]]
+
+
+## Related
+
+*Links to related content will be added here.*

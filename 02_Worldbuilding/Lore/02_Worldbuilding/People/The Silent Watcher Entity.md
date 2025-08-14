@@ -1,13 +1,22 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: The Silent Watcher Entity
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- npc
+- character
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+race: Unknown
+class: Unknown
+location: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/People/The Silent Watcher Entity
 
@@ -24,9 +33,9 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Silent Watcher]]
-- [[12_Research/D&D_References/The Silent Watcher]]
-- [[12_Research/D&D_References/The Silent Watcher]]
+- [[The Silent Watcher]]
+- [[The Silent Watcher]]
+- [[The Silent Watcher]]
 - [[02_Worldbuilding/Places/The Silent Watcher]]
 - [[02_Worldbuilding/Places/The Silent Watcher]]
 - [[02_Worldbuilding/Places/The Silent Watcher]]

@@ -1,15 +1,21 @@
+# Giant Seahorses
+
 ---
-tags:
-- active
-- aquabyssos
-- location
-- lore
+title: Giant Seahorses
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- research
+- active
+- location
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.715347+00:00'
 ---
+
 
 
 
@@ -47,3 +53,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Angels and Depths]]
+
+
+## Related
+
+*Links to related content will be added here.*

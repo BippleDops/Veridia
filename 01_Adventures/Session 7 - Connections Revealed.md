@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 7   Connections Revealed
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 7 - Connections Revealed
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[The Party]]
+- [[04_Resources_Assets_Locations_location-city-master-thorek-crystalhammer-master-thorek-crystalhammer.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-dockworkers-union-dockworkers-union.svg]]
+- [[04_Resources_Assets_Locations_location-city-harbor-master-s-tower-harbor-master-s-tower.png]]
+- [[Memory Harvester Kythara]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-divine-communication-studies-v1-divine-communication-studies.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-missing-diplomat-the-missing-diplomat.svg]]
+- [[Port Shadowmere]]

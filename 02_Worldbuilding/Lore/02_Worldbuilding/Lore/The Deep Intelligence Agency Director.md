@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: The Deep Intelligence Agency Director
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Lore/The Deep Intelligence Agency Director
 
@@ -24,8 +28,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Forgetting Bomb]]
-- [[12_Research/D&D_References/The Forgetting Bomb]]
+- [[The Forgetting Bomb]]
+- [[The Forgetting Bomb]]
 - [[02_Worldbuilding/Lore/The Forgetting Bomb]]
 - [[02_Worldbuilding/Lore/The Forgetting Bomb]]
 

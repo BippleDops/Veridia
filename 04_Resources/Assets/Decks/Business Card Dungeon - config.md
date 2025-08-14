@@ -1,10 +1,20 @@
+# Business Card Dungeon - config
+
 ---
-type: Lore
-status: draft
-tags: []
+title: Business Card Dungeon   config
 aliases: []
+type: Lore
+tags:
+- active
+- resource
 created: '2025-07-23'
+modified: '2025-08-14'
+status: draft
 updated: '2025-07-23T00:00:00+00:00'
-modified: 2025-07-23 12:39
 ---
+
 flip4
+
+## Related
+
+*Links to related content will be added here.*

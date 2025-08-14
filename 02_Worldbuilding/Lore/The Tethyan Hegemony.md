@@ -1,27 +1,31 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
-expanded: 2025-08-10
-status: complete
+title: The Tethyan Hegemony
+type: Lore
 tags:
-- combat
-- quest
-- crystal-enhanced
-- aquatic
 - ancient-civilizations
 - aquabyssos
-- complete
-- content/lore
-- empires
-- historical-events
 - lore
-- politics
+- historical-events
+- empires
 - status/complete
+- aquatic
+- quest
+- content/lore
+- active
+- combat
+- complete
 - world/aquabyssos
-type: Lore
+- politics
+- crystal-enhanced
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+created_by: auto-stub
+expanded: 2025-08-10
 updated: '2025-08-13T12:34:15.719439+00:00'
 world: Aquabyssos
 ---
+
 
 
 # The Tethyan Hegemony
@@ -482,19 +486,19 @@ Magical researchers have detected "temporal echoes" of Tethyan Hegemony events r
 
 ## Connected References
 
-- [[12_Research/D&D_References/Tethys the Sea-Walker]] - Legendary founder and first emperor
-- [[12_Research/D&D_References/Crystal Palace Complex]] - Major archaeological site and imperial capital
-- [[12_Research/D&D_References/Council of Admiralties]] - Government structure model for modern Aquabyssos
-- [[12_Research/D&D_References/Seven Fleets System]] - Military organization influencing current naval structure
-- [[12_Research/D&D_References/Deep Current Network]] - Ancient magical transportation system
+- [[Tethys the Sea-Walker]] - Legendary founder and first emperor
+- [[Crystal Palace Complex]] - Major archaeological site and imperial capital
+- [[Council of Admiralties]] - Government structure model for modern Aquabyssos
+- [[Seven Fleets System]] - Military organization influencing current naval structure
+- [[Deep Current Network]] - Ancient magical transportation system
 - [[Imperial Chronicle of Deep History]] - Historical records and documentation
-- [[12_Research/D&D_References/Ocean Pantheon]] - Religious system with continuing influence
-- [[12_Research/D&D_References/Great Preparation]] - Final period survival planning
-- [[12_Research/D&D_References/Emperor Abyssal the Deep-Sighted]] - Ruler who prepared for the Great Drowning
-- [[12_Research/D&D_References/Emperor Pelagic the Last]] - Final ruler of the Hegemony
-- [[12_Research/D&D_References/Lost Fleet]] - Hidden naval forces potentially still existing
-- [[12_Research/D&D_References/Deep Archives]] - Sealed repository of Hegemony knowledge
-- [[12_Research/D&D_References/Continuity Protocol]] - Secret plan for imperial restoration
+- [[Ocean Pantheon]] - Religious system with continuing influence
+- [[Great Preparation]] - Final period survival planning
+- [[Emperor Abyssal the Deep-Sighted]] - Ruler who prepared for the Great Drowning
+- [[Emperor Pelagic the Last]] - Final ruler of the Hegemony
+- [[Lost Fleet]] - Hidden naval forces potentially still existing
+- [[Deep Archives]] - Sealed repository of Hegemony knowledge
+- [[Continuity Protocol]] - Secret plan for imperial restoration
 - [[Imperial Museum of Deep History]] - Modern repository of Tethyan artifacts
 - [[Maritime Research Institute]] - Academic institution studying Hegemony legacy
 
@@ -517,7 +521,7 @@ The Hegemony's legacy ensures that the past remains a living force in Aquabyssos
 
 ## Connections
 
-- [[12_Research/D&D_References/Thalassius the Wise]]
+- [[Thalassius the Wise]]
 
 ## Player-Facing Summary
 
@@ -535,8 +539,31 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Thalassius the Wise]]
+- [[Thalassius the Wise]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

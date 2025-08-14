@@ -1,24 +1,31 @@
+# The Seven Shards Mystery
+
 ---
+title: The Seven Shards Mystery
+type: Location
 tags:
+- lore
 - aquabyssos
+- mystery
+- crystals
+- research
+- active
+- location
 - complete
 - conspiracy
-- crystals
-- location
-- lore
-- mystery
 - seven_shards
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-11'
 MyContainer: None
 MyCategory: Mystery
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.077176+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -202,3 +209,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Seven Shards Mystery|02 Worldbuilding/Places/The Seven Shards Mystery]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

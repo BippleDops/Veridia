@@ -1,36 +1,42 @@
 ---
+title: Parliament of Echoes
+type: Location
+tags:
+- both
+- aerial
+- world/aquabyssos
+- aquatic
+- political
+- quest
+- world/both
+- content/location
+- place
+- active
+- combat
+- complete
+- horror
+- location
+- status/in-progress
+- temporal
+- shadow-touched
+- crystal-enhanced
+created: 2025-08-07 - Category/Place
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: ~500 (plus countless echoes)
 MyCategory: Unknown
 MyContainer: None
-continent: '[[12_Research/D&D_References/Abyssos Prime]]'
-created: 2025-08-07 - Category/Place
+continent: '[[Abyssos Prime]]'
 danger_level: High (Political)
 depth: 1,500-2,000 feet
 location_type: Government Building
 magical_phenomena: Temporal Overlap, Echo Persistence
 obsidianUIMode: preview
-population: ~500 (plus countless echoes)
-status: complete
-tags:
-- combat
-- quest
-- crystal-enhanced
-- shadow-touched
-- aerial
-- aquatic
-- both
-- complete
-- content/location
-- horror
-- location
-- political
-- status/in-progress
-- temporal
-- world/aquabyssos
-- world/both
-type: Location
 updated: '2025-08-13T12:34:16.857896+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -76,7 +82,7 @@ The Parliament of Echoes serves as Aquabyssos's theoretical government, where gh
   - Central podium exists in all timelines
   - Faction seating that shifts with alliances
   - The Speaker's Throne (empty for 200 years)
-- **NPCs**: [[12_Research/D&D_References/Senator Glaucus]], [[12_Research/D&D_References/Time-Lost Delegate Chronus]]
+- **NPCs**: [[Senator Glaucus]], [[Time-Lost Delegate Chronus]]
 
 #### Level 3: The Vote Vaults
 
@@ -95,7 +101,7 @@ The Parliament of Echoes serves as Aquabyssos's theoretical government, where gh
   - Memory pools (can trade memories)
   - Identity mirrors (show who you forgot you were)
   - The Archive of the Unremembered
-- **Inhabitants**: [[12_Research/D&D_References/The Forgotten Representative]]
+- **Inhabitants**: [[The Forgotten Representative]]
 
 #### Level 5: The Foundation Depths
 
@@ -121,7 +127,7 @@ The Parliament of Echoes serves as Aquabyssos's theoretical government, where gh
 
 - **Belief**: Evolution to aquatic forms is destiny
 - **Seats**: 52
-- **Leader**: [[12_Research/D&D_References/Duke Cyrus Reefheart]]
+- **Leader**: [[Duke Cyrus Reefheart]]
 - **Goal**: Accelerate adaptation process
 
 #### The Returners
@@ -142,7 +148,7 @@ The Parliament of Echoes serves as Aquabyssos's theoretical government, where gh
 
 - **Belief**: Unknown (they forgot)
 - **Seats**: Variable (members forget they're members)
-- **Leader**: [[12_Research/D&D_References/The Forgotten Representative]]
+- **Leader**: [[The Forgotten Representative]]
 - **Goal**: Forgotten (but they still pursue it)
 
 ### Shadow Parliament
@@ -151,7 +157,7 @@ A parallel body of shadows that meets in the same space but different phase:
 - Passes shadow legislation
 - Votes on original replacement
 - Planning the Dark Harvest
-- Led by [[12_Research/D&D_References/Senator Glaucus]]
+- Led by [[Senator Glaucus]]
 
 ## ⚔️ Encounters & Challenges
 
@@ -217,7 +223,7 @@ A parallel body of shadows that meets in the same space but different phase:
 - Shows all possible vote outcomes
 - Senators can see consequences before voting
 - Paradox: Seeing outcome changes outcome
-- Guarded by [[12_Research/D&D_References/Time-Lost Delegate Chronus]]
+- Guarded by [[Time-Lost Delegate Chronus]]
 
 ## 📅 Events & Schedules
 
@@ -296,23 +302,23 @@ Something is imprisoned in Level 5. The seal weakens each time Parliament fails 
 
 ### NPCs
 
-- [[12_Research/D&D_References/Senator Glaucus]] - Current senator
-- [[12_Research/D&D_References/The Scattered Emperor]] - Observes through eels
-- [[12_Research/D&D_References/Shadow Duchess Nyx]] - Investigating shadows
-- [[12_Research/D&D_References/Time-Lost Delegate Chronus]] - Temporal guardian
+- [[Senator Glaucus]] - Current senator
+- [[The Scattered Emperor]] - Observes through eels
+- [[Shadow Duchess Nyx]] - Investigating shadows
+- [[Time-Lost Delegate Chronus]] - Temporal guardian
 
 ### Locations
 
-- [[12_Research/D&D_References/Abyssos Prime]] - Parent city
-- [[12_Research/D&D_References/The Inverse Palace]] - Emperor's seat
+- [[Abyssos Prime]] - Parent city
+- [[The Inverse Palace]] - Emperor's seat
 - [[12_Research/D&D_Statblocks/The Memory Meadows]] - Memory trade source
-- [[12_Research/D&D_References/Tenebrarum]] - Shadow Parliament origin
+- [[Tenebrarum]] - Shadow Parliament origin
 
 ### Campaigns
 
 - [[01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign|01 Campaigns/Aquabyssos/The Parliament Of Shadows Campaign]]
-- [[12_Research/D&D_References/Political Intrigue of Meridian]]
-- [[12_Research/D&D_References/The Seven Shards Mystery]]
+- [[Political Intrigue of Meridian]]
+- [[The Seven Shards Mystery]]
 
 ## 📝 DM Notes
 
@@ -353,83 +359,83 @@ Something is imprisoned in Level 5. The seal weakens each time Parliament fails 
 
 ## Connections
 
-- [[12_Research/D&D_References/Lord Vexton Shadowmere]]
-- [[12_Research/D&D_References/Party Shadows]]
-- [[12_Research/D&D_References/Shadow Independence Levels]]
-- [[12_Research/D&D_References/Shadow Surgeons Collective]]
-- [[12_Research/D&D_References/Stop the Shadow Harvest]]
-- [[12_Research/D&D_References/The Shadow Trade Network]]
-- [[12_Research/D&D_References/The Shadow War Coalition]]
-- [[12_Research/D&D_References/Discover Marina's Truth]]
-- [[12_Research/D&D_References/Evidence Chain Analysis]]
-- [[12_Research/D&D_References/Fear Farms]]
-- [[12_Research/D&D_References/Thalassius the Wise]]
-- [[12_Research/D&D_References/The Convergence Point]]
-- [[12_Research/D&D_References/The Emperor's Gambit]]
-- [[12_Research/D&D_References/The Final Choice]]
-- [[12_Research/D&D_References/The Senator's Last Stand]]
-- [[12_Research/D&D_References/Timeline of the Drowning]]
-- [[12_Research/D&D_References/United Councils of Both Worlds]]
+- [[Lord Vexton Shadowmere]]
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Shadow Surgeons Collective]]
+- [[Stop the Shadow Harvest]]
+- [[The Shadow Trade Network]]
+- [[The Shadow War Coalition]]
+- [[Discover Marina's Truth]]
+- [[Evidence Chain Analysis]]
+- [[Fear Farms]]
+- [[Thalassius the Wise]]
+- [[The Convergence Point]]
+- [[The Emperor's Gambit]]
+- [[The Final Choice]]
+- [[The Senator's Last Stand]]
+- [[Timeline of the Drowning]]
+- [[United Councils of Both Worlds]]
 - [[Ω_System-CLI-spells-school-divination|Ω System CLI Spells School Divination]]
 - [[12_Research/D&D_Statblocks/Abyssal Cathedral]]
-- [[12_Research/D&D_References/Tenebrarum]]
+- [[Tenebrarum]]
 - [[12_Research/D&D_Statblocks/The Cerulean Breath]]
 - [[12_Research/D&D_Statblocks/The Current Merchants]]
-- [[12_Research/D&D_References/The Senator]]
+- [[The Senator]]
 - [[12_Research/D&D_Statblocks/Throne of Bubbles]]
-- [[12_Research/D&D_References/Aboleth Adjunct Yzz]]
-- [[12_Research/D&D_References/Abyssos Prime - Pressure Terminal]]
-- [[12_Research/D&D_References/Abyssos Prime Docks]]
-- [[12_Research/D&D_References/Ambassador Lysandra Silvertonge]]
-- [[12_Research/D&D_References/Amnesia Gallery]]
-- [[12_Research/D&D_References/Angels and Depths]]
-- [[12_Research/D&D_References/Anti-Priest Nullus]]
-- [[12_Research/D&D_References/Azure Citadel]]
-- [[12_Research/D&D_References/Barkeep Mira Algaebrew]]
-- [[12_Research/D&D_References/Captain Echo]]
-- [[12_Research/D&D_References/Chef Gastropod]]
-- [[12_Research/D&D_References/Doctor Coral Shapeshift]]
+- [[Aboleth Adjunct Yzz]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Abyssos Prime Docks]]
+- [[Ambassador Lysandra Silvertonge]]
+- [[Amnesia Gallery]]
+- [[Angels and Depths]]
+- [[Anti-Priest Nullus]]
+- [[Azure Citadel]]
+- [[Barkeep Mira Algaebrew]]
+- [[Captain Echo]]
+- [[Chef Gastropod]]
+- [[Doctor Coral Shapeshift]]
 - [[12_Research/D&D_Statblocks/Forge of War]]
-- [[12_Research/D&D_References/Innkeeper Marina Dreamwhisper]]
-- [[12_Research/D&D_References/Keeper of Contracts Minerva Bindingword]]
-- [[12_Research/D&D_References/Keeper of the Past, Elderly Morgan]]
-- [[12_Research/D&D_References/Lord Reginald Seaworthy]]
+- [[Innkeeper Marina Dreamwhisper]]
+- [[Keeper of Contracts Minerva Bindingword]]
+- [[Keeper of the Past, Elderly Morgan]]
+- [[Lord Reginald Seaworthy]]
 - [[12_Research/D&D_Statblocks/Luminous Hollow]]
-- [[12_Research/D&D_References/Mad Oracle Thessaly]]
+- [[Mad Oracle Thessaly]]
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[12_Research/D&D_References/Mediator Serenity Stillwater]]
-- [[12_Research/D&D_References/Merchant Prince Akula]]
+- [[Mediator Serenity Stillwater]]
+- [[Merchant Prince Akula]]
 - [[12_Research/D&D_Statblocks/Merchant Viktor Geargrind]]
-- [[12_Research/D&D_References/Mourning Depths]]
-- [[12_Research/D&D_References/Navigator Flux]]
-- [[12_Research/D&D_References/Old Sally Seasprayer]]
-- [[12_Research/D&D_References/Parliament of Echoes - Public Gallery]]
-- [[12_Research/D&D_References/Port Meridian Harbor]]
+- [[Mourning Depths]]
+- [[Navigator Flux]]
+- [[Old Sally Seasprayer]]
+- [[Parliament of Echoes - Public Gallery]]
+- [[Port Meridian Harbor]]
 - [[12_Research/D&D_Statblocks/Quest - The Truth Unveiled]]
-- [[12_Research/D&D_References/Reflection Pools - Surgical Theater]]
-- [[12_Research/D&D_References/Royal Palace]]
-- [[12_Research/D&D_References/Seamstress Coral Silkweaver]]
+- [[Reflection Pools - Surgical Theater]]
+- [[Royal Palace]]
+- [[Seamstress Coral Silkweaver]]
 - [[12_Research/D&D_Statblocks/Senator's Private Chambers]]
-- [[12_Research/D&D_References/Shadow Merchant Riptide]]
-- [[12_Research/D&D_References/Sister Morwyn]]
-- [[12_Research/D&D_References/Surface Tensions]]
-- [[12_Research/D&D_References/The Depth Market]]
-- [[12_Research/D&D_References/The Forgotten One]]
+- [[Shadow Merchant Riptide]]
+- [[Sister Morwyn]]
+- [[Surface Tensions]]
+- [[The Depth Market]]
+- [[The Forgotten One]]
 - [[12_Research/D&D_Statblocks/The Foundation Depths]]
-- [[12_Research/D&D_References/The Free Current]]
-- [[12_Research/D&D_References/The Frozen Throne]]
-- [[12_Research/D&D_References/The Gilded Shard]]
-- [[12_Research/D&D_References/The Living Weapon]]
-- [[12_Research/D&D_References/The Neutral Current Tavern]]
-- [[12_Research/D&D_References/The Neutral Ground]]
-- [[12_Research/D&D_References/The Royal Palace]]
-- [[12_Research/D&D_References/The Shadow Markets]]
-- [[12_Research/D&D_References/The Shrinking Sanctuary]]
-- [[12_Research/D&D_References/The Sinking Atoll]]
+- [[The Free Current]]
+- [[The Frozen Throne]]
+- [[The Gilded Shard]]
+- [[The Living Weapon]]
+- [[The Neutral Current Tavern]]
+- [[The Neutral Ground]]
+- [[The Royal Palace]]
+- [[The Shadow Markets]]
+- [[The Shrinking Sanctuary]]
+- [[The Sinking Atoll]]
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[12_Research/D&D_References/Vault Breach]]
-- [[12_Research/D&D_References/Void Currents]]
-- [[12_Research/D&D_References/Vote Vaults]]
+- [[Vault Breach]]
+- [[Void Currents]]
+- [[Vote Vaults]]
 - [[12_Research/D&D_Statblocks/Crystalline Depths]]
 - [[12_Research/D&D_Statblocks/Find the Grief Bomb]]
 - [[12_Research/D&D_Statblocks/Rescue Senator Glaucus]]
@@ -453,24 +459,140 @@ Legends speak of Parliament of Echoes as a nexus where past and present converge
 - An NPC seeks discreet help at Parliament of Echoes to avert a public scandal.
 - A map overlay reveals a hidden approach to Parliament of Echoes active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[Parliament of Echoes]]
 
 <!-- enriched: true -->
-- [[12_Research/D&D_References/Fortress of the Deeps]]
-- [[12_Research/D&D_References/Queen Seraphina]]
-- [[12_Research/D&D_References/Senator Glaucus]]
-- [[12_Research/D&D_References/Maelstrom Palace]]
-- [[12_Research/D&D_References/The Forgotten Representative]]
-- [[12_Research/D&D_References/The Sunken Library of Thalassius]]
+- [[Fortress of the Deeps]]
+- [[Queen Seraphina]]
+- [[Senator Glaucus]]
+- [[Maelstrom Palace]]
+- [[The Forgotten Representative]]
+- [[The Sunken Library of Thalassius]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
+
+
+## Notable Residents
+
+- [[04_Resources_Assets_Locations_location-city-dream-enhancement-techniques-v1-dream-enhancement-techniques.svg]]
+- [[Otherworldly Pacts]]
+
+## Trade Routes
+
+- [[Abyssos Prime Upper Districts]]
+- [[04_Resources_Assets_Locations_location-city-fire-crystal-v1-fire-crystal.svg]]
+- [[04_Resources_Assets_Locations_location-city-thorek-crystalhammer-v1-thorek-crystalhammer.png]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+Parliament of Echoes is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Parliament of Echoes
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Parliament of Echoes was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Parliament of Echoes:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Parliament of Echoes
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

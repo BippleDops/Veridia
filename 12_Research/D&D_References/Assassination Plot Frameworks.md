@@ -1,19 +1,26 @@
+# Assassination Plot Frameworks
+
 ---
-tags:
-- aquabyssos
-- assassination
-- complete
-- intrigue
-- lore
-- murder
-- plots
-- politics
+title: Assassination Plot Frameworks
 type: Lore
-world: Aquabyssos
-status: complete
+tags:
+- lore
+- aquabyssos
+- plots
+- intrigue
+- assassination
+- research
+- active
+- murder
+- complete
+- politics
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.216966+00:00'
 ---
+
 
 
 # Assassination Plot Frameworks
@@ -386,3 +393,8 @@ Legends speak of Assassination Plot Frameworks as a nexus where past and present
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

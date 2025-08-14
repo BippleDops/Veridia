@@ -1,21 +1,28 @@
 ---
-created: '2025-08-12'
-status: complete
-tags:
-- both
-- complete
-- content/location
-- economy
-- location
-- markets
-- merchant-princes
-- status/complete
-- trade-hubs
-- world/both
+title: Commercial Hubs and Markets
 type: Location
+tags:
+- economy
+- markets
+- both
+- status/complete
+- world/both
+- content/location
+- place
+- active
+- location
+- complete
+- merchant-princes
+- trade-hubs
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 updated: '2025-08-13T12:34:17.193784+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Market Plaza
@@ -541,6 +548,27 @@ Deep-sea traders tell stories of ghost markets that appear during certain tidal 
 - The party discovers that routine purchases from different vendors are secretly coordinated parts of a massive spell or ritual that will trigger when all components are distributed to specific customers across both realms.
 - A series of identical accidents at markets throughout both realms suggests sabotage designed to manipulate trade patterns, but the ultimate goal remains hidden behind layers of seemingly unrelated economic changes.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Use the commercial hubs as dynamic settings that respond to campaign events and player actions. Market conditions can reflect larger political and economic developments while providing immediate opportunities for character interaction, information gathering, and plot advancement.
@@ -549,3 +577,97 @@ The complex web of legitimate and criminal commerce offers numerous opportunitie
 
 Consider how market activities can drive long-term campaign development, with early character actions influencing later economic conditions and creating lasting consequences that extend far beyond immediate adventures.
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-the-royal-palace-the-royal-palace.svg]]
+- [[04_Resources_Assets_Locations_location-city-keeper-deepcurrent-keeper-deepcurrent.svg]]
+- [[04_Resources_Assets_Locations_location-city-screaming-gardens-screaming-gardens.svg]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+Commercial Hubs and Markets is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Commercial Hubs and Markets
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Commercial Hubs and Markets was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Commercial Hubs and Markets:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Commercial Hubs and Markets
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

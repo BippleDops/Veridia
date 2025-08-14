@@ -1,24 +1,29 @@
+# Elven Tethrin Veralde Mtf
+
 ---
+title: Elven Tethrin Veralde Mtf
 aliases:
-- Tethrin Veraldé
-created: 2025-07-23
-cssclasses: json5e-deity
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+- "Tethrin Verald\xE9"
+type: note
 tags:
-- active
 - both
-- importance/core
+- ttrpg-cli/deity/elven
+- research
+- world/both
+- active
+- ttrpg-cli/compendium/src/5e/mtf
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/elven
-- world/both
-type: note
+- importance/core
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-deity
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:04.396250+00:00'
 world: Both
 ---
+
 
 
 # Tethrin Veraldé
@@ -51,3 +56,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
  enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

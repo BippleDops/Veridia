@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: The Pearl Divers Guild
+type: Faction
 tags:
 - aquabyssos
-- complete
+- world/aquabyssos
 - content/faction
 - faction
+- organization
+- active
+- complete
 - status/in-progress
-- world/aquabyssos
-type: Faction
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.461167+00:00'
 world: Aquabyssos
 ---
+
 
 
 ## Overview
@@ -52,3 +59,11 @@ Legends speak of The Pearl Divers Guild 2 as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Known Members
+
+- [[The First King's Diary]]
+- [[Admiral Cassandra Stormwind]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-succession-crisis-the-succession-crisis.svg]]
+- [[04_Resources_Assets_Locations_location-city-innkeeper-marina-dreamwhisper-innkeeper-marina-dreamwhisper.svg]]

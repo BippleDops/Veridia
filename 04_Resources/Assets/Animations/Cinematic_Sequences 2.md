@@ -1,3 +1,15 @@
+# Cinematic_Sequences 2
+
+---
+title: Cinematic Sequences 2
+type: resource
+tags:
+- active
+- resource
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Cinematic Sequences (Video Prompts)
 
 ```json
@@ -86,3 +98,8 @@
   ]
 }
 ```
+
+
+## Related
+
+*Links to related content will be added here.*

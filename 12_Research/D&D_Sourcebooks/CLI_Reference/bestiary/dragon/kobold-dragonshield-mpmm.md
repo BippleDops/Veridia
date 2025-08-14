@@ -1,28 +1,35 @@
+# kobold-dragonshield-mpmm
+
 ---
+title: kobold dragonshield mpmm
 aliases:
 - Kobold Dragonshield
+type: monster
+tags:
+- ttrpg-cli/monster/type/dragon
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/environment/mountain
+- monster
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/compendium/src/5e/mpmm
+- world/both
+- research
+- active
+- ttrpg-cli/monster/environment/forest
+- status/in-progress
+- ttrpg-cli/monster/size/small
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/dragon
-- world/both
-type: monster
 updated: '2025-08-12T23:37:35.759389'
 world: Both
 ---
+
 
 # [[kobold-dragonshield-mpmm|Kobold Dragonshield]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165*  
@@ -118,3 +125,8 @@ Legends speak of kobold dragonshield mpmm as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,26 +1,33 @@
+# Aether Crystals
+
 ---
+title: Aether Crystals
+type: Item
 tags:
-- aethermoor
-- complete
-- currency
-- economic-system
-- item
+- seven-shards-connected
 - magical-currency
 - magical_currency
-- seven-shards-connected
+- research
+- active
+- complete
+- economic-system
+- currency
+- aethermoor
+- item
+created: '2025-08-10'
+modified: '2025-08-14'
 status: complete
-world: Aethermoor
-type: Item
-item_type: Crystallized Magical Energy
 rarity: Common to Legendary (varies by size and purity)
+world: Aethermoor
+item_type: Crystallized Magical Energy
 requires_attunement: No (for basic use)
 affiliation: '[[Queen Seraphina Lumengarde]] (Royal Mint Authority)'
 current_location: Throughout Aethermoor Economic System
 danger_level: 1
 created_by: Claude
-created: '2025-08-10'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -405,3 +412,8 @@ Legends speak of Aether Crystals as a nexus where past and present converge. Loc
 - [[The Drowned Embassy]]
 - [[Crystalline Depths]]
 - [[The Green Death]]
+
+
+## Related
+
+*Links to related content will be added here.*

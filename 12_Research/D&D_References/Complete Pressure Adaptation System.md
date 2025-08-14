@@ -1,23 +1,29 @@
+# Complete Pressure Adaptation System
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- adaptation
-- both
-- complete
-- content/lore
-- content/mechanics
-- content/npc
-- lore
-- status/complete
-- transformation
-- world/aquabyssos
-- world/both
 title: Complete Pressure Adaptation System
 type: Lore
+tags:
+- lore
+- both
+- status/complete
+- content/lore
+- world/both
+- research
+- content/npc
+- active
+- adaptation
+- complete
+- transformation
+- world/aquabyssos
+- content/mechanics
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.785555+00:00'
 world: Both
 ---
+
 
 
 
@@ -1151,3 +1157,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Depth Survival Mechanics]]
+
+
+## Related
+
+*Links to related content will be added here.*

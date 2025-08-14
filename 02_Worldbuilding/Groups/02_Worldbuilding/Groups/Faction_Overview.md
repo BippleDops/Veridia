@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Faction Overview
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+![02_Worldbuilding/Groups/Faction_Overview](../../../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_faction_overview.png)
+
+
 
 # 02_Worldbuilding/Groups/Faction_Overview
 
@@ -24,7 +34,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Party]]
+- [[The Party]]
 - [[02_Worldbuilding/People/The Party]]
 
 ## Notes

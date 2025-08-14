@@ -1,29 +1,36 @@
+# Order of the Shattered Crown
+
 ---
+title: Order of the Shattered Crown
+type: NPC
 tags:
-- aethermoor
-- complete
-- crystal-touched
 - grand-master
-- npc
-- order-leader
 - person
 - seven-shards
+- npc
+- research
+- active
+- crystal-touched
+- complete
+- order-leader
+- aethermoor
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
+race: Human (Heavily Crystal-touched)
+location: '[[The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]]'
 world: Aethermoor
-type: NPC
 role: Grand Master of the Shattered Crown
 affiliation: Order of the Shattered Crown (Founder & Leader)
 age: '73'
-race: Human (Heavily Crystal-touched)
-location: '[[The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]]'
 created_by: expansion
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-12T00:00:00+00:00'
 cr: '8'
 ---
+
 
 
 > [!figure] Portrait
@@ -517,3 +524,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 <!-- enriched: true -->
 nriched: true -->
 - [[The Crown of Stars]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,9 +1,16 @@
 ---
+title: step 004
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 24
 step: 4
 total_step: 2304
 ---
+
 
 # Phase 24 - Step 4
 

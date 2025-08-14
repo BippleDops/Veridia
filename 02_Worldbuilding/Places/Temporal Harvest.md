@@ -1,29 +1,36 @@
 ---
+title: Temporal Harvest
+type: Location
+tags:
+- mystery
+- aquabyssos
+- status/complete
+- harvest
+- mechanics/magic
+- quest
+- content/lore
+- content/location
+- place
+- active
+- location
+- complete
+- world/aquabyssos
+- temporal
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Mystery
 MyContainer: None
-created: '2025-08-11'
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
-status: complete
-tags:
-- quest
-- crystal-enhanced
-- aquabyssos
-- complete
-- content/location
-- content/lore
-- harvest
-- location
-- mechanics/magic
-- mystery
-- status/complete
-- temporal
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.572517+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -214,6 +221,27 @@ Several factors suggest the Temporal Harvest may be connected to Aquabyssos's cu
 
 4. **The Chronicle Crisis**: The party discovers that their own actions in a previous adventure created a temporal disturbance, and they must decide whether to fix the timeline or accept the changes.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Use the Temporal Harvest to:
@@ -226,7 +254,7 @@ Use the Temporal Harvest to:
 
 ## Connections
 
-- [[12_Research/D&D_References/Old Valdris]]
+- [[Old Valdris]]
 
 ## Player-Facing Summary
 
@@ -238,10 +266,104 @@ Legends speak of Temporal Harvest as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Temporal Harvest]]
+- [[Temporal Harvest]]
 
 <!-- enriched: true -->
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-pearl-sharpedge-v1-pearl-sharpedge.svg]]
+- [[Royal Advisor Wise Counselor]]
+- [[04_Resources_Assets_Locations_location-city-deep-pearls-v1-deep-pearls.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+Temporal Harvest is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Temporal Harvest
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Temporal Harvest was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Temporal Harvest:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Temporal Harvest
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

@@ -1,33 +1,38 @@
 ---
+title: The Siren
+type: Npc
+tags:
+- mysterious
+- status/complete
+- information-broker
+- npc
+- spy
+- content/lore
+- character
+- content/npc
+- world/aethermoor
+- active
+- bard
+- complete
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+race: Half-Elf (Crystal-Touched)
+class: Bard/Rogue
+location: Various (Never stays in one place)
+level: 14
 MyCategory: Unknown
 MyContainer: None
 alignment: Chaotic Neutral
-class: Bard/Rogue
-created: '2025-08-08'
 created_by: auto-stub
 faction: Independent (Information Broker)
-level: 14
-location: Various (Never stays in one place)
 obsidianUIMode: preview
-race: Half-Elf (Crystal-Touched)
-status: complete
 status_condition: Active, Identity Unknown
-tags:
-- aethermoor
-- bard
-- complete
-- content/lore
-- content/npc
-- information-broker
-- mysterious
-- npc
-- spy
-- status/complete
-- world/aethermoor
-type: Npc
 updated: '2025-08-13T12:34:17.704025+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait
@@ -259,7 +264,13 @@ The Siren is [[Aethermoor]]'s most notorious information broker, operating throu
 - All witnesses forget encounter
 - Disappears for 100 years
 
-## Personality & Mannerisms
+## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more withdrawn
+- **When Pleased**: Shows generous spirit
+- **In Conflict**: Tends toward confrontation
+ & Mannerisms
 
 ### Behavioral Patterns
 - Never laughs, only musical chuckles
@@ -285,6 +296,110 @@ The Siren is [[Aethermoor]]'s most notorious information broker, operating throu
 - **"The shadow has no song"**: Person is replaced
 - **"The melody is incomplete"**: More payment required
 - **"The finale approaches"**: World-ending event near
+
+
+
+## Background
+
+The Siren's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Serving justice
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+The Siren harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Dark patron
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Sharp and precise
+
+**Speech Pattern**: Direct and concise
+
+**Physical Habits**: Maintains intense eye contact
+
+## Current Activities
+
+The Siren is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: The Siren needs assistance with a delicate matter
+2. **The Opposition**: Someone wants The Siren stopped or removed
+3. **The Secret**: Information about The Siren's past surfaces
+4. **The Alliance**: Opportunity to work with or against The Siren
+5. **The Crisis**: The Siren is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 
@@ -362,3 +477,23 @@ Legends speak of The Siren as a nexus where past and present converge. Locals de
 - [[The Siren]]
 
 <!-- enriched: true -->
+
+
+
+
+## Relationship Web
+
+- [[The Shadow Surgeons]]: *patron*
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-steelhart-captain-steelhart.svg]]: *mentor*
+- [[Lord_Lady_Chamberlain_Court_Manager]]: *bitter rival*
+- [[Sea Spirit Priests]]: *patron*
+
+## Connections
+
+### Home
+- [[04_Resources_Assets_Locations_location-city-the-crystal-palace-throne-room-v1-the-crystal-palace-throne-room.svg]]
+
+### Known Associates
+- [[Warrior-Priest Abyss-Sworn]] (colleague)
+- [[02_Worldbuilding_Lore_The_Dream_Shard]] (friend)
+- [[04_Resources_Assets_Portraits_portrait-npc-lady-shadowmere-lady-shadowmere.svg]] (rival)

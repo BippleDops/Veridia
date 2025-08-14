@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry the shadow crystal synthesis the shadow crystal synthesis.png
+aliases:
+- symbol heraldry the shadow crystal synthesis the shadow crystal synthesispng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-crystal-synthesis-the-shadow-crystal-synthesis.png
 
@@ -24,11 +30,11 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Shadow-Crystal Synthesis]]
-- [[12_Research/D&D_References/Shadow Crystal]]
-- [[12_Research/D&D_References/Shadow-Crystal Synthesis]]
-- [[12_Research/D&D_References/Shadow-Crystal Synthesis 3]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[The Shadow-Crystal Synthesis]]
+- [[Shadow Crystal]]
+- [[Shadow-Crystal Synthesis]]
+- [[Shadow-Crystal Synthesis 3]]
+- [[Faction Symbols & Heraldry]]
 - [[02_Worldbuilding/Lore/Shadow-Crystal Synthesis]]
 
 ## Notes

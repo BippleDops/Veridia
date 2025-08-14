@@ -1,16 +1,22 @@
+# New_Encounter_Sheet_Template
+
 ---
 title: New Encounter Sheet Template
 type: template
-status: complete
 tags:
-- both
-- complete
-- encounter
 - template
+- both
+- encounter
+- research
+- active
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.205327+00:00'
 world: Both
 ---
+
 
 
 # [Code] [Encounter Title]
@@ -71,3 +77,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[reports/bidirectional_links|Reports/bidirectional Links]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 1   Strange Tides Rising
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 1 - Strange Tides Rising
 
@@ -36,3 +43,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-navigator-captain-navigator.svg]]
+- [[04_Resources_Assets_Locations_location-city-reef-guard-captain-torrent-shellborn-v1-reef-guard-captain-torrent-shellborn.svg]]
+- [[Crystal Wardens]]
+- [[Archbishop Mordecai Stormwright]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-contemplation-abyss-the-contemplation-abyss.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-international-trade-international-trade.svg]]
+- [[04_Resources_Assets_Locations_location-city-temporal-harvest-temporal-harvest.svg]]
+- [[Deep Pearls]]

@@ -1,12 +1,19 @@
+# Sensory_Signature_Guides
+
 ---
+title: Sensory Signature Guides
+type: research
+tags:
+- both
+- active
+- research
 created: null
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:34.464830+00:00'
 world: Both
-status: active
-tags:
-- active
-- both
 ---
+
 
 # Sensory Signature Guides
 ## Regional Environmental Characteristics
@@ -336,3 +343,8 @@ Legends speak of Sensory Signature Guides as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

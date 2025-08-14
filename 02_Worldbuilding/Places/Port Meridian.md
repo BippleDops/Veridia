@@ -1,24 +1,31 @@
 ---
-created: '2025-08-11'
-danger_level: Moderate
-status: complete
+title: Port Meridian
+type: Location
 tags:
-- combat
-- quest
-- crystal-enhanced
-- shadow-touched
+- both
 - aerial
 - aquatic
-- both
-- complete
+- quest
+- world/both
 - content/location
+- place
+- active
+- combat
+- complete
 - location
 - status/in-progress
-- world/both
-type: Location
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+danger_level: Moderate
 updated: '2025-08-13T12:34:16.527469+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -31,9 +38,9 @@ world: Both
 
 ## Overview
 
-Port Meridian is [[12_Research/D&D_References/Aethermoor]]'s largest trading hub, where ships from across the world dock to trade in Aether Crystals and exotic goods. The city is ruled not by nobles but by the [[12_Research/D&D_References/Merchant Princes]], a council of the wealthiest traders. Recently, the city has been plagued by a mysterious crystal corruption spreading through the docks.
+Port Meridian is [[Aethermoor]]'s largest trading hub, where ships from across the world dock to trade in Aether Crystals and exotic goods. The city is ruled not by nobles but by the [[Merchant Princes]], a council of the wealthiest traders. Recently, the city has been plagued by a mysterious crystal corruption spreading through the docks.
 
-As a major cross-cultural hub, Port Meridian serves as the primary meeting point where the aerial traditions of Aethermoor encounter the depth-dwelling customs of visiting Aquabyssos merchants. The city has developed unique protocols found in the [[12_Research/D&D_References/Cross-Realm Etiquette Guide]] for managing diplomatic and commercial interactions between these vastly different cultures. Throughout the year, Port Meridian celebrates festivals from the [[12_Research/D&D_References/Festival Calendar Complete]], with trade-focused celebrations like the Grand Market Opening drawing visitors from both realms. The city's merchant guilds follow traditions outlined in the [[12_Research/D&D_References/Guild Traditions Compendium]], adapting ancient practices for the realities of inter-realm commerce.
+As a major cross-cultural hub, Port Meridian serves as the primary meeting point where the aerial traditions of Aethermoor encounter the depth-dwelling customs of visiting Aquabyssos merchants. The city has developed unique protocols found in the [[Cross-Realm Etiquette Guide]] for managing diplomatic and commercial interactions between these vastly different cultures. Throughout the year, Port Meridian celebrates festivals from the [[Festival Calendar Complete]], with trade-focused celebrations like the Grand Market Opening drawing visitors from both realms. The city's merchant guilds follow traditions outlined in the [[Guild Traditions Compendium]], adapting ancient practices for the realities of inter-realm commerce.
 
 ### First Approach: Sensory Immersion
 
@@ -51,26 +58,26 @@ As a major cross-cultural hub, Port Meridian serves as the primary meeting point
 
 ### The Grand Harbor
 
-- **The Admiralty** - Naval headquarters, led by [[12_Research/D&D_References/Admiral Cassandra Stormwind]]
+- **The Admiralty** - Naval headquarters, led by [[Admiral Cassandra Stormwind]]
 - **The Crystal Docks** - Where crystal shipments are loaded
 - **The Foreign Quarter** - International traders and embassies
 
 ### Merchant's Rise
 
-- **The Gold Exchange** - Controlled by [[12_Research/D&D_References/Merchant Lord Silas Copperfield]]
+- **The Gold Exchange** - Controlled by [[Merchant Lord Silas Copperfield]]
 - **The Auction House** - Rare items and crystals
-- **Council Chambers** - Where the [[12_Research/D&D_References/Merchant Princes]] meet
+- **Council Chambers** - Where the [[Merchant Princes]] meet
 
 ### The Old City
 
 - **Temple of the Tides** - Led by [[12_Research/D&D_Statblocks/High Priestess Celeste Dawnbringer]]
-- **The Meridian Library** - Ancient texts, managed by [[12_Research/D&D_References/Keeper Elara Moonwhisper]]
+- **The Meridian Library** - Ancient texts, managed by [[Keeper Elara Moonwhisper]]
 - **Founder's Square** - Historic center, statue of city founder
 
 ### The Dockyards
 
-- **Shipwright's Row** - [[12_Research/D&D_References/Captain Thaddeus Blackwater]]'s ship was built here
-- **The Salty Serpent** - Rough tavern, owned by [[12_Research/D&D_References/Marina-Red-Tide-Coralheart]]
+- **Shipwright's Row** - [[Captain Thaddeus Blackwater]]'s ship was built here
+- **The Salty Serpent** - Rough tavern, owned by [[Marina-Red-Tide-Coralheart]]
 - **Warehouse District** - Controlled by various factions
 
 ### The Plague Quarter
@@ -93,7 +100,7 @@ As a major cross-cultural hub, Port Meridian serves as the primary meeting point
 *Final Stage (Integration Phase)*: Complete physical and mental integration with the crystal network, individual consciousness becomes node in larger crystalline intelligence
 
 - **Quarantine Zone** - Area affected by crystal plague (bitter metallic air, geometric crystal growths creating maze-like passages, psychological pressure that increases with proximity to corruption epicenter)
-- **Emergency Hospice** - Run by [[12_Research/D&D_References/Brother Marcus Steelbane]] (medicinal herb-scent fighting corruption-bitterness, sounds of healing magic competing with crystal resonance, warm spots of human care amid cold corruption)
+- **Emergency Hospice** - Run by [[Brother Marcus Steelbane]] (medicinal herb-scent fighting corruption-bitterness, sounds of healing magic competing with crystal resonance, warm spots of human care amid cold corruption)
 - **Abandoned Buildings** - Inhabited by corrupted creatures (unnatural crystal acoustics that amplify whispers into shouts while muffling screams, temperature variations creating convection currents, predatory atmosphere as corrupted beings hunt for new hosts)
 
 ## Environmental Storytelling
@@ -330,22 +337,22 @@ As a major cross-cultural hub, Port Meridian serves as the primary meeting point
 ### The Merchant Princes
 
 - [[12_Research/D&D_Statblocks/Lord Aurelius Goldwave]] - Head of the Council, shipping magnate
-- [[12_Research/D&D_References/Lady Venetia Silkwind]] - Controls textile trade
-- [[12_Research/D&D_References/Master Chen Wei]] - Exotic goods from distant lands
-- [[12_Research/D&D_References/Captain Rodrigo Ironanchor]] - Represents ship captains
+- [[Lady Venetia Silkwind]] - Controls textile trade
+- [[Master Chen Wei]] - Exotic goods from distant lands
+- [[Captain Rodrigo Ironanchor]] - Represents ship captains
 - [[12_Research/D&D_Statblocks/Madame Rosalind Goldleaf]] - Luxury goods and information
 
 ### Military & Law
 
-- [[12_Research/D&D_References/Admiral Cassandra Stormwind]] - Naval commander
-- [[12_Research/D&D_References/Captain Lyanna Brightshield]] - City Watch (on loan from [[12_Research/D&D_References/Crystalhaven]])
+- [[Admiral Cassandra Stormwind]] - Naval commander
+- [[Captain Lyanna Brightshield]] - City Watch (on loan from [[Crystalhaven]])
 - [[12_Research/D&D_Statblocks/Harbormaster Erik Saltbeard]] - Controls dock access
 
 ### Underworld
 
-- [[12_Research/D&D_References/Marina-Red-Tide-Coralheart]] - Smuggler queen
-- [[12_Research/D&D_References/Vex Shadowthorn]] - Has operations here
-- [[12_Research/D&D_References/The Tidecaller]] - Mysterious pirate lord
+- [[Marina-Red-Tide-Coralheart]] - Smuggler queen
+- [[Vex Shadowthorn]] - Has operations here
+- [[The Tidecaller]] - Mysterious pirate lord
 
 ## Current Crisis: The Crystal Plague
 
@@ -365,7 +372,7 @@ As a major cross-cultural hub, Port Meridian serves as the primary meeting point
 ### Suspects
 
 - [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Selling corrupted crystals
-- [[12_Research/D&D_References/Purist Coalition]] - False flag to turn people against crystals
+- [[Purist Coalition]] - False flag to turn people against crystals
 - Foreign saboteurs
 - [[12_Research/D&D_Statblocks/The Crimson Sage]] - Conducting experiments
 
@@ -385,9 +392,9 @@ As a major cross-cultural hub, Port Meridian serves as the primary meeting point
 
 ### Trade Routes
 
-- Northern route to [[12_Research/D&D_References/Crystalhaven]]
+- Northern route to [[Crystalhaven]]
 - Southern sea route to foreign lands
-- Eastern road to [[12_Research/D&D_References/The Sundered Peaks]]
+- Eastern road to [[The Sundered Peaks]]
 - Western shipping lanes
 
 ## Services & Establishments
@@ -402,21 +409,21 @@ As a major cross-cultural hub, Port Meridian serves as the primary meeting point
 
 - **The Salty Serpent** - Rough crowd, good information
 - **The Golden Anchor** - Merchant hangout
-- **[[12_Research/D&D_References/The Kraken's Wake]]** - Sailor's favorite
+- **[[The Kraken's Wake]]** - Sailor's favorite
 
 ### Shops
 
-- **[[12_Research/D&D_References/Stormwind Supplies]]** - Naval and sailing equipment
-- **[[12_Research/D&D_References/The Exotic Emporium]]** - [[12_Research/D&D_References/Master Chen Wei]]'s shop
-- **[[12_Research/D&D_References/Crystals & Curiosities]]** - Magical goods
-- **[[12_Research/D&D_References/The Plague Ward]]** - Protective equipment (new)
+- **[[Stormwind Supplies]]** - Naval and sailing equipment
+- **[[The Exotic Emporium]]** - [[Master Chen Wei]]'s shop
+- **[[Crystals & Curiosities]]** - Magical goods
+- **[[The Plague Ward]]** - Protective equipment (new)
 
 ## Ships in Harbor
 
-- **The Celestial Wind** - [[12_Research/D&D_References/Admiral Cassandra Stormwind]]'s flagship
+- **The Celestial Wind** - [[Admiral Cassandra Stormwind]]'s flagship
 - **The Golden Promise** - Merchant vessel
 - **The Shadowfin** - Suspected smuggler
-- **The Crystal Voyager** - Missing (was [[12_Research/D&D_References/Captain Thaddeus Blackwater]]'s)
+- **The Crystal Voyager** - Missing (was [[Captain Thaddeus Blackwater]]'s)
 
 ## Adventure Hooks
 
@@ -431,10 +438,10 @@ As a major cross-cultural hub, Port Meridian serves as the primary meeting point
 
 > [!warning] DM Only
 > - The plague was started by a corrupted Shard hidden in the harbor
-> - [[12_Research/D&D_References/Marina-Red-Tide-Coralheart]] is actually working for the Crown
-> - [[12_Research/D&D_Statblocks/Lord Aurelius Goldwave]] is embezzling funds for [[12_Research/D&D_References/The Order of the Shattered Crown]]
+> - [[Marina-Red-Tide-Coralheart]] is actually working for the Crown
+> - [[12_Research/D&D_Statblocks/Lord Aurelius Goldwave]] is embezzling funds for [[The Order of the Shattered Crown]]
 > - A cult of Aetheron meets in the abandoned plague buildings
-> - [[12_Research/D&D_References/The Tidecaller]] is searching for underwater crystal formations
+> - [[The Tidecaller]] is searching for underwater crystal formations
 
 ## Random Encounters (Port)
 
@@ -452,21 +459,21 @@ As a major cross-cultural hub, Port Meridian serves as the primary meeting point
 
 ## Connected Locations
 
-- [[12_Research/D&D_References/Crystalhaven]] - Major trade partner
-- [[12_Research/D&D_References/The Azure Coast]] - Regional area
-- [[12_Research/D&D_References/The Crystalline Wastes]] - Source of plague?
-- [[12_Research/D&D_References/The Verdant Reach]] - Food imports
-- [[12_Research/D&D_References/Ironhold]] - Mountain trade partner
-- [[12_Research/D&D_References/Sylvanheart]] - Elven goods
-- [[12_Research/D&D_References/The Sundered Peaks]] - Raw materials
+- [[Crystalhaven]] - Major trade partner
+- [[The Azure Coast]] - Regional area
+- [[The Crystalline Wastes]] - Source of plague?
+- [[The Verdant Reach]] - Food imports
+- [[Ironhold]] - Mountain trade partner
+- [[Sylvanheart]] - Elven goods
+- [[The Sundered Peaks]] - Raw materials
 
 ## See Also
 
-- [[12_Research/D&D_References/Port Meridian Harbor]] - Harbor facilities
-- [[12_Research/D&D_References/Port Meridian - Harbor District]] - Harbor district details
-- [[12_Research/D&D_References/Port Meridian - Market Square]] - Market areas
-- [[12_Research/D&D_References/Port Meridian - Merchant Quarter]] - Merchant areas
-- [[12_Research/D&D_References/Port Meridian - Noble Quarter]] - Noble district
+- [[Port Meridian Harbor]] - Harbor facilities
+- [[Port Meridian - Harbor District]] - Harbor district details
+- [[Port Meridian - Market Square]] - Market areas
+- [[Port Meridian - Merchant Quarter]] - Merchant areas
+- [[Port Meridian - Noble Quarter]] - Noble district
 
 ## Active Quests
 
@@ -492,13 +499,13 @@ As a major cross-cultural hub, Port Meridian serves as the primary meeting point
 
 **Harbor Operations**: The massive crystal-powered loading cranes dominate the harbor's rhythm. Work gangs rotate every two hours to prevent corruption exposure, with mandatory breaks in the "clean air zones" away from infected docks. Foremen use crystal-enhanced speaking trumpets to coordinate loading operations, their voices carrying clearly over the industrial din. Ships must be inspected for corruption before unloading - infected vessels are quarantined in the Plague Quarter's harbor extension.
 
-**The Merchant Princes' Business**: Council sessions occur in the opulent Chamber of Scales, where crystal formations record all negotiations for later review. The Merchant Princes follow strict protocols: all agreements must be witnessed by crystal-memory stones, major decisions require consultation with trade guild representatives, and foreign negotiations include cultural interpreters familiar with the [[12_Research/D&D_References/Cross-Realm Etiquette Guide]].
+**The Merchant Princes' Business**: Council sessions occur in the opulent Chamber of Scales, where crystal formations record all negotiations for later review. The Merchant Princes follow strict protocols: all agreements must be witnessed by crystal-memory stones, major decisions require consultation with trade guild representatives, and foreign negotiations include cultural interpreters familiar with the [[Cross-Realm Etiquette Guide]].
 
 **Artisan Quarter Production**: Skilled craftsmen work in workshops designed to prevent corruption spread - crystal-powered air filtration, regular rotation schedules, and mandatory health examinations. Master artificers create both practical goods and luxury items, with their finest work reserved for international trade. Apprentices spend mornings learning corruption detection and afternoons practicing their crafts.
 
-**Foreign Quarter Diplomacy**: Embassies maintain careful schedules of cultural observances and diplomatic meetings. [[12_Research/D&D_References/Ambassador Marina Bridgewater]] coordinates between surface and Aquabyssos representatives, managing complex translation needs and cultural sensitivity protocols. Trade negotiations often involve elaborate ceremonial exchanges that can last hours, following traditions outlined in diplomatic manuals.
+**Foreign Quarter Diplomacy**: Embassies maintain careful schedules of cultural observances and diplomatic meetings. [[Ambassador Marina Bridgewater]] coordinates between surface and Aquabyssos representatives, managing complex translation needs and cultural sensitivity protocols. Trade negotiations often involve elaborate ceremonial exchanges that can last hours, following traditions outlined in diplomatic manuals.
 
-**The Academic Pursuit**: Scholars at the Meridian Library study texts about crystal corruption, trade law, and foreign customs. Research teams investigate the plague's spread patterns while maintaining careful documentation protocols. [[12_Research/D&D_References/Keeper Elara Moonwhisper]] oversees translation projects that make knowledge accessible to traders dealing with foreign clients.
+**The Academic Pursuit**: Scholars at the Meridian Library study texts about crystal corruption, trade law, and foreign customs. Research teams investigate the plague's spread patterns while maintaining careful documentation protocols. [[Keeper Elara Moonwhisper]] oversees translation projects that make knowledge accessible to traders dealing with foreign clients.
 
 **Underground Economy**: In the Plague Quarter and Shadow Warren, black market activities flourish during daylight hours when authorities focus on legitimate commerce. Corruption dealers, memory merchants, and soul brokers conduct business in hidden chambers, following their own complex schedules and security protocols.
 
@@ -512,13 +519,13 @@ As a major cross-cultural hub, Port Meridian serves as the primary meeting point
 
 **Cultural Observances**: Different communities maintain their traditional evening customs adapted for port life. Aquabyssos visitors gather for depth-diving meditation in specially constructed pools, while surface dwellers hold storytelling circles that preserve pre-corruption memories. These cultural practices help maintain community identity despite the city's transient population.
 
-**Information Trading**: The Salty Serpent and other information taverns become active as evening approaches. Patrons trade rumors, business intelligence, and political gossip over drinks that mask the taste of corruption-tainted water. [[12_Research/D&D_References/Marina-Red-Tide-Coralheart]]'s establishment serves as an unofficial intelligence hub where legal and illegal information flows freely.
+**Information Trading**: The Salty Serpent and other information taverns become active as evening approaches. Patrons trade rumors, business intelligence, and political gossip over drinks that mask the taste of corruption-tainted water. [[Marina-Red-Tide-Coralheart]]'s establishment serves as an unofficial intelligence hub where legal and illegal information flows freely.
 
 ### Night Life (11 PM to 5 AM)
 
 **The Night Market**: After official business hours, the port transforms into a different city. Smugglers emerge from hidden warehouses, moving goods through tunnels that avoid corruption checkpoints. Night merchants deal in items too dangerous or illegal for daylight trade: corrupted crystals, memory fragments, and artifacts from the plague zone.
 
-**Harbor Patrol**: [[12_Research/D&D_References/Captain Lyanna Brightshield]]'s watch maintains order through crystal-powered lanterns and corruption-detecting equipment. Patrol routes avoid the worst infected areas while maintaining security for legitimate late-night activities. Guards wear special equipment that allows them to operate safely in contaminated zones for limited periods.
+**Harbor Patrol**: [[Captain Lyanna Brightshield]]'s watch maintains order through crystal-powered lanterns and corruption-detecting equipment. Patrol routes avoid the worst infected areas while maintaining security for legitimate late-night activities. Guards wear special equipment that allows them to operate safely in contaminated zones for limited periods.
 
 **Entertainment Districts**: The wealthy gather in exclusive clubs where crystal-enhanced entertainment includes memory-sharing experiences and illusion shows. Working-class entertainment centers around taverns offering simple pleasures: gambling, storytelling, and music that helps drown out the constant sound of corruption spreading through nearby buildings.
 
@@ -530,9 +537,9 @@ As a major cross-cultural hub, Port Meridian serves as the primary meeting point
 
 **Market Days**: Three times weekly, the Grand Market opens the Port Square to all vendors. These days feature international goods, diplomatic presentations, and cultural exchanges. Security increases dramatically, with corruption detection teams sweeping all merchandise before public access.
 
-**Religious Observances**: Weekly services at the Temple of the Tides include blessing ceremonies for ships, healing rituals for corruption victims, and memorial services for those lost to the plague. Monthly observances follow the [[12_Research/D&D_References/Festival Calendar Complete]], with trade-focused celebrations like the Merchant's Tide drawing international participation.
+**Religious Observances**: Weekly services at the Temple of the Tides include blessing ceremonies for ships, healing rituals for corruption victims, and memorial services for those lost to the plague. Monthly observances follow the [[Festival Calendar Complete]], with trade-focused celebrations like the Merchant's Tide drawing international participation.
 
-**Guild Meetings**: Professional guilds meet weekly to coordinate responses to corruption threats, plan major projects, and maintain professional standards. These gatherings follow traditions from the [[12_Research/D&D_References/Guild Traditions Compendium]], adapted for the unique challenges of operating in a corruption zone.
+**Guild Meetings**: Professional guilds meet weekly to coordinate responses to corruption threats, plan major projects, and maintain professional standards. These gatherings follow traditions from the [[Guild Traditions Compendium]], adapted for the unique challenges of operating in a corruption zone.
 
 **Seasonal Adaptations**: 
 - **Storm Season**: Port operations shift to underground facilities, social gatherings move indoors, and emergency protocols activate to protect against corruption spread during severe weather.
@@ -544,7 +551,7 @@ As a major cross-cultural hub, Port Meridian serves as the primary meeting point
 
 ## Key Factions
 
-- [[12_Research/D&D_References/Merchant Princes]] - Ruling council
+- [[Merchant Princes]] - Ruling council
 - [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Criminal network
 - [[12_Research/D&D_Statblocks/Crystal Wardens]] - Military presence
 - [[Foreign Trade Guilds]]
@@ -553,27 +560,27 @@ As a major cross-cultural hub, Port Meridian serves as the primary meeting point
 ## Connections
 
 - [[12_Research/D&D_Statblocks/Crystal Wardens]]
-- [[12_Research/D&D_References/Corruption Exposure Tracking]]
-- [[12_Research/D&D_References/Discover Marina's Truth]]
-- [[12_Research/D&D_References/The Crystal Festival]]
-- [[12_Research/D&D_References/The Seven Shards]]
-- [[12_Research/D&D_References/Blood Current Express]]
-- [[12_Research/D&D_References/Compass Quest]]
+- [[Corruption Exposure Tracking]]
+- [[Discover Marina's Truth]]
+- [[The Crystal Festival]]
+- [[The Seven Shards]]
+- [[Blood Current Express]]
+- [[Compass Quest]]
 - [[12_Research/D&D_Statblocks/Depth Warden Patrol]]
-- [[12_Research/D&D_References/Depth Wardens]]
-- [[12_Research/D&D_References/Harbor District Customs House]]
-- [[12_Research/D&D_References/Harbor District]]
+- [[Depth Wardens]]
+- [[Harbor District Customs House]]
+- [[Harbor District]]
 - [[12_Research/D&D_Statblocks/Mad Bell-Ringer Thomas]]
 - [[12_Research/D&D_Statblocks/Noble Quarter]]
-- [[12_Research/D&D_References/Port Meridian - Market Square]]
-- [[12_Research/D&D_References/Port Meridian - Noble Quarter]]
-- [[12_Research/D&D_References/Quest - The Blackmail Papers]]
+- [[Port Meridian - Market Square]]
+- [[Port Meridian - Noble Quarter]]
+- [[Quest - The Blackmail Papers]]
 - [[12_Research/D&D_Statblocks/Quest - The Truth Unveiled]]
-- [[12_Research/D&D_References/Surface Tensions]]
+- [[Surface Tensions]]
 - [[12_Research/D&D_Statblocks/Temple Ward]]
-- [[12_Research/D&D_References/Tethyan Hegemony]]
+- [[Tethyan Hegemony]]
 - [[12_Research/D&D_Statblocks/The Crystalline Foundry]]
-- [[12_Research/D&D_References/The Forgotten One]]
+- [[The Forgotten One]]
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[12_Research/D&D_Statblocks/Quest - The Pretender's Crown]]
 - [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]
@@ -587,28 +594,49 @@ Port Meridian is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of Port Meridian as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Port Meridian.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Port Meridian]]
+- [[Port Meridian]]
 
 <!-- enriched: true -->
-- [[12_Research/D&D_References/Captain Rodrigo Ironanchor]]
-- [[12_Research/D&D_References/Lady Venetia Silkwind]]
-- [[12_Research/D&D_References/Master Chen Wei]]
-- [[12_Research/D&D_References/Admiral Cassandra Stormwind]]
-- [[12_Research/D&D_References/Brother Marcus Steelbane]]
+- [[Captain Rodrigo Ironanchor]]
+- [[Lady Venetia Silkwind]]
+- [[Master Chen Wei]]
+- [[Admiral Cassandra Stormwind]]
+- [[Brother Marcus Steelbane]]
 - [[12_Research/D&D_Statblocks/High Priestess Celeste Dawnbringer]]
 - [[12_Research/D&D_Statblocks/Lord Aurelius Goldwave]]
 - [[12_Research/D&D_Statblocks/Harbormaster Erik Saltbeard]]
-- [[12_Research/D&D_References/Keeper Elara Moonwhisper]]
+- [[Keeper Elara Moonwhisper]]
 - [[12_Research/D&D_Statblocks/Madame Rosalind Goldleaf]]
 - [[12_Research/D&D_Statblocks/Quest - The Missing Fleet]]
-- [[12_Research/D&D_References/The Azure Coast]]
-- [[12_Research/D&D_References/The Order of the Shattered Crown]]
+- [[The Azure Coast]]
+- [[The Order of the Shattered Crown]]
 
 
 ## Related
@@ -616,3 +644,97 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
 - [[02_Worldbuilding/Groups/Crystal Wardens]]
 - [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
+
+
+## Notable Residents
+
+- [[Captain Prism-Shield Valeria]]
+
+## Trade Routes
+
+- [[04_Resources_Assets_Handouts_handout-handout-temple-prayer-sheet-v3-temple-prayer-sheet.png]]
+- [[04_Resources_Assets_Locations_location-city-age-of-wonders-v1-age-of-wonders.svg]]
+- [[04_Resources_Assets_Locations_location-city-keeper-finn-goodtide-keeper-finn-goodtide.svg]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+Port Meridian is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Port Meridian
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Port Meridian was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Port Meridian:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Port Meridian
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

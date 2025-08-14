@@ -1,20 +1,27 @@
+# The Tide Rises
+
 ---
+title: The Tide Rises
 type: Lore
-status: draft
 tags:
-- combat
-- crystal-enhanced
-- shadow-touched
-- aquatic
 - available
-- both
-- corruption
-- diplomatic
-- investigation
-- investigation/diplomacy
 - lore
+- both
+- investigation/diplomacy
+- investigation
+- aquatic
+- worldbuilding
 - moral-choice
 - quest
+- diplomatic
+- active
+- combat
+- corruption
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: draft
 level: 7-9
 reward: Major - Category/Quest
 MyContainer: None
@@ -22,8 +29,8 @@ MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:34.501163+00:00'
-created: '2025-08-11'
 ---
+
 
 
 # The Tide Rises
@@ -32,15 +39,15 @@ created: '2025-08-11'
 
 ## Quest Overview
 
-Several lesser nobles from [[12_Research/D&D_References/Crystalhaven]] have vanished after attending "cultural exchange" events at [[12_Research/D&D_Statblocks/The Drowned Embassy]]. [[12_Research/D&D_References/Captain Lyanna Brightshield]] suspects foul play but cannot legally investigate due to diplomatic immunity. The party must uncover the truth while navigating international incidents and discovering a threat greater than anyone imagined.
+Several lesser nobles from [[Crystalhaven]] have vanished after attending "cultural exchange" events at [[12_Research/D&D_Statblocks/The Drowned Embassy]]. [[Captain Lyanna Brightshield]] suspects foul play but cannot legally investigate due to diplomatic immunity. The party must uncover the truth while navigating international incidents and discovering a threat greater than anyone imagined.
 
 ## Quest Giver
 
-**[[12_Research/D&D_References/Captain Lyanna Brightshield]]** approaches the party unofficially, as official channels are blocked by diplomatic protocols.
+**[[Captain Lyanna Brightshield]]** approaches the party unofficially, as official channels are blocked by diplomatic protocols.
 
 ## Background
 
-Three nobles - Lord Aldric Wavecrest, Lady Marea Shelworth, and Sir Donnel Clearwater - attended Embassy events over the past two months and haven't been seen since. [[12_Research/D&D_References/Ambassador Korvin Blacktide]] claims they left safely, but their families report strange dreams of drowning and whispered words in unknown languages.
+Three nobles - Lord Aldric Wavecrest, Lady Marea Shelworth, and Sir Donnel Clearwater - attended Embassy events over the past two months and haven't been seen since. [[Ambassador Korvin Blacktide]] claims they left safely, but their families report strange dreams of drowning and whispered words in unknown languages.
 
 ## Objectives
 
@@ -54,18 +61,18 @@ Three nobles - Lord Aldric Wavecrest, Lady Marea Shelworth, and Sir Donnel Clear
 ### Optional Objectives
 
 - Rescue any surviving nobles before transformation
-- Obtain evidence of [[12_Research/D&D_References/Aquabyssos]] invasion plans
-- Turn [[12_Research/D&D_References/Ambassador Korvin Blacktide]] into a double agent
+- Obtain evidence of [[Aquabyssos]] invasion plans
+- Turn [[Ambassador Korvin Blacktide]] into a double agent
 - Prevent the opening of the Deep Gate
 
 ## Key NPCs Involved
 
-- **[[12_Research/D&D_References/Ambassador Korvin Blacktide]]** - Primary antagonist, but can be negotiated with
-- **[[12_Research/D&D_References/Captain Lyanna Brightshield]]** - Quest giver, provides intelligence and resources
-- **[[12_Research/D&D_References/Sir Marcus Dawnforge]]** - Can provide Order authority if convinced
-- **[[12_Research/D&D_References/Zephyr Goldwhisper]]** - Knows about the Embassy's activities, will trade information
-- **[[12_Research/D&D_References/Vex Shadowthorn]]** - The [[12_Research/D&D_Statblocks/The Whisper Syndicate]] smuggles for the Embassy
-- **[[12_Research/D&D_References/Queen Seraphina Lumengarde]]** - Secretly knows about the kidnappings but is being blackmailed
+- **[[Ambassador Korvin Blacktide]]** - Primary antagonist, but can be negotiated with
+- **[[Captain Lyanna Brightshield]]** - Quest giver, provides intelligence and resources
+- **[[Sir Marcus Dawnforge]]** - Can provide Order authority if convinced
+- **[[Zephyr Goldwhisper]]** - Knows about the Embassy's activities, will trade information
+- **[[Vex Shadowthorn]]** - The [[12_Research/D&D_Statblocks/The Whisper Syndicate]] smuggles for the Embassy
+- **[[Queen Seraphina Lumengarde]]** - Secretly knows about the kidnappings but is being blackmailed
 
 ## Investigation Paths
 
@@ -78,22 +85,22 @@ Three nobles - Lord Aldric Wavecrest, Lady Marea Shelworth, and Sir Donnel Clear
 
 ### The Criminal Route  
 
-- Work with [[12_Research/D&D_References/Vex Shadowthorn]] to access smuggling tunnels
-- Infiltrate through underwater passages from [[12_Research/D&D_References/Port Meridian]]
+- Work with [[Vex Shadowthorn]] to access smuggling tunnels
+- Infiltrate through underwater passages from [[Port Meridian]]
 - Bribe or threaten Embassy staff
 - Risk: Starting a gang war
 
 ### The Military Route
 
-- Convince [[12_Research/D&D_References/Sir Marcus Dawnforge]] to use Order authority
+- Convince [[Sir Marcus Dawnforge]] to use Order authority
 - Claim the Embassy harbors crystal corruption
 - Force entry with legal justification
-- Risk: International incident, war with [[12_Research/D&D_References/Aquabyssos]]
+- Risk: International incident, war with [[Aquabyssos]]
 
 ### The Economic Route
 
-- Use [[12_Research/D&D_References/Zephyr Goldwhisper]]'s connections to create pressure
-- Threaten trade sanctions from [[12_Research/D&D_References/Goldspire Port]]
+- Use [[Zephyr Goldwhisper]]'s connections to create pressure
+- Threaten trade sanctions from [[Goldspire Port]]
 - Buy information from Embassy staff
 - Risk: Economic retaliation, Confederate involvement
 
@@ -105,7 +112,7 @@ The nobles are alive but being transformed into Deep Heralds in the Embassy's fl
 
 ### The Blackmail Web
 
-[[12_Research/D&D_References/Queen Seraphina Lumengarde]] knew about the kidnappings but is being blackmailed by Korvin, who has evidence of her corruption. She's been providing him with information about crystal defenses.
+[[Queen Seraphina Lumengarde]] knew about the kidnappings but is being blackmailed by Korvin, who has evidence of her corruption. She's been providing him with information about crystal defenses.
 
 ### The Greater Threat
 
@@ -113,7 +120,7 @@ The missing nobles are part of a ritual to open the Deep Gate. Their bloodlines 
 
 ### The Goldspire Connection
 
-[[12_Research/D&D_References/Zephyr Goldwhisper]] and the Confederacy know about the threat and are prepared to use their Null Bombs to destroy the entire Embassy district if necessary, casualties included.
+[[Zephyr Goldwhisper]] and the Confederacy know about the threat and are prepared to use their Null Bombs to destroy the entire Embassy district if necessary, casualties included.
 
 ## DM Secrets
 
@@ -127,7 +134,7 @@ The missing nobles are part of a ritual to open the Deep Gate. Their bloodlines 
 > The nobles can be saved, but they've already been partially transformed. Saving them means they'll carry Aquabyssos corruption forever, potentially spreading it. Killing them prevents the invasion but murders innocents. Letting them transform might be the only way to learn Aquabyssos's true plans.
 
 > [!info] Hidden Ally
-> Tidecaller Nerissa, Korvin's attaché, is having doubts about the plan. She was once from Aethermoor and still has family in [[12_Research/D&D_References/Port Meridian]]. She can be turned with the right approach.
+> Tidecaller Nerissa, Korvin's attaché, is having doubts about the plan. She was once from Aethermoor and still has family in [[Port Meridian]]. She can be turned with the right approach.
 
 ## Encounters
 
@@ -149,9 +156,9 @@ The missing nobles are part of a ritual to open the Deep Gate. Their bloodlines 
 ### Success (Full)
 
 - 5,000 gp from grateful families
-- Political favor with [[12_Research/D&D_References/Crystalhaven]] nobility
+- Political favor with [[Crystalhaven]] nobility
 - Magical item: Amulet of the Depths (breathe water, resist corruption)
-- Intelligence about [[12_Research/D&D_References/Aquabyssos]] invasion plans
+- Intelligence about [[Aquabyssos]] invasion plans
 - Alliance with turned Embassy staff
 
 ### Success (Partial)

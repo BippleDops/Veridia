@@ -1,20 +1,26 @@
+# Sky_Events_Pack_A
+
 ---
 title: Sky Events Pack A (Aethermoor)
 type: gm_resource
-status: complete
 tags:
-- aethermoor
 - both
-- complete
-- events
 - gm
-- gm_resource
-- sky
 - travel
+- research
+- events
+- active
+- gm_resource
+- complete
+- sky
+- aethermoor
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.151827+00:00'
 world: Both
 ---
+
 
 
 # Sky Events Pack A — 50 Ready-to-Run Encounters
@@ -223,3 +229,8 @@ Legends speak of Sky Events Pack A as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

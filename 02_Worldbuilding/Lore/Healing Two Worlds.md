@@ -1,15 +1,18 @@
 ---
+title: Healing Two Worlds
 type: Lore
-status: complete
+tags:
+- lore
+- both
+- active
+- crystal-enhanced
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:34.873147+00:00'
 world: Both
-tags:
-- crystal-enhanced
-- active
-- both
-- lore
 ---
+
 
 
 ## Cross-References
@@ -19,13 +22,13 @@ tags:
 
 ## Connections
 
-- [[12_Research/D&D_References/Deep Mother Influence]]
-- [[12_Research/D&D_References/Desperate Plague Victim]]
-- [[12_Research/D&D_References/Merged Reality Zones]]
-- [[12_Research/D&D_References/The Convergence Point]]
-- [[12_Research/D&D_References/The Crimson Hand]]
-- [[12_Research/D&D_References/The Great Crystallization]]
-- [[12_Research/D&D_References/Timeline of the Drowning]]
+- [[Deep Mother Influence]]
+- [[Desperate Plague Victim]]
+- [[Merged Reality Zones]]
+- [[The Convergence Point]]
+- [[The Crimson Hand]]
+- [[The Great Crystallization]]
+- [[Timeline of the Drowning]]
 
 ## Player-Facing Summary
 
@@ -50,3 +53,31 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Related
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Overview
+
+Healing Two Worlds represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

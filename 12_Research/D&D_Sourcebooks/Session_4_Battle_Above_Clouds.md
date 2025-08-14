@@ -1,12 +1,20 @@
+# Session_4_Battle_Above_Clouds
+
 ---
+title: Session 4 Battle Above Clouds
+type: research
 tags:
-- active
-- adventure-session
 - aerial-combat
-- aethermoor
+- adventure-session
 - civil-war
 - levels-4-6
+- research
+- active
 - winds-of-rebellion
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 session_number: 4
 adventure: Winds of Rebellion
 level_range: 4-6
@@ -19,10 +27,9 @@ themes:
 - loyalty-tests
 - mass-combat
 - political-consequences
-created: '2025-08-11'
 updated: '2025-08-13T01:18:37.153394+00:00'
-status: active
 ---
+
 
 
 # Session 4: Battle Above Clouds

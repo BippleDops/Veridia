@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 03
 type: adventure
-status: active
 tags:
-- combat
-- session-notes
-- shadow-touched
 - adventure
+- session-notes
+- quest
+- active
+- combat
+- shadow-touched
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 03: [Political Crisis]
 
@@ -73,3 +79,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
+
+
+## Key NPCs
+
+- [[Master Artificer Korvin Gearwright]]
+- [[Shadow Duchess Nyx]]
+- [[Master_Wind_Singer_Melody_Tradition]]
+- [[04_Resources_Assets_Locations_location-city-master-trader-abyss-currentbinder-master-trader-abyss-currentbinder.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-sunken-cathedral-of-perfect-order-the-sunken-cathedral-of-perfect-order.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-coral-reef-republics-coral-reef-republics.svg]]
+- [[04_Resources_Assets_Locations_location-city-senator-morticia-graveheart-senator-morticia-graveheart.svg]]
+- [[Wave Traderwind]]

@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Brother Marcus
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Brother Marcus
 
@@ -24,16 +28,16 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Crystal Plague Infected NPCs]]
-- [[12_Research/D&D_References/Crystal Plague Infected NPCs]]
-- [[12_Research/D&D_References/Crystal Plague Infected NPCs]]
-- [[12_Research/D&D_References/Crystal Plague Infected NPCs]]
-- [[12_Research/D&D_References/Crystal Plague Infected NPCs]]
-- [[12_Research/D&D_References/Crystal Plague Infected NPCs]]
-- [[12_Research/D&D_References/Crystal Cult Temples]]
-- [[12_Research/D&D_References/Black Market Crystal Trade]]
-- [[12_Research/D&D_References/Black Market Crystal Trade]]
-- [[12_Research/D&D_References/Crystal Plague Wards]]
+- [[Crystal Plague Infected NPCs]]
+- [[Crystal Plague Infected NPCs]]
+- [[Crystal Plague Infected NPCs]]
+- [[Crystal Plague Infected NPCs]]
+- [[Crystal Plague Infected NPCs]]
+- [[Crystal Plague Infected NPCs]]
+- [[Crystal Cult Temples]]
+- [[Black Market Crystal Trade]]
+- [[Black Market Crystal Trade]]
+- [[Crystal Plague Wards]]
 
 ## Notes
 

@@ -1,27 +1,33 @@
+# Sequester Xphb
+
 ---
+title: Sequester Xphb
 aliases:
 - Sequester
-classes:
-- Bard
-- Wizard
-created: 2025-08-11
-cssclasses: json5e-spell
-obsidian-u-i-mode: preview
-priority: medium
-status: active
+type: quest
 tags:
-- active
 - both
 - content/adventure
 - mechanics/magic
 - quest
+- world/both
+- research
+- active
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
-- world/both
-type: quest
+created: 2025-08-11
+modified: '2025-08-14'
+status: active
+classes:
+- Bard
+- Wizard
+cssclasses: json5e-spell
+obsidian-u-i-mode: preview
+priority: medium
 updated: '2025-08-13T12:34:06.383096+00:00'
 world: Both
 ---
+
 
 
 # Sequester
@@ -62,3 +68,8 @@ Legends speak of sequester xphb as a nexus where past and present converge. Loca
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

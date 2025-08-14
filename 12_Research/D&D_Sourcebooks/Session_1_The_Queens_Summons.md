@@ -1,13 +1,21 @@
+# Session_1_The_Queens_Summons
+
 ---
+title: Session 1 The Queens Summons
+type: NPC
 tags:
-- active
-- adventure-session
-- aethermoor
 - court-politics
+- adventure-session
 - levels-4-6
 - npc
 - political-intrigue
+- research
+- active
 - winds-of-rebellion
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 session_number: 1
 adventure: Winds of Rebellion
 level_range: 4-6
@@ -19,11 +27,9 @@ themes:
 - court-politics
 - hidden-agendas
 - faction-introductions
-created: '2025-08-11'
 updated: '2025-08-13T01:18:37.156118+00:00'
-type: NPC
-status: active
 ---
+
 
 
 # Session 1: The Queen's Summons

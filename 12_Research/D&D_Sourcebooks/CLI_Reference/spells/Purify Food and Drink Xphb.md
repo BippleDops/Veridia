@@ -1,6 +1,24 @@
+# Purify Food and Drink Xphb
+
 ---
+title: Purify Food and Drink Xphb
 aliases:
 - Purify Food and Drink
+type: note
+tags:
+- access/secret
+- both
+- mechanics/magic
+- content/lore
+- world/both
+- research
+- active
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
 classes:
 - Bard
 - Bard (College of Lore)
@@ -8,25 +26,12 @@ classes:
 - Druid
 - Paladin
 - Sorcerer (Divine Soul)
-created: 2025-07-23
 cssclasses: json5e-spell
-modified: 2025-07-23 12:39
 obsidianUIMode: preview
-status: active
-tags:
-- access/secret
-- active
-- both
-- content/lore
-- mechanics/magic
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-- world/both
-type: note
 updated: '2025-08-13T12:34:06.621497+00:00'
 world: Both
 ---
+
 
 
 # Purify Food and Drink
@@ -63,3 +68,8 @@ Legends speak of purify food and drink xphb as a nexus where past and present co
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

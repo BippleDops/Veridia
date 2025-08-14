@@ -1,21 +1,28 @@
+# Campaign Consequence Tracking Framework
+
 ---
-tags:
-- both worlds
-- both-worlds
-- campaign-management
-- complete
-- consequence-tracking
-- economic-impacts
-- framework
-- gm-tools
-- lore
-- political-ripples
+title: Campaign Consequence Tracking Framework
 type: Lore
-world: Both Worlds
-status: complete
+tags:
+- lore
+- framework
+- both worlds
+- consequence-tracking
+- campaign-management
+- both-worlds
+- research
+- gm-tools
+- political-ripples
+- economic-impacts
+- active
+- complete
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Both Worlds
 updated: '2025-08-13T04:22:13.765686+00:00'
 ---
+
 
 
 
@@ -230,3 +237,7 @@ Each consequence chain should link to:
 - [[Faction Standing System]]
 - [[Living_Economy_System|03 Mechanics/Living Economy System]]
 - [[Political Intrigue Master Index]]
+
+## Related
+
+*Links to related content will be added here.*

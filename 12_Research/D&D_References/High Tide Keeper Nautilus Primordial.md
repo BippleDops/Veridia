@@ -1,14 +1,20 @@
+# High Tide Keeper Nautilus Primordial
+
 ---
+title: High Tide Keeper Nautilus Primordial
+type: Location
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:36.345368+00:00'
 world: Both
-type: Location
-status: active
-tags:
-- active
-- both
-- location
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-high-tide-keeper-nautilus-primordial-high-tide-keeper-nautilus-primordial.svg]]
@@ -39,3 +45,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[High Tide Keeper Nautilus Primordial|02 Worldbuilding/Places/High Tide Keeper Nautilus Primordial]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,20 +1,27 @@
+# Linguistic Quick Reference
+
 ---
-updated: '2025-08-13T01:18:31.115506+00:00'
-created: '2025-08-12'
+title: Linguistic Quick Reference
+type: gm_tool
 tags:
 - both
-- complete
 - gm-resource
-- gm_tool
-- languages
 - linguistics
 - quick-reference
 - social-encounters
+- gm_tool
+- research
+- active
+- complete
+- languages
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
+updated: '2025-08-13T01:18:31.115506+00:00'
 world: Both
-type: gm_tool
 obsidianUIMode: preview
 ---
+
 
 
 # Linguistic Quick Reference
@@ -317,3 +324,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 
+
+
+## Related
+
+*Links to related content will be added here.*

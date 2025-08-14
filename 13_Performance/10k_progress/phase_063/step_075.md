@@ -1,9 +1,16 @@
 ---
+title: step 075
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 63
 step: 75
 total_step: 6275
 ---
+
 
 # Phase 63 - Step 75
 

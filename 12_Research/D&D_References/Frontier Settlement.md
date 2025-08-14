@@ -1,16 +1,22 @@
+# Frontier Settlement
+
 ---
-tags:
-- active
-- aquabyssos
-- complete
-- lore
-- quest
+title: Frontier Settlement
 type: Lore
-world: Aquabyssos
-status: complete
+tags:
+- lore
+- aquabyssos
+- quest
+- research
+- active
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T12:34:13.055708+00:00'
 ---
+
 
 
 
@@ -39,3 +45,8 @@ Legends speak of Frontier Settlements 2 as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

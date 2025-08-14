@@ -1,3 +1,15 @@
+# EXAMPLE_CAMPAIGN_SETUP
+
+---
+title: EXAMPLE CAMPAIGN SETUP
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # CORDELIA VAULT - EXAMPLE CAMPAIGN SETUP
 
 **Campaign Name**: "Shadows Beneath the Crown"  
@@ -775,3 +787,7 @@ This example campaign demonstrates how the Cordelia Vault's systems work togethe
 **Player Satisfaction Target**: 4.5/5.0 or higher  
 **Story Coherence**: Maintains logical consistency while allowing player agency  
 **Reusability**: Structure adaptable for different themes and player groups
+
+## Related
+
+*Links to related content will be added here.*

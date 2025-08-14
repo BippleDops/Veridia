@@ -1,18 +1,25 @@
+# Mediator Cardinal Harmony
+
 ---
-created: '2025-08-11'
-danger_level: Moderate
-status: complete
+title: Mediator Cardinal Harmony
+type: Location
 tags:
 - both
-- complete
-- content/location
-- location
-- status/in-progress
+- research
 - world/both
-type: Location
+- content/location
+- active
+- location
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+danger_level: Moderate
 updated: '2025-08-13T12:34:16.833502+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -70,3 +77,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Theological Warfare]]
+
+
+## Related
+
+*Links to related content will be added here.*

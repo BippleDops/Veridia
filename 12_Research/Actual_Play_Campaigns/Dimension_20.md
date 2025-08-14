@@ -1,11 +1,18 @@
+# Dimension_20
+
 ---
-created: 2025-08-14
+title: Dimension 20
 type: research
 tags:
 - actual-play
+- research
 - dimension-20
+- active
 - reference
+created: 2025-08-14
+modified: '2025-08-14'
 ---
+
 
 # Dimension 20 Campaigns
 
@@ -38,3 +45,8 @@ tags:
 
 ---
 *Reference for creative campaign concepts*
+
+
+## Related
+
+*Links to related content will be added here.*

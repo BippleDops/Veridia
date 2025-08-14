@@ -1,9 +1,16 @@
 ---
+title: step 087
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 19
 step: 87
 total_step: 1887
 ---
+
 
 # Phase 19 - Step 87
 

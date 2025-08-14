@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: The Memory Merchants Guild
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Groups/The Memory Merchants Guild
 
@@ -24,9 +31,9 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Amnesia Gallery]]
-- [[12_Research/D&D_References/Amnesia Gallery]]
-- [[12_Research/D&D_References/Aboleth Adjunct Yzz]]
+- [[Amnesia Gallery]]
+- [[Amnesia Gallery]]
+- [[Aboleth Adjunct Yzz]]
 - [[12_Research/D&D_Statblocks/Reality Breach Locations]]
 - [[02_Worldbuilding/Places/Reality Breach Locations]]
 - [[02_Worldbuilding/Places/Amnesia Gallery]]
@@ -42,3 +49,7 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-war-room-sanctuary-the-war-room-sanctuary.svg]]

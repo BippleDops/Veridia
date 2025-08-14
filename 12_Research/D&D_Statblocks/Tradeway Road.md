@@ -1,18 +1,24 @@
+# Tradeway Road
+
 ---
+title: Tradeway Road
+type: Lore
 tags:
+- lore
 - aquabyssos
+- tradeway
+- quest
+- memory-magic
+- deep-mother
+- research
+- active
 - complete
 - corruption
-- deep-mother
-- lore
-- memory-magic
-- quest
-- tradeway
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.505495+00:00'
 level_range: 4-6
 party_size: 3-6
@@ -21,6 +27,7 @@ MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 ---
+
 
 
 
@@ -955,3 +962,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Aquabyssos Trade Council|02 Worldbuilding/Lore/Aquabyssos Trade Council]]
 - [[Ancient Mer-Folk Empire]]
+
+
+## Related
+
+*Links to related content will be added here.*

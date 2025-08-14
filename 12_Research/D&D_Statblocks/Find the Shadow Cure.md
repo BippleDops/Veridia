@@ -1,23 +1,30 @@
+# Find the Shadow Cure
+
 ---
+title: Find the Shadow Cure
+type: NPC
 tags:
 - aquabyssos
-- complete
-- cure
-- healing
+- shadow
 - npc
 - quest
-- shadow
+- research
+- cure
+- active
+- complete
+- healing
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: NPC
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Medical
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.950098+00:00'
 cr: '7'
 ---
+
 
 
 > [!figure] Portrait
@@ -139,3 +146,8 @@ Legends speak of Find the Shadow Cure as a nexus where past and present converge
 - [[Find the Shadow Cure|02 Worldbuilding/People/Find The Shadow Cure]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

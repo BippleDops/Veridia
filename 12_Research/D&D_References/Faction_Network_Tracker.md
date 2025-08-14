@@ -1,3 +1,15 @@
+# Faction_Network_Tracker
+
+---
+title: Faction Network Tracker
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Faction Network Tracker
 
 ## Overview
@@ -128,3 +140,8 @@ New organizations gaining influence
 
 ---
 *Generated: 2025-08-13 07:59:51*
+
+
+## Related
+
+*Links to related content will be added here.*

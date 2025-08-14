@@ -1,15 +1,21 @@
+# The Crystal Manifesto
+
 ---
+title: The Crystal Manifesto
+type: Lore
 tags:
+- lore
+- faction
+- research
 - active
 - aethermoor
-- faction
-- lore
-type: Lore
-world: Aethermoor
-status: active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:34.675213+00:00'
 ---
+
 
 
 
@@ -47,3 +53,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Rewrite the World Order]]
+
+
+## Related
+
+*Links to related content will be added here.*

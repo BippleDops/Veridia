@@ -1,16 +1,23 @@
+# Social_Encounter_Reference
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- gm-resources
-- reference-cards
-- social
-- roleplay
-- npcs
+title: Social Encounter Reference
 type: Reference
+tags:
+- npcs
+- social
+- research
+- roleplay
+- gm-resources
+- active
+- reference-cards
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
+
 
 # Social Encounter Reference
 
@@ -267,3 +274,7 @@ world: Both
 - [[Dynamic_NPC_Personality_Matrix]]
 - [[Faction_Quick_Reference]]
 - [[Aquabyssos_Cultural_Codex]]
+
+## Related
+
+*Links to related content will be added here.*

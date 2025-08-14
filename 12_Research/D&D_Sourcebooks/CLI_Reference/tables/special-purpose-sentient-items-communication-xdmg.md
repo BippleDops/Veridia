@@ -1,20 +1,26 @@
+# special-purpose-sentient-items-communication-xdmg
+
 ---
+title: special purpose sentient items communication xdmg
 aliases:
 - Special Purpose; Sentient Item's Communication
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.520909'
 world: Both
 ---
+
 
 # Special Purpose; Sentient Item's Communication
 *Source: Dungeon Master's Guide (2024) p. 226* 
@@ -49,3 +55,8 @@ Legends speak of special purpose sentient items communication xdmg as a nexus wh
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

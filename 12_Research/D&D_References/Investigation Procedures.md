@@ -1,20 +1,27 @@
+# Investigation Procedures
+
 ---
+title: Investigation Procedures
+type: Lore
+tags:
+- lore
+- aquabyssos
+- both
+- investigation
+- worldbuilding
+- research
+- procedures
+- active
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
-tags:
-- aquabyssos
-- both
-- complete
-- investigation
-- lore
-- procedures
-- worldbuilding
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
-created: '2025-08-11'
-type: Lore
 ---
+
 
 
 

@@ -1,14 +1,20 @@
+# Marcus Shardbreaker Grimm
+
 ---
+title: Marcus Shardbreaker Grimm
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
 created: null
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T12:34:09.733914+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 
 
@@ -135,3 +141,8 @@ Legends speak of Marcus Shardbreaker Grimm as a nexus where past and present con
 - [[Marcus Shardbreaker Grimm|02 Worldbuilding/People/Marcus Shardbreaker Grimm]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

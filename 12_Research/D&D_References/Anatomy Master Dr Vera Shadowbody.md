@@ -1,17 +1,24 @@
+# Anatomy Master Dr Vera Shadowbody
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
+title: Anatomy Master Dr Vera Shadowbody
 type: Lore
+tags:
+- lore
+- both
+- content/lore
+- world/both
+- research
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:15.944212+00:00'
 world: Both
 ---
+
 
 
 
@@ -45,3 +52,8 @@ Legends speak of Anatomy Master Dr. Vera Shadowbody as a nexus where past and pr
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

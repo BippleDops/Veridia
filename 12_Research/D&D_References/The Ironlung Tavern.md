@@ -1,15 +1,21 @@
+# The Ironlung Tavern
+
 ---
-tags:
-- active
-- aquabyssos
-- location
-- lore
+title: The Ironlung Tavern
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- research
+- active
+- location
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.154331+00:00'
 ---
+
 
 
 
@@ -48,3 +54,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Lady Vivienne the Unfrozen]]
 - [[Teacher Miranda Hopekeeper]]
+
+
+## Related
+
+*Links to related content will be added here.*

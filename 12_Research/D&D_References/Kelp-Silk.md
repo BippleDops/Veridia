@@ -1,14 +1,20 @@
+# Kelp-Silk
+
 ---
+title: Kelp Silk
+type: Location
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:36.341477+00:00'
 world: Both
-type: Location
-status: active
-tags:
-- active
-- both
-- location
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-kelp-silk-kelp-silk.svg]]
@@ -39,3 +45,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Kelp-Silk|02 Worldbuilding/Places/Kelp Silk]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

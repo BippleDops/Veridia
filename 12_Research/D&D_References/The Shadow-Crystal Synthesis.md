@@ -1,29 +1,36 @@
+# The Shadow-Crystal Synthesis
+
 ---
+title: The Shadow Crystal Synthesis
+type: Group
 tags:
+- researchers
+- faction
+- experimenters
+- synthesis
+- research
 - both aethermoor & aquabyssos
+- shadow-crystal
+- active
 - both-aethermoor-&-aquabyssos
 - complete
 - cross-realm
-- experimenters
-- faction
 - group
-- researchers
-- shadow-crystal
-- synthesis
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
+headquarters: '[[The Fusion Laboratory]] (hidden dimensional pocket)'
 world: Both Aethermoor & Aquabyssos
-type: Group
 faction_type: Research Collective
 alignment: Chaotic Neutral (Science over Ethics)
-headquarters: '[[The Fusion Laboratory]] (hidden dimensional pocket)'
 leader: '[[Doctor Prism Voidweaver]]'
 members: ~150 researchers and test subjects
 influence: Secretive but Growing
 purpose: Merge shadow and crystal energies
 created_by: auto-stub
-created: '2025-08-09'
 updated: '2025-08-13T01:18:36.714938+00:00'
 ---
+
 
 
 
@@ -473,3 +480,8 @@ Legends speak of The Shadow Crystal Synthesis as a nexus where past and present 
 - [[The Liminal Trading Company]]
 - [[The Void Watchers]]
 - [[Keeper of the Shattered Crown, Marcus Crystalvein]]
+
+
+## Related
+
+*Links to related content will be added here.*

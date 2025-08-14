@@ -1,17 +1,25 @@
+# The Azure Coast
+
 ---
+title: The Azure Coast
+type: Location
 tags:
-- aethermoor
-- coastal
-- coastal-region
 - completed
-- location
+- coastal
+- trade-routes
+- research
+- coastal-region
 - maritime
 - region
 - strategic
-- trade-routes
+- active
+- location
+- aethermoor
+created: '2025-08-09'
+modified: '2025-08-14'
 status: completed
+population: 850000
 world: Aethermoor
-type: Location
 danger_level: 3
 climate: Temperate Maritime
 length: 400 miles of coastline
@@ -20,14 +28,13 @@ major_cities:
 - '[[Goldspire Port|02 Worldbuilding/Places/Goldspire Port]]'
 - Azure Bay
 government: Multiple City-States and Kingdoms
-population: 850000
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 related_entities:
 - '[[The Cerulean Archipelago|02 Worldbuilding/Places/The Cerulean Archipelago]]'
 - '[[Aquabyssos Ambassadors|02 Worldbuilding/Lore/Aquabyssos Ambassadors]]'
 - '[[The Crimson Fleet|02 Worldbuilding/Groups/The Crimson Fleet]]'
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-azure-coast-the-azure-coast.svg]]
@@ -301,3 +308,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Azure Coast|02 Worldbuilding/Places/The Azure Coast]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

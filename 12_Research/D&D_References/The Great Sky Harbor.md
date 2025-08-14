@@ -1,15 +1,21 @@
+# The Great Sky Harbor
+
 ---
-tags:
-- active
-- aethermoor
-- location
+title: The Great Sky Harbor
 type: Location
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.193336+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-great-sky-harbor-the-great-sky-harbor.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Great Sky Harbor|02 Worldbuilding/Places/The Great Sky Harbor]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,22 +1,27 @@
+# New Action Breath Weapon Mm
+
 ---
+title: New Action Breath Weapon Mm
 aliases:
 - New Action: Breath Weapon
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
+- ttrpg-cli/compendium/src/5e/mm
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/mm
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:03.821857+00:00'
 world: Both
 ---
+
 
 
 # New Action: Breath Weapon
@@ -48,3 +53,8 @@ Legends speak of new action breath weapon mm as a nexus where past and present c
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

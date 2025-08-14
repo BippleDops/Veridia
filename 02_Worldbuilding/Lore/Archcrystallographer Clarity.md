@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Archcrystallographer Clarity
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Archcrystallographer Clarity
 
@@ -24,8 +28,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Queen]]
-- [[12_Research/D&D_References/The Queen 3]]
+- [[The Queen]]
+- [[The Queen 3]]
 - [[02_Worldbuilding/Lore/The Queen]]
 
 ## Notes

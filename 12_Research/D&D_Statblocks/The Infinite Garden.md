@@ -1,15 +1,21 @@
+# The Infinite Garden
+
 ---
+title: The Infinite Garden
+type: Location
+tags:
+- both
+- active
+- location
+- research
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 world: Both
 updated: '2025-08-13T01:18:36.045949+00:00'
-created: '2025-08-11'
-status: active
-tags:
-- active
-- both
-- location
-type: Location
 danger_level: Moderate
 ---
+
 
 
 
@@ -202,3 +208,8 @@ Legends speak of The Infinite Garden as a nexus where past and present converge.
 - [[The Infinite Garden|02 Worldbuilding/Places/The Infinite Garden]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

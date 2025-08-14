@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Administrator Ledger Goldcount
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Administrator Ledger Goldcount
 
@@ -24,7 +28,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Coral Throne Syndicate HQ]]
+- [[Coral Throne Syndicate HQ]]
 - [[02_Worldbuilding/Places/Coral Throne Syndicate HQ]]
 
 ## Notes

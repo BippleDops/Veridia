@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 6   The First Fragment
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 6 - The First Fragment
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Locations_location-city-master-archivist-valdric-stonewhisper-master-archivist-valdric-stonewhisper.svg]]
+- [[The Pearl Guard]]
+- [[Captain Navigator]]
+- [[Lord Aldric Highwind]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-crisis-response-service-crisis-response-service.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-the-eternal-senate-v1-the-eternal-senate.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-sundered-peaks-the-sundered-peaks.svg]]
+- [[Market Master Cornelius Driftwood]]

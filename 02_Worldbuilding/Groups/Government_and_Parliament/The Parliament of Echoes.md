@@ -1,16 +1,23 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- complete
-- content/faction
-- dual
-- faction
-- status/in-progress
+title: The Parliament of Echoes
 type: Faction
+tags:
+- dual
+- content/faction
+- faction
+- organization
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.411465+00:00'
 world: dual
 ---
+
 
 
 ## Overview

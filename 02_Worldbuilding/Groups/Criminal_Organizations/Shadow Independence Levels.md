@@ -1,4 +1,20 @@
 ---
+title: Shadow Independence Levels
+type: Faction
+tags:
+- aquabyssos
+- status/complete
+- content/faction
+- faction
+- organization
+- active
+- complete
+- world/aquabyssos
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 MyCategory: Shadow Autonomy Movement
 MyContainer: '[[The Shadowmere]]'
 benefits:
@@ -8,7 +24,6 @@ benefits:
   standing: 2
 - reward: Council membership consideration and shadow realm territory rights
   standing: 3
-created: '2025-08-11'
 created_by: expansion
 faction: Shadow Autonomy Movement
 initiates:
@@ -26,18 +41,10 @@ officers:
 - The Shadow Singer Naia
 - Marcus 'The Shade' Blackwood
 primary_contact: Elder Whisper-In-The-Dark
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/faction
-- faction
-- status/complete
-- world/aquabyssos
-type: Faction
 updated: '2025-08-13T12:34:17.382433+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry
@@ -400,3 +407,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Shadow Singer Naia]]
 - [[New Thalassopolis]]
 - [[Parliament of Echoes]]
+
+
+## Known Members
+
+- [[Pearl Empress Lustrous]]

@@ -1,25 +1,30 @@
+# Spell Scroll Level 9 Xdmg
+
 ---
+title: Spell Scroll Level 9 Xdmg
 aliases:
 - Spell Scroll (Level 9)
-attunement: false
-created: 2025-07-23 12:39
-cssclasses: json5e-item
-modified: 2025-07-23 12:39
-obsidian-u-i-mode: preview
-status: active
+type: note
 tags:
-- active
 - both
-- content/item
 - content/lore
+- world/both
+- research
+- active
 - note
+- content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- world/both
-type: note
+created: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+attunement: false
+cssclasses: json5e-item
+obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:07.739733+00:00'
 world: Both
 ---
+
 
 
 # Spell Scroll (Level 9)
@@ -58,3 +63,8 @@ Legends speak of spell scroll level 9 xdmg as a nexus where past and present con
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,15 +1,21 @@
+# Archbishop Matthias Lightbringer
+
 ---
-tags:
-- active
-- aethermoor
-- complete
-- npc
+title: Archbishop Matthias Lightbringer
 type: NPC
-world: Aethermoor
-status: complete
+tags:
+- npc
+- research
+- active
+- complete
+- aethermoor
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+world: Aethermoor
 updated: '2025-08-13T12:34:14.436470+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -64,3 +70,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Archbishop Matthias Lightbringer|02 Worldbuilding/People/Archbishop Matthias Lightbringer]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

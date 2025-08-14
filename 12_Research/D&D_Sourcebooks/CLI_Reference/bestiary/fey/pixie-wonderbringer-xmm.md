@@ -1,27 +1,34 @@
+# pixie-wonderbringer-xmm
+
 ---
+title: pixie wonderbringer xmm
 aliases:
 - Pixie Wonderbringer
+type: monster
+tags:
+- ttrpg-cli/compendium/src/5e/xmm
+- monster
+- ttrpg-cli/monster/cr/5
+- world/both
+- ttrpg-cli/monster/environment/planar
+- research
+- ttrpg-cli/monster/environment/feywild
+- active
+- ttrpg-cli/monster/type/fey
+- ttrpg-cli/monster/environment/forest
+- status/in-progress
+- ttrpg-cli/monster/size/tiny
 created: null
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/feywild
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/fey
-- world/both
-type: monster
 updated: '2025-08-12T23:37:35.257779'
 world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -122,3 +129,8 @@ Legends speak of pixie wonderbringer xmm as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

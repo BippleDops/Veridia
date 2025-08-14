@@ -1,16 +1,22 @@
+# New_Ship_Template
+
 ---
 title: New Ship Template
 type: template
-status: complete
 tags:
-- both
-- complete
 - template
+- both
 - vehicles
+- research
+- active
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.206073+00:00'
 world: Both
 ---
+
 
 
 # New Ship Template
@@ -58,3 +64,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Aquabyssos_Submarines_Catalog|03 Mechanics/Vehicles/Aquabyssos Submarines Catalog]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,14 +1,20 @@
+# Queen Seraphina Lumengarde
+
 ---
+title: Queen Seraphina Lumengarde
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 world: Both
 updated: '2025-08-13T01:18:36.820404+00:00'
-created: '2025-08-11'
-status: active
-tags:
-- active
-- both
-- npc
-type: NPC
 ---
+
 
 
 
@@ -454,3 +460,8 @@ Legends speak of Queen Seraphina Lumengarde as a nexus where past and present co
 - [[Quest - The Enforcement War]]
 - [[treasure-hoard-challenge-17]]
 - [[holy-symbol-varies-holy-symbols-xphb]]
+
+
+## Related
+
+*Links to related content will be added here.*

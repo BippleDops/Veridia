@@ -1,21 +1,28 @@
+# Depth Adaptation Points
+
 ---
+title: Depth Adaptation Points
+type: Lore
+tags:
+- lore
+- aquabyssos
+- both
+- pressure
+- mechanics
+- worldbuilding
+- research
+- active
+- adaptation
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
-tags:
-- adaptation
-- aquabyssos
-- both
-- complete
-- lore
-- mechanics
-- pressure
-- worldbuilding
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
-created: '2025-08-11'
-type: Lore
 ---
+
 
 
 

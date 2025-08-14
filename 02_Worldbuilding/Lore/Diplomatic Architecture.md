@@ -1,17 +1,21 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aethermoor
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/aethermoor
+title: Diplomatic Architecture
 type: Lore
+tags:
+- lore
+- content/lore
+- world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.438020+00:00'
 world: Aethermoor
 ---
+
 
 
 ## Overview
@@ -40,12 +44,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Royal Embassy]]
+- [[Royal Embassy]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Royal Embassy]]
+- [[Royal Embassy]]
 
 
 ## Related

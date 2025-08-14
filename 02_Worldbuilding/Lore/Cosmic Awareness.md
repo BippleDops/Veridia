@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Cosmic Awareness
+type: Lore
 tags:
-- aethermoor
-- complete
+- lore
 - content/adventure
 - content/lore
-- lore
-- status/in-progress
 - world/aethermoor
-type: Lore
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.431812+00:00'
 world: Aethermoor
 ---
+
 
 
 ## Overview

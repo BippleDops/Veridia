@@ -1,14 +1,21 @@
+# Session_Zero_Worksheet
+
 ---
-created: '2025-08-13'
-status: complete
+title: Session Zero Worksheet
+type: Visual Handout
 tags:
 - player/visual
 - session/preparation
+- research
+- active
 - reference/worksheet
-type: Visual Handout
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Session Zero Worksheet
 ## Campaign Setup & Expectations
@@ -235,3 +242,7 @@ COMMUNICATION AGREEMENT:
 *Complete this worksheet before Session Zero*
 *Bring questions and be ready to discuss*
 *Remember: This is about setting up for everyone's fun*
+
+## Related
+
+*Links to related content will be added here.*

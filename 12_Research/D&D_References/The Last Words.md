@@ -1,20 +1,27 @@
+# The Last Words
+
 ---
+title: The Last Words
+type: Location
 tags:
-- aquabyssos
-- complete
-- final-message
-- location
 - mystery
+- aquabyssos
 - quest
+- research
+- final-message
+- active
+- location
+- complete
 - urgent
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.413341+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -179,3 +186,8 @@ Legends speak of The Last Words as a nexus where past and present converge. Loca
 - [[The Last Words|02 Worldbuilding/Places/The Last Words]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

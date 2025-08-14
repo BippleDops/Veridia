@@ -1,20 +1,26 @@
+# crafting-an-item-resources-and-resolution-xge
+
 ---
+title: crafting an item resources and resolution xge
 aliases:
 - Crafting an Item; Resources and Resolution
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- ttrpg-cli/compendium/src/5e/xge
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/xge
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.635521'
 world: Both
 ---
+
 
 # Crafting an Item; Resources and Resolution
 *Source: Xanathar's Guide to Everything p. 128* 
@@ -46,3 +52,8 @@ Legends speak of crafting an item resources and resolution xge as a nexus where 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,21 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry quest the family reunion quest the family reunion.svg
+aliases:
+- symbol heraldry quest the family reunion quest the family reunionsvg
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-quest-the-family-reunion-quest-the-family-reunion.svg
 
@@ -24,8 +32,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
-- [[12_Research/D&D_References/Quest - The Family Reunion]]
+- [[Faction Symbols & Heraldry]]
+- [[Quest - The Family Reunion]]
 
 ## Notes
 
@@ -36,3 +44,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-silverscale-consortium-silverscale-consortium.svg]]
+- [[04_Resources_Assets_Art_Places_Forge_Master_Petra_Hammerdeep.png]]
+- [[Blood in the Water]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-architects-of-depths-the-architects-of-depths.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-regulatory-medical-authorit-regulatory-medical-authorit.svg]]
+
+
+## Important Locations
+
+- [[Deepmind Conspiracy]]
+- [[Quest - The Harbor War]]
+- [[04_Resources_Assets_Locations_location-city-plague-crisis-plague-crisis.png]]

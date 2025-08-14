@@ -1,32 +1,38 @@
 ---
+title: The Heart of Oceanus
+type: Npc
+tags:
+- aquabyssos
+- status/complete
+- entity
+- heart
+- npc
+- primordial
+- content/lore
+- character
+- content/npc
+- patron
+- active
+- divine
+- complete
+- world/aquabyssos
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+race: Primordial Entity
+class: Unknown
+location: The Deepest Depths of All Oceans
 MyCategory: NPC
 MyContainer: None
 affiliation: The Ocean Itself
 age: Ancient - Pre-Creation
-created: '2025-08-08'
 created_by: auto-stub
-location: The Deepest Depths of All Oceans
 obsidianUIMode: preview
-race: Primordial Entity
 role: Primordial Sea Spirit
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/lore
-- content/npc
-- divine
-- entity
-- heart
-- npc
-- patron
-- primordial
-- status/complete
-- world/aquabyssos
-type: Npc
 updated: '2025-08-13T12:34:17.472596+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -294,6 +300,14 @@ Its presence in campaigns can:
 The Heart represents the philosophy that true power comes from giving rather than taking, and that the greatest strength is often shown through restraint and nurturing rather than domination.
 
 
+
+
+## Relationship Web
+
+- [[Captain Scarlet Torrent]]: *former lover*
+- [[Kingdom of Luminal Peaks]]: *bitter rival*
+- [[04_Resources_Assets_Locations_location-city-merchant-prince-aldric-goldcurrent-v1-merchant-prince-aldric-goldcurrent.svg]]: *student*
+
 ## Connections
 
 - [[Nerissa_Deepcurrent|Nerissa Deepcurrent]]
@@ -305,6 +319,114 @@ The Heart of Oceanus is a undersea element of the setting, known for bioluminesc
 ## Lore Details
 
 Legends speak of The Heart of Oceanus as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Heart of Oceanus.
+
+
+
+## Appearance
+
+The Heart of Oceanus presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Pursuing knowledge
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Sharp and precise
+
+**Speech Pattern**: Casual and relaxed
+
+**Physical Habits**: Remains perfectly still
+
+## Current Activities
+
+The Heart of Oceanus is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: The Heart of Oceanus needs assistance with a delicate matter
+2. **The Opposition**: Someone wants The Heart of Oceanus stopped or removed
+3. **The Secret**: Information about The Heart of Oceanus's past surfaces
+4. **The Alliance**: Opportunity to work with or against The Heart of Oceanus
+5. **The Crisis**: The Heart of Oceanus is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 

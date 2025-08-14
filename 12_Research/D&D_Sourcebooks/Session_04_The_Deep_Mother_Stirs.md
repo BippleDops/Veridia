@@ -1,16 +1,23 @@
+# Session_04_The_Deep_Mother_Stirs
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- campaign/seven-shards
-- session-guide
-- world/aquabyssos
-- horror
-- investigation
+title: Session 04 The Deep Mother Stirs
 type: Quest
+tags:
+- investigation
+- session-guide
+- research
+- active
+- horror
+- world/aquabyssos
+- campaign/seven-shards
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T07:30:00.000000+00:00'
 world: Aquabyssos
 ---
+
 
 # Session 4: The Deep Mother Stirs
 
@@ -217,3 +224,7 @@ If the party chooses to proceed, they must navigate the treacherous **Leviathan 
 ---
 
 *"In the deepest waters, the greatest treasures lie alongside the greatest terrors. The wise navigator knows that some depths are meant to remain unexplored."* - Ancient Aquabyssos Proverb
+
+## Related
+
+*Links to related content will be added here.*

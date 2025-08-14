@@ -1,29 +1,36 @@
 ---
+title: The Forgotten Representative
+type: Location
+tags:
+- mystery
+- aquabyssos
+- session-notes
+- status/complete
+- representative
+- forgotten
+- political
+- quest
+- content/location
+- content/npc
+- place
+- active
+- location
+- complete
+- world/aquabyssos
+created: 2025-08-08 - Category/People
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: NPC
 MyContainer: None
-created: 2025-08-08 - Category/People
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
-status: complete
-tags:
-- quest
-- session-notes
-- aquabyssos
-- complete
-- content/location
-- content/npc
-- forgotten
-- location
-- mystery
-- political
-- representative
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.516273+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -87,6 +94,27 @@ They seem particularly focused on ensuring that any resolution to the crisis ack
 2. Someone is trying to silence the Representative permanently, and the party must investigate who wants certain memories to remain buried.
 3. The Representative asks the party to help recover stolen historical records that could vindicate forgotten heroes.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Use the Forgotten Representative to introduce historical complexity to current events and to remind players that their actions will be remembered by future generations. They serve as a conscience for the campaign, ensuring that moral choices have weight and that the costs of decisions are acknowledged.
@@ -94,10 +122,10 @@ Use the Forgotten Representative to introduce historical complexity to current e
 
 ## Connections
 
-- [[12_Research/D&D_References/Comprehensive-World-Connection-Guide]]
-- [[12_Research/D&D_References/Abyssos Prime]]
-- [[12_Research/D&D_References/Parliament of Echoes]]
-- [[12_Research/D&D_References/Aquabyssos - Session 02 - The Parliament's Paradox]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Abyssos Prime]]
+- [[Parliament of Echoes]]
+- [[Aquabyssos - Session 02 - The Parliament's Paradox]]
 
 
 ## History
@@ -145,7 +173,7 @@ Legends speak of The Forgotten Representative as a nexus where past and present 
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Forgotten Representative]]
+- [[The Forgotten Representative]]
 
 <!-- enriched: true -->
 
@@ -153,3 +181,85 @@ Legends speak of The Forgotten Representative as a nexus where past and present 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-arts-communities-arts-communities.svg]]
+- [[04_Resources_Assets_Locations_location-city-high-hierophant-meridius-v1-high-hierophant-meridius.svg]]
+- [[04_Resources_Assets_Locations_location-city-inverse-palace-inverse-palace.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+The Forgotten Representative is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Forgotten Representative
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting The Forgotten Representative:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Forgotten Representative
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

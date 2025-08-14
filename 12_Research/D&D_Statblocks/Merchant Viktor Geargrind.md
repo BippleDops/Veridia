@@ -1,25 +1,32 @@
+# Merchant Viktor Geargrind
+
 ---
+title: Merchant Viktor Geargrind
+type: Location
 tags:
 - aquabyssos
-- artificer
-- complete
-- engineering
-- innovation
-- location
-- merchant
-- npc
 - technology
+- innovation
+- engineering
+- npc
+- research
+- artificer
+- active
+- location
+- complete
+- merchant
+created: 2025-08-08 - Category/Place
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-11T00:00:00+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -494,3 +501,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Memory Farmers]]
 - [[Parliament of Echoes]]
 - [[The Hadal Depths]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,17 +1,23 @@
+# New_Journey_Event_Template
+
 ---
 title: New Journey Event Template
 type: template
-status: complete
 tags:
-- both
-- complete
-- events
 - template
+- both
+- research
 - travel
+- events
+- active
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.204324+00:00'
 world: Both
 ---
+
 
 
 # New Journey Event Template
@@ -49,3 +55,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Vehicles_Index|03 Mechanics/Vehicles/Vehicles Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

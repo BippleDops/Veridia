@@ -1,15 +1,21 @@
+# Dimensional Theorist Prime Echo
+
 ---
-tags:
-- active
-- both worlds
-- both-worlds
-- lore
+title: Dimensional Theorist Prime Echo
 type: Lore
-world: Both Worlds
-status: active
+tags:
+- lore
+- both worlds
+- research
+- both-worlds
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both Worlds
 updated: '2025-08-13T01:18:35.123878+00:00'
 ---
+
 
 
 
@@ -38,3 +44,8 @@ Legends speak of Dimensional Theorist Prime Echo as a nexus where past and prese
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

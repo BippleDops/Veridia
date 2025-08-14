@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: The Shadow War Coalition
+type: Faction
 tags:
 - both
-- complete
 - content/faction
 - faction
-- status/in-progress
+- organization
 - world/both
-type: Faction
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.389858+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Heraldry
@@ -56,3 +63,9 @@ Legends speak of The Shadow War Coalition as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Known Members
+
+- [[04_Resources_Assets_Locations_location-city-commander-typhoon-blackheart-v1-commander-typhoon-blackheart.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-faction-intelligence-faction-intelligence.svg]]

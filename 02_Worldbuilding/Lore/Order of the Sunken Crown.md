@@ -1,20 +1,24 @@
 ---
+title: Order of the Sunken Crown
 type: Lore
-status: complete
 tags:
-- aquatic
-- aquabyssos
-- complete
-- faction
 - lore
+- aquabyssos
 - order
-- organization
 - sunken-crown
+- faction
+- aquatic
+- organization
+- active
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 world: Aquabyssos
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 # Order of the Sunken Crown
@@ -66,13 +70,13 @@ Provides political intrigue, ancient mysteries, and moral complexity around legi
 
 ## Connections
 
-- [[12_Research/D&D_References/Kraken Territories]]
-- [[12_Research/D&D_References/Leviathan Graveyard]]
-- [[12_Research/D&D_References/Thalassius the Wise]]
-- [[12_Research/D&D_References/The Deep Mother]]
-- [[12_Research/D&D_References/The Seven Shards]]
-- [[12_Research/D&D_References/The Cerulean Trench]]
-- [[12_Research/D&D_References/The Primordial Vaults]]
+- [[Kraken Territories]]
+- [[Leviathan Graveyard]]
+- [[Thalassius the Wise]]
+- [[The Deep Mother]]
+- [[The Seven Shards]]
+- [[The Cerulean Trench]]
+- [[The Primordial Vaults]]
 
 ## Player-Facing Summary
 
@@ -97,3 +101,26 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

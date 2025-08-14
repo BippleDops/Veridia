@@ -1,35 +1,42 @@
 ---
+title: The Crystal Wardens
+type: Location
+tags:
+- aerial
+- content/faction
+- content/location
+- protection
+- shadow-touched
+- status/complete
+- mechanics/magic
+- guardian
+- elite
+- combat
+- location
+- aethermoor
+- crystal-enhanced
+- order
+- complete
+- military
+- place
+- active
+- world/aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Places
 MyContainer: None
 access: military_only
-created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
 security_level: high
-status: complete
-tags:
-- combat
-- crystal-enhanced
-- shadow-touched
-- aerial
-- aethermoor
-- complete
-- content/faction
-- content/location
-- elite
-- guardian
-- location
-- mechanics/magic
-- military
-- order
-- protection
-- status/complete
-- world/aethermoor
-type: Location
 updated: '2025-08-13T12:34:16.797550+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View
@@ -42,11 +49,11 @@ world: Aethermoor
 
 ## Overview
 
-The Crystal Wardens represent the elite military order of [[12_Research/D&D_References/Aethermoor]], combining the realm's mastery of crystal technology with centuries of martial tradition. More than mere soldiers, they are the living embodiment of Aethermoor's ideals: precision, harmony, technological innovation, and unwavering dedication to protecting both the realm and its people.
+The Crystal Wardens represent the elite military order of [[Aethermoor]], combining the realm's mastery of crystal technology with centuries of martial tradition. More than mere soldiers, they are the living embodiment of Aethermoor's ideals: precision, harmony, technological innovation, and unwavering dedication to protecting both the realm and its people.
 
 Founded during the early days of crystal cultivation, the Crystal Wardens have evolved from simple mine guards into a sophisticated military force that serves as both the realm's primary defense and its technological vanguard. Each Warden undergoes years of training that merges traditional combat techniques with advanced crystal manipulation, creating warriors capable of channeling the very essence of their homeland into devastating military effectiveness.
 
-The organization operates from their fortress-monastery, [[12_Research/D&D_References/The Crystalline Citadel]], but maintains outposts throughout Aethermoor, from the floating [[12_Research/D&D_References/Azure Citadel]] to the deep mining complexes of [[12_Research/D&D_References/Crystalhaven]]. Their influence extends beyond military matters, as they also serve as researchers, diplomats, and keepers of ancient crystal lore.
+The organization operates from their fortress-monastery, [[The Crystalline Citadel]], but maintains outposts throughout Aethermoor, from the floating [[Azure Citadel]] to the deep mining complexes of [[Crystalhaven]]. Their influence extends beyond military matters, as they also serve as researchers, diplomats, and keepers of ancient crystal lore.
 
 ## Organizational Structure
 
@@ -57,13 +64,13 @@ The supreme leader of the Crystal Wardens, currently held by High Warden Solariu
 
 **Council of Prisms** - Seven senior leaders
 Each member specializes in a different aspect of crystal warfare and governance:
-- **Prism Warden of Combat** - [[12_Research/D&D_References/Vanguard Captain Crystalla Shardstrike]] - Tactical operations and battlefield coordination
-- **Prism Warden of Research** - [[12_Research/D&D_References/Artificer-General Magnus Gemheart]] - Crystal technology development and innovation
-- **Prism Warden of Intelligence** - [[12_Research/D&D_References/Spymaster Quartz Clearview]] - Information gathering and strategic analysis
-- **Prism Warden of Training** - [[12_Research/D&D_References/Drill Commander Titanius Ironcrystal]] - Recruitment and education programs
-- **Prism Warden of Diplomacy** - [[12_Research/D&D_References/Ambassador-Warden Luna Peacegem]] - External relations and treaty negotiations
-- **Prism Warden of Supply** - [[12_Research/D&D_References/Quartermaster Sterling Suppystone]] - Logistics, equipment, and resource management
-- **Prism Warden of Justice** - [[12_Research/D&D_References/Judge-Militant Adamant Truestone]] - Military law and internal discipline
+- **Prism Warden of Combat** - [[Vanguard Captain Crystalla Shardstrike]] - Tactical operations and battlefield coordination
+- **Prism Warden of Research** - [[Artificer-General Magnus Gemheart]] - Crystal technology development and innovation
+- **Prism Warden of Intelligence** - [[Spymaster Quartz Clearview]] - Information gathering and strategic analysis
+- **Prism Warden of Training** - [[Drill Commander Titanius Ironcrystal]] - Recruitment and education programs
+- **Prism Warden of Diplomacy** - [[Ambassador-Warden Luna Peacegem]] - External relations and treaty negotiations
+- **Prism Warden of Supply** - [[Quartermaster Sterling Suppystone]] - Logistics, equipment, and resource management
+- **Prism Warden of Justice** - [[Judge-Militant Adamant Truestone]] - Military law and internal discipline
 
 ### Operational Divisions
 
@@ -530,24 +537,24 @@ Ancient legends speak of a master crystal that could enhance Crystal Warden abil
 
 ### Related Locations
 
-- [[12_Research/D&D_References/The Crystalline Citadel]] - Primary headquarters and training facility
-- [[12_Research/D&D_References/Azure Citadel]] - Secondary command center and aerial operations base
-- [[12_Research/D&D_References/Crystalhaven]] - Major recruitment and supply center
-- [[12_Research/D&D_References/The Crystal Gardens]] - Research and development facilities
+- [[The Crystalline Citadel]] - Primary headquarters and training facility
+- [[Azure Citadel]] - Secondary command center and aerial operations base
+- [[Crystalhaven]] - Major recruitment and supply center
+- [[The Crystal Gardens]] - Research and development facilities
 
 ### Associated Organizations
 
-- [[12_Research/D&D_References/Aethermoor Government]] - Civilian leadership and political oversight
+- [[Aethermoor Government]] - Civilian leadership and political oversight
 - [[02_Worldbuilding/Groups/Crystal Merchants Guil|02 Worldbuilding/Groups/Crystal Merchants Guil]] - Equipment suppliers and technology partners
 - [[Academy of Sciences]] - Research collaboration and technological development
-- [[12_Research/D&D_References/Diplomatic Corps]] - Joint operations and international relations
+- [[Diplomatic Corps]] - Joint operations and international relations
 
 ### Key Figures
 
 - [[High Warden Solarius Brightforge]] - Supreme commander
-- [[12_Research/D&D_References/Vanguard Captain Crystalla Shardstrike]] - Combat operations leader
-- [[12_Research/D&D_References/Artificer-General Magnus Gemheart]] - Technology development chief
-- [[12_Research/D&D_References/Spymaster Quartz Clearview]] - Intelligence operations director
+- [[Vanguard Captain Crystalla Shardstrike]] - Combat operations leader
+- [[Artificer-General Magnus Gemheart]] - Technology development chief
+- [[Spymaster Quartz Clearview]] - Intelligence operations director
 
 ## Secrets and Mysteries
 
@@ -580,9 +587,9 @@ Evidence hints at the existence of a rival or subsidiary organization operating 
 
 ## Connections
 
-- [[12_Research/D&D_References/Aetheron]]
-- [[12_Research/D&D_References/The Final Choice]]
-- [[12_Research/D&D_References/Crystalhaven]]
+- [[Aetheron]]
+- [[The Final Choice]]
+- [[Crystalhaven]]
 
 ## Player-Facing Summary
 
@@ -592,14 +599,129 @@ The Crystal Wardens is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Crystal Wardens as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystal Wardens.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Crystal Wardens]]
+- [[The Crystal Wardens]]
 
 <!-- enriched: true -->
-- [[12_Research/D&D_References/Aethermoor]]
-- [[12_Research/D&D_References/Azure Citadel]]
+- [[Aethermoor]]
+- [[Azure Citadel]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Portraits_portrait-npc-the-emperor-s-memories-the-emperor-s-memories.svg]]
+- [[04_Resources_Assets_Locations_location-city-temporal-magic-research-v1-temporal-magic-research.svg]]
+- [[04_Resources_Assets_Locations_location-city-legal-education-legal-education.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+The Crystal Wardens is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Crystal Wardens
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+The Crystal Wardens was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting The Crystal Wardens:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Crystal Wardens
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

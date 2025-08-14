@@ -1,44 +1,51 @@
+# The Lock Saboteur
+
 ---
+title: The Lock Saboteur
 type: Lore
-status: complete
 tags:
-- combat
-- session-notes
-- crystal-enhanced
-- aquabyssos
-- complete
-- environmental-horror
-- infiltration
 - lore
+- aquabyssos
 - mystery
-- quest
-- sabotage
+- session-notes
 - the-lock
-world: Aquabyssos
+- sabotage
+- worldbuilding
+- quest
+- active
+- combat
+- complete
+- infiltration
+- environmental-horror
+- crystal-enhanced
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 level: 10-14
+world: Aquabyssos
 duration: 2-3 sessions
 threat_level: extreme
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.503279+00:00'
 ---
+
 
 
 # The Lock Saboteur
 
 **Type:** Infiltration/Sabotage Prevention  
 **Level:** 10-14  
-**Location:** [[12_Research/D&D_References/The Lock]], [[12_Research/D&D_References/Pressure's End]], [[12_Research/D&D_References/The Hadal Depths]]  
+**Location:** [[The Lock]], [[Pressure's End]], [[The Hadal Depths]]  
 **Duration:** 2-3 sessions  
-**Threat:** Someone is sabotaging the most important barrier protecting [[12_Research/D&D_References/Aquabyssos]] from abyssal horrors
+**Threat:** Someone is sabotaging the most important barrier protecting [[Aquabyssos]] from abyssal horrors
 
-**Connected Locations:** [[12_Research/D&D_References/Abyssos Prime]], [[12_Research/D&D_Statblocks/The Deepmind]], [[12_Research/D&D_References/Parliament of Echoes]]  
-**Related Groups:** [[12_Research/D&D_References/The Depth Wardens]], [[12_Research/D&D_References/Memory Farmers]], [[12_Research/D&D_References/The Purist Coalition]]  
+**Connected Locations:** [[Abyssos Prime]], [[12_Research/D&D_Statblocks/The Deepmind]], [[Parliament of Echoes]]  
+**Related Groups:** [[The Depth Wardens]], [[Memory Farmers]], [[The Purist Coalition]]  
 **Key Themes:** Environmental horror, institutional failure, [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]], moral complexity
 
 ## Overview
 
-[[12_Research/D&D_References/The Lock]] - the massive arcane barrier holding back the creatures of [[12_Research/D&D_References/The Hadal Depths]] - has begun showing signs of systematic sabotage. Power fluctuations, missing security personnel, and disturbing whispers in the deep suggest an inside job. If the Lock fails completely, the horrors beneath will surge upward and consume all of [[12_Research/D&D_References/Aquabyssos]].
+[[The Lock]] - the massive arcane barrier holding back the creatures of [[The Hadal Depths]] - has begun showing signs of systematic sabotage. Power fluctuations, missing security personnel, and disturbing whispers in the deep suggest an inside job. If the Lock fails completely, the horrors beneath will surge upward and consume all of [[Aquabyssos]].
 
 ## Background
 
@@ -47,20 +54,20 @@ updated: '2025-08-13T01:18:34.503279+00:00'
 ## Key NPCs
 
 - **[[12_Research/D&D_Statblocks/Vault Keeper Eternal]]**: Ancient guardian of the Lock, growing desperate as sabotage accelerates
-- **[[12_Research/D&D_References/Engineer Brass Gearspin]]**: Lead technician, one of few who understand Lock mechanics completely
-- **[[12_Research/D&D_References/Temple Guardian Marcus the Drowned]]**: Fanatical priest who believes the Lock defies divine will
-- **[[12_Research/D&D_References/Time-Lost Delegate Chronus]]**: Has witnessed the Lock's failure in other timelines
+- **[[Engineer Brass Gearspin]]**: Lead technician, one of few who understand Lock mechanics completely
+- **[[Temple Guardian Marcus the Drowned]]**: Fanatical priest who believes the Lock defies divine will
+- **[[Time-Lost Delegate Chronus]]**: Has witnessed the Lock's failure in other timelines
 - **[[12_Research/D&D_Statblocks/Admiral Thorne Blackwater]]**: Military commander coordinating the investigation
 
 ## Investigation Phase
 
 ### Phase 1: Understanding the Lock (1 session)
 
-**Location:** [[12_Research/D&D_References/The Lock]] - Surface Systems  
+**Location:** [[The Lock]] - Surface Systems  
 **Objective:** Learn how the Lock functions and identify sabotage patterns
 
 **The Lock's Structure:**
-- **Crystalline Core**: Seven massive [[12_Research/D&D_References/Seven Shards]] fragments channeling barrier energy
+- **Crystalline Core**: Seven massive [[Seven Shards]] fragments channeling barrier energy
 - **Pressure Systems**: Mechanical components maintaining structural integrity
 - **Ritual Chambers**: Ongoing ceremonies that reinforce magical bindings
 - **Monitoring Network**: Sensory apparatus detecting threats from below
@@ -75,28 +82,28 @@ updated: '2025-08-13T01:18:34.503279+00:00'
 
 ### Phase 2: Deep Investigation (1 session)
 
-**Location:** [[12_Research/D&D_References/The Lock]] - Lower Levels, [[12_Research/D&D_References/Pressure's End]]  
+**Location:** [[The Lock]] - Lower Levels, [[Pressure's End]]  
 **Objective:** Identify the saboteur and their methods
 
 **Suspects to Investigate:**
-- **[[12_Research/D&D_References/Engineer Brass Gearspin]]**: Has complete access and technical knowledge
-- **[[12_Research/D&D_References/Temple Guardian Marcus the Drowned]]**: Religious extremist with philosophical motive
+- **[[Engineer Brass Gearspin]]**: Has complete access and technical knowledge
+- **[[Temple Guardian Marcus the Drowned]]**: Religious extremist with philosophical motive
 - **New Technician "Coral"**: Recent hire with suspicious background
-- **[[12_Research/D&D_References/Memory Farmers]] Agent**: Could be erasing evidence of their infiltration
+- **[[Memory Farmers]] Agent**: Could be erasing evidence of their infiltration
 - **Deep Cultist**: Someone corrupted by exposure to abyssal influence
 
 **Investigation Methods:**
 - **Technical Analysis**: Examine sabotage techniques for signature patterns
 - **Personnel Records**: Background checks reveal hidden connections
 - **Memory Examination**: Magical investigation of staff amnesia
-- **Temporal Analysis**: [[12_Research/D&D_References/Time-Lost Delegate Chronus]] can detect timeline manipulations
+- **Temporal Analysis**: [[Time-Lost Delegate Chronus]] can detect timeline manipulations
 - **Deep Sensing**: Psychic detection of abyssal corruption in personnel
 
 ## The Truth Revealed
 
 ### The Real Saboteur: Engineer Brass Gearspin
 
-**Motivation:** Believes the Lock is slowly poisoning [[12_Research/D&D_References/Aquabyssos]] with leaking abyssal energy  
+**Motivation:** Believes the Lock is slowly poisoning [[Aquabyssos]] with leaking abyssal energy  
 **Method:** Using his access to gradually weaken the barrier in "safe" ways  
 **Goal:** Force evacuation to surface before the accumulated corruption kills everyone  
 **Corruption Level:** 60% - partially influenced by abyssal whispers but still rational
@@ -117,7 +124,7 @@ Brass Gearspin isn't evil - he's genuinely trying to save lives based on disturb
 
 ## Phase 3: The Confrontation (1 session)
 
-**Location:** [[12_Research/D&D_References/The Lock]] - Core Chamber  
+**Location:** [[The Lock]] - Core Chamber  
 **Objective:** Stop the sabotage while addressing legitimate concerns
 
 ### Brass Gearspin's Final Gambit
@@ -159,15 +166,15 @@ When confronted, Brass reveals his master plan: a "controlled detonation" of the
 
 #### Special Abilities
 
-**Technical Mastery.** Brass can use an action to control any mechanical or magical system within 120 feet, including [[12_Research/D&D_References/The Lock]]'s defenses. This functions as *dominate monster* but only affects constructs and magical systems.
+**Technical Mastery.** Brass can use an action to control any mechanical or magical system within 120 feet, including [[The Lock]]'s defenses. This functions as *dominate monster* but only affects constructs and magical systems.
 
-**Abyssal Corruption.** Brass is partially corrupted by exposure to [[12_Research/D&D_References/The Hadal Depths]]. He has resistance to necrotic and psychic damage but vulnerability to radiant damage. His corruption level fluctuates based on stress.
+**Abyssal Corruption.** Brass is partially corrupted by exposure to [[The Hadal Depths]]. He has resistance to necrotic and psychic damage but vulnerability to radiant damage. His corruption level fluctuates based on stress.
 
-**Lock System Integration.** While within [[12_Research/D&D_References/The Lock]], Brass can see through any surveillance system and communicate through the facility's intercom as a bonus action.
+**Lock System Integration.** While within [[The Lock]], Brass can see through any surveillance system and communicate through the facility's intercom as a bonus action.
 
 **Jury-Rigged Mastery.** Brass can spend 10 minutes to create improvised explosive devices from available materials. These function as dynamite but deal an additional 1d6 necrotic damage from abyssal energy.
 
-**Environmental Hazard Control.** As an action, Brass can activate environmental systems within [[12_Research/D&D_References/The Lock]] to create the following effects within a 30-foot radius:
+**Environmental Hazard Control.** As an action, Brass can activate environmental systems within [[The Lock]] to create the following effects within a 30-foot radius:
 - *Pressure Drop:* All creatures must make DC 17 Constitution saves or be stunned for 1 round
 - *Power Surge:* Deal 13 (3d8) lightning damage, DC 17 Dex save for half
 - *Gravity Manipulation:* Reverse gravity in the area for 1 minute
@@ -178,18 +185,18 @@ When confronted, Brass reveals his master plan: a "controlled detonation" of the
 
 **Corrupted Tools.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) bludgeoning damage plus 7 (2d6) necrotic damage. The target must succeed on a DC 17 Constitution saving throw or have their maximum hit points reduced by the necrotic damage until they finish a long rest.
 
-**Abyssal Whispers (Recharge 5-6).** Brass shares horrifying visions of [[12_Research/D&D_References/The Hadal Depths]] with a creature within 60 feet. The target must make a DC 17 Wisdom saving throw. On failure: 22 (4d10) psychic damage and the target is frightened for 1 minute. On success: Half damage and not frightened.
+**Abyssal Whispers (Recharge 5-6).** Brass shares horrifying visions of [[The Hadal Depths]] with a creature within 60 feet. The target must make a DC 17 Wisdom saving throw. On failure: 22 (4d10) psychic damage and the target is frightened for 1 minute. On success: Half damage and not frightened.
 
 **Jury-Rigged Explosive.** *Ranged Attack:* +7 to hit, range 60/120 ft. *Hit:* All creatures within 15 feet of the target must make a DC 17 Dexterity saving throw, taking 14 (4d6) fire damage and 7 (2d6) necrotic damage on failure, or half on success.
 
-**Emergency Lock Shutdown (1/Day).** Brass begins an emergency shutdown of [[12_Research/D&D_References/The Lock]]'s primary systems. This is a 3-round ritual. If completed, the barrier fails and creatures from [[12_Research/D&D_References/The Hadal Depths]] begin emerging. The ritual can be interrupted by dealing 25+ damage to Brass in a single turn or by making a successful DC 20 Arcana check to counter the shutdown.
+**Emergency Lock Shutdown (1/Day).** Brass begins an emergency shutdown of [[The Lock]]'s primary systems. This is a 3-round ritual. If completed, the barrier fails and creatures from [[The Hadal Depths]] begin emerging. The ritual can be interrupted by dealing 25+ damage to Brass in a single turn or by making a successful DC 20 Arcana check to counter the shutdown.
 
 #### Legendary Actions (3 per turn)
 
 **Move.** Brass moves up to his speed without provoking opportunity attacks.
 **System Control.** Brass activates one Environmental Hazard Control effect.
 **Corrupted Strike.** Brass makes one Corrupted Tools attack.
-**Desperate Sabotage (Costs 2 Actions).** Brass damages a critical system. If in combat within [[12_Research/D&D_References/The Lock]], all creatures must make a DC 15 Dexterity saving throw or take 9 (2d8) damage from falling debris.
+**Desperate Sabotage (Costs 2 Actions).** Brass damages a critical system. If in combat within [[The Lock]], all creatures must make a DC 15 Dexterity saving throw or take 9 (2d8) damage from falling debris.
 
 #### Spellcasting
 
@@ -208,7 +215,7 @@ Brass is a 12th-level spellcaster. His spellcasting ability is Intelligence (spe
 - **Magnetic Climbing Boots**: Grant climbing speed and immunity to being knocked prone
 - **Master's Toolkit**: Gives advantage on all tool-based checks
 - **Abyssal Corruption Focus**: Crystal shard that enhances spells with necrotic energy
-- **Lock Master Key**: Allows access to all areas of [[12_Research/D&D_References/The Lock]]
+- **Lock Master Key**: Allows access to all areas of [[The Lock]]
 
 **Tactics:** Brass uses his environmental control to create hazardous conditions while positioning himself to complete critical sabotage. He prioritizes incapacitating enemies over killing them, as he genuinely believes he's saving lives through his actions.
 
@@ -252,31 +259,31 @@ Brass is a 12th-level spellcaster. His spellcasting ability is Intelligence (spe
 
 - **Base XP**: 9,000 XP for preventing catastrophic Lock failure
 - **Bonus XP**: 2,000 XP for addressing underlying health crisis
-- **[[12_Research/D&D_References/Lock Fragment]]**: Crystalline component with barrier-creation properties
+- **[[Lock Fragment]]**: Crystalline component with barrier-creation properties
 - **Technical Schematics**: Brass Gearspin's improved Lock designs
 - **Abyssal Immunity Charm**: Temporary protection from corruption effects
 
 ### Long-term Benefits
 
 - **Lock Guardian Status**: Official role in monitoring barrier integrity
-- **Technical Expertise**: Access to [[12_Research/D&D_References/Aquabyssos]]'s most advanced engineering
+- **Technical Expertise**: Access to [[Aquabyssos]]'s most advanced engineering
 - **Health Authority**: Influence over public health policy and research
 - **Emergency Powers**: Special authorization during crisis situations
 
 ## Connected Adventures
 
 - **[[12_Research/D&D_Statblocks/Vault Keeper Eternal]]**: Ancient guardian becomes ongoing ally/information source
-- **[[12_Research/D&D_References/The Hadal Depths]]**: What horrors are truly held back by the Lock?
-- **[[12_Research/D&D_References/Memory Farmers]]**: Investigation reveals their involvement in health crisis
+- **[[The Hadal Depths]]**: What horrors are truly held back by the Lock?
+- **[[Memory Farmers]]**: Investigation reveals their involvement in health crisis
 - **[[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]**: Lock's power source connects to larger magical mysteries
 - **[[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]**: Connection between abyssal entities and sleeping goddess
-- **[[12_Research/D&D_References/The Drowned Prophets]]**: Cult's interest in barrier failure
-- **[[12_Research/D&D_References/Sister Thalassa the Depth-Touched]]**: Religious perspective on containing divine forces
+- **[[The Drowned Prophets]]**: Cult's interest in barrier failure
+- **[[Sister Thalassa the Depth-Touched]]**: Religious perspective on containing divine forces
 - **[[12_Research/D&D_Statblocks/The Deepmind]]**: Psychological effects of proximity to contained horrors
-- **[[12_Research/D&D_References/The Convergence Seekers]]**: Dimensional implications of barrier failure
-- **[[12_Research/D&D_References/Time-Lost Delegate Chronus]]**: Temporal expertise in crisis prevention
-- **[[12_Research/D&D_References/Parliament of Echoes]]**: Political response to infrastructure crisis
-- **[[12_Research/D&D_References/Crystal Corruption]]**: How containment systems interact with magical phenomena
+- **[[The Convergence Seekers]]**: Dimensional implications of barrier failure
+- **[[Time-Lost Delegate Chronus]]**: Temporal expertise in crisis prevention
+- **[[Parliament of Echoes]]**: Political response to infrastructure crisis
+- **[[Crystal Corruption]]**: How containment systems interact with magical phenomena
 
 ## Campaign Impact
 
@@ -322,8 +329,8 @@ Brass is a 12th-level spellcaster. His spellcasting ability is Intelligence (spe
 
 ## Connections
 
-- [[12_Research/D&D_References/Pearl Harbor City]]
-- [[12_Research/D&D_References/Aquabyssos]]
+- [[Pearl Harbor City]]
+- [[Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -343,14 +350,14 @@ Legends speak of The Lock Saboteur as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Lock Fragment]]
+- [[Lock Fragment]]
 - [[12_Research/D&D_Statblocks/Admiral Thorne Blackwater]]
-- [[12_Research/D&D_References/Engineer Brass Gearspin]]
-- [[12_Research/D&D_References/Memory Farmers]]
-- [[12_Research/D&D_References/Pressure's End]]
-- [[12_Research/D&D_References/Temple Guardian Marcus the Drowned]]
-- [[12_Research/D&D_References/The Hadal Depths]]
-- [[12_Research/D&D_References/The Lock]]
+- [[Engineer Brass Gearspin]]
+- [[Memory Farmers]]
+- [[Pressure's End]]
+- [[Temple Guardian Marcus the Drowned]]
+- [[The Hadal Depths]]
+- [[The Lock]]
 - [[12_Research/D&D_Statblocks/Vault Keeper Eternal]]
 
 

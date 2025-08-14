@@ -1,15 +1,21 @@
+# Memory Extractor Prime
+
 ---
+title: Memory Extractor Prime
+type: Lore
 tags:
-- active
+- lore
 - aquabyssos
 - faction
-- lore
-type: Lore
-world: Aquabyssos
-status: active
+- research
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.894406+00:00'
 ---
+
 
 
 
@@ -47,3 +53,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Shadow Surgeon Strike Team]]
+
+
+## Related
+
+*Links to related content will be added here.*

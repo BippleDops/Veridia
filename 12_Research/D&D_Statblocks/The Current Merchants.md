@@ -1,31 +1,38 @@
+# The Current Merchants
+
 ---
+title: The Current Merchants
+type: NPC
 tags:
 - aquabyssos
-- complete
-- current-magic
-- entrepreneur
-- merchant-lord
 - navigator
-- npc
+- merchant-lord
 - trade-master
+- npc
+- research
+- active
+- complete
+- entrepreneur
+- current-magic
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+race: Sea Elf
+class: Storm Sorcerer/Divination Wizard
+location: '[[The Flowing Market]] - Current''s Edge Trading Post'
+level: 15
 world: Aquabyssos
-type: NPC
 role: Guildmaster of the Deep Current Trading Company
 affiliation: '[[Deep Current Trading Company]] - Founder and Supreme Navigator'
 age: '78'
-race: Sea Elf
-class: Storm Sorcerer/Divination Wizard
-level: 15
 alignment: Chaotic Neutral
-location: '[[The Flowing Market]] - Current''s Edge Trading Post'
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] Portrait
@@ -331,3 +338,8 @@ Legends speak of The Current Merchants as a nexus where past and present converg
 - [[Master Artificer Korvin Gearwright]]
 - [[The Tidal Council]]
 - [[Parliament of Echoes]]
+
+
+## Related
+
+*Links to related content will be added here.*

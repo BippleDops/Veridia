@@ -1,14 +1,20 @@
+# The Golden Fishook Tavern
+
 ---
-tags:
-- active
-- both
-- npc
+title: The Golden Fishook Tavern
 type: NPC
-world: Both
-status: active
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:37.000529+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-golden-fishook-tavern-the-golden-fishook-tavern.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Mayor Thompson]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,31 +1,37 @@
+# The Shadow Harvest
+
 ---
+title: The Shadow Harvest
+type: Group
 tags:
-- aquabyssos
-- complete
-- faction
-- group
-- harvesters
 - resource-extraction
+- aquabyssos
+- harvesters
 - shadow-cult
 - shadow-energy
+- faction
+- research
+- active
+- complete
+- group
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+headquarters: '[[The Void Refineries]]'
 world: Aquabyssos
-type: Group
 faction_type: Shadow Energy Harvesting Cult
 alignment: Neutral Evil (Obsessive Collectors)
-headquarters: '[[The Void Refineries]]'
 leader: '[[High Harvester Umbros Shadowdrain]]'
 members: ~200 active harvesters, ~500 shadow-touched workers
 influence: Underground Economy, Shadow Energy Trade
 purpose: Extract and refine pure shadow energy
 created_by: auto-stub
-created: '2025-08-08'
-modified: 2025-08-11 - Category/Group
 MyContainer: Shadow Economy
 MyCategory: Resource Cartel
 obsidianUIMode: preview
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-stop-the-shadow-harvest-stop-the-shadow-harvest.svg)
@@ -598,3 +604,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Shadow Behavior Guidelines|02 Worldbuilding/Groups/Shadow Behavior Guidelines]]
+
+
+## Related
+
+*Links to related content will be added here.*

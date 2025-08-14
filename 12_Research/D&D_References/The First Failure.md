@@ -1,13 +1,23 @@
+# The First Failure
+
 ---
+title: The First Failure
+type: Location
 tags:
+- magical
 - aquabyssos
 - both
-- complete
-- historical
-- location
-- magical
 - ruins
+- historical
+- research
+- active
+- location
+- complete
 - tragedy
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+population: 12
 location_name: The First Failure - Prototype Salvation Site
 location_type: Ruined Magical Laboratory
 parent_location: '[[Abyssos Prime]]'
@@ -18,9 +28,9 @@ sub_locations:
 - '[[Library of Lost Solutions]]'
 - '[[The Guilt Garden]]'
 depth: 2800-3100 feet
-population: 12
 government: Memorial Custodianship
-ruler: '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth|02 Worldbuilding/People/Keeper Of Failures, Marcus Ashworth]]'
+ruler: '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth|02 Worldbuilding/People/Keeper
+  Of Failures, Marcus Ashworth]]'
 factions:
 - '[[The Penitent Order]]'
 - '[[Solution Seekers]]'
@@ -35,7 +45,8 @@ services:
 - Memorial Services
 - Experimental Records Access
 notable_npcs:
-- '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth|02 Worldbuilding/People/Keeper Of Failures, Marcus Ashworth]]'
+- '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth|02 Worldbuilding/People/Keeper
+  Of Failures, Marcus Ashworth]]'
 - '[[Archivist Elena Sorrowkeeper]]'
 - '[[Ghost of Dr. Thaddeus Brightwater]]'
 - '[[Memorial Tender Sarah]]'
@@ -43,15 +54,13 @@ current_state: Preserved memorial and research site
 temporal_stability: 70
 shadow_density: Moderate
 pressure_effects: Moderate
-status: complete
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-12T00:00:00+00:00'
-type: Location
 ---
+
 
 
 > [!figure] View
@@ -372,3 +381,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 <!-- enriched: true -->
 - [[Marina Red Tide Coralheart - Aquabyssos]]
 - [[Abyssos Prime]]
+
+
+## Related
+
+*Links to related content will be added here.*

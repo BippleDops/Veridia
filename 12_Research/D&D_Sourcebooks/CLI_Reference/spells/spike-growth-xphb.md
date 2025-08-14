@@ -1,29 +1,35 @@
+# spike-growth-xphb
+
 ---
+title: spike growth xphb
 aliases:
 - Spike Growth
+type: note
+tags:
+- mechanics/magic
+- content/lore
+- world/both
+- research
+- active
+- note
+- status/in-progress
+- importance/core
+- ttrpg-cli/compendium/src/5e/xphb
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
 classes:
 - Bard
 - Bard (College of Lore)
 - Cleric (Nature Domain)
 - Druid
 - Ranger
-created: 2025-07-23
 cssclasses: json5e-spell
-modified: 2025-07-23 12:39
 obsidianUIMode: preview
-status: active
-tags:
-- content/lore
-- importance/core
-- mechanics/magic
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-- world/both
-type: note
 updated: '2025-08-12T23:37:36.060314'
 world: Both
 ---
+
 
 # Spike Growth
 *2nd-level, Transmutation*  
@@ -61,3 +67,8 @@ Legends speak of spike growth xphb as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,14 +1,20 @@
+# Cultural Mediation
+
 ---
-tags:
-- active
-- both
-- group
+title: Cultural Mediation
 type: Group
-world: Both
-status: active
+tags:
+- both
+- active
+- group
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.782078+00:00'
 ---
+
 
 
 
@@ -51,3 +57,8 @@ Legends speak of Cultural Mediation as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

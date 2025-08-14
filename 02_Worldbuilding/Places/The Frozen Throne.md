@@ -1,22 +1,29 @@
 ---
-created: '2025-08-11'
-danger_level: Moderate
-status: complete
+title: The Frozen Throne
+type: Location
 tags:
-- combat
-- quest
-- crystal-enhanced
-- aquatic
 - both
-- complete
+- aquatic
+- quest
+- world/both
 - content/location
+- place
+- active
+- combat
+- complete
 - location
 - status/in-progress
-- world/both
-type: Location
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+danger_level: Moderate
 updated: '2025-08-13T12:34:16.552562+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -28,11 +35,11 @@ world: Both
 *Where Winter Never Ends*
 
 > *"In the deepest cold where even the ocean freezes, there sits a throne of ice eternal, waiting for a ruler who will never come. They say the last queen still sits upon it, frozen in the moment of her greatest triumph and most terrible curse."*
-> — [[12_Research/D&D_References/Explorer Captain Reef Deepdiver]], last known survivor of an expedition to the throne
+> — [[Explorer Captain Reef Deepdiver]], last known survivor of an expedition to the throne
 
 ## Overview
 
-The Frozen Throne stands as one of [[12_Research/D&D_References/Aquabyssos]]'s most mysterious and dangerous ruins, the abandoned palace-fortress of the ancient Ice Kingdom that once ruled the deepest, coldest regions of the ocean. Encased in supernatural ice that never melts despite the crushing depths, the palace remains perfectly preserved as it was 500 years ago when Queen Glacialis spoke the Curse of Eternal Winter that doomed her kingdom to save it from invasion. Now the throne room sits empty yet occupied, the palace halls echo with phantom footsteps, and the supernatural cold emanates outward, creating a zone of eternal winter in the deep ocean that few dare to explore.
+The Frozen Throne stands as one of [[Aquabyssos]]'s most mysterious and dangerous ruins, the abandoned palace-fortress of the ancient Ice Kingdom that once ruled the deepest, coldest regions of the ocean. Encased in supernatural ice that never melts despite the crushing depths, the palace remains perfectly preserved as it was 500 years ago when Queen Glacialis spoke the Curse of Eternal Winter that doomed her kingdom to save it from invasion. Now the throne room sits empty yet occupied, the palace halls echo with phantom footsteps, and the supernatural cold emanates outward, creating a zone of eternal winter in the deep ocean that few dare to explore.
 
 ## History and the Fall of the Ice Kingdom
 
@@ -47,7 +54,7 @@ The Frozen Throne stands as one of [[12_Research/D&D_References/Aquabyssos]]'s m
 ### The Warming Wars
 
 **Timeline**: 600-520 years ago, conflicts with expanding warm-water kingdoms  
-**Invasion**: Multiple invasions from [[12_Research/D&D_References/The Coral Throne Syndicate]] and allied warm-water powers  
+**Invasion**: Multiple invasions from [[The Coral Throne Syndicate]] and allied warm-water powers  
 **Resistance**: Fierce resistance using ice magic and cold-environment advantages  
 **Technology**: Advanced ice weapons and defensive systems  
 **Desperation**: Growing desperation as warm-water forces adapted to cold combat
@@ -79,7 +86,7 @@ The Frozen Throne stands as one of [[12_Research/D&D_References/Aquabyssos]]'s m
 ### Modern Rediscovery
 
 **Timeline**: 100 years ago, first modern expedition reached the palace  
-**Explorers**: Brave explorers from various [[12_Research/D&D_References/Aquabyssos]] nations  
+**Explorers**: Brave explorers from various [[Aquabyssos]] nations  
 **Findings**: Documentation of palace's preserved state and supernatural properties  
 **Losses**: High casualty rate among expeditions due to supernatural dangers  
 **Reputation**: Growing reputation as cursed location best left undisturbed
@@ -309,7 +316,7 @@ The Frozen Throne stands as one of [[12_Research/D&D_References/Aquabyssos]]'s m
 #### Historical Records
 
 **Documents**: Complete historical records of ice kingdom  
-**Perspective**: Unique perspective on [[12_Research/D&D_References/Aquabyssos]] history  
+**Perspective**: Unique perspective on [[Aquabyssos]] history  
 **Secrets**: Royal secrets and diplomatic correspondence  
 **Culture**: Detailed records of ice kingdom culture and customs  
 **Value**: Immense historical value for scholars and historians
@@ -566,7 +573,7 @@ The Frozen Throne stands as one of [[12_Research/D&D_References/Aquabyssos]]'s m
 **Politics**: Complex political situation involving multiple kingdoms  
 **Exploration**: Dangerous exploration to reach crown  
 **Combat**: Combat with rival expedition groups  
-**Resolution**: Resolution affecting balance of power in [[12_Research/D&D_References/Aquabyssos]]
+**Resolution**: Resolution affecting balance of power in [[Aquabyssos]]
 
 #### The Frozen Queen's Return
 
@@ -575,7 +582,7 @@ The Frozen Throne stands as one of [[12_Research/D&D_References/Aquabyssos]]'s m
 **Diplomacy**: Diplomatic contact with ancient queen  
 **Conflict**: Potential conflict between ancient and modern powers  
 **Alliance**: Possible alliance with awakened ice kingdom  
-**Change**: Major changes to [[12_Research/D&D_References/Aquabyssos]] political and magical landscape
+**Change**: Major changes to [[Aquabyssos]] political and magical landscape
 
 ### Medium Adventures
 
@@ -637,7 +644,7 @@ The Frozen Throne stands as one of [[12_Research/D&D_References/Aquabyssos]]'s m
 
 ## Connections to Other Locations
 
-### [[12_Research/D&D_References/Abyssos Prime]]
+### [[Abyssos Prime]]
 
 **Interest**: Royal interest in ice kingdom artifacts and knowledge  
 **Expeditions**: Government-sponsored expeditions to palace  
@@ -645,7 +652,7 @@ The Frozen Throne stands as one of [[12_Research/D&D_References/Aquabyssos]]'s m
 **Security**: Security concerns about powerful ancient magic  
 **Politics**: Political implications of ice kingdom discoveries
 
-### [[12_Research/D&D_References/The Depth Market]]
+### [[The Depth Market]]
 
 **Trade**: Trading in ice kingdom artifacts and knowledge  
 **Demand**: High demand for rare ice kingdom items  
@@ -653,7 +660,7 @@ The Frozen Throne stands as one of [[12_Research/D&D_References/Aquabyssos]]'s m
 **Information**: Market intelligence about palace expeditions  
 **Risk**: High-risk, high-reward trading in cursed artifacts
 
-### [[12_Research/D&D_References/Memory Farmers]]
+### [[Memory Farmers]]
 
 **Interest**: Interest in preserved memories and knowledge from palace  
 **Services**: Memory services for expedition survivors  
@@ -661,7 +668,7 @@ The Frozen Throne stands as one of [[12_Research/D&D_References/Aquabyssos]]'s m
 **Knowledge**: Accessing stored memories of kingdom inhabitants  
 **Ethics**: Ethical questions about harvesting memories from frozen souls
 
-### [[12_Research/D&D_References/Parliament of Echoes]]
+### [[Parliament of Echoes]]
 
 **Policy**: Policies regarding exploration and artifact recovery  
 **Law**: Legal questions about ownership of ancient kingdom property  
@@ -683,27 +690,27 @@ The Frozen Throne stands as one of [[12_Research/D&D_References/Aquabyssos]]'s m
 ---
 
 **Related Locations**:
-- [[12_Research/D&D_References/Abyssos Prime]]
-- [[12_Research/D&D_References/The Depth Market]]
-- [[12_Research/D&D_References/Memory Farmers]]
-- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[Abyssos Prime]]
+- [[The Depth Market]]
+- [[Memory Farmers]]
+- [[Parliament of Echoes]]
 
 **Related NPCs**:
-- [[12_Research/D&D_References/Explorer Captain Reef Deepdiver]]
-- [[12_Research/D&D_References/Queen Glacialis]] (frozen)
-- [[12_Research/D&D_References/Ice Kingdom Spirits]]
-- [[12_Research/D&D_References/Palace Guardians]]
+- [[Explorer Captain Reef Deepdiver]]
+- [[Queen Glacialis]] (frozen)
+- [[Ice Kingdom Spirits]]
+- [[Palace Guardians]]
 
 **Related Items and Concepts**:
-- [[12_Research/D&D_References/Crown of Eternal Ice]]
-- [[12_Research/D&D_References/Scepter of Winter's Command]]
-- [[12_Research/D&D_References/Curse of Eternal Winter]]
-- [[12_Research/D&D_References/Ice Kingdom Magic]]
+- [[Crown of Eternal Ice]]
+- [[Scepter of Winter's Command]]
+- [[Curse of Eternal Winter]]
+- [[Ice Kingdom Magic]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Old Valdris]]
+- [[Old Valdris]]
 
 ## Player-Facing Summary
 
@@ -725,7 +732,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Frozen Throne]]
+- [[The Frozen Throne]]
 
 <!-- enriched: true -->
 
@@ -733,3 +740,85 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
+
+
+## Notable Residents
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-border-castles-border-castles.svg]]
+
+## Trade Routes
+
+- [[Terminal Master Hadrian Depthbridge]]
+- [[04_Resources_Assets_Locations_location-city-port-meridian-medical-institute-port-meridian-medical-institute.svg]]
+- [[The Crystal Stock Exchange]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+The Frozen Throne is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Frozen Throne
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting The Frozen Throne:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Frozen Throne
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

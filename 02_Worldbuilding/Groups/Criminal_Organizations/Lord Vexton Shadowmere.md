@@ -1,32 +1,38 @@
 ---
+title: Lord Vexton Shadowmere
+type: Faction
+tags:
+- aquabyssos
+- status/complete
+- content/faction
+- faction
+- shadow-court
+- organization
+- active
+- complete
+- world/aquabyssos
+- nobility
+- shadow-touched
+- aristocracy
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Umbral Estate]]'
+membership: Unknown
 MyCategory: Unknown
 MyContainer: None
 alignment: Lawful Evil
-created: '2025-08-08'
 created_by: auto-stub
 faction_type: Shadow Nobility Court
-headquarters: '[[The Umbral Estate]]'
 influence: Regional (Upper District and Shadow Quarter)
 leader: '[[Lord Vexton Shadowmere]]'
 members: ~200 shadow nobles and courtiers
 obsidianUIMode: preview
-status: complete
-tags:
-- aquabyssos
-- aristocracy
-- complete
-- content/faction
-- faction
-- nobility
-- shadow-court
-- shadow-touched
-- status/complete
-- world/aquabyssos
-type: Faction
 updated: '2025-08-13T12:34:17.391038+00:00'
 wealth: Vast (generational shadow wealth)
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry
@@ -271,3 +277,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Silverscale Consortium]]
 - [[Temple of Divine Order]]
 - [[Parliament of Echoes]]
+
+
+## Known Members
+
+- [[Memory Merchants]]

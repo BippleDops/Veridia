@@ -1,22 +1,27 @@
+# Months and Festivals Days of the Week Xdmg
+
 ---
+title: Months and Festivals Days of the Week Xdmg
 aliases:
 - Months and Festivals; Days of the Week
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:03.637979+00:00'
 world: Both
 ---
+
 
 
 # Months and Festivals; Days of the Week
@@ -49,3 +54,8 @@ Legends speak of months and festivals days of the week xdmg as a nexus where pas
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

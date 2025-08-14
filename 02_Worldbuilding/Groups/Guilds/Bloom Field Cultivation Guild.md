@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Bloom Field Cultivation Guild
+type: Faction
 tags:
 - aquabyssos
-- complete
+- world/aquabyssos
 - content/faction
 - faction
+- organization
+- active
+- complete
 - status/in-progress
-- world/aquabyssos
-type: Faction
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.470535+00:00'
 world: Aquabyssos
 ---
+
 
 
 ## Overview
@@ -52,3 +59,8 @@ Legends speak of Bloom Field Cultivation Guild 2 as a nexus where past and prese
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Known Members
+
+- [[Memory Commerce]]

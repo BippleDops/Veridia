@@ -1,27 +1,32 @@
 ---
-affiliation: '[[The Scattered Emperor]] (Currently Fragmented)'
+title: Crown of Tidal Sovereignty
+type: Item
+tags:
+- aquabyssos
+- crown
+- seven-shards-connected
+- status/complete
+- content/lore
+- active
+- complete
+- content/item
+- world/aquabyssos
+- item
 created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+rarity: Legendary
+value: Unknown
+affiliation: '[[The Scattered Emperor]] (Currently Fragmented)'
 created_by: Claude
 current_location: Multiple Pieces Scattered Across Aquabyssos
 danger_level: 4
 item_type: Crown of Rule (Seven Shards Enhanced)
-rarity: Legendary
 requires_attunement: Yes (by a creature of noble blood or appointed by divine authority)
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/item
-- content/lore
-- crown
-- item
-- seven-shards-connected
-- status/complete
-- world/aquabyssos
-type: Item
 updated: '2025-08-13T12:34:17.754558+00:00'
 world: Aquabyssos
 ---
+
 
 
 

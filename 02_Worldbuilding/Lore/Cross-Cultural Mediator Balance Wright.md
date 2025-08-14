@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Cross Cultural Mediator Balance Wright
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Cross-Cultural Mediator Balance Wright
 
@@ -24,7 +28,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Cross-Realm Etiquette Guide]]
+- [[Cross-Realm Etiquette Guide]]
 - [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]]
 
 ## Notes

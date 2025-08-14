@@ -1,8 +1,34 @@
 ---
+title: Memory Heist
+type: Location
+tags:
+- mechanics/exploration
+- content/location
+- crime
+- status/complete
+- mechanics/magic
+- theft
+- quest
+- content/lore
+- combat
+- location
+- world/both
+- complete
+- psychological
+- memory
+- both worlds
+- mental
+- place
+- active
+- heist
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Unknown
 MyContainer: None
 category: Mental Magic Applications
-created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 lore_type: Criminal Technique
@@ -10,29 +36,10 @@ obsidianUIMode: preview
 primary_application: Criminal Enterprise and Investigation
 scope: Magical Crime
 significance: Specialized Knowledge
-status: complete
-tags:
-- combat
-- quest
-- both worlds
-- complete
-- content/location
-- content/lore
-- crime
-- heist
-- location
-- mechanics/exploration
-- mechanics/magic
-- memory
-- mental
-- psychological
-- status/complete
-- theft
-- world/both
-type: Location
 updated: '2025-08-13T12:34:16.531747+00:00'
 world: Both Worlds
 ---
+
 
 
 > [!figure] View
@@ -44,11 +51,11 @@ world: Both Worlds
 *The Art of Stealing Thoughts*
 
 > *"Gold can be replaced, artifacts can be reproduced, but a stolen memory leaves a hole in the soul that can never truly be filled. We are what we remember—take that away, and what remains?"*
-> — [[12_Research/D&D_References/Mind Guardian Vera]], specialist in memory protection
+> — [[Mind Guardian Vera]], specialist in memory protection
 
 ## Overview
 
-Memory Heist refers to the sophisticated criminal technique of magically extracting, copying, or stealing specific memories from targeted individuals, representing one of the most invasive and devastating forms of magical crime affecting both [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]]. Unlike simple mind reading, memory theft involves permanently removing or duplicating mental content, leaving victims with gaps in their knowledge and experience that can fundamentally alter their identity and capabilities.
+Memory Heist refers to the sophisticated criminal technique of magically extracting, copying, or stealing specific memories from targeted individuals, representing one of the most invasive and devastating forms of magical crime affecting both [[Aquabyssos]] and [[Aethermoor]]. Unlike simple mind reading, memory theft involves permanently removing or duplicating mental content, leaving victims with gaps in their knowledge and experience that can fundamentally alter their identity and capabilities.
 
 This practice has evolved from crude magical experimentation into refined criminal art, with specialized practitioners developing techniques for precise memory extraction while leaving minimal evidence of their activities. The psychological and social impact of memory theft has made it one of the most serious crimes in both realms, while its investigative complexity makes it extremely difficult to detect and prosecute.
 
@@ -370,7 +377,7 @@ Memory Heist represents a sophisticated form of magical crime that challenges tr
 
 ## Connections
 
-- [[12_Research/D&D_References/The Primordial Vaults]]
+- [[The Primordial Vaults]]
 
 ## Player-Facing Summary
 
@@ -386,18 +393,133 @@ Legends speak of Memory Heist as a nexus where past and present converge. Locals
 - An NPC seeks discreet help at Memory Heist to avert a public scandal.
 - A map overlay reveals a hidden approach to Memory Heist active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Memory Heist]]
+- [[Memory Heist]]
 
 <!-- enriched: true -->
-- [[12_Research/D&D_References/Aethermoor]]
+- [[Aethermoor]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-commercial-district-v1-commercial-district.svg]]
+- [[04_Resources_Assets_Locations_location-city-ancient-tunnels-beneath-palace-v1-ancient-tunnels-beneath-palace.svg]]
+- [[04_Resources_Assets_Locations_location-city-current-peacefulflow-current-peacefulflow.svg]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+Memory Heist is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Memory Heist
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Memory Heist was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Memory Heist:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Memory Heist
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

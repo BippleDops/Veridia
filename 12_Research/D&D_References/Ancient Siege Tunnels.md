@@ -1,24 +1,30 @@
+# Ancient Siege Tunnels
+
 ---
+title: Ancient Siege Tunnels
+type: Lore
 tags:
-- aethermoor
+- lore
+- underground
 - completed
+- military
+- tunnels
 - historical
+- research
+- siege
+- active
 - historical-infrastructure
 - location
-- lore
-- military
-- siege
-- tunnels
-- underground
+- aethermoor
 - warfare
+created: '2025-08-09'
+modified: '2025-08-14'
 status: completed
 world: Aethermoor
-type: Lore
 danger_level: 7
 era: The Continental Wars
 builders: '[[Ancient Aquabyssos Rulers|02 Worldbuilding/Lore/Ancient Aquabyssos Rulers]]'
 current_status: Partially Collapsed, Some Sections Active
-created: '2025-08-09'
 updated: '2025-08-13T01:18:35.848026+00:00'
 related_entities:
 - '[[Continental War|02 Worldbuilding/Lore/Continental War]]'
@@ -26,6 +32,7 @@ related_entities:
 - '[[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]'
 - '[[Ironhold|02 Worldbuilding/Places/Ironhold]]'
 ---
+
 
 
 
@@ -222,3 +229,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

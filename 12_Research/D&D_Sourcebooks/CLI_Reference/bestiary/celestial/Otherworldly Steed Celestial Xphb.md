@@ -1,26 +1,32 @@
+# Otherworldly Steed Celestial Xphb
+
 ---
+title: Otherworldly Steed Celestial Xphb
 aliases:
 - Otherworldly Steed (Celestial)
+type: monster
+tags:
+- both
+- ttrpg-cli/monster/cr/
+- monster
+- research
+- ttrpg-cli/monster/size/large
+- world/both
+- ttrpg-cli/monster/type/celestial
+- active
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- active
-- both
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/celestial
-- world/both
-type: monster
 updated: '2025-08-13T12:34:06.046592+00:00'
 world: Both
 ---
+
 
 
 
@@ -83,3 +89,8 @@ Legends speak of otherworldly steed celestial xphb as a nexus where past and pre
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

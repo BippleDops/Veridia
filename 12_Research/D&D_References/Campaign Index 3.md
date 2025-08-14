@@ -1,21 +1,28 @@
+# Campaign Index 3
+
 ---
-completed: 2025-08-11
-created: '2025-08-08'
-created_by: auto-stub
-status: complete
+title: Campaign Index 3
+type: Lore
 tags:
-- campaign/arc
-- complete
-- content/lore
-- index
 - lore
+- index
 - status/complete
+- content/lore
 - universal
 - world/both
-type: Lore
+- research
+- active
+- campaign/arc
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+completed: 2025-08-11
+created_by: auto-stub
 updated: '2025-08-13T12:34:28.739447+00:00'
 world: Universal
 ---
+
 
 
 
@@ -187,3 +194,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Campaign_Dashboard|Campaign Dashboard]]
+
+
+## Related
+
+*Links to related content will be added here.*

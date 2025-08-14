@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Mayor Thompson
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.580716+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -84,6 +92,16 @@ His rise to mayor wasn't through popular vote but through strategic bribes, blac
 - **Mayor's Seal of Office** (grants legal authority and some magical protections)
 - **Bag of Holding** (concealed in his vest, contains emergency funds and escape supplies)
 - **Potion of Greater Healing** (2)
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Peppered with idioms
+
+**Physical Habits**: Remains perfectly still
 
 ## Current Activities
 - Negotiating a major smuggling contract with surface pirates
@@ -248,6 +266,13 @@ Thompson serves as an excellent example of corruption at the local level and can
 
 His character represents the theme that evil often wears a friendly face and that corruption can make even beneficial changes morally questionable. He's simultaneously an effective leader who's improved his district and a criminal who's destroyed lives for profit.
 
+
+
+## Relationship Web
+
+- [[Crystal Plague Infected NPCs]]: *patron*
+- [[Captain Nautilus the Deep Wanderer]]: *family member*
+
 ## Connections
 
 - [[Gareth_Ironforge|Gareth Ironforge]]
@@ -263,6 +288,93 @@ Mayor Thompson is a undersea element of the setting, known for bioluminescent gl
 ## Lore Details
 
 Legends speak of Mayor Thompson as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Mayor Thompson.
+
+
+
+## Appearance
+
+Mayor Thompson presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Achieving fame
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Plot Hooks
+
+1. **The Request**: Mayor Thompson needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Mayor Thompson stopped or removed
+3. **The Secret**: Information about Mayor Thompson's past surfaces
+4. **The Alliance**: Opportunity to work with or against Mayor Thompson
+5. **The Crisis**: Mayor Thompson is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 

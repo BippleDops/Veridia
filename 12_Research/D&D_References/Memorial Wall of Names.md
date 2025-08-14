@@ -1,16 +1,22 @@
+# Memorial Wall of Names
+
 ---
-tags:
-- active
-- both
-- complete
-- location
+title: Memorial Wall of Names
 type: Location
-world: Both
-status: complete
+tags:
+- both
+- research
+- active
+- location
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+world: Both
 updated: '2025-08-13T12:34:13.825296+00:00'
 danger_level: Moderate
 ---
+
 
 
 
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The First Failure]]
+
+
+## Related
+
+*Links to related content will be added here.*

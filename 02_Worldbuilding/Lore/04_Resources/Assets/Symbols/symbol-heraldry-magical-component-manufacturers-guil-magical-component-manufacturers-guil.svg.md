@@ -1,13 +1,21 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry magical component manufacturers guil magical component manufacturers
+  guil.svg
+aliases:
+- symbol heraldry magical component manufacturers guil magical component manufacturers
+  guilsvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-magical-component-manufacturers-guil-magical-component-manufacturers-guil.svg
 
@@ -24,8 +32,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Magical Component Manufacturers Guil]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Magical Component Manufacturers Guil]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

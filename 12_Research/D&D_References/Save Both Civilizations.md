@@ -1,23 +1,29 @@
+# Save Both Civilizations
+
 ---
+title: Save Both Civilizations
+type: Lore
 tags:
+- lore
+- ultimate-goal
+- unity
+- survival
+- existential-threat
+- cooperation
 - alliance-building
 - both worlds
 - both-worlds
-- campaign-objective
+- research
+- active
 - civilization-preservation
 - complete
-- cooperation
-- existential-threat
 - heroic-mission
-- lore
-- survival
-- ultimate-goal
-- unity
+- campaign-objective
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both Worlds
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.539190+00:00'
 objective_type: Ultimate Campaign Goal
 scope: Both Worlds
@@ -25,6 +31,7 @@ urgency: Critical
 alliance_requirement: Essential
 threat_level: Existential
 ---
+
 
 
 
@@ -399,3 +406,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[United Councils of Both Worlds]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

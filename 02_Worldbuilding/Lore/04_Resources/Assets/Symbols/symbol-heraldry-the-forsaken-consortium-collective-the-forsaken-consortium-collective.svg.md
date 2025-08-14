@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry the forsaken consortium collective the forsaken consortium
+  collective.svg
+aliases:
+- symbol heraldry the forsaken consortium collective the forsaken consortium collectivesvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-the-forsaken-consortium-collective-the-forsaken-consortium-collective.svg
 
@@ -24,8 +31,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Forsaken Consortium Collective]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[The Forsaken Consortium Collective]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

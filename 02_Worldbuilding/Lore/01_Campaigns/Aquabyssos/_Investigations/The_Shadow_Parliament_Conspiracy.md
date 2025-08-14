@@ -1,13 +1,18 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: The Shadow Parliament Conspiracy
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
+- aquabyssos
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Conspiracy
 
@@ -24,7 +29,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Senator_Glaucus_Brain]]
+- [[Senator_Glaucus_Brain]]
 - [[02_Worldbuilding/People/Senator_Glaucus_Brain]]
 - [[02_Worldbuilding/People/Senator Glaucus Brain]]
 

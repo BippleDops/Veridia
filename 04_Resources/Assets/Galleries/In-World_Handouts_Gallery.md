@@ -193,3 +193,8 @@
 
 ## missing-caravan
 ![](04_Resources/Assets/Handouts/missing-caravan.png)
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,15 +1,21 @@
+# Depth Guard
+
 ---
-tags:
-- active
-- aquabyssos
-- lore
-- npc
+title: Depth Guard
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- npc
+- research
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.519500+00:00'
 ---
+
 
 
 
@@ -61,3 +67,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[fiendish-cults-cult-organization-mtf]]
 - [[new-organizations]]
 - [[Border Fortresses]]
+
+
+## Related
+
+*Links to related content will be added here.*

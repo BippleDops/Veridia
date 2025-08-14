@@ -1,13 +1,24 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Shadow Conspiracy
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-shadow-conspiracy-investigation-shadow-conspiracy-investigation.png)
+
+
 
 # 02_Worldbuilding/Groups/Shadow_Conspiracy
 
@@ -35,3 +46,7 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[04_Resources_Assets_Locations_location-city-professor-reef-growthseeker-professor-reef-growthseeker.svg]]

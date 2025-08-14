@@ -1,14 +1,20 @@
+# Forge Master Petra Hammerdeep
+
 ---
-updated: '2025-08-13T01:18:36.247947+00:00'
-created: '2025-08-12'
+title: Forge Master Petra Hammerdeep
+type: location
 tags:
 - aquabyssos
 - category/place
-- complete
+- research
+- active
 - location
+- complete
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
+updated: '2025-08-13T01:18:36.247947+00:00'
 world: Aquabyssos
-type: location
 obsidianUIMode: preview
 accessibility:
   screen_reader_summary: Forge Master Petra Hammerdeep is a notable location in Aquabyssos
@@ -23,6 +29,7 @@ accessibility:
   - X-Card
   - Open Door
 ---
+
 
 
 
@@ -90,3 +97,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[New Tethys]]
+
+
+## Related
+
+*Links to related content will be added here.*

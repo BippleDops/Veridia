@@ -1,3 +1,15 @@
+# Motion_Specs 2
+
+---
+title: Motion Specs 2
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Animated Elements Guide
 
 - Spells: water jets, wind trails, void rifts (parallax)
@@ -6,3 +18,8 @@
 - Interactive maps: toggles, animated hazards, pulse markers
 
 Specs: 24–30 fps, WebM (alpha), short seamless loops.
+
+
+## Related
+
+*Links to related content will be added here.*

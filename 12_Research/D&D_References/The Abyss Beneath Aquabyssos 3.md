@@ -1,29 +1,36 @@
+# The Abyss Beneath Aquabyssos 3
+
 ---
+title: The Abyss Beneath Aquabyssos 3
+type: Lore
+tags:
+- lore
+- aquabyssos
+- mystery
+- darkness
+- status/complete
+- content/lore
+- research
+- content/location
+- leviathan
+- active
+- complete
+- ancient-powers
+- world/aquabyssos
+- forbidden-knowledge
+- void
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+population: Unknown entities of incomprehensible nature
 created_by: auto-stub
 danger_level: 5
 depth: Below 10,000 feet - The Measureless Deep
 government: None - Primordial Chaos
-population: Unknown entities of incomprehensible nature
-status: complete
-tags:
-- ancient-powers
-- aquabyssos
-- complete
-- content/location
-- content/lore
-- darkness
-- forbidden-knowledge
-- leviathan
-- lore
-- mystery
-- status/complete
-- void
-- world/aquabyssos
-type: Lore
 updated: '2025-08-13T12:34:28.702056+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -185,3 +192,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Abyssal Cyclicalism]]
+
+
+## Related
+
+*Links to related content will be added here.*

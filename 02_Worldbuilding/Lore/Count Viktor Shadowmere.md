@@ -1,19 +1,23 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- shadow-touched
-- aethermoor
-- complete
-- content/location
-- content/lore
-- lore
-- status/in-progress
-- world/aethermoor
+title: Count Viktor Shadowmere
 type: Lore
+tags:
+- lore
+- content/lore
+- content/location
+- world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+- shadow-touched
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:15.698832+00:00'
 world: Aethermoor
 ---
+
 
 
 ## Overview

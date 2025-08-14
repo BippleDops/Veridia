@@ -1,23 +1,30 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
-danger_level: Moderate
-status: complete
+title: Chef Amara Tastecurrent
+type: Location
 tags:
 - aquabyssos
-- chef
-- complete
-- content/location
-- content/npc
-- culinary-arts
-- location
-- prestigious
 - status/complete
+- culinary-arts
+- prestigious
+- content/location
+- chef
+- content/npc
+- place
+- active
+- location
+- complete
 - world/aquabyssos
-type: Location
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+created_by: auto-stub
+danger_level: Moderate
 updated: '2025-08-13T12:34:17.165557+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -110,6 +117,27 @@ After years of training under master chefs and studying magical cuisine techniqu
 **Magical Services**: Her food can provide mechanical benefits to player characters
 **Plot Hooks**: Various schemes involving food, poison, or social manipulation
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 Amara works well as a sophisticated contact who can provide both services and information. Her restaurant is an excellent location for social encounters, and her magical cuisine can provide interesting mechanical benefits or plot complications.
 
@@ -167,3 +195,85 @@ Legends speak of Chef Amara Tastecurrent as a nexus where past and present conve
 - [[Chef Amara Tastecurrent]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-doctor-harmony-whisperfall-doctor-harmony-whisperfall.svg]]
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-quieting-the-depths-quieting-the-depths.svg]]
+- [[04_Resources_Assets_Locations_location-city-liminal-constantinople-liminal-constantinople.svg]]
+- [[Reef Guard Captain Torrent Shellborn]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+Chef Amara Tastecurrent is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Chef Amara Tastecurrent
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Chef Amara Tastecurrent:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Chef Amara Tastecurrent
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

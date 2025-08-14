@@ -1,30 +1,37 @@
+# The Crimson Hand 3
+
 ---
-category: Secret Organization
-created: '2025-08-08'
-created_by: auto-stub
-significance: Major Faction
-status: complete
+title: The Crimson Hand 3
+type: Lore
 tags:
+- lore
 - access/secret
 - both
-- complete
+- convergence
+- status/complete
+- shadow-corruption
 - content/faction
 - content/lore
-- convergence
 - crimson-hand
-- infiltration
-- lore
-- manipulation
 - power-seeking
-- shadow-corruption
-- status/complete
-- world/aethermoor
-- world/aquabyssos
 - world/both
-type: Lore
+- research
+- active
+- complete
+- infiltration
+- manipulation
+- world/aquabyssos
+- world/aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+category: Secret Organization
+created_by: auto-stub
+significance: Major Faction
 updated: '2025-08-13T12:34:29.272967+00:00'
 world: Both
 ---
+
 
 
 

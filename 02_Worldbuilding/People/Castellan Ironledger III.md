@@ -1,14 +1,21 @@
 ---
+title: Castellan Ironledger III
+type: NPC
+tags:
+- character
+- both
+- active
+- npc
 created: null
+modified: '2025-08-14'
+status: active
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.617718+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 
 > [!figure] Portrait
@@ -76,6 +83,16 @@ Third-generation head of the Ironledger Trading House, Castellan has transformed
 - Underground railroad for those fleeing crystal corruption
 - Information brokerage serving all sides simultaneously
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Formal and elaborate
+
+**Physical Habits**: Steeples fingers when thinking
+
 ## Current Activities
 - Documenting the economic impact of crystal corruption for profit opportunities
 - Establishing trade routes to Aquabyssos through intermediaries
@@ -120,9 +137,72 @@ Hidden location containing:
 - "Every secret has a price. The trick is knowing when to sell."
 - "War is bad for business, unless you're selling to both sides."
 
+
+
+## Background
+
+Castellan Ironledger III's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Motivations
+
+**Primary Goal**: Achieving fame
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 Castellan serves as the ultimate information broker and can provide plot hooks, crucial intelligence, or economic support to the party. His neutrality makes him useful for facilitating meetings between hostile factions. However, his knowledge makes him dangerous—he could become either an invaluable ally or a deadly enemy depending on how the party treats him. His connections to every major player allow him to naturally weave different plot threads together.
 
+
+
+
+## Relationship Web
+
+- [[Lord Commander Gareth]]: *childhood friend*
+- [[04_Resources_Assets_Art_Places_Astrologer_Prime_Cassandra_Starweaver.png]]: *business partner*
 
 ## Connections
 

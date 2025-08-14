@@ -1,15 +1,21 @@
+# Crystal Mines
+
 ---
+title: Crystal Mines
+type: Lore
 tags:
+- lore
+- faction
+- research
 - active
 - aethermoor
-- faction
-- lore
-type: Lore
-world: Aethermoor
-status: active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:35.537525+00:00'
 ---
+
 
 > [!figure] Asset
 ![[04_Resources/Assets/Locations/location-city-crystal-mines-crystal-mines.svg]]
@@ -45,3 +51,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Crystal Mines|02 Worldbuilding/Places/Crystal Mines]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

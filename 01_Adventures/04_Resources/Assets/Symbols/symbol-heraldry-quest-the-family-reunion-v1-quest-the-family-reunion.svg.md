@@ -1,13 +1,21 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry quest the family reunion v1 quest the family reunion.svg
+aliases:
+- symbol heraldry quest the family reunion v1 quest the family reunionsvg
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-quest-the-family-reunion-v1-quest-the-family-reunion.svg
 
@@ -24,7 +32,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 
@@ -35,3 +43,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Aquabyssos_Character_Creation]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-scarlet-torrent-captain-scarlet-torrent.svg]]
+- [[04_Resources_Assets_Locations_location-city-harbor-master-captain-dockwise-v1-harbor-master-captain-dockwise.svg]]
+- [[04_Resources_Assets_Locations_location-city-harbor-master-s-license-harbor-master-s-license.svg]]
+- [[04_Resources_Assets_Locations_location-city-master-archivist-thomas-scrollkeeper-master-archivist-thomas-scrollkeeper.png]]
+
+
+## Important Locations
+
+- [[The Mothercoral Crisis]]
+- [[04_Resources_Assets_Locations_location-city-temple-districts-temple-districts.svg]]
+- [[04_Resources_Assets_Locations_location-city-alternative-path-fled-city-v1-alternative-path-fled-city.svg]]

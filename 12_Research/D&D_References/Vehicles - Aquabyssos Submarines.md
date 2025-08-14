@@ -1,19 +1,25 @@
+# Vehicles - Aquabyssos Submarines
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/mechanics
-- mechanics
-- status/complete
-- vehicles
-- world/aquabyssos
 title: Aquabyssos Submarines
 type: Mechanics
+tags:
+- aquabyssos
+- status/complete
+- mechanics
+- vehicles
+- research
+- active
+- complete
+- world/aquabyssos
+- content/mechanics
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.762758+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -103,3 +109,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Vehicles_Index|03 Mechanics/Vehicles/Vehicles Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

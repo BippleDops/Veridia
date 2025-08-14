@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Labor Organizations and Guilds
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
 
 # Labor Organizations and Guilds
 
@@ -24,7 +31,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Working Class Routines]]
+- [[Working Class Routines]]
 - [[02_Worldbuilding/Lore/Working Class Routines]]
 
 ## Notes
@@ -36,3 +43,9 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-architects-of-depths-the-architects-of-depths.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-agricultural-provinces-agricultural-provinces.svg]]
+- [[#Character-Faction Relationship Matrix]]

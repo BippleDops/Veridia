@@ -1,13 +1,23 @@
+# Whisper-Touched William
+
 ---
+title: Whisper Touched William
+type: Location
 tags:
 - aquabyssos
 - both
-- complete
-- location
-- madness
 - oracle
 - shrine
 - whispers
+- madness
+- research
+- active
+- location
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+population: 25
 location_name: Whisper-Touched William's Oracle Shrine
 location_type: Prophetic Shrine Complex
 parent_location: '[[Abyssos Prime]]'
@@ -18,7 +28,6 @@ sub_locations:
 - '[[Prophecy Translation Center]]'
 - '[[William''s Living Quarters]]'
 depth: 2400-2600 feet
-population: 25
 government: Oracular Authority
 ruler: '[[Whisper-Touched William|02 Worldbuilding/People/Whisper Touched William]]'
 factions:
@@ -44,15 +53,13 @@ current_state: Active oracle shrine
 temporal_stability: 40
 shadow_density: Low
 pressure_effects: Moderate
-status: complete
-created: '2025-08-11'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
-type: Location
 ---
+
 
 
 > [!figure] View
@@ -406,3 +413,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 <!-- enriched: true -->
 riched: true -->
 - [[Abyssos Prime]]
+
+
+## Related
+
+*Links to related content will be added here.*

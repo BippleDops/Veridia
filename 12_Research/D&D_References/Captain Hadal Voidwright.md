@@ -1,14 +1,20 @@
+# Captain Hadal Voidwright
+
 ---
+title: Captain Hadal Voidwright
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:36.965516+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-captain-hadal-voidwright-captain-hadal-voidwright.svg]]
@@ -39,3 +45,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Captain Hadal Voidwright|02 Worldbuilding/People/Captain Hadal Voidwright]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

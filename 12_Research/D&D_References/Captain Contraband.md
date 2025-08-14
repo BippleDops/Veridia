@@ -1,14 +1,20 @@
+# Captain Contraband
+
 ---
-tags:
-- active
-- aquabyssos
-- npc
+title: Captain Contraband
 type: NPC
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- npc
+- research
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.889127+00:00'
 ---
+
 
 
 
@@ -64,3 +70,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Shadow Marina]]
+
+
+## Related
+
+*Links to related content will be added here.*

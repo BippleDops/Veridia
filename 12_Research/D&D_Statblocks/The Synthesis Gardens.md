@@ -1,14 +1,20 @@
+# The Synthesis Gardens
+
 ---
+title: The Synthesis Gardens
+type: Location
+tags:
+- both
+- active
+- location
+- research
 created: null
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T12:34:09.497571+00:00'
 world: Both
-type: Location
-status: active
-tags:
-- active
-- both
-- location
 ---
+
 
 
 
@@ -193,3 +199,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 <!-- enriched: true -->
 - [[Ironhold]]
 - [[Withered Court]]
+
+
+## Related
+
+*Links to related content will be added here.*

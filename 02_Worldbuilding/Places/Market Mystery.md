@@ -1,23 +1,30 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
-danger_level: Moderate
-status: complete
+title: Market Mystery
+type: Location
 tags:
+- mystery
 - aquabyssos
-- complete
 - content/adventure
-- content/location
-- location
 - market
 - mechanics/exploration
-- mystery
 - status/complete
+- content/location
+- place
+- active
+- location
+- complete
 - world/aquabyssos
-type: Location
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+created_by: auto-stub
+danger_level: Moderate
 updated: '2025-08-13T12:34:17.052505+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -161,6 +168,27 @@ The mystery has stumped both merchant security and city watch investigators for 
 ## Long-term Impact
 Solving this mystery establishes party reputation as investigators and may lead to ongoing security contracts or similar cases throughout the city.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 This investigation should emphasize deductive reasoning over combat. Provide multiple clues pointing to different theories, allowing players to eliminate possibilities through careful investigation.
 
@@ -182,3 +210,97 @@ Legends speak of Market Mystery as a nexus where past and present converge. Loca
 - [[Market Mystery]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-memory-farmer-thane-v1-memory-farmer-thane.svg]]
+- [[Master Gardener Sage Harmony Bloomtender]]
+- [[04_Resources_Assets_Locations_location-city-surface-loyalist-safe-houses-v1-surface-loyalist-safe-houses.svg]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+Market Mystery is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Market Mystery
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Market Mystery was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Market Mystery:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Market Mystery
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

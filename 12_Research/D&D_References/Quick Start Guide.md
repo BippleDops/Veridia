@@ -1,22 +1,28 @@
+# Quick Start Guide
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- content/mechanics
-- lore
-- player-resource
-- player_resource
-- quick-start
-- status/complete
-- world/both
 title: Aquabyssos & Aethermoor Quick Start Guide
 type: Lore
+tags:
+- lore
+- both
+- status/complete
+- content/lore
+- player-resource
+- quick-start
+- world/both
+- research
+- active
+- complete
+- content/mechanics
+- player_resource
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.936720+00:00'
 world: Both
 ---
+
 
 
 
@@ -249,3 +255,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Character Creation Extended]]
 - [[Faction Guide]]
 - [[World Primer]]
+
+
+## Related
+
+*Links to related content will be added here.*

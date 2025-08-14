@@ -1,27 +1,34 @@
 ---
+title: Vex Shadowthorn's Apprentices
+type: Npc
+tags:
+- both realms
+- apprentice
+- world/aquabyssos
+- content/faction
+- npc
+- world/both
+- character
+- content/npc
+- syndicate
+- active
+- complete
+- status/in-progress
+- world/aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 MyCategory: NPC
 MyContainer: None
-created: '2025-08-11'
-faction: '[[The Whisper Syndicate|02 Worldbuilding/Groups/The
-  Whisper Syndicate]]'
+faction: '[[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]'
 obsidianUIMode: preview
-status: complete
-tags:
-- apprentice
-- both realms
-- complete
-- content/faction
-- content/npc
-- npc
-- status/in-progress
-- syndicate
-- world/aethermoor
-- world/aquabyssos
-- world/both
-type: Npc
 updated: '2025-08-13T12:34:17.685820+00:00'
 world: Both Realms
 ---
+
 
 
 > [!figure] Portrait
@@ -270,6 +277,147 @@ world: Both Realms
 
 **Raven**: *"From above, all secrets are visible. Your rooftops tell stories your walls try to hide."*
 
+
+
+## Appearance
+
+Vex Shadowthorn's Apprentices presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Patient, disciplined, empathetic
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Background
+
+Vex Shadowthorn's Apprentices's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Achieving fame
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Vex Shadowthorn's Apprentices harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Cursed bloodline
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Deep and resonant
+
+**Speech Pattern**: Casual and relaxed
+
+**Physical Habits**: Maintains intense eye contact
+
+## Current Activities
+
+Vex Shadowthorn's Apprentices is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Vex Shadowthorn's Apprentices needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Vex Shadowthorn's Apprentices stopped or removed
+3. **The Secret**: Information about Vex Shadowthorn's Apprentices's past surfaces
+4. **The Alliance**: Opportunity to work with or against Vex Shadowthorn's Apprentices
+5. **The Crisis**: Vex Shadowthorn's Apprentices is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 
 - Each apprentice can function as individual NPC or part of coordinated group
@@ -281,6 +429,15 @@ world: Both Realms
 - Each has enough character development to carry their own subplot
 - Group represents different aspects of criminal life in the setting
 
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-marina-saltborn-captain-marina-saltborn.svg]]: *childhood friend*
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-zara-stormwind-captain-zara-stormwind.svg]]: *childhood friend*
+- [[Current-Lord Triton of House Pelagios]]: *family member*
+- [[04_Resources_Assets_Locations_location-city-archdruid-marina-kelpweaver-archdruid-marina-kelpweaver.svg]]: *mentor*
 
 ## Connections
 

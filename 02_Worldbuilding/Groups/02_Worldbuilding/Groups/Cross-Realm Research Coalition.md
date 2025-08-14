@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Cross Realm Research Coalition
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+![02_Worldbuilding/Groups/Cross-Realm Research Coalition](../../../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_cross_realm_research_coalition.png)
+
+
 
 # 02_Worldbuilding/Groups/Cross-Realm Research Coalition
 
@@ -24,7 +34,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Crystal Caverns]]
+- [[Crystal Caverns]]
 - [[02_Worldbuilding/Places/Crystal Caverns]]
 
 ## Notes
@@ -36,3 +46,7 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[04_Resources_Assets_Portraits_portrait-npc-empress-tethys-the-ever-drowning-empress-tethys-the-ever-drowning.svg]]

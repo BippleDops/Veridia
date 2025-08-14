@@ -1,9 +1,16 @@
 ---
+title: step 020
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 9
 step: 20
 total_step: 820
 ---
+
 
 # Phase 9 - Step 20
 

@@ -1,16 +1,23 @@
+# Session_09_The_Shard_Convergence
+
 ---
-created: '2025-08-13'
-status: active
-tags:
-- session/seven-shards
-- act-2
-- world/both
-- convergence-crisis
-- status/active
+title: Session 09 The Shard Convergence
 type: Session
+tags:
+- research
+- world/both
+- session/seven-shards
+- status/active
+- active
+- act-2
+- convergence-crisis
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T16:45:00.000000'
 world: Both
 ---
+
 
 # Session 9: The Shard Convergence
 *The Seven Shards Campaign - Act II Climax*
@@ -425,3 +432,7 @@ legendary_actions:
 - [[Convergence Ritual Rules]]
 - [[Reality Distortion Tables]]
 - [[NPC Reaction Matrix]]
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,23 +1,29 @@
+# Session_5_Conspiracy_Revealed
+
 ---
 title: 'The Sunken Conspiracy - Session 5: Conspiracy Revealed'
 type: session
+tags:
+- aquabyssos
+- session
+- diplomatic-crisis
+- finale
+- research
+- confrontation
+- active
+- complete
+- conspiracy
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 session_number: 5
 level_range: 3-4
 duration: 4-5 hours
 world: Aquabyssos
 adventure: The Sunken Conspiracy
-status: complete
-tags:
-- aquabyssos
-- complete
-- confrontation
-- conspiracy
-- diplomatic-crisis
-- finale
-- session
-created: '2025-08-11'
 updated: '2025-08-13T01:18:37.160710+00:00'
 ---
+
 
 
 # Session 5: Conspiracy Revealed
@@ -813,3 +819,8 @@ Legends speak of Session 5 Conspiracy Revealed as a nexus where past and present
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

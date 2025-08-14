@@ -1,13 +1,18 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: DM Session Navigator
 type: dm-tool
-cssclass: session-navigator
 tags:
-- dm-tool
-- session
 - navigation
+- index
+- session
+- dm-tool
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+updated: 2025-08-14
+cssclass: session-navigator
 ---
+
 
 # 🎭 DM Session Navigator
 

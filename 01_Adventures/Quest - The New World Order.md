@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Quest   The New World Order
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Quest - The New World Order
 
@@ -36,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[The Resonance Prophet]]
+- [[04_Resources_Assets_Locations_location-city-temple-guardian-marcus-the-drowned-temple-guardian-marcus-the-drowned.svg]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[04_Resources_Assets_Locations_location-city-court-herald-master-proclamation-crownvoice-court-herald-master-proclamation-crownvoice.svg]]
+- [[04_Resources_Assets_Vehicles_vehicle-ship-resonance-drive-yacht-resonance-drive-yacht.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-keeper-brinescale-keeper-brinescale.svg]]
+- [[04_Resources_Assets_Locations_location-city-echo-keeper-selin-echo-keeper-selin.svg]]
+- [[04_Resources_Assets_Locations_location-city-inverse-palace-inverse-palace.svg]]

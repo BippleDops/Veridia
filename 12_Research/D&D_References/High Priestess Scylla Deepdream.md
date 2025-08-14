@@ -1,14 +1,20 @@
+# High Priestess Scylla Deepdream
+
 ---
+title: High Priestess Scylla Deepdream
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
 created: null
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T12:34:09.711669+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 
 
@@ -162,3 +168,8 @@ Legends speak of High Priestess Scylla Deepdream as a nexus where past and prese
 - [[High Priestess Scylla Deepdream|02 Worldbuilding/People/High Priestess Scylla Deepdream]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

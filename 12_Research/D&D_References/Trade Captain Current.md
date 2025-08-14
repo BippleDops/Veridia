@@ -1,14 +1,20 @@
+# Trade Captain Current
+
 ---
-tags:
-- active
-- aethermoor
-- npc
+title: Trade Captain Current
 type: NPC
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.829794+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-trade-captain-current-trade-captain-current.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Quest - The Missing Fleet]]
+
+
+## Related
+
+*Links to related content will be added here.*

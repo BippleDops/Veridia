@@ -1,22 +1,26 @@
 ---
+title: Update Indexes
 type: Lore
-status: complete
 tags:
-- combat
-- quest
-- crystal-enhanced
-- shadow-touched
-- complete
-- index
 - lore
 - navigation
+- index
+- quest
 - universal
+- active
+- combat
+- complete
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 world: Universal
 created_by: auto-stub
-created: '2025-08-08'
 completed: 2025-08-11
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 # Update Indexes
@@ -27,14 +31,14 @@ Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides qui
 
 ### Campaign Content
 
-- [[12_Research/D&D_References/Campaign Index]] - Complete guide to all campaign materials and session content
-- [[12_Research/D&D_References/Location Index]] - Organized directory of all worldbuilding locations
-- [[12_Research/D&D_References/Quest Index]] - Adventure hooks, quests, and campaign objectives
+- [[Campaign Index]] - Complete guide to all campaign materials and session content
+- [[Location Index]] - Organized directory of all worldbuilding locations
+- [[Quest Index]] - Adventure hooks, quests, and campaign objectives
 
 ### Character & People Content
 
-- [[12_Research/D&D_References/Character Index]] - Player characters and character creation resources
-- [[12_Research/D&D_References/NPC Relationship Web]] - Network of non-player character connections
+- [[Character Index]] - Player characters and character creation resources
+- [[NPC Relationship Web]] - Network of non-player character connections
 - [[NPC Cross-World Connections]] - Links between Aethermoor and Aquabyssos characters
 
 ## Content Categories
@@ -80,17 +84,17 @@ Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides qui
 
 ### Aquabyssos Campaign
 
-- **Core Locations**: [[12_Research/D&D_References/Abyssos Prime]], [[12_Research/D&D_References/Port Meridian]], [[12_Research/D&D_Statblocks/The Memory Meadows]]
-- **Key Organizations**: [[12_Research/D&D_References/Parliament of Echoes]], [[12_Research/D&D_References/Silverscale Consortium]], [[12_Research/D&D_References/The Shadow Surgeons]]
-- **Major NPCs**: [[12_Research/D&D_References/Emperor Thalassius]], [[12_Research/D&D_References/Marina Red Tide Coralheart]], [[12_Research/D&D_References/Vex Shadowthorn]]
-- **Core Mechanics**: [[12_Research/D&D_References/Pressure Adaptation System]], [[12_Research/D&D_References/Memory Tide Navigation]], [[12_Research/D&D_References/Shadow Separation Mechanics]]
+- **Core Locations**: [[Abyssos Prime]], [[Port Meridian]], [[12_Research/D&D_Statblocks/The Memory Meadows]]
+- **Key Organizations**: [[Parliament of Echoes]], [[Silverscale Consortium]], [[The Shadow Surgeons]]
+- **Major NPCs**: [[Emperor Thalassius]], [[Marina Red Tide Coralheart]], [[Vex Shadowthorn]]
+- **Core Mechanics**: [[Pressure Adaptation System]], [[Memory Tide Navigation]], [[Shadow Separation Mechanics]]
 
 ### Aethermoor Campaign
 
-- **Core Locations**: [[12_Research/D&D_References/Aethermoor]], [[12_Research/D&D_References/Lumengarde]], [[12_Research/D&D_Statblocks/Crystal Gardens]]
-- **Key Organizations**: [[12_Research/D&D_References/The Crystal Wardens]], [[12_Research/D&D_References/The Harmony Collective]], [[12_Research/D&D_References/The Verdant Accord]]
-- **Major NPCs**: [[12_Research/D&D_References/Queen Seraphina Lumengarde]], [[12_Research/D&D_References/The Deep Mother]], [[12_Research/D&D_Statblocks/The Bloodline Carrier]]
-- **Core Mechanics**: [[12_Research/D&D_References/Crystal Plague Mechanics]], [[12_Research/D&D_References/Dual World Mechanics]], [[12_Research/D&D_References/Bloodline Awakening Powers]]
+- **Core Locations**: [[Aethermoor]], [[Lumengarde]], [[12_Research/D&D_Statblocks/Crystal Gardens]]
+- **Key Organizations**: [[The Crystal Wardens]], [[The Harmony Collective]], [[The Verdant Accord]]
+- **Major NPCs**: [[Queen Seraphina Lumengarde]], [[The Deep Mother]], [[12_Research/D&D_Statblocks/The Bloodline Carrier]]
+- **Core Mechanics**: [[Crystal Plague Mechanics]], [[Dual World Mechanics]], [[Bloodline Awakening Powers]]
 
 ## Quick Access Tools
 
@@ -103,16 +107,16 @@ Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides qui
 
 ### Content Creation
 
-- [[12_Research/D&D_References/Create New Location]] - Template for new location entries
+- [[Create New Location]] - Template for new location entries
 - [[Create New NPC]] - Template for new character profiles
-- [[12_Research/D&D_References/Create New Session]] - Session planning and note templates
-- [[12_Research/D&D_References/Session Planning Guide]] - GM preparation workflows
+- [[Create New Session]] - Session planning and note templates
+- [[Session Planning Guide]] - GM preparation workflows
 
 ### Data Visualization
 
 - [[Relationship_Web.canvas|Relationship Web.canvas]] - Visual faction and character connections
-- [[12_Research/D&D_References/Continental Connections Map]] - Geographic relationship mapping
-- [[12_Research/D&D_References/Faction Relationship Tracker]] - Organizational standing matrix
+- [[Continental Connections Map]] - Geographic relationship mapping
+- [[Faction Relationship Tracker]] - Organizational standing matrix
 
 ---
 
@@ -150,3 +154,31 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Groups/Crystal Wardens]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Overview
+
+Update Indexes represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

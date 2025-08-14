@@ -1,15 +1,21 @@
+# Archbishop Mordecai Stormwright
+
 ---
+title: Archbishop Mordecai Stormwright
+type: NPC
+tags:
+- both
+- npc
+- research
+- active
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 world: Both
 updated: '2025-08-13T12:34:14.495515+00:00'
-created: '2025-08-11'
-status: complete
-tags:
-- active
-- both
-- complete
-- npc
-type: NPC
 ---
+
 
 
 
@@ -99,3 +105,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Crystal Wardens]]
+
+
+## Related
+
+*Links to related content will be added here.*

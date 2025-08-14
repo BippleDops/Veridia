@@ -1,30 +1,37 @@
+# The Crystalline Wastes
+
 ---
+title: The Crystalline Wastes
+type: Location
 tags:
-- aethermoor
 - completed
-- corrupted
-- corrupted-wasteland
 - crystalline
-- dangerous
-- location
+- research
 - magical-disaster
 - region
+- dangerous
+- active
+- location
+- corrupted
+- corrupted-wasteland
 - wasteland
+- aethermoor
+created: '2025-08-09'
+modified: '2025-08-14'
 status: completed
 world: Aethermoor
-type: Location
 danger_level: 10
 size: 50 square miles
 climate: Magically Altered Desert
 formation_cause: '[[The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]]'
 current_status: Quarantined, Heavily Monitored
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 related_entities:
 - '[[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]'
 - '[[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]'
 - '[[The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-crystalline-wastes-the-crystalline-wastes.svg]]
@@ -306,3 +313,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

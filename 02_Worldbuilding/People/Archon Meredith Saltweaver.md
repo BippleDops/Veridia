@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Archon Meredith Saltweaver
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.531154+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -56,6 +64,16 @@ Archon Meredith Saltweaver rules [[New Tethys]] and the [[Tethyan Hegemony]] wit
 
 ## History
 Born to merchant family before the drowning's completion, Meredith witnessed the final transformations of the surface world. She maneuvered through the chaos to seize power, supposedly making a deal with something in [[The Cerulean Trench]] for the strength to rule. Has ruled New Tethys for 47 years.
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Deep and resonant
+
+**Speech Pattern**: Casual and relaxed
+
+**Physical Habits**: Steeples fingers when thinking
 
 ## Current Activities
 1. Implementing new taxation on depth travelers
@@ -136,6 +154,69 @@ Legends speak of Archon Meredith Saltweaver as a nexus where past and present co
 - An NPC seeks discreet help at Archon Meredith Saltweaver to avert a public scandal.
 - A map overlay reveals a hidden approach to Archon Meredith Saltweaver active only during specific tides/storms.
 
+
+
+## Background
+
+Archon Meredith Saltweaver's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Gaining power
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -146,6 +227,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 
+
+
+
+## Relationship Web
+
+- [[Vex Shadowthorn the Kingpin]]: *business partner*
+- [[Lady Catherine Mourning]]: *competitor*
+- [[The Deep Trade Routes]]: *patron*
 
 ## Connections
 

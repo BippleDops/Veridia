@@ -1,22 +1,29 @@
+# Deep Mother Cultist Profiles
+
 ---
+title: Deep Mother Cultist Profiles
+type: People
 tags:
-- aethermoor
 - aquabyssos
 - both
-- complete
 - cultists
-- deep-mother
-- eldritch-horror
 - npcs
 - people
+- eldritch-horror
+- research
+- deep-mother
+- active
+- complete
 - transformation
+- aethermoor
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: People
 created_by: claude
-created: '2025-08-12'
 updated: '2025-08-13T01:18:36.883544+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-deep-mother-cultist-profiles-deep-mother-cultist-profiles.svg]]
@@ -469,3 +476,8 @@ Legends speak of Deep Mother Cultist Profiles as a nexus where past and present 
 - A map overlay reveals a hidden approach to Deep Mother Cultist Profiles active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

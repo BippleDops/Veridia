@@ -1,39 +1,44 @@
 ---
+title: Free Current
+type: Location
+tags:
+- aquabyssos
+- trade-route
+- status/complete
+- world/aquabyssos
+- aquatic
+- neutral
+- communal
+- transportation-corridor
+- content/location
+- transportation
+- place
+- active
+- combat
+- complete
+- location
+- status/in-progress
+- shadow-touched
+- crystal-enhanced
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: ~15,000 (rotating community of travelers and workers)
 danger_level: 3
 established: Ancient natural phenomenon, organized 400+ years ago
 government: Collective Self-Governance
 length: Over 2,000 miles of interconnected currents
-population: ~15,000 (rotating community of travelers and workers)
 related_entities:
-- '[[Current Riders Guild|02 Worldbuilding/Groups/Current
-  Riders Guild]]'
-- '[[12_Research/D&D_References/Abyssos Prime]]'
-- '[[12_Research/D&D_References/New Tethys]]'
+- '[[Current Riders Guild|02 Worldbuilding/Groups/Current Riders Guild]]'
+- '[[Abyssos Prime]]'
+- '[[New Tethys]]'
 - '[[12_Research/D&D_Statblocks/The Memory Meadows]]'
-status: complete
-tags:
-- combat
-- crystal-enhanced
-- shadow-touched
-- aquatic
-- aquabyssos
-- communal
-- complete
-- content/location
-- location
-- neutral
-- status/complete
-- status/in-progress
-- trade-route
-- transportation
-- transportation-corridor
-- world/aquabyssos
 traffic: High - Major commercial and civilian route
-type: Location
 updated: '2025-08-13T12:34:16.588021+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -46,9 +51,9 @@ world: Aquabyssos
 
 ## Overview
 
-Free Current represents the largest and most important transportation network in [[12_Research/D&D_References/Aquabyssos]], a vast system of interconnected underwater currents that serves as both highway and community for the realm's inhabitants. Unlike the controlled and monitored transportation systems of major cities, Free Current operates on principles of mutual aid, collective governance, and open access to all who respect its customs and contribute to its maintenance.
+Free Current represents the largest and most important transportation network in [[Aquabyssos]], a vast system of interconnected underwater currents that serves as both highway and community for the realm's inhabitants. Unlike the controlled and monitored transportation systems of major cities, Free Current operates on principles of mutual aid, collective governance, and open access to all who respect its customs and contribute to its maintenance.
 
-More than just a series of water flows, Free Current has evolved into a unique society unto itself - a mobile civilization of traders, travelers, refugees, adventurers, and free spirits who have chosen the nomadic life of the eternal journey over the settled existence of the great cities. The Current flows through nearly every major region of [[12_Research/D&D_References/Aquabyssos]], connecting disparate communities and serving as a vital conduit for commerce, communication, and cultural exchange.
+More than just a series of water flows, Free Current has evolved into a unique society unto itself - a mobile civilization of traders, travelers, refugees, adventurers, and free spirits who have chosen the nomadic life of the eternal journey over the settled existence of the great cities. The Current flows through nearly every major region of [[Aquabyssos]], connecting disparate communities and serving as a vital conduit for commerce, communication, and cultural exchange.
 
 The name "Free Current" reflects both its political independence from any major power and its foundational principle that movement through the depths should be available to all, regardless of social status, political affiliation, or economic means. This philosophy has created a remarkable experiment in underwater democracy and communal living that continues to thrive after four centuries of operation.
 
@@ -56,12 +61,12 @@ The name "Free Current" reflects both its political independence from any major 
 
 ### The Great Circle Route
 
-The primary flow of Free Current forms an enormous circular pattern that encompasses most of [[12_Research/D&D_References/Aquabyssos]], connecting major population centers while maintaining enough independence to avoid direct government control.
+The primary flow of Free Current forms an enormous circular pattern that encompasses most of [[Aquabyssos]], connecting major population centers while maintaining enough independence to avoid direct government control.
 
 #### Northern Loop
 
 **Distance**: ~600 miles  
-**Key Stops**: [[12_Research/D&D_References/Abyssos Prime]], [[12_Research/D&D_References/New Tethys]], The Kelp Highway junction
+**Key Stops**: [[Abyssos Prime]], [[New Tethys]], The Kelp Highway junction
 **Characteristics**: Fastest-flowing section, heavily traveled by commercial traffic
 **Depth Range**: 800-1,200 feet below surface
 **Hazards**: Occasional pressure variations, heavy traffic congestion
@@ -85,7 +90,7 @@ The primary flow of Free Current forms an enormous circular pattern that encompa
 #### Western Deep
 
 **Distance**: ~450 miles  
-**Key Stops**: Ancient ruins, [[12_Research/D&D_References/The Deep Mother]] shrine sites, research outposts
+**Key Stops**: Ancient ruins, [[The Deep Mother]] shrine sites, research outposts
 **Characteristics**: Mysterious and spiritual, lowest traffic volume
 **Depth Range**: 1,200-2,000+ feet below surface
 **Dangers**: Unpredictable depth changes, ancient guardian entities, reality distortions
@@ -277,7 +282,7 @@ Smaller governing bodies for specific sections of the current:
 **Contents**: 
 - Historical records of current development and governance
 - Technical manuals for current maintenance and navigation
-- Cultural archives from communities throughout [[12_Research/D&D_References/Aquabyssos]]
+- Cultural archives from communities throughout [[Aquabyssos]]
 - Research materials on underwater ecology and current dynamics
 **Access**: Open to all, maintained by volunteer librarians
 
@@ -307,7 +312,7 @@ Smaller governing bodies for specific sections of the current:
 
 #### Government Interference
 
-Various [[12_Research/D&D_References/Aquabyssos]] city-states and political entities occasionally attempt to regulate or tax Free Current operations:
+Various [[Aquabyssos]] city-states and political entities occasionally attempt to regulate or tax Free Current operations:
 - **Trade Restrictions**: Requirements for permits and documentation
 - **Territorial Claims**: Disputes over current routes passing through claimed waters
 - **Military Presence**: Naval patrols monitoring current traffic
@@ -371,7 +376,7 @@ Diverse population and egalitarian ideals sometimes create conflicts:
 **Bulk Goods**: Large-scale transport of raw materials and commodities
 **Specialized Freight**: Dangerous, fragile, or time-sensitive cargo
 **Personal Effects**: Moving services for individuals relocating
-**Mail Delivery**: Communication services throughout [[12_Research/D&D_References/Aquabyssos]]
+**Mail Delivery**: Communication services throughout [[Aquabyssos]]
 
 ### Support Industries
 
@@ -445,7 +450,7 @@ Diverse population and egalitarian ideals sometimes create conflicts:
 
 **Navigation Guidance**: 5-20 gold per day depending on route complexity
 **Emergency Rescue**: Available at cost, payment often in form of future service
-**Communication Services**: Message delivery throughout [[12_Research/D&D_References/Aquabyssos]]
+**Communication Services**: Message delivery throughout [[Aquabyssos]]
 **Technical Expertise**: Consultation on current-related engineering problems
 
 #### Accommodation and Supplies
@@ -549,20 +554,20 @@ Diverse population and egalitarian ideals sometimes create conflicts:
 ### Direct Connections
 
 - **[[Current Riders Guild|02 Worldbuilding/Groups/Current Riders Guild]]**: Professional organization providing navigation services
-- **[[12_Research/D&D_References/Abyssos Prime]]**: Major destination connected by Northern Loop
-- **[[12_Research/D&D_References/New Tethys]]**: Important stop along primary current route
+- **[[Abyssos Prime]]**: Major destination connected by Northern Loop
+- **[[New Tethys]]**: Important stop along primary current route
 - **[[12_Research/D&D_Statblocks/The Memory Meadows]]**: Cultural exchange point on Eastern Reach
 
 ### Secondary Connections  
 
-- **[[12_Research/D&D_References/Parliament of Echoes]]**: Government body that occasionally regulates Current activities
-- **[[12_Research/D&D_References/The Deep Mother]]**: Spiritual sites along Western Deep attract religious pilgrims
-- **[[12_Research/D&D_References/Shadow Wells]]**: Monitoring stations provide early warning for dangerous phenomena
-- **[[12_Research/D&D_References/Silverscale Consortium]]**: Commercial competition for transportation services
+- **[[Parliament of Echoes]]**: Government body that occasionally regulates Current activities
+- **[[The Deep Mother]]**: Spiritual sites along Western Deep attract religious pilgrims
+- **[[Shadow Wells]]**: Monitoring stations provide early warning for dangerous phenomena
+- **[[Silverscale Consortium]]**: Commercial competition for transportation services
 
 ### Cultural Connections
 
-- **Migration Routes**: Free Current facilitates movement between all major [[12_Research/D&D_References/Aquabyssos]] communities
+- **Migration Routes**: Free Current facilitates movement between all major [[Aquabyssos]] communities
 - **Trade Networks**: Essential infrastructure for inter-regional commerce
 - **Communication Systems**: Primary method for long-distance message delivery
 - **Cultural Exchange**: Promotes understanding between diverse underwater cultures
@@ -573,7 +578,7 @@ Diverse population and egalitarian ideals sometimes create conflicts:
 
 - **Travel Hub**: Perfect mechanism for connecting disparate adventure locations
 - **Social Laboratory**: Explores themes of democracy, cooperation, and freedom
-- **Cultural Melting Pot**: Introduces characters from throughout [[12_Research/D&D_References/Aquabyssos]]
+- **Cultural Melting Pot**: Introduces characters from throughout [[Aquabyssos]]
 - **Mobile Base**: Can serve as headquarters for traveling adventuring parties
 - **Political Neutral Ground**: Safe space for negotiations and diplomatic meetings
 
@@ -596,16 +601,16 @@ Diverse population and egalitarian ideals sometimes create conflicts:
 
 ## Connections
 
-- [[12_Research/D&D_References/Archon Meredith Saltweaver]]
-- [[12_Research/D&D_References/Captain Garrett Stormcutter]]
-- [[12_Research/D&D_References/Angels and Depths]]
-- [[12_Research/D&D_References/Lumengarde]]
-- [[12_Research/D&D_References/New Tethys]]
-- [[12_Research/D&D_References/The Bathyal Palace]]
-- [[12_Research/D&D_References/The Shrinking Sanctuary]]
-- [[12_Research/D&D_References/The Sinking Atoll]]
-- [[12_Research/D&D_References/The Wandering Atoll]]
-- [[12_Research/D&D_References/The Whispering Depths]]
+- [[Archon Meredith Saltweaver]]
+- [[Captain Garrett Stormcutter]]
+- [[Angels and Depths]]
+- [[Lumengarde]]
+- [[New Tethys]]
+- [[The Bathyal Palace]]
+- [[The Shrinking Sanctuary]]
+- [[The Sinking Atoll]]
+- [[The Wandering Atoll]]
+- [[The Whispering Depths]]
 
 ## Player-Facing Summary
 
@@ -623,7 +628,7 @@ Legends speak of Free Current as a nexus where past and present converge. Locals
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Free Current]]
+- [[Free Current]]
 
 <!-- enriched: true -->
 
@@ -632,3 +637,97 @@ Legends speak of Free Current as a nexus where past and present converge. Locals
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Portraits_portrait-npc-the-emperor-s-memories-the-emperor-s-memories.svg]]
+- [[04_Resources_Assets_Locations_location-city-religious-groups-v1-religious-groups.svg]]
+- [[04_Resources_Assets_Locations_location-city-depth-raiders-v1-depth-raiders.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+Free Current is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Free Current
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Free Current was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Free Current:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Free Current
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

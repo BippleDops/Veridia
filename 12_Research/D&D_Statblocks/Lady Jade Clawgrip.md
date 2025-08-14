@@ -1,24 +1,32 @@
+# Lady Jade Clawgrip
+
 ---
-tags:
-- aethermoor
-- complete
-- corporate-raider
-- npc
-- person
-- ruthless-executive
-- silverscale-consortium
-status: complete
-world: Aethermoor
+title: Lady Jade Clawgrip
 type: NPC
-role: Scale of Acquisition
-affiliation: '[[Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]] - Board of Scales'
-age: '38'
+tags:
+- corporate-raider
+- person
+- npc
+- silverscale-consortium
+- research
+- ruthless-executive
+- active
+- complete
+- aethermoor
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
 race: Half-Dragon (Silver Heritage)
 location: '[[The Silver Tower of Commerce]] - Acquisitions Floor'
+world: Aethermoor
+role: Scale of Acquisition
+affiliation: '[[Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]
+  - Board of Scales'
+age: '38'
 created_by: auto-stub
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -519,3 +527,8 @@ Legends speak of Lady Jade Clawgrip as a nexus where past and present converge. 
 - [[Purist Coalition]]
 - [[Queen Seraphina Lumengarde]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

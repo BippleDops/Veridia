@@ -1,19 +1,23 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- crystal-enhanced
-- aquabyssos
-- complete
-- content/location
-- content/lore
-- lore
-- status/in-progress
-- world/aquabyssos
+title: Crystal Jellies
 type: Lore
+tags:
+- lore
+- aquabyssos
+- world/aquabyssos
+- content/lore
+- content/location
+- active
+- complete
+- status/in-progress
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.178962+00:00'
 world: Aquabyssos
 ---
+
 
 
 ## Overview

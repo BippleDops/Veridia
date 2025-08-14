@@ -1,24 +1,31 @@
+# Reputation System
+
 ---
+title: Reputation System
+type: Lore
 tags:
+- lore
+- game-mechanics
 - both
+- reputation
+- mechanics
 - both-realms
 - complete
-- faction-relations
-- game-mechanics
+- research
+- active
 - influence
-- lore
-- mechanics
-- reputation
+- faction-relations
 - social-system
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Lore
 system: D&D 5e
 complexity: Intermediate
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:35.873474+00:00'
 ---
+
 
 
 

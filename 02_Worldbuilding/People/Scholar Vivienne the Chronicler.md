@@ -1,28 +1,33 @@
 ---
-affiliation: '[[The Archive of Forgotten Things]]'
-age: '62'
-created: '2025-08-09'
-created_by: auto-stub
-location: '[[Crystalhaven]]
-  - The Grand Library'
-race: Half-Elf
-role: Shard Historian
-status: complete
+title: Scholar Vivienne the Chronicler
+type: Npc
 tags:
-- aethermoor
-- complete
-- content/lore
-- content/npc
+- status/complete
+- seven-shards
 - neutral
 - npc
+- content/lore
+- character
+- content/npc
 - scholar
-- seven-shards
-- status/complete
 - world/aethermoor
-type: Npc
+- active
+- complete
+- aethermoor
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+race: Half-Elf
+class: Unknown
+location: '[[Crystalhaven]] - The Grand Library'
+affiliation: '[[The Archive of Forgotten Things]]'
+age: '62'
+created_by: auto-stub
+role: Shard Historian
 updated: '2025-08-13T12:34:17.595394+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait
@@ -274,6 +279,129 @@ Vivienne can take 2 legendary actions, choosing from the options below. Only one
 
 ---
 
+
+
+## Appearance
+
+Scholar Vivienne the Chronicler presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Disciplined, ambitious, ambitious
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+## Motivations
+
+**Primary Goal**: Achieving fame
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Scholar Vivienne the Chronicler harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Double agent
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Sharp and precise
+
+**Speech Pattern**: Formal and elaborate
+
+**Physical Habits**: Paces while speaking
+
+## Current Activities
+
+Scholar Vivienne the Chronicler is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Scholar Vivienne the Chronicler needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Scholar Vivienne the Chronicler stopped or removed
+3. **The Secret**: Information about Scholar Vivienne the Chronicler's past surfaces
+4. **The Alliance**: Opportunity to work with or against Scholar Vivienne the Chronicler
+5. **The Crisis**: Scholar Vivienne the Chronicler is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - **Perfect exposition NPC** for Shard lore and historical background
 - **Balanced information source** - provides clues without breaking game balance
@@ -284,6 +412,15 @@ Vivienne can take 2 legendary actions, choosing from the options below. Only one
 - **Social Encounters**: Speaks with academic authority, challenges assumptions through facts
 - **Character Development**: Her relationship with dangerous knowledge creates ongoing tension
 - **Campaign Integration**: Central to lore-heavy storylines and historical mysteries
+
+
+
+## Relationship Web
+
+- [[Brother Marcus Steelbane]]: *family member*
+- [[04_Resources_Assets_Locations_location-city-marine-druids-marine-druids.svg]]: *business partner*
+- [[Captain Valeria]]: *business partner*
+- [[Deep Anarchists]]: *debt holder*
 
 ## Connections
 

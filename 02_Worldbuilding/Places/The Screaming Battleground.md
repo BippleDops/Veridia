@@ -1,20 +1,27 @@
 ---
-created: '2025-08-11'
-danger_level: Moderate
-status: complete
+title: The Screaming Battleground
+type: Location
 tags:
-- combat
-- crystal-enhanced
 - both
-- complete
+- world/both
 - content/location
+- place
+- active
+- combat
+- complete
 - location
 - status/in-progress
-- world/both
-type: Location
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+danger_level: Moderate
 updated: '2025-08-13T12:34:16.727522+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -49,7 +56,7 @@ The Screaming Battleground is a vast, cursed wasteland where the final battle be
 
 - **Defensive Lines**: Ancient fortifications now crystal-encrusted
 - **Flooded Tunnels**: Magical waters that never drain
-- **The Last Stand**: Where [[12_Research/D&D_References/Ancient Aquabyssos Rulers]] made final defense
+- **The Last Stand**: Where [[Ancient Aquabyssos Rulers]] made final defense
 - **Siege Engine Graveyard**: Massive war machines half-buried in crystal
 
 ### The Weeping Cliffs
@@ -124,7 +131,7 @@ The Screaming Battleground is a vast, cursed wasteland where the final battle be
 ### Survivors and Witnesses
 
 - Only 12 total survivors from both armies
-- [[12_Research/D&D_References/Sage Lysander Deepthought]]'s ancestor documented the battle
+- [[Sage Lysander Deepthought]]'s ancestor documented the battle
 - Records kept in [[Aethermoor Archives|02 Worldbuilding/Places/Aethermoor Archives]]
 - [[The Deep Mother|02 Worldbuilding/People/The Deep Mother]] emerged from the devastation
 
@@ -181,7 +188,7 @@ The Screaming Battleground is a vast, cursed wasteland where the final battle be
 - [[12_Research/D&D_Statblocks/The Crimson Sage]] harvests battle memories
 - [[12_Research/D&D_Statblocks/Professor Aldric Crystalweaver]] studies crystal formations
 - [[12_Research/D&D_Statblocks/Crystal Wardens]] investigate corruption spread
-- [[12_Research/D&D_References/High Inquisitor Maltheos]] seeks to consecrate the battlefield
+- [[High Inquisitor Maltheos]] seeks to consecrate the battlefield
 
 ### Treasure Hunters
 
@@ -192,9 +199,9 @@ The Screaming Battleground is a vast, cursed wasteland where the final battle be
 
 ### Military Interest
 
-- [[12_Research/D&D_References/Lord Commander Gareth Steelborn]] studies ancient tactics
+- [[Lord Commander Gareth Steelborn]] studies ancient tactics
 - [[12_Research/D&D_Statblocks/Admiral Thorne Blackwater]] seeks naval warfare artifacts
-- [[12_Research/D&D_References/Purist Coalition]] believes battlefield proves crystal danger
+- [[Purist Coalition]] believes battlefield proves crystal danger
 - [[12_Research/D&D_Statblocks/Captain Scale-Walker]] uses area as training ground
 
 ## Adventure Hooks
@@ -224,22 +231,22 @@ The Screaming Battleground is a vast, cursed wasteland where the final battle be
 
 ### Supply Lines
 
-- Expeditions launch from [[12_Research/D&D_References/Port Meridian]]
+- Expeditions launch from [[Port Meridian]]
 - Equipment sourced from [[12_Research/D&D_Statblocks/The Crimson Foundries]]
 - Healing supplies from [[Temple of Divine Order|02 Worldbuilding/Places/Temple Of Divine Order]]
-- Magical protection gear from [[12_Research/D&D_References/Crystalhaven]]
+- Magical protection gear from [[Crystalhaven]]
 
 ### Information Networks
 
 - Historical records in [[Aethermoor Archives|02 Worldbuilding/Places/Aethermoor Archives]]
 - Survivor accounts with [[Keeper Elara Moonwhisper|02 Worldbuilding/People/Keeper Elara Moonwhisper]]
-- Military analysis by [[12_Research/D&D_References/Lord Commander Gareth Steelborn]]
+- Military analysis by [[Lord Commander Gareth Steelborn]]
 - Magical research from [[12_Research/D&D_Statblocks/Professor Aldric Crystalweaver]]
 
 ### Economic Impact
 
-- Artifact trade through [[12_Research/D&D_References/Merchant Princes]]
-- Insurance for expeditions via [[12_Research/D&D_References/Banker Titus Goldcurrent]]
+- Artifact trade through [[Merchant Princes]]
+- Insurance for expeditions via [[Banker Titus Goldcurrent]]
 - Healing services from [[12_Research/D&D_Statblocks/High Priestess Celeste Dawnbringer]]
 - Equipment rental from [[Merchant Viktor Geargrind|02 Worldbuilding/People/Merchant Viktor Geargrind]]
 
@@ -261,18 +268,18 @@ The Screaming Battleground is a vast, cursed wasteland where the final battle be
 
 ## Connected Locations
 
-- [[12_Research/D&D_References/The Crystalline Wastes]] - Broader wasteland region
-- [[12_Research/D&D_References/Port Meridian]] - Launch point for expeditions
+- [[The Crystalline Wastes]] - Broader wasteland region
+- [[Port Meridian]] - Launch point for expeditions
 - [[Aethermoor Archives|02 Worldbuilding/Places/Aethermoor Archives]] - Historical documentation
 - [[Temple of Divine Order|02 Worldbuilding/Places/Temple Of Divine Order]] - Consecration attempts
-- [[12_Research/D&D_References/The Memory Meadows Black Market]] - Artifact trading
+- [[The Memory Meadows Black Market]] - Artifact trading
 
 ## Connected Factions
 
 - [[12_Research/D&D_Statblocks/Crystal Wardens]] - Investigating corruption spread
 - [[Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]] - Treasure hunting expeditions
 - [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Seeking magical weapons
-- [[12_Research/D&D_References/Purist Coalition]] - Using as anti-crystal propaganda
+- [[Purist Coalition]] - Using as anti-crystal propaganda
 
 ## Ongoing Threats
 
@@ -295,7 +302,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Screaming Battleground]]
+- [[The Screaming Battleground]]
 
 <!-- enriched: true -->
 
@@ -310,3 +317,97 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
 - [[02_Worldbuilding/Groups/Crystal Wardens]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-noble-district-v1-noble-district.png]]
+- [[04_Resources_Assets_Locations_location-city-pearl-sharpedge-v1-pearl-sharpedge.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-eternal-senate-v1-the-eternal-senate.svg]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+The Screaming Battleground is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Screaming Battleground
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+The Screaming Battleground was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting The Screaming Battleground:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Screaming Battleground
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

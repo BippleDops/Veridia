@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry master chen wei master chen wei.png
+aliases:
+- symbol heraldry master chen wei master chen weipng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-master-chen-wei-master-chen-wei.png
 
@@ -24,9 +30,9 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Master Chen Wei]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Master Chen Wei]]
+- [[Faction Symbols & Heraldry]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

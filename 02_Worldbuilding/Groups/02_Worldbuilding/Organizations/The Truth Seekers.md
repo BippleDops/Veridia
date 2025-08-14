@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: The Truth Seekers
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Organizations/The Truth Seekers
 
@@ -24,7 +31,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/System Cli Items Weapons]]
+- [[System Cli Items Weapons]]
 
 ## Notes
 
@@ -35,3 +42,9 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[04_Resources_Assets_Locations_location-city-lady-vivienne-the-unfrozen-lady-vivienne-the-unfrozen.svg]]
+- [[Quest - The Throne Succession]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-rescue-captain-rescue.svg]]

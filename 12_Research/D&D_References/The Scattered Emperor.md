@@ -1,23 +1,30 @@
+# The Scattered Emperor
+
 ---
+title: The Scattered Emperor
+type: NPC
 tags:
-- active
 - aquabyssos
 - both
-- fragmented-consciousness
-- npc
 - ruler
+- npc
+- research
+- active
+- fragmented-consciousness
+created: '2025-08-12'
+modified: '2025-08-14'
+status: active
+race: Distributed Consciousness
+class: Wizard/Aberration
+location: '[[Abyssos Prime - Throne of Bubbles]]'
+level: 20
 first_name: Malachus
 last_name: the Eternal
-title: The Scattered Emperor
-location: '[[Abyssos Prime - Throne of Bubbles]]'
 faction: '[[Abyssos Prime Government]]'
 occupation: Fragmented Ruler
 disposition: 0
 alignment: Chaotic Neutral
-race: Distributed Consciousness
 original_race: Human
-class: Wizard/Aberration
-level: 20
 ac: Variable
 max_hp: Infinite
 current_hp: Distributed
@@ -53,15 +60,13 @@ secrets:
 - Can reunite but will die if maintained
 - Knows identity of all shadow replacements
 - Sees through every creature's eyes near Abyssos Prime
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:36.893457+00:00'
-status: active
-type: NPC
 ---
+
 
 
 
@@ -352,3 +357,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Queen Seraphina]]
 - [[Marina Red Tide Coralheart - Aquabyssos]]
 - [[Throne of Bubbles]]
+
+
+## Related
+
+*Links to related content will be added here.*

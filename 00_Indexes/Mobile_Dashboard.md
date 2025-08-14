@@ -1,12 +1,17 @@
 ---
-created: 2025-08-14
+title: Mobile Dashboard
 type: mobile-template
-cssclass: mobile-optimized
 tags:
 - mobile
 - template
+- index
+- active
 - responsive
+created: 2025-08-14
+modified: '2025-08-14'
+cssclass: mobile-optimized
 ---
+
 
 # Mobile Quick Access
 

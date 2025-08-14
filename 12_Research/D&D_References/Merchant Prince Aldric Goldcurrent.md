@@ -1,15 +1,21 @@
+# Merchant Prince Aldric Goldcurrent
+
 ---
-tags:
-- active
-- both
-- location
+title: Merchant Prince Aldric Goldcurrent
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.300969+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-merchant-prince-aldric-goldcurrent-merchant-prince-aldric-goldcurrent.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Merchant Prince Aldric Goldcurrent|02 Worldbuilding/Places/Merchant Prince Aldric Goldcurrent]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

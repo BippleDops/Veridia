@@ -1,3 +1,15 @@
+# Conditions
+
+---
+title: Conditions
+type: resource
+tags:
+- active
+- resource
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Condition Reference
 
 ## Conditions
@@ -15,3 +27,7 @@
 - **Restrained**: Speed 0, disadvantage
 - **Stunned**: Incapacitated
 - **Unconscious**: Incapacitated, unaware
+
+## Related
+
+*Links to related content will be added here.*

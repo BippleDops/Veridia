@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 06
 type: adventure
-status: active
 tags:
-- combat
-- session-notes
-- shadow-touched
 - adventure
+- session-notes
+- quest
+- active
+- combat
+- shadow-touched
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 06: [Political Crisis]
 
@@ -73,3 +79,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
+
+
+## Key NPCs
+
+- [[04_Resources_Assets_Locations_location-city-astrologer-prime-cassandra-starweaver-astrologer-prime-cassandra-starweaver.svg]]
+- [[04_Resources_Assets_Vehicles_vehicle-ship-resonance-drive-yacht-v1-resonance-drive-yacht.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-lady-seraphina-goldleaf-lady-seraphina-goldleaf.svg]]
+- [[04_Resources_Assets_Locations_location-city-grief-overwhelming-syndrome-v1-grief-overwhelming-syndrome.svg]]
+- [[#Cross-Campaign Characters]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-sorceress-luna-prismatic-v1-sorceress-luna-prismatic.svg]]
+- [[04_Resources_Assets_Locations_location-city-current-peacefulflow-v1-current-peacefulflow.svg]]
+- [[The Aether Works]]

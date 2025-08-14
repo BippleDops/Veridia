@@ -1,13 +1,21 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry the artisans collective of master crafters the artisans collective
+  of master crafters.svg
+aliases:
+- symbol heraldry the artisans collective of master crafters the artisans collective
+  of master crafterssvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-the-artisans-collective-of-master-crafters-the-artisans-collective-of-master-crafters.svg
 
@@ -24,9 +32,9 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Artisans' Collective of Master Crafters]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
-- [[12_Research/D&D_References/The Artisans' Collective]]
+- [[The Artisans' Collective of Master Crafters]]
+- [[Faction Symbols & Heraldry]]
+- [[The Artisans' Collective]]
 - [[02_Worldbuilding/Lore/The Artisans' Collective]]
 
 ## Notes

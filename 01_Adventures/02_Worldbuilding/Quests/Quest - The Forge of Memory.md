@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Quest   The Forge of Memory
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Quests/Quest - The Forge of Memory
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Brother Marcus Steelbane]]
+- [[Brother Marcus Steelbane]]
 - [[02_Worldbuilding/People/Brother Marcus Steelbane]]
 
 ## Notes
@@ -36,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Captain Thornback]]
+- [[Random NPC]]
+- [[Senator Glaucus]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-bexley-bexley.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-harmony-tidereader-captain-harmony-tidereader.svg]]
+
+
+## Important Locations
+
+- [[Depth Merchants]]
+- [[04_Resources_Assets_Locations_location-city-mira-algaebrew-v1-mira-algaebrew.svg]]
+- [[Disaster Prevention Centers]]

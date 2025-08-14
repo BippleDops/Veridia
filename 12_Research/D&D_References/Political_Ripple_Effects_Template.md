@@ -1,18 +1,25 @@
+# Political_Ripple_Effects_Template
+
 ---
+title: Political Ripple Effects Template
+type: Template
 tags:
 - both
+- template
 - campaign-management
-- complete
-- faction-tracking
+- research
 - gm-tools
 - political-consequences
-- template
-type: Template
-status: complete
+- active
+- complete
+- faction-tracking
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.183626+00:00'
 world: Both
 ---
+
 
 
 # Political Ripple Effects Template

@@ -1,24 +1,30 @@
+# Encounter and Loot Generators
+
 ---
-created: '2025-08-11'
-realm: Generic
-status: complete
+title: Encounter and Loot Generators
+type: Lore
 tags:
+- lore
 - both
 - complete
 - content/lore
-- generators
-- lore
-- random
-- status/in-progress
-- tables
 - world/both
-type: Lore
-updated: '2025-08-13T12:34:32.395385+00:00'
+- research
+- active
+- tables
+- generators
+- status/in-progress
+- random
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+realm: Generic
+updated: 2025-08-13 07:59:50.470772
 world: Both
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.470772
 ---
+
 # 🎲 Encounter & Loot Generators
 
 ## Encounters (d100)
@@ -129,3 +135,8 @@ Party level modifier: `dice: 2d6*{level}|Parcel (gp)`
 **Influence Maximization**: Leveraging relationships for faction goals
 **Diplomatic Priorities**: Key relationships requiring attention
 
+
+
+## Related
+
+*Links to related content will be added here.*

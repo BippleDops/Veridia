@@ -1,22 +1,27 @@
+# Levels 1116 Masters of the Realm Levels 1116
+
 ---
+title: Levels 1116 Masters of the Realm Levels 1116
 aliases:
-- Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+- "Levels 11\u201316": "Masters of the Realm; Levels 11\u201316 Adventure Situations"
+type: note
 tags:
-- active
 - both
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:04.113140+00:00'
 world: Both
 ---
+
 
 
 # Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations
@@ -61,3 +66,8 @@ Legends speak of levels 1116 masters of the realm levels 1116 adventure situatio
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

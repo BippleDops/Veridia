@@ -1,20 +1,27 @@
+# NPC Quick Reference Guide
+
 ---
-tags:
-- both
-- draft
-- gm-resource
-- lore
-- npc-guide
-- npcs
-- quick-reference
-- roleplay
+title: NPC Quick Reference Guide
 type: Lore
-campaign: Aquabyssos
+tags:
+- lore
+- npcs
+- both
+- gm-resource
+- quick-reference
+- research
+- roleplay
+- active
+- draft
+- npc-guide
 created: '2025-08-07'
+modified: '2025-08-14'
+status: draft
+campaign: Aquabyssos
 world: Both
 updated: '2025-08-13T01:18:31.116177+00:00'
-status: draft
 ---
+
 
 
 
@@ -383,3 +390,8 @@ Legends speak of NPC Quick Reference Guide as a nexus where past and present con
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

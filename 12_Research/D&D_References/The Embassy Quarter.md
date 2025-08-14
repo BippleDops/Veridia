@@ -1,20 +1,27 @@
+# The Embassy Quarter
+
 ---
+title: The Embassy Quarter
+type: Location
 tags:
-- aethermoor
 - completed
-- diplomatic
-- diplomatic-district
 - district
 - embassy
 - international
+- diplomatic-district
+- research
+- diplomatic
+- active
 - location
 - politics
+- aethermoor
+created: '2025-08-09'
+modified: '2025-08-14'
 status: completed
+population: 8500
 world: Aethermoor
-type: Location
 danger_level: 2
 parent_location: '[[Port Meridian|02 Worldbuilding/Places/Port Meridian]]'
-population: 8500
 government: International Diplomatic Council
 specialties:
 - International Relations
@@ -22,13 +29,13 @@ specialties:
 - Trade Negotiations
 - Conflict Resolution
 established: Post-Continental War
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 related_entities:
 - '[[Aquabyssos Ambassadors|02 Worldbuilding/Lore/Aquabyssos Ambassadors]]'
 - '[[The Azure Coast|02 Worldbuilding/Places/The Azure Coast]]'
 - '[[Continental War|02 Worldbuilding/Lore/Continental War]]'
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-embassy-quarter-the-embassy-quarter.svg]]
@@ -333,3 +340,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Embassy Quarter|02 Worldbuilding/Places/The Embassy Quarter]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

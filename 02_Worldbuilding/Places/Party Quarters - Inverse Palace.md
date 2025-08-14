@@ -1,22 +1,29 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
-danger_level: Moderate
-status: complete
+title: Party Quarters   Inverse Palace
+type: Location
 tags:
 - aquabyssos
-- complete
-- content/location
-- entertainment
-- location
-- luxury
-- palace
 - status/complete
+- luxury
+- content/location
+- place
+- active
+- location
+- complete
+- palace
 - world/aquabyssos
-type: Location
+- entertainment
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+created_by: auto-stub
+danger_level: Moderate
 updated: '2025-08-13T12:34:17.023303+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -80,6 +87,27 @@ This unique venue hosts the most exclusive social events in Aquabyssos, where th
 - Limited capacity due to safety requirements
 - Staff training and retention difficulties
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 This location provides unique tactical challenges and memorable social encounters. Use the inverted gravity for creative puzzle-solving and combat scenarios that force players to think three-dimensionally.
 
@@ -125,3 +153,72 @@ Legends speak of Party Quarters   Inverse Palace as a nexus where past and prese
 - [[Party Quarters - Inverse Palace]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- [[Quest - Refugees of the Deep]]
+- [[#NPC-Location Relationship Matrix]]
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-merchant-delilah-currentrunner-merchant-delilah-currentrunner.svg]]
+- [[Shadow Trackhound]]
+- [[04_Resources_Assets_Locations_location-city-whisper-touched-william-v1-whisper-touched-william.svg]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+Party Quarters - Inverse Palace is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Party Quarters - Inverse Palace:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Party Quarters - Inverse Palace
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

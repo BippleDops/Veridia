@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 13   The Void Between
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 13 - The Void Between
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Locations_location-city-reef-guard-captain-torrent-shellborn-v1-reef-guard-captain-torrent-shellborn.svg]]
+- [[Prophet Nerida Voidgazer]]
+- [[Medic Captain Truewater]]
+- [[04_Resources_Assets_Locations_location-city-keeper-valdris-goldvault-keeper-valdris-goldvault.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-empress-tethys-the-ever-drowning-empress-tethys-the-ever-drowning.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-the-lighthouse-keepers-the-lighthouse-keepers.svg]]
+- [[04_Resources_Assets_Locations_location-city-unity-hopecurrent-v1-unity-hopecurrent.svg]]
+- [[04_Resources_Assets_Locations_location-city-infrastructure-development-v1-infrastructure-development.svg]]

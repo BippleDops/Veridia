@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: "\u03A9 System CLI spells school abjuration"
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Lore/Ω_System-CLI-spells-school-abjuration
 
@@ -24,9 +28,9 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Arcane Protector Thalassa Shieldweave]]
-- [[12_Research/D&D_References/System Cli Spells School Divination]]
-- [[12_Research/D&D_References/System Cli Spells School Necromancy]]
+- [[Arcane Protector Thalassa Shieldweave]]
+- [[System Cli Spells School Divination]]
+- [[System Cli Spells School Necromancy]]
 
 ## Notes
 

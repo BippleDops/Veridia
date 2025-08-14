@@ -1,14 +1,20 @@
+# Order of the Deep Vigil
+
 ---
-tags:
-- active
-- aquabyssos
-- group
+title: Order of the Deep Vigil
 type: Group
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- group
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.801390+00:00'
 ---
+
 
 
 
@@ -61,3 +67,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Abyss Beneath Aquabyssos]]
+
+
+## Related
+
+*Links to related content will be added here.*

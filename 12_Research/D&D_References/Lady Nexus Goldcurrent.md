@@ -1,15 +1,21 @@
+# Lady Nexus Goldcurrent
+
 ---
-tags:
-- active
-- both aethermoor & aquabyssos
-- both-aethermoor-&-aquabyssos
-- npc
+title: Lady Nexus Goldcurrent
 type: NPC
-world: Both Aethermoor & Aquabyssos
-status: active
+tags:
+- npc
+- research
+- both aethermoor & aquabyssos
+- active
+- both-aethermoor-&-aquabyssos
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both Aethermoor & Aquabyssos
 updated: '2025-08-13T01:18:36.870903+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-lady-nexus-goldcurrent-lady-nexus-goldcurrent.svg]]
@@ -70,3 +76,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Liminal Trading Company]]
+
+
+## Related
+
+*Links to related content will be added here.*

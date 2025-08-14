@@ -1,14 +1,21 @@
+# Wind_Touched_Evolution
+
 ---
-created: '2025-08-13'
-status: complete
+title: Wind Touched Evolution
+type: Transformation Mechanics
 tags:
 - mechanics/transformation
-- wind/adaptation
 - aethermoor/evolution
-type: Transformation Mechanics
+- research
+- active
+- wind/adaptation
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Aethermoor
 ---
+
 
 # Wind-Touched Evolution
 ## Atmospheric Adaptation System
@@ -216,3 +223,7 @@ Characters exposed to extreme altitudes and wind magic gradually develop superna
 ---
 
 *Wind-touched evolution represents the price and power of atmospheric mastery, perfect for characters willing to sacrifice earthly ties for sky-bound freedom.*
+
+## Related
+
+*Links to related content will be added here.*

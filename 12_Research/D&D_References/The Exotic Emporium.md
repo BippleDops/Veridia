@@ -1,15 +1,21 @@
+# The Exotic Emporium
+
 ---
+title: The Exotic Emporium
+type: Lore
 tags:
-- active
 - lore
 - master-index
+- research
+- active
 - universal
-type: Lore
-world: Universal
-status: active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Universal
 updated: '2025-08-13T01:18:34.748825+00:00'
 ---
+
 
 > [!figure] Asset
 ![[04_Resources/Assets/Locations/location-city-the-exotic-emporium-the-exotic-emporium.svg]]
@@ -45,3 +51,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Exotic Emporium|02 Worldbuilding/Places/The Exotic Emporium]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

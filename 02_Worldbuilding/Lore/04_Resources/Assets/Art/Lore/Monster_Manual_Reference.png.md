@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Monster Manual Reference.png
+aliases:
+- Monster Manual Referencepng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Art/Lore/Monster_Manual_Reference.png
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Monster Manual Reference]]
+- [[Monster Manual Reference]]
 - [[02_Worldbuilding/Lore/Monster Manual Reference]]
 
 ## Notes

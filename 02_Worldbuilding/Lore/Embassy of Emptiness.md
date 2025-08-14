@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Embassy of Emptiness
+type: Lore
 tags:
+- lore
 - aquabyssos
-- complete
+- world/aquabyssos
 - content/lore
 - content/npc
-- lore
+- active
+- complete
 - status/in-progress
-- world/aquabyssos
-type: Lore
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.017223+00:00'
 world: Aquabyssos
 ---
+
 
 
 ## Overview
@@ -41,12 +45,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Tenebrarum]]
+- [[Tenebrarum]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Tenebrarum]]
+- [[Tenebrarum]]
 
 
 ## Related

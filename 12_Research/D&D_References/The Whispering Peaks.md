@@ -1,18 +1,25 @@
+# The Whispering Peaks
+
 ---
+title: The Whispering Peaks
+type: Location
 tags:
 - aquabyssos
 - completed
-- dangerous
-- haunted
-- haunted-mountain-range
-- location
 - mountains
 - mystical
+- research
+- dangerous
+- haunted
+- active
+- location
+- haunted-mountain-range
+created: '2025-07-23'
+modified: '2025-08-14'
 status: completed
-world: Aquabyssos
 region: '[[Northern Shattered Isles]]'
-type: Location
 population: 800
+world: Aquabyssos
 danger_level: 8
 government: '[[The Order of Azure Flame]]'
 leader: '[[Grand Master Tempest Windvoice]]'
@@ -21,13 +28,12 @@ specialties:
 - Ancient Mysteries
 - Wind Magic
 elevation: Sea level to 12,000 feet above surface
-created: '2025-07-23'
-modified: 2025-08-09 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] View
@@ -384,3 +390,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Hadal Depths]]
+
+
+## Related
+
+*Links to related content will be added here.*

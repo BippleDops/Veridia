@@ -1,23 +1,30 @@
+# Bubble Burst
+
 ---
+title: Bubble Burst
+type: Location
 tags:
 - aquabyssos
-- bubble-district
 - casino
+- bubble-district
+- research
+- active
+- location
 - complete
 - entertainment
-- location
 - venue
+created: 2025-08-08 - Category/Place
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-11T00:00:00+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-bubble-burst-bubble-burst.svg]]
@@ -195,3 +202,8 @@ The establishment's reliance on magical infrastructure makes it vulnerable to sa
 - [[Bubble Burst|02 Worldbuilding/Places/Bubble Burst]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

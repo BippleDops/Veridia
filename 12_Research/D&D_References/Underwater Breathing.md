@@ -1,27 +1,34 @@
+# Underwater Breathing
+
 ---
+title: Underwater Breathing
+type: Lore
 tags:
-- aquabyssos
-- bio-magical-engineering
-- breathing-apparatus
-- complete
-- innovation
-- life-support
 - lore
-- respiratory-enhancement
-- survival-systems
+- aquabyssos
 - technology
+- bio-magical-engineering
+- innovation
 - underwater-technology
+- survival-systems
+- respiratory-enhancement
+- research
+- active
+- complete
+- breathing-apparatus
+- life-support
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 category: Life Support Technology
 significance: Essential Infrastructure
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 technology_type: Bio-Magical Respiratory System
 access_restriction: Public Infrastructure
 ---
+
 
 
 

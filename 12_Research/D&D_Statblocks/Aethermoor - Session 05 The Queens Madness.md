@@ -1,11 +1,30 @@
+# Aethermoor - Session 05 The Queens Madness
+
 ---
+title: Aethermoor   Session 05 The Queens Madness
+type: Lore
+tags:
+- lore
+- campaign/session
+- seven-shards
+- content/lore
+- research
+- queen-seraphina
+- world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+level: 4
 MyCategory: Unknown
 MyContainer: None
 absent: []
 aquabyssos_connection: true
 campaign: Aethermoor - The Plague of Crystals
 corruption_exposure: 4
-created: '2025-08-11'
 danger_level: 8
 date: null
 duration_hours: 4
@@ -21,7 +40,6 @@ items_gained:
 - Potion of Greater Restoration (3)
 - Queen's personal spellbook
 - Ancient Aquabyssos texts
-level: 4
 locations_visited:
 - '[[Ancient Siege Tunnels]]'
 - '[[Crystal Garden]]'
@@ -50,22 +68,11 @@ quests_started:
 - '[[Save Queen Seraphina]]'
 - '[[Stop the Crystal Festival Ritual]]'
 session: Session-05
-status: complete
-tags:
-- aethermoor
-- campaign/session
-- complete
-- content/lore
-- lore
-- queen-seraphina
-- seven-shards
-- status/in-progress
-- world/aethermoor
-type: Lore
 updated: '2025-08-13T12:34:17.841744+00:00'
 world: Aethermoor
 xp_awarded: 1500
 ---
+
 
 
 
@@ -420,3 +427,8 @@ This session establishes:
 - [[Palace Courtyard - Crystal Garden]]
 - [[Secret Vault Beneath Throne]]
 - [[Throne Room - Heart of Palace]]
+
+
+## Related
+
+*Links to related content will be added here.*

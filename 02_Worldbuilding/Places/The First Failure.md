@@ -1,7 +1,31 @@
 ---
+title: The First Failure
+type: Location
+tags:
+- both
+- status/complete
+- mechanics/magic
+- ruins
+- aquatic
+- historical
+- world/both
+- content/location
+- place
+- active
+- combat
+- complete
+- location
+- tragedy
+- world/aquabyssos
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: 12
 MyCategory: Unknown
 MyContainer: None
-created: '2025-08-12'
 current_state: Preserved memorial and research site
 danger_level: 6
 depth: 2800-3100 feet
@@ -16,12 +40,11 @@ location_type: Ruined Magical Laboratory
 notable_npcs:
 - '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth|02 Worldbuilding/People/Keeper
   Of Failures, Marcus Ashworth]]'
-- '[[12_Research/D&D_References/Archivist Elena Sorrowkeeper]]'
-- '[[12_Research/D&D_References/Ghost of Dr. Thaddeus Brightwater]]'
-- '[[12_Research/D&D_References/Memorial Tender Sarah]]'
+- '[[Archivist Elena Sorrowkeeper]]'
+- '[[Ghost of Dr. Thaddeus Brightwater]]'
+- '[[Memorial Tender Sarah]]'
 obsidianUIMode: preview
-parent_location: '[[12_Research/D&D_References/Abyssos Prime]]'
-population: 12
+parent_location: '[[Abyssos Prime]]'
 pressure_effects: Moderate
 ruler: '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth|02 Worldbuilding/People/Keeper
   Of Failures, Marcus Ashworth]]'
@@ -32,35 +55,18 @@ services:
 - Memorial Services
 - Experimental Records Access
 shadow_density: Moderate
-status: complete
 sub_locations:
 - '[[The Shattered Summoning Circle]]'
-- '[[12_Research/D&D_References/Memorial Wall of Names]]'
+- '[[Memorial Wall of Names]]'
 - '[[The Preservation Chamber]]'
 - '[[Library of Lost Solutions]]'
 - '[[The Guilt Garden]]'
-tags:
-- combat
-- crystal-enhanced
-- shadow-touched
-- aquatic
-- both
-- complete
-- content/location
-- historical
-- location
-- mechanics/magic
-- ruins
-- status/complete
-- tragedy
-- world/aquabyssos
-- world/both
 temporal_stability: 70
-type: Location
 updated: '2025-08-13T12:34:16.607816+00:00'
 visited: false
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -75,7 +81,7 @@ world: Both
 
 ## Overview
 
-The First Failure stands as both monument and warning—a preserved magical laboratory complex where the initial attempts to prevent [[12_Research/D&D_Statblocks/The Great Drowning]] not only failed spectacularly but may have actually caused the very catastrophe they sought to prevent. Located in the deep memorial district of [[12_Research/D&D_References/Abyssos Prime]], this site serves as a sobering reminder of the dangers of unchecked magical ambition and hasty solutions to complex problems.
+The First Failure stands as both monument and warning—a preserved magical laboratory complex where the initial attempts to prevent [[12_Research/D&D_Statblocks/The Great Drowning]] not only failed spectacularly but may have actually caused the very catastrophe they sought to prevent. Located in the deep memorial district of [[Abyssos Prime]], this site serves as a sobering reminder of the dangers of unchecked magical ambition and hasty solutions to complex problems.
 
 The complex consists of the ruins of what was once the most advanced magical research facility in the pre-drowning world, led by the brilliant but ultimately tragic figure of Dr. Thaddeus Brightwater. The site has been carefully preserved, not as a shrine to achievement, but as a testament to failure—every broken apparatus, every flawed calculation, every desperate last attempt maintained exactly as it was found in the immediate aftermath of the drowning.
 
@@ -101,7 +107,7 @@ Dr. Thaddeus Brightwater, the realm's most celebrated magical theorist and profe
 - Dr. Thaddeus Brightwater - Project Leader (Transmutation Specialist)
 - Lady Cordelia Mistweaver - Divination Expert
 - Master Artificer Cornelius Gearwright - Magical Engineering
-- Sage Marina Deepcurrent - Ocean Magic Theorist (later revealed to be connected to [[12_Research/D&D_References/Marina Red Tide Coralheart - Aquabyssos]])
+- Sage Marina Deepcurrent - Ocean Magic Theorist (later revealed to be connected to [[Marina Red Tide Coralheart - Aquabyssos]])
 - High Priestess Seraphina Tideturner - Divine Magic Consultant
 
 ### The Fatal Flaw
@@ -123,7 +129,7 @@ The heart of the complex contains the remains of a massive summoning circle desi
 
 ### Memorial Wall of Names
 
-**[[12_Research/D&D_References/Memorial Wall of Names]]**
+**[[Memorial Wall of Names]]**
 A somber addition constructed after the drowning, listing the names of all 40,000 people who died in the immediate catastrophe. The wall was built by survivors who felt the researchers should be remembered alongside their victims, a controversial decision that led to heated debates about responsibility and memorial ethics.
 
 **Wall Sections:**
@@ -175,23 +181,23 @@ A former student of Dr. Brightwater who has dedicated his life to maintaining th
 - Encyclopedic knowledge of the disaster and its causes
 - Severe guilt complex despite not being directly responsible
 - Ability to identify flawed magical theories before they cause harm
-- Unofficial advisor to current magical researchers in [[12_Research/D&D_References/Abyssos Prime]]
+- Unofficial advisor to current magical researchers in [[Abyssos Prime]]
 
 ### The Memorial Staff
 
-**[[12_Research/D&D_References/Archivist Elena Sorrowkeeper]]** - Keeper of records
+**[[Archivist Elena Sorrowkeeper]]** - Keeper of records
 - Maintains the Library of Lost Solutions
 - Specializes in failure analysis and pattern recognition
 - Lost her mentor in the drowning, struggles with survivor guilt
 - Developing new methods for ethical magical research
 
-**[[12_Research/D&D_References/Memorial Tender Sarah]]** - Caretaker of the physical site
+**[[Memorial Tender Sarah]]** - Caretaker of the physical site
 - Maintains the Guilt Garden and Preservation Chamber
 - Has an uncanny ability to comfort grieving visitors
 - Believes the site has healing power for those who accept responsibility
 - Secretly maintains correspondence with other disaster memorial sites
 
-**[[12_Research/D&D_References/Ghost of Dr. Thaddeus Brightwater]]** - Restless spirit
+**[[Ghost of Dr. Thaddeus Brightwater]]** - Restless spirit
 - Appears to researchers who are repeating his mistakes
 - Cannot rest until someone successfully prevents a magical catastrophe
 - Provides warnings but cannot directly interfere
@@ -211,7 +217,7 @@ A small religious group that views the First Failure as a sacred site demonstrat
 
 ### Failure Analysis
 
-The site offers consultation services for magical researchers, helping them identify potential flaws in their theories and approaches. This service has prevented several smaller magical disasters and is increasingly sought after by magical institutions across [[12_Research/D&D_References/Aquabyssos]].
+The site offers consultation services for magical researchers, helping them identify potential flaws in their theories and approaches. This service has prevented several smaller magical disasters and is increasingly sought after by magical institutions across [[Aquabyssos]].
 
 ### Historical Research
 
@@ -251,20 +257,20 @@ Dr. Brightwater's spirit isn't just warning people—he's subtly guiding researc
 
 ### Research Networks
 
-- **[[12_Research/D&D_References/The Crystal Cathedral of Pure Light]]:** Current magical research center
-- **[[12_Research/D&D_References/The Archive of Unremembered Things]]:** Complementary memorial archive
+- **[[The Crystal Cathedral of Pure Light]]:** Current magical research center
+- **[[The Archive of Unremembered Things]]:** Complementary memorial archive
 - **[[Royal Academy of Arcane Arts - Ruins]]:** Pre-drowning educational institution
 
 ### Memorial Sites
 
 - **[[02_Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary|02 Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary]]:** Different approach to remembering the dead
-- **[[12_Research/D&D_References/Memorial District of Abyssos Prime]]:** Broader commemorative area
-- **[[12_Research/D&D_References/Disaster Prevention Centers]]:** Modern attempts to prevent similar catastrophes
+- **[[Memorial District of Abyssos Prime]]:** Broader commemorative area
+- **[[Disaster Prevention Centers]]:** Modern attempts to prevent similar catastrophes
 
 ### Hostile Relations
 
 - **[[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]:** Believes the drowning was divine will
-- **[[12_Research/D&D_References/Progress Through Power Faction]]:** Wants to suppress failure records
+- **[[Progress Through Power Faction]]:** Wants to suppress failure records
 - **[[Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]]:** Seeks to harvest traumatic memories from the site
 
 ## Adventure Hooks
@@ -285,7 +291,7 @@ Dr. Brightwater's spirit isn't just warning people—he's subtly guiding researc
 
 5. **The Redemption Experiment:** Dr. Brightwater's ghost offers to teach the players his complete research, claiming he's found a way to undo The Great Drowning. However, the ritual would require sacrificing the lives that have been built in the post-drowning world.
 
-6. **The Suppression Order:** Powerful figures in [[12_Research/D&D_References/Parliament of Echoes]] want to destroy the First Failure entirely, arguing that it inspires dangerous magical experimentation. Players must choose between preserving historical truth and preventing potential future disasters.
+6. **The Suppression Order:** Powerful figures in [[Parliament of Echoes]] want to destroy the First Failure entirely, arguing that it inspires dangerous magical experimentation. Players must choose between preserving historical truth and preventing potential future disasters.
 
 ### Personal Growth
 
@@ -395,7 +401,7 @@ This location works best as:
 
 ## Connections
 
-- [[12_Research/D&D_References/The Primordial Vaults]]
+- [[The Primordial Vaults]]
 
 ## Player-Facing Summary
 
@@ -405,19 +411,134 @@ The First Failure is a undersea element of the setting, known for bioluminescent
 
 Legends speak of The First Failure as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The First Failure.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The First Failure]]
+- [[The First Failure]]
 
 <!-- enriched: true -->
-- [[12_Research/D&D_References/Marina Red Tide Coralheart - Aquabyssos]]
-- [[12_Research/D&D_References/Abyssos Prime]]
+- [[Marina Red Tide Coralheart - Aquabyssos]]
+- [[Abyssos Prime]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-current-democratic-party-v1-current-democratic-party.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-reef-communities-the-reef-communities.svg]]
+- [[The Kraken's Harbor]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+The First Failure is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The First Failure
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+The First Failure was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting The First Failure:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The First Failure
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

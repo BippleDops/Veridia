@@ -1,32 +1,38 @@
+# Master Artificers Guild
+
 ---
-tags:
-- aethermoor
-- apprenticeship
-- artificers
-- complete
-- craftsmanship
-- elite-crafters
-- group
-- guild
-- innovation
-- magical-engineering
-- masterwork-creation
-- organization
-- professional-association
-- technology
-status: complete
-world: Aethermoor
+title: Master Artificers Guild
 type: Group
-created_by: lore-expansion-specialist
+tags:
+- masterwork-creation
+- technology
+- craftsmanship
+- apprenticeship
+- innovation
+- artificers
+- elite-crafters
+- magical-engineering
+- organization
+- research
+- professional-association
+- active
+- complete
+- guild
+- aethermoor
+- group
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Eastern Kingdoms - Crystalhaven
+membership: Elite Crafters
+world: Aethermoor
+created_by: lore-expansion-specialist
 updated: '2025-08-11T00:00:00+00:00'
 organization_type: Professional Guild
 scope: Continental
-membership: Elite Crafters
 specialization: Advanced Magical Items
 political_influence: High
 economic_impact: Major
-headquarters: Eastern Kingdoms - Crystalhaven
 connections:
 - '[[Eastern Kingdoms 2]]'
 - '[[Crystal Forest]]'
@@ -40,6 +46,7 @@ themes:
 - guild_hierarchy
 - masterwork_tradition
 ---
+
 
 
 > [!figure] Heraldry
@@ -476,3 +483,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Great Crystallization]]
 - [[Aethermoor]]
 - [[Crystalhaven]]
+
+
+## Related
+
+*Links to related content will be added here.*

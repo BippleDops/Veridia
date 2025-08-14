@@ -1,29 +1,36 @@
+# The Living Weapon
+
 ---
+title: The Living Weapon
+type: Location
 tags:
-- ancient
 - aquabyssos
-- artifact
-- complete
-- dangerous
-- intelligence
-- location
+- weapon
+- symbiotic
 - military
 - sentient
-- symbiotic
-- weapon
+- research
+- dangerous
+- ancient
+- artifact
+- location
+- complete
+- active
+- intelligence
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 security_level: extreme
 access: classified
 danger_level: Extreme
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.215406+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
 
 
 

@@ -1,21 +1,28 @@
+# House Deepcurrent
+
 ---
-created: '2025-08-12'
-status: complete
+title: House Deepcurrent
+type: Faction
 tags:
 - aquabyssos
-- complete
-- content/faction
-- faction
 - intrigue
 - noble-house
-- politics
 - status/complete
-- status/in-progress
 - world/aquabyssos
-type: Faction
+- content/faction
+- faction
+- research
+- active
+- complete
+- status/in-progress
+- politics
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.440829+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -318,3 +325,8 @@ Legends speak of House Deepcurrent as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

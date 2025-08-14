@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Queen Seraphina Lumengarde
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.471930+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -321,12 +329,29 @@ Queen Seraphina Lumengarde has ruled [[Aethermoor]] for twelve years, ascending 
 > - Has a hidden daughter, [[Aria Lumengarde]], kept away for safety
 > - Planning to use the Crown ceremony to attempt a cure
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Cold and distant
+
+**Speech Pattern**: Casual and relaxed
+
+**Physical Habits**: Gestures expressively
+
 ## Current Activities
 - Preparing for the Crystal Festival
 - Secretly researching corruption cures
 - Negotiating with [[The Verdant Accord]]
 - Investigating [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - Monitoring [[Prince Caspian Duskwater]]'s movements
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 ## Motivations
 1. **Primary**: Find cure for crystal corruption
@@ -364,6 +389,76 @@ Queen Seraphina Lumengarde has ruled [[Aethermoor]] for twelve years, ascending 
 
 *"Every day I feel it spreading... the cold, beautiful death creeping through my veins. But I will not abandon my people."* - Private confession
 
+
+
+## Background
+
+Queen Seraphina Lumengarde's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Relationships
+
+### Allies
+- Professional colleagues and supporters
+- Political or business connections
+
+### Rivals
+- Competitors in their field
+- Ideological opponents
+
+### Neutral Parties
+- Those who could be swayed either way
+
+
+
+## Plot Hooks
+
+1. **The Request**: Queen Seraphina Lumengarde needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Queen Seraphina Lumengarde stopped or removed
+3. **The Secret**: Information about Queen Seraphina Lumengarde's past surfaces
+4. **The Alliance**: Opportunity to work with or against Queen Seraphina Lumengarde
+5. **The Crisis**: Queen Seraphina Lumengarde is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Queen's corruption advances with major spell use
 - If discovered, could trigger civil war
@@ -388,6 +483,15 @@ Queen Seraphina Lumengarde has ruled [[Aethermoor]] for twelve years, ascending 
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Secretly searching
 - [[Quest - Diplomatic Immunity]] - Needs peacekeepers
 
+
+
+
+## Relationship Web
+
+- [[Tidal Priest Marina Deepcurrent]]: *childhood friend*
+- [[04_Resources_Assets_Locations_location-city-master-curator-pearl-artflow-v1-master-curator-pearl-artflow.svg]]: *childhood friend*
+- [[Salvage Queen Nerissa Deepfinder]]: *competitor*
+- [[04_Resources_Assets_Symbols_symbol-heraldry-stellar-commander-nereus-voidcaller-stellar-commander-nereus-voidcaller.svg]]: *business partner*
 
 ## Connections
 

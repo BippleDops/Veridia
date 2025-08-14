@@ -1,12 +1,19 @@
+# Random Encounter Tables - Aquabyssos
+
 ---
+title: Random Encounter Tables   Aquabyssos
+type: lore
 tags:
-- aquabyssos
-- category/lore
-- complete
 - lore
+- category/lore
+- aquabyssos
+- research
+- active
+- complete
+created: null
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: lore
 obsidianUIMode: preview
 accessibility:
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -17,8 +24,8 @@ accessibility:
   - Lines & Veils
   - X-Card
 updated: '2025-08-13T01:18:35.816261+00:00'
-created: null
 ---
+
 
 
 
@@ -78,3 +85,8 @@ g and map use.
 ## Connections
 
 - [[Random Encounters]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,46 +1,51 @@
 ---
+title: Master Artificers Guild
+type: Faction
+tags:
+- technology
+- status/complete
+- craftsmanship
+- mechanics/magic
+- apprenticeship
+- innovation
+- content/faction
+- artificers
+- faction
+- elite-crafters
+- organization
+- professional-association
+- world/aethermoor
+- active
+- complete
+- aethermoor
+- masterwork-creation
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Eastern Kingdoms - Crystalhaven
+membership: Elite Crafters
 connections:
 - '[[Eastern Kingdoms 2]]'
 - '[[Crystal Forest]]'
 - '[[Magic Items]]'
 - '[[Resonance Chamber]]'
 - '[[Maestra Luminara Crystalweave]]'
-created: '2025-08-11'
 created_by: lore-expansion-specialist
 economic_impact: Major
-headquarters: Eastern Kingdoms - Crystalhaven
-membership: Elite Crafters
 organization_type: Professional Guild
 political_influence: High
 scope: Continental
 specialization: Advanced Magical Items
-status: complete
-tags:
-- aethermoor
-- apprenticeship
-- artificers
-- complete
-- content/faction
-- craftsmanship
-- elite-crafters
-- faction
-- innovation
-- masterwork-creation
-- mechanics/magic
-- professional-association
-- status/complete
-- technology
-- world/aethermoor
 themes:
 - elite_craftsmanship
 - technological_innovation
 - magical_engineering
 - guild_hierarchy
 - masterwork_tradition
-type: Faction
 updated: '2025-08-13T12:34:17.465477+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Heraldry
@@ -475,3 +480,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Great Crystallization]]
 - [[Aethermoor]]
 - [[Crystalhaven]]
+
+
+## Known Members
+
+- [[04_Resources_Assets_Locations_location-city-the-harbormaster-s-office-the-harbormaster-s-office.svg]]
+- [[04_Resources_Assets_Locations_location-city-terminal-master-hadrian-depthbridge-v1-terminal-master-hadrian-depthbridge.svg]]
+- [[Emperor]]
+- [[Banker Titus Goldcurrent]]

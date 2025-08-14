@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: <% questGiver %>
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # <% questGiver %>
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/New Quest]]
-- [[12_Research/D&D_References/New Quest]]
+- [[New Quest]]
+- [[New Quest]]
 
 ## Notes
 
@@ -36,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Sky_Lords_Worship]]
+- [[04_Resources_Assets_Locations_location-city-quartermaster-judith-steadfast-v1-quartermaster-judith-steadfast.svg]]
+- [[Captain Harmony Tidereader]]
+- [[04_Resources_Assets_Locations_location-city-spymaster-crow-spymaster-crow.svg]]
+- [[NPC Statblock]]
+
+
+## Important Locations
+
+- [[Magical Theory]]
+- [[04_Resources_Assets_Locations_location-city-crystallium-crystallium.svg]]
+- [[Undead Services Bureau]]

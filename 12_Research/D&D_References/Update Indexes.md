@@ -1,18 +1,25 @@
+# Update Indexes
+
 ---
+title: Update Indexes
+type: Lore
 tags:
-- complete
-- index
 - lore
 - navigation
+- index
+- complete
+- research
+- active
 - universal
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Universal
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 completed: 2025-08-11
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 # Update Indexes
@@ -125,3 +132,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

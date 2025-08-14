@@ -1,16 +1,22 @@
+# The First Watcher
+
 ---
+title: The First Watcher
+type: Lore
 tags:
-- active
-- both aethermoor & aquabyssos
-- both-aethermoor-&-aquabyssos
 - lore
 - quest
-type: Lore
-world: Both Aethermoor & Aquabyssos
-status: active
+- research
+- both aethermoor & aquabyssos
+- active
+- both-aethermoor-&-aquabyssos
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both Aethermoor & Aquabyssos
 updated: '2025-08-13T01:18:35.178916+00:00'
 ---
+
 
 
 
@@ -50,3 +56,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[The Void Watchers]]
 - [[Quest - The Convergence Crisis]]
+
+
+## Related
+
+*Links to related content will be added here.*

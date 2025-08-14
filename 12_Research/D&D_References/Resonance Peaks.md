@@ -1,24 +1,30 @@
+# Resonance Peaks
+
 ---
+title: Resonance Peaks
+type: Lore
 tags:
-- aquabyssos
-- complete
-- crystal-amplification
-- dimensional-resonance
-- harmonic-engineering
 - lore
-- magical-infrastructure
-- resonance-technology
-- sound-manipulation
+- aquabyssos
 - technology
+- sound-manipulation
+- dimensional-resonance
+- crystal-amplification
+- resonance-technology
 - underwater-acoustics
+- magical-infrastructure
+- research
+- active
+- harmonic-engineering
+- complete
 - vibration-control
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 category: Technological Infrastructure
 significance: Regional Critical Infrastructure
 created_by: auto-stub
-created: '2025-08-08'
 expanded: 2025-08-11
 technology_type: Harmonic Amplification Network
 access_restriction: Professional Only
@@ -26,6 +32,7 @@ danger_level: High
 operational_status: Active
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -495,3 +502,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Aetheric Wind Songs]]
 - [[Tidal Chambers]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

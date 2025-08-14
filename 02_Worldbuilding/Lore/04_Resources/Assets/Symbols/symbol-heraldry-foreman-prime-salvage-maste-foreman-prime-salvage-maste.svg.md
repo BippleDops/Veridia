@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry foreman prime salvage maste foreman prime salvage maste.svg
+aliases:
+- symbol heraldry foreman prime salvage maste foreman prime salvage mastesvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-foreman-prime-salvage-maste-foreman-prime-salvage-maste.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Foreman Prime Salvage Maste]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Foreman Prime Salvage Maste]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

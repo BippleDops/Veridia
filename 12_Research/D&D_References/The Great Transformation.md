@@ -1,14 +1,20 @@
+# The Great Transformation
+
 ---
-tags:
-- active
-- both
-- lore
+title: The Great Transformation
 type: Lore
-world: Both
-status: active
+tags:
+- lore
+- both
+- active
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:34.838711+00:00'
 ---
+
 
 
 
@@ -46,3 +52,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Crystal Garden]]
+
+
+## Related
+
+*Links to related content will be added here.*

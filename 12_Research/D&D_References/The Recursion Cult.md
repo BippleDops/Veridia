@@ -1,13 +1,23 @@
+# The Recursion Cult
+
 ---
+title: The Recursion Cult
+type: Location
 tags:
 - aquabyssos
 - both
-- complete
 - cult
+- research
 - dangerous
+- active
 - location
-- recursion
+- complete
 - temporal
+- recursion
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+population: 200
 location_name: The Recursion Cult Complex
 location_type: Temporal Cult Compound
 parent_location: '[[Abyssos Prime]]'
@@ -18,7 +28,6 @@ sub_locations:
 - '[[The Causality Engine]]'
 - '[[Temporal Observation Deck]]'
 depth: 3200-3500 feet
-population: 200
 government: Theocratic Recursion Council
 ruler: '[[The Recursion Oracle|02 Worldbuilding/People/The Recursion Oracle]]'
 factions:
@@ -44,15 +53,13 @@ current_state: Active temporal experiments
 temporal_stability: 15
 shadow_density: Variable
 pressure_effects: Severe
-status: complete
-created: '2025-08-11'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
-type: Location
 ---
+
 
 
 > [!figure] View
@@ -426,3 +433,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 <!-- enriched: true -->
 - [[Memory Pearls]]
 - [[Abyssos Prime]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,3 +1,15 @@
+# Ship_Blueprints 2
+
+---
+title: Ship Blueprints 2
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Vehicle & Ship Blueprint Prompts
 
 ```json
@@ -1684,3 +1696,8 @@
   }
 ]
 ```
+
+
+## Related
+
+*Links to related content will be added here.*

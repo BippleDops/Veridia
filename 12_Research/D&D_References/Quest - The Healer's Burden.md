@@ -1,14 +1,20 @@
+# Quest - The Healer's Burden
+
 ---
+title: Quest   The Healer's Burden
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:36.894872+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-quest-the-healer-s-burden-quest-the-healer-s-burden.svg]]
@@ -190,3 +196,8 @@ This quest works best when players have established relationships with potential
 **Long-term Integration**: Use the consequences of triage decisions in future adventures, showing how moral choices shape the ongoing campaign world.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,31 +1,38 @@
+# Azure Shard
+
 ---
-tags:
-- aethermoor
-- ancient
-- complete
-- crystal-touched
-- immortal
-- npc
-- shard-guardian
-- sky-bound
-- wisdom
-status: complete
-world: Aethermoor
+title: Azure Shard
 type: NPC
+tags:
+- npc
+- research
+- immortal
+- shard-guardian
+- ancient
+- sky-bound
+- crystal-touched
+- complete
+- active
+- aethermoor
+- wisdom
+created: 2025-08-08
+modified: '2025-08-14'
+status: complete
 race: Crystal-Touched Human (Transformed)
 class: Guardian/Oracle/Shard-Keeper
-level: 19
-alignment: Lawful Good (Cosmic Perspective)
 location: The Skyfall Observatory, Floating Crystal Peaks
+level: 19
+world: Aethermoor
+alignment: Lawful Good (Cosmic Perspective)
 faction: The Seven Shard Guardians
 status_condition: Active, Merged with Shard
 created_by: auto-stub
-created: 2025-08-08
 updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-azure-shard-azure-shard.svg]]
@@ -485,3 +492,8 @@ Legends speak of Azure Shard as a nexus where past and present converge. Locals 
 - [[Azure Shard|02 Worldbuilding/People/Azure Shard]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

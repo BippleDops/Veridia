@@ -1,21 +1,28 @@
 ---
-created: '2025-08-11'
-danger_level: Moderate
-status: complete
-tags:
-- quest
-- crystal-enhanced
-- shadow-touched
-- both
-- complete
-- content/location
-- location
-- status/in-progress
-- world/both
+title: The Void Touched Depths
 type: Location
+tags:
+- both
+- quest
+- world/both
+- content/location
+- place
+- active
+- location
+- complete
+- status/in-progress
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+danger_level: Moderate
 updated: '2025-08-13T12:34:16.918325+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -31,7 +38,7 @@ world: Both
 
 ## Overview
 
-The Void Touched Depths represent one of Aquabyssos's most terrifying natural phenomena: a massive trench system where reality itself has been infected by something from beyond the cosmos. Located at crushing depths where even [[12_Research/D&D_References/Aboleth Prime Yoth]] fears to venture, these trenches pulse with an alien hunger that consumes not just matter and energy, but concepts, memories, and the fundamental building blocks of existence itself.
+The Void Touched Depths represent one of Aquabyssos's most terrifying natural phenomena: a massive trench system where reality itself has been infected by something from beyond the cosmos. Located at crushing depths where even [[Aboleth Prime Yoth]] fears to venture, these trenches pulse with an alien hunger that consumes not just matter and energy, but concepts, memories, and the fundamental building blocks of existence itself.
 
 ## Geographic Nightmare
 
@@ -93,7 +100,7 @@ The Void Touched Depths represent one of Aquabyssos's most terrifying natural ph
 - Void corruption spreads 10% faster
 - Reality tears open more frequently
 - Missing persons reports spike across Aquabyssos
-- Even the [[12_Research/D&D_References/Deep Mother]]'s dreams grow disturbed
+- Even the [[Deep Mother]]'s dreams grow disturbed
 
 ### The Dreaming Season (3 months)
 
@@ -154,7 +161,7 @@ The Void Touched Depths represent one of Aquabyssos's most terrifying natural ph
 - Observing them collapses their wave function unpredictably
 - May become harmless minnows or cosmic horrors
 - Their movements predict future disasters
-- Sought after by [[12_Research/D&D_References/Prophet Nerida Voidgazer]] for divination
+- Sought after by [[Prophet Nerida Voidgazer]] for divination
 
 ### Corrupted Natural Life
 
@@ -244,7 +251,7 @@ The Void Touched Depths represent one of Aquabyssos's most terrifying natural ph
 - Form inside creatures exposed to quantum uncertainty
 - Allow manipulation of chance and causality
 - Each use has 10% chance of creating paradox
-- Highly sought by [[12_Research/D&D_References/Sage Lysander Deepthought]]
+- Highly sought by [[Sage Lysander Deepthought]]
 - Can be weaponized to cause reality cascades
 
 ### Temporal Amber
@@ -263,7 +270,7 @@ The Void Touched Depths represent one of Aquabyssos's most terrifying natural ph
 - Contain skills and knowledge of the consumed
 - Using them spreads void corruption
 - Some hold secrets lost to history
-- Collected obsessively by the [[12_Research/D&D_References/Silverscale Consortium]]
+- Collected obsessively by the [[Silverscale Consortium]]
 
 ## The Void Touched Oracle
 
@@ -299,7 +306,7 @@ Offers power to desperate visitors:
 - Transform all sentient life into void-touched servants
 - Merge reality with the space between spaces
 - "Perfect" existence by removing all suffering (and joy)
-- Find the [[12_Research/D&D_References/Deep Mother]] and consume her dreams
+- Find the [[Deep Mother]] and consume her dreams
 
 ## Exploration and Survival
 
@@ -337,7 +344,7 @@ Offers power to desperate visitors:
 
 ### The Deep Mother's Nightmare
 
-The [[12_Research/D&D_References/Deep Mother]] experiences prophetic dreams about the void:
+The [[Deep Mother]] experiences prophetic dreams about the void:
 - Visions of reality completely consumed
 - Her own dreams being devoured
 - The void spreading to other oceans
@@ -349,13 +356,13 @@ The [[12_Research/D&D_References/Deep Mother]] experiences prophetic dreams abou
 During convergence events:
 - Void corruption manifests in crystal formations
 - Reality stutters affect surface settlements
-- [[12_Research/D&D_References/Queen Seraphina Lumengarde]]'s nightmares intensify
+- [[Queen Seraphina Lumengarde]]'s nightmares intensify
 - Crystal plague victims begin showing void symptoms
 - Temporal anomalies create prophetic visions
 
 ### The Primordial Connection
 
-The void may be connected to [[12_Research/D&D_References/The Primordial Vaults]]:
+The void may be connected to [[The Primordial Vaults]]:
 - Both predate current reality
 - Similar reality-warping effects
 - Temporal anomalies in both locations
@@ -369,17 +376,17 @@ The void may be connected to [[12_Research/D&D_References/The Primordial Vaults]
 - Void influence expanding faster than ever before
 - Communication blackouts affecting larger areas
 - Surface dwellers reporting shared nightmares
-- [[12_Research/D&D_References/Depth Wardens]] losing patrols near the border
-- [[12_Research/D&D_References/Prophet Nerida Voidgazer]] receiving apocalyptic visions
+- [[Depth Wardens]] losing patrols near the border
+- [[Prophet Nerida Voidgazer]] receiving apocalyptic visions
 
 ### The Missing Expeditions
 
 **Recent Disappearances:**
 - Deep Faith Pilgrimage: 200 faithful vanished
-- [[12_Research/D&D_References/Silverscale Consortium]] Mining Fleet: 12 vessels lost
-- [[12_Research/D&D_References/The Free Current]] Reconnaissance: Elite team missing
-- Scientific Survey: [[12_Research/D&D_References/Sage Lysander Deepthought]]'s colleagues
-- [[12_Research/D&D_References/Depth Wardens]] Special Forces: Entire battalion
+- [[Silverscale Consortium]] Mining Fleet: 12 vessels lost
+- [[The Free Current]] Reconnaissance: Elite team missing
+- Scientific Survey: [[Sage Lysander Deepthought]]'s colleagues
+- [[Depth Wardens]] Special Forces: Entire battalion
 
 ### The Oracle's New Prophecies
 
@@ -395,8 +402,8 @@ The void may be connected to [[12_Research/D&D_References/The Primordial Vaults]
 New religious movement worshipping the Oracle:
 - Seeking "purification" through void exposure
 - Performing reality-damaging rituals
-- Recruiting in [[12_Research/D&D_References/Abyssos Prime]] and [[12_Research/D&D_References/New Tethys]]
-- Led by [[12_Research/D&D_References/Void Prophet Nullus the Erased]]
+- Recruiting in [[Abyssos Prime]] and [[New Tethys]]
+- Led by [[Void Prophet Nullus the Erased]]
 - Planning mass "ascension" event
 
 ## Quest Hooks and Adventures
@@ -512,28 +519,28 @@ New religious movement worshipping the Oracle:
 
 ### Key Related Locations
 
-- [[12_Research/D&D_References/The Hadal Depths]] - Neighboring abyssal zone
-- [[12_Research/D&D_References/The Primordial Vaults]] - Possible origin connection
+- [[The Hadal Depths]] - Neighboring abyssal zone
+- [[The Primordial Vaults]] - Possible origin connection
 - [[12_Research/D&D_Statblocks/The Deepmind]] - Intelligence network monitoring void
-- [[12_Research/D&D_References/Abyssos Prime]] - Political center responding to threat
-- [[12_Research/D&D_References/New Tethys]] - Refugee destination from void expansion
+- [[Abyssos Prime]] - Political center responding to threat
+- [[New Tethys]] - Refugee destination from void expansion
 
 ### Important NPCs
 
-- [[12_Research/D&D_References/The Void Touched Oracle]] - Primary antagonist/information source
-- [[12_Research/D&D_References/Prophet Nerida Voidgazer]] - Receives void visions
-- [[12_Research/D&D_References/Sage Lysander Deepthought]] - Studies the phenomenon
-- [[12_Research/D&D_References/Void Prophet Nullus the Erased]] - Leads void cult
-- [[12_Research/D&D_References/The Scattered Emperor]] - May have void connection
-- [[12_Research/D&D_References/Deep Mother]] - Dreams threatened by void
+- [[The Void Touched Oracle]] - Primary antagonist/information source
+- [[Prophet Nerida Voidgazer]] - Receives void visions
+- [[Sage Lysander Deepthought]] - Studies the phenomenon
+- [[Void Prophet Nullus the Erased]] - Leads void cult
+- [[The Scattered Emperor]] - May have void connection
+- [[Deep Mother]] - Dreams threatened by void
 
 ### Related Factions
 
-- [[12_Research/D&D_References/Silverscale Consortium]] - Exploiting void resources
-- [[12_Research/D&D_References/Depth Wardens]] - Military response to void threat
+- [[Silverscale Consortium]] - Exploiting void resources
+- [[Depth Wardens]] - Military response to void threat
 - [[Order of the Sunken Crown|02 Worldbuilding/Groups/Order Of The Sunken Crown]] - Studying void artifacts
-- [[12_Research/D&D_References/The Free Current]] - Reconnaissance missions
-- [[12_Research/D&D_References/Void Touched Pilgrims]] - Worshipping the corruption
+- [[The Free Current]] - Reconnaissance missions
+- [[Void Touched Pilgrims]] - Worshipping the corruption
 
 ---
 
@@ -544,11 +551,11 @@ New religious movement worshipping the Oracle:
 ## Connections
 
 - [[12_Research/D&D_Statblocks/Luminous Hollow]]
-- [[12_Research/D&D_References/Port Meridian Harbor]]
-- [[12_Research/D&D_References/Secret Vault Beneath Throne]]
-- [[12_Research/D&D_References/The Forgotten One]]
-- [[12_Research/D&D_References/The Shadow Markets]]
-- [[12_Research/D&D_References/Vote Vaults]]
+- [[Port Meridian Harbor]]
+- [[Secret Vault Beneath Throne]]
+- [[The Forgotten One]]
+- [[The Shadow Markets]]
+- [[Vote Vaults]]
 
 ## Player-Facing Summary
 
@@ -564,6 +571,27 @@ Legends speak of The Void Touched Depths as a nexus where past and present conve
 - An NPC seeks discreet help at The Void Touched Depths to avert a public scandal.
 - A map overlay reveals a hidden approach to The Void Touched Depths active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -573,5 +601,88 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[12_Research/D&D_Statblocks/The Void Touched Depths]]
 
 <!-- enriched: true -->
-- [[12_Research/D&D_References/Depth Wardens]]
-- [[12_Research/D&D_References/The Free Current]]
+- [[Depth Wardens]]
+- [[The Free Current]]
+
+
+## Notable Residents
+
+- [[04_Resources_Assets_Locations_location-city-captain-marlowe-tidecrest-v1-captain-marlowe-tidecrest.svg]]
+
+## Trade Routes
+
+- [[The Crystalline Wastes]]
+- [[04_Resources_Assets_Locations_location-city-coral-vortextrader-v1-coral-vortextrader.svg]]
+- [[The Hadal Depths]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+The Void Touched Depths is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Void Touched Depths
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+The Void Touched Depths was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Void Touched Depths
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

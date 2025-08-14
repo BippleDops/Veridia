@@ -1,32 +1,37 @@
 ---
+title: Shadow Surgeon Apprentice
+type: Faction
+tags:
+- aquabyssos
+- shadow-surgery
+- status/complete
+- apprenticeship
+- content/faction
+- faction
+- organization
+- active
+- complete
+- world/aquabyssos
+- healing-arts
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Umbral Medical Academy]]'
+membership: Unknown
 MyCategory: Training Organization
 MyContainer: Medical Community
 alignment: Neutral Good (Healing Focus)
-created: '2025-08-08'
 created_by: auto-stub
 faction_type: Medical Training Organization
-headquarters: '[[The Umbral Medical Academy]]'
 influence: Shadow Medical Community, Specialized Healthcare
 leader: '[[Master Surgeon Thane Shadowmend]]'
 members: ~80 apprentices, ~25 master surgeons, ~120 support staff
-modified: 2025-08-11 - Category/Group
 obsidianUIMode: preview
 purpose: Train the next generation of shadow surgery specialists
-status: complete
-tags:
-- apprenticeship
-- aquabyssos
-- complete
-- content/faction
-- faction
-- healing-arts
-- shadow-surgery
-- status/complete
-- world/aquabyssos
-type: Faction
 updated: '2025-08-13T12:34:17.376726+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry
@@ -589,3 +594,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Party Shadows|02 Worldbuilding/Groups/Party Shadows]]
+
+
+## Known Members
+
+- [[Quest - The Crystal Refugees]]

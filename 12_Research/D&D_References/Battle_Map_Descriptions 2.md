@@ -1,3 +1,15 @@
+# Battle_Map_Descriptions 2
+
+---
+title: Battle Map Descriptions 2
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Battle Map Descriptions (VTT-Ready)
 
 ```json
@@ -3154,3 +3166,8 @@
   }
 ]
 ```
+
+
+## Related
+
+*Links to related content will be added here.*

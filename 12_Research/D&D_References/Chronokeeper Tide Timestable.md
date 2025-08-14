@@ -1,16 +1,22 @@
+# Chronokeeper Tide Timestable
+
 ---
-tags:
-- active
-- both worlds
-- both-worlds
-- location
+title: Chronokeeper Tide Timestable
 type: Location
-world: Both Worlds
-status: active
+tags:
+- both worlds
+- research
+- both-worlds
+- active
+- location
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both Worlds
 updated: '2025-08-13T01:18:36.423968+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-chronokeeper-tide-timestable-chronokeeper-tide-timestable.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Temporal Navigation Hazards]]
+
+
+## Related
+
+*Links to related content will be added here.*

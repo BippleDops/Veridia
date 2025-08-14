@@ -1,3 +1,15 @@
+# Character_Advancement
+
+---
+title: Character Advancement
+type: player-resource
+tags:
+- player-resource
+- active
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Character Advancement
 
 ## Experience Points
@@ -11,3 +23,7 @@
 
 ## Milestone Leveling
 Level up at story milestones
+
+## Related
+
+*Links to related content will be added here.*

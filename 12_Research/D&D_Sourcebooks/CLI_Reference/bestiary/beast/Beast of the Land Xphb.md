@@ -1,26 +1,32 @@
+# Beast of the Land Xphb
+
 ---
+title: Beast of the Land Xphb
 aliases:
 - Beast of the Land
+type: monster
+tags:
+- ttrpg-cli/monster/size/medium
+- both
+- ttrpg-cli/monster/type/beast
+- ttrpg-cli/monster/cr/
+- monster
+- research
+- world/both
+- active
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- active
-- both
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/beast
-- world/both
-type: monster
 updated: '2025-08-13T12:34:05.399719+00:00'
 world: Both
 ---
+
 
 
 
@@ -84,3 +90,8 @@ Legends speak of beast of the land xphb as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

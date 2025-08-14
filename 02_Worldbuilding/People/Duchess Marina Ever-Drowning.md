@@ -1,14 +1,21 @@
 ---
+title: Duchess Marina Ever Drowning
+type: NPC
+tags:
+- character
+- both
+- active
+- npc
 created: null
+modified: '2025-08-14'
+status: active
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.716613+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 
 > [!figure] Portrait
@@ -84,6 +91,16 @@ The last surviving member of the Selenthian Dynasty, Marina has died by drowning
 - **That-Which-Swims-Between:** Owes it seven impossible memories
 - **Morpheus Tidecaller:** Former lover, now bitter rival
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Cold and distant
+
+**Speech Pattern**: Peppered with idioms
+
+**Physical Habits**: Maintains intense eye contact
+
 ## Current Activities
 - Orchestrating economic war against surface kingdoms
 - Building memory weapon to rewrite history
@@ -152,6 +169,62 @@ Visitors must observe:
 - Dance at least once (while drowning)
 - Never mention the number 1000
 
+
+
+## Background
+
+Duchess Marina Ever-Drowning's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Motivations
+
+**Primary Goal**: Pursuing knowledge
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 Marina represents the desperate clinging to humanity while embracing monstrous transformation. She's a tragic figure who uses commerce and etiquette to maintain sanity. Her memory manipulation makes her incredibly dangerous for information-based campaigns. She should feel like a decadent noble playing elaborate games while drowning eternally. Her connection to surface operations makes her a perfect bridge between Aquabyssos and Aethermoor plots. The countdown to her 1000th drowning creates timeline pressure.
 
@@ -174,3 +247,23 @@ Legends speak of Duchess Marina Ever Drowning as a nexus where past and present 
 - [[Duchess Marina Ever-Drowning]]
 
 <!-- enriched: true -->
+
+
+
+
+## Relationship Web
+
+- [[Ambassador Korvin Blacktide]]: *childhood friend*
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-void-watchers-the-void-watchers.svg]]: *bitter rival*
+- [[04_Resources_Assets_Locations_location-city-hadrian-depthbridge-hadrian-depthbridge.svg]]: *sworn enemy*
+- [[04_Resources_Assets_Symbols_symbol-heraldry-depth-cardinal-wisdom-voidseeke-depth-cardinal-wisdom-voidseeke.svg]]: *business partner*
+
+## Connections
+
+### Home
+- [[04_Resources_Assets_Locations_location-city-shadow-current-v1-shadow-current.svg]]
+
+### Known Associates
+- [[04_Resources_Assets_Locations_location-city-harbor-master-s-license-v1-harbor-master-s-license.svg]] (ally)
+- [[04_Resources_Assets_Vehicles_vehicle-ship-resonance-drive-yacht-v2-resonance-drive-yacht.svg]] (rival)
+- [[04_Resources_Assets_Symbols_symbol-heraldry-echo-prime-cacophony-voidlung-echo-prime-cacophony-voidlung.svg]] (ally)

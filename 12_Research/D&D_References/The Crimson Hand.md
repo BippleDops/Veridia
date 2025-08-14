@@ -1,27 +1,34 @@
+# The Crimson Hand
+
 ---
+title: The Crimson Hand
+type: Lore
 tags:
-- aethermoor
+- lore
 - aquabyssos
 - both
-- complete
 - convergence
-- crimson-hand
-- faction
-- infiltration
-- lore
-- manipulation
-- power-seeking
-- secret-society
 - shadow-corruption
+- faction
+- research
+- crimson-hand
+- power-seeking
+- active
+- secret-society
+- complete
+- infiltration
+- manipulation
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Lore
 category: Secret Organization
 significance: Major Faction
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 

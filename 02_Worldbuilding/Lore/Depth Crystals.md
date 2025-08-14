@@ -1,19 +1,23 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- crystal-enhanced
-- aquabyssos
-- complete
-- content/adventure
-- content/lore
-- lore
-- status/in-progress
-- world/aquabyssos
+title: Depth Crystals
 type: Lore
+tags:
+- lore
+- aquabyssos
+- content/adventure
+- world/aquabyssos
+- content/lore
+- active
+- complete
+- status/in-progress
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.146421+00:00'
 world: Aquabyssos
 ---
+
 
 
 ## Overview
@@ -47,8 +51,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[12_Research/D&D_References/Crystallium]]
-- [[12_Research/D&D_References/The Lock]]
+- [[Crystallium]]
+- [[The Lock]]
 - [[12_Research/D&D_Statblocks/Diplomatic Tides]]
 
 

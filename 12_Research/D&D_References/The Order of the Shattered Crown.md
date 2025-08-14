@@ -1,20 +1,27 @@
+# The Order of the Shattered Crown
+
 ---
+title: The Order of the Shattered Crown
+type: Location
 tags:
-- aethermoor
-- complete
+- redemption
+- organization
+- research
+- active
 - fallen-nobility
 - location
-- organization
-- redemption
+- complete
 - religious-order
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.386873+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -196,3 +203,8 @@ Legends speak of The Order of the Shattered Crown as a nexus where past and pres
 - [[The Order of the Shattered Crown|02 Worldbuilding/Places/The Order Of The Shattered Crown]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

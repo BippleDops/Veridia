@@ -1,16 +1,23 @@
+# Tide Turner's Trident
+
 ---
+title: Tide Turner's Trident
+type: Lore
 tags:
-- ancient_power
+- lore
 - aquabyssos
-- artifact
 - completed
 - dual
-- legendary_artifact
+- ancient_power
+- research
 - legendary_weapon
-- lore
+- legendary_artifact
 - tide_magic
+- artifact
+- active
+created: '2025-08-11'
+modified: '2025-08-14'
 status: completed
-type: Lore
 world: dual
 connections:
 - '[[Tide Turner]]'
@@ -23,9 +30,9 @@ themes:
 - balance_of_power
 - ancient_bloodlines
 - oceanic_authority
-created: '2025-08-11'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -182,3 +189,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Tide Turner]]
 - [[Abyssos Prime]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,21 +1,26 @@
+# Port Sorrow Trading Company
+
 ---
+title: Port Sorrow Trading Company
+aliases: []
 type: Group
 tags:
-- active
 - both
 - faction
-- group
+- research
 - mercantile
-aliases: []
+- active
+- group
 created: '2025-07-23'
-modified: 2025-07-23 15:40
+modified: '2025-08-14'
+status: active
 MyContainer: None
 MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:36.679454+00:00'
-status: active
 ---
+
 
 
 
@@ -35,7 +40,7 @@ The Port Sorrow Trading Company is a ruthless and ambitious mercantile company t
 
 ## GM Notes
 - The Port Sorrow Trading Company is a major antagonist for the party, and they will stop at nothing to achieve their goals.
-- The Port Sorrow Trading Company is a rival of the [[02_Worldbuilding/Groups/Shadowhaven Merchant Marine.md|02 Worldbuilding/Groups/Shadowhaven Merchant Marine.md]].
+- The Port Sorrow Trading Company is a rival of the [[02_Worldbuilding/Groups/Shadowhaven Merchant Marine.md|02 Worldbuilding/Groups/Shadowhaven Merchant Marine]].
 - The Port Sorrow Trading Company is secretly in league with the Zhentarim.
 
 ## Player-Facing Summary
@@ -61,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Dr. Siphon Gillwater|02 Worldbuilding/Quests/Dr. Siphon Gillwater]]
+
+
+## Related
+
+*Links to related content will be added here.*

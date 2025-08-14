@@ -1,15 +1,22 @@
+# Language_Evolution_Tracker
+
 ---
-updated: '2025-08-13T01:18:37.117232+00:00'
-created: '2025-08-11'
-tags:
-- complete
-- mechanic
-- universal
-status: complete
-world: Universal
+title: Language Evolution Tracker
 type: mechanic
+tags:
+- mechanic
+- complete
+- research
+- active
+- universal
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+updated: '2025-08-13T01:18:37.117232+00:00'
+world: Universal
 obsidianUIMode: preview
 ---
+
 
 
 # Language Evolution Tracker
@@ -59,3 +66,8 @@ Legends speak of Language Evolution Tracke as a nexus where past and present con
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

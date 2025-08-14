@@ -1,15 +1,21 @@
+# Dock Boss Marina Irongrip
+
 ---
-tags:
-- active
-- both
-- location
+title: Dock Boss Marina Irongrip
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:35.990152+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-dock-boss-marina-irongrip-dock-boss-marina-irongrip.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Dock Boss Marina Irongrip|02 Worldbuilding/Places/Dock Boss Marina Irongrip]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

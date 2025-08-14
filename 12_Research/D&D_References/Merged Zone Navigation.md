@@ -1,22 +1,28 @@
+# Merged Zone Navigation
+
 ---
+title: Merged Zone Navigation
+type: Lore
 tags:
+- cross-realm-navigation
+- lore
+- environmental-hazards
+- navigation
+- merged-zones
 - both worlds
 - both-worlds
-- complete
-- cross-realm-navigation
-- dangerous-travel
-- environmental-hazards
-- lore
-- magical-navigation
-- merged-zones
-- navigation
+- research
 - reality-distortion
+- dangerous-travel
+- magical-navigation
 - specialized-techniques
+- active
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both Worlds
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.665291+00:00'
 navigation_type: Cross-Environmental Specialized
 scope: Inter-Realm Travel
@@ -24,6 +30,7 @@ difficulty_level: Expert
 hazard_rating: Extreme
 specialization_required: Advanced Training
 ---
+
 
 
 
@@ -398,3 +405,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Master_Lore_Index|Master Lore Index]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

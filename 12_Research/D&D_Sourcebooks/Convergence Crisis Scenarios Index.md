@@ -1,19 +1,26 @@
+# Convergence Crisis Scenarios Index
+
 ---
-created: '2025-08-11'
-obsidianUIMode: preview
-status: complete
+title: Convergence Crisis Scenarios Index
+type: Adventure
 tags:
 - adventure
-- complete
-- content/adventure
-- one-shot
 - status/complete
+- content/adventure
+- research
 - universal
 - world/both
-type: Adventure
+- active
+- complete
+- one-shot
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.818334+00:00'
 world: Universal
 ---
+
 
 
 
@@ -54,3 +61,8 @@ Legends speak of Scenario Index as a nexus where past and present converge. Loca
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

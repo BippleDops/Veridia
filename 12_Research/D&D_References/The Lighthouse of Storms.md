@@ -1,28 +1,35 @@
+# The Lighthouse of Storms
+
 ---
+title: The Lighthouse of Storms
+type: Lore
 tags:
-- ancient-magic
-- aquabyssos
-- complete
-- historical
-- lighthouse
 - lore
-- lost-technology
-- maritime
+- aquabyssos
 - navigation
-- prophecy
-- storms
+- ancient-magic
+- lighthouse
+- lost-technology
+- historical
+- research
+- maritime
 - weather-control
+- prophecy
+- active
+- complete
+- storms
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 historical_period: Pre-Shattering to Present
 significance: Critical
 threat_level: Variable
 current_status: Active but Unpredictable
 ---
+
 
 
 

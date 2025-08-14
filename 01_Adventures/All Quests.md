@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: All Quests
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # All Quests
 
@@ -35,3 +41,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Sea Spirit Priests]]
+- [[Quest - The Healer's Burden]]
+- [[Lord Chancellor Prism]]
+- [[04_Resources_Assets_Locations_location-city-harbor-master-tideshade-harbor-master-tideshade.svg]]
+- [[04_Resources_Assets_Locations_location-city-brother-matthias-inkdrinker-brother-matthias-inkdrinker.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-commercial-hubs-and-markets-v1-commercial-hubs-and-markets.svg]]
+- [[04_Resources_Assets_Locations_location-city-inverse-palace-inverse-palace.svg]]
+- [[Lighthouse Keeper Finn Deepbeacon]]

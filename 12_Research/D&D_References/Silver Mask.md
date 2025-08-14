@@ -1,20 +1,27 @@
+# Silver Mask
+
 ---
+title: Silver Mask
+type: Lore
 tags:
-- aethermoor
-- complete
-- conspiracy
-- hidden-identity
-- identity
-- infiltration
-- investigation
 - lore
 - mystery
-- political-manipulation
-- secret-society
+- investigation
 - shadow-operations
+- research
+- hidden-identity
+- active
+- secret-society
+- complete
+- infiltration
+- conspiracy
+- aethermoor
+- political-manipulation
+- identity
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 category: Mystery Figure
 significance: Major Conspiracy Element
 mystery_type: Identity and Conspiracy Network
@@ -22,9 +29,9 @@ danger_level: 5
 active_period: Past 30+ years, identity constantly shifting
 investigation_difficulty: Extremely High
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 

@@ -1,15 +1,21 @@
+# The Umbral Exchange
+
 ---
+title: The Umbral Exchange
+type: Lore
 tags:
-- active
 - lore
 - master-index
+- research
+- active
 - universal
-type: Lore
-world: Universal
-status: active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Universal
 updated: '2025-08-13T01:18:34.757772+00:00'
 ---
+
 
 > [!figure] Asset
 ![[04_Resources/Assets/Symbols/symbol-heraldry-the-umbral-exchange-the-umbral-exchange.svg]]
@@ -45,3 +51,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Places_Index|Master Places Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

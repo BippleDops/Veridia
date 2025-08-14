@@ -1,26 +1,31 @@
+# Bestiary - Custom Homebrew Monster
+
 ---
-type: Lore
-obsidian-u-i-mode: preview
-cssclasses: json5e-monster
-tags:
-- active
-- both
-- compendium/src/5e/ccodex
-- lore
-- monster/cr/9
-- monster/environment/any
-- monster/size/medium
-- monster/type/fiend/demon
-- note
-statblock: inline
+title: Bestiary   Custom Homebrew Monster
 aliases:
 - Alpha Yek
+type: Lore
+tags:
+- lore
+- monster/size/medium
+- both
+- monster/cr/9
+- monster/type/fiend/demon
+- research
+- compendium/src/5e/ccodex
+- monster/environment/any
+- active
+- note
 created: '2025-07-23'
-modified: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+obsidian-u-i-mode: preview
+cssclasses: json5e-monster
+statblock: inline
 world: Both
 updated: '2025-08-13T01:18:37.137598+00:00'
-status: active
 ---
+
 
 
 
@@ -141,3 +146,8 @@ Legends speak of Custom Homebrew Monster as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

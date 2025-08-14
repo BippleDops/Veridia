@@ -1,23 +1,28 @@
+# Zealot Crusade Player
+
 ---
-audience: player
-created: '2025-08-11'
-status: complete
+title: "Player Handout \u2014 Zealot Crusade Doctrine"
+type: Lore
 tags:
+- lore
 - both
-- complete
+- status/complete
 - doctrine
 - handout
-- lore
-- status/complete
 - world/both
-title: Player Handout — Zealot Crusade Doctrine
-type: Lore
-updated: '2025-08-13T12:34:32.375912+00:00'
+- active
+- complete
+- resource
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+audience: player
+updated: 2025-08-13 07:59:50.468044
 world: Both
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.468044
 ---
+
 # Zealot Crusade
 
 How it feels
@@ -35,3 +40,8 @@ Risks
 ## Cross-References
 
 - [[Doctrine Quick Reference]]
+
+
+## Related
+
+*Links to related content will be added here.*

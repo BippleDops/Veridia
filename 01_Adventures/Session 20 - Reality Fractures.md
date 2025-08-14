@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 20   Reality Fractures
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 20 - Reality Fractures
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[High Priestess Celeste Dawnbringer]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-prism-shield-valeria-captain-prism-shield-valeria.svg]]
+- [[Captain Rhea Blackwater]]
+- [[04_Resources_Assets_Locations_location-city-harbormaster-tidal-stormcrest-harbormaster-tidal-stormcrest.svg]]
+- [[The Northern Kingdoms]]
+
+
+## Important Locations
+
+- [[Professional Associations]]
+- [[Military Command]]
+- [[04_Resources_Assets_Locations_location-city-vault-keeper-aurelia-crownguard-v1-vault-keeper-aurelia-crownguard.svg]]

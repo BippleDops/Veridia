@@ -1,20 +1,27 @@
+# Aethermoor-Aquabyssos-World-Connection-Guide
+
 ---
+title: Aethermoor Aquabyssos World Connection Guide
+type: Lore
 tags:
-- aethermoor
-- aquabyssos
-- connections
 - lore
+- aquabyssos
 - post-merger possibility
-- post-merger-possibility
 - worldbuilding
+- research
+- active
+- connections
+- post-merger-possibility
+- aethermoor
+created: '2025-08-07'
+modified: '2025-08-14'
+status: Post-Merger Possibility
 world_type: Parallel Realms
 connection_type: Dimensional Overlap
-status: Post-Merger Possibility
-created: '2025-08-07'
 world: Aquabyssos
 updated: '2025-08-13T01:18:35.880218+00:00'
-type: Lore
 ---
+
 
 
 
@@ -421,3 +428,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Crystallium]]
 - [[Memoriam]]
 - [[Mourning Depths]]
+
+
+## Related
+
+*Links to related content will be added here.*

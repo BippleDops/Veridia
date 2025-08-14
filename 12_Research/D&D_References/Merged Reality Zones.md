@@ -1,26 +1,33 @@
+# Merged Reality Zones
+
 ---
+title: Merged Reality Zones
+type: Lore
 tags:
-- aethermoor
+- environmental-hazard
 - aquabyssos
 - both
-- complete
 - convergence
-- dimensional-bleed
-- environmental-hazard
 - lore
-- merged-reality
 - reality-storms
 - shadow-corruption
 - unstable-zones
+- research
+- dimensional-bleed
+- active
+- complete
+- aethermoor
+- merged-reality
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Lore
 category: Environmental Phenomenon
 significance: Campaign-Critical
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 

@@ -1,19 +1,26 @@
+# System Cli Spells School Enchantment
+
 ---
-created: '2025-08-08'
-created_by: auto-stub
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/lore
-- lore
-- mechanics/magic
-- status/complete
-- world/aquabyssos
+title: System Cli Spells School Enchantment
 type: Lore
+tags:
+- lore
+- aquabyssos
+- status/complete
+- mechanics/magic
+- content/lore
+- research
+- active
+- complete
+- world/aquabyssos
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+created_by: auto-stub
 updated: '2025-08-13T12:34:28.784119+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -101,3 +108,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[System Cli Spells School Necromancy]]
+
+
+## Related
+
+*Links to related content will be added here.*

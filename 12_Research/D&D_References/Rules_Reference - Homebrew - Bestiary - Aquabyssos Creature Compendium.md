@@ -1,23 +1,30 @@
+# Rules_Reference - Homebrew - Bestiary - Aquabyssos Creature Compendium
+
 ---
-campaign: Aquabyssos
-created: '2025-08-07'
-status: complete
-system: D&D 5e
-tags:
-- aquabyssos
-- bestiary
-- complete
-- content/lore
-- homebrew
-- lore
-- monsters
-- stat-blocks
-- status/in-progress
-- world/aquabyssos
+title: Rules Reference   Homebrew   Bestiary   Aquabyssos Creature Compendium
 type: Lore
+tags:
+- lore
+- aquabyssos
+- homebrew
+- world/aquabyssos
+- bestiary
+- monsters
+- content/lore
+- research
+- stat-blocks
+- active
+- complete
+- status/in-progress
+created: '2025-08-07'
+modified: '2025-08-14'
+status: complete
+campaign: Aquabyssos
+system: D&D 5e
 updated: '2025-08-13T12:34:17.808967+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -425,3 +432,8 @@ Legends speak of Aquabyssos Creature Compendium as a nexus where past and presen
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

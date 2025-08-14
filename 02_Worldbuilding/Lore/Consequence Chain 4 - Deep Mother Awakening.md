@@ -1,33 +1,37 @@
 ---
+title: Consequence Chain 4   Deep Mother Awakening
+type: Lore
+tags:
+- lore
+- cosmic-entity
+- session-notes
+- status/complete
+- primordial-contact
+- both worlds
+- quest
+- content/lore
+- deep-mother
+- consciousness-evolution
+- world/both
+- active
+- campaign/arc
+- combat
+- complete
+- world/aquabyssos
+- world/aethermoor
+- shadow-touched
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 magnitude: 5
 primary_sessions:
 - 'Session 10: The Deep Mother Rises'
 - 'Session 10: The Shadow Finale'
-status: complete
-tags:
-- combat
-- quest
-- session-notes
-- shadow-touched
-- both worlds
-- campaign/arc
-- complete
-- consciousness-evolution
-- content/lore
-- cosmic-entity
-- deep-mother
-- lore
-- primordial-contact
-- status/complete
-- world/aethermoor
-- world/aquabyssos
-- world/both
-type: Lore
 updated: '2025-08-13T12:34:16.115309+00:00'
 visibility: 2
 world: Both Worlds
 ---
+
 
 
 # Consequence Chain 4: Deep Mother Awakening
@@ -46,10 +50,10 @@ world: Both Worlds
 
 **Who was directly affected:**
 - **[[The Deep Mother|02 Worldbuilding/People/The Deep Mother]]**: Experienced consciousness, emotion, and empathy for the first time
-- **[[12_Research/D&D_References/The Scattered Emperor]]**: Revealed to be partially merged with cosmic awareness
+- **[[The Scattered Emperor]]**: Revealed to be partially merged with cosmic awareness
 - **Party members**: Permanently altered by psychic contact with primordial consciousness
-- **[[12_Research/D&D_References/Aquabyssos]]**: Either transformed into living thought or granted cosmic protection
-- **[[12_Research/D&D_References/Deep Mother]] cults**: Religious worldview validated but fundamentally changed
+- **[[Aquabyssos]]**: Either transformed into living thought or granted cosmic protection
+- **[[Deep Mother]] cults**: Religious worldview validated but fundamentally changed
 - **Reality itself**: Cosmic awareness now includes understanding of mortal experience
 
 **Immediate visible results:**
@@ -196,8 +200,8 @@ world: Both Worlds
 
 ### Links to Other Major Events
 
-- **[[12_Research/D&D_References/Consequence Chain 3 - Reality Merger Diplomatic Crisis]]**: Cosmic awareness facilitated successful merger
-- **[[12_Research/D&D_References/Consequence Chain 1 - Shadow Conspiracy Exposure]]**: Enhanced empathy resolved shadow-original conflicts
+- **[[Consequence Chain 3 - Reality Merger Diplomatic Crisis]]**: Cosmic awareness facilitated successful merger
+- **[[Consequence Chain 1 - Shadow Conspiracy Exposure]]**: Enhanced empathy resolved shadow-original conflicts
 - **[[Consequence Chain 5 - Marina's Identity Revelation]]**: Marina's bloodline enabled cosmic communication
 - **Future cosmic encounters**: Other primordial entities drawn to empathic awareness
 
@@ -232,14 +236,14 @@ world: Both Worlds
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Campaign Consequence Tracking Framework]]
-- [[12_Research/D&D_References/Aethermoor - Session 10 The Deep Mother Rises]]
+- [[Campaign Consequence Tracking Framework]]
+- [[Aethermoor - Session 10 The Deep Mother Rises]]
 - [[1-Session Journals/Aquabyssos - Session 10 - The Shadow Finale]]
 - [[The Deep Mother|02 Worldbuilding/People/The Deep Mother]]
 - [[Deep_Mother_Subsystem|03 Mechanics/Deep Mother Subsystem]]
 - [[Cosmic Consciousness Ethics]]
 - [[Reality Stability Protocols]]
-- [[12_Research/D&D_References/Political Intrigue Master Index]]
+- [[Political Intrigue Master Index]]
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

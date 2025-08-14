@@ -1,21 +1,38 @@
 ---
-MyCategory: Unknown
-MyContainer: None
+title: Admiral Thorne Blackwater
 aliases:
 - Admiral Blackwater
 - The Iron Admiral
 - Thorne
-alignment: Lawful Neutral
-class: Fighter/Ranger
+type: Npc
+tags:
+- both
+- status/complete
+- military
+- campaign/hook
+- npc
+- world/both
+- character
+- content/npc
+- active
+- complete
+- world/aquabyssos
 created: '2024-12-19'
+modified: '2025-08-14'
+status: complete
+race: Pressure-Adapted Human
+class: Fighter/Ranger
+location: Unknown
+level: 17
+MyCategory: Unknown
+MyContainer: None
+alignment: Lawful Neutral
 current_hp: 15
 image: 04_Resources/Assets/NPCs/thorne_blackwater.jpg
 in_combat: true
 initiative: 12
-level: 17
 max_hp: 20
 obsidianUIMode: preview
-race: Pressure-Adapted Human
 relationships:
 - strength: 3
   target: '[[Captain Garrett Stormcutter]]'
@@ -26,21 +43,10 @@ relationships:
 - strength: 2
   target: '[[Queen Seraphina Lumengarde]]'
   type: subordinate
-status: complete
-tags:
-- both
-- campaign/hook
-- complete
-- content/npc
-- military
-- npc
-- status/complete
-- world/aquabyssos
-- world/both
-type: Npc
 updated: '2025-08-13T12:34:17.702949+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -89,6 +95,16 @@ Admiral Thorne Blackwater commands the [[Depth Wardens]] from [[Pressure's End]]
 
 ## History
 Born in the early years after the drowning, Thorne joined the Depth Wardens at 14 after his family was killed by a deep incursion. Rose through ranks by surviving missions others couldn't. Led the successful defense during the "Night of Ascending Horrors" 20 years ago. Has commanded Pressure's End for the last decade.
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Peppered with idioms
+
+**Physical Habits**: Paces while speaking
 
 ## Current Activities
 1. Preparing for massive assault from [[The Hadal Depths]]
@@ -396,6 +412,13 @@ Admiral Blackwater's greatest secret is his slow death from pressure poisoning -
 - [[Quest - The Family Reconciliatio]] - Healing the rift with his son
 
 
+
+
+## Relationship Web
+
+- [[Lord Marcus Shadowbane]]: *family member*
+- [[Captain Thalia Stormguard]]: *student*
+
 ## Connections
 
 - [[Shadow Ambush - Optional]]
@@ -431,6 +454,80 @@ Legends speak of Admiral Thorne Blackwater as a nexus where past and present con
 - A rumor ties Admiral Thorne Blackwater to a missing shipment, linking factions with competing claims.
 - An NPC seeks discreet help at Admiral Thorne Blackwater to avert a public scandal.
 - A map overlay reveals a hidden approach to Admiral Thorne Blackwater active only during specific tides/storms.
+
+
+
+## Appearance
+
+Admiral Thorne Blackwater presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Background
+
+Admiral Thorne Blackwater's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Pursuing knowledge
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 

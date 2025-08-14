@@ -1,25 +1,32 @@
+# Economic Warfare
+
 ---
+title: Economic Warfare
+type: Lore
 tags:
 - available
+- lore
 - both
-- economic
-- espionage
 - international
 - intrigue/social
-- lore
 - political
 - quest
-level: 6-8
-type: Lore
+- research
+- economic
+- active
+- espionage
+created: '2025-08-11'
+modified: '2025-08-14'
 status: Available
+level: 6-8
 reward: Major - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:34.466567+00:00'
-created: '2025-08-11'
 ---
+
 
 
 
@@ -248,3 +255,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Goldspire Confederacy]]
+
+
+## Related
+
+*Links to related content will be added here.*

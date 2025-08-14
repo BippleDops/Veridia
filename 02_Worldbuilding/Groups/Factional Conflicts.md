@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Factional Conflicts
+type: Faction
 tags:
 - both
-- complete
 - content/faction
 - faction
-- status/in-progress
+- organization
 - world/both
-type: Faction
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.289643+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Heraldry
@@ -56,3 +63,12 @@ Legends speak of Factional Conflicts as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Known Members
+
+- [[04_Resources_Assets_Art_Places_Master_Smith_Coral-Hammer.png]]
+- [[Master Artificer Chaos-Crystal]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-artisans-collective-of-master-crafters-the-artisans-collective-of-master-crafters.svg]]
+- [[Sunken Kingdom of Nereon]]
+- [[NPC Reaction Matrix]]

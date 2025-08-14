@@ -1,22 +1,27 @@
+# List Spells Classes Great Old One Patron Xphb
+
 ---
+title: List Spells Classes Great Old One Patron Xphb
 aliases:
 - Spells for Great Old One Patron
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- active
-- both
-- note
-- status/archived
-- status/in-progress
-- world/both
 type: note
+tags:
+- both
+- research
+- world/both
+- active
+- note
+- status/in-progress
+- status/archived
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:04.673089+00:00'
 world: Both
 ---
+
 
 
 # Spells for Great Old One Patron
@@ -66,3 +71,8 @@ Legends speak of list spells classes great old one patron xphb as a nexus where 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

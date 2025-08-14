@@ -1,13 +1,22 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Template Group.md
+aliases:
+- Template Groupmd
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
 
 # 05_Templates/World Builder Templates/Template-Group.md
 
@@ -24,7 +33,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Template-Item]]
+- [[Template-Item]]
 
 ## Notes
 
@@ -35,3 +44,9 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[Captain Henrik Saltbreeze]]
+- [[Admiral Lady Cassandra Stormwind]]
+- [[Sacred Healing Gardens]]

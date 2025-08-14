@@ -1,23 +1,29 @@
+# Temporal Navigation Hazards
+
 ---
+title: Temporal Navigation Hazards
+type: Lore
 tags:
-- aethermoor
+- lore
 - aquabyssos
+- hazards
+- time-distortion
+- navigation-dangers
+- time-manipulation
 - both worlds
 - both-worlds
+- research
+- active
 - chronological-threats
 - complete
-- hazards
-- lore
-- magical-phenomena
-- navigation-dangers
 - temporal-magic
-- time-distortion
-- time-manipulation
+- aethermoor
+- magical-phenomena
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both Worlds
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:35.157055+00:00'
 hazard_type: Temporal Distortion Phenomena
 danger_level: Variable - Moderate to Catastrophic
@@ -25,6 +31,7 @@ scope: Cross-Realm Phenomenon
 frequency: Uncommon but Increasing
 detection_difficulty: Extremely High
 ---
+
 
 
 
@@ -223,3 +230,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Master_Lore_Index|Master Lore Index]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

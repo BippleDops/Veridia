@@ -1,31 +1,38 @@
+# Session 2 Court of Whispers
+
 ---
-adventure: Winds of Rebellion
-created: '2025-08-11'
-estimated_duration: 4-5 hours
-level_range: 4-6
-session_number: 2
-session_type: Social Investigation & Faction Dynamics
-status: complete
+title: Session 2 Court of Whispers
+type: Adventure
 tags:
+- mechanics/social
 - adventure
-- aethermoor
-- complete
 - content/adventure
 - levels-4-6
-- mechanics/social
 - political-intrigue
-- status/in-progress
+- research
 - world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+session_number: 2
+adventure: Winds of Rebellion
+estimated_duration: 4-5 hours
+level_range: 4-6
+session_type: Social Investigation & Faction Dynamics
 themes:
 - faction-meetings
 - information-gathering
 - court-festival
 - hidden-agendas
 - social-maneuvering
-type: Adventure
 updated: '2025-08-13T12:34:17.820025+00:00'
 world: Aethermoor
 ---
+
 
 
 

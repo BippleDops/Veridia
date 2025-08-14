@@ -1,19 +1,26 @@
+# Templater Advanced
+
 ---
+title: Templater Advanced
+type: Lore
 tags:
-- advanced-techniques
-- aquabyssos
-- complete
 - lore
+- aquabyssos
 - magic
-- spellcrafting
 - templating
+- research
+- active
+- complete
+- spellcrafting
+- advanced-techniques
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 # Templater Advanced

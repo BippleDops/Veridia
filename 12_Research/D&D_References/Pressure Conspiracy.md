@@ -1,15 +1,21 @@
+# Pressure Conspiracy
+
 ---
-tags:
-- active
-- aquabyssos
-- lore
-- quest
+title: Pressure Conspiracy
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- research
+- quest
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.004488+00:00'
 ---
+
 
 
 
@@ -51,3 +57,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Pressure Conspiracy]]
+
+
+## Related
+
+*Links to related content will be added here.*

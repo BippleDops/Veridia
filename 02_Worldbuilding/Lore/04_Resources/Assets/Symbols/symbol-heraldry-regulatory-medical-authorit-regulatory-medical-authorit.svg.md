@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry regulatory medical authorit regulatory medical authorit.svg
+aliases:
+- symbol heraldry regulatory medical authorit regulatory medical authoritsvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-regulatory-medical-authorit-regulatory-medical-authorit.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Regulatory Medical Authorit]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Regulatory Medical Authorit]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

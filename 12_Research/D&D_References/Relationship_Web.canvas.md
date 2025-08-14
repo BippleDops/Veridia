@@ -1,14 +1,22 @@
+# Relationship_Web.canvas
+
 ---
-tags:
-- active
-- lore
-- universal
+title: Relationship Web.canvas
+aliases:
+- Relationship Webcanvas
 type: Lore
-world: Universal
-status: active
+tags:
+- lore
+- research
+- active
+- universal
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Universal
 updated: '2025-08-13T01:18:34.849738+00:00'
 ---
+
 
 
 
@@ -40,3 +48,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Update Indexes|02 Worldbuilding/Lore/Update Indexes]]
+
+
+## Related
+
+*Links to related content will be added here.*

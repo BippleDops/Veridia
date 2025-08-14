@@ -1,22 +1,29 @@
+# The Deepmind Conspiracy
+
 ---
+title: The Deepmind Conspiracy
+type: NPC
 tags:
-- aquabyssos
-- complete
-- conspiracy
-- deep
 - lore
+- aquabyssos
+- deep
 - mind
 - npc
+- research
+- active
+- complete
+- conspiracy
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: NPC
 created_by: auto-stub
-created: '2025-08-11'
 MyContainer: None
 MyCategory: Conspiracy
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.967339+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -146,3 +153,8 @@ Legends speak of The Deepmind Conspiracy as a nexus where past and present conve
 - [[The Deepmind Conspiracy|02 Worldbuilding/People/The Deepmind Conspiracy]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

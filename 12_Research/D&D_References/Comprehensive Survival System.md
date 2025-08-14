@@ -1,25 +1,32 @@
+# Comprehensive Survival System
+
 ---
-created: '2025-08-07'
-mechanic_type: Complete Survival System
-status: complete
-system: D&D 5e
+title: Comprehensive Survival System
+type: Lore
 tags:
-- both
-- complete
-- comprehensive
-- content/lore
-- content/mechanics
 - lore
+- both
+- world/aquabyssos
+- survival
+- content/lore
+- world/both
+- research
+- active
+- comprehensive
+- complete
 - reference
 - status/in-progress
-- survival
-- world/aquabyssos
-- world/both
-type: Lore
+- content/mechanics
+created: '2025-08-07'
+modified: '2025-08-14'
+status: complete
+mechanic_type: Complete Survival System
+system: D&D 5e
 updated: '2025-08-13T12:34:17.789212+00:00'
 version: 2.0
 world: Both
 ---
+
 
 
 
@@ -395,3 +402,8 @@ Legends speak of Comprehensive Survival System as a nexus where past and present
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,14 +1,20 @@
+# Pressure Lords
+
 ---
-tags:
-- active
-- aquabyssos
-- npc
+title: Pressure Lords
 type: NPC
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.856216+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-pressure-lords-pressure-lords.svg]]
@@ -69,3 +75,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Abyssos Prime - Inverse Palace]]
 - [[The Pressure Conspiracy]]
+
+
+## Related
+
+*Links to related content will be added here.*

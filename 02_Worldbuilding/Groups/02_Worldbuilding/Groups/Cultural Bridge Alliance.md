@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Cultural Bridge Alliance
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+![02_Worldbuilding/Groups/Cultural Bridge Alliance](../../../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_cultural_bridge_alliance.png)
+
+
 
 # 02_Worldbuilding/Groups/Cultural Bridge Alliance
 
@@ -24,7 +34,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Shadow Magic Integration Practices]]
+- [[Shadow Magic Integration Practices]]
 - [[02_Worldbuilding/Lore/Shadow Magic Integration Practices]]
 
 ## Notes
@@ -36,3 +46,8 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[04_Resources_Assets_Locations_location-city-harbor-master-s-tower-harbor-master-s-tower.png]]
+- [[04_Resources_Assets_Locations_location-city-communications-master-signal-cryptkeeper-communications-master-signal-cryptkeeper.svg]]

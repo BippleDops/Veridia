@@ -1,20 +1,26 @@
+# Consequence Chain 5 - Marina Identity Revelation
+
 ---
+title: Consequence Chain 5   Marina Identity Revelation
+type: Lore
 tags:
-- aethermoor
+- lore
 - aquabyssos
+- cross-realm-bloodline
 - both worlds
 - both-worlds
-- campaign-consequences
-- complete
-- cross-realm-bloodline
-- depth-guard
+- research
 - diplomatic-revolution
+- depth-guard
+- active
+- complete
 - identity-crisis
-- lore
-type: Lore
-world: Both Worlds
-status: complete
+- campaign-consequences
+- aethermoor
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Both Worlds
 updated: '2025-08-13T04:22:13.952209+00:00'
 magnitude: 3
 visibility: 3
@@ -22,6 +28,7 @@ primary_sessions:
 - 'Session 04: The Silverscale Gambit'
 - 'Session 08: Between Two Worlds'
 ---
+
 
 
 
@@ -233,3 +240,7 @@ primary_sessions:
 - [[Cross-Realm Diplomatic Relations]]
 - [[Political Intrigue Master Index]]
 - [[Cultural Exchange Programs]]
+
+## Related
+
+*Links to related content will be added here.*

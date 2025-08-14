@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Merchant's Covenant
+type: Faction
 tags:
 - both
-- complete
 - content/faction
 - faction
-- status/in-progress
+- organization
 - world/both
-type: Faction
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.345342+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Heraldry
@@ -521,3 +528,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Northgate]]
+
+
+## Known Members
+
+- [[Lady Crystal-Heart Miraleth]]

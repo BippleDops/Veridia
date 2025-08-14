@@ -1,20 +1,26 @@
+# physical-characteristics-beholder-eyestalk-texture-vgm
+
 ---
+title: physical characteristics beholder eyestalk texture vgm
 aliases:
 - Physical Characteristics; Beholder Eyestalk Texture
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/vgm
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.514956'
 world: Both
 ---
+
 
 # Physical Characteristics; Beholder Eyestalk Texture
 *Source: Volo's Guide to Monsters p. 8* 
@@ -49,3 +55,8 @@ Legends speak of physical characteristics beholder eyestalk texture vgm as a nex
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

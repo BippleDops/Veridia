@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Enforcer Chief Mako Ironjaw
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.683468+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -97,12 +105,29 @@ Chief Mako Ironjaw is the most feared law enforcement officer in [[Aquabyssos]],
 > - Has been having prophetic dreams about threats rising from the deepest trenches
 > - The Emperor knows about his divided loyalties and approves
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Sharp and precise
+
+**Speech Pattern**: Casual and relaxed
+
+**Physical Habits**: Maintains intense eye contact
+
 ## Current Activities
 - Leading intensive manhunt for [[Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]]
 - Investigating shadow-touched corruption in government officials
 - Training new hybrid recruits for law enforcement
 - Coordinating with surface authorities on cross-realm criminal activities
 - Building case against major smuggling organization
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 ## Motivations
 1. **Primary**: Maintain order and law in Aquabyssos depths
@@ -147,6 +172,61 @@ Chief Mako Ironjaw is the most feared law enforcement officer in [[Aquabyssos]],
 
 *"Flint thinks his third eye sees everything. But a hunter's patience always outlasts clever prey."* - About his nemesis
 
+
+
+## Background
+
+Enforcer Chief Mako Ironjaw's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Plot Hooks
+
+1. **The Request**: Enforcer Chief Mako Ironjaw needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Enforcer Chief Mako Ironjaw stopped or removed
+3. **The Secret**: Information about Enforcer Chief Mako Ironjaw's past surfaces
+4. **The Alliance**: Opportunity to work with or against Enforcer Chief Mako Ironjaw
+5. **The Crisis**: Enforcer Chief Mako Ironjaw is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Perfect for law enforcement storylines and moral complexity
 - Can be ally or obstacle depending on party activities
@@ -169,6 +249,14 @@ Chief Mako Ironjaw is the most feared law enforcement officer in [[Aquabyssos]],
 - [[The Lock Saboteur]] - Investigation leader
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Official inquiry
 
+
+
+
+## Relationship Web
+
+- [[Parliament High Council]]: *family member*
+- [[Archdruid Thornweaver]]: *business partner*
+- [[Quest - The Traitor Within]]: *business partner*
 
 ## Connections
 

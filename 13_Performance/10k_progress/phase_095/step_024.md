@@ -1,9 +1,16 @@
 ---
+title: step 024
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 95
 step: 24
 total_step: 9424
 ---
+
 
 # Phase 95 - Step 24
 

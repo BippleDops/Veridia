@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Home   DV
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 1-DM Toolkit/Home - DV
 
@@ -24,9 +28,9 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Island of Skulls]]
-- [[12_Research/D&D_References/Journey Board]]
-- [[12_Research/D&D_References/City of Screams]]
+- [[Island of Skulls]]
+- [[Journey Board]]
+- [[City of Screams]]
 - [[02_Worldbuilding/Lore/Journey Board]]
 - [[02_Worldbuilding/Lore/Journey Board]]
 - [[02_Worldbuilding/Lore/City of Screams]]

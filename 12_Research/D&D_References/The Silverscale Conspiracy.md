@@ -1,24 +1,30 @@
+# The Silverscale Conspiracy
+
 ---
+title: The Silverscale Conspiracy
+type: Lore
 tags:
-- aethermoor
+- lore
 - aquabyssos
+- silverscale
 - banking
+- intrigue
+- power-struggle
 - both worlds
 - both-worlds
+- research
+- active
+- secret-society
 - complete
 - conspiracy
 - corruption
-- intrigue
-- lore
+- aethermoor
 - political-manipulation
-- power-struggle
-- secret-society
-- silverscale
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both Worlds
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:35.517529+00:00'
 conspiracy_type: Economic and Political Manipulation
 scope: Cross-world influence network
@@ -26,6 +32,7 @@ danger_level: 4
 active_period: Past 150 years, escalating recently
 primary_agents: Silverscale Banking House and allied organizations
 ---
+
 
 
 
@@ -182,3 +189,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Seven Shards]]
 - [[Umbral Exchange]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

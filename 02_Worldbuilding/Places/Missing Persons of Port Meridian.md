@@ -1,23 +1,30 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
-danger_level: Moderate
-status: complete
+title: Missing Persons of Port Meridian
+type: Location
 tags:
-- aethermoor
-- complete
-- conspiracy
 - content/adventure
-- content/location
-- content/npc
-- location
 - mechanics/exploration
 - status/complete
+- content/location
+- content/npc
+- place
 - world/aethermoor
-type: Location
+- active
+- location
+- complete
+- conspiracy
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+created_by: auto-stub
+danger_level: Moderate
 updated: '2025-08-13T12:34:17.140247+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View
@@ -118,6 +125,27 @@ The missing persons come from all social classes and backgrounds, with no appare
 ## Long-term Consequences
 Success prevents future disappearances and may reveal larger conspiracies. Failure could lead to more disappearances and loss of public trust in authorities.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 This investigation should feel urgent and personal. Give players multiple investigative paths and let them choose their approach. The solution should tie together several clues in a satisfying way.
 
@@ -169,3 +197,85 @@ Legends speak of Missing Persons of Port Meridian as a nexus where past and pres
 - [[Missing Persons of Port Meridian]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[Maestro Finn Whirlstep]]
+- [[Royal Ports]]
+- [[Voluntary Taxation]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+Missing Persons of Port Meridian is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Missing Persons of Port Meridian
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Missing Persons of Port Meridian:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Missing Persons of Port Meridian
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

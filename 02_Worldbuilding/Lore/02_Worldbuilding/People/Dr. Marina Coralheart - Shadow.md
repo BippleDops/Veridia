@@ -1,13 +1,24 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Dr. Marina Coralheart   Shadow
+aliases:
+- Dr Marina Coralheart   Shadow
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- npc
+- character
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+race: Unknown
+class: Unknown
+location: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/People/Dr. Marina Coralheart - Shadow
 
@@ -24,7 +35,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Shadow Surgery Network]]
+- [[Shadow Surgery Network]]
 - [[02_Worldbuilding/Places/Shadow Surgery Network]]
 
 ## Notes

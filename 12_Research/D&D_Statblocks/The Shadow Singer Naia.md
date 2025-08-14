@@ -1,25 +1,32 @@
+# The Shadow Singer Naia
+
 ---
+title: The Shadow Singer Naia
+type: NPC
 tags:
 - aquabyssos
-- complete
-- deep-mother
 - dream-servant
-- npc
 - person
-- shadow-touched
+- npc
 - sorrow-singer
+- research
+- deep-mother
+- active
+- complete
+- shadow-touched
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
+race: Human (Shadow-Born)
+location: '[[Shadow Wells]] - The Echoing Chamber'
 world: Aquabyssos
-type: NPC
 role: Deep Mother's Voice
 affiliation: '[[The Sorrow Singers]] (Shadow Choir)'
 age: '26'
-race: Human (Shadow-Born)
-location: '[[Shadow Wells]] - The Echoing Chamber'
 created_by: auto-stub
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -352,3 +359,8 @@ Legends speak of The Shadow Singer Naia as a nexus where past and present conver
 <!-- enriched: true -->
 - [[Captain Nautilus the Deep Wanderer]]
 - [[Memory Harvester Kythara]]
+
+
+## Related
+
+*Links to related content will be added here.*

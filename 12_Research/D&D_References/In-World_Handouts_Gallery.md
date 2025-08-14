@@ -1,3 +1,15 @@
+# In-World_Handouts_Gallery
+
+---
+title: In World Handouts Gallery
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # In-World Handouts Gallery
 
 %% Use reading mode for visual gallery %%
@@ -193,3 +205,8 @@
 
 ## missing-caravan
 ![[04_Resources/Assets/Handouts/missing-caravan.png]]
+
+
+## Related
+
+*Links to related content will be added here.*

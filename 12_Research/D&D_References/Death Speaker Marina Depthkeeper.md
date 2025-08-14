@@ -1,16 +1,22 @@
+# Death Speaker Marina Depthkeeper
+
 ---
-tags:
-- active
-- both worlds
-- both-worlds
-- location
+title: Death Speaker Marina Depthkeeper
 type: Location
-world: Both Worlds
-status: active
+tags:
+- both worlds
+- research
+- both-worlds
+- active
+- location
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both Worlds
 updated: '2025-08-13T01:18:36.384501+00:00'
 danger_level: Moderate
 ---
+
 
 
 
@@ -64,3 +70,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Ω_System-CLI-spells-school-necromancy|Ω System CLI Spells School Necromancy]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,14 +1,21 @@
+# Quick_Session_Pulse_Check
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- player/feedback
-- session/quick
-- pulse/check
+title: Quick Session Pulse Check
 type: Feedback Form
+tags:
+- pulse/check
+- research
+- player/feedback
+- active
+- session/quick
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Quick Session Pulse Check
 ## Fast feedback for session improvement
@@ -77,3 +84,7 @@ _______________________________________
 ```
 
 *Quick feedback helps make immediate improvements*
+
+## Related
+
+*Links to related content will be added here.*

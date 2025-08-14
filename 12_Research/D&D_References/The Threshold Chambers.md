@@ -1,27 +1,34 @@
+# The Threshold Chambers
+
 ---
-tags:
-- complete
-- convergence-seekers
-- cross-realm
-- dimensional threshold (both realms)
-- dimensional-nexus
-- dimensional-threshold-(both-realms)
-- location
-- place
-- secret-base
-status: complete
-world: Dimensional Threshold (Both Realms)
+title: The Threshold Chambers
 type: Location
+tags:
+- secret-base
+- dimensional-threshold-(both-realms)
+- dimensional threshold (both realms)
+- research
+- place
+- active
+- location
+- complete
+- cross-realm
+- convergence-seekers
+- dimensional-nexus
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+population: ~300 researchers and support staff
+world: Dimensional Threshold (Both Realms)
 location_type: Interdimensional Facility
 affiliation: '[[The Convergence Seekers]]'
 significance: Major (Convergence Research Center)
 size: Large Complex
-population: ~300 researchers and support staff
 created_by: auto-stub
-created: '2025-08-09'
 updated: '2025-08-13T01:18:36.052245+00:00'
 danger_level: Moderate
 ---
+
 
 
 
@@ -333,3 +340,8 @@ Legends speak of The Threshold Chambers as a nexus where past and present conver
 - [[The Liminal Trading Company]]
 - [[The Shadow-Crystal Synthesis]]
 - [[The Void Watchers]]
+
+
+## Related
+
+*Links to related content will be added here.*

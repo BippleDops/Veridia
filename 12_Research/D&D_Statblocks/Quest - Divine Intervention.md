@@ -1,28 +1,35 @@
+# Quest - Divine Intervention
+
 ---
+title: Quest   Divine Intervention
+type: Lore
 tags:
-- aethermoor
-- complete
-- cosmic-horror
-- deep-mother
-- divine
-- epic
-- gods
-- level-10-15
 - lore
+- cosmic-horror
 - quest
+- gods
+- deep-mother
+- research
+- active
+- divine
+- level-10-15
+- complete
+- epic
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 level_range: 10-15
 quest_type: Divine/Cosmic Campaign Arc
 estimated_sessions: 6-8
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.470437+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 
@@ -517,3 +524,8 @@ Legends speak of Quest   Divine Intervention as a nexus where past and present c
 ## Cross-References
 
 - [[The Crown's Burden|02 Worldbuilding/Quests/The Crown's Burden]]
+
+
+## Related
+
+*Links to related content will be added here.*

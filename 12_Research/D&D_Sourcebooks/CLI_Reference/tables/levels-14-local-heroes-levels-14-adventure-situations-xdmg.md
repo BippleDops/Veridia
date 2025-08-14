@@ -1,20 +1,26 @@
+# levels-14-local-heroes-levels-14-adventure-situations-xdmg
+
 ---
+title: levels 14 local heroes levels 14 adventure situations xdmg
 aliases:
-- Levels 1–4: Local Heroes; Levels 1–4 Adventure Situations
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+- "Levels 1\u20134": "Local Heroes; Levels 1\u20134 Adventure Situations"
+type: note
 tags:
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.230255'
 world: Both
 ---
+
 
 # Levels 1–4: Local Heroes; Levels 1–4 Adventure Situations
 *Source: Dungeon Master's Guide (2024) p. 106* 
@@ -66,3 +72,8 @@ Legends speak of levels 14 local heroes levels 14 adventure situations xdmg as a
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

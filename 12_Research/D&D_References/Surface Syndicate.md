@@ -1,22 +1,29 @@
+# Surface Syndicate
+
 ---
+title: Surface Syndicate
+type: NPC
 tags:
 - aquabyssos
-- complete
-- criminal
 - npc
 - organization
-- surface
+- research
 - syndicate
+- surface
+- active
+- complete
+- criminal
+created: 2025-08-08 - Category/Groups
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: NPC
 created_by: auto-stub
-created: 2025-08-08 - Category/Groups
 MyContainer: None
 MyCategory: Criminal
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.876535+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -171,3 +178,8 @@ Legends speak of Surface Syndicate as a nexus where past and present converge. L
 - [[Surface Syndicate|02 Worldbuilding/People/Surface Syndicate]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

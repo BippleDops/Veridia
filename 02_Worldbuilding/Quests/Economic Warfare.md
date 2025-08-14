@@ -1,19 +1,26 @@
+# Economic Warfare
+
 ---
+title: Economic Warfare
 type: Lore
-status: draft
 tags:
-- combat
-- crystal-enhanced
-- shadow-touched
 - available
-- both
-- economic
-- espionage
-- international
-- intrigue/social
 - lore
+- both
+- international
+- espionage
+- intrigue/social
 - political
+- worldbuilding
 - quest
+- active
+- combat
+- economic
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: draft
 level: 6-8
 reward: Major - Category/Quest
 MyContainer: None
@@ -21,8 +28,8 @@ MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:34.466567+00:00'
-created: '2025-08-11'
 ---
+
 
 
 # Economic Warfare
@@ -31,15 +38,15 @@ created: '2025-08-11'
 
 ## Quest Overview
 
-The [[12_Research/D&D_References/Goldspire Confederacy]] is orchestrating Aethermoor's economic collapse to force annexation. With [[12_Research/D&D_References/Zephyr Goldwhisper]] as their primary agent and multiple crises weakening the kingdom, the party must expose and counter this bloodless invasion while navigating international politics and moral compromises.
+The [[Goldspire Confederacy]] is orchestrating Aethermoor's economic collapse to force annexation. With [[Zephyr Goldwhisper]] as their primary agent and multiple crises weakening the kingdom, the party must expose and counter this bloodless invasion while navigating international politics and moral compromises.
 
 ## Quest Giver
 
 Multiple possible sources:
-- **[[12_Research/D&D_References/Sir Marcus Dawnforge]]** discovers financial irregularities in Order supplies
-- **[[12_Research/D&D_References/Vex Shadowthorn]]** notices foreign interference in black markets
-- **[[12_Research/D&D_References/Queen Seraphina Lumengarde]]** secretly requests help with mounting debts
-- **Anonymous note** revealing Confederate plans (from guilty [[12_Research/D&D_References/Zephyr Goldwhisper]])
+- **[[Sir Marcus Dawnforge]]** discovers financial irregularities in Order supplies
+- **[[Vex Shadowthorn]]** notices foreign interference in black markets
+- **[[Queen Seraphina Lumengarde]]** secretly requests help with mounting debts
+- **Anonymous note** revealing Confederate plans (from guilty [[Zephyr Goldwhisper]])
 
 ## Background
 
@@ -56,32 +63,32 @@ The Goldspire Confederacy has been systematically:
 
 1. Expose the Confederate economic manipulation
 2. Prevent or negotiate the debt crisis
-3. Decide [[12_Research/D&D_References/Zephyr Goldwhisper]]'s fate
+3. Decide [[Zephyr Goldwhisper]]'s fate
 4. Stop or redirect Operation Goldfall
 
 ### Optional Objectives
 
 - Turn Zephyr into a double agent
-- Steal null-technology from [[12_Research/D&D_References/Goldspire Port]]
+- Steal null-technology from [[Goldspire Port]]
 - Rally international support against Confederacy
 - Create economic counter-offensive
 - Expose or protect Confederate spy network
 
 ## Key NPCs Involved
 
-- **[[12_Research/D&D_References/Zephyr Goldwhisper]]** - Confederate spy with growing conscience
-- **[[12_Research/D&D_References/Queen Seraphina Lumengarde]]** - Desperate ruler considering surrender
-- **[[12_Research/D&D_References/Sir Marcus Dawnforge]]** - Organizes resistance through underground networks
-- **[[12_Research/D&D_References/Vex Shadowthorn]]** - Controls black market, key to economic independence
-- **[[12_Research/D&D_References/Ambassador Korvin Blacktide]]** - Potential unlikely ally against Confederacy
-- **Trade Prince Aurelius Gilt** - Confederate leader in [[12_Research/D&D_References/Goldspire Port]]
+- **[[Zephyr Goldwhisper]]** - Confederate spy with growing conscience
+- **[[Queen Seraphina Lumengarde]]** - Desperate ruler considering surrender
+- **[[Sir Marcus Dawnforge]]** - Organizes resistance through underground networks
+- **[[Vex Shadowthorn]]** - Controls black market, key to economic independence
+- **[[Ambassador Korvin Blacktide]]** - Potential unlikely ally against Confederacy
+- **Trade Prince Aurelius Gilt** - Confederate leader in [[Goldspire Port]]
 
 ## Investigation Threads
 
 ### Follow the Money
 
 - Shell companies traced to Confederate banks
-- Suspicious trading patterns in [[12_Research/D&D_References/Port Meridian]]
+- Suspicious trading patterns in [[Port Meridian]]
 - Order supply contracts with inflated prices
 - Noble debts being consolidated by single creditor
 
@@ -89,7 +96,7 @@ The Goldspire Confederacy has been systematically:
 
 - Zephyr's shop contains coded communications
 - Confederate agents embedded in major guilds
-- Refugee quarter in [[12_Research/D&D_References/Goldspire Port]] recruiting dissidents
+- Refugee quarter in [[Goldspire Port]] recruiting dissidents
 - Admiral Brass Hookhand's fleet movements
 
 ### The Null Weapons
@@ -105,20 +112,20 @@ The Goldspire Confederacy has been systematically:
 
 - Negotiate directly with Trade Prince Aurelius Gilt
 - Offer controlled crystal trade in exchange for debt relief
-- Propose Aethermoor as buffer state against [[12_Research/D&D_References/Aquabyssos]]
+- Propose Aethermoor as buffer state against [[Aquabyssos]]
 - Risk: Partial loss of sovereignty
 
 ### The Economic Counter
 
-- Unite [[12_Research/D&D_References/Merchant Princes]] against foreign takeover
-- Use [[12_Research/D&D_References/Vex Shadowthorn]]'s network for smuggling operation
-- Create alternative trade routes through [[12_Research/D&D_References/Aquabyssos]]
+- Unite [[Merchant Princes]] against foreign takeover
+- Use [[Vex Shadowthorn]]'s network for smuggling operation
+- Create alternative trade routes through [[Aquabyssos]]
 - Risk: Economic war escalation
 
 ### The Espionage Option
 
 - Turn Zephyr and feed false intelligence
-- Infiltrate [[12_Research/D&D_References/Goldspire Port]] to steal null-technology
+- Infiltrate [[Goldspire Port]] to steal null-technology
 - Sabotage Confederate fleet preparations
 - Risk: International incident if caught
 
@@ -131,7 +138,7 @@ The Goldspire Confederacy has been systematically:
 
 ### The Dark Alliance
 
-- Ally with [[12_Research/D&D_References/Ambassador Korvin Blacktide]] against Confederacy
+- Ally with [[Ambassador Korvin Blacktide]] against Confederacy
 - Threaten to spread corruption internationally
 - Use Green Death threat as leverage
 - Risk: Becoming the villain
@@ -142,13 +149,13 @@ The Goldspire Confederacy has been systematically:
 
 Zephyr has genuinely grown fond of several Aethermoor citizens and is increasingly conflicted. They possess:
 - Complete Confederate invasion plans
-- Null bomb locations in [[12_Research/D&D_References/Port Meridian]]
+- Null bomb locations in [[Port Meridian]]
 - Codes for Confederate spy network
 - Personal friendship with Trade Prince
 
 ### The Refugee Question
 
-Many Aethermoor refugees in [[12_Research/D&D_References/Goldspire Port]] support annexation, believing it's better than corruption. They're not wrong - Confederate rule might save lives.
+Many Aethermoor refugees in [[Goldspire Port]] support annexation, believing it's better than corruption. They're not wrong - Confederate rule might save lives.
 
 ### The Economic Reality
 
@@ -272,8 +279,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Aquabyssos]]
-- [[12_Research/D&D_References/Goldspire Confederacy]]
+- [[Aquabyssos]]
+- [[Goldspire Confederacy]]
 
 
 ## Related

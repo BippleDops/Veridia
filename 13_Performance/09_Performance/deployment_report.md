@@ -1,3 +1,13 @@
+---
+title: deployment report
+type: report
+tags:
+- active
+- report
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # TTRPG Asset Generation System - Deployment Report
 Generated: Thu Aug 14 15:32:03 CDT 2025
 

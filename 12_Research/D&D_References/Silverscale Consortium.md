@@ -1,30 +1,37 @@
+# Silverscale Consortium
+
 ---
+title: Silverscale Consortium
+type: Group
 tags:
 - aethermoor
-- complete
-- crystal-trade
-- economic
 - faction
-- group
+- research
 - major-faction
+- active
+- complete
+- economic
+- crystal-trade
+- group
 - merchant
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+headquarters: '[[The Silver Tower of Commerce]]'
 world: Aethermoor
-type: Group
 faction_type: Economic Power
 alignment: Lawful Neutral (leaning Evil)
-headquarters: '[[The Silver Tower of Commerce]]'
 leader: '[[Zephyr Goldwhisper|02 Worldbuilding/People/Zephyr Goldwhisper]]'
 members: ~50,000 employees, contractors, agents
 influence: Continental
 wealth: Controls 60% of crystal trade
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.659594+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 

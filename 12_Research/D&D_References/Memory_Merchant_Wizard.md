@@ -1,16 +1,23 @@
+# Memory_Merchant_Wizard
+
 ---
-created: '2025-08-13'
-status: ready
+title: Memory Merchant Wizard
+type: Character Build
 tags:
-- status/ready
-- type/character-build
+- research
 - world/both
+- type/character-build
+- active
+- status/ready
 - class/wizard
 - school/enchantment
-type: Character Build
+created: '2025-08-13'
+modified: '2025-08-14'
+status: ready
 updated: '2025-08-13T12:00:00.000000'
 world: Both
 ---
+
 
 # Memory Merchant Wizard - Character Build
 
@@ -248,3 +255,7 @@ Natural psychic abilities complement learned memory manipulation techniques.
 Memory Merchants operate in morally complex territory, balancing legitimate healing services with potentially exploitative commercial activities. Players should work with DMs to explore themes of identity, consciousness, and the commodification of experience while maintaining appropriate campaign tone.
 
 This build offers rich roleplay opportunities around memory, identity, and the ethics of consciousness manipulation.
+
+## Related
+
+*Links to related content will be added here.*

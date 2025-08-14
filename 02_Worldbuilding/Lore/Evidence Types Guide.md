@@ -1,36 +1,40 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
+title: Evidence Types Guide
 type: Lore
+tags:
+- lore
+- both
+- content/lore
+- world/both
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:15.777090+00:00'
 world: Both
 ---
 
 
+
 ## Cross-References
 
-- [[12_Research/D&D_References/Investigation Procedures]]
+- [[Investigation Procedures]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Evidence Chain Analysis]]
-- [[12_Research/D&D_References/Interrogation Techniques]]
-- [[12_Research/D&D_References/Investigation Procedures]]
-- [[12_Research/D&D_References/Memory Alteration Consequences]]
-- [[12_Research/D&D_References/Reality Merge Zones]]
-- [[12_Research/D&D_References/Silver Mask]]
-- [[12_Research/D&D_References/The Final Choice]]
-- [[12_Research/D&D_References/The Silverscale Conspiracy]]
-- [[12_Research/D&D_References/Timeline of Crimes]]
-- [[12_Research/D&D_References/Aethermoor]]
+- [[Evidence Chain Analysis]]
+- [[Interrogation Techniques]]
+- [[Investigation Procedures]]
+- [[Memory Alteration Consequences]]
+- [[Reality Merge Zones]]
+- [[Silver Mask]]
+- [[The Final Choice]]
+- [[The Silverscale Conspiracy]]
+- [[Timeline of Crimes]]
+- [[Aethermoor]]
 
 ## Player-Facing Summary
 
@@ -55,3 +59,31 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Overview
+
+Evidence Types Guide represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

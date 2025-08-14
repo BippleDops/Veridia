@@ -1,8 +1,27 @@
 ---
+title: Senator
+type: Npc
+tags:
+- both
+- world/aquabyssos
+- npc
+- world/both
+- content/location
+- content/npc
+- character
+- active
+- parliament
+- complete
+- status/in-progress
+created: '2025-08-07'
+modified: '2025-08-14'
+status: complete
+race: Human (Shadow)
+class: Noble
+location: '[[Abyssos Prime - Parliament of Echoes]]'
+level: 7
 ac: 15
 alignment: Lawful Evil
-class: Noble
-created: '2025-08-07'
 current_hp: 52
 depth_adapted: 4
 description: Tall, thin figure with translucent skin showing dark veins beneath. Laughs
@@ -14,15 +33,12 @@ first_name: Glaucus
 influence: 6
 last_encounter: '[[Aquabyssos - Session 01 - The Drowning Welcome]]'
 last_name: Tidecaller
-level: 7
-location: '[[Abyssos Prime - Parliament of Echoes]]'
 max_hp: 52
 notes: Has been shadow-replaced for three weeks. Original imprisoned in Memory Meadows.
 obsidianUIMode: preview
 occupation: Senator (Shadow-replaced)
 original_race: Human
 portrait: ''
-race: Human (Shadow)
 related_quests:
 - '[[Investigate Shadow Conspiracy]]'
 - '[[Shadow Citizenship Act]]'
@@ -47,22 +63,10 @@ stats:
   int: 16
   str: 10
   wis: 12
-status: complete
-tags:
-- both
-- complete
-- content/location
-- content/npc
-- npc
-- parliament
-- status/in-progress
-- world/aquabyssos
-- world/both
-title: Senator
-type: Npc
 updated: '2025-08-13T12:34:17.677555+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -93,7 +97,17 @@ The original Glaucus was a respected senator, advocate for surface-depth trade r
 ### The Replacement
 Three weeks ago, Glaucus was ambushed at the [[Reflection Pools]] and underwent forced shadow separation. His shadow gained independence and replaced him, while the original was imprisoned in the [[The Memory Meadows]]. The shadow retained all of Glaucus's memories but none of his morality.
 
-### Current Activities
+#
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Formal and elaborate
+
+**Physical Habits**: Gestures expressively
+
+## Current Activities
 - Pushing for the [[Shadow Citizenship Act]]
 - Identifying targets for shadow replacement
 - Maintaining cover while serving [[Shadow Duchess Nyx]]
@@ -268,6 +282,13 @@ Three weeks ago, Glaucus was ambushed at the [[Reflection Pools]] and underwent 
 
 *"In the Parliament of Echoes, even the senators are just shadows of democracy."*
 
+
+
+## Relationship Web
+
+- [[Tidal Priests Circle]]: *former lover*
+- [[04_Resources_Assets_Locations_location-city-commander-reef-shadowstrike-v1-commander-reef-shadowstrike.svg]]: *competitor*
+
 ## Connections
 
 - [[Senator]]
@@ -288,6 +309,93 @@ Legends speak of Senator Glaucus as a nexus where past and present converge. Loc
 - A rumor ties Senator Glaucus to a missing shipment, linking factions with competing claims.
 - An NPC seeks discreet help at Senator Glaucus to avert a public scandal.
 - A map overlay reveals a hidden approach to Senator Glaucus active only during specific tides/storms.
+
+
+
+## Appearance
+
+Senator Glaucus presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Achieving fame
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Plot Hooks
+
+1. **The Request**: Senator Glaucus needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Senator Glaucus stopped or removed
+3. **The Secret**: Information about Senator Glaucus's past surfaces
+4. **The Alliance**: Opportunity to work with or against Senator Glaucus
+5. **The Crisis**: Senator Glaucus is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 

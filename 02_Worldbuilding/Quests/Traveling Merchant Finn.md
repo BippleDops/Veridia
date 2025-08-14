@@ -1,23 +1,29 @@
+# Traveling Merchant Finn
+
 ---
+title: Traveling Merchant Finn
 type: Lore
-status: complete
 tags:
-- combat
-- session-notes
-- crystal-enhanced
-- shadow-touched
+- lore
 - aquabyssos
-- complete
-- cross-realm
+- mystery
+- session-notes
 - intrigue
 - investigation
-- lore
 - merchant
-- mystery
+- worldbuilding
 - quest
+- active
+- combat
+- complete
+- cross-realm
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 world: Aquabyssos
 created_by: auto-expansion
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.478593+00:00'
 MyContainer: None
 MyCategory: Unknown
@@ -25,21 +31,22 @@ obsidianUIMode: preview
 ---
 
 
+
 # Traveling Merchant Finn
 
 **Type:** Mystery/Investigation/Social Intrigue  
 **Level:** 3-8  
-**Location:** [[12_Research/D&D_References/Abyssos Prime]], [[12_Research/D&D_References/The Trade Quarter]], [[12_Research/D&D_References/Smuggler's Cove]], [[12_Research/D&D_References/Goldspire Port]]  
+**Location:** [[Abyssos Prime]], [[The Trade Quarter]], [[Smuggler's Cove]], [[Goldspire Port]]  
 **Duration:** 3-4 sessions  
 **Threat:** A seemingly innocent traveling merchant is at the center of a cross-realm conspiracy involving stolen artifacts, identity theft, and dangerous magical experiments
 
 ## Overview
 
-[[12_Research/D&D_Statblocks/Traveling Merchant Finn]] has built a reputation as one of the most reliable independent traders operating between [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]]. His routes span dangerous territories, his prices are fair, and his goods are always authentic. But when valuable items from his recent shipments begin turning up in places they shouldn't be, and multiple versions of "Finn" start appearing in different cities simultaneously, the party is hired to investigate what might be an elaborate fraud—or something far more dangerous.
+[[12_Research/D&D_Statblocks/Traveling Merchant Finn]] has built a reputation as one of the most reliable independent traders operating between [[Aquabyssos]] and [[Aethermoor]]. His routes span dangerous territories, his prices are fair, and his goods are always authentic. But when valuable items from his recent shipments begin turning up in places they shouldn't be, and multiple versions of "Finn" start appearing in different cities simultaneously, the party is hired to investigate what might be an elaborate fraud—or something far more dangerous.
 
 ## Background
 
-The real Finn was indeed a legitimate merchant who disappeared six months ago during what should have been a routine trading expedition to [[12_Research/D&D_References/The Cerulean Trench]]. His identity has been stolen by a network of shapeshifters working for [[12_Research/D&D_References/The Shadow Exchange]]—a criminal organization that specializes in magical identity theft and cross-realm smuggling. The imposters have been using Finn's reputation to move stolen artifacts and conduct illegal magical experiments while gathering intelligence on both realms' security systems.
+The real Finn was indeed a legitimate merchant who disappeared six months ago during what should have been a routine trading expedition to [[The Cerulean Trench]]. His identity has been stolen by a network of shapeshifters working for [[The Shadow Exchange]]—a criminal organization that specializes in magical identity theft and cross-realm smuggling. The imposters have been using Finn's reputation to move stolen artifacts and conduct illegal magical experiments while gathering intelligence on both realms' security systems.
 
 What makes this particularly dangerous is that one of the "Finns" has acquired genuine magical ability to split his consciousness across multiple bodies, making him nearly impossible to track or contain. The investigation will lead the party through multiple layers of deception, cross-realm politics, and confrontations with entities that may not be entirely human.
 
@@ -47,13 +54,13 @@ What makes this particularly dangerous is that one of the "Finns" has acquired g
 
 - **The Original Finn**: Missing merchant whose identity has been stolen
 - **Finn Prime**: The primary shapeshifter who has gained magical duplication abilities
-- **Finn Beta**: Secondary duplicate operating in [[12_Research/D&D_References/Goldspire Port]]
+- **Finn Beta**: Secondary duplicate operating in [[Goldspire Port]]
 - **Finn Gamma**: Third duplicate focusing on underground magical experiments
-- **[[12_Research/D&D_References/Memory Merchant Zara Mindweave]]**: Information broker who first noticed the discrepancies
+- **[[Memory Merchant Zara Mindweave]]**: Information broker who first noticed the discrepancies
 - **Captain Sterling Wavebreak**: [[Kelp Highway Security Forces]] officer investigating merchant fraud
-- **[[12_Research/D&D_References/Aquabyssos]]**: Crystal mage tracking magical signature anomalies
-- **Madame Mirage**: [[12_Research/D&D_References/The Shadow Exchange]] leader coordinating the identity theft network
-- **[[12_Research/D&D_References/Aquabyssos]]**: Legitimate trader who's been competing with the fake Finns
+- **[[Aquabyssos]]**: Crystal mage tracking magical signature anomalies
+- **Madame Mirage**: [[The Shadow Exchange]] leader coordinating the identity theft network
+- **[[Aquabyssos]]**: Legitimate trader who's been competing with the fake Finns
 - **The Duplicate Detector**: Mysterious figure who claims to know how to identify the real from fake
 - **Archivist Coral Memory**: Record keeper who has documentation of the original Finn
 - **Dr. Synthesis Echo**: Magical researcher studying consciousness transfer methods
@@ -62,7 +69,7 @@ What makes this particularly dangerous is that one of the "Finns" has acquired g
 
 ## Phase 1: The Discrepancies (1 session)
 
-**Location:** [[12_Research/D&D_References/Abyssos Prime]] - The Trade Quarter  
+**Location:** [[Abyssos Prime]] - The Trade Quarter  
 **Objective:** Investigate reports of impossible merchant activities
 
 ### The Initial Reports
@@ -91,7 +98,7 @@ What makes this particularly dangerous is that one of the "Finns" has acquired g
 
 **Evidence Collection:**
 - **Transaction Records**: Pattern analysis reveals impossible travel times
-- **Magical Forensics**: [[12_Research/D&D_References/Aquabyssos]] detects multiple overlapping aura signatures
+- **Magical Forensics**: [[Aquabyssos]] detects multiple overlapping aura signatures
 - **Document Analysis**: Handwriting shows microscopic variations suggesting copying or forgery
 - **Inventory Tracking**: Items supposedly sold by Finn appear in multiple markets simultaneously
 - **Communication Logs**: Messages sent "from Finn" originate from different locations at impossible times
@@ -106,7 +113,7 @@ What makes this particularly dangerous is that one of the "Finns" has acquired g
 
 ## Phase 2: Following the Threads (1-2 sessions)
 
-**Location:** Various - tracking the different Finns throughout [[12_Research/D&D_References/Aquabyssos]]  
+**Location:** Various - tracking the different Finns throughout [[Aquabyssos]]  
 **Objective:** Locate and observe the multiple versions to understand their operation
 
 ### Surveillance Challenges
@@ -120,12 +127,12 @@ What makes this particularly dangerous is that one of the "Finns" has acquired g
 - **Magical Countermeasures**: Finns use illusion magic to obscure their movements
 - **Network Support**: Other shapeshifters provide alibis and misdirection
 - **Legitimate Business**: Much of their activity appears completely normal and legal
-- **Cross-Realm Travel**: Some operations extend beyond [[12_Research/D&D_References/Aquabyssos]] jurisdiction
+- **Cross-Realm Travel**: Some operations extend beyond [[Aquabyssos]] jurisdiction
 - **Memory Modification**: Witnesses may have altered recollections of interactions
 
 ### Following Market Finn
 
-**Location:** [[12_Research/D&D_References/The Trade Quarter]], [[12_Research/D&D_References/Crystal Markets]]  
+**Location:** [[The Trade Quarter]], [[Crystal Markets]]  
 **Activities:** Selling genuine high-quality goods at competitive prices
 **Suspicious Elements:**
 - Has access to items that should be impossible to obtain legally
@@ -135,7 +142,7 @@ What makes this particularly dangerous is that one of the "Finns" has acquired g
 
 ### Following Smuggler Finn
 
-**Location:** [[12_Research/D&D_References/Smuggler's Cove]], [[12_Research/D&D_References/The Shadow Markets]]  
+**Location:** [[Smuggler's Cove]], [[The Shadow Markets]]  
 **Activities:** Moving questionable cargo through illegal channels
 **Suspicious Elements:**
 - Trafficking in items stolen from legitimate merchants
@@ -194,7 +201,7 @@ What makes this particularly dangerous is that one of the "Finns" has acquired g
 
 ## Phase 3: The Underground Network (1 session)
 
-**Location:** [[12_Research/D&D_References/Smuggler's Cove]], [[12_Research/D&D_References/The Shadow Markets]]  
+**Location:** [[Smuggler's Cove]], [[The Shadow Markets]]  
 **Objective:** Infiltrate the criminal organization behind the identity theft
 
 ### The Shadow Exchange
@@ -234,7 +241,7 @@ What makes this particularly dangerous is that one of the "Finns" has acquired g
 **The Larger Plot:**
 - Shadow Exchange has replaced dozens of merchants, officials, and military personnel
 - They're building a comprehensive intelligence network across both realms
-- Plan involves simultaneous infiltration of key government positions during next [[12_Research/D&D_References/Crystal Festival]]
+- Plan involves simultaneous infiltration of key government positions during next [[Crystal Festival]]
 - Ultimate goal is to manipulate both realms into a profitable war while controlling supply lines
 - The Finn operation was a test run for perfecting their duplication techniques
 
@@ -281,7 +288,7 @@ What makes this particularly dangerous is that one of the "Finns" has acquired g
 
 ## Phase 4: The Rescue Operation (1-2 sessions)
 
-**Location:** Shadow Exchange Headquarters - Hidden beneath [[12_Research/D&D_References/Smuggler's Cove]]  
+**Location:** Shadow Exchange Headquarters - Hidden beneath [[Smuggler's Cove]]  
 **Objective:** Rescue the original Finn and shut down the duplication operation
 
 ### The Consciousness Prison
@@ -402,7 +409,7 @@ The party faces all three primary Finn duplicates simultaneously, plus Finn Prim
 ### Long-term Benefits
 
 - **Intelligence Network**: Contacts within both legitimate and criminal organizations
-- **Cross-Realm Travel**: Enhanced ability to move between [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]]
+- **Cross-Realm Travel**: Enhanced ability to move between [[Aquabyssos]] and [[Aethermoor]]
 - **Magical Investigation**: Reputation leads to requests for similar complex cases
 - **Political Connections**: Relationships with officials grateful for security improvements
 - **Merchant Privileges**: Preferred status with trading guilds and legitimate businesses
@@ -411,25 +418,25 @@ The party faces all three primary Finn duplicates simultaneously, plus Finn Prim
 
 ### Core Campaign Elements
 
-- **[[12_Research/D&D_References/The Shadow Exchange]]**: Criminal organization specializing in identity theft
-- **[[12_Research/D&D_References/Smuggler's Cove]]**: Underground area where illegal operations take place
-- **[[12_Research/D&D_References/Abyssos Prime]]**: Capital city where the investigation begins
-- **[[12_Research/D&D_References/The Trade Quarter]]**: Commercial district where suspicious activities occur
-- **[[12_Research/D&D_References/Crystal Markets]]**: Trading areas where magical items change hands
+- **[[The Shadow Exchange]]**: Criminal organization specializing in identity theft
+- **[[Smuggler's Cove]]**: Underground area where illegal operations take place
+- **[[Abyssos Prime]]**: Capital city where the investigation begins
+- **[[The Trade Quarter]]**: Commercial district where suspicious activities occur
+- **[[Crystal Markets]]**: Trading areas where magical items change hands
 - **[[Kelp Highway Security Forces]]**: Law enforcement investigating merchant fraud
-- **[[12_Research/D&D_References/Memory Tides]]**: Psychic phenomena that may be connected to consciousness manipulation
-- **[[12_Research/D&D_References/Crystal Festival]]**: Annual event targeted by the conspiracy
-- **[[12_Research/D&D_References/Goldspire Port]]**: [[12_Research/D&D_References/Aethermoor]] location where operations extend
-- **[[12_Research/D&D_References/The Cerulean Trench]]**: Where the original Finn disappeared
+- **[[Memory Tides]]**: Psychic phenomena that may be connected to consciousness manipulation
+- **[[Crystal Festival]]**: Annual event targeted by the conspiracy
+- **[[Goldspire Port]]**: [[Aethermoor]] location where operations extend
+- **[[The Cerulean Trench]]**: Where the original Finn disappeared
 
 ### Connected Adventures
 
-- **[[12_Research/D&D_References/Aquabyssos]]**: The Shadow Exchange may be involved in other smuggling operations
-- **[[12_Research/D&D_References/Aquabyssos]]**: Crystal mage whose research connects to multiple investigations
-- **[[12_Research/D&D_References/Memory Merchant Zara Mindweave]]**: Information broker with connections to consciousness-related crimes
-- **[[12_Research/D&D_References/Aquabyssos]]**: Legitimate trader who competes with criminal operations
+- **[[Aquabyssos]]**: The Shadow Exchange may be involved in other smuggling operations
+- **[[Aquabyssos]]**: Crystal mage whose research connects to multiple investigations
+- **[[Memory Merchant Zara Mindweave]]**: Information broker with connections to consciousness-related crimes
+- **[[Aquabyssos]]**: Legitimate trader who competes with criminal operations
 - **[[12_Research/D&D_Statblocks/Admiral Thorne Blackwater]]**: Military concern about security implications
-- **[[12_Research/D&D_References/The Crystal Festival]]**: Event where multiple criminal plots converge
+- **[[The Crystal Festival]]**: Event where multiple criminal plots converge
 
 ## Campaign Impact
 
@@ -490,9 +497,9 @@ The party faces all three primary Finn duplicates simultaneously, plus Finn Prim
 ## Connections
 
 - [[12_Research/D&D_Statblocks/Ambush Point]]
-- [[12_Research/D&D_References/Aquabyssos]]
-- [[12_Research/D&D_References/Aquabyssos]]
-- [[12_Research/D&D_References/Aquabyssos]]
+- [[Aquabyssos]]
+- [[Aquabyssos]]
+- [[Aquabyssos]]
 - [[12_Research/D&D_Statblocks/Smuggler]]
 
 ## Player-Facing Summary
@@ -514,13 +521,13 @@ Legends speak of Traveling Merchant Finn as a nexus where past and present conve
 ## Cross-References
 
 - [[Ambush Point|02 Worldbuilding/Quests/Ambush Point]]
-- [[12_Research/D&D_References/The Crystal Festival]]
+- [[The Crystal Festival]]
 - [[12_Research/D&D_Statblocks/Admiral Thorne Blackwater]]
-- [[12_Research/D&D_References/Abyssos Prime]]
-- [[12_Research/D&D_References/Aethermoor]]
-- [[12_Research/D&D_References/Goldspire Port]]
-- [[12_Research/D&D_References/Smuggler's Cove]]
-- [[12_Research/D&D_References/The Cerulean Trench]]
+- [[Abyssos Prime]]
+- [[Aethermoor]]
+- [[Goldspire Port]]
+- [[Smuggler's Cove]]
+- [[The Cerulean Trench]]
 
 
 ## Related

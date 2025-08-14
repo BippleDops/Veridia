@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry craftmaster engineer gearwhispe craftmaster engineer gearwhispe.svg
+aliases:
+- symbol heraldry craftmaster engineer gearwhispe craftmaster engineer gearwhispesvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-craftmaster-engineer-gearwhispe-craftmaster-engineer-gearwhispe.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
-- [[12_Research/D&D_References/Craftmaster Engineer Gearwhispe]]
+- [[Faction Symbols & Heraldry]]
+- [[Craftmaster Engineer Gearwhispe]]
 
 ## Notes
 

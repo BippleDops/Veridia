@@ -1,18 +1,25 @@
+# Commercial Hubs and Markets
+
 ---
+title: Commercial Hubs and Markets
+type: Places
+tags:
+- economy
+- markets
+- both
+- places
+- research
+- active
+- complete
+- merchant-princes
+- trade-hubs
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 world: Both
 updated: '2025-08-12T00:00:00+00:00'
-created: '2025-08-12'
-status: complete
-tags:
-- both
-- complete
-- economy
-- trade-hubs
-- markets
-- merchant-princes
-- places
-type: Places
 ---
+
 
 > [!figure] Market Plaza
 ![](04_Resources/Assets/Places/place-markets-commercial-hubs-and-markets.svg)
@@ -545,3 +552,8 @@ The complex web of legitimate and criminal commerce offers numerous opportunitie
 
 Consider how market activities can drive long-term campaign development, with early character actions influencing later economic conditions and creating lasting consequences that extend far beyond immediate adventures.
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

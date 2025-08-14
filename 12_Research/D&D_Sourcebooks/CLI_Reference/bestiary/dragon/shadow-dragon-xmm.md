@@ -1,27 +1,34 @@
+# shadow-dragon-xmm
+
 ---
+title: shadow dragon xmm
 aliases:
 - Shadow Dragon
+type: monster
+tags:
+- ttrpg-cli/monster/type/dragon
+- ttrpg-cli/monster/environment/shadowfell
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/cr/13
+- monster
+- ttrpg-cli/monster/environment/underdark
+- research
+- world/both
+- ttrpg-cli/monster/environment/planar
+- active
+- status/in-progress
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/13
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/shadowfell
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/dragon
-- world/both
-type: monster
 updated: '2025-08-12T23:37:35.774064'
 world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -164,3 +171,8 @@ Legends speak of shadow dragon xmm as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

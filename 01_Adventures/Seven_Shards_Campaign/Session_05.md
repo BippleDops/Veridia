@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 05
 type: adventure
-status: active
 tags:
-- combat
-- session-notes
-- shadow-touched
 - adventure
+- session-notes
+- quest
+- active
+- combat
+- shadow-touched
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 05: [Title]
 
@@ -72,3 +78,10 @@ tags:
 
 ## Related
 - [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-royal-chaplain-magnus-goldcurrent-v1-royal-chaplain-magnus-goldcurrent.svg]]
+- [[Representative Coral Youngcurrent]]
+- [[04_Resources_Assets_Portraits_portrait-npc-quest-the-succession-crisis-quest-the-succession-crisis.svg]]

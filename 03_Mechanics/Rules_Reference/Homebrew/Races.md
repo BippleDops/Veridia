@@ -1,17 +1,20 @@
 ---
-type: Lore
-status: complete
-tags:
-- active
-- both
-- lore
-- note
+title: Races
 aliases: []
+type: Lore
+tags:
+- lore
+- both
+- mechanics
+- active
+- note
 created: '2025-07-23'
-modified: 2025-07-23 12:39
+modified: '2025-08-14'
+status: complete
 world: Both
 updated: '2025-08-13T01:18:37.136937+00:00'
 ---
+
 
 
 
@@ -35,3 +38,38 @@ Legends speak of races as a nexus where past and present converge. Locals descri
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Rule Summary
+
+Races provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay.
+
+
+## When to Use
+
+Apply this rule when:
+- Specific trigger conditions are met
+- Players request this type of action
+- The situation calls for additional detail
+
+
+## Examples
+
+### Example 1: Basic Application
+*Scenario*: Simple use case
+*Resolution*: How to handle it
+*Outcome*: What happens
+
+### Example 2: Complex Situation
+*Scenario*: More complicated use
+*Resolution*: Step-by-step process
+*Outcome*: Various possibilities
+
+
+## Quick Reference
+
+1. Trigger condition occurs
+2. Determine modifiers
+3. Make appropriate rolls
+4. Apply results
+5. Narrate outcome

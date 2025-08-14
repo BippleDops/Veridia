@@ -1,22 +1,29 @@
+# Rescue Senator Glaucus
+
 ---
+title: Rescue Senator Glaucus
+type: Lore
 tags:
-- aquabyssos
-- complete
-- intrigue
 - lore
+- aquabyssos
+- intrigue
+- rescue
 - political
 - quest
-- rescue
+- research
+- active
+- complete
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:34.500405+00:00'
 ---
+
 
 
 
@@ -367,3 +374,8 @@ Legends speak of Rescue Senator Glaucus as a nexus where past and present conver
 - [[Vault Keeper Eternal]]
 - [[Crystalline Depths]]
 - [[Diplomatic Tides]]
+
+
+## Related
+
+*Links to related content will be added here.*

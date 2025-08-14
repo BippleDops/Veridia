@@ -1,15 +1,22 @@
+# Crystal_Corruption_Stages
+
 ---
-created: '2025-08-13'
-status: ready
-tags:
-- status/ready
-- type/transformation-rules
-- world/both
-- threat/crystal-plague
+title: Crystal Corruption Stages
 type: Mechanics
+tags:
+- research
+- world/both
+- type/transformation-rules
+- active
+- threat/crystal-plague
+- status/ready
+created: '2025-08-13'
+modified: '2025-08-14'
+status: ready
 updated: '2025-08-13T12:45:00.000000'
 world: Both
 ---
+
 
 # Crystal Corruption Stages - Transformation Rules
 
@@ -239,3 +246,7 @@ Crystal Corruption represents one of the most widespread transformation threats 
 ---
 
 **Medical Advisory**: Crystal corruption is seductive because it provides real benefits. Patients often resist treatment voluntarily. Early intervention is critical for successful reversal.
+
+## Related
+
+*Links to related content will be added here.*

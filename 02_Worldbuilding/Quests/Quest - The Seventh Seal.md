@@ -1,41 +1,47 @@
+# Quest - The Seventh Seal
+
 ---
+title: Quest   The Seventh Seal
 type: Lore
-status: complete
 tags:
-- crystal-enhanced
-- shadow-touched
+- lore
+- both
 - aerial
 - aquatic
-- active
-- both
-- lore
-- mid-level
 - mystical
-- order-of-shattered-crown
 - personal
 - quest
+- worldbuilding
+- active
+- order-of-shattered-crown
+- mid-level
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 quest_giver: '[[12_Research/D&D_Statblocks/The Crimson Sage]]'
 level_range: 7-10
 reward_tier: Major
 locations:
-- '[[12_Research/D&D_References/The Shattered Sanctum]]'
-- '[[12_Research/D&D_References/The Shadowmere]]'
-- '[[12_Research/D&D_References/The Embassy Quarter]]'
-- '[[12_Research/D&D_References/The Verdant Reach]]'
+- '[[The Shattered Sanctum]]'
+- '[[The Shadowmere]]'
+- '[[The Embassy Quarter]]'
+- '[[The Verdant Reach]]'
 npcs_involved:
 - '[[12_Research/D&D_Statblocks/The Crimson Sage]]'
-- '[[12_Research/D&D_References/Sister Morwyn Veilkeeper]]'
+- '[[Sister Morwyn Veilkeeper]]'
 - '[[12_Research/D&D_Statblocks/Archdruid Thornweaver]]'
-- '[[12_Research/D&D_References/High Inquisitor Maltheos]]'
-- '[[12_Research/D&D_References/Queen Seraphina Lumengarde]]'
+- '[[High Inquisitor Maltheos]]'
+- '[[Queen Seraphina Lumengarde]]'
 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:34.484578+00:00'
-created: '2025-08-11'
 ---
+
 
 
 # Quest: The Seventh Seal
@@ -108,7 +114,7 @@ Each party member experiences unique symptoms based on their Seal:
 - But others know this secret now
 
 **The Order's Position:**
-- [[12_Research/D&D_References/Sister Morwyn Veilkeeper]] advocates for balance
+- [[Sister Morwyn Veilkeeper]] advocates for balance
 - Some members want to use party to gather Shards
 - Others believe Seals should be destroyed
 - Internal faction led by Brother Matthias plans betrayal
@@ -116,9 +122,9 @@ Each party member experiences unique symptoms based on their Seal:
 ### The Hunter's Mark
 
 **Multiple Factions Mobilize:**
-1. **[[12_Research/D&D_References/High Inquisitor Maltheos]]:** Wants to extract Seals for Purist Coalition
-2. **[[12_Research/D&D_References/Queen Seraphina Lumengarde]]:** Secretly orders capture of party
-3. **[[12_Research/D&D_References/Ambassador Nerida Deepcurrent]]:** Aquabyssos wants Seal bearers as weapons
+1. **[[High Inquisitor Maltheos]]:** Wants to extract Seals for Purist Coalition
+2. **[[Queen Seraphina Lumengarde]]:** Secretly orders capture of party
+3. **[[Ambassador Nerida Deepcurrent]]:** Aquabyssos wants Seal bearers as weapons
 4. **The Void Cult:** New faction seeking to corrupt Seals
 
 **First Attack:**
@@ -135,11 +141,11 @@ Each party member must undergo a trial to master their Seal:
 
 **The Trial Locations:**
 1. **Crystal Throne:** The actual throne room at midnight
-2. **Amber Shard:** [[12_Research/D&D_References/High Inquisitor Maltheos]]'s private sanctum
-3. **Crimson Shard:** Depths of [[12_Research/D&D_References/The Sunken Markets]]
-4. **Verdant Shard:** Heart of [[12_Research/D&D_References/The Verdant Reach]]
-5. **Azure Shard:** Hidden library in [[12_Research/D&D_References/The Sundered Peaks]]
-6. **Shadow Shard:** [[12_Research/D&D_References/Sister Morwyn Veilkeeper]]'s sanctum
+2. **Amber Shard:** [[High Inquisitor Maltheos]]'s private sanctum
+3. **Crimson Shard:** Depths of [[The Sunken Markets]]
+4. **Verdant Shard:** Heart of [[The Verdant Reach]]
+5. **Azure Shard:** Hidden library in [[The Sundered Peaks]]
+6. **Shadow Shard:** [[Sister Morwyn Veilkeeper]]'s sanctum
 7. **Seventh Shard:** The Crystalline Wastes
 
 ### Trial of Authority (Crystal Throne)
@@ -153,7 +159,7 @@ Each party member must undergo a trial to master their Seal:
 **The Guardian:**
 - Echo of the last true king before Shattering
 - Tests character's wisdom and justice
-- Reveals [[12_Research/D&D_References/Queen Seraphina Lumengarde]]'s corruption source
+- Reveals [[Queen Seraphina Lumengarde]]'s corruption source
 
 **Success Rewards:**
 - Can inspire loyalty in others (Advantage on persuasion)
@@ -191,16 +197,16 @@ Each party member must undergo a trial to master their Seal:
 ### The Embassy Betrayal
 
 **Political Machinations:**
-- [[12_Research/D&D_References/Queen Seraphina Lumengarde]] publicly declares party as threats
-- [[12_Research/D&D_References/Ambassador Nerida Deepcurrent]] offers sanctuary underwater
-- [[12_Research/D&D_References/High Inquisitor Maltheos]] leads public witch hunt
-- [[12_Research/D&D_References/Castellan Ironledger III]] sells party's location to highest bidder
+- [[Queen Seraphina Lumengarde]] publicly declares party as threats
+- [[Ambassador Nerida Deepcurrent]] offers sanctuary underwater
+- [[High Inquisitor Maltheos]] leads public witch hunt
+- [[Castellan Ironledger III]] sells party's location to highest bidder
 
 **Allies Emerge:**
 - [[12_Research/D&D_Statblocks/Archdruid Thornweaver]] offers natural sanctuary
-- [[12_Research/D&D_References/Sister Morwyn Veilkeeper]] provides shadow paths
-- [[12_Research/D&D_References/Marcus Shardbreaker Grimm]] joins as bodyguard
-- [[12_Research/D&D_References/Captain Lyanna Brightshield]] secretly aids escape
+- [[Sister Morwyn Veilkeeper]] provides shadow paths
+- [[Marcus Shardbreaker Grimm]] joins as bodyguard
+- [[Captain Lyanna Brightshield]] secretly aids escape
 
 ### The Final Choice
 
@@ -290,7 +296,7 @@ Location: Where the Crown originally shattered
 ### The Betrayer's Gambit
 
 - One party member secretly corrupted
-- [[12_Research/D&D_References/Vex Shadowthorn]] has contingency plan
+- [[Vex Shadowthorn]] has contingency plan
 - Order member Brother Matthias works for Void Cult
 - Time loop if wrong choice made
 

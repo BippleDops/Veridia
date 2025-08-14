@@ -1,29 +1,37 @@
 ---
+title: The Depth Wardens
+type: Npc
+tags:
+- aquabyssos
+- guardians
+- status/complete
+- military
+- content/faction
+- npc
+- character
+- content/npc
+- active
+- elite
+- complete
+- world/aquabyssos
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 MyCategory: Group
 MyContainer: None
 alignment: Lawful Neutral
 category: Military Organization
-created: '2025-08-08'
 created_by: auto-stub
 influence: High in Deep Ocean Territories
 obsidianUIMode: preview
 size: Elite Unit (50-100 members)
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/faction
-- content/npc
-- elite
-- guardians
-- military
-- npc
-- status/complete
-- world/aquabyssos
-type: Npc
 updated: '2025-08-13T12:34:17.498455+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -295,6 +303,13 @@ Deep beneath even the Depth Wardens' normal operating areas lies the **Primordia
 The Depth Wardens represent the theme that some knowledge and some duties are too dangerous for ordinary citizens, and that true guardianship sometimes requires personal sacrifice and terrible secrets. They embody the price of security and the weight of protecting others from truths they cannot handle.
 
 
+
+
+## Relationship Web
+
+- [[Coral Duchess Amphitrite]]: *business partner*
+- [[Lady Resistance Brightshield]]: *childhood friend*
+
 ## Connections
 
 - [[The Deepwatch Guard]]
@@ -317,6 +332,125 @@ The Depth Wardens is a undersea element of the setting, known for bioluminescent
 ## Lore Details
 
 Legends speak of The Depth Wardens as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Depth Wardens.
+
+
+
+## Appearance
+
+The Depth Wardens presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Background
+
+The Depth Wardens's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Achieving fame
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Formal and elaborate
+
+**Physical Habits**: Maintains intense eye contact
+
+## Current Activities
+
+The Depth Wardens is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: The Depth Wardens needs assistance with a delicate matter
+2. **The Opposition**: Someone wants The Depth Wardens stopped or removed
+3. **The Secret**: Information about The Depth Wardens's past surfaces
+4. **The Alliance**: Opportunity to work with or against The Depth Wardens
+5. **The Crisis**: The Depth Wardens is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 

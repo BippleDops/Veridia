@@ -1,9 +1,16 @@
 ---
+title: step 012
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 23
 step: 12
 total_step: 2212
 ---
+
 
 # Phase 23 - Step 12
 

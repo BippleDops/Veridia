@@ -1,27 +1,34 @@
+# sphinx-of-valor-xmm
+
 ---
+title: sphinx of valor xmm
 aliases:
 - Sphinx of Valor
+type: monster
+tags:
+- ttrpg-cli/compendium/src/5e/xmm
+- monster
+- ttrpg-cli/monster/environment/upper
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/environment/planar
+- world/both
+- ttrpg-cli/monster/type/celestial
+- ttrpg-cli/monster/cr/17
+- active
+- research
+- status/in-progress
+- ttrpg-cli/monster/environment/desert
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/17
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/upper
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/celestial
-- world/both
-type: monster
 updated: '2025-08-12T23:37:35.812652'
 world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -180,3 +187,8 @@ Legends speak of sphinx of valor xmm as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

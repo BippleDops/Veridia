@@ -1,28 +1,35 @@
+# Port Meridian - Market Square
+
 ---
+title: Port Meridian   Market Square
+type: Location
 tags:
-- aethermoor
-- bustling
-- commerce
-- complete
 - economy
-- location
-- market
-- port_meridian
-- social
 - trading
+- market
+- social
+- bustling
+- research
+- port_meridian
+- active
+- location
+- complete
+- commerce
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Location
 security_level: moderate
 access: public
 danger_level: Low
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] View

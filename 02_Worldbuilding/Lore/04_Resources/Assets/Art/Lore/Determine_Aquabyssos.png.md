@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Determine Aquabyssos.png
+aliases:
+- Determine Aquabyssospng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
+- aquabyssos
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Art/Lore/Determine_Aquabyssos.png
 
@@ -24,7 +31,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Determine Aquabyssos]]
+- [[Determine Aquabyssos]]
 - [[02_Worldbuilding/Lore/Determine Aquabyssos]]
 
 ## Notes

@@ -1,21 +1,27 @@
+# Complete Temporal Mechanics System
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/mechanics
-- mechanics
-- mechanics/combat
-- paradox
-- status/complete
-- time
-- world/both
 title: Complete Temporal Mechanics System
 type: Mechanics
+tags:
+- both
+- status/complete
+- mechanics/combat
+- mechanics
+- time
+- research
+- world/both
+- active
+- complete
+- content/mechanics
+- paradox
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.806819+00:00'
 world: Both
 ---
+
 
 
 
@@ -94,3 +100,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Campaign_Legacy_System|Campaign Legacy System]]
 - [[M-102_Time_Skip_Round|M 102 Time Skip Round]]
+
+
+## Related
+
+*Links to related content will be added here.*

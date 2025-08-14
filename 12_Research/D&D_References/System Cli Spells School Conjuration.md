@@ -1,30 +1,37 @@
+# System Cli Spells School Conjuration
+
 ---
-complexity: Fundamental to Cosmic
+title: System Cli Spells School Conjuration
+type: Lore
+tags:
+- lore
+- teleportation
+- conjuration
+- status/complete
+- mechanics/magic
+- creation
+- summoning
+- both worlds
+- content/lore
+- world/both
+- research
+- active
+- complete
+- world/aquabyssos
+- content/mechanics
+- world/aethermoor
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+complexity: Fundamental to Cosmic
 created_by: auto-stub
 focus: Summoning, Creation, and Transportation Magic
 practitioners: Summoners, portal mages, creators
 school: Conjuration
-status: complete
-tags:
-- both worlds
-- complete
-- conjuration
-- content/lore
-- content/mechanics
-- creation
-- lore
-- mechanics/magic
-- status/complete
-- summoning
-- teleportation
-- world/aethermoor
-- world/aquabyssos
-- world/both
-type: Lore
 updated: '2025-08-13T12:34:29.239393+00:00'
 world: Both Worlds
 ---
+
 
 
 
@@ -286,3 +293,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Aethermoor]]
 - [[Mourning Depths]]
+
+
+## Related
+
+*Links to related content will be added here.*

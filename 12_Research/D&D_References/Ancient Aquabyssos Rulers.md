@@ -1,21 +1,27 @@
+# Ancient Aquabyssos Rulers
+
 ---
+title: Ancient Aquabyssos Rulers
+type: Lore
 tags:
-- ancient
+- lore
 - aquabyssos
 - completed
-- historical-records
 - history
-- lore
-- monarchy
-- pre-drowning
 - royal-dynasties
+- pre-drowning
 - rulers
+- research
+- ancient
+- active
+- monarchy
+- historical-records
+created: '2025-08-09'
+modified: '2025-08-14'
 status: completed
 world: Aquabyssos
-type: Lore
 time_period: Pre-Drowning to Third Age of Aquabyssos
 historical_accuracy: Mix of verified records and recovered myths
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 related_entities:
 - '[[The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]]'
@@ -23,6 +29,7 @@ related_entities:
 - '[[Emperor Thalassius the Wise|02 Worldbuilding/People/Emperor Thalassius The Wise]]'
 - '[[The Bathyal Palace|02 Worldbuilding/Places/The Bathyal Palace]]'
 ---
+
 
 
 
@@ -276,3 +283,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

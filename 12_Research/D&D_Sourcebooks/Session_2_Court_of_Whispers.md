@@ -1,12 +1,20 @@
+# Session_2_Court_of_Whispers
+
 ---
+title: Session 2 Court of Whispers
+type: research
 tags:
-- active
 - adventure-session
-- aethermoor
-- levels-4-6
 - political-intrigue
+- levels-4-6
+- research
+- active
 - social-investigation
 - winds-of-rebellion
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 session_number: 2
 adventure: Winds of Rebellion
 level_range: 4-6
@@ -19,10 +27,9 @@ themes:
 - court-festival
 - hidden-agendas
 - social-maneuvering
-created: '2025-08-11'
 updated: '2025-08-13T01:18:37.152387+00:00'
-status: active
 ---
+
 
 
 # Session 2: Court of Whispers

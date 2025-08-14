@@ -1,25 +1,31 @@
+# The Void Tears
+
 ---
-tags:
-- aethermoor
-- catastrophic
-- complete
-- dimensional
-- dimensional-anomaly
-- location
-- mystical
-- phenomenon
-- reality-breach
-- void
-status: complete
-world: Aethermoor
+title: The Void Tears
 type: Location
-danger_level: 10
+tags:
+- phenomenon
+- mystical
+- research
+- reality-breach
+- dimensional-anomaly
+- catastrophic
+- dimensional
+- complete
+- location
+- active
+- aethermoor
+- void
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
 region: '[[The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]]'
+world: Aethermoor
+danger_level: 10
 controlled_by: Nobody (Chaotic Phenomenon)
 size: Variable (Individual tears 5-100 feet diameter)
 frequency: Unpredictable manifestation
 threat_status: Critical - Reality Destabilization
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 related_entities:
 - '[[The Crystal Hive Collective|02 Worldbuilding/Places/The Crystal Hive Collective]]'
@@ -27,6 +33,7 @@ related_entities:
 - '[[The Sundered Vaults|02 Worldbuilding/Places/The Sundered Vaults]]'
 - '[[Crystal Wardens]]'
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-void-tears-the-void-tears.png]]
@@ -483,3 +490,8 @@ Legends speak of The Void Tears as a nexus where past and present converge. Loca
 
 - [[Crystal Wardens]]
 - [[Professor Aldric Crystalweaver]]
+
+
+## Related
+
+*Links to related content will be added here.*

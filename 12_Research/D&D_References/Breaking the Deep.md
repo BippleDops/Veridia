@@ -1,14 +1,20 @@
+# Breaking the Deep
+
 ---
-updated: '2025-08-13T01:18:36.126302+00:00'
-created: '2025-08-11'
+title: Breaking the Deep
+type: location
 tags:
 - aquabyssos
 - category/place
-- complete
+- research
+- active
 - location
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
+updated: '2025-08-13T01:18:36.126302+00:00'
 world: Aquabyssos
-type: location
 obsidianUIMode: preview
 accessibility:
   screen_reader_summary: Breaking the Deep is a notable location in Aquabyssos shaped
@@ -23,6 +29,7 @@ accessibility:
   - X-Card
   - Open Door
 ---
+
 
 
 
@@ -92,3 +99,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Pressure's End]]
 - [[Secret Vault Beneath Throne]]
 - [[Vote Vaults]]
+
+
+## Related
+
+*Links to related content will be added here.*

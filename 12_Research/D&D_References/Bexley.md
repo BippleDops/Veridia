@@ -1,30 +1,37 @@
+# Bexley
+
 ---
-tags:
-- administration
-- aquabyssos
-- city-government
-- complete
-- faction
-- group
-- municipal
-- port-city
-status: complete
-world: Aquabyssos
+title: Bexley
 type: Group
+tags:
+- aquabyssos
+- municipal
+- group
+- port-city
+- administration
+- faction
+- research
+- active
+- complete
+- city-government
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[Bexley City Hall]]'
+world: Aquabyssos
 faction_type: Municipal Government
 alignment: Lawful Neutral
-headquarters: '[[Bexley City Hall]]'
 leader: '[[Mayor Cornelius Tidecrest]]'
 members: ~5,000 city employees and officials
 influence: Municipal (Bexley city limits)
 wealth: Substantial (municipal taxes and port revenues)
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.660617+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] Heraldry

@@ -1,21 +1,28 @@
+# The Siren's Rest Tavern
+
 ---
-tags:
-- aethermoor
-- complete
-- entertainment
-- gambling
-- location
-- port
-- rumors
-- sailors
-- smuggling
-- tavern
-status: complete
-world: Aethermoor
+title: The Siren's Rest Tavern
 type: Location
+tags:
+- rumors
+- tavern
+- sailors
+- research
+- gambling
+- port
+- active
+- location
+- complete
+- smuggling
+- entertainment
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Port District
+world: Aethermoor
 danger_level: Moderate
 access: public
-region: Port District
 city: Port Crystalfall
 faction_influence: Independent/Multiple
 created_by: auto-stub
@@ -23,8 +30,8 @@ updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
-created: '2025-08-11'
 ---
+
 
 
 > [!figure] View
@@ -620,3 +627,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Crystal Wardens]]
 - [[Hidden Smuggler's Cove]]
 - [[Memory Merchant Zephyr Mindweaver]]
+
+
+## Related
+
+*Links to related content will be added here.*

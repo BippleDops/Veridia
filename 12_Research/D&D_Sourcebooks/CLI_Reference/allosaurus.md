@@ -1,18 +1,26 @@
+# allosaurus
+
 ---
+title: allosaurus
+aliases:
+- Allosaurus
+type: note
+tags:
+- both
+- ttrpg-cli/monster/type/beast
+- compendium/src/5e/mm
+- ttrpg-cli/monster/environment/grassland
+- research
+- ttrpg-cli/monster/size/large
+- active
+- ttrpg-cli/monster/cr/2
+- note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
 obsidianUIMode: preview
 cssclass: json5e-monster
 statblock: inline
-tags:
-- active
-- both
-- compendium/src/5e/mm
-- note
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
-aliases:
-- Allosaurus
 NoteIcon: monster
 BestiaryType:
 - beast
@@ -23,13 +31,10 @@ BookSource:
 statAC: 13
 statHP: 51
 statEnv: grassland
-type: note
-created: 2025-07-23
 updated: '2025-08-13T01:18:31.226914+00:00'
-modified: 2025-07-23 12:39
 world: Both
-status: active
 ---
+
 
 
 > [!figure] Creature
@@ -118,3 +123,8 @@ Legends speak of allosaurus as a nexus where past and present converge. Locals d
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

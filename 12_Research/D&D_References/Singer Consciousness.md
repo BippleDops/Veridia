@@ -1,19 +1,26 @@
+# Singer Consciousness
+
 ---
+title: Singer Consciousness
+type: Lore
 tags:
-- aquabyssos
-- collective-mind
-- complete
-- consciousness
 - lore
+- aquabyssos
+- consciousness
 - phenomenon
+- collective-mind
+- research
 - singers
+- active
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 # Singer Consciousness
@@ -60,3 +67,8 @@ Legends speak of Singer Consciousness as a nexus where past and present converge
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

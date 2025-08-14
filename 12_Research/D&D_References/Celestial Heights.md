@@ -1,14 +1,20 @@
+# Celestial Heights
+
 ---
-tags:
-- active
-- aethermoor
-- lore
+title: Celestial Heights
 type: Lore
-world: Aethermoor
-status: active
+tags:
+- lore
+- aethermoor
+- active
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:34.855179+00:00'
 ---
+
 
 
 
@@ -46,3 +52,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Royal Embassy]]
+
+
+## Related
+
+*Links to related content will be added here.*

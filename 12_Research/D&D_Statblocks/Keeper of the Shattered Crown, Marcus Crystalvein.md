@@ -1,24 +1,31 @@
+# Keeper of the Shattered Crown, Marcus Crystalvein
+
 ---
+title: Keeper of the Shattered Crown, Marcus Crystalvein
+type: NPC
 tags:
-- aethermoor
+- seeker
+- person
+- seven-shards
+- npc
+- research
+- active
 - complete
 - corrupted
-- npc
-- person
-- seeker
-- seven-shards
+- aethermoor
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
+race: Human (Crystal-touched)
+location: '[[The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]]'
 world: Aethermoor
-type: NPC
 role: Shard Seeker
 affiliation: Order of the Shattered Crown
 age: '47'
-race: Human (Crystal-touched)
-location: '[[The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]]'
 created_by: auto-stub
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -343,3 +350,8 @@ Legends speak of Keeper of the Shattered Crown, Marcus Crystalvein as a nexus wh
 
 <!-- enriched: true -->
 - [[The Crown of Stars]]
+
+
+## Related
+
+*Links to related content will be added here.*

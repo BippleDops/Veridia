@@ -1,9 +1,16 @@
 ---
+title: step 017
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 48
 step: 17
 total_step: 4717
 ---
+
 
 # Phase 48 - Step 17
 

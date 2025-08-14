@@ -1,23 +1,30 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
-danger_level: Moderate
-status: complete
+title: Political Intrigue of Meridian
+type: Location
 tags:
 - aquabyssos
+- status/complete
+- power-struggle
+- event
+- content/location
+- place
+- active
+- location
 - complete
 - conspiracy
-- content/location
-- event
-- location
-- politics
-- power-struggle
-- status/complete
 - world/aquabyssos
-type: Location
+- politics
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+created_by: auto-stub
+danger_level: Moderate
 updated: '2025-08-13T12:34:17.033500+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -157,6 +164,27 @@ A complex web of political maneuvering, secret alliances, and power struggles cu
  - Protection against retaliation from exposed conspirators
 - Legal or diplomatic immunity for investigation activities
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 Political intrigue emphasizes roleplay, investigation, and moral choices over combat. Provide multiple layers of conspiracy with some red herrings. Allow player choices to significantly affect outcomes and future campaign politics.
 
@@ -178,3 +206,97 @@ Legends speak of Political Intrigue of Meridian as a nexus where past and presen
 - [[Political Intrigue of Meridian]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Portraits_portrait-npc-quest-the-healer-s-burden-quest-the-healer-s-burden.svg]]
+- [[Council of Currents]]
+- [[04_Resources_Assets_Locations_location-city-aquabyssos-government-v1-aquabyssos-government.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+Political Intrigue of Meridian is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Political Intrigue of Meridian
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Political Intrigue of Meridian was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Political Intrigue of Meridian:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Political Intrigue of Meridian
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

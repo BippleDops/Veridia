@@ -1,13 +1,22 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Guildmaster Victoria Silvertongue
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- npc
+- character
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+race: Unknown
+class: Unknown
+location: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/People/Guildmaster Victoria Silvertongue
 
@@ -24,8 +33,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Merchant NPC Generator]]
-- [[12_Research/D&D_References/Major Trading Companies]]
+- [[Merchant NPC Generator]]
+- [[Major Trading Companies]]
 - [[02_Worldbuilding/Groups/Major Trading Companies]]
 
 ## Notes
@@ -37,3 +46,9 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-deepwatch-guard-the-deepwatch-guard.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-crystal-pirate-crew-crystal-pirate-crew.svg]]
+- [[04_Resources_Assets_Locations_location-city-merchant-lord-silas-copperfield-v1-merchant-lord-silas-copperfield.svg]]

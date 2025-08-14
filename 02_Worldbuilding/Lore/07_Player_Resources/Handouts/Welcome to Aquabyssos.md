@@ -1,13 +1,18 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Welcome to Aquabyssos
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
+- aquabyssos
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 07_Player_Resources/Handouts/Welcome to Aquabyssos
 
@@ -24,7 +29,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Player Portal]]
+- [[Player Portal]]
 
 ## Notes
 

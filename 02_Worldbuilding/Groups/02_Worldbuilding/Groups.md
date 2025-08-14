@@ -1,13 +1,24 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Groups
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-military-families-support-groups-military-families-support-groups.png)
+
+
 
 # 02_Worldbuilding/Groups
 

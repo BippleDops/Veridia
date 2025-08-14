@@ -1,31 +1,40 @@
+# Dr. Siphon Gillwater
+
 ---
-tags:
-- aquabyssos
-- complete
-- corruption
-- disease
-- investigation
-- lore
-- medical
-- pressure-adaptation
-- quest
-- science
-- underwater-medicine
-status: complete
-world: Aquabyssos
+title: Dr. Siphon Gillwater
+aliases:
+- Dr Siphon Gillwater
 type: Lore
+tags:
+- disease
+- aquabyssos
+- lore
+- underwater-medicine
+- medical
+- investigation
+- quest
+- research
+- science
+- active
+- complete
+- pressure-adaptation
+- corruption
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 level: 4-8
+world: Aquabyssos
 duration: 3-5 sessions
 threat_level: medium
 quest_giver: Harbor Master Luna Freedrift
 created_by: auto-stub
-created: '2025-08-08'
 last_modified: 2025-08-10 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:34.477448+00:00'
 ---
+
 
 
 > [!figure] View
@@ -320,3 +329,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Dr. Siphon Gillwater|02 Worldbuilding/Places/Dr. Siphon Gillwater]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

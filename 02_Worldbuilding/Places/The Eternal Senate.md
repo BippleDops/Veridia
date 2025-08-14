@@ -1,7 +1,30 @@
 ---
+title: The Eternal Senate
+type: Location
+tags:
+- both
+- status/complete
+- content/faction
+- political
+- quest
+- world/both
+- content/location
+- place
+- active
+- parliament
+- combat
+- complete
+- location
+- world/aquabyssos
+- undead
+- shadow-touched
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: 144
 MyCategory: Unknown
 MyContainer: None
-created: '2025-08-11'
 current_state: Active undead parliament
 danger_level: 7
 depth: 2200-2400 feet
@@ -17,12 +40,11 @@ location_type: Undead Parliamentary Complex
 notable_npcs:
 - '[[02_Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The Eternal
   Speaker]]'
-- '[[12_Research/D&D_References/Senator Glaucus]]'
-- '[[12_Research/D&D_References/Senator Morticia Graveheart]]'
-- '[[12_Research/D&D_References/The Clerk of Souls]]'
+- '[[Senator Glaucus]]'
+- '[[Senator Morticia Graveheart]]'
+- '[[The Clerk of Souls]]'
 obsidianUIMode: preview
-parent_location: '[[12_Research/D&D_References/Parliament of Echoes]]'
-population: 144
+parent_location: '[[Parliament of Echoes]]'
 pressure_effects: Moderate
 ruler: '[[02_Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The
   Eternal Speaker]]'
@@ -33,34 +55,18 @@ services:
 - Spectral Legal Consultation
 - Death Transition Counseling
 shadow_density: High
-status: complete
 sub_locations:
-- '[[12_Research/D&D_References/The Spectral Gallery]]'
+- '[[The Spectral Gallery]]'
 - '[[Chamber of Eternal Debate]]'
 - '[[The Voting Crypts]]'
 - '[[Memory Archive Vaults]]'
 - '[[The Speaker''s Throne]]'
-tags:
-- combat
-- quest
-- shadow-touched
-- both
-- complete
-- content/faction
-- content/location
-- location
-- parliament
-- political
-- status/complete
-- undead
-- world/aquabyssos
-- world/both
 temporal_stability: 60
-type: Location
 updated: '2025-08-13T12:34:16.611065+00:00'
 visited: false
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -75,7 +81,7 @@ world: Both
 
 ## Overview
 
-The Eternal Senate Chamber represents the paradoxical heart of [[12_Research/D&D_References/Abyssos Prime]]'s government—a fully functioning parliamentary democracy where the majority of representatives have been dead for decades. This magnificent necropolis-parliament serves as both the seat of [[12_Research/D&D_References/Parliament of Echoes]] and a testament to the idea that death should not disqualify one from civic participation in an undead society.
+The Eternal Senate Chamber represents the paradoxical heart of [[Abyssos Prime]]'s government—a fully functioning parliamentary democracy where the majority of representatives have been dead for decades. This magnificent necropolis-parliament serves as both the seat of [[Parliament of Echoes]] and a testament to the idea that death should not disqualify one from civic participation in an undead society.
 
 The chamber itself is a marvel of necromantic architecture, built within what was once the grand cathedral of the surface capital. Massive bone buttresses support a vaulted ceiling decorated with the preserved remains of pre-drowning stained glass, now telling stories of transformation and undeath rather than divine salvation. The entire complex operates on the principle that consciousness, not biology, determines citizenship rights.
 
@@ -99,7 +105,7 @@ The initial post-drowning parliamentary session was chaotic, with undead senator
 
 ### Evolution of Undead Rights
 
-The Eternal Senate has become the primary advocate for undead rights throughout [[12_Research/D&D_References/Aquabyssos]], establishing legal frameworks for:
+The Eternal Senate has become the primary advocate for undead rights throughout [[Aquabyssos]], establishing legal frameworks for:
 - Spectral property ownership
 - Undead marriage and civil unions
 - Rights of the recently deceased
@@ -121,7 +127,7 @@ The main parliamentary floor where legislative sessions take place. The chamber 
 
 ### The Spectral Gallery
 
-**[[12_Research/D&D_References/The Spectral Gallery]]**
+**[[The Spectral Gallery]]**
 Public viewing area where citizens (both living and undead) can observe parliamentary proceedings. The gallery includes special seating arrangements for different types of undead and living visitors, with privacy screens for those whose undead forms might be disturbing to others.
 
 ### The Voting Crypts
@@ -241,19 +247,19 @@ Debate over whether to continue the ban on contact with surface world survivors,
 
 ### The Undead Leadership
 
-**[[12_Research/D&D_References/Senator Glaucus]]** - Veteran politician (Shadow replacement)
+**[[Senator Glaucus]]** - Veteran politician (Shadow replacement)
 - Former living senator now operated by shadow entity
 - Chairs the Foreign Relations Committee
 - Suspected of having secret agenda beyond official duties
 - Increasing influence over other shadow senators
 
-**[[12_Research/D&D_References/Senator Morticia Graveheart]]** - Powerful lich (Original)
+**[[Senator Morticia Graveheart]]** - Powerful lich (Original)
 - Former High Priestess turned undead politician
 - Specializes in undead rights and religious freedom
 - Leads the Transcended faction
 - Can cast powerful necromantic magic during debates
 
-**[[12_Research/D&D_References/Senator Bartholomew Bonewright]]** - Skeleton aristocrat (Original)
+**[[Senator Bartholomew Bonewright]]** - Skeleton aristocrat (Original)
 - Pre-drowning noble who maintained political influence after death
 - Conservative voice advocating for traditional values
 - Excellent memory despite skeletal nature
@@ -261,13 +267,13 @@ Debate over whether to continue the ban on contact with surface world survivors,
 
 ### Living Representatives
 
-**[[12_Research/D&D_References/Senator Marina Tidecaller]]** - Living human (New Death)
+**[[Senator Marina Tidecaller]]** - Living human (New Death)
 - Youngest senator, elected to represent transition interests
 - Often serves as interpreter between living and undead factions
 - Advocates for death preparation and transition services
 - Rumored romantic involvement with undead colleague
 
-**[[12_Research/D&D_References/Senator Cornelius Depthwalker]]** - Living adapted human (Original)
+**[[Senator Cornelius Depthwalker]]** - Living adapted human (Original)
 - Surface world survivor who adapted to deep conditions
 - Bridges pre and post-drowning political perspectives
 - Advocates for surface world reconnection
@@ -275,7 +281,7 @@ Debate over whether to continue the ban on contact with surface world survivors,
 
 ### The Mysterious
 
-**[[12_Research/D&D_References/The Clerk of Souls]]** - Unknown entity
+**[[The Clerk of Souls]]** - Unknown entity
 - Records all parliamentary proceedings in mystical ledgers
 - Appears as different forms to different observers
 - Never speaks except to clarify procedural points
@@ -354,22 +360,22 @@ The Eternal Speaker may not be a lich but rather a collective consciousness form
 
 ### Government Complex
 
-- **[[12_Research/D&D_References/Parliament of Echoes]]:** Broader parliamentary complex
-- **[[12_Research/D&D_References/The Inverse Palace]]:** Executive branch seat
-- **[[12_Research/D&D_References/Parliamentary Archives]]:** Historical government records
-- **[[12_Research/D&D_References/Undead Services Bureau]]:** Citizen services for the deceased
+- **[[Parliament of Echoes]]:** Broader parliamentary complex
+- **[[The Inverse Palace]]:** Executive branch seat
+- **[[Parliamentary Archives]]:** Historical government records
+- **[[Undead Services Bureau]]:** Citizen services for the deceased
 
 ### Allied Institutions
 
 - **[[02_Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary|02 Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary]]:** Undead spiritual support
-- **[[12_Research/D&D_References/Undead Rights Organization HQ]]:** Advocacy and legal support
-- **[[12_Research/D&D_References/The Transition Centers]]:** Death preparation and adaptation services
+- **[[Undead Rights Organization HQ]]:** Advocacy and legal support
+- **[[The Transition Centers]]:** Death preparation and adaptation services
 
 ### Opposition Sites
 
-- **[[12_Research/D&D_References/Living Supremacist Enclaves]]:** Anti-undead political movements
+- **[[Living Supremacist Enclaves]]:** Anti-undead political movements
 - **[[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]:** Religious opposition to undead governance
-- **[[12_Research/D&D_References/Surface Loyalist Safe Houses]]:** Pro-surface political resistance
+- **[[Surface Loyalist Safe Houses]]:** Pro-surface political resistance
 
 ## Adventure Hooks
 
@@ -475,22 +481,125 @@ The Eternal Senate is a undersea element of the setting, known for bioluminescen
 
 Legends speak of The Eternal Senate as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Eternal Senate.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Eternal Senate]]
+- [[The Eternal Senate]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Abyssos Prime]]
+- [[Abyssos Prime]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-senior-nurse-polyp-tendercurrent-senior-nurse-polyp-tendercurrent.svg]]
+- [[Fire Crystal]]
+- [[04_Resources_Assets_Locations_location-city-international-relations-international-relations.svg]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+The Eternal Senate is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Eternal Senate
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting The Eternal Senate:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Eternal Senate
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

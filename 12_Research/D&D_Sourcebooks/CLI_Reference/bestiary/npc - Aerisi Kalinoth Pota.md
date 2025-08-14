@@ -1,26 +1,33 @@
+# npc - Aerisi Kalinoth Pota
+
 ---
+title: npc   Aerisi Kalinoth Pota
 aliases:
 - Aerisi Kalinoth
+type: npc
+tags:
+- ttrpg-cli/monster/size/medium
+- both
+- ttrpg-cli/monster/cr/7
+- ttrpg-cli/monster/type/humanoid/elf
+- alive
+- npc
+- research
+- world/both
+- content/npc
+- active
+- ttrpg-cli/compendium/src/5e/pota
 created: 2025-08-11
+modified: '2025-08-14'
+status: alive
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: alive
-tags:
-- alive
-- both
-- content/npc
-- npc
-- ttrpg-cli/compendium/src/5e/pota
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/elf
-- world/both
-type: npc
 updated: '2025-08-13T12:34:05.279644+00:00'
 world: Both
 ---
+
 
 
 
@@ -144,3 +151,8 @@ Legends speak of aerisi kalinoth pota as a nexus where past and present converge
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

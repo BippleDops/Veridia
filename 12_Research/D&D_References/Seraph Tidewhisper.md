@@ -1,15 +1,21 @@
+# Seraph Tidewhisper
+
 ---
-tags:
-- active
-- both
-- location
+title: Seraph Tidewhisper
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.601583+00:00'
 danger_level: Moderate
 ---
+
 
 
 
@@ -62,3 +68,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Memoriam]]
+
+
+## Related
+
+*Links to related content will be added here.*

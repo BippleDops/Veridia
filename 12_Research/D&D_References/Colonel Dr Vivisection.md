@@ -1,18 +1,25 @@
+# Colonel Dr Vivisection
+
 ---
-created: '2025-08-11'
-status: complete
+title: Colonel Dr Vivisection
+type: Lore
 tags:
+- lore
 - aquabyssos
-- complete
+- world/aquabyssos
 - content/faction
 - content/lore
-- lore
+- research
+- active
+- complete
 - status/in-progress
-- world/aquabyssos
-type: Lore
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:28.781537+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -51,3 +58,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Shadow Surgeon Strike Team]]
+
+
+## Related
+
+*Links to related content will be added here.*

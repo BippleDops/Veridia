@@ -1,17 +1,24 @@
+# Session_1_Shadows_in_the_Senate
+
 ---
-created: '2025-08-13'
-status: active
+title: Session 1 Shadows in the Senate
+type: Session
 tags:
 - session/shadow-conspiracy
-- session-1
 - investigation
+- session-1
 - political-intrigue
-- world/aquabyssos
+- research
 - status/active
-type: Session
+- active
+- world/aquabyssos
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T17:15:00.000000'
 world: Aquabyssos
 ---
+
 
 # Session 1: Shadows in the Senate
 *The Shadow Conspiracy Investigation Begins*
@@ -383,3 +390,7 @@ actions:
 ---
 
 *"In democracy's hall where voices should ring, / Now only shadows dance and shadows sing."* - Marina's journal
+
+## Related
+
+*Links to related content will be added here.*

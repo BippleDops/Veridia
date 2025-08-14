@@ -1,17 +1,24 @@
+# Government_Officials_Guide
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- gm-resources
-- npc-guides
-- government
-- politics
-- aquabyssos
-- aethermoor
+title: Government Officials Guide
 type: Guide
+tags:
+- aquabyssos
+- npc-guides
+- research
+- government
+- gm-resources
+- active
+- politics
+- aethermoor
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
+
 
 # Government Officials Guide
 
@@ -321,3 +328,7 @@ world: Both
 - [[Faction_Quick_Reference]]
 - [[Social_Encounter_Reference]]
 - [[Aquabyssos_Government]]
+
+## Related
+
+*Links to related content will be added here.*

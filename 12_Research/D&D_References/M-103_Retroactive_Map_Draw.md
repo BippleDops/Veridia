@@ -1,19 +1,25 @@
+# M-103_Retroactive_Map_Draw
+
 ---
 title: "Encounter Sheet \u2014 M-103 Retroactive Map Draw"
 type: gm_resource
-status: complete
 tags:
+- navigation
 - both
-- complete
+- merger
 - encounter
 - gm
+- research
+- active
 - gm_resource
-- merger
-- navigation
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.132678+00:00'
 world: Both
 ---
+
 
 
 # M-103 Retroactive Map Draw
@@ -58,3 +64,8 @@ Legends speak of M 103 Retroactive Map Draw as a nexus where past and present co
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,14 +1,21 @@
+# Quest - The Drowned Prophecy
+
 ---
+title: Quest   The Drowned Prophecy
+type: Lore
 tags:
-- active
+- lore
 - both
 - investigation
-- lore
-- mid-level
 - political
 - quest
+- research
 - shadowmere
-type: Lore
+- active
+- mid-level
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 quest_giver: '[[Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister Morwyn Veilkeeper]]'
 level_range: 5-8
 reward_tier: Significant
@@ -27,9 +34,8 @@ MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:34.479424+00:00'
-created: '2025-08-11'
-status: active
 ---
+
 
 
 
@@ -217,3 +223,8 @@ Legends speak of Quest   The Drowned Prophecy as a nexus where past and present 
 - A map overlay reveals a hidden approach to Quest   The Drowned Prophecy active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

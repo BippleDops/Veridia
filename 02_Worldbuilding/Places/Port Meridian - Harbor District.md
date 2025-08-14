@@ -1,4 +1,21 @@
 ---
+title: Port Meridian   Harbor District
+type: Location
+tags:
+- status/complete
+- quest
+- content/location
+- place
+- world/aethermoor
+- active
+- location
+- complete
+- aethermoor
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 accessibility:
   content_warnings:
   - political coercion
@@ -11,21 +28,11 @@ accessibility:
   screen_reader_summary: Port Meridian - Harbor District is a notable location in
     Aethermoor shaped by tidal politics and Convergence anomalies. This entry is structured
     for fast table use.
-created: '2025-08-12'
 obsidianUIMode: preview
-status: complete
-tags:
-- quest
-- aethermoor
-- complete
-- content/location
-- location
-- status/complete
-- world/aethermoor
-type: Location
 updated: '2025-08-13T12:34:16.819201+00:00'
 world: Aethermoor
 ---
+
 
 
 # Port Meridian - Harbor District
@@ -149,7 +156,7 @@ Port Meridian - Harbor District is a living crossroads where memory-currents and
 
 ## Threads to the Main Campaign
 
-- Archivists claim a ledger fragment pointing toward [[12_Research/D&D_References/The Lighthouse of Storms]].
+- Archivists claim a ledger fragment pointing toward [[The Lighthouse of Storms]].
 - A clandestine auction circles artifacts tied to [[12_Research/D&D_Statblocks/The Whispering Expanse]].
 - An information broker with ties to [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]] trades memories for favors.
 
@@ -161,7 +168,7 @@ Port Meridian - Harbor District is a living crossroads where memory-currents and
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Lighthouse of Storms]]
+- [[The Lighthouse of Storms]]
 - [[12_Research/D&D_Statblocks/The Whispering Expanse]]
 - [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]]
 
@@ -179,6 +186,27 @@ Legends speak of Port Meridian   Harbor District as a nexus where past and prese
 - An NPC seeks discreet help at Port Meridian   Harbor District to avert a public scandal.
 - A map overlay reveals a hidden approach to Port Meridian   Harbor District active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -194,3 +222,97 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Notable Residents
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-stellar-commander-nereus-voidcaller-stellar-commander-nereus-voidcaller.svg]]
+
+## Trade Routes
+
+- [[The Gilded Shard]]
+- [[Patrol Boundaryrider]]
+- [[Forge Master Korax Hammerdeep]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+Port Meridian - Harbor District is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Port Meridian - Harbor District
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Port Meridian - Harbor District was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Port Meridian - Harbor District:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Port Meridian - Harbor District
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

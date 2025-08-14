@@ -1,15 +1,21 @@
+# Acolyte Sister Tidal Deepfaith
+
 ---
-tags:
-- active
-- both
-- location
+title: Acolyte Sister Tidal Deepfaith
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.393268+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-acolyte-sister-tidal-deepfaith-acolyte-sister-tidal-deepfaith.svg]]
@@ -66,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Temple Guardian Marcus the Drowned]]
+
+
+## Related
+
+*Links to related content will be added here.*

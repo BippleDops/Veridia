@@ -1,25 +1,33 @@
 ---
+title: Investigate the Crystal Plague
+type: Npc
+tags:
+- content/adventure
+- mechanics/exploration
+- plague
+- status/complete
+- npc
+- character
+- content/npc
+- world/aethermoor
+- active
+- complete
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 MyCategory: Investigation
 MyContainer: None
 cr: '8'
-created: '2025-08-11'
 created_by: auto-stub
 obsidianUIMode: preview
-status: complete
-tags:
-- aethermoor
-- complete
-- content/adventure
-- content/npc
-- mechanics/exploration
-- npc
-- plague
-- status/complete
-- world/aethermoor
-type: Npc
 updated: '2025-08-13T12:34:17.484464+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait
@@ -77,9 +85,135 @@ The plague originates from experiments with Far Realm crystals that escaped cont
 - Religious orders declare plague divine punishment
 - Crystal creatures develop intelligence and agenda
 
+
+
+## Background
+
+Investigate the Crystal Plague's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Serving justice
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Investigate the Crystal Plague harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Prophetic visions
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Formal and elaborate
+
+**Physical Habits**: Paces while speaking
+
+## Current Activities
+
+Investigate the Crystal Plague is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Investigate the Crystal Plague needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Investigate the Crystal Plague stopped or removed
+3. **The Secret**: Information about Investigate the Crystal Plague's past surfaces
+4. **The Alliance**: Opportunity to work with or against Investigate the Crystal Plague
+5. **The Crisis**: Investigate the Crystal Plague is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 Balance body horror with investigative mystery. The conscious crystal victims create moral dilemmas about cure vs. acceptance. Use quarantine zones for tense infiltration scenes.
 
+
+
+
+## Relationship Web
+
+- [[The_Crimson_Pearl]]: *family member*
+- [[04_Resources_Assets_Symbols_symbol-heraldry-information-broker-whisper-goldtongu-information-broker-whisper-goldtongu.svg]]: *bitter rival*
+- [[Lady Crystal-Heart Miraleth]]: *business partner*
 
 ## Connections
 
@@ -94,6 +228,12 @@ TODO
 
 
 ## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more focused
+- **When Pleased**: Shows open joy
+- **In Conflict**: Tends toward avoidance
+
 
 
 TODO

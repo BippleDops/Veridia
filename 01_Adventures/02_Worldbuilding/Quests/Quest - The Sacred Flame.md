@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Quest   The Sacred Flame
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Quests/Quest - The Sacred Flame
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Brother Marcus Steelbane]]
+- [[Brother Marcus Steelbane]]
 - [[02_Worldbuilding/People/Brother Marcus Steelbane]]
 
 ## Notes
@@ -36,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-ancient-mer-folk-empire-ancient-mer-folk-empire.svg]]
+- [[Lord Blackwater]]
+- [[04_Resources_Assets_Art_Places_Palace_Guard_Captain_Neutralis.png]]
+- [[04_Resources_Assets_Locations_location-city-grief-overwhelming-syndrome-v1-grief-overwhelming-syndrome.svg]]
+- [[04_Resources_Assets_Locations_location-city-temple-of-sacred-dreams-temple-of-sacred-dreams.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-breaking-the-deep-v1-breaking-the-deep.svg]]
+- [[The Temple of Eternal Tides]]
+- [[Legal Counsel Derek Lawkeeper]]

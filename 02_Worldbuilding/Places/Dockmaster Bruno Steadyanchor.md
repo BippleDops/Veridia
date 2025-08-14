@@ -1,27 +1,34 @@
 ---
+title: Dockmaster Bruno Steadyanchor
+type: Location
+tags:
+- aquabyssos
+- status/complete
+- world/aquabyssos
+- harbor
+- commercial-shipping
+- cargo-handling
+- content/location
+- place
+- maritime-commerce
+- active
+- location
+- complete
+- docks
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Commercial Harbor
 MyContainer: None
-created: '2025-08-11'
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
-status: complete
-tags:
-- aquabyssos
-- cargo-handling
-- commercial-shipping
-- complete
-- content/location
-- docks
-- harbor
-- location
-- maritime-commerce
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:17.160685+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -365,6 +372,27 @@ Legends speak of Dockmaster Bruno Steadyanchor as a nexus where past and present
 - An NPC seeks discreet help at Dockmaster Bruno Steadyanchor to avert a public scandal.
 - A map overlay reveals a hidden approach to Dockmaster Bruno Steadyanchor active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -374,3 +402,70 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Dockmaster Bruno Steadyanchor]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- [[04_Resources_Assets_Locations_location-city-master-archivist-valdric-stonewhisper-v1-master-archivist-valdric-stonewhisper.svg]]
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-black-market-deal-black-market-deal.svg]]
+- [[04_Resources_Assets_Locations_location-city-portal-network-portal-network.svg]]
+- [[04_Resources_Assets_Locations_location-city-current-innovator-v1-current-innovator.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+Dockmaster Bruno Steadyanchor is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## History
+
+### Founding
+Dockmaster Bruno Steadyanchor was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Dockmaster Bruno Steadyanchor:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Dockmaster Bruno Steadyanchor
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

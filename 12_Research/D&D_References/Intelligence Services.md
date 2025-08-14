@@ -1,15 +1,21 @@
+# Intelligence Services
+
 ---
+title: Intelligence Services
+type: Lore
 tags:
-- active
+- lore
 - aquabyssos
 - faction
-- lore
-type: Lore
-world: Aquabyssos
-status: active
+- research
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.627085+00:00'
 ---
+
 
 > [!figure] Asset
 ![[04_Resources/Assets/Portraits/portrait-npc-intelligence-services-intelligence-services.svg]]
@@ -45,3 +51,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Intelligence Services|02 Worldbuilding/People/Intelligence Services]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

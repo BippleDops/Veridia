@@ -1,21 +1,27 @@
 ---
-created: '2025-08-12'
-status: complete
+title: Trade Goods Catalog
+type: Item
 tags:
-- both
-- complete
-- content/item
-- content/mechanics
 - economy
-- item
 - prices
+- both
 - status/complete
 - trade-goods
 - world/both
-type: Item
+- active
+- complete
+- content/item
+- content/mechanics
+- item
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+rarity: Unknown
+value: Unknown
 updated: '2025-08-13T12:34:17.758156+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Trade Goods

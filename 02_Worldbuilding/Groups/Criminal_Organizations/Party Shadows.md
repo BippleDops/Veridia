@@ -1,4 +1,20 @@
 ---
+title: Party Shadows
+type: Faction
+tags:
+- aquabyssos
+- status/complete
+- content/faction
+- faction
+- organization
+- active
+- complete
+- world/aquabyssos
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 MyCategory: Shadow Influence Network
 MyContainer: '[[Parliament of Echoes]]'
 benefits:
@@ -8,7 +24,6 @@ benefits:
   standing: 2
 - reward: Direct audience with Shadow Broker Mist and parliamentary influence
   standing: 3
-created: '2025-08-11'
 created_by: expansion
 faction: Parliament of Echoes - Shadow Chamber
 initiates:
@@ -26,18 +41,10 @@ officers:
 - Senator Glaucus Brain
 - Tribune Cassia Deepcurrent
 primary_contact: Shadow Broker Mist
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/faction
-- faction
-- status/complete
-- world/aquabyssos
-type: Faction
 updated: '2025-08-13T12:34:17.385866+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry

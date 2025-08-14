@@ -1,28 +1,35 @@
+# Biomancer Corvus Intestinal
+
 ---
-tags:
-- aquabyssos
-- biological-manipulation
-- biomancer
-- complete
-- dangerous-individual
-- flesh-magic
-- lore
-- master-practitioner
-- npc
-- research-specialist
-status: complete
-world: Aquabyssos
+title: Biomancer Corvus Intestinal
 type: Lore
-created_by: auto-stub
+tags:
+- lore
+- aquabyssos
+- research-specialist
+- biomancer
+- master-practitioner
+- dangerous-individual
+- biological-manipulation
+- npc
+- research
+- active
+- complete
+- flesh-magic
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+location: Mobile - Various Deep Research Sites
+world: Aquabyssos
+created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 npc_type: Master Biomancer
 organization: Independent Research Specialist
 danger_level: Extreme
 specialization: Biological Manipulation and Flesh Magic
-location: Mobile - Various Deep Research Sites
 reputation: Feared and Respected
 ---
+
 
 
 
@@ -509,3 +516,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Lore/Enhancement Ethics Advisor|02 Worldbuilding/Lore/Enhancement Ethics Advisor]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,26 +1,32 @@
+# Session 4 Smuggler Base
+
 ---
-adventure: The Sunken Conspiracy
-created: '2025-08-11'
-duration: 4-5 hours
-level_range: 2-3
-session_number: 4
-status: complete
-tags:
-- adventure
-- ancient-facility
-- aquabyssos
-- campaign/session
-- complete
-- conspiracy
-- infiltration
-- mechanics/exploration
-- status/complete
-- world/aquabyssos
 title: 'The Sunken Conspiracy - Session 4: Smuggler Base'
 type: Adventure
+tags:
+- aquabyssos
+- adventure
+- status/complete
+- campaign/session
+- ancient-facility
+- mechanics/exploration
+- research
+- active
+- complete
+- infiltration
+- conspiracy
+- world/aquabyssos
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+session_number: 4
+adventure: The Sunken Conspiracy
+duration: 4-5 hours
+level_range: 2-3
 updated: '2025-08-13T12:34:17.825305+00:00'
 world: Aquabyssos
 ---
+
 
 
 

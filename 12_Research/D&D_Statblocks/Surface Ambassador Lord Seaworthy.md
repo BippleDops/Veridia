@@ -1,25 +1,33 @@
+# Surface Ambassador Lord Seaworthy
+
 ---
-tags:
-- ambassador
-- aquabyssos
-- aristocrat
-- complete
-- diplomat
-- npc
-- person
-- surface-dweller
-status: complete
-world: Aquabyssos
+title: Surface Ambassador Lord Seaworthy
 type: NPC
+tags:
+- surface-dweller
+- aquabyssos
+- ambassador
+- diplomat
+- person
+- npc
+- research
+- active
+- complete
+- aristocrat
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+race: Human (Air-breathing)
+location: '[[The Diplomatic Quarter|02 Worldbuilding/Places/The Diplomatic Quarter]]
+  - Surface Embassy'
+world: Aquabyssos
 role: Surface Ambassador
 affiliation: '[[Surface Kingdoms]] - Diplomatic Corps'
 age: '52'
-race: Human (Air-breathing)
-location: '[[The Diplomatic Quarter|02 Worldbuilding/Places/The Diplomatic Quarter]] - Surface Embassy'
 created_by: auto-stub
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -566,3 +574,8 @@ Legends speak of Surface Ambassador Lord Seaworthy as a nexus where past and pre
 - [[The Depth Wardens]]
 - [[Tribune Cassia Deepcurrent]]
 - [[Harbor Master Luna Freedrift]]
+
+
+## Related
+
+*Links to related content will be added here.*

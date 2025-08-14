@@ -1,27 +1,34 @@
+# The Floating Market
+
 ---
-tags:
-- complete
-- cross-realm
-- dimensional nexus (both realms)
-- dimensional-nexus
-- dimensional-nexus-(both-realms)
-- location
-- neutral-ground
-- place
-- trading-post
-status: complete
-world: Dimensional Nexus (Both Realms)
+title: The Floating Market
 type: Location
+tags:
+- dimensional nexus (both realms)
+- dimensional-nexus-(both-realms)
+- research
+- place
+- active
+- location
+- complete
+- trading-post
+- cross-realm
+- neutral-ground
+- dimensional-nexus
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+population: ~2,000 (rotating)
+world: Dimensional Nexus (Both Realms)
 location_type: Interdimensional Trading Hub
 affiliation: '[[The Liminal Trading Company]]'
 significance: Major
 size: Large Complex
-population: ~2,000 (rotating)
 created_by: auto-stub
-created: '2025-08-09'
 updated: '2025-08-13T01:18:36.574674+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -842,3 +849,8 @@ Legends speak of The Floating Market as a nexus where past and present converge.
 - [[The Floating Market|02 Worldbuilding/Places/The Floating Market]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

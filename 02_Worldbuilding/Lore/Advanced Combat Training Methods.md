@@ -1,19 +1,23 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- combat
-- shadow-touched
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
+title: Advanced Combat Training Methods
 type: Lore
+tags:
+- lore
+- both
+- content/lore
+- world/both
+- active
+- combat
+- complete
+- status/in-progress
+- shadow-touched
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:15.987101+00:00'
 world: Both
 ---
+
 
 
 ## Cross-References
@@ -23,7 +27,7 @@ world: Both
 
 ## Connections
 
-- [[12_Research/D&D_References/Vex Shadowthorn Boss Fight]]
+- [[Vex Shadowthorn Boss Fight]]
 
 ## Player-Facing Summary
 

@@ -1,20 +1,27 @@
+# The Deep Fugitive
+
 ---
+title: The Deep Fugitive
+type: Location
 tags:
 - aquabyssos
+- mysterious
+- fugitive
+- npc
+- research
+- active
+- location
 - complete
 - criminal
-- fugitive
-- location
-- mysterious
-- npc
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.509868+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -159,3 +166,8 @@ Legends speak of The Deep Fugitive as a nexus where past and present converge. L
 - [[The Deep Fugitive|02 Worldbuilding/Places/The Deep Fugitive]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

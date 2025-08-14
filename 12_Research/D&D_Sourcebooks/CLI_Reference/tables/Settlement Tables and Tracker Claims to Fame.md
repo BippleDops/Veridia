@@ -1,22 +1,27 @@
+# Settlement Tables and Tracker Claims to Fame
+
 ---
+title: Settlement Tables and Tracker Claims to Fame
 aliases:
 - Settlement Tables and Tracker; Claims to Fame
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:03.347324+00:00'
 world: Both
 ---
+
 
 
 # Settlement Tables and Tracker; Claims to Fame
@@ -69,3 +74,8 @@ Legends speak of settlement tables and tracker claims to fame xdmg as a nexus wh
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

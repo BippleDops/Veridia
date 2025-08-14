@@ -1,20 +1,27 @@
+# Political Intrigue of Meridian
+
 ---
+title: Political Intrigue of Meridian
+type: Location
 tags:
 - aquabyssos
+- power-struggle
+- event
+- research
+- active
+- location
 - complete
 - conspiracy
-- event
-- location
 - politics
-- power-struggle
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.415559+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -177,3 +184,8 @@ Legends speak of Political Intrigue of Meridian as a nexus where past and presen
 - [[Political Intrigue of Meridian|02 Worldbuilding/Places/Political Intrigue Of Meridian]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

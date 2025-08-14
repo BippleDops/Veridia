@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Crystal Bloom
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 03_Mechanics/Transformations/Crystal/Crystal_Bloom
 
@@ -24,10 +28,10 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/World_Bible_Index]]
-- [[12_Research/D&D_References/World Bible Index]]
-- [[12_Research/D&D_References/Transformations - Transformation Compendium]]
-- [[12_Research/D&D_References/Transformations - Transformation Compendium]]
+- [[World_Bible_Index]]
+- [[World Bible Index]]
+- [[Transformations - Transformation Compendium]]
+- [[Transformations - Transformation Compendium]]
 
 ## Notes
 

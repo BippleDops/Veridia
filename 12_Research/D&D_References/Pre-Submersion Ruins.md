@@ -1,14 +1,20 @@
+# Pre-Submersion Ruins
+
 ---
-updated: '2025-08-13T01:18:35.462015+00:00'
-created: '2025-08-12'
-tags:
-- aquabyssos
-- category/lore
-- complete
-- lore
-status: complete
-world: Aquabyssos
+title: Pre Submersion Ruins
 type: lore
+tags:
+- lore
+- category/lore
+- aquabyssos
+- research
+- active
+- complete
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+updated: '2025-08-13T01:18:35.462015+00:00'
+world: Aquabyssos
 obsidianUIMode: preview
 accessibility:
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -19,6 +25,7 @@ accessibility:
   - Lines & Veils
   - X-Card
 ---
+
 
 
 
@@ -76,3 +83,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Thalassius the Wise]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
+
+
+## Related
+
+*Links to related content will be added here.*

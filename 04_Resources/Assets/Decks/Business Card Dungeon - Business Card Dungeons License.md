@@ -1,15 +1,20 @@
+# Business Card Dungeon - Business Card Dungeons License
+
 ---
-type: Lore
-status: draft
-tags: []
+title: Business Card Dungeon   Business Card Dungeons License
 aliases: []
+type: Lore
+tags:
+- active
+- resource
 created: '2025-07-23'
-updated: '2025-07-23T00:00:00+00:00'
-modified: 2025-07-23 12:39
+modified: '2025-08-14'
+status: draft
+updated: 2025-08-13 07:59:50.479328
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.479328
 ---
+
 The maps included in this folder is made available to you under a free license for personal or commercial use thanks to the awesome supporters of the  [**Dyson Logos Patreon Campaign**](https://www.patreon.com/dysonlogos). Hundreds of amazingly generous people have come together to fund the site and these maps, making them free for your use.
 
 Because of the incredible generosity of the patrons, Dyson Logo makes these maps free for commercial use also. Each month while funding is over the $300 mark, each map that achieves the $300+ funding level will be released under a free commercial license. You can use, reuse, remix and/or modify the maps that are being published under the commercial license on a royalty-free basis as long as they include attribution (“Cartography by Dyson Logos” or “Maps by Dyson Logos”). 
@@ -18,3 +23,8 @@ Because of the incredible generosity of the patrons, Dyson Logo makes these maps
 Cartography by [Dyson Logos](https://rpgcharacters.wordpress.com/) is licensed  
 under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
+
+
+## Related
+
+*Links to related content will be added here.*

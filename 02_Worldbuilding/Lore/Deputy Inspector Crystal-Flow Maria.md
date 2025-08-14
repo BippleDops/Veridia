@@ -1,28 +1,32 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- crystal-enhanced
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
+title: Deputy Inspector Crystal Flow Maria
 type: Lore
+tags:
+- lore
+- both
+- content/lore
+- world/both
+- active
+- complete
+- status/in-progress
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.446701+00:00'
 world: Both
 ---
 
 
+
 ## Cross-References
 
-- [[12_Research/D&D_References/Customs House]]
+- [[Customs House]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Customs House]]
+- [[Customs House]]
 
 ## Player-Facing Summary
 

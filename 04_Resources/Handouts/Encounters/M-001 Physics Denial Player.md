@@ -1,24 +1,29 @@
+# M-001 Physics Denial Player
+
 ---
-audience: player
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- campaign/session
-- complete
-- handout
-- lore
-- merger
-- status/complete
-- world/both
-title: Player Handout — M-001 Physics Denial
+title: "Player Handout \u2014 M-001 Physics Denial"
 type: Lore
-updated: '2025-08-13T12:34:32.386840+00:00'
+tags:
+- lore
+- both
+- status/complete
+- campaign/session
+- merger
+- handout
+- world/both
+- active
+- complete
+- resource
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+audience: player
+updated: 2025-08-13 07:59:50.469632
 world: Both
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.469632
 ---
+
 # Physics Denial
 
 The ship forgets which way is down. Tools slide toward the wall that thinks it’s a floor.
@@ -35,3 +40,8 @@ Possible outcomes
 - You ride it out
 - Something breaks loose
 - The world tilts the wrong way
+
+
+## Related
+
+*Links to related content will be added here.*

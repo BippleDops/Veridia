@@ -1,30 +1,37 @@
+# Consequence Chain 3 Reality Merger
+
 ---
+title: Consequence Chain 3 Reality Merger
+type: Lore
+tags:
+- lore
+- status/complete
+- diplomatic-crisis
+- cross-realm-politics
+- both worlds
+- content/lore
+- world/both
+- research
+- world/aethermoor
+- campaign/arc
+- active
+- complete
+- reality-merger
+- world/aquabyssos
+- convergence-event
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 magnitude: 5
 primary_sessions:
 - 'Session 08: Between Two Worlds'
 - 'Session 09: The Price of Unity'
 - 'Session 10: The Deep Mother Rises'
-status: complete
-tags:
-- both worlds
-- campaign/arc
-- complete
-- content/lore
-- convergence-event
-- cross-realm-politics
-- diplomatic-crisis
-- lore
-- reality-merger
-- status/complete
-- world/aethermoor
-- world/aquabyssos
-- world/both
-type: Lore
 updated: '2025-08-13T12:34:28.883266+00:00'
 visibility: 5
 world: Both Worlds
 ---
+
 
 
 
@@ -230,3 +237,7 @@ world: Both Worlds
 - [[02_Worldbuilding/Places/New Meridian|02 Worldbuilding/Places/New Meridian]]
 - [[United Councils of Both Worlds]]
 - [[Political Intrigue Master Index]]
+
+## Related
+
+*Links to related content will be added here.*

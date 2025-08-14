@@ -1,16 +1,23 @@
+# MASTER_VAULT_DASHBOARD
+
 ---
-created: '2025-08-13'
-updated: '2025-08-13T12:44:30.000000'
-status: active
-world: Both
+title: MASTER VAULT DASHBOARD
 type: Dashboard
 tags:
-- status/active
-- type/dashboard
-- world/both
 - priority/critical
+- type/dashboard
+- research
+- world/both
+- status/active
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
+updated: '2025-08-13T12:44:30.000000'
+world: Both
 cssclass: dashboard
 ---
+
 
 # 🏛️ MASTER VAULT DASHBOARD
 *The Central Command Center for the Cordelia TTRPG Vault*
@@ -359,3 +366,7 @@ LIMIT 5
 
 **Last Updated**: `$= dv.current().file.mtime`  
 **Total Vault Size**: `$= dv.pages().length` files across `$= Math.round(dv.pages().file.size.sum() / 1024 / 1024, 2)` MB
+
+## Related
+
+*Links to related content will be added here.*

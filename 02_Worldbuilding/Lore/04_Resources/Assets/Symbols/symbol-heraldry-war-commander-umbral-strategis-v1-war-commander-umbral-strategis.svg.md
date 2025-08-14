@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry war commander umbral strategis v1 war commander umbral strategis.svg
+aliases:
+- symbol heraldry war commander umbral strategis v1 war commander umbral strategissvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-war-commander-umbral-strategis-v1-war-commander-umbral-strategis.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/War Commander Umbral Strategis]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[War Commander Umbral Strategis]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

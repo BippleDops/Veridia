@@ -1,18 +1,25 @@
+# Major Trading Companies
+
 ---
-world: Both
-updated: '2025-08-13T01:18:36.694875+00:00'
-created: '2025-08-12'
-status: complete
+title: Major Trading Companies
+type: Group
 tags:
-- both
-- complete
 - economy
-- group
-- merchant-princes
+- both
 - rivalries
 - trading-companies
-type: Group
+- research
+- active
+- complete
+- merchant-princes
+- group
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Both
+updated: '2025-08-13T01:18:36.694875+00:00'
 ---
+
 
 
 > [!figure] Corporate Emblems
@@ -600,3 +607,8 @@ Use the trading companies as a framework for complex political and economic intr
 
 Consider how corporate actions ripple through society, affecting everything from individual livelihoods to international relations. The companies serve as both potential allies and enemies, offering resources and opportunities while representing systematic corruption and inequality that can drive character motivations and campaign themes.
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

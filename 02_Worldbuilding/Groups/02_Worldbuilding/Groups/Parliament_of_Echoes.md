@@ -1,13 +1,24 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Parliament of Echoes
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-parliament-of-echoes-public-gallery-parliament-of-echoes-public-gallery.png)
+
+
 
 # 02_Worldbuilding/Groups/Parliament_of_Echoes
 
@@ -35,3 +46,7 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[High Cultivist Jasper Lifebinder]]

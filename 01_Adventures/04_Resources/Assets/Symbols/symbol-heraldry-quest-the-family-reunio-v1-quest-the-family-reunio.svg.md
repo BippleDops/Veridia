@@ -1,13 +1,21 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry quest the family reunio v1 quest the family reunio.svg
+aliases:
+- symbol heraldry quest the family reunio v1 quest the family reuniosvg
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-quest-the-family-reunio-v1-quest-the-family-reunio.svg
 
@@ -24,7 +32,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 
@@ -35,3 +43,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Art_Places_Botanist_Rose_Sundrinker.png]]
+- [[04_Resources_Assets_Portraits_portrait-npc-house-guard-captains-house-guard-captains.svg]]
+- [[The Seven Seals]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-code-wars-the-code-wars.svg]]
+- [[Lady Victoria Pennworth]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-port-meridian-harbor-port-meridian-harbor.svg]]
+- [[Throne Room - Heart of Palace]]
+- [[Deep Stone Eaters]]

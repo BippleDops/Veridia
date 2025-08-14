@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Travel Event Table
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 06_GM_Resources/Travel/Travel Event Table
 
@@ -24,9 +28,9 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Campaign_Dashboard]]
-- [[12_Research/D&D_References/Campaign_Dashboard]]
-- [[12_Research/D&D_References/Economic Warfare Simulator]]
+- [[Campaign_Dashboard]]
+- [[Campaign_Dashboard]]
+- [[Economic Warfare Simulator]]
 
 ## Notes
 

@@ -1,28 +1,35 @@
+# Alternative-Path-Fled-City
+
 ---
+title: Alternative Path Fled City
+type: Location
 tags:
-- aethermoor
-- alternative-community
-- complete
-- floating-city
-- freedom
-- location
-- rebellion
 - refugee-settlement
+- research
+- alternative-community
+- freedom
+- rebellion
+- active
+- location
+- complete
+- aethermoor
+- floating-city
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Location
 category: Refugee Settlement
 altitude: 8,000-12,000 feet
 difficulty: Levels 4-10
 owner: Free Council of Refugees
 danger_level: Moderate
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Alternative Settlement
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] View
@@ -468,3 +475,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

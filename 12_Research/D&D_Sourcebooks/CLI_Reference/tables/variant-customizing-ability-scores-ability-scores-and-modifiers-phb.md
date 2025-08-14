@@ -1,20 +1,25 @@
+# variant-customizing-ability-scores-ability-scores-and-modifiers-phb
+
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-- active
-- both
-- note
-- ttrpg-cli/compendium/src/5e/phb
+title: variant customizing ability scores ability scores and modifiers phb
 aliases:
 - Variant: Customizing Ability Scores; Ability Scores and Modifiers
 type: note
+tags:
+- both
+- ttrpg-cli/compendium/src/5e/phb
+- research
+- active
+- note
 created: 2025-07-23
-updated: '2025-08-13T01:18:31.483654+00:00'
-modified: 2025-07-23 12:39
-world: Both
+modified: '2025-08-14'
 status: active
+obsidianUIMode: preview
+cssclasses: json5e-note
+updated: '2025-08-13T01:18:31.483654+00:00'
+world: Both
 ---
+
 
 # Variant: Customizing Ability Scores; Ability Scores and Modifiers
 *Source: Player's Handbook p. 13. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 
@@ -52,3 +57,8 @@ Legends speak of variant customizing ability scores ability scores and modifiers
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

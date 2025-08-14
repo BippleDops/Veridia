@@ -1,13 +1,21 @@
+# Quest - The Pretender's Crown
+
 ---
+title: Quest   The Pretender's Crown
+type: Lore
 tags:
-- active
-- aethermoor
+- lore
 - intrigue
 - investigation
-- lore
 - political
 - quest
+- research
+- active
 - succession
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: active
 quest_status: Available
 quest_priority: Critical
 quest_type: Main Quest
@@ -17,14 +25,12 @@ quest_giver: The Nameless Auditor
 rewards: Noble Title, Royal Artifacts, Political Power
 time_limit: Before the Coronation (14 days)
 created_by: system
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.494083+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
-status: active
-type: Lore
 ---
+
 
 
 

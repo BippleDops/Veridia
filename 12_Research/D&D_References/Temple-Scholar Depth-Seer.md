@@ -1,14 +1,20 @@
+# Temple-Scholar Depth-Seer
+
 ---
+title: Temple Scholar Depth Seer
+type: Location
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:35.997514+00:00'
 world: Both
-type: Location
-status: active
-tags:
-- active
-- both
-- location
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-temple-scholar-depth-seer-temple-scholar-depth-seer.svg]]
@@ -45,3 +51,8 @@ Legends speak of Temple Scholar Depth Seer as a nexus where past and present con
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

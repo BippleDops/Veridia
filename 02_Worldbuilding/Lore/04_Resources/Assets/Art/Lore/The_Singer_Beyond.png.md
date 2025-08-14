@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: The Singer Beyond.png
+aliases:
+- The Singer Beyondpng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Art/Lore/The_Singer_Beyond.png
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Singer Beyond]]
+- [[The Singer Beyond]]
 - [[02_Worldbuilding/Lore/The Singer Beyond]]
 
 ## Notes

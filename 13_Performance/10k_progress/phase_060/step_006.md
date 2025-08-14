@@ -1,9 +1,16 @@
 ---
+title: step 006
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 60
 step: 6
 total_step: 5906
 ---
+
 
 # Phase 60 - Step 6
 

@@ -1,4 +1,24 @@
 ---
+title: The Sunken Markets
+type: Location
+tags:
+- both
+- mysterious
+- trade
+- world/aquabyssos
+- world/both
+- content/location
+- place
+- active
+- port-meridian
+- location
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: '[[Port Meridian]] Harbor District'
+population: Unknown
 MyCategory: Unknown
 MyContainer: None
 connected_locations:
@@ -6,31 +26,16 @@ connected_locations:
 - '[[Aquabyssos]]'
 - The Shadowmere (via underwater passages)
 - Category/Place
-created: '2025-08-11'
 danger_level: Moderate
 notable_npcs:
 - '[[Captain Thaddeus Blackwater]]'
 - '[[Ambassador Nerida Deepcurrent]]'
 - '[[Castellan Ironledger III]]'
 obsidianUIMode: preview
-region: '[[Port Meridian]]
-  Harbor District'
-status: complete
-tags:
-- both
-- complete
-- content/location
-- location
-- mysterious
-- port-meridian
-- status/in-progress
-- trade
-- world/aquabyssos
-- world/both
-type: Location
 updated: '2025-08-13T12:34:17.096186+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -174,6 +179,27 @@ The Markets occupy a series of partially flooded caves and ruins that predate th
 - Memory Bottle (contains lost knowledge): 100-10,000 gp
 - Tidal Chart (predicts gate openings): 750 gp
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 The Sunken Markets serve as the primary interface between the surface world and Aquabyssos, allowing introduction of underwater elements without requiring full aquatic adventures. The location's mix of commerce and danger provides opportunities for social encounters, investigation, and combat. The various factions present create natural conflict and alliance opportunities. The ancient nature of the site connects to the deeper mysteries of both the Seven Shards and the origins of the crystal corruption.
 
@@ -201,3 +227,74 @@ Legends speak of The Sunken Markets as a nexus where past and present converge. 
 - [[The Sunken Markets]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- [[04_Resources_Assets_Locations_location-city-master-goldwin-ledgerkeeper-master-goldwin-ledgerkeeper.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-torrent-swiftcurrent-captain-torrent-swiftcurrent.svg]]
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-traditional-elder-wisdom-keeper-v1-traditional-elder-wisdom-keeper.svg]]
+- [[04_Resources_Assets_Locations_location-city-deep-mother-zealots-v1-deep-mother-zealots.svg]]
+- [[04_Resources_Assets_Locations_location-city-echo-keeper-selin-v1-echo-keeper-selin.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+The Sunken Markets is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Sunken Markets
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## History
+
+### Founding
+The Sunken Markets was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Sunken Markets
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

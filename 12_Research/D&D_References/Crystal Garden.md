@@ -1,26 +1,33 @@
+# Crystal Garden
+
 ---
+title: Crystal Garden
+type: Lore
 tags:
-- aethermoor
+- lore
 - aquabyssos
 - both
-- complete
-- crystal-garden
-- dimensional-bleed
-- impossible-growth
-- lore
-- magical-sanctuary
-- merged-reality
-- reality-anchor
 - transformation-site
+- magical-sanctuary
+- impossible-growth
+- crystal-garden
+- research
+- dimensional-bleed
+- reality-anchor
+- active
+- complete
+- aethermoor
+- merged-reality
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Lore
 category: Unique Location
 significance: Major Landmark
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] View

@@ -1,9 +1,16 @@
 ---
+title: step 002
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 84
 step: 2
 total_step: 8302
 ---
+
 
 # Phase 84 - Step 2
 

@@ -1,13 +1,24 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: faction
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-aquabyssos-faction-web-aquabyssos-faction-web.svg)
+
+
 
 # faction
 
@@ -37,3 +48,7 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[Duke Gale Vortex]]

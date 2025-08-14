@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Councilor Marina Deepbridge
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Councilor Marina Deepbridge
 
@@ -24,8 +28,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Consequence Chain 3 Reality Merger]]
-- [[12_Research/D&D_References/Consequence Chain 3 - Reality Merger Diplomatic Crisis]]
+- [[Consequence Chain 3 Reality Merger]]
+- [[Consequence Chain 3 - Reality Merger Diplomatic Crisis]]
 - [[02_Worldbuilding/Lore/Consequence Chain 3 - Reality Merger Diplomatic Crisis]]
 
 ## Notes

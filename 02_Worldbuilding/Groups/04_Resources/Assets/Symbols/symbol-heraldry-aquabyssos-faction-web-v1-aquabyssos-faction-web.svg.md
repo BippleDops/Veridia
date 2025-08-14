@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry aquabyssos faction web v1 aquabyssos faction web.svg
+aliases:
+- symbol heraldry aquabyssos faction web v1 aquabyssos faction websvg
 type: faction
-status: placeholder
 tags:
 - placeholder
+- aquabyssos
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-aquabyssos-faction-web-v1-aquabyssos-faction-web.svg
 
@@ -24,7 +34,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 
@@ -35,3 +45,8 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[04_Resources_Assets_Locations_location-city-merchant-prince-aldric-goldcurrent-merchant-prince-aldric-goldcurrent.svg]]
+- [[04_Resources_Assets_Locations_location-city-deputy-harbor-master-marina-stormwright-deputy-harbor-master-marina-stormwright.svg]]

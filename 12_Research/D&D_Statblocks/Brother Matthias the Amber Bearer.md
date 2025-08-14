@@ -1,25 +1,33 @@
+# Brother Matthias the Amber Bearer
+
 ---
-tags:
-- aethermoor
-- amber-shard
-- complete
-- npc
-- person
-- purist-coalition
-- seven-shards
-- unknowing-bearer
-status: complete
-world: Aethermoor
+title: Brother Matthias the Amber Bearer
 type: NPC
+tags:
+- unknowing-bearer
+- person
+- seven-shards
+- amber-shard
+- npc
+- research
+- purist-coalition
+- active
+- complete
+- aethermoor
+created: 2025-08-09
+modified: '2025-08-14'
+status: complete
+race: Human (Shard-bearer)
+location: '[[The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]] - Coalition
+  Monastery'
+world: Aethermoor
 role: Unknowing Shard Bearer
 affiliation: '[[Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]]'
 age: '45'
-race: Human (Shard-bearer)
-location: '[[The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]] - Coalition Monastery'
 created_by: auto-stub
-created: 2025-08-09
 updated: 2025-08-11
 ---
+
 
 
 > [!figure] Portrait
@@ -429,3 +437,8 @@ Legends speak of Brother Matthias the Amber Bearer as a nexus where past and pre
 - [[Keeper of the Shattered Crown, Marcus Crystalvein]]
 - [[Scholar Vivienne the Chronicler]]
 - [[The Order of the Shattered Crown]]
+
+
+## Related
+
+*Links to related content will be added here.*

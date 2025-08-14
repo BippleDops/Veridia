@@ -1,23 +1,28 @@
+# saddlebags
+
 ---
+title: saddlebags
+aliases:
+- Saddlebags
 type: note
+tags:
+- both
+- ttrpg-cli/compendium/src/5e/phb
+- research
+- active
+- note
+- ttrpg-cli/item/gear/tack-and-harness
+- ttrpg-cli/item/rarity/none
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
-tags:
-- active
-- both
-- note
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/item/gear/tack-and-harness
-- ttrpg-cli/item/rarity/none
-aliases:
-- Saddlebags
-created: 2025-07-23
 updated: '2025-08-13T01:18:33.921161+00:00'
-modified: 2025-07-23 12:39
 world: Both
-status: active
 ---
+
 
 
 > [!figure] Item
@@ -51,3 +56,8 @@ Legends speak of saddlebags as a nexus where past and present converge. Locals d
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

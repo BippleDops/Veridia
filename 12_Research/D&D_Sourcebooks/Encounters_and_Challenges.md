@@ -1,17 +1,24 @@
+# Encounters_and_Challenges
+
 ---
-created: '2025-08-13'
-status: active
+title: Encounters and Challenges
+type: Reference
 tags:
-- encounters/seven-shards
-- combat-design
 - social-encounters
-- initiative-tracker
+- research
 - world/both
 - status/active
-type: Reference
+- encounters/seven-shards
+- active
+- initiative-tracker
+- combat-design
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T16:45:00.000000'
 world: Both
 ---
+
 
 # Seven Shards Campaign: Encounters & Challenges
 *Combat, Social, and Exploration Encounters with Initiative Tracker Integration*
@@ -532,3 +539,7 @@ Label: Social Encounter Progress
 - [[Shard Locations]]
 - [[Treasure and Rewards System]]
 - [[Fantasy Calendar Timeline]]
+
+## Related
+
+*Links to related content will be added here.*

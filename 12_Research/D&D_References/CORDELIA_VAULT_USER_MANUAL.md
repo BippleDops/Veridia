@@ -1,3 +1,15 @@
+# CORDELIA_VAULT_USER_MANUAL
+
+---
+title: CORDELIA VAULT USER MANUAL
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # CORDELIA VAULT - COMPREHENSIVE USER MANUAL
 
 **Version**: 1.0  
@@ -1857,3 +1869,7 @@ python scripts/relationship_depth_enhancer.py --vault-path . --report
 **Last Updated**: August 13, 2025  
 **Total Length**: ~25,000 words  
 **Next Review**: Phase 5 completion
+
+## Related
+
+*Links to related content will be added here.*

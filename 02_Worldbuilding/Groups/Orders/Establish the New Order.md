@@ -1,4 +1,20 @@
 ---
+title: Establish the New Order
+type: Faction
+tags:
+- status/complete
+- content/faction
+- faction
+- organization
+- world/aethermoor
+- active
+- complete
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 MyCategory: Revolutionary Political Movement
 MyContainer: '[[Lumengarde]]'
 benefits:
@@ -8,7 +24,6 @@ benefits:
   standing: 2
 - reward: Direct council with the Architect and realm-shaping authority
   standing: 3
-created: '2025-08-11'
 created_by: expansion
 faction: The Restoration Movement
 initiates:
@@ -26,18 +41,10 @@ officers:
 - Aria Lumengarde
 - Brother Marcus Steelbane
 primary_contact: Commander Thrace Ironwood
-status: complete
-tags:
-- aethermoor
-- complete
-- content/faction
-- faction
-- status/complete
-- world/aethermoor
-type: Faction
 updated: '2025-08-13T12:34:17.448631+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Heraldry

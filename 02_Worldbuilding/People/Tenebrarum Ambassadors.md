@@ -1,18 +1,26 @@
 ---
-cr: '12'
-created: '2025-08-11'
-status: complete
+title: Tenebrarum Ambassadors
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
+cr: '12'
 updated: '2025-08-13T12:34:17.631673+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -261,6 +269,137 @@ The Tenebrarum realm itself is described as a place where shadows have substance
 - **[[Quest - The Cultural Festival]]**: Organizing joint celebration between realms
 - **[[Quest - The Refugee Emergency]]**: Managing dimensional displacement crisis
 
+
+
+## Appearance
+
+Tenebrarum Ambassadors presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Cautious, determined, loyal
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Background
+
+Tenebrarum Ambassadors's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Finding purpose
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Peppered with idioms
+
+**Physical Habits**: Paces while speaking
+
+## Current Activities
+
+Tenebrarum Ambassadors is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Tenebrarum Ambassadors needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Tenebrarum Ambassadors stopped or removed
+3. **The Secret**: Information about Tenebrarum Ambassadors's past surfaces
+4. **The Alliance**: Opportunity to work with or against Tenebrarum Ambassadors
+5. **The Crisis**: Tenebrarum Ambassadors is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 ### Role in Campaign
 - **Diplomatic Complexity**: Add international relations layer to political storylines
@@ -275,6 +414,14 @@ The Tenebrarum realm itself is described as a place where shadows have substance
 - Provide gateway to shadow-realm adventures and parallel dimension storylines
 - Serve as information brokers with knowledge spanning multiple realms
 - Represent sophisticated political entities beyond simple good/evil classifications
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-surge-mixmaster-v1-surge-mixmaster.png]]: *business partner*
+- [[King Torrhen Lumengarde]]: *debt holder*
+- [[04_Resources_Assets_Locations_location-city-ambassador-lysandra-silvertonge-ambassador-lysandra-silvertonge.svg]]: *childhood friend*
 
 ## Connections
 

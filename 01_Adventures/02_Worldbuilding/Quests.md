@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Quests
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Quests
 
@@ -36,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Marcus Shardbreaker Grimm]]
+- [[The Crossroads Tavern]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-shadowsail-captain-shadowsail.svg]]
+- [[Empress Tethys the Ever-Drowning]]
+- [[04_Resources_Assets_Locations_location-city-master-host-torrent-welcomeall-v1-master-host-torrent-welcomeall.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-lumengarde-lumengarde.svg]]
+- [[04_Resources_Assets_Locations_location-city-scholar-david-crossref-v1-scholar-david-crossref.svg]]
+- [[Spymaster Crow]]

@@ -1,21 +1,38 @@
 ---
-MyCategory: Unknown
-MyContainer: None
+title: Captain Garrett Stormcutter
 aliases:
 - Captain Stormcutter
 - The Honest Smuggler
 - Garrett
-alignment: Chaotic Good
-class: Rogue/Fighter
+type: Npc
+tags:
+- both
+- alive
+- npc
+- world/both
+- character
+- content/npc
+- active
+- smuggler
+- draft
+- status/in-progress
+- merchant
 created: '2024-12-19'
+modified: '2025-08-14'
+status: draft
+race: Surface-Preserved Human
+class: Rogue/Fighter
+location: Unknown
+level: 11
+MyCategory: Unknown
+MyContainer: None
+alignment: Chaotic Good
 current_hp: 15
 image: 04_Resources/Assets/NPCs/garrett_stormcutter.jpg
 in_combat: true
 initiative: 12
-level: 11
 max_hp: 20
 obsidianUIMode: preview
-race: Surface-Preserved Human
 relationships:
 - strength: 3
   target: '[[Admiral Thorne Blackwater]]'
@@ -29,21 +46,10 @@ relationships:
 - strength: 3
   target: '[[Template-Person]]'
   type: ally
-status: draft
-tags:
-- alive
-- both
-- content/npc
-- draft
-- merchant
-- npc
-- smuggler
-- status/in-progress
-- world/both
-type: Npc
 updated: '2025-08-13T12:34:17.693356+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -105,6 +111,16 @@ Captain Garrett Stormcutter is [[Aquabyssos World Overview]]'s most successful "
 
 ## History
 Was a successful merchant captain when the drowning accelerated. Watched his home port sink beneath the waves. Lost his family but saved his ship, converting it for underwater travel. Has been secretly supporting resistance for 30 years while building legitimate business empire.
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Cold and distant
+
+**Speech Pattern**: Direct and concise
+
+**Physical Habits**: Paces while speaking
 
 ## Current Activities
 1. Planning massive supply run to [[The Wandering Atoll]]
@@ -190,6 +206,80 @@ Legends speak of Captain Garrett Stormcutter as a nexus where past and present c
 - An NPC seeks discreet help at Captain Garrett Stormcutter to avert a public scandal.
 - A map overlay reveals a hidden approach to Captain Garrett Stormcutter active only during specific tides/storms.
 
+
+
+## Appearance
+
+Captain Garrett Stormcutter presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Background
+
+Captain Garrett Stormcutter's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Achieving fame
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -200,6 +290,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 
+
+
+
+## Relationship Web
+
+- [[Lady Vivienne Thornwhisper]]: *sworn enemy*
+- [[04_Resources_Assets_Art_Places_Astrologer_Prime_Cassandra_Starweaver.png]]: *childhood friend*
+- [[04_Resources_Assets_Locations_location-city-the-dreamwhisper-inn-the-dreamwhisper-inn.svg]]: *family member*
 
 ## Connections
 

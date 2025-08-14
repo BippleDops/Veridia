@@ -1,14 +1,21 @@
+# Pressure_Adaptation_Emergency_Procedures
+
 ---
-created: '2025-08-13'
-status: complete
+title: Pressure Adaptation Emergency Procedures
+type: Handout
 tags:
 - player/handout
-- safety/pressure
+- research
+- active
 - world/aquabyssos
-type: Handout
+- safety/pressure
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Aquabyssos
 ---
+
 
 # Pressure Adaptation Emergency Procedures
 ## Surface Dweller Survival Guide
@@ -102,3 +109,7 @@ world: Aquabyssos
 
 *Remember: Your safety depends on preparation and communication*
 *When in doubt, ascend slowly and seek help*
+
+## Related
+
+*Links to related content will be added here.*

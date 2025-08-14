@@ -1,20 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Combat Medic Nightshift
+type: Lore
 tags:
-- combat
-- shadow-touched
+- lore
 - aquabyssos
-- complete
+- world/aquabyssos
 - content/faction
 - content/lore
-- lore
+- active
+- combat
+- complete
 - status/in-progress
-- world/aquabyssos
-type: Lore
+- shadow-touched
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.267976+00:00'
 world: Aquabyssos
 ---
+
 
 
 ## Overview
@@ -48,7 +52,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[12_Research/D&D_References/Shadow Surgeon Strike Team]]
+- [[Shadow Surgeon Strike Team]]
 
 
 ## Related

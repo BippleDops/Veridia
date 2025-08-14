@@ -1,16 +1,15 @@
+# Quest_Template
+
 ---
-created: {{date}}
-updated: {{date}}
-type: quest
-status: available
+title: Quest Template
+type: template
 tags:
-- quest
-- {{quest-type}}
-- level-{{level}}
-level: {{X-Y}}
-quest-giver: [[NPC]]
-location: [[Location]]
+- template
+- active
+created: '2025-08-14'
+modified: '2025-08-14'
 ---
+
 
 # {{title}}
 

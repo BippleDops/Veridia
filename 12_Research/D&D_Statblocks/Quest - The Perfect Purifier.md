@@ -1,23 +1,30 @@
+# Quest - The Perfect Purifier
+
 ---
+title: Quest   The Perfect Purifier
+type: NPC
 tags:
-- aethermoor
-- complete
-- corruption
+- purification
 - crystal
 - npc
-- purification
 - quest
+- research
+- active
+- complete
+- corruption
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: NPC
 created_by: auto-stub
-created: '2025-08-11'
 MyContainer: None
 MyCategory: Magical
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.877650+00:00'
 cr: '8'
 ---
+
 
 
 > [!figure] Portrait
@@ -180,3 +187,8 @@ Legends speak of Quest   The Perfect Purifier as a nexus where past and present 
 - [[Quest - The Perfect Purifier|02 Worldbuilding/People/Quest The Perfect Purifier]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

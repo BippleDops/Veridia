@@ -1,32 +1,37 @@
 ---
+title: Consequence Chain 3   Reality Merger Diplomatic Crisis
+type: Lore
+tags:
+- lore
+- session-notes
+- status/complete
+- diplomatic-crisis
+- cross-realm-politics
+- aquatic
+- quest
+- content/lore
+- world/both
+- world/aethermoor
+- campaign/arc
+- combat
+- active
+- reality-merger
+- world/aquabyssos
+- convergence-event
+- crystal-enhanced
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 magnitude: 5
 primary_sessions:
 - 'Session 08: Between Two Worlds'
 - 'Session 09: The Price of Unity'
 - 'Session 10: The Deep Mother Rises'
-status: complete
-tags:
-- combat
-- quest
-- session-notes
-- crystal-enhanced
-- aquatic
-- campaign/arc
-- content/lore
-- convergence-event
-- cross-realm-politics
-- diplomatic-crisis
-- reality-merger
-- status/complete
-- world/aethermoor
-- world/aquabyssos
-- world/both
-type: Lore
 updated: '2025-08-12T23:37:38.873015'
 visibility: 5
 world: Both Worlds
 ---
+
 
 
 # Consequence Chain 3: Reality Merger Diplomatic Crisis
@@ -44,10 +49,10 @@ world: Both Worlds
 - Defeated/communicated with the Deep Mother, stabilizing merged reality
 
 **Who was directly affected:**
-- **[[12_Research/D&D_References/Queen Seraphina Lumengarde]]**: Had to acknowledge underwater civilization's legitimacy
-- **[[12_Research/D&D_References/The Scattered Emperor]]**: Forced to engage in international diplomacy
-- **[[12_Research/D&D_References/United Councils of Both Worlds]]**: Emergency joint government formed
-- **[[12_Research/D&D_References/Eastern Kingdom Fleet]]**: Arrived during crisis, became mediators/observers
+- **[[Queen Seraphina Lumengarde]]**: Had to acknowledge underwater civilization's legitimacy
+- **[[The Scattered Emperor]]**: Forced to engage in international diplomacy
+- **[[United Councils of Both Worlds]]**: Emergency joint government formed
+- **[[Eastern Kingdom Fleet]]**: Arrived during crisis, became mediators/observers
 - **Citizens of merged districts**: Instant cultural integration required
 - **[[The Deep Mother|02 Worldbuilding/People/The Deep Mother]]**: Either sealed, communicated with, or departed
 
@@ -71,7 +76,7 @@ world: Both Worlds
 
 **Political shifts:**
 - **Sovereignty crisis**: Neither realm could claim exclusive authority over merged areas
-- **Emergency coalition government**: [[12_Research/D&D_References/United Councils of Both Worlds]] formed
+- **Emergency coalition government**: [[United Councils of Both Worlds]] formed
 - **Constitutional emergency**: Existing laws couldn't address merged reality situations
 - **International intervention**: Eastern Kingdoms demanded formal diplomatic recognition
 - **Succession questions**: Which realm's laws applied to inherited mixed properties
@@ -96,7 +101,7 @@ world: Both Worlds
 ## Secondary Ripples (Weeks/Months)
 
 **Faction realignments:**
-- **[[12_Research/D&D_References/The Crown]]** and **[[12_Research/D&D_References/Parliament of Echoes]]** forced into cooperation
+- **[[The Crown]]** and **[[Parliament of Echoes]]** forced into cooperation
 - **Cross-realm trade guilds** formed to exploit new opportunities
 - **Cultural preservation societies** emerged to protect distinct traditions
 - **Unification movements** promoted complete realm merger
@@ -195,9 +200,9 @@ world: Both Worlds
 
 ### Links to Other Major Events
 
-- **[[12_Research/D&D_References/Consequence Chain 4 - Deep Mother Awakening]]**: The cosmic entity encounter catalyzed merger
+- **[[Consequence Chain 4 - Deep Mother Awakening]]**: The cosmic entity encounter catalyzed merger
 - **[[Consequence Chain 5 - Marina's Identity Revelation]]**: Marina's bloodline enabled merger negotiations
-- **[[12_Research/D&D_References/Crystal Plague Origins]]**: Combined research accelerated plague understanding
+- **[[Crystal Plague Origins]]**: Combined research accelerated plague understanding
 - **Eastern Kingdoms diplomatic expansion**: Foreign powers gained permanent presence
 
 ### Constitutional Innovations Implemented
@@ -231,14 +236,14 @@ world: Both Worlds
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Campaign Consequence Tracking Framework]]
+- [[Campaign Consequence Tracking Framework]]
 - [[1-Session Journals/Aethermoor - Session 08 Between Two Worlds]]
-- [[12_Research/D&D_References/Aethermoor - Session 09 The Price of Unity]]
-- [[12_Research/D&D_References/Aethermoor - Session 10 The Deep Mother Rises]]
-- [[12_Research/D&D_References/Merged Reality Mechanics]]
+- [[Aethermoor - Session 09 The Price of Unity]]
+- [[Aethermoor - Session 10 The Deep Mother Rises]]
+- [[Merged Reality Mechanics]]
 - [[02_Worldbuilding/Places/New Meridian|02 Worldbuilding/Places/New Meridian]]
-- [[12_Research/D&D_References/United Councils of Both Worlds]]
-- [[12_Research/D&D_References/Political Intrigue Master Index]]
+- [[United Councils of Both Worlds]]
+- [[Political Intrigue Master Index]]
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

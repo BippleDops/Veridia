@@ -1,21 +1,27 @@
+# Vehicles - Fleet Dynamics Generator
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/faction
-- content/mechanics
-- fleets
-- mechanics
-- status/complete
-- warfare
-- world/both
 title: Fleet Dynamics Generator
 type: Mechanics
+tags:
+- both
+- status/complete
+- fleets
+- content/faction
+- mechanics
+- research
+- world/both
+- active
+- complete
+- content/mechanics
+- warfare
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.805794+00:00'
 world: Both
 ---
+
 
 
 
@@ -79,3 +85,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Aquabyssos_Submarines|Aquabyssos Submarines]]
 - [[Vehicle_Core_Rules|Vehicle Core Rules]]
 - [[New_Fleet_Template|New Fleet Template]]
+
+
+## Related
+
+*Links to related content will be added here.*

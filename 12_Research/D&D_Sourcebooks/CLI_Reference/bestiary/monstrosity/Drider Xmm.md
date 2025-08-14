@@ -1,28 +1,34 @@
+# Drider Xmm
+
 ---
+title: Drider Xmm
 aliases:
 - Drider
+type: monster
+tags:
+- both
+- ttrpg-cli/compendium/src/5e/xmm
+- monster
+- ttrpg-cli/monster/environment/underdark
+- research
+- ttrpg-cli/monster/size/large
+- world/both
+- ttrpg-cli/monster/type/monstrosity
+- active
+- ttrpg-cli/monster/cr/6
+- ttrpg-cli/monster/environment/forest
+- status/in-progress
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- active
-- both
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
-- world/both
-type: monster
 updated: '2025-08-13T12:34:05.308574+00:00'
 world: Both
 ---
+
 
 
 
@@ -135,3 +141,8 @@ Legends speak of drider xmm as a nexus where past and present converge. Locals d
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

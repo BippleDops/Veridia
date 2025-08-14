@@ -1,17 +1,20 @@
 ---
+title: Crystal Festival
 type: Lore
-status: complete
+tags:
+- lore
+- both
+- session-notes
+- quest
+- active
+- crystal-enhanced
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:35.096614+00:00'
 world: Both
-tags:
-- quest
-- session-notes
-- crystal-enhanced
-- active
-- both
-- lore
 ---
+
 
 
 ## Cross-References
@@ -21,29 +24,29 @@ tags:
 
 ## Connections
 
-- [[12_Research/D&D_References/Crystal Cult Initiates Ambush]]
-- [[12_Research/D&D_References/Crystal Festival Grounds]]
-- [[12_Research/D&D_References/Crystal Forest]]
-- [[12_Research/D&D_References/Crystal Garden]]
-- [[12_Research/D&D_References/Crystal Mimics]]
-- [[12_Research/D&D_References/Dawn-Echo Sentinel]]
-- [[12_Research/D&D_References/Memory Alteration Consequences]]
-- [[12_Research/D&D_References/The Convergence Point]]
-- [[12_Research/D&D_References/The Crimson Hand]]
-- [[12_Research/D&D_References/The Crystal Festival Grounds]]
-- [[12_Research/D&D_References/The Seven Shards]]
-- [[12_Research/D&D_References/The Silverscale Conspiracy]]
-- [[12_Research/D&D_References/Umbral Exchange]]
-- [[12_Research/D&D_References/United Councils of Both Worlds]]
+- [[Crystal Cult Initiates Ambush]]
+- [[Crystal Festival Grounds]]
+- [[Crystal Forest]]
+- [[Crystal Garden]]
+- [[Crystal Mimics]]
+- [[Dawn-Echo Sentinel]]
+- [[Memory Alteration Consequences]]
+- [[The Convergence Point]]
+- [[The Crimson Hand]]
+- [[The Crystal Festival Grounds]]
+- [[The Seven Shards]]
+- [[The Silverscale Conspiracy]]
+- [[Umbral Exchange]]
+- [[United Councils of Both Worlds]]
 - [[12_Research/D&D_Statblocks/Commander Thrace Ironwood]]
-- [[12_Research/D&D_References/Aethermoor]]
-- [[12_Research/D&D_References/Aether Crystals]]
+- [[Aethermoor]]
+- [[Aether Crystals]]
 - [[12_Research/D&D_Statblocks/Crystalline Depths]]
 - [[12_Research/D&D_Statblocks/Rescue Senator Glaucus]]
 - [[12_Research/D&D_Statblocks/Stop the Crystal Festival Ritual]]
 - [[12_Research/D&D_Statblocks/The Maw of Darkness]]
 - [[12_Research/D&D_Statblocks/Traveling Merchant Finn]]
-- [[12_Research/D&D_References/Aethermoor - Session 07 The Festival of Transformation]]
+- [[Aethermoor - Session 07 The Festival of Transformation]]
 
 ## Player-Facing Summary
 
@@ -69,3 +72,31 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
 - [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
+
+
+## Overview
+
+Crystal Festival represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

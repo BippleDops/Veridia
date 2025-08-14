@@ -1,27 +1,33 @@
+# Campaign Index
+
 ---
+title: Campaign Index
 aliases:
 - Campaign Index
 - Quick Navigation
+type: Lore
+tags:
+- lore
+- navigation
+- both
+- index
+- performance
+- content/lore
+- world/both
+- research
+- active
+- complete
+- status/in-progress
 created: '2025-08-05'
+modified: '2025-08-14'
+status: complete
 cssclasses:
 - wide-page
 - index-page
-modified: 2025-08-05
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- index
-- lore
-- navigation
-- performance
-- status/in-progress
-- world/both
-type: Lore
 updated: '2025-08-13T12:34:03.165727+00:00'
 world: Both
 ---
+
 
 
 
@@ -307,3 +313,7 @@ LIMIT 10
 
 *Index last updated: 2025-08-05*
 *Auto-refresh: Every vault reload*
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,28 +1,35 @@
+# Shadow Conspiracy
+
 ---
+title: Shadow Conspiracy
+type: NPC
 tags:
+- underground
 - aquabyssos
+- mysterious
+- shadow
+- information-broker
+- npc
+- organization
+- research
+- active
 - complete
 - conspiracy
 - espionage
-- information-broker
-- mysterious
-- npc
-- organization
-- shadow
-- underground
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+location: '[[The Shadow Markets|02 Worldbuilding/Places/The Shadow Markets]]'
 world: Aquabyssos
-type: NPC
 role: Shadow Network
 affiliation: Independent (Multiple Factions)
 size: Unknown (Estimated 500-2000 Members)
-location: '[[The Shadow Markets|02 Worldbuilding/Places/The Shadow Markets]]'
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.953720+00:00'
 influence: Extensive
 secrecy_level: Maximum
 ---
+
 
 
 > [!figure] Portrait
@@ -533,3 +540,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Shadow Conspiracy|02 Worldbuilding/People/Shadow Conspiracy]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

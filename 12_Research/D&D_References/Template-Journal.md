@@ -1,5 +1,18 @@
+# Template-Journal
+
 ---
+title: Template Journal
 type: Lore
+tags:
+- lore
+- both
+- session-journal
+- journal
+- '#category/journal'
+- research
+- active
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 NoteIcon: journal
 aat-render-enabled: true
@@ -15,18 +28,11 @@ Status:
 OneLiner: 1 Line Summary
 timelines:
 - journal
-tags:
-- '#category/journal'
-- active
-- both
-- journal
-- lore
-- session-journal
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:31.187744+00:00'
-created: '2025-08-11'
 ---
+
 
 
 
@@ -97,3 +103,8 @@ Legends speak of Template Journal as a nexus where past and present converge. Lo
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

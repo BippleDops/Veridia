@@ -1,22 +1,28 @@
+# cloak-of-protection-xdmg
+
 ---
+title: cloak of protection xdmg
 aliases:
 - Cloak of Protection
-attunement: false
-created: 2025-07-23
-cssclasses: json5e-item
-modified: 2025-07-23 12:39
-obsidian-u-i-mode: preview
-status: active
+type: note
 tags:
-- content/item
+- research
+- world/both
+- active
 - note
+- content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+attunement: false
+cssclasses: json5e-item
+obsidian-u-i-mode: preview
 updated: '2025-08-12T23:37:37.095098'
 world: Both
 ---
+
 
 # Cloak of Protection
 *Wondrous item, uncommon (requires attunement)*  
@@ -46,3 +52,8 @@ Legends speak of cloak of protection xdmg as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

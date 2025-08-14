@@ -1,21 +1,28 @@
+# The Gloom Gardens
+
 ---
+title: The Gloom Gardens
+type: Location
 tags:
 - aquabyssos
+- mysterious
+- research
+- active
+- location
 - complete
 - gloom_gardens
-- location
-- mysterious
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Location
 obsidianUIMode: preview
 updated: '2025-08-12T00:00:00+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-gloom-gardens-the-gloom-gardens.svg]]
@@ -163,3 +170,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Gloom Gardens|02 Worldbuilding/Places/The Gloom Gardens]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

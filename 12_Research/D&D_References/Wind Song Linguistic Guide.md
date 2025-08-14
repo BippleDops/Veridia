@@ -1,19 +1,26 @@
+# Wind Song Linguistic Guide
+
 ---
-updated: '2025-08-13T01:18:35.323488+00:00'
-created: '2025-08-12'
+title: Wind Song Linguistic Guide
+type: cultural_system
 tags:
+- lore
+- linguistics
+- cultural_system
+- research
+- active
+- tonal
+- complete
 - aethermoor
 - communication
-- complete
-- cultural_system
-- linguistics
-- lore
-- tonal
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
+updated: '2025-08-13T01:18:35.323488+00:00'
 world: Aethermoor
-type: cultural_system
 obsidianUIMode: preview
 ---
+
 
 
 # Wind Song Linguistic Guide
@@ -282,3 +289,8 @@ Legends speak of Wind Song Linguistic Guide as a nexus where past and present co
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

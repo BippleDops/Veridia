@@ -1,19 +1,25 @@
+# D-005_Shadow_Bloom
+
 ---
 title: "Encounter Sheet \u2014 D-005 Shadow Bloom"
 type: gm_resource
-status: complete
 tags:
 - both
-- complete
-- depth
 - encounter
+- depth
 - gm
+- research
+- active
 - gm_resource
+- complete
 - horror
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.142467+00:00'
 world: Both
 ---
+
 
 
 # D-005 Shadow Bloom
@@ -79,3 +85,8 @@ Legends speak of D 005 Shadow Bloom as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

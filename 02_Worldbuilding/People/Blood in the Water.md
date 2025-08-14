@@ -1,25 +1,33 @@
 ---
-MyCategory: Events
-MyContainer: None
-created: '2025-08-12'
-created_by: auto-stub
-obsidianUIMode: preview
-status: complete
+title: Blood in the Water
+type: Npc
 tags:
 - aquabyssos
-- blood
-- complete
-- content/lore
-- content/npc
-- event
-- npc
 - status/complete
+- npc
+- event
+- content/lore
+- character
+- content/npc
 - violence
+- active
+- complete
 - world/aquabyssos
-type: Npc
+- blood
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
+MyCategory: Events
+MyContainer: None
+created_by: auto-stub
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.482202+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -81,9 +89,135 @@ Recent Shadow Conspiracy violence has increased blood-spill incidents. Cleanup c
 ## Cultural Impact
 "Don't spill blood in the water" is a common warning about consequences of violence. The phrase appears in art, literature, and popular songs as reminder that actions have far-reaching effects in interconnected underwater society.
 
+
+
+## Background
+
+Blood in the Water's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Seeking redemption
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Blood in the Water harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Secret alliance
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Sharp and precise
+
+**Speech Pattern**: Peppered with idioms
+
+**Physical Habits**: Paces while speaking
+
+## Current Activities
+
+Blood in the Water is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Blood in the Water needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Blood in the Water stopped or removed
+3. **The Secret**: Information about Blood in the Water's past surfaces
+4. **The Alliance**: Opportunity to work with or against Blood in the Water
+5. **The Crisis**: Blood in the Water is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 Use "Blood in the Water" as both literal environmental hazard and metaphor for escalating conflicts. The concept works well for investigation scenarios where initial violence hints at larger conspiracies, or action scenes where combat consequences create ongoing complications.
 
+
+
+
+## Relationship Web
+
+- [[Ancient King Pelagios]]: *competitor*
+- [[Duke Hadal]]: *bitter rival*
+- [[04_Resources_Assets_Locations_location-city-terminal-master-hadrian-depthbridge-terminal-master-hadrian-depthbridge.svg]]: *business partner*
 
 ## Connections
 
@@ -98,6 +232,12 @@ TODO
 
 
 ## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more focused
+- **When Pleased**: Shows quiet pride
+- **In Conflict**: Tends toward avoidance
+
 
 
 TODO

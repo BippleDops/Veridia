@@ -1,13 +1,20 @@
+# The Sunken Markets
+
 ---
-tags:
-- active
-- both
-- location
-- mysterious
-- port-meridian
-- trade
-- underwater
+title: The Sunken Markets
 type: Location
+tags:
+- both
+- mysterious
+- trade
+- research
+- active
+- port-meridian
+- location
+- underwater
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 region: '[[Port Meridian|02 Worldbuilding/Places/Port Meridian]] Harbor District'
 danger_level: Moderate
 notable_npcs:
@@ -24,9 +31,8 @@ MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:36.465080+00:00'
-created: '2025-08-11'
-status: active
 ---
+
 
 
 
@@ -201,3 +207,8 @@ Legends speak of The Sunken Markets as a nexus where past and present converge. 
 - [[The Sunken Markets|02 Worldbuilding/Places/The Sunken Markets]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,28 +1,35 @@
+# The Crystal Festival
+
 ---
+title: The Crystal Festival
+type: Lore
 tags:
-- aethermoor
+- lore
 - bloodline
 - celebration
-- complete
+- ritual
 - crystal-corruption
-- disaster
 - event
 - festival
-- lore
+- research
 - queen-seraphina
-- ritual
+- active
+- complete
 - transformation
-status: complete
-world: Aethermoor
-type: Lore
-created_by: auto-stub
+- disaster
+- aethermoor
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+location: '[[Crystal Festival Grounds]], [[Port Meridian]]'
+world: Aethermoor
+created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 event_type: Annual Festival turned Catastrophic Ritual
 duration: Originally 7 days, final year lasted 3 hours
-location: '[[Crystal Festival Grounds]], [[Port Meridian]]'
 participants: Entire population of [[Port Meridian]] and neighboring regions
 ---
+
 
 
 
@@ -192,3 +199,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Traveling Merchant Finn|02 Worldbuilding/Quests/Traveling Merchant Finn]]
 - [[Aethermoor]]
 - [[Port Meridian]]
+
+
+## Related
+
+*Links to related content will be added here.*

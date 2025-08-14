@@ -1,14 +1,21 @@
+# Campaign_Direction_Survey
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- player/feedback
-- campaign/direction
-- story/planning
+title: Campaign Direction Survey
 type: Feedback Form
+tags:
+- player-resource
+- player/feedback
+- active
+- story/planning
+- campaign/direction
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Campaign Direction Survey
 ## Help guide the story's future
@@ -128,3 +135,7 @@ __________________________________________
 ```
 
 *Your input shapes the campaign's future direction*
+
+## Related
+
+*Links to related content will be added here.*

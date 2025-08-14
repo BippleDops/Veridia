@@ -1,14 +1,20 @@
+# Captain Hadal Drake
+
 ---
-tags:
-- active
-- aquabyssos
-- npc
+title: Captain Hadal Drake
 type: NPC
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.940419+00:00'
 ---
+
 
 
 
@@ -64,3 +70,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Memory Merchant Zephyr Mindweaver]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,20 +1,27 @@
+# Silverscale Emergency Bunker
+
 ---
+title: Silverscale Emergency Bunker
+type: Lore
 tags:
-- aethermoor
-- bunker
-- complete
-- emergency
-- location
 - lore
-- safety
 - silverscale
+- emergency
+- research
+- bunker
+- active
+- location
+- complete
+- safety
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -81,3 +88,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[The Final Choice|02 Worldbuilding/Lore/The Final Choice]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,24 +1,29 @@
+# M-201 Event Horizon Shear Player
+
 ---
-audience: player
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- campaign/session
-- complete
-- handout
-- lore
-- merger
-- status/complete
-- world/both
-title: Player Handout — M-201 Event Horizon Shear
+title: "Player Handout \u2014 M-201 Event Horizon Shear"
 type: Lore
-updated: '2025-08-13T12:34:32.388560+00:00'
+tags:
+- lore
+- both
+- status/complete
+- campaign/session
+- merger
+- handout
+- world/both
+- active
+- complete
+- resource
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+audience: player
+updated: 2025-08-13 07:59:50.470002
 world: Both
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.470002
 ---
+
 # Event Horizon Shear
 
 A black ring cuts across the sky like a halo with teeth. Lines on the deck don’t meet.
@@ -35,3 +40,8 @@ Possible outcomes
 - You pass cleanly
 - A spar tears away into silence
 - The ship lurches and someone falls
+
+
+## Related
+
+*Links to related content will be added here.*

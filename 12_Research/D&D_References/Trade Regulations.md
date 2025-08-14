@@ -1,15 +1,21 @@
+# Trade Regulations
+
 ---
-tags:
-- active
-- both
-- location
+title: Trade Regulations
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.371600+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-trade-regulations-trade-regulations.svg]]
@@ -67,3 +73,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Abyssos Prime Docks]]
 - [[Harbor District Customs House]]
+
+
+## Related
+
+*Links to related content will be added here.*

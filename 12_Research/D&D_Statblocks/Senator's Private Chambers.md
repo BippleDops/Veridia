@@ -1,28 +1,35 @@
+# Senator's Private Chambers
+
 ---
+title: Senator's Private Chambers
+type: Location
 tags:
 - aquabyssos
-- complete
-- location
-- luxury
-- parliament
-- political
 - secure-area
+- luxury
+- political
+- research
+- active
+- parliament
+- location
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 location_type: Private Quarters
 affiliation: Parliament of Echoes
 security_level: Maximum
 size: Suite Complex (5,000 sq ft)
 access: Restricted - Senate Members Only
 created_by: system
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Location
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-senator-s-private-chambers-senator-s-private-chambers.svg]]
@@ -267,3 +274,8 @@ Legends speak of Senator's Private Chambers as a nexus where past and present co
 - [[Deep Mother]]
 - [[Emperor Thalassius the Wise]]
 - [[Parliament of Echoes]]
+
+
+## Related
+
+*Links to related content will be added here.*

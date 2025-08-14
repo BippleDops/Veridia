@@ -1,10 +1,18 @@
+# Vex Shadowthorn
+
 ---
-tags:
-- active
-- both
-- category/people
-- npc
+title: Vex Shadowthorn
 aliases: []
+type: NPC
+tags:
+- both
+- npc
+- research
+- active
+- category/people
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
@@ -15,10 +23,8 @@ max_hp: 68
 ac: 16
 world: Both
 updated: '2025-08-13T01:18:37.083056+00:00'
-created: '2025-08-11'
-status: active
-type: NPC
 ---
+
 
 
 
@@ -389,3 +395,8 @@ Legends speak of Vex Shadowthorn as a nexus where past and present converge. Loc
 - [[Quest - The Blackmail Papers]]
 - [[The Memory Thief]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,14 +1,20 @@
+# Unite the Recursions
+
 ---
-updated: '2025-08-13T01:18:35.282725+00:00'
-created: '2025-08-11'
-tags:
-- aquabyssos
-- category/lore
-- complete
-- lore
-status: complete
-world: Aquabyssos
+title: Unite the Recursions
 type: lore
+tags:
+- lore
+- category/lore
+- aquabyssos
+- research
+- active
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+updated: '2025-08-13T01:18:35.282725+00:00'
+world: Aquabyssos
 obsidianUIMode: preview
 accessibility:
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -19,6 +25,7 @@ accessibility:
   - Lines & Veils
   - X-Card
 ---
+
 
 
 

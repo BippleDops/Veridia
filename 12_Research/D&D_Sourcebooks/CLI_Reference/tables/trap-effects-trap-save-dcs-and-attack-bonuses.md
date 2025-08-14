@@ -1,20 +1,26 @@
+# trap-effects-trap-save-dcs-and-attack-bonuses
+
 ---
+title: trap effects trap save dcs and attack bonuses
 aliases:
 - Trap Effects; Trap Save DCs and Attack Bonuses
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/dmg
-- world/both
 type: note
+tags:
+- research
+- world/both
+- active
+- note
+- ttrpg-cli/compendium/src/5e/dmg
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.760913'
 world: Both
 ---
+
 
 # Trap Effects; Trap Save DCs and Attack Bonuses
 *Source: Dungeon Master's Guide p. 121. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
@@ -47,3 +53,8 @@ Legends speak of trap effects trap save dcs and attack bonuses as a nexus where 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

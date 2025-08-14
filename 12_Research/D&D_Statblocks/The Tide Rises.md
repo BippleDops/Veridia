@@ -1,25 +1,32 @@
+# The Tide Rises
+
 ---
+title: The Tide Rises
+type: Lore
 tags:
 - available
-- both
-- corruption
-- diplomatic
-- investigation
-- investigation/diplomacy
 - lore
+- both
+- investigation
 - moral-choice
 - quest
-level: 7-9
-type: Lore
+- research
+- diplomatic
+- active
+- corruption
+- investigation/diplomacy
+created: '2025-08-11'
+modified: '2025-08-14'
 status: Available
+level: 7-9
 reward: Major - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:34.501163+00:00'
-created: '2025-08-11'
 ---
+
 
 
 
@@ -177,3 +184,8 @@ Legends speak of The Tide Rises as a nexus where past and present converge. Loca
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

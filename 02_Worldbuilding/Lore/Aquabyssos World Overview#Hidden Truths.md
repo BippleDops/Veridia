@@ -1,13 +1,18 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Aquabyssos World Overview#Hidden Truths
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
+- aquabyssos
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Aquabyssos World Overview#Hidden Truths
 
@@ -24,8 +29,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Cult of Screams]]
-- [[12_Research/D&D_References/Cult of Screams]]
+- [[Cult of Screams]]
+- [[Cult of Screams]]
 
 ## Notes
 

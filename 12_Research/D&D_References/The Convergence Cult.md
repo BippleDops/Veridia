@@ -1,14 +1,20 @@
+# The Convergence Cult
+
 ---
-tags:
-- active
-- both
-- group
+title: The Convergence Cult
 type: Group
-world: Both
-status: active
+tags:
+- both
+- active
+- group
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.755554+00:00'
 ---
+
 
 
 
@@ -61,3 +67,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Convergence Point]]
+
+
+## Related
+
+*Links to related content will be added here.*

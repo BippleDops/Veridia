@@ -1,42 +1,48 @@
 ---
-climate: Alpine, Cold Winters
+title: Ironhold
+type: Location
+tags:
+- industrial
+- aerial
+- status/complete
+- quest
+- content/location
+- dwarven
+- place
+- world/aethermoor
+- active
+- combat
+- draft
+- location
+- fortress
+- status/archived
+- aethermoor
+- mining
+- crystal-enhanced
 created: '2025-08-09'
+modified: '2025-08-14'
+status: draft
+region: Unknown
+population: 280000
+climate: Alpine, Cold Winters
 danger_level: Moderate
 founded: First Age
 government: Council of Forgemasters
-leader: '[[Master Smith Vulcan Deepforge|02 Worldbuilding/People/Master
-  Smith Vulcan Deepforge]]'
-population: 280000
+leader: '[[Master Smith Vulcan Deepforge|02 Worldbuilding/People/Master Smith Vulcan
+  Deepforge]]'
 related_entities:
-- '[[12_Research/D&D_References/Ancient Siege Tunnels]]'
-- '[[12_Research/D&D_References/Continental War]]'
-- '[[12_Research/D&D_References/The Sundered Peaks]]'
+- '[[Ancient Siege Tunnels]]'
+- '[[Continental War]]'
+- '[[The Sundered Peaks]]'
 specialties:
 - Metalworking
 - Engineering
 - Mountain Defense
 - Industrial Production
-status: draft
-tags:
-- combat
-- quest
-- crystal-enhanced
-- aerial
-- aethermoor
-- content/location
-- draft
-- dwarven
-- fortress
-- industrial
-- location
-- mining
-- status/archived
-- status/complete
-- world/aethermoor
-type: Location
 updated: '2025-08-13T12:34:16.915712+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View
@@ -49,9 +55,9 @@ world: Aethermoor
 
 ## Overview
 
-Carved into the living rock of [[12_Research/D&D_References/The Sundered Peaks]], Ironhold stands as [[12_Research/D&D_References/Aethermoor]]'s greatest fortress-city and the undisputed center of metalworking, engineering, and industrial production. This ancient stronghold, founded in the First Age by master craftsmen seeking the perfect ore deposits, has evolved into a marvel of defensive architecture and technological innovation that has never fallen to enemy assault.
+Carved into the living rock of [[The Sundered Peaks]], Ironhold stands as [[Aethermoor]]'s greatest fortress-city and the undisputed center of metalworking, engineering, and industrial production. This ancient stronghold, founded in the First Age by master craftsmen seeking the perfect ore deposits, has evolved into a marvel of defensive architecture and technological innovation that has never fallen to enemy assault.
 
-The city extends both above and below ground, with surface fortifications protecting vast underground complexes that house forges, workshops, living quarters, and the extensive [[12_Research/D&D_References/Ancient Siege Tunnels]] that played a crucial role during [[12_Research/D&D_References/Continental War]]. Ironhold's citizens, primarily but not exclusively dwarven, have created a society where craftsmanship and engineering excellence are the highest virtues.
+The city extends both above and below ground, with surface fortifications protecting vast underground complexes that house forges, workshops, living quarters, and the extensive [[Ancient Siege Tunnels]] that played a crucial role during [[Continental War]]. Ironhold's citizens, primarily but not exclusively dwarven, have created a society where craftsmanship and engineering excellence are the highest virtues.
 
 ### Sensory Immersion: The Mountain's Heart
 
@@ -134,7 +140,7 @@ Supreme governing body composed of master craftsmen:
 ### Engineering Services
 
 **Fortification Design**: Military architecture consulting for other cities
-**Tunnel Construction**: Extension and maintenance of [[12_Research/D&D_References/Ancient Siege Tunnels]]
+**Tunnel Construction**: Extension and maintenance of [[Ancient Siege Tunnels]]
 **Bridge Building**: Spanning mountain valleys and connecting remote settlements
 **Water Management**: Aqueducts, drainage systems, and hydraulic engineering
 
@@ -156,7 +162,7 @@ Supreme governing body composed of master craftsmen:
 
 ### Military Innovation
 
-During [[12_Research/D&D_References/Continental War]], Ironhold developed:
+During [[Continental War]], Ironhold developed:
 - Advanced siege warfare techniques
 - Improved tunnel construction methods
 - Revolutionary defensive architecture
@@ -210,7 +216,7 @@ During [[12_Research/D&D_References/Continental War]], Ironhold developed:
 
 ### Historical Heroes
 
-**General Iron-Wall**: Defender during the [[12_Research/D&D_References/Continental War]]
+**General Iron-Wall**: Defender during the [[Continental War]]
 **Master Builder Stone-Shaper**: Architect of the current fortification system
 **Admiral Deep-Strike**: Naval commander who revolutionized ship armor
 **Explorer Peak-Walker**: Discovered many of the mountain's mineral deposits
@@ -252,7 +258,7 @@ Growing population strain on city resources:
 
 Ironhold's role in continental politics:
 - Military cooperation agreements with other major powers
-- Competition with [[12_Research/D&D_References/Crystalhaven]] over technological development
+- Competition with [[Crystalhaven]] over technological development
 - Trade relationships requiring diplomatic balance
 - Defense obligations under mutual protection treaties
 
@@ -277,7 +283,7 @@ Balancing extraction with sustainability:
 1. **The Mine Collapse**: Rescue operation in dangerous deep mining tunnel
 2. **The Stolen Blueprints**: Recover stolen engineering plans for critical fortification
 3. **The Master's Test**: Help aspiring craftsman complete trial for promotion
-4. **The Tunnel Mystery**: Investigate strange discoveries in expansion of [[12_Research/D&D_References/Ancient Siege Tunnels]]
+4. **The Tunnel Mystery**: Investigate strange discoveries in expansion of [[Ancient Siege Tunnels]]
 5. **The Trade Dispute**: Mediate conflict between Ironhold and international customer
 6. **The Sabotage Investigation**: Find who is causing "accidents" in critical facilities
 7. **The Diplomatic Crisis**: Prevent international incident over military technology sharing
@@ -303,7 +309,7 @@ Balancing extraction with sustainability:
 
 **The Grand Forge Operations**: The heart of Ironhold's economy operates as a coordinated symphony of industrial production. Master smiths direct teams of specialists working on weapons, tools, and architectural elements while apprentices maintain furnace operations and material preparation. The constant hammering creates rhythmic patterns that experienced workers read like music to coordinate their activities without verbal communication.
 
-**Engineering Excellence**: **The Engineering Corps** designs and maintains the complex systems that keep mountain civilization functioning - water management, structural support, ventilation systems, and mechanical transportation. These technical specialists work on projects ranging from expanding the [[12_Research/D&D_References/Ancient Siege Tunnels]] to developing new defensive technologies for trade with other settlements.
+**Engineering Excellence**: **The Engineering Corps** designs and maintains the complex systems that keep mountain civilization functioning - water management, structural support, ventilation systems, and mechanical transportation. These technical specialists work on projects ranging from expanding the [[Ancient Siege Tunnels]] to developing new defensive technologies for trade with other settlements.
 
 **Council of Forgemasters Governance**: The governing council meets daily in chambers carved from living rock, where acoustic properties ensure every member's voice carries clearly despite the space's grand scale. Decisions require consensus among all master craftsmen, leading to debates that focus on practical implementation rather than abstract principles. All discussions are recorded in metal plate archives that preserve decisions for future reference.
 
@@ -341,7 +347,7 @@ Balancing extraction with sustainability:
 
 **Market Days**: Weekly trade sessions bring merchants from other settlements to exchange goods and negotiate contracts for major projects. These events require careful preparation including security arrangements, quality inspections, and cultural accommodations for visitors unfamiliar with mountain life. Trade negotiations often involve demonstrating craftsmanship techniques and touring production facilities.
 
-**Guild Assembly Meetings**: Professional organizations meet weekly to coordinate standards, training programs, and resource allocation for major projects. These gatherings follow traditions from the [[12_Research/D&D_References/Guild Traditions Compendium]] adapted for the unique challenges of mountain industrial life, including safety protocols and technical innovation requirements.
+**Guild Assembly Meetings**: Professional organizations meet weekly to coordinate standards, training programs, and resource allocation for major projects. These gatherings follow traditions from the [[Guild Traditions Compendium]] adapted for the unique challenges of mountain industrial life, including safety protocols and technical innovation requirements.
 
 **Military Training Cycles**: Regular combat drills and defensive exercises ensure all citizens maintain combat readiness for potential sieges. These training sessions include tunnel fighting techniques, fortification defense, and coordination with engineering systems that provide tactical advantages. Citizens rotate through different defensive specializations to maintain comprehensive capabilities.
 
@@ -351,7 +357,7 @@ Balancing extraction with sustainability:
 - **Summer**: Optimal conditions for major construction projects, trade expeditions, and military exercises. Extended daylight hours allow for increased surface activities and maintenance of external fortifications.
 - **Autumn**: Intensive preparation for winter including food preservation, fuel stockpiling, and completing critical maintenance projects before weather deteriorates. Harvest activities focus on preserving resources through extended cold periods.
 
-**Festival Celebrations**: Annual observances from the [[12_Research/D&D_References/Festival Calendar Complete]] include the Hammer's Day celebrating master craftsmanship, the Mountain's Strength commemorating successful defenses, and the Forge Light festival marking the longest night with displays of metalworking artistry. These celebrations showcase community achievements while reinforcing cultural values.
+**Festival Celebrations**: Annual observances from the [[Festival Calendar Complete]] include the Hammer's Day celebrating master craftsmanship, the Mountain's Strength commemorating successful defenses, and the Forge Light festival marking the longest night with displays of metalworking artistry. These celebrations showcase community achievements while reinforcing cultural values.
 
 **International Relations**: Regular diplomatic and trade relationships require coordination with other major settlements. Ironhold's representatives travel to negotiate contracts, share technical knowledge, and maintain alliance relationships that provide mutual defense agreements and resource exchange opportunities.
 
@@ -369,9 +375,9 @@ Ironhold provides:
 
 ## Connections
 
-- [[12_Research/D&D_References/Castellan Ironledger III]]
-- [[12_Research/D&D_References/Lord Commander Gareth Steelborn]]
-- [[12_Research/D&D_References/The Sundered Peaks]]
+- [[Castellan Ironledger III]]
+- [[Lord Commander Gareth Steelborn]]
+- [[The Sundered Peaks]]
 - [[12_Research/D&D_Statblocks/The Synthesis Gardens]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
@@ -389,16 +395,120 @@ Legends speak of Ironhold as a nexus where past and present converge. Locals des
 - An NPC seeks discreet help at Ironhold to avert a public scandal.
 - A map overlay reveals a hidden approach to Ironhold active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Ironhold]]
+- [[Ironhold]]
 
 <!-- enriched: true -->
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Portraits_portrait-npc-nerissa-deepcurrent-nerissa-deepcurrent.svg]]
+- [[Temple of the Sunken Cathedral]]
+- [[Warden Marcus Stonehand]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+Ironhold is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Ironhold
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Ironhold was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Ironhold
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

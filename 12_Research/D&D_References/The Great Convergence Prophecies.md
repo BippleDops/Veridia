@@ -1,27 +1,33 @@
+# The Great Convergence Prophecies
+
 ---
+title: The Great Convergence Prophecies
+type: Lore
 tags:
-- ancient-prophecy
-- both
-- both-worlds
-- complete
-- convergence
-- divination
-- historical-events
-- historical-prophecies
 - lore
-- prophecy
+- both
+- convergence
+- historical-events
 - religion
 - religious-belief
-- religious-text
 - timeline
+- historical-prophecies
+- ancient-prophecy
+- both-worlds
+- research
+- religious-text
+- prophecy
+- active
+- complete
+- divination
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Lore
 category: Religious-Historical Event
 significance: Reality-Altering
 time_period: Ancient Era - Current Era (Ongoing Fulfillment)
 created_by: cultural-expansion
-created: '2025-08-11'
 updated: '2025-08-11T00:00:00+00:00'
 related_entities:
 - '[[The Deep Mother]]'
@@ -32,6 +38,7 @@ related_entities:
 - '[[The Seven Betrayers]]'
 - '[[Queen Seraphina]]'
 ---
+
 
 
 
@@ -663,3 +670,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Shattering of the Crown]]
 - [[Aboleth Prime Yoth]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

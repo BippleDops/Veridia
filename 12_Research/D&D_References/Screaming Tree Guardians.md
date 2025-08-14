@@ -1,19 +1,26 @@
+# Screaming Tree Guardians
+
 ---
+title: Screaming Tree Guardians
+type: Lore
 tags:
-- aquabyssos
-- complete
-- creatures
-- forest-protectors
-- guardians
 - lore
+- aquabyssos
+- creatures
+- complete
+- forest-protectors
+- research
+- active
 - screaming-trees
+- guardians
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -70,3 +77,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,17 +1,24 @@
+# Relationship Webcanvas
+
 ---
-created: '2025-08-11'
-status: complete
+title: Relationship Webcanvas
+type: Lore
 tags:
+- lore
 - complete
 - content/lore
-- lore
-- status/in-progress
-- universal
 - world/both
-type: Lore
+- research
+- active
+- universal
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.321449+00:00'
 world: Universal
 ---
+
 
 
 
@@ -44,3 +51,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Update Indexes]]
+
+
+## Related
+
+*Links to related content will be added here.*

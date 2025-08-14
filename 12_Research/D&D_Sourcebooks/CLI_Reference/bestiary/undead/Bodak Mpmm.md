@@ -1,29 +1,35 @@
+# Bodak Mpmm
+
 ---
+title: Bodak Mpmm
 aliases:
 - Bodak
+type: monster
+tags:
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
+- both
+- ttrpg-cli/monster/environment/urban
+- monster
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/compendium/src/5e/mpmm
+- world/both
+- research
+- ttrpg-cli/monster/environment/swamp
+- active
+- ttrpg-cli/monster/cr/6
+- status/in-progress
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- active
-- both
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
-- world/both
-type: monster
 updated: '2025-08-13T12:34:05.909189+00:00'
 world: Both
 ---
+
 
 
 
@@ -133,3 +139,8 @@ Legends speak of bodak mpmm as a nexus where past and present converge. Locals d
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

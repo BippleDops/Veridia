@@ -1,22 +1,29 @@
+# Blood in the Water
+
 ---
+title: Blood in the Water
+type: NPC
 tags:
-- aquabyssos
-- blood
-- complete
-- event
 - lore
+- aquabyssos
 - npc
+- event
+- research
 - violence
+- active
+- complete
+- blood
+created: 2025-08-12
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: NPC
 created_by: auto-stub
-created: 2025-08-12
 MyContainer: None
 MyCategory: Events
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.832282+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -133,3 +140,8 @@ Legends speak of Blood in the Water as a nexus where past and present converge. 
 - [[Blood in the Water|02 Worldbuilding/People/Blood In The Water]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

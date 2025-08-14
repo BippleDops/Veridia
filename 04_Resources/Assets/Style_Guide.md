@@ -1,9 +1,17 @@
+# Style_Guide
+
 ---
+title: Style Guide
 type: Lore
-status: draft
+tags:
+- active
+- resource
 created: '2024-01-01'
+modified: '2025-08-14'
+status: draft
 updated: '2024-01-01T00:00:00+00:00'
 ---
+
 
 # Visual Style Guide
 
@@ -18,3 +26,8 @@ updated: '2024-01-01T00:00:00+00:00'
 - Vehicles: blueprint cutaways with numbered pins and legend space; no paragraphs.
 - UI: fantasy-themed, high-contrast, readable; short real labels where needed.
 - Negatives: modern signage, sci-fi UI, photoreal CGI, anime, bloom glare, gibberish text.
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,4 +1,7 @@
+# Enspelled Armor Level 6 Xdmg
+
 ---
+title: Enspelled Armor Level 6 Xdmg
 aliases:
 - Enspelled Armor (Level 6)
 - Enspelled (Level 6) Breastplate
@@ -13,25 +16,27 @@ aliases:
 - Enspelled (Level 6) Scale Mail
 - Enspelled (Level 6) Splint Armor
 - Enspelled (Level 6) Studded Leather Armor
-attunement: false
-created: 2025-07-23 12:39
-cssclasses: json5e-item
-modified: 2025-07-23 12:39
-obsidian-u-i-mode: preview
-status: active
+type: note
 tags:
-- active
 - both
-- content/item
 - content/lore
+- world/both
+- research
+- active
 - note
+- content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- world/both
-type: note
+created: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+attunement: false
+cssclasses: json5e-item
+obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:07.214115+00:00'
 world: Both
 ---
+
 
 
 
@@ -153,3 +158,8 @@ Legends speak of enspelled armor level 6 xdmg as a nexus where past and present 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

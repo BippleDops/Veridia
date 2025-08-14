@@ -1,20 +1,27 @@
+# Depth Merchants
+
 ---
+title: Depth Merchants
+type: Location
 tags:
 - aquabyssos
-- commerce
-- commercial-district
-- complete
-- deep-ocean
-- location
-- merchant-quarter
 - pressure-adapted
+- commercial-district
+- deep-ocean
+- research
+- merchant-quarter
+- active
+- location
+- complete
+- commerce
 - trading-district
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+population: ~8,000 (merchants, workers, and support staff)
 world: Aquabyssos
-type: Location
 danger_level: 4
 depth: 3,000-5,000 feet below surface
-population: ~8,000 (merchants, workers, and support staff)
 government: Merchant Council Oligarchy
 specialties:
 - Deep-Ocean Resources
@@ -22,7 +29,6 @@ specialties:
 - Exotic Goods
 - Deep Current Navigation
 established: ~300 years ago
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 related_entities:
 - '[[Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]'
@@ -30,6 +36,7 @@ related_entities:
 - '[[The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]'
 - '[[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-depth-merchants-depth-merchants.svg]]
@@ -529,3 +536,8 @@ Legends speak of Depth Merchants as a nexus where past and present converge. Loc
 - [[Depth Merchants|02 Worldbuilding/Places/Depth Merchants]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,24 +1,31 @@
+# Smuggler
+
 ---
+title: Smuggler
+type: Lore
 tags:
-- aquabyssos
-- complete
-- criminal-network
-- infiltration
-- investigation
 - lore
-- quest
-- smuggling
+- aquabyssos
 - undercover
+- investigation
+- criminal-network
+- quest
+- research
+- active
+- smuggling
+- complete
+- infiltration
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-expansion
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.474684+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 
@@ -385,3 +392,8 @@ Legends speak of Smuggler as a nexus where past and present converge. Locals des
 - [[The Lock]]
 - [[Rescue Senator Glaucus]]
 - [[Traveling Merchant Finn]]
+
+
+## Related
+
+*Links to related content will be added here.*

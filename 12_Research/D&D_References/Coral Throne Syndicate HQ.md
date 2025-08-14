@@ -1,31 +1,39 @@
+# Coral Throne Syndicate HQ
+
 ---
+title: Coral Throne Syndicate HQ
+type: Location
 tags:
 - aquabyssos
+- underwater-fortress
+- stronghold
+- research
+- headquarters
+- active
+- location
 - complete
 - coral-formation
-- criminal
 - criminal-headquarters
-- headquarters
-- location
-- stronghold
-- underwater-fortress
+- criminal
+created: '2025-08-10'
+modified: '2025-08-14'
 status: complete
+population: 500+ (guards, staff, prisoners)
 world: Aquabyssos
-type: Location
 category: Fortress/Stronghold
 depth: 1800-2200 feet
 difficulty: Levels 8-15
 controlled_by: '[[Coral Throne Syndicate|02 Worldbuilding/Groups/Coral Throne Syndicate]]'
 ruler: '[[Coral Empress Scarletina]]'
 danger_level: Very High
-population: 500+ (guards, staff, prisoners)
-created: '2025-08-10'
 updated: '2025-08-11T00:00:00+00:00'
 related_entities:
 - '[[Coral Throne Syndicate|02 Worldbuilding/Groups/Coral Throne Syndicate]]'
 - '[[Coral Empress Scarletina]]'
-- '[[02_Worldbuilding/Places/The Crimson Reef|02 Worldbuilding/Places/The Crimson Reef]]'
+- '[[02_Worldbuilding/Places/The Crimson Reef|02 Worldbuilding/Places/The Crimson
+  Reef]]'
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-coral-throne-syndicate-hq-coral-throne-syndicate-hq.svg]]
@@ -686,3 +694,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Coral Throne Syndicate HQ|02 Worldbuilding/Places/Coral Throne Syndicate HQ]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

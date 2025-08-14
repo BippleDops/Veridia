@@ -1,30 +1,37 @@
+# Consortium Security Constructs
+
 ---
-tags:
-- aethermoor
-- complete
-- construct
-- enforcement
-- faction
-- group
-- security
-- silverscale-consortium
-status: complete
-world: Aethermoor
+title: Consortium Security Constructs
 type: Group
+tags:
+- faction
+- enforcement
+- silverscale-consortium
+- research
+- security
+- active
+- construct
+- complete
+- aethermoor
+- group
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Enforcement Citadel]]'
+world: Aethermoor
 faction_type: Corporate Security Force
 alignment: Lawful Evil
-headquarters: '[[The Enforcement Citadel]]'
 leader: '[[Commander Ironprice]]'
 members: ~1,200 crystal constructs and operators
 influence: Continental (enforcement operations)
 wealth: Corporate funded - unlimited budget
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.640433+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 

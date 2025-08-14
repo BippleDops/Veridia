@@ -1,20 +1,27 @@
+# Name Etymology Guide
+
 ---
-updated: '2025-08-13T01:18:35.815584+00:00'
-created: '2025-08-12'
-tags:
-- both
-- complete
-- cultural_reference
-- culture
-- etymology
-- linguistics
-- lore
-- names
-status: complete
-world: Both
+title: Name Etymology Guide
 type: cultural_reference
+tags:
+- cultural_reference
+- lore
+- both
+- linguistics
+- culture
+- names
+- etymology
+- research
+- active
+- complete
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+updated: '2025-08-13T01:18:35.815584+00:00'
+world: Both
 obsidianUIMode: preview
 ---
+
 
 
 # Name Etymology Guide
@@ -433,3 +440,8 @@ Legends speak of Name Etymology Guide as a nexus where past and present converge
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

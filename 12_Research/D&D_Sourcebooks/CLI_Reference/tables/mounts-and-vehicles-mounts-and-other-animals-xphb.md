@@ -1,20 +1,25 @@
+# mounts-and-vehicles-mounts-and-other-animals-xphb
+
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-- active
-- both
-- note
-- ttrpg-cli/compendium/src/5e/xphb
+title: mounts and vehicles mounts and other animals xphb
 aliases:
 - Mounts and Vehicles; Mounts and Other Animals
 type: note
+tags:
+- both
+- research
+- active
+- note
+- ttrpg-cli/compendium/src/5e/xphb
 created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+obsidianUIMode: preview
+cssclasses: json5e-note
 updated: '2025-08-13T01:18:31.556254+00:00'
 world: Both
-status: active
 ---
+
 
 # Mounts and Vehicles; Mounts and Other Animals
 *Source: Player's Handbook (2024) p. 229. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
@@ -54,3 +59,8 @@ Legends speak of mounts and vehicles mounts and other animals xphb as a nexus wh
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

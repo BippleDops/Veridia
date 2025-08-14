@@ -1,25 +1,32 @@
+# Memory Pearls
+
 ---
+title: Memory Pearls
+type: Item
 tags:
 - aquabyssos
-- complete
-- consumable
-- healing-item
-- item
 - memory-farmers
+- healing-item
+- research
 - memory-magic
+- active
+- complete
+- item
+- consumable
+created: '2025-08-10'
+modified: '2025-08-14'
 status: complete
-world: Aquabyssos
-type: Item
-item_type: Memory Storage Consumable
 rarity: Uncommon to Legendary (varies by content)
+world: Aquabyssos
+item_type: Memory Storage Consumable
 requires_attunement: 'No'
 affiliation: '[[Memory Farmers]] (Primary Creators)'
 current_location: Various Markets and Collections Throughout Aquabyssos
 danger_level: 2
 created_by: Claude
-created: '2025-08-10'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -456,3 +463,8 @@ Legends speak of Memory Pearls as a nexus where past and present converge. Local
 
 - [[Sister Morwyn|02 Worldbuilding/Places/Sister Morwyn]]
 - [[Memory Farmers]]
+
+
+## Related
+
+*Links to related content will be added here.*

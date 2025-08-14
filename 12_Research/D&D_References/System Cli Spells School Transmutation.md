@@ -1,30 +1,37 @@
+# System Cli Spells School Transmutation
+
 ---
-complexity: Fundamental to Revolutionary
+title: System Cli Spells School Transmutation
+type: Lore
+tags:
+- lore
+- status/complete
+- mechanics/magic
+- change
+- both worlds
+- transmutation
+- content/lore
+- world/both
+- research
+- active
+- adaptation
+- complete
+- transformation
+- world/aquabyssos
+- content/mechanics
+- world/aethermoor
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+complexity: Fundamental to Revolutionary
 created_by: auto-stub
 focus: Transformation and Adaptation Magic
 practitioners: Shapechangers, adaptors, transformers
 school: Transmutation
-status: complete
-tags:
-- adaptation
-- both worlds
-- change
-- complete
-- content/lore
-- content/mechanics
-- lore
-- mechanics/magic
-- status/complete
-- transformation
-- transmutation
-- world/aethermoor
-- world/aquabyssos
-- world/both
-type: Lore
 updated: '2025-08-13T12:34:28.749348+00:00'
 world: Both Worlds
 ---
+
 
 
 
@@ -299,3 +306,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

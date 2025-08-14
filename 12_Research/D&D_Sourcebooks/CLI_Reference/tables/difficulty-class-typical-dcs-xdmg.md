@@ -1,20 +1,26 @@
+# difficulty-class-typical-dcs-xdmg
+
 ---
+title: difficulty class typical dcs xdmg
 aliases:
 - Difficulty Class; Typical DCs
-created: 2025-07-23 12:39
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- world/both
-type: note
+created: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.299357'
 world: Both
 ---
+
 
 # Difficulty Class; Typical DCs
 *Source: Dungeon Master's Guide (2024) p. 29. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
@@ -50,3 +56,8 @@ Legends speak of difficulty class typical dcs xdmg as a nexus where past and pre
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

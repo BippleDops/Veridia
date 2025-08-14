@@ -1,13 +1,21 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Template Quest.md
+aliases:
+- Template Questmd
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # 05_Templates/World Builder Templates/Template-Quest.md
 
@@ -24,7 +32,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Template-Item]]
+- [[Template-Item]]
 
 ## Notes
 
@@ -35,3 +43,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Original Glaucus]]
+- [[Throne of Bubbles]]
+- [[04_Resources_Assets_Locations_location-city-quartermaster-judith-supplycurrent-quartermaster-judith-supplycurrent.svg]]
+- [[Master Smith-Priest Vulcan Depthforge]]
+- [[Captain Finn Crosscurrent]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-house-crimsontiide-v1-house-crimsontiide.svg]]
+- [[04_Resources_Assets_Locations_location-city-goldspire-confederacy-v1-goldspire-confederacy.svg]]
+- [[The Bone Palace of Sorrows]]

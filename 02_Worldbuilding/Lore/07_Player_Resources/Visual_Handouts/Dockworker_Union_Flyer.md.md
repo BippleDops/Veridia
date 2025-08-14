@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Dockworker Union Flyer.md
+aliases:
+- Dockworker Union Flyermd
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 07_Player_Resources/Visual_Handouts/Dockworker_Union_Flyer.md
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/INDEX]]
+- [[INDEX]]
 
 ## Notes
 

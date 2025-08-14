@@ -1,20 +1,27 @@
+# Memory Parasite Infection
+
 ---
+title: Memory Parasite Infection
+type: Location
 tags:
 - aquabyssos
-- complete
-- event
-- location
-- medical-crisis
 - memory
 - parasites
+- event
+- research
+- medical-crisis
+- active
+- location
+- complete
+created: 2025-08-08
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: 2025-08-08
 updated: '2025-08-13T01:18:36.440610+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -172,3 +179,8 @@ Legends speak of Memory Parasite Infection as a nexus where past and present con
 - [[Memory Parasite Infection|02 Worldbuilding/Places/Memory Parasite Infection]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

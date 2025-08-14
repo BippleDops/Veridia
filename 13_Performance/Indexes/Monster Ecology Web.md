@@ -1,19 +1,24 @@
 ---
-created: null
-obsidianUIMode: preview
-status: complete
-tags:
-- complete
-- ecology
-- index
-- lore
-- status/complete
-- universal
-- world/both
+title: Monster Ecology Web
 type: Lore
+tags:
+- lore
+- index
+- status/complete
+- report
+- universal
+- ecology
+- world/both
+- active
+- complete
+created: null
+modified: '2025-08-14'
+status: complete
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:03.170937+00:00'
 world: Universal
 ---
+
 
 
 

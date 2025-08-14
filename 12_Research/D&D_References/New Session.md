@@ -1,17 +1,24 @@
+# New Session
+
 ---
+title: New Session
 aliases: []
-tags:
-- both
-- category/note
-- lore
-- note
-- unknown
 type: Lore
+tags:
+- lore
+- both
+- unknown
+- research
+- category/note
+- active
+- note
+created: '2025-08-11'
+modified: '2025-08-14'
 status: unknown
 world: Both
 updated: '2025-08-13T01:18:31.202359+00:00'
-created: '2025-08-11'
 ---
+
 
 
 
@@ -74,3 +81,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Lore/Player 7|02 Worldbuilding/Lore/Player 7]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,20 +1,27 @@
+# Sky_Events_Pack_D
+
 ---
 title: "Sky Events Pack D \u2014 Faction Spotlight (Aethermoor)"
 type: gm_resource
-status: complete
 tags:
-- both
-- complete
-- events
 - factions
+- both
 - gm
-- gm_resource
-- sky
 - travel
+- research
+- events
+- active
+- gm_resource
+- complete
+- sky
+- aethermoor
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.150070+00:00'
 world: Both
 ---
+
 
 
 # Sky Events Pack D — Faction Spotlight (24)
@@ -267,3 +274,8 @@ Legends speak of Sky Events Pack D as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

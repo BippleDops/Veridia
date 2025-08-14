@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: The Border Marches
+type: Faction
 tags:
-- aethermoor
-- complete
 - content/faction
 - faction
-- status/in-progress
+- organization
 - world/aethermoor
-type: Faction
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.347619+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Heraldry
@@ -65,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Queen]]
+
+
+## Known Members
+
+- [[04_Resources_Assets_Locations_location-city-archdruid-marina-kelpweaver-v1-archdruid-marina-kelpweaver.svg]]

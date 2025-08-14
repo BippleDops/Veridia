@@ -1,10 +1,27 @@
+# Aethermoor - Session 01 Blood in the Harbor
+
 ---
+title: Aethermoor   Session 01 Blood in the Harbor
+type: Lore
+tags:
+- lore
+- campaign/session
+- content/lore
+- research
+- world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+level: 3
 MyCategory: Unknown
 MyContainer: None
 absent: []
 campaign: Aethermoor - The Plague of Crystals
 corruption_exposure: 2
-created: '2025-08-11'
 danger_level: 5
 date: null
 duration_hours: 4
@@ -15,7 +32,6 @@ items_gained:
 - Vial of purple liquid
 - Map fragment - harbor shipping routes
 - Letter of introduction from Marina
-level: 3
 locations_visited:
 - '[[Port Meridian - Harbor District]]'
 - '[[Pier 7]]'
@@ -25,7 +41,7 @@ locations_visited:
 npcs_met:
 - '[[Captain Lyanna Brightshield]]'
 - '[[Marina-Red-Tide-Coralheart]]'
-- '[[02_Worldbuilding/Lore/Dock Worker Tomás|Dock Worker Tomás]]'
+- "[[02_Worldbuilding/Lore/Dock Worker Toma\u0301s|Dock Worker Tom\xE1s]]"
 - '[[Brother Marcus Steelbane]]'
 obsidianUIMode: preview
 players: []
@@ -41,20 +57,11 @@ quests_started:
 - '[[Investigate the Crystal Plague]]'
 - '[[Missing Persons of Port Meridian]]'
 session: Session-01
-status: complete
-tags:
-- aethermoor
-- campaign/session
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/aethermoor
-type: Lore
 updated: '2025-08-13T12:34:17.829962+00:00'
 world: Aethermoor
 xp_awarded: 750
 ---
+
 
 
 
@@ -275,3 +282,8 @@ Track each character's exposure level (0-6 scale)
 - [[Missing Persons of Port Meridian]]
 - [[The Siren's Rest Tavern]]
 - [[Whisper Island]]
+
+
+## Related
+
+*Links to related content will be added here.*

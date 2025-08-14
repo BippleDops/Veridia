@@ -1,32 +1,37 @@
 ---
+title: Establish New World Order
+type: Faction
+tags:
+- status/complete
+- political-movement
+- content/faction
+- faction
+- organization
+- institutional-reform
+- world/aethermoor
+- active
+- complete
+- moderates
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Crystal Governance Institute]]'
+membership: Unknown
 MyCategory: Governance Movement
 MyContainer: Political Reform
 alignment: Lawful Neutral (Systematic Reformers)
-created: '2025-08-08'
 created_by: auto-stub
 faction_type: Political Reform Movement
-headquarters: '[[The Crystal Governance Institute]]'
 influence: Political Institutions, Policy Development
 leader: '[[02_Worldbuilding/Lore/Director Prism Reformheart]]'
 members: ~500 active members, ~2000 supporters
-modified: 2025-08-11 - Category/Group
 obsidianUIMode: preview
 purpose: Systematic governmental reform through crystal-enhanced governance
-status: complete
-tags:
-- aethermoor
-- complete
-- content/faction
-- faction
-- institutional-reform
-- moderates
-- political-movement
-- status/complete
-- world/aethermoor
-type: Faction
 updated: '2025-08-13T12:34:17.446990+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Heraldry
@@ -581,3 +586,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Aethermoor - Session 10 The Deep Mother Rises]]
+
+
+## Known Members
+
+- [[04_Resources_Assets_Locations_location-city-harbor-master-s-license-harbor-master-s-license.svg]]
+- [[The Bloodline Awakens]]
+- [[04_Resources_Assets_Locations_location-city-keeper-valdris-goldvault-v1-keeper-valdris-goldvault.svg]]

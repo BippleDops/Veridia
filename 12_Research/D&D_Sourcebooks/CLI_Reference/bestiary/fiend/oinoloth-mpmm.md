@@ -1,26 +1,33 @@
+# oinoloth-mpmm
+
 ---
+title: oinoloth mpmm
 aliases:
 - Oinoloth
+type: monster
+tags:
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/fiend/yugoloth
+- ttrpg-cli/monster/cr/12
+- monster
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/compendium/src/5e/mpmm
+- world/both
+- research
+- active
+- status/in-progress
+- ttrpg-cli/monster/environment/desert
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/yugoloth
-- world/both
-type: monster
 updated: '2025-08-12T23:37:35.571302'
 world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -147,3 +154,8 @@ Legends speak of oinoloth mpmm as a nexus where past and present converge. Local
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Brother Pelagios Irondeep
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Brother Pelagios Irondeep
 
@@ -24,8 +28,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Order of the Drowned Star]]
-- [[12_Research/D&D_References/Order of the Drowned Star]]
+- [[Order of the Drowned Star]]
+- [[Order of the Drowned Star]]
 - [[12_Research/D&D_Statblocks/Temple of the Sunken Cathedral]]
 - [[02_Worldbuilding/Places/Temple of the Sunken Cathedral]]
 - [[02_Worldbuilding/Groups/Orders/Order of the Drowned Star]]

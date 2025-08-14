@@ -1,25 +1,31 @@
 ---
-affiliation: '[[The Depth Wardens]] (Military Force)'
-age: '51'
-created: '2025-08-09'
-created_by: auto-stub
-location: '[[The Fortress of the Deeps]] - Command Center'
-race: Human (Pressure-Adapted)
-role: Military Commander
-status: complete
+title: Commander Typhoon Blackheart
+type: Npc
 tags:
 - aquabyssos
-- complete
-- content/npc
+- status/complete
 - military-commander
 - npc
-- status/archived
-- status/complete
+- character
+- content/npc
+- active
+- complete
 - world/aquabyssos
-type: Npc
+- status/archived
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+race: Human (Pressure-Adapted)
+class: Unknown
+location: '[[The Fortress of the Deeps]] - Command Center'
+affiliation: '[[The Depth Wardens]] (Military Force)'
+age: '51'
+created_by: auto-stub
+role: Military Commander
 updated: '2025-08-13T12:34:17.654409+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -220,6 +226,136 @@ Commander Typhoon Blackheart leads [[The Depth Wardens]], Aquabyssos's elite mil
 - Represents professional military ethics in challenging circumstances
 - Key figure for any adventures involving large-scale threats to realm
 
+
+
+## Appearance
+
+Commander Typhoon Blackheart presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Clever, clever, clever
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Protecting loved ones
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Commander Typhoon Blackheart harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Stolen identity
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Deep and resonant
+
+**Speech Pattern**: Peppered with idioms
+
+**Physical Habits**: Gestures expressively
+
+## Current Activities
+
+Commander Typhoon Blackheart is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Commander Typhoon Blackheart needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Commander Typhoon Blackheart stopped or removed
+3. **The Secret**: Information about Commander Typhoon Blackheart's past surfaces
+4. **The Alliance**: Opportunity to work with or against Commander Typhoon Blackheart
+5. **The Crisis**: Commander Typhoon Blackheart is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Perfect military patron who can provide resources and missions
 - Represents stability and competence in politically chaotic environment
@@ -243,6 +379,13 @@ Legends speak of Commander Typhoon Blackheart as a nexus where past and present 
 
 <!-- enriched: true -->
 
+
+
+
+## Relationship Web
+
+- [[Professor Aldric Crystalweaver]]: *student*
+- [[04_Resources_Assets_Symbols_symbol-heraldry-navigation-geograph-navigation-geograph.svg]]: *informant*
 
 ## Connections
 

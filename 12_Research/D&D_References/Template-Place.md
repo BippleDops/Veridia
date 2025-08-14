@@ -1,18 +1,24 @@
+# Template-Place
+
 ---
+title: Template Place
 type: Lore
-status: complete
 tags:
-- active
+- lore
 - both
 - category/place
-- lore
+- research
+- active
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 MyContainer: '[[05_Templates/World Builder Templates/Template-Hub.md|Template-Hub]]'
 MyCategory: Commerce
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:31.201435+00:00'
-created: '2025-08-11'
 ---
+
 
 
 
@@ -233,3 +239,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Lore/Template_Place_Placeholder.png|02 Worldbuilding/Lore/Template Place Placeholder.png]]
+
+
+## Related
+
+*Links to related content will be added here.*

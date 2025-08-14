@@ -1,22 +1,29 @@
+# The Leviathan Prophets
+
 ---
+title: The Leviathan Prophets
+type: NPC
 tags:
 - aquabyssos
-- complete
 - cult
-- leviathan
 - npc
 - organization
+- research
+- leviathan
 - prophecy
+- active
+- complete
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: NPC
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Religious
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.861470+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -153,3 +160,8 @@ Legends speak of The Leviathan Prophets as a nexus where past and present conver
 - [[The Leviathan Prophets|02 Worldbuilding/People/The Leviathan Prophets]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

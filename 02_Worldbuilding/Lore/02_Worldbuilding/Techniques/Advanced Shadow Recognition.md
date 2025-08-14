@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Advanced Shadow Recognition
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Techniques/Advanced Shadow Recognition
 
@@ -24,7 +28,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Shadow Conspiracy Investigation]]
+- [[Shadow Conspiracy Investigation]]
 - [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Conspiracy Investigation]]
 
 ## Notes

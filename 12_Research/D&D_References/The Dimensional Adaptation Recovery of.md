@@ -1,17 +1,24 @@
+# The Dimensional Adaptation Recovery of
+
 ---
-created: '2025-08-11'
-status: complete
+title: The Dimensional Adaptation Recovery of
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
+- research
 - world/both
-type: Npc
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.688508+00:00'
 world: Both
 ---
+
 
 
 
@@ -39,3 +46,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Dimensional Adaptation Recovery of Captain Pressure-Storm|02 Worldbuilding/People/The Dimensional Adaptation Recovery Of Captain Pressure Storm]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

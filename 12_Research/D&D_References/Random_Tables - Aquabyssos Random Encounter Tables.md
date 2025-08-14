@@ -1,19 +1,25 @@
+# Random_Tables - Aquabyssos Random Encounter Tables
+
 ---
+title: Random Tables   Aquabyssos Random Encounter Tables
+type: Lore
 tags:
-- active
+- lore
 - aquabyssos
 - encounters
-- lore
 - random-tables
+- research
+- active
 - reference
-type: Lore
+created: '2025-08-07'
+modified: '2025-08-14'
+status: active
 system: D&D 5e
 campaign: Aquabyssos
-created: '2025-08-07'
 world: Aquabyssos
 updated: '2025-08-13T01:18:37.213178+00:00'
-status: active
 ---
+
 
 
 
@@ -372,3 +378,7 @@ status: active
 
 *"Every encounter in Aquabyssos changes you. The question isn't whether you'll survive, but what you'll become."*
 — Explorer's Warning
+
+## Related
+
+*Links to related content will be added here.*

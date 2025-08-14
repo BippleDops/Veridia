@@ -1,14 +1,20 @@
+# Reference_Cards - Aquabyssos_Quick_Reference_Cards
+
 ---
+title: Reference Cards   Aquabyssos Quick Reference Cards
+type: Mechanic
+tags:
+- aquabyssos
+- active
+- mechanic
+- research
 created: null
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T04:22:10.867487+00:00'
 world: Aquabyssos
-status: active
-tags:
-- active
-- aquabyssos
-- mechanic
-type: Mechanic
 ---
+
 
 
 # Aquabyssos Quick Reference Cards
@@ -366,3 +372,8 @@ Legends speak of Aquabyssos Quick Reference Cards as a nexus where past and pres
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

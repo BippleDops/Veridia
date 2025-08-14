@@ -1,3 +1,15 @@
+# Locations_Gallery
+
+---
+title: Locations Gallery
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Locations Gallery
 
 %% Use reading mode for visual gallery %%
@@ -6787,3 +6799,8 @@
 
 ## location-city-world-map-world-map
 ![[04_Resources/Assets/Locations/location-city-world-map-world-map.svg]]
+
+
+## Related
+
+*Links to related content will be added here.*

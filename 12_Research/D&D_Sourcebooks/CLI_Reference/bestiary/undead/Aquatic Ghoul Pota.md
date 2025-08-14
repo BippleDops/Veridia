@@ -1,26 +1,33 @@
+# Aquatic Ghoul Pota
+
 ---
+title: Aquatic Ghoul Pota
 aliases:
 - Aquatic Ghoul
+type: monster
+tags:
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
+- both
+- aquabyssos
+- monster
+- ttrpg-cli/monster/cr/1
+- research
+- world/both
+- active
+- ttrpg-cli/compendium/src/5e/pota
+- status/in-progress
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- active
-- both
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/pota
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
-- world/both
-type: monster
 updated: '2025-08-13T12:34:05.896378+00:00'
 world: Both
 ---
+
 
 
 
@@ -88,3 +95,8 @@ Legends speak of aquatic ghoul pota as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: GM Resources
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Lore/GM Resources
 
@@ -24,10 +28,10 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Campaign_Dashboard]]
-- [[12_Research/D&D_References/Campaign_Dashboard]]
-- [[12_Research/D&D_References/Campaign_Dashboard]]
-- [[12_Research/D&D_References/Campaign_Dashboard]]
+- [[Campaign_Dashboard]]
+- [[Campaign_Dashboard]]
+- [[Campaign_Dashboard]]
+- [[Campaign_Dashboard]]
 
 ## Notes
 

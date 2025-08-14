@@ -1,29 +1,36 @@
+# The Crystal Wardens
+
 ---
+title: The Crystal Wardens
+type: Location
 tags:
-- aethermoor
-- complete
-- crystal
-- elite
-- guardian
-- location
 - magical
-- military
 - order
+- military
+- crystal
+- guardian
 - organization
+- research
+- active
+- elite
+- location
+- complete
 - protection
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Location
 security_level: high
 access: military_only
 danger_level: Moderate
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.217536+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-crystal-wardens-the-crystal-wardens.svg]]

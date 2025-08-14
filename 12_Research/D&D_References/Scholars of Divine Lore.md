@@ -1,21 +1,27 @@
+# Scholars of Divine Lore
+
 ---
+title: Scholars of Divine Lore
+type: Group
 tags:
-- aethermoor
 - aquabyssos
 - both
-- complete
-- deep-mother
-- group
 - research
-- resistance
+- deep-mother
 - scholars
+- active
+- complete
+- aethermoor
+- group
+- resistance
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Group
 created_by: claude
-created: '2025-08-12'
 updated: '2025-08-13T01:18:36.689662+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-scholars-of-divine-lore-scholars-of-divine-lore.svg]]
@@ -468,3 +474,8 @@ Legends speak of Scholars of Divine Lore as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,23 +1,30 @@
+# Shadow Citizenship Act
+
 ---
+title: Shadow Citizenship Act
+type: NPC
 tags:
-- aquabyssos
 - citizenship
-- complete
-- law
+- aquabyssos
 - lore
-- npc
-- politics
 - shadow
+- npc
+- research
+- law
+- active
+- complete
+- politics
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: NPC
 created_by: auto-stub
-created: '2025-08-11'
 MyContainer: None
 MyCategory: Political
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.952908+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -158,3 +165,8 @@ Legends speak of Shadow Citizenship Act as a nexus where past and present conver
 
 <!-- enriched: true -->
 iched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

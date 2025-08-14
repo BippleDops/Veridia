@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 04
 type: adventure
-status: active
 tags:
-- combat
+- adventure
 - session-notes
 - aquatic
-- adventure
+- quest
+- active
+- combat
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 04: [Ocean Depths Mystery]
 
@@ -32,7 +38,7 @@ tags:
 ### Underwater Factions
 
 - [[Pearl Divers Guild]] - Information network
-- [[12_Research/D&D_References/Deep Wardens]] - Military authority
+- [[Deep Wardens]] - Military authority
 - [[Tide Singers]] - Mystical knowledge
 
 ## Investigation Elements
@@ -68,3 +74,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Key NPCs
+
+- [[04_Resources_Assets_Locations_location-city-master-smith-vulcan-deepforge-v1-master-smith-vulcan-deepforge.svg]]
+- [[Quest - The Symbiotic Sacrament]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-deep-sea-agricultural-research-institut-deep-sea-agricultural-research-institut.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-great-recognition-the-great-recognition.svg]]
+- [[04_Resources_Assets_Locations_location-city-master-goldwin-ledgerkeeper-v1-master-goldwin-ledgerkeeper.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-transformation-medicine-techniques-v1-transformation-medicine-techniques.svg]]
+- [[04_Resources_Assets_Locations_location-city-sage-currentknow-v1-sage-currentknow.svg]]
+- [[Port Quarter]]

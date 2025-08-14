@@ -1,19 +1,26 @@
+# Text Generator Templates - Generate Campaign NPCs
+
 ---
+title: Text Generator Templates   Generate Campaign NPCs
 type: Lore
-status: alive
 tags:
+- lore
+- both
+- template
 - ai-generation
 - alive
-- both
-- lore
 - npc
-- template
+- research
+- active
+created: '2025-08-11'
+modified: '2025-08-14'
+status: alive
 prompt_type: npc_generation
 setting: Shadowhaven
 world: Both
 updated: '2025-08-13T01:18:31.186044+00:00'
-created: '2025-08-11'
 ---
+
 
 
 
@@ -283,3 +290,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Councillor Elara Brightwater|02 Worldbuilding/Lore/Councillor Elara Brightwater]]
+
+
+## Related
+
+*Links to related content will be added here.*

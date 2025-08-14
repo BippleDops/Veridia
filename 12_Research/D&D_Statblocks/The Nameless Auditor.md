@@ -1,25 +1,33 @@
+# The Nameless Auditor
+
 ---
-tags:
-- aethermoor
-- complete
-- information-broker
-- mysterious
-- npc
-- person
-- silverscale-consortium
-- spymaster
-status: complete
-world: Aethermoor
+title: The Nameless Auditor
 type: NPC
-role: Scale of Information
-affiliation: '[[Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]] - Board of Scales'
-age: Unknown
+tags:
+- mysterious
+- information-broker
+- person
+- npc
+- silverscale-consortium
+- research
+- active
+- spymaster
+- complete
+- aethermoor
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
 race: Unknown (appears human)
 location: '[[The Black Ledger]] - Intelligence Archive'
+world: Aethermoor
+role: Scale of Information
+affiliation: '[[Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]
+  - Board of Scales'
+age: Unknown
 created_by: auto-stub
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -427,3 +435,8 @@ Legends speak of The Nameless Auditor as a nexus where past and present converge
 <!-- enriched: true -->
 - [[Lady Jade Clawgrip]]
 - [[Memory Farmers]]
+
+
+## Related
+
+*Links to related content will be added here.*

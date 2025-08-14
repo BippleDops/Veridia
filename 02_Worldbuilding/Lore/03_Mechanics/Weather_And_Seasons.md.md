@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Weather And Seasons.md
+aliases:
+- Weather And Seasonsmd
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 03_Mechanics/Weather_And_Seasons.md
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Language Evolution Tracker]]
-- [[12_Research/D&D_References/Language_Evolution_Tracker]]
+- [[Language Evolution Tracker]]
+- [[Language_Evolution_Tracker]]
 
 ## Notes
 

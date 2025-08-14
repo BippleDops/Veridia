@@ -1,14 +1,21 @@
+# Shadow_Separation_Syndrome
+
 ---
-created: '2025-08-13'
-status: complete
+title: Shadow Separation Syndrome
+type: Transformation Mechanics
 tags:
 - mechanics/transformation
+- research
 - shadow/conspiracy
+- active
 - identity/horror
-type: Transformation Mechanics
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Shadow Separation Syndrome
 ## Consciousness Splitting Mechanics
@@ -223,3 +230,7 @@ Shadow Conspiracy surgical techniques can separate a person's shadow from their 
 ---
 
 *Shadow separation represents one of the most insidious forms of transformation, attacking identity itself while serving as a powerful tool for conspiracy infiltration.*
+
+## Related
+
+*Links to related content will be added here.*

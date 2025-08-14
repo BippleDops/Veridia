@@ -1,14 +1,20 @@
+# Oracle
+
 ---
+title: Oracle
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 world: Both
 updated: '2025-08-13T01:18:36.920949+00:00'
-created: '2025-08-11'
-status: active
-tags:
-- active
-- both
-- npc
-type: NPC
 ---
+
 
 
 
@@ -192,3 +198,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Prince Caspian Duskwater]]
 - [[The Leviathan Prophets]]
 - [[The Waking Prophets]]
+
+
+## Related
+
+*Links to related content will be added here.*

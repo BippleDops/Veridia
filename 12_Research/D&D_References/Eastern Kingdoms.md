@@ -1,20 +1,27 @@
+# Eastern Kingdoms
+
 ---
+title: Eastern Kingdoms
+type: Lore
 tags:
-- aethermoor
-- complete
-- eastern-kingdoms
-- historical-events
-- historical-region
-- history
 - lore
+- history
+- historical-events
 - military-history
-- monarchy
-- political-history
 - timeline
+- political-history
+- research
+- monarchy
 - trade-empire
+- active
+- eastern-kingdoms
+- complete
+- historical-region
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 category: Political Entity
 significance: Major Continental Power
 time_period: Ancient Era - Current Era
@@ -26,7 +33,6 @@ participants:
 - Trade Guilds
 outcome: Ongoing Major Power
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 related_entities:
 - '[[Aethermoor]]'
@@ -36,6 +42,7 @@ related_entities:
 - '[[Aquabyssos]]'
 - '[[The Shattering of the Crown]]'
 ---
+
 
 
 
@@ -1371,3 +1378,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Great Crystallization]]
 - [[The Shattering of the Crown]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,6 +1,25 @@
+# Thunderclap Xphb
+
 ---
+title: Thunderclap Xphb
 aliases:
 - Thunderclap
+type: note
+tags:
+- both
+- mechanics/magic
+- content/lore
+- world/both
+- research
+- active
+- campaign/arc
+- note
+- status/in-progress
+- importance/core
+- ttrpg-cli/compendium/src/5e/xphb
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
 classes:
 - Bard
 - Bard (College of Lore)
@@ -12,26 +31,12 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Evoker)
-created: 2025-07-23
 cssclasses: json5e-spell
-modified: 2025-07-23 12:39
 obsidianUIMode: preview
-status: active
-tags:
-- active
-- both
-- campaign/arc
-- content/lore
-- importance/core
-- mechanics/magic
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-- world/both
-type: note
 updated: '2025-08-13T12:34:06.367394+00:00'
 world: Both
 ---
+
 
 
 # Thunderclap
@@ -70,3 +75,8 @@ Legends speak of thunderclap xphb as a nexus where past and present converge. Lo
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

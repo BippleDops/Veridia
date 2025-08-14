@@ -1,3 +1,15 @@
+# player_agency_preservation_study
+
+---
+title: player agency preservation study
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Player Agency Preservation Study
 
 ## Maintaining Player Choice in Complex Narrative Systems
@@ -137,3 +149,7 @@ Healthy agency preservation shows:
 - **Creative Engagement**: Players propose solutions and approaches beyond offered options
 
 *Research methodology: Player psychology studies, 89 campaign agency analysis, decision-making behavior observation*
+
+## Related
+
+*Links to related content will be added here.*

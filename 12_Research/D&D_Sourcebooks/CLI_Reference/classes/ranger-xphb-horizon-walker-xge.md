@@ -1,21 +1,27 @@
+# ranger-xphb-horizon-walker-xge
+
 ---
+title: ranger xphb horizon walker xge
 aliases:
 - Horizon Walker
-created: 2025-07-23
-cssclasses: json5e-class
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- ttrpg-cli/subclass/ranger/horizon-walker
+- ttrpg-cli/compendium/src/5e/xge
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/ranger/horizon-walker
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-class
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.430856'
 world: Both
 ---
+
 
 # Horizon Walker
 *[[ranger-xphb|Ranger]]: Ranger Subclass*  
@@ -127,3 +133,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
  enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,23 +1,30 @@
+# Forbidden Tomes of Deep Mother
+
 ---
+title: Forbidden Tomes of Deep Mother
+type: Items
 tags:
-- aethermoor
 - aquabyssos
-- artifacts
-- books
 - both
-- complete
-- deep-mother
-- forbidden-knowledge
-- items
-- sanity-cost
 - tomes
+- items
+- complete
+- research
+- deep-mother
+- active
+- sanity-cost
+- artifacts
+- forbidden-knowledge
+- aethermoor
+- books
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Items
 created_by: claude
-created: '2025-08-12'
 updated: '2025-08-13T01:18:37.088361+00:00'
 ---
+
 
 
 # Forbidden Tomes of Deep Mother
@@ -474,3 +481,8 @@ Legends speak of Forbidden Tomes of Deep Mother as a nexus where past and presen
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 2   The Crystal Fever
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 2 - The Crystal Fever
 
@@ -37,3 +44,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-redbeard-captain-redbeard.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-threshold-captain-threshold.svg]]
+- [[Quest - The Runaway Golem]]
+- [[04_Resources_Assets_Locations_location-city-crystal-master-prism-lightweaver-crystal-master-prism-lightweaver.svg]]
+- [[Quest - The Deep Alliance]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-crystallization-process-v1-crystallization-process.png]]
+- [[International Trade]]
+- [[04_Resources_Assets_Locations_location-city-marina-clearwater-v1-marina-clearwater.svg]]

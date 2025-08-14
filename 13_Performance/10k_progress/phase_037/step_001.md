@@ -1,9 +1,16 @@
 ---
+title: step 001
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 37
 step: 1
 total_step: 3601
 ---
+
 
 # Phase 37 - Step 1
 

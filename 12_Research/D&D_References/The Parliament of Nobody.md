@@ -1,29 +1,36 @@
+# The Parliament of Nobody
+
 ---
+title: The Parliament of Nobody
+type: Group
 tags:
 - aquabyssos
-- complete
 - faction
-- group
-- major-faction
 - political
 - shadow-government
+- research
+- active
+- complete
+- major-faction
+- group
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+headquarters: '[[The Null Chamber]]'
 world: Aquabyssos
-type: Group
 faction_type: Shadow Government
 alignment: Chaotic Neutral
-headquarters: '[[The Null Chamber]]'
 leader: '[[The Speaker of Silence]]'
 members: Unknown - estimated 200+ active representatives
 influence: City-wide (Aquabyssos)
 wealth: Moderate (funded through information trading)
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.765018+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 

@@ -1,14 +1,20 @@
+# The Verdant Accord
+
 ---
-updated: '2025-08-13T01:18:36.880901+00:00'
-created: '2025-08-12'
+title: The Verdant Accord
+type: npc
 tags:
+- npc
+- research
+- active
+- complete
 - aethermoor
 - category/people
-- complete
-- npc
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
+updated: '2025-08-13T01:18:36.880901+00:00'
 world: Aethermoor
-type: npc
 obsidianUIMode: preview
 char_status: Alive
 char_race: Human
@@ -26,6 +32,7 @@ accessibility:
   - X-Card
   - Open Door
 ---
+
 
 
 
@@ -98,3 +105,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Emerald Sage Willowbark]]
 - [[The Verdant Reach]]
 - [[Quest - Diplomatic Immunity]]
+
+
+## Related
+
+*Links to related content will be added here.*

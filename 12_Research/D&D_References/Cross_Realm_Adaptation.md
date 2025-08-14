@@ -1,14 +1,21 @@
+# Cross_Realm_Adaptation
+
 ---
-created: '2025-08-13'
-status: complete
+title: Cross Realm Adaptation
+type: Transformation Mechanics
 tags:
 - mechanics/transformation
-- cross-realm/adaptation
+- research
 - dual/nature
-type: Transformation Mechanics
+- active
+- cross-realm/adaptation
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Cross-Realm Adaptation
 ## Dual Environment Evolution
@@ -62,3 +69,7 @@ Characters who frequently travel between Aquabyssos and Aethermoor develop hybri
 ---
 
 *Cross-realm adaptation enables diplomatic bridge-building but comes with social and identity costs.*
+
+## Related
+
+*Links to related content will be added here.*

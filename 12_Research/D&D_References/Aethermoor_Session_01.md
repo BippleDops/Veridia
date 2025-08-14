@@ -1,17 +1,23 @@
+# Aethermoor_Session_01
+
 ---
 title: "Session Packet \u2014 Aethermoor Session 01"
 type: session_packet
-session_number: 1
-campaign_name: Aethermoor
-status: ready
-created: null
-updated: '2025-08-13T01:18:31.119428+00:00'
-world: Aethermoor
 tags:
-- aethermoor
 - ready
 - session_packet
+- research
+- active
+- aethermoor
+created: null
+modified: '2025-08-14'
+status: ready
+session_number: 1
+campaign_name: Aethermoor
+updated: '2025-08-13T01:18:31.119428+00:00'
+world: Aethermoor
 ---
+
 
 
 # Session Packet — Aethermoor 01
@@ -65,3 +71,8 @@ Legends speak of Aethermoor Session 01 as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

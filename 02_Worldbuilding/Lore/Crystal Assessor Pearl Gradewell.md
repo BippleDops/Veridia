@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- crystal-enhanced
-- aquabyssos
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/aquabyssos
+title: Crystal Assessor Pearl Gradewell
 type: Lore
+tags:
+- lore
+- aquabyssos
+- world/aquabyssos
+- content/lore
+- active
+- complete
+- status/in-progress
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.191041+00:00'
 world: Aquabyssos
 ---
+
 
 
 ## Overview
@@ -41,12 +45,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Crystal Forest]]
+- [[Crystal Forest]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Crystal Forest]]
+- [[Crystal Forest]]
 
 
 ## Related

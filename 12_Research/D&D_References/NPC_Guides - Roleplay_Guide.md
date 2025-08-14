@@ -1,12 +1,19 @@
+# NPC_Guides - Roleplay_Guide
+
 ---
+title: NPC Guides   Roleplay Guide
+type: research
+tags:
+- both
+- active
+- research
 created: null
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:31.154418+00:00'
 world: Both
-status: active
-tags:
-- active
-- both
 ---
+
 
 # NPC Roleplay Guide
 *Master the art of bringing Non-Player Characters to life*
@@ -404,3 +411,8 @@ Legends speak of Roleplay Guide as a nexus where past and present converge. Loca
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

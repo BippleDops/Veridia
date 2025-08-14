@@ -1,3 +1,15 @@
+# Master_Groups_Index
+
+---
+title: Master Groups Index
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 
 ## Culture & Daily Life
 

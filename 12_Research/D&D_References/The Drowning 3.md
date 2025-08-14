@@ -1,18 +1,25 @@
+# The Drowning 3
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/lore
-- historical-event
-- lore
-- status/in-progress
-- world/aquabyssos
+title: The Drowning 3
 type: Lore
+tags:
+- lore
+- aquabyssos
+- world/aquabyssos
+- historical-event
+- content/lore
+- research
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:29.089087+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -53,3 +60,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[The Bathyal Succession]]
 - [[The Great Convergence Prophecies]]
+
+
+## Related
+
+*Links to related content will be added here.*

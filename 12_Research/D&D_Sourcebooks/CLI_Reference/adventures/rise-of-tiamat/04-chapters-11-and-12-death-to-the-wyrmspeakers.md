@@ -1,20 +1,26 @@
+# 04-chapters-11-and-12-death-to-the-wyrmspeakers
+
 ---
+title: 04 chapters 11 and 12 death to the wyrmspeakers
 aliases:
 - Chapters 11 and 12: Death to the Wyrmspeakers
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- ttrpg-cli/compendium/src/5e/rot
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/rot
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.623655'
 world: Both
 ---
+
 
 # Chapters 11 and 12: Death to the Wyrmspeakers
 *Source: Rise of Tiamat, p. 124* 
@@ -778,3 +784,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
  enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

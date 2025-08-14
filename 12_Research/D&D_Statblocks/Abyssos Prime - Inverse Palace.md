@@ -1,22 +1,29 @@
+# Abyssos Prime - Inverse Palace
+
 ---
+title: Abyssos Prime   Inverse Palace
+type: Location
 tags:
-- abyssal
 - aquabyssos
-- complete
 - cosmic-horror
+- abyssal
+- research
+- active
 - location
+- complete
 - palace
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-abyssos-prime-inverse-palace-abyssos-prime-inverse-palace.svg]]
@@ -317,3 +324,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Abyssos Prime - Inverse Palace|02 Worldbuilding/Places/Abyssos Prime Inverse Palace]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

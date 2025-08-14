@@ -1,22 +1,28 @@
+# orc-bahgtru-vgm
+
 ---
+title: orc bahgtru vgm
 aliases:
 - Bahgtru
-created: 2025-07-23
-cssclasses: json5e-deity
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- importance/core
+- ttrpg-cli/deity/orc
+- research
+- world/both
+- active
 - note
 - status/in-progress
+- importance/core
 - ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/deity/orc
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-deity
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.051548'
 world: Both
 ---
+
 
 # Bahgtru
 *Source: Volo's Guide to Monsters p. 83* 
@@ -59,3 +65,8 @@ Legends speak of orc bahgtru vgm as a nexus where past and present converge. Loc
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

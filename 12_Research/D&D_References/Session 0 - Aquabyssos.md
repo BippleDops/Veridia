@@ -1,19 +1,26 @@
+# Session 0 - Aquabyssos
+
 ---
+title: Session 0   Aquabyssos
+type: Lore
+tags:
+- lore
+- aquabyssos
+- campaign-setup
+- worldbuilding
+- research
+- session-zero
+- active
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
-tags:
-- aquabyssos
-- campaign-setup
-- complete
-- lore
-- session-zero
-- worldbuilding
 world: Aquabyssos
 updated: '2025-08-11T00:00:00+00:00'
-created: '2025-08-11'
-type: Lore
 ---
+
 
 
 

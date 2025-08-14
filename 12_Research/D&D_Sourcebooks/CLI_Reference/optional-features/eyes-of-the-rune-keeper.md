@@ -1,21 +1,27 @@
+# eyes-of-the-rune-keeper
+
 ---
+title: eyes of the rune keeper
 aliases:
 - Eyes of the Rune Keeper
-created: 2025-07-23
-cssclasses: json5e-feat
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- ttrpg-cli/compendium/src/5e/phb
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/optional-feature/ei
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-feat
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:35.901612'
 world: Both
 ---
+
 
 # Eyes of the Rune Keeper
 *Source: Player's Handbook p. 111. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
@@ -41,3 +47,8 @@ Legends speak of eyes of the rune keeper as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

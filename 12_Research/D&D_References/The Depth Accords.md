@@ -1,27 +1,34 @@
+# The Depth Accords
+
 ---
+title: The Depth Accords
+type: Lore
 tags:
-- ancient
-- aquabyssos
-- complete
-- deep-sea
-- diplomatic
-- leviathan
 - lore
+- aquabyssos
+- deep-sea
 - quest
+- research
+- leviathan
+- diplomatic
+- ancient
 - underwater
+- active
+- complete
+created: 2025-08-08 - Category/Quest
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 level_range: 8-12
 estimated_sessions: 6-8
 quest_type: Diplomatic Mission & Ancient Mystery
 created_by: auto-stub
-created: 2025-08-08 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:34.487800+00:00'
 ---
+
 
 
 
@@ -383,3 +390,8 @@ Legends speak of The Depth Accords as a nexus where past and present converge. L
 ## Cross-References
 
 - [[Diplomatic Tides|02 Worldbuilding/Quests/Diplomatic Tides]]
+
+
+## Related
+
+*Links to related content will be added here.*

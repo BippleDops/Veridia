@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry the deepwatch guard the deepwatch guard.svg
+aliases:
+- symbol heraldry the deepwatch guard the deepwatch guardsvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-the-deepwatch-guard-the-deepwatch-guard.svg
 
@@ -24,9 +30,9 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Deepwatch Guard]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
-- [[12_Research/D&D_References/Deepwatch Guard]]
+- [[The Deepwatch Guard]]
+- [[Faction Symbols & Heraldry]]
+- [[Deepwatch Guard]]
 - [[02_Worldbuilding/Lore/Deepwatch Guard]]
 
 ## Notes

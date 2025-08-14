@@ -1,20 +1,26 @@
+# individual-treasure-challenge-510
+
 ---
+title: individual treasure challenge 510
 aliases:
-- Individual Treasure: Challenge 5—10
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/dmg
-- world/both
+- Individual Treasure: "Challenge 5\u201410"
 type: note
+tags:
+- research
+- world/both
+- active
+- note
+- ttrpg-cli/compendium/src/5e/dmg
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.436956'
 world: Both
 ---
+
 
 # Individual Treasure: Challenge 5—10
 *Source: Dungeon Master's Guide p. 133* 
@@ -51,3 +57,8 @@ Legends speak of individual treasure challenge 510 as a nexus where past and pre
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

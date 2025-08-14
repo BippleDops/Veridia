@@ -1,18 +1,23 @@
+# Where To Get Mechanics
+
 ---
-obsidianUIMode: preview
+title: Where To Get Mechanics
+aliases: []
 type: Lore
 tags:
-- active
-- both
 - lore
+- both
+- research
+- active
 - note
-aliases: []
 created: '2025-07-23'
-modified: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:37.136399+00:00'
-status: active
 ---
+
 
 
 
@@ -60,3 +65,8 @@ Legends speak of Where To Get Mechanics as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

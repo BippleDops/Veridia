@@ -1,26 +1,32 @@
 ---
-affiliation: The Deep Wanderers (Independent)
-age: Unknown (appears ageless)
-created: '2025-08-09'
-created_by: auto-stub
-location: '[[The Hadal Depths]] - Wandering'
-race: Human (Divinely Transformed)
-role: Deep Mother's Explorer
-status: complete
+title: Captain Nautilus the Deep Wanderer
+type: Npc
 tags:
 - aquabyssos
-- complete
-- content/lore
-- content/npc
-- deep-mother
-- divine-servant
-- npc
 - status/complete
+- npc
+- content/lore
+- deep-mother
+- content/npc
+- character
+- active
+- divine-servant
+- complete
 - world/aquabyssos
-type: Npc
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+race: Human (Divinely Transformed)
+class: Unknown
+location: '[[The Hadal Depths]] - Wandering'
+affiliation: The Deep Wanderers (Independent)
+age: Unknown (appears ageless)
+created_by: auto-stub
+role: Deep Mother's Explorer
 updated: '2025-08-13T12:34:17.560306+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -127,6 +133,16 @@ Captain Nautilus has spent decades exploring the deepest reaches of Aquabyssos, 
 - Equipped with divine communication crystals
 - Staffed by transformed humans who can survive the depths
 - Connected by current-paths only Nautilus knows
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Direct and concise
+
+**Physical Habits**: Steeples fingers when thinking
 
 ## Current Activities
 ### The Accelerating Signs
@@ -554,6 +570,101 @@ The Deep Mother's changing sleep patterns are causing unprecedented supernatural
 
 ---
 
+
+
+## Appearance
+
+Captain Nautilus the Deep Wanderer presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Cautious, cautious, loyal
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Protecting loved ones
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Captain Nautilus the Deep Wanderer harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Divine mission
+
+
+
+## Plot Hooks
+
+1. **The Request**: Captain Nautilus the Deep Wanderer needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Captain Nautilus the Deep Wanderer stopped or removed
+3. **The Secret**: Information about Captain Nautilus the Deep Wanderer's past surfaces
+4. **The Alliance**: Opportunity to work with or against Captain Nautilus the Deep Wanderer
+5. **The Crisis**: Captain Nautilus the Deep Wanderer is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - **Perfect exposition source** for Deep Mother's awakening timeline and cosmic threat development
 - **Can provide unique underwater adventures** and locations impossible to access through normal means  
@@ -565,6 +676,14 @@ The Deep Mother's changing sleep patterns are causing unprecedented supernatural
 - **Character Development**: His relationship with divine purpose can evolve based on player interactions
 - **Campaign Integration**: Central to oceanic divine storylines, provides intelligence for cosmic threat assessment
 - **Power Balance**: Extremely capable in aquatic environments, vulnerable to isolation from oceanic power source
+
+
+
+## Relationship Web
+
+- [[Master_Artificer_Coral_Gemwright]]: *business partner*
+- [[Emperor]]: *student*
+- [[Siren]]: *debt holder*
 
 ## Connections
 

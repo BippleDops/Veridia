@@ -1,3 +1,15 @@
+# Faction_Heraldry
+
+---
+title: Faction Heraldry
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 
 ## Consequence Chains
 
@@ -9740,3 +9752,8 @@ The actions and decisions involving Faction Heraldry Prompts create cascading ef
   }
 ]
 ```
+
+
+## Related
+
+*Links to related content will be added here.*

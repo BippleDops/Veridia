@@ -1,25 +1,31 @@
+# Sanity Horror Framework
+
 ---
-created: '2025-01-23'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- content/mechanics
-- cosmic-horror
-- horror
-- lore
-- madness
-- psychological
-- sanity
-- status/complete
-- world/both
 title: Complete Sanity & Horror Framework
 type: Lore
+tags:
+- lore
+- cosmic-horror
+- both
+- psychological
+- status/complete
+- madness
+- content/lore
+- world/both
+- research
+- active
+- horror
+- complete
+- sanity
+- content/mechanics
+created: '2025-01-23'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.783409+00:00'
 version: 1.0
 world: Both
 ---
+
 
 
 
@@ -839,3 +845,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Introduction]]
+
+
+## Related
+
+*Links to related content will be added here.*

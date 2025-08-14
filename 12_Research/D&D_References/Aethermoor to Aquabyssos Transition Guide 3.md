@@ -1,22 +1,30 @@
+# Aethermoor to Aquabyssos Transition Guide 3
+
 ---
-created: '2025-08-08'
-created_by: auto-stub
-status: complete
+title: Aethermoor to Aquabyssos Transition Guide 3
+type: Lore
 tags:
-- aquabyssos
-- complete
-- content/lore
-- content/mechanics
-- guide
 - lore
+- aquabyssos
 - status/complete
 - transition
+- guide
+- content/lore
 - travel
+- research
+- active
+- complete
 - world/aquabyssos
-type: Lore
+- content/mechanics
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+created_by: auto-stub
 updated: '2025-08-13T12:34:28.938180+00:00'
 world: Aquabyssos
 ---
+
 
 
 

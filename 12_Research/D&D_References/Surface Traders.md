@@ -1,20 +1,27 @@
+# Surface Traders
+
 ---
+title: Surface Traders
+type: Location
 tags:
 - aquabyssos
-- complete
-- faction
-- location
-- merchants
-- surface-world
 - trade
+- faction
+- research
+- surface-world
+- active
+- location
+- complete
+- merchants
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.444912+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -195,3 +202,8 @@ Legends speak of Surface Traders as a nexus where past and present converge. Loc
 - [[Surface Traders|02 Worldbuilding/Places/Surface Traders]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

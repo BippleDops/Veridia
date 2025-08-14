@@ -1,14 +1,20 @@
+# King Marcus Lumengarde
+
 ---
-tags:
-- active
-- aethermoor
-- npc
+title: King Marcus Lumengarde
 type: NPC
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.874969+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-king-marcus-lumengarde-king-marcus-lumengarde.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Crown]]
+
+
+## Related
+
+*Links to related content will be added here.*

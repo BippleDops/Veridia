@@ -1,21 +1,27 @@
+# Aquabyssos-Survival-Mechanics
+
 ---
+title: Aquabyssos Survival Mechanics
+type: Lore
 tags:
-- active
-- adaptation
+- lore
 - aquabyssos
 - game-mechanics
-- lore
-- mechanics
-- rules
 - survival
-type: Lore
+- mechanics
+- research
+- active
+- adaptation
+- rules
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 system: D&D 5e
 complexity: Advanced
 world: Aquabyssos
 updated: '2025-08-13T01:18:34.584665+00:00'
-created: '2025-08-11'
-status: active
 ---
+
 
 
 
@@ -503,3 +509,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Initiative Tracker|02 Worldbuilding/Lore/Initiative Tracker]]
+
+
+## Related
+
+*Links to related content will be added here.*

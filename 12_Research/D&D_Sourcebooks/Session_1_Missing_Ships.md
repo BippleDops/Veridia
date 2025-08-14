@@ -1,23 +1,29 @@
+# Session_1_Missing_Ships
+
 ---
 title: 'The Sunken Conspiracy - Session 1: Missing Ships'
 type: session
+tags:
+- mystery
+- aquabyssos
+- session
+- investigation
+- research
+- active
+- port-meridian
+- complete
+- conspiracy
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 session_number: 1
 level_range: 1-3
 duration: 4-5 hours
 world: Aquabyssos
 adventure: The Sunken Conspiracy
-status: complete
-tags:
-- aquabyssos
-- complete
-- conspiracy
-- investigation
-- mystery
-- port-meridian
-- session
-created: '2025-08-11'
 updated: '2025-08-13T01:18:37.161478+00:00'
 ---
+
 
 
 # Session 1: Missing Ships
@@ -733,3 +739,8 @@ Legends speak of Session 1 Missing Ships as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

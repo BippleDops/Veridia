@@ -1,18 +1,25 @@
 ---
-created: '2025-08-11'
-danger_level: Moderate
-status: complete
-tags:
-- aethermoor
-- complete
-- content/location
-- location
-- status/in-progress
-- world/aethermoor
+title: Seasonal Quarters
 type: Location
+tags:
+- content/location
+- place
+- world/aethermoor
+- active
+- location
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+danger_level: Moderate
 updated: '2025-08-13T12:34:16.709023+00:00'
 world: Aethermoor
 ---
+
 
 
 ## Overview
@@ -48,21 +55,124 @@ Legends speak of Seasonal Quarters as a nexus where past and present converge. L
 - An NPC seeks discreet help at Seasonal Quarters to avert a public scandal.
 - A map overlay reveals a hidden approach to Seasonal Quarters active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Seasonal Quarters]]
+- [[Seasonal Quarters]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Verdant Shard]]
+- [[Verdant Shard]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[Parent_Location_Name]]
+- [[04_Resources_Assets_Locations_location-city-political-leader-reef-crown-political-leader-reef-crown.png]]
+- [[Arts Communities]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+Seasonal Quarters is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Seasonal Quarters
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Seasonal Quarters:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Seasonal Quarters
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

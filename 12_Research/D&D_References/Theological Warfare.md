@@ -1,13 +1,23 @@
+# Theological Warfare
+
 ---
+title: Theological Warfare
+type: Location
 tags:
 - aquabyssos
-- battlefield
 - both
-- complete
+- battlefield
+- religious
+- research
+- active
 - contested
 - location
-- religious
+- complete
 - warfare
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+population: 500
 location_name: The Theological Warfare Grounds
 location_type: Contested Religious Battlefield
 parent_location: '[[Abyssos Prime]]'
@@ -18,9 +28,9 @@ sub_locations:
 - '[[The Schism Bridges]]'
 - '[[Faith Testing Grounds]]'
 depth: 2600-2900 feet
-population: 500
 government: Religious Council of War
-ruler: '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High Theologian Commander Aurelius]]'
+ruler: '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High
+  Theologian Commander Aurelius]]'
 factions:
 - '[[Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]'
 - '[[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]'
@@ -36,7 +46,8 @@ services:
 - Heresy Trials
 - Faith Counseling
 notable_npcs:
-- '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High Theologian Commander Aurelius]]'
+- '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High
+  Theologian Commander Aurelius]]'
 - '[[Leviathan Prophet Thalassa]]'
 - '[[Deep Mother Priestess Sira]]'
 - '[[Mediator Cardinal Harmony]]'
@@ -44,15 +55,13 @@ current_state: Active religious conflict zone
 temporal_stability: 30
 shadow_density: Variable
 pressure_effects: Severe
-status: complete
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-12T00:00:00+00:00'
-type: Location
 ---
+
 
 
 > [!figure] View
@@ -475,3 +484,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Abyssos Prime]]
+
+
+## Related
+
+*Links to related content will be added here.*

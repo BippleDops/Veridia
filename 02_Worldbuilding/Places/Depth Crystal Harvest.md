@@ -1,23 +1,30 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
-danger_level: Moderate
-status: complete
+title: Depth Crystal Harvest
+type: Location
 tags:
 - aquabyssos
-- complete
+- status/complete
 - content/location
 - dangerous
-- economic
+- place
+- active
 - location
-- mining
-- status/complete
-- world/aethermoor
+- complete
 - world/aquabyssos
-type: Location
+- economic
+- world/aethermoor
+- mining
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+created_by: auto-stub
+danger_level: Moderate
 updated: '2025-08-13T12:34:17.183604+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -97,6 +104,27 @@ Multiple mining sites scattered across three major trench systems, connected by 
 - Corporate rivalry involves actual espionage and sabotage
 - Ancient ruins discovered beneath one mining site
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 Use this location for high-stakes rescue missions and industrial espionage. The extreme environment creates natural tension and urgency. Corporate politics can drive ongoing campaigns.
 
@@ -142,3 +170,60 @@ Legends speak of Depth Crystal Harvest as a nexus where past and present converg
 - [[Depth Crystal Harvest]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-primary-schools-v1-primary-schools.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-quest-the-succession-crisis-quest-the-succession-crisis.svg]]
+- [[Wandering Prophet Coral Stormrider]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+Depth Crystal Harvest is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Depth Crystal Harvest
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

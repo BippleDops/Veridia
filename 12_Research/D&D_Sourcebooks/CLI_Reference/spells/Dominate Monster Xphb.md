@@ -1,27 +1,33 @@
+# Dominate Monster Xphb
+
 ---
+title: Dominate Monster Xphb
 aliases:
 - Dominate Monster
+type: monster
+tags:
+- both
+- mechanics/magic
+- monster
+- research
+- world/both
+- active
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
+created: 2025-08-11
+modified: '2025-08-14'
+status: active
 classes:
 - Bard
 - Sorcerer
 - Warlock
 - Wizard
-created: 2025-08-11
 cssclasses: json5e-spell
 obsidian-u-i-mode: preview
-status: active
-tags:
-- active
-- both
-- mechanics/magic
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-- world/both
-type: monster
 updated: '2025-08-13T12:34:06.307193+00:00'
 world: Both
 ---
+
 
 
 # Dominate Monster
@@ -64,3 +70,8 @@ Legends speak of dominate monster xphb as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

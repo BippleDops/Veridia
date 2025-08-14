@@ -1,14 +1,20 @@
+# Lady Dawn Pureheart
+
 ---
-tags:
-- active
-- aethermoor
-- npc
+title: Lady Dawn Pureheart
 type: NPC
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:37.011483+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-lady-dawn-pureheart-lady-dawn-pureheart.svg]]
@@ -62,3 +68,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Lady Dawn Pureheart|02 Worldbuilding/People/Lady Dawn Pureheart]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

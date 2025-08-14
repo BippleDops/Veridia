@@ -1,3 +1,15 @@
+# Location_Prompts - Cities
+
+---
+title: Location Prompts   Cities
+type: resource
+tags:
+- active
+- resource
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 \n\n## Aethermoor location prompts (2025-08-14T19:32:11Z)\n
 ```json
 []
@@ -146,3 +158,28 @@
 ```json
 []
 ```
+\n\n## Aethermoor location prompts (2025-08-14T22:42:40Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-14T22:47:56Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-14T22:53:13Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-14T22:58:29Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-14T23:03:49Z)\n
+```json
+[]
+```
+
+
+## Related
+
+*Links to related content will be added here.*

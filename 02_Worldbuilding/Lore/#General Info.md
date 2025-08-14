@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: '#General Info'
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # #General Info
 
@@ -24,11 +28,11 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Template-Region]]
-- [[12_Research/D&D_References/Template-Galaxy]]
-- [[12_Research/D&D_References/Template-Star-System]]
-- [[12_Research/D&D_References/Template-Planet]]
-- [[12_Research/D&D_References/Template-Continent]]
+- [[Template-Region]]
+- [[Template-Galaxy]]
+- [[Template-Star-System]]
+- [[Template-Planet]]
+- [[Template-Continent]]
 
 ## Notes
 

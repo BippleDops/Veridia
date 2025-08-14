@@ -1,22 +1,29 @@
 ---
-created: '2025-08-11'
-danger_level: Moderate
-status: complete
+title: The Primordial Vaults
+type: Location
 tags:
-- combat
-- quest
-- crystal-enhanced
-- shadow-touched
 - both
-- complete
+- quest
+- world/both
 - content/location
+- place
+- active
+- combat
+- complete
 - location
 - status/in-progress
-- world/both
-type: Location
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+danger_level: Moderate
 updated: '2025-08-13T12:34:16.703469+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -27,7 +34,7 @@ world: Both
 
 ## Overview
 
-Deep beneath [[12_Research/D&D_References/Aquabyssos World Overview]], older than the drowned civilizations above, lie the Primordial Vaults - a massive complex of chambers and passages that predate human civilization. Built by unknown hands for unclear purposes, the vaults contain horrors, treasures, and answers to questions that should never be asked. The architecture defies physics, with gravity, time, and space functioning irregularly.
+Deep beneath [[Aquabyssos World Overview]], older than the drowned civilizations above, lie the Primordial Vaults - a massive complex of chambers and passages that predate human civilization. Built by unknown hands for unclear purposes, the vaults contain horrors, treasures, and answers to questions that should never be asked. The architecture defies physics, with gravity, time, and space functioning irregularly.
 
 ## Vault Sections
 
@@ -37,19 +44,19 @@ Seven massive doors, each requiring different keys or rituals to open. [[12_Rese
 
 ### The Hall of Untime
 
-Corridor where time flows backward, forward, and sideways simultaneously. Those who enter may emerge younger, older, or multiplied into temporal echoes. [[12_Research/D&D_References/Chronomancer Paradox]] exists here in seventeen versions of himself.
+Corridor where time flows backward, forward, and sideways simultaneously. Those who enter may emerge younger, older, or multiplied into temporal echoes. [[Chronomancer Paradox]] exists here in seventeen versions of himself.
 
 ### The Genesis Chambers
 
-Laboratories containing failed experiments in creating life. Twisted proto-creatures still writhe in crystalline tanks. [[12_Research/D&D_References/The First Failure]], a sentient mistake, pleads for death or freedom.
+Laboratories containing failed experiments in creating life. Twisted proto-creatures still writhe in crystalline tanks. [[The First Failure]], a sentient mistake, pleads for death or freedom.
 
 ### The Inverse Cathedral
 
-A cathedral built upside-down, where prayers spoken become curses and holy water burns like acid. [[12_Research/D&D_References/Anti-Priest Nullus]] conducts backwards sermons to an congregation of shadows.
+A cathedral built upside-down, where prayers spoken become curses and holy water burns like acid. [[Anti-Priest Nullus]] conducts backwards sermons to an congregation of shadows.
 
 ### The Memory Core
 
-Central chamber containing crystallized memories of the world's creation. Touching them grants knowledge but steals personal memories in exchange. [[12_Research/D&D_References/The Forgotten One]] dwells here, made entirely of stolen memories.
+Central chamber containing crystallized memories of the world's creation. Touching them grants knowledge but steals personal memories in exchange. [[The Forgotten One]] dwells here, made entirely of stolen memories.
 
 ### The Deepest Lock
 
@@ -132,7 +139,7 @@ Black water that doesn't reflect anything - falling in erases you from history.
 
 ## Current Activity
 
-1. [[12_Research/D&D_References/Order of the Sunken Crown]] expedition seeking the First Key
+1. [[Order of the Sunken Crown]] expedition seeking the First Key
 2. Tremors suggesting something massive stirring in the Deepest Lock
 3. Vault Guardians becoming active after centuries of dormancy
 4. Reality bleeds increasing in frequency
@@ -149,10 +156,10 @@ Black water that doesn't reflect anything - falling in erases you from history.
 
 ## Connections to Other Areas
 
-- Secret tunnel from [[12_Research/D&D_References/The Sunken Cathedral of Stars]] crypts
-- Overlaps with deepest parts of [[12_Research/D&D_References/The Cerulean Trench]]
+- Secret tunnel from [[The Sunken Cathedral of Stars]] crypts
+- Overlaps with deepest parts of [[The Cerulean Trench]]
 - The Wandering Atoll occasionally floats directly above
-- Memory streams connect to [[12_Research/D&D_References/New Tethys]] Conservatory of Memory
+- Memory streams connect to [[New Tethys]] Conservatory of Memory
 
 ## Vault Laws (Inexplicable Rules)
 
@@ -180,24 +187,24 @@ Black water that doesn't reflect anything - falling in erases you from history.
 ## Connected NPCs
 
 - [[12_Research/D&D_Statblocks/Vault Keeper Eternal]] - Entrance guardian
-- [[12_Research/D&D_References/Chronomancer Paradox]] - Time-lost wizard
-- [[12_Research/D&D_References/The First Failure]] - Sentient experiment
-- [[12_Research/D&D_References/Anti-Priest Nullus]] - Inverse Cathedral keeper
-- [[12_Research/D&D_References/The Forgotten One]] - Memory thief
-- [[12_Research/D&D_References/Elder Whisper-In-The-Dark]] - Knows vault secrets
+- [[Chronomancer Paradox]] - Time-lost wizard
+- [[The First Failure]] - Sentient experiment
+- [[Anti-Priest Nullus]] - Inverse Cathedral keeper
+- [[The Forgotten One]] - Memory thief
+- [[Elder Whisper-In-The-Dark]] - Knows vault secrets
 
 ## Quests Available
 
-- [[12_Research/D&D_References/The Thirteen Keys]] - Gather keys to the Deepest Lock
-- [[12_Research/D&D_References/Vault Breach]] - Stop or cause a prisoner escape
-- [[12_Research/D&D_References/Memory Heist]] - Steal specific memories from the Core
-- [[12_Research/D&D_References/Temporal Rescue]] - Save explorers from time loops
-- [[12_Research/D&D_References/The First Truth]] - Learn why the vaults were built
+- [[The Thirteen Keys]] - Gather keys to the Deepest Lock
+- [[Vault Breach]] - Stop or cause a prisoner escape
+- [[Memory Heist]] - Steal specific memories from the Core
+- [[Temporal Rescue]] - Save explorers from time loops
+- [[The First Truth]] - Learn why the vaults were built
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Stop the Shadow Harvest]]
+- [[Stop the Shadow Harvest]]
 
 ## Player-Facing Summary
 
@@ -213,26 +220,141 @@ Legends speak of The Primordial Vaults as a nexus where past and present converg
 - An NPC seeks discreet help at The Primordial Vaults to avert a public scandal.
 - A map overlay reveals a hidden approach to The Primordial Vaults active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Primordial Vaults]]
+- [[The Primordial Vaults]]
 
 <!-- enriched: true -->
-- [[12_Research/D&D_References/Order of the Sunken Crown]]
-- [[12_Research/D&D_References/Anti-Priest Nullus]]
-- [[12_Research/D&D_References/Memory Heist]]
-- [[12_Research/D&D_References/Temporal Rescue]]
+- [[Order of the Sunken Crown]]
+- [[Anti-Priest Nullus]]
+- [[Memory Heist]]
+- [[Temporal Rescue]]
 - [[12_Research/D&D_Statblocks/The Deepmind]]
-- [[12_Research/D&D_References/The First Failure]]
-- [[12_Research/D&D_References/The First Truth]]
-- [[12_Research/D&D_References/The Forgotten One]]
-- [[12_Research/D&D_References/The Thirteen Keys]]
+- [[The First Failure]]
+- [[The First Truth]]
+- [[The Forgotten One]]
+- [[The Thirteen Keys]]
 - [[12_Research/D&D_Statblocks/Vault Keeper Eternal]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Notable Residents
+
+- [[Captain Navigator]]
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-regional-courts-regional-courts.svg]]
+- [[04_Resources_Assets_Locations_location-city-reflection-broker-mirrors-reflection-broker-mirrors.svg]]
+- [[Sacred Grottos]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+The Primordial Vaults is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Primordial Vaults
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+The Primordial Vaults was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting The Primordial Vaults:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Primordial Vaults
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

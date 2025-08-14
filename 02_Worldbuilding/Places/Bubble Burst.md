@@ -1,26 +1,33 @@
 ---
+title: Bubble Burst
+type: Location
+tags:
+- aquabyssos
+- status/complete
+- casino
+- bubble-district
+- content/location
+- place
+- active
+- location
+- complete
+- world/aquabyssos
+- entertainment
+- venue
+created: 2025-08-08 - Category/Place
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Unknown
 MyContainer: None
-created: 2025-08-08 - Category/Place
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
-status: complete
-tags:
-- aquabyssos
-- bubble-district
-- casino
-- complete
-- content/location
-- entertainment
-- location
-- status/complete
-- venue
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:17.221479+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -195,3 +202,100 @@ The establishment's reliance on magical infrastructure makes it vulnerable to sa
 - [[Bubble Burst]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-temple-of-echoing-tides-v1-temple-of-echoing-tides.svg]]
+- [[04_Resources_Assets_Locations_location-city-chronos-tidekeep-chronos-tidekeep.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-living-tide-temples-v1-the-living-tide-temples.svg]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+Bubble Burst is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Bubble Burst:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Bubble Burst
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers
+
+
+## Adventure Hooks
+
+1. **The Missing Person**: Someone important has disappeared in Bubble Burst
+2. **The Hidden Treasure**: Rumors of wealth hidden somewhere in the area
+3. **The Growing Threat**: A danger that threatens Bubble Burst
+4. **The Political Intrigue**: Power struggles affecting the location
+5. **The Ancient Mystery**: Old secrets beginning to surface
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions

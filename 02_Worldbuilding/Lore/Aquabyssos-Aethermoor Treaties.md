@@ -1,30 +1,35 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
-expanded: 2025-08-10
-status: complete
+title: Aquabyssos Aethermoor Treaties
+type: Lore
 tags:
-- session-notes
-- crystal-enhanced
-- shadow-touched
+- trade
 - aerial
 - aquatic
-- aethermoor
-- complete
-- content/lore
+- shadow-touched
 - lore
 - mechanics/social
-- peace
-- politics
+- session-notes
 - status/complete
-- trade
+- content/lore
 - treaties
-- world/aethermoor
+- aethermoor
+- crystal-enhanced
 - world/both
-type: Lore
+- complete
+- politics
+- aquabyssos
+- peace
+- active
+- world/aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+created_by: auto-stub
+expanded: 2025-08-10
 updated: '2025-08-13T12:34:16.140916+00:00'
 world: Aethermoor
 ---
+
 
 
 # Aquabyssos-Aethermoor Treaties
@@ -317,21 +322,21 @@ Someone with access to the highest levels of both governments has been systemati
 
 ## Connected References
 
-- [[12_Research/D&D_References/Inter-Realm Council]] - Governing body for treaty implementation
-- [[12_Research/D&D_References/Ambassador Marina Tidecrest]] - Key diplomatic figure
-- [[12_Research/D&D_References/Twilight Zone]] - Primary diplomatic meeting area
-- [[12_Research/D&D_References/Convergence Engine]] - Hidden stabilization technology
-- [[12_Research/D&D_References/The Great Elevation]] - Aethermoor's founding catastrophe
+- [[Inter-Realm Council]] - Governing body for treaty implementation
+- [[Ambassador Marina Tidecrest]] - Key diplomatic figure
+- [[Twilight Zone]] - Primary diplomatic meeting area
+- [[Convergence Engine]] - Hidden stabilization technology
+- [[The Great Elevation]] - Aethermoor's founding catastrophe
 - [[12_Research/D&D_Statblocks/The Great Drowning]] - Aquabyssos's founding catastrophe
-- [[12_Research/D&D_References/Memory Plague]] - Recent crisis requiring treaty cooperation
-- [[12_Research/D&D_References/Shadow Collective]] - Anti-treaty extremist organization
-- [[12_Research/D&D_References/The Reshaper]] - True cause of both catastrophes
-- [[12_Research/D&D_References/Twilight Born]] - Products of secret hybrid experiments
-- [[12_Research/D&D_References/Dimensional Guard]] - Joint military force
-- [[12_Research/D&D_References/Neutral Trading Posts]] - Economic integration points
-- [[12_Research/D&D_References/Reality Bridge]] - Experimental connection technology
+- [[Memory Plague]] - Recent crisis requiring treaty cooperation
+- [[Shadow Collective]] - Anti-treaty extremist organization
+- [[The Reshaper]] - True cause of both catastrophes
+- [[Twilight Born]] - Products of secret hybrid experiments
+- [[Dimensional Guard]] - Joint military force
+- [[Neutral Trading Posts]] - Economic integration points
+- [[Reality Bridge]] - Experimental connection technology
 - [[Void Cult]] - Common enemy of both realms
-- [[12_Research/D&D_References/Planar Incursions]] - External threats requiring cooperation
+- [[Planar Incursions]] - External threats requiring cooperation
 
 ## Future Implications
 
@@ -352,8 +357,8 @@ The Aquabyssos-Aethermoor Treaties represent more than diplomatic agreements - t
 
 ## Connections
 
-- [[12_Research/D&D_References/Marriage Between Worlds]]
-- [[12_Research/D&D_References/Aethermoor - Session 09 The Price of Unity]]
+- [[Marriage Between Worlds]]
+- [[Aethermoor - Session 09 The Price of Unity]]
 
 ## Player-Facing Summary
 
@@ -371,7 +376,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Aquabyssos Ambassadors]]
+- [[Aquabyssos Ambassadors]]
 
 
 ## Related

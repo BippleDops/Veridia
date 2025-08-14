@@ -1,24 +1,29 @@
+# S-004 Cloud Canyon Player
+
 ---
-audience: player
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- campaign/session
-- complete
-- handout
-- lore
-- status/complete
-- world/aethermoor
-- world/both
-title: Player Handout — S-004 Cloud Canyon
+title: "Player Handout \u2014 S-004 Cloud Canyon"
 type: Lore
-updated: '2025-08-13T12:34:32.380210+00:00'
+tags:
+- lore
+- both
+- status/complete
+- campaign/session
+- handout
+- world/both
+- active
+- complete
+- world/aethermoor
+- resource
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+audience: player
+updated: 2025-08-13 07:59:50.468734
 world: Both
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.468734
 ---
+
 # Cloud Canyon
 
 Towering walls of cloud open into a narrow corridor veined with lightning.
@@ -40,3 +45,8 @@ Possible outcomes
 ## Cross-References
 
 - [[06_GM_Resources/Session_Packets/Aethermoor Session 01]]
+
+
+## Related
+
+*Links to related content will be added here.*

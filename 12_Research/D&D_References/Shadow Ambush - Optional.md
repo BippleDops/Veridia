@@ -1,27 +1,34 @@
+# Shadow Ambush - Optional
+
 ---
-tags:
-- ambush-specialists
-- aquabyssos
-- complete
-- faction
-- group
-- guerrilla-warfare
-- military-organization
-- tactical
-status: complete
-world: Aquabyssos
+title: Shadow Ambush   Optional
 type: Group
+tags:
+- aquabyssos
+- faction
+- research
+- military-organization
+- guerrilla-warfare
+- active
+- tactical
+- complete
+- ambush-specialists
+- group
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Strategic Command Center]] (Mobile)'
+world: Aquabyssos
 faction_type: Military Tactical Unit
 alignment: Lawful Neutral
-headquarters: '[[The Strategic Command Center]] (Mobile)'
 leader: '[[Commander Reef Shadowstrike]]'
 members: ~150 elite soldiers and tactical specialists
 influence: Specialized (Military Operations)
 purpose: Elite ambush and tactical warfare unit
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.741599+00:00'
 ---
+
 
 
 

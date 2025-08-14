@@ -1,32 +1,39 @@
 ---
+title: The Seven Shards Mystery
+type: Location
+tags:
+- mystery
+- aquabyssos
+- status/complete
+- world/aquabyssos
+- aquatic
+- quest
+- content/lore
+- content/location
+- place
+- active
+- combat
+- complete
+- location
+- conspiracy
+- seven_shards
+- world/aethermoor
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Mystery
 MyContainer: None
-created: '2025-08-11'
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
-status: complete
-tags:
-- combat
-- quest
-- crystal-enhanced
-- shadow-touched
-- aquatic
-- aquabyssos
-- complete
-- conspiracy
-- content/location
-- content/lore
-- location
-- mystery
-- seven_shards
-- status/complete
-- world/aethermoor
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.625441+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -169,9 +176,9 @@ This theory is controversial and lacks concrete evidence, but it has gained trac
 
 ## Connections
 
-- [[12_Research/D&D_References/Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[12_Research/D&D_References/Comprehensive-World-Connection-Guide]]
-- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Parliament of Echoes]]
 
 
 ## History
@@ -211,13 +218,34 @@ The Seven Shards Mystery is a undersea element of the setting, known for biolumi
 
 Legends speak of The Seven Shards Mystery as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Seven Shards Mystery.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Seven Shards Mystery]]
+- [[The Seven Shards Mystery]]
 
 <!-- enriched: true -->
 
@@ -227,3 +255,85 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
 - [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Portraits_portrait-npc-the-coral-throne-syndicate-the-coral-throne-syndicate.svg]]
+- [[04_Resources_Assets_Locations_location-city-silent-guardian-marcus-v1-silent-guardian-marcus.svg]]
+- [[04_Resources_Assets_Locations_location-city-sea-horse-v1-sea-horse.svg]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+The Seven Shards Mystery is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Seven Shards Mystery
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting The Seven Shards Mystery:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Seven Shards Mystery
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

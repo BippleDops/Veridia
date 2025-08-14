@@ -1,29 +1,34 @@
 ---
+title: Goldwave Manor
 type: Location
-status: complete
 tags:
+- lore
 - session-notes
-- crystal-enhanced
-- shadow-touched
-- aethermoor
-- complete
-- cross-realm-trade
-- financial-power
-- goldwave-family
-- location
-- luxury
-- manor
-- merchant
 - noble-house
+- goldwave-family
+- luxury
+- merchant
+- cross-realm-trade
+- manor
+- active
+- location
+- complete
+- financial-power
+- aethermoor
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 world: Aethermoor
 location_name: Goldwave Manor
 location_type: Noble Estate and Financial Complex
-parent_location: '[[12_Research/D&D_References/Port Meridian - Market Square]]'
+parent_location: '[[Port Meridian - Market Square]]'
 connected_locations:
-- '[[12_Research/D&D_References/Port Meridian Harbor]]'
-- '[[12_Research/D&D_References/The Royal Palace]]'
-- '[[12_Research/D&D_References/Silverscale Banking House]]'
-- '[[12_Research/D&D_References/The Shadow Markets]]'
+- '[[Port Meridian Harbor]]'
+- '[[The Royal Palace]]'
+- '[[Silverscale Banking House]]'
+- '[[The Shadow Markets]]'
 sub_locations:
 - '[[Goldwave Private Offices]]'
 - '[[The Crystal Conservatory]]'
@@ -37,7 +42,6 @@ security_level: High
 access: By invitation only
 wealth_level: Extreme
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:35.209288+00:00'
 services:
 - Private Banking
@@ -58,6 +62,7 @@ discovered: false
 ---
 
 
+
 # Goldwave Manor
 
 ## The Crown Jewel of Merchant Nobility
@@ -67,13 +72,13 @@ discovered: false
 
 ## Overview
 
-Goldwave Manor stands as the most magnificent private residence in [[12_Research/D&D_References/Port Meridian - Market Square]], serving simultaneously as luxurious family estate, sophisticated financial headquarters, and exclusive social center for [[12_Research/D&D_References/Aethermoor]]'s mercantile elite. Built by the legendary [[Goldwave Trading Empire]] over three generations, this architectural marvel demonstrates how vast wealth can be transformed into lasting power and influence.
+Goldwave Manor stands as the most magnificent private residence in [[Port Meridian - Market Square]], serving simultaneously as luxurious family estate, sophisticated financial headquarters, and exclusive social center for [[Aethermoor]]'s mercantile elite. Built by the legendary [[Goldwave Trading Empire]] over three generations, this architectural marvel demonstrates how vast wealth can be transformed into lasting power and influence.
 
 Unlike traditional noble houses that derive their status from bloodlines and land holdings, the Goldwave family has created their aristocracy through commercial genius and financial innovation. Their manor reflects this unique position, combining the grandeur expected of high nobility with cutting-edge magical technology and practical business facilities that manage a trading empire spanning multiple realms.
 
-The estate occupies a prime location overlooking both [[12_Research/D&D_References/Port Meridian Harbor]] and the city's central financial district, strategically positioned to monitor commercial activity while displaying the family's prosperity. The manor's distinctive architecture, featuring walls that literally flow with liquid gold suspended in crystal matrices, has become an iconic symbol of merchant power and sophisticated wealth.
+The estate occupies a prime location overlooking both [[Port Meridian Harbor]] and the city's central financial district, strategically positioned to monitor commercial activity while displaying the family's prosperity. The manor's distinctive architecture, featuring walls that literally flow with liquid gold suspended in crystal matrices, has become an iconic symbol of merchant power and sophisticated wealth.
 
-Beyond its role as private residence, Goldwave Manor functions as an exclusive financial institution, diplomatic center, and social hub where the most important commercial and political decisions affecting [[12_Research/D&D_References/Aethermoor]]'s economy are negotiated over elegant dinners and in opulent private chambers.
+Beyond its role as private residence, Goldwave Manor functions as an exclusive financial institution, diplomatic center, and social hub where the most important commercial and political decisions affecting [[Aethermoor]]'s economy are negotiated over elegant dinners and in opulent private chambers.
 
 ### Key Statistics
 
@@ -140,7 +145,7 @@ Defensive systems and personnel quarters:
 
 ## Connected Locations and Adventure Integration
 
-Goldwave Manor serves as a natural hub connecting to numerous other important locations throughout [[12_Research/D&D_References/Aethermoor]] and beyond, providing rich opportunities for campaign development and character engagement across multiple storylines and adventure themes.
+Goldwave Manor serves as a natural hub connecting to numerous other important locations throughout [[Aethermoor]] and beyond, providing rich opportunities for campaign development and character engagement across multiple storylines and adventure themes.
 
 ## Player-Facing Summary
 
@@ -169,9 +174,32 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[12_Research/D&D_References/The Silverscale Conspiracy]]
-- [[12_Research/D&D_References/Aethermoor - Session 03 Council of Shadows]]
+- [[The Silverscale Conspiracy]]
+- [[Aethermoor - Session 03 Council of Shadows]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

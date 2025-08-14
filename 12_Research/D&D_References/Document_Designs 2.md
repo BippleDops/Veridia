@@ -1,3 +1,15 @@
+# Document_Designs 2
+
+---
+title: Document Designs 2
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # In-World Document Design Prompts
 
 ```json
@@ -2709,3 +2721,8 @@
   }
 ]
 ```
+
+
+## Related
+
+*Links to related content will be added here.*

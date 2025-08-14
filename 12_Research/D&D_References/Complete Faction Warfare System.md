@@ -1,23 +1,29 @@
+# Complete Faction Warfare System
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/faction
-- content/lore
-- content/mechanics
-- intrigue
-- lore
-- politics
-- status/complete
-- warfare
-- world/both
 title: Complete Faction Warfare System
 type: Lore
+tags:
+- lore
+- both
+- politics
+- intrigue
+- status/complete
+- content/faction
+- content/lore
+- world/both
+- research
+- active
+- complete
+- content/mechanics
+- warfare
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.770843+00:00'
 world: Both
 ---
+
 
 
 
@@ -1306,3 +1312,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[NPC Quick Reference Guide]]
+
+
+## Related
+
+*Links to related content will be added here.*

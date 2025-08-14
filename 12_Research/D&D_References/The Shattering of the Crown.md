@@ -1,20 +1,27 @@
+# The Shattering of the Crown
+
 ---
+title: The Shattering of the Crown
+type: Lore
 tags:
-- aethermoor
-- catastrophic-event
-- complete
-- crown-of-stars
+- lore
 - divine-artifact
+- history
+- shattering
 - great-crystallization
 - historical-event
-- history
-- lore
+- crown-of-stars
+- catastrophic-event
+- research
 - reality-breaking
-- shattering
+- active
+- complete
 - world-ending
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 category: Divine Catastrophe
 significance: Reality-Altering
 time_period: Year 1 GC - The Moment of Great Crystallization
@@ -27,7 +34,6 @@ participants:
 - Reality Itself
 outcome: Crown Shattered, World Transformed, Divinity Scattered
 created_by: auto-stub
-created: '2025-08-08'
 expanded: 2025-08-11
 related_entities:
 - '[[The Seven Betrayers]]'
@@ -37,6 +43,7 @@ related_entities:
 - '[[The Seven Shards]]'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -600,3 +607,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Crown of Stars]]
 - [[The Seven Betrayers]]
 - [[The Crimson Sage]]
+
+
+## Related
+
+*Links to related content will be added here.*

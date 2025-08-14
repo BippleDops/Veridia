@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: High Restorer Tidal Crown Maraleth
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # High Restorer Tidal-Crown Maraleth
 
@@ -24,8 +28,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Restoration Movement]]
-- [[12_Research/D&D_References/The Restoration Movement]]
+- [[The Restoration Movement]]
+- [[The Restoration Movement]]
 - [[02_Worldbuilding/Lore/The Restoration Movement]]
 - [[02_Worldbuilding/Lore/The Restoration Movement]]
 

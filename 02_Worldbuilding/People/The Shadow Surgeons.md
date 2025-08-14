@@ -1,25 +1,33 @@
 ---
-MyCategory: Medical
-MyContainer: None
-created: '2025-08-11'
-created_by: auto-stub
-obsidianUIMode: preview
-status: complete
+title: The Shadow Surgeons
+type: Npc
 tags:
 - aquabyssos
-- complete
-- content/faction
-- content/npc
 - medical
-- npc
-- shadow
 - status/complete
+- shadow
+- content/faction
+- npc
 - surgeons
+- character
+- content/npc
+- active
+- complete
 - world/aquabyssos
-type: Npc
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
+MyCategory: Medical
+MyContainer: None
+created_by: auto-stub
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.570524+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -129,9 +137,135 @@ The organization has seen increased demand due to Crystal Plague cases rejected 
 ## Roleplaying Notes
 Shadow Surgeons are typically pragmatic and detached, focused on medical problems rather than moral implications. They speak in clinical terms even about disturbing procedures, viewing their work as necessary service rather than evil practice. Higher-ranking members may show genuine care for patients despite questionable methods.
 
+
+
+## Background
+
+The Shadow Surgeons's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Finding purpose
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+The Shadow Surgeons harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Double agent
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Peppered with idioms
+
+**Physical Habits**: Remains perfectly still
+
+## Current Activities
+
+The Shadow Surgeons is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: The Shadow Surgeons needs assistance with a delicate matter
+2. **The Opposition**: Someone wants The Shadow Surgeons stopped or removed
+3. **The Secret**: Information about The Shadow Surgeons's past surfaces
+4. **The Alliance**: Opportunity to work with or against The Shadow Surgeons
+5. **The Crisis**: The Shadow Surgeons is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 The Shadow Surgeons provide excellent opportunities for moral dilemmas and desperate solutions. They can offer critical healing when conventional methods fail, but at significant ethical and financial costs. Use them to explore themes of medical ethics, the price of survival, and the gray areas between helping and harming.
 
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-merchant-lord-silas-copperfield-v1-merchant-lord-silas-copperfield.svg]]: *business partner*
+- [[Refugee Camps]]: *student*
+- [[04_Resources_Assets_Symbols_symbol-heraldry-information-exchange-information-exchange.svg]]: *bitter rival*
 
 ## Connections
 
@@ -147,6 +281,12 @@ TODO
 
 
 ## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more withdrawn
+- **When Pleased**: Shows open joy
+- **In Conflict**: Tends toward manipulation
+
 
 
 TODO

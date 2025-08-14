@@ -1,19 +1,26 @@
 ---
-created: '2025-08-12'
-status: complete
-tags:
-- both worlds
-- complete
-- content/location
-- location
-- security
-- status/complete
-- transit-hub
-- world/both
+title: Cross Dimensional Transit Authority
 type: Location
+tags:
+- status/complete
+- both worlds
+- transit-hub
+- content/location
+- security
+- world/both
+- place
+- active
+- location
+- complete
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 updated: '2025-08-13T12:34:17.010624+00:00'
 world: Both Worlds
 ---
+
 
 
 ## Overview
@@ -263,6 +270,27 @@ Built at a naturally occurring convergence point where the realms' boundaries th
 
 **Communications Hub**: Message relay services for maintaining contact across dimensional boundaries, including emergency communication protocols.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 ### Running CDTA Adventures
@@ -307,3 +335,97 @@ Legends speak of Cross Dimensional Transit Authority as a nexus where past and p
 - [[Cross-Dimensional Transit Authority]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[The Pearl Markets]]
+- [[04_Resources_Assets_Vehicles_vehicle-ship-harbor-guardian-gunboat-v2-harbor-guardian-gunboat.svg]]
+- [[04_Resources_Assets_Locations_location-city-merchant-v1-merchant.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+Cross-Dimensional Transit Authority is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Cross-Dimensional Transit Authority
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Cross-Dimensional Transit Authority was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Cross-Dimensional Transit Authority:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Cross-Dimensional Transit Authority
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

@@ -1,5 +1,25 @@
+# Continental War 3
+
 ---
+title: Continental War 3
+type: Lore
+tags:
+- lore
+- world/surface
+- status/complete
+- military
+- war
+- historical-event
+- content/lore
+- research
+- world/aethermoor
+- active
+- draft
+- mechanics/combat
+- aethermoor
 created: '2025-08-09'
+modified: '2025-08-14'
+status: draft
 outcome: Pyrrhic Victory for Alliance Forces
 participants:
 - Multiple Kingdoms
@@ -11,24 +31,11 @@ related_entities:
 - '[[Ironhold]]'
 - '[[Port Meridian]]'
 scale: Continental
-status: draft
-tags:
-- aethermoor
-- content/lore
-- draft
-- historical-event
-- lore
-- mechanics/combat
-- military
-- status/complete
-- war
-- world/aethermoor
-- world/surface
 time_period: Third Age, Years 892-901
-type: Lore
 updated: '2025-08-13T12:34:29.362905+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -330,3 +337,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,14 +1,20 @@
+# Deep Metals Consortium
+
 ---
-tags:
-- active
-- aquabyssos
-- lore
+title: Deep Metals Consortium
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- active
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.008943+00:00'
 ---
+
 
 
 
@@ -47,3 +53,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[The Deep Harvest]]
 - [[Underwater Breathing]]
+
+
+## Related
+
+*Links to related content will be added here.*

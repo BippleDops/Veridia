@@ -1,24 +1,31 @@
+# Captain Marina Saltborn
+
 ---
+title: Captain Marina Saltborn
+type: NPC
 tags:
 - aquabyssos
-- captain
-- complete
-- naval-officer
-- npc
-- person
 - depth-touched
+- naval-officer
+- captain
+- person
+- npc
+- research
+- active
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
+race: Human (Depth-Touched)
+location: '[[The Hadal Depths]] - Mobile Command'
 world: Aquabyssos
-type: NPC
 role: Naval Captain and Depth Explorer
 affiliation: '[[The Depth Wardens]]'
 age: '34'
-race: Human (Depth-Touched)
-location: '[[The Hadal Depths]] - Mobile Command'
 created_by: auto-stub
-created: '2025-08-11'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-captain-marina-saltborn-captain-marina-saltborn.svg]]
@@ -340,3 +347,8 @@ Marina works best as a complex ally who provides access to impossible locations 
 - [[The Deep Mother]]
 - [[The Hadal Depths]]
 - [[The Depth Wardens]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,28 +1,35 @@
+# The Forgotten One
+
 ---
+title: The Forgotten One
+type: Location
 tags:
-- ancient
-- aquabyssos
-- artifact
-- complete
-- forgotten
-- location
-- memory
 - mystery
+- aquabyssos
 - ruins
+- forgotten
+- memory
+- research
+- ancient
+- artifact
+- location
+- complete
+- active
 - temporal
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 security_level: extreme
 access: restricted
 danger_level: Extreme
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-forgotten-one-the-forgotten-one.png]]

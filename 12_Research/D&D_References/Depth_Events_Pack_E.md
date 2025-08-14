@@ -1,20 +1,26 @@
+# Depth_Events_Pack_E
+
 ---
 title: "Depth Events Pack E \u2014 Legendary Tier (Aquabyssos)"
 type: gm_resource
-status: complete
 tags:
 - both
-- complete
-- depth
-- events
-- gm
-- gm_resource
 - legendary
+- depth
+- gm
 - travel
+- research
+- events
+- active
+- gm_resource
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.145028+00:00'
 world: Both
 ---
+
 
 
 # Depth Events Pack E — Legendary Tier (12)
@@ -112,3 +118,8 @@ Legends speak of Depth Events Pack E as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

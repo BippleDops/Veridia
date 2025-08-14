@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 04
 type: adventure
-status: active
 tags:
-- combat
-- session-notes
-- shadow-touched
 - adventure
+- session-notes
+- quest
+- active
+- combat
+- shadow-touched
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 04: [Political Crisis]
 
@@ -73,3 +79,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
+
+
+## Key NPCs
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-arcturus-lumenblade-arcturus-lumenblade.svg]]
+- [[Session-4]]
+- [[Emperor Thalassius the Wise]]
+- [[Coral Empress Scarletina]]
+- [[Aether Crystal]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-mediator-serenity-stillwater-v1-mediator-serenity-stillwater.svg]]
+- [[04_Resources_Assets_Locations_location-city-coral-shaper-polyp-coral-shaper-polyp.svg]]
+- [[Sacred Memory Keeper Ancient Depths]]

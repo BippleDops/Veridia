@@ -1,14 +1,20 @@
+# Sorrow-Root Nightbloom
+
 ---
+title: Sorrow Root Nightbloom
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
 created: null
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T12:34:09.772031+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 
 
@@ -139,3 +145,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 - [[Verdant Shard]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,17 +1,23 @@
+# Dragonborn Names Clan Xge
+
 ---
-created: 2025-08-11
-status: active
+title: Dragonborn Names Clan Xge
+type: Group
 tags:
-- active
 - both
 - content/faction
-- group
-- status/in-progress
+- research
 - world/both
-type: Group
+- active
+- status/in-progress
+- group
+created: 2025-08-11
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T12:34:04.021873+00:00'
 world: Both
 ---
+
 
 
 
@@ -35,3 +41,8 @@ Legends speak of dragonborn names clan xge as a nexus where past and present con
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

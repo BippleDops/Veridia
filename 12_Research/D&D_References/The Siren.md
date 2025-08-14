@@ -1,30 +1,37 @@
+# The Siren
+
 ---
+title: The Siren
+type: NPC
 tags:
-- aethermoor
-- bard
-- complete
-- information-broker
-- legendary
 - mysterious
+- legendary
+- information-broker
 - npc
 - spy
+- research
+- active
+- bard
+- complete
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
-world: Aethermoor
-type: NPC
 race: Half-Elf (Crystal-Touched)
 class: Bard/Rogue
-level: 14
-alignment: Chaotic Neutral
 location: Various (Never stays in one place)
+level: 14
+world: Aethermoor
+alignment: Chaotic Neutral
 faction: Independent (Information Broker)
 status_condition: Active, Identity Unknown
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-siren-the-siren.svg]]
@@ -359,3 +366,8 @@ Legends speak of The Siren as a nexus where past and present converge. Locals de
 - [[The Siren|02 Worldbuilding/People/The Siren]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,28 +1,35 @@
+# Luminous Hollow
+
 ---
+title: Luminous Hollow
+type: Location
 tags:
 - aquabyssos
-- bioluminescent
-- cave
 - completed
+- cave
 - crystal
-- location
+- research
+- active
 - underwater
-status: completed
-world: Aquabyssos
-type: Location
-created_by: auto-stub
+- bioluminescent
+- location
 created: '2025-08-08'
+modified: '2025-08-14'
+status: completed
+population: ~300 deep dwellers, researchers, and pilgrims
+world: Aquabyssos
+created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 location_type: Underwater Cave System
 parent_location: Aquabyssos Deep Waters
 danger_level: 6
-population: ~300 deep dwellers, researchers, and pilgrims
 government: Independent sanctuary under Parliament protection
 depth: 3500 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] View
@@ -474,3 +481,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 <!-- enriched: true -->
 - [[Aethermoor]]
 - [[Whisper Island]]
+
+
+## Related
+
+*Links to related content will be added here.*

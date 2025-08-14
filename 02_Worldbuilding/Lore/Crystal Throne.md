@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- crystal-enhanced
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
+title: Crystal Throne
 type: Lore
+tags:
+- lore
+- both
+- content/lore
+- world/both
+- active
+- complete
+- status/in-progress
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.397181+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Heraldry
@@ -54,10 +58,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Cathedral of Light]]
+- [[Cathedral of Light]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Cathedral of Light]]
-- [[12_Research/D&D_References/The Gilded Shard]]
+- [[Cathedral of Light]]
+- [[The Gilded Shard]]

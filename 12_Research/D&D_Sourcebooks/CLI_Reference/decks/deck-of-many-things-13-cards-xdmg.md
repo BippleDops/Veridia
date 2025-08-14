@@ -1,20 +1,26 @@
+# deck-of-many-things-13-cards-xdmg
+
 ---
+title: deck of many things 13 cards xdmg
 aliases:
 - Deck of Many Things (13 Cards)
-created: 2025-07-23 12:39
-cssclasses: json5e-deck
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- world/both
-type: note
+created: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-deck
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.906207'
 world: Both
 ---
+
 
 # Deck of Many Things (13 Cards)
 *Source: Dungeon Master's Guide (2024) p. 250. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Mysterious Deck") and the Free Rules (2024)*  
@@ -119,3 +125,8 @@ Legends speak of deck of many things 13 cards xdmg as a nexus where past and pre
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,29 +1,34 @@
 ---
+title: Oracle Nerida the Tidereader
+type: Npc
+tags:
+- aquabyssos
+- oracle
+- status/complete
+- mechanics/magic
+- npc
+- character
+- content/npc
+- active
+- complete
+- world/aquabyssos
+- divination
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+race: Human (Sea-Touched)
+class: Divination Wizard/Sea Domain Cleric
+location: '[[The Tidal Sanctum]] - Orbital Shrine'
+level: 15
 affiliation: Independent (Serves All Seekers)
 age: 67 (appears timeless)
 alignment: Neutral
-class: Divination Wizard/Sea Domain Cleric
-created: '2025-08-09'
 created_by: Claude
-level: 15
-location: '[[The Tidal Sanctum]] - Orbital Shrine'
-race: Human (Sea-Touched)
 role: Oracle & Divination Specialist
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/npc
-- divination
-- mechanics/magic
-- npc
-- oracle
-- status/complete
-- world/aquabyssos
-type: Npc
 updated: '2025-08-13T12:34:17.585015+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -323,6 +328,136 @@ Oracle Nerida the Tidereader serves as Aquabyssos's most trusted divination spec
 - Associated with [[The Liminal Trading Company]] through trade fortune readings
 - Links to environmental storylines through weather and disaster prediction
 
+
+
+## Appearance
+
+Oracle Nerida the Tidereader presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Clever, determined, creative
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Pursuing knowledge
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Oracle Nerida the Tidereader harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Double agent
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Direct and concise
+
+**Physical Habits**: Gestures expressively
+
+## Current Activities
+
+Oracle Nerida the Tidereader is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Oracle Nerida the Tidereader needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Oracle Nerida the Tidereader stopped or removed
+3. **The Secret**: Information about Oracle Nerida the Tidereader's past surfaces
+4. **The Alliance**: Opportunity to work with or against Oracle Nerida the Tidereader
+5. **The Crisis**: Oracle Nerida the Tidereader is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 ### Campaign Integration
 - Perfect source of plot hooks, warnings, and campaign direction
@@ -344,6 +479,13 @@ Oracle Nerida the Tidereader serves as Aquabyssos's most trusted divination spec
 - Shows genuine care for all clients regardless of social status
 - Never lies but may withhold information that would cause more harm
 - Demonstrates wisdom gained from seeing many possible futures
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-pool-of-sacred-drowning-v1-pool-of-sacred-drowning.svg]]: *patron*
+- [[High Priestess Celeste]]: *mentor*
 
 ## Connections
 

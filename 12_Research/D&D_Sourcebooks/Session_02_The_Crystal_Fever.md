@@ -1,16 +1,23 @@
+# Session_02_The_Crystal_Fever
+
 ---
-created: '2025-08-13'
-status: active
-tags:
-- session/seven-shards
-- act-1
-- world/both
-- crystal-corruption
-- status/active
+title: Session 02 The Crystal Fever
 type: Session
+tags:
+- crystal-corruption
+- act-1
+- research
+- world/both
+- status/active
+- session/seven-shards
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T16:45:00.000000'
 world: Both
 ---
+
 
 # Session 2: The Crystal Fever
 *The Seven Shards Campaign - Act I*
@@ -323,3 +330,7 @@ The heroes must decide what to do with the [[Crystal Shard]] fragment and the co
 - [[Lord Aurelius Goldwave]] - full NPC profile
 - [[Silverscale Consortium]] - organization details
 - [[Crystal Fever Random Tables]]
+
+## Related
+
+*Links to related content will be added here.*

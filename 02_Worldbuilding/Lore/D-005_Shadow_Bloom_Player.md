@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: D 005 Shadow Bloom Player
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # D-005_Shadow_Bloom_Player
 
@@ -24,8 +28,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Sessions - Session_Packet_Template]]
-- [[12_Research/D&D_References/Aquabyssos_Session_01]]
+- [[Sessions - Session_Packet_Template]]
+- [[Aquabyssos_Session_01]]
 
 ## Notes
 

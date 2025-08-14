@@ -1,14 +1,20 @@
+# Captain Sarah Ironheart
+
 ---
-tags:
-- active
-- aethermoor
-- npc
+title: Captain Sarah Ironheart
 type: NPC
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.986431+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-captain-sarah-ironheart-captain-sarah-ironheart.svg]]
@@ -69,3 +75,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Quest - The Blackmail Papers]]
 - [[Quest - The Truth Unveiled]]
+
+
+## Related
+
+*Links to related content will be added here.*

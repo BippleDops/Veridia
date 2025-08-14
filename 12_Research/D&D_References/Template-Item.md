@@ -1,24 +1,30 @@
+# Template-Item
+
 ---
+title: Template Item
+aliases:
+- ItemOtherName
 type: Lore
+tags:
+- lore
+- both
+- category/item
+- research
+- active
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 MyContainer: []
 MyCategory: null
-tags:
-- active
-- both
-- category/item
-- lore
 obsidianUIMode: preview
-aliases:
-- ItemOtherName
 Connected_Quests:
 - '[[05_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]'
 Connected_Groups:
 - '[[05_Templates/World Builder Templates/Template-Group.md|Template-Group]]'
 world: Both
 updated: '2025-08-13T01:18:31.186927+00:00'
-created: '2025-08-11'
 ---
+
 
 
 
@@ -180,3 +186,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Template-Group|05 Templates/World Builder Templates/Template Group]]
+
+
+## Related
+
+*Links to related content will be added here.*

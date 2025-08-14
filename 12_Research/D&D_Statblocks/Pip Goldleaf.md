@@ -1,35 +1,42 @@
+# Pip Goldleaf
+
 ---
-tags:
-- aethermoor
-- apprentice
-- character
-- complete
-- family
-- goldleaf
-- heir
-- location
-- merchant
-- npc
-- pip
-- young
-status: complete
-world: Aethermoor
+title: Pip Goldleaf
 type: Location
-created_by: auto-stub
+tags:
+- apprentice
+- heir
+- pip
+- family
+- npc
+- research
+- character
+- young
+- active
+- goldleaf
+- complete
+- location
+- aethermoor
+- merchant
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+class: Rogue/Noble
+location: Various Trade Routes, Aethermoor
+level: 6
+world: Aethermoor
+created_by: auto-stub
 updated: '2025-08-13T01:18:35.977668+00:00'
 character_type: Merchant Heir
 faction: Goldleaf Trading House
-class: Rogue/Noble
-level: 6
 cr: 4
 occupation: Apprentice Merchant
-location: Various Trade Routes, Aethermoor
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-pip-goldleaf-pip-goldleaf.svg]]
@@ -295,3 +302,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Pip Goldleaf|02 Worldbuilding/Places/Pip Goldleaf]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

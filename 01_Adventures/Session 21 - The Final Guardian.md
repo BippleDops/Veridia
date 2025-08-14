@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 21   The Final Guardian
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 21 - The Final Guardian
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-nautilus-the-deep-wanderer-captain-nautilus-the-deep-wanderer.svg]]
+- [[Captain Storm Ambushmaster]]
+- [[Find the Shadow Cure]]
+- [[Queen Seraphina Lumengarde]]
+- [[Verdant Shard]]
+
+
+## Important Locations
+
+- [[Law Enforcement Medical Support]]
+- [[Council of Currents]]
+- [[04_Resources_Assets_Portraits_portrait-npc-brother-marcus-steelbane-brother-marcus-steelbane.svg]]

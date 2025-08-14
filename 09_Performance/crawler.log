@@ -843,3 +843,1692 @@ Service status: { comfyui: true, sdwebui: true, n8n: false, ollama: true }
 ❌ Failed: ComfyUI generation failed
 
 ⏸️ Pausing 30 seconds before next batch...
+
+📦 Processing Batch 5
+   Assets in batch: 100
+   Remaining in queue: 1617
+
+🎨 Generating image: Aether_Crystals.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Crown_of_Tidal_Sovereignty.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Depth_Pressure_Rings.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Evidence_Item_Descriptions.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Forbidden_Tomes_of_Deep_Mother.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Item_Prices.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Memory_Pearls.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Shadow-touched_Equipment_Set.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Similar_Items.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Resonance_Forge_Hammer.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Tidal_Shard_of_Memory.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Void_Entities.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Community_Integration_Leader_Echo_Bridgewright.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Liaison_Twilight_Bridgewalker.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Sage_Deep-Memory.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Dimensional_Security_Chief_Echo_Gatekeeper.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Dr__Marina_Coralheart_-_Shadow.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Elena_Starweaver_md.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Emergency_Coordinator_Storm_Quickfix.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Festival_Coordinator_Luna_Celebration.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Geology_Specialist_Stone_Soundshape.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: High_Priestess_Tidal_Blessing.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: High_Theologian_Commander_Aurelius.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Integration_Safety_Coordinator_Luna_Balancekeeper.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Jasper_Three-Eyes_Flint.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Keeper_of_Failures__Marcus_Ashworth.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Marina_Tidecrest.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Market_Analyst_Dream_Trendwatcher.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Master_Detection_Engineer_Crystal_Sensorwright.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Master_Engineer_Coral_Pressureforge.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Master_Harvester_Tide_Crystalcut.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Master_Resonance_Architect_Echo_Stonewhisper.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Master_Respiratory_Engineer_Marina_Gillwright.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Palace_Guard_Captain_Ironclad.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Portal_Engineer_Shade_Linkwright.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Senator_Nereon_Tidecaller.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Crystal_Shepherds.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Eternal_Speaker.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Keeper_of_Between.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Oracle_of_Bathyal_Palace.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Silent_Watcher_Entity.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Veritas_the_Drowned.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Vex_Shadowthorn_md.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: _Character_Sheet.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: _Character-Faction_Relationship_Matrix.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: _Cross-Campaign_Characters.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: _NPC-Location_Relationship_Matrix.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: _NPCs.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: _Royal___Noble_Characters.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Pregenerated_Characters_md.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Pregenerated_Characters_md.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: 02-chapter-1-playing-the-game_Stabilizing_a_Character.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: NPC_Directory_base.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: NPC.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: NPC_Name.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: mechuiti-demon-lord-of-apes-tob.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: qorgeth-demon-lord-of-the-devouring-worm-tob.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Generate_Campaign_NPCs.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Character_Creation_Extended_md.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Character_Bonds.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Depth_Adapted_Background.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Depth_Adapted_Background_md.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: All_NPCs.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Aquabyssos_Character_Creation.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Armor_of_the_First_Deep_King.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Captain_Contraband.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Captain_Hadal_Drake.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Captain_Storm_Tideguard.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Character_Name.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Character_Creation_Extended.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Coral_Duchess_Amphitrite.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Create_New_NPC.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Crystalhaven_Envoy_Lord_Reginald_Brightspire.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Current_Rider_Captain_Crimson_Velocity.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Deep_Mother_s_Domain.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Eastern_Kingdom_Fleet_Admiral.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Generate_Campaign_NPCs.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Guard_Captain_Morris.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Guild_Master_Shellforge.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: High_Priest_Daemon_Shadowprayer.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: High_Priest_Oceanus_Deepflow.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Important_NPCs.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: King_Consort_Meridian.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Kingdom_of_Luminal_Peaks.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Lady_Pelagic.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Lady_Penelope_Procedure.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Madame_Pearl_Currentflow.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Master_Artificer_Chaos-Crystal.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Medic_Captain_Truewater.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Memory_Manipulation.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: NPC_Cross-World_Connections.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: NPC_Development_Timeline.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: NPC_Directory_base.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: NPC_Name_1.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: NPC_Name_2.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: NPC_Name.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: NPC_Reaction_Matrix.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: NPC_Relationship_System.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: NPC_Statblock.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: NPC1.png
+❌ Failed: ComfyUI generation failed
+
+⏸️ Pausing 30 seconds before next batch...
+
+📦 Processing Batch 6
+   Assets in batch: 100
+   Remaining in queue: 1517
+
+🎨 Generating image: NPC2.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: NPC3.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: NPC4.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: NPC_Reactions.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: NPCs_Statblocks.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Quest_-_Refugees_of_the_Deep.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Quest_-_The_Deep_Incursion.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Quest_-_The_Refugee_Emergency.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Quest_-_The_Shadow_Fleet.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Quest_-_The_Shattered_Memories.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Quest_-_The_Underground_Railroad.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Random_NPC_Generator.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Random_NPC.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Shadow_Conspiracy_NPCs.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Shadow-touched_Communities.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Supernatural_Influence.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Crossroads_Tavern.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_First_King_s_Diary.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Republican_Coalition.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Depth_Adapted_Background.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: _Cross-Campaign_Locations.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: _Lore-Location_Connection_Matrix.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: _Natural___Mystical_Locations.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: _Underground___Aquatic_Locations.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Temporal_Displacement.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Abyssal_Forges.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Abyssal_Spires.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Archive_of_Echoes.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Conspiracy_Prison_Facilities.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Crystal_Conservatory.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Crystal_Shadow_Storms.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Centers.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Embassy_Row.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Floating_Arsenal.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Hall_of_Mirrors.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Hybrid_Ecology.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Phantom_Metropolis.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Phantom_Reef.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Portal_Terminals.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Residential_Districts.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Sunken_Palace.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Technical_Quarter.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Communication_Array.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Cosmic_Library.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Emergency_Response_Center.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Equipment_Vaults.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Grand_Exchange.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Healing_Voids.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Meditation_Spheres.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Memory_Halls.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Null_Zones.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Probability_Engine.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Quarantine_Zones.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Synthesis_Wastes.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Temporal_Scars.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Time_Anchor.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Void_Scanner.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Watcher_Sanctums.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Theater_of_Impossible_Dreams.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template_Continent_Placeholder_png.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template_Galaxy_Placeholder_png.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template_Person_Placeholder_png.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template_Place_Placeholder_png.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template_Planet_Placeholder_png.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template_Player_Placeholder_png.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template_Species_Placeholder_png.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template_StarSystem_Placeholder_png.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Aquabyssos_Prime.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Emergency_Protocols_2.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Financial_District.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Forge_District.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Forgotten_Doorways.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Kraken_2.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Law_Enforcement_2.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: New_Meridian.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Order_of_the_Crystal_Flame_Monastery.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Parallel_Realities.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Pressure_Gate_md.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Sister_Morwyn_s_Memorial_Sanctuary.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Sunken_Citadel_of_Remembrance.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Thalassopolis_Ruins.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Community_Feast_Halls.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Crimson_Reef.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Crystal_Mines_of_Sorrow.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Crystal_Palace.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Crystal_Temple.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Decompression_Chamber.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Deep_Academy.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Gilded_Serpent.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Philosophical_Depths.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Recursion_Nexus.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Sacred_Armory.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Sunken_Library_of_Thalassius_md.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Twilight_Depths.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Twilight_Reaches.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Crystal_Gardens.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Whisper-Touched_William_s_Oracle_Shrine.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Places.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Resource_Scarcity_Prediction.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: City_District_Map_Port_Meridian_Harbo.png
+❌ Failed: ComfyUI generation failed
+
+⏸️ Pausing 30 seconds before next batch...
+
+📦 Processing Batch 7
+   Assets in batch: 100
+   Remaining in queue: 1417
+
+🎨 Generating image: Location_Network_Graph_md.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Abyssal_Cartel.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: All_Locations.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Anti-Priest_Nullus.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Anti-Religious_Philosophical_Arguments.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Aquabyssos_Noble_Houses.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Arsenal_Keeper_Thane_Ironwill.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Artisan_Glow-Finger_Nerida.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Bio-Luminescent_Threading.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Biological_Enhancement_Procedures.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Bone_Architect_Ossuary.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Chaplain_Father_Blessing_Hopekeeper.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Chief_Diplomat_Corallion_Reefwright.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Chorus_Master_Melodia_Depthsong.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Clerics_of_Thalassa.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Community_Groups.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Community_Temple_Network.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Conductor_Morpheus_Mindbridge.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Constitutional_Scholar_Valdris_Deepthought.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Councilor_Marcus_Traditionkeeper.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Countess_Argentum_Vaultkeeper.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Courier_Pelagic.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Creative_Visionweaver.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cross-Dimensional_Transit_Authority.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Crystal_Corruption.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Crystal_Dampening_Stones.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Crystal_Plague_Wards.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Current_Deepvoice.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Current_Location.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Customer_Relations_Director_Seraphina_Calmcurrent.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Death_Speaker_Marina_Depthkeeper.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Deep_Conservative_Alliance.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Democratic_Technology_Development.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Depth_s_End_Cathedral.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Diplomat_Supreme_International.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Diplomatic_Corps.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Disaster_Prevention_Centers.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Displaced_Atoll_Residents.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Divine_Communication_Specialists.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Divine_Preservation_Magic.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Echo_Gentleguide.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Engineer_Brass_Gearspin.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Explorer_Captain_Reef_Deepdiver.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Fort_Nautilus.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Great_Crystal_Lens.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Harbor_Authority.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: High-Speed_Transportation.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: House_Deepforge.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: House_Mercurial.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: House_Tidecaller.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Interfaith_Community_Centers.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: International_Academic_Exchange.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: International_Scholars.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Keeper_Maelstrom_the_Great.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Keeper_of_Memories_Echo_Truthseer.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Korra_Mindshield.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Lament_Architecture.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Legal_Department.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Legal_Scholar_Professor_Depth_Lawkeeper.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Librarian_Scholar_Reef_Documentcurrent.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Lighthouse_Keeper_Finn_Deepbeacon.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Location_Found.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Location_Name_1.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Location_Name_2.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Location-Based_Encounter_Tables.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Location1.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Location2.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Location3.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Magistrate_Justice_Lawkeeper.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Main_Location.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Master_Artificer_Thymallos.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Master_Builder_Caelum_Vortexwright.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Memory_Artist_Recall.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Memory_Eternal_Keeper.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Merchant_Council_of_Port_Meridian.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Merchant_Quarter_Guildhalls.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Meridian_Undercity.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Midnight_Reaches.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Mourning_Mother_Cordelia.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Museums.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Noble_Houses.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Parent_Location_Name.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Parliament_Deep_District.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Pilgrimage_Routes.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Poet_Laureate_Tidal_Wordsmith.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Port_Meridian_Council_Chamber.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Portal_Chambers.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Portal_Gateway_Keys.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Pressure_Symbiont.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Prime_Minister_Government_Leader.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Professional_Training.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Progress_Through_Power_Faction.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Progressive_Tide_Movement.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Psychological_Studies.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Quartermaster_Judith_Steadyhold.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Rational_Philosophy_Framework.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Reef_Tenders.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Reef_Truescale.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Religious_Institutions.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Research_Institutes.png
+❌ Failed: ComfyUI generation failed
+
+⏸️ Pausing 30 seconds before next batch...
+
+📦 Processing Batch 8
+   Assets in batch: 100
+   Remaining in queue: 1317
+
+🎨 Generating image: Royal_Protocol.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Sacred_Memory_Keeper_Ancient_Depths.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Sage_Freedom_Philosopher.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Sanctuary_Keeper_Morgan.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Seasonal_Quarters.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Security_Chief_Corwin_Ironshell.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Security_Quarters.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Senator_Abyssos_Traditionkeeper.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Senior_Investigator_Shadow_Trackhound.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Seraph_Tidewhisper.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Shadow_Replacements.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Shadow_Surgery_Network.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Shard_Locations.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Shared_Dreaming.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Steel_Depthguard.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Storm_Weatherwright.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template_Continent_Placeholder_png.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template_Galaxy_Placeholder_png.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template_Group_Placeholder_png.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template_Item_Placeholder_png.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template_Lore_Placeholder_png.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template_Person_Placeholder_png.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template_Place_Placeholder_png.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template_Planet_Placeholder_png.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template_Player_Placeholder_png.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template_Quest_Placeholder_png.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template_Species_Placeholder_png.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template_StarSystem_Placeholder_png.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Temple_Council.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Temple_of_Perpetual_Tides.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Temple_of_the_Sunken_Cathedral.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Temporal_Anomaly_Zones.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Temporal_Archivist_Chronos.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Administrative_Palace.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Balance_Keeper.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Boundary_Accords.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Clerk_of_Souls.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Crimson_Docks.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Deserter.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Great_Democratic_Renewal.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Kraken_s_Wake.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Memorial_Archives.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Memory_Keepers_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Neutral_Ground.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Ossuary_Temple.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Rolling_Tide.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Seven_Founding_Houses.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Silent_Rescue.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Temple_of_First_Tide.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Vanishing_Depths.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Void_Touched_Oracle.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Whisper_Keepers.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Theron_Justcurrent.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Tidal_Deepvoice.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Tidal_District.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Tidal_Harmony.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Trade_Captain_Marina_Pathkeeper.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Transportation_Pods.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Void_Integration_Research.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: War_of_Crushing_Depths.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Warden_Marcus_Stonehand.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Witness_Reports.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: map_placeholder.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: _Cross-Campaign_Locations_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: _Lore-Location_Connection_Matrix_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: _Natural___Mystical_Locations_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: _Underground___Aquatic_Locations_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Temporal_Displacement_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Abyssal_Forges_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Abyssal_Spires_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Archive_of_Echoes_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Conspiracy_Prison_Facilities_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Crystal_Conservatory_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Crystal_Shadow_Storms_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Cultural_Centers_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Embassy_Row_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Floating_Arsenal_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Hall_of_Mirrors_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Hybrid_Ecology_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Phantom_Metropolis_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Phantom_Reef_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Portal_Terminals_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Residential_Districts_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Sunken_Palace_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Technical_Quarter_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Communication_Array_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Cosmic_Library_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Emergency_Response_Center_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Equipment_Vaults_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Grand_Exchange_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Healing_Voids_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Meditation_Spheres_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Memory_Halls_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Null_Zones_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Probability_Engine_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Quarantine_Zones_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Synthesis_Wastes_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Temporal_Scars_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Time_Anchor_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Void_Scanner_map.png
+❌ Failed: ComfyUI generation failed
+
+⏸️ Pausing 30 seconds before next batch...
+
+📦 Processing Batch 9
+   Assets in batch: 100
+   Remaining in queue: 1217
+
+🎨 Generating map: The_Watcher_Sanctums_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Theater_of_Impossible_Dreams_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Template_Continent_Placeholder_png_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Template_Galaxy_Placeholder_png_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Template_Person_Placeholder_png_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Template_Place_Placeholder_png_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Template_Planet_Placeholder_png_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Template_Player_Placeholder_png_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Template_Species_Placeholder_png_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Template_StarSystem_Placeholder_png_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Aquabyssos_Prime_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Emergency_Protocols_2_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Financial_District_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Forge_District_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Forgotten_Doorways_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Kraken_2_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Law_Enforcement_2_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: New_Meridian_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Order_of_the_Crystal_Flame_Monastery_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Parallel_Realities_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Pressure_Gate_md_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Sister_Morwyn_s_Memorial_Sanctuary_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Sunken_Citadel_of_Remembrance_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Thalassopolis_Ruins_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Community_Feast_Halls_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Crimson_Reef_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Crystal_Mines_of_Sorrow_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Crystal_Palace_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Crystal_Temple_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Decompression_Chamber_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Deep_Academy_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Gilded_Serpent_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Philosophical_Depths_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Recursion_Nexus_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Sacred_Armory_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Sunken_Library_of_Thalassius_md_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Twilight_Depths_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Twilight_Reaches_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Crystal_Gardens_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Whisper-Touched_William_s_Oracle_Shrine_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Places_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Resource_Scarcity_Prediction_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: City_District_Map_Port_Meridian_Harbo_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Location_Network_Graph_md_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: All_Locations_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Aquabyssos_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Artificer_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Bathyal_Succession_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Black_Market_Deal_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Bubble_Burst_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Cross-Dimensional_Transit_Authority_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Crystal_Cult_Temples_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Crystal_Palace_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Crystal_Plague_Wards_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Crystallization_Process_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Current_Location_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Depth_Crystal_Harvest_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Diplomatic_Protocol_Center_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Discover_Shadow_Market_Location_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Displaced_Atoll_Residents_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Harbor_District_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Hybrid_Communities_Integration_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Location_Found_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Location_Name_1_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Location_Name_2_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Location-Based_Encounter_Tables_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Location1_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Location2_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Location3_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Main_Location_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Market_Mystery_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Memory_Meadows_Black_Market_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Memory_Parasite_Infection_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Meridian_Undercity_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Missing_Persons_of_Port_Meridian_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Nereidios_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Parent_Location_Name_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Party_Quarters_-_Inverse_Palace_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Political_Intrigue_of_Meridian_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Pressure_Point_Settlement_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Quieting_the_Depths_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Reality_Anchor_Network_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Senator_s_Private_Chambers_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Shadow_Replacements_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Shard_Locations_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Spy_Games_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Street_Urchin_Gang_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Surface_Signals_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Surface_Sympathizer_Settlements_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Surface_Traders_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Template_Continent_Placeholder_png_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Template_Galaxy_Placeholder_png_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Template_Group_Placeholder_png_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Template_Item_Placeholder_png_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Template_Lore_Placeholder_png_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Template_Person_Placeholder_png_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Template_Place_Placeholder_png_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Template_Planet_Placeholder_png_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Template_Player_Placeholder_png_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Template_Quest_Placeholder_png_map.png
+❌ Failed: ComfyUI generation failed
+
+⏸️ Pausing 30 seconds before next batch...
+
+📦 Processing Batch 10
+   Assets in batch: 100
+   Remaining in queue: 1117
+
+🎨 Generating map: Template_Species_Placeholder_png_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Template_StarSystem_Placeholder_png_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Temporal_Harvest_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: Temporal_Rescue_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Constellation_Mystery_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Crystal_Merchant_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Deep_Fugitive_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Deepmind_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Drowning_Truth_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Eel_Keepers_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_First_Truth_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Great_Drowning_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Last_Priest_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Last_Seeds_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Last_Words_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Missing_Diplomat_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Observatory_Between_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Order_of_the_Shattered_Crown_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Silent_Rescue_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Sundered_Peaks_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Unremembered_Parliament_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating map: The_Verdant_Reach_map.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating audio: mechuiti-demon-lord-of-apes-tob_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "mechuiti-demon-lord-of-apes-tob character theme music, > *This is a placeholder note created automatically because it was referenced in other notes.* melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: qorgeth-demon-lord-of-the-devouring-worm-tob_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "qorgeth-demon-lord-of-the-devouring-worm-tob character theme music, > *This is a placeholder note created automatically because it was referenced in other notes.* melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Ancient_King_Pelagios_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Ancient King Pelagios character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-ancient-king-pelagios-ancient-king-pelagios.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Banking_Lord_Cornelius_Coinwright_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Banking Lord Cornelius Coinwright character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-banking-lord-cornelius-coinwright-banking-lord-cornelius-coinwright.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Between_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Between character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-between-captain-between.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Blackwater_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Blackwater character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-blackwater-captain-blackwater.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Cornelius_Deepwater_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Cornelius Deepwater character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-cornelius-deepwater-captain-cornelius-deepwater.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Dara_Ironwill_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Dara Ironwill character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-dara-ironwill-captain-dara-ironwill.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Depths-Walker_Marina_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Depths-Walker Marina character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-depths-walker-marina-captain-depths-walker-marina.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Dimensional_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Dimensional character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-dimensional-captain-dimensional.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Echoing_Thunder_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Echoing Thunder character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-echoing-thunder-captain-echoing-thunder.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Elara_Shadowshard_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Elara Shadowshard character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-elara-shadowshard-captain-elara-shadowshard.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Finn_Crosscurrent_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Finn Crosscurrent character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-finn-crosscurrent-captain-finn-crosscurrent.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Garrett_Stormcutter_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Garrett Stormcutter character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-garrett-stormcutter-captain-garrett-stormcutter.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Guard_Peacehold_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Guard Peacehold character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-guard-peacehold-captain-guard-peacehold.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Hadal_Voidwright_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Hadal Voidwright character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-hadal-voidwright-captain-hadal-voidwright.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Harmony_Tidereader_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Harmony Tidereader character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-harmony-tidereader-captain-harmony-tidereader.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Henrik_Proudbanner_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Henrik Proudbanner character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-henrik-proudbanner-captain-henrik-proudbanner.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Henrik_Saltbreeze_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Henrik Saltbreeze character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-henrik-saltbreeze-captain-henrik-saltbreeze.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Lyanna_Brightshield_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Lyanna Brightshield character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-lyanna-brightshield-captain-lyanna-brightshield.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Marcus_Ironwill_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Marcus Ironwill character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-marcus-ironwill-captain-marcus-ironwill.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Marcus_Voidward_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Marcus Voidward character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-marcus-voidward-captain-marcus-voidward.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Marina_Saltborn_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Marina Saltborn character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-marina-saltborn-captain-marina-saltborn.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Marina_Shieldcurrent_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Marina Shieldcurrent character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-marina-shieldcurrent-captain-marina-shieldcurrent.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Marina_Truewater_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Marina Truewater character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-marina-truewater-captain-marina-truewater.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Marrow_Drinker_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Marrow Drinker character theme music, > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-captain-marrow-drinker-captain-marrow-drinker.svg) melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Mistwalker_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Mistwalker character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-mistwalker-captain-mistwalker.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Morgrim_Lastvessel_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Morgrim Lastvessel character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-morgrim-lastvessel-captain-morgrim-lastvessel.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Nautilus_Deepwatch_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Nautilus Deepwatch character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-nautilus-deepwatch-captain-nautilus-deepwatch.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Nautilus_the_Deep_Wanderer_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Nautilus the Deep Wanderer character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-nautilus-the-deep-wanderer-captain-nautilus-the-deep-wanderer.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Nautilus_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Nautilus character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-nautilus-the-deep-wanderer-captain-nautilus-the-deep-wanderer.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Navigator_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Navigator character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-navigator-captain-navigator.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Nerida_Stormcrest_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Nerida Stormcrest character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-nerida-stormcrest-captain-nerida-stormcrest.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Nerion_Deepward_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Nerion Deepward character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-nerion-deepward-captain-nerion-deepward.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Prism-Shield_Valeria_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Prism-Shield Valeria character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-prism-shield-valeria-captain-prism-shield-valeria.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Redbeard_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Redbeard character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-redbeard-captain-redbeard.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Repossession_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Repossession character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-repossession-captain-repossession.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Rescue_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Rescue character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-rescue-captain-rescue.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Rex_Ironhaul_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Rex Ironhaul character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-rex-ironhaul-captain-rex-ironhaul.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Rhea_Blackwater_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Rhea Blackwater character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-rhea-blackwater-captain-rhea-blackwater.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Sarah_Ironheart_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Sarah Ironheart character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-sarah-ironheart-captain-sarah-ironheart.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Sarah_Oathbound_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Sarah Oathbound character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-sarah-oathbound-captain-sarah-oathbound.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Scale-Walker_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Scale-Walker character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-scale-walker-captain-scale-walker.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Scarlet_Torrent_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Scarlet Torrent character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-scarlet-torrent-captain-scarlet-torrent.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Shadowsail_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Shadowsail character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-shadowsail-captain-shadowsail.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Sky_Horizon_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Sky Horizon character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-sky-horizon-captain-sky-horizon.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Steelhart_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Steelhart character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-steelhart-captain-steelhart.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Sterling_Lightshield_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Sterling Lightshield character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-sterling-lightshield-captain-sterling-lightshield.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Storm_Ambushmaster_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Storm Ambushmaster character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-storm-ambushmaster-captain-storm-ambushmaster.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Swift_Cloudracer_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Swift Cloudracer character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-swift-cloudracer-captain-swift-cloudracer.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Tempest-Eye_Marelda_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Tempest-Eye Marelda character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-tempest-eye-marelda-captain-tempest-eye-marelda.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Thaddeus_Blackwater_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Thaddeus Blackwater character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-thaddeus-blackwater-captain-thaddeus-blackwater.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Thaddeus_Stormwright_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Thaddeus Stormwright character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-thaddeus-stormwright-captain-thaddeus-stormwright.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Thalia_Stormguard_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Thalia Stormguard character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-thalia-stormguard-captain-thalia-stormguard.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Thornback_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Thornback character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-thornback-captain-thornback.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Thorne_Darkwater_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Thorne Darkwater character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-thorne-darkwater-captain-thorne-darkwater.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Thrace_Deeprunner_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Thrace Deeprunner character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-thrace-deeprunner-captain-thrace-deeprunner.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Threshold_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Threshold character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-threshold-captain-threshold.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Torren_Stormwright_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Torren Stormwright character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-torren-stormwright-captain-torren-stormwright.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Torrent_Freewater_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Torrent Freewater character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-torrent-freewater-captain-torrent-freewater.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Torrent_Swiftcurrent_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Torrent Swiftcurrent character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-torrent-swiftcurrent-captain-torrent-swiftcurrent.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Truth_Ironwill_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Truth Ironwill character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-truth-ironwill-captain-truth-ironwill.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Twin-Reality_Marsh_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Twin-Reality Marsh character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-twin-reality-marsh-captain-twin-reality-marsh.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Valeria_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Valeria character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-valeria-captain-valeria.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Voidguard_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Voidguard character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-voidguard-captain-voidguard.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Captain_Zara_Stormwind_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Captain Zara Stormwind character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-zara-stormwind-captain-zara-stormwind.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Commodity_Queen_Abundance_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Commodity Queen Abundance character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-commodity-queen-abundance-commodity-queen-abundance.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Current-Lord_Triton_of_House_Pelagios_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Current-Lord Triton of House Pelagios character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-current-lord-triton-of-house-pelagios-current-lord-triton-of-house-pelagios.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Deep_Lord_Pelagios_the_Eternal_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Deep Lord Pelagios the Eternal character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-deep-lord-pelagios-the-eternal-deep-lord-pelagios-the-eternal.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Deep_Lords_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Deep Lords character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-deep-lords-deep-lords.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Deep_Sea_Explorer_Captain_Abyss_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Deep Sea Explorer Captain Abyss character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-deep-sea-explorer-captain-abyss-deep-sea-explorer-captain-abyss.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Deepwater_Banking_Consortium_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Deepwater Banking Consortium character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-deepwater-banking-consortium-deepwater-banking-consortium.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Defense_Captain_Ironguard_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Defense Captain Ironguard character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-defense-captain-ironguard-defense-captain-ironguard.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Fence_Queen_Sticky-Fingers_Sal_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Fence Queen Sticky-Fingers Sal character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-fence-queen-sticky-fingers-sal-fence-queen-sticky-fingers-sal.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Foreign_Trader_Captain_Hassan_al-Rimal_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Foreign Trader Captain Hassan al-Rimal character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-foreign-trader-captain-hassan-al-rimal-foreign-trader-captain-hassan-al-rimal.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Free_Captains_Alliance_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Free Captains Alliance character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-free-captains-alliance-free-captains-alliance.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Gallery_Guide_Captain_Marina_Civicvoice_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Gallery Guide Captain Marina Civicvoice character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-gallery-guide-captain-marina-civicvoice-gallery-guide-captain-marina-civicvoice.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: God-King_Aetheron_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "God-King Aetheron character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-god-king-aetheron-god-king-aetheron.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+
+⏸️ Pausing 30 seconds before next batch...
+
+📦 Processing Batch 11
+   Assets in batch: 100
+   Remaining in queue: 1017
+
+🎨 Generating audio: Guardian_Captain_Marcus_Shieldwall_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Guardian Captain Marcus Shieldwall character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-guardian-captain-marcus-shieldwall-guardian-captain-marcus-shieldwall.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: High_King_Aurelius_Skyborn_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "High King Aurelius Skyborn character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-high-king-aurelius-skyborn-high-king-aurelius-skyborn.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: House_Guard_Captains_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "House Guard Captains character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-house-guard-captains-house-guard-captains.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: House_of_Lords_-_Secret_Chamber_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "House of Lords - Secret Chamber character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-house-of-lords-secret-chamber-house-of-lords-secret-chamber.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Ice_Kingdom_Magic_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Ice Kingdom Magic character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-ice-kingdom-magic-ice-kingdom-magic.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Ice_Kingdom_Spirits_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Ice Kingdom Spirits character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-ice-kingdom-spirits-ice-kingdom-spirits.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: King_Marcus_Lumengarde_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "King Marcus Lumengarde character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-king-marcus-lumengarde-king-marcus-lumengarde.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: King_Torrhen_Lumengarde_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "King Torrhen Lumengarde character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-king-torrhen-lumengarde-king-torrhen-lumengarde.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lich-Queen_Morwyn_the_Deathless_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lich-Queen Morwyn the Deathless character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lich-queen-morwyn-the-deathless-lich-queen-morwyn-the-deathless.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_Admiral_Gaius_Windcutter_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord Admiral Gaius Windcutter character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-admiral-gaius-windcutter-lord-admiral-gaius-windcutter.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_Aldric_Blackwater_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord Aldric Blackwater character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-aldric-blackwater-lord-aldric-blackwater.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_Aldric_Highwind_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord Aldric Highwind character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-aldric-highwind-lord-aldric-highwind.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_Aldric_Thornwhisper_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord Aldric Thornwhisper character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-aldric-thornwhisper-lord-aldric-thornwhisper.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_Aurelius_Goldwave_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord Aurelius Goldwave character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-aurelius-goldwave-lord-aurelius-goldwave.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_Aurelius_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord Aurelius character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-aurelius-goldwave-lord-aurelius-goldwave.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_Bathysmal_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord Bathysmal character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-bathysmal-lord-bathysmal.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_Blackwater_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord Blackwater character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-blackwater-lord-blackwater.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_Chancellor_Prism_Valdrick_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord Chancellor Prism Valdrick character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-chancellor-prism-valdrick-lord-chancellor-prism-valdrick.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_Chancellor_Prism_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord Chancellor Prism character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-chancellor-prism-lord-chancellor-prism.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_Commander_Gareth_Steelborn_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord Commander Gareth Steelborn character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-commander-gareth-steelborn-lord-commander-gareth-steelborn.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_Commander_Gareth_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord Commander Gareth character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-commander-gareth-steelborn-lord-commander-gareth-steelborn.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_Commander_Steelborn_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord Commander Steelborn character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-commander-steelborn-lord-commander-steelborn.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_Commander_Thane_Skyward_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord Commander Thane Skyward character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-commander-thane-skyward-lord-commander-thane-skyward.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_Erasmus_Voidheart_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord Erasmus Voidheart character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-erasmus-voidheart-lord-erasmus-voidheart.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_Flux_the_Inconsistent_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord Flux the Inconsistent character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-flux-the-inconsistent-lord-flux-the-inconsistent.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_General_Harrison_Ironhold_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord General Harrison Ironhold character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-general-harrison-ironhold-lord-general-harrison-ironhold.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_Magistrate_Aldrich_Thornwick_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord Magistrate Aldrich Thornwick character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-magistrate-aldrich-thornwick-lord-magistrate-aldrich-thornwick.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_Magnus_Goldspire_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord Magnus Goldspire character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-magnus-goldspire-lord-magnus-goldspire.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_Marcus_Goldweaver_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord Marcus Goldweaver character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-marcus-goldweaver-lord-marcus-goldweaver.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Lord_Marcus_Shadowbane_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Lord Marcus Shadowbane character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-marcus-shadowbane-lord-marcus-shadowbane.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Merchant_Captain_Tobias_Stormwind_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Merchant Captain Tobias Stormwind character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-merchant-captain-tobias-stormwind-merchant-captain-tobias-stormwind.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Merchant_Captain_Trade_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Merchant Captain Trade character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-merchant-captain-trade-merchant-captain-trade.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Merchant_Lord_Cornelius_Generous_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Merchant Lord Cornelius Generous character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-merchant-lord-cornelius-generous-merchant-lord-cornelius-generous.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Mirror-Breaking_Crystals_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Mirror-Breaking Crystals character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-mirror-breaking-crystals-mirror-breaking-crystals.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Mist_Walker_Captain_Luna_Pathfinder_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Mist Walker Captain Luna Pathfinder character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-mist-walker-captain-luna-pathfinder-mist-walker-captain-luna-pathfinder.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Pilgrim_Guide_Samuel_Walkingfaith_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Pilgrim Guide Samuel Walkingfaith character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-pilgrim-guide-samuel-walkingfaith-pilgrim-guide-samuel-walkingfaith.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Pirate_Captain_Blacktide_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Pirate Captain Blacktide character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-pirate-captain-blacktide-pirate-captain-blacktide.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Pirate_Lords_of_the_Spiral_Depths_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Pirate Lords of the Spiral Depths character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-pirate-lords-of-the-spiral-depths-pirate-lords-of-the-spiral-depths.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Pressure_Lords_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Pressure Lords character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-pressure-lords-pressure-lords.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Queen_Glacialis_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Queen Glacialis character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-queen-glacialis-queen-glacialis.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Queen_Lyralei_Stormheart_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Queen Lyralei Stormheart character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-queen-lyralei-stormheart-queen-lyralei-stormheart.svg]] melody" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Queen_Morwyn_Lumengarde_theme.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Queen Morwyn Lumengarde character theme music, > [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-queen-morwyn-lumengarde-queen-morwyn-lumengarde.svg]] melody" --duration 60
+/bin/sh: python: command not found
+

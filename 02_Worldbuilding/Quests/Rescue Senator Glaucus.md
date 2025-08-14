@@ -1,22 +1,28 @@
+# Rescue Senator Glaucus
+
 ---
+title: Rescue Senator Glaucus
 type: Lore
-status: complete
 tags:
-- combat
-- session-notes
-- crystal-enhanced
-- shadow-touched
-- aquatic
-- aquabyssos
-- complete
-- intrigue
 - lore
-- political
-- quest
+- aquabyssos
+- session-notes
+- intrigue
 - rescue
+- aquatic
+- political
+- worldbuilding
+- quest
+- active
+- combat
+- complete
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 world: Aquabyssos
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
@@ -24,47 +30,48 @@ updated: '2025-08-13T01:18:34.500405+00:00'
 ---
 
 
+
 # Rescue Senator Glaucus
 
 **Type:** Rescue/Political Intrigue  
 **Level:** 1-5  
-**Location:** [[12_Research/D&D_References/The Sunken Markets]], [[12_Research/D&D_References/Parliament of Echoes]], [[12_Research/D&D_References/Smuggler's Cove]]  
+**Location:** [[The Sunken Markets]], [[Parliament of Echoes]], [[Smuggler's Cove]]  
 **Duration:** 2-3 sessions  
-**Threat:** A key political figure has been kidnapped to destabilize [[12_Research/D&D_References/Aquabyssos]] democracy
+**Threat:** A key political figure has been kidnapped to destabilize [[Aquabyssos]] democracy
 
 ## Overview
 
-[[12_Research/D&D_References/Senator Glaucus]], a moderate voice in the [[12_Research/D&D_References/Parliament of Echoes]] and key supporter of surface-depth cooperation, has vanished during a routine visit to [[12_Research/D&D_References/The Sunken Markets]]. His disappearance threatens to collapse delicate peace negotiations between [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]]. Time is running out as political extremists on both sides use his absence to push for war.
+[[Senator Glaucus]], a moderate voice in the [[Parliament of Echoes]] and key supporter of surface-depth cooperation, has vanished during a routine visit to [[The Sunken Markets]]. His disappearance threatens to collapse delicate peace negotiations between [[Aethermoor]] and [[Aquabyssos]]. Time is running out as political extremists on both sides use his absence to push for war.
 
 ## Background
 
-Senator Glaucus was investigating reports of illegal [[12_Research/D&D_References/Shadow Surgeons Collective]] operations in the market district when he disappeared. Security footage from [[12_Research/D&D_References/Pressure Tubes]] shows him entering a seemingly legitimate memory merchant's stall, but he never emerged. His bodyguards were found days later, their memories completely wiped.
+Senator Glaucus was investigating reports of illegal [[Shadow Surgeons Collective]] operations in the market district when he disappeared. Security footage from [[Pressure Tubes]] shows him entering a seemingly legitimate memory merchant's stall, but he never emerged. His bodyguards were found days later, their memories completely wiped.
 
 ## Key NPCs
 
-- **[[12_Research/D&D_References/Senator Glaucus]]**: Moderate politician, expert negotiator, secretly dying from pressure poisoning
-- **[[12_Research/D&D_References/Shadow Merchant Riptide]]**: Ruthless trader who arranged the kidnapping for political gain
+- **[[Senator Glaucus]]**: Moderate politician, expert negotiator, secretly dying from pressure poisoning
+- **[[Shadow Merchant Riptide]]**: Ruthless trader who arranged the kidnapping for political gain
 - **[[12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweaver]]**: Reluctant accomplice with crucial information
-- **[[12_Research/D&D_References/Commander Drake Pressureborn]]**: Military leader demanding immediate action
-- **[[12_Research/D&D_References/Mediator Serenity Stillwater]]**: Desperate diplomat trying to prevent war
+- **[[Commander Drake Pressureborn]]**: Military leader demanding immediate action
+- **[[Mediator Serenity Stillwater]]**: Desperate diplomat trying to prevent war
 - **[[12_Research/D&D_Statblocks/Admiral Thorne Blackwater]]**: Naval commander coordinating search operations
-- **[[12_Research/D&D_References/Aquabyssos]]**: Crystal mage investigating magical aspects of the kidnapping
-- **Detective Coral Truthseeker**: [[12_Research/D&D_References/Parliament of Echoes]] investigator with inside knowledge
+- **[[Aquabyssos]]**: Crystal mage investigating magical aspects of the kidnapping
+- **Detective Coral Truthseeker**: [[Parliament of Echoes]] investigator with inside knowledge
 - **[[12_Research/D&D_Statblocks/Vault Keeper Eternal]]**: Ancient guardian who may have witnessed similar incidents
 - **Nurse Tidal Mercy**: Medical professional treating pressure poisoning symptoms
-- **[[12_Research/D&D_References/The Recursion Oracle]]**: Seer whose visions might reveal the Senator's location
+- **[[The Recursion Oracle]]**: Seer whose visions might reveal the Senator's location
 
 ## Investigation Phase
 
 ### Phase 1: The Senator's Last Steps (1 session)
 
-**Location:** [[12_Research/D&D_References/The Sunken Markets]]  
+**Location:** [[The Sunken Markets]]  
 **Objective:** Trace the senator's movements and identify suspects
 
 **Key Locations to Investigate:**
 - **Memory Merchant Stalls**: Several report unusual "bulk orders" for political memories
-- **[[12_Research/D&D_References/Pressure Tube Terminal]]**: Security constructs have partial recordings
-- **[[12_Research/D&D_References/The Depth Market]]**: Black market dealers may have seen something
+- **[[Pressure Tube Terminal]]**: Security constructs have partial recordings
+- **[[The Depth Market]]**: Black market dealers may have seen something
 - **Senator's Office**: Contains evidence of his investigation into shadow surgeries
 
 **Clues to Discover:**
@@ -76,7 +83,7 @@ Senator Glaucus was investigating reports of illegal [[12_Research/D&D_Reference
 
 ### Phase 2: Following the Trail (1 session)
 
-**Location:** [[12_Research/D&D_References/Shadow Market Canals]], [[12_Research/D&D_References/Smuggler's Cove]]  
+**Location:** [[Shadow Market Canals]], [[Smuggler's Cove]]  
 **Objective:** Navigate the criminal underworld to find the kidnapping network
 
 **Challenges:**
@@ -86,16 +93,16 @@ Senator Glaucus was investigating reports of illegal [[12_Research/D&D_Reference
 - **Time Pressure**: Every hour increases the chance of permanent memory damage
 
 **Key Encounters:**
-- **[[12_Research/D&D_References/Current Riders Guild]] Smuggler**: Has transport records showing unusual cargo
+- **[[Current Riders Guild]] Smuggler**: Has transport records showing unusual cargo
 - **Former Shadow Surgery Patient**: Victim who escaped, has inside knowledge
-- **[[12_Research/D&D_References/Coral Throne Syndicate]] Enforcer**: Wants the senator found to maintain stability
+- **[[Coral Throne Syndicate]] Enforcer**: Wants the senator found to maintain stability
 - **Crooked Pressure Tube Operator**: Accepting bribes to alter transport logs
 
 ## The Rescue Location: Hidden Surgical Facility
 
 ### Facility Layout
 
-**Location:** Converted section of [[12_Research/D&D_References/Ancient Siege Tunnels]] beneath [[12_Research/D&D_References/The Sunken Markets]]  
+**Location:** Converted section of [[Ancient Siege Tunnels]] beneath [[The Sunken Markets]]  
 **Security:** Memory-locked doors, emotional manipulation traps, shadow construct guards
 
 **Key Areas:**
@@ -103,7 +110,7 @@ Senator Glaucus was investigating reports of illegal [[12_Research/D&D_Reference
 2. **Holding Cells**: Where victims await "treatment"
 3. **Surgery Theater**: Where memories are extracted and altered
 4. **Storage Vaults**: Crystalline containers holding stolen memories
-5. **Escape Routes**: Emergency tunnels leading to [[12_Research/D&D_References/The Cerulean Trench]]
+5. **Escape Routes**: Emergency tunnels leading to [[The Cerulean Trench]]
 
 ### Facility Defenses
 
@@ -131,7 +138,7 @@ Senator Glaucus was investigating reports of illegal [[12_Research/D&D_Reference
 - **Memory Drain** (3/day): Target makes DC 16 Int save or loses one spell slot (spellcasters) or gains disadvantage on one skill for 24 hours
 - **Shadow Clone** (1/day): Create illusory duplicate using stolen identity that lasts 1 hour
 - **Despair Aura**: Enemies within 20 feet have disadvantage on attack rolls and saving throws against fear
-- **Escape Protocol** (1/day): Can teleport to any location within [[12_Research/D&D_References/The Sunken Markets]] where he's stored memories
+- **Escape Protocol** (1/day): Can teleport to any location within [[The Sunken Markets]] where he's stored memories
 - **Multiattack**: Makes two Psychic Blade attacks
 - **Psychic Blade**: +7 to hit, 1d6 + 4 piercing plus 1d6 psychic damage
 
@@ -166,7 +173,7 @@ Senator Glaucus was investigating reports of illegal [[12_Research/D&D_Reference
 - **Keen Investigation**: Advantage on Investigation checks and can determine lies with 90% accuracy
 - **Evidence Analysis**: Can reconstruct crime scenes from minimal clues
 - **Legal Authority**: Can arrest suspects and access government facilities
-- **Network of Informants**: Has contacts throughout [[12_Research/D&D_References/Abyssos Prime]]'s criminal underworld
+- **Network of Informants**: Has contacts throughout [[Abyssos Prime]]'s criminal underworld
 - **Truth Sense** (3/day): Can cast *detect thoughts* without using a spell slot
 
 **Nurse Tidal Mercy**
@@ -212,7 +219,7 @@ When found, the senator is in critical condition:
 
 - **Other Victims**: Facility holds dozens of other kidnapping victims
 - **Collateral Damage**: Shutting down facility destroys stored memories of all victims
-- **Criminal Cooperation**: May need to work with [[12_Research/D&D_References/Thieves Guild]] for information
+- **Criminal Cooperation**: May need to work with [[Thieves Guild]] for information
 - **Public Revelation**: Exposing the truth could destabilize the government
 
 ## Resolution Paths
@@ -251,8 +258,8 @@ When found, the senator is in critical condition:
 - **Base XP**: 7,800 XP for successful rescue
 - **Bonus XP**: 1,500 XP for exposing the full network
 - **Political Favors**: Access to government resources and information
-- **[[12_Research/D&D_References/Memory Crystal]]**: Contains the senator's knowledge of secret negotiations
-- **5,000 gp**: Reward from grateful [[12_Research/D&D_References/Parliament of Echoes]]
+- **[[Memory Crystal]]**: Contains the senator's knowledge of secret negotiations
+- **5,000 gp**: Reward from grateful [[Parliament of Echoes]]
 
 ### Long-term Benefits
 
@@ -265,31 +272,31 @@ When found, the senator is in critical condition:
 
 ### Core Campaign Elements
 
-- **[[12_Research/D&D_References/The Sunken Markets]]**: Commercial district where the senator was kidnapped
-- **[[12_Research/D&D_References/Parliament of Echoes]]**: Government body coordinating the search and managing political fallout
-- **[[12_Research/D&D_References/Smuggler's Cove]]**: Underground area where the criminal network operates
-- **[[12_Research/D&D_References/Shadow Surgeons Collective]]**: Organization behind the memory modification operations
-- **[[12_Research/D&D_References/Abyssos Prime]]**: Capital city dealing with political crisis
-- **[[12_Research/D&D_References/Aquabyssos]]**: Underwater realm whose stability depends on successful negotiations
-- **[[12_Research/D&D_References/Aethermoor]]**: Surface realm involved in the peace negotiations
-- **[[12_Research/D&D_References/Pressure Tubes]]**: Transportation system with security footage of the kidnapping
-- **[[12_Research/D&D_References/The Depth Market]]**: Black market area where information can be purchased
-- **[[12_Research/D&D_References/Ancient Siege Tunnels]]**: Underground passages used by criminals
-- **[[12_Research/D&D_References/The Cerulean Trench]]**: Escape route for fleeing criminals
-- **[[12_Research/D&D_References/Memory Tides]]**: Psychic phenomena affecting memory-related magic
-- **[[12_Research/D&D_References/Depth Wardens]]**: Military force providing security for government officials
-- **[[12_Research/D&D_References/Crystal Festival]]**: Upcoming event that increases political tensions
-- **[[12_Research/D&D_References/The Archive of Unremembered Things]]**: Repository where stolen memories might be stored
+- **[[The Sunken Markets]]**: Commercial district where the senator was kidnapped
+- **[[Parliament of Echoes]]**: Government body coordinating the search and managing political fallout
+- **[[Smuggler's Cove]]**: Underground area where the criminal network operates
+- **[[Shadow Surgeons Collective]]**: Organization behind the memory modification operations
+- **[[Abyssos Prime]]**: Capital city dealing with political crisis
+- **[[Aquabyssos]]**: Underwater realm whose stability depends on successful negotiations
+- **[[Aethermoor]]**: Surface realm involved in the peace negotiations
+- **[[Pressure Tubes]]**: Transportation system with security footage of the kidnapping
+- **[[The Depth Market]]**: Black market area where information can be purchased
+- **[[Ancient Siege Tunnels]]**: Underground passages used by criminals
+- **[[The Cerulean Trench]]**: Escape route for fleeing criminals
+- **[[Memory Tides]]**: Psychic phenomena affecting memory-related magic
+- **[[Depth Wardens]]**: Military force providing security for government officials
+- **[[Crystal Festival]]**: Upcoming event that increases political tensions
+- **[[The Archive of Unremembered Things]]**: Repository where stolen memories might be stored
 
 Connected Adventures
 - **[[12_Research/D&D_Statblocks/Crystalline Depths]]**: Political stability needed to coordinate response to crystal threat
-- **[[12_Research/D&D_References/Aquabyssos]]**: Peace negotiations crucial for preventing the Final Sundering
-- **[[12_Research/D&D_References/Aquabyssos]]**: Criminal networks involved in both memory theft and weapon smuggling
+- **[[Aquabyssos]]**: Peace negotiations crucial for preventing the Final Sundering
+- **[[Aquabyssos]]**: Criminal networks involved in both memory theft and weapon smuggling
 - **[[12_Research/D&D_Statblocks/The Maw of Darkness]]**: Political unity essential for fighting reality-consuming threats
-- **[[12_Research/D&D_References/The Shadow Surgeons]]**: This rescue exposes a larger conspiracy
-- **[[12_Research/D&D_References/Investigate Shadow Conspiracy]]**: The kidnapping is part of a broader plot
+- **[[The Shadow Surgeons]]**: This rescue exposes a larger conspiracy
+- **[[Investigate Shadow Conspiracy]]**: The kidnapping is part of a broader plot
 - **[[12_Research/D&D_Statblocks/Diplomatic Tides]]**: Success here enables future peace negotiations
-- **[[12_Research/D&D_References/The Memory Weapon Arms Race]]**: Discovery leads to arms control investigations
+- **[[The Memory Weapon Arms Race]]**: Discovery leads to arms control investigations
 
 ## Campaign Impact
 
@@ -298,7 +305,7 @@ Connected Adventures
 - **Moderate Coalition Strengthened**: Successful rescue boosts centrist politicians
 - **Security Reforms**: New protections for government officials
 - **Shadow Surgery Regulations**: Stricter controls on memory modification
-- **Inter-Realm Cooperation**: Success improves [[12_Research/D&D_References/Aethermoor]]-[[12_Research/D&D_References/Aquabyssos]] relations
+- **Inter-Realm Cooperation**: Success improves [[Aethermoor]]-[[Aquabyssos]] relations
 
 ### Character Development
 
@@ -330,16 +337,16 @@ Connected Adventures
 - **Session 3**: Rescue mission and dealing with consequences
 
 > [!danger] DM Secret
-> Senator Glaucus has been replaced by a [[12_Research/D&D_References/Shadow Surgeons Collective]] duplicate. The real senator died during the first memory extraction, but the duplicate believes it's the original. The truth will only emerge through careful magical examination.
+> Senator Glaucus has been replaced by a [[Shadow Surgeons Collective]] duplicate. The real senator died during the first memory extraction, but the duplicate believes it's the original. The truth will only emerge through careful magical examination.
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Aquabyssos]]
-- [[12_Research/D&D_References/Aquabyssos]]
+- [[Aquabyssos]]
+- [[Aquabyssos]]
 - [[12_Research/D&D_Statblocks/Smuggler]]
 - [[12_Research/D&D_Statblocks/The Maw of Darkness]]
-- [[12_Research/D&D_References/Aquabyssos]]
+- [[Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -360,31 +367,31 @@ Legends speak of Rescue Senator Glaucus as a nexus where past and present conver
 ## Cross-References
 
 - [[Diplomatic Tides|02 Worldbuilding/Quests/Diplomatic Tides]]
-- [[12_Research/D&D_References/Shadow Surgeons Collective]]
-- [[12_Research/D&D_References/Thieves Guild]]
-- [[12_Research/D&D_References/Ancient Siege Tunnels]]
-- [[12_Research/D&D_References/The Recursion Oracle]]
+- [[Shadow Surgeons Collective]]
+- [[Thieves Guild]]
+- [[Ancient Siege Tunnels]]
+- [[The Recursion Oracle]]
 - [[12_Research/D&D_Statblocks/Admiral Thorne Blackwater]]
-- [[12_Research/D&D_References/Senator Glaucus]]
-- [[12_Research/D&D_References/The Shadow Surgeons]]
-- [[12_Research/D&D_References/Abyssos Prime]]
-- [[12_Research/D&D_References/Aethermoor]]
-- [[12_Research/D&D_References/Commander Drake Pressureborn]]
-- [[12_Research/D&D_References/Coral Throne Syndicate]]
-- [[12_Research/D&D_References/Current Riders Guild]]
-- [[12_Research/D&D_References/Depth Wardens]]
-- [[12_Research/D&D_References/Mediator Serenity Stillwater]]
+- [[Senator Glaucus]]
+- [[The Shadow Surgeons]]
+- [[Abyssos Prime]]
+- [[Aethermoor]]
+- [[Commander Drake Pressureborn]]
+- [[Coral Throne Syndicate]]
+- [[Current Riders Guild]]
+- [[Depth Wardens]]
+- [[Mediator Serenity Stillwater]]
 - [[12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweaver]]
-- [[12_Research/D&D_References/Parliament of Echoes]]
-- [[12_Research/D&D_References/Pressure Tube Terminal]]
-- [[12_Research/D&D_References/Pressure Tubes]]
-- [[12_Research/D&D_References/Shadow Market Canals]]
-- [[12_Research/D&D_References/Shadow Merchant Riptide]]
-- [[12_Research/D&D_References/Smuggler's Cove]]
-- [[12_Research/D&D_References/The Archive of Unremembered Things]]
-- [[12_Research/D&D_References/The Cerulean Trench]]
-- [[12_Research/D&D_References/The Depth Market]]
-- [[12_Research/D&D_References/The Sunken Markets]]
+- [[Parliament of Echoes]]
+- [[Pressure Tube Terminal]]
+- [[Pressure Tubes]]
+- [[Shadow Market Canals]]
+- [[Shadow Merchant Riptide]]
+- [[Smuggler's Cove]]
+- [[The Archive of Unremembered Things]]
+- [[The Cerulean Trench]]
+- [[The Depth Market]]
+- [[The Sunken Markets]]
 - [[12_Research/D&D_Statblocks/Vault Keeper Eternal]]
 - [[12_Research/D&D_Statblocks/Crystalline Depths]]
 - [[12_Research/D&D_Statblocks/Diplomatic Tides]]

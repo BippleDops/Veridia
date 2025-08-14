@@ -1,29 +1,36 @@
 ---
-MyCategory: Unknown
-MyContainer: None
-alignment: Chaotic Evil
-class: Rogue/Warlock
-created: 2025-08-08 - Category/Place
-created_by: auto-stub
-danger_level: Moderate
-level: 8
-obsidianUIMode: preview
-race: Pressure-Adapted Human
-status: complete
+title: Shadow Merchant Riptide
+type: Location
 tags:
 - aquabyssos
-- complete
+- status/complete
 - content/faction
 - content/location
 - content/npc
+- place
+- active
 - location
-- merchant
-- status/complete
+- complete
 - world/aquabyssos
-type: Location
+- merchant
+created: 2025-08-08 - Category/Place
+modified: '2025-08-14'
+status: complete
+race: Pressure-Adapted Human
+class: Rogue/Warlock
+region: Unknown
+population: Unknown
+level: 8
+MyCategory: Unknown
+MyContainer: None
+alignment: Chaotic Evil
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.162920+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -189,6 +196,27 @@ Riptide operates as one of [[Aquabyssos]]'s most dangerous information brokers, 
 - Collecting components for ritual that would give him permanent control over all memories in [[Aquabyssos]]
 - Has discovered evidence of major conspiracy but hasn't decided how to use it
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 ### Using Riptide Effectively
@@ -244,3 +272,97 @@ Legends speak of Shadow Merchant Riptide as a nexus where past and present conve
 - [[Memory Farmers]]
 - [[Parliament of Echoes]]
 - [[Shadow Market Canals]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[The Siren's Rest Tavern]]
+- [[04_Resources_Assets_Locations_location-city-floating-cities-v1-floating-cities.svg]]
+- [[Economic Planning]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+Shadow Merchant Riptide is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Shadow Merchant Riptide
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Shadow Merchant Riptide was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Shadow Merchant Riptide:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Shadow Merchant Riptide
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

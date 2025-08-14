@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 02
 type: adventure
-status: active
 tags:
-- combat
+- adventure
 - session-notes
 - aquatic
-- adventure
+- quest
+- active
+- combat
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 02: [Ocean Depths Mystery]
 
@@ -32,7 +38,7 @@ tags:
 ### Underwater Factions
 
 - [[Pearl Divers Guild]] - Information network
-- [[12_Research/D&D_References/Deep Wardens]] - Military authority
+- [[Deep Wardens]] - Military authority
 - [[Tide Singers]] - Mystical knowledge
 
 ## Investigation Elements
@@ -68,3 +74,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Key NPCs
+
+- [[#NPCs]]
+- [[04_Resources_Assets_Locations_location-city-the-crystalline-foundry-the-crystalline-foundry.svg]]
+- [[04_Resources_Assets_Locations_location-city-commander-reef-shadowstrike-v1-commander-reef-shadowstrike.svg]]
+- [[Quest - The Failing Magic]]
+- [[High King Aurelius Skyborn]]
+
+
+## Important Locations
+
+- [[Resonance Roses]]
+- [[04_Resources_Assets_Locations_location-city-keeper-of-the-past-elderly-morgan-v1-keeper-of-the-past-elderly-morgan.svg]]
+- [[Pressure Polyps]]

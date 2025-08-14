@@ -1,15 +1,21 @@
+# Maritime Technolog
+
 ---
+title: Maritime Technolog
+type: Lore
 tags:
-- active
+- lore
 - both
 - historical-event
-- lore
-type: Lore
-world: Both
-status: active
+- research
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:35.472343+00:00'
 ---
+
 
 
 
@@ -38,3 +44,8 @@ Legends speak of Maritime Technology 2 as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

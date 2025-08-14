@@ -1,20 +1,26 @@
+# 07-chapter-6-equipment
+
 ---
+title: 07 chapter 6 equipment
 aliases:
 - Chapter 6: Equipment
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.857967'
 world: Both
 ---
+
 
 # Chapter 6: Equipment
 *Source: Player's Handbook (2024), p. 213* 
@@ -976,3 +982,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
  enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

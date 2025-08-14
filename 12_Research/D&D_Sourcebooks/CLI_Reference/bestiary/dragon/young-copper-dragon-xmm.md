@@ -1,25 +1,32 @@
+# young-copper-dragon-xmm
+
 ---
+title: young copper dragon xmm
 aliases:
 - Young Copper Dragon
+type: monster
+tags:
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/7
+- ttrpg-cli/monster/environment/hill
+- monster
+- research
+- ttrpg-cli/monster/size/large
+- world/both
+- active
+- ttrpg-cli/monster/type/dragon/metallic
+- status/in-progress
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/dragon/metallic
-- world/both
-type: monster
 updated: '2025-08-12T23:37:35.764042'
 world: Both
 ---
+
 
 # [[young-copper-dragon-xmm|Young Copper Dragon]]
 *Source: Monster Manual (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -117,3 +124,8 @@ Legends speak of young copper dragon xmm as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

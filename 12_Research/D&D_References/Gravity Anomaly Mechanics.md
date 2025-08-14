@@ -1,23 +1,29 @@
+# Gravity Anomaly Mechanics
+
 ---
+title: Gravity Anomaly Mechanics
+type: Location
 tags:
-- anomaly
-- both worlds
-- both-worlds
-- complete
-- environmental
 - gravity
 - hazards
-- location
 - lore
-- magic
+- anomaly
+- environmental
 - mechanics
-- physics
+- both worlds
+- magic
+- both-worlds
+- research
+- active
 - underwater
+- location
+- complete
+- physics
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both Worlds
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:35.975914+00:00'
 lore_type: Magical Mechanics
 scope: Environmental Phenomena
@@ -29,6 +35,7 @@ MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 
 
@@ -385,3 +392,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

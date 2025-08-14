@@ -1,34 +1,41 @@
+# Supplier Erikson Tidecaller
+
 ---
+title: Supplier Erikson Tidecaller
+type: Location
 tags:
 - aquabyssos
-- business
-- complete
-- location
-- magical-goods
-- merchant
-- naval-supplies
-- npc
 - person
-- reliable
-- supplier
 - tidal-magic
+- business
+- magical-goods
+- npc
+- research
+- supplier
+- active
+- location
+- complete
+- reliable
+- naval-supplies
+- merchant
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
-world: Aquabyssos
-type: Location
-category: Magical Supplier
 race: Triton
 class: Expert/Artificer
 location: '[[Harbor District]] - Tidecaller''s Emporium'
+world: Aquabyssos
+category: Magical Supplier
 faction: Independent Merchant
 influence: Moderate
 danger_level: Low
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.375728+00:00'
 MyContainer: None
 MyCategory: Merchant
 obsidianUIMode: preview
 ---
+
 
 
 
@@ -171,3 +178,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 <!-- enriched: true -->
 - [[Abyssos Prime]]
 - [[Harbor Master Luna Freedrift]]
+
+
+## Related
+
+*Links to related content will be added here.*

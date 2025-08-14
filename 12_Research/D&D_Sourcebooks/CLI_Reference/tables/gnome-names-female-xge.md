@@ -1,20 +1,26 @@
+# gnome-names-female-xge
+
 ---
+title: gnome names female xge
 aliases:
-- Gnome Names – Female
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+- "Gnome Names \u2013 Female"
+type: note
 tags:
+- ttrpg-cli/compendium/src/5e/xge
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/xge
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.483594'
 world: Both
 ---
+
 
 # Gnome Names – Female
 *Source: Xanathar's Guide to Everything p. 178* 
@@ -96,3 +102,8 @@ Legends speak of gnome names female xge as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

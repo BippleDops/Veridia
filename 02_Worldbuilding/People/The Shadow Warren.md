@@ -1,26 +1,34 @@
 ---
-MyCategory: Shadow Network Leader
-MyContainer: None
-created: '2025-08-12'
-created_by: auto-stub
-obsidianUIMode: preview
-status: complete
+title: The Shadow Warren
+type: Npc
 tags:
-- aethermoor
-- campaign/hook
-- complete
-- content/npc
+- underground
 - mysterious
 - network
-- npc
-- shadow-corruption
 - status/complete
-- underground
+- shadow-corruption
+- campaign/hook
+- npc
+- character
+- content/npc
 - world/aethermoor
-type: Npc
+- active
+- complete
+- aethermoor
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
+MyCategory: Shadow Network Leader
+MyContainer: None
+created_by: auto-stub
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.692191+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait
@@ -56,7 +64,13 @@ The Shadow Warren's true appearance is a mystery, as they are never seen without
 - A presence that causes nearby shadows to deepen and stretch toward them
 - Scars of crystalline corruption visible on their hands - the only part of their body regularly seen
 
-## Personality and Mannerisms
+## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more withdrawn
+- **When Pleased**: Shows open joy
+- **In Conflict**: Tends toward negotiation
+ and Mannerisms
 
 ### Core Personality Traits
 - **Pragmatic**: Values results over methods, willing to work with anyone who serves their goals
@@ -335,6 +349,14 @@ Warren's story can evolve throughout a campaign:
 *The Shadow Warren represents the complex moral landscape of Aethermoor, where the line between hero and villain is as murky as the shadows they inhabit. Their story serves as a powerful reminder that good intentions and noble goals can lead down dark paths, and that sometimes the price of revolution is higher than anyone anticipates.*
 
 
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-dr-siphon-gillwater-dr-siphon-gillwater.png]]: *sworn enemy*
+- [[04_Resources_Assets_Locations_location-city-commander-reef-shadowstrike-commander-reef-shadowstrike.svg]]: *secret ally*
+- [[Quest - The Traitor Within]]: *childhood friend*
+
 ## Connections
 
 - [[The Whisper Syndicate]]
@@ -355,6 +377,76 @@ Legends speak of The Shadow Warren as a nexus where past and present converge. L
 - A rumor ties The Shadow Warren to a missing shipment, linking factions with competing claims.
 - An NPC seeks discreet help at The Shadow Warren to avert a public scandal.
 - A map overlay reveals a hidden approach to The Shadow Warren active only during specific tides/storms.
+
+
+
+## Appearance
+
+The Shadow Warren presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Serving justice
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Carefully chosen words
+
+**Physical Habits**: Remains perfectly still
+
+## Current Activities
+
+The Shadow Warren is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: The Shadow Warren needs assistance with a delicate matter
+2. **The Opposition**: Someone wants The Shadow Warren stopped or removed
+3. **The Secret**: Information about The Shadow Warren's past surfaces
+4. **The Alliance**: Opportunity to work with or against The Shadow Warren
+5. **The Crisis**: The Shadow Warren is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
 
 ## DM Notes
 

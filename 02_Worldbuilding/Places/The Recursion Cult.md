@@ -1,7 +1,31 @@
 ---
+title: The Recursion Cult
+type: Location
+tags:
+- both
+- status/complete
+- cult
+- recursion
+- quest
+- world/both
+- content/location
+- dangerous
+- place
+- active
+- combat
+- complete
+- location
+- world/aquabyssos
+- temporal
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: 200
 MyCategory: Unknown
 MyContainer: None
-created: '2025-08-11'
 current_state: Active temporal experiments
 danger_level: 8
 depth: 3200-3500 feet
@@ -15,17 +39,14 @@ government: Theocratic Recursion Council
 location_name: The Recursion Cult Complex
 location_type: Temporal Cult Compound
 notable_npcs:
-- '[[The Recursion Oracle|02 Worldbuilding/People/The Recursion
-  Oracle]]'
-- '[[12_Research/D&D_References/Paradox Engineer Zeno]]'
-- '[[12_Research/D&D_References/Loop-Walker Celia]]'
-- '[[12_Research/D&D_References/Temporal Archivist Chronos]]'
+- '[[The Recursion Oracle|02 Worldbuilding/People/The Recursion Oracle]]'
+- '[[Paradox Engineer Zeno]]'
+- '[[Loop-Walker Celia]]'
+- '[[Temporal Archivist Chronos]]'
 obsidianUIMode: preview
-parent_location: '[[12_Research/D&D_References/Abyssos Prime]]'
-population: 200
+parent_location: '[[Abyssos Prime]]'
 pressure_effects: Severe
-ruler: '[[The Recursion Oracle|02 Worldbuilding/People/The
-  Recursion Oracle]]'
+ruler: '[[The Recursion Oracle|02 Worldbuilding/People/The Recursion Oracle]]'
 services:
 - Temporal Navigation
 - Memory Loop Creation
@@ -33,35 +54,18 @@ services:
 - Reality Anchoring
 - Time Distortion Effects
 shadow_density: Variable
-status: complete
 sub_locations:
 - '[[The Infinite Chamber]]'
 - '[[Memory Loop Gardens]]'
 - '[[Paradox Meditation Cells]]'
 - '[[The Causality Engine]]'
 - '[[Temporal Observation Deck]]'
-tags:
-- combat
-- quest
-- crystal-enhanced
-- shadow-touched
-- both
-- complete
-- content/location
-- cult
-- dangerous
-- location
-- recursion
-- status/complete
-- temporal
-- world/aquabyssos
-- world/both
 temporal_stability: 15
-type: Location
 updated: '2025-08-13T12:34:16.604802+00:00'
 visited: false
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -76,7 +80,7 @@ world: Both
 
 ## Overview
 
-The Recursion Cult Complex exists as both the most dangerous and most fascinating temporal anomaly within [[12_Research/D&D_References/Abyssos Prime]]. Built around a naturally occurring temporal distortion field that predates [[12_Research/D&D_Statblocks/The Great Drowning]], this sprawling compound serves as home to the Recursion Cult—a group of obsessed scholars, madmen, and temporal theorists who believe that reality is nothing more than an endless loop that can be manipulated, escaped, or perfected.
+The Recursion Cult Complex exists as both the most dangerous and most fascinating temporal anomaly within [[Abyssos Prime]]. Built around a naturally occurring temporal distortion field that predates [[12_Research/D&D_Statblocks/The Great Drowning]], this sprawling compound serves as home to the Recursion Cult—a group of obsessed scholars, madmen, and temporal theorists who believe that reality is nothing more than an endless loop that can be manipulated, escaped, or perfected.
 
 The complex itself defies conventional architecture. Corridors loop back on themselves, rooms exist in multiple time periods simultaneously, and visitors might find themselves having conversations with past or future versions of themselves. The cult members have adapted to this environment in ways that make them barely recognizable as their original species—some age backward, others exist in temporal fragments, and a few have achieved a form of immortality by spreading their consciousness across multiple timeline iterations.
 
@@ -116,7 +120,7 @@ The heart of the complex, where the original temporal anomaly is strongest. This
 
 ### Memory Loop Gardens
 
-Cultivated spaces where [[12_Research/D&D_References/Memory Pearls]] are arranged in patterns that create temporal loops. Walking through these gardens allows visitors to experience memories repeatedly, often with slight variations that reveal hidden truths or alternative possibilities.
+Cultivated spaces where [[Memory Pearls]] are arranged in patterns that create temporal loops. Walking through these gardens allows visitors to experience memories repeatedly, often with slight variations that reveal hidden truths or alternative possibilities.
 
 **Garden Types:**
 - **The Regret Spirals:** Loops of mistakes and missed opportunities
@@ -130,7 +134,7 @@ Small chambers designed to create controlled temporal paradoxes. Cult members us
 
 ### The Causality Engine
 
-A massive construct built from crystallized time, [[12_Research/D&D_References/Pressure Gems]], and fragments of [[12_Research/D&D_References/The Tidal Shard of Memory]]. This device amplifies and focuses temporal energy, allowing the cult to create stable time loops and manipulate local causality.
+A massive construct built from crystallized time, [[Pressure Gems]], and fragments of [[The Tidal Shard of Memory]]. This device amplifies and focuses temporal energy, allowing the cult to create stable time loops and manipulate local causality.
 
 **Engine Components:**
 - Temporal resonance crystals
@@ -141,7 +145,7 @@ A massive construct built from crystallized time, [[12_Research/D&D_References/P
 
 ### Temporal Observation Deck
 
-An elevated platform where cult members can observe multiple timelines simultaneously. The deck provides views into past, present, and potential future versions of [[12_Research/D&D_References/Abyssos Prime]], serving as both surveillance post and prophetic oracle.
+An elevated platform where cult members can observe multiple timelines simultaneously. The deck provides views into past, present, and potential future versions of [[Abyssos Prime]], serving as both surveillance post and prophetic oracle.
 
 ## Cult Structure & Beliefs
 
@@ -244,20 +248,20 @@ Strange entities that exist only within temporal loops, feeding on causal energy
 ### Direct Connections
 
 - **[[12_Research/D&D_Statblocks/The Memory Meadows]]:** Temporal echo experiments
-- **[[12_Research/D&D_References/Parliament of Echoes]]:** Political temporal manipulation
-- **[[12_Research/D&D_References/The Archive of Unremembered Things]]:** Memory-time interaction studies
+- **[[Parliament of Echoes]]:** Political temporal manipulation
+- **[[The Archive of Unremembered Things]]:** Memory-time interaction studies
 
 ### Allied Locations
 
 - **[[Reflection Pools|02 Worldbuilding/Places/Reflection Pools]]:** Identity manipulation research
-- **[[12_Research/D&D_References/Temporal Anomaly Zones]]:** Natural temporal phenomenon study sites
-- **[[12_Research/D&D_References/The Crystal Cathedral of Pure Light]]:** Temporal crystal harvesting
+- **[[Temporal Anomaly Zones]]:** Natural temporal phenomenon study sites
+- **[[The Crystal Cathedral of Pure Light]]:** Temporal crystal harvesting
 
 ### Hostile Territories
 
 - **[[02_Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary|02 Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary]]:** Opposes temporal manipulation of the dead
 - **[[The Shadow Trade Network|02 Worldbuilding/Groups/The Shadow Trade Network]]:** Competes for temporal resources
-- **[[12_Research/D&D_References/Reality Stabilization Centers]]:** Actively works to counter cult activities
+- **[[Reality Stabilization Centers]]:** Actively works to counter cult activities
 
 ## Notable NPCs
 
@@ -269,25 +273,25 @@ Strange entities that exist only within temporal loops, feeding on causal energy
 - Can manipulate causal relationships
 - May be slowly losing grip on linear reality
 
-**[[12_Research/D&D_References/Paradox Engineer Zeno]]** - Chief technician
+**[[Paradox Engineer Zeno]]** - Chief technician
 - Maintains the Causality Engine
 - Has mechanical implants that exist in multiple timeframes
 - Experiences time at variable rates
 - Secretly building an escape device
 
-**[[12_Research/D&D_References/Loop-Walker Celia]]** - Temporal scout
+**[[Loop-Walker Celia]]** - Temporal scout
 - Can navigate between different timeline iterations
 - Serves as messenger between faction wings
 - Ages backward during full moons
 - Remembers events that haven't happened yet
 
-**[[12_Research/D&D_References/Temporal Archivist Chronos]]** - Keeper of temporal records
+**[[Temporal Archivist Chronos]]** - Keeper of temporal records
 - Maintains logs of all timeline variations
 - Has perfect memory across all recursions
 - Appears as different ages depending on viewer's position in time
 - May be the oldest being in the complex
 
-**[[12_Research/D&D_References/Echo-Theorist Maya]]** - Research specialist
+**[[Echo-Theorist Maya]]** - Research specialist
 - Studies the relationship between memory and time
 - Can implant artificial memories that create temporal echoes
 - Exists primarily as temporal equations made manifest
@@ -295,13 +299,13 @@ Strange entities that exist only within temporal loops, feeding on causal energy
 
 ### Temporal Entities
 
-**[[12_Research/D&D_References/The Iteration Collective]]** - Group consciousness
+**[[The Iteration Collective]]** - Group consciousness
 - Merged minds of multiple timeline versions of the same person
 - Serves as living database of temporal variations
 - Can predict outcomes based on recursive analysis
 - Increasingly hostile to linear-time entities
 
-**[[12_Research/D&D_References/Causality Shadow]]** - Temporal parasite
+**[[Causality Shadow]]** - Temporal parasite
 - Feeds on causal energy and paradoxes
 - Grows stronger with each loop iteration
 - Can manipulate cause and effect relationships
@@ -456,10 +460,10 @@ Observations from the Temporal Observation Deck show that in every timeline wher
 
 ## Connections
 
-- [[12_Research/D&D_References/Secret Vault Beneath Throne]]
-- [[12_Research/D&D_References/The Forgotten One]]
-- [[12_Research/D&D_References/The Shadow Markets]]
-- [[12_Research/D&D_References/Vote Vaults]]
+- [[Secret Vault Beneath Throne]]
+- [[The Forgotten One]]
+- [[The Shadow Markets]]
+- [[Vote Vaults]]
 
 ## Player-Facing Summary
 
@@ -469,20 +473,123 @@ The Recursion Cult is a undersea element of the setting, known for bioluminescen
 
 Legends speak of The Recursion Cult as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Recursion Cult.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Recursion Cult]]
+- [[The Recursion Cult]]
 
 <!-- enriched: true -->
-- [[12_Research/D&D_References/Memory Pearls]]
-- [[12_Research/D&D_References/Abyssos Prime]]
+- [[Memory Pearls]]
+- [[Abyssos Prime]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Groups/Crystal Wardens]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-historical-prophetic-analysis-historical-prophetic-analysis.svg]]
+- [[Archivist Elena Sorrowkeeper]]
+- [[04_Resources_Assets_Locations_location-city-the-banker-fish-the-banker-fish.svg]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+The Recursion Cult is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Recursion Cult
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting The Recursion Cult:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Recursion Cult
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

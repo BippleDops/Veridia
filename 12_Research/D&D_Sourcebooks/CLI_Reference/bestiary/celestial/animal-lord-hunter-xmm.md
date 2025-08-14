@@ -1,26 +1,33 @@
+# animal-lord-hunter-xmm
+
 ---
+title: animal lord hunter xmm
 aliases:
 - Animal Lord; Hunter
+type: monster
+tags:
+- ttrpg-cli/monster/size/medium
+- world/surface
+- ttrpg-cli/compendium/src/5e/xmm
+- monster
+- research
+- world/both
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/type/celestial
+- active
+- status/in-progress
+- ttrpg-cli/monster/cr/20
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/20
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/celestial
-- world/both
-- world/surface
-type: monster
 updated: '2025-08-12T23:37:35.804570'
 world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -145,3 +152,8 @@ Legends speak of animal lord hunter xmm as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

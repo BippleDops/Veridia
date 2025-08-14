@@ -1,16 +1,23 @@
+# Crystal_Corruption_Reference
+
 ---
-created: '2025-08-13'
-status: complete
+title: Crystal Corruption Reference
+type: Reference
 tags:
-- gm-resources
-- reference-cards
-- crystal-corruption
 - plague
 - mechanics
-type: Reference
+- crystal-corruption
+- research
+- gm-resources
+- active
+- reference-cards
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
+
 
 # Crystal Corruption Reference
 
@@ -313,3 +320,7 @@ world: Both
 - [[Crystal_Cults]]
 - [[Crystal_Corruption_Cultists]]
 - [[Disease_and_Plague_System]]
+
+## Related
+
+*Links to related content will be added here.*

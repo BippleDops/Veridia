@@ -1,29 +1,36 @@
+# The Deepmind
+
 ---
+title: The Deepmind
+type: Location
 tags:
-- aboleth-lair
-- aquabyssos
-- complete
 - dungeon
-- living-structure
-- location
-- major-location
-- memory
+- aquabyssos
 - psychic
+- memory
+- research
+- active
+- aboleth-lair
+- location
+- complete
+- major-location
+- living-structure
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 category: Dungeon/Lair
 depth: 3000-5000 feet
 difficulty: Levels 16-20
 ruler: '[[Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]]'
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-deepmind-the-deepmind.svg]]

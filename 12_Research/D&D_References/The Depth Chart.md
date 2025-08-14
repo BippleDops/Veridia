@@ -1,27 +1,34 @@
+# The Depth Chart
+
 ---
+title: The Depth Chart
+type: Lore
 tags:
-- aquabyssos
-- cartography
-- complete
-- depth-mapping
-- innovation
 - lore
-- navigation-system
-- pressure-zones
-- survey-technology
+- aquabyssos
 - technology
+- survey-technology
+- innovation
+- pressure-zones
+- navigation-system
+- research
+- depth-mapping
+- cartography
 - underwater-navigation
+- active
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 category: Navigation Technology
 significance: Critical Infrastructure
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 technology_type: Advanced Underwater Mapping System
 access_restriction: Public Access with Security Restrictions
 ---
+
 
 
 
@@ -290,3 +297,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Pressure Adaptation System]]
 - [[The Deep Harvest]]
 - [[Pressure Tubes]]
+
+
+## Related
+
+*Links to related content will be added here.*

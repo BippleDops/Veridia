@@ -1,18 +1,25 @@
+# Safe House Network 3
+
 ---
-created: '2025-08-11'
-status: complete
+title: Safe House Network 3
+type: Lore
 tags:
-- aethermoor
-- complete
+- lore
 - content/adventure
 - content/lore
-- lore
-- status/in-progress
+- research
 - world/aethermoor
-type: Lore
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:29.013293+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -53,3 +60,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Purist Coalition Thugs]]
 - [[Shadow Conspiracy Investigation]]
 - [[Quest - The Blackmail Papers]]
+
+
+## Related
+
+*Links to related content will be added here.*

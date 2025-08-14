@@ -1,18 +1,25 @@
+# Parliamentary Infiltration Methods
+
 ---
-tags:
-- aquabyssos
-- complete
-- government
-- infiltration
-- lore
-- political-control
-- shadow-conspiracy
+title: Parliamentary Infiltration Methods
 type: Lore
-world: Aquabyssos
-status: complete
+tags:
+- lore
+- aquabyssos
+- research
+- government
+- active
+- shadow-conspiracy
+- complete
+- infiltration
+- political-control
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.408606+00:00'
 ---
+
 
 
 # Parliamentary Infiltration Methods
@@ -432,3 +439,8 @@ Legends speak of Parliamentary Infiltration Methods as a nexus where past and pr
 - A map overlay reveals a hidden approach to Parliamentary Infiltration Methods active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

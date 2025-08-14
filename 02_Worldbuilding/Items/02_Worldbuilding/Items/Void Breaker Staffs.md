@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Void Breaker Staffs
 type: item
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - item
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+rarity: Unknown
+value: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Items/Void Breaker Staffs
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Void Watchers]]
+- [[The Void Watchers]]
 - [[02_Worldbuilding/Groups/The Void Watchers]]
 
 ## Notes

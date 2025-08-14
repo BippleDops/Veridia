@@ -1,17 +1,24 @@
+# The Dream Shepherds
+
 ---
+title: The Dream Shepherds
+type: Lore
 tags:
+- lore
 - completed
 - consciousness
-- dream_magic
 - dual
-- dual_world
-- lore
-- mystical_guides
-- mystical_order
-- protectors
 - sleep
+- dual_world
+- mystical_order
+- research
+- dream_magic
+- protectors
+- active
+- mystical_guides
+created: '2025-08-11'
+modified: '2025-08-14'
 status: completed
-type: Lore
 world: dual
 connections:
 - '[[Deep Mother]]'
@@ -26,8 +33,8 @@ themes:
 - boundary_guardians
 - sacrificial_vigilance
 updated: '2025-08-11T00:00:00+00:00'
-created: '2025-08-11'
 ---
+
 
 
 
@@ -208,3 +215,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Deep Mother]]
 - [[Marina's Echo]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

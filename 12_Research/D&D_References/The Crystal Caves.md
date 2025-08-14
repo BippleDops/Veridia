@@ -1,15 +1,21 @@
+# The Crystal Caves
+
 ---
+title: The Crystal Caves
+type: Lore
 tags:
+- lore
+- research
+- quest
 - active
 - aethermoor
-- lore
-- quest
-type: Lore
-world: Aethermoor
-status: active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:34.514425+00:00'
 ---
+
 
 > [!figure] Asset
 ![[04_Resources/Assets/Locations/location-city-the-crystal-caves-the-crystal-caves.svg]]
@@ -58,3 +64,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[githzerai-groups-githzerai-group-leader-mtf]]
 - [[Ambassador-Warden Luna Peacegem]]
 - [[guild-artisan]]
+
+
+## Related
+
+*Links to related content will be added here.*

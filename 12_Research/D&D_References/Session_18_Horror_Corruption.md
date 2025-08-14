@@ -1,14 +1,21 @@
+# Session_18_Horror_Corruption
+
 ---
-created: '2025-08-13'
-status: complete
+title: Session 18 Horror Corruption
+type: Session Summary
 tags:
 - player/session-summary
 - campaign/example
+- research
+- active
 - horror/corruption
-type: Session Summary
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Aquabyssos
 ---
+
 
 # Session 18: Horror & Corruption
 ## The Silence of Shadowhaven
@@ -173,3 +180,7 @@ The party arrived in Shadowhaven to investigate reports of an entire district go
 ---
 
 *Horror sessions require careful balance between tension and comfort, using atmosphere and implications rather than graphic descriptions to create memorable experiences.*
+
+## Related
+
+*Links to related content will be added here.*

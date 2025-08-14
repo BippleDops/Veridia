@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Crystal Merchants Guil
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+![02_Worldbuilding/Groups/Crystal Merchants Guil](../../../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_crystal_merchants_guil.png)
+
+
 
 # 02_Worldbuilding/Groups/Crystal Merchants Guil
 
@@ -24,8 +34,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Port Meridian - Market Square]]
-- [[12_Research/D&D_References/The Crystal Wardens]]
+- [[Port Meridian - Market Square]]
+- [[The Crystal Wardens]]
 - [[02_Worldbuilding/Places/Port Meridian - Market Square]]
 - [[02_Worldbuilding/Places/The Crystal Wardens]]
 

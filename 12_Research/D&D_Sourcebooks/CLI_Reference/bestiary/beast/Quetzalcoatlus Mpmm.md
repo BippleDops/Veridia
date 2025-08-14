@@ -1,29 +1,35 @@
+# Quetzalcoatlus Mpmm
+
 ---
+title: Quetzalcoatlus Mpmm
 aliases:
 - Quetzalcoatlus
+type: monster
+tags:
+- ttrpg-cli/monster/environment/coastal
+- both
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/environment/mountain
+- monster
+- ttrpg-cli/compendium/src/5e/mpmm
+- world/both
+- research
+- active
+- ttrpg-cli/monster/cr/2
+- status/in-progress
+- ttrpg-cli/monster/type/beast/dinosaur
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- active
-- both
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/beast/dinosaur
-- world/both
-type: monster
 updated: '2025-08-13T12:34:05.456687+00:00'
 world: Both
 ---
+
 
 
 
@@ -100,3 +106,8 @@ Legends speak of quetzalcoatlus mpmm as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

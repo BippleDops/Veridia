@@ -1,24 +1,30 @@
+# Convergence Point
+
 ---
+title: Convergence Point
+type: Lore
 tags:
-- both aethermoor and aquabyssos
-- both-aethermoor-and-aquabyssos
-- completed
-- convergence
-- dangerous
-- dimensional
-- dimensional-nexus
-- location
 - lore
-- magical-phenomenon
+- convergence
+- completed
+- both-aethermoor-and-aquabyssos
 - reality-nexus
+- research
+- dangerous
+- active
+- dimensional
+- location
+- magical-phenomenon
+- both aethermoor and aquabyssos
+- dimensional-nexus
+created: '2025-08-09'
+modified: '2025-08-14'
 status: completed
 world: Both Aethermoor and Aquabyssos
-type: Lore
 danger_level: 10
 discovery_date: Recent (Current Campaign Period)
 location_status: Highly Classified
 access_level: Restricted to Highest Authority
-created: '2025-08-09'
 updated: '2025-08-13T01:18:34.726973+00:00'
 related_entities:
 - '[[The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]]'
@@ -26,6 +32,7 @@ related_entities:
 - '[[Abyssal Academy|02 Worldbuilding/Lore/Abyssal Academy]]'
 - '[[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]'
 ---
+
 
 
 
@@ -285,3 +292,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[The Dream Shepherds|02 Worldbuilding/Lore/The Dream Shepherds]]
+
+
+## Related
+
+*Links to related content will be added here.*

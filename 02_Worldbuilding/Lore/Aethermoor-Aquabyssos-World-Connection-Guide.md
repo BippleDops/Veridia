@@ -1,28 +1,33 @@
 ---
-connection_type: Dimensional Overlap
-created: '2025-08-07'
-status: draft
+title: Aethermoor Aquabyssos World Connection Guide
+type: Lore
 tags:
-- combat
-- quest
-- crystal-enhanced
-- shadow-touched
-- aerial
-- aquatic
-- aquabyssos
-- connections
-- content/lore
-- draft
 - lore
+- aquabyssos
+- aethermoor
+- aerial
+- world/aquabyssos
+- aquatic
+- worldbuilding
+- quest
+- content/lore
+- active
+- connections
+- combat
+- draft
 - post-merger-possibility
 - world/aethermoor
-- world/aquabyssos
-- worldbuilding
-type: Lore
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-07'
+modified: '2025-08-14'
+status: draft
+connection_type: Dimensional Overlap
 updated: '2025-08-13T12:34:16.403680+00:00'
 world: Aquabyssos
 world_type: Parallel Realms
 ---
+
 
 
 # Aethermoor-Aquabyssos World Connection Guide
@@ -48,9 +53,9 @@ world_type: Parallel Realms
 - **Timeline**: Post-Crystal Festival events
 - **Barrier**: Weakening, selective breaches
 - **Merged Zones**: 
-  - [[12_Research/D&D_References/Port Meridian]] ↔ [[12_Research/D&D_References/Abyssos Prime Upper Districts]]
-  - [[12_Research/D&D_References/Lighthouse of Storms]] ↔ [[12_Research/D&D_References/The Inverse Palace]]
-  - [[12_Research/D&D_Statblocks/Crystal Gardens]] ↔ [[12_Research/D&D_References/Screaming Gardens]]
+  - [[Port Meridian]] ↔ [[Abyssos Prime Upper Districts]]
+  - [[Lighthouse of Storms]] ↔ [[The Inverse Palace]]
+  - [[12_Research/D&D_Statblocks/Crystal Gardens]] ↔ [[Screaming Gardens]]
 - **Mechanics**: Reality shifts every 12 hours
 
 #### State 3: Full Convergence (Possible Future)
@@ -71,21 +76,21 @@ Each Aquabyssos continent has an Aethermoor counterpart:
 
 | Aquabyssos | Aethermoor | Connection Type | Merger Effect |
 |------------|------------|----------------|---------------|
-| [[12_Research/D&D_References/Abyssos Prime]] | [[12_Research/D&D_References/Port Meridian]] | Political Centers | Shared Parliament |
-| [[12_Research/D&D_References/Nereidios]] | [[12_Research/D&D_References/Arcanum Heights]] | Knowledge Hubs | Merged Libraries |
-| [[12_Research/D&D_References/Corallion]] | [[12_Research/D&D_References/Crystal Forest]] | Living Systems | Symbiotic Growth |
-| [[12_Research/D&D_References/Vorthak]] | [[12_Research/D&D_References/Shattered Isles]] | Fragmented Realms | Reality Chaos |
-| [[12_Research/D&D_References/Tenebrarum]] | [[12_Research/D&D_References/Shadow Vale]] | Darkness Domains | Shadow Overlap |
-| [[12_Research/D&D_References/Crystallium]] | [[12_Research/D&D_References/Resonance Peaks]] | Harmonic Centers | Frequency Sync |
-| [[12_Research/D&D_References/Mourning Depths]] | Sorrow's End (to be detailed) | Emotional Extremes | Grief Manifest |
-| [[12_Research/D&D_References/Memoriam]] | [Forgotten] | Lost to Both | Unknown State |
+| [[Abyssos Prime]] | [[Port Meridian]] | Political Centers | Shared Parliament |
+| [[Nereidios]] | [[Arcanum Heights]] | Knowledge Hubs | Merged Libraries |
+| [[Corallion]] | [[Crystal Forest]] | Living Systems | Symbiotic Growth |
+| [[Vorthak]] | [[Shattered Isles]] | Fragmented Realms | Reality Chaos |
+| [[Tenebrarum]] | [[Shadow Vale]] | Darkness Domains | Shadow Overlap |
+| [[Crystallium]] | [[Resonance Peaks]] | Harmonic Centers | Frequency Sync |
+| [[Mourning Depths]] | Sorrow's End (to be detailed) | Emotional Extremes | Grief Manifest |
+| [[Memoriam]] | [Forgotten] | Lost to Both | Unknown State |
 
 ### Transit Systems Between Worlds
 
 #### Active Conduits
 
 1. **Lighthouse Network**
-   - [[12_Research/D&D_References/Lighthouse of Storms]] - Primary portal
+   - [[Lighthouse of Storms]] - Primary portal
    - Seven lesser lighthouses - Dormant but activatable
    - Navigation: Crystal resonance keys
    - Risk: Temporal displacement
@@ -97,14 +102,14 @@ Each Aquabyssos continent has an Aethermoor counterpart:
    - Danger: Void current exposure
 
 3. **Memory Streams**
-   - Flow between [[12_Research/D&D_Statblocks/The Memory Meadows]] and [[12_Research/D&D_References/Aethermoor Archives]]
+   - Flow between [[12_Research/D&D_Statblocks/The Memory Meadows]] and [[Aethermoor Archives]]
    - Travel: Consciousness only, body remains
    - Duration: 1d4 hours maximum
    - Cost: Temporary memory loss
 
 4. **Shadow Passages**
    - Created by shadow separation events
-   - Connect: Any shadow to [[12_Research/D&D_References/Tenebrarum]]
+   - Connect: Any shadow to [[Tenebrarum]]
    - Requirement: Shadow independence
    - Warning: One-way without shadow mastery
 
@@ -350,11 +355,11 @@ graph TD
 
 - [[08_Archive/2025-08-09/Campaign_Docs/Aethermoor/Aethermoor Campaign Overview|08 Archive/2025 08 09/Campaign Docs/Aethermoor/Aethermoor Campaign Overview]]
 - [[08_Archive/2025-08-09/Campaign_Docs/Aquabyssos/Aquabyssos Campaign Overview|08 Archive/2025 08 09/Campaign Docs/Aquabyssos/Aquabyssos Campaign Overview]]
-- [[12_Research/D&D_References/The Seven Shards Mystery]]
-- [[12_Research/D&D_References/Depth Adaptation System]]
-- [[12_Research/D&D_References/Crystal Plague Mechanics]]
+- [[The Seven Shards Mystery]]
+- [[Depth Adaptation System]]
+- [[Crystal Plague Mechanics]]
 - [[NPC Cross-World Connections]]
-- [[12_Research/D&D_References/Merged Zone Navigation]]
+- [[Merged Zone Navigation]]
 
 ## 📝 DM Guidelines
 
@@ -442,24 +447,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Shattered Isles]]
+- [[Shattered Isles]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Shadow Vale]]
-- [[12_Research/D&D_References/Arcanum Heights]]
-- [[12_Research/D&D_References/Corallion]]
-- [[12_Research/D&D_References/Crystal Forest]]
-- [[12_Research/D&D_References/Resonance Peaks]]
-- [[12_Research/D&D_References/Shattered Isles]]
-- [[12_Research/D&D_References/Vorthak]]
-- [[12_Research/D&D_References/Tenebrarum]]
-- [[12_Research/D&D_References/Abyssos Prime Upper Districts]]
+- [[Shadow Vale]]
+- [[Arcanum Heights]]
+- [[Corallion]]
+- [[Crystal Forest]]
+- [[Resonance Peaks]]
+- [[Shattered Isles]]
+- [[Vorthak]]
+- [[Tenebrarum]]
+- [[Abyssos Prime Upper Districts]]
 - [[12_Research/D&D_Statblocks/Crystal Gardens]]
-- [[12_Research/D&D_References/Crystallium]]
-- [[12_Research/D&D_References/Memoriam]]
-- [[12_Research/D&D_References/Mourning Depths]]
+- [[Crystallium]]
+- [[Memoriam]]
+- [[Mourning Depths]]
 
 
 ## Related

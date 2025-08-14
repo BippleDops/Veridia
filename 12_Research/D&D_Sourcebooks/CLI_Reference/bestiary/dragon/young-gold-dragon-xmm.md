@@ -1,26 +1,33 @@
+# young-gold-dragon-xmm
+
 ---
+title: young gold dragon xmm
 aliases:
 - Young Gold Dragon
+type: monster
+tags:
+- world/surface
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/10
+- monster
+- research
+- ttrpg-cli/monster/size/large
+- world/both
+- active
+- ttrpg-cli/monster/type/dragon/metallic
+- ttrpg-cli/monster/environment/forest
+- status/in-progress
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/dragon/metallic
-- world/both
-- world/surface
-type: monster
 updated: '2025-08-12T23:37:35.755062'
 world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -130,3 +137,8 @@ Legends speak of young gold dragon xmm as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

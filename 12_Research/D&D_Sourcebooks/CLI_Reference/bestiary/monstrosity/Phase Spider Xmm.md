@@ -1,34 +1,40 @@
+# Phase Spider Xmm
+
 ---
+title: Phase Spider Xmm
 aliases:
 - Phase Spider
+type: monster
+tags:
+- both
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/environment/hill
+- world/surface
+- ttrpg-cli/monster/environment/urban
+- monster
+- ttrpg-cli/monster/environment/underdark
+- research
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/environment/planar
+- world/both
+- ttrpg-cli/monster/type/monstrosity
+- active
+- ttrpg-cli/monster/environment/ethereal
+- ttrpg-cli/monster/environment/forest
+- status/in-progress
+- ttrpg-cli/monster/environment/desert
+- ttrpg-cli/monster/cr/3
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- active
-- both
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/ethereal
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
-- world/both
-- world/surface
-type: monster
 updated: '2025-08-13T12:34:05.282496+00:00'
 world: Both
 ---
+
 
 
 
@@ -131,3 +137,8 @@ Legends speak of phase spider xmm as a nexus where past and present converge. Lo
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

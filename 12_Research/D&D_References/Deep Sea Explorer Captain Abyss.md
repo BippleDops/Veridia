@@ -1,14 +1,20 @@
+# Deep Sea Explorer Captain Abyss
+
 ---
-tags:
-- active
-- both
-- npc
+title: Deep Sea Explorer Captain Abyss
 type: NPC
-world: Both
-status: active
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:37.028225+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-deep-sea-explorer-captain-abyss-deep-sea-explorer-captain-abyss.svg]]
@@ -62,3 +68,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Deep Sea Explorer Captain Abyss|02 Worldbuilding/People/Deep Sea Explorer Captain Abyss]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

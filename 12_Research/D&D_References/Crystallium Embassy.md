@@ -1,19 +1,26 @@
+# Crystallium Embassy
+
 ---
+title: Crystallium Embassy
+type: Location
 tags:
 - aquabyssos
-- complete
-- crystallium
-- diplomacy
-- embassy
-- espionage
-- location
 - technology
-type: Location
-world: Aquabyssos
-status: complete
+- embassy
+- diplomacy
+- crystallium
+- research
+- active
+- location
+- complete
+- espionage
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.251003+00:00'
 ---
+
 
 
 # Crystallium Embassy
@@ -334,3 +341,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Crystallium Embassy|02 Worldbuilding/Places/Crystallium Embassy]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

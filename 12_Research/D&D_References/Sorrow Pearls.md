@@ -1,22 +1,29 @@
+# Sorrow Pearls
+
 ---
+title: Sorrow Pearls
+type: Lore
+tags:
+- lore
+- aquabyssos
+- both
+- magic
+- artifacts
+- worldbuilding
+- research
+- sorrow-pearls
+- active
+- complete
+- emotion
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
-tags:
-- aquabyssos
-- artifacts
-- both
-- complete
-- emotion
-- lore
-- magic
-- sorrow-pearls
-- worldbuilding
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
-created: '2025-08-11'
-type: Lore
 ---
+
 
 
 

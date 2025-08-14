@@ -1,22 +1,29 @@
+# The Great Crystallization 3
+
 ---
+title: The Great Crystallization 3
+type: Lore
+tags:
+- lore
+- both
+- event
+- content/lore
+- world/both
+- research
+- catastrophe
+- active
+- complete
+- status/in-progress
 created: '2024-12-20'
+modified: '2025-08-14'
+status: complete
 image: 04_Resources/Assets/Lore/great_crystallization.jpg
 importance: World-Defining
 period: 500 years ago
-status: complete
-tags:
-- both
-- catastrophe
-- complete
-- content/lore
-- event
-- lore
-- status/in-progress
-- world/both
-type: Lore
 updated: '2025-08-13T12:34:28.657196+00:00'
 world: Both
 ---
+
 
 
 

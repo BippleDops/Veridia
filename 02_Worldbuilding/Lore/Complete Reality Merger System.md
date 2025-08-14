@@ -1,21 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- combat
-- shadow-touched
-- aerial
-- both
-- complete
-- content/lore
-- dashboard
-- lore
-- status/in-progress
-- world/both
+title: Complete Reality Merger System
 type: Lore
+tags:
+- lore
+- dashboard
+- both
+- aerial
+- content/lore
+- world/both
+- active
+- combat
+- complete
+- status/in-progress
+- shadow-touched
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.232660+00:00'
 world: Both
 ---
+
 
 
 ## Overview

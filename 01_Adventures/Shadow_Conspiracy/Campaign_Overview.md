@@ -1,21 +1,27 @@
 ---
-created: '2025-08-13'
-status: active
+title: Campaign Overview
+type: Campaign
 tags:
-- combat
-- quest
+- adventure
 - session-notes
-- shadow-touched
-- campaign/shadow-conspiracy
+- consciousness-manipulation
 - investigation
 - political-intrigue
-- consciousness-manipulation
+- quest
 - world/both
 - status/active
-type: Campaign
+- active
+- combat
+- campaign/shadow-conspiracy
+- shadow-touched
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
+level: 1-5
 updated: '2025-08-13T17:00:00.000000'
 world: Both
 ---
+
 
 # Shadow Conspiracy Investigation Chain
 
@@ -416,3 +422,10 @@ event:
 - [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
 - [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-quest-the-harbor-war-v1-quest-the-harbor-war.svg]]
+- [[04_Resources_Assets_Locations_location-city-old-sally-seasprayer-v1-old-sally-seasprayer.svg]]
+- [[Memory Eternal Keeper]]

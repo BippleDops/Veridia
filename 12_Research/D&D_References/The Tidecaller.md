@@ -1,20 +1,27 @@
+# The Tidecaller
+
 ---
+title: The Tidecaller
+type: Location
 tags:
-- aethermoor
-- complete
-- location
-- maritime
-- npc
-- spellcaster
 - tide-magic
+- spellcaster
+- npc
+- research
+- maritime
+- active
+- location
+- complete
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.391291+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -172,3 +179,8 @@ Legends speak of The Tidecaller as a nexus where past and present converge. Loca
 - [[The Tidecaller|02 Worldbuilding/Places/The Tidecaller]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

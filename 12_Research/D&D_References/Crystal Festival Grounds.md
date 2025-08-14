@@ -1,21 +1,28 @@
+# Crystal Festival Grounds
+
 ---
+title: Crystal Festival Grounds
+type: Lore
+tags:
+- lore
+- both
+- celebration
+- grounds
+- worldbuilding
+- research
+- active
+- complete
+- crystal-festival
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
-tags:
-- aethermoor
-- both
-- celebration
-- complete
-- crystal-festival
-- grounds
-- lore
-- worldbuilding
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
-created: '2025-08-11'
-type: Lore
 ---
+
 
 
 

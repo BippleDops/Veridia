@@ -1,15 +1,23 @@
+# St. Meridian's Cathedral
+
 ---
-tags:
-- active
-- aethermoor
-- location
+title: St. Meridian's Cathedral
+aliases:
+- St Meridian's Cathedral
 type: Location
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.534753+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-st-meridian-s-cathedral-st-meridian-s-cathedral.svg]]
@@ -60,3 +68,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[St. Meridian's Cathedral|02 Worldbuilding/Places/St. Meridian's Cathedral]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,24 +1,31 @@
+# Find the Grief Bomb
+
 ---
+title: Find the Grief Bomb
+type: Lore
 tags:
-- aquabyssos
-- complete
-- horror
-- investigation
 - lore
+- aquabyssos
 - memory-manipulation
-- order-drowned-star
+- investigation
 - psychological-warfare
 - quest
+- research
+- active
+- horror
+- complete
+- order-drowned-star
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
-world: Aquabyssos
-type: Lore
 level: 8-12
+world: Aquabyssos
 duration: 3-4 sessions
 threat_level: high
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.507522+00:00'
 ---
+
 
 
 
@@ -285,3 +292,8 @@ Legends speak of Find the Grief Bomb as a nexus where past and present converge.
 - [[The Original Palace]]
 - [[The Singing Trenches]]
 - [[Throne Room - Heart of Palace]]
+
+
+## Related
+
+*Links to related content will be added here.*

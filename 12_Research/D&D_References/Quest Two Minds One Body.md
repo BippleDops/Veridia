@@ -1,18 +1,25 @@
+# Quest Two Minds One Body
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/lore
-- content/npc
-- lore
-- status/in-progress
-- world/aquabyssos
+title: Quest Two Minds One Body
 type: Lore
+tags:
+- lore
+- aquabyssos
+- world/aquabyssos
+- content/lore
+- research
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:29.115498+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -51,3 +58,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Marina Red Tide Coralheart - Aquabyssos]]
+
+
+## Related
+
+*Links to related content will be added here.*

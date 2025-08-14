@@ -1,19 +1,25 @@
+# S-105_Star_Anchor_Choir
+
 ---
 title: "Encounter Sheet \u2014 S-105 Star Anchor Choir"
 type: gm_resource
-status: complete
 tags:
 - both
-- complete
 - encounter
 - gm
+- research
+- active
 - gm_resource
-- reality
+- complete
 - sky
+- reality
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.125950+00:00'
 world: Both
 ---
+
 
 
 # S-105 Star Anchor Choir
@@ -58,3 +64,8 @@ Legends speak of S 105 Star Anchor Choir as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

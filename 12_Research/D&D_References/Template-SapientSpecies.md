@@ -1,11 +1,17 @@
+# Template-SapientSpecies
+
 ---
+title: Template SapientSpecies
 type: Lore
-status: complete
 tags:
-- active
-- both
-- category/sapientspecies
 - lore
+- both
+- research
+- category/sapientspecies
+- active
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 MyContainer:
 - '[[Jungle of Screams|Jungle of Screams]]'
 MyCategory: Knightly Order
@@ -33,8 +39,8 @@ benefits:
   reward: What do they get at level 3?
 world: Both
 updated: '2025-08-13T01:18:31.197584+00:00'
-created: '2025-08-11'
 ---
+
 
 
 
@@ -362,3 +368,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Lore/Template_Species_Placeholder.png|02 Worldbuilding/Lore/Template Species Placeholder.png]]
+
+
+## Related
+
+*Links to related content will be added here.*

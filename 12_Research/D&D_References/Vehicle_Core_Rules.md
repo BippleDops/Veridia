@@ -1,19 +1,25 @@
+# Vehicle_Core_Rules
+
 ---
 title: Vehicle Core Rules
 type: mechanics
-status: complete
 tags:
 - both
-- complete
 - core
 - fleets
 - mechanics
-- rules
 - vehicles
+- research
+- active
+- complete
+- rules
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:37.145348+00:00'
 world: Both
 ---
+
 
 
 
@@ -153,3 +159,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Aquabyssos_Submarines|Aquabyssos Submarines]]
 - [[Player_Handout_Aquabyssos_Submarines|Player Handout Aquabyssos Submarines]]
 - [[Pressure_Weather_Events|Pressure Weather Events]]
+
+
+## Related
+
+*Links to related content will be added here.*

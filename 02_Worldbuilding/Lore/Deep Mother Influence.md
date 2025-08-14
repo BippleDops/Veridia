@@ -1,28 +1,32 @@
 ---
+title: Deep Mother Influence
+type: Lore
+tags:
+- lore
+- aquabyssos
+- eldritch
+- religion
+- session-notes
+- status/complete
+- entities
+- aquatic
+- quest
+- content/lore
+- active
+- influence
+- complete
+- world/aquabyssos
+- corruption
+- crystal-enhanced
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 created_by: auto-stub
 expanded: 2025-08-10
-status: complete
-tags:
-- quest
-- session-notes
-- crystal-enhanced
-- aquatic
-- aquabyssos
-- complete
-- content/lore
-- corruption
-- eldritch
-- entities
-- influence
-- lore
-- religion
-- status/complete
-- world/aquabyssos
-type: Lore
 updated: '2025-08-13T12:34:15.960025+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Deep Mother Influence
@@ -324,21 +328,21 @@ Characters accumulate influence points based on exposure:
 
 ## Connected References
 
-- [[12_Research/D&D_References/The Deep Mother]] - Source entity of the influence
-- [[12_Research/D&D_References/Pressure Cult]] - Organization of willingly influenced individuals
-- [[12_Research/D&D_References/Deep Threat Assessment Bureau]] - Government agency monitoring influence
+- [[The Deep Mother]] - Source entity of the influence
+- [[Pressure Cult]] - Organization of willingly influenced individuals
+- [[Deep Threat Assessment Bureau]] - Government agency monitoring influence
 - [[Maritime Research Institute]] - Academic institution studying influence
-- [[12_Research/D&D_References/Abyssal Plains]] - High-concentration influence zone
-- [[12_Research/D&D_References/Thermal Vent Fields]] - Natural influence amplification areas
-- [[12_Research/D&D_References/The Great Convergence]] - Prophesied event requiring influenced individuals
-- [[12_Research/D&D_References/Depth Navy]] - Military force with significant influence exposure
-- [[12_Research/D&D_References/Purification Chambers]] - Technology for treating influence
-- [[12_Research/D&D_References/Reality Anchoring]] - Technique for resisting influence
-- [[12_Research/D&D_References/Influence Detectors]] - Equipment for measuring corruption
-- [[12_Research/D&D_References/The Ancient Compact]] - Historical treaty with Deep Mother
+- [[Abyssal Plains]] - High-concentration influence zone
+- [[Thermal Vent Fields]] - Natural influence amplification areas
+- [[The Great Convergence]] - Prophesied event requiring influenced individuals
+- [[Depth Navy]] - Military force with significant influence exposure
+- [[Purification Chambers]] - Technology for treating influence
+- [[Reality Anchoring]] - Technique for resisting influence
+- [[Influence Detectors]] - Equipment for measuring corruption
+- [[The Ancient Compact]] - Historical treaty with Deep Mother
 - [[Abyssal Trading Consortium]] - Commercial organization under investigation
-- [[12_Research/D&D_References/Benthic Commune]] - Historical example of mass influence event
-- [[12_Research/D&D_References/Professor Abyssal Deepthought]] - Academic who founded Pressure Cult
+- [[Benthic Commune]] - Historical example of mass influence event
+- [[Professor Abyssal Deepthought]] - Academic who founded Pressure Cult
 
 ## Long-term Implications
 
@@ -349,10 +353,10 @@ As the influence continues to spread and evolve, future generations may face a c
 
 ## Connections
 
-- [[12_Research/D&D_References/Healing Two Worlds]]
-- [[12_Research/D&D_References/Merged Reality Zones]]
-- [[12_Research/D&D_References/The Deep Mother]]
-- [[12_Research/D&D_References/The Transformed Citizens]]
+- [[Healing Two Worlds]]
+- [[Merged Reality Zones]]
+- [[The Deep Mother]]
+- [[The Transformed Citizens]]
 - [[12_Research/D&D_Statblocks/Aethermoor - Session 05 The Queens Madness]]
 
 ## Player-Facing Summary
@@ -371,7 +375,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Transformed Citizens]]
+- [[The Transformed Citizens]]
 
 
 ## Related

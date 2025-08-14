@@ -1,25 +1,32 @@
+# The Final Choice
+
 ---
+title: The Final Choice
+type: Lore
 tags:
-- aethermoor-aquabyssos
-- both worlds
-- both-worlds
-- complete
-- conspiracy
-- crystallization
-- culmination
-- deep-mother
-- divine-intervention
-- final-revelation
+- secret-knowledge
 - hidden-truth
 - lore
-- reality-alteration
-- secret-knowledge
-- shadow-surgeons
+- conspiracy
+- final-revelation
+- crystallization
+- culmination
+- complete
+- aethermoor-aquabyssos
+- divine-intervention
+- both worlds
 - ultimate-choice
+- both-worlds
+- research
+- deep-mother
 - world-changing
+- active
+- shadow-surgeons
+- reality-alteration
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both Worlds
-type: Lore
 conspiracy_type: Ultimate Reality Manipulation Conspiracy
 scope: Multiversal - affecting the fundamental nature of reality across both worlds
 danger_level: 10
@@ -27,9 +34,9 @@ active_period: Throughout recorded history, culminating in current events
 primary_agents: The Convergence Council, Deep Mother Cultists, Shadow Surgeons, Ancient
   Powers
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.861373+00:00'
 ---
+
 
 
 
@@ -475,3 +482,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Aethermoor]]
 - [[Parliament of Echoes]]
 - [[The Crystal Wardens]]
+
+
+## Related
+
+*Links to related content will be added here.*

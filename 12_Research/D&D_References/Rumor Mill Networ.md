@@ -1,18 +1,25 @@
+# Rumor Mill Networ
+
 ---
-created: '2025-08-11'
-obsidianUIMode: preview
-status: complete
-tags:
-- complete
-- content/mechanics
-- mechanics
-- status/complete
-- universal
-- world/both
+title: Rumor Mill Networ
 type: Mechanics
+tags:
+- status/complete
+- mechanics
+- complete
+- research
+- world/both
+- active
+- universal
+- content/mechanics
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.809620+00:00'
 world: Universal
 ---
+
 
 
 
@@ -58,3 +65,8 @@ Legends speak of Rumor Mill Networ as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

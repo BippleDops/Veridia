@@ -1,4 +1,21 @@
 ---
+title: The Verdant Accord
+type: Npc
+tags:
+- status/complete
+- npc
+- character
+- content/npc
+- world/aethermoor
+- active
+- complete
+- aethermoor
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 accessibility:
   content_warnings:
   - coercion
@@ -14,20 +31,11 @@ char_age: Adult
 char_gender: Unknown
 char_race: Human
 char_status: Alive
-created: '2025-08-12'
 obsidianUIMode: preview
-status: complete
-tags:
-- aethermoor
-- complete
-- content/npc
-- npc
-- status/complete
-- world/aethermoor
-type: Npc
 updated: '2025-08-13T12:34:17.528788+00:00'
 world: Aethermoor
 ---
+
 
 
 # The Verdant Accord
@@ -80,12 +88,160 @@ Legends speak of The Verdant Accord as a nexus where past and present converge. 
 - An NPC seeks discreet help at The Verdant Accord to avert a public scandal.
 - A map overlay reveals a hidden approach to The Verdant Accord active only during specific tides/storms.
 
+
+
+## Appearance
+
+The Verdant Accord presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Clever, clever, brave
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Background
+
+The Verdant Accord's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Protecting loved ones
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+The Verdant Accord harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Divine mission
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Sharp and precise
+
+**Speech Pattern**: Casual and relaxed
+
+**Physical Habits**: Gestures expressively
+
+## Current Activities
+
+The Verdant Accord is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: The Verdant Accord needs assistance with a delicate matter
+2. **The Opposition**: Someone wants The Verdant Accord stopped or removed
+3. **The Secret**: Information about The Verdant Accord's past surfaces
+4. **The Alliance**: Opportunity to work with or against The Verdant Accord
+5. **The Crisis**: The Verdant Accord is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
 
+
+
+
+## Relationship Web
+
+- [[His Own Shadow]]: *childhood friend*
+- [[02_Worldbuilding_People_Dr._Marina_Coralheart_-_Shadow]]: *bitter rival*
 
 ## Connections
 

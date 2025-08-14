@@ -1,25 +1,31 @@
+# Free Current
+
 ---
+title: Free Current
+type: Location
 tags:
 - aquabyssos
+- trade-route
+- underwater-highway
+- neutral
 - communal
+- transportation-corridor
+- research
+- active
+- location
 - complete
 - current
-- location
-- neutral
-- trade-route
 - transportation
-- transportation-corridor
-- underwater-highway
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+population: ~15,000 (rotating community of travelers and workers)
 world: Aquabyssos
-type: Location
 danger_level: 3
 length: Over 2,000 miles of interconnected currents
 traffic: High - Major commercial and civilian route
 government: Collective Self-Governance
-population: ~15,000 (rotating community of travelers and workers)
 established: Ancient natural phenomenon, organized 400+ years ago
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 related_entities:
 - '[[Current Riders Guild|02 Worldbuilding/Groups/Current Riders Guild]]'
@@ -27,6 +33,7 @@ related_entities:
 - '[[New Tethys|02 Worldbuilding/Places/New Tethys]]'
 - '[[The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]'
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-free-current-free-current.svg]]
@@ -552,3 +559,8 @@ Legends speak of Free Current as a nexus where past and present converge. Locals
 - [[Free Current|02 Worldbuilding/Places/Free Current]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

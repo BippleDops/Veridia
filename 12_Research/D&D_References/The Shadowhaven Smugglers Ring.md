@@ -1,20 +1,25 @@
+# The Shadowhaven Smugglers Ring
+
 ---
+title: The Shadowhaven Smugglers Ring
+aliases: []
 type: Group
 tags:
-- active
 - both
-- group
+- research
+- active
 - note
-aliases: []
+- group
 created: '2025-07-23'
-modified: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
 MyContainer: None
 MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:36.733083+00:00'
-status: active
 ---
+
 
 
 
@@ -394,3 +399,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Lord Vexton Shadowmere]]
+
+
+## Related
+
+*Links to related content will be added here.*

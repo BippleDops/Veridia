@@ -1,15 +1,21 @@
+# The Harbormaster's Office
+
 ---
-tags:
-- active
-- aethermoor
-- location
+title: The Harbormaster's Office
 type: Location
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.532433+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-harbormaster-s-office-the-harbormaster-s-office.svg]]
@@ -66,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Port Meridian - Merchant Quarter]]
+
+
+## Related
+
+*Links to related content will be added here.*

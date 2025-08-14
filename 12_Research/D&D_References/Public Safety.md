@@ -1,15 +1,21 @@
+# Public Safety
+
 ---
-tags:
-- active
-- both
-- location
+title: Public Safety
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.315543+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-public-safety-public-safety.svg]]
@@ -66,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Mad Oracle Thessaly]]
+
+
+## Related
+
+*Links to related content will be added here.*

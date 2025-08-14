@@ -1,24 +1,31 @@
+# bridesmaid-of-zuggtmoy-oota
+
 ---
+title: bridesmaid of zuggtmoy oota
 aliases:
 - Bridesmaid of Zuggtmoy
+type: monster
+tags:
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/compendium/src/5e/oota
+- monster
+- research
+- world/both
+- ttrpg-cli/monster/type/plant
+- active
+- ttrpg-cli/monster/cr/1-8
+- status/in-progress
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/plant
-- world/both
-type: monster
 updated: '2025-08-12T23:37:35.367018'
 world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -103,3 +110,8 @@ Legends speak of bridesmaid of zuggtmoy oota as a nexus where past and present c
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

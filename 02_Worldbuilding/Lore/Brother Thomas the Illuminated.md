@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aethermoor
-- complete
-- content/lore
-- grand-cathedral
-- lore
-- status/in-progress
-- world/aethermoor
+title: Brother Thomas the Illuminated
 type: Lore
+tags:
+- lore
+- grand-cathedral
+- content/lore
+- world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:15.803903+00:00'
 world: Aethermoor
 ---
+
 
 
 ## Overview
@@ -41,12 +45,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Cathedral of Light]]
+- [[Cathedral of Light]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Cathedral of Light]]
+- [[Cathedral of Light]]
 
 
 ## Related

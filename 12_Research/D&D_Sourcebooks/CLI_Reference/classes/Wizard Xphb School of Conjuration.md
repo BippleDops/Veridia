@@ -1,14 +1,21 @@
+# Wizard Xphb School of Conjuration
+
 ---
-created: 2025-08-11
-status: active
+title: Wizard Xphb School of Conjuration
+type: research
 tags:
-- active
 - both
-- status/in-progress
+- research
 - world/both
+- active
+- status/in-progress
+created: 2025-08-11
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T12:34:04.853723+00:00'
 world: Both
 ---
+
 
 
 
@@ -32,3 +39,8 @@ Legends speak of wizard xphb school of conjuration as a nexus where past and pre
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

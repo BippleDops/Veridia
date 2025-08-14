@@ -1,22 +1,28 @@
+# forgotten-realms-myrkul
+
 ---
+title: forgotten realms myrkul
 aliases:
 - Myrkul
-created: 2025-07-23
-cssclasses: json5e-deity
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- importance/core
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/deity/forgotten-realms
-- world/both
 type: note
+tags:
+- ttrpg-cli/compendium/src/5e/phb
+- research
+- world/both
+- active
+- note
+- ttrpg-cli/deity/forgotten-realms
+- importance/core
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-deity
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.933404'
 world: Both
 ---
+
 
 # Myrkul
 *Source: Player's Handbook p. 294. Available in the Basic Rules (2014)* 
@@ -45,3 +51,8 @@ Legends speak of forgotten realms myrkul as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

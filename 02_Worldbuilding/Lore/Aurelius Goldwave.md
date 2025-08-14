@@ -1,43 +1,47 @@
 ---
-alignment: Lawful Evil
-allegiance: '[[Silverscale Banking House|02 Worldbuilding/Groups/Silverscale
-  Banking House]] (secretly)'
-class: Rogue (Mastermind)/Warlock (Great Old One)
+title: Aurelius Goldwave
+type: Npc
+tags:
+- aquatic
+- npc
+- merchant
+- shadow-touched
+- lore
+- session-notes
+- banking
+- status/complete
+- quest
+- content/npc
+- combat
+- financial-manipulation
+- crystal-enhanced
+- shadow-connection
+- corrupt-noble
+- complete
+- aquabyssos
+- active
+- world/aquabyssos
 created: '2025-08-08'
-current_location: '[[12_Research/D&D_References/Port Meridian]] - Financial District'
-level: 14
-occupation: Senior Partner, Goldwave Financial Consortium
+modified: '2025-08-14'
+status: complete
 race: Merfolk
+class: Rogue (Mastermind)/Warlock (Great Old One)
+level: 14
+alignment: Lawful Evil
+allegiance: '[[Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking
+  House]] (secretly)'
+current_location: '[[Port Meridian]] - Financial District'
+occupation: Senior Partner, Goldwave Financial Consortium
 related_entities:
-- '[[Silverscale Banking House|02 Worldbuilding/Groups/Silverscale
-  Banking House]]'
-- '[[12_Research/D&D_References/The Seven Shards]]'
-- '[[12_Research/D&D_References/Memory Meadows Black Market]]'
+- '[[Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking House]]'
+- '[[The Seven Shards]]'
+- '[[Memory Meadows Black Market]]'
 - '[[02_Worldbuilding/Lore/Marina''s Identity Crisis|02 Worldbuilding/Lore/Marina''s
   Identity Crisis]]'
-status: complete
-tags:
-- combat
-- quest
-- session-notes
-- crystal-enhanced
-- shadow-touched
-- aquatic
-- aquabyssos
-- banking
-- complete
-- content/npc
-- corrupt-noble
-- financial-manipulation
-- merchant
-- npc
-- shadow-connection
-- status/complete
-- world/aquabyssos
-type: Npc
 updated: '2025-08-13T12:34:15.912943+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -50,9 +54,9 @@ world: Aquabyssos
 
 ## Overview
 
-Aurelius Goldwave presents himself as [[12_Research/D&D_References/Aquabyssos]]'s most successful independent financial consultant, a brilliant merfolk whose golden scales seem to shimmer with the promise of prosperity. Behind this carefully cultivated facade lies one of the most dangerous financial manipulators in the underwater realm—a being who has spent decades weaving a web of economic control that extends throughout [[12_Research/D&D_References/Aquabyssos]] and increasingly into the surface world of [[12_Research/D&D_References/Aethermoor]].
+Aurelius Goldwave presents himself as [[Aquabyssos]]'s most successful independent financial consultant, a brilliant merfolk whose golden scales seem to shimmer with the promise of prosperity. Behind this carefully cultivated facade lies one of the most dangerous financial manipulators in the underwater realm—a being who has spent decades weaving a web of economic control that extends throughout [[Aquabyssos]] and increasingly into the surface world of [[Aethermoor]].
 
-Operating from his luxurious offices in [[12_Research/D&D_References/Port Meridian]]'s prestigious Financial District, Aurelius has built an empire based on information, influence, and the subtle corruption of memory magic. His clients believe they are receiving expert financial advice, unaware that their deepest secrets are being harvested, their memories subtly altered, and their wealth gradually siphoned into accounts controlled by the [[Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking House]] conspiracy.
+Operating from his luxurious offices in [[Port Meridian]]'s prestigious Financial District, Aurelius has built an empire based on information, influence, and the subtle corruption of memory magic. His clients believe they are receiving expert financial advice, unaware that their deepest secrets are being harvested, their memories subtly altered, and their wealth gradually siphoned into accounts controlled by the [[Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking House]] conspiracy.
 
 What makes Aurelius particularly dangerous is not just his financial acumen, but his growing connection to entities beyond the normal world—specifically, his pact with something that whispers from the depths of [[The Abyss Beneath Aquabyssos|02 Worldbuilding/Places/The Abyss Beneath Aquabyssos]]. This otherworldly patron has granted him abilities that blur the line between financial manipulation and mind control, making him both incredibly wealthy and increasingly inhuman.
 
@@ -60,7 +64,7 @@ What makes Aurelius particularly dangerous is not just his financial acumen, but
 
 ### Distinctive Appearance
 
-Aurelius Goldwave is immediately recognizable throughout [[12_Research/D&D_References/Aquabyssos]]'s elite circles. His merfolk tail bears scales of a distinctive golden hue that seems to shift and flow like liquid metal, catching light in ways that mesmerize observers and make accurate counting of his scale patterns nearly impossible. This golden coloration extends up his torso in subtle patterns that suggest wealth and success to those who view him.
+Aurelius Goldwave is immediately recognizable throughout [[Aquabyssos]]'s elite circles. His merfolk tail bears scales of a distinctive golden hue that seems to shift and flow like liquid metal, catching light in ways that mesmerize observers and make accurate counting of his scale patterns nearly impossible. This golden coloration extends up his torso in subtle patterns that suggest wealth and success to those who view him.
 
 His facial features are sharp and aristocratic, with piercing amber eyes that seem to evaluate everything in terms of monetary value. When he smiles—which is often during business negotiations—his teeth appear to have been replaced with actual gold, though closer examination reveals them to be natural teeth that have somehow taken on metallic properties. His hair flows in controlled waves, each strand appearing to contain flecks of actual gold dust.
 
@@ -75,19 +79,19 @@ Years of exposure to otherworldly influence have left subtle but disturbing chan
 
 ### Professional Demeanor
 
-Aurelius maintains an impeccably professional appearance at all times. His clothing is always the finest available, crafted from rare deep-sea materials and adorned with authentic treasures recovered from the [[12_Research/D&D_References/Leviathan Graveyard]]. He moves with the confident grace of someone accustomed to being the wealthiest person in any room, yet maintains an approachable demeanor that puts potential clients at ease.
+Aurelius maintains an impeccably professional appearance at all times. His clothing is always the finest available, crafted from rare deep-sea materials and adorned with authentic treasures recovered from the [[Leviathan Graveyard]]. He moves with the confident grace of someone accustomed to being the wealthiest person in any room, yet maintains an approachable demeanor that puts potential clients at ease.
 
 ## Background and History
 
 ### Early Life and Legitimate Success
 
-Aurelius Goldwave began his career as a genuinely talented financial advisor in [[12_Research/D&D_References/New Tethys]], where his analytical mind and intuitive understanding of market patterns quickly earned him a reputation among the emerging merchant class. Born to a middle-class family of pearl cultivators, he demonstrated an almost supernatural ability to predict economic trends and identify profitable investments.
+Aurelius Goldwave began his career as a genuinely talented financial advisor in [[New Tethys]], where his analytical mind and intuitive understanding of market patterns quickly earned him a reputation among the emerging merchant class. Born to a middle-class family of pearl cultivators, he demonstrated an almost supernatural ability to predict economic trends and identify profitable investments.
 
-His early success was built on legitimate skill—Aurelius possessed an uncanny ability to read the currents of [[12_Research/D&D_References/Aquabyssos]]'s developing economy and guide his clients toward profitable ventures. Within five years of establishing his practice, he had accumulated enough wealth to open offices in three major cities and attract clients from the highest levels of underwater society.
+His early success was built on legitimate skill—Aurelius possessed an uncanny ability to read the currents of [[Aquabyssos]]'s developing economy and guide his clients toward profitable ventures. Within five years of establishing his practice, he had accumulated enough wealth to open offices in three major cities and attract clients from the highest levels of underwater society.
 
 ### The Silverscale Recruitment
 
-Aurelius's transformation from legitimate businessman to corrupt manipulator began when he was approached by representatives of the [[Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking House]] during his eighth year of practice. The banking house recognized his talents and offered him opportunities that seemed too good to refuse—access to exclusive investment information, connections with the most powerful figures in [[12_Research/D&D_References/Aquabyssos]], and most tempting of all, magical enhancements to his already considerable abilities.
+Aurelius's transformation from legitimate businessman to corrupt manipulator began when he was approached by representatives of the [[Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking House]] during his eighth year of practice. The banking house recognized his talents and offered him opportunities that seemed too good to refuse—access to exclusive investment information, connections with the most powerful figures in [[Aquabyssos]], and most tempting of all, magical enhancements to his already considerable abilities.
 
 The seduction was gradual. At first, Aurelius believed he was simply joining an exclusive financial network that provided advantages to its members. He was encouraged to use minor memory magic to help clients overcome emotional barriers to sound financial decisions—a practice that seemed beneficial to all involved. Over time, these "therapeutic" memory alterations became more extensive and self-serving.
 
@@ -99,7 +103,7 @@ The pact was sealed not with blood, but with gold—specifically, with a single 
 
 ### Rise to Power
 
-Armed with otherworldly power and backed by the [[Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking House]]'s resources, Aurelius expanded his operations throughout [[12_Research/D&D_References/Aquabyssos]] and into surface markets. He established the Goldwave Financial Consortium as a front for increasingly complex financial manipulation schemes, using his enhanced abilities to:
+Armed with otherworldly power and backed by the [[Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking House]]'s resources, Aurelius expanded his operations throughout [[Aquabyssos]] and into surface markets. He established the Goldwave Financial Consortium as a front for increasingly complex financial manipulation schemes, using his enhanced abilities to:
 
 - Extract and sell memories containing valuable business information
 - Manipulate clients into making decisions that benefited his hidden masters
@@ -112,7 +116,7 @@ Armed with otherworldly power and backed by the [[Silverscale Banking House|02 W
 
 Aurelius's most insidious current operation involves what he calls "Memory Investment"—a service offered to wealthy clients who wish to "optimize their decision-making capacity." Clients are told that traumatic or emotionally charged memories can be temporarily stored in magical containers, allowing for clearer thinking during important financial decisions.
 
-In reality, these extracted memories are sold in the [[12_Research/D&D_References/Memory Meadows Black Market]], providing valuable intelligence to various criminal organizations while leaving clients with gaps in their knowledge that Aurelius can exploit. The memories are categorized and priced based on their content:
+In reality, these extracted memories are sold in the [[Memory Meadows Black Market]], providing valuable intelligence to various criminal organizations while leaving clients with gaps in their knowledge that Aurelius can exploit. The memories are categorized and priced based on their content:
 
 **Corporate Secrets**: High-value memories containing trade information, business strategies, or competitive intelligence
 **Personal Vulnerabilities**: Embarrassing or compromising memories useful for blackmail
@@ -121,10 +125,10 @@ In reality, these extracted memories are sold in the [[12_Research/D&D_Reference
 
 ### The Golden Current Network
 
-Aurelius has established a network of financially dependent individuals throughout [[12_Research/D&D_References/Aquabyssos]]'s power structure. These people, known internally as the "Golden Current," are clients who have become so reliant on Aurelius's advice and financial support that they essentially serve as his agents within their respective organizations.
+Aurelius has established a network of financially dependent individuals throughout [[Aquabyssos]]'s power structure. These people, known internally as the "Golden Current," are clients who have become so reliant on Aurelius's advice and financial support that they essentially serve as his agents within their respective organizations.
 
 Members of the Golden Current include:
-- Mid-level bureaucrats in the [[12_Research/D&D_References/Parliament of Echoes]]
+- Mid-level bureaucrats in the [[Parliament of Echoes]]
 - Military officers responsible for equipment procurement
 - Merchant guild leaders who control trade routes
 - Academic researchers whose work has commercial applications
@@ -132,21 +136,21 @@ Members of the Golden Current include:
 
 ### The Surface Expansion Project
 
-One of Aurelius's most ambitious current schemes involves expanding his influence into [[12_Research/D&D_References/Aethermoor]]'s crystal-based economy. Working through intermediaries and using magically disguised communication methods, he has begun offering financial services to surface merchants and nobles, gradually building a client base that could eventually be exploited in the same manner as his underwater operations.
+One of Aurelius's most ambitious current schemes involves expanding his influence into [[Aethermoor]]'s crystal-based economy. Working through intermediaries and using magically disguised communication methods, he has begun offering financial services to surface merchants and nobles, gradually building a client base that could eventually be exploited in the same manner as his underwater operations.
 
 This expansion serves multiple purposes:
-- Gathering intelligence about [[12_Research/D&D_References/Aethermoor]]'s magical and economic capabilities
+- Gathering intelligence about [[Aethermoor]]'s magical and economic capabilities
 - Creating financial dependencies that could be leveraged during times of conflict
 - Testing whether his otherworldly patron's influence extends to surface-dwelling populations
-- Establishing escape routes and alternative power bases should his [[12_Research/D&D_References/Aquabyssos]] operations be discovered
+- Establishing escape routes and alternative power bases should his [[Aquabyssos]] operations be discovered
 
 ### The Shard Hunt Initiative
 
-Recent intelligence suggests that Aurelius has become aware of [[12_Research/D&D_References/The Seven Shards]] and their potential value. He has begun funding archaeological expeditions and hiring adventuring parties to locate and recover these artifacts, using his financial network to track down leads and purchase information about their whereabouts.
+Recent intelligence suggests that Aurelius has become aware of [[The Seven Shards]] and their potential value. He has begun funding archaeological expeditions and hiring adventuring parties to locate and recover these artifacts, using his financial network to track down leads and purchase information about their whereabouts.
 
 His interest in the Shards appears to be twofold:
 - Their immense magical power could enhance his own otherworldly abilities
-- Controlling them would provide leverage over both [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]]'s governments
+- Controlling them would provide leverage over both [[Aquabyssos]] and [[Aethermoor]]'s governments
 
 ## Abilities and Powers
 
@@ -177,7 +181,7 @@ His interest in the Shards appears to be twofold:
 ### Conventional Skills
 
 Despite his supernatural enhancements, Aurelius retains considerable mundane abilities:
-- Expert knowledge of [[12_Research/D&D_References/Aquabyssos]] and surface world economics
+- Expert knowledge of [[Aquabyssos]] and surface world economics
 - Master-level skills in negotiation, persuasion, and deception
 - Extensive network of contacts throughout multiple social strata
 - Advanced understanding of magical theory and artifact identification
@@ -187,7 +191,7 @@ Despite his supernatural enhancements, Aurelius retains considerable mundane abi
 
 ### Shadow Corruption Spread
 
-Aurelius represents a unique vector for shadow corruption—rather than being directly infected, his pact with an otherworldly entity makes him a willing agent of forces that operate outside normal reality. His financial network provides an ideal method for spreading corruption throughout [[12_Research/D&D_References/Aquabyssos]]'s power structure, using economic dependency to create vulnerability to otherworldly influence.
+Aurelius represents a unique vector for shadow corruption—rather than being directly infected, his pact with an otherworldly entity makes him a willing agent of forces that operate outside normal reality. His financial network provides an ideal method for spreading corruption throughout [[Aquabyssos]]'s power structure, using economic dependency to create vulnerability to otherworldly influence.
 
 The corruption he spreads is subtle but pervasive:
 - Clients gradually become more greedy, callous, and manipulative
@@ -197,7 +201,7 @@ The corruption he spreads is subtle but pervasive:
 
 ### The Seven Shards Quest
 
-Aurelius's interest in [[12_Research/D&D_References/The Seven Shards]] makes him a major antagonist in campaigns focused on these artifacts. His financial resources, information networks, and supernatural abilities make him a formidable competitor for any group seeking to locate and control the Shards.
+Aurelius's interest in [[The Seven Shards]] makes him a major antagonist in campaigns focused on these artifacts. His financial resources, information networks, and supernatural abilities make him a formidable competitor for any group seeking to locate and control the Shards.
 
 His approach to the Shard quest differs from other antagonists:
 - Rather than using force, he attempts to purchase or manipulate his way to the artifacts
@@ -218,7 +222,7 @@ His involvement could either help resolve the crisis or make it significantly wo
 
 ### Convergence Crisis Implications
 
-During [[12_Research/D&D_References/The Convergence Crisis]], Aurelius's otherworldly connections could make him either a valuable ally or a catastrophic threat. His patron entity might provide crucial information about dimensional stability, or it might seek to exploit the crisis to expand its influence into multiple reality layers.
+During [[The Convergence Crisis]], Aurelius's otherworldly connections could make him either a valuable ally or a catastrophic threat. His patron entity might provide crucial information about dimensional stability, or it might seek to exploit the crisis to expand its influence into multiple reality layers.
 
 Potential roles during the crisis:
 - Information broker selling intelligence about dimensional threats
@@ -236,36 +240,36 @@ Characters discover that several prominent citizens have had their memories stol
 ### The Surface Market Manipulation
 
 **Level**: 8-12  
-[[12_Research/D&D_References/Aethermoor]] merchants report impossible economic conditions that seem designed to benefit unknown [[12_Research/D&D_References/Aquabyssos]] interests. Characters must investigate the cross-realm financial manipulation while avoiding Aurelius's attempts to corrupt or eliminate them.
+[[Aethermoor]] merchants report impossible economic conditions that seem designed to benefit unknown [[Aquabyssos]] interests. Characters must investigate the cross-realm financial manipulation while avoiding Aurelius's attempts to corrupt or eliminate them.
 
 ### The Memory Auction
 
 **Level**: 10-14
-The [[12_Research/D&D_References/Memory Meadows Black Market]] announces a special auction featuring memories stolen from high-ranking government officials. Characters must infiltrate the auction to prevent state secrets from being sold while confronting Aurelius as the primary seller.
+The [[Memory Meadows Black Market]] announces a special auction featuring memories stolen from high-ranking government officials. Characters must infiltrate the auction to prevent state secrets from being sold while confronting Aurelius as the primary seller.
 
 ### The Patron's Demand
 
 **Level**: 12-16
-Aurelius's otherworldly patron demands a specific service that would destabilize [[12_Research/D&D_References/Aquabyssos]]'s economy and government. He approaches the characters as potential agents, offering incredible wealth in exchange for completing tasks that seem legitimate but serve sinister purposes.
+Aurelius's otherworldly patron demands a specific service that would destabilize [[Aquabyssos]]'s economy and government. He approaches the characters as potential agents, offering incredible wealth in exchange for completing tasks that seem legitimate but serve sinister purposes.
 
 ### The Shard Bidding War
 
 **Level**: 14-18
-One of [[12_Research/D&D_References/The Seven Shards]] has been located, and Aurelius enters a complex bidding war involving multiple factions. Characters must prevent him from acquiring the artifact while navigating economic warfare, memory manipulation, and otherworldly interference.
+One of [[The Seven Shards]] has been located, and Aurelius enters a complex bidding war involving multiple factions. Characters must prevent him from acquiring the artifact while navigating economic warfare, memory manipulation, and otherworldly interference.
 
 ## Secrets for the DM
 
 > [!secret] DM Secret - The True Patron
-> Aurelius's otherworldly patron is actually a fragment of the entity that created [[12_Research/D&D_References/The Seven Shards]], trapped in the deep places of [[12_Research/D&D_References/Aquabyssos]] since the ancient cataclysm. Acquiring the Shards would not only grant Aurelius incredible power but could potentially free his patron to reshape reality according to its alien desires.
+> Aurelius's otherworldly patron is actually a fragment of the entity that created [[The Seven Shards]], trapped in the deep places of [[Aquabyssos]] since the ancient cataclysm. Acquiring the Shards would not only grant Aurelius incredible power but could potentially free his patron to reshape reality according to its alien desires.
 
 > [!secret] DM Secret - The Memory Vault
-> Aurelius has been secretly collecting and storing the memories of everyone he's ever encountered, building a vast archive of intelligence that could destabilize every major faction in both [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]]. This memory vault is hidden in a pocket dimension accessible only through his offices.
+> Aurelius has been secretly collecting and storing the memories of everyone he's ever encountered, building a vast archive of intelligence that could destabilize every major faction in both [[Aquabyssos]] and [[Aethermoor]]. This memory vault is hidden in a pocket dimension accessible only through his offices.
 
 > [!secret] DM Secret - The Succession Plan
 > Aurelius has been grooming several potential successors, gradually corrupting them with otherworldly influence. If he is killed or permanently incapacitated, these agents will activate and continue his work, making his defeat potentially just the beginning of the threat rather than its end.
 
 > [!secret] DM Secret - The Golden Scale Curse
-> The golden scale Aurelius sacrificed to his patron contained a fragment of one of [[12_Research/D&D_References/The Seven Shards]]' power, inherited through his bloodline from ancient times. This connection explains both his financial abilities and his patron's interest in him. Recovering this scale fragment could be crucial to resolving multiple campaign crises.
+> The golden scale Aurelius sacrificed to his patron contained a fragment of one of [[The Seven Shards]]' power, inherited through his bloodline from ancient times. This connection explains both his financial abilities and his patron's interest in him. Recovering this scale fragment could be crucial to resolving multiple campaign crises.
 
 ## Game Mechanics (D&D 5e)
 
@@ -304,37 +308,37 @@ One of [[12_Research/D&D_References/The Seven Shards]] has been located, and Aur
 ---
 
 **Related Concepts**:
-- [[12_Research/D&D_References/Memory Manipulation]]
-- [[12_Research/D&D_References/Financial Corruption]]
-- [[12_Research/D&D_References/Otherworldly Pacts]]
+- [[Memory Manipulation]]
+- [[Financial Corruption]]
+- [[Otherworldly Pacts]]
 - [[12_Research/D&D_Statblocks/Economic Warfare]]
 
 **Related Locations**:
-- [[12_Research/D&D_References/Port Meridian]]
-- [[12_Research/D&D_References/Memory Meadows Black Market]]
-- [[12_Research/D&D_References/Goldwave Financial Offices]]
+- [[Port Meridian]]
+- [[Memory Meadows Black Market]]
+- [[Goldwave Financial Offices]]
 - [[The Abyss Beneath Aquabyssos|02 Worldbuilding/Places/The Abyss Beneath Aquabyssos]]
 
 **Related NPCs**:
 - [[Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking House]]
-- [[12_Research/D&D_References/Memory Merchants]]
-- [[12_Research/D&D_References/Corrupted Clients]]
-- [[12_Research/D&D_References/Otherworldly Patron]]
+- [[Memory Merchants]]
+- [[Corrupted Clients]]
+- [[Otherworldly Patron]]
 
 **Associated Phenomena**:
-- [[12_Research/D&D_References/Golden Scale Transformation]]
-- [[12_Research/D&D_References/Memory Commerce]]
-- [[12_Research/D&D_References/Economic Manipulation]]
-- [[12_Research/D&D_References/Supernatural Influence]]
+- [[Golden Scale Transformation]]
+- [[Memory Commerce]]
+- [[Economic Manipulation]]
+- [[Supernatural Influence]]
 
 ## Connections
 
-- [[12_Research/D&D_References/Leviathan Graveyard]]
-- [[12_Research/D&D_References/Silver Mask]]
-- [[12_Research/D&D_References/The Deep Mother]]
-- [[12_Research/D&D_References/The Seven Shards]]
-- [[12_Research/D&D_References/The Silverscale Conspiracy]]
-- [[12_Research/D&D_References/Aethermoor - Session 02 The Lighthouse of Storms]]
+- [[Leviathan Graveyard]]
+- [[Silver Mask]]
+- [[The Deep Mother]]
+- [[The Seven Shards]]
+- [[The Silverscale Conspiracy]]
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]
 
 ## Player-Facing Summary
 
@@ -359,7 +363,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[12_Research/D&D_Statblocks/Economic Warfare]]
-- [[12_Research/D&D_References/Goldwave Manor]]
+- [[Goldwave Manor]]
 
 
 ## Related

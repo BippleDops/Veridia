@@ -1,28 +1,34 @@
 ---
+title: Crystal Palace
+type: Location
+tags:
+- both
+- world/aquabyssos
+- royal
+- complete
+- world/both
+- content/location
+- place
+- active
+- palace
+- location
+- status/in-progress
+- world/aethermoor
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: 500
 danger_level: 8
 depth: 800-1200 feet
 government: Absolute Monarchy
 location_name: Crystal Palace
 location_type: Royal Residence
-population: 500
 ruler: Crystal Sovereign Prism-Heart
-status: complete
-tags:
-- both
-- complete
-- content/location
-- location
-- palace
-- royal
-- status/in-progress
-- world/aethermoor
-- world/aquabyssos
-- world/both
-type: Location
 updated: '2025-08-13T12:34:16.943791+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -246,8 +252,122 @@ The Crystal Palace serves as the seat of absolute royal power in the underwater 
 
 The Crystal Palace represents the ultimate expression of magical architecture, where form and function merge into something beyond mere building. Local legends claim the original crystal was a fallen star, while others insist it grew from the tears of a heartbroken sea goddess.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Emphasize the synesthetic quality of the palace—sounds have colors, lights have textures, and emotions leave visible trails in the crystal. Use the structure itself as an active participant in political intrigue, with walls that remember conversations and light patterns that reveal hidden truths.
 
 <!-- enriched: true -->
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-port-meridian-medical-institute-port-meridian-medical-institute.svg]]
+- [[Brother Thaddeus the Rememberer]]
+- [[04_Resources_Assets_Portraits_portrait-npc-blackwater-estate-blackwater-estate.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+Crystal Palace is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Crystal Palace
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Crystal Palace was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Crystal Palace:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Crystal Palace
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

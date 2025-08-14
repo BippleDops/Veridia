@@ -1,20 +1,27 @@
+# Depth Crystal Harvest
+
 ---
+title: Depth Crystal Harvest
+type: Location
 tags:
 - aquabyssos
-- complete
 - crystals
+- research
 - dangerous
-- economic
+- active
 - location
+- complete
+- economic
 - mining
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-depth-crystal-harvest-depth-crystal-harvest.svg]]
@@ -141,3 +148,8 @@ Legends speak of Depth Crystal Harvest as a nexus where past and present converg
 - [[Depth Crystal Harvest|02 Worldbuilding/Places/Depth Crystal Harvest]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

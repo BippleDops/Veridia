@@ -1,21 +1,27 @@
+# elf-shadar-kai-mtf
+
 ---
+title: elf shadar kai mtf
 aliases:
 - Elf (Shadar-kai)
-created: 2025-07-23
-cssclasses: json5e-race
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- active
+- ttrpg-cli/race/elf/shadar-kai
+- ttrpg-cli/compendium/src/5e/mtf
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/race/elf/shadar-kai
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-race
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:37.686525'
 world: Both
 ---
+
 
 # Elf (Shadar-kai)
 *Source: Mordenkainen's Tome of Foes p. 62*  
@@ -137,3 +143,8 @@ Legends speak of elf shadar kai mtf as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,21 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Item Catalog Complete.md
+aliases:
+- Item Catalog Completemd
 type: item
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - item
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+rarity: Unknown
+value: Unknown
+updated: 2025-08-14
 ---
+
 
 # 13_Performance/Indexes/Item_Catalog_Complete.md
 
@@ -24,8 +32,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Living Economy System]]
-- [[12_Research/D&D_References/Living_Economy_System]]
+- [[Living Economy System]]
+- [[Living_Economy_System]]
 
 ## Notes
 

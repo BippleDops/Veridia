@@ -1,25 +1,34 @@
+# Tribune Cassia Deepcurrent
+
 ---
+title: Tribune Cassia Deepcurrent
+type: NPC
 tags:
 - aquabyssos
-- complete
-- government
-- npc
-- parliament
 - person
-- politician
+- npc
 - pragmatic-leader
-status: complete
-world: Aquabyssos
-type: NPC
-role: Parliamentary Tribune
-affiliation: '[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] - Centrist Faction'
-age: '48'
-race: Human
-location: '[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] - Central Chamber'
-created_by: auto-stub
+- politician
+- research
+- government
+- active
+- parliament
+- complete
 created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+race: Human
+location: '[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] -
+  Central Chamber'
+world: Aquabyssos
+role: Parliamentary Tribune
+affiliation: '[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]
+  - Centrist Faction'
+age: '48'
+created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -215,3 +224,8 @@ Legends speak of Tribune Cassia Deepcurrent as a nexus where past and present co
 <!-- enriched: true -->
 - [[The Liminal Trading Company]]
 - [[Memory Farmers]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,14 +1,20 @@
+# Face the Ancient Threat
+
 ---
-updated: '2025-08-13T01:18:35.645771+00:00'
-created: '2025-08-11'
-tags:
-- aethermoor
-- category/lore
-- complete
-- lore
-status: complete
-world: Aethermoor
+title: Face the Ancient Threat
 type: lore
+tags:
+- lore
+- category/lore
+- research
+- active
+- complete
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+updated: '2025-08-13T01:18:35.645771+00:00'
+world: Aethermoor
 obsidianUIMode: preview
 accessibility:
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -19,6 +25,7 @@ accessibility:
   - Lines & Veils
   - X-Card
 ---
+
 
 
 
@@ -75,3 +82,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Threshold]]
+
+
+## Related
+
+*Links to related content will be added here.*

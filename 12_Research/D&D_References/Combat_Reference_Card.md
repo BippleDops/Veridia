@@ -1,15 +1,22 @@
+# Combat_Reference_Card
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- gm-resources
-- reference-cards
-- combat
-- quick-reference
+title: Combat Reference Card
 type: Reference
+tags:
+- quick-reference
+- research
+- active
+- gm-resources
+- combat
+- reference-cards
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
+
 
 # Combat Reference Card
 
@@ -264,3 +271,7 @@ world: Both
 - [[Underwater_Combat_Rules]]
 - [[Pressure_Combat_Modifiers]]
 - [[Encounter_Scaling_Guide]]
+
+## Related
+
+*Links to related content will be added here.*

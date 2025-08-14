@@ -1,5 +1,17 @@
 # Creatures Gallery
 
+---
+title: Creatures Gallery
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
+# Creatures Gallery
+
 %% Use reading mode for visual gallery %%
 
 ## creature-creature-aerisi-kalinoth-pota-aerisi-kalinoth-pota
@@ -385,3 +397,8 @@
 
 ## creature-creature-young-green-dragon-xmm-young-green-dragon-xmm
 ![[04_Resources/Assets/Creatures/creature-creature-young-green-dragon-xmm-young-green-dragon-xmm.png]]
+
+
+## Related
+
+*Links to related content will be added here.*

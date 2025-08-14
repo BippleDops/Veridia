@@ -1,14 +1,17 @@
 ---
+title: Academic Centers
 type: Lore
-status: complete
+tags:
+- lore
+- both
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:35.265620+00:00'
 world: Both
-tags:
-- active
-- both
-- lore
 ---
+
 
 
 ## Cross-References
@@ -18,8 +21,8 @@ tags:
 
 ## Connections
 
-- [[12_Research/D&D_References/The Queen]]
-- [[12_Research/D&D_References/The Transformed Citizens]]
+- [[The Queen]]
+- [[The Transformed Citizens]]
 
 ## Player-Facing Summary
 

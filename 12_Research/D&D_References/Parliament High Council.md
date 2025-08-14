@@ -1,20 +1,27 @@
+# Parliament High Council
+
 ---
+title: Parliament High Council
+type: NPC
 tags:
 - aquabyssos
-- complete
-- government
 - npc
 - organization
+- research
+- government
+- active
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: NPC
 created_by: auto-stub
-created: '2025-08-11'
 MyContainer: None
 MyCategory: Government
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.831590+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -139,3 +146,8 @@ Legends speak of Parliament High Council as a nexus where past and present conve
 
 <!-- enriched: true -->
 nriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

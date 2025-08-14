@@ -1,34 +1,41 @@
+# Concierge Phillip Gracewater
+
 ---
+title: Concierge Phillip Gracewater
+type: Location
 tags:
-- aquabyssos
-- complete
-- diplomatic
-- embassy
 - helpful
-- hospitality
+- aquabyssos
+- embassy
 - information
-- location
-- npc
 - person
+- npc
 - service
 - social
+- research
+- diplomatic
+- hospitality
+- active
+- location
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
-world: Aquabyssos
-type: Location
-category: Service Professional
 race: Sea Elf
 class: Expert
 location: '[[Ambassador Lysandra Silvertonge''s Embassy]]'
+world: Aquabyssos
+category: Service Professional
 faction: Embassy Staff
 influence: Low
 danger_level: None
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.551054+00:00'
 MyContainer: None
 MyCategory: Embassy Staff
 obsidianUIMode: preview
 ---
+
 
 
 
@@ -176,3 +183,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Abyssos Prime]]
 - [[Aethermoor]]
 - [[Ambassador Lysandra Silvertonge]]
+
+
+## Related
+
+*Links to related content will be added here.*

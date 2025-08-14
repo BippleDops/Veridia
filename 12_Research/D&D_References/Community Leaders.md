@@ -1,15 +1,21 @@
+# Community Leaders
+
 ---
+title: Community Leaders
+type: Lore
 tags:
-- active
+- lore
 - aquabyssos
 - faction
-- lore
-type: Lore
-world: Aquabyssos
-status: active
+- research
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.819448+00:00'
 ---
+
 
 > [!figure] Asset
 ![[04_Resources/Assets/Locations/location-city-community-leaders-community-leaders.svg]]
@@ -45,3 +51,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Community Leaders|02 Worldbuilding/Places/Community Leaders]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,20 +1,27 @@
+# Cult of the Deep Mother
+
 ---
+title: Cult of the Deep Mother
+type: Group
 tags:
 - aquabyssos
 - both
-- complete
 - cult
-- deep-mother
 - eldritch-horror
-- group
 - organization
+- research
+- deep-mother
+- active
+- complete
+- group
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Group
 created_by: claude
-created: '2025-08-12'
 updated: '2025-08-13T01:18:36.750057+00:00'
 ---
+
 
 
 # Cult of the Deep Mother
@@ -353,3 +360,8 @@ Use the concentric circle structure to provide different levels of opposition an
 - A map overlay reveals a hidden approach to Cult of the Deep Mother active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

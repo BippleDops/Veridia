@@ -1,17 +1,24 @@
+# Investigation_Mechanics
+
 ---
-created: '2025-08-13'
-status: active
+title: Investigation Mechanics
+type: Mechanics
 tags:
-- mechanics/investigation
-- shadow-conspiracy
-- detection-methods
 - evidence-system
+- detection-methods
+- mechanics/investigation
+- research
 - world/both
 - status/active
-type: Mechanics
+- active
+- shadow-conspiracy
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T17:10:00.000000'
 world: Both
 ---
+
 
 # Shadow Conspiracy: Investigation Mechanics
 *Complete System for Uncovering the Conspiracy*
@@ -438,3 +445,7 @@ SORT phase ASC
 - [[Parliament Building Maps]]
 - [[Evidence Item Descriptions]]
 - [[Witness Protection Protocols]]
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,18 +1,24 @@
+# Random_Tables - Encounter_and_Loot_Generators
+
 ---
-tags:
-- active
-- both
-- generators
-- lore
-- random
-- tables
+title: Random Tables   Encounter and Loot Generators
 type: Lore
+tags:
+- lore
+- both
+- research
+- active
+- tables
+- generators
+- random
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 realm: Generic
 world: Both
 updated: '2025-08-13T01:18:37.212531+00:00'
-created: '2025-08-11'
-status: active
 ---
+
 
 
 
@@ -105,3 +111,8 @@ Party level modifier: `dice: 2d6*{level}|Parcel (gp)`
 - Use alongside `Item_Catalog.base` for ownership assignment.
 - For underwater/urban variants, adapt tables by realm.
 
+
+
+## Related
+
+*Links to related content will be added here.*

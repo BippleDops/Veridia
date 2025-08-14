@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Identity Restoration Console
 type: item
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - item
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+rarity: Unknown
+value: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Items/Identity Restoration Console
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Investigate Shadow Surgeons]]
+- [[Investigate Shadow Surgeons]]
 - [[02_Worldbuilding/Groups/Criminal_Organizations/Investigate Shadow Surgeons]]
 
 ## Notes

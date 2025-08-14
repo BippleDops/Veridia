@@ -1,21 +1,27 @@
+# dark-gift-of-fekre-queen-of-poxes-cos
+
 ---
+title: dark gift of fekre queen of poxes cos
 aliases:
 - Dark Gift of Fekre, Queen of Poxes
-created: 2025-07-23
-cssclasses: json5e-reward
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- active
+- ttrpg-cli/reward/charm
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/cos
-- ttrpg-cli/reward/charm
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-reward
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.715600'
 world: Both
 ---
+
 
 # Dark Gift of Fekre, Queen of Poxes
 *Charm*  
@@ -45,3 +51,8 @@ Legends speak of dark gift of fekre queen of poxes cos as a nexus where past and
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

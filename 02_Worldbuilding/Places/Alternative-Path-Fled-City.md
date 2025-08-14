@@ -1,29 +1,36 @@
 ---
+title: Alternative Path Fled City
+type: Location
+tags:
+- status/complete
+- alternative-community
+- content/location
+- freedom
+- rebellion
+- world/aethermoor
+- place
+- location
+- complete
+- active
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Alternative Settlement
 MyContainer: None
 altitude: 8,000-12,000 feet
 category: Refugee Settlement
-created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 difficulty: Levels 4-10
 obsidianUIMode: preview
 owner: Free Council of Refugees
-status: complete
-tags:
-- aethermoor
-- alternative-community
-- complete
-- content/location
-- freedom
-- location
-- rebellion
-- status/complete
-- world/aethermoor
-type: Location
 updated: '2025-08-13T12:34:17.216839+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View
@@ -454,6 +461,27 @@ Legends speak of Alternative Path Fled City as a nexus where past and present co
 - An NPC seeks discreet help at Alternative Path Fled City to avert a public scandal.
 - A map overlay reveals a hidden approach to Alternative Path Fled City active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -468,3 +496,86 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Aethermoor]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+Alternative-Path-Fled-City is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Alternative-Path-Fled-City
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Alternative-Path-Fled-City was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Alternative-Path-Fled-City:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Alternative-Path-Fled-City
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

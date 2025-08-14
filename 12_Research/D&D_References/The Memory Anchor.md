@@ -1,15 +1,21 @@
+# The Memory Anchor
+
 ---
-tags:
-- active
-- aquabyssos
-- lore
-- magical-barrier-fortress
+title: The Memory Anchor
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- magical-barrier-fortress
+- research
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.332350+00:00'
 ---
+
 
 
 
@@ -48,3 +54,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Lock]]
+
+
+## Related
+
+*Links to related content will be added here.*

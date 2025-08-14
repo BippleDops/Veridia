@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Quest   Corruption in the Temple
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Quests/Quest - Corruption in the Temple
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Brother Marcus Steelbane]]
+- [[Brother Marcus Steelbane]]
 - [[02_Worldbuilding/People/Brother Marcus Steelbane]]
 
 ## Notes
@@ -36,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Corrupted Clients]]
+- [[Shadow Guard Units]]
+- [[04_Resources_Assets_Locations_location-city-ambassador-lysandra-silvertonge-ambassador-lysandra-silvertonge.svg]]
+- [[#Royal & Noble Characters]]
+- [[04_Resources_Assets_Locations_location-city-terminal-master-hadrian-depthbridge-v1-terminal-master-hadrian-depthbridge.svg]]
+
+
+## Important Locations
+
+- [[Deepstone]]
+- [[04_Resources_Assets_Locations_location-city-the-evolution-district-the-evolution-district.svg]]
+- [[The Diplomatic Quarter]]

@@ -1,33 +1,37 @@
 ---
+title: Consequence Chain 5   Marina Identity Revelation
+type: Lore
+tags:
+- lore
+- cross-realm-bloodline
+- session-notes
+- status/complete
+- aquatic
+- both worlds
+- quest
+- content/lore
+- diplomatic-revolution
+- world/both
+- active
+- campaign/arc
+- combat
+- complete
+- identity-crisis
+- world/aquabyssos
+- world/aethermoor
+- crystal-enhanced
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 magnitude: 3
 primary_sessions:
 - 'Session 04: The Silverscale Gambit'
 - 'Session 08: Between Two Worlds'
-status: complete
-tags:
-- combat
-- quest
-- session-notes
-- crystal-enhanced
-- aquatic
-- both worlds
-- campaign/arc
-- complete
-- content/lore
-- cross-realm-bloodline
-- diplomatic-revolution
-- identity-crisis
-- lore
-- status/complete
-- world/aethermoor
-- world/aquabyssos
-- world/both
-type: Lore
 updated: '2025-08-13T12:34:15.832449+00:00'
 visibility: 3
 world: Both Worlds
 ---
+
 
 
 # Consequence Chain 5: Marina's Identity Revelation
@@ -45,10 +49,10 @@ world: Both Worlds
 - Chose to support Marina's mission rather than expose her to authorities
 
 **Who was directly affected:**
-- **[[12_Research/D&D_References/Marina-Red-Tide-Coralheart]]**: False identity abandoned, true mission revealed
-- **[[12_Research/D&D_References/Depth Guard]]**: Covert organization forced into partial exposure
-- **[[12_Research/D&D_References/Silverscale Consortium]]**: Lost valuable intelligence asset, operations compromised
-- **[[12_Research/D&D_References/Queen Seraphina Lumengarde]]**: Gained unofficial diplomatic contact with Aquabyssos
+- **[[Marina-Red-Tide-Coralheart]]**: False identity abandoned, true mission revealed
+- **[[Depth Guard]]**: Covert organization forced into partial exposure
+- **[[Silverscale Consortium]]**: Lost valuable intelligence asset, operations compromised
+- **[[Queen Seraphina Lumengarde]]**: Gained unofficial diplomatic contact with Aquabyssos
 - **Party members**: Became first surface dwellers with official Depth Guard recognition
 - **Cross-realm trade networks**: Legitimacy questions raised about "smuggling" operations
 
@@ -97,7 +101,7 @@ world: Both Worlds
 ## Secondary Ripples (Weeks/Months)
 
 **Faction realignments:**
-- **[[12_Research/D&D_References/Depth Guard]]** emerged from secrecy as legitimate organization
+- **[[Depth Guard]]** emerged from secrecy as legitimate organization
 - **Cross-realm advocacy groups** formed to support dual-heritage individuals
 - **Traditional isolationist factions** opposed increased inter-dimensional contact
 - **Academic institutions** established underwater studies programs
@@ -196,9 +200,9 @@ world: Both Worlds
 
 ### Links to Other Major Events
 
-- **[[12_Research/D&D_References/Consequence Chain 2 - Crystal Trade Disruption]]**: Marina's intelligence crucial for exposing Silverscale
-- **[[12_Research/D&D_References/Consequence Chain 3 - Reality Merger Diplomatic Crisis]]**: Marina's bloodline enabled merger negotiations
-- **[[12_Research/D&D_References/Consequence Chain 4 - Deep Mother Awakening]]**: Depth Guard knowledge facilitated cosmic contact
+- **[[Consequence Chain 2 - Crystal Trade Disruption]]**: Marina's intelligence crucial for exposing Silverscale
+- **[[Consequence Chain 3 - Reality Merger Diplomatic Crisis]]**: Marina's bloodline enabled merger negotiations
+- **[[Consequence Chain 4 - Deep Mother Awakening]]**: Depth Guard knowledge facilitated cosmic contact
 - **Cross-realm security cooperation**: Joint intelligence preventing future conspiracies
 
 ### Institutional Developments
@@ -236,17 +240,17 @@ world: Both Worlds
 ---
 
 *"I spent years lying about who I was to protect two worlds. The day I told the truth was the day both worlds started becoming one. Sometimes honesty is the greatest revolution you can start."*
-— [[12_Research/D&D_References/Marina-Red-Tide-Coralheart]], First Cross-Realm Diplomatic Advisor
+— [[Marina-Red-Tide-Coralheart]], First Cross-Realm Diplomatic Advisor
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Campaign Consequence Tracking Framework]]
+- [[Campaign Consequence Tracking Framework]]
 - [[12_Research/D&D_Statblocks/Aethermoor - Session 04 The Silverscale Gambit]]
 - [[1-Session Journals/Aethermoor - Session 08 Between Two Worlds]]
-- [[12_Research/D&D_References/Marina-Red-Tide-Coralheart]]
-- [[12_Research/D&D_References/Depth Guard]]
+- [[Marina-Red-Tide-Coralheart]]
+- [[Depth Guard]]
 - [[Cross-Realm Diplomatic Relations]]
-- [[12_Research/D&D_References/Political Intrigue Master Index]]
+- [[Political Intrigue Master Index]]
 - [[Cultural Exchange Programs]]
 
 ## Related

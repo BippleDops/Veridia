@@ -1,25 +1,32 @@
+# Lady Vivienne the Unfrozen
+
 ---
+title: Lady Vivienne the Unfrozen
+type: Location
 tags:
 - aquabyssos
-- complete
-- frozen
-- location
+- time-magic
 - mansion
 - noble-estate
-- temporal
-- time-magic
+- research
+- frozen
+- active
+- location
+- complete
 - tragedy
+- temporal
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Noble Estate
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -282,3 +289,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

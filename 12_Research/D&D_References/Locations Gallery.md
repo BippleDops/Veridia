@@ -1,5 +1,17 @@
 # Locations Gallery
 
+---
+title: Locations Gallery
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
+# Locations Gallery
+
 %% Use reading mode for visual gallery %%
 
 ## location-city-aboleth-adjunct-yzz-aboleth-adjunct-yzz
@@ -6825,3 +6837,8 @@ Life in Locations Gallery follows the rhythms of mixed culture, with the communi
 **Weekly Patterns**: Regular market days, cultural events, and community gatherings
 **Seasonal Celebrations**: Traditional festivals and ceremonies marking significant periods
 **Special Events**: Unique local celebrations and important community milestones
+
+
+## Related
+
+*Links to related content will be added here.*

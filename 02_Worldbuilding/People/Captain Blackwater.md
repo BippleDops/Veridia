@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Captain Blackwater
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.474422+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -305,6 +313,103 @@ Legends speak of Captain Blackwater as a nexus where past and present converge. 
 - An NPC seeks discreet help at Captain Blackwater to avert a public scandal.
 - A map overlay reveals a hidden approach to Captain Blackwater active only during specific tides/storms.
 
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Protecting loved ones
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Deep and resonant
+
+**Speech Pattern**: Carefully chosen words
+
+**Physical Habits**: Paces while speaking
+
+## Current Activities
+
+Captain Blackwater is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Captain Blackwater needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Captain Blackwater stopped or removed
+3. **The Secret**: Information about Captain Blackwater's past surfaces
+4. **The Alliance**: Opportunity to work with or against Captain Blackwater
+5. **The Crisis**: Captain Blackwater is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -315,6 +420,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Portraits_portrait-npc-lord-chancellor-prism-lord-chancellor-prism.svg]]: *mentor*
+- [[04_Resources_Assets_Symbols_symbol-heraldry-navigation-geography-navigation-geography.svg]]: *mentor*
+- [[04_Resources_Assets_Locations_location-city-master-curator-pearl-artflow-master-curator-pearl-artflow.svg]]: *sworn enemy*
+- [[04_Resources_Assets_Locations_location-city-grief-overwhelming-syndrome-v1-grief-overwhelming-syndrome.svg]]: *childhood friend*
 
 ## Connections
 

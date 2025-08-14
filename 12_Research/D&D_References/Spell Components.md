@@ -1,22 +1,29 @@
+# Spell Components
+
 ---
+title: Spell Components
+type: Lore
+tags:
+- lore
+- aquabyssos
+- both
+- magic
+- worldbuilding
+- research
+- active
+- underwater
+- complete
+- spell-components
+- materials
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
-tags:
-- aquabyssos
-- both
-- complete
-- lore
-- magic
-- materials
-- spell-components
-- underwater
-- worldbuilding
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
-created: '2025-08-11'
-type: Lore
 ---
+
 
 
 

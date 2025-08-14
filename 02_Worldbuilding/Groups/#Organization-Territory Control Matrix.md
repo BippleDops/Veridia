@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: '#Organization Territory Control Matrix'
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+![#Organization-Territory Control Matrix](../../04_Resources/Assets/Generated/Misc/_organization_territory_control_matrix.png)
+
+
 
 # #Organization-Territory Control Matrix
 
@@ -24,7 +34,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix]]
 
 ## Notes
 

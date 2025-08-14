@@ -1,26 +1,31 @@
+# Mordenkainens Magnificent Mansion Xphb
+
 ---
+title: Mordenkainens Magnificent Mansion Xphb
 aliases:
 - Mordenkainen's Magnificent Mansion
-classes:
-- Bard
-- Wizard
-created: 2025-07-23
-cssclasses: json5e-spell
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
 - mechanics/magic
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+classes:
+- Bard
+- Wizard
+cssclasses: json5e-spell
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:06.387580+00:00'
 world: Both
 ---
+
 
 
 # Mordenkainen's Magnificent Mansion
@@ -65,3 +70,8 @@ Legends speak of mordenkainens magnificent mansion xphb as a nexus where past an
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

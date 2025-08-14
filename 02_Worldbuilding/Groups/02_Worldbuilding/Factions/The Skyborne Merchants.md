@@ -1,13 +1,24 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: The Skyborne Merchants
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+- aethermoor
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+![02_Worldbuilding/Factions/The Skyborne Merchants](../../../../04_Resources/Assets/Generated/Misc/02_worldbuilding_factions_the_skyborne_merchants.png)
+
+
 
 # 02_Worldbuilding/Factions/The Skyborne Merchants
 
@@ -24,9 +35,9 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/System Cli Items Weapons]]
-- [[12_Research/D&D_References/System Cli Items Weapons]]
-- [[12_Research/D&D_References/System Cli Spells School Illusion]]
+- [[System Cli Items Weapons]]
+- [[System Cli Items Weapons]]
+- [[System Cli Spells School Illusion]]
 
 ## Notes
 

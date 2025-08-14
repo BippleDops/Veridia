@@ -1,22 +1,29 @@
+# Citizens of Meridian
+
 ---
+title: Citizens of Meridian
+type: Lore
+tags:
+- lore
+- meridian
+- both
+- society
+- worldbuilding
+- research
+- active
+- complete
+- citizens
+- aethermoor
+- population
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
-tags:
-- aethermoor
-- both
-- citizens
-- complete
-- lore
-- meridian
-- population
-- society
-- worldbuilding
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
-created: '2025-08-11'
-type: Lore
 ---
+
 
 
 

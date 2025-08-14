@@ -1,21 +1,27 @@
+# Vehicles - Merger Hybrid Vehicles
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/mechanics
-- mechanics
-- merger
-- paradox
-- status/complete
-- vehicles
-- world/both
 title: Merger Hybrid Vehicles
 type: Mechanics
+tags:
+- both
+- status/complete
+- merger
+- mechanics
+- vehicles
+- research
+- world/both
+- active
+- complete
+- content/mechanics
+- paradox
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.804167+00:00'
 world: Both
 ---
+
 
 
 
@@ -75,3 +81,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Merger_Events_Pack_D|06 GM Resources/Travel/Events/Merger Events Pack D]]
+
+
+## Related
+
+*Links to related content will be added here.*

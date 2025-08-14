@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Worker organization movements
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
 
 # Worker organization movements
 
@@ -24,8 +31,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Consequence Chain 2 - Crystal Trade Disruption]]
-- [[12_Research/D&D_References/Consequence Chain 2 - Crystal Trade Disruption 3]]
+- [[Consequence Chain 2 - Crystal Trade Disruption]]
+- [[Consequence Chain 2 - Crystal Trade Disruption 3]]
 - [[02_Worldbuilding/Lore/Consequence Chain 2 - Crystal Trade Disruption]]
 
 ## Notes
@@ -37,3 +44,8 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[04_Resources_Assets_Locations_location-city-ambassador-lysandra-silvertonge-ambassador-lysandra-silvertonge.svg]]
+- [[04_Resources_Assets_Locations_location-city-master-thorek-crystalhammer-master-thorek-crystalhammer.svg]]

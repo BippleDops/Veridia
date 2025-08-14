@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 07
 type: adventure
-status: active
 tags:
-- combat
-- session-notes
-- shadow-touched
 - adventure
+- session-notes
+- quest
+- active
+- combat
+- shadow-touched
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 07: [Political Crisis]
 
@@ -73,3 +79,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
+
+
+## Key NPCs
+
+- [[04_Resources_Assets_Locations_location-city-professor-marina-reefbuilder-professor-marina-reefbuilder.svg]]
+- [[Ice Kingdom Magic]]
+- [[Quest - The Corruption Files]]
+- [[Quest - The Voice Beneath]]
+- [[The Barnacle]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Portraits_portrait-npc-sir-marcus-dawnforge-sir-marcus-dawnforge.svg]]
+- [[04_Resources_Assets_Locations_location-city-international-trade-international-trade.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-priest-faith-crystalsong-priest-faith-crystalsong.svg]]

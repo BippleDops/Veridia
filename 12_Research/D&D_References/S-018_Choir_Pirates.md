@@ -1,19 +1,25 @@
+# S-018_Choir_Pirates
+
 ---
 title: "Encounter Sheet \u2014 S-018 Choir Pirates"
 type: gm_resource
-status: complete
 tags:
 - both
-- complete
 - encounter
 - faction
 - gm
+- research
+- active
 - gm_resource
+- complete
 - sky
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.141083+00:00'
 world: Both
 ---
+
 
 
 # S-018 Choir Pirates
@@ -65,3 +71,8 @@ Legends speak of S 018 Choir Pirates as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

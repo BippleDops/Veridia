@@ -1,13 +1,18 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Aquabyssos Cultural Codex
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
+- aquabyssos
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Aquabyssos_Cultural_Codex
 
@@ -24,9 +29,9 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Aquabyssos_Character_Backgrounds]]
-- [[12_Research/D&D_References/Names_and_Languages_Reference]]
-- [[12_Research/D&D_References/Memory_Magic_Reference]]
+- [[Aquabyssos_Character_Backgrounds]]
+- [[Names_and_Languages_Reference]]
+- [[Memory_Magic_Reference]]
 - [[12_Research/D&D_Statblocks/Social_Encounter_Reference]]
 
 ## Notes

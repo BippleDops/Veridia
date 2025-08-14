@@ -1,31 +1,38 @@
+# Session 1 the Queens Summons
+
 ---
-adventure: Winds of Rebellion
-created: '2025-08-11'
-estimated_duration: 4-5 hours
-level_range: 4-6
-session_number: 1
-session_type: Introduction & Social Intrigue
-status: complete
+title: Session 1 the Queens Summons
+type: Npc
 tags:
-- aethermoor
-- complete
 - content/adventure
-- content/npc
 - court-politics
 - levels-4-6
 - npc
 - political-intrigue
-- status/in-progress
+- research
+- content/npc
 - world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+session_number: 1
+adventure: Winds of Rebellion
+estimated_duration: 4-5 hours
+level_range: 4-6
+session_type: Introduction & Social Intrigue
 themes:
 - first-impressions
 - court-politics
 - hidden-agendas
 - faction-introductions
-type: Npc
 updated: '2025-08-13T12:34:17.822480+00:00'
 world: Aethermoor
 ---
+
 
 
 

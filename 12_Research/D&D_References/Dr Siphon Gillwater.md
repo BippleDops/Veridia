@@ -1,4 +1,20 @@
+# Dr Siphon Gillwater
+
 ---
+title: Dr Siphon Gillwater
+type: Location
+tags:
+- aquabyssos
+- status/complete
+- research
+- content/location
+- active
+- location
+- complete
+- world/aquabyssos
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 accessibility:
   content_warnings:
   - political coercion
@@ -11,20 +27,11 @@ accessibility:
   screen_reader_summary: Dr. Siphon Gillwater is a notable location in Aquabyssos
     shaped by tidal politics and Convergence anomalies. This entry is structured for
     fast table use.
-created: '2025-08-11'
 obsidianUIMode: preview
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/location
-- location
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.836123+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -87,3 +94,8 @@ Legends speak of Dr. Siphon Gillwater as a nexus where past and present converge
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,11 +1,18 @@
+# Critical_Role
+
 ---
-created: 2025-08-14
+title: Critical Role
 type: research
 tags:
-- actual-play
 - critical-role
+- actual-play
+- research
+- active
 - reference
+created: 2025-08-14
+modified: '2025-08-14'
 ---
+
 
 # Critical Role Campaigns - Reference Links
 
@@ -42,3 +49,8 @@ tags:
 
 ---
 *Reference material for campaign inspiration*
+
+
+## Related
+
+*Links to related content will be added here.*

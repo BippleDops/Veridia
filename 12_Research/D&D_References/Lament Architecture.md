@@ -1,15 +1,21 @@
+# Lament Architecture
+
 ---
-tags:
-- active
-- both
-- location
+title: Lament Architecture
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.542574+00:00'
 danger_level: Moderate
 ---
+
 
 
 
@@ -56,3 +62,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Lament Architecture|02 Worldbuilding/Places/Lament Architecture]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

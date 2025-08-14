@@ -1,26 +1,33 @@
+# Depth Warden Patrol
+
 ---
+title: Depth Warden Patrol
+type: Location
 tags:
 - aquabyssos
-- complete
-- depth-wardens
 - encounter
-- law-enforcement
-- location
-- mobile-unit
+- depth-wardens
+- research
 - patrol
 - security
+- active
+- location
+- complete
+- mobile-unit
+- law-enforcement
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 category: Mobile Patrol Unit
 danger_level: Variable
 encounter_type: Social/Combat
 frequency: Common
 location_type: Any depth zone
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.344084+00:00'
 ---
+
 
 
 
@@ -482,3 +489,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 - [[Port Meridian]]
+
+
+## Related
+
+*Links to related content will be added here.*

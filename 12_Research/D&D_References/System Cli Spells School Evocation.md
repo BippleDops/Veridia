@@ -1,30 +1,37 @@
+# System Cli Spells School Evocation
+
 ---
-complexity: Fundamental to Catastrophic
+title: System Cli Spells School Evocation
+type: Lore
+tags:
+- lore
+- destruction
+- status/complete
+- evocation
+- mechanics/magic
+- both worlds
+- content/lore
+- world/both
+- energy
+- research
+- active
+- force
+- complete
+- world/aquabyssos
+- content/mechanics
+- world/aethermoor
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+complexity: Fundamental to Catastrophic
 created_by: auto-stub
 focus: Destructive and Energy Manipulation Magic
 practitioners: Battle mages, energy manipulators, destroyers
 school: Evocation
-status: complete
-tags:
-- both worlds
-- complete
-- content/lore
-- content/mechanics
-- destruction
-- energy
-- evocation
-- force
-- lore
-- mechanics/magic
-- status/complete
-- world/aethermoor
-- world/aquabyssos
-- world/both
-type: Lore
 updated: '2025-08-13T12:34:29.192845+00:00'
 world: Both Worlds
 ---
+
 
 
 
@@ -292,3 +299,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

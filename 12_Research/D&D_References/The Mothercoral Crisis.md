@@ -1,19 +1,26 @@
+# The Mothercoral Crisis
+
 ---
+title: The Mothercoral Crisis
+type: Location
 tags:
 - aquabyssos
 - biological
-- community-impact
-- complete
-- coral-reef
-- crisis
-- environmental
 - investigation
-- location
-- quest
+- environmental
+- community-impact
+- coral-reef
 - time-sensitive
+- quest
+- research
+- crisis
+- active
+- location
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 category: Environmental Crisis
 quest_type: Investigation/Environmental Rescue
 level_range: 5-8
@@ -22,13 +29,13 @@ duration: 3-5 sessions
 difficulty: Moderate to Hard
 primary_location: '[[Coral Courts]] and surrounding reef systems'
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.352295+00:00'
 MyContainer: None
 MyCategory: Environmental Quest
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -288,3 +295,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Mothercoral Crisis|02 Worldbuilding/Places/The Mothercoral Crisis]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

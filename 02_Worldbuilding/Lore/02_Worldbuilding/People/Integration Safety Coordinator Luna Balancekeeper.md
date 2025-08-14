@@ -1,13 +1,22 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Integration Safety Coordinator Luna Balancekeeper
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- npc
+- character
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+race: Unknown
+class: Unknown
+location: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/People/Integration Safety Coordinator Luna Balancekeeper
 
@@ -24,7 +33,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Shadow Magic Integration Practices]]
+- [[Shadow Magic Integration Practices]]
 - [[02_Worldbuilding/Lore/Shadow Magic Integration Practices]]
 
 ## Notes

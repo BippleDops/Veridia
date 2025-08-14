@@ -1,15 +1,21 @@
+# Financial Institutions
+
 ---
-tags:
-- active
-- both
-- location
+title: Financial Institutions
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.483056+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-financial-institutions-financial-institutions.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Financial Institutions|02 Worldbuilding/Places/Financial Institutions]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

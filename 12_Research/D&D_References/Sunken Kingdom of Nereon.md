@@ -1,14 +1,20 @@
+# Sunken Kingdom of Nereon
+
 ---
-tags:
-- active
-- aquabyssos
-- npc
+title: Sunken Kingdom of Nereon
 type: NPC
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.929727+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-sunken-kingdom-of-nereon-sunken-kingdom-of-nereon.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Memory Merchant Zephyr Mindweaver]]
+
+
+## Related
+
+*Links to related content will be added here.*

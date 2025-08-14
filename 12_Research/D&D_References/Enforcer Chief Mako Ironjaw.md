@@ -1,14 +1,20 @@
+# Enforcer Chief Mako Ironjaw
+
 ---
+title: Enforcer Chief Mako Ironjaw
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 world: Both
 updated: '2025-08-13T01:18:37.018758+00:00'
-created: '2025-08-11'
-status: active
-tags:
-- active
-- both
-- npc
-type: NPC
 ---
+
 
 
 
@@ -196,3 +202,8 @@ Legends speak of Enforcer Chief Mako Ironjaw as a nexus where past and present c
 - [[Enforcer Chief Mako Ironjaw|02 Worldbuilding/People/Enforcer Chief Mako Ironjaw]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

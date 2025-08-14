@@ -1,34 +1,41 @@
+# Abyssal Cathedral
+
 ---
+title: Abyssal Cathedral
+type: Npc
+tags:
+- aquabyssos
+- biomancer
+- status/complete
+- abyssal
+- npc
+- research
+- content/npc
+- active
+- campaign/arc
+- complete
+- corrupted
+- world/aquabyssos
+- content/template
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+race: Aberrant Merfolk
+class: Aberrant Mind Sorcerer/Conjuration Wizard
+location: '[[The Ossuary Gardens]] - Living Architecture Wing'
+level: 16
 MyCategory: NPC
 MyContainer: None
 affiliation: '[[The Biomancers]] - Master Shaper'
 age: '347'
 alignment: Chaotic Neutral
-class: Aberrant Mind Sorcerer/Conjuration Wizard
-created: '2025-08-08'
 created_by: auto-stub
-level: 16
-location: '[[The Ossuary Gardens]] - Living Architecture Wing'
 obsidianUIMode: preview
-race: Aberrant Merfolk
 role: Living Architect
-status: complete
-tags:
-- abyssal
-- aquabyssos
-- biomancer
-- campaign/arc
-- complete
-- content/npc
-- content/template
-- corrupted
-- npc
-- status/complete
-- world/aquabyssos
-type: Npc
 updated: '2025-08-13T12:34:17.559401+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -311,3 +318,8 @@ Legends speak of Abyssal Cathedral as a nexus where past and present converge. L
 
 - [[Memory Harvester Kythara]]
 - [[Parliament of Echoes]]
+
+
+## Related
+
+*Links to related content will be added here.*

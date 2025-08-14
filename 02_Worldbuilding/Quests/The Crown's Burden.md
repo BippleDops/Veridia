@@ -1,17 +1,23 @@
+# The Crown's Burden
+
 ---
+title: The Crown's Burden
 type: Lore
-status: complete
 tags:
-- crystal-enhanced
-- shadow-touched
-- active
-- aethermoor
-- curse
 - lore
-- moral-choice
 - psychological
-- quest
 - royalty
+- worldbuilding
+- moral-choice
+- quest
+- active
+- curse
+- aethermoor
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 quest_status: Available
 quest_priority: High
 quest_type: Character Quest
@@ -21,12 +27,12 @@ quest_giver: Queen Seraphina Lumengarde
 rewards: Royal Blessing, Curse Removal, Ancient Knowledge
 time_limit: Before the Queen's Mind Breaks (21 days)
 created_by: system
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.473763+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 ---
+
 
 
 # The Crown's Burden
@@ -35,7 +41,7 @@ obsidianUIMode: preview
 
 ## Quest Overview
 
-[[12_Research/D&D_References/Queen Seraphina Lumengarde]] is dying—not physically, but mentally. The Crown of Aethermoor carries a terrible secret: it contains the accumulated consciousness of every monarch who has ever worn it. Their memories, regrets, triumphs, and madnesses all press against the current ruler's mind. After decades of rule, the Queen's psyche is fracturing under the weight of a thousand royal souls. She secretly seeks heroes to either lift this burden or help her bear it before she descends into the same madness that claimed her predecessors.
+[[Queen Seraphina Lumengarde]] is dying—not physically, but mentally. The Crown of Aethermoor carries a terrible secret: it contains the accumulated consciousness of every monarch who has ever worn it. Their memories, regrets, triumphs, and madnesses all press against the current ruler's mind. After decades of rule, the Queen's psyche is fracturing under the weight of a thousand royal souls. She secretly seeks heroes to either lift this burden or help her bear it before she descends into the same madness that claimed her predecessors.
 
 This deeply personal quest explores themes of leadership, sacrifice, and the price of power. The party must navigate not just physical dangers but the labyrinthine depths of royal memory, confronting the ghosts of history and the weight of responsibility that comes with absolute authority.
 
@@ -194,7 +200,7 @@ While party explores Queen's mind, crisis erupts outside:
 - Common people riot from confusion
 
 **Shadow Opportunity**:
-The [[12_Research/D&D_References/Shadow-Crystal Synthesis]] sends agents to steal the weakened Crown, planning to corrupt it into a tool of mass mind control.
+The [[Shadow-Crystal Synthesis]] sends agents to steal the weakened Crown, planning to corrupt it into a tool of mass mind control.
 
 **Time Pressure**:
 Each day spent in the mindscape, the Queen deteriorates:
@@ -486,19 +492,19 @@ Seraphina has been pregnant this entire time, hiding it even from herself.
 - [[12_Research/D&D_Statblocks/Quest - The Pretender's Crown]]
 - [[12_Research/D&D_Statblocks/Quest - Divine Intervention]]
 - [[12_Research/D&D_Statblocks/Quest - The Crown Reborn]]
-- [[12_Research/D&D_References/The Convergence Crisis]]
+- [[The Convergence Crisis]]
 
 ### Key Locations
 
-- [[12_Research/D&D_References/Crystal Palace]]
-- [[12_Research/D&D_References/The Throne Room]]
-- [[12_Research/D&D_References/Royal Archives]]
-- [[12_Research/D&D_References/The Crystal Heart Chamber]]
+- [[Crystal Palace]]
+- [[The Throne Room]]
+- [[Royal Archives]]
+- [[The Crystal Heart Chamber]]
 - [[12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweaver]]
 
 ### Important NPCs
 
-- [[12_Research/D&D_References/Queen Seraphina Lumengarde]]
+- [[Queen Seraphina Lumengarde]]
 - [[12_Research/D&D_Statblocks/High Priestess Celeste Dawnbringer]]
 - [[12_Research/D&D_Statblocks/The Nameless Auditor]]
 - [[12_Research/D&D_Statblocks/Memory Harvester Kythara]]
@@ -506,11 +512,11 @@ Seraphina has been pregnant this entire time, hiding it even from herself.
 
 ### Relevant Items
 
-- [[12_Research/D&D_References/Crown of Aethermoor]]
-- [[12_Research/D&D_References/Memory Crystals]]
-- [[12_Research/D&D_References/Royal Regalia]]
-- [[12_Research/D&D_References/Psychic Shields]]
-- [[12_Research/D&D_References/The First King's Diary]]
+- [[Crown of Aethermoor]]
+- [[Memory Crystals]]
+- [[Royal Regalia]]
+- [[Psychic Shields]]
+- [[The First King's Diary]]
 
 ## Player-Facing Summary
 

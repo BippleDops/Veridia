@@ -1,15 +1,21 @@
+# Shadow Portal Nexus
+
 ---
-tags:
-- active
-- aethermoor
-- location
+title: Shadow Portal Nexus
 type: Location
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:35.955941+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-shadow-portal-nexus-shadow-portal-nexus.svg]]
@@ -79,3 +85,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[githzerai-groups-githzerai-group-leader-mtf]]
 - [[guild-artisan]]
 - [[guild-artisan-guild-merchant-variant]]
+
+
+## Related
+
+*Links to related content will be added here.*

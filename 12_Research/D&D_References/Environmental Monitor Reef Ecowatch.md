@@ -1,15 +1,21 @@
+# Environmental Monitor Reef Ecowatch
+
 ---
-tags:
-- active
-- aquabyssos
-- location
+title: Environmental Monitor Reef Ecowatch
 type: Location
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.502165+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-environmental-monitor-reef-ecowatch-environmental-monitor-reef-ecowatch.svg]]
@@ -66,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Deep Harvest]]
+
+
+## Related
+
+*Links to related content will be added here.*

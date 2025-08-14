@@ -1,20 +1,27 @@
 ---
-created: '2025-08-12'
-status: complete
+title: Reality Anchor Network
+type: Location
 tags:
-- both worlds
-- complete
-- content/location
-- content/template
-- location
 - mechanics/skill
 - reality-anchors
 - status/complete
+- both worlds
 - world/both
-type: Location
+- content/location
+- place
+- active
+- location
+- complete
+- content/template
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 updated: '2025-08-13T12:34:16.951310+00:00'
 world: Both Worlds
 ---
+
 
 
 > [!figure] View
@@ -326,6 +333,27 @@ Each anchor station serves as both a technical marvel and a fortress, protecting
 - **Cultural Impact**: Network operations promoting cultural understanding and cooperation
 - **Strategic Importance**: Network becoming central to both realms' long-term security and prosperity
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 ### Running Reality Anchor Adventures
@@ -380,3 +408,97 @@ Legends speak of Reality Anchor Network as a nexus where past and present conver
 - [[Reality Anchor Network]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- [[04_Resources_Assets_Locations_location-city-master-jeweler-sapphire-delicatehand-master-jeweler-sapphire-delicatehand.svg]]
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-security-chief-wade-peacekeep-security-chief-wade-peacekeep.svg]]
+- [[The First Truth]]
+- [[04_Resources_Assets_Locations_location-city-whisper-translation-v1-whisper-translation.svg]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+Reality Anchor Network is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Reality Anchor Network
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Reality Anchor Network was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Reality Anchor Network:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Reality Anchor Network
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

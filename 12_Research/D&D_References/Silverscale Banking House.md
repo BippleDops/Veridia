@@ -1,14 +1,20 @@
+# Silverscale Banking House
+
 ---
-updated: '2025-08-13T01:18:35.334640+00:00'
-created: '2025-08-12'
-tags:
-- aethermoor
-- category/lore
-- complete
-- lore
-status: complete
-world: Aethermoor
+title: Silverscale Banking House
 type: lore
+tags:
+- lore
+- category/lore
+- research
+- active
+- complete
+- aethermoor
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+updated: '2025-08-13T01:18:35.334640+00:00'
+world: Aethermoor
 obsidianUIMode: preview
 accessibility:
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -19,6 +25,7 @@ accessibility:
   - Lines & Veils
   - X-Card
 ---
+
 
 
 
@@ -83,3 +90,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Aethermoor - Session 04 The Silverscale Gambit]]
 - [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
+
+
+## Related
+
+*Links to related content will be added here.*

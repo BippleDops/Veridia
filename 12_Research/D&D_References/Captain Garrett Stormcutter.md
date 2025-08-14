@@ -1,23 +1,30 @@
+# Captain Garrett Stormcutter
+
 ---
-tags:
-- alive
-- both
-- category/people
-- free_current
-- merchant
-- npc
-- smuggler
+title: Captain Garrett Stormcutter
 aliases:
 - Captain Stormcutter
 - The Honest Smuggler
 - Garrett
+type: NPC
+tags:
+- both
+- alive
+- npc
+- research
+- active
+- smuggler
+- category/people
+- merchant
+- free_current
 created: '2024-12-19'
-image: 04_Resources/Assets/NPCs/garrett_stormcutter.jpg
-level: 11
-class: Rogue/Fighter
-race: Surface-Preserved Human
-alignment: Chaotic Good
+modified: '2025-08-14'
 status: Alive
+race: Surface-Preserved Human
+class: Rogue/Fighter
+level: 11
+image: 04_Resources/Assets/NPCs/garrett_stormcutter.jpg
+alignment: Chaotic Good
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
@@ -40,8 +47,8 @@ current_hp: 15
 max_hp: 20
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
-type: NPC
 ---
+
 
 
 > [!figure] Portrait
@@ -213,3 +220,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Harbor Master Luna Freedrift]]
 - [[Merchant Delilah Currentrunner]]
 - [[The Free Current]]
+
+
+## Related
+
+*Links to related content will be added here.*

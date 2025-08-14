@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: The Crystal Artisans Guild
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
 
 # The Crystal Artisans Guild
 
@@ -24,8 +31,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Crystal Festival 3]]
-- [[12_Research/D&D_References/The Crystal Festival]]
+- [[The Crystal Festival 3]]
+- [[The Crystal Festival]]
 - [[02_Worldbuilding/Lore/The Crystal Festival]]
 
 ## Notes
@@ -37,3 +44,7 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[04_Resources_Assets_Portraits_portrait-npc-lord-chancellor-prism-lord-chancellor-prism.svg]]

@@ -1,22 +1,27 @@
+# Welcome to Strixhaven Colleges of Strixhaven
+
 ---
+title: Welcome to Strixhaven Colleges of Strixhaven
 aliases:
 - Welcome to Strixhaven; Colleges of Strixhaven
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
+- ttrpg-cli/compendium/src/5e/scc
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/scc
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:03.374443+00:00'
 world: Both
 ---
+
 
 
 # Welcome to Strixhaven; Colleges of Strixhaven
@@ -52,3 +57,8 @@ Legends speak of welcome to strixhaven colleges of strixhaven scc as a nexus whe
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

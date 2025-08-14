@@ -1,23 +1,30 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
-danger_level: Moderate
-status: complete
+title: Pressure Suit Malfunction
+type: Location
 tags:
 - aquabyssos
-- complete
-- content/item
-- content/location
-- danger
+- status/complete
 - emergency
 - event
+- danger
+- content/location
+- place
+- active
 - location
-- status/complete
+- complete
+- content/item
 - world/aquabyssos
-type: Location
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+created_by: auto-stub
+danger_level: Moderate
 updated: '2025-08-13T12:34:17.005127+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -156,6 +163,27 @@ A critical equipment failure involving pressure suits used for deep-sea operatio
 - Citizens concerned about city's ability to protect deep-sea workers
 - International observers monitoring Aquabyssos's response to crisis
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 This crisis provides opportunities for rescue missions, investigation adventures, and exploration of themes around technology, safety, and corporate responsibility. The equipment failure can serve as background tension or central plot element depending on campaign needs.
 
@@ -183,3 +211,97 @@ Legends speak of Pressure Suit Malfunction as a nexus where past and present con
 - [[Pressure Suit Malfunction]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[The Crystal Stock Exchange]]
+- [[04_Resources_Assets_Locations_location-city-bubble-district-v1-bubble-district.svg]]
+- [[04_Resources_Assets_Locations_location-city-garden-keeper-zen-currentdancer-v1-garden-keeper-zen-currentdancer.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+Pressure Suit Malfunction is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Pressure Suit Malfunction
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Pressure Suit Malfunction was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Pressure Suit Malfunction:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Pressure Suit Malfunction
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

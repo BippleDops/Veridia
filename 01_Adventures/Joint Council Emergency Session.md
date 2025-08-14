@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Joint Council Emergency Session
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Joint Council Emergency Session
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Art_Places_Palace_Guard_Captain_Neutralis.png]]
+- [[Quest - The Admiral's Gambit]]
+- [[Crystalhaven Envoy Lord Reginald Brightspire]]
+- [[04_Resources_Assets_Locations_location-city-reef-guard-captain-torrent-shellborn-v1-reef-guard-captain-torrent-shellborn.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-commander-void-tacticia-commander-void-tacticia.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-maritime-commerce-v1-maritime-commerce.svg]]
+- [[Deepsteel]]
+- [[Location Name 2]]

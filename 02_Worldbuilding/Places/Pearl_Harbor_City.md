@@ -1,23 +1,30 @@
 ---
-created: '2025-08-11'
-danger_level: Moderate
-status: complete
+title: Pearl Harbor City
+type: Location
 tags:
-- combat
-- quest
-- crystal-enhanced
-- shadow-touched
-- aquatic
 - both
-- complete
+- aquatic
+- quest
+- world/both
 - content/location
+- place
+- active
+- combat
+- complete
 - location
 - status/in-progress
-- world/both
-type: Location
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+danger_level: Moderate
 updated: '2025-08-13T12:34:16.640901+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -39,30 +46,40 @@ Pearl Harbor City stands as Aquathys's primary connection to the surface world, 
 #### **The Locks District**
 
 A marvel of magical engineering, this area contains massive pressure-adjustment chambers that allow surface dwellers to safely descend and deep dwellers to ascend. Each lock takes 4 hours to fully cycle.
-- **Lock Master:** [[12_Research/D&D_References/Engineer Prisma Depthwright]]
-- **Security Chief:** [[12_Research/D&D_References/Captain Trawl Netcaster]]
+- **Lock Master:** [[Engineer Prisma Depthwright]]
+- **Security Chief:** [[Captain Trawl Netcaster]]
 - Notable: Black market pressure suits sold by [[The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]
 
 #### **The Float Quarter**
 
 Suspended platforms connected by bridges where air-breathing merchants can trade without full submersion. Magical air bubbles maintain breathable atmosphere.
-- **Market Overseer:** [[12_Research/D&D_References/Merchant Prince Akula]]
-- **Harbor Master:** [[12_Research/D&D_References/Old Sally Seasprayer]]
+- **Market Overseer:** [[Merchant Prince Akula]]
+- **Harbor Master:** [[Old Sally Seasprayer]]
 - Features: Emergency surface portals, translation services
 
 #### **Smuggler's Reef**
 
-Officially doesn't exist. Unofficially, everyone knows where to find anything illegal or hard to acquire. The [[12_Research/D&D_References/Coral Throne Syndicate]] runs everything here.
+Officially doesn't exist. Unofficially, everyone knows where to find anything illegal or hard to acquire. The [[Coral Throne Syndicate]] runs everything here.
 - **Shadow Boss:** Whisper Jack
 - **Fence:** [[12_Research/D&D_Statblocks/The Barnacle]]
 - Password: "The tide always turns"
 
 #### **Embassy Row**
 
-Diplomatic quarters for various factions and surface nations. Heavily warded and patrolled by [[12_Research/D&D_References/The Depth Wardens]].
-- **Surface Ambassador:** [[12_Research/D&D_References/Lord Reginald Seaworthy]]
-- **Deep Ambassador:** [[12_Research/D&D_References/Aboleth Adjunct Yzz]]
-- Neutral Ground: [[12_Research/D&D_References/The Neutral Current Tavern]]
+Diplomatic quarters for various factions and surface nations. Heavily warded and patrolled by [[The Depth Wardens]].
+- **Surface Ambassador:** [[Lord Reginald Seaworthy]]
+- **Deep Ambassador:** [[Aboleth Adjunct Yzz]]
+- Neutral Ground: [[The Neutral Current Tavern]]
+
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: Incense mingles with the scent of exotic spices
 
 ## Demographics
 
@@ -84,7 +101,7 @@ Rumors that surface diseases are spreading through the locks. [[Dr. Siphon Gillw
 
 ### The Missing Shipment
 
-A crucial delivery of [[12_Research/D&D_References/Pressure Crystals]] from [[12_Research/D&D_Statblocks/Luminous Hollow]] never arrived. Both [[Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] and [[12_Research/D&D_References/Master Smith Coral-Hammer]] are desperate to find it.
+A crucial delivery of [[Pressure Crystals]] from [[12_Research/D&D_Statblocks/Luminous Hollow]] never arrived. Both [[Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] and [[Master Smith Coral-Hammer]] are desperate to find it.
 
 ### Political Tensions
 
@@ -95,10 +112,10 @@ A crucial delivery of [[12_Research/D&D_References/Pressure Crystals]] from [[12
 ### Permanent Residents
 
 - [[The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]] - Syndicate leader
-- [[12_Research/D&D_References/Captain Marlowe Tidecrest]] - Runs portal transits
-- [[12_Research/D&D_References/Taverner Bubbles McGill]] - Information broker
-- [[12_Research/D&D_References/Master Smith Coral-Hammer]] - Pressure-forge specialist
-- [[12_Research/D&D_References/Illyana Glowstream]] - Bioluminescent enchantments
+- [[Captain Marlowe Tidecrest]] - Runs portal transits
+- [[Taverner Bubbles McGill]] - Information broker
+- [[Master Smith Coral-Hammer]] - Pressure-forge specialist
+- [[Illyana Glowstream]] - Bioluminescent enchantments
 
 ### Frequent Visitors
 
@@ -112,36 +129,36 @@ A crucial delivery of [[12_Research/D&D_References/Pressure Crystals]] from [[12
 
 | Service | Provider | Cost | Destination |
 |---------|----------|------|-------------|
-| Surface Portal | [[12_Research/D&D_References/Captain Marlowe Tidecrest]] | 50gp | [[Market_District|02 Worldbuilding/Places/Market District]] |
-| Deep Current | [[12_Research/D&D_References/Navigator Flux]] | 100gp | [[12_Research/D&D_References/Azure Citadel]] |
-| Kelp Highway | [[12_Research/D&D_References/Current Riders Guild]] | 25gp | Various depths |
+| Surface Portal | [[Captain Marlowe Tidecrest]] | 50gp | [[Market_District|02 Worldbuilding/Places/Market District]] |
+| Deep Current | [[Navigator Flux]] | 100gp | [[Azure Citadel]] |
+| Kelp Highway | [[Current Riders Guild]] | 25gp | Various depths |
 | Smuggler's Run | Whisper Jack | 200gp | Anywhere, no questions |
 
 ### Specialty Shops
 
 | Shop | Specialty | Owner | Notable Items |
 |------|-----------|-------|---------------|
-| The Pressure Forge | Depth-resistant armor | [[12_Research/D&D_References/Master Smith Coral-Hammer]] | +1 Pressure Suits |
-| Biolume Boutique | Glowing items | [[12_Research/D&D_References/Illyana Glowstream]] | Everglow Pearls |
-| Depth Delights | Exotic foods | [[12_Research/D&D_References/Chef Gastropod]] | Surface/Deep fusion |
-| The Current Exchange | Currency/Information | [[12_Research/D&D_References/The Banker Fish]] | All denominations |
+| The Pressure Forge | Depth-resistant armor | [[Master Smith Coral-Hammer]] | +1 Pressure Suits |
+| Biolume Boutique | Glowing items | [[Illyana Glowstream]] | Everglow Pearls |
+| Depth Delights | Exotic foods | [[Chef Gastropod]] | Surface/Deep fusion |
+| The Current Exchange | Currency/Information | [[The Banker Fish]] | All denominations |
 
 ## Quest Hooks
 
 1. **[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** - The Syndicate needs a sensitive package delivered
 2. **[[12_Research/D&D_Statblocks/The Lock Saboteur]]** - Someone's trying to destroy the pressure system
-3. **[[12_Research/D&D_References/Surface Tensions]]** - Diplomatic mission to establish new trade route
-4. **[[12_Research/D&D_References/The Deep Fugitive]]** - An escaped prisoner from [[12_Research/D&D_Statblocks/The Maw of Darkness]] is hiding here
+3. **[[Surface Tensions]]** - Diplomatic mission to establish new trade route
+4. **[[The Deep Fugitive]]** - An escaped prisoner from [[12_Research/D&D_Statblocks/The Maw of Darkness]] is hiding here
 
 ## Random Encounters (d20)
 
 1-5: No encounter
-6-8: [[12_Research/D&D_References/Syndicate Enforcers]] shaking down merchant
-9-11: [[12_Research/D&D_References/Surface Traders]] lost and confused
+6-8: [[Syndicate Enforcers]] shaking down merchant
+9-11: [[Surface Traders]] lost and confused
 12-13: [[12_Research/D&D_Statblocks/Depth Warden Patrol]] checking papers
-14-15: [[12_Research/D&D_References/Street Urchin Gang]] offers information
-16-17: [[12_Research/D&D_References/Pressure Suit Malfunction]] - someone needs help!
-18-19: [[12_Research/D&D_References/Black Market Deal]] going wrong
+14-15: [[Street Urchin Gang]] offers information
+16-17: [[Pressure Suit Malfunction]] - someone needs help!
+18-19: [[Black Market Deal]] going wrong
 20: [[The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]] personally appears
 
 ## Secrets
@@ -180,7 +197,7 @@ Suitable for levels 1-5. Higher-level threats exist but avoid direct confrontati
 ---
 
 *"In Pearl Harbor, everyone's swimming in the same water - just at different pressures."* 
-- [[12_Research/D&D_References/Taverner Bubbles McGill]]
+- [[Taverner Bubbles McGill]]
 
 ## Player-Facing Summary
 
@@ -196,13 +213,34 @@ Legends speak of Pearl Harbor City as a nexus where past and present converge. L
 - An NPC seeks discreet help at Pearl Harbor City to avert a public scandal.
 - A map overlay reveals a hidden approach to Pearl Harbor City active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Pearl Harbor City]]
+- [[Pearl Harbor City]]
 
 <!-- enriched: true -->
 
@@ -210,24 +248,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[12_Research/D&D_Statblocks/The Barnacle]]
-- [[12_Research/D&D_References/The Depth Wardens]]
-- [[12_Research/D&D_References/Azure Citadel]]
-- [[12_Research/D&D_References/Black Market Deal]]
-- [[12_Research/D&D_References/Captain Marlowe Tidecrest]]
-- [[12_Research/D&D_References/Chef Gastropod]]
-- [[12_Research/D&D_References/Coral Throne Syndicate]]
-- [[12_Research/D&D_References/Current Riders Guild]]
+- [[The Depth Wardens]]
+- [[Azure Citadel]]
+- [[Black Market Deal]]
+- [[Captain Marlowe Tidecrest]]
+- [[Chef Gastropod]]
+- [[Coral Throne Syndicate]]
+- [[Current Riders Guild]]
 - [[12_Research/D&D_Statblocks/Depth Warden Patrol]]
-- [[12_Research/D&D_References/Engineer Prisma Depthwright]]
-- [[12_Research/D&D_References/Illyana Glowstream]]
-- [[12_Research/D&D_References/Lord Reginald Seaworthy]]
+- [[Engineer Prisma Depthwright]]
+- [[Illyana Glowstream]]
+- [[Lord Reginald Seaworthy]]
 - [[12_Research/D&D_Statblocks/Luminous Hollow]]
-- [[12_Research/D&D_References/Pressure Suit Malfunction]]
-- [[12_Research/D&D_References/Street Urchin Gang]]
-- [[12_Research/D&D_References/Surface Tensions]]
-- [[12_Research/D&D_References/Surface Traders]]
-- [[12_Research/D&D_References/The Banker Fish]]
-- [[12_Research/D&D_References/The Deep Fugitive]]
+- [[Pressure Suit Malfunction]]
+- [[Street Urchin Gang]]
+- [[Surface Tensions]]
+- [[Surface Traders]]
+- [[The Banker Fish]]
+- [[The Deep Fugitive]]
 - [[12_Research/D&D_Statblocks/High Tidecaller Nerissa]]
 - [[12_Research/D&D_Statblocks/The Lock Saboteur]]
 - [[12_Research/D&D_Statblocks/The Maw of Darkness]]
@@ -235,3 +273,77 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[Cross-Dimensional Transit Authority]]
+- [[Artist Wave Creator]]
+- [[04_Resources_Assets_Locations_location-city-the-perfect-symbiosis-the-perfect-symbiosis.svg]]
+
+
+## Description
+
+Pearl_Harbor_City is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Pearl_Harbor_City
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Pearl_Harbor_City was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Pearl_Harbor_City
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

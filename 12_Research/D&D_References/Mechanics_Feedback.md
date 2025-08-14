@@ -1,14 +1,21 @@
+# Mechanics_Feedback
+
 ---
-created: '2025-08-13'
-status: complete
+title: Mechanics Feedback
+type: Feedback Form
 tags:
-- player/feedback
 - mechanics/review
 - rules/assessment
-type: Feedback Form
+- research
+- player/feedback
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Mechanics Feedback
 ## Help improve game systems
@@ -101,3 +108,7 @@ _______________________________________
 ```
 
 *Good mechanics enhance story without getting in the way*
+
+## Related
+
+*Links to related content will be added here.*

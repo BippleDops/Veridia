@@ -1,30 +1,37 @@
 ---
+title: Warden Marcus Stonehand
+type: Location
+tags:
+- aquabyssos
+- status/complete
+- aquatic
+- prison
+- quest
+- content/location
+- content/npc
+- place
+- active
+- campaign/arc
+- combat
+- complete
+- location
+- warden
+- world/aquabyssos
+- stonehand
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: NPC
 MyContainer: None
-created: '2025-08-12'
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
-status: complete
-tags:
-- combat
-- quest
-- aquatic
-- aquabyssos
-- campaign/arc
-- complete
-- content/location
-- content/npc
-- location
-- prison
-- status/complete
-- stonehand
-- warden
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.695956+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Warden Marcus Stonehand
@@ -120,6 +127,27 @@ He's also investigating reports of attempts to communicate with high-security pr
 2. A prisoner with crucial information is targeted for assassination, and Marcus needs protection for them.
 3. The party needs to interview a dangerous prisoner, requiring negotiation with Marcus about security protocols.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Warden Stonehand represents the principled civil servant who maintains institutional integrity despite political pressure. Use him to explore themes of justice, rehabilitation, and moral consistency. His prison can serve as a source of information, a secure meeting place, or the setting for rescue/extraction missions.
@@ -127,7 +155,7 @@ Warden Stonehand represents the principled civil servant who maintains instituti
 
 ## Connections
 
-- [[12_Research/D&D_References/Pressure's End]]
+- [[Pressure's End]]
 
 
 ## History
@@ -175,10 +203,92 @@ Legends speak of Warden Marcus Stonehand as a nexus where past and present conve
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Warden Marcus Stonehand]]
+- [[Warden Marcus Stonehand]]
 
 <!-- enriched: true -->
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Notable Residents
+
+- [[NPC_Reactions]]
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-deep-ones-deep-ones.svg]]
+- [[Harbor Pilot Captain Storm Skyreacher]]
+- [[04_Resources_Assets_Locations_location-city-the-last-words-the-last-words.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+Warden Marcus Stonehand is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Warden Marcus Stonehand
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Warden Marcus Stonehand:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Warden Marcus Stonehand
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

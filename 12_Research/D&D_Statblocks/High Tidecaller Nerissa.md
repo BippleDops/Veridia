@@ -1,23 +1,30 @@
+# High Tidecaller Nerissa
+
 ---
+title: High Tidecaller Nerissa
+type: Lore
 tags:
+- lore
 - aquabyssos
+- redemption
+- cult
+- religious
+- quest
+- research
+- sea-goddess
+- active
 - complete
 - corruption
-- cult
-- lore
-- quest
-- redemption
-- religious
-- sea-goddess
 - tidal-magic
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
-world: Aquabyssos
-type: Lore
+location: Tidal Sanctum, Coral Gardens, The Deep Maw
 level: 6-10
+world: Aquabyssos
 duration: 3-4 sessions
 difficulty: Medium
 quest_giver: Acolyte Pelagic
-location: Tidal Sanctum, Coral Gardens, The Deep Maw
 rewards: Nerissa's Blessing, Tidal Focus, Clerical Connections
 prerequisites: No negative reputation with sea-worshipping faiths
 connected_to:
@@ -25,12 +32,12 @@ connected_to:
 - The Coral Gardens
 - Oceanic Divine Magic
 created_by: DM
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.506513+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 ---
+
 
 
 
@@ -357,3 +364,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Pearl_Harbor_City|02 Worldbuilding/Places/Pearl Harbor City]]
+
+
+## Related
+
+*Links to related content will be added here.*

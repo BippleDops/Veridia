@@ -1,28 +1,49 @@
 ---
+title: Sister Morwyn
+type: Location
+tags:
+- both
+- status/complete
+- temple
+- aquatic
+- memory
+- world/both
+- content/location
+- death
+- place
+- active
+- combat
+- complete
+- location
+- world/aquabyssos
+- shadow-touched
+- crystal-enhanced
+created: 2025-08-11 - Category/Place
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: 50
 MyCategory: Unknown
 MyContainer: None
-created: 2025-08-11 - Category/Place
 current_state: Active memorial site
 danger_level: 3
 depth: 2500-2800 feet
 discovered: true
 factions:
-- '[[Order of the Drowned Star|02 Worldbuilding/Groups/Order
-  Of The Drowned Star]]'
-- '[[12_Research/D&D_References/Keepers of Memory]]'
+- '[[Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]'
+- '[[Keepers of Memory]]'
 - '[[The Forgiveness Seekers]]'
 government: Sacred Trust
 location_name: Sister Morwyn's Memorial Sanctuary
 location_type: Sacred Memorial Site
 notable_npcs:
-- '[[12_Research/D&D_References/Sister Morwyn Veilkeeper]]'
-- '[[12_Research/D&D_References/Brother Thaddeus the Rememberer]]'
-- '[[12_Research/D&D_References/Echo-Keeper Selin]]'
+- '[[Sister Morwyn Veilkeeper]]'
+- '[[Brother Thaddeus the Rememberer]]'
+- '[[Echo-Keeper Selin]]'
 obsidianUIMode: preview
-parent_location: '[[12_Research/D&D_References/Abyssos Prime]]'
-population: 50
+parent_location: '[[Abyssos Prime]]'
 pressure_effects: Moderate
-ruler: '[[12_Research/D&D_References/Sister Morwyn Veilkeeper]]'
+ruler: '[[Sister Morwyn Veilkeeper]]'
 services:
 - Death Rites
 - Memory Preservation
@@ -30,33 +51,17 @@ services:
 - Soul Guidance
 - Grief Counseling
 shadow_density: Low
-status: complete
 sub_locations:
-- '[[12_Research/D&D_References/The Archive of Unremembered Things]]'
-- '[[12_Research/D&D_References/The Memory Vaults]]'
+- '[[The Archive of Unremembered Things]]'
+- '[[The Memory Vaults]]'
 - '[[Garden of Whispered Names]]'
 - '[[Hall of Final Echoes]]'
-tags:
-- combat
-- crystal-enhanced
-- shadow-touched
-- aquatic
-- both
-- complete
-- content/location
-- death
-- location
-- memory
-- status/complete
-- temple
-- world/aquabyssos
-- world/both
 temporal_stability: 95
-type: Location
 updated: '2025-08-13T12:34:16.601403+00:00'
 visited: false
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -71,7 +76,7 @@ world: Both
 
 ## Overview
 
-Sister Morwyn's Memorial Sanctuary stands as a beacon of remembrance in the shadow-haunted depths of [[12_Research/D&D_References/Abyssos Prime]]. This sacred complex, carved into the living coral walls of a vast underwater cavern, serves as both cemetery and archive for the countless souls lost to [[12_Research/D&D_Statblocks/The Great Drowning]] and the ongoing tragedies of the deep world. Unlike other locations in Aquabyssos where memory is currency to be traded, here it is treated as sacred trust.
+Sister Morwyn's Memorial Sanctuary stands as a beacon of remembrance in the shadow-haunted depths of [[Abyssos Prime]]. This sacred complex, carved into the living coral walls of a vast underwater cavern, serves as both cemetery and archive for the countless souls lost to [[12_Research/D&D_Statblocks/The Great Drowning]] and the ongoing tragedies of the deep world. Unlike other locations in Aquabyssos where memory is currency to be traded, here it is treated as sacred trust.
 
 The sanctuary exists in perpetual twilight, illuminated by thousands of bioluminescent memorial plaques that pulse in gentle rhythms—each one representing a life remembered. The water here carries whispers of the dead, not as haunting presence but as gentle comfort, creating an atmosphere of profound peace despite the surrounding darkness.
 
@@ -87,12 +92,12 @@ The sanctuary exists in perpetual twilight, illuminated by thousands of biolumin
 
 ### The Memorial Walls
 
-The sanctuary's most striking feature consists of thousands of coral formations shaped by [[12_Research/D&D_References/Sister Morwyn Veilkeeper]]'s divine magic into memorial walls. Each formation contains a bioluminescent plaque inscribed with the name, dates, and a brief remembrance of the deceased. The walls spiral upward through the cavern in a double helix pattern, creating natural walking paths that allow visitors to contemplate the vast scope of loss.
+The sanctuary's most striking feature consists of thousands of coral formations shaped by [[Sister Morwyn Veilkeeper]]'s divine magic into memorial walls. Each formation contains a bioluminescent plaque inscribed with the name, dates, and a brief remembrance of the deceased. The walls spiral upward through the cavern in a double helix pattern, creating natural walking paths that allow visitors to contemplate the vast scope of loss.
 
 ### The Archive of Unremembered Things
 
-**[[12_Research/D&D_References/The Archive of Unremembered Things]]**
-A climate-controlled section where [[12_Research/D&D_References/Memory Pearls]] containing the final thoughts, hopes, and fears of the dying are carefully preserved. These are not traded but maintained as sacred artifacts, available only to family members or for specific religious ceremonies.
+**[[The Archive of Unremembered Things]]**
+A climate-controlled section where [[Memory Pearls]] containing the final thoughts, hopes, and fears of the dying are carefully preserved. These are not traded but maintained as sacred artifacts, available only to family members or for specific religious ceremonies.
 
 **Key Features:**
 - Temperature-regulated memory storage
@@ -102,7 +107,7 @@ A climate-controlled section where [[12_Research/D&D_References/Memory Pearls]] 
 
 ### Memory Vaults
 
-Deep beneath the main sanctuary lie the Memory Vaults, where the most precious memories of the deceased are stored in crystalline formations that grow from processed [[12_Research/D&D_References/Sorrow Pearls]]. Each vault is keyed to specific families or tragic events, allowing organized remembrance without overwhelming visitors.
+Deep beneath the main sanctuary lie the Memory Vaults, where the most precious memories of the deceased are stored in crystalline formations that grow from processed [[Sorrow Pearls]]. Each vault is keyed to specific families or tragic events, allowing organized remembrance without overwhelming visitors.
 
 ### Garden of Whispered Names
 
@@ -114,7 +119,7 @@ A natural amphitheater where Sister Morwyn conducts memorial services. The acous
 
 ## Sister Morwyn Veilkeeper
 
-**[[12_Research/D&D_References/Sister Morwyn Veilkeeper]]**
+**[[Sister Morwyn Veilkeeper]]**
 
 The sanctuary's founder and spiritual guardian, Sister Morwyn is a human cleric who survived The Great Drowning and dedicated her transformed life to ensuring no death goes unremembered. Her body shows the classic signs of deep adaptation—gills, pale luminescent skin, and enlarged eyes—but she has retained her humanity and compassion in ways that inspire even the most hardened deep dwellers.
 
@@ -175,16 +180,16 @@ Recent excavation for new memorial space uncovered what appears to be a pre-drow
 
 ### Transportation
 
-- **[[12_Research/D&D_References/Pressure Tubes]]:** Direct line to [[12_Research/D&D_References/Parliament of Echoes]]
-- **[[12_Research/D&D_References/Memorial Current]]:** Natural flow that carries mourners safely
-- **[[12_Research/D&D_References/The Neutral Current Tavern]]:** Nearby refuge for grieving visitors
+- **[[Pressure Tubes]]:** Direct line to [[Parliament of Echoes]]
+- **[[Memorial Current]]:** Natural flow that carries mourners safely
+- **[[The Neutral Current Tavern]]:** Nearby refuge for grieving visitors
 - **[[Reflection Pools|02 Worldbuilding/Places/Reflection Pools]]:** Connected by the River of Sorrows
 
 ### Allied Sites
 
 - **[[Temple of Divine Order|02 Worldbuilding/Places/Temple Of Divine Order]]:** Shares religious resources
 - **[[Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]:** Provides protection
-- **[[12_Research/D&D_References/The Harmony Collective]]:** Philosophical alignment
+- **[[The Harmony Collective]]:** Philosophical alignment
 
 ### Antagonistic Forces
 
@@ -196,42 +201,42 @@ Recent excavation for new memorial space uncovered what appears to be a pre-drow
 
 ### Permanent Residents
 
-**[[12_Research/D&D_References/Sister Morwyn Veilkeeper]]** - Founder and head cleric
+**[[Sister Morwyn Veilkeeper]]** - Founder and head cleric
 - Devoted to preserving dignity in death
 - Possesses rare resistance to memory corruption
 - Can commune with peaceful spirits
 
-**[[12_Research/D&D_References/Brother Thaddeus the Rememberer]]** - Chief archivist
+**[[Brother Thaddeus the Rememberer]]** - Chief archivist
 - Maintains the memorial records
 - Has perfect memory of every person memorialized
 - Speaks in whispers to preserve sacred silence
 
-**[[12_Research/D&D_References/Echo-Keeper Selin]]** - Spiritual medium
+**[[Echo-Keeper Selin]]** - Spiritual medium
 - Channels final messages from the dying
 - Maintains the Garden of Whispered Names
 - Shows signs of prophetic ability
 
-**[[12_Research/D&D_References/Mourning Mother Cordelia]]** - Grief counselor
+**[[Mourning Mother Cordelia]]** - Grief counselor
 - Lost three children in The Great Drowning
 - Specializes in helping parents cope with loss
 - Leads group therapy sessions
 
-**[[12_Research/D&D_References/Memorial Mason Kane]]** - Coral sculptor
+**[[Memorial Mason Kane]]** - Coral sculptor
 - Creates the memorial plaques and structures
 - Works with Sister Morwyn to shape living coral
 - Secret romantic interest in visiting artist
 
 ### Frequent Visitors
 
-**[[12_Research/D&D_References/The Forgotten Mourner]]** - Mysterious regular visitor
+**[[The Forgotten Mourner]]** - Mysterious regular visitor
 - Visits daily but cannot remember why
 - May be searching for own memorial
 - Appears to age backward during visits
 
-**[[12_Research/D&D_References/Senator's Widow Marcella]]** - Political mourner
+**[[Senator's Widow Marcella]]** - Political mourner
 - Grieves husband lost to shadow replacement
 - Secretly funding sanctuary expansion
-- Provides intelligence on [[12_Research/D&D_References/Parliament of Echoes]] activities
+- Provides intelligence on [[Parliament of Echoes]] activities
 
 ## Environmental Features
 
@@ -266,7 +271,7 @@ The preserved memories aren't just sentimental keepsakes—they're components of
 
 ### Sister Morwyn's Identity
 
-Sister Morwyn may actually be the daughter of [[12_Research/D&D_Statblocks/Emperor Thalassius the Wise]], thought dead in the drowning. Her divine powers come from her royal bloodline's connection to the [[12_Research/D&D_References/Crown of Tidal Sovereignty]].
+Sister Morwyn may actually be the daughter of [[12_Research/D&D_Statblocks/Emperor Thalassius the Wise]], thought dead in the drowning. Her divine powers come from her royal bloodline's connection to the [[Crown of Tidal Sovereignty]].
 
 ### The Prophecy Chamber
 
@@ -276,7 +281,7 @@ Hidden beneath the Memory Vaults is a chamber where the collective whispers of t
 
 ### Investigation
 
-1. **The Memory Thief:** Someone is stealing memories from the memorial plaques. Players must investigate who and why, leading to a conspiracy involving [[Shadow Surgeons Collective|Shadow Surgeons]] and corrupt [[12_Research/D&D_References/Parliament of Echoes]] members.
+1. **The Memory Thief:** Someone is stealing memories from the memorial plaques. Players must investigate who and why, leading to a conspiracy involving [[Shadow Surgeons Collective|Shadow Surgeons]] and corrupt [[Parliament of Echoes]] members.
 
 2. **The False Memorials:** New memorial plaques keep appearing for people who are still alive. Investigation reveals a shadow replacement conspiracy, with the plaques marking successful replacements.
 
@@ -398,7 +403,7 @@ The sanctuary works best as:
 
 ## Connections
 
-- [[12_Research/D&D_References/Prophet Nerida Voidgazer]]
+- [[Prophet Nerida Voidgazer]]
 
 ## Player-Facing Summary
 
@@ -408,23 +413,105 @@ Sister Morwyn is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of Sister Morwyn as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sister Morwyn.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Sister Morwyn]]
+- [[Sister Morwyn]]
 
 <!-- enriched: true -->
-- [[12_Research/D&D_References/Crown of Tidal Sovereignty]]
-- [[12_Research/D&D_References/Memory Pearls]]
-- [[12_Research/D&D_References/Sorrow Pearls]]
-- [[12_Research/D&D_References/The Harmony Collective]]
-- [[12_Research/D&D_References/Abyssos Prime]]
-- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[Crown of Tidal Sovereignty]]
+- [[Memory Pearls]]
+- [[Sorrow Pearls]]
+- [[The Harmony Collective]]
+- [[Abyssos Prime]]
+- [[Parliament of Echoes]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[Magical Theory]]
+- [[04_Resources_Assets_Locations_location-city-the-harvest-v1-the-harvest.svg]]
+- [[Reality Monitoring Specialists]]
+
+
+## Description
+
+Sister Morwyn is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Sister Morwyn
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## History
+
+### Founding
+Sister Morwyn was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Sister Morwyn
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

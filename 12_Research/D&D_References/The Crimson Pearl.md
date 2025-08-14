@@ -1,17 +1,24 @@
+# The Crimson Pearl
+
 ---
-created: '2025-08-11'
-status: complete
+title: The Crimson Pearl
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
+- research
 - world/both
-type: Npc
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.699034+00:00'
 world: Both
 ---
+
 
 
 
@@ -277,3 +284,8 @@ Legends speak of The Crimson Pearl as a nexus where past and present converge. L
 - [[The Barnacle]]
 - [[The Pearl Heist]]
 - [[High Tidecaller Nerissa]]
+
+
+## Related
+
+*Links to related content will be added here.*

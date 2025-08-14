@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry the crimson fleet the crimson fleet.svg
+aliases:
+- symbol heraldry the crimson fleet the crimson fleetsvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-the-crimson-fleet-the-crimson-fleet.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
-- [[12_Research/D&D_References/The Crimson Fleet]]
+- [[Faction Symbols & Heraldry]]
+- [[The Crimson Fleet]]
 
 ## Notes
 

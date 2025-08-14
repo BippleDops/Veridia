@@ -1,25 +1,32 @@
+# Discover the Singers Beyond
+
 ---
-tags:
-- aquabyssos
-- complete
-- exploration
-- first-contact
-- lore
-- music
-- mystery
-- quest
-- singers-beyond
-- transcendence
-status: complete
-world: Aquabyssos
+title: Discover the Singers Beyond
 type: Lore
+tags:
+- lore
+- aquabyssos
+- mystery
+- transcendence
+- music
+- quest
+- research
+- active
+- exploration
+- complete
+- singers-beyond
+- first-contact
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 level: 7-11
+world: Aquabyssos
 duration: 3-4 sessions
 threat_level: high
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.499753+00:00'
 ---
+
 
 
 
@@ -352,3 +359,8 @@ Legends speak of Discover the Singers Beyond as a nexus where past and present c
 - A map overlay reveals a hidden approach to Discover the Singers Beyond active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

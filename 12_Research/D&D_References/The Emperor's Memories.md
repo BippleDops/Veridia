@@ -1,14 +1,20 @@
+# The Emperor's Memories
+
 ---
-tags:
-- active
-- aquabyssos
-- npc
+title: The Emperor's Memories
 type: NPC
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.882212+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-emperor-s-memories-the-emperor-s-memories.svg]]
@@ -62,3 +68,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Emperor's Memories|02 Worldbuilding/People/The Emperor's Memories]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

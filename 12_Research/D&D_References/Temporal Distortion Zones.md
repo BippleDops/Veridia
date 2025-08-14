@@ -1,25 +1,31 @@
+# Temporal Distortion Zones
+
 ---
+title: Temporal Distortion Zones
+type: Lore
 tags:
-- advanced-physics
-- aquabyssos
-- chronoengineering
-- complete
-- dimensional-anomalies
 - lore
-- magical-hazards
+- aquabyssos
 - technology
-- temporal-manipulation
-- temporal-research
-- temporal-technology
 - time-distortion
+- chronoengineering
+- temporal-manipulation
 - time-effects
+- dimensional-anomalies
+- advanced-physics
+- research
+- temporal-research
+- magical-hazards
+- active
+- complete
+- temporal-technology
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 category: Temporal Technology
 significance: Critical Hazard & Research Infrastructure
 created_by: auto-stub
-created: '2025-08-08'
 expanded: 2025-08-11
 technology_type: Temporal Manipulation System
 access_restriction: Authorized Personnel Only
@@ -27,6 +33,7 @@ danger_level: Extreme
 operational_status: Active Research
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -447,3 +454,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Master_Lore_Index|Master Lore Index]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

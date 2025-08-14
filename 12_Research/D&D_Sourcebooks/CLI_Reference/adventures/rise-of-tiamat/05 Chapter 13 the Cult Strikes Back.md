@@ -1,17 +1,23 @@
+# 05 Chapter 13 the Cult Strikes Back
+
 ---
-created: 2025-08-11
-status: active
+title: 05 Chapter 13 the Cult Strikes Back
+type: Group
 tags:
-- active
 - both
 - content/faction
-- group
-- status/in-progress
+- research
 - world/both
-type: Group
+- active
+- status/in-progress
+- group
+created: 2025-08-11
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T12:34:04.967534+00:00'
 world: Both
 ---
+
 
 
 
@@ -35,3 +41,8 @@ Legends speak of 05 chapter 13 the cult strikes back as a nexus where past and p
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

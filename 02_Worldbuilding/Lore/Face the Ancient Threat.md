@@ -1,4 +1,17 @@
 ---
+title: Face the Ancient Threat
+type: Lore
+tags:
+- lore
+- status/complete
+- content/lore
+- world/aethermoor
+- active
+- complete
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 accessibility:
   content_warnings: []
   pronunciation: Face the Ancient Threat
@@ -7,20 +20,11 @@ accessibility:
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
     its consequences for play.
-created: '2025-08-11'
 obsidianUIMode: preview
-status: complete
-tags:
-- aethermoor
-- complete
-- content/lore
-- lore
-- status/complete
-- world/aethermoor
-type: Lore
 updated: '2025-08-13T12:34:16.114173+00:00'
 world: Aethermoor
 ---
+
 
 
 # Face the Ancient Threat
@@ -45,13 +49,13 @@ Face the Ancient Threat describes a turning current in history where choices abo
 
 ## Threads and Revelations
 
-- Records implicate agents tied to [[12_Research/D&D_References/The Lighthouse of Storms]].
+- Records implicate agents tied to [[The Lighthouse of Storms]].
 - A rite echoes the activation cadence needed for [[12_Research/D&D_Statblocks/The Whispering Expanse]].
 - Testimony suggests [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]] financed a pivotal bribe.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Lighthouse of Storms]]
+- [[The Lighthouse of Storms]]
 - [[12_Research/D&D_Statblocks/The Whispering Expanse]]
 - [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]]
 
@@ -78,7 +82,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[12_Research/D&D_References/The Threshold]]
+- [[The Threshold]]
 
 
 ## Related

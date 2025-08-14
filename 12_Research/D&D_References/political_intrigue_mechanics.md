@@ -1,3 +1,15 @@
+# political_intrigue_mechanics
+
+---
+title: political intrigue mechanics
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Political Intrigue Mechanics
 
 ## Systematic Framework for Complex Political Maneuvering
@@ -173,3 +185,7 @@ Effective political intrigue shows:
 - **Balanced Challenge**: Political opponents provide appropriate resistance
 
 *Research methodology: Political science analysis, 78 intrigue campaign studies, player engagement measurement*
+
+## Related
+
+*Links to related content will be added here.*

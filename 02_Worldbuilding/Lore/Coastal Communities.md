@@ -1,17 +1,21 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
+title: Coastal Communities
 type: Lore
+tags:
+- lore
+- both
+- content/lore
+- world/both
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.351076+00:00'
 world: Both
 ---
+
 
 
 ## Overview
@@ -40,9 +44,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Transformed Citizens]]
+- [[The Transformed Citizens]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/The Transformed Citizens]]
+- [[The Transformed Citizens]]

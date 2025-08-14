@@ -1,23 +1,30 @@
+# Black Market Deal
+
 ---
+title: Black Market Deal
+type: Location
 tags:
 - aquabyssos
-- black_market
-- complete
-- deal
 - intrigue
-- location
+- deal
+- black_market
 - quest
+- research
+- active
+- location
+- complete
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.023636+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -184,3 +191,8 @@ Legends speak of Black Market Deal as a nexus where past and present converge. L
 - [[Black Market Deal|02 Worldbuilding/Places/Black Market Deal]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

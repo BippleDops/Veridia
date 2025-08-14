@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: District Economic Profiles
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Lore/District Economic Profiles
 
@@ -24,9 +28,9 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Poverty Survival Strategies]]
-- [[12_Research/D&D_References/Black Market Price Guide]]
-- [[12_Research/D&D_References/Favor Exchange Networks]]
+- [[Poverty Survival Strategies]]
+- [[Black Market Price Guide]]
+- [[Favor Exchange Networks]]
 
 ## Notes
 

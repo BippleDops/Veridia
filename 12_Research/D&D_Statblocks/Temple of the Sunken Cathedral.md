@@ -1,21 +1,28 @@
+# Temple of the Sunken Cathedral
+
 ---
+title: Temple of the Sunken Cathedral
+type: Places
 tags:
-- aberrant-architecture
 - aquabyssos
-- complete
-- cult
-- deep-mother
-- eldritch-horror
 - places
+- cult
+- eldritch-horror
 - temple
+- aberrant-architecture
+- research
+- deep-mother
+- active
 - underwater
+- complete
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Places
 created_by: claude
-created: '2025-08-12'
 updated: '2025-08-13T01:18:36.258194+00:00'
 ---
+
 
 
 # Temple of the Sunken Cathedral
@@ -360,3 +367,8 @@ Legends speak of Temple of the Sunken Cathedral as a nexus where past and presen
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

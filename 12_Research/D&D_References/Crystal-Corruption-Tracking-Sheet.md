@@ -1,27 +1,34 @@
+# Crystal-Corruption-Tracking-Sheet
+
 ---
+title: Crystal Corruption Tracking Sheet
+type: Lore
 tags:
-- aethermoor
-- complete
-- corruption-detection
-- crystal-corruption
-- data-analysis
-- innovation
 - lore
-- magical-technology
-- monitoring-device
 - technology
+- corruption-detection
+- innovation
+- data-analysis
+- monitoring-device
+- crystal-corruption
 - tracking-system
+- research
+- active
+- magical-technology
+- complete
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 category: Monitoring Technology
 significance: Critical Safety System
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 technology_type: Magical Detection and Analysis System
 access_restriction: Authorized Personnel Only
 ---
+
 
 
 

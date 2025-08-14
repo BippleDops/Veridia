@@ -1,14 +1,20 @@
+# Sister Morwyn Veilkeeper
+
 ---
+title: Sister Morwyn Veilkeeper
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
 created: null
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T12:34:09.727014+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 
 
@@ -121,3 +127,8 @@ Legends speak of Sister Morwyn Veilkeeper as a nexus where past and present conv
 - [[Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister Morwyn Veilkeeper]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

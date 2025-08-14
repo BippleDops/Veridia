@@ -1,13 +1,24 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Elena Starweaver.md
+aliases:
+- Elena Starweavermd
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- npc
+- character
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+race: Unknown
+class: Unknown
+location: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/People/Elena Starweaver.md
 
@@ -24,16 +35,16 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Verdant Accord]]
-- [[12_Research/D&D_References/The Verdant Accord]]
-- [[12_Research/D&D_References/The Verdant Accord]]
-- [[12_Research/D&D_References/Sage Lyralei Starweaver]]
-- [[12_Research/D&D_References/Sage Lyralei Starweaver]]
-- [[12_Research/D&D_References/Quest - The Pretender]]
-- [[12_Research/D&D_References/Quest - The Pretender]]
-- [[12_Research/D&D_References/Quest - The Pretender]]
-- [[12_Research/D&D_References/The Corroded Crown]]
-- [[12_Research/D&D_References/The Corroded Crown]]
+- [[The Verdant Accord]]
+- [[The Verdant Accord]]
+- [[The Verdant Accord]]
+- [[Sage Lyralei Starweaver]]
+- [[Sage Lyralei Starweaver]]
+- [[Quest - The Pretender]]
+- [[Quest - The Pretender]]
+- [[Quest - The Pretender]]
+- [[The Corroded Crown]]
+- [[The Corroded Crown]]
 
 ## Notes
 

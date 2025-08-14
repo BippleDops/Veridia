@@ -1,18 +1,23 @@
+# fiend
+
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
+title: fiend
+aliases: []
 type: note
 tags:
-- active
 - both
+- research
+- active
 - note
-aliases: []
 created: 2025-07-23
-updated: '2025-08-13T01:18:32.793994+00:00'
-modified: 2025-07-23 12:39
-world: Both
+modified: '2025-08-14'
 status: active
+obsidianUIMode: preview
+cssclasses: json5e-note
+updated: '2025-08-13T01:18:32.793994+00:00'
+world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -136,3 +141,8 @@ Legends speak of fiend as a nexus where past and present converge. Locals descri
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

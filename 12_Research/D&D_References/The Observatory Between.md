@@ -1,20 +1,26 @@
+# The Observatory Between
+
 ---
+title: The Observatory Between
+type: Place
 tags:
-- active
-- aethermoor
 - aquabyssos
 - both
 - inter-dimensional
+- research
 - observatory
 - place
-type: Place
-world: Both
-status: active
+- active
+- aethermoor
 created: '2025-08-12'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.512259+00:00'
 danger_level: High
 restricted_access: true
 ---
+
 
 
 > [!figure] View

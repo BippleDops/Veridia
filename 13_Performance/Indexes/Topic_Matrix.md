@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- index
-- navigation
-- reference
-- status/complete
-- topics
-- world/both
 title: Topic Matrix Index
 type: Lore
+tags:
+- navigation
+- index
+- status/complete
+- report
+- world/both
+- active
+- reference
+- topics
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-12T23:37:33.015666'
 world: Both
 ---
+
 
 
 # Topic Matrix Index

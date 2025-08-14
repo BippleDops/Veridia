@@ -1,25 +1,32 @@
+# Timeline of the Drowning
+
 ---
+title: Timeline of the Drowning
+type: Lore
 tags:
-- aquabyssos
-- cataclysm
-- civilization
-- complete
-- deep-mother
-- drowning
-- history
 - lore
+- aquabyssos
 - pre-submersion
+- history
 - timeline
+- research
+- deep-mother
+- civilization
+- drowning
+- active
+- complete
+- cataclysm
 - transformation
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 category: Historical Timeline
 significance: Foundational
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 

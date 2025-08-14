@@ -1,13 +1,24 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Vex Shadowthorn.md
+aliases:
+- Vex Shadowthornmd
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- npc
+- character
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+race: Unknown
+class: Unknown
+location: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/People/Vex Shadowthorn.md
 
@@ -24,16 +35,16 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Create New Location]]
-- [[12_Research/D&D_References/Create New Location]]
-- [[12_Research/D&D_References/Like This]]
-- [[12_Research/D&D_References/Like This]]
-- [[12_Research/D&D_References/Whisper Translation]]
-- [[12_Research/D&D_References/Whisper Translation]]
-- [[12_Research/D&D_References/Breaking the Deep]]
-- [[12_Research/D&D_References/Breaking the Deep]]
-- [[12_Research/D&D_References/Palace Guard Captain Neutralis]]
-- [[12_Research/D&D_References/Palace Guard Captain Neutralis]]
+- [[Create New Location]]
+- [[Create New Location]]
+- [[Like This]]
+- [[Like This]]
+- [[Whisper Translation]]
+- [[Whisper Translation]]
+- [[Breaking the Deep]]
+- [[Breaking the Deep]]
+- [[Palace Guard Captain Neutralis]]
+- [[Palace Guard Captain Neutralis]]
 
 ## Notes
 

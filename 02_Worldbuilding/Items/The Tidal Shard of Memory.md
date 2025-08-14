@@ -1,27 +1,32 @@
 ---
-affiliation: '[[The Seven Shards]]'
+title: The Tidal Shard of Memory
+type: Item
+tags:
+- aquabyssos
+- status/complete
+- mechanics/magic
+- seven-shards
+- content/lore
+- active
+- complete
+- content/item
+- world/aquabyssos
+- item
 created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+rarity: Legendary
+value: Unknown
+affiliation: '[[The Seven Shards]]'
 created_by: Claude
 current_location: Unknown (Hidden)
 danger_level: 5
 item_type: Legendary Artifact (The Seven Shards)
-rarity: Legendary
 requires_attunement: 'Yes'
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/item
-- content/lore
-- item
-- mechanics/magic
-- seven-shards
-- status/complete
-- world/aquabyssos
-type: Item
 updated: '2025-08-13T12:34:17.755371+00:00'
 world: Aquabyssos
 ---
+
 
 
 

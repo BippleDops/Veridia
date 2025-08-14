@@ -1,20 +1,25 @@
+# creating-a-gnoll-war-band-gnoll-war-band-composition-vgm
+
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-- active
-- both
-- note
-- ttrpg-cli/compendium/src/5e/vgm
+title: creating a gnoll war band gnoll war band composition vgm
 aliases:
 - Creating a Gnoll War Band; Gnoll War Band Composition
 type: note
+tags:
+- both
+- research
+- active
+- note
+- ttrpg-cli/compendium/src/5e/vgm
 created: 2025-07-23
-updated: '2025-08-13T01:18:31.597127+00:00'
-modified: 2025-07-23 12:39
-world: Both
+modified: '2025-08-14'
 status: active
+obsidianUIMode: preview
+cssclasses: json5e-note
+updated: '2025-08-13T01:18:31.597127+00:00'
+world: Both
 ---
+
 
 # Creating a Gnoll War Band; Gnoll War Band Composition
 *Source: Volo's Guide to Monsters p. 39* 
@@ -49,3 +54,8 @@ Legends speak of creating a gnoll war band gnoll war band composition vgm as a n
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

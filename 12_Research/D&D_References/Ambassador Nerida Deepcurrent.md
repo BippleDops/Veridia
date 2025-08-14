@@ -1,14 +1,20 @@
+# Ambassador Nerida Deepcurrent
+
 ---
+title: Ambassador Nerida Deepcurrent
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
 created: null
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T12:34:14.337540+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 
 
@@ -146,3 +152,8 @@ Legends speak of Ambassador Nerida Deepcurrent as a nexus where past and present
 - [[Ambassador Nerida Deepcurrent|02 Worldbuilding/People/Ambassador Nerida Deepcurrent]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

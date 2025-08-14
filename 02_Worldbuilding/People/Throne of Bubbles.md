@@ -1,18 +1,26 @@
 ---
-cr: '20'
-created: '2025-08-11'
-status: complete
+title: Throne of Bubbles
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
+cr: '20'
 updated: '2025-08-13T12:34:17.638199+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -263,6 +271,89 @@ The Throne itself is a marvel of ancient magic—a living coral structure that c
 - **[[Quest - The Corruption Cleansing]]**: Purifying royal magical systems
 - **[[Quest - The Ancient Compact]]**: Renewing or renegotiating the divine agreement
 
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Discovering truth
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Deep and resonant
+
+**Speech Pattern**: Carefully chosen words
+
+**Physical Habits**: Paces while speaking
+
+## Current Activities
+
+Throne of Bubbles is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Throne of Bubbles needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Throne of Bubbles stopped or removed
+3. **The Secret**: Information about Throne of Bubbles's past surfaces
+4. **The Alliance**: Opportunity to work with or against Throne of Bubbles
+5. **The Crisis**: Throne of Bubbles is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 ### Role in Campaign
 - **Ultimate Authority**: Final arbiter of major political decisions in Aquabyssos
@@ -285,6 +376,13 @@ The Throne itself is a marvel of ancient magic—a living coral structure that c
 - May need to make ultimate sacrifice to save realm from cosmic threat
 - Represents bridge between ancient world and modern politics
 
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-crystal-master-prism-lightweaver-crystal-master-prism-lightweaver.svg]]: *competitor*
+- [[04_Resources_Assets_Symbols_symbol-heraldry-regulatory-medical-authorit-regulatory-medical-authorit.svg]]: *sworn enemy*
 
 ## Connections
 

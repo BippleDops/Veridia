@@ -1,14 +1,21 @@
+# Ranger Skybow
+
 ---
-tags:
-- active
-- both
-- lore
+title: Ranger Skybow
 type: Lore
-world: Both
-status: active
+tags:
+- lore
+- both
+- research
+- active
+- aethermoor
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:35.633880+00:00'
 ---
+
 
 
 

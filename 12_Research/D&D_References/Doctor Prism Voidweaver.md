@@ -1,18 +1,25 @@
+# Doctor Prism Voidweaver
+
 ---
-created: '2025-08-11'
-status: complete
+title: Doctor Prism Voidweaver
+type: Lore
 tags:
-- both aethermoor & aquabyssos
-- complete
+- lore
 - content/adventure
 - content/lore
-- lore
+- research
+- both aethermoor & aquabyssos
+- active
+- complete
 - status/in-progress
 - world/aethermoor
-type: Lore
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.119189+00:00'
 world: Both Aethermoor & Aquabyssos
 ---
+
 
 
 
@@ -53,3 +60,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[The Shadow-Crystal Synthesis]]
 - [[Quest - The Convergence Crisis]]
+
+
+## Related
+
+*Links to related content will be added here.*

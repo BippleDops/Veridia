@@ -1,18 +1,24 @@
+# Transportation_Infrastructure
+
 ---
 title: Transportation Infrastructure
 type: mechanics
-status: complete
 tags:
 - both
+- mechanics
+- vehicles
+- research
+- active
+- networks
 - complete
 - infrastructure
-- mechanics
-- networks
-- vehicles
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:37.141449+00:00'
 world: Both
 ---
+
 
 
 
@@ -81,3 +87,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Fleet_Dynamics_Generator|Fleet Dynamics Generator]]
 - [[Journey_Event_Compiler|Journey Event Compiler]]
 - [[X-105_Crown_Council_Summit_Convoy|X 105 Crown Council Summit Convoy]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Disadvantage
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 03_Mechanics/CLI/books/players-handbook-2024/02-chapter-1-playing-the-game#Advantage/Disadvantage
 
@@ -24,8 +28,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Rules_Reference - Quick_Reference - DnD5e-SideScreen-2024]]
-- [[12_Research/D&D_References/Quick_Reference - DnD5e-SideScreen-2024]]
+- [[Rules_Reference - Quick_Reference - DnD5e-SideScreen-2024]]
+- [[Quick_Reference - DnD5e-SideScreen-2024]]
 
 ## Notes
 

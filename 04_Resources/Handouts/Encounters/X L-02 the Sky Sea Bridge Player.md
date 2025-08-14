@@ -1,24 +1,30 @@
+# X L-02 the Sky Sea Bridge Player
+
 ---
-audience: player
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- campaign/session
-- complete
-- handout
-- lore
-- mixed
-- status/complete
-- world/both
-title: Player Handout — X-L-02 The Sky–Sea Bridge
+title: "Player Handout \u2014 X-L-02 The Sky\u2013Sea Bridge"
 type: Lore
-updated: '2025-08-13T12:34:32.386140+00:00'
+tags:
+- lore
+- both
+- status/complete
+- campaign/session
+- handout
+- world/both
+- active
+- complete
+- mixed
+- aethermoor
+- resource
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+audience: player
+updated: 2025-08-13 07:59:50.469550
 world: Both
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.469550
 ---
+
 # The Sky–Sea Bridge
 
 A road appears where there was only air and pressure and hope.
@@ -35,3 +41,8 @@ Possible outcomes
 - A new way opens
 - It sways
 - It breaks
+
+
+## Related
+
+*Links to related content will be added here.*

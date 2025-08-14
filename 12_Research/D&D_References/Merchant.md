@@ -1,20 +1,27 @@
+# Merchant
+
 ---
+title: Merchant
+type: Location
 tags:
 - aquabyssos
-- complete
-- general-goods
-- location
-- merchant
-- npc
 - trader
+- npc
+- complete
+- research
+- active
+- location
+- general-goods
+- merchant
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.413932+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -181,3 +188,8 @@ Legends speak of Merchant as a nexus where past and present converge. Locals des
 - [[Merchant|02 Worldbuilding/Places/Merchant]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

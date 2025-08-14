@@ -1,4 +1,22 @@
 ---
+title: The Drowning Truth
+type: Location
+tags:
+- aquabyssos
+- status/complete
+- quest
+- content/location
+- place
+- active
+- location
+- complete
+- world/aquabyssos
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 accessibility:
   content_warnings:
   - political coercion
@@ -11,22 +29,11 @@ accessibility:
   screen_reader_summary: The Drowning Truth is a notable location in Aquabyssos shaped
     by tidal politics and Convergence anomalies. This entry is structured for fast
     table use.
-created: '2025-08-11'
 obsidianUIMode: preview
-status: complete
-tags:
-- quest
-- crystal-enhanced
-- aquabyssos
-- complete
-- content/location
-- location
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.736999+00:00'
 world: Aquabyssos
 ---
+
 
 
 # The Drowning Truth
@@ -385,6 +392,27 @@ The sphere raises questions:
 - Does observation change truth?
 - Is truth different from fact?
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 ### Running the Drowning Truth
@@ -465,8 +493,102 @@ Legends speak of The Drowning Truth as a nexus where past and present converge. 
 
 ## Connections
 
-- [[12_Research/D&D_References/The Cerulean Trench]]
+- [[The Cerulean Trench]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-keeper-of-the-dead-sister-morwyn-keeper-of-the-dead-sister-morwyn.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-recursion-cult-v1-the-recursion-cult.png]]
+- [[The Last Seeds]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+The Drowning Truth is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Drowning Truth
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+The Drowning Truth was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting The Drowning Truth:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Drowning Truth
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

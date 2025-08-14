@@ -1,16 +1,23 @@
+# NPCs_Statblocks
+
 ---
-created: '2025-08-13'
-status: active
+title: NPCs Statblocks
+type: Reference
 tags:
 - npcs/seven-shards
-- statblocks
-- reference
+- research
 - world/both
 - status/active
-type: Reference
+- active
+- reference
+- statblocks
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T16:45:00.000000'
 world: Both
 ---
+
 
 # Seven Shards Campaign: NPC Statblocks
 *Complete 5e Statistics for Major Characters*
@@ -627,3 +634,7 @@ SORT corruption-level DESC
 - [[Session Planning Templates]]
 - [[Shard Corruption Mechanics]]
 - [[NPC Relationship System]]
+
+## Related
+
+*Links to related content will be added here.*

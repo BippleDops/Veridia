@@ -1,31 +1,37 @@
+# Rewrite the World Order
+
 ---
+title: Rewrite the World Order
+type: Group
 tags:
-- aethermoor
-- complete
-- crystal-ideology
 - extremists
 - faction
-- group
-- revolutionary-movement
+- crystal-ideology
 - world-transformation
+- research
+- revolutionary-movement
+- active
+- complete
+- aethermoor
+- group
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+headquarters: '[[The Crystal Manifesto|02 Worldbuilding/Lore/The Crystal Manifesto]]'
 world: Aethermoor
-type: Group
 faction_type: Revolutionary Transformation Movement
 alignment: Chaotic Neutral (Radical Reformers)
-headquarters: '[[The Crystal Manifesto|02 Worldbuilding/Lore/The Crystal Manifesto]]'
 leader: '[[Architect Prime Crystalline Vision]]'
 members: ~300 active revolutionaries, ~1200 sympathizers
 influence: Underground Networks, Intellectual Circles
 purpose: Complete societal transformation through crystal integration
 created_by: auto-stub
-created: '2025-08-08'
-modified: 2025-08-11 - Category/Group
 MyContainer: Crystal Society
 MyCategory: Revolutionary Movement
 obsidianUIMode: preview
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-rewrite-the-world-order-rewrite-the-world-order.svg)
@@ -582,3 +588,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Establish New World Order|02 Worldbuilding/Groups/Establish New World Order]]
+
+
+## Related
+
+*Links to related content will be added here.*

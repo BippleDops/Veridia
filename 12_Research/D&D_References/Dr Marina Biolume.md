@@ -1,17 +1,24 @@
+# Dr Marina Biolume
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
+title: Dr Marina Biolume
 type: Lore
+tags:
+- lore
+- both
+- content/lore
+- world/both
+- research
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:29.038368+00:00'
 world: Both
 ---
+
 
 
 
@@ -45,3 +52,8 @@ Legends speak of Dr. Marina Biolume as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

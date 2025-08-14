@@ -1,4 +1,17 @@
 ---
+title: Race Against the Festival
+type: Lore
+tags:
+- lore
+- status/complete
+- content/lore
+- world/aethermoor
+- active
+- complete
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 accessibility:
   content_warnings: []
   pronunciation: Race Against the Festival
@@ -7,20 +20,11 @@ accessibility:
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
     its consequences for play.
-created: '2025-08-11'
 obsidianUIMode: preview
-status: complete
-tags:
-- aethermoor
-- complete
-- content/lore
-- lore
-- status/complete
-- world/aethermoor
-type: Lore
 updated: '2025-08-13T12:34:16.061547+00:00'
 world: Aethermoor
 ---
+
 
 
 # Race Against the Festival
@@ -45,13 +49,13 @@ Race Against the Festival describes a turning current in history where choices a
 
 ## Threads and Revelations
 
-- Records implicate agents tied to [[12_Research/D&D_References/The Lighthouse of Storms]].
+- Records implicate agents tied to [[The Lighthouse of Storms]].
 - A rite echoes the activation cadence needed for [[12_Research/D&D_Statblocks/The Whispering Expanse]].
 - Testimony suggests [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]] financed a pivotal bribe.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Lighthouse of Storms]]
+- [[The Lighthouse of Storms]]
 - [[12_Research/D&D_Statblocks/The Whispering Expanse]]
 - [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]]
 
@@ -78,3 +82,26 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Overview
+
+Race Against the Festival represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Guildmaster Victoria Silvertongue
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
 
 # Guildmaster Victoria Silvertongue
 
@@ -40,3 +47,9 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-deepwatch-guard-the-deepwatch-guard.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-crystal-pirate-crew-crystal-pirate-crew.svg]]
+- [[04_Resources_Assets_Locations_location-city-merchant-lord-silas-copperfield-v1-merchant-lord-silas-copperfield.svg]]

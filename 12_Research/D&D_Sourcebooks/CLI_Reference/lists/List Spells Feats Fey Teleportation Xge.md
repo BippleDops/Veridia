@@ -1,22 +1,27 @@
+# List Spells Feats Fey Teleportation Xge
+
 ---
+title: List Spells Feats Fey Teleportation Xge
 aliases:
 - Spells for Fey Teleportation
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
 - mechanics/magic
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:04.696414+00:00'
 world: Both
 ---
+
 
 
 # Spells for Fey Teleportation
@@ -44,3 +49,8 @@ Legends speak of list spells feats fey teleportation xge as a nexus where past a
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

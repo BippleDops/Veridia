@@ -1,21 +1,28 @@
+# Lamplight Alley
+
 ---
+title: Lamplight Alley
+type: Lore
+tags:
+- lore
+- both
+- district
+- worldbuilding
+- research
+- lamplight-alley
+- active
+- urban
+- complete
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
-tags:
-- aethermoor
-- both
-- complete
-- district
-- lamplight-alley
-- lore
-- urban
-- worldbuilding
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
-created: '2025-08-11'
-type: Lore
 ---
+
 
 
 

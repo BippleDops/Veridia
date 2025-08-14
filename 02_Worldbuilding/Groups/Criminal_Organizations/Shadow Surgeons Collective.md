@@ -1,21 +1,28 @@
 ---
-category: Group
-created: '2025-08-08'
-created_by: auto-stub
-obsidianUIMode: preview
-status: complete
+title: Shadow Surgeons Collective
+type: Faction
 tags:
 - aquabyssos
-- complete
+- status/complete
+- mechanics/magic
 - content/faction
 - faction
-- mechanics/magic
-- status/complete
+- organization
+- active
+- complete
 - world/aquabyssos
-type: Faction
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
+category: Group
+created_by: auto-stub
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.387122+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry
@@ -419,3 +426,9 @@ Legends speak of Shadow Surgeons Collective as a nexus where past and present co
 - [[Parliament of Echoes]]
 - [[Shadow Market Canals]]
 - [[Aether Crystals]]
+
+
+## Known Members
+
+- [[Supernatural Influence]]
+- [[04_Resources_Assets_Locations_location-city-portal-commander-marina-bridgewright-v1-portal-commander-marina-bridgewright.png]]

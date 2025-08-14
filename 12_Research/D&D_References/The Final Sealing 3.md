@@ -1,4 +1,20 @@
+# The Final Sealing 3
+
 ---
+title: The Final Sealing 3
+type: Lore
+tags:
+- lore
+- status/complete
+- content/lore
+- research
+- world/aethermoor
+- active
+- complete
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 accessibility:
   content_warnings: []
   pronunciation: The Final Sealing
@@ -7,20 +23,11 @@ accessibility:
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
     its consequences for play.
-created: '2025-08-11'
 obsidianUIMode: preview
-status: complete
-tags:
-- aethermoor
-- complete
-- content/lore
-- lore
-- status/complete
-- world/aethermoor
-type: Lore
 updated: '2025-08-13T12:34:29.448841+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -78,3 +85,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Threshold]]
+
+
+## Related
+
+*Links to related content will be added here.*

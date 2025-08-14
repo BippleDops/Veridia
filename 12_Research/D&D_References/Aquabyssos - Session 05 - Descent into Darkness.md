@@ -1,12 +1,31 @@
+# Aquabyssos - Session 05 - Descent into Darkness
+
 ---
-MyCategory: Unknown
-MyContainer: None
+title: Descent into Darkness
+type: Lore
+tags:
+- lore
+- aquabyssos
+- parliament-shadows
+- campaign/session
+- outlined
+- world/aquabyssos
+- content/lore
+- research
+- active
+- planned
+- status/in-progress
 created: '2025-08-11'
-date_played: null
-depth: 3,000-4,000 ft
-estimated_time: 4 hours
+modified: '2025-08-14'
+status: outlined
 location:
 - - Tenebrarum
+session_number: 5
+date_played: null
+MyCategory: Unknown
+MyContainer: None
+depth: 3,000-4,000 ft
+estimated_time: 4 hours
 npcs_featured:
 - - - 02_Worldbuilding/People/Shadow Duchess Nyx
 - - - 02_Worldbuilding/People/Marina-Red-Tide-Coralheart
@@ -17,27 +36,14 @@ party_level: 6
 quests_advanced:
 - - - Stop the Shadow Harvest
 - - - Investigate Shadow Trade
-session_number: 5
-status: outlined
-tags:
-- aquabyssos
-- campaign/session
-- content/lore
-- lore
-- outlined
-- parliament-shadows
-- planned
-- status/in-progress
-- world/aquabyssos
 themes:
 - Shadow economy
 - Identity theft
 - Surgical body horror
-title: Descent into Darkness
-type: Lore
 updated: '2025-08-13T12:34:17.856929+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -209,3 +215,8 @@ The party must choose who to trust as shadow enforcers surround their location.
 - [[Tenebrarum]]
 - [[Crystallium]]
 - [[Memoriam]]
+
+
+## Related
+
+*Links to related content will be added here.*

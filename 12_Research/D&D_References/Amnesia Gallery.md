@@ -1,28 +1,35 @@
+# Amnesia Gallery
+
 ---
+title: Amnesia Gallery
+type: Location
 tags:
 - aquabyssos
-- complete
-- dangerous
-- entertainment
 - gallery
-- location
 - memory
+- research
+- dangerous
 - mind-magic
+- active
+- location
+- complete
+- entertainment
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 category: Entertainment/Gallery
 depth: 800-1200 feet
 difficulty: Levels 3-8
 owner: '[[Keeper Elara Mindwell]]'
 danger_level: Moderate-High
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Memory Gallery
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] View
@@ -408,3 +415,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Deepmind]]
 - [[The Phosphor Markets]]
 - [[The Sunken Library of Thalassius]]
+
+
+## Related
+
+*Links to related content will be added here.*

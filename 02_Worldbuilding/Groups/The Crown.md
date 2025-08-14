@@ -1,31 +1,37 @@
 ---
+title: The Crown
+type: Faction
+tags:
+- status/complete
+- royalty
+- content/faction
+- faction
+- political
+- organization
+- world/aethermoor
+- active
+- complete
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[02_Worldbuilding/Places/The Crystal Palace|02 Worldbuilding/Places/The
+  Crystal Palace]]'
+membership: Unknown
 MyCategory: Unknown
 MyContainer: None
 alignment: Lawful Neutral
-created: '2025-08-08'
 created_by: auto-stub
 faction_type: Government
-headquarters: '[[02_Worldbuilding/Places/The Crystal Palace|02 Worldbuilding/Places/The
-  Crystal Palace]]'
 influence: National
 leader: '[[Queen Seraphina Lumengarde]]'
 members: ~10,000 direct servants
 obsidianUIMode: preview
-status: complete
-tags:
-- aethermoor
-- complete
-- content/faction
-- faction
-- political
-- royalty
-- status/complete
-- world/aethermoor
-type: Faction
 updated: '2025-08-13T12:34:17.301962+00:00'
 wealth: Immense
 world: Aethermoor
 ---
+
 
 
 > [!figure] Heraldry

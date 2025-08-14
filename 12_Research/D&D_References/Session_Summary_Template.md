@@ -1,14 +1,21 @@
+# Session_Summary_Template
+
 ---
-created: '2025-08-13'
-status: complete
+title: Session Summary Template
+type: Session Summary
 tags:
 - player/session-summary
-- template/example
+- research
 - reference/format
-type: Session Summary
+- template/example
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Session Summary Template
 ## How to Write Effective Session Recaps
@@ -293,3 +300,7 @@ Follow-up Actions Needed:
 ---
 
 *Good session summaries help everyone remember the story and feel connected to the ongoing campaign.*
+
+## Related
+
+*Links to related content will be added here.*

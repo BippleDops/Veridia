@@ -1,27 +1,34 @@
+# Hidden Sanctuary
+
 ---
-tags:
-- aethermoor
-- complete
-- crystal-corruption
-- location
-- lore
-- protection
-- refuge
-- resistance
-- sanctuary
-- underground
-status: complete
-world: Aethermoor
+title: Hidden Sanctuary
 type: Lore
-created_by: auto-stub
+tags:
+- lore
+- underground
+- sanctuary
+- refuge
+- crystal-corruption
+- research
+- active
+- location
+- complete
+- protection
+- aethermoor
+- resistance
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Aethermoor
+world: Aethermoor
+created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 location_type: Underground Sanctuary
-region: Aethermoor
 significance: Resistance Stronghold
 accessibility: Hidden/Restricted
 current_status: Active Refuge
 ---
+
 
 
 
@@ -344,3 +351,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

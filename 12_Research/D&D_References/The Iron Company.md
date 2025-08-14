@@ -1,14 +1,20 @@
+# The Iron Company
+
 ---
-tags:
-- active
-- aethermoor
-- group
+title: The Iron Company
 type: Group
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- group
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.708052+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-the-iron-company-the-iron-company.svg]]
@@ -65,3 +71,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Port Meridian - Merchant Quarter]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,14 +1,20 @@
+# Garden Keeper Zen Currentdancer
+
 ---
-updated: '2025-08-13T01:18:36.360124+00:00'
-created: '2025-08-12'
+title: Garden Keeper Zen Currentdancer
+type: location
 tags:
 - aquabyssos
 - category/place
-- complete
+- research
+- active
 - location
+- complete
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
+updated: '2025-08-13T01:18:36.360124+00:00'
 world: Aquabyssos
-type: location
 obsidianUIMode: preview
 accessibility:
   screen_reader_summary: Garden Keeper Zen Currentdancer is a notable location in
@@ -23,6 +29,7 @@ accessibility:
   - X-Card
   - Open Door
 ---
+
 
 
 
@@ -90,3 +97,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Bathyal Palace]]
+
+
+## Related
+
+*Links to related content will be added here.*

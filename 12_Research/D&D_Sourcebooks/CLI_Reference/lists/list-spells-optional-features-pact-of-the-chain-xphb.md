@@ -1,20 +1,25 @@
+# list-spells-optional-features-pact-of-the-chain-xphb
+
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-- active
-- both
-- note
-- ttrpg-cli/spell/list/optfeature/pact-of-the-chain
+title: list spells optional features pact of the chain xphb
 aliases:
 - Spells for Pact of the Chain
 type: note
+tags:
+- both
+- ttrpg-cli/spell/list/optfeature/pact-of-the-chain
+- research
+- active
+- note
 created: 2025-07-23
-updated: '2025-08-13T01:18:32.115687+00:00'
-modified: 2025-07-23 12:39
-world: Both
+modified: '2025-08-14'
 status: active
+obsidianUIMode: preview
+cssclasses: json5e-note
+updated: '2025-08-13T01:18:32.115687+00:00'
+world: Both
 ---
+
 
 # Spells for Pact of the Chain
 
@@ -41,3 +46,8 @@ Legends speak of list spells optional features pact of the chain xphb as a nexus
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

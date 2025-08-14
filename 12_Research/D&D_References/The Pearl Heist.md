@@ -1,22 +1,29 @@
+# The Pearl Heist
+
 ---
+title: The Pearl Heist
+type: NPC
 tags:
+- lore
 - aquabyssos
+- npc
+- research
+- pearl
+- active
+- heist
 - complete
 - crime
-- heist
-- lore
-- npc
-- pearl
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: NPC
 created_by: auto-stub
-created: '2025-08-11'
 MyContainer: None
 MyCategory: Events
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.958179+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -148,3 +155,8 @@ Legends speak of The Pearl Heist as a nexus where past and present converge. Loc
 
 <!-- enriched: true -->
 iched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

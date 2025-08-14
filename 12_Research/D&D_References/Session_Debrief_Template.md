@@ -1,16 +1,23 @@
+# Session_Debrief_Template
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- gm-resources
-- session-tools
-- debrief
-- feedback
-- improvement
+title: Session Debrief Template
 type: Tool
+tags:
+- improvement
+- feedback
+- session-tools
+- research
+- gm-resources
+- active
+- debrief
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
+
 
 # Session Debrief Template
 
@@ -293,3 +300,7 @@ world: Both
 - [[Campaign_Timeline_Tracker]]
 - [[Player_Feedback_Form]]
 - [[GM_Improvement_Tracker]]
+
+## Related
+
+*Links to related content will be added here.*

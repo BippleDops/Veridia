@@ -1,9 +1,16 @@
 ---
+title: step 018
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 62
 step: 18
 total_step: 6118
 ---
+
 
 # Phase 62 - Step 18
 

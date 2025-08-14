@@ -1,15 +1,22 @@
+# Initiative_Tracker
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- gm-resources
-- session-tools
-- combat
-- tracking
+title: Initiative Tracker
 type: Tool
+tags:
+- tracking
+- session-tools
+- research
+- active
+- gm-resources
+- combat
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
+
 
 > [!figure] Asset
 ![[04_Resources/Assets/Digital/ui-ui-initiative-tracker-initiative-tracker.png]]
@@ -193,3 +200,7 @@ world: Both
 - [[Underwater_Combat_Rules]]
 - [[Pressure_Combat_Modifiers]]
 - [[Session_Debrief_Template]]
+
+## Related
+
+*Links to related content will be added here.*

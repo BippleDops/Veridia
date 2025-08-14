@@ -1,15 +1,21 @@
+# Tenebrarum Ambassadors
+
 ---
+title: Tenebrarum Ambassadors
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 world: Both
 updated: '2025-08-13T01:18:36.976584+00:00'
-created: '2025-08-11'
-status: active
-tags:
-- active
-- both
-- npc
-type: NPC
 cr: '12'
 ---
+
 
 
 
@@ -306,3 +312,8 @@ Legends speak of Tenebrarum Ambassadors as a nexus where past and present conver
 - [[The Liminal Trading Company]]
 - [[Tribune Cassia Deepcurrent]]
 - [[Commander Typhoon Blackheart]]
+
+
+## Related
+
+*Links to related content will be added here.*

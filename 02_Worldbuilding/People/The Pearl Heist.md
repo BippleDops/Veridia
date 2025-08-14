@@ -1,25 +1,33 @@
 ---
-MyCategory: Events
-MyContainer: None
-created: '2025-08-11'
-created_by: auto-stub
-obsidianUIMode: preview
-status: complete
+title: The Pearl Heist
+type: Npc
 tags:
 - aquabyssos
-- complete
-- content/lore
-- content/npc
-- crime
-- heist
-- npc
-- pearl
 - status/complete
+- npc
+- content/lore
+- character
+- content/npc
+- pearl
+- active
+- heist
+- complete
 - world/aquabyssos
-type: Npc
+- crime
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
+MyCategory: Events
+MyContainer: None
+created_by: auto-stub
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.612009+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -96,9 +104,135 @@ The Pearl Heist refers to the most audacious theft in Aquabyssos history, when c
 ## Cultural Legacy
 The Pearl Heist has become legendary, inspiring criminals while haunting law enforcement. "Pearl Heist" is now slang for any perfectly executed theft, while "vault security" has become synonymous with false confidence.
 
+
+
+## Background
+
+The Pearl Heist's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Discovering truth
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+The Pearl Heist harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Stolen identity
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Direct and concise
+
+**Physical Habits**: Paces while speaking
+
+## Current Activities
+
+The Pearl Heist is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: The Pearl Heist needs assistance with a delicate matter
+2. **The Opposition**: Someone wants The Pearl Heist stopped or removed
+3. **The Secret**: Information about The Pearl Heist's past surfaces
+4. **The Alliance**: Opportunity to work with or against The Pearl Heist
+5. **The Crisis**: The Pearl Heist is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 The Pearl Heist provides excellent background for heist adventures, criminal investigations, or political intrigue. Use it as inspiration for similar crimes or as backstory revealing character connections to notorious criminals.
 
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-astrologer-prime-cassandra-starweaver-astrologer-prime-cassandra-starweaver.svg]]: *mentor*
+- [[04_Resources_Assets_Locations_location-city-choir-master-celestine-hymnsinger-v1-choir-master-celestine-hymnsinger.svg]]: *business partner*
+- [[Gold-Grave Harbor]]: *mentor*
 
 ## Connections
 
@@ -112,6 +246,12 @@ TODO
 
 
 ## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more withdrawn
+- **When Pleased**: Shows subtle satisfaction
+- **In Conflict**: Tends toward negotiation
+
 
 
 TODO

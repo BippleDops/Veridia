@@ -1,20 +1,26 @@
+# demon-customization-tables-demon-personality-traits-mtf
+
 ---
+title: demon customization tables demon personality traits mtf
 aliases:
 - Demon Customization Tables; Demon Personality Traits
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- active
+- ttrpg-cli/compendium/src/5e/mtf
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/mtf
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.234805'
 world: Both
 ---
+
 
 # Demon Customization Tables; Demon Personality Traits
 *Source: Mordenkainen's Tome of Foes p. 33* 
@@ -52,3 +58,8 @@ Legends speak of demon customization tables demon personality traits mtf as a ne
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

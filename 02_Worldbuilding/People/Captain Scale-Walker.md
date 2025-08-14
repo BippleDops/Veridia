@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Captain Scale Walker
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.539612+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -205,7 +213,14 @@ A research expedition funded by [[Castellan Ironledger III]] has gone missing in
 - Offers water to guests before any other refreshment
 - Never turns his back completely on the ocean
 
-### Motivations
+#
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
 - Preserve the ancient ways of deep navigation
 - Protect refugees and outcasts from political persecution
 - Discover the ultimate truth of the deep waters
@@ -245,6 +260,85 @@ Legends speak of Captain Scale Walker as a nexus where past and present converge
 - An NPC seeks discreet help at Captain Scale Walker to avert a public scandal.
 - A map overlay reveals a hidden approach to Captain Scale Walker active only during specific tides/storms.
 
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Sharp and precise
+
+**Speech Pattern**: Casual and relaxed
+
+**Physical Habits**: Gestures expressively
+
+## Current Activities
+
+Captain Scale-Walker is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Captain Scale-Walker needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Captain Scale-Walker stopped or removed
+3. **The Secret**: Information about Captain Scale-Walker's past surfaces
+4. **The Alliance**: Opportunity to work with or against Captain Scale-Walker
+5. **The Crisis**: Captain Scale-Walker is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -254,3 +348,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Captain Scale-Walker]]
 
 <!-- enriched: true -->
+
+
+
+
+## Relationship Web
+
+- [[Unite the Emperor]]: *sworn enemy*
+- [[Quest - The Deepest Current]]: *competitor*
+
+## Connections
+
+### Home
+- [[Crystal Storm Barriers]]
+
+### Affiliations
+- [[04_Resources_Assets_Handouts_handout-handout-cult-text-with-marginalia-v2-cult-text-with-marginalia.png]]
+
+### Known Associates
+- [[04_Resources_Assets_Locations_location-city-captain-marcus-v1-captain-marcus.svg]] (rival)
+- [[Quest - The Diplomatic Immunity Case]] (enemy)
+- [[Guard Captain Morris]] (ally)

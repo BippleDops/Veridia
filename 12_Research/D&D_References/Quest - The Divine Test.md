@@ -1,14 +1,20 @@
+# Quest - The Divine Test
+
 ---
-tags:
-- active
-- both
-- npc
+title: Quest   The Divine Test
 type: NPC
-world: Both
-status: active
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.888373+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-quest-the-divine-test-quest-the-divine-test.svg]]
@@ -69,3 +75,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[High Priestess Celeste Dawnbringer]]
 - [[The Crimson Sage]]
+
+
+## Related
+
+*Links to related content will be added here.*

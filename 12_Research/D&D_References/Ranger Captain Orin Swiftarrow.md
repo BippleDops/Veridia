@@ -1,14 +1,20 @@
+# Ranger Captain Orin Swiftarrow
+
 ---
-tags:
-- active
-- aethermoor
-- npc
+title: Ranger Captain Orin Swiftarrow
 type: NPC
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.989619+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-ranger-captain-orin-swiftarrow-ranger-captain-orin-swiftarrow.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Quest - The Root Network]]
+
+
+## Related
+
+*Links to related content will be added here.*

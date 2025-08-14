@@ -1,14 +1,20 @@
+# The Northern Kingdoms
+
 ---
-tags:
-- active
-- aquabyssos
-- npc
+title: The Northern Kingdoms
 type: NPC
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.972069+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-northern-kingdoms-the-northern-kingdoms.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Surface Ambassador Lord Seaworthy]]
+
+
+## Related
+
+*Links to related content will be added here.*

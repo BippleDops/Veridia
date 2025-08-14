@@ -1,18 +1,26 @@
+# Aquabyssos Adaptation Mechanics
+
 ---
-created: '2025-08-11'
-obsidianUIMode: preview
-status: complete
+title: Aquabyssos Adaptation Mechanics
+type: Mechanics
 tags:
-- aethermoor
+- aquabyssos
+- status/complete
+- mechanics
+- research
+- world/aethermoor
+- active
 - complete
 - content/mechanics
-- mechanics
-- status/complete
-- world/aethermoor
-type: Mechanics
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.776220+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -74,3 +82,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Aethermoor - Session 04 The Silverscale Gambit]]
+
+
+## Related
+
+*Links to related content will be added here.*

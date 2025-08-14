@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Order of the Silver Ancho
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Groups/Order of the Silver Ancho
 
@@ -24,8 +31,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Cult of the Deep Mother]]
-- [[12_Research/D&D_References/Shadow Surgeons Collective]]
+- [[Cult of the Deep Mother]]
+- [[Shadow Surgeons Collective]]
 - [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
 
@@ -38,3 +45,8 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[The Royal Treasury Depths]]
+- [[04_Resources_Assets_Portraits_portrait-npc-lady-seraphina-goldleaf-lady-seraphina-goldleaf.svg]]

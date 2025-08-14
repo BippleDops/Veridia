@@ -1,14 +1,20 @@
+# Paladin Commander Sir Radiant Dawnbreaker
+
 ---
-tags:
-- active
-- aethermoor
-- npc
+title: Paladin Commander Sir Radiant Dawnbreaker
 type: NPC
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.830986+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-paladin-commander-sir-radiant-dawnbreaker-paladin-commander-sir-radiant-dawnbreaker.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Cathedral of Light]]
+
+
+## Related
+
+*Links to related content will be added here.*

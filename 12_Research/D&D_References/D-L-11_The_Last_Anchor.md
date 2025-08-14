@@ -1,19 +1,25 @@
+# D-L-11_The_Last_Anchor
+
 ---
 title: "Encounter Sheet \u2014 D-L-11 The Last Anchor"
 type: gm_resource
-status: complete
 tags:
 - both
-- complete
-- depth
-- encounter
-- gm
-- gm_resource
 - legendary
+- encounter
+- depth
+- gm
+- research
+- active
+- gm_resource
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.140231+00:00'
 world: Both
 ---
+
 
 
 # D-L-11 The Last Anchor
@@ -60,3 +66,8 @@ Legends speak of D L 11 The Last Anchor as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

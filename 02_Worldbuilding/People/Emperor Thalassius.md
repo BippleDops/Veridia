@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Emperor Thalassius
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.689812+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -96,12 +104,29 @@ Emperor Thalassius has ruled [[Aquabyssos]] for over three centuries, though mos
 > - Has been gradually preparing for succession for decades
 > - The coral crown contains a fragment of his original human soul
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Formal and elaborate
+
+**Physical Habits**: Steeples fingers when thinking
+
 ## Current Activities
 - Mediating tensions between traditional Aquabyssos factions and surface sympathizers
 - Investigating strange currents from the [[Hadal Depths|02 Worldbuilding/Places/Hadal Depths]]
 - Secret diplomatic correspondence with [[Aethermoor]]
 - Preparing [[Duke Cyrus Reefheart]] for eventual succession
 - Researching ways to slow his shadow consumption
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 ## Motivations
 1. **Primary**: Ensure Aquabyssos thrives after his eventual passing
@@ -145,6 +170,61 @@ Emperor Thalassius has ruled [[Aquabyssos]] for over three centuries, though mos
 
 *"There are shadows in the deep that remember sunlight. I am one of them."* - Private reflection
 
+
+
+## Background
+
+Emperor Thalassius's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Plot Hooks
+
+1. **The Request**: Emperor Thalassius needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Emperor Thalassius stopped or removed
+3. **The Secret**: Information about Emperor Thalassius's past surfaces
+4. **The Alliance**: Opportunity to work with or against Emperor Thalassius
+5. **The Crisis**: Emperor Thalassius is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Use as patron/quest giver rather than antagonist
 - His shadow magic can provide plot hooks to both worlds
@@ -169,6 +249,14 @@ Emperor Thalassius has ruled [[Aquabyssos]] for over three centuries, though mos
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Investigation of deep currents
 - [[The Depth Accords]] - Surface/depth treaties
 
+
+
+
+## Relationship Web
+
+- [[Pirate Lords of the Spiral Depths]]: *business partner*
+- [[Captain Voidguard]]: *family member*
+- [[04_Resources_Assets_Locations_location-city-quartermaster-david-simpleton-quartermaster-david-simpleton.svg]]: *debt holder*
 
 ## Connections
 

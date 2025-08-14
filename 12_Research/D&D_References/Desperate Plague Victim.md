@@ -1,25 +1,32 @@
+# Desperate Plague Victim
+
 ---
+title: Desperate Plague Victim
+type: Lore
 tags:
-- both
-- both-worlds
-- complete
-- desperation
 - human-cost
-- individual-story
 - lore
+- both
 - plague-victim
 - reality-sickness
 - shadow-corruption
+- both-worlds
+- research
 - transformation-trauma
+- active
+- individual-story
+- complete
+- desperation
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both
-type: Lore
 category: Individual Character
 significance: Human Representative
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -357,3 +364,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Convergence Point]]
 - [[The Crimson Hand]]
 - [[The Transformed Citizens]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,25 +1,33 @@
+# Agent Whisper Voidheart
+
 ---
+title: Agent Whisper Voidheart
+type: NPC
 tags:
 - aquabyssos
-- shadow-conspiracy
 - npc
+- research
 - operative
-- infiltration
+- active
 - complete
-type: NPC
-world: Aquabyssos
+- infiltration
+- shadow-conspiracy
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 race: Human (Shadow-Enhanced)
 class: Rogue/Warlock
-level: 11
-alignment: Lawful Evil
-faction: '[[The Shadow Conspiracy Hierarchy|02 Worldbuilding/Groups/The Shadow Conspiracy Hierarchy]]'
 location: '[[Crystallium|02 Worldbuilding/Places/Crystallium]]'
+level: 11
+world: Aquabyssos
+alignment: Lawful Evil
+faction: '[[The Shadow Conspiracy Hierarchy|02 Worldbuilding/Groups/The Shadow Conspiracy
+  Hierarchy]]'
 hierarchy_rank: Shadow Agent (6th Sphere)
 specialization: Government Infiltration
-created: '2025-08-12'
 updated: '2025-08-12T00:00:00+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-agent-whisper-voidheart-agent-whisper-voidheart.svg]]
@@ -464,3 +472,8 @@ Legends speak of Agent Whisper Voidheart as a nexus where past and present conve
 - [[Agent Whisper Voidheart|02 Worldbuilding/People/Agent Whisper Voidheart]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

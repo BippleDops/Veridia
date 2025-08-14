@@ -1,22 +1,29 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
-danger_level: Moderate
-status: complete
+title: The Tidecaller
+type: Location
 tags:
-- aethermoor
-- complete
+- status/complete
+- mechanics/magic
 - content/location
 - content/npc
-- location
 - maritime
-- mechanics/magic
-- status/complete
 - world/aethermoor
-type: Location
+- place
+- location
+- complete
+- active
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+created_by: auto-stub
+danger_level: Moderate
 updated: '2025-08-13T12:34:17.002556+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View
@@ -150,6 +157,27 @@ Marina discovered her affinity for tide magic during childhood storms that threa
 **Research**: Deep study of connection between surface and deep ocean magic
 **Legacy**: Writing comprehensive guide to tide magic theory and practice
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 The Tidecaller serves as powerful ally for maritime adventures, quest giver for ocean-related missions, and expert consultant on water magic. Her abilities can significantly impact naval combat and coastal exploration scenarios.
 
@@ -172,3 +200,97 @@ Legends speak of The Tidecaller as a nexus where past and present converge. Loca
 - [[The Tidecaller]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-great-resonance-the-great-resonance.svg]]
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-the-wandering-atoll-v1-the-wandering-atoll.svg]]
+- [[Sea Horse]]
+- [[04_Resources_Assets_Locations_location-city-the-divine-trial-the-divine-trial.svg]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+The Tidecaller is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Tidecaller
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+The Tidecaller was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting The Tidecaller:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Tidecaller
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

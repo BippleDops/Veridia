@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: '#Quest Details'
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # #Quest Details
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Template-Quest]]
+- [[Template-Quest]]
 
 ## Notes
 
@@ -35,3 +41,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Free Captains Alliance]]
+- [[04_Resources_Assets_Locations_location-city-master-curator-pearl-artflow-v1-master-curator-pearl-artflow.svg]]
+- [[Emperor Thalassius the Wise]]
+- [[Quest - Nature]]
+- [[04_Resources_Assets_Locations_location-city-transportation-guild-masters-v1-transportation-guild-masters.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-reality-monitoring-specialists-reality-monitoring-specialists.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-pearl-markets-the-pearl-markets.svg]]
+- [[04_Resources_Assets_Locations_location-city-crystallium-crystallium.svg]]

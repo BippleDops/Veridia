@@ -1,24 +1,31 @@
+# The Banker Fish
+
 ---
+title: The Banker Fish
+type: Location
 tags:
 - aquabyssos
-- bank
-- complete
-- finance
-- location
 - maritime-banking
+- finance
+- research
+- active
+- location
+- complete
 - pearl-economy
+- bank
 - underwater-currency
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Financial Institution
 obsidianUIMode: preview
 updated: '2025-08-12T00:00:00+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-banker-fish-the-banker-fish.svg]]
@@ -386,3 +393,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Banker Fish|02 Worldbuilding/Places/The Banker Fish]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

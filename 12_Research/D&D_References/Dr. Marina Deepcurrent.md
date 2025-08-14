@@ -1,16 +1,24 @@
+# Dr. Marina Deepcurrent
+
 ---
+title: Dr. Marina Deepcurrent
+aliases:
+- Dr Marina Deepcurrent
+type: Lore
 tags:
-- active
+- lore
 - both worlds
 - both-worlds
+- research
+- active
 - complete
-- lore
-type: Lore
-world: Both Worlds
-status: complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+world: Both Worlds
 updated: '2025-08-13T12:34:12.161875+00:00'
 ---
+
 
 
 
@@ -50,3 +58,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Threshold]]
+
+
+## Related
+
+*Links to related content will be added here.*

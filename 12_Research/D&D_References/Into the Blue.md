@@ -1,20 +1,27 @@
+# Into the Blue
+
 ---
+title: Into the Blue
+type: Location
 tags:
+- mystery
 - aquabyssos
-- complete
 - deep-ocean
+- quest
+- research
+- active
 - exploration
 - location
-- mystery
-- quest
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.474138+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -180,3 +187,8 @@ Legends speak of Into the Blue as a nexus where past and present converge. Local
 - [[Into the Blue|02 Worldbuilding/Places/Into The Blue]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

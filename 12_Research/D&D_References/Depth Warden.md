@@ -1,15 +1,21 @@
+# Depth Warden
+
 ---
+title: Depth Warden
+type: Lore
 tags:
-- active
+- lore
 - dual
 - historical_legend
-- lore
-type: Lore
-world: dual
-status: active
+- research
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: dual
 updated: '2025-08-13T01:18:34.838305+00:00'
 ---
+
 
 
 
@@ -45,3 +51,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Depth Warden|02 Worldbuilding/Places/Depth Warden]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

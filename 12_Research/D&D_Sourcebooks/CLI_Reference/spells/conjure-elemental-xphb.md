@@ -1,28 +1,34 @@
+# conjure-elemental-xphb
+
 ---
+title: conjure elemental xphb
 aliases:
 - Conjure Elemental
+type: note
+tags:
+- world/aquabyssos
+- mechanics/magic
+- content/lore
+- world/both
+- research
+- active
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
 classes:
 - Bard
 - Druid
 - Druid (Circle of the Sea)
 - Wizard
-created: 2025-07-23
 cssclasses: json5e-spell
-modified: 2025-07-23 12:39
 obsidianUIMode: preview
-status: active
-tags:
-- content/lore
-- mechanics/magic
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-- world/aquabyssos
-- world/both
-type: note
 updated: '2025-08-12T23:37:36.452641'
 world: Both
 ---
+
 
 # Conjure Elemental
 *5th-level, Conjuration*  
@@ -62,3 +68,8 @@ Legends speak of conjure elemental xphb as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

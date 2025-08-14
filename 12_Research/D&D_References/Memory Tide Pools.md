@@ -1,15 +1,21 @@
+# Memory Tide Pools
+
 ---
-tags:
-- active
-- both
-- location
+title: Memory Tide Pools
 type: Location
-world: Both
-status: active
+tags:
+- both
+- active
+- location
+- research
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.330191+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-memory-tide-pools-memory-tide-pools.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Memory Tide Pools|02 Worldbuilding/Places/Memory Tide Pools]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

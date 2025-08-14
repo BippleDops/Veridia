@@ -1,15 +1,22 @@
+# Session_Planning_Template
+
 ---
-created: '2025-08-13'
-status: complete
+title: Session Planning Template
+type: Tool
 tags:
-- gm-resources
+- template
 - session-tools
 - planning
-- template
-type: Tool
+- active
+- gm-resources
+- note
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
+
 
 # Session Planning Template
 
@@ -191,3 +198,7 @@ world: Both
 - [[Faction_Network_Tracker]]
 - [[GM_Quick_Reference]]
 - [[Session_Debrief_Template]]
+
+## Related
+
+*Links to related content will be added here.*

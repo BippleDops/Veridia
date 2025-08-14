@@ -1,24 +1,31 @@
+# Stop the Crystal Festival Ritual
+
 ---
+title: Stop the Crystal Festival Ritual
+type: Lore
 tags:
-- aethermoor
+- lore
 - apocalyptic
+- ritual
+- high-stakes
+- quest
+- research
+- active
 - complete
 - crystal-festival
-- high-stakes
-- lore
-- quest
-- ritual
-status: complete
-world: Aethermoor
-type: Lore
-level: 10-15
-created_by: auto-stub
+- aethermoor
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+level: 10-15
+world: Aethermoor
+created_by: auto-stub
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:34.471541+00:00'
 ---
+
 
 
 
@@ -335,3 +342,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Quest - Nature's Balance|02 Worldbuilding/Quests/Quest Nature's Balance]]
 - [[Aethermoor]]
 - [[Withered Court]]
+
+
+## Related
+
+*Links to related content will be added here.*

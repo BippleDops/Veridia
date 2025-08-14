@@ -1,17 +1,23 @@
+# Aethermoor_Airships
+
 ---
 title: Aethermoor Airships
 type: mechanics
-status: complete
 tags:
-- aethermoor
 - airships
-- complete
 - mechanics
 - vehicles
+- research
+- active
+- complete
+- aethermoor
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:37.146785+00:00'
 world: Aethermoor
 ---
+
 
 
 # Aethermoor Airships
@@ -82,3 +88,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Vehicles_Index|03 Mechanics/Vehicles/Vehicles Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

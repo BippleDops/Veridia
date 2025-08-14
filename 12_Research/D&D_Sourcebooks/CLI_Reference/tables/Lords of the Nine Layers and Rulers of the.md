@@ -1,22 +1,27 @@
+# Lords of the Nine Layers and Rulers of the
+
 ---
+title: Lords of the Nine Layers and Rulers of the
 aliases:
 - Lords of the Nine; Layers and Rulers of the Nine Hells
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
+- research
+- world/both
+- active
+- ttrpg-cli/compendium/src/5e/mtf
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/mtf
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:04.125625+00:00'
 world: Both
 ---
+
 
 
 # Lords of the Nine; Layers and Rulers of the Nine Hells
@@ -56,3 +61,8 @@ Legends speak of lords of the nine layers and rulers of the nine hells mtf as a 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

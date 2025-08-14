@@ -1,18 +1,25 @@
+# Commander Ironprice 3
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aethermoor
-- complete
-- content/lore
-- content/npc
-- lore
-- status/in-progress
-- world/aethermoor
+title: Commander Ironprice 3
 type: Lore
+tags:
+- lore
+- content/lore
+- research
+- content/npc
+- world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:28.964933+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -54,3 +61,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Silverscale Consortium]]
 - [[Lady Jade Clawgrip]]
 - [[The Nameless Auditor]]
+
+
+## Related
+
+*Links to related content will be added here.*

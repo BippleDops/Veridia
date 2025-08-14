@@ -1,30 +1,37 @@
+# The Liminal Trading Company
+
 ---
+title: The Liminal Trading Company
+type: Group
 tags:
-- aethermoor
 - aquabyssos
+- faction
+- trading-company
+- research
 - both aethermoor & aquabyssos
+- active
 - both-aethermoor-&-aquabyssos
 - complete
+- smugglers
 - cross-realm
-- faction
+- aethermoor
 - group
 - merchants
-- smugglers
-- trading-company
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
+headquarters: '[[pat|02 Worldbuilding/Lore/pat]] (dimensional nexus)'
 world: Both Aethermoor & Aquabyssos
-type: Group
 faction_type: Cross-Realm Trading Syndicate
 alignment: True Neutral (Profit-focused)
-headquarters: '[[pat|02 Worldbuilding/Lore/pat]] (dimensional nexus)'
 leader: '[[Merchant Prince Vortex]]'
 members: ~1,200 traders, smugglers, and support staff
 influence: Significant (controls cross-realm commerce)
 purpose: Profit from inter-dimensional trade
 created_by: auto-stub
-created: '2025-08-09'
 updated: '2025-08-13T01:18:36.711399+00:00'
 ---
+
 
 
 
@@ -478,3 +485,8 @@ Legends speak of The Liminal Trading Company as a nexus where past and present c
 - [[Quest - The Convergence Crisis|02 Worldbuilding/Quests/Quest The Convergence Crisis]]
 - [[Memory Farmers]]
 - [[The Floating Market]]
+
+
+## Related
+
+*Links to related content will be added here.*

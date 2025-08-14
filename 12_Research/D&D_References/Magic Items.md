@@ -1,23 +1,29 @@
+# Magic Items
+
 ---
+title: Magic Items
+type: Lore
 tags:
-- aethermoor
-- aquabyssos
-- artifacts
-- both worlds
-- both-worlds
-- complete
-- cross-realm-items
-- enchanted-equipment
 - lore
-- magic-items
+- aquabyssos
 - magical-crafting
+- both worlds
+- complete
+- both-worlds
+- enchanted-equipment
 - surface-magic
 - underwater-magic
+- magic-items
+- active
+- research
+- artifacts
+- aethermoor
+- cross-realm-items
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both Worlds
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.534224+00:00'
 item_categories: Comprehensive Catalog
 scope: Both Worlds
@@ -25,6 +31,7 @@ application: Adventure Equipment
 crafting_traditions: Multiple Cultures
 magical_schools: All Schools
 ---
+
 
 
 
@@ -390,3 +397,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Eastern Kingdom]]
 - [[United Councils of Both Worlds]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

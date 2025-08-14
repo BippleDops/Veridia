@@ -1,25 +1,31 @@
 ---
-affiliation: '[[Purist Coalition]] - Military Wing'
-age: '43'
-created: '2025-08-09'
-created_by: auto-stub
-location: '[[The Verdant Reach]] - Coalition Military Base'
-race: Human
-role: Military Commander
-status: complete
+title: Commander Thrace Ironwood
+type: Npc
 tags:
-- aethermoor
-- complete
-- content/npc
+- status/complete
 - military-commander
 - npc
 - purist-coalition
-- status/complete
+- content/npc
+- character
 - world/aethermoor
-type: Npc
+- active
+- complete
+- aethermoor
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+race: Human
+class: Unknown
+location: '[[The Verdant Reach]] - Coalition Military Base'
+affiliation: '[[Purist Coalition]] - Military Wing'
+age: '43'
+created_by: auto-stub
+role: Military Commander
 updated: '2025-08-13T12:34:17.599531+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait
@@ -504,6 +510,136 @@ Thrace plans a massive assault on the [[Crystal Festival]] that could kill thous
 
 ---
 
+
+
+## Appearance
+
+Commander Thrace Ironwood presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Empathetic, empathetic, empathetic
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Gaining power
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Commander Thrace Ironwood harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Double agent
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Sharp and precise
+
+**Speech Pattern**: Formal and elaborate
+
+**Physical Habits**: Steeples fingers when thinking
+
+## Current Activities
+
+Commander Thrace Ironwood is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Commander Thrace Ironwood needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Commander Thrace Ironwood stopped or removed
+3. **The Secret**: Information about Commander Thrace Ironwood's past surfaces
+4. **The Alliance**: Opportunity to work with or against Commander Thrace Ironwood
+5. **The Crisis**: Commander Thrace Ironwood is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Perfect antagonist who believes he's the hero of his story
 - His military expertise makes Coalition a credible threat
@@ -514,6 +650,15 @@ Thrace plans a massive assault on the [[Crystal Festival]] that could kill thous
 - **Social Encounters**: Driven by genuine conviction but increasingly inflexible
 - **Character Development**: Can be redeemed through addressing his trauma, or can fall further into extremism
 - **Campaign Impact**: His actions should have lasting consequences for crystal technology and political stability
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-market-master-cornelius-driftwood-v1-market-master-cornelius-driftwood.svg]]: *informant*
+- [[04_Resources_Assets_Locations_location-city-quartermaster-judith-supplycurrent-v1-quartermaster-judith-supplycurrent.svg]]: *sworn enemy*
+- [[04_Resources_Assets_Locations_location-city-the-resonance-cathedral-v1-the-resonance-cathedral.svg]]: *former lover*
+- [[04_Resources_Assets_Locations_location-city-archdruid-marina-kelpweaver-v1-archdruid-marina-kelpweaver.svg]]: *sworn enemy*
 
 ## Connections
 

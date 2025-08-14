@@ -1,15 +1,22 @@
+# Crystal_Corruption_Recognition_Guide
+
 ---
-created: '2025-08-13'
-status: ready
+title: Crystal Corruption Recognition Guide
+type: Player Handout
 tags:
-- status/ready
-- type/player-handout
+- research
 - world/both
 - category/safety
-type: Player Handout
+- type/player-handout
+- active
+- status/ready
+created: '2025-08-13'
+modified: '2025-08-14'
+status: ready
 updated: '2025-08-13T12:30:00.000000'
 world: Both
 ---
+
 
 # Crystal Corruption Recognition Guide - Player Handout
 
@@ -231,3 +238,7 @@ world: Both
 ---
 
 *Published by the Joint Crystal Safety Commission - Aquabyssos Ministry of Health and Aethermoor Department of Magical Safety*
+
+## Related
+
+*Links to related content will be added here.*

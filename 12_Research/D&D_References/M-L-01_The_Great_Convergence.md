@@ -1,19 +1,25 @@
+# M-L-01_The_Great_Convergence
+
 ---
 title: "Encounter Sheet \u2014 M-L-01 The Great Convergence"
 type: gm_resource
-status: complete
 tags:
 - both
-- complete
+- merger
+- legendary
 - encounter
 - gm
+- research
+- active
 - gm_resource
-- legendary
-- merger
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.130706+00:00'
 world: Both
 ---
+
 
 
 # M-L-01 The Great Convergence
@@ -60,3 +66,8 @@ Legends speak of M L 01 The Great Convergence as a nexus where past and present 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

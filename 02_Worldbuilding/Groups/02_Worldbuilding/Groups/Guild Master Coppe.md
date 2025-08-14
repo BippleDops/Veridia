@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Guild Master Coppe
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+![02_Worldbuilding/Groups/Guild Master Coppe](../../../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_guild_master_coppe.png)
+
+
 
 # 02_Worldbuilding/Groups/Guild Master Coppe
 
@@ -35,3 +45,7 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[Archivist Mnemonic the Forgotten]]

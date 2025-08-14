@@ -1,18 +1,25 @@
+# Economic_Ripple_Effects_Template
+
 ---
+title: Economic Ripple Effects Template
+type: Template
 tags:
 - both
-- campaign-management
-- complete
-- economic-consequences
-- gm-tools
 - template
+- campaign-management
+- research
+- gm-tools
+- economic-consequences
 - trade-tracking
-type: Template
-status: complete
+- active
+- complete
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.184120+00:00'
 world: Both
 ---
+
 
 
 # Economic Ripple Effects Template

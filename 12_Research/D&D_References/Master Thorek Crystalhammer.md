@@ -1,17 +1,24 @@
+# Master Thorek Crystalhammer
+
 ---
-created: '2025-08-11'
-status: complete
+title: Master Thorek Crystalhammer
+type: Location
 tags:
 - both
-- complete
-- content/location
-- location
-- status/in-progress
+- research
 - world/both
-type: Location
+- content/location
+- active
+- location
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.544847+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -49,3 +56,8 @@ Legends speak of Master Thorek Crystalhammer as a nexus where past and present c
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

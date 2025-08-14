@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session Template
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # 06_Session_Management/Session_Template
 
@@ -35,3 +42,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Quest - The Shadow Fleet]]
+- [[The Crimson Sage]]
+- [[Captain Nerida Stormcrest]]
+- [[Quest - The Shattered Memories]]
+- [[04_Resources_Assets_Locations_location-city-quartermaster-shadow-supply-quartermaster-shadow-supply.svg]]
+
+
+## Important Locations
+
+- [[Private Arbitration]]
+- [[Heart of Eternal Vigilance]]
+- [[04_Resources_Assets_Locations_location-city-void-prophet-nullus-the-erased-v1-void-prophet-nullus-the-erased.svg]]

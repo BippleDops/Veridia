@@ -1,15 +1,21 @@
+# Tidal Council
+
 ---
+title: Tidal Council
+type: Lore
 tags:
-- active
+- lore
 - dual
 - historical_legend
-- lore
-type: Lore
-world: dual
-status: active
+- research
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: dual
 updated: '2025-08-13T01:18:35.946020+00:00'
 ---
+
 
 
 
@@ -52,3 +58,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[The Deserter's Tale]]
 - [[Tide Turner's Trident]]
+
+
+## Related
+
+*Links to related content will be added here.*

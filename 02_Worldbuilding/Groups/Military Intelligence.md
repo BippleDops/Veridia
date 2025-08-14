@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Military Intelligence
+type: Faction
 tags:
 - both
-- complete
 - content/faction
 - faction
-- status/in-progress
+- organization
 - world/both
-type: Faction
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.296772+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Heraldry
@@ -66,3 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Merchant's Covenant]]
 - [[Mad Oracle Thessaly]]
+
+
+## Known Members
+
+- [[Free Captains Alliance]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-cipher-current-the-cipher-current.svg]]

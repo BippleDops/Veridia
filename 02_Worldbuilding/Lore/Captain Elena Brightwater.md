@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Captain Elena Brightwater
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Captain Elena Brightwater
 
@@ -24,8 +28,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Houses_and_Nobility - House Brightshield]]
-- [[12_Research/D&D_References/House Brightshield]]
+- [[Houses_and_Nobility - House Brightshield]]
+- [[House Brightshield]]
 - [[12_Research/D&D_Statblocks/Quest - The Pretender]]
 - [[02_Worldbuilding/Places/Quest - The Pretender]]
 

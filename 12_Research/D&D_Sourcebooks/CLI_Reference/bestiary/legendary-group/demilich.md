@@ -1,21 +1,26 @@
+# demilich
+
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-- active
-- both
-- note
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/legendary-group
+title: demilich
 aliases:
 - Demilich
 type: note
+tags:
+- both
+- ttrpg-cli/monster/legendary-group
+- ttrpg-cli/compendium/src/5e/mm
+- research
+- active
+- note
 created: 2025-07-23
-updated: '2025-08-13T01:18:32.864529+00:00'
-modified: 2025-07-23 12:39
-world: Both
+modified: '2025-08-14'
 status: active
+obsidianUIMode: preview
+cssclasses: json5e-note
+updated: '2025-08-13T01:18:32.864529+00:00'
+world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -62,3 +67,8 @@ Legends speak of demilich as a nexus where past and present converge. Locals des
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

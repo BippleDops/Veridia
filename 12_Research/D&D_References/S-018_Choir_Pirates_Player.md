@@ -1,18 +1,24 @@
+# S-018_Choir_Pirates_Player
+
 ---
 title: "Player Handout \u2014 S-018 Choir Pirates"
 type: handout
-status: complete
-audience: player
 tags:
 - both
-- complete
 - encounter
 - handout
+- research
+- active
 - sky
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+audience: player
 updated: '2025-08-13T01:18:37.203778+00:00'
 world: Both
 ---
+
 
 
 # Choir Pirates
@@ -36,3 +42,8 @@ Possible outcomes
 ## Cross-References
 
 - [[Aethermoor_Session_01|06 GM Resources/Session Packets/Aethermoor Session 01]]
+
+
+## Related
+
+*Links to related content will be added here.*

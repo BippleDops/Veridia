@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 4   The Shadow Parliament
 type: session
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - session
+- quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 4 - The Shadow Parliament
 
@@ -36,3 +43,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[Shadow Parliament]]
+- [[Quest - The Traitor Within]]
+- [[Tribune Cassia Deepcurrent]]
+- [[Lady Penelope Procedure]]
+- [[Lord Magnus Goldspire]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-surface-traders-surface-traders.svg]]
+- [[04_Resources_Assets_Locations_location-city-crystal-speak-crystal-speak.png]]
+- [[04_Resources_Assets_Locations_location-city-crystal-cult-temples-crystal-cult-temples.svg]]

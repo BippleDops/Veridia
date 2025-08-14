@@ -1,19 +1,25 @@
+# X-005_Dream_Sailing_Convoy
+
 ---
 title: "Encounter Sheet \u2014 X-005 Dream Sailing Convoy"
 type: gm_resource
-status: complete
 tags:
 - both
-- complete
 - dream
 - encounter
 - gm
+- research
+- active
 - gm_resource
+- complete
 - mixed
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.127748+00:00'
 world: Both
 ---
+
 
 
 # X-005 Dream Sailing Convoy
@@ -57,3 +63,8 @@ Legends speak of X 005 Dream Sailing Convoy as a nexus where past and present co
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

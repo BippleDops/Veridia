@@ -1,14 +1,20 @@
+# The Conductor
+
 ---
-updated: '2025-08-13T01:18:36.339195+00:00'
-created: '2025-08-11'
+title: The Conductor
+type: location
 tags:
 - aquabyssos
 - category/place
-- complete
+- research
+- active
 - location
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
+updated: '2025-08-13T01:18:36.339195+00:00'
 world: Aquabyssos
-type: location
 obsidianUIMode: preview
 accessibility:
   screen_reader_summary: The Conductor is a notable location in Aquabyssos shaped
@@ -23,6 +29,7 @@ accessibility:
   - X-Card
   - Open Door
 ---
+
 
 
 
@@ -92,3 +99,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Abyssos Prime]]
 - [[Screaming Gardens]]
 - [[Aquabyssos - Session 07 - The Resonance Revelation]]
+
+
+## Related
+
+*Links to related content will be added here.*

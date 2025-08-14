@@ -1,23 +1,28 @@
+# Amulet of Proof Against Detection and
+
 ---
+title: Amulet of Proof Against Detection and
 aliases:
 - Amulet of Proof against Detection and Location
-created: 2025-07-23
-cssclasses: json5e-item
-modified: 2025-07-23 12:39
-obsidian-u-i-mode: preview
-status: active
+type: note
 tags:
-- active
 - both
-- content/item
+- research
+- world/both
+- active
 - note
+- content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-item
+obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:07.955201+00:00'
 world: Both
 ---
+
 
 
 # Amulet of Proof against Detection and Location
@@ -49,3 +54,8 @@ Legends speak of amulet of proof against detection and location xdmg as a nexus 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

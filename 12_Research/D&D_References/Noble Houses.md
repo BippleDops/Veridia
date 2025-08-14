@@ -1,14 +1,20 @@
+# Noble Houses
+
 ---
+title: Noble Houses
+type: Lore
+tags:
+- lore
+- both
+- active
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:35.217404+00:00'
 world: Both
-type: Lore
-status: active
-tags:
-- active
-- both
-- lore
 ---
+
 
 
  Both

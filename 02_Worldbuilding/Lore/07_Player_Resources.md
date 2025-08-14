@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: 07 Player Resources
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 07_Player_Resources
 
@@ -24,8 +28,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Campaign_Dashboard]]
-- [[12_Research/D&D_References/Campaign_Dashboard]]
+- [[Campaign_Dashboard]]
+- [[Campaign_Dashboard]]
 - [[12_Research/D&D_Sourcebooks/MASTER_VAULT_DASHBOARD]]
 
 ## Notes

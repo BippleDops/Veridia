@@ -1,18 +1,23 @@
+# Crystal Caverns
+
 ---
-created: '2025-08-11'
-updated: '2025-08-13T01:18:36.042927+00:00'
-world: Both
-status: active
+title: Crystal Caverns
+type: Location
 tags:
-- active
-- both
-- caverns
-- crystals
-- dangerous
-- location
 - magical
 - underground
-type: Location
+- both
+- crystals
+- research
+- dangerous
+- active
+- location
+- caverns
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+updated: '2025-08-13T01:18:36.042927+00:00'
+world: Both
 danger_level: High
 location_type: Underground Crystal Formation
 parent_location: '[[The Sundered Peaks|02 Worldbuilding/Places/The Sundered Peaks]]'
@@ -24,6 +29,7 @@ notable_resources:
 - Memory Crystals
 - Corrupted Shards
 ---
+
 
 
 > [!figure] View
@@ -277,3 +283,8 @@ Legends speak of Crystal Caverns as the heart of the world where crystallized ma
 Emphasize the sensory overwhelm and wonder of the crystal environment. Use the harmonic descriptions to create atmospheric mood, and remember that the caverns respond to party emotions and actions. The interdimensional aspects allow for encounters with beings from either realm, while corruption areas provide constant environmental threat.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

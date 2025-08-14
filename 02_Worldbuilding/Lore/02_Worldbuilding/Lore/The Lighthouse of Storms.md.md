@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: The Lighthouse of Storms.md
+aliases:
+- The Lighthouse of Stormsmd
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Lore/The Lighthouse of Storms.md
 
@@ -24,16 +30,16 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Verdant Accord]]
-- [[12_Research/D&D_References/The Verdant Accord]]
-- [[12_Research/D&D_References/The Verdant Accord]]
-- [[12_Research/D&D_References/Sage Lyralei Starweaver]]
-- [[12_Research/D&D_References/Sage Lyralei Starweaver]]
-- [[12_Research/D&D_References/Quest - The Pretender]]
-- [[12_Research/D&D_References/Quest - The Pretender]]
-- [[12_Research/D&D_References/Quest - The Pretender]]
-- [[12_Research/D&D_References/The Corroded Crown]]
-- [[12_Research/D&D_References/The Corroded Crown]]
+- [[The Verdant Accord]]
+- [[The Verdant Accord]]
+- [[The Verdant Accord]]
+- [[Sage Lyralei Starweaver]]
+- [[Sage Lyralei Starweaver]]
+- [[Quest - The Pretender]]
+- [[Quest - The Pretender]]
+- [[Quest - The Pretender]]
+- [[The Corroded Crown]]
+- [[The Corroded Crown]]
 
 ## Notes
 

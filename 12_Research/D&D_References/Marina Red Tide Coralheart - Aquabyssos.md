@@ -1,30 +1,37 @@
+# Marina Red Tide Coralheart - Aquabyssos
+
 ---
+title: Marina Red Tide Coralheart   Aquabyssos
+type: NPC
 tags:
-- adapted
 - aquabyssos
-- complete
-- guide
-- major-npc
-- npc
 - ranger
 - shadow-resistant
+- guide
+- npc
+- research
+- adapted
+- major-npc
+- active
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
-world: Aquabyssos
-type: NPC
 race: Human (Depth-Adapted)
 class: Ranger/Druid
-level: 10
-alignment: Neutral Good
 location: '[[Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]'
+level: 10
+world: Aquabyssos
+alignment: Neutral Good
 faction: Independent (Former [[Depth Guard]])
 status_condition: Switching with Shadow
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] Portrait

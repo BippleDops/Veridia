@@ -1,21 +1,27 @@
+# barbarian-xphb-path-of-the-storm-herald-xge
+
 ---
+title: barbarian xphb path of the storm herald xge
 aliases:
 - Path of the Storm Herald
-created: 2025-07-23
-cssclasses: json5e-class
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- ttrpg-cli/compendium/src/5e/xge
+- research
+- world/both
+- ttrpg-cli/subclass/barbarian/storm-herald
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/barbarian/storm-herald
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-class
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.406150'
 world: Both
 ---
+
 
 # Path of the Storm Herald
 *[[barbarian-xphb|Barbarian]]: Barbarian Subclass*  
@@ -139,3 +145,8 @@ Legends speak of barbarian xphb path of the storm herald xge as a nexus where pa
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

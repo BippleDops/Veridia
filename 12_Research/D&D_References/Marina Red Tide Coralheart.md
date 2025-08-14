@@ -1,14 +1,20 @@
+# Marina Red Tide Coralheart
+
 ---
-tags:
-- active
-- lore
-- universal
+title: Marina Red Tide Coralheart
 type: Lore
-world: Universal
-status: active
+tags:
+- lore
+- research
+- active
+- universal
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Universal
 updated: '2025-08-13T01:18:34.582856+00:00'
 ---
+
 
 
 
@@ -44,3 +50,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Update Indexes|02 Worldbuilding/Lore/Update Indexes]]
+
+
+## Related
+
+*Links to related content will be added here.*

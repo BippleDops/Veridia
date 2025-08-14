@@ -1,32 +1,38 @@
 ---
+title: The Shadow Conspiracy
+type: Faction
+tags:
+- aquabyssos
+- status/complete
+- shadow
+- content/faction
+- faction
+- importance/major
+- organization
+- active
+- complete
+- infiltration
+- conspiracy
+- world/aquabyssos
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Shadow Parliament]] (Hidden Phase)'
+membership: Unknown
 MyCategory: Unknown
 MyContainer: None
 alignment: Lawful Evil
-created: '2025-08-08'
 created_by: auto-stub
 faction_type: Secret Society
-headquarters: '[[The Shadow Parliament]] (Hidden Phase)'
 influence: Continental (Hidden)
 leader: Collective Leadership
 members: Unknown (Estimated 5,000+)
 obsidianUIMode: preview
-status: complete
-tags:
-- aquabyssos
-- complete
-- conspiracy
-- content/faction
-- faction
-- importance/major
-- infiltration
-- shadow
-- status/complete
-- world/aquabyssos
-type: Faction
 updated: '2025-08-13T12:34:17.387837+00:00'
 wealth: Stolen from originals
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry

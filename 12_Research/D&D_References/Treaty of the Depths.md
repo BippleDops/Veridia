@@ -1,23 +1,29 @@
+# Treaty of the Depths
+
 ---
+title: Treaty of the Depths
+type: Location
 tags:
-- aethermoor
-- agreement
+- lore
 - aquabyssos
-- both worlds
-- both-worlds
-- complete
+- treaty
 - diplomacy
 - inter-realm
+- both worlds
+- both-worlds
+- research
+- agreement
 - law
+- active
 - location
-- lore
+- complete
 - politics
-- treaty
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Both Worlds
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:35.978970+00:00'
 lore_type: Political Document
 scope: Inter-Realm Relations
@@ -29,6 +35,7 @@ MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-treaty-of-the-depths-treaty-of-the-depths.svg]]
@@ -330,3 +337,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 <!-- enriched: true -->
 - [[United Councils of Both Worlds]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

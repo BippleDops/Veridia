@@ -1,24 +1,32 @@
 ---
-MyCategory: Government
-MyContainer: None
-created: 2025-08-08 - Category/Groups
-created_by: auto-stub
-obsidianUIMode: preview
-status: complete
+title: The Tidal Council
+type: Npc
 tags:
 - aquabyssos
-- complete
-- content/faction
-- content/npc
 - council
-- npc
 - status/complete
+- content/faction
+- npc
+- character
+- content/npc
 - tidal
+- active
+- complete
 - world/aquabyssos
-type: Npc
+created: 2025-08-08 - Category/Groups
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
+MyCategory: Government
+MyContainer: None
+created_by: auto-stub
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.616083+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -106,9 +114,136 @@ The Tidal Council serves as Aquabyssos's environmental and maritime regulatory b
 **Information Archives:** Comprehensive historical records
 **Scientific Equipment:** Advanced tools for environmental measurement
 
+
+
+## Background
+
+The Tidal Council's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Protecting loved ones
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+The Tidal Council harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Divine mission
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Warm and friendly
+
+**Speech Pattern**: Peppered with idioms
+
+**Physical Habits**: Maintains intense eye contact
+
+## Current Activities
+
+The Tidal Council is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: The Tidal Council needs assistance with a delicate matter
+2. **The Opposition**: Someone wants The Tidal Council stopped or removed
+3. **The Secret**: Information about The Tidal Council's past surfaces
+4. **The Alliance**: Opportunity to work with or against The Tidal Council
+5. **The Crisis**: The Tidal Council is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 The Tidal Council provides excellent opportunities for environmental adventures, political intrigue, and maritime challenges. Use them as quest givers for ocean-based missions or obstacles when party actions conflict with environmental regulations.
 
+
+
+
+## Relationship Web
+
+- [[Marcus Shardbreaker Grimm]]: *bitter rival*
+- [[The Leviathan Prophets]]: *mentor*
+- [[04_Resources_Assets_Locations_location-city-lord-reginald-seaworthy-lord-reginald-seaworthy.svg]]: *business partner*
+- [[04_Resources_Assets_Art_Places_Master_Smith_Coral-Hammer.png]]: *childhood friend*
 
 ## Connections
 
@@ -124,6 +259,12 @@ TODO
 
 
 ## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more aggressive
+- **When Pleased**: Shows generous spirit
+- **In Conflict**: Tends toward avoidance
+
 
 
 TODO

@@ -1,17 +1,21 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/aquabyssos
+title: Deep Adaptation Processes
 type: Lore
+tags:
+- lore
+- aquabyssos
+- world/aquabyssos
+- content/lore
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:15.886252+00:00'
 world: Aquabyssos
 ---
+
 
 
 ## Overview
@@ -49,12 +53,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Ancient Mer-Folk Empire]]
+- [[Ancient Mer-Folk Empire]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Ancient Mer-Folk Empire]]
+- [[Ancient Mer-Folk Empire]]
 
 
 ## Related

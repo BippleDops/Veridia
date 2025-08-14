@@ -1,30 +1,37 @@
+# Session 4 Battle Above Clouds
+
 ---
-adventure: Winds of Rebellion
-created: '2025-08-11'
-estimated_duration: 4-5 hours
-level_range: 4-6
-session_number: 4
-session_type: Large-Scale Aerial Combat & Political Crisis
-status: complete
+title: Session 4 Battle Above Clouds
+type: Adventure
 tags:
 - adventure
-- aethermoor
-- civil-war
-- complete
 - content/adventure
+- civil-war
 - levels-4-6
-- status/in-progress
+- research
 - world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+session_number: 4
+adventure: Winds of Rebellion
+estimated_duration: 4-5 hours
+level_range: 4-6
+session_type: Large-Scale Aerial Combat & Political Crisis
 themes:
 - aerial-warfare
 - civil-conflict
 - loyalty-tests
 - mass-combat
 - political-consequences
-type: Adventure
 updated: '2025-08-13T12:34:17.820846+00:00'
 world: Aethermoor
 ---
+
 
 
 

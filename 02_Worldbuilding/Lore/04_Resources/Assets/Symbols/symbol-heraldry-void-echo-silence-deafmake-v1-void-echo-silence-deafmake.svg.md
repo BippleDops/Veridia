@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry void echo silence deafmake v1 void echo silence deafmake.svg
+aliases:
+- symbol heraldry void echo silence deafmake v1 void echo silence deafmakesvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-void-echo-silence-deafmake-v1-void-echo-silence-deafmake.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Void-Echo Silence Deafmake]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Void-Echo Silence Deafmake]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

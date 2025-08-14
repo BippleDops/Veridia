@@ -1,15 +1,21 @@
+# Portal Network
+
 ---
-tags:
-- active
-- aethermoor
-- location
+title: Portal Network
 type: Location
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.495388+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-portal-network-portal-network.svg]]
@@ -60,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Portal Network|02 Worldbuilding/Places/Portal Network]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

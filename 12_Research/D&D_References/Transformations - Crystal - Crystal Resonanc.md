@@ -1,24 +1,30 @@
+# Transformations - Crystal - Crystal Resonanc
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- body-horror
-- both
-- complete
-- content/mechanics
-- mechanics
-- mechanics/magic
-- progression
-- resonance
-- status/complete
-- transformation
-- world/aethermoor
-- world/both
 title: Crystal Resonance Transformation
 type: Mechanics
+tags:
+- progression
+- both
+- status/complete
+- mechanics/magic
+- body-horror
+- mechanics
+- resonance
+- research
+- world/both
+- active
+- complete
+- transformation
+- content/mechanics
+- world/aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.808309+00:00'
 world: Both
 ---
+
 
 
 

@@ -1,20 +1,26 @@
+# human-names-mesoamerican-male-xge
+
 ---
+title: human names mesoamerican male xge
 aliases:
-- Human Names – Mesoamerican, Male
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+- "Human Names \u2013 Mesoamerican, Male"
+type: note
 tags:
+- ttrpg-cli/compendium/src/5e/xge
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/xge
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.396404'
 world: Both
 ---
+
 
 # Human Names – Mesoamerican, Male
 *Source: Xanathar's Guide to Everything p. 181* 
@@ -96,3 +102,8 @@ Legends speak of human names mesoamerican male xge as a nexus where past and pre
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

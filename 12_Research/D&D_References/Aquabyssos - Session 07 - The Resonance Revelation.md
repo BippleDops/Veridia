@@ -1,12 +1,31 @@
+# Aquabyssos - Session 07 - The Resonance Revelation
+
 ---
-MyCategory: Unknown
-MyContainer: None
+title: The Resonance Revelation
+type: Lore
+tags:
+- lore
+- aquabyssos
+- parliament-shadows
+- campaign/session
+- outlined
+- world/aquabyssos
+- content/lore
+- research
+- active
+- planned
+- status/in-progress
 created: '2025-08-11'
-date_played: null
-depth: 6,000-8,000 ft
-estimated_time: 4 hours
+modified: '2025-08-14'
+status: outlined
 location:
 - - Crystallium
+session_number: 7
+date_played: null
+MyCategory: Unknown
+MyContainer: None
+depth: 6,000-8,000 ft
+estimated_time: 4 hours
 npcs_featured:
 - - - 02_Worldbuilding/People/The Resonance Prophet
 - - - 02_Worldbuilding/People/Marina-Red-Tide-Coralheart
@@ -18,27 +37,14 @@ quests_advanced:
 - - - Stop the Shadow Harvest
 - - - Discover the Singers Beyond
 - - - Prevent Resonance Cascade
-session_number: 7
-status: outlined
-tags:
-- aquabyssos
-- campaign/session
-- content/lore
-- lore
-- outlined
-- parliament-shadows
-- planned
-- status/in-progress
-- world/aquabyssos
 themes:
 - Alien communication
 - Harmonic horror
 - Reality crystallization
-title: The Resonance Revelation
-type: Lore
 updated: '2025-08-13T12:34:17.847348+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -237,3 +243,8 @@ She begins to resonate at a frequency that makes reality blur: "Get to the [[Mou
 - [[Sorrow Pearls]]
 - [[Crystallium]]
 - [[Mourning Depths]]
+
+
+## Related
+
+*Links to related content will be added here.*

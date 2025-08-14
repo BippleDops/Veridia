@@ -1,26 +1,33 @@
+# Shadow Merchant Riptide
+
 ---
+title: Shadow Merchant Riptide
+type: Location
 tags:
 - aquabyssos
-- complete
-- criminal
-- location
-- merchant
 - npc
+- research
+- active
+- location
+- complete
+- merchant
+- criminal
+created: 2025-08-08 - Category/Place
+modified: '2025-08-14'
 status: complete
-world: Aquabyssos
-type: Location
-level: 8
-class: Rogue/Warlock
 race: Pressure-Adapted Human
+class: Rogue/Warlock
+level: 8
+world: Aquabyssos
 alignment: Chaotic Evil
 created_by: auto-stub
-created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.515610+00:00'
 danger_level: Moderate
 ---
+
 
 
 
@@ -245,3 +252,8 @@ Legends speak of Shadow Merchant Riptide as a nexus where past and present conve
 - [[Memory Farmers]]
 - [[Parliament of Echoes]]
 - [[Shadow Market Canals]]
+
+
+## Related
+
+*Links to related content will be added here.*

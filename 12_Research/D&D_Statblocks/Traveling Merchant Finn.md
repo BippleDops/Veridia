@@ -1,24 +1,31 @@
+# Traveling Merchant Finn
+
 ---
+title: Traveling Merchant Finn
+type: Lore
 tags:
+- lore
 - aquabyssos
-- complete
-- cross-realm
+- mystery
 - intrigue
 - investigation
-- lore
-- merchant
-- mystery
 - quest
+- research
+- active
+- complete
+- cross-realm
+- merchant
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-expansion
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.478593+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 
@@ -487,3 +494,8 @@ Legends speak of Traveling Merchant Finn as a nexus where past and present conve
 - [[Goldspire Port]]
 - [[Smuggler's Cove]]
 - [[The Cerulean Trench]]
+
+
+## Related
+
+*Links to related content will be added here.*

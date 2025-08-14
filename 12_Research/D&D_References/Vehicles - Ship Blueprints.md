@@ -1,12 +1,19 @@
+# Vehicles - Ship Blueprints
+
 ---
+title: Vehicles   Ship Blueprints
 type: Lore
-status: draft
+tags:
+- active
+- research
 created: '2024-01-01'
-updated: '2024-01-01T00:00:00+00:00'
+modified: '2025-08-14'
+status: draft
+updated: 2025-08-13 07:59:50.477477
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.477477
 ---
+
 # Vehicle & Ship Blueprint Prompts
 
 ```json
@@ -1693,3 +1700,8 @@ updated: 2025-08-13T07:59:50.477477
   }
 ]
 ```
+
+
+## Related
+
+*Links to related content will be added here.*

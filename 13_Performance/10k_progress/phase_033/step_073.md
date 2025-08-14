@@ -1,9 +1,16 @@
 ---
+title: step 073
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 33
 step: 73
 total_step: 3273
 ---
+
 
 # Phase 33 - Step 73
 

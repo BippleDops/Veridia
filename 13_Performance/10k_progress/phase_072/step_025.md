@@ -1,9 +1,16 @@
 ---
+title: step 025
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 72
 step: 25
 total_step: 7125
 ---
+
 
 # Phase 72 - Step 25
 

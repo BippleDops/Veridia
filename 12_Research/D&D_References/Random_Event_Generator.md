@@ -1,15 +1,22 @@
+# Random_Event_Generator
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- gm-resources
-- session-tools
-- random-events
-- generator
+title: Random Event Generator
 type: Tool
+tags:
+- generator
+- session-tools
+- research
+- random-events
+- active
+- gm-resources
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
+
 
 # Random Event Generator
 
@@ -201,3 +208,7 @@ For each event, consider:
 - [[Faction_Network_Tracker]]
 - [[Campaign_Timeline_Tracker]]
 - [[Session_Planning_Template]]
+
+## Related
+
+*Links to related content will be added here.*

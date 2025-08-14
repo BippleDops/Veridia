@@ -1,28 +1,32 @@
 ---
-created: '2025-08-12'
-created_by: cultural-expansion
-status: complete
+title: Cross Realm Etiquette Guide
+type: Lore
 tags:
-- combat
-- quest
-- shadow-touched
-- aerial
-- aquatic
-- both
-- complete
-- content/lore
-- cross-cultural
-- culture
-- etiquette-guide
-- inter-realm
 - lore
 - mechanics/social
+- both
+- aerial
 - status/complete
+- culture
+- inter-realm
+- aquatic
+- cross-cultural
+- quest
+- content/lore
 - world/both
-type: Lore
+- active
+- combat
+- complete
+- etiquette-guide
+- shadow-touched
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+created_by: cultural-expansion
 updated: '2025-08-13T12:34:16.002044+00:00'
 world: Both
 ---
+
 
 
 # Cross-Realm Etiquette Guide
@@ -33,7 +37,7 @@ world: Both
 
 ## Overview
 
-The Cross-Realm Etiquette Guide serves as the definitive resource for navigating the complex cultural interactions between [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]]. As contact between these realms increases through trade, diplomacy, and the reality convergence phenomenon, understanding how to respectfully bridge vastly different cultural traditions becomes essential for successful inter-realm relations. This guide provides practical protocols, cultural translation methods, and diplomatic strategies for individuals who must operate across both domains.
+The Cross-Realm Etiquette Guide serves as the definitive resource for navigating the complex cultural interactions between [[Aquabyssos]] and [[Aethermoor]]. As contact between these realms increases through trade, diplomacy, and the reality convergence phenomenon, understanding how to respectfully bridge vastly different cultural traditions becomes essential for successful inter-realm relations. This guide provides practical protocols, cultural translation methods, and diplomatic strategies for individuals who must operate across both domains.
 
 ## Chapter I: Fundamental Cultural Translation Principles
 
@@ -494,13 +498,13 @@ The Cross-Realm Etiquette Guide serves as the definitive resource for navigating
 
 - [[Ambassador Marina Tidecaller|02 Worldbuilding/People/Ambassador Marina Tidecaller]] - Expert in Aquabyssos-Aethermoor cultural translation
 - [[02_Worldbuilding/People/Cultural Sage Deep-Memory|02 Worldbuilding/People/Cultural Sage Deep Memory]] - Aquabyssos cultural authority and advisor
-- [[12_Research/D&D_References/Master Wind Rider Zephyr Stormcaller]] - Aethermoor cultural expert and diplomatic liaison
+- [[Master Wind Rider Zephyr Stormcaller]] - Aethermoor cultural expert and diplomatic liaison
 - [[Cross-Cultural Mediator Balance Wright]] - Specialist in inter-realm conflict resolution
 
 ## Connected Locations
 
-- [[12_Research/D&D_References/Port Meridian]] - Primary location for cross-cultural interaction
-- [[12_Research/D&D_References/The Diplomatic Quarter]] - Specially designed neutral zone for inter-realm meetings
+- [[Port Meridian]] - Primary location for cross-cultural interaction
+- [[The Diplomatic Quarter]] - Specially designed neutral zone for inter-realm meetings
 - [[The Cultural Exchange Center]] - Educational facility for cross-cultural learning
 - [[The Neutral Embassy]] - Diplomatic facility serving both realms equally
 
@@ -512,10 +516,10 @@ The Cross-Realm Etiquette Guide serves as the definitive resource for navigating
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Aquabyssos Cultural Codex]]
-- [[12_Research/D&D_References/Aethermoor Social Customs]]
-- [[12_Research/D&D_References/Festival Calendar Complete]]
-- [[12_Research/D&D_References/Economic Systems and Currency]]
+- [[Aquabyssos Cultural Codex]]
+- [[Aethermoor Social Customs]]
+- [[Festival Calendar Complete]]
+- [[Economic Systems and Currency]]
 
 ## Player-Facing Summary
 

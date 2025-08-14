@@ -1,19 +1,25 @@
+# S-102_Downburst_Hammer
+
 ---
 title: "Encounter Sheet \u2014 S-102 Downburst Hammer"
 type: gm_resource
-status: complete
 tags:
 - both
-- complete
 - encounter
 - gm
-- gm_resource
-- sky
 - weather
+- research
+- active
+- gm_resource
+- complete
+- sky
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:31.134001+00:00'
 world: Both
 ---
+
 
 
 # S-102 Downburst Hammer
@@ -58,3 +64,8 @@ Legends speak of S 102 Downburst Hammer as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

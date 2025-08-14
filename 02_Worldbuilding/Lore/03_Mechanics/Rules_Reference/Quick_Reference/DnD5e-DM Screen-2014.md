@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: DnD5e DM Screen 2014
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014
 
@@ -24,8 +28,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Campaign Index]]
-- [[12_Research/D&D_References/Campaign_Index]]
+- [[Campaign Index]]
+- [[Campaign_Index]]
 - [[12_Research/D&D_Sourcebooks/CLI_Reference/conditions]]
 - [[12_Research/D&D_Sourcebooks/CLI_Reference/actions]]
 - [[12_Research/D&D_Sourcebooks/CLI_Reference/actions]]

@@ -1,13 +1,21 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Item Template.png
+aliases:
+- Item Templatepng
 type: item
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - item
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+rarity: Unknown
+value: Unknown
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Art/Lore/Item_Template.png
 
@@ -24,7 +32,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Item Template]]
+- [[Item Template]]
 - [[02_Worldbuilding/Lore/Item Template]]
 
 ## Notes

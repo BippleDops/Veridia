@@ -1,39 +1,45 @@
 ---
-controlled_by: Nobody (Chaotic Phenomenon)
-created: '2025-08-09'
-danger_level: 10
-frequency: Unpredictable manifestation
-region: '[[12_Research/D&D_References/The Crystalline Wastes]]'
-related_entities:
-- '[[12_Research/D&D_References/The Crystal Hive Collective]]'
-- '[[12_Research/D&D_Statblocks/The Crimson Sage]]'
-- '[[12_Research/D&D_References/The Sundered Vaults]]'
-- '[[12_Research/D&D_Statblocks/Crystal Wardens]]'
-size: Variable (Individual tears 5-100 feet diameter)
-status: complete
+title: The Void Tears
+type: Location
 tags:
-- combat
-- quest
-- crystal-enhanced
+- content/location
 - shadow-touched
+- status/complete
+- phenomenon
+- mechanics/magic
+- quest
+- dimensional-anomaly
+- combat
+- location
 - aethermoor
+- crystal-enhanced
+- world/both
 - catastrophic
 - complete
-- content/location
-- dimensional-anomaly
-- location
-- mechanics/magic
-- phenomenon
 - reality-breach
-- status/complete
-- void
+- place
+- active
 - world/aethermoor
-- world/both
+- void
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+region: '[[The Crystalline Wastes]]'
+population: Unknown
+controlled_by: Nobody (Chaotic Phenomenon)
+danger_level: 10
+frequency: Unpredictable manifestation
+related_entities:
+- '[[The Crystal Hive Collective]]'
+- '[[12_Research/D&D_Statblocks/The Crimson Sage]]'
+- '[[The Sundered Vaults]]'
+- '[[12_Research/D&D_Statblocks/Crystal Wardens]]'
+size: Variable (Individual tears 5-100 feet diameter)
 threat_status: Critical - Reality Destabilization
-type: Location
 updated: '2025-08-13T12:34:16.624590+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View
@@ -46,7 +52,7 @@ world: Aethermoor
 
 ## Overview
 
-The Void Tears represent one of the most terrifying and unpredictable phenomena in [[12_Research/D&D_References/Aethermoor]], appearing as spontaneous rifts in reality that create direct portals to the primordial void - the space between dimensions where existence itself ceases to have meaning. These reality breaches manifest primarily within [[12_Research/D&D_References/The Crystalline Wastes]], though smaller tears have been documented throughout regions of high magical instability.
+The Void Tears represent one of the most terrifying and unpredictable phenomena in [[Aethermoor]], appearing as spontaneous rifts in reality that create direct portals to the primordial void - the space between dimensions where existence itself ceases to have meaning. These reality breaches manifest primarily within [[The Crystalline Wastes]], though smaller tears have been documented throughout regions of high magical instability.
 
 Unlike mere dimensional portals or planar rifts, Void Tears connect to absolute nothingness - not another plane or reality, but the fundamental absence of existence that underlies the multiverse. Matter, energy, magic, consciousness, and even concepts that approach these rifts are systematically unraveled and consumed, returning to the state of primordial void from which all things originally emerged.
 
@@ -56,7 +62,7 @@ The tears appear without warning, ranging from hairline fractures in reality bar
 
 ### Origin Theory
 
-The leading theory among dimensional scholars suggests that Void Tears result from the extreme reality distortion created by [[12_Research/D&D_References/The Great Crystallization]]. When the catastrophic magical event rewrote the fundamental laws of physics across the Crystalline Wastes, it created "weak spots" in the fabric of reality itself.
+The leading theory among dimensional scholars suggests that Void Tears result from the extreme reality distortion created by [[The Great Crystallization]]. When the catastrophic magical event rewrote the fundamental laws of physics across the Crystalline Wastes, it created "weak spots" in the fabric of reality itself.
 
 **The Cascade Effect**: Initial crystal corruption destabilized local reality, creating microscopic void fractures that occasionally expand into full tears when exposed to additional magical stress or dimensional manipulation.
 
@@ -237,7 +243,7 @@ Some void tears occasionally spawn entities from the space between realities:
 **Staff**: 50+ researchers, guards, and support personnel
 **Purpose**: Long-term study of void tear behavior and containment methods
 **Director**: [[12_Research/D&D_Statblocks/Professor Aldric Crystalweaver]], foremost expert on dimensional anomalies
-**Funding**: Joint project between [[12_Research/D&D_References/Crystalhaven]] and [[12_Research/D&D_Statblocks/Crystal Wardens]]
+**Funding**: Joint project between [[Crystalhaven]] and [[12_Research/D&D_Statblocks/Crystal Wardens]]
 
 #### Current Research Projects
 
@@ -350,7 +356,7 @@ Military-focused research aimed at weaponizing controlled tears while preventing
 #### The Great Unraveling
 
 **Probability**: 5-10% over next century according to current models
-**Event**: Chain reaction of expanding tears consuming most of [[12_Research/D&D_References/Aethermoor]]
+**Event**: Chain reaction of expanding tears consuming most of [[Aethermoor]]
 **Triggers**: Multiple Type IV tears appearing simultaneously, failure of reality anchor network
 **Prevention**: Requires perfect coordination between all magical institutions
 **Consequences**: Complete loss of the continent to void consumption
@@ -428,7 +434,7 @@ Insurance companies refuse coverage for properties in tear-risk zones. Trade rou
 
 #### 5. The Memory Thief
 
-**Hook**: Individuals throughout [[12_Research/D&D_References/Aethermoor]] begin losing memories related to specific person
+**Hook**: Individuals throughout [[Aethermoor]] begin losing memories related to specific person
 **Clues**: Pattern suggests someone is being systematically erased from existence
 **Truth**: Victim partially consumed by tear but consciousness trapped in void between dimensions
 **Goal**: Recover consumed individual from void space, restore them to reality
@@ -465,7 +471,7 @@ Insurance companies refuse coverage for properties in tear-risk zones. Trade rou
 #### 9. The Ancient Archive
 
 **Hook**: Discovery of pre-disaster records suggesting void tears are artificial phenomenon
-**Location**: Hidden archive within [[12_Research/D&D_References/The Sundered Vaults]]
+**Location**: Hidden archive within [[The Sundered Vaults]]
 **Opposition**: Archive partially consumed by expanding tear, information fragmented
 **Revelation**: Great Crystallization was sabotaged to create tears for unknown purpose
 **Implications**: Current containment efforts may be playing into original saboteur's plans
@@ -478,29 +484,50 @@ Insurance companies refuse coverage for properties in tear-risk zones. Trade rou
 **Scope**: Continental threat requiring coordination between all major powers
 **Enemy**: Coalition of void entities launching invasion through tear network
 **Strategy**: Defend reality anchors, seal critical tears, prevent cascade expansion
-**Stakes**: Survival of physical reality itself throughout [[12_Research/D&D_References/Aethermoor]]
+**Stakes**: Survival of physical reality itself throughout [[Aethermoor]]
 **Resolution**: Epic battles in space between dimensions, potential sacrifice of party members
 
 ## Connected Elements
 
 ### Direct Connections
 
-- **[[12_Research/D&D_References/The Crystalline Wastes]]**: Primary location where tears manifest
-- **[[12_Research/D&D_References/The Great Crystallization]]**: Catastrophic event that created conditions for tear formation
+- **[[The Crystalline Wastes]]**: Primary location where tears manifest
+- **[[The Great Crystallization]]**: Catastrophic event that created conditions for tear formation
 - **[[12_Research/D&D_Statblocks/Crystal Wardens]]**: Military organization responsible for tear containment and response
 - **[[12_Research/D&D_Statblocks/Professor Aldric Crystalweaver]]**: Leading researcher studying void phenomena  
-- **[[12_Research/D&D_References/The Sundered Vaults]]**: Ancient facility possibly connected to tear origins
+- **[[The Sundered Vaults]]**: Ancient facility possibly connected to tear origins
 
 ### Secondary Connections
 
 - **[[12_Research/D&D_Statblocks/The Crimson Sage]]**: Studies tears for dimensional manipulation knowledge
-- **[[12_Research/D&D_References/The Crystal Hive Collective]]**: Hive mind disrupted by void exposure
+- **[[The Crystal Hive Collective]]**: Hive mind disrupted by void exposure
 - **[[The Seekers' Guild|02 Worldbuilding/Groups/The Seekers' Guild]]**: Documents tear patterns and dimensional effects
-- **[[12_Research/D&D_References/High Inquisitor Maltheos]]**: Views tears as signs of cosmic corruption
-- **[[12_Research/D&D_References/The Temporal Convergence Storms]]**: Temporal effects interact unpredictably with void tears
+- **[[High Inquisitor Maltheos]]**: Views tears as signs of cosmic corruption
+- **[[The Temporal Convergence Storms]]**: Temporal effects interact unpredictably with void tears
 - **[[Mad Oracle Thessaly|02 Worldbuilding/People/Mad Oracle Thessaly]]**: Prophesies about expanding void consumption
 - **[[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]**: Attempts to weaponize void effects
 - **[[Aethermoor Archives|02 Worldbuilding/Places/Aethermoor Archives]]**: Contains historical records of dimensional incidents
+
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
 
 ## DM Notes
 
@@ -544,7 +571,7 @@ Legends speak of The Void Tears as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Void Tears]]
+- [[The Void Tears]]
 
 <!-- enriched: true -->
 
@@ -558,3 +585,97 @@ Legends speak of The Void Tears as a nexus where past and present converge. Loca
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
 - [[02_Worldbuilding/Groups/Crystal Wardens]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Portraits_portrait-npc-emperor-pelagic-the-last-emperor-pelagic-the-last.svg]]
+- [[Syncretist Mediators]]
+- [[04_Resources_Assets_Locations_location-city-deep-harbor-technology-deep-harbor-technology.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+The Void Tears is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Void Tears
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+The Void Tears was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting The Void Tears:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Void Tears
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

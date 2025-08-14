@@ -1,25 +1,33 @@
+# The Crimson Shard Guardian
+
 ---
+title: The Crimson Shard Guardian
+type: NPC
 tags:
-- aethermoor
-- complete
-- corrupted
-- elemental
-- guardian
-- npc
 - person
 - seven-shards
+- guardian
+- elemental
+- npc
+- research
+- active
+- complete
+- corrupted
+- aethermoor
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
+race: Corrupted Water Elemental
+location: '[[Port Meridian|02 Worldbuilding/Places/Port Meridian]] Harbor (Sunken
+  Ship)'
 world: Aethermoor
-type: NPC
 role: Shard Guardian
 affiliation: None (Bound to Shard)
-race: Corrupted Water Elemental
-location: '[[Port Meridian|02 Worldbuilding/Places/Port Meridian]] Harbor (Sunken Ship)'
 created_by: auto-stub
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 cr: '18'
 ---
+
 
 
 > [!figure] Portrait
@@ -498,3 +506,8 @@ Legends speak of The Crimson Shard Guardian as a nexus where past and present co
 
 <!-- enriched: true -->
 - [[Harbor Master Luna Freedrift]]
+
+
+## Related
+
+*Links to related content will be added here.*

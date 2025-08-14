@@ -1,7 +1,16 @@
+# Maps - Battle_Map_Descriptions
+
 ---
+title: Maps   Battle Map Descriptions
+type: research
+tags:
+- active
+- research
 created: '2024-01-01'
+modified: '2025-08-14'
 updated: '2024-01-01T00:00:00+00:00'
 ---
+
 
 # Battle Map Descriptions (VTT-Ready)
 
@@ -3159,3 +3168,8 @@ updated: '2024-01-01T00:00:00+00:00'
   }
 ]
 ```
+
+
+## Related
+
+*Links to related content will be added here.*

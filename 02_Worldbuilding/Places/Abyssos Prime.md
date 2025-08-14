@@ -1,7 +1,25 @@
 ---
+title: Abyssos Prime
+type: Location
+tags:
+- both
+- world/surface
+- world/aquabyssos
+- capital
+- world/both
+- content/location
+- place
+- active
+- location
+- complete
+- status/in-progress
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: 2000000
 MyCategory: Unknown
 MyContainer: None
-created: '2025-08-12'
 current_state: Shadow conspiracy active
 danger_level: 7
 depth: 1000-3000 feet
@@ -20,7 +38,6 @@ notable_npcs:
 - '[[Marina Red Tide Coralheart - Aquabyssos]]'
 obsidianUIMode: preview
 parent_location: '[[Aquabyssos]]'
-population: 2000000
 pressure_effects: Moderate to Severe
 ruler: '[[The Scattered Emperor]]'
 services:
@@ -30,7 +47,6 @@ services:
 - Depth Adaptation
 - Political Intrigue
 shadow_density: High
-status: complete
 sub_locations:
 - '[[The Inverse Palace]]'
 - '[[Parliament of Echoes]]'
@@ -40,22 +56,12 @@ sub_locations:
 - '[[Pressure Terminal]]'
 - '[[Throne of Bubbles]]'
 - '[[The Depth Market]]'
-tags:
-- both
-- capital
-- complete
-- content/location
-- location
-- status/in-progress
-- world/aquabyssos
-- world/both
-- world/surface
 temporal_stability: 85
-type: Location
 updated: '2025-08-13T12:34:17.045287+00:00'
 visited: false
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -650,6 +656,27 @@ Abyssos Prime is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of Abyssos Prime as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Abyssos Prime.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -666,3 +693,86 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Marina Red Tide Coralheart - Aquabyssos]]
 - [[Surface Sympathizer Settlements]]
 - [[The Forgotten Representative]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-the-wandering-atoll-v1-the-wandering-atoll.svg]]
+- [[Chief Diplomat Corallion Reefwright]]
+- [[Disaster Prevention Centers]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+Abyssos Prime is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Abyssos Prime
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Abyssos Prime was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Abyssos Prime
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

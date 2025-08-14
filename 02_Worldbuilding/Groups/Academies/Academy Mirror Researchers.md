@@ -1,18 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Academy Mirror Researchers
+type: Faction
 tags:
 - academy
 - aquabyssos
-- complete
+- world/aquabyssos
 - content/faction
 - faction
+- organization
+- active
+- complete
 - status/in-progress
-- world/aquabyssos
-type: Faction
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.427059+00:00'
 world: Aquabyssos
 ---
+
 
 
 ## Cross-References
@@ -53,3 +60,8 @@ A secretive research division of the Academy that studies mirror-based conscious
 - Missing researcher discovered trapped inside a mirror dimension
 - Mirror interface technology goes rogue, creating consciousness echoes
 - Competing academy factions seek to steal mirror research secrets
+
+
+## Known Members
+
+- [[04_Resources_Assets_Locations_location-city-master-goldwin-ledgerkeeper-master-goldwin-ledgerkeeper.svg]]

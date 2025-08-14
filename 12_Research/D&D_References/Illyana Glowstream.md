@@ -1,24 +1,31 @@
+# Illyana Glowstream
+
 ---
+title: Illyana Glowstream
+type: Location
 tags:
 - aquabyssos
-- complete
-- glowstream
 - illyana
-- light
-- location
-- mage
 - npc
+- research
+- mage
+- active
+- location
+- complete
+- light
+- glowstream
+created: 2025-08-08 - Category/People
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.040944+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -178,3 +185,8 @@ Legends speak of Illyana Glowstream as a nexus where past and present converge. 
 - [[Illyana Glowstream|02 Worldbuilding/Places/Illyana Glowstream]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

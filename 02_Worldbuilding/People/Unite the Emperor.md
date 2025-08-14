@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Unite the Emperor
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.510969+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -113,12 +121,29 @@ Operating from the deep political currents of [[Abyssos Prime]], he leads a soph
 > - He's been having dreams/visions from the original Emperor Thalassius, possibly beyond death
 > - The Tide Guard includes several members who are planning to assassinate fragment holders if diplomacy fails
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Direct and concise
+
+**Physical Habits**: Remains perfectly still
+
 ## Current Activities
 - Orchestrating the **Great Reconciliation Conference** to gather all fragment holders
 - Negotiating trade agreements that demonstrate the benefits of imperial unity
 - Researching ancient precedents for voluntary reunification
 - Building popular support through public works and economic improvement
 - Secretly investigating the original reasons for the crown's breaking
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 ## Motivations
 1. **Primary**: Restore imperial unity to create peace and prosperity for all depth-dwellers
@@ -198,6 +223,61 @@ Octavius's master plan involves seven parallel diplomatic/political campaigns:
 
 *"The deep currents flow toward unity. We can swim with them toward prosperity, or against them toward isolation and decline."* - To his advisors
 
+
+
+## Background
+
+Unite the Emperor's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Plot Hooks
+
+1. **The Request**: Unite the Emperor needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Unite the Emperor stopped or removed
+3. **The Secret**: Information about Unite the Emperor's past surfaces
+4. **The Alliance**: Opportunity to work with or against Unite the Emperor
+5. **The Crisis**: Unite the Emperor is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Represents the "lawful good empire" approach - genuinely wants to help everyone
 - His growing merger with the crown fragment creates internal conflict
@@ -246,3 +326,28 @@ Legends speak of Unite the Emperor as a nexus where past and present converge. L
 - [[Unite the Emperor]]
 
 <!-- enriched: true -->
+
+
+
+
+## Relationship Web
+
+- [[The Throne Chamber of Eternal Bubbles]]: *family member*
+- [[Financial Corruption]]: *debt holder*
+- [[04_Resources_Assets_Locations_location-city-noble-palatemaster-noble-palatemaster.png]]: *business partner*
+- [[#NPCs]]: *informant*
+
+## Connections
+
+### Home
+- [[Scholar Magnus Riddlewright]]
+
+### Frequently Visits
+- [[Keeper of the Past, Elderly Morgan]]
+- [[04_Resources_Assets_Locations_location-city-paradox-engineer-zeno-v1-paradox-engineer-zeno.svg]]
+- [[Grief Overwhelming Syndrome]]
+
+### Known Associates
+- [[The Sorrowmaster]] (colleague)
+- [[Underground Testing Facility]] (colleague)
+- [[Lady Penelope Procedure]] (colleague)

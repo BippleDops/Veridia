@@ -1,16 +1,22 @@
+# Memory Keeper Ancient Nerida
+
 ---
-tags:
-- active
-- aquabyssos
-- complete
-- location
+title: Memory Keeper Ancient Nerida
 type: Location
-world: Aquabyssos
-status: complete
+tags:
+- aquabyssos
+- research
+- active
+- location
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T12:34:13.660604+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Tidal Memory Ceremonies]]
+
+
+## Related
+
+*Links to related content will be added here.*

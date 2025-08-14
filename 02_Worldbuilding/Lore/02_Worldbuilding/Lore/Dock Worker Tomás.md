@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: "Dock Worker Toma\u0301s"
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Lore/Dock Worker Tomás
 
@@ -24,8 +28,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Aethermoor - Session 01 Blood in the Harbor]]
-- [[12_Research/D&D_References/Aethermoor - Session 01 Blood in the Harbor]]
+- [[Aethermoor - Session 01 Blood in the Harbor]]
+- [[Aethermoor - Session 01 Blood in the Harbor]]
 
 ## Notes
 

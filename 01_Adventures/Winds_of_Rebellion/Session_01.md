@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 01
 type: adventure
-status: active
 tags:
-- combat
-- session-notes
-- aerial
 - adventure
+- aerial
+- session-notes
+- quest
+- active
+- combat
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 01: [Sky Realm Crisis]
 
@@ -62,3 +68,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Key NPCs
+
+- [[04_Resources_Assets_Locations_location-city-commander-typhoon-blackheart-v1-commander-typhoon-blackheart.svg]]
+- [[10-combat#Dropping_to_0_Hit_Points#Stabilizing_a_Creature]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-great-resonance-the-great-resonance.svg]]
+- [[The Royal Treasury Depths]]
+- [[Quest - The Seventh Song]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-the-shadowmere-v1-the-shadowmere.png]]
+- [[Merchant Prince Aldric Goldcurrent]]
+- [[04_Resources_Assets_Locations_location-city-the-twilight-gardens-v1-the-twilight-gardens.svg]]

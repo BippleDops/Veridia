@@ -1,14 +1,21 @@
+# Harmonic_Resonance_Evolution
+
 ---
-created: '2025-08-13'
-status: complete
+title: Harmonic Resonance Evolution
+type: Transformation Mechanics
 tags:
 - mechanics/transformation
 - harmonic/magic
 - crystal/singing
-type: Transformation Mechanics
+- research
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Harmonic Resonance Evolution
 ## Crystal Singer Transformation
@@ -87,3 +94,7 @@ Bards and others who practice crystal singing magic undergo gradual crystalline 
 ---
 
 *Harmonic evolution grants incredible musical power but threatens to transform the singer into a living instrument.*
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,21 +1,27 @@
+# folk-hero
+
 ---
+title: folk hero
 aliases:
 - Folk Hero
-created: 2025-07-23
-cssclasses: json5e-background
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- ttrpg-cli/compendium/src/5e/phb
 - content/lore
+- world/both
+- research
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/phb
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-background
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.929305'
 world: Both
 ---
+
 
 # Folk Hero
 *Source: Player's Handbook p. 131. Available in the Basic Rules (2014)*  
@@ -124,3 +130,8 @@ Legends speak of folk hero as a nexus where past and present converge. Locals de
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

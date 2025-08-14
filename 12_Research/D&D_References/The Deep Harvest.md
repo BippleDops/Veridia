@@ -1,27 +1,34 @@
+# The Deep Harvest
+
 ---
+title: The Deep Harvest
+type: Lore
 tags:
+- lore
 - aquabyssos
-- automated-systems
-- bio-mechanical-engineering
-- complete
+- resource-extraction
+- technology
 - deep-sea-harvesting
 - innovation
-- lore
-- marine-agriculture
-- resource-extraction
+- automated-systems
 - sustainability
-- technology
+- bio-mechanical-engineering
+- research
+- active
+- complete
+- marine-agriculture
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 category: Resource Extraction Technology
 significance: Critical Economic Infrastructure
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 technology_type: Automated Deep-Sea Resource System
 access_restriction: Commercial and Government Licensed
 ---
+
 
 
 
@@ -498,3 +505,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Master_Lore_Index|Master Lore Index]]
 - [[Umbral Exchange]]
 - [[Pressure Tubes]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,20 +1,26 @@
+# 02-chapter-9-council-of-waterdeep
+
 ---
+title: 02 chapter 9 council of waterdeep
 aliases:
 - Chapter 9: Council of Waterdeep
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- ttrpg-cli/compendium/src/5e/rot
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/rot
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.622812'
 world: Both
 ---
+
 
 # Chapter 9: Council of Waterdeep
 *Source: Rise of Tiamat, p. 104* 
@@ -248,3 +254,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
  enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,28 +1,34 @@
 ---
-alignment: Lawful Neutral
+title: Shadow Ambush   Optional
+type: Faction
+tags:
+- aquabyssos
+- status/complete
+- content/faction
+- faction
+- organization
+- guerrilla-warfare
+- active
+- tactical
+- complete
+- world/aquabyssos
+- ambush-specialists
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Strategic Command Center]] (Mobile)'
+membership: Unknown
+alignment: Lawful Neutral
 created_by: auto-stub
 faction_type: Military Tactical Unit
-headquarters: '[[The Strategic Command Center]] (Mobile)'
 influence: Specialized (Military Operations)
 leader: '[[Commander Reef Shadowstrike]]'
 members: ~150 elite soldiers and tactical specialists
 purpose: Elite ambush and tactical warfare unit
-status: complete
-tags:
-- ambush-specialists
-- aquabyssos
-- complete
-- content/faction
-- faction
-- guerrilla-warfare
-- status/complete
-- tactical
-- world/aquabyssos
-type: Faction
 updated: '2025-08-13T12:34:17.391884+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry
@@ -550,3 +556,10 @@ Legends speak of Shadow Ambush   Optional as a nexus where past and present conv
 
 - [[Admiral Thorne Blackwater]]
 - [[Admiral Thorne Blackwater]]
+
+
+## Known Members
+
+- [[Quest - The Corruption Cure]]
+- [[04_Resources_Assets_Portraits_portrait-npc-master-of-currents-poseidon-master-of-currents-poseidon.svg]]
+- [[Deep Fortress Network]]

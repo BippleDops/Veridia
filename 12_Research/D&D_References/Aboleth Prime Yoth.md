@@ -1,33 +1,39 @@
+# Aboleth Prime Yoth
+
 ---
+title: Aboleth Prime Yoth
+type: Npc
+tags:
+- aquabyssos
+- status/complete
+- aboleth
+- villain
+- psychic
+- npc
+- content/lore
+- research
+- content/npc
+- active
+- parliament
+- complete
+- world/aquabyssos
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+race: Aboleth (Ancient)
+location: '[[The Deepmind]]'
 MyCategory: Unknown
 MyContainer: None
 alignment: Lawful Evil
 cr: 25
-created: '2025-08-08'
 created_by: auto-stub
-faction: '[[The Parliament of Echoes|02 Worldbuilding/Groups/The
-  Parliament Of Echoes]]'
-location: '[[The Deepmind]]'
+faction: '[[The Parliament of Echoes|02 Worldbuilding/Groups/The Parliament Of Echoes]]'
 obsidianUIMode: preview
-race: Aboleth (Ancient)
 role: Shadow Prime Minister
-status: complete
-tags:
-- aboleth
-- aquabyssos
-- complete
-- content/lore
-- content/npc
-- npc
-- parliament
-- psychic
-- status/complete
-- villain
-- world/aquabyssos
-type: Npc
 updated: '2025-08-13T12:34:17.678962+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -333,3 +339,8 @@ Legends speak of Aboleth Prime Yoth as a nexus where past and present converge. 
 - [[Aboleth Prime Yoth]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,30 +1,37 @@
+# Lady Venetia Silkwind
+
 ---
-tags:
-- aethermoor
-- complete
-- faction
-- group
-- luxury-goods
-- merchant-guild
-- silk-trade
-- textiles
-status: complete
-world: Aethermoor
+title: Lady Venetia Silkwind
 type: Group
+tags:
+- textiles
+- merchant-guild
+- faction
+- complete
+- research
+- active
+- luxury-goods
+- silk-trade
+- aethermoor
+- group
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Golden Loom]]'
+world: Aethermoor
 faction_type: Luxury Merchant Guild
 alignment: Lawful Neutral
-headquarters: '[[The Golden Loom]]'
 leader: '[[Lady Venetia Silkwind]]'
 members: ~800 artisans, merchants, and traders
 influence: International (Aethermoor and Aquabyssos)
 wealth: Exceptional (luxury goods monopoly)
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.701745+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 
@@ -276,3 +283,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Master_People_Index|Master People Index]]
 - [[Silverscale Consortium]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/adventure
-- content/lore
-- lore
-- status/in-progress
-- world/aquabyssos
+title: Elder Deep
 type: Lore
+tags:
+- lore
+- aquabyssos
+- content/adventure
+- world/aquabyssos
+- content/lore
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.364663+00:00'
 world: Aquabyssos
 ---
+
 
 
 ## Overview

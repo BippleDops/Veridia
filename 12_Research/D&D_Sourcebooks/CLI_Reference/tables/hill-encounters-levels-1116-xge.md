@@ -1,20 +1,26 @@
+# hill-encounters-levels-1116-xge
+
 ---
+title: hill encounters levels 1116 xge
 aliases:
-- Hill Encounters (Levels 11—16)
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+- "Hill Encounters (Levels 11\u201416)"
+type: note
 tags:
+- ttrpg-cli/compendium/src/5e/xge
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/xge
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.302132'
 world: Both
 ---
+
 
 # Hill Encounters (Levels 11—16)
 *Source: Xanathar's Guide to Everything p. 101* 
@@ -74,3 +80,8 @@ Legends speak of hill encounters levels 1116 xge as a nexus where past and prese
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,14 +1,21 @@
+# Crystal_Corruption_Identification_Chart
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- player/visual
-- corruption/crystal
-- reference/safety
+title: Crystal Corruption Identification Chart
 type: Visual Handout
+tags:
+- corruption/crystal
+- player/visual
+- research
+- active
+- reference/safety
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Crystal Corruption Identification Chart
 ## Visual Reference for Field Identification
@@ -155,3 +162,7 @@ IF EXPOSED TO CORRUPTED CRYSTAL:
 
 *This chart may save your life - memorize the warning signs*
 *When in doubt, evacuate and report immediately*
+
+## Related
+
+*Links to related content will be added here.*

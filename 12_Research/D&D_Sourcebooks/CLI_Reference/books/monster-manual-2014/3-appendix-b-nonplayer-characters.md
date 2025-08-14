@@ -1,20 +1,26 @@
+# 3-appendix-b-nonplayer-characters
+
 ---
+title: 3 appendix b nonplayer characters
 aliases:
 - Appendix B: Nonplayer Characters
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- ttrpg-cli/compendium/src/5e/mm
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/mm
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.767684'
 world: Both
 ---
+
 
 # Appendix B: Nonplayer Characters
 *Source: Monster Manual (2014), p. 342* 
@@ -82,3 +88,8 @@ Legends speak of 3 appendix b nonplayer characters as a nexus where past and pre
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

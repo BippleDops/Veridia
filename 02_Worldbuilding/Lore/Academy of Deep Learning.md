@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Academy of Deep Learning
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Academy of Deep Learning
 
@@ -24,8 +28,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Queen Seraphina 3]]
-- [[12_Research/D&D_References/Queen Seraphina]]
+- [[Queen Seraphina 3]]
+- [[Queen Seraphina]]
 - [[02_Worldbuilding/Lore/Queen Seraphina]]
 - [[02_Worldbuilding/Lore/Queen Seraphina]]
 - [[02_Worldbuilding/Lore/Queen Seraphina]]

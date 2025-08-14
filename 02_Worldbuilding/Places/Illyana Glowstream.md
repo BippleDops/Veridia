@@ -1,30 +1,37 @@
 ---
+title: Illyana Glowstream
+type: Location
+tags:
+- aquabyssos
+- status/complete
+- illyana
+- aquatic
+- quest
+- content/location
+- content/npc
+- mage
+- place
+- active
+- location
+- complete
+- world/aquabyssos
+- light
+- glowstream
+- crystal-enhanced
+created: 2025-08-08 - Category/People
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: NPC
 MyContainer: None
-created: 2025-08-08 - Category/People
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
-status: complete
-tags:
-- quest
-- crystal-enhanced
-- aquatic
-- aquabyssos
-- complete
-- content/location
-- content/npc
-- glowstream
-- illyana
-- light
-- location
-- mage
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.579639+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -130,6 +137,27 @@ She's also been providing informal counseling services, using her light magic to
 2. The party requires specialized light magic for a mission, leading them to seek Illyana's assistance and expertise.
 3. Saboteurs have targeted critical illumination infrastructure, and Illyana needs protection while making dangerous repairs.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Illyana serves as both a technical resource and an emotional anchor for the party and other NPCs. Her light magic can provide creative solutions to various challenges while her optimistic outlook offers hope during dark campaign moments. Use her illumination network to provide information and her healing abilities to support party recovery. Her neutral status makes her a safe contact regardless of factional allegiances.
@@ -137,7 +165,7 @@ Illyana serves as both a technical resource and an emotional anchor for the part
 
 ## Connections
 
-- [[12_Research/D&D_References/Pearl Harbor City]]
+- [[Pearl Harbor City]]
 
 
 ## History
@@ -185,10 +213,92 @@ Legends speak of Illyana Glowstream as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Illyana Glowstream]]
+- [[Illyana Glowstream]]
 
 <!-- enriched: true -->
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Notable Residents
+
+- [[Archivist Mnemonic the Forgotten]]
+
+## Trade Routes
+
+- [[04_Resources_Assets_Portraits_portrait-npc-quest-the-brother-s-burden-quest-the-brother-s-burden.svg]]
+- [[04_Resources_Assets_Locations_location-city-harbor-patrol-v1-harbor-patrol.svg]]
+- [[04_Resources_Assets_Locations_location-city-crystalhaven-v1-crystalhaven.svg]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+Illyana Glowstream is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Illyana Glowstream
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Illyana Glowstream:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Illyana Glowstream
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

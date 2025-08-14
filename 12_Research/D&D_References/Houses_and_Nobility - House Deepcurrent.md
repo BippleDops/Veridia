@@ -1,18 +1,25 @@
+# Houses_and_Nobility - House Deepcurrent
+
 ---
+title: Houses and Nobility   House Deepcurrent
+type: Group
 tags:
 - aquabyssos
-- complete
-- deepcurrent
-- group
 - intrigue
 - noble-house
+- deepcurrent
+- research
+- active
+- complete
 - politics
-type: Group
-world: Aquabyssos
-status: complete
+- group
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.788652+00:00'
 ---
+
 
 
 # House Deepcurrent
@@ -314,3 +321,8 @@ Legends speak of House Deepcurrent as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,17 +1,24 @@
+# Crystal Plague Progression System
+
 ---
-tags:
-- aquabyssos
-- complete
-- crystal
-- lore
-- mechanics
-- plague
+title: Crystal Plague Progression System
 type: lore
-world: Aquabyssos
-status: complete
+tags:
+- lore
+- aquabyssos
+- plague
+- crystal
+- mechanics
+- research
+- active
+- complete
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.536257+00:00'
 ---
+
 
 
 # Crystal Plague Progression System
@@ -271,3 +278,7 @@ The Crystal Plague is a devastating condition that transforms living tissue into
 - [[Port Meridian]] - Major plague outbreak location
 
 <!-- enriched: true -->
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,17 +1,24 @@
+# Shadow Surgery Network
+
 ---
+title: Shadow Surgery Network
+type: Place
 tags:
 - aquabyssos
-- complete
 - facilities
-- medical-horror
+- research
 - place
+- active
+- complete
+- medical-horror
 - shadow-conspiracy
-type: Place
-world: Aquabyssos
-status: complete
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:36.065434+00:00'
 ---
+
 
 
 # Shadow Surgery Network
@@ -416,3 +423,8 @@ Legends speak of Shadow Surgery Network as a nexus where past and present conver
 - [[Shadow Surgery Network|02 Worldbuilding/Places/Shadow Surgery Network]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

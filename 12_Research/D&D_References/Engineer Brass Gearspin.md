@@ -1,24 +1,31 @@
+# Engineer Brass Gearspin
+
 ---
+title: Engineer Brass Gearspin
+type: Location
 tags:
 - aquabyssos
 - brass-works
-- complete
-- engineering
 - innovation
-- location
-- mechanical
+- engineering
+- research
 - workshop
+- active
+- location
+- complete
+- mechanical
+created: '2025-08-12'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-12'
 MyContainer: None
 MyCategory: Engineering Facility
 obsidianUIMode: preview
 updated: '2025-08-12T00:00:00+00:00'
 danger_level: Moderate
 ---
+
 
 
 
@@ -407,3 +414,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Engineer Brass Gearspin|02 Worldbuilding/Places/Engineer Brass Gearspin]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

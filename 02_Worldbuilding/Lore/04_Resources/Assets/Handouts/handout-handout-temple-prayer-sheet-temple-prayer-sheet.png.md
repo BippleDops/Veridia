@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: handout handout temple prayer sheet temple prayer sheet.png
+aliases:
+- handout handout temple prayer sheet temple prayer sheetpng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Handouts/handout-handout-temple-prayer-sheet-temple-prayer-sheet.png
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/In-World_Handouts_Gallery]]
+- [[In-World_Handouts_Gallery]]
 
 ## Notes
 

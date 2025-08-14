@@ -1,15 +1,22 @@
+# Crystal_Singer_Bard
+
 ---
-created: '2025-08-13'
-status: ready
-tags:
-- status/ready
-- type/character-build
-- world/both
-- class/bard
+title: Crystal Singer Bard
 type: Character Build
+tags:
+- research
+- world/both
+- active
+- type/character-build
+- class/bard
+- status/ready
+created: '2025-08-13'
+modified: '2025-08-14'
+status: ready
 updated: '2025-08-13T12:00:00.000000'
 world: Both
 ---
+
 
 # Crystal Singer Bard - Character Build
 
@@ -217,3 +224,7 @@ You have contacts among crystal researchers, magical theorists, and court wizard
 Crystal Singers are revered in both worlds as healers of corruption and bridges between dimensions. They are often called upon for diplomatic missions, reality stabilization efforts, and major purification rituals. Their unique understanding of crystalline science makes them invaluable in the ongoing efforts to combat the [[Crystal Plague]] and maintain stability between [[Aquabyssos]] and [[Aethermoor]].
 
 This build emphasizes the intersection of magic, music, and science that defines the Crystal Singer tradition, offering both mechanical benefits and rich roleplaying opportunities.
+
+## Related
+
+*Links to related content will be added here.*

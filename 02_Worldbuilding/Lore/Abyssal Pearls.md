@@ -1,15 +1,18 @@
 ---
+title: Abyssal Pearls
 type: Lore
-status: complete
 tags:
-- active
-- aquabyssos
 - lore
+- aquabyssos
+- active
 - quest
-world: Aquabyssos
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.793510+00:00'
 ---
+
 
 
 ## Overview
@@ -43,8 +46,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[12_Research/D&D_References/The Original Palace]]
-- [[12_Research/D&D_References/The Depth Accords]]
+- [[The Original Palace]]
+- [[The Depth Accords]]
 
 
 ## Related

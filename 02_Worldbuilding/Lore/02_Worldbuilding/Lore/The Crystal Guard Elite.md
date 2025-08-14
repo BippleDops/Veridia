@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: The Crystal Guard Elite
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Lore/The Crystal Guard Elite
 
@@ -24,16 +28,16 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Customs House]]
-- [[12_Research/D&D_References/Customs House]]
-- [[12_Research/D&D_References/The Convergence Point]]
-- [[12_Research/D&D_References/The Seven Shards]]
-- [[12_Research/D&D_References/The Seven Shards]]
-- [[12_Research/D&D_References/The Queen]]
-- [[12_Research/D&D_References/The Queen]]
-- [[12_Research/D&D_References/The Queen]]
-- [[12_Research/D&D_References/The Seven Shards 3]]
-- [[12_Research/D&D_References/The Seven Shards 3]]
+- [[Customs House]]
+- [[Customs House]]
+- [[The Convergence Point]]
+- [[The Seven Shards]]
+- [[The Seven Shards]]
+- [[The Queen]]
+- [[The Queen]]
+- [[The Queen]]
+- [[The Seven Shards 3]]
+- [[The Seven Shards 3]]
 
 ## Notes
 

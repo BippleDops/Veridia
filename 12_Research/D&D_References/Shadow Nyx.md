@@ -1,30 +1,37 @@
+# Shadow Nyx
+
 ---
+title: Shadow Nyx
+type: Group
 tags:
 - aquabyssos
-- complete
-- espionage
 - faction
-- group
-- intelligence
+- research
+- active
+- complete
 - shadow-network
+- espionage
+- group
 - shadow-touched
+- intelligence
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+headquarters: '[[The Shadowmeld Sanctum]]'
 world: Aquabyssos
-type: Group
 faction_type: Intelligence Network
 alignment: Chaotic Neutral
-headquarters: '[[The Shadowmeld Sanctum]]'
 leader: '[[Shadow Nyx]]'
 members: ~300 operatives and informants
 influence: Citywide (Information networks throughout Aquabyssos)
 wealth: Moderate (Information brokerage and contracts)
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.732281+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] Heraldry
@@ -276,3 +283,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Shadow Nyx|02 Worldbuilding/Groups/Shadow Nyx]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Campaign Quick Reference Sheets
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Campaign Quick Reference Sheets
 
@@ -24,15 +28,15 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Vault_Navigation_Hub]]
-- [[12_Research/D&D_References/Vault_Navigation_Hub]]
-- [[12_Research/D&D_References/Vault_Navigation_Hub]]
-- [[12_Research/D&D_References/Master_Lore_Index]]
-- [[12_Research/D&D_References/Master_People_Index]]
-- [[12_Research/D&D_References/Master_Places_Index]]
-- [[12_Research/D&D_References/Campaign_Relationship_Matrix]]
-- [[12_Research/D&D_References/Campaign_Relationship_Matrix]]
-- [[12_Research/D&D_References/Master_Groups_Index]]
+- [[Vault_Navigation_Hub]]
+- [[Vault_Navigation_Hub]]
+- [[Vault_Navigation_Hub]]
+- [[Master_Lore_Index]]
+- [[Master_People_Index]]
+- [[Master_Places_Index]]
+- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix]]
+- [[Master_Groups_Index]]
 - [[02_Worldbuilding/Lore/Goldwave Manor]]
 
 ## Notes

@@ -1,22 +1,26 @@
 ---
+title: Interrogation Techniques
 type: Lore
-status: complete
 tags:
-- combat
-- quest
-- aquatic
-- aquabyssos
-- complete
-- interrogation
-- investigation
-- law-enforcement
 - lore
+- aquabyssos
+- investigation
+- aquatic
+- quest
 - techniques
+- active
+- combat
+- complete
+- law-enforcement
+- interrogation
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 world: Aquabyssos
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 # Interrogation Techniques
@@ -60,13 +64,13 @@ Provides framework for investigation scenes and adds realism to law enforcement 
 
 ## Connections
 
-- [[12_Research/D&D_References/Evidence Chain Analysis]]
-- [[12_Research/D&D_References/Evidence Types Guide]]
-- [[12_Research/D&D_References/Silver Mask]]
-- [[12_Research/D&D_References/The Deep Mother]]
-- [[12_Research/D&D_References/The Restoration Movement]]
-- [[12_Research/D&D_References/The Seven Shards]]
-- [[12_Research/D&D_References/The Silverscale Conspiracy]]
+- [[Evidence Chain Analysis]]
+- [[Evidence Types Guide]]
+- [[Silver Mask]]
+- [[The Deep Mother]]
+- [[The Restoration Movement]]
+- [[The Seven Shards]]
+- [[The Silverscale Conspiracy]]
 
 ## Player-Facing Summary
 
@@ -91,3 +95,26 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

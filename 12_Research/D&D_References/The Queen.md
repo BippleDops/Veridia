@@ -1,25 +1,32 @@
+# The Queen
+
 ---
+title: The Queen
+type: Lore
 tags:
-- aethermoor
-- complete
-- convergence
-- crystal-possession
-- crystalline-madness
 - lore
-- monarchy
+- crystal-possession
+- convergence
 - political-power
-- queen-seraphina
 - royal-court
 - shadow-corruption
+- research
+- crystalline-madness
+- monarchy
+- queen-seraphina
+- active
+- complete
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 category: Royal Authority
 significance: Campaign-Critical
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 

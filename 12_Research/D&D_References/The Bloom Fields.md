@@ -1,24 +1,30 @@
+# The Bloom Fields
+
 ---
+title: The Bloom Fields
+type: Lore
 tags:
+- lore
 - aquabyssos
 - aquatic-ecology
-- bioluminescent-ecosystem
-- complete
-- crystal-coral-synthesis
-- deep-sea-agriculture
 - environmental-phenomenon
-- environmental-zone
-- lore
-- marine-biodiversity
-- pressure-adapted-flora
+- bioluminescent-ecosystem
 - underwater-cultivation
+- pressure-adapted-flora
+- crystal-coral-synthesis
+- environmental-zone
+- research
+- active
+- complete
+- marine-biodiversity
+- deep-sea-agriculture
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 category: Environmental Zone
 significance: Critical Ecosystem
 created_by: environmental-expansion
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 zone_type: Bioluminescent Agricultural Complex
 danger_level: Low to Moderate
@@ -27,6 +33,7 @@ access_level: Managed Cultivation
 seasonal_variation: Bioluminescent Tide Cycles
 biodiversity_index: Exceptional
 ---
+
 
 
 

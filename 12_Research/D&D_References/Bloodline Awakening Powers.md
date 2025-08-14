@@ -1,21 +1,28 @@
+# Bloodline Awakening Powers
+
 ---
+title: Bloodline Awakening Powers
+type: Lore
 tags:
-- aethermoor
-- awakening
-- bloodlines
-- complete
-- inheritance
 - lore
-- magic
+- inheritance
 - power-systems
+- bloodlines
+- magic
+- research
+- active
+- complete
+- awakening
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 expanded: 2025-08-10
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -300,3 +307,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Update Indexes|02 Worldbuilding/Lore/Update Indexes]]
+
+
+## Related
+
+*Links to related content will be added here.*

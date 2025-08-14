@@ -1,14 +1,20 @@
 ---
+title: Goldspire Port
+type: Location
+tags:
+- place
+- both
+- active
+- location
 created: null
+modified: '2025-08-14'
+status: active
+region: Unknown
+population: Unknown
 updated: '2025-08-13T12:34:17.003471+00:00'
 world: Both
-type: Location
-status: active
-tags:
-- active
-- both
-- location
 ---
+
 
 
 > [!figure] View
@@ -157,6 +163,27 @@ Legends speak of Goldspire Port as a nexus where past and present converge. Loca
 - An NPC seeks discreet help at Goldspire Port to avert a public scandal.
 - A map overlay reveals a hidden approach to Goldspire Port active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -166,3 +193,61 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Goldspire Port]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-temple-scholar-depth-seer-v1-temple-scholar-depth-seer.svg]]
+- [[Deepsteel]]
+- [[04_Resources_Assets_Locations_location-city-crown-jewels-crown-jewels.svg]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting Goldspire Port:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Goldspire Port
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

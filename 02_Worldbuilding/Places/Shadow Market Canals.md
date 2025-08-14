@@ -1,34 +1,41 @@
 ---
+title: Shadow Market Canals
+type: Location
+tags:
+- underground
+- aquabyssos
+- waterways
+- session-notes
+- status/complete
+- black_market
+- content/faction
+- aquatic
+- content/location
+- canals
+- place
+- active
+- combat
+- complete
+- location
+- smuggling
+- world/aquabyssos
+- shadow-touched
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Places
 MyContainer: None
 access: invitation_only
-created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
 security_level: high
-status: complete
-tags:
-- combat
-- session-notes
-- shadow-touched
-- aquatic
-- aquabyssos
-- black_market
-- canals
-- complete
-- content/faction
-- content/location
-- location
-- smuggling
-- status/complete
-- underground
-- waterways
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:16.788584+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -75,7 +82,7 @@ Subtle symbols carved into tunnel walls indicate:
 - Meeting points (interlocked circles)
 
 **The Flow Charts**
-[[12_Research/D&D_References/Canal Master Typhoon Currentwise]] maintains detailed maps showing:
+[[Canal Master Typhoon Currentwise]] maintains detailed maps showing:
 - Tidal schedules affecting water levels
 - Patrol routes and timing
 - Safe houses and storage points
@@ -127,9 +134,9 @@ All newcomers must be sponsored by established canal users:
 - **Water Walking** prevention fields forcing underwater approach
 
 **Layer 4: Enforcement Response**
-- **[[12_Research/D&D_References/The Current Riders]]**: Fast response team on specialized watercraft
-- **[[12_Research/D&D_References/Depth Enforcers]]**: Armed guards trained in underwater combat
-- **[[12_Research/D&D_References/The Tide Turners]]**: Elite operatives capable of controlling water flow
+- **[[The Current Riders]]**: Fast response team on specialized watercraft
+- **[[Depth Enforcers]]**: Armed guards trained in underwater combat
+- **[[The Tide Turners]]**: Elite operatives capable of controlling water flow
 - **[[Emergency Response Protocol]]**: Complete canal lockdown procedures
 
 ## Operations and Services
@@ -199,9 +206,9 @@ Rapid transport system using trained water creatures:
 **Background**: Former city engineer who helped design the original drainage system
 **Motivation**: Maintaining profitable operations while avoiding official attention
 **Key Relationships**: 
-- Secret arrangement with [[12_Research/D&D_References/The Shadow Markets]] for territory division
-- Information sharing agreement with [[12_Research/D&D_References/Deepmind Conspiracy]]
-- Protection contract with [[12_Research/D&D_References/Syndicate Enforcers]]
+- Secret arrangement with [[The Shadow Markets]] for territory division
+- Information sharing agreement with [[Deepmind Conspiracy]]
+- Protection contract with [[Syndicate Enforcers]]
 
 **Abilities**: 
 - **Master Navigator**: Knows every passage and shortcut in the system
@@ -280,7 +287,7 @@ Negotiates with legitimate businesses and maintains cover operations
 **Specialty**: High-speed transportation and courier services
 **Territory**: The fastest current channels and main thoroughfares
 **Membership**: 30-40 individuals, mostly young and agile swimmers
-**Leadership**: [[12_Research/D&D_References/Speed-Current Jet]], a reformed street racing champion
+**Leadership**: [[Speed-Current Jet]], a reformed street racing champion
 **Services**: Message delivery, package transport, emergency evacuation
 
 ### The Depth Dealers
@@ -288,7 +295,7 @@ Negotiates with legitimate businesses and maintains cover operations
 **Specialty**: Rare and dangerous magical items
 **Territory**: The deepest storage areas and most secure channels
 **Membership**: 15-20 experienced magic users and treasure hunters
-**Leadership**: [[12_Research/D&D_References/Arcane-Depth Void]], mysterious figure who may not be entirely human
+**Leadership**: [[Arcane-Depth Void]], mysterious figure who may not be entirely human
 **Inventory**: Cursed items, unstable magical devices, extraplanar artifacts
 
 ### The Silent Current
@@ -296,7 +303,7 @@ Negotiates with legitimate businesses and maintains cover operations
 **Specialty**: Assassination, kidnapping, and violence for hire
 **Territory**: The maze sections and emergency escape routes
 **Membership**: 8-12 elite operatives with unknown true identities
-**Leadership**: [[12_Research/D&D_References/The Deep Silence]], who communicates only through written messages
+**Leadership**: [[The Deep Silence]], who communicates only through written messages
 **Methods**: Drowning accidents, poisoned water supplies, underwater ambushes
 
 ### The Memory Tide
@@ -304,35 +311,35 @@ Negotiates with legitimate businesses and maintains cover operations
 **Specialty**: Extraction, storage, and trading of memories
 **Territory**: Specialized chambers with mystical properties
 **Membership**: 20-25 individuals with psychic abilities
-**Leadership**: [[12_Research/D&D_References/Mind-Current Remembrance]], former temple priest turned rogue
+**Leadership**: [[Mind-Current Remembrance]], former temple priest turned rogue
 **Operations**: Memory theft, experience trading, selective amnesia services
 
 ## Connections to Other Locations
 
 ### Direct Physical Connections
 
-**[[12_Research/D&D_References/The Shadow Markets]]**
+**[[The Shadow Markets]]**
 Secret tunnels connect to the main criminal trading center:
 - Shared security protocols and mutual defense agreements
 - Regular transfer of goods between locations
 - Joint operations for major criminal enterprises
 - Emergency evacuation routes between facilities
 
-**[[12_Research/D&D_References/Vote Vaults]]**
+**[[Vote Vaults]]**
 Hidden passages allow discrete transport of political information:
 - Protected courier routes for sensitive documents
 - Secure meeting locations for political conspirators
 - Money laundering operations for political financing
 - Blackmail material storage and transport
 
-**[[12_Research/D&D_References/Secret Vault Beneath Throne]]**
+**[[Secret Vault Beneath Throne]]**
 Unofficial connection through royal intelligence networks:
 - Crown agents use canals for covert operations
 - Royal intelligence gathering from criminal sources
 - Discrete disposal of politically sensitive items
 - Emergency communication channels during crises
 
-**[[12_Research/D&D_References/Reflection Pools - Surgical Theater]]**
+**[[Reflection Pools - Surgical Theater]]**
 Underwater passages for transporting medical contraband:
 - Illegal organ trade and body modification services
 - Transport of dangerous medical experiments
@@ -341,21 +348,21 @@ Underwater passages for transporting medical contraband:
 
 ### Intelligence Networks
 
-**[[12_Research/D&D_References/Deepmind Conspiracy]]**
+**[[Deepmind Conspiracy]]**
 Shared information resources and coordinated intelligence:
 - Exchange of political and criminal intelligence
 - Joint surveillance operations on common threats
 - Mutual warning systems for authority raids
 - Coordinated misinformation campaigns
 
-**[[12_Research/D&D_References/The Silent Watcher]]**
+**[[The Silent Watcher]]**
 Surveillance cooperation and territory monitoring:
 - Shared observation posts and warning systems
 - Coordinated tracking of authority movements
 - Joint intelligence analysis and threat assessment
 - Emergency communication during security breaches
 
-**[[12_Research/D&D_References/Whisper Translation]]**
+**[[Whisper Translation]]**
 Communication services and coded message delivery:
 - Encrypted communication between criminal organizations
 - Translation services for international criminal contacts
@@ -364,7 +371,7 @@ Communication services and coded message delivery:
 
 ### Criminal Alliances
 
-**[[12_Research/D&D_References/Syndicate Enforcers]]**
+**[[Syndicate Enforcers]]**
 Mutual protection and enforcement cooperation:
 - Shared security personnel during major operations
 - Joint response to external threats
@@ -561,14 +568,14 @@ Criminal organizations in the canal system launch a bid to take control of Aquab
 
 ## Connections
 
-- [[12_Research/D&D_References/Shadow Surgeons Collective]]
-- [[12_Research/D&D_References/Deepmind Conspiracy]]
-- [[12_Research/D&D_References/Secret Vault Beneath Throne]]
-- [[12_Research/D&D_References/Shadow Merchant Riptide]]
-- [[12_Research/D&D_References/Vote Vaults]]
+- [[Shadow Surgeons Collective]]
+- [[Deepmind Conspiracy]]
+- [[Secret Vault Beneath Throne]]
+- [[Shadow Merchant Riptide]]
+- [[Vote Vaults]]
 - [[12_Research/D&D_Statblocks/Ambush Point]]
 - [[12_Research/D&D_Statblocks/Rescue Senator Glaucus]]
-- [[12_Research/D&D_References/Aquabyssos - Session 04 - High Tide Horror]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
 
 ## Player-Facing Summary
 
@@ -584,15 +591,109 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Shadow Market Canals]]
+- [[Shadow Market Canals]]
 
 <!-- enriched: true -->
 - [[12_Research/D&D_Statblocks/Hidden Smuggler's Cove]]
 - [[12_Research/D&D_Statblocks/Memory Thief]]
-- [[12_Research/D&D_References/Reflection Pools - Surgical Theater]]
-- [[12_Research/D&D_References/The Silent Watcher]]
+- [[Reflection Pools - Surgical Theater]]
+- [[The Silent Watcher]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[Crystallium]]
+- [[The Iteration Collective]]
+- [[Professor Marina Reefbuilder]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+Shadow Market Canals is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Shadow Market Canals
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Shadow Market Canals was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Shadow Market Canals:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Shadow Market Canals
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

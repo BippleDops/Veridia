@@ -1,3 +1,15 @@
+# Style_Guide 2
+
+---
+title: Style Guide 2
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Visual Style Guide
 
 - Realms:
@@ -11,3 +23,8 @@
 - Vehicles: blueprint cutaways with numbered pins and legend space; no paragraphs.
 - UI: fantasy-themed, high-contrast, readable; short real labels where needed.
 - Negatives: modern signage, sci-fi UI, photoreal CGI, anime, bloom glare, gibberish text.
+
+
+## Related
+
+*Links to related content will be added here.*

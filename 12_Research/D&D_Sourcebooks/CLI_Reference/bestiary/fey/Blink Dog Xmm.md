@@ -1,29 +1,35 @@
+# Blink Dog Xmm
+
 ---
+title: Blink Dog Xmm
 aliases:
 - Blink Dog
+type: monster
+tags:
+- ttrpg-cli/monster/size/medium
+- both
+- ttrpg-cli/compendium/src/5e/xmm
+- monster
+- ttrpg-cli/monster/cr/1-4
+- research
+- world/both
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/environment/feywild
+- active
+- ttrpg-cli/monster/type/fey
+- ttrpg-cli/monster/environment/forest
+- status/in-progress
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- active
-- both
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/environment/feywild
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey
-- world/both
-type: monster
 updated: '2025-08-13T12:34:05.557168+00:00'
 world: Both
 ---
+
 
 
 
@@ -102,3 +108,8 @@ Legends speak of blink dog xmm as a nexus where past and present converge. Local
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

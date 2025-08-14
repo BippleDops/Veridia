@@ -1,23 +1,30 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
-danger_level: Moderate
-status: complete
+title: Merchant
+type: Location
 tags:
 - aquabyssos
-- complete
-- content/location
-- content/npc
-- general-goods
-- location
-- merchant
 - status/complete
 - trader
+- content/location
+- content/npc
+- place
+- active
+- general-goods
+- complete
+- location
 - world/aquabyssos
-type: Location
+- merchant
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+created_by: auto-stub
+danger_level: Moderate
 updated: '2025-08-13T12:34:17.031946+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -166,6 +173,27 @@ Marina began as a traveling trader before settling in Aquabyssos. Her diverse co
 **Infrastructure**: Improving storage and display facilities
 **Networking**: Expanding connections with foreign suppliers
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 Marina serves as reliable source for mundane equipment and local information. Her shop provides realistic shopping experience while her network offers plot hooks and adventure connections. Use her as liaison between party and merchant community.
 
@@ -182,3 +210,97 @@ Legends speak of Merchant as a nexus where past and present converge. Locals des
 - [[Merchant]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-anti-smuggling-operations-v1-anti-smuggling-operations.svg]]
+- [[Feast Saltyflavor]]
+- [[04_Resources_Assets_Locations_location-city-mourning-depths-mourning-depths.svg]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+Merchant is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Merchant
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Merchant was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Merchant:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Merchant
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

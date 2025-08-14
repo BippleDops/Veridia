@@ -1,19 +1,26 @@
+# Inverted Ballroom Wing - Party Quarters
+
 ---
+title: Inverted Ballroom Wing   Party Quarters
+type: Location
 tags:
 - aquabyssos
-- complete
-- entertainment
-- location
 - luxury
+- research
+- active
+- location
+- complete
 - palace
+- entertainment
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-inverted-ballroom-wing-party-quarters-inverted-ballroom-wing-party-quarters.svg)
@@ -113,3 +120,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Inverted Ballroom Wing - Party Quarters|02 Worldbuilding/Places/Inverted Ballroom Wing Party Quarters]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

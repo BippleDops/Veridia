@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry the void watchers the void watchers.svg
+aliases:
+- symbol heraldry the void watchers the void watcherssvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-the-void-watchers-the-void-watchers.svg
 
@@ -24,9 +30,9 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/The Void Watchers]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
-- [[12_Research/D&D_References/Void Watchers]]
+- [[The Void Watchers]]
+- [[Faction Symbols & Heraldry]]
+- [[Void Watchers]]
 - [[02_Worldbuilding/Lore/Void Watchers]]
 
 ## Notes

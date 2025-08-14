@@ -1,23 +1,29 @@
+# Memory Trading Economy
+
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- content/mechanics
-- economy
-- lore
-- memory
-- narrative
-- status/complete
-- trading
-- world/both
 title: Memory Trading Economy System
 type: Lore
+tags:
+- economy
+- lore
+- both
+- trading
+- status/complete
+- narrative
+- memory
+- content/lore
+- world/both
+- research
+- active
+- complete
+- content/mechanics
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.795704+00:00'
 world: Both
 ---
+
 
 
 
@@ -436,3 +442,8 @@ Legends speak of Memory Trading Economy as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

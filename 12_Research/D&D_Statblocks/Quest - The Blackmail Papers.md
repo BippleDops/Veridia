@@ -1,21 +1,27 @@
+# Quest - The Blackmail Papers
+
 ---
+title: Quest   The Blackmail Papers
+type: Location
 tags:
-- aethermoor
+- intrigue
 - blackmail
+- social
+- quest
+- research
+- active
+- location
 - complete
+- secrets
 - documents
 - espionage
-- intrigue
-- location
+- aethermoor
 - political-corruption
-- quest
-- secrets
-- social
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Location
 created_by: auto-stub
-created: '2025-08-11'
 updated: '2025-08-13T01:18:36.296840+00:00'
 quest_type: Social Intrigue/Heist Adventure
 level_range: 4-9
@@ -25,6 +31,7 @@ difficulty: Moderate to Hard
 primary_location: Port Meridian and Noble Quarter
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -393,3 +400,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Quest - The Blackmail Papers|02 Worldbuilding/Places/Quest The Blackmail Papers]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

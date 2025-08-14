@@ -1,16 +1,24 @@
+# Dr. Elena Compassion
+
 ---
-tags:
-- active
-- aquabyssos
-- complete
-- faction
-- lore
+title: Dr. Elena Compassion
+aliases:
+- Dr Elena Compassion
 type: Lore
-world: Aquabyssos
-status: complete
+tags:
+- lore
+- aquabyssos
+- faction
+- research
+- active
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T12:34:11.732434+00:00'
 ---
+
 
 
 
@@ -62,3 +70,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[githzerai-groups-githzerai-group-leader-mtf]]
 - [[guild-artisan]]
 - [[guild-artisan-guild-merchant-variant]]
+
+
+## Related
+
+*Links to related content will be added here.*

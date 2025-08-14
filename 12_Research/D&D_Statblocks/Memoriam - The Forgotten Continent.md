@@ -1,16 +1,22 @@
+# Memoriam - The Forgotten Continent
+
 ---
+title: Memoriam   The Forgotten Continent
+type: Location
+tags:
+- both
+- research
+- active
+- location
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 world: Both
 updated: '2025-08-13T12:34:13.538717+00:00'
-created: '2025-08-11'
-status: complete
-tags:
-- active
-- both
-- complete
-- location
-type: Location
 danger_level: Moderate
 ---
+
 
 
 
@@ -219,3 +225,8 @@ Legends speak of Memoriam   The Forgotten Continent as a nexus where past and pr
 - [[Memoriam - The Forgotten Continent|02 Worldbuilding/Places/Memoriam The Forgotten Continent]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

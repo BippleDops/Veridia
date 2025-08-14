@@ -1,20 +1,26 @@
+# gate-towns-of-the-outlands-xdmg
+
 ---
+title: gate towns of the outlands xdmg
 aliases:
 - Gate-Towns of the Outlands
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.247013'
 world: Both
 ---
+
 
 # Gate-Towns of the Outlands
 *Source: Dungeon Master's Guide (2024) p. 205* 
@@ -61,3 +67,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
  enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

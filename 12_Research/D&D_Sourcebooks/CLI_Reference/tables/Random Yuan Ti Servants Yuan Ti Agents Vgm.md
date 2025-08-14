@@ -1,22 +1,27 @@
+# Random Yuan Ti Servants Yuan Ti Agents Vgm
+
 ---
+title: Random Yuan Ti Servants Yuan Ti Agents Vgm
 aliases:
 - Random Yuan-ti Servants; Yuan-ti Agents
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/vgm
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:03.507941+00:00'
 world: Both
 ---
+
 
 
 # Random Yuan-ti Servants; Yuan-ti Agents
@@ -58,3 +63,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
  enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

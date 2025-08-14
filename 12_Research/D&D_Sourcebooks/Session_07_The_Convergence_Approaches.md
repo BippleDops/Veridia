@@ -1,16 +1,23 @@
+# Session_07_The_Convergence_Approaches
+
 ---
-created: '2025-08-13'
-status: complete
+title: Session 07 The Convergence Approaches
+type: Quest
 tags:
-- campaign/seven-shards
 - session-guide
+- research
 - world/both
 - climax-building
+- active
 - epic-encounters
-type: Quest
+- campaign/seven-shards
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T07:30:00.000000+00:00'
 world: Both
 ---
+
 
 # Session 7: The Convergence Approaches
 
@@ -388,3 +395,7 @@ The party has 48 hours to:
 ---
 
 *"In the final hours before dawn, all currents flow toward their ultimate destination. The wise navigator chooses their heading carefully, for there may be no opportunity to change course."* - Ancient Navigational Wisdom
+
+## Related
+
+*Links to related content will be added here.*

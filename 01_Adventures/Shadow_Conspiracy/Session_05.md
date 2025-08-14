@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 05
 type: adventure
-status: active
 tags:
-- combat
-- session-notes
-- shadow-touched
 - adventure
+- session-notes
+- quest
+- active
+- combat
+- shadow-touched
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 05: [Political Crisis]
 
@@ -73,3 +79,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
+
+
+## Key NPCs
+
+- [[04_Resources_Assets_Locations_location-city-the-drowned-embassy-the-drowned-embassy.svg]]
+- [[Emperor Thalassius]]
+- [[NPC Relationship System]]
+- [[Captain Henrik Proudbanner]]
+- [[Blood in the Water]]
+
+
+## Important Locations
+
+- [[Crystal_Academy]]
+- [[04_Resources_Assets_Locations_location-city-compass-quest-compass-quest.svg]]
+- [[04_Resources_Assets_Locations_location-city-warforged-warforged.svg]]

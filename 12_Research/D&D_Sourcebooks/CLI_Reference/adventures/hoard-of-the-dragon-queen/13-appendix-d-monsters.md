@@ -1,20 +1,26 @@
+# 13-appendix-d-monsters
+
 ---
+title: 13 appendix d monsters
 aliases:
 - Appendix D: Monsters
-created: 2025-07-23 12:39
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- ttrpg-cli/compendium/src/5e/hotdq
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/hotdq
-- world/both
-type: note
+created: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.630540'
 world: Both
 ---
+
 
 # Appendix D: Monsters
 *Source: Hoard of the Dragon Queen, p. 180* 
@@ -61,3 +67,8 @@ Legends speak of 13 appendix d monsters as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

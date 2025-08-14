@@ -1,11 +1,29 @@
+# Aethermoor - Session 04 The Silverscale Gambit
+
 ---
+title: Aethermoor   Session 04 The Silverscale Gambit
+type: Lore
+tags:
+- lore
+- campaign/session
+- seven-shards
+- content/lore
+- research
+- world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+level: 4
 MyCategory: Unknown
 MyContainer: None
 absent: []
 aquabyssos_connection: true
 campaign: Aethermoor - The Plague of Crystals
 corruption_exposure: 3
-created: '2025-08-11'
 danger_level: 7
 date: null
 duration_hours: 4
@@ -18,7 +36,6 @@ items_gained:
 - Shard Compass
 - Aquabyssos breathing apparatus
 - Crimson Hand intelligence reports
-level: 4
 locations_visited:
 - '[[Port Meridian - Merchant Quarter]]'
 - '[[Silverscale Banking House]]'
@@ -47,21 +64,11 @@ quests_started:
 - '[[The Silverscale Conspiracy]]'
 - '[[Race Against the Festival]]'
 session: Session-04
-status: complete
-tags:
-- aethermoor
-- campaign/session
-- complete
-- content/lore
-- lore
-- seven-shards
-- status/in-progress
-- world/aethermoor
-type: Lore
 updated: '2025-08-13T12:34:17.852501+00:00'
 world: Aethermoor
 xp_awarded: 1200
 ---
+
 
 
 
@@ -357,3 +364,8 @@ This session establishes:
 - [[Aquabyssos Trade Seal]]
 - [[Silverscale Emergency Bunker]]
 - [[Hidden Smuggler's Cove]]
+
+
+## Related
+
+*Links to related content will be added here.*

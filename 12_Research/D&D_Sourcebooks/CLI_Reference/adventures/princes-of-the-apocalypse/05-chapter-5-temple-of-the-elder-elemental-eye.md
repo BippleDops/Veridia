@@ -1,20 +1,26 @@
+# 05-chapter-5-temple-of-the-elder-elemental-eye
+
 ---
+title: 05 chapter 5 temple of the elder elemental eye
 aliases:
 - Chapter 5: Temple of the Elder Elemental Eye
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
-tags:
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/pota
-- world/both
 type: note
+tags:
+- research
+- world/both
+- active
+- note
+- ttrpg-cli/compendium/src/5e/pota
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.589036'
 world: Both
 ---
+
 
 # Chapter 5: Temple of the Elder Elemental Eye
 *Source: Princes of the Apocalypse, p. 112* 
@@ -2074,3 +2080,8 @@ Legends speak of 05 chapter 5 temple of the elder elemental eye as a nexus where
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

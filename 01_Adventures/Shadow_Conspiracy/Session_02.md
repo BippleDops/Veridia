@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 02
 type: adventure
-status: active
 tags:
-- combat
-- session-notes
-- shadow-touched
 - adventure
+- session-notes
+- quest
+- active
+- combat
+- shadow-touched
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 02: [Political Crisis]
 
@@ -73,3 +79,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
+
+
+## Key NPCs
+
+- [[High Priestess Marina Oracleguard]]
+- [[Character Name]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-depth-wars-the-depth-wars.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-shadowsail-captain-shadowsail.svg]]
+- [[Lord Admiral Gaius Windcutter]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-the-bone-palace-of-sorrows-the-bone-palace-of-sorrows.png]]
+- [[Port Meridian]]
+- [[04_Resources_Assets_Locations_location-city-tidal-runner-nerissa-tidal-runner-nerissa.svg]]

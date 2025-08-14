@@ -1,34 +1,42 @@
+# Memory Thief
+
 ---
+title: Memory Thief
+type: Location
 tags:
 - aquabyssos
-- complete
-- criminal
-- dangerous
-- location
-- memory-thief
-- mental-crime
-- mind-magic
 - mysterious
-- npc
-- person
 - psychological
+- person
+- memory-thief
+- npc
+- research
+- dangerous
+- mind-magic
+- active
+- location
+- complete
+- mental-crime
+- criminal
+created: 2025-08-08
+modified: '2025-08-14'
 status: complete
-world: Aquabyssos
-type: Location
-category: Criminal Mind-Mage
 race: Changeling
 class: Rogue/Enchanter
 location: '[[The Shadow Markets]]'
-faction: '[[02_Worldbuilding/Groups/Memory Thieves Guil|02 Worldbuilding/Groups/Memory Thieves Guil]]'
+world: Aquabyssos
+category: Criminal Mind-Mage
+faction: '[[02_Worldbuilding/Groups/Memory Thieves Guil|02 Worldbuilding/Groups/Memory
+  Thieves Guil]]'
 influence: Moderate
 danger_level: High
 created_by: auto-stub
-created: 2025-08-08
 updated: '2025-08-13T01:18:36.349115+00:00'
 MyContainer: None
 MyCategory: Criminal Operative
 obsidianUIMode: preview
 ---
+
 
 
 
@@ -325,3 +333,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 - [[Abyssos Prime]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,30 +1,36 @@
+# Giant Constrictor Snake Xmm
+
 ---
+title: Giant Constrictor Snake Xmm
 aliases:
 - Giant Constrictor Snake
+type: monster
+tags:
+- both
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/beast
+- world/aquabyssos
+- monster
+- research
+- world/both
+- ttrpg-cli/monster/environment/swamp
+- active
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/environment/forest
+- status/in-progress
+- ttrpg-cli/monster/environment/desert
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- active
-- both
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/beast
-- world/aquabyssos
-- world/both
-type: monster
 updated: '2025-08-13T12:34:05.468352+00:00'
 world: Both
 ---
+
 
 
 
@@ -100,3 +106,8 @@ Legends speak of giant constrictor snake xmm as a nexus where past and present c
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

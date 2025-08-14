@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 08
 type: adventure
-status: active
 tags:
-- combat
-- session-notes
-- aerial
 - adventure
+- aerial
+- session-notes
+- quest
+- active
+- combat
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 08: [Sky Realm Crisis]
 
@@ -62,3 +68,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Key NPCs
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-echo-succession-the-echo-succession.svg]]
+- [[The Crimson Shard Guardian]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-prism-shield-valeria-captain-prism-shield-valeria.svg]]
+- [[04_Resources_Assets_Locations_location-city-temple-guardian-marcus-the-drowned-temple-guardian-marcus-the-drowned.svg]]
+- [[All NPCs]]
+
+
+## Important Locations
+
+- [[Service Levels]]
+- [[Prophetic Studies Institute]]
+- [[Conductor Morpheus Mindbridge]]

@@ -1,20 +1,26 @@
+# 03-chapter-10-the-sea-of-moving-ice
+
 ---
+title: 03 chapter 10 the sea of moving ice
 aliases:
 - Chapter 10: The Sea of Moving Ice
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- ttrpg-cli/compendium/src/5e/rot
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/rot
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.621780'
 world: Both
 ---
+
 
 # Chapter 10: The Sea of Moving Ice
 *Source: Rise of Tiamat, p. 110* 
@@ -609,3 +615,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
  enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

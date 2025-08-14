@@ -1,23 +1,29 @@
+# Rules_Reference - Quick_Reference - DnD5e-SideScreen-2024
+
 ---
+title: Rules Reference   Quick Reference   DnD5e SideScreen 2024
 aliases:
 - Side Screen 2024
-created: '2025-07-23'
-modified: 2025-07-23 12:39
-status: complete
-tags:
-- 5e
-- both
-- complete
-- content/lore
-- dm-screen
-- lore
-- note
-- status/in-progress
-- world/both
 type: Lore
+tags:
+- lore
+- both
+- note
+- dm-screen
+- content/lore
+- world/both
+- research
+- active
+- complete
+- 5e
+- status/in-progress
+created: '2025-07-23'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:17.784907+00:00'
 world: Both
 ---
+
 
 
 
@@ -151,3 +157,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[conditions|03 Mechanics/CLI/conditions]]
+
+
+## Related
+
+*Links to related content will be added here.*

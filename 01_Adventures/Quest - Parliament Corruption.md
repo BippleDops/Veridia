@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Quest   Parliament Corruption
 type: quest
-status: placeholder
 tags:
 - placeholder
+- adventure
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Quest - Parliament Corruption
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Aboleth Prime Yoth]]
+- [[Aboleth Prime Yoth]]
 
 ## Notes
 
@@ -35,3 +41,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-faction-intelligence-faction-intelligence.svg]]
+- [[Order of the Shattered Crown]]
+- [[Archbishop Matthias Lightbringer]]
+- [[Quest - The Refugee Evacuation]]
+- [[Quest - Refugees of the Deep]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-pressure-crystals-v1-pressure-crystals.svg]]
+- [[Keeper of Crowns Lydia Starfall]]
+- [[04_Resources_Assets_Locations_location-city-elena-recordkeeper-elena-recordkeeper.svg]]

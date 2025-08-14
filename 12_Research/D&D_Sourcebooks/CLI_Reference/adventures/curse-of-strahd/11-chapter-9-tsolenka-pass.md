@@ -1,20 +1,26 @@
+# 11-chapter-9-tsolenka-pass
+
 ---
+title: 11 chapter 9 tsolenka pass
 aliases:
 - Chapter 9: Tsolenka Pass
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/cos
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.537931'
 world: Both
 ---
+
 
 # Chapter 9: Tsolenka Pass
 *Source: Curse of Strahd, p. 157* 
@@ -213,3 +219,8 @@ Legends speak of 11 chapter 9 tsolenka pass as a nexus where past and present co
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

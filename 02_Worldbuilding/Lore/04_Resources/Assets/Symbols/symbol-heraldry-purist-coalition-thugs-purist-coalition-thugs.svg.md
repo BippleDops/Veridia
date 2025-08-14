@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry purist coalition thugs purist coalition thugs.svg
+aliases:
+- symbol heraldry purist coalition thugs purist coalition thugssvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-purist-coalition-thugs-purist-coalition-thugs.svg
 
@@ -24,10 +30,10 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Purist Coalition Thugs]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
-- [[12_Research/D&D_References/Thugs]]
-- [[12_Research/D&D_References/Purist Coalition]]
+- [[Purist Coalition Thugs]]
+- [[Faction Symbols & Heraldry]]
+- [[Thugs]]
+- [[Purist Coalition]]
 - [[02_Worldbuilding/Lore/Thugs]]
 
 ## Notes

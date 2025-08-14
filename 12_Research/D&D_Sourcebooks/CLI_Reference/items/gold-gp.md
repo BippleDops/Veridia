@@ -1,22 +1,28 @@
+# gold-gp
+
 ---
+title: gold gp
 aliases:
 - Gold (gp)
-attunement: false
-created: 2025-07-23
-cssclasses: json5e-item
-modified: 2025-07-23 12:39
-obsidian-u-i-mode: preview
-status: active
-tags:
-- content/item
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/phb
-- world/both
 type: note
+tags:
+- ttrpg-cli/compendium/src/5e/phb
+- research
+- world/both
+- active
+- note
+- content/item
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+attunement: false
+cssclasses: json5e-item
+obsidian-u-i-mode: preview
 updated: '2025-08-12T23:37:37.524220'
 world: Both
 ---
+
 
 # Gold (gp)
 *Treasure (coinage)*  
@@ -58,3 +64,8 @@ Legends speak of gold gp as a nexus where past and present converge. Locals desc
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

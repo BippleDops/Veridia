@@ -1,23 +1,30 @@
 ---
+title: The Thirteen Keys
+type: Location
+tags:
+- aquabyssos
+- content/adventure
+- ancient-mystery
+- status/complete
+- content/location
+- place
+- active
+- puzzle
+- location
+- complete
+- content/item
+- world/aquabyssos
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 created_by: auto-stub
 danger_level: Moderate
-status: complete
-tags:
-- ancient-mystery
-- aquabyssos
-- complete
-- content/adventure
-- content/item
-- content/location
-- location
-- puzzle
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:17.126796+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -113,6 +120,27 @@ Each key is protected by a unique challenge that tests the associated virtue:
 3. Earthquake reveals sealed chamber requiring the keys
 4. Enemy faction begins collecting keys, forcing players to act
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 This quest works best as a campaign centerpiece spanning multiple levels. Each key should feel unique and meaningful. Consider what the vault actually contains and how it fits your campaign's themes.
 
@@ -164,3 +192,85 @@ Legends speak of The Thirteen Keys as a nexus where past and present converge. L
 - [[The Thirteen Keys]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[Luminar the Builder]]
+- [[04_Resources_Assets_Locations_location-city-arts-communities-arts-communities.svg]]
+- [[The Frozen Throne]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: Distant music drifts from a nearby tavern
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+The Thirteen Keys is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Thirteen Keys
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## Current Events
+
+Ongoing situations affecting The Thirteen Keys:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Thirteen Keys
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

@@ -1,27 +1,33 @@
+# Parliament of Echoes
+
 ---
+title: Parliament of Echoes
+type: Location
 tags:
-- active
 - aquabyssos
 - both
-- horror
-- location
 - political
+- research
+- active
+- location
+- horror
 - temporal
+created: 2025-08-07 - Category/Place
+modified: '2025-08-14'
+status: active
+population: ~500 (plus countless echoes)
 location_type: Government Building
 continent: '[[Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]'
 depth: 1,500-2,000 feet
-population: ~500 (plus countless echoes)
 danger_level: High (Political)
 magical_phenomena: Temporal Overlap, Echo Persistence
-created: 2025-08-07 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-13T01:18:36.285823+00:00'
-status: active
-type: Location
 ---
+
 
 
 
@@ -426,3 +432,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Maelstrom Palace]]
 - [[The Forgotten Representative]]
 - [[The Sunken Library of Thalassius]]
+
+
+## Related
+
+*Links to related content will be added here.*

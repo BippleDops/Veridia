@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: His Own Shadow
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.494601+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -153,6 +161,14 @@ He operates from the Reflection District, a maze-like area where mirrors line ev
 **Mannerisms**: Unconsciously mimics the mannerisms of people around him, often blending multiple personalities in subtle ways. He avoids looking directly at mirrors unless necessary, and shadows near him behave oddly, sometimes moving independently or failing to match his movements exactly.
 
 
+
+
+## Relationship Web
+
+- [[Prince Caspian Duskwater]]: *student*
+- [[Master Artificer Korvin Gearwright]]: *former lover*
+- [[Pilgrim Guide Samuel Walkingfaith]]: *family member*
+
 ## Connections
 
 - [[Senator_Glaucus_Brain|Senator Glaucus Brain]]
@@ -170,6 +186,119 @@ Legends speak of His Own Shadow as a nexus where past and present converge. Loca
 - A rumor ties His Own Shadow to a missing shipment, linking factions with competing claims.
 - An NPC seeks discreet help at His Own Shadow to avert a public scandal.
 - A map overlay reveals a hidden approach to His Own Shadow active only during specific tides/storms.
+
+
+
+## Appearance
+
+His Own Shadow presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Brave, loyal, brave
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Background
+
+His Own Shadow's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Sharp and precise
+
+**Speech Pattern**: Peppered with idioms
+
+**Physical Habits**: Remains perfectly still
+
+## Current Activities
+
+His Own Shadow is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: His Own Shadow needs assistance with a delicate matter
+2. **The Opposition**: Someone wants His Own Shadow stopped or removed
+3. **The Secret**: Information about His Own Shadow's past surfaces
+4. **The Alliance**: Opportunity to work with or against His Own Shadow
+5. **The Crisis**: His Own Shadow is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
 
 ## DM Notes
 

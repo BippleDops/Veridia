@@ -1,14 +1,15 @@
+# NPC_Template
+
 ---
-created: {{date}}
-updated: {{date}}
-type: npc
-status: draft
+title: NPC Template
+type: template
 tags:
-- npc
-- {{faction}}
-- {{location}}
-world: {{world}}
+- template
+- active
+created: '2025-08-14'
+modified: '2025-08-14'
 ---
+
 
 # {{title}}
 

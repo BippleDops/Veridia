@@ -1,18 +1,25 @@
+# Cross-Dimensional Transit Authority
+
 ---
+title: Cross Dimensional Transit Authority
+type: Place
 tags:
 - both worlds
 - both-worlds
-- complete
-- dimensional
+- transit-hub
 - place
 - security
-- transit-hub
-type: Place
-world: Both Worlds
-status: complete
+- research
+- active
+- dimensional
+- complete
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Both Worlds
 updated: '2025-08-13T01:18:36.398801+00:00'
 ---
+
 
 
 ## Overview
@@ -306,3 +313,8 @@ Legends speak of Cross Dimensional Transit Authority as a nexus where past and p
 - [[Cross-Dimensional Transit Authority|02 Worldbuilding/Places/Cross Dimensional Transit Authority]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

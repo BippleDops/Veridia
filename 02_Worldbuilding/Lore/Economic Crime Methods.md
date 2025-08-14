@@ -1,24 +1,28 @@
 ---
-created: '2025-08-12'
-status: complete
+title: Economic Crime Methods
+type: Lore
 tags:
-- quest
-- crystal-enhanced
+- economy
+- lore
 - both
-- complete
+- status/complete
 - content/lore
+- quest
+- financial
+- world/both
+- active
+- complete
+- fraud
 - corruption
 - crime
-- economy
-- financial
-- fraud
-- lore
-- status/complete
-- world/both
-type: Lore
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.462980+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Economic Crimes
@@ -28,11 +32,11 @@ world: Both
 
 *The Art of Stealing Without Taking, and Profiting Without Producing*
 
-> *"The most elegant crime is the one where the victim thanks you for robbing them. The perfect financial crime is when the system itself pays you to destroy it."* - [[12_Research/D&D_References/Banker Titus Goldcurrent]]
+> *"The most elegant crime is the one where the victim thanks you for robbing them. The perfect financial crime is when the system itself pays you to destroy it."* - [[Banker Titus Goldcurrent]]
 
 ## Overview
 
-Economic crime in [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]] has evolved into sophisticated methodologies that exploit the complex financial systems connecting both realms. These crimes range from simple fraud to elaborate schemes that manipulate entire economic sectors, often operating within legal gray areas that make detection and prosecution extremely difficult.
+Economic crime in [[Aethermoor]] and [[Aquabyssos]] has evolved into sophisticated methodologies that exploit the complex financial systems connecting both realms. These crimes range from simple fraud to elaborate schemes that manipulate entire economic sectors, often operating within legal gray areas that make detection and prosecution extremely difficult.
 
 ## Tax Evasion Methods
 
@@ -541,10 +545,10 @@ Economic crime in [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&
 
 ## Connected Systems and Cross-References
 
-- [[12_Research/D&D_References/Banker Titus Goldcurrent]] - Major figure in legitimate and criminal finance
+- [[Banker Titus Goldcurrent]] - Major figure in legitimate and criminal finance
 - [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Criminal organization specializing in economic crime
-- [[12_Research/D&D_References/Economic Systems and Currency]] - Legitimate financial systems targeted by crime
-- [[12_Research/D&D_References/Black Market Price Guide]] - Illegal markets supported by economic crime
+- [[Economic Systems and Currency]] - Legitimate financial systems targeted by crime
+- [[Black Market Price Guide]] - Illegal markets supported by economic crime
 - [[Economic_Warfare_Simulator|03 Mechanics/Economic Warfare Simulator]] - Tools for modeling economic crime impacts
 
 ## Player-Facing Summary

@@ -1,19 +1,26 @@
+# Royal Palace of Meridian
+
 ---
+title: Royal Palace of Meridian
+type: Location
 tags:
-- aethermoor
-- complete
-- government
-- location
-- palace
 - royal
+- complete
+- research
+- government
+- active
+- palace
+- location
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-royal-palace-of-meridian-royal-palace-of-meridian.svg]]
@@ -184,3 +191,8 @@ Legends speak of Royal Palace of Meridian as a nexus where past and present conv
 - [[Royal Palace of Meridian|02 Worldbuilding/Places/Royal Palace Of Meridian]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

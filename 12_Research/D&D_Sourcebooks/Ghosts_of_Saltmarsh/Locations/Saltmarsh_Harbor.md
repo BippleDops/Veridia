@@ -1,19 +1,26 @@
+# Saltmarsh_Harbor
+
 ---
-created: '2025-08-13'
-updated: '2025-08-13T12:48:04.965511'
-status: active
-world: Both
+title: Saltmarsh Harbor
 type: Location
 tags:
 - type/location
 - importance/major
+- research
 - world/both
+- active
 - source/ghosts_of_saltmarsh
-region: "Cross-Realm Trading Port"
-depth_altitude: 0
+created: '2025-08-13'
+modified: '2025-08-14'
+status: active
+region: Cross-Realm Trading Port
 population: 2500
-threat_level: "Moderate"
+updated: '2025-08-13T12:48:04.965511'
+world: Both
+depth_altitude: 0
+threat_level: Moderate
 ---
+
 
 # Saltmarsh Harbor - Cross-Realm Trading Port
 
@@ -62,3 +69,8 @@ Saltmarsh exists as a unique surface port city built directly above an Aquabysso
 
 ---
 *Adapted from Ghosts of Saltmarsh for Cordelia dual-realm setting*
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,20 +1,27 @@
+# Crystal Mimics
+
 ---
+title: Crystal Mimics
+type: Lore
 tags:
+- lore
 - aberrations
-- aethermoor
-- complete
 - creatures
 - crystals
-- lore
+- research
 - mimics
+- active
+- complete
+- aethermoor
 - shapeshifters
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 

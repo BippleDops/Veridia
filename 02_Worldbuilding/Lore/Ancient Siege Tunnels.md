@@ -1,37 +1,41 @@
 ---
-builders: '[[12_Research/D&D_References/Ancient Aquabyssos Rulers]]'
+title: Ancient Siege Tunnels
+type: Lore
+tags:
+- lore
+- underground
+- status/complete
+- military
+- tunnels
+- content/template
+- quest
+- content/lore
+- content/location
+- historical
+- siege
+- world/aethermoor
+- active
+- combat
+- draft
+- aethermoor
+- warfare
+- crystal-enhanced
 created: '2025-08-09'
+modified: '2025-08-14'
+status: draft
+builders: '[[Ancient Aquabyssos Rulers]]'
 current_status: Partially Collapsed, Some Sections Active
 danger_level: 7
 era: The Continental Wars
 related_entities:
-- '[[12_Research/D&D_References/Continental War]]'
-- '[[12_Research/D&D_References/Port Meridian]]'
-- '[[12_Research/D&D_References/Crystalhaven]]'
-- '[[12_Research/D&D_References/Ironhold]]'
-status: draft
-tags:
-- combat
-- quest
-- crystal-enhanced
-- aethermoor
-- content/location
-- content/lore
-- content/template
-- draft
-- historical
-- lore
-- military
-- siege
-- status/complete
-- tunnels
-- underground
-- warfare
-- world/aethermoor
-type: Lore
+- '[[Continental War]]'
+- '[[Port Meridian]]'
+- '[[Crystalhaven]]'
+- '[[Ironhold]]'
 updated: '2025-08-13T12:34:16.358971+00:00'
 world: Aethermoor
 ---
+
 
 
 # Ancient Siege Tunnels
@@ -40,24 +44,24 @@ world: Aethermoor
 
 ## Overview
 
-Beneath the major cities of [[12_Research/D&D_References/Aethermoor]] lies a vast network of ancient siege tunnels, testament to the brutal military engineering of the [[12_Research/D&D_References/Continental War]]. These massive underground passages once carried armies, siege engines, and supplies directly beneath enemy fortifications, allowing for devastating surprise attacks that changed the course of history.
+Beneath the major cities of [[Aethermoor]] lies a vast network of ancient siege tunnels, testament to the brutal military engineering of the [[Continental War]]. These massive underground passages once carried armies, siege engines, and supplies directly beneath enemy fortifications, allowing for devastating surprise attacks that changed the course of history.
 
-Built primarily during the Third Continental War by the allied forces of what would become [[12_Research/D&D_References/Port Meridian]], [[12_Research/D&D_References/Crystalhaven]], and [[12_Research/D&D_References/Ironhold]], these tunnels represent some of the most ambitious military engineering projects ever undertaken. Though many sections have collapsed or been deliberately sealed, enough remain active to serve modern purposes - both legitimate and otherwise.
+Built primarily during the Third Continental War by the allied forces of what would become [[Port Meridian]], [[Crystalhaven]], and [[Ironhold]], these tunnels represent some of the most ambitious military engineering projects ever undertaken. Though many sections have collapsed or been deliberately sealed, enough remain active to serve modern purposes - both legitimate and otherwise.
 
 ## Historical Context
 
 ### The Great Siege Campaign
 
-The tunnel network was conceived during the siege of the ancient fortress-city of Drakmoor, when conventional siege tactics proved inadequate against the city's crystal-enhanced defenses. [[12_Research/D&D_References/Lord Commander Gareth Steelborn]]'s engineering corps, working with dwarven miners from [[12_Research/D&D_References/Ironhold]] and crystal-mages from [[12_Research/D&D_References/Crystalhaven]], spent three years excavating the first major tunnel complex.
+The tunnel network was conceived during the siege of the ancient fortress-city of Drakmoor, when conventional siege tactics proved inadequate against the city's crystal-enhanced defenses. [[Lord Commander Gareth Steelborn]]'s engineering corps, working with dwarven miners from [[Ironhold]] and crystal-mages from [[Crystalhaven]], spent three years excavating the first major tunnel complex.
 
-The success of the Drakmoor operation led to an arms race of underground warfare, with cities across [[12_Research/D&D_References/Aethermoor]] both digging new offensive tunnels and counter-mining defensive networks. By the war's end, over 200 miles of tunnels crisscrossed the continent.
+The success of the Drakmoor operation led to an arms race of underground warfare, with cities across [[Aethermoor]] both digging new offensive tunnels and counter-mining defensive networks. By the war's end, over 200 miles of tunnels crisscrossed the continent.
 
 ### Construction Methods
 
 The ancient engineers employed three distinct tunnel types:
 
-**Crystal-Carved Passages**: [[12_Research/D&D_References/Crystalhaven]] mages used focused energy beams to melt through solid rock
-**Dwarven-Dug Networks**: [[12_Research/D&D_References/Ironhold]] miners created structurally superior passages using traditional methods
+**Crystal-Carved Passages**: [[Crystalhaven]] mages used focused energy beams to melt through solid rock
+**Dwarven-Dug Networks**: [[Ironhold]] miners created structurally superior passages using traditional methods
 **Hybrid Constructions**: Combined magical reinforcement with conventional excavation
 
 ## Current Tunnel Network
@@ -65,7 +69,7 @@ The ancient engineers employed three distinct tunnel types:
 ### Major Active Sections
 
 **The Port Meridian Approach**
-- 15-mile tunnel connecting to [[12_Research/D&D_References/Port Meridian - Harbor District]]
+- 15-mile tunnel connecting to [[Port Meridian - Harbor District]]
 - Originally designed to bypass coastal defenses
 - Now used by [[Thieves Guild|02 Worldbuilding/Groups/Thieves Guild]] and smuggling operations
 - Multiple branching passages lead to strategic points throughout the city
@@ -73,19 +77,19 @@ The ancient engineers employed three distinct tunnel types:
 **The Crystalhaven Underlayers**
 - Complex web of tunnels beneath [[12_Research/D&D_Statblocks/Crystal Gardens]]
 - Many passages still contain active crystal formations
-- Used by the [[12_Research/D&D_References/Merchant's Covenant]] for secure transport
-- Connects to the ancient [[12_Research/D&D_References/Royal Vault]] systems
+- Used by the [[Merchant's Covenant]] for secure transport
+- Connects to the ancient [[Royal Vault]] systems
 
 **The Ironhold Deep Roads**
 - Most structurally sound section of the entire network
 - Reinforced with traditional dwarven engineering techniques
-- Actively maintained by [[12_Research/D&D_References/Ironhold]] military forces
+- Actively maintained by [[Ironhold]] military forces
 - Contains hidden weapon caches and emergency supplies
 
 **The Sylvanheart Rootways**
 - Unique hybrid tunnels that incorporated living tree roots
 - Self-maintaining through magical symbiosis
-- Guarded by [[12_Research/D&D_References/Sylvanheart]] druids and rangers
+- Guarded by [[Sylvanheart]] druids and rangers
 - Provides covert access to multiple forest strongholds
 
 ## Game Mechanics (D&D 5e)
@@ -134,7 +138,7 @@ The ancient engineers employed three distinct tunnel types:
 - Can flood or drain large sections of tunnels
 - Controlled from hidden mechanisms
 - Strategic chokepoints for tunnel control
-- Connected to [[12_Research/D&D_References/Port Meridian]] sewage systems
+- Connected to [[Port Meridian]] sewage systems
 
 ### The Arsenal Vaults
 

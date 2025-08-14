@@ -1,22 +1,28 @@
+# Surface Dweller Adaptation
+
 ---
+title: Surface Dweller Adaptation
+type: Lore
 tags:
-- adaptation
-- aquabyssos
-- complete
-- cross-realm-living
-- cultural-exchange
-- environmental-adaptation
-- immigration
-- integration
-- lifestyle-changes
 - lore
+- aquabyssos
+- environmental-adaptation
 - social-adaptation
 - surface-dwellers
+- integration
+- research
+- active
+- adaptation
+- complete
+- lifestyle-changes
+- cross-realm-living
+- cultural-exchange
+- immigration
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 adaptation_type: Cross-Environment Living
 scope: Individual and Community
@@ -24,6 +30,7 @@ process_duration: Variable
 success_rate: Moderate
 support_systems: Government and Community Assisted
 ---
+
 
 
 
@@ -398,3 +405,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Restoration Movement|02 Worldbuilding/Lore/The Restoration Movement]]
 - [[United Councils of Both Worlds]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

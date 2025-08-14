@@ -1,15 +1,21 @@
+# Captain Between
+
 ---
+title: Captain Between
+type: NPC
 tags:
-- active
-- dimensional threshold (both realms)
 - dimensional-threshold-(both-realms)
 - npc
-type: NPC
-world: Dimensional Threshold (Both Realms)
-status: active
+- dimensional threshold (both realms)
+- research
+- active
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
+world: Dimensional Threshold (Both Realms)
 updated: '2025-08-13T01:18:36.965165+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-captain-between-captain-between.svg]]
@@ -70,3 +76,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Threshold Chambers]]
+
+
+## Related
+
+*Links to related content will be added here.*

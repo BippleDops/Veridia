@@ -1,27 +1,35 @@
+# Shadow-touched Equipment Set
+
 ---
+title: Shadow touched Equipment Set
+type: Item
 tags:
 - aquabyssos
-- complete
-- corrupted-equipment
 - cursed
 - deep-mother-connected
-- equipment-set
+- research
 - equipment_set
+- active
+- equipment-set
+- complete
+- corrupted-equipment
 - item
 - shadow-touched
+created: '2025-08-10'
+modified: '2025-08-14'
 status: complete
-world: Aquabyssos
-type: Item
-item_type: Cursed Equipment Set
 rarity: Very Rare (Cursed)
+world: Aquabyssos
+item_type: Cursed Equipment Set
 requires_attunement: Yes (by a creature that has been touched by shadow magic)
-affiliation: '[[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] (Corrupted by Shadow)'
+affiliation: '[[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] (Corrupted
+  by Shadow)'
 current_location: Scattered Across Shadow-Touched Locations
 danger_level: 4
 created_by: Claude
-created: '2025-08-10'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -400,3 +408,8 @@ Legends speak of Shadow touched Equipment Set as a nexus where past and present 
 ## Cross-References
 
 - [[reports/bidirectional_links|Reports/bidirectional Links]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,28 +1,35 @@
+# Memory Merchant Zephyr Mindweaver
+
 ---
+title: Memory Merchant Zephyr Mindweaver
+type: Location
 tags:
 - aquabyssos
-- complete
-- location
 - memory
-- merchant
-- mind-magic
 - npc
+- research
+- mind-magic
+- active
+- location
+- complete
+- merchant
+created: 2025-08-08
+modified: '2025-08-14'
 status: complete
-world: Aquabyssos
-type: Location
-cr: 12
 race: Sea Elf
 class: Enchanter
 location: Memory Bazaar, Abyssal Depths
+world: Aquabyssos
+cr: 12
 faction: Independent Traders
 created_by: auto-stub
-created: 2025-08-08
 updated: '2025-08-13T01:18:36.590476+00:00'
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 
 
@@ -223,3 +230,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Doctor Coral Shapeshift]]
 - [[Spymaster Crow]]
 - [[Temple Guardian Marcus the Drowned]]
+
+
+## Related
+
+*Links to related content will be added here.*

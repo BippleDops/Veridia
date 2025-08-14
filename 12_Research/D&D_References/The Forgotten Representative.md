@@ -1,24 +1,31 @@
+# The Forgotten Representative
+
 ---
+title: The Forgotten Representative
+type: Location
 tags:
-- aquabyssos
-- complete
-- forgotten
-- location
 - mystery
+- aquabyssos
+- representative
+- forgotten
 - npc
 - political
-- representative
+- research
+- active
+- location
+- complete
+created: 2025-08-08 - Category/People
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 updated: '2025-08-13T01:18:35.962310+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -142,3 +149,8 @@ Legends speak of The Forgotten Representative as a nexus where past and present 
 - [[The Forgotten Representative|02 Worldbuilding/Places/The Forgotten Representative]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,17 +1,24 @@
+# Continental War
+
 ---
+title: Continental War
+type: Lore
 tags:
-- aethermoor
-- ancient-conflict
-- completed
-- continental
-- historical-event
-- history
 - lore
+- completed
+- history
 - military
 - war
+- historical-event
+- research
+- active
+- continental
+- aethermoor
+- ancient-conflict
+created: '2025-08-09'
+modified: '2025-08-14'
 status: completed
 world: Aethermoor
-type: Lore
 time_period: Third Age, Years 892-901
 scale: Continental
 participants:
@@ -19,7 +26,6 @@ participants:
 - City-States
 - Ancient Powers
 outcome: Pyrrhic Victory for Alliance Forces
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 related_entities:
 - '[[Ancient Siege Tunnels|02 Worldbuilding/Lore/Ancient Siege Tunnels]]'
@@ -27,6 +33,7 @@ related_entities:
 - '[[Ironhold|02 Worldbuilding/Places/Ironhold]]'
 - '[[Port Meridian|02 Worldbuilding/Places/Port Meridian]]'
 ---
+
 
 
 
@@ -327,3 +334,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

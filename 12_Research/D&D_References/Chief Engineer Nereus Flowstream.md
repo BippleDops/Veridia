@@ -1,14 +1,20 @@
+# Chief Engineer Nereus Flowstream
+
 ---
+title: Chief Engineer Nereus Flowstream
+type: Location
+tags:
+- both
+- active
+- location
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:36.347686+00:00'
 world: Both
-type: Location
-status: active
-tags:
-- active
-- both
-- location
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-chief-engineer-nereus-flowstream-chief-engineer-nereus-flowstream.svg]]
@@ -45,3 +51,8 @@ Legends speak of Chief Engineer Nereus Flowstream as a nexus where past and pres
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

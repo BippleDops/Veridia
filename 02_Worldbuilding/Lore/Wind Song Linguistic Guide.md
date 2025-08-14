@@ -1,26 +1,30 @@
 ---
-created: '2025-08-12'
-obsidianUIMode: preview
-status: complete
+title: Wind Song Linguistic Guide
+type: Lore
 tags:
-- combat
-- crystal-enhanced
+- lore
+- linguistics
 - aerial
+- status/complete
 - aquatic
+- content/lore
+- world/aethermoor
+- tonal
+- combat
+- complete
+- active
+- content/mechanics
 - aethermoor
 - communication
-- complete
-- content/lore
-- content/mechanics
-- linguistics
-- lore
-- status/complete
-- tonal
-- world/aethermoor
-type: Lore
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:15.740562+00:00'
 world: Aethermoor
 ---
+
 
 
 # Wind Song Linguistic Guide
@@ -289,10 +293,10 @@ Different altitudes create distinct linguistic environments:
 
 ## Connections
 
-- [[12_Research/D&D_References/Depth Speak Variations]]
-- [[12_Research/D&D_References/Common Idioms and Sayings]]
-- [[12_Research/D&D_References/Professional Terminology]]
-- [[12_Research/D&D_References/Aethermoor Crystal Council]]
+- [[Depth Speak Variations]]
+- [[Common Idioms and Sayings]]
+- [[Professional Terminology]]
+- [[Aethermoor Crystal Council]]
 - [[Wind Singer]]
 
 ## Player-Facing Summary
@@ -319,3 +323,31 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Overview
+
+Wind Song Linguistic Guide represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

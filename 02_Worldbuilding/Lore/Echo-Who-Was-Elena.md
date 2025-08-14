@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Echo Who Was Elena
+type: Lore
 tags:
+- lore
 - aquabyssos
-- complete
+- world/aquabyssos
 - content/faction
 - content/lore
-- lore
+- active
+- complete
 - status/in-progress
-- world/aquabyssos
-type: Lore
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.429221+00:00'
 world: Aquabyssos
 ---
+
 
 
 ## Overview
@@ -46,7 +50,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[12_Research/D&D_References/The Parliament of Nobody]]
+- [[The Parliament of Nobody]]
 
 
 ## Related

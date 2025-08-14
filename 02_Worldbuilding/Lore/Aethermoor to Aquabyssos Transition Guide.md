@@ -1,24 +1,29 @@
 ---
+title: Aethermoor to Aquabyssos Transition Guide
 type: Lore
-status: complete
 tags:
-- session-notes
-- crystal-enhanced
-- aerial
-- aquatic
-- aquabyssos
-- campaign-mechanics
-- complete
-- guide
 - lore
+- aquabyssos
 - surface-to-underwater
+- aerial
+- session-notes
 - transition
+- aquatic
+- guide
 - travel
+- active
+- complete
+- aethermoor
+- campaign-mechanics
+- crystal-enhanced
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 world: Aquabyssos
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 # Aethermoor to Aquabyssos Transition Guide
@@ -133,11 +138,11 @@ The transition process actually creates temporary psychic links between individu
 
 ## Related Topics
 
-- [[12_Research/D&D_References/Campaign World]]
-- [[12_Research/D&D_References/Surface Portal Alpha]]
-- [[12_Research/D&D_References/Pressure Tubes]]
-- [[12_Research/D&D_References/Current PC Lead]]
-- [[12_Research/D&D_References/Party Information]]
+- [[Campaign World]]
+- [[Surface Portal Alpha]]
+- [[Pressure Tubes]]
+- [[Current PC Lead]]
+- [[Party Information]]
 
 ## Campaign Use
 
@@ -146,12 +151,12 @@ Use transitions as opportunities for character development, world-building expos
 
 ## Connections
 
-- [[12_Research/D&D_References/Citizens of Meridian]]
-- [[12_Research/D&D_References/Crimson Hand Strike Team]]
-- [[12_Research/D&D_References/Crystal Festival Grounds]]
-- [[12_Research/D&D_References/Dock Worker Toms]]
-- [[12_Research/D&D_References/Lamplight Alley]]
-- [[12_Research/D&D_References/Session 0 - Aquabyssos]]
+- [[Citizens of Meridian]]
+- [[Crimson Hand Strike Team]]
+- [[Crystal Festival Grounds]]
+- [[Dock Worker Toms]]
+- [[Lamplight Alley]]
+- [[Session 0 - Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -169,4 +174,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Session 0 - Aquabyssos]]
+- [[Session 0 - Aquabyssos]]

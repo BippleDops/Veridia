@@ -1,14 +1,21 @@
+# Faction_Relationship_Web
+
 ---
-created: '2025-08-13'
-status: complete
-tags:
-- player/visual
-- politics/factions
-- reference/relationships
+title: Faction Relationship Web
 type: Visual Handout
+tags:
+- reference/relationships
+- politics/factions
+- player/visual
+- player-resource
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Faction Relationship Web
 ## Political Alliance & Conflict Map
@@ -157,3 +164,7 @@ Deep Cultists:  ░░░░░░░░░░ (0%)          ██████�
 
 *Update your relationship status regularly*
 *Actions have consequences across all factions*
+
+## Related
+
+*Links to related content will be added here.*

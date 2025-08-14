@@ -1,18 +1,22 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- aethermoor
-- complete
-- content/location
-- content/lore
-- lore
-- status/in-progress
-- world/aethermoor
+title: Earl Thaddeus Blackthorn
 type: Lore
+tags:
+- lore
+- content/lore
+- content/location
+- world/aethermoor
+- active
+- complete
+- status/in-progress
+- aethermoor
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T12:34:16.123758+00:00'
 world: Aethermoor
 ---
+
 
 
 ## Overview

@@ -1,21 +1,25 @@
 ---
+title: Continental War
 type: Lore
-status: draft
 tags:
-- combat
-- quest
-- session-notes
-- crystal-enhanced
-- shadow-touched
-- aethermoor
-- ancient-conflict
-- completed
-- continental
-- historical-event
-- history
 - lore
+- completed
+- session-notes
+- history
 - military
 - war
+- historical-event
+- quest
+- active
+- combat
+- ancient-conflict
+- continental
+- aethermoor
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-09'
+modified: '2025-08-14'
+status: draft
 world: Aethermoor
 time_period: Third Age, Years 892-901
 scale: Continental
@@ -24,14 +28,14 @@ participants:
 - City-States
 - Ancient Powers
 outcome: Pyrrhic Victory for Alliance Forces
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 related_entities:
-- '[[12_Research/D&D_References/Ancient Siege Tunnels]]'
-- '[[12_Research/D&D_References/Crystalhaven]]'
-- '[[12_Research/D&D_References/Ironhold]]'
-- '[[12_Research/D&D_References/Port Meridian]]'
+- '[[Ancient Siege Tunnels]]'
+- '[[Crystalhaven]]'
+- '[[Ironhold]]'
+- '[[Port Meridian]]'
 ---
+
 
 
 # Continental War
@@ -40,9 +44,9 @@ related_entities:
 
 ## Overview
 
-The Continental War (892-901, Third Age) stands as the most devastating military conflict in [[12_Research/D&D_References/Aethermoor]]'s recorded history, fundamentally reshaping the political, technological, and magical landscape of the entire continent. What began as a succession dispute in the ancient Kingdom of Drakmoor escalated into a nine-year struggle that drew in every major power, introduced revolutionary military technologies, and ultimately established the modern balance of power between [[12_Research/D&D_References/Crystalhaven]], [[12_Research/D&D_References/Ironhold]], [[12_Research/D&D_References/Port Meridian]], and [[12_Research/D&D_References/Sylvanheart]].
+The Continental War (892-901, Third Age) stands as the most devastating military conflict in [[Aethermoor]]'s recorded history, fundamentally reshaping the political, technological, and magical landscape of the entire continent. What began as a succession dispute in the ancient Kingdom of Drakmoor escalated into a nine-year struggle that drew in every major power, introduced revolutionary military technologies, and ultimately established the modern balance of power between [[Crystalhaven]], [[Ironhold]], [[Port Meridian]], and [[Sylvanheart]].
 
-The war is remembered not only for its unprecedented scale and brutality but also for the innovations it produced: the [[12_Research/D&D_References/Ancient Siege Tunnels]], crystal-powered weaponry, organized military intelligence networks, and the first systematic use of magical warfare on a continental scale.
+The war is remembered not only for its unprecedented scale and brutality but also for the innovations it produced: the [[Ancient Siege Tunnels]], crystal-powered weaponry, organized military intelligence networks, and the first systematic use of magical warfare on a continental scale.
 
 ## Causes & Origins
 
@@ -67,10 +71,10 @@ The succession crisis merely sparked conflicts that had been building for decade
 
 As the crisis deepened, major powers chose sides:
 
-**The Northern Alliance**: [[12_Research/D&D_References/Crystalhaven]], [[12_Research/D&D_References/Ironhold]], early [[12_Research/D&D_References/Port Meridian]]
+**The Northern Alliance**: [[Crystalhaven]], [[Ironhold]], early [[Port Meridian]]
 **The Southern Coalition**: Drakmoor loyalists, several city-states, mercenary companies
 **The Eastern Powers**: Foreign kingdoms seeking to exploit Aethermoor's weakness
-**The Neutral Bloc**: [[12_Research/D&D_References/Sylvanheart]] and forest communities (initially)
+**The Neutral Bloc**: [[Sylvanheart]] and forest communities (initially)
 
 ## Major Phases of the War
 
@@ -91,7 +95,7 @@ Traditional military campaigns with established tactics:
 
 Introduction of revolutionary military technologies:
 - Crystal-powered weapons and magical warfare
-- [[12_Research/D&D_References/Ancient Siege Tunnels]]
+- [[Ancient Siege Tunnels]]
 - Organized intelligence networks and espionage
 - Combined arms tactics integrating magic and conventional forces
 
@@ -127,7 +131,7 @@ Final phase marked by mutual exhaustion and civilian suffering:
 
 ### The Tunnel System Revolution
 
-The development of [[12_Research/D&D_References/Ancient Siege Tunnels]] changed warfare permanently:
+The development of [[Ancient Siege Tunnels]] changed warfare permanently:
 - **Strategic Mobility**: Armies could move undetected across vast distances
 - **Siege Warfare**: Traditional fortifications became vulnerable to underground attack
 - **Supply Lines**: Tunnels provided secure logistics networks
@@ -135,7 +139,7 @@ The development of [[12_Research/D&D_References/Ancient Siege Tunnels]] changed 
 
 ### Crystal Military Technology
 
-[[12_Research/D&D_References/Crystalhaven]]'s innovations revolutionized combat:
+[[Crystalhaven]]'s innovations revolutionized combat:
 - **Energy Weapons**: Crystal-powered artillery with unprecedented range and power
 - **Magical Enhancement**: Mass production of enchanted equipment for regular soldiers
 - **Communication Arrays**: Real-time coordination across continental distances
@@ -167,8 +171,8 @@ The first systematic use of organized espionage and intelligence:
 
 ### Neutral and Third-Party Actors
 
-**Elder Whisperwind of [[12_Research/D&D_References/Sylvanheart]]**: Eventually mediated peace negotiations
-**Emperor Thalassius of [[12_Research/D&D_References/Aquabyssos]]**: Provided crucial diplomatic pressure for peace
+**Elder Whisperwind of [[Sylvanheart]]**: Eventually mediated peace negotiations
+**Emperor Thalassius of [[Aquabyssos]]**: Provided crucial diplomatic pressure for peace
 **The Merchant Princes**: Trade guilds whose economic pressure helped end the war
 
 ## Major Battles & Campaigns
@@ -209,7 +213,7 @@ Most controversial action of the entire war:
 
 ### Negotiation Process
 
-Mediated by [[12_Research/D&D_References/Sylvanheart]] druids at neutral location:
+Mediated by [[Sylvanheart]] druids at neutral location:
 - Year-long negotiations involving all major powers
 - Pressure from civilian populations exhausted by war
 - Economic necessity as trade networks collapsed
@@ -242,7 +246,7 @@ The original succession dispute resolved through compromise:
 
 ### Technological Revolution
 
-**Military Engineering**: [[12_Research/D&D_References/Ancient Siege Tunnels]] became permanent infrastructure
+**Military Engineering**: [[Ancient Siege Tunnels]] became permanent infrastructure
 **Crystal Technology**: Widespread adoption of magical enhancement in all fields
 **Communication Systems**: Long-distance magical communication became standard
 **Medical Advances**: Battlefield medicine innovations benefited civilian healthcare
@@ -308,14 +312,14 @@ Characters might discover:
 
 ### Cultural Memory
 
-- War memorials and monuments throughout [[12_Research/D&D_References/Aethermoor]]
+- War memorials and monuments throughout [[Aethermoor]]
 - Annual remembrance ceremonies and peace festivals
 - Literature, art, and music commemorating war experiences
 - Family histories and personal collections of wartime artifacts
 
 ### Military Doctrine
 
-- [[12_Research/D&D_References/Ancient Siege Tunnels]] remain strategically important
+- [[Ancient Siege Tunnels]] remain strategically important
 - Crystal military technology continues development
 - Intelligence services evolved from wartime organizations
 - International military cooperation based on wartime alliances
@@ -335,8 +339,8 @@ EOF < /dev/null
 
 ## Connections
 
-- [[12_Research/D&D_References/Eastern Kingdoms]]
-- [[12_Research/D&D_References/Aquabyssos - Session 04 - High Tide Horror]]
+- [[Eastern Kingdoms]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
 
 ## Player-Facing Summary
 

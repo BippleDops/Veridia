@@ -1,14 +1,20 @@
+# The Deep Expansion
+
 ---
-tags:
-- active
-- both
-- group
+title: The Deep Expansion
 type: Group
-world: Both
-status: active
+tags:
+- both
+- active
+- group
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.669939+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-the-deep-expansion-the-deep-expansion.svg]]
@@ -65,3 +71,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Merchant's Covenant]]
+
+
+## Related
+
+*Links to related content will be added here.*

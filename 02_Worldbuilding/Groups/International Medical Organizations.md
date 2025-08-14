@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: International Medical Organizations
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
 
 # International Medical Organizations
 
@@ -24,7 +31,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Investigate Shadow Surgeons]]
+- [[Investigate Shadow Surgeons]]
 - [[02_Worldbuilding/Groups/Criminal_Organizations/Investigate Shadow Surgeons]]
 
 ## Notes
@@ -36,3 +43,9 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[Quest - The Refugee Emergency]]
+- [[04_Resources_Assets_Locations_location-city-commander-drake-pressureborn-commander-drake-pressureborn.svg]]
+- [[Salvage Queen Nerissa Deepfinder]]

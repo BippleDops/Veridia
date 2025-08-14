@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Random Encounter Tables   Aquabyssos.png
+aliases:
+- Random Encounter Tables   Aquabyssospng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
+- aquabyssos
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Art/Lore/Random_Encounter_Tables_-_Aquabyssos.png
 
@@ -24,7 +31,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Random Encounter Tables - Aquabyssos]]
+- [[Random Encounter Tables - Aquabyssos]]
 - [[02_Worldbuilding/Lore/Random Encounter Tables - Aquabyssos]]
 
 ## Notes

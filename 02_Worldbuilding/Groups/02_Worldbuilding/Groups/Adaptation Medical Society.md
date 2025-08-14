@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Adaptation Medical Society
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+![02_Worldbuilding/Groups/Adaptation Medical Society](../../../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_adaptation_medical_society.png)
+
+
 
 # 02_Worldbuilding/Groups/Adaptation Medical Society
 
@@ -24,7 +34,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Pressure Adaptation System]]
+- [[Pressure Adaptation System]]
 - [[02_Worldbuilding/Lore/Pressure Adaptation System]]
 
 ## Notes
@@ -36,3 +46,9 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Known Members
+
+- [[The Leviathan Prophets]]
+- [[Captain Swift Cloudracer]]
+- [[02_Worldbuilding_People_Admiral_Marina_Stormcrest]]

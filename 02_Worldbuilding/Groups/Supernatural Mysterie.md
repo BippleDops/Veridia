@@ -1,17 +1,24 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Supernatural Mysterie
+type: Faction
 tags:
 - both
-- complete
 - content/faction
 - faction
-- status/in-progress
+- organization
 - world/both
-type: Faction
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.359699+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Heraldry
@@ -56,3 +63,10 @@ Legends speak of Supernatural Mysteries 2 as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Known Members
+
+- [[04_Resources_Assets_Locations_location-city-the-crystal-cathedral-of-pure-light-the-crystal-cathedral-of-pure-light.svg]]
+- [[Neutral Zone]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-great-recognition-the-great-recognition.svg]]

@@ -1,27 +1,33 @@
+# Cave Fisher Mpmm
+
 ---
+title: Cave Fisher Mpmm
 aliases:
 - Cave Fisher
+type: monster
+tags:
+- ttrpg-cli/monster/size/medium
+- both
+- monster
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/compendium/src/5e/mpmm
+- world/both
+- research
+- ttrpg-cli/monster/type/monstrosity
+- active
+- status/in-progress
+- ttrpg-cli/monster/cr/3
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- active
-- both
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity
-- world/both
-type: monster
 updated: '2025-08-13T12:34:05.334510+00:00'
 world: Both
 ---
+
 
 
 
@@ -130,3 +136,8 @@ Legends speak of cave fisher mpmm as a nexus where past and present converge. Lo
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

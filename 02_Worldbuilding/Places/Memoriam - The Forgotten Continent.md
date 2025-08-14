@@ -1,20 +1,27 @@
 ---
-created: '2025-08-11'
-danger_level: Moderate
-status: complete
-tags:
-- quest
-- shadow-touched
-- both
-- complete
-- content/location
-- location
-- status/in-progress
-- world/both
+title: Memoriam   The Forgotten Continent
 type: Location
+tags:
+- both
+- quest
+- world/both
+- content/location
+- place
+- active
+- location
+- complete
+- status/in-progress
+- shadow-touched
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+danger_level: Moderate
 updated: '2025-08-13T12:34:16.641569+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -188,6 +195,27 @@ Memoriam is the ultimate weapon—an entire continent that can be strategically 
 
 The eighth shard, the one no one remembers, is hidden in Memoriam. It's the Shard of Forgetting, and it's been actively erasing itself from the prophecy.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 ### Running Memoriam
@@ -221,7 +249,7 @@ The truth about Memoriam should remain uncertain. Even the DM shouldn't be entir
 
 ## Connections
 
-- [[12_Research/D&D_References/The Forgotten One]]
+- [[The Forgotten One]]
 
 ## Player-Facing Summary
 
@@ -247,3 +275,84 @@ Legends speak of Memoriam   The Forgotten Continent as a nexus where past and pr
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-quest-the-harbor-war-quest-the-harbor-war.svg]]
+- [[04_Resources_Assets_Locations_location-city-gravity-anomaly-mechanics-v1-gravity-anomaly-mechanics.svg]]
+- [[Pressure Palace]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+Memoriam - The Forgotten Continent is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Memoriam - The Forgotten Continent
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## History
+
+### Founding
+Memoriam - The Forgotten Continent was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Memoriam - The Forgotten Continent:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Memoriam - The Forgotten Continent
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

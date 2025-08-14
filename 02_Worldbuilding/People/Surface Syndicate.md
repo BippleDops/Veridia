@@ -1,24 +1,32 @@
 ---
-MyCategory: Criminal
-MyContainer: None
-created: 2025-08-08 - Category/Groups
-created_by: auto-stub
-obsidianUIMode: preview
-status: complete
+title: Surface Syndicate
+type: Npc
 tags:
 - aquabyssos
-- complete
-- content/faction
-- content/npc
-- npc
-- status/complete
-- syndicate
-- world/aquabyssos
 - world/surface
-type: Npc
+- status/complete
+- content/faction
+- npc
+- character
+- content/npc
+- syndicate
+- active
+- complete
+- world/aquabyssos
+created: 2025-08-08 - Category/Groups
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
+MyCategory: Criminal
+MyContainer: None
+created_by: auto-stub
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.523639+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -118,9 +126,135 @@ The Syndicate has expanded into magical artifact trafficking following increased
 ## Roleplaying Notes
 Syndicate members blend surface and depth cultural elements, often speaking with mixed accents and wearing hybrid clothing styles. They're pragmatic and business-focused but can be ruthless when threatened. Higher-ranking members display sophisticated criminal expertise while lower associates may be desperate or opportunistic.
 
+
+
+## Background
+
+Surface Syndicate's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Gaining power
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Surface Syndicate harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Double agent
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Soft and measured
+
+**Speech Pattern**: Peppered with idioms
+
+**Physical Habits**: Remains perfectly still
+
+## Current Activities
+
+Surface Syndicate is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Surface Syndicate needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Surface Syndicate stopped or removed
+3. **The Secret**: Information about Surface Syndicate's past surfaces
+4. **The Alliance**: Opportunity to work with or against Surface Syndicate
+5. **The Crisis**: Surface Syndicate is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 The Surface Syndicate provides excellent opportunities for morally ambiguous adventures. They can serve as employers, antagonists, or uneasy allies depending on circumstances. Their cross-realm nature allows for adventures that span both underwater and surface settings, while their criminal activities offer heist scenarios and underworld intrigue.
 
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Vehicles_vehicle-ship-resonance-drive-yacht-v2-resonance-drive-yacht.svg]]: *debt holder*
+- [[04_Resources_Assets_Portraits_portrait-npc-watch-captain-roderick-shieldbreaker-v1-watch-captain-roderick-shieldbreaker.svg]]: *bitter rival*
+- [[Quest - The Deepmind Weapon]]: *informant*
 
 ## Connections
 
@@ -135,6 +269,12 @@ TODO
 
 
 ## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more aggressive
+- **When Pleased**: Shows open joy
+- **In Conflict**: Tends toward manipulation
+
 
 
 TODO

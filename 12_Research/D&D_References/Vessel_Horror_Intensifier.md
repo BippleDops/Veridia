@@ -1,18 +1,24 @@
+# Vessel_Horror_Intensifier
+
 ---
 title: Vessel Horror Intensifier
 type: mechanics
-status: complete
 tags:
 - both
-- complete
-- horror
 - mechanics
-- sanity
+- complete
 - vessels
+- research
+- active
+- sanity
+- horror
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:37.145776+00:00'
 world: Both
 ---
+
 
 
 
@@ -77,3 +83,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Merger_Hybrid_Vehicles|Merger Hybrid Vehicles]]
 - [[Vehicle_Customization_Progression|Vehicle Customization Progression]]
 - [[Merger_Transit_Complications|Merger Transit Complications]]
+
+
+## Related
+
+*Links to related content will be added here.*

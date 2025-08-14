@@ -1,12 +1,20 @@
+# Archive_Index
+
 ---
-created: null
-status: draft
+title: Archive Index
+type: research
 tags:
-- status/draft
 - world/both
+- research
+- active
+- status/draft
+created: null
+modified: '2025-08-14'
+status: draft
 updated: '2025-08-12T23:37:33.138002'
 world: Both
 ---
+
 
 # Archive Index
 
@@ -43,3 +51,7 @@ This archive preserves the vault's development history and provides rollback cap
 ## Maintenance
 
 Archive contents should be reviewed periodically and older backups can be compressed further or moved to external storage as needed.
+
+## Related
+
+*Links to related content will be added here.*

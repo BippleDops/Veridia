@@ -1,6 +1,22 @@
+# banishment-xphb
+
 ---
+title: banishment xphb
 aliases:
 - Banishment
+type: note
+tags:
+- mechanics/magic
+- research
+- world/both
+- active
+- campaign/arc
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
 classes:
 - Bard
 - Cleric
@@ -15,22 +31,12 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
-created: 2025-07-23
 cssclasses: json5e-spell
-modified: 2025-07-23 12:39
 obsidianUIMode: preview
-status: active
-tags:
-- campaign/arc
-- mechanics/magic
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-- world/both
-type: note
 updated: '2025-08-12T23:37:36.032220'
 world: Both
 ---
+
 
 # Banishment
 *4th-level, Abjuration*  
@@ -70,3 +76,8 @@ Legends speak of banishment xphb as a nexus where past and present converge. Loc
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

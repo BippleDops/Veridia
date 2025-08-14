@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Chief Scholar Meridian Deepcurrent
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Chief Scholar Meridian Deepcurrent
 
@@ -24,7 +28,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Scholars of Divine Lore]]
+- [[Scholars of Divine Lore]]
 - [[02_Worldbuilding/Groups/Scholars of Divine Lore]]
 
 ## Notes

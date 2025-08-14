@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: map map kelp forest labyrinth kelp forest labyrinth.svg
+aliases:
+- map map kelp forest labyrinth kelp forest labyrinthsvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Maps/map-map-kelp-forest-labyrinth-kelp-forest-labyrinth.svg
 
@@ -24,7 +30,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Kelp Forest]]
+- [[Kelp Forest]]
 - [[04_Resources/Assets/Galleries/Battle Maps Gallery]]
 - [[04_Resources/Assets/Galleries/Battle_Maps_Gallery 2]]
 

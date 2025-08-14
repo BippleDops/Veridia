@@ -1,17 +1,25 @@
 ---
-created: '2025-08-11'
-status: complete
+title: Admiral Cassandra Stormwind
+type: Npc
 tags:
 - both
-- complete
-- content/npc
 - npc
-- status/in-progress
 - world/both
-type: Npc
+- character
+- content/npc
+- active
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
 updated: '2025-08-13T12:34:17.547089+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait
@@ -239,12 +247,29 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 > - Her parents were killed by crystal-corrupted nobles (motivation for service)
 > - The Queen has ordered her to ignore certain "irregularities" (growing suspicious)
 
+
+
+## Voice & Mannerisms
+
+**Voice**: Cold and distant
+
+**Speech Pattern**: Peppered with idioms
+
+**Physical Habits**: Paces while speaking
+
 ## Current Activities
 - Coordinating naval defense against increasing pirate activity
 - Investigating crystal smuggling operations along the coast
 - Training new officers to replace losses from corruption-related incidents
 - Working with [[The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]] on port security
 - Growing suspicious of certain royal advisors' behavior
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 ## Motivations
 1. **Primary**: Protect the realm and its people from all maritime threats
@@ -288,6 +313,76 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 
 *"Pirates understand one language: overwhelming force applied with precision. Diplomacy comes after they're in chains."* - Naval briefing
 
+
+
+## Background
+
+Admiral Cassandra Stormwind's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Relationships
+
+### Allies
+- Professional colleagues and supporters
+- Political or business connections
+
+### Rivals
+- Competitors in their field
+- Ideological opponents
+
+### Neutral Parties
+- Those who could be swayed either way
+
+
+
+## Plot Hooks
+
+1. **The Request**: Admiral Cassandra Stormwind needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Admiral Cassandra Stormwind stopped or removed
+3. **The Secret**: Information about Admiral Cassandra Stormwind's past surfaces
+4. **The Alliance**: Opportunity to work with or against Admiral Cassandra Stormwind
+5. **The Crisis**: Admiral Cassandra Stormwind is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Perfect loyal knight archetype with growing doubts
 - Her investigation could uncover the Queen's corruption
@@ -310,6 +405,14 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 - [[Quest - The Crown Reborn]] - Military support for succession
 - [[Economic Warfare]] - Protecting trade routes
 
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-master-cultivator-reef-growstone-v1-master-cultivator-reef-growstone.svg]]: *secret ally*
+- [[Senator Marius]]: *patron*
+- [[Parliament Loyalists]]: *family member*
 
 ## Connections
 

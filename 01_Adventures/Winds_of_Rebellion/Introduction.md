@@ -1,33 +1,38 @@
 ---
-adventure_level: 4-6
-adventure_type: Political Intrigue & Social Combat
-created: '2025-08-11'
-estimated_sessions: '6'
-status: complete
+title: Introduction
+type: Adventure
 tags:
-- combat
-- quest
-- session-notes
-- crystal-enhanced
-- shadow-touched
 - adventure
-- aethermoor
-- complete
+- session-notes
 - content/adventure
 - levels-4-6
 - political-intrigue
-- status/in-progress
+- quest
 - world/aethermoor
+- active
+- combat
+- complete
+- status/in-progress
+- aethermoor
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+level: 1-5
+adventure_level: 4-6
+adventure_type: Political Intrigue & Social Combat
+estimated_sessions: '6'
 themes:
 - political-conspiracy
 - aerial-combat
 - court-intrigue
 - factional-warfare
 - wind-rider-traditions
-type: Adventure
 updated: '2025-08-13T12:34:17.823216+00:00'
 world: Aethermoor
 ---
+
 
 
 # Winds of Rebellion
@@ -40,7 +45,7 @@ world: Aethermoor
 
 **Winds of Rebellion** is a six-session political intrigue adventure set in the floating sky cities of Aethermoor, where ancient wind rider traditions clash with modern political machinations. The player characters become embroiled in a complex web of court politics, factional warfare, and aerial combat as they navigate the treacherous currents of rebellion brewing in the highest echelons of society.
 
-The adventure begins with the characters receiving a summons to court, ostensibly for a routine diplomatic mission. However, they soon discover that [[12_Research/D&D_References/Queen Seraphina Lumengarde]] faces a sophisticated conspiracy that threatens not only her rule but the very stability of Aethermoor's aerial civilization. As secret alliances form and ancient grudges surface, the PCs must use both social cunning and martial prowess to navigate a political landscape more dangerous than any storm.
+The adventure begins with the characters receiving a summons to court, ostensibly for a routine diplomatic mission. However, they soon discover that [[Queen Seraphina Lumengarde]] faces a sophisticated conspiracy that threatens not only her rule but the very stability of Aethermoor's aerial civilization. As secret alliances form and ancient grudges surface, the PCs must use both social cunning and martial prowess to navigate a political landscape more dangerous than any storm.
 
 ### Background: The Gathering Storm
 
@@ -118,7 +123,7 @@ The political landscape is defined by shifting alliances and temporary convenien
 
 ### The Conspiracy Unveiled
 
-The adventure's central mystery revolves around discovering that what appears to be separate factional conflicts actually represents a coordinated conspiracy orchestrated by [[12_Research/D&D_References/Vex Shadowthorn]], the enigmatic spymaster who has been playing all sides against each other.
+The adventure's central mystery revolves around discovering that what appears to be separate factional conflicts actually represents a coordinated conspiracy orchestrated by [[Vex Shadowthorn]], the enigmatic spymaster who has been playing all sides against each other.
 
 Shadowthorn's master plan involves:
 
@@ -257,3 +262,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
 - [[02_Worldbuilding/Groups/Crystal Wardens]]
+
+
+## Key NPCs
+
+- [[Captain Thornback]]
+- [[Dr._Void_Mindwright]]
+- [[04_Resources_Assets_Locations_location-city-the-null-cathedral-the-null-cathedral.svg]]
+- [[04_Resources_Assets_Locations_location-city-harbor-pilot-captain-storm-skyreacher-harbor-pilot-captain-storm-skyreacher.svg]]
+- [[Quest - The Traitor Within]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-mediator-cardinal-harmony-mediator-cardinal-harmony.svg]]
+- [[Freedrift Network]]
+- [[04_Resources_Assets_Locations_location-city-treaty-of-the-depths-v1-treaty-of-the-depths.svg]]

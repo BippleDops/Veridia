@@ -1,13 +1,18 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: <% questGiver %>
 type: quest
-status: placeholder
 tags:
 - placeholder
+- lore
 - needs-content
 - quest
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/Lore/<% questGiver %>
 
@@ -24,7 +29,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/New Quest]]
+- [[New Quest]]
 
 ## Notes
 
@@ -35,3 +40,18 @@ tags:
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Key NPCs
+
+- [[04_Resources_Assets_Art_Places_Forge_Master_Petra_Hammerdeep.png]]
+- [[High Cultivist Jasper Lifebinder]]
+- [[04_Resources_Assets_Locations_location-city-spymaster-crow-v1-spymaster-crow.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-foreman-prime-salvage-maste-foreman-prime-salvage-maste.svg]]
+- [[04_Resources_Assets_Locations_location-city-innkeeper-marina-dreamwhisper-v1-innkeeper-marina-dreamwhisper.svg]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-pressure-gems-pressure-gems.svg]]
+- [[Port Authority]]
+- [[04_Resources_Assets_Portraits_portrait-npc-financial-corruption-financial-corruption.svg]]

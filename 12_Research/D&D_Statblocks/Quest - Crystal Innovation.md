@@ -1,28 +1,36 @@
+# Quest - Crystal Innovation
+
 ---
+title: Quest   Crystal Innovation
+type: NPC
 tags:
-- aetherian-guild
 - aethermoor
+- person
+- npc
+- research
+- active
 - complete
+- inventor
 - crystal-artificer
 - crystal-technology
-- inventor
-- npc
-- person
+- aetherian-guild
+created: 2025-08-08 - Category/People
+modified: '2025-08-14'
 status: complete
+race: Human (Aethermoor Native)
+location: '[[Crystal Gardens|02 Worldbuilding/Places/Crystal Gardens]] - Innovation
+  Workshop'
 world: Aethermoor
-type: NPC
 role: Master Crystal Artificer
 affiliation: Aetherian Guild of Artificers
 age: '67'
-race: Human (Aethermoor Native)
-location: '[[Crystal Gardens|02 Worldbuilding/Places/Crystal Gardens]] - Innovation Workshop'
 created_by: auto-stub
-created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-quest-crystal-innovation-quest-crystal-innovation.svg]]
@@ -553,3 +561,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Quest - Crystal Innovation|02 Worldbuilding/People/Quest Crystal Innovation]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

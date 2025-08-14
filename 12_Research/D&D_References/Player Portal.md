@@ -1,20 +1,27 @@
+# Player Portal
+
 ---
+title: Player Portal
 aliases: []
-created: '2025-08-11'
-status: draft
+type: Lore
 tags:
-- both
-- category/note
-- content/lore
-- draft
 - lore
+- both
 - note
+- content/lore
 - unknown
 - world/both
-type: Lore
+- research
+- category/note
+- active
+- draft
+created: '2025-08-11'
+modified: '2025-08-14'
+status: draft
 updated: '2025-08-13T12:34:17.935232+00:00'
 world: Both
 ---
+
 
 
 
@@ -100,3 +107,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Campaign_Index|Master Campaign Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

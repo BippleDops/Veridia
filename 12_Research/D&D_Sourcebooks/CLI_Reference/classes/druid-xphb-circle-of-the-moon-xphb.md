@@ -1,21 +1,27 @@
+# druid-xphb-circle-of-the-moon-xphb
+
 ---
+title: druid xphb circle of the moon xphb
 aliases:
 - Circle of the Moon
-created: 2025-07-23
-cssclasses: json5e-class
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/druid/moon
-- world/both
-type: note
+- ttrpg-cli/compendium/src/5e/xphb
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-class
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.431596'
 world: Both
 ---
+
 
 # Circle of the Moon
 *[[druid-xphb|Druid]]: Druid Subclass*  
@@ -145,3 +151,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
  enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

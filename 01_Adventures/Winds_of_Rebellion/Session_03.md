@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 03
 type: adventure
-status: active
 tags:
-- combat
-- session-notes
-- aerial
 - adventure
+- aerial
+- session-notes
+- quest
+- active
+- combat
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 03: [Sky Realm Crisis]
 
@@ -62,3 +68,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Key NPCs
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-great-resonance-the-great-resonance.svg]]
+- [[04_Resources_Assets_Locations_location-city-court-herald-master-proclamation-crownvoice-court-herald-master-proclamation-crownvoice.svg]]
+- [[Quest - The Kingpin's Fall]]
+- [[Sir Theron Crystalward]]
+- [[Duke Alexander Tidecrest]]
+
+
+## Important Locations
+
+- [[04_Resources_Assets_Locations_location-city-thorek-crystalhammer-v1-thorek-crystalhammer.png]]
+- [[04_Resources_Assets_Locations_location-city-screaming-gardens-v1-screaming-gardens.svg]]
+- [[Liberty Coalition]]

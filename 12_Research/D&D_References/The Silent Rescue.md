@@ -1,20 +1,27 @@
+# The Silent Rescue
+
 ---
+title: The Silent Rescue
+type: Location
 tags:
 - aquabyssos
+- stealth-mission
+- rescue
+- quest
+- research
+- active
+- location
 - complete
 - espionage
-- location
-- quest
-- rescue
-- stealth-mission
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.438100+00:00'
 danger_level: Moderate
 ---
+
 
 
 
@@ -170,3 +177,8 @@ Legends speak of The Silent Rescue as a nexus where past and present converge. L
 - [[The Silent Rescue|02 Worldbuilding/Places/The Silent Rescue]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

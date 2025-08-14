@@ -1,14 +1,20 @@
+# Kingdom of Luminal Peaks
+
 ---
-tags:
-- active
-- aethermoor
-- npc
+title: Kingdom of Luminal Peaks
 type: NPC
-world: Aethermoor
-status: active
+tags:
+- aethermoor
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:36.896988+00:00'
 ---
+
 
 
 
@@ -64,3 +70,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Queen]]
+
+
+## Related
+
+*Links to related content will be added here.*

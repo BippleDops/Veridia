@@ -1,27 +1,34 @@
 ---
+title: Captain Marlowe Tidecrest
+type: Location
+tags:
+- aquabyssos
+- naval-operations
+- status/complete
+- harbor
+- marina
+- content/location
+- maritime
+- shipping
+- place
+- active
+- location
+- complete
+- world/aquabyssos
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Maritime Facility
 MyContainer: None
-created: '2025-08-12'
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/location
-- harbor
-- location
-- marina
-- maritime
-- naval-operations
-- shipping
-- status/complete
-- world/aquabyssos
-type: Location
 updated: '2025-08-13T12:34:17.164212+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View
@@ -375,3 +382,70 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Captain Marlowe Tidecrest]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-artificer-magnus-weightless-artificer-magnus-weightless.svg]]
+- [[04_Resources_Assets_Locations_location-city-reality-monitoring-specialists-v1-reality-monitoring-specialists.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-quest-the-corruption-files-quest-the-corruption-files.svg]]
+
+
+## Sensory Details
+
+**Sights**: The architecture features sweeping arches and ornate carvings
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: Incense mingles with the scent of exotic spices
+
+
+## Description
+
+Captain Marlowe Tidecrest is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## History
+
+### Founding
+Captain Marlowe Tidecrest was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Captain Marlowe Tidecrest:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Captain Marlowe Tidecrest
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

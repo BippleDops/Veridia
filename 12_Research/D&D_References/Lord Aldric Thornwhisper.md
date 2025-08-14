@@ -1,14 +1,20 @@
+# Lord Aldric Thornwhisper
+
 ---
-tags:
-- active
-- aquabyssos
-- npc
+title: Lord Aldric Thornwhisper
 type: NPC
-world: Aquabyssos
-status: active
+tags:
+- aquabyssos
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:37.012535+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-lord-aldric-thornwhisper-lord-aldric-thornwhisper.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Lady Vivienne the Unfrozen]]
+
+
+## Related
+
+*Links to related content will be added here.*

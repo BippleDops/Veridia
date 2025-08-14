@@ -1,14 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Session 05
 type: adventure
-status: active
 tags:
-- combat
+- adventure
 - session-notes
 - aquatic
-- adventure
+- quest
+- active
+- combat
+created: 2025-08-14
+modified: '2025-08-14'
+status: active
+level: 1-5
+updated: 2025-08-14
 ---
+
 
 # Session 05: [Ocean Depths Mystery]
 
@@ -32,7 +38,7 @@ tags:
 ### Underwater Factions
 
 - [[Pearl Divers Guild]] - Information network
-- [[12_Research/D&D_References/Deep Wardens]] - Military authority
+- [[Deep Wardens]] - Military authority
 - [[Tide Singers]] - Mystical knowledge
 
 ## Investigation Elements
@@ -68,3 +74,19 @@ tags:
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+
+
+## Key NPCs
+
+- [[High Priestess Celeste Dawnbringer]]
+- [[Parliament Loyalists]]
+- [[Agent Whisper Voidheart]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-zara-stormwind-captain-zara-stormwind.svg]]
+- [[04_Resources_Assets_Locations_location-city-dr-reef-brightwater-v1-dr-reef-brightwater.svg]]
+
+
+## Important Locations
+
+- [[Crystal Engineer Spark Gemwright]]
+- [[04_Resources_Assets_Locations_location-city-keeper-luminous-crystalbeam-v1-keeper-luminous-crystalbeam.svg]]
+- [[Void Contamination]]

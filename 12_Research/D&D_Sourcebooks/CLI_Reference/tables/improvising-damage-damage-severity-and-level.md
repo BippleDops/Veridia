@@ -1,20 +1,25 @@
+# improvising-damage-damage-severity-and-level
+
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-- active
-- both
-- note
-- ttrpg-cli/compendium/src/5e/dmg
+title: improvising damage damage severity and level
 aliases:
 - Improvising Damage; Damage Severity and Level
 type: note
+tags:
+- both
+- research
+- active
+- note
+- ttrpg-cli/compendium/src/5e/dmg
 created: 2025-07-23
-updated: '2025-08-13T01:18:31.460326+00:00'
-modified: 2025-07-23 12:39
-world: Both
+modified: '2025-08-14'
 status: active
+obsidianUIMode: preview
+cssclasses: json5e-note
+updated: '2025-08-13T01:18:31.460326+00:00'
+world: Both
 ---
+
 
 # Improvising Damage; Damage Severity and Level
 *Source: Dungeon Master's Guide p. 249* 
@@ -48,3 +53,8 @@ Legends speak of improvising damage damage severity and level as a nexus where p
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

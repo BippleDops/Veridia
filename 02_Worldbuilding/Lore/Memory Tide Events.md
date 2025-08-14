@@ -1,4 +1,19 @@
 ---
+title: Memory Tide Events
+type: Lore
+tags:
+- lore
+- aquabyssos
+- status/complete
+- content/lore
+- quest
+- active
+- complete
+- world/aquabyssos
+- shadow-touched
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
 accessibility:
   content_warnings: []
   pronunciation: Memory Tide Events
@@ -7,22 +22,11 @@ accessibility:
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
     its consequences for play.
-created: '2025-08-12'
 obsidianUIMode: preview
-status: complete
-tags:
-- quest
-- shadow-touched
-- aquabyssos
-- complete
-- content/lore
-- lore
-- status/complete
-- world/aquabyssos
-type: Lore
 updated: '2025-08-13T12:34:16.349195+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Memory Tide Events
@@ -47,15 +51,15 @@ Memory Tide Events describes a turning current in history where choices about me
 
 ## Threads and Revelations
 
-- Records implicate agents tied to [[12_Research/D&D_References/The Sunken Library of Thalassius]].
+- Records implicate agents tied to [[The Sunken Library of Thalassius]].
 - A rite echoes the activation cadence needed for [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
-- Testimony suggests [[12_Research/D&D_References/Vex Shadowthorn]] financed a pivotal bribe.
+- Testimony suggests [[Vex Shadowthorn]] financed a pivotal bribe.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/The Sunken Library of Thalassius]]
+- [[The Sunken Library of Thalassius]]
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[12_Research/D&D_References/Vex Shadowthorn]]
+- [[Vex Shadowthorn]]
 
 ## Player-Facing Summary
 
@@ -80,9 +84,32 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[12_Research/D&D_References/The Seven Shards]]
+- [[The Seven Shards]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
+
+
+## Overview
+
+Memory Tide Events represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

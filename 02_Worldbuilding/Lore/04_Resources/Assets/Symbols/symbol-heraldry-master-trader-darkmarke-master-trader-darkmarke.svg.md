@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry master trader darkmarke master trader darkmarke.svg
+aliases:
+- symbol heraldry master trader darkmarke master trader darkmarkesvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-master-trader-darkmarke-master-trader-darkmarke.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Master Trader Darkmarke]]
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
+- [[Master Trader Darkmarke]]
+- [[Faction Symbols & Heraldry]]
 
 ## Notes
 

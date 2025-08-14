@@ -1,27 +1,33 @@
 ---
-affiliation: '[[Parliament of Echoes]] - Centrist Faction'
-age: '48'
-created: '2025-08-09'
-created_by: auto-stub
-location: '[[Parliament of Echoes]] - Central Chamber'
-race: Human
-role: Parliamentary Tribune
-status: complete
+title: Tribune Cassia Deepcurrent
+type: Npc
 tags:
 - aquabyssos
-- campaign/hook
-- complete
-- content/faction
-- content/npc
-- npc
-- parliament
-- politician
 - status/complete
+- content/faction
+- campaign/hook
+- npc
+- politician
+- character
+- content/npc
+- active
+- parliament
+- complete
 - world/aquabyssos
-type: Npc
+created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+race: Human
+class: Unknown
+location: '[[Parliament of Echoes]] - Central Chamber'
+affiliation: '[[Parliament of Echoes]] - Centrist Faction'
+age: '48'
+created_by: auto-stub
+role: Parliamentary Tribune
 updated: '2025-08-13T12:34:17.511606+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -181,6 +187,136 @@ Tribune Cassia Deepcurrent leads the Centrist Faction within the [[Parliament of
 - Links political themes to shadow corruption and cosmic threat storylines
 - Key figure for any adventures involving government response to crisis
 
+
+
+## Appearance
+
+Tribune Cassia Deepcurrent presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
+
+- **Build**: Average height, athletic build
+- **Distinguishing Marks**: [Describe unique features]
+- **Typical Attire**: Professional garments suited to their role
+- **Mannerisms**: [Describe habits and gestures]
+
+
+
+## Personality
+
+**Traits**: Loyal, creative, clever
+
+**Ideals**: Excellence in their chosen field, maintaining professional standards
+
+**Bonds**: Loyalty to allies, commitment to their cause
+
+**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Gaining power
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+Tribune Cassia Deepcurrent harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Stolen identity
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Sharp and precise
+
+**Speech Pattern**: Casual and relaxed
+
+**Physical Habits**: Steeples fingers when thinking
+
+## Current Activities
+
+Tribune Cassia Deepcurrent is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: Tribune Cassia Deepcurrent needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Tribune Cassia Deepcurrent stopped or removed
+3. **The Secret**: Information about Tribune Cassia Deepcurrent's past surfaces
+4. **The Alliance**: Opportunity to work with or against Tribune Cassia Deepcurrent
+5. **The Crisis**: Tribune Cassia Deepcurrent is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 - Perfect political patron who can provide missions and resources
 - Represents stability and reason in increasingly chaotic world
@@ -188,6 +324,15 @@ Tribune Cassia Deepcurrent leads the Centrist Faction within the [[Parliament of
 - Her dilemmas create interesting moral choices for party
 - Key figure in determining how Aquabyssos responds to major threats
 - Can provide exposition on political situation and government capabilities
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-surge-mixmaster-v1-surge-mixmaster.png]]: *business partner*
+- [[04_Resources_Assets_Locations_location-city-captain-trawl-netcaster-captain-trawl-netcaster.svg]]: *student*
+- [[NPC Cross-World Connections]]: *patron*
+- [[04_Resources_Assets_Locations_location-city-master-smith-coral-hammer-master-smith-coral-hammer.svg]]: *informant*
 
 ## Connections
 

@@ -1,21 +1,27 @@
+# fighter-xphb
+
 ---
+title: fighter xphb
 aliases:
 - Fighter
-created: 2025-07-23
-cssclasses: json5e-class
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- mechanics/combat
+- research
+- world/both
+- active
 - note
 - status/in-progress
+- mechanics/combat
 - ttrpg-cli/compendium/src/5e/xphb
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-class
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:34.395807'
 world: Both
 ---
+
 
 # Fighter
 *Source: Player's Handbook (2024) p. 90. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -225,3 +231,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
  enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

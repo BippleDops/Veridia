@@ -1,14 +1,20 @@
+# The Depth Lords
+
 ---
-tags:
-- active
-- both
-- npc
+title: The Depth Lords
 type: NPC
-world: Both
-status: active
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:37.037832+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-depth-lords-the-depth-lords.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Convergence Point]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,13 +1,17 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Crystal Guardian Orders
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # Crystal Guardian Orders
 
@@ -24,7 +28,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Scholars of Divine Lore]]
+- [[Scholars of Divine Lore]]
 - [[12_Research/D&D_Statblocks/Stop the Crystal Festival Ritual]]
 - [[02_Worldbuilding/Quests/Stop the Crystal Festival Ritual]]
 - [[02_Worldbuilding/Groups/Scholars of Divine Lore]]

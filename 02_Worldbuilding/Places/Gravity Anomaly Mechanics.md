@@ -1,8 +1,35 @@
 ---
+title: Gravity Anomaly Mechanics
+type: Location
+tags:
+- aerial
+- environmental
+- aquatic
+- content/location
+- hazards
+- status/complete
+- mechanics/magic
+- anomaly
+- content/lore
+- combat
+- location
+- physics
+- gravity
+- world/both
+- complete
+- content/mechanics
+- both worlds
+- place
+- active
+- world/aquabyssos
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Unknown
 MyContainer: None
 category: Physics and Magic
-created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 lore_type: Magical Mechanics
@@ -10,30 +37,10 @@ obsidianUIMode: preview
 primary_application: Environmental Hazards and Effects
 scope: Environmental Phenomena
 significance: Mechanical Framework
-status: complete
-tags:
-- combat
-- aerial
-- aquatic
-- anomaly
-- both worlds
-- complete
-- content/location
-- content/lore
-- content/mechanics
-- environmental
-- gravity
-- hazards
-- location
-- mechanics/magic
-- physics
-- status/complete
-- world/aquabyssos
-- world/both
-type: Location
 updated: '2025-08-13T12:34:16.535261+00:00'
 world: Both Worlds
 ---
+
 
 
 > [!figure] View
@@ -45,11 +52,11 @@ world: Both Worlds
 *When Natural Laws Bend and Break*
 
 > *"Gravity is not just the force that holds our feet to the ground—it is the invisible hand that shapes reality itself. When that hand trembles, entire worlds can be reshaped in moments."*
-> — [[12_Research/D&D_References/Theoretical Physicist Marina Voidwright]], studying gravitational phenomena
+> — [[Theoretical Physicist Marina Voidwright]], studying gravitational phenomena
 
 ## Overview
 
-Gravity Anomaly Mechanics describe the complex magical and physical phenomena that occur when gravitational forces are disrupted, manipulated, or fundamentally altered in the regions around [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]]. These anomalies represent one of the most dangerous and unpredictable environmental hazards affecting both realms, capable of reshaping landscapes, disrupting magical systems, and creating areas where normal physics no longer apply.
+Gravity Anomaly Mechanics describe the complex magical and physical phenomena that occur when gravitational forces are disrupted, manipulated, or fundamentally altered in the regions around [[Aquabyssos]] and [[Aethermoor]]. These anomalies represent one of the most dangerous and unpredictable environmental hazards affecting both realms, capable of reshaping landscapes, disrupting magical systems, and creating areas where normal physics no longer apply.
 
 Unlike simple magical effects that temporarily alter gravity, true gravity anomalies represent fundamental distortions in the fabric of space-time itself, creating lasting changes to the physical laws governing affected areas. Understanding these mechanics is crucial for navigating anomaly zones, predicting their effects, and developing countermeasures to protect populated areas and critical infrastructure.
 
@@ -361,7 +368,7 @@ Gravitational anomalies represent powerful tools for creating unique and memorab
 
 ## Connections
 
-- [[12_Research/D&D_References/The Inverse Palace]]
+- [[The Inverse Palace]]
 
 ## Player-Facing Summary
 
@@ -377,18 +384,133 @@ Legends speak of Gravity Anomaly Mechanics as a nexus where past and present con
 - An NPC seeks discreet help at Gravity Anomaly Mechanics to avert a public scandal.
 - A map overlay reveals a hidden approach to Gravity Anomaly Mechanics active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Gravity Anomaly Mechanics]]
+- [[Gravity Anomaly Mechanics]]
 
 <!-- enriched: true -->
-- [[12_Research/D&D_References/Aethermoor]]
+- [[Aethermoor]]
 
 
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[Memory Merchant Headquarters]]
+- [[Commander Typhoon Blackheart]]
+- [[Innkeeper Mara Ironlung]]
+
+
+## Sensory Details
+
+**Sights**: Colorful banners flutter in the breeze
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: The aroma of fresh bread wafts from bakeries
+
+
+## Description
+
+Gravity Anomaly Mechanics is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Gravity Anomaly Mechanics
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Gravity Anomaly Mechanics was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Gravity Anomaly Mechanics:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Gravity Anomaly Mechanics
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

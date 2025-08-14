@@ -1,15 +1,18 @@
 ---
+title: Argyros the Silver
 type: Lore
-status: complete
 tags:
-- active
-- aethermoor
 - lore
+- aethermoor
+- active
 - npc
-world: Aethermoor
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+world: Aethermoor
 updated: '2025-08-13T01:18:35.096941+00:00'
 ---
+
 
 
 ## Overview
@@ -38,12 +41,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Silverscale Consortium]]
+- [[Silverscale Consortium]]
 
 
 ## Connections
 
-- [[12_Research/D&D_References/Silverscale Consortium]]
+- [[Silverscale Consortium]]
 - [[12_Research/D&D_Statblocks/Lady Jade Clawgrip]]
 - [[12_Research/D&D_Statblocks/The Nameless Auditor]]
 

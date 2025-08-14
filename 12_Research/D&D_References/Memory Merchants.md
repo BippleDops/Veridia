@@ -1,14 +1,20 @@
+# Memory Merchants
+
 ---
-tags:
-- active
-- both
-- lore
+title: Memory Merchants
 type: Lore
-world: Both
-status: active
+tags:
+- lore
+- both
+- active
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:34.922421+00:00'
 ---
+
 
 > [!figure] Asset
 ![[04_Resources/Assets/Portraits/portrait-npc-memory-merchants-memory-merchants.svg]]
@@ -44,3 +50,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Memory Merchants|02 Worldbuilding/People/Memory Merchants]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

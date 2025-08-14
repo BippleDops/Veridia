@@ -1,26 +1,33 @@
+# Deep Mother 3
+
 ---
-category: Divine Entity
+title: Deep Mother 3
+type: Lore
+tags:
+- lore
+- aquabyssos
+- cosmic-entity
+- status/complete
+- dreams
+- deity
+- primordial
+- content/lore
+- research
+- shadows
+- active
+- complete
+- world/aquabyssos
+- creation-myth
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+category: Divine Entity
 created_by: auto-stub
 significance: Primary Deity
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/lore
-- cosmic-entity
-- creation-myth
-- deity
-- dreams
-- lore
-- primordial
-- shadows
-- status/complete
-- world/aquabyssos
-type: Lore
 updated: '2025-08-13T12:34:28.751751+00:00'
 world: Aquabyssos
 ---
+
 
 
 

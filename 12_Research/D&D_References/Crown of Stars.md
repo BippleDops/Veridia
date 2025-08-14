@@ -1,15 +1,21 @@
+# Crown of Stars
+
 ---
-tags:
-- active
-- aquabyssos
-- lore
-- magical-barrier-fortress
+title: Crown of Stars
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- magical-barrier-fortress
+- research
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.625485+00:00'
 ---
+
 
 
 
@@ -49,3 +55,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Crystallium]]
 - [[The Lock]]
+
+
+## Related
+
+*Links to related content will be added here.*

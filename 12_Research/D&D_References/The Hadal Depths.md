@@ -1,27 +1,34 @@
+# The Hadal Depths
+
 ---
+title: The Hadal Depths
+type: Location
 tags:
 - aquabyssos
-- complete
 - cosmic-horror
-- dangerous
-- deepest-zone
-- location
 - primordial
+- research
+- dangerous
+- active
+- location
+- complete
+- deepest-zone
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+population: Unknown (Non-Euclidean)
 world: Aquabyssos
-type: Location
 location_type: Abyssal Zone
 depth: 20,000-36,000+ feet
-population: Unknown (Non-Euclidean)
 danger_level: Catastrophic
 ruler: '[[Deep Mother|02 Worldbuilding/Lore/Deep Mother]] (Sleeping)'
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-hadal-depths-the-hadal-depths.svg]]

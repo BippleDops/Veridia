@@ -1,9 +1,16 @@
 ---
+title: step 084
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 80
 step: 84
 total_step: 7984
 ---
+
 
 # Phase 80 - Step 84
 

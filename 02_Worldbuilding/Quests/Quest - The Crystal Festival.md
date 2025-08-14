@@ -1,34 +1,41 @@
+# Quest - The Crystal Festival
+
 ---
+title: Quest   The Crystal Festival
 type: Lore
-status: complete
 tags:
-- combat
-- session-notes
-- crystal-enhanced
-- shadow-touched
-- aerial
-- aethermoor
-- complete
-- crystal
-- festival
-- investigation
 - lore
 - major-quest
+- aerial
+- session-notes
+- investigation
+- crystal
+- festival
 - political
 - quest
+- worldbuilding
+- active
+- combat
+- complete
+- aethermoor
+- shadow-touched
+- crystal-enhanced
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+location: '[[The Crystalline Wastes]]'
 world: Aethermoor
 quest_type: Main Story
 level_range: 8-12
-quest_giver: '[[12_Research/D&D_References/Queen Seraphina Lumengarde]]'
-location: '[[12_Research/D&D_References/The Crystalline Wastes]]'
+quest_giver: '[[Queen Seraphina Lumengarde]]'
 rewards: 5000 gp, Noble Title, Crystal Artifacts
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:34.490528+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 # Quest - The Crystal Festival
@@ -37,7 +44,7 @@ obsidianUIMode: preview
 
 ## Quest Overview
 
-The annual Crystal Festival celebrates the discovery of Aether Crystals and their integration into [[12_Research/D&D_References/Aethermoor]] society. This year's 500th anniversary festival promises to be spectacular—but shadows gather beneath the celebration. [[12_Research/D&D_References/Queen Seraphina Lumengarde]] secretly plans to use the festival to gather all Seven Shards, while multiple factions plot to seize power during the festivities. The party must navigate political intrigue, prevent catastrophe, and decide the fate of the Crystal Crown.
+The annual Crystal Festival celebrates the discovery of Aether Crystals and their integration into [[Aethermoor]] society. This year's 500th anniversary festival promises to be spectacular—but shadows gather beneath the celebration. [[Queen Seraphina Lumengarde]] secretly plans to use the festival to gather all Seven Shards, while multiple factions plot to seize power during the festivities. The party must navigate political intrigue, prevent catastrophe, and decide the fate of the Crystal Crown.
 
 ## Background & Setup
 
@@ -55,8 +62,8 @@ The Crystal Festival commemorates:
 - Five of Seven Shards have been located
 - Queen's corruption is worsening
 - [[The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]] plans economic takeover
-- [[12_Research/D&D_References/The Crown]] faces legitimacy crisis
-- Shadow influence from [[12_Research/D&D_References/Aquabyssos]] increases
+- [[The Crown]] faces legitimacy crisis
+- Shadow influence from [[Aquabyssos]] increases
 - [[12_Research/D&D_Statblocks/The Crimson Sage]] manipulates events
 
 ## Quest Hooks
@@ -65,7 +72,7 @@ The Crystal Festival commemorates:
 
 1. **Royal Invitation**: Queen personally requests party's protection
 2. **Consortium Contract**: Hired to ensure "profitable outcome"
-3. **Prophetic Warning**: [[12_Research/D&D_References/Prophet Nerida Voidgazer]] warns of catastrophe
+3. **Prophetic Warning**: [[Prophet Nerida Voidgazer]] warns of catastrophe
 4. **Shadow Investigation**: Following shadow corruption to source
 5. **Divine Mission**: [[12_Research/D&D_Statblocks/The Crimson Sage]] secretly guides party
 
@@ -82,7 +89,7 @@ The Crystal Festival commemorates:
 ### The Invitation
 
 **Location**: Party's current location
-**NPC**: [[12_Research/D&D_References/Royal Herald Marcus]]
+**NPC**: [[Royal Herald Marcus]]
 **Objective**: Accept quest and travel to capital
 
 **Read Aloud:**
@@ -112,7 +119,7 @@ The Crystal Festival commemorates:
 
 #### The Queen's Secret
 
-**Location**: [[12_Research/D&D_References/The Crystal Palace - Throne Room]]
+**Location**: [[The Crystal Palace - Throne Room]]
 **Discovery**: Queen plans to reform the Crown
 - She has located five Shards
 - Believes reformation will cure her corruption
@@ -121,28 +128,28 @@ The Crystal Festival commemorates:
 
 #### The Consortium Plot
 
-**Location**: [[12_Research/D&D_References/Silverscale Trade Embassy]]
+**Location**: [[Silverscale Trade Embassy]]
 **Discovery**: Economic manipulation scheme
 - Plan to crash crystal market during festival
 - Bought up massive crystal reserves
 - Hired mercenaries disguised as performers
-- [[12_Research/D&D_References/Zephyr Goldwhisper]] leads operation
+- [[Zephyr Goldwhisper]] leads operation
 
 #### The Shadow Infiltration
 
-**Location**: [[12_Research/D&D_References/Festival Grounds - Underground]]
+**Location**: [[Festival Grounds - Underground]]
 **Discovery**: Aquabyssos agents present
-- [[12_Research/D&D_References/Shadow Duchess Nyx]] arrived secretly
+- [[Shadow Duchess Nyx]] arrived secretly
 - Shadow parasites in festival food supplies
-- Portal to [[12_Research/D&D_References/Aquabyssos]] being prepared
+- Portal to [[Aquabyssos]] being prepared
 - Plan to corrupt Shards during convergence
 
 #### The Noble Conspiracy
 
-**Location**: [[12_Research/D&D_References/House of Lords - Secret Chamber]]
+**Location**: [[House of Lords - Secret Chamber]]
 **Discovery**: Succession crisis plot
 - Several houses plan coup during ceremony
-- [[12_Research/D&D_References/High Inquisitor Maltheos]] provides legitimacy
+- [[High Inquisitor Maltheos]] provides legitimacy
 - Claim Queen's corruption makes her unfit
 - Have their own Shard (fake or real?)
 
@@ -169,7 +176,7 @@ The Crystal Festival commemorates:
 ### The Convergence Ritual
 
 **Time**: Final day, solar apex
-**Location**: [[12_Research/D&D_References/The Crystal Amphitheater]]
+**Location**: [[The Crystal Amphitheater]]
 
 #### The Ceremony Begins
 
@@ -250,19 +257,19 @@ Appears inside the Queen herself
 
 ### Major NPCs
 
-- [[12_Research/D&D_References/Queen Seraphina Lumengarde]] - Quest giver, corrupted monarch
+- [[Queen Seraphina Lumengarde]] - Quest giver, corrupted monarch
 - [[12_Research/D&D_Statblocks/The Crimson Sage]] - Secret manipulator
-- [[12_Research/D&D_References/High Inquisitor Maltheos]] - Religious authority
-- [[12_Research/D&D_References/Zephyr Goldwhisper]] - Consortium mastermind
-- [[12_Research/D&D_References/Shadow Duchess Nyx]] - Aquabyssos agent
+- [[High Inquisitor Maltheos]] - Religious authority
+- [[Zephyr Goldwhisper]] - Consortium mastermind
+- [[Shadow Duchess Nyx]] - Aquabyssos agent
 
 ### Supporting NPCs
 
-- [[12_Research/D&D_References/Captain Thaddeus Blackwater]] - Security chief
-- [[12_Research/D&D_References/Prophet Nerida Voidgazer]] - Provides warnings
-- [[12_Research/D&D_References/Master Artificer Korvin Gearwright]] - Shard expert
-- [[12_Research/D&D_References/Prince Aurelius]] - Heir apparent
-- [[12_Research/D&D_References/Lord Commander Steelborn]] - Military leader
+- [[Captain Thaddeus Blackwater]] - Security chief
+- [[Prophet Nerida Voidgazer]] - Provides warnings
+- [[Master Artificer Korvin Gearwright]] - Shard expert
+- [[Prince Aurelius]] - Heir apparent
+- [[Lord Commander Steelborn]] - Military leader
 
 ## Rewards & Consequences
 
@@ -380,16 +387,16 @@ Each Shard grants:
 
 ### Previous Quests
 
-- [[12_Research/D&D_References/Aquabyssos]] leads here
+- [[Aquabyssos]] leads here
 - [[12_Research/D&D_Statblocks/Quest - Foreign Interests]] sets up factions
-- [[12_Research/D&D_References/Quest - The Shadow Conspiracy]] explains infiltration
+- [[Quest - The Shadow Conspiracy]] explains infiltration
 
 ### Future Quests  
 
-- [[12_Research/D&D_References/Aquabyssos]] if not resolved
-- [[12_Research/D&D_References/Quest - The Deep Mother Rises]] triggered by outcome
+- [[Aquabyssos]] if not resolved
+- [[Quest - The Deep Mother Rises]] triggered by outcome
 - [[Quest - The New World Order]] dealing with aftermath
-- [[12_Research/D&D_References/Quest - The Merged Reality]] if worlds combine
+- [[Quest - The Merged Reality]] if worlds combine
 
 ### World Impact
 
@@ -406,9 +413,9 @@ Each Shard grants:
 
 ## Connections
 
-- [[12_Research/D&D_References/Purist Coalition]]
-- [[12_Research/D&D_References/High Inquisitor Maltheos]]
-- [[12_Research/D&D_References/Quest - Diplomatic Immunity]]
+- [[Purist Coalition]]
+- [[High Inquisitor Maltheos]]
+- [[Quest - Diplomatic Immunity]]
 
 ## Player-Facing Summary
 

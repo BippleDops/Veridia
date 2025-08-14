@@ -1,13 +1,19 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: symbol heraldry treasurer goldenshadow treasurer goldenshadow.svg
+aliases:
+- symbol heraldry treasurer goldenshadow treasurer goldenshadowsvg
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-treasurer-goldenshadow-treasurer-goldenshadow.svg
 
@@ -24,8 +30,8 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Faction Symbols & Heraldry]]
-- [[12_Research/D&D_References/Treasurer Goldenshadow]]
+- [[Faction Symbols & Heraldry]]
+- [[Treasurer Goldenshadow]]
 
 ## Notes
 

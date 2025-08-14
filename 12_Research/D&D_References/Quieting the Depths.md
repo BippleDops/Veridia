@@ -1,20 +1,27 @@
+# Quieting the Depths
+
 ---
+title: Quieting the Depths
+type: Location
 tags:
-- ancient-evil
 - aquabyssos
-- complete
-- location
-- quest
-- ritual
 - supernatural
+- ritual
+- quest
+- research
+- active
+- ancient-evil
+- location
+- complete
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.439750+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -198,3 +205,8 @@ Legends speak of Quieting the Depths as a nexus where past and present converge.
 - [[Quieting the Depths|02 Worldbuilding/Places/Quieting The Depths]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

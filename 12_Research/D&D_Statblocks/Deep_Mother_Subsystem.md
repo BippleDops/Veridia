@@ -1,22 +1,28 @@
+# Deep_Mother_Subsystem
+
 ---
 title: Complete Deep Mother Subsystem
 type: Lore
-status: complete
 tags:
-- apocalypse
-- both
-- campaign-antagonist
-- complete
-- cosmic-entity
-- deep-mother
 - lore
-- manifestation
+- both
+- cosmic-entity
 - mechanics
+- research
+- deep-mother
+- apocalypse
+- active
+- campaign-antagonist
+- manifestation
+- complete
 created: '2025-01-23'
+modified: '2025-08-14'
+status: complete
 version: 1.0
 world: Both
 updated: '2025-08-13T01:18:37.095395+00:00'
 ---
+
 
 
 

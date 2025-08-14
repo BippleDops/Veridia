@@ -1,19 +1,25 @@
+# Parliamentary Founding
+
 ---
-tags:
-- active
-- aquabyssos
-- founding
-- government
-- history
-- lore
-- parliament
-- revolution
+title: Parliamentary Founding
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- founding
+- aquabyssos
+- lore
+- history
+- revolution
+- research
+- government
+- active
+- parliament
 created: '2025-08-12'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.820795+00:00'
 ---
+
 
 
 # Parliamentary Founding
@@ -462,3 +468,8 @@ Legends speak of Parliamentary Founding as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,25 +1,32 @@
+# cadaver-collector-mpmm
+
 ---
+title: cadaver collector mpmm
 aliases:
 - Cadaver Collector
+type: monster
+tags:
+- world/surface
+- ttrpg-cli/monster/type/construct
+- monster
+- ttrpg-cli/monster/cr/14
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/compendium/src/5e/mpmm
+- world/both
+- research
+- active
+- status/in-progress
 created: 2025-08-11
+modified: '2025-08-14'
+status: active
 cssclasses: json5e-monster
 obsidian-u-i-mode: preview
 statblock: inline
 statblock-link: '#^statblock'
-status: active
-tags:
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/14
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
-- world/both
-- world/surface
-type: monster
 updated: '2025-08-12T23:37:35.825451'
 world: Both
 ---
+
 
 
 > [!figure] Creature
@@ -115,3 +122,8 @@ Legends speak of cadaver collector mpmm as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

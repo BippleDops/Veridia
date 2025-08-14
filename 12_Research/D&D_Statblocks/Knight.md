@@ -1,14 +1,20 @@
+# Knight
+
 ---
+title: Knight
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 world: Both
 updated: '2025-08-13T01:18:36.822573+00:00'
-created: '2025-08-11'
-status: active
-tags:
-- active
-- both
-- npc
-type: NPC
 ---
+
 
 
 
@@ -170,3 +176,8 @@ Theron works best as a recurring ally who grows and changes alongside the party.
 - [[High Priestess Celeste Dawnbringer]]
 - [[Prince Caspian Duskwater]]
 - [[Queen Seraphina Lumengarde]]
+
+
+## Related
+
+*Links to related content will be added here.*

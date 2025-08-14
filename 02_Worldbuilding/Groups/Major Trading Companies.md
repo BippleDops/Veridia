@@ -1,21 +1,28 @@
 ---
-created: '2025-08-12'
-status: complete
+title: Major Trading Companies
+type: Faction
 tags:
-- both
-- complete
-- content/faction
 - economy
+- both
+- status/complete
+- content/faction
 - faction
+- trading-companies
+- organization
+- world/both
+- active
+- complete
 - merchant-princes
 - rivalries
-- status/complete
-- trading-companies
-- world/both
-type: Faction
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
 updated: '2025-08-13T12:34:17.344700+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Corporate Emblems
@@ -603,3 +610,8 @@ Use the trading companies as a framework for complex political and economic intr
 
 Consider how corporate actions ripple through society, affecting everything from individual livelihoods to international relations. The companies serve as both potential allies and enemies, offering resources and opportunities while representing systematic corruption and inequality that can drive character motivations and campaign themes.
 <!-- enriched: true -->
+
+
+## Known Members
+
+- [[04_Resources_Assets_Portraits_portrait-npc-lord-magnus-goldspire-lord-magnus-goldspire.svg]]

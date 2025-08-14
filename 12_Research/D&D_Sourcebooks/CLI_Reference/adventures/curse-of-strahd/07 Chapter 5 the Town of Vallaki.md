@@ -1,22 +1,27 @@
+# 07 Chapter 5 the Town of Vallaki
+
 ---
+title: 07 Chapter 5 the Town of Vallaki
 aliases:
 - Chapter 5: The Town of Vallaki
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/cos
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:04.952744+00:00'
 world: Both
 ---
+
 
 
 # Chapter 5: The Town of Vallaki
@@ -1557,3 +1562,8 @@ Legends speak of 07 chapter 5 the town of vallaki as a nexus where past and pres
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

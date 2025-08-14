@@ -1,30 +1,37 @@
+# Shadow Marina
+
 ---
+title: Shadow Marina
+type: Group
 tags:
 - aquabyssos
-- complete
 - faction
-- group
-- maritime
 - shadow-operations
+- research
+- maritime
+- active
 - smuggling
+- complete
 - transportation
+- group
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+headquarters: '[[The Phantom Docks]]'
 world: Aquabyssos
-type: Group
 faction_type: Maritime Organization
 alignment: Chaotic Neutral
-headquarters: '[[The Phantom Docks]]'
 leader: '[[Harbor Master Tideshade]]'
 members: ~800 sailors, dock workers, and maritime specialists
 influence: Coastal regions and sea routes
 wealth: Substantial (shadow trade and smuggling)
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.725825+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] Heraldry

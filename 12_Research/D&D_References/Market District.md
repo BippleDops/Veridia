@@ -1,18 +1,25 @@
+# Market District
+
 ---
-created: '2025-08-11'
-danger_level: Moderate
-status: complete
+title: Market District
+type: Location
 tags:
 - both
-- complete
-- content/location
-- location
-- status/in-progress
+- research
 - world/both
-type: Location
+- content/location
+- active
+- location
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+danger_level: Moderate
 updated: '2025-08-13T12:34:17.106618+00:00'
 world: Both
 ---
+
 
 
 
@@ -135,3 +142,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Mayor Thompson]]
 - [[Pip Goldleaf]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,31 +1,38 @@
+# Discover Marina's Truth
+
 ---
+title: Discover Marina's Truth
+type: Lore
+tags:
+- lore
+- mystery
+- both
+- status/complete
+- mechanics/magic
+- marina
+- content/lore
+- world/both
+- research
+- active
+- campaign/arc
+- complete
+- world/aquabyssos
+- world/aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
 connected_npcs:
 - Marina Coralheart
 - Marina Reborn
 - Marina's Echo
 - The Original Marina
-created: '2025-08-08'
 created_by: system
 revelation_level: Progressive
 significance: Campaign Central
-status: complete
-tags:
-- both
-- campaign/arc
-- complete
-- content/lore
-- lore
-- marina
-- mechanics/magic
-- mystery
-- status/complete
-- world/aethermoor
-- world/aquabyssos
-- world/both
-type: Lore
 updated: '2025-08-13T12:34:16.339513+00:00'
 world: Both
 ---
+
 
 
 
@@ -406,3 +413,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Deepmind]]
 - [[The Sunken Library of Thalassius]]
 - [[The Threshold Chambers]]
+
+
+## Related
+
+*Links to related content will be added here.*

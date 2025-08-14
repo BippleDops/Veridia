@@ -1,19 +1,26 @@
+# Merchant Family Alliances
+
 ---
+title: Merchant Family Alliances
+type: Lore
 tags:
-- alliances
-- aquabyssos
-- complete
-- economics
 - lore
-- merchants
+- aquabyssos
 - relationships
 - trade
-type: Lore
-world: Aquabyssos
-status: complete
+- economics
+- research
+- active
+- complete
+- alliances
+- merchants
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.531378+00:00'
 ---
+
 
 
 # Merchant Family Alliances
@@ -703,3 +710,8 @@ Legends speak of Merchant Family Alliances as a nexus where past and present con
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

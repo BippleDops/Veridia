@@ -1,22 +1,27 @@
+# 14 Chapter 14 the Labyrinth
+
 ---
+title: 14 Chapter 14 the Labyrinth
 aliases:
 - Chapter 14: The Labyrinth
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
+- ttrpg-cli/compendium/src/5e/oota
+- research
+- world/both
+- active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/oota
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:05.014208+00:00'
 world: Both
 ---
+
 
 
 # Chapter 14: The Labyrinth
@@ -527,3 +532,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
  enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

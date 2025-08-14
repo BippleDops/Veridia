@@ -1,9 +1,16 @@
 ---
+title: step 027
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 96
 step: 27
 total_step: 9527
 ---
+
 
 # Phase 96 - Step 27
 

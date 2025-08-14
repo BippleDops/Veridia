@@ -1,13 +1,21 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: item artifact warhammer xphb warhammer xphb.png
+aliases:
+- item artifact warhammer xphb warhammer xphbpng
 type: item
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - item
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+rarity: Unknown
+value: Unknown
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Items/item-artifact-warhammer-xphb-warhammer-xphb.png
 
@@ -24,7 +32,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Magical_Items_Gallery]]
+- [[Magical_Items_Gallery]]
 
 ## Notes
 

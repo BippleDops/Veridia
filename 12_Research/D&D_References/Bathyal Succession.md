@@ -1,20 +1,27 @@
+# Bathyal Succession
+
 ---
+title: Bathyal Succession
+type: Location
 tags:
 - aquabyssos
-- complete
-- event
-- location
-- politics
 - royal
+- event
+- research
+- active
+- location
+- complete
 - succession
+- politics
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.536502+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -141,3 +148,8 @@ Legends speak of Bathyal Succession as a nexus where past and present converge. 
 - [[Bathyal Succession|02 Worldbuilding/Places/Bathyal Succession]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

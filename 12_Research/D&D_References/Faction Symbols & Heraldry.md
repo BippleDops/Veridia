@@ -1,5 +1,17 @@
 # Faction Symbols & Heraldry
 
+---
+title: Faction Symbols & Heraldry
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
+# Faction Symbols & Heraldry
+
 %% Use reading mode for visual gallery %%
 
 ## symbol-heraldry-acoustic-infection-acoustic-infection
@@ -1021,3 +1033,8 @@
 
 ## symbol-heraldry-witness-protection-protocols-witness-protection-protocols
 ![[04_Resources/Assets/Symbols/symbol-heraldry-witness-protection-protocols-witness-protection-protocols.svg]]
+
+
+## Related
+
+*Links to related content will be added here.*

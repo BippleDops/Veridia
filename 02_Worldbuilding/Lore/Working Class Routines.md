@@ -1,27 +1,31 @@
 ---
-created: '2025-08-12'
-created_by: claude
-status: complete
+title: Working Class Routines
+type: Lore
 tags:
-- quest
-- crystal-enhanced
-- aerial
-- aquatic
-- both
-- complete
-- culture
-- daily-life
-- labor
 - lore
 - mechanics/social
-- routine
-- status/complete
+- both
+- aerial
 - working-class
+- status/complete
+- culture
+- aquatic
+- labor
+- quest
 - world/both
-type: Lore
+- active
+- routine
+- complete
+- daily-life
+- crystal-enhanced
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+created_by: claude
 updated: '2025-08-13T12:34:15.736711+00:00'
 world: Both
 ---
+
 
 
 # Working Class Routines
@@ -30,7 +34,7 @@ world: Both
 
 ## Overview
 
-The working classes of both [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]] form the essential foundation that keeps their respective societies functioning. From dawn pressure adjustments to evening wind readings, these dedicated individuals maintain the infrastructure, produce the goods, and provide the services that allow their realms to thrive. Their routines are shaped by necessity, community solidarity, and the unique environmental challenges of underwater and aerial life.
+The working classes of both [[Aquabyssos]] and [[Aethermoor]] form the essential foundation that keeps their respective societies functioning. From dawn pressure adjustments to evening wind readings, these dedicated individuals maintain the infrastructure, produce the goods, and provide the services that allow their realms to thrive. Their routines are shaped by necessity, community solidarity, and the unique environmental challenges of underwater and aerial life.
 
 ## Aquabyssos Working Class
 
@@ -573,10 +577,10 @@ From the harbor docks of Aquabyssos to the wind platforms of Aethermoor, working
 ---
 
 **Related Topics**:
-- [[12_Research/D&D_References/A Day in Aquabyssos]]
-- [[12_Research/D&D_References/Aethermoor Daily Rhythms]]
-- [[12_Research/D&D_References/Noble Leisure Schedules]]
-- [[12_Research/D&D_References/Child Life in the Realms]]
+- [[A Day in Aquabyssos]]
+- [[Aethermoor Daily Rhythms]]
+- [[Noble Leisure Schedules]]
+- [[Child Life in the Realms]]
 - [[Labor Organizations and Guilds]]
 - [[Social Support Systems]]
 - [[Working Class Culture and Traditions]]
@@ -605,3 +609,26 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+
+
+## Historical Context
+
+The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
+
+
+## Cultural Impact
+
+Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Game Applications
+
+### Adventure Hooks
+- Discovery of related artifacts or texts
+- Conflicts arising from different interpretations
+- Prophecies beginning to manifest
+
+### Character Connections
+- Scholarly interest
+- Personal involvement in events
+- Hereditary knowledge or curse

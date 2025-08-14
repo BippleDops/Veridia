@@ -1,21 +1,27 @@
+# Random_Tables - Abyssos Prime Rumor Tables
+
 ---
+title: Random Tables   Abyssos Prime Rumor Tables
+type: Lore
 tags:
-- active
-- both
-- investigation
 - lore
-- player-resource
-- random-tables
+- both
 - rumor-table
 - rumors
-type: Lore
+- investigation
+- random-tables
+- research
+- player-resource
+- active
+created: '2025-08-07'
+modified: '2025-08-14'
+status: active
 location: Abyssos Prime
 spoiler_level: Mixed truth and lies
-created: '2025-08-07'
 world: Both
 updated: '2025-08-13T01:18:37.211947+00:00'
-status: active
 ---
+
 
 
 
@@ -237,3 +243,7 @@ status: active
 ---
 
 *Remember: In Aquabyssos, even lies contain truth, and truth drowns in lies. Every rumor is a hook, every whisper a current pulling the party deeper.*
+
+## Related
+
+*Links to related content will be added here.*

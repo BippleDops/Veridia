@@ -1,18 +1,24 @@
+# Economic History of the Realms
+
 ---
-tags:
-- active
-- aquabyssos
-- currency
-- economics
-- history
-- lore
-- trade
+title: Economic History of the Realms
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- trade
+- history
+- economics
+- research
+- active
+- currency
 created: '2025-08-12'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.074953+00:00'
 ---
+
 
 
 # Economic History of the Realms
@@ -664,3 +670,8 @@ Legends speak of Economic History of the Realms as a nexus where past and presen
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

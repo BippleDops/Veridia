@@ -1,31 +1,37 @@
+# The Shadow Duchess Duel
+
 ---
+title: The Shadow Duchess Duel
+type: Group
 tags:
 - aquabyssos
-- aristocracy
-- complete
-- dueling-society
-- faction
-- group
 - honor-codes
+- faction
+- dueling-society
 - shadow-court
+- research
+- active
+- complete
+- group
+- aristocracy
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
+headquarters: '[[The Umbral Pavilion]]'
 world: Aquabyssos
-type: Group
 faction_type: Aristocratic Dueling Society
 alignment: Lawful Neutral (Honor-bound)
-headquarters: '[[The Umbral Pavilion]]'
 leader: '[[Shadow Duchess Lysandra Voidgrace]]'
 members: ~75 active duelists, ~300 affiliates
 influence: High Society, Shadow Court
 purpose: Maintain honor through formal combat
 created_by: auto-stub
-created: '2025-08-08'
-modified: 2025-08-11 - Category/Group
 MyContainer: Shadow Society
 MyCategory: Honor Society
 obsidianUIMode: preview
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-duchess-duel-the-shadow-duchess-duel.svg)
@@ -580,3 +586,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Shadow Academy Training Grounds|02 Worldbuilding/Groups/Shadow Academy Training Grounds]]
+
+
+## Related
+
+*Links to related content will be added here.*

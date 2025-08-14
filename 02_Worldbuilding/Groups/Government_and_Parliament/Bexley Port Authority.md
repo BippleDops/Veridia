@@ -1,23 +1,29 @@
 ---
-MyCategory: Unknown - Category/Group
-MyContainer: None
+title: Bexley Port Authority
 aliases: []
-created: '2025-07-23'
-modified: 2025-07-23 18:15
-obsidianUIMode: preview
-status: complete
+type: Faction
 tags:
 - both
-- complete
 - content/faction
 - faction
-- law
-- status/in-progress
+- organization
 - world/both
-type: Faction
+- law
+- active
+- complete
+- status/in-progress
+created: '2025-07-23'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
+MyCategory: Unknown - Category/Group
+MyContainer: None
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.419037+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Heraldry
@@ -65,3 +71,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Bexley]]
+
+
+## Known Members
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-depths-walker-marina-captain-depths-walker-marina.svg]]

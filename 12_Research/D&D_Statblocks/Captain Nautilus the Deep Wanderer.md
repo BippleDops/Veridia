@@ -1,25 +1,32 @@
+# Captain Nautilus the Deep Wanderer
+
 ---
+title: Captain Nautilus the Deep Wanderer
+type: NPC
 tags:
 - aquabyssos
-- complete
-- deep-mother
-- divine-servant
-- explorer
-- npc
-- person
 - pressure-adapted
+- person
+- npc
+- research
+- deep-mother
+- active
+- divine-servant
+- complete
+- explorer
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
+race: Human (Divinely Transformed)
+location: '[[The Hadal Depths|02 Worldbuilding/Places/The Hadal Depths]] - Wandering'
 world: Aquabyssos
-type: NPC
 role: Deep Mother's Explorer
 affiliation: The Deep Wanderers (Independent)
 age: Unknown (appears ageless)
-race: Human (Divinely Transformed)
-location: '[[The Hadal Depths|02 Worldbuilding/Places/The Hadal Depths]] - Wandering'
 created_by: auto-stub
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -592,3 +599,8 @@ Legends speak of Captain Nautilus the Deep Wanderer as a nexus where past and pr
 - [[The Dream Shepherds]]
 - [[The Depth Wardens]]
 - [[Harbor Master Luna Freedrift]]
+
+
+## Related
+
+*Links to related content will be added here.*

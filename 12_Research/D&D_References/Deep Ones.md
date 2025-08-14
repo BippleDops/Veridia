@@ -1,15 +1,21 @@
+# Deep Ones
+
 ---
-tags:
-- active
-- aquabyssos
-- lore
-- quest
+title: Deep Ones
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- research
+- quest
+- active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.824287+00:00'
 ---
+
 
 > [!figure] Asset
 ![[04_Resources/Assets/Locations/location-city-deep-ones-deep-ones.svg]]
@@ -45,3 +51,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Deep Ones|02 Worldbuilding/Places/Deep Ones]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,23 +1,28 @@
+# Greyhawk Beory Xdmg
+
 ---
+title: Greyhawk Beory Xdmg
 aliases:
 - Beory
-created: 2025-07-23
-cssclasses: json5e-deity
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
+- research
+- world/both
+- ttrpg-cli/deity/greyhawk
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/deity/greyhawk
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-deity
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:04.217116+00:00'
 world: Both
 ---
+
 
 
 # Beory
@@ -46,3 +51,8 @@ Legends speak of greyhawk beory xdmg as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

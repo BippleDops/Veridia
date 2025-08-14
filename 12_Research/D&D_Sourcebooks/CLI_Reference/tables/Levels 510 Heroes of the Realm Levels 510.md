@@ -1,22 +1,27 @@
+# Levels 510 Heroes of the Realm Levels 510
+
 ---
+title: Levels 510 Heroes of the Realm Levels 510
 aliases:
-- Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations
-created: 2025-07-23
-cssclasses: json5e-note
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+- "Levels 5\u201310": "Heroes of the Realm; Levels 5\u201310 Adventure Situations"
+type: note
 tags:
-- active
 - both
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:03.805818+00:00'
 world: Both
 ---
+
 
 
 # Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations
@@ -69,3 +74,8 @@ Legends speak of levels 510 heroes of the realm levels 510 adventure situations 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

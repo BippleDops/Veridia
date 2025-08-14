@@ -1,25 +1,33 @@
 ---
-MyCategory: Religious
-MyContainer: None
-created: '2025-08-12'
-created_by: auto-stub
-obsidianUIMode: preview
-status: complete
+title: The Leviathan Prophets
+type: Npc
 tags:
 - aquabyssos
-- complete
-- content/faction
-- content/npc
-- cult
-- leviathan
-- npc
-- prophecy
 - status/complete
+- cult
+- content/faction
+- npc
+- leviathan
+- content/npc
+- character
+- prophecy
+- active
+- complete
 - world/aquabyssos
-type: Npc
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
+MyCategory: Religious
+MyContainer: None
+created_by: auto-stub
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.508905+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -102,9 +110,124 @@ Members come from all social classes, united by fascination with prophecy and de
 4. Prophetic warning of imminent disaster requires immediate action
 5. Missing persons investigation leads to cult recruitment practices
 
+
+
+## Background
+
+The Leviathan Prophets's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Pursuing knowledge
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Sharp and precise
+
+**Speech Pattern**: Carefully chosen words
+
+**Physical Habits**: Gestures expressively
+
+## Current Activities
+
+The Leviathan Prophets is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: The Leviathan Prophets needs assistance with a delicate matter
+2. **The Opposition**: Someone wants The Leviathan Prophets stopped or removed
+3. **The Secret**: Information about The Leviathan Prophets's past surfaces
+4. **The Alliance**: Opportunity to work with or against The Leviathan Prophets
+5. **The Crisis**: The Leviathan Prophets is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 The Leviathan Prophets work well as mysterious quest givers whose cryptic guidance leads to adventure. Their prophecies can foreshadow campaign events or provide plot hooks. Use them to add mystical elements to political intrigue, while their potential accuracy makes them valuable but potentially dangerous allies.
 
+
+
+
+## Relationship Web
+
+- [[Captain Rex Ironhaul]]: *business partner*
+- [[04_Resources_Assets_Locations_location-city-the-dreamwhisper-inn-v1-the-dreamwhisper-inn.svg]]: *student*
 
 ## Connections
 
@@ -118,6 +241,12 @@ TODO
 
 
 ## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more withdrawn
+- **When Pleased**: Shows open joy
+- **In Conflict**: Tends toward negotiation
+
 
 
 TODO

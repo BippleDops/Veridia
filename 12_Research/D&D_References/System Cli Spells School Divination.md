@@ -1,30 +1,37 @@
+# System Cli Spells School Divination
+
 ---
-complexity: Fundamental to Cosmic
+title: System Cli Spells School Divination
+type: Lore
+tags:
+- lore
+- perception
+- status/complete
+- mechanics/magic
+- both worlds
+- content/lore
+- knowledge
+- world/both
+- research
+- prophecy
+- world/aethermoor
+- active
+- complete
+- world/aquabyssos
+- content/mechanics
+- divination
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+complexity: Fundamental to Cosmic
 created_by: auto-stub
 focus: Knowledge, Perception, and Prophecy Magic
 practitioners: Seers, scouts, oracles
 school: Divination
-status: complete
-tags:
-- both worlds
-- complete
-- content/lore
-- content/mechanics
-- divination
-- knowledge
-- lore
-- mechanics/magic
-- perception
-- prophecy
-- status/complete
-- world/aethermoor
-- world/aquabyssos
-- world/both
-type: Lore
 updated: '2025-08-13T12:34:16.081226+00:00'
 world: Both Worlds
 ---
+
 
 
 
@@ -293,3 +300,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Aethermoor]]
 - [[Parliament of Echoes]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,14 +1,20 @@
+# Pirate Lords of the Spiral Depths
+
 ---
+title: Pirate Lords of the Spiral Depths
+type: NPC
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:36.904216+00:00'
 world: Both
-type: NPC
-status: active
-tags:
-- active
-- both
-- npc
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-pirate-lords-of-the-spiral-depths-pirate-lords-of-the-spiral-depths.svg]]
@@ -45,3 +51,8 @@ Legends speak of Pirate Lords of the Spiral Depths as a nexus where past and pre
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

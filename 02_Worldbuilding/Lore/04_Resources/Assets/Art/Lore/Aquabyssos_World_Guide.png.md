@@ -1,13 +1,20 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Aquabyssos World Guide.png
+aliases:
+- Aquabyssos World Guidepng
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
+- aquabyssos
 - lore
+- needs-content
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+updated: 2025-08-14
 ---
+
 
 # 04_Resources/Assets/Art/Lore/Aquabyssos_World_Guide.png
 
@@ -24,7 +31,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Aquabyssos World Guide]]
+- [[Aquabyssos World Guide]]
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 
 ## Notes

@@ -1,27 +1,32 @@
+# Armor of Agathys Xphb
+
 ---
+title: Armor of Agathys Xphb
 aliases:
 - Armor of Agathys
-classes:
-- Paladin (Oath of Conquest)
-- Warlock
-created: 2025-07-23
-cssclasses: json5e-spell
-modified: 2025-07-23 12:39
-obsidianUIMode: preview
-status: active
+type: note
 tags:
-- active
 - both
 - content/adventure
 - mechanics/magic
+- research
+- world/both
+- active
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
-- world/both
-type: note
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+classes:
+- Paladin (Oath of Conquest)
+- Warlock
+cssclasses: json5e-spell
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:06.591345+00:00'
 world: Both
 ---
+
 
 
 # Armor of Agathys
@@ -60,3 +65,8 @@ Legends speak of armor of agathys xphb as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

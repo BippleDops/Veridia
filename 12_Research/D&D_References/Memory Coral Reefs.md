@@ -1,16 +1,22 @@
+# Memory Coral Reefs
+
 ---
-tags:
-- active
-- aquabyssos
-- complete
-- location
+title: Memory Coral Reefs
 type: Location
-world: Aquabyssos
-status: complete
+tags:
+- aquabyssos
+- research
+- active
+- location
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T12:34:13.994743+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -69,3 +75,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Lady Vivienne the Unfrozen]]
 - [[Teacher Miranda Hopekeeper]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,15 +1,23 @@
+# Chief Surgeon Dr. Coral Mindsplice
+
 ---
-tags:
-- active
-- aquabyssos
-- location
-- lore
+title: Chief Surgeon Dr. Coral Mindsplice
+aliases:
+- Chief Surgeon Dr Coral Mindsplice
 type: Lore
-world: Aquabyssos
-status: active
+tags:
+- lore
+- aquabyssos
+- research
+- active
+- location
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aquabyssos
 updated: '2025-08-13T01:18:34.847605+00:00'
 ---
+
 
 
 
@@ -47,3 +55,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Reflection Pools - Surgical Theater]]
+
+
+## Related
+
+*Links to related content will be added here.*

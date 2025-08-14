@@ -1,20 +1,27 @@
+# Religious Liturgy
+
 ---
-updated: '2025-08-13T01:18:34.755030+00:00'
-created: '2025-08-12'
-tags:
-- both
-- ceremonial
-- complete
-- cultural_reference
-- linguistics
-- liturgy
-- lore
-- religion
-status: complete
-world: Both
+title: Religious Liturgy
 type: cultural_reference
+tags:
+- cultural_reference
+- lore
+- both
+- linguistics
+- religion
+- ceremonial
+- research
+- active
+- complete
+- liturgy
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+updated: '2025-08-13T01:18:34.755030+00:00'
+world: Both
 obsidianUIMode: preview
 ---
+
 
 
 # Religious Liturgy
@@ -375,3 +382,8 @@ Legends speak of Religious Liturgy as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

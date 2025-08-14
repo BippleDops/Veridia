@@ -1,16 +1,21 @@
 ---
-created: null
-obsidianUIMode: preview
-status: complete
+title: Item Catalog Complete
+type: Lore
 tags:
-- content/item
 - index
 - status/complete
+- report
 - world/both
-type: Lore
+- active
+- content/item
+created: null
+modified: '2025-08-14'
+status: complete
+obsidianUIMode: preview
 updated: '2025-08-12T23:37:33.013373'
 world: Universal
 ---
+
 
 
 # Item Catalog Complete

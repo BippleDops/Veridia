@@ -1,23 +1,28 @@
+# Player Handout Aquabyssos Submarines
+
 ---
-audience: player
-created: '2025-08-11'
-status: complete
-tags:
-- aquabyssos
-- complete
-- handout
-- lore
-- status/complete
-- vehicles
-- world/aquabyssos
-title: Player Handout — Aquabyssos Submarines
+title: "Player Handout \u2014 Aquabyssos Submarines"
 type: Lore
-updated: '2025-08-13T12:34:32.368176+00:00'
+tags:
+- lore
+- aquabyssos
+- status/complete
+- handout
+- vehicles
+- research
+- active
+- complete
+- world/aquabyssos
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+audience: player
+updated: 2025-08-13 07:59:50.467169
 world: Aquabyssos
 timeline: current_era
 chronology: active
-updated: 2025-08-13T07:59:50.467169
 ---
+
 # Aquabyssos Submarines — Visual & Vibe Guide
 
 - Coral Leviathan: Living reef hull, bioluminescent veins, cathedral spine.
@@ -34,3 +39,8 @@ Choosing a ship affects your story: see [[Vehicles - Vehicle Core Rules]] for pi
 ## Cross-References
 
 - [[06_GM_Resources/Session_Packets/Aquabyssos Session 01]]
+
+
+## Related
+
+*Links to related content will be added here.*

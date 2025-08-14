@@ -1,14 +1,21 @@
+# Session_22_Heist_Planning
+
 ---
-created: '2025-08-13'
-status: complete
+title: Session 22 Heist Planning
+type: Session Summary
 tags:
 - player/session-summary
 - campaign/example
+- research
+- active
 - heist/planning
-type: Session Summary
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Aethermoor
 ---
+
 
 # Session 22: Heist Planning
 ## The Crystal Vault Infiltration
@@ -161,3 +168,7 @@ world: Aethermoor
 ---
 
 *Heist sessions reward planning and teamwork while testing adaptability and character skills in high-stakes situations.*
+
+## Related
+
+*Links to related content will be added here.*

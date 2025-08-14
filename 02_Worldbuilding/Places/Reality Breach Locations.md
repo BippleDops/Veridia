@@ -1,29 +1,36 @@
 ---
-created: '2025-08-12'
-created_by: claude
-status: complete
-tags:
-- combat
-- quest
-- shadow-touched
-- aerial
-- aquatic
-- both
-- complete
-- content/location
-- deep-mother
-- eldritch-horror
-- location
-- manifestation
-- reality-breach
-- status/complete
-- world/aethermoor
-- world/aquabyssos
-- world/both
+title: Reality Breach Locations
 type: Location
+tags:
+- aerial
+- eldritch-horror
+- aquatic
+- content/location
+- shadow-touched
+- status/complete
+- quest
+- manifestation
+- combat
+- location
+- world/both
+- complete
+- both
+- deep-mother
+- reality-breach
+- place
+- active
+- world/aquabyssos
+- world/aethermoor
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+created_by: claude
 updated: '2025-08-13T12:34:16.551931+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -330,6 +337,27 @@ Breach sites grow stronger and larger over time:
 
 Reality Breach Locations are areas where strange phenomena occur due to "geological instabilities" or "experimental accidents." These sites feature impossible architecture, temporal anomalies, or other reality distortions. While dangerous, they may also contain valuable information or unique opportunities. Local authorities often have these areas under investigation or quarantine, though their explanations rarely match the observed phenomena.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Breach sites work best as investigative locations that gradually reveal their true nature. Start with subtle wrongness that players can rationalize, then slowly introduce elements that can't be explained normally. Each breach should feel unique while supporting the overall Deep Mother narrative.
@@ -340,10 +368,10 @@ Remember that breaches are inherently unstable - they should feel dangerous even
 
 ## Cross-References
 
-- [[12_Research/D&D_References/Cult of the Deep Mother]]
+- [[Cult of the Deep Mother]]
 - [[Complete Deep Mother Subsystem]]
-- [[12_Research/D&D_References/Reality Anchors]]
-- [[12_Research/D&D_References/Deep Mother Lore]]
+- [[Reality Anchors]]
+- [[Deep Mother Lore]]
 - [[Shadow Corruption]]
 - [[Avatar Manifestations]]
 - [[Temporal Mechanics]]
@@ -367,3 +395,87 @@ Legends speak of Reality Breach Locations as a nexus where past and present conv
 - [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Lore/Aethermoor World Guide]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[Quest - The Pretender]]
+- [[Infrastructure Development]]
+- [[04_Resources_Assets_Portraits_portrait-npc-marcus-the-shade-blackwood-marcus-the-shade-blackwood.svg]]
+
+
+## Sensory Details
+
+**Sights**: Sunlight filters through stained glass windows
+
+**Sounds**: The constant murmur of conversation fills the air
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of Reality Breach Locations
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Inhabitants
+
+### Demographics
+- Primary population groups
+- Minority communities
+- Transient populations
+
+### Notable Residents
+- [[Local Leader]] - Governs the area
+- [[Prominent Merchant]] - Economic influence
+- [[Mysterious Figure]] - Subject of local interest
+
+
+## History
+
+### Founding
+Reality Breach Locations was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Reality Breach Locations:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Reality Breach Locations
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

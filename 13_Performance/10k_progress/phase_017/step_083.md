@@ -1,9 +1,16 @@
 ---
+title: step 083
+type: report
+tags:
+- active
+- report
 created: 2025-08-14
+modified: '2025-08-14'
 phase: 17
 step: 83
 total_step: 1683
 ---
+
 
 # Phase 17 - Step 83
 

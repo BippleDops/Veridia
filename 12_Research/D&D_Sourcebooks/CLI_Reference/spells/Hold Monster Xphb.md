@@ -1,6 +1,25 @@
+# Hold Monster Xphb
+
 ---
+title: Hold Monster Xphb
 aliases:
 - Hold Monster
+type: monster
+tags:
+- both
+- world/aquabyssos
+- mechanics/magic
+- monster
+- research
+- world/both
+- active
+- campaign/arc
+- status/in-progress
+- importance/core
+- ttrpg-cli/compendium/src/5e/xphb
+created: null
+modified: '2025-08-14'
+status: active
 classes:
 - Bard
 - Cleric (War Domain)
@@ -11,25 +30,12 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-created: null
 cssclasses: json5e-spell
 obsidian-u-i-mode: preview
-status: active
-tags:
-- active
-- both
-- campaign/arc
-- importance/core
-- mechanics/magic
-- monster
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-- world/aquabyssos
-- world/both
-type: monster
 updated: '2025-08-13T12:34:06.204985+00:00'
 world: Both
 ---
+
 
 
 # Hold Monster
@@ -68,3 +74,8 @@ Legends speak of hold monster xphb as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

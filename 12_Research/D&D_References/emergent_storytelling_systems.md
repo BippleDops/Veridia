@@ -1,3 +1,15 @@
+# emergent_storytelling_systems
+
+---
+title: emergent storytelling systems
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Emergent Storytelling Systems
 
 ## Creating Narrative Depth Through Systematic Emergence
@@ -152,3 +164,7 @@ Effective emergent storytelling shows:
 - **World Vitality**: The setting feels alive and responsive to player actions
 
 *Research methodology: Emergent narrative theory, 134 campaign story analysis, player investment measurement*
+
+## Related
+
+*Links to related content will be added here.*

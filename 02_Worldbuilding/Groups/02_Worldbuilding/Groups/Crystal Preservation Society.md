@@ -1,13 +1,23 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Crystal Preservation Society
 type: faction
-status: placeholder
 tags:
 - placeholder
 - needs-content
 - faction
+- organization
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+headquarters: Unknown
+membership: Unknown
+updated: 2025-08-14
 ---
+
+![02_Worldbuilding/Groups/Crystal Preservation Society](../../../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_crystal_preservation_society.png)
+
+
 
 # 02_Worldbuilding/Groups/Crystal Preservation Society
 
@@ -24,7 +34,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Crystal Caverns]]
+- [[Crystal Caverns]]
 - [[02_Worldbuilding/Places/Crystal Caverns]]
 
 ## Notes

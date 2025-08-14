@@ -1,25 +1,33 @@
+# The Emerald Sage Willowbark
+
 ---
+title: The Emerald Sage Willowbark
+type: NPC
 tags:
-- aethermoor
-- complete
-- druid
-- emerald-shard
-- nature-guardian
-- npc
 - person
 - seven-shards
+- nature-guardian
+- npc
+- research
+- emerald-shard
+- active
+- druid
+- complete
+- aethermoor
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
+race: Half-Dryad (Shard-fused)
+location: '[[The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]] - Heart
+  Tree Grove'
 world: Aethermoor
-type: NPC
 role: Shard-Bonded Druid
 affiliation: '[[The Verdant Accord]] & The Heart Tree'
 age: Unknown (appears ancient)
-race: Half-Dryad (Shard-fused)
-location: '[[The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]] - Heart Tree Grove'
 created_by: auto-stub
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-emerald-sage-willowbark-the-emerald-sage-willowbark.svg]]
@@ -464,3 +472,8 @@ Legends speak of The Emerald Sage Willowbark as a nexus where past and present c
 - [[The Emerald Sage Willowbark|02 Worldbuilding/People/The Emerald Sage Willowbark]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

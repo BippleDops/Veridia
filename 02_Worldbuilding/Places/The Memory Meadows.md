@@ -1,18 +1,25 @@
 ---
-created: '2025-08-11'
-danger_level: Moderate
-status: complete
+title: The Memory Meadows
+type: Location
 tags:
 - both
-- complete
-- content/location
-- location
-- status/in-progress
 - world/both
-type: Location
+- content/location
+- place
+- active
+- location
+- complete
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
+danger_level: Moderate
 updated: '2025-08-13T12:34:17.019328+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View
@@ -113,6 +120,27 @@ Hidden within the meadows is an archive containing objects that no one remembers
 ### The First Forgetting
 Legends speak of the original memory that started the meadows—the moment the universe forgot something so fundamental that it created this space to preserve what was lost.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 ### Running the Meadows
@@ -198,3 +226,72 @@ Legends speak of The Memory Meadows as a nexus where past and present converge. 
 - [[The Memory Meadows]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- [[Ice Kingdom Spirits]]
+
+## Trade Routes
+
+- [[Countess Marina Stormcrest]]
+- [[04_Resources_Assets_Locations_location-city-political-intrigue-of-meridian-v1-political-intrigue-of-meridian.svg]]
+- [[04_Resources_Assets_Locations_location-city-coral-vortextrader-v1-coral-vortextrader.svg]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: The clang of hammer on anvil rings from the smithy
+
+**Smells**: Wood smoke curls from countless chimneys
+
+
+## Description
+
+The Memory Meadows is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## Notable Features
+
+### Landmarks
+- **Central Structure**: The defining feature of The Memory Meadows
+- **Secondary Sites**: Supporting locations of interest
+- **Natural Features**: Geographic elements of note
+
+### Districts/Areas
+- Commercial quarter
+- Residential areas
+- Administrative center
+- Special purpose zones
+
+
+## Current Events
+
+Ongoing situations affecting The Memory Meadows:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about The Memory Meadows
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

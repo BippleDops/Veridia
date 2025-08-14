@@ -1,15 +1,22 @@
+# The Senator's Last Stand
+
 ---
+title: The Senator's Last Stand
+type: Lore
 tags:
+- lore
 - aquabyssos
 - completed
 - deep_mother
-- event
 - heroic_sacrifice
-- historical_event
-- lore
+- event
+- research
 - political_corruption
+- active
+- historical_event
+created: '2025-08-11'
+modified: '2025-08-14'
 status: completed
-type: Lore
 world: aquabyssos
 connections:
 - '[[Senator Glaucus]]'
@@ -22,9 +29,9 @@ themes:
 - political_sacrifice
 - cosmic_horror_infiltration
 - heroic_final_act
-created: '2025-08-11'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 
@@ -197,3 +204,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Deep Mother]]
 - [[Aethermoor]]
 - [[Parliament of Echoes]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,14 +1,21 @@
+# Session_25_Diplomacy_Example
+
 ---
-created: '2025-08-13'
-status: complete
+title: Session 25 Diplomacy Example
+type: Session Summary
 tags:
+- diplomacy/negotiation
 - player/session-summary
 - campaign/example
-- diplomacy/negotiation
-type: Session Summary
+- research
+- active
+created: '2025-08-13'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13'
 world: Both
 ---
+
 
 # Session 25: Diplomacy Example
 ## The Cross-Realm Peace Summit
@@ -188,3 +195,7 @@ Tensions between Aquabyssos and Aethermoor reached breaking point when each real
 ---
 
 *Diplomatic sessions reward social skills and strategic thinking while advancing campaign goals through negotiation rather than combat.*
+
+## Related
+
+*Links to related content will be added here.*

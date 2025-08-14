@@ -1,26 +1,33 @@
 ---
+title: Keeper Elara Moonwhisper
+type: Location
+tags:
+- library
+- status/complete
+- mechanics/magic
+- knowledge
+- content/location
+- place
+- world/aethermoor
+- campaign/arc
+- location
+- complete
+- active
+- aethermoor
+created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+region: Unknown
+population: Unknown
 MyCategory: Archive Facility
 MyContainer: None
-created: '2025-08-12'
 created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
-status: complete
-tags:
-- aethermoor
-- campaign/arc
-- complete
-- content/location
-- knowledge
-- library
-- location
-- mechanics/magic
-- status/complete
-- world/aethermoor
-type: Location
 updated: '2025-08-13T12:34:17.191819+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View
@@ -433,6 +440,27 @@ Legends speak of Keeper Elara Moonwhisper as a nexus where past and present conv
 - An NPC seeks discreet help at Keeper Elara Moonwhisper to avert a public scandal.
 - A map overlay reveals a hidden approach to Keeper Elara Moonwhisper active only during specific tides/storms.
 
+
+
+## Map Notes
+
+### Key Locations
+1. Main entrance/approach
+2. Central gathering area
+3. Important buildings/features
+4. Defensive positions (if applicable)
+5. Hidden or secret areas
+
+### Travel Times
+- To nearest settlement: varies
+- To regional capital: varies
+- To nearest port/trade route: varies
+
+### Dangers
+- Environmental hazards
+- Hostile creatures
+- Political tensions
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -442,3 +470,70 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Keeper Elara Moonwhisper]]
 
 <!-- enriched: true -->
+
+
+## Notable Residents
+
+- Various citizens and travelers
+
+## Trade Routes
+
+- [[04_Resources_Assets_Locations_location-city-gem-deepseeker-v1-gem-deepseeker.svg]]
+- [[04_Resources_Assets_Locations_location-city-clara-truthscale-v1-clara-truthscale.svg]]
+- [[Pressure Technology]]
+
+
+## Sensory Details
+
+**Sights**: Shadows dance across weathered stone walls
+
+**Sounds**: Merchants hawk their wares with practiced calls
+
+**Smells**: The tang of salt air permeates everything
+
+
+## Description
+
+Keeper Elara Moonwhisper is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+
+**Type**: Settlement/Landmark/Region
+**Size**: Appropriate to location type
+**Population**: Varies by type
+**Governance**: Local authority structure
+
+
+## History
+
+### Founding
+Keeper Elara Moonwhisper was established in the distant past, growing from humble beginnings to its current state.
+
+### Major Events
+- **The Foundation**: Original establishment
+- **The Growth**: Period of expansion
+- **The Crisis**: Defining challenge
+- **The Modern Era**: Current situation
+
+
+## Current Events
+
+Ongoing situations affecting Keeper Elara Moonwhisper:
+
+- Political developments
+- Economic conditions
+- Social movements
+- External threats
+- Opportunities arising
+
+
+## Secrets & Rumors
+
+### Common Knowledge
+- What everyone knows about Keeper Elara Moonwhisper
+
+### Whispered Rumors
+- Stories that may or may not be true
+
+### Hidden Truths
+- Secrets known only to a few
+- Ancient mysteries
+- Concealed dangers

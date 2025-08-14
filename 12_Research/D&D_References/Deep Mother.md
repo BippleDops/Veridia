@@ -1,23 +1,30 @@
+# Deep Mother
+
 ---
+title: Deep Mother
+type: Lore
 tags:
-- aquabyssos
-- complete
-- cosmic-entity
-- creation-myth
-- deity
-- dreams
 - lore
+- aquabyssos
+- cosmic-entity
+- dreams
+- deity
 - primordial
+- research
 - shadows
+- active
+- complete
+- creation-myth
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Lore
 category: Divine Entity
 significance: Primary Deity
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] Scene

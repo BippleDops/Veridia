@@ -1,25 +1,33 @@
 ---
-MyCategory: Events
-MyContainer: None
-created: '2025-08-11'
-created_by: auto-stub
-obsidianUIMode: preview
-status: complete
+title: The Stolen Anvil
+type: Npc
 tags:
-- anvil
 - aquabyssos
-- complete
-- content/lore
-- content/npc
-- crafting
-- npc
 - status/complete
 - theft
+- anvil
+- npc
+- content/lore
+- character
+- content/npc
+- crafting
+- active
+- complete
 - world/aquabyssos
-type: Npc
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+race: Unknown
+class: Unknown
+location: Unknown
+MyCategory: Events
+MyContainer: None
+created_by: auto-stub
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.587802+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait
@@ -107,9 +115,134 @@ The Stolen Anvil incident involves the theft of the legendary Deepforge Anvil, a
 ## Long-term Implications
 Without the anvil's return, Aquabyssos may lose its reputation as premier underwater crafting center. Economic decline could affect the entire region while crafting knowledge is lost to future generations.
 
+
+
+## Background
+
+The Stolen Anvil's path to their current position involved:
+
+- **Early Life**: Formative experiences that shaped their worldview
+- **Training**: Specialized education in their field
+- **Key Events**: Defining moments that set their course
+- **Rise to Position**: How they achieved their current status
+
+
+
+## Abilities
+
+### Combat (if applicable)
+- **AC**: 12 + relevant modifiers
+- **HP**: Appropriate to challenge rating
+- **Attacks**: Standard for their role
+
+### Special Abilities
+- Expertise in their professional field
+- Leadership or influence capabilities
+- Unique skills or knowledge
+
+
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+## Motivations
+
+**Primary Goal**: Discovering truth
+
+**Secondary Objectives**:
+- Maintain their position and influence
+- Advance their organization's interests
+- Personal advancement or satisfaction
+
+
+
+## Secrets
+
+The Stolen Anvil harbors secrets that could change everything:
+
+- **Public Secret**: Something widely suspected but unproven
+- **Private Secret**: Known only to a trusted few
+- **Deep Secret**: Secret alliance
+
+
+
+
+
+## Voice & Mannerisms
+
+**Voice**: Sharp and precise
+
+**Speech Pattern**: Casual and relaxed
+
+**Physical Habits**: Remains perfectly still
+
+## Current Activities
+
+The Stolen Anvil is currently engaged in:
+
+- Managing their regular responsibilities
+- Pursuing a specific objective
+- Dealing with recent developments
+- Planning future operations
+
+
+
+## Plot Hooks
+
+1. **The Request**: The Stolen Anvil needs assistance with a delicate matter
+2. **The Opposition**: Someone wants The Stolen Anvil stopped or removed
+3. **The Secret**: Information about The Stolen Anvil's past surfaces
+4. **The Alliance**: Opportunity to work with or against The Stolen Anvil
+5. **The Crisis**: The Stolen Anvil is caught in a situation requiring intervention
+
+
+
+## Notable Quotes
+
+> "Every challenge is an opportunity in disguise."
+
+> "Trust is earned through action, not words."
+
+> "The path forward is rarely the easiest one."
+
+
+
+## Statistics (D&D 5e)
+
+```statblock
+name: ---
+size: Medium
+type: Humanoid
+alignment: Neutral
+ac: 12
+hp: 22 (4d8 + 4)
+speed: 30 ft.
+str: 10
+dex: 14
+con: 12
+int: 14
+wis: 13
+cha: 15
+skills: Relevant +4
+senses: Passive Perception 11
+languages: Common
+cr: 1/4
+```
+
 ## DM Notes
 The Stolen Anvil provides excellent motivation for retrieval quests, investigation adventures, or economic intrigue. The theft's impact creates ongoing consequences affecting equipment availability and NPC attitudes toward the party's crafting needs.
 
+
+
+
+## Relationship Web
+
+- [[04_Resources_Assets_Locations_location-city-the-crystal-cathedral-of-pure-light-v1-the-crystal-cathedral-of-pure-light.svg]]: *secret ally*
+- [[04_Resources_Assets_Locations_location-city-ghost-of-dr-thaddeus-brightwater-ghost-of-dr-thaddeus-brightwater.svg]]: *student*
 
 ## Connections
 
@@ -123,6 +256,12 @@ TODO
 
 
 ## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more withdrawn
+- **When Pleased**: Shows quiet pride
+- **In Conflict**: Tends toward confrontation
+
 
 
 TODO

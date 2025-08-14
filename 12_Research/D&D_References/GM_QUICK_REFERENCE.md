@@ -1,3 +1,15 @@
+# GM_QUICK_REFERENCE
+
+---
+title: GM QUICK REFERENCE
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # GM QUICK REFERENCE GUIDE
 
 **Version**: 1.0 | **Updated**: August 13, 2025  
@@ -563,3 +575,7 @@ python scripts/content_validator.py --vault-path . report
 **Print-Friendly**: Yes  
 **Last Updated**: August 13, 2025  
 **Version**: 1.0
+
+## Related
+
+*Links to related content will be added here.*

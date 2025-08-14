@@ -1,3 +1,15 @@
+# sensory_immersion_techniques
+
+---
+title: sensory immersion techniques
+type: research
+tags:
+- active
+- research
+created: '2025-08-14'
+modified: '2025-08-14'
+---
+
 # Sensory Immersion Techniques
 
 ## Environmental Storytelling Through Senses
@@ -69,3 +81,7 @@ atmospheric_tags: ["pressure", "isolation", "corruption", "beauty"]
 ```
 
 *Research basis: Neurological studies on memory formation and 50+ player interviews*
+
+## Related
+
+*Links to related content will be added here.*

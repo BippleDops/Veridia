@@ -1,23 +1,30 @@
+# Admiral Thorne Blackwater
+
 ---
-tags:
-- both
-- category/people
-- complete
-- depth_wardens
-- leader
-- military
-- npc
+title: Admiral Thorne Blackwater
 aliases:
 - Admiral Blackwater
 - The Iron Admiral
 - Thorne
+type: NPC
+tags:
+- both
+- depth_wardens
+- leader
+- military
+- npc
+- research
+- active
+- complete
+- category/people
 created: '2024-12-19'
-image: 04_Resources/Assets/NPCs/thorne_blackwater.jpg
-level: 17
-class: Fighter/Ranger
-race: Pressure-Adapted Human
-alignment: Lawful Neutral
+modified: '2025-08-14'
 status: complete
+race: Pressure-Adapted Human
+class: Fighter/Ranger
+level: 17
+image: 04_Resources/Assets/NPCs/thorne_blackwater.jpg
+alignment: Lawful Neutral
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
@@ -37,8 +44,8 @@ current_hp: 15
 max_hp: 20
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
-type: NPC
 ---
+
 
 
 > [!figure] Portrait
@@ -451,3 +458,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Spymaster Crow]]
 - [[The Deepmind]]
 - [[The Hadal Depths]]
+
+
+## Related
+
+*Links to related content will be added here.*

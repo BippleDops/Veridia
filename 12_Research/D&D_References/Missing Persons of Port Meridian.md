@@ -1,20 +1,27 @@
+# Missing Persons of Port Meridian
+
 ---
+title: Missing Persons of Port Meridian
+type: Location
 tags:
-- aethermoor
+- missing-persons
+- investigation
+- quest
+- research
+- active
+- location
 - complete
 - conspiracy
-- investigation
-- location
-- missing-persons
-- quest
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Location
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-13T01:18:36.499039+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -169,3 +176,8 @@ Legends speak of Missing Persons of Port Meridian as a nexus where past and pres
 - [[Missing Persons of Port Meridian|02 Worldbuilding/Places/Missing Persons Of Port Meridian]]
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

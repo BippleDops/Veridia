@@ -1,14 +1,20 @@
+# Lord Admiral Gaius Windcutter
+
 ---
-tags:
-- active
-- both
-- npc
+title: Lord Admiral Gaius Windcutter
 type: NPC
-world: Both
-status: active
+tags:
+- both
+- active
+- npc
+- research
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Both
 updated: '2025-08-13T01:18:36.951837+00:00'
 ---
+
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-lord-admiral-gaius-windcutter-lord-admiral-gaius-windcutter.svg]]
@@ -68,3 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Quest - Hearts and Minds]]
+
+
+## Related
+
+*Links to related content will be added here.*

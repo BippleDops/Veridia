@@ -1,32 +1,38 @@
 ---
+title: Captain Rodrigo Ironanchor
+type: Faction
+tags:
+- iron-fleet
+- status/complete
+- military
+- naval-force
+- content/faction
+- faction
+- organization
+- world/aethermoor
+- active
+- complete
+- mercenary
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Iron Bastion]]'
+membership: Unknown
 MyCategory: Unknown
 MyContainer: None
 alignment: Chaotic Neutral
-created: '2025-08-08'
 created_by: auto-stub
 faction_type: Naval Mercenary Fleet
-headquarters: '[[The Iron Bastion]]'
 influence: Maritime (Coastal waters and shipping lanes)
 leader: '[[Captain Rodrigo Ironanchor]]'
 members: ~1,200 sailors, marines, and support crew
 obsidianUIMode: preview
-status: complete
-tags:
-- aethermoor
-- complete
-- content/faction
-- faction
-- iron-fleet
-- mercenary
-- military
-- naval-force
-- status/complete
-- world/aethermoor
-type: Faction
 updated: '2025-08-13T12:34:17.346221+00:00'
 wealth: Substantial (mercenary contracts and salvage)
 world: Aethermoor
 ---
+
 
 
 > [!figure] Heraldry
@@ -279,3 +285,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_People_Index|Master People Index]]
+
+
+## Known Members
+
+- [[Captain Lyanna Brightshield]]

@@ -1,6 +1,24 @@
+# Dust Devil Xge
+
 ---
+title: Dust Devil Xge
 aliases:
 - Dust Devil
+type: note
+tags:
+- both
+- ttrpg-cli/compendium/src/5e/xge
+- mechanics/magic
+- content/lore
+- world/both
+- research
+- active
+- campaign/arc
+- note
+- status/in-progress
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
 classes:
 - Bard
 - Bard (College of Lore)
@@ -9,25 +27,12 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-created: 2025-07-23
 cssclasses: json5e-spell
-modified: 2025-07-23 12:39
 obsidianUIMode: preview
-status: active
-tags:
-- active
-- both
-- campaign/arc
-- content/lore
-- mechanics/magic
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xge
-- world/both
-type: note
 updated: '2025-08-13T12:34:06.408591+00:00'
 world: Both
 ---
+
 
 
 # Dust Devil
@@ -70,3 +75,8 @@ Legends speak of dust devil xge as a nexus where past and present converge. Loca
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

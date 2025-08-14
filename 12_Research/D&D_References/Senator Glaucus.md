@@ -1,24 +1,31 @@
+# Senator Glaucus
+
 ---
+title: Senator
+type: NPC
 tags:
-- active
 - aquabyssos
 - both
-- npc
-- parliament
 - shadow-replaced
+- npc
+- research
+- active
+- parliament
+created: '2025-08-07'
+modified: '2025-08-14'
+status: active
+race: Human (Shadow)
+class: Noble
+location: '[[Abyssos Prime - Parliament of Echoes]]'
+level: 7
 first_name: Glaucus
 last_name: Tidecaller
-title: Senator
-location: '[[Abyssos Prime - Parliament of Echoes]]'
 faction: '[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
 secondary_faction: '[[Shadow Conspiracy]]'
 occupation: Senator (Shadow-replaced)
 disposition: -2
 alignment: Lawful Evil
-race: Human (Shadow)
 original_race: Human
-class: Noble
-level: 7
 ac: 15
 max_hp: 52
 current_hp: 52
@@ -53,13 +60,11 @@ secrets:
 - Reports directly to Shadow Duchess Nyx
 - Knows location of shadow transformation facility
 - Original Glaucus still alive but imprisoned
-created: '2025-08-07'
 updated: '2025-08-13T01:18:37.013844+00:00'
 obsidianUIMode: preview
 world: Both
-status: active
-type: NPC
 ---
+
 
 
 
@@ -302,3 +307,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Reflection Pools]]
 - [[Shadow Citizenship Act]]
 - [[Tenebrarum]]
+
+
+## Related
+
+*Links to related content will be added here.*

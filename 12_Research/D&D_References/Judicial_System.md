@@ -1,15 +1,21 @@
+# Judicial_System
+
 ---
+title: Judicial System
+type: Lore
 tags:
+- lore
+- faction
+- research
 - active
 - aethermoor
-- faction
-- lore
-type: Lore
-world: Aethermoor
-status: active
 created: '2025-08-11'
+modified: '2025-08-14'
+status: active
+world: Aethermoor
 updated: '2025-08-13T01:18:34.735402+00:00'
 ---
+
 
 
 
@@ -37,3 +43,8 @@ Legends speak of Judicial System 2 as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

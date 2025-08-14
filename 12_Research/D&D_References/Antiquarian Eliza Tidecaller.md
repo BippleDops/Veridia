@@ -1,24 +1,31 @@
+# Antiquarian Eliza Tidecaller
+
 ---
+title: Antiquarian Eliza Tidecaller
+type: Location
 tags:
-- antiquarian
 - aquabyssos
-- artifacts
-- collection
-- complete
+- antiquarian
 - deep-sea-treasures
-- location
+- artifacts
 - ocean-relics
+- research
+- collection
+- active
+- location
+- complete
+created: '2025-08-11'
+modified: '2025-08-14'
 status: complete
 world: Aquabyssos
-type: Location
 created_by: auto-stub
-created: '2025-08-11'
 MyContainer: None
 MyCategory: Antiquarian Shop
 obsidianUIMode: preview
 updated: '2025-08-11T00:00:00+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-antiquarian-eliza-tidecaller-antiquarian-eliza-tidecaller.svg]]
@@ -434,3 +441,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 riched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

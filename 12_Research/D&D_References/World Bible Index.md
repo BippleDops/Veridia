@@ -1,25 +1,31 @@
+# World Bible Index
+
 ---
+title: World Bible Index
+type: Lore
+tags:
+- lore
+- both
+- index
+- status/complete
+- content/lore
+- world/both
+- research
+- active
+- comprehensive
+- complete
+- reference
+- world-bible
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 cssclasses:
 - wide-page
 - index-page
-status: complete
-tags:
-- both
-- complete
-- comprehensive
-- content/lore
-- index
-- lore
-- reference
-- status/complete
-- world-bible
-- world/both
-title: World Bible Index
-type: Lore
 updated: '2025-08-13T12:34:03.173748+00:00'
 world: Both
 ---
+
 
 
 
@@ -272,3 +278,7 @@ LIMIT 10
 ---
 
 *"Two worlds, seven shards, one truth: Everything is connected."*
+
+## Related
+
+*Links to related content will be added here.*

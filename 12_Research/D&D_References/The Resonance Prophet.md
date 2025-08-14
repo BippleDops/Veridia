@@ -1,27 +1,33 @@
+# The Resonance Prophet
+
 ---
+title: The Resonance Prophet
+type: NPC
 tags:
-- active
 - aquabyssos
 - both
 - crystallium
 - major
 - npc
+- research
+- active
 - prophet
-npc_type: Continental Leader
+created: 2025-08-07 - Category/People
+modified: '2025-08-14'
+status: Active
 location:
 - - Crystallium
+npc_type: Continental Leader
 faction:
 - - The Harmony Collective
 disposition: -2
-status: Active
-created: 2025-08-07 - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
-type: NPC
 ---
+
 
 
 > [!figure] Portrait
@@ -285,3 +291,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Sorrowmaster]]
+
+
+## Related
+
+*Links to related content will be added here.*

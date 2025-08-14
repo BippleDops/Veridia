@@ -1,24 +1,30 @@
+# Coverage Dashboard
+
 ---
+title: Content Coverage Dashboard
+type: Lore
+tags:
+- lore
+- both
+- index
+- status/complete
+- performance
+- statistics
+- research
+- world/both
+- coverage
+- active
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 cssclasses:
 - wide-page
 - index-page
-status: complete
-tags:
-- both
-- complete
-- coverage
-- index
-- lore
-- performance
-- statistics
-- status/complete
-- world/both
-title: Content Coverage Dashboard
-type: Lore
 updated: '2025-08-13T12:34:03.171639+00:00'
 world: Both
 ---
+
 
 
 
@@ -187,3 +193,7 @@ At current rate (40-60 files/session):
 
 *Dashboard refreshes automatically with Dataview*
 *Last structural update: {{date:YYYY-MM-DD}}*
+
+## Related
+
+*Links to related content will be added here.*

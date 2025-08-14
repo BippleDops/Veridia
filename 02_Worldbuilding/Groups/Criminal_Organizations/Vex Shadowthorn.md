@@ -1,27 +1,33 @@
 ---
-alignment: Chaotic Evil
+title: Vex Shadowthorn
+type: Faction
+tags:
+- status/complete
+- mechanics/magic
+- content/faction
+- faction
+- organization
+- world/aethermoor
+- active
+- smuggling
+- complete
+- aethermoor
 created: '2025-08-08'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Thorned Sanctuary]] (Hidden)'
+membership: Unknown
+alignment: Chaotic Evil
 created_by: auto-stub
 faction_type: Criminal Syndicate
-headquarters: '[[The Thorned Sanctuary]] (Hidden)'
 influence: Major (Underground)
 leader: '[[Vex Shadowthorn the Kingpin]]'
 members: ~800 criminals, smugglers, and shadow-touched
 purpose: Control criminal activities and exploit shadow corruption
-status: complete
-tags:
-- aethermoor
-- complete
-- content/faction
-- faction
-- mechanics/magic
-- smuggling
-- status/complete
-- world/aethermoor
-type: Faction
 updated: '2025-08-13T12:34:17.394863+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Heraldry

@@ -1,22 +1,28 @@
+# Crimson Hand Apprentices
+
 ---
+title: Crimson Hand Apprentices
+type: Lore
 tags:
-- aethermoor
 - apprentices
-- complete
-- corruption
-- criminal-group
-- criminal-recruitment
 - lore
-- organization
-- organized-crime
+- underground
 - street-level
 - training-program
-- underground
+- organization
+- organized-crime
+- research
+- criminal-recruitment
+- criminal-group
+- active
+- complete
+- corruption
+- aethermoor
+created: '2025-08-08'
+modified: '2025-08-14'
 status: complete
 world: Aethermoor
-type: Lore
 created_by: auto-stub
-created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 organization_type: Criminal Training Program
 scope: Regional
@@ -24,6 +30,7 @@ activity_level: Active
 membership_structure: Hierarchical Apprenticeship
 primary_activities: Recruitment and Training
 ---
+
 
 
 
@@ -396,3 +403,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Inspector Helena Truthseeker|02 Worldbuilding/Lore/Inspector Helena Truthseeker]]
 - [[Aethermoor]]
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -1,29 +1,35 @@
 ---
-alignment: Chaotic Neutral (Science over Ethics)
+title: The Shadow Crystal Synthesis
+type: Faction
+tags:
+- status/complete
+- world/aquabyssos
+- content/faction
+- faction
+- experimenters
+- synthesis
+- organization
+- both aethermoor & aquabyssos
+- active
+- complete
+- cross-realm
+- world/aethermoor
 created: '2025-08-09'
+modified: '2025-08-14'
+status: complete
+headquarters: '[[The Fusion Laboratory]] (hidden dimensional pocket)'
+membership: Unknown
+alignment: Chaotic Neutral (Science over Ethics)
 created_by: auto-stub
 faction_type: Research Collective
-headquarters: '[[The Fusion Laboratory]] (hidden dimensional pocket)'
 influence: Secretive but Growing
 leader: '[[Doctor Prism Voidweaver]]'
 members: ~150 researchers and test subjects
 purpose: Merge shadow and crystal energies
-status: complete
-tags:
-- both aethermoor & aquabyssos
-- complete
-- content/faction
-- cross-realm
-- experimenters
-- faction
-- status/complete
-- synthesis
-- world/aethermoor
-- world/aquabyssos
-type: Faction
 updated: '2025-08-13T12:34:17.365337+00:00'
 world: Both Aethermoor & Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry
@@ -469,3 +475,9 @@ Legends speak of The Shadow Crystal Synthesis as a nexus where past and present 
 - [[The Liminal Trading Company]]
 - [[The Void Watchers]]
 - [[Keeper of the Shattered Crown, Marcus Crystalvein]]
+
+
+## Known Members
+
+- [[The Crimson Sage]]
+- [[Captain Marina Shieldcurrent]]

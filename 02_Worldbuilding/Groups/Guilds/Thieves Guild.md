@@ -1,23 +1,29 @@
 ---
-MyCategory: Unknown - Category/Group
-MyContainer: None
+title: Thieves Guild
 aliases:
 - The Guild
-created: '2025-07-23'
-modified: 2025-07-23 14:30
-obsidianUIMode: preview
-status: complete
+type: Faction
 tags:
 - both
-- complete
 - content/faction
 - faction
-- status/in-progress
+- organization
 - world/both
-type: Faction
+- active
+- complete
+- status/in-progress
+created: '2025-07-23'
+modified: '2025-08-14'
+status: complete
+headquarters: Unknown
+membership: Unknown
+MyCategory: Unknown - Category/Group
+MyContainer: None
+obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.455221+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Heraldry

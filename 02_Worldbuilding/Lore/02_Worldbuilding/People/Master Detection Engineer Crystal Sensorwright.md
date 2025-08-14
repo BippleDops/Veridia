@@ -1,13 +1,22 @@
 ---
-created: 2025-08-14
-updated: 2025-08-14
+title: Master Detection Engineer Crystal Sensorwright
 type: lore
-status: placeholder
 tags:
 - placeholder
-- needs-content
 - lore
+- needs-content
+- npc
+- character
+- active
+created: 2025-08-14
+modified: '2025-08-14'
+status: placeholder
+race: Unknown
+class: Unknown
+location: Unknown
+updated: 2025-08-14
 ---
+
 
 # 02_Worldbuilding/People/Master Detection Engineer Crystal Sensorwright
 
@@ -24,7 +33,7 @@ tags:
 ## Connections
 
 ### Referenced In
-- [[12_Research/D&D_References/Crystal-Corruption-Tracking-Sheet]]
+- [[Crystal-Corruption-Tracking-Sheet]]
 - [[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]
 
 ## Notes

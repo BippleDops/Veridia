@@ -1,18 +1,25 @@
+# Quarantine Enforcement
+
 ---
-tags:
-- aquabyssos
-- complete
-- government
-- law-enforcement
-- lore
-- public-health
-- quarantine
+title: Quarantine Enforcement
 type: lore
-world: Aquabyssos
-status: complete
+tags:
+- lore
+- aquabyssos
+- quarantine
+- public-health
+- research
+- government
+- active
+- complete
+- law-enforcement
 created: '2025-08-12'
+modified: '2025-08-14'
+status: complete
+world: Aquabyssos
 updated: '2025-08-13T01:18:35.314162+00:00'
 ---
+
 
 
 # Quarantine Enforcement
@@ -554,3 +561,7 @@ Evidence suggests that enforcement corruption is being orchestrated by someone w
 - [[Crystal Plague Infected NPCs]] - Individuals affected by enforcement policies
 
 <!-- enriched: true -->
+
+## Related
+
+*Links to related content will be added here.*

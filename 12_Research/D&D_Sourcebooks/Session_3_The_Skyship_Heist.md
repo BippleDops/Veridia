@@ -1,12 +1,20 @@
+# Session_3_The_Skyship_Heist
+
 ---
+title: Session 3 The Skyship Heist
+type: research
 tags:
-- active
 - adventure-session
-- aerial-infiltration
-- aethermoor
 - levels-4-6
-- skyship-heist
+- research
+- aerial-infiltration
+- active
 - winds-of-rebellion
+- aethermoor
+- skyship-heist
+created: '2025-08-11'
+modified: '2025-08-14'
+status: active
 session_number: 3
 adventure: Winds of Rebellion
 level_range: 4-6
@@ -19,10 +27,9 @@ themes:
 - sky-vessel-combat
 - evidence-gathering
 - naval-politics
-created: '2025-08-11'
 updated: '2025-08-13T01:18:37.156991+00:00'
-status: active
 ---
+
 
 
 # Session 3: The Skyship Heist

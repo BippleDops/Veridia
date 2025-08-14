@@ -1,17 +1,23 @@
+# Vault_Self_Improvement_Engine
+
 ---
 title: Vault Self-Improvement Engine
 type: mechanics
-status: complete
 tags:
 - both
-- complete
-- mechanics
 - meta
+- mechanics
+- research
+- active
 - qa
+- complete
 created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
 updated: '2025-08-13T01:18:37.113159+00:00'
 world: Both
 ---
+
 
 
 # Vault Self-Improvement Engine
@@ -59,3 +65,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Phase_Omega_Enhanced_Index|03 Mechanics/Phase Omega Enhanced Index]]
+
+
+## Related
+
+*Links to related content will be added here.*

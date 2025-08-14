@@ -1,28 +1,35 @@
+# Oracle Nerida the Tidereader
+
 ---
+title: Oracle Nerida the Tidereader
+type: NPC
 tags:
 - aquabyssos
+- oracle
+- sea-touched
+- person
+- npc
+- research
+- mystical-advisor
+- active
 - complete
 - divination
-- mystical-advisor
-- npc
-- oracle
-- person
-- sea-touched
+created: '2025-08-09'
+modified: '2025-08-14'
 status: complete
+race: Human (Sea-Touched)
+class: Divination Wizard/Sea Domain Cleric
+location: '[[The Tidal Sanctum]] - Orbital Shrine'
+level: 15
 world: Aquabyssos
-type: NPC
 role: Oracle & Divination Specialist
 affiliation: Independent (Serves All Seekers)
 age: 67 (appears timeless)
-race: Human (Sea-Touched)
-location: '[[The Tidal Sanctum]] - Orbital Shrine'
-class: Divination Wizard/Sea Domain Cleric
-level: 15
 alignment: Neutral
 created_by: Claude
-created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 ---
+
 
 
 > [!figure] Portrait
@@ -369,3 +376,8 @@ Legends speak of Oracle Nerida the Tidereader as a nexus where past and present 
 - [[The Liminal Trading Company]]
 - [[The Depth Wardens]]
 - [[Memory Farmers]]
+
+
+## Related
+
+*Links to related content will be added here.*

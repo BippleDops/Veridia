@@ -1,12 +1,19 @@
+# Sensory_Enhancement_Template
+
 ---
+title: Sensory Enhancement Template
+type: research
+tags:
+- both
+- active
+- research
 created: null
+modified: '2025-08-14'
+status: active
 updated: '2025-08-13T01:18:31.184658+00:00'
 world: Both
-status: active
-tags:
-- active
-- both
 ---
+
 
 # Sensory Enhancement Template
 ## Comprehensive Guide for Rich Environmental Descriptions
@@ -268,3 +275,8 @@ Legends speak of Sensory Enhancement Template as a nexus where past and present 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+
+*Links to related content will be added here.*

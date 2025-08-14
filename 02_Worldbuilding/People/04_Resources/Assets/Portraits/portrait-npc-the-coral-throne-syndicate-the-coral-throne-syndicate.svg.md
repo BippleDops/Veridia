@@ -113,6 +113,13 @@ portrait-npc-the-coral-throne-syndicate-the-coral-throne-syndicate.svg's path to
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Pursuing knowledge

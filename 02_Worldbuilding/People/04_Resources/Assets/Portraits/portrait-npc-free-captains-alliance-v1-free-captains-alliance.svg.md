@@ -112,6 +112,13 @@ portrait-npc-free-captains-alliance-v1-free-captains-alliance.svg's path to thei
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Gaining power

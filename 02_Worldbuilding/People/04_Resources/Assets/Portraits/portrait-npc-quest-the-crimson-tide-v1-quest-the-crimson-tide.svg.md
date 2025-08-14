@@ -112,6 +112,13 @@ portrait-npc-quest-the-crimson-tide-v1-quest-the-crimson-tide.svg's path to thei
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Finding purpose

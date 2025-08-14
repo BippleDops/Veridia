@@ -58,6 +58,12 @@ High Priest Dagon Deepcaller is the supreme leader of [[The Leviathan Cult|02 Wo
 ## Personality
 
 ### Behavioral Patterns
+- **Under Stress**: Becomes more calculating
+- **When Pleased**: Shows open joy
+- **In Conflict**: Tends toward confrontation
+
+
+### Behavioral Patterns
 - **Under Stress**: Becomes more withdrawn
 - **When Pleased**: Shows generous spirit
 - **In Conflict**: Tends toward confrontation
@@ -295,6 +301,13 @@ High Priest Dagon Deepcaller presents a distinctive figure. Their bearing sugges
 - Those who could be swayed either way
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

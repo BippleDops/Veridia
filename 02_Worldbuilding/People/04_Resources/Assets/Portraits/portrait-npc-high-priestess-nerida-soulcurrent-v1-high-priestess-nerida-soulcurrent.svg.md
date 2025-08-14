@@ -112,6 +112,13 @@ portrait-npc-high-priestess-nerida-soulcurrent-v1-high-priestess-nerida-soulcurr
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Accumulating wealth

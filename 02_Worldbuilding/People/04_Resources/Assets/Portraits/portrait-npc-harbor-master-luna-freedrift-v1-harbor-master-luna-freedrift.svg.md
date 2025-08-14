@@ -112,6 +112,13 @@ portrait-npc-harbor-master-luna-freedrift-v1-harbor-master-luna-freedrift.svg's 
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Maintaining balance

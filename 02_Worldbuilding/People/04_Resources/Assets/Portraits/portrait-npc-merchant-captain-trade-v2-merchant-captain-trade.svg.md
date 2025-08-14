@@ -112,6 +112,13 @@ portrait-npc-merchant-captain-trade-v2-merchant-captain-trade.svg's path to thei
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Discovering truth

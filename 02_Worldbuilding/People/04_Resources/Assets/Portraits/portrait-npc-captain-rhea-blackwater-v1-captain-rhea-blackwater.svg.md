@@ -112,6 +112,13 @@ portrait-npc-captain-rhea-blackwater-v1-captain-rhea-blackwater.svg's path to th
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Accumulating wealth

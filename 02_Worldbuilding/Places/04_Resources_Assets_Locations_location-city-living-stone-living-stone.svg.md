@@ -27,6 +27,11 @@ population: Unknown
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Midday shows bustling markets, while dusk transforms the area with warm lamplight.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Mornings see bustling markets, while evening transforms the area with mysterious shadows.
 
 

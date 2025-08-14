@@ -63,3 +63,81 @@ Legends speak of War Commander Umbral Strategist 2 as a nexus where past and pre
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Members
+
+### Notable Members
+- [[Leader Name]] - Current head
+- [[Key Officer]] - Important figure
+- [[Rising Star]] - Ambitious member
+
+### Membership Requirements
+- Skills or qualities needed
+- Initiation process
+- Ongoing obligations
+
+
+## Resources
+
+### Financial
+- Funding sources
+- Wealth level
+- Economic influence
+
+### Physical Assets
+- Properties owned
+- Equipment available
+- Special resources
+
+### Human Resources
+- Member skills
+- Allies and contacts
+- Information networks
+
+
+## Operations
+
+### Regular Activities
+- Day-to-day operations
+- Revenue generation
+- Member services
+
+### Special Operations
+- Covert activities
+- Major projects
+- Crisis responses
+
+
+## Relationships
+
+### Allies
+- Aligned organizations
+- Political supporters
+- Business partners
+
+### Enemies
+- Rival organizations
+- Opposed factions
+- Active threats
+
+### Neutral Parties
+- Potential allies or enemies
+- Trade partners
+- Watching parties
+
+
+## Secrets
+
+### Open Secrets
+Things widely suspected
+
+### Hidden Truths
+- Real leadership
+- True funding sources
+- Secret objectives
+
+### Deep Mysteries
+- Ancient connections
+- Forbidden knowledge
+- Ultimate goals

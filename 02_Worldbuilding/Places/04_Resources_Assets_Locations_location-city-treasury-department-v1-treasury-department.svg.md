@@ -28,6 +28,11 @@ population: Unknown
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Dawn brings misty mornings, while dusk transforms the area with mysterious shadows.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Dawn brings shadowy alleys, while evening transforms the area with increased activity.
 
 

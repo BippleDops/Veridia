@@ -28,6 +28,11 @@ population: Unknown
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Mornings see vibrant festivals, while nightfall transforms the area with increased activity.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Midday shows vibrant festivals, while dusk transforms the area with warm lamplight.
 
 

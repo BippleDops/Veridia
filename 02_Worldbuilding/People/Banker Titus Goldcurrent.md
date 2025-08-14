@@ -132,6 +132,13 @@ Born into a modest merchant family, Titus showed early aptitude for numbers and 
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 1. **Primary**: Accumulate wealth and financial control over both realms
 2. **Secondary**: Establish a banking dynasty that will outlast him

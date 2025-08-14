@@ -114,6 +114,13 @@ portrait-npc-vanguard-captain-crystalla-shardstrike-v2-vanguard-captain-crystall
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Seeking redemption

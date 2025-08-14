@@ -314,6 +314,13 @@ When encountered in her shop "The Ethical Exchange" in [[Memory Meadows]], Valer
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations Beyond Business
 - **The Guilt Complex**: Driven by guilt over early career participation in exploitative memory harvesting
 - **The Validation Need**: Desperately wants to prove ethical memory commerce is viable

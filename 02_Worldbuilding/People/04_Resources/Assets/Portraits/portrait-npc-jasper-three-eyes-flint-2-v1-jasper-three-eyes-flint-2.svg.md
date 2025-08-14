@@ -112,6 +112,13 @@ portrait-npc-jasper-three-eyes-flint-2-v1-jasper-three-eyes-flint-2.svg's path t
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Maintaining balance

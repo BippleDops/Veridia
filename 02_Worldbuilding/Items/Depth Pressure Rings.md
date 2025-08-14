@@ -379,3 +379,31 @@ Legends speak of Depth Pressure Rings as a nexus where past and present converge
 - A map overlay reveals a hidden approach to Depth Pressure Rings active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+
+## Properties
+
+**Type**: Weapon/Armor/Wondrous Item
+**Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+**Attunement**: Required/Not Required
+**Value**: 100-10,000 gp
+
+
+## Description
+
+Depth Pressure Rings is a remarkable item of significant craftsmanship. Its appearance immediately draws attention, featuring intricate details that hint at its magical nature.
+
+
+## Mechanics
+
+### Base Properties
+- Standard item statistics
+
+### Magical Effects
+- Primary power
+- Secondary benefits
+- Activation requirements
+
+### Limitations
+- Usage restrictions
+- Recharge requirements

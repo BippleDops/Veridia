@@ -112,6 +112,13 @@ portrait-npc-marina-red-tide-coralheart-v2-marina-red-tide-coralheart.svg's path
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Discovering truth

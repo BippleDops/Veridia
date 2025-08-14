@@ -114,6 +114,13 @@ portrait-npc-quest-the-diplomatic-immunity-case-quest-the-diplomatic-immunity-ca
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Serving justice

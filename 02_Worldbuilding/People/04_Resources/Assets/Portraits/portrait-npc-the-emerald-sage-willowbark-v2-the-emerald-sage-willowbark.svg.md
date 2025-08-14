@@ -112,6 +112,13 @@ portrait-npc-the-emerald-sage-willowbark-v2-the-emerald-sage-willowbark.svg's pa
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Maintaining balance

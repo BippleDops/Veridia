@@ -112,6 +112,13 @@ portrait-npc-the-crimson-shard-guardian-v2-the-crimson-shard-guardian.svg's path
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Achieving fame

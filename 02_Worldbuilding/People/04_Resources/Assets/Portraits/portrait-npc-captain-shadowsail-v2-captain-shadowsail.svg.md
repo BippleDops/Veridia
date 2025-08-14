@@ -112,6 +112,13 @@ portrait-npc-captain-shadowsail-v2-captain-shadowsail.svg's path to their curren
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Protecting loved ones

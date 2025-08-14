@@ -115,6 +115,13 @@ portrait-npc-high-techno-priest-lumina-skyweaver-high-techno-priest-lumina-skywe
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Seeking redemption

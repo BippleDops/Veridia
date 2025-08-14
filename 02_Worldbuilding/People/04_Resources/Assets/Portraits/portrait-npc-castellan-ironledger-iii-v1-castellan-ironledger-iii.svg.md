@@ -112,6 +112,13 @@ portrait-npc-castellan-ironledger-iii-v1-castellan-ironledger-iii.svg's path to 
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Discovering truth

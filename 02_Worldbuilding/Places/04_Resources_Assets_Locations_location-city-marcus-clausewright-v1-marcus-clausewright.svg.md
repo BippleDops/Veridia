@@ -27,6 +27,11 @@ population: Unknown
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Midday shows sacred groves, while nightfall transforms the area with warm lamplight.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Midday shows misty mornings, while dusk transforms the area with quiet contemplation.
 
 

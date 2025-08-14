@@ -113,6 +113,13 @@ portrait-npc-captain-sarah-ironheart-captain-sarah-ironheart.svg's path to their
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Finding purpose

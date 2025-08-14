@@ -114,6 +114,13 @@ portrait-npc-current-lord-triton-of-house-pelagios-v1-current-lord-triton-of-hou
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Pursuing knowledge

@@ -113,6 +113,13 @@ portrait-npc-lich-queen-morwyn-the-deathless-lich-queen-morwyn-the-deathless.svg
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Gaining power

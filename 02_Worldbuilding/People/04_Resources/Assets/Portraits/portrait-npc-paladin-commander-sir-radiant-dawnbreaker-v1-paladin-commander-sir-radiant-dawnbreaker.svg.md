@@ -114,6 +114,13 @@ portrait-npc-paladin-commander-sir-radiant-dawnbreaker-v1-paladin-commander-sir-
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Gaining power

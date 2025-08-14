@@ -112,6 +112,13 @@ portrait-npc-captain-twin-reality-marsh-v1-captain-twin-reality-marsh.svg's path
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Gaining power

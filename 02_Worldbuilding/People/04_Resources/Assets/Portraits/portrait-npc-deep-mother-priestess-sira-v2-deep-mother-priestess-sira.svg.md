@@ -112,6 +112,13 @@ portrait-npc-deep-mother-priestess-sira-v2-deep-mother-priestess-sira.svg's path
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Achieving fame

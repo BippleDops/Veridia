@@ -113,6 +113,13 @@ portrait-npc-lord-marcus-shadowbane-lord-marcus-shadowbane.svg's path to their c
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Finding purpose

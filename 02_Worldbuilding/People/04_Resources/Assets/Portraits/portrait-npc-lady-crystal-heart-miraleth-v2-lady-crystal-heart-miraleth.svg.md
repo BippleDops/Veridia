@@ -112,6 +112,13 @@ portrait-npc-lady-crystal-heart-miraleth-v2-lady-crystal-heart-miraleth.svg's pa
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Pursuing knowledge

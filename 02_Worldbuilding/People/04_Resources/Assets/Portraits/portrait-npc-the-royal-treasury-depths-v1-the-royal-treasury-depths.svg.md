@@ -112,6 +112,13 @@ portrait-npc-the-royal-treasury-depths-v1-the-royal-treasury-depths.svg's path t
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Discovering truth

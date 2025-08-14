@@ -32,6 +32,12 @@ A distinguished individual whose presence commands attention. Their appearance s
 
 ### Behavioral Patterns
 - **Under Stress**: Becomes more withdrawn
+- **When Pleased**: Shows open joy
+- **In Conflict**: Tends toward confrontation
+
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more withdrawn
 - **When Pleased**: Shows generous spirit
 - **In Conflict**: Tends toward confrontation
 
@@ -111,6 +117,13 @@ Master_Artificer_Coral_Gemwright presents a distinctive figure. Their bearing su
 - **Mannerisms**: [Describe habits and gestures]
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

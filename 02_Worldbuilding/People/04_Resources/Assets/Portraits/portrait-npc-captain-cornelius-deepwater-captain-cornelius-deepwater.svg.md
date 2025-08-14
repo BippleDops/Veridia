@@ -113,6 +113,13 @@ portrait-npc-captain-cornelius-deepwater-captain-cornelius-deepwater.svg's path 
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Serving justice

@@ -227,3 +227,7 @@ modified: '2025-08-14'
 ## Related
 
 *Links to related content will be added here.*
+\n\n## Aquabyssos location prompts (2025-08-14T23:10:32Z)\n
+```json
+[]
+```

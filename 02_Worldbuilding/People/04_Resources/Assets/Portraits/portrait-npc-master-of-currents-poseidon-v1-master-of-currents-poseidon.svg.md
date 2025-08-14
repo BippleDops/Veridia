@@ -112,6 +112,13 @@ portrait-npc-master-of-currents-poseidon-v1-master-of-currents-poseidon.svg's pa
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Protecting loved ones

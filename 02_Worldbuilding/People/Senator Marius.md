@@ -150,6 +150,12 @@ TODO
 ## Personality
 
 ### Behavioral Patterns
+- **Under Stress**: Becomes more calculating
+- **When Pleased**: Shows subtle satisfaction
+- **In Conflict**: Tends toward manipulation
+
+
+### Behavioral Patterns
 - **Under Stress**: Becomes more aggressive
 - **When Pleased**: Shows open joy
 - **In Conflict**: Tends toward avoidance

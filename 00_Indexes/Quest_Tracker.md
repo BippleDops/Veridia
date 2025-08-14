@@ -1,3 +1,5 @@
+# Quest_Tracker
+
 ---
 title: Quest Tracker
 type: index
@@ -79,3 +81,8 @@ GROUP BY status
 
 ---
 *Quest tracking powered by Dataview*
+
+
+## Related
+
+*Links to related content will be added here.*

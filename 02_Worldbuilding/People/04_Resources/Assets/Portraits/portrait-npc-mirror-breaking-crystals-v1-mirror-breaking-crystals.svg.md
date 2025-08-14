@@ -112,6 +112,13 @@ portrait-npc-mirror-breaking-crystals-v1-mirror-breaking-crystals.svg's path to 
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Discovering truth

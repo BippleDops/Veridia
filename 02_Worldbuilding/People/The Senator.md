@@ -135,6 +135,12 @@ Senator Cordelia Valerius is one of Aquabyssos' most beloved and respected parli
 ## Personality
 
 ### Behavioral Patterns
+- **Under Stress**: Becomes more calculating
+- **When Pleased**: Shows quiet pride
+- **In Conflict**: Tends toward avoidance
+
+
+### Behavioral Patterns
 - **Under Stress**: Becomes more aggressive
 - **When Pleased**: Shows quiet pride
 - **In Conflict**: Tends toward avoidance
@@ -477,6 +483,13 @@ The Senator presents a distinctive figure. Their bearing suggests both competenc
 - Those who could be swayed either way
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

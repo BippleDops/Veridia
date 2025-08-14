@@ -113,6 +113,13 @@ portrait-npc-quest-the-corruption-cleansing-quest-the-corruption-cleansing.svg's
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Achieving fame

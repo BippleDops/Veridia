@@ -112,6 +112,13 @@ portrait-npc-the-siren-s-mask-v1-the-siren-s-mask.svg's path to their current po
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Finding purpose

@@ -26,6 +26,11 @@ updated: 2025-08-14
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Dawn brings quiet gardens, while evening transforms the area with quiet contemplation.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Mornings see solemn ceremonies, while nightfall transforms the area with mysterious shadows.
 
 

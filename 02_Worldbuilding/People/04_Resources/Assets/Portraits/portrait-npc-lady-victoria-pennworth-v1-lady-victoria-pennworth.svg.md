@@ -112,6 +112,13 @@ portrait-npc-lady-victoria-pennworth-v1-lady-victoria-pennworth.svg's path to th
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Maintaining balance

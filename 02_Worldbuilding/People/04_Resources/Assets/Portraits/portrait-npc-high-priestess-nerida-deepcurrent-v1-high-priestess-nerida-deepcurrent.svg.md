@@ -112,6 +112,13 @@ portrait-npc-high-priestess-nerida-deepcurrent-v1-high-priestess-nerida-deepcurr
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Accumulating wealth

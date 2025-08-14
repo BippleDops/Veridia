@@ -110,6 +110,12 @@ When shadows began gaining independence 50 years ago, Malachus realized that a s
 
 ### Behavioral Patterns
 - **Under Stress**: Becomes more calculating
+- **When Pleased**: Shows generous spirit
+- **In Conflict**: Tends toward negotiation
+
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more calculating
 - **When Pleased**: Shows quiet pride
 - **In Conflict**: Tends toward manipulation
  Fragments
@@ -381,6 +387,13 @@ The Scattered Emperor presents a distinctive figure. Their bearing suggests both
 - Unique skills or knowledge
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

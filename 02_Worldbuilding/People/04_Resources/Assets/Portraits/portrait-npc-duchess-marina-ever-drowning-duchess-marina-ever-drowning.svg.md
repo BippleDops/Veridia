@@ -114,6 +114,13 @@ portrait-npc-duchess-marina-ever-drowning-duchess-marina-ever-drowning.svg's pat
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Seeking redemption

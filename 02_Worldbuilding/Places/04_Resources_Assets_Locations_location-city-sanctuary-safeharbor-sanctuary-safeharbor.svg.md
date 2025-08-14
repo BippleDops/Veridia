@@ -28,6 +28,11 @@ population: Unknown
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Dawn brings sacred groves, while evening transforms the area with mysterious shadows.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Midday shows grand plazas, while dusk transforms the area with quiet contemplation.
 
 

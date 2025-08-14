@@ -29,6 +29,11 @@ updated: 2025-08-14
 The atmosphere of this location shifts throughout the day. Midday shows misty mornings, while nightfall transforms the area with quiet contemplation.
 
 
+### Atmosphere
+
+The atmosphere of this location shifts throughout the day. Midday shows misty mornings, while nightfall transforms the area with quiet contemplation.
+
+
 *[To be filled in]*
 
 ## Details

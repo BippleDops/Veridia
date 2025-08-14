@@ -33,6 +33,12 @@ A distinguished individual whose presence commands attention. Their appearance s
 ### Personality
 
 ### Behavioral Patterns
+- **Under Stress**: Becomes more calculating
+- **When Pleased**: Shows subtle satisfaction
+- **In Conflict**: Tends toward negotiation
+
+
+### Behavioral Patterns
 - **Under Stress**: Becomes more focused
 - **When Pleased**: Shows subtle satisfaction
 - **In Conflict**: Tends toward negotiation
@@ -113,6 +119,13 @@ Head_of_Memory_Integration_Dr._Nautilus_Depthcaller presents a distinctive figur
 - **Mannerisms**: [Describe habits and gestures]
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

@@ -28,6 +28,11 @@ population: Unknown
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Dawn brings grand plazas, while dusk transforms the area with increased activity.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Midday shows quiet gardens, while dusk transforms the area with quiet contemplation.
 
 

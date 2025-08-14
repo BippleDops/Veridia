@@ -113,6 +113,13 @@ portrait-npc-abyssos-prime-parliament-of-echoes-v2-abyssos-prime-parliament-of-e
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Protecting loved ones

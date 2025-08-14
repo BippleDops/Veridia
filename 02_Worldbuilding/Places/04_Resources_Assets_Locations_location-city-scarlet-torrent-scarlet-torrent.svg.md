@@ -27,6 +27,11 @@ population: Unknown
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Midday shows sacred groves, while evening transforms the area with warm lamplight.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Midday shows echoing halls, while evening transforms the area with increased activity.
 
 

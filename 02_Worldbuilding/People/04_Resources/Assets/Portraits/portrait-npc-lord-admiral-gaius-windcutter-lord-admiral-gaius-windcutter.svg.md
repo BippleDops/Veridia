@@ -113,6 +113,13 @@ portrait-npc-lord-admiral-gaius-windcutter-lord-admiral-gaius-windcutter.svg's p
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Achieving fame

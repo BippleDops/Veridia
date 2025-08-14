@@ -146,6 +146,13 @@ Consortium members may return as recurring villains, while Theron could become o
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Serving justice
@@ -259,6 +266,12 @@ TODO
 
 
 ## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more calculating
+- **When Pleased**: Shows generous spirit
+- **In Conflict**: Tends toward negotiation
+
 
 ### Behavioral Patterns
 - **Under Stress**: Becomes more withdrawn

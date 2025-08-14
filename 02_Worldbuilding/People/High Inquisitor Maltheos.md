@@ -209,6 +209,13 @@ High Inquisitor Maltheos leads the [[Purist Coalition]], a growing religious and
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 1. **Primary**: Eradicate crystal corruption from Aethermoor society
 2. **Secondary**: Establish religious authority over political decisions

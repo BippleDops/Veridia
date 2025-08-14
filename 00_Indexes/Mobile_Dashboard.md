@@ -1,3 +1,5 @@
+# Mobile_Dashboard
+
 ---
 title: Mobile Dashboard
 type: mobile-template
@@ -37,3 +39,8 @@ cssclass: mobile-optimized
 
 ---
 *Optimized for mobile devices*
+
+
+## Related
+
+*Links to related content will be added here.*

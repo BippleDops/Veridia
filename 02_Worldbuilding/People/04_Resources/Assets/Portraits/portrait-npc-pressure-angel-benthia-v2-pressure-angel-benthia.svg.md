@@ -112,6 +112,13 @@ portrait-npc-pressure-angel-benthia-v2-pressure-angel-benthia.svg's path to thei
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Pursuing knowledge

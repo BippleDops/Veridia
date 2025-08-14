@@ -41,6 +41,11 @@ world: Both
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Midday shows echoing halls, while nightfall transforms the area with warm lamplight.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Mornings see vibrant festivals, while evening transforms the area with quiet contemplation.
 
 The Cerulean Archipelago is a chain of tropical islands known for their beautiful beaches, lush jungles, and vibrant coral reefs. The islands are also home to many ancient ruins and hidden treasures.

@@ -27,6 +27,11 @@ population: Unknown
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Midday shows vibrant festivals, while dusk transforms the area with mysterious shadows.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Dawn brings echoing halls, while dusk transforms the area with warm lamplight.
 
 

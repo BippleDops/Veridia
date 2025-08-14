@@ -112,6 +112,13 @@ portrait-npc-fence-queen-sticky-fingers-sal-v2-fence-queen-sticky-fingers-sal.sv
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Maintaining balance

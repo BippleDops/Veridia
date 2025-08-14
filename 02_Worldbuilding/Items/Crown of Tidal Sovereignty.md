@@ -318,3 +318,31 @@ Legends speak of Crown of Tidal Sovereignty as a nexus where past and present co
 
 - [[Sister Morwyn]]
 - [[Oracle Nerida the Tidereader]]
+
+
+## Properties
+
+**Type**: Weapon/Armor/Wondrous Item
+**Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+**Attunement**: Required/Not Required
+**Value**: 100-10,000 gp
+
+
+## Description
+
+Crown of Tidal Sovereignty is a remarkable item of significant craftsmanship. Its appearance immediately draws attention, featuring intricate details that hint at its magical nature.
+
+
+## Mechanics
+
+### Base Properties
+- Standard item statistics
+
+### Magical Effects
+- Primary power
+- Secondary benefits
+- Activation requirements
+
+### Limitations
+- Usage restrictions
+- Recharge requirements

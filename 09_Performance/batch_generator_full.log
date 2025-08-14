@@ -1,0 +1,35 @@
+[2025-08-14T23:12:27.376Z] [INFO] 
+🚀 VAULT BATCH ASSET GENERATOR
+[2025-08-14T23:12:27.377Z] [INFO] ================================
+
+[2025-08-14T23:12:27.378Z] [INFO] Loaded progress: 60 assets already processed
+[2025-08-14T23:12:27.378Z] [INFO] 📂 Scanning vault for files needing assets...
+[2025-08-14T23:12:27.378Z] [INFO]   Scanning 01_Adventures...
+[2025-08-14T23:12:27.382Z] [INFO]   Scanning 02_Worldbuilding...
+[2025-08-14T23:12:27.747Z] [INFO]   Scanning 03_Mechanics...
+[2025-08-14T23:12:27.749Z] [INFO]   Scanning 06_GM_Resources...
+[2025-08-14T23:12:27.749Z] [INFO] 
+✅ Scan complete: 8749 assets to generate
+[2025-08-14T23:12:27.749Z] [INFO] 
+🎨 Starting batch generation (batch size: 10)
+[2025-08-14T23:12:27.749Z] [INFO] 
+📦 Processing batch 1 (10 assets)
+[2025-08-14T23:12:27.749Z] [INFO]   [1/10] 02_Worldbuilding/Groups/Surface Reconnection Coalition
+[2025-08-14T23:12:27.749Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Surface Reconnection Coalition
+[2025-08-14T23:12:27.750Z] [INFO]   Prompt: 02 worldbuilding/groups/surface reconnection coalition, high fantasy, medieval, magical, enchanted, ...
+[2025-08-14T23:12:33.791Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_surface_reconnection_coalition.png
+[2025-08-14T23:12:36.792Z] [INFO]   [2/10] 02_Worldbuilding/Groups/The Cloud Shepherd Guild
+[2025-08-14T23:12:36.792Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Cloud Shepherd Guild
+[2025-08-14T23:12:36.793Z] [INFO]   Prompt: 02 worldbuilding/groups/the cloud shepherd guild, high fantasy, medieval, magical, enchanted, vibran...
+[2025-08-14T23:12:42.811Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_cloud_shepherd_guild.png
+[2025-08-14T23:12:45.813Z] [INFO]   [3/10] 02_Worldbuilding/Groups/The Crimson Fleet.md
+[2025-08-14T23:12:45.813Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Crimson Fleet.md
+[2025-08-14T23:12:45.813Z] [INFO]   Prompt: 02 worldbuilding/groups/the crimson fleet.md, high fantasy, medieval, magical, enchanted, vibrant, n...
+[2025-08-14T23:12:51.825Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_crimson_fleet_md.png
+[2025-08-14T23:12:54.827Z] [INFO]   [4/10] 02_Worldbuilding/Groups/The Crimson Tide Pirates.md
+[2025-08-14T23:12:54.827Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Crimson Tide Pirates.md
+[2025-08-14T23:12:54.827Z] [INFO]   Prompt: 02 worldbuilding/groups/the crimson tide pirates.md, high fantasy, medieval, magical, enchanted, vib...
+[2025-08-14T23:13:00.844Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_crimson_tide_pirates_md.png
+[2025-08-14T23:13:03.844Z] [INFO]   [5/10] 02_Worldbuilding/Groups/The Cultural Exchange Society
+[2025-08-14T23:13:03.845Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Cultural Exchange Society
+[2025-08-14T23:13:03.845Z] [INFO]   Prompt: 02 worldbuilding/groups/the cultural exchange society, high fantasy, medieval, magical, enchanted, v...

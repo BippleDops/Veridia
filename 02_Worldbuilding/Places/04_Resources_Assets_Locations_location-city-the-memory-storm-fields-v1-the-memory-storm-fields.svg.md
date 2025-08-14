@@ -29,6 +29,11 @@ population: Unknown
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Dawn brings echoing halls, while nightfall transforms the area with mysterious shadows.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Midday shows ancient ruins, while dusk transforms the area with warm lamplight.
 
 

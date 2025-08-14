@@ -128,6 +128,13 @@ The Crimson Sage appears as a mysterious scholar researching crystal corruption 
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations (Conflicting)
 1. Restore the Crown and reclaim godhood
 2. Prevent the Crown's restoration to protect mortals

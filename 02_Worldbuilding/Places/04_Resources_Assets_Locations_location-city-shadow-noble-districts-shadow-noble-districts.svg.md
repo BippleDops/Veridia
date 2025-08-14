@@ -29,6 +29,11 @@ population: Unknown
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Midday shows quiet gardens, while evening transforms the area with warm lamplight.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Dawn brings misty mornings, while nightfall transforms the area with warm lamplight.
 
 

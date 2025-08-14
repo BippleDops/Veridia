@@ -26,6 +26,11 @@ updated: 2025-08-14
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Mornings see misty mornings, while nightfall transforms the area with increased activity.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Mornings see grand plazas, while dusk transforms the area with warm lamplight.
 
 

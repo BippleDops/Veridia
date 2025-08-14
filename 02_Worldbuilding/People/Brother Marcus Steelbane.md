@@ -142,6 +142,13 @@ Born **Marcus Ironwright** in the Forge District, he was destined to follow his 
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 1. **Primary**: Achieve perfect harmony between inner fire and spiritual peace
 2. **Secondary**: Protect the Order and its sacred sites from all threats

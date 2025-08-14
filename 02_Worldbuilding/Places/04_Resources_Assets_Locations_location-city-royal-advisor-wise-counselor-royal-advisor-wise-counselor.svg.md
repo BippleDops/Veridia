@@ -29,6 +29,11 @@ population: Unknown
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Dawn brings misty mornings, while dusk transforms the area with warm lamplight.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Mornings see misty mornings, while evening transforms the area with quiet contemplation.
 
 

@@ -112,6 +112,13 @@ portrait-npc-captain-thaddeus-blackwater-v1-captain-thaddeus-blackwater.svg's pa
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Protecting loved ones

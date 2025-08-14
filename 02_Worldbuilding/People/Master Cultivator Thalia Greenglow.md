@@ -130,6 +130,13 @@ Master Cultivator Thalia Greenglow represents one of the most extraordinary achi
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 1. **Primary**: Prove that cooperation between realms is not only possible but beneficial
 2. **Secondary**: Develop sustainable agriculture for both worlds

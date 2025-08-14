@@ -28,6 +28,11 @@ population: Unknown
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Midday shows misty mornings, while nightfall transforms the area with increased activity.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Midday shows grand plazas, while evening transforms the area with warm lamplight.
 
 

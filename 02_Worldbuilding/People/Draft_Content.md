@@ -31,6 +31,12 @@ A distinguished individual whose presence commands attention. Their appearance s
 ### Personality
 
 ### Behavioral Patterns
+- **Under Stress**: Becomes more calculating
+- **When Pleased**: Shows open joy
+- **In Conflict**: Tends toward negotiation
+
+
+### Behavioral Patterns
 - **Under Stress**: Becomes more aggressive
 - **When Pleased**: Shows quiet pride
 - **In Conflict**: Tends toward avoidance
@@ -111,6 +117,13 @@ Draft_Content presents a distinctive figure. Their bearing suggests both compete
 - **Mannerisms**: [Describe habits and gestures]
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

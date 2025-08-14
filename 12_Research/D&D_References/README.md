@@ -159,3 +159,7 @@ Cordelia world © 2024-2025
 ---
 
 *Welcome to your adventure. The dual worlds await.*
+
+## Related
+
+*Links to related content will be added here.*

@@ -288,6 +288,13 @@ When encountered in [[The Silver Tower of Commerce]] or another major business l
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations Beyond Profit
 - **Grandfather's Legacy**: Proving worthy of [[Argyros the Silver]]'s business empire
 - **Dragon Validation**: Establishing dominance in human society as dragon ancestor did

@@ -73,6 +73,12 @@ Despite his transformed state, signs of Valdric's advanced age and the terrible 
 ## Personality
 
 ### Behavioral Patterns
+- **Under Stress**: Becomes more withdrawn
+- **When Pleased**: Shows open joy
+- **In Conflict**: Tends toward manipulation
+
+
+### Behavioral Patterns
 - **Under Stress**: Becomes more aggressive
 - **When Pleased**: Shows open joy
 - **In Conflict**: Tends toward confrontation
@@ -490,6 +496,13 @@ Order of the Shattered Crown presents a distinctive figure. Their bearing sugges
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Protecting loved ones
@@ -659,6 +672,13 @@ Order of the Shattered Crown presents a distinctive figure. Their bearing sugges
 - Unique skills or knowledge
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

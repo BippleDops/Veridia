@@ -29,6 +29,11 @@ population: Unknown
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Dawn brings quiet gardens, while dusk transforms the area with quiet contemplation.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Mornings see sacred groves, while evening transforms the area with quiet contemplation.
 
 

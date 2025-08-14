@@ -220,6 +220,13 @@ A research expedition funded by [[Castellan Ironledger III]] has gone missing in
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 - Preserve the ancient ways of deep navigation
 - Protect refugees and outcasts from political persecution

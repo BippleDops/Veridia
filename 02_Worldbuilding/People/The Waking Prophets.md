@@ -152,6 +152,13 @@ The Waking Prophets's path to their current position involved:
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Maintaining balance
@@ -242,6 +249,12 @@ TODO
 ## Personality
 
 ### Behavioral Patterns
+- **Under Stress**: Becomes more calculating
+- **When Pleased**: Shows open joy
+- **In Conflict**: Tends toward avoidance
+
+
+### Behavioral Patterns
 - **Under Stress**: Becomes more focused
 - **When Pleased**: Shows subtle satisfaction
 - **In Conflict**: Tends toward negotiation
@@ -302,6 +315,13 @@ The Waking Prophets's path to their current position involved:
 - Unique skills or knowledge
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

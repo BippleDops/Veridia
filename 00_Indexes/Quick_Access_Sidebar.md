@@ -1,3 +1,5 @@
+# Quick_Access_Sidebar
+
 ---
 title: Quick Access Sidebar
 type: sidebar
@@ -100,3 +102,8 @@ LIMIT 5
 
 ---
 *Quick access sidebar for rapid navigation*
+
+
+## Related
+
+*Links to related content will be added here.*

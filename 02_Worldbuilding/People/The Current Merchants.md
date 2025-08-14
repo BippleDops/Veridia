@@ -183,6 +183,13 @@ Nereon's commercial empire includes:
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 1. **Primary**: Expand and improve the oceanic trade networks that connect all aquatic communities
 2. **Secondary**: Ensure that commerce serves the greater good by raising living standards throughout the realm

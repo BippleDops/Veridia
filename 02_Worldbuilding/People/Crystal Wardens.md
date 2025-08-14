@@ -181,6 +181,13 @@ Luminara commands an organization of 800 active Wardens plus 2,000 auxiliary mem
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 1. **Primary**: Protect all crystal formations from corruption, theft, and misuse
 2. **Secondary**: Preserve and advance the knowledge of beneficial crystal magic

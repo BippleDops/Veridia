@@ -28,6 +28,11 @@ population: Unknown
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Mornings see grand plazas, while nightfall transforms the area with mysterious shadows.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Mornings see solemn ceremonies, while evening transforms the area with quiet contemplation.
 
 

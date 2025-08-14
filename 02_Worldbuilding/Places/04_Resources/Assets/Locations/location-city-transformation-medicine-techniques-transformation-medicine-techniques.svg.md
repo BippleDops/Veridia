@@ -26,6 +26,11 @@ updated: 2025-08-14
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Midday shows solemn ceremonies, while dusk transforms the area with mysterious shadows.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Midday shows shadowy alleys, while nightfall transforms the area with mysterious shadows.
 
 

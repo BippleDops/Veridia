@@ -28,6 +28,11 @@ updated: 2025-08-14
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Midday shows shadowy alleys, while dusk transforms the area with increased activity.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Midday shows vibrant festivals, while dusk transforms the area with mysterious shadows.
 
 

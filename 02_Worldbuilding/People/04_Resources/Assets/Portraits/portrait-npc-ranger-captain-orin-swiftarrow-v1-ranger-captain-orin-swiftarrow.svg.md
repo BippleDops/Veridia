@@ -112,6 +112,13 @@ portrait-npc-ranger-captain-orin-swiftarrow-v1-ranger-captain-orin-swiftarrow.sv
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Gaining power

@@ -26,6 +26,11 @@ updated: 2025-08-14
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Mornings see vibrant festivals, while dusk transforms the area with mysterious shadows.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Dawn brings ancient ruins, while evening transforms the area with warm lamplight.
 
 

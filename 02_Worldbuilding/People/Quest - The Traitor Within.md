@@ -147,6 +147,13 @@ Recent military disasters suggest inside information reached enemy hands. Three 
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Finding purpose
@@ -255,6 +262,12 @@ TODO
 
 
 ## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more aggressive
+- **When Pleased**: Shows quiet pride
+- **In Conflict**: Tends toward confrontation
+
 
 ### Behavioral Patterns
 - **Under Stress**: Becomes more withdrawn

@@ -1,3 +1,5 @@
+# Relationship_Web
+
 ---
 title: Relationship Web
 type: index
@@ -122,3 +124,8 @@ WHERE quests-given != null OR contains(tags, "quest-giver")
 
 ---
 *Relationship tracking powered by Dataview*
+
+
+## Related
+
+*Links to related content will be added here.*

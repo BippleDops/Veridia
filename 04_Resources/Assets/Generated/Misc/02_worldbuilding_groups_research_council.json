@@ -1,0 +1,13 @@
+{
+  "title": "02_Worldbuilding/Groups/Research Council",
+  "prompt": "02 worldbuilding/groups/research council, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:09:50.934Z",
+  "sourceFile": "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Research Council.md"
+}

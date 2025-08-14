@@ -35,6 +35,12 @@ TODO
 ## Personality
 
 ### Behavioral Patterns
+- **Under Stress**: Becomes more calculating
+- **When Pleased**: Shows generous spirit
+- **In Conflict**: Tends toward avoidance
+
+
+### Behavioral Patterns
 - **Under Stress**: Becomes more withdrawn
 - **When Pleased**: Shows subtle satisfaction
 - **In Conflict**: Tends toward negotiation
@@ -94,6 +100,13 @@ Storm Empress Tempestas Maelstrom's path to their current position involved:
 - Unique skills or knowledge
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

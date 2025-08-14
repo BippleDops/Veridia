@@ -290,3 +290,71 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Known Members
 
 - [[Captain Lyanna Brightshield]]
+
+
+## Overview
+
+Captain Rodrigo Ironanchor operates as an influential organization with specific goals and methods. Their reach extends throughout their sphere of influence.
+
+**Type**: Guild/Order/Syndicate/Faction
+**Influence**: Local/Regional/Global
+**Membership**: Dozens to thousands
+**Secrecy**: Public/Semi-secret/Secret
+
+
+## Members
+
+### Notable Members
+- [[Leader Name]] - Current head
+- [[Key Officer]] - Important figure
+- [[Rising Star]] - Ambitious member
+
+### Membership Requirements
+- Skills or qualities needed
+- Initiation process
+- Ongoing obligations
+
+
+## Goals
+
+### Public Mission
+What they claim to pursue
+
+### True Objectives
+- Primary goal
+- Secondary objectives
+- Long-term vision
+
+### Current Projects
+- Active operations
+- Research efforts
+- Political maneuvers
+
+
+## Operations
+
+### Regular Activities
+- Day-to-day operations
+- Revenue generation
+- Member services
+
+### Special Operations
+- Covert activities
+- Major projects
+- Crisis responses
+
+
+## Secrets
+
+### Open Secrets
+Things widely suspected
+
+### Hidden Truths
+- Real leadership
+- True funding sources
+- Secret objectives
+
+### Deep Mysteries
+- Ancient connections
+- Forbidden knowledge
+- Ultimate goals

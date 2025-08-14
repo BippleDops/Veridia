@@ -32,6 +32,12 @@ TODO
 
 ### Behavioral Patterns
 - **Under Stress**: Becomes more aggressive
+- **When Pleased**: Shows generous spirit
+- **In Conflict**: Tends toward manipulation
+
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more aggressive
 - **When Pleased**: Shows open joy
 - **In Conflict**: Tends toward negotiation
 
@@ -90,6 +96,13 @@ Medic Captain Truewater's path to their current position involved:
 - Unique skills or knowledge
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

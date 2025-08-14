@@ -24,6 +24,11 @@ updated: 2025-08-14
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Midday shows echoing halls, while evening transforms the area with mysterious shadows.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Midday shows misty mornings, while nightfall transforms the area with quiet contemplation.
 
 

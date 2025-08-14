@@ -32,6 +32,12 @@ A distinguished individual whose presence commands attention. Their appearance s
 ### Personality
 
 ### Behavioral Patterns
+- **Under Stress**: Becomes more withdrawn
+- **When Pleased**: Shows subtle satisfaction
+- **In Conflict**: Tends toward negotiation
+
+
+### Behavioral Patterns
 - **Under Stress**: Becomes more aggressive
 - **When Pleased**: Shows generous spirit
 - **In Conflict**: Tends toward negotiation
@@ -112,6 +118,13 @@ vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_M_L-05_the_
 - **Mannerisms**: [Describe habits and gestures]
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

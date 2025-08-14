@@ -35,6 +35,12 @@ TODO
 ## Personality
 
 ### Behavioral Patterns
+- **Under Stress**: Becomes more withdrawn
+- **When Pleased**: Shows open joy
+- **In Conflict**: Tends toward negotiation
+
+
+### Behavioral Patterns
 - **Under Stress**: Becomes more aggressive
 - **When Pleased**: Shows open joy
 - **In Conflict**: Tends toward manipulation
@@ -94,6 +100,13 @@ Foreign Trader Captain Hassan al-Rimal's path to their current position involved
 - Unique skills or knowledge
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

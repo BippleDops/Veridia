@@ -189,6 +189,13 @@ Maraleth's shell hosts a complex ecosystem that serves multiple purposes:
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 1. **Primary**: Preserve all knowledge and wisdom for future generations of Aquabyssos inhabitants
 2. **Secondary**: Provide guidance that helps current leaders make decisions based on historical understanding

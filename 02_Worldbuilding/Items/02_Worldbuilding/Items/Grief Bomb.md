@@ -46,3 +46,25 @@ updated: 2025-08-14
 
 ---
 *Placeholder generated: 2025-08-14*
+
+## Properties
+
+**Type**: Weapon/Armor/Wondrous Item
+**Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+**Attunement**: Required/Not Required
+**Value**: 100-10,000 gp
+
+
+## Mechanics
+
+### Base Properties
+- Standard item statistics
+
+### Magical Effects
+- Primary power
+- Secondary benefits
+- Activation requirements
+
+### Limitations
+- Usage restrictions
+- Recharge requirements

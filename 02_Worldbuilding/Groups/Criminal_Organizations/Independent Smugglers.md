@@ -238,3 +238,63 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Groups_Index|Master Groups Index]]
+
+
+## Structure
+
+### Leadership
+- **Supreme Leader**: Ultimate authority
+- **Council/Board**: Decision makers
+- **Department Heads**: Operational leaders
+
+### Ranks
+1. Initiate level
+2. Member level
+3. Veteran level
+4. Officer level
+5. Leadership level
+
+
+## Members
+
+### Notable Members
+- [[Leader Name]] - Current head
+- [[Key Officer]] - Important figure
+- [[Rising Star]] - Ambitious member
+
+### Membership Requirements
+- Skills or qualities needed
+- Initiation process
+- Ongoing obligations
+
+
+## Goals
+
+### Public Mission
+What they claim to pursue
+
+### True Objectives
+- Primary goal
+- Secondary objectives
+- Long-term vision
+
+### Current Projects
+- Active operations
+- Research efforts
+- Political maneuvers
+
+
+## Secrets
+
+### Open Secrets
+Things widely suspected
+
+### Hidden Truths
+- Real leadership
+- True funding sources
+- Secret objectives
+
+### Deep Mysteries
+- Ancient connections
+- Forbidden knowledge
+- Ultimate goals

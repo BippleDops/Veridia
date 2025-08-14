@@ -316,3 +316,63 @@ Legends speak of Merchant Princes as a nexus where past and present converge. Lo
 - [[NPC Name 1]]
 - [[04_Resources_Assets_Symbols_symbol-heraldry-ancient-mer-folk-empire-ancient-mer-folk-empire.svg]]
 - [[04_Resources_Assets_Portraits_portrait-npc-pressure-lords-pressure-lords.svg]]
+
+
+## Structure
+
+### Leadership
+- **Supreme Leader**: Ultimate authority
+- **Council/Board**: Decision makers
+- **Department Heads**: Operational leaders
+
+### Ranks
+1. Initiate level
+2. Member level
+3. Veteran level
+4. Officer level
+5. Leadership level
+
+
+## Members
+
+### Notable Members
+- [[Leader Name]] - Current head
+- [[Key Officer]] - Important figure
+- [[Rising Star]] - Ambitious member
+
+### Membership Requirements
+- Skills or qualities needed
+- Initiation process
+- Ongoing obligations
+
+
+## Goals
+
+### Public Mission
+What they claim to pursue
+
+### True Objectives
+- Primary goal
+- Secondary objectives
+- Long-term vision
+
+### Current Projects
+- Active operations
+- Research efforts
+- Political maneuvers
+
+
+## Secrets
+
+### Open Secrets
+Things widely suspected
+
+### Hidden Truths
+- Real leadership
+- True funding sources
+- Secret objectives
+
+### Deep Mysteries
+- Ancient connections
+- Forbidden knowledge
+- Ultimate goals

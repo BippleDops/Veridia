@@ -31,6 +31,11 @@ population: Unknown
 The atmosphere of this location shifts throughout the day. Dawn brings solemn ceremonies, while dusk transforms the area with increased activity.
 
 
+### Atmosphere
+
+The atmosphere of this location shifts throughout the day. Dawn brings solemn ceremonies, while dusk transforms the area with increased activity.
+
+
 04_Resources/Assets/Locations/location-city-harbor-defense-grid-harbor-defense-grid.svg stands as a significant city in the region, serving both strategic and economic purposes. Its location provides advantages for trade, defense, and regional influence.
 
 ### Geography

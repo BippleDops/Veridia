@@ -33,6 +33,12 @@ TODO
 ### Behavioral Patterns
 - **Under Stress**: Becomes more focused
 - **When Pleased**: Shows generous spirit
+- **In Conflict**: Tends toward confrontation
+
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more focused
+- **When Pleased**: Shows generous spirit
 - **In Conflict**: Tends toward avoidance
 
 
@@ -90,6 +96,13 @@ Armor of the First Deep King's path to their current position involved:
 - Unique skills or knowledge
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

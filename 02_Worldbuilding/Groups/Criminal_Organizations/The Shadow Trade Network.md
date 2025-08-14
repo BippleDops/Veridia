@@ -595,3 +595,81 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Thieves Guild]]
 - [[Admiral Thorne Blackwater]]
 - [[Parliament of Echoes]]
+
+
+## Structure
+
+### Leadership
+- **Supreme Leader**: Ultimate authority
+- **Council/Board**: Decision makers
+- **Department Heads**: Operational leaders
+
+### Ranks
+1. Initiate level
+2. Member level
+3. Veteran level
+4. Officer level
+5. Leadership level
+
+
+## Goals
+
+### Public Mission
+What they claim to pursue
+
+### True Objectives
+- Primary goal
+- Secondary objectives
+- Long-term vision
+
+### Current Projects
+- Active operations
+- Research efforts
+- Political maneuvers
+
+
+## Resources
+
+### Financial
+- Funding sources
+- Wealth level
+- Economic influence
+
+### Physical Assets
+- Properties owned
+- Equipment available
+- Special resources
+
+### Human Resources
+- Member skills
+- Allies and contacts
+- Information networks
+
+
+## Operations
+
+### Regular Activities
+- Day-to-day operations
+- Revenue generation
+- Member services
+
+### Special Operations
+- Covert activities
+- Major projects
+- Crisis responses
+
+
+## Secrets
+
+### Open Secrets
+Things widely suspected
+
+### Hidden Truths
+- Real leadership
+- True funding sources
+- Secret objectives
+
+### Deep Mysteries
+- Ancient connections
+- Forbidden knowledge
+- Ultimate goals

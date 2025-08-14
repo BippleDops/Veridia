@@ -31,6 +31,12 @@ TODO
 ## Personality
 
 ### Behavioral Patterns
+- **Under Stress**: Becomes more aggressive
+- **When Pleased**: Shows quiet pride
+- **In Conflict**: Tends toward avoidance
+
+
+### Behavioral Patterns
 - **Under Stress**: Becomes more focused
 - **When Pleased**: Shows open joy
 - **In Conflict**: Tends toward negotiation
@@ -90,6 +96,13 @@ Crystalhaven Envoy Lord Reginald Brightspire's path to their current position in
 - Unique skills or knowledge
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

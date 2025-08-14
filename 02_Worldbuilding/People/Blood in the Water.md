@@ -123,6 +123,13 @@ Blood in the Water's path to their current position involved:
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Seeking redemption
@@ -232,6 +239,12 @@ TODO
 
 
 ## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more withdrawn
+- **When Pleased**: Shows quiet pride
+- **In Conflict**: Tends toward negotiation
+
 
 ### Behavioral Patterns
 - **Under Stress**: Becomes more focused

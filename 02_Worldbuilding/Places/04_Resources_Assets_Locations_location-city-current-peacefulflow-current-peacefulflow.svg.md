@@ -30,6 +30,11 @@ population: Unknown
 The atmosphere of this location shifts throughout the day. Midday shows ancient ruins, while evening transforms the area with quiet contemplation.
 
 
+### Atmosphere
+
+The atmosphere of this location shifts throughout the day. Midday shows ancient ruins, while evening transforms the area with quiet contemplation.
+
+
 04_Resources/Assets/Locations/location-city-current-peacefulflow-current-peacefulflow.svg stands as a significant city in the region, serving both strategic and economic purposes. Its location provides advantages for trade, defense, and regional influence.
 
 ### Geography

@@ -145,6 +145,13 @@ Operating from the deep political currents of [[Abyssos Prime]], he leads a soph
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 1. **Primary**: Restore imperial unity to create peace and prosperity for all depth-dwellers
 2. **Secondary**: Honor his bloodline and the memory of Emperor Thalassius the Wise

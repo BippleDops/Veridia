@@ -277,6 +277,13 @@ Vex Shadowthorn controls [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whi
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 1. **Primary**: Absolute control over crystal trade
 2. **Secondary**: Overthrow current government

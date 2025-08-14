@@ -264,3 +264,75 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Agent Whisper Voidheart]]
 - [[Lady Celestine Windborne]]
+
+
+## Overview
+
+Order of the Drowned Star operates as an influential organization with specific goals and methods. Their reach extends throughout their sphere of influence.
+
+**Type**: Guild/Order/Syndicate/Faction
+**Influence**: Local/Regional/Global
+**Membership**: Dozens to thousands
+**Secrecy**: Public/Semi-secret/Secret
+
+
+## Structure
+
+### Leadership
+- **Supreme Leader**: Ultimate authority
+- **Council/Board**: Decision makers
+- **Department Heads**: Operational leaders
+
+### Ranks
+1. Initiate level
+2. Member level
+3. Veteran level
+4. Officer level
+5. Leadership level
+
+
+## Resources
+
+### Financial
+- Funding sources
+- Wealth level
+- Economic influence
+
+### Physical Assets
+- Properties owned
+- Equipment available
+- Special resources
+
+### Human Resources
+- Member skills
+- Allies and contacts
+- Information networks
+
+
+## Operations
+
+### Regular Activities
+- Day-to-day operations
+- Revenue generation
+- Member services
+
+### Special Operations
+- Covert activities
+- Major projects
+- Crisis responses
+
+
+## Secrets
+
+### Open Secrets
+Things widely suspected
+
+### Hidden Truths
+- Real leadership
+- True funding sources
+- Secret objectives
+
+### Deep Mysteries
+- Ancient connections
+- Forbidden knowledge
+- Ultimate goals

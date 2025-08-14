@@ -291,6 +291,13 @@ For three millennia, he has maintained the delicate balance of power in the dept
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary**: Maintain the eternal stability and prosperity of Aquabyssos at any cost

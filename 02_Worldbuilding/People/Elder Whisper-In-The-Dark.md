@@ -163,6 +163,13 @@ Elder Whisper-In-The-Dark is an ancient triton oracle who was among the first to
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 1. **Primary**: Serve as conduit for the Deep Mother's will and wisdom
 2. **Secondary**: Prevent the total destruction of Aquabyssos through prophetic guidance

@@ -133,6 +133,13 @@ High Priestess Celeste Dawnbringer leads the Church of the Luminous Dawn in [[Cr
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 1. **Primary**: Heal and protect [[Queen Seraphina Lumengarde]] at all costs
 2. **Secondary**: Prevent civil war through secrecy and stability

@@ -36,6 +36,12 @@ TODO
 
 ### Behavioral Patterns
 - **Under Stress**: Becomes more aggressive
+- **When Pleased**: Shows generous spirit
+- **In Conflict**: Tends toward negotiation
+
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more aggressive
 - **When Pleased**: Shows quiet pride
 - **In Conflict**: Tends toward negotiation
 
@@ -94,6 +100,13 @@ The Golden Fishook Tavern's path to their current position involved:
 - Unique skills or knowledge
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

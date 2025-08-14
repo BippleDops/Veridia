@@ -128,6 +128,13 @@ Emperor Thalassius has ruled [[Aquabyssos]] for over three centuries, though mos
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 1. **Primary**: Ensure Aquabyssos thrives after his eventual passing
 2. **Secondary**: Maintain balance between surface and depth realms

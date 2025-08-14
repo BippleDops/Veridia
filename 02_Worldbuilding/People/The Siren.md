@@ -267,6 +267,12 @@ The Siren is [[Aethermoor]]'s most notorious information broker, operating throu
 ## Personality
 
 ### Behavioral Patterns
+- **Under Stress**: Becomes more aggressive
+- **When Pleased**: Shows quiet pride
+- **In Conflict**: Tends toward confrontation
+
+
+### Behavioral Patterns
 - **Under Stress**: Becomes more withdrawn
 - **When Pleased**: Shows generous spirit
 - **In Conflict**: Tends toward confrontation
@@ -309,6 +315,13 @@ The Siren's path to their current position involved:
 - **Rise to Position**: How they achieved their current status
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

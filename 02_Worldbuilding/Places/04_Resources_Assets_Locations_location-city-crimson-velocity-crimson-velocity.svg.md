@@ -27,6 +27,11 @@ population: Unknown
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Midday shows shadowy alleys, while nightfall transforms the area with increased activity.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Dawn brings solemn ceremonies, while dusk transforms the area with quiet contemplation.
 
 

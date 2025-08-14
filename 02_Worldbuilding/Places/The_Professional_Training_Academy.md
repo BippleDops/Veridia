@@ -25,6 +25,11 @@ population: Unknown
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Dawn brings shadowy alleys, while dusk transforms the area with warm lamplight.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Mornings see sacred groves, while evening transforms the area with increased activity.
 
 

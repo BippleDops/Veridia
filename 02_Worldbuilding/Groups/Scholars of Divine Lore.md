@@ -483,3 +483,76 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Quest - The Royal Treatment]]
 - [[04_Resources_Assets_Locations_location-city-captain-trawl-netcaster-captain-trawl-netcaster.svg]]
+
+
+## Structure
+
+### Leadership
+- **Supreme Leader**: Ultimate authority
+- **Council/Board**: Decision makers
+- **Department Heads**: Operational leaders
+
+### Ranks
+1. Initiate level
+2. Member level
+3. Veteran level
+4. Officer level
+5. Leadership level
+
+
+## Members
+
+### Notable Members
+- [[Leader Name]] - Current head
+- [[Key Officer]] - Important figure
+- [[Rising Star]] - Ambitious member
+
+### Membership Requirements
+- Skills or qualities needed
+- Initiation process
+- Ongoing obligations
+
+
+## Goals
+
+### Public Mission
+What they claim to pursue
+
+### True Objectives
+- Primary goal
+- Secondary objectives
+- Long-term vision
+
+### Current Projects
+- Active operations
+- Research efforts
+- Political maneuvers
+
+
+## Operations
+
+### Regular Activities
+- Day-to-day operations
+- Revenue generation
+- Member services
+
+### Special Operations
+- Covert activities
+- Major projects
+- Crisis responses
+
+
+## Secrets
+
+### Open Secrets
+Things widely suspected
+
+### Hidden Truths
+- Real leadership
+- True funding sources
+- Secret objectives
+
+### Deep Mysteries
+- Ancient connections
+- Forbidden knowledge
+- Ultimate goals

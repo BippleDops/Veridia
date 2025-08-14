@@ -31,6 +31,12 @@ A distinguished individual whose presence commands attention. Their appearance s
 ### Personality
 
 ### Behavioral Patterns
+- **Under Stress**: Becomes more aggressive
+- **When Pleased**: Shows quiet pride
+- **In Conflict**: Tends toward negotiation
+
+
+### Behavioral Patterns
 - **Under Stress**: Becomes more focused
 - **When Pleased**: Shows quiet pride
 - **In Conflict**: Tends toward manipulation
@@ -111,6 +117,13 @@ Lord_Lady_Chamberlain_Court_Manager presents a distinctive figure. Their bearing
 - **Mannerisms**: [Describe habits and gestures]
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

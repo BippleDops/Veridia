@@ -271,6 +271,13 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 1. **Primary**: Protect the realm and its people from all maritime threats
 2. **Secondary**: Serve the Crown with absolute loyalty and honor

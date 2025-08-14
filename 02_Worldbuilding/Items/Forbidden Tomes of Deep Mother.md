@@ -483,3 +483,31 @@ Legends speak of Forbidden Tomes of Deep Mother as a nexus where past and presen
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Properties
+
+**Type**: Weapon/Armor/Wondrous Item
+**Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+**Attunement**: Required/Not Required
+**Value**: 100-10,000 gp
+
+
+## Description
+
+Forbidden Tomes of Deep Mother is a remarkable item of significant craftsmanship. Its appearance immediately draws attention, featuring intricate details that hint at its magical nature.
+
+
+## Mechanics
+
+### Base Properties
+- Standard item statistics
+
+### Magical Effects
+- Primary power
+- Secondary benefits
+- Activation requirements
+
+### Limitations
+- Usage restrictions
+- Recharge requirements

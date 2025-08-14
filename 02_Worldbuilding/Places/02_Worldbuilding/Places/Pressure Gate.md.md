@@ -29,6 +29,11 @@ updated: 2025-08-14
 The atmosphere of this location shifts throughout the day. Mornings see sacred groves, while evening transforms the area with mysterious shadows.
 
 
+### Atmosphere
+
+The atmosphere of this location shifts throughout the day. Mornings see sacred groves, while evening transforms the area with mysterious shadows.
+
+
 *[To be filled in]*
 
 ## Details

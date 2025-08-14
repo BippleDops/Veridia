@@ -148,6 +148,12 @@ Creatures that spend 1 hour within 100 ft must make DC 16 WIS save or begin harm
 ### Personality
 
 ### Behavioral Patterns
+- **Under Stress**: Becomes more calculating
+- **When Pleased**: Shows subtle satisfaction
+- **In Conflict**: Tends toward confrontation
+
+
+### Behavioral Patterns
 - **Under Stress**: Becomes more aggressive
 - **When Pleased**: Shows open joy
 - **In Conflict**: Tends toward avoidance
@@ -310,6 +316,13 @@ The Resonance Prophet's path to their current position involved:
 - Unique skills or knowledge
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

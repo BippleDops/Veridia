@@ -144,6 +144,13 @@ The Leviathan Prophets's path to their current position involved:
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Pursuing knowledge
@@ -241,6 +248,12 @@ TODO
 
 
 ## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more calculating
+- **When Pleased**: Shows subtle satisfaction
+- **In Conflict**: Tends toward confrontation
+
 
 ### Behavioral Patterns
 - **Under Stress**: Becomes more withdrawn

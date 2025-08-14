@@ -28,6 +28,11 @@ updated: 2025-08-14
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Mornings see shadowy alleys, while evening transforms the area with warm lamplight.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Mornings see bustling markets, while nightfall transforms the area with mysterious shadows.
 
 

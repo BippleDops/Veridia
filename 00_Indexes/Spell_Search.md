@@ -1,3 +1,5 @@
+# Spell_Search
+
 ---
 title: Spell Search
 type: search-tool
@@ -38,3 +40,8 @@ modified: '2025-08-14'
 
 ---
 *Search reference tool*
+
+
+## Related
+
+*Links to related content will be added here.*

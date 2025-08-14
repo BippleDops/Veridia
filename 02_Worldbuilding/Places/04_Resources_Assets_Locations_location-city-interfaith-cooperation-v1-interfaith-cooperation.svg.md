@@ -32,6 +32,11 @@ population: Unknown
 The atmosphere of this location shifts throughout the day. Midday shows bustling markets, while evening transforms the area with increased activity.
 
 
+### Atmosphere
+
+The atmosphere of this location shifts throughout the day. Midday shows bustling markets, while evening transforms the area with increased activity.
+
+
 04_Resources/Assets/Locations/location-city-interfaith-cooperation-v1-interfaith-cooperation.svg stands as a significant city in the region, serving both strategic and economic purposes. Its location provides advantages for trade, defense, and regional influence.
 
 ### Geography

@@ -36,6 +36,12 @@ TODO
 
 ### Behavioral Patterns
 - **Under Stress**: Becomes more withdrawn
+- **When Pleased**: Shows generous spirit
+- **In Conflict**: Tends toward confrontation
+
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more withdrawn
 - **When Pleased**: Shows open joy
 - **In Conflict**: Tends toward manipulation
 
@@ -94,6 +100,13 @@ Mayor's Manor's path to their current position involved:
 - Unique skills or knowledge
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

@@ -148,6 +148,13 @@ Shadow Citizenship Act's path to their current position involved:
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Gaining power
@@ -256,6 +263,12 @@ TODO
 
 
 ## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more calculating
+- **When Pleased**: Shows subtle satisfaction
+- **In Conflict**: Tends toward negotiation
+
 
 ### Behavioral Patterns
 - **Under Stress**: Becomes more withdrawn

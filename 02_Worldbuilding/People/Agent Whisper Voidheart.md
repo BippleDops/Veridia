@@ -81,6 +81,12 @@ Currently assigned to the office of Senator [[Elena Truelight]], a member of [[T
 ## Personality
 
 ### Behavioral Patterns
+- **Under Stress**: Becomes more calculating
+- **When Pleased**: Shows quiet pride
+- **In Conflict**: Tends toward manipulation
+
+
+### Behavioral Patterns
 - **Under Stress**: Becomes more withdrawn
 - **When Pleased**: Shows quiet pride
 - **In Conflict**: Tends toward manipulation
@@ -94,6 +100,13 @@ Currently assigned to the office of Senator [[Elena Truelight]], a member of [[T
 **Emotional Complexity**: Experiences genuine affection for colleagues while simultaneously manipulating them. Feels protective of humans she works with, believing her influence guides them toward beneficial outcomes they cannot see themselves.
 
 #
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
+
 
 ### Connected NPCs
 - [[Unknown Ally]] - Trusted confidant

@@ -28,6 +28,11 @@ updated: 2025-08-14
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Mornings see grand plazas, while dusk transforms the area with quiet contemplation.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Dawn brings solemn ceremonies, while evening transforms the area with increased activity.
 
 

@@ -1,0 +1,13 @@
+{
+  "title": "02_Worldbuilding/Groups/Shadow-Silk Weavers Guil",
+  "prompt": "02 worldbuilding/groups/shadow-silk weavers guil, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting, shadow",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:10:17.975Z",
+  "sourceFile": "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Shadow-Silk Weavers Guil.md"
+}

@@ -353,6 +353,13 @@ Queen Seraphina Lumengarde has ruled [[Aethermoor]] for twelve years, ascending 
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 1. **Primary**: Find cure for crystal corruption
 2. **Secondary**: Maintain stability in kingdom

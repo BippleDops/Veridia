@@ -335,3 +335,11 @@ modified: '2025-08-14'
 ## Related
 
 *Links to related content will be added here.*
+\n\n## Aethermoor map prompts (2025-08-14T23:09:05Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-14T23:10:32Z)\n
+```json
+[]
+```

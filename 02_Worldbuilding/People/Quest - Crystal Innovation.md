@@ -530,6 +530,13 @@ Quest - Crystal Innovation presents a distinctive figure. Their bearing suggests
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Gaining power
@@ -698,6 +705,13 @@ Quest - Crystal Innovation presents a distinctive figure. Their bearing suggests
 **Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

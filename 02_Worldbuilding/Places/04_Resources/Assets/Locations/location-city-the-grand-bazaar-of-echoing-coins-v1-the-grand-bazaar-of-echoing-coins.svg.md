@@ -27,6 +27,11 @@ updated: 2025-08-14
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Dawn brings sacred groves, while nightfall transforms the area with increased activity.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Dawn brings shadowy alleys, while dusk transforms the area with quiet contemplation.
 
 

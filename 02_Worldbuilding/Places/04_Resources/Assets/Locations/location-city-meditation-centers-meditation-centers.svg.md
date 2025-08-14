@@ -29,6 +29,11 @@ updated: 2025-08-14
 The atmosphere of this location shifts throughout the day. Mornings see grand plazas, while nightfall transforms the area with warm lamplight.
 
 
+### Atmosphere
+
+The atmosphere of this location shifts throughout the day. Mornings see grand plazas, while nightfall transforms the area with warm lamplight.
+
+
 *[To be filled in]*
 
 ## Details

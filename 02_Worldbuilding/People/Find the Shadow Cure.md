@@ -123,6 +123,13 @@ Find the Shadow Cure's path to their current position involved:
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Discovering truth
@@ -231,6 +238,12 @@ TODO
 
 
 ## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more aggressive
+- **When Pleased**: Shows generous spirit
+- **In Conflict**: Tends toward manipulation
+
 
 ### Behavioral Patterns
 - **Under Stress**: Becomes more withdrawn

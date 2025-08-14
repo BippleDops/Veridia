@@ -1,3 +1,5 @@
+# Tag_Navigation
+
 ---
 title: Tag Navigation
 type: navigation
@@ -138,3 +140,8 @@ LIMIT 20
 
 ---
 *Tag-based navigation powered by Dataview*
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -32,6 +32,11 @@ population: Unknown
 The atmosphere of this location shifts throughout the day. Dawn brings bustling markets, while nightfall transforms the area with warm lamplight.
 
 
+### Atmosphere
+
+The atmosphere of this location shifts throughout the day. Dawn brings bustling markets, while nightfall transforms the area with warm lamplight.
+
+
 04_Resources/Assets/Portraits/portrait-npc-quest-the-siren-s-price-quest-the-siren-s-price.svg stands as a significant port in the region, serving both strategic and economic purposes. Its location provides advantages for trade, defense, and regional influence.
 
 ### Geography

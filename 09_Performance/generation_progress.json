@@ -39,17 +39,37 @@
     "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Harbor District Medical Corps.md",
     "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Integration Institute.md",
     "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Legal Defense Network.md",
-    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Local Informants.md"
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Local Informants.md",
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Marine Protection Guil.md",
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Master Cultivators Guild.md",
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Memory Thieves Guil.md",
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Merchants Guild.md.md",
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Natural Order Movemen.md",
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Order of Mirrors.md",
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Order of the Crystal Flame.md",
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Order of the Silver Ancho.md",
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Order_of_the_Silent_Vigil.md",
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Parliament_of_Echoes.md",
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Political Consulting Guil.md",
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Pressure Safety Authorit.md",
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Quest - Cultural Exchang.md",
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Research Council.md",
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Respiratory Engineering Guild.md",
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Shadow Harmonists Guild.md",
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Shadow-Silk Weavers Guil.md",
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Shadow_Conspiracy.md",
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Shadowhaven Merchant Marine.md.md",
+    "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Shadowhawk Syndicat.md.md"
   ],
   "failed": {},
   "stats": {
     "filesScanned": 12429,
     "assetsQueued": 8817,
-    "assetsGenerated": 40,
+    "assetsGenerated": 60,
     "assetsFailed": 0,
-    "batchesProcessed": 4,
+    "batchesProcessed": 6,
     "startTime": 1755212442611,
-    "currentBatch": 4
+    "currentBatch": 6
   },
-  "lastUpdate": "2025-08-14T23:07:20.671Z"
+  "lastUpdate": "2025-08-14T23:11:05.721Z"
 }

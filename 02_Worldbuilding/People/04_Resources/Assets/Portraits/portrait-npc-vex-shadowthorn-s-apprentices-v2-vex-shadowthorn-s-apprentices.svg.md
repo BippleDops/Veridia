@@ -112,6 +112,13 @@ portrait-npc-vex-shadowthorn-s-apprentices-v2-vex-shadowthorn-s-apprentices.svg'
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Accumulating wealth

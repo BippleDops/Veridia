@@ -129,6 +129,13 @@ Chief Mako Ironjaw is the most feared law enforcement officer in [[Aquabyssos]],
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 1. **Primary**: Maintain order and law in Aquabyssos depths
 2. **Secondary**: Protect hybrid and outcast communities

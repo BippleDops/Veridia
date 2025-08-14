@@ -1,3 +1,5 @@
+# Navigation_Hub
+
 ---
 title: Navigation Hub
 type: index
@@ -112,3 +114,8 @@ LIMIT 20
 
 ---
 *Navigation hub powered by Dataview - automatically updates with vault changes*
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -288,6 +288,12 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[A
 
 ### Behavioral Patterns
 - **Under Stress**: Becomes more focused
+- **When Pleased**: Shows generous spirit
+- **In Conflict**: Tends toward negotiation
+
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more focused
 - **When Pleased**: Shows subtle satisfaction
 - **In Conflict**: Tends toward manipulation
  & Mannerisms
@@ -353,6 +359,13 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[A
 - Sacrifice potential
 
 
+
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
 
 
 

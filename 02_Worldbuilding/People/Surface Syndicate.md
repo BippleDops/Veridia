@@ -160,6 +160,13 @@ Surface Syndicate's path to their current position involved:
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 
 **Primary Goal**: Gaining power
@@ -269,6 +276,12 @@ TODO
 
 
 ## Personality
+
+### Behavioral Patterns
+- **Under Stress**: Becomes more focused
+- **When Pleased**: Shows generous spirit
+- **In Conflict**: Tends toward manipulation
+
 
 ### Behavioral Patterns
 - **Under Stress**: Becomes more aggressive

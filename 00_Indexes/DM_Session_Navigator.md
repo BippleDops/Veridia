@@ -1,3 +1,5 @@
+# DM_Session_Navigator
+
 ---
 title: DM Session Navigator
 type: dm-tool
@@ -170,3 +172,8 @@ SORT priority DESC
 
 ---
 *DM session navigation and management toolkit*
+
+
+## Related
+
+*Links to related content will be added here.*

@@ -219,3 +219,149 @@
 [2025-08-14T23:07:20.678Z] [INFO]   Time elapsed: 6.6 minutes
 [2025-08-14T23:07:20.678Z] [INFO] 
 ⏳ Waiting 15s before next batch...
+[2025-08-14T23:07:35.679Z] [INFO] 
+📦 Processing batch 5 (10 assets)
+[2025-08-14T23:07:35.679Z] [INFO]   [1/10] 02_Worldbuilding/Groups/Marine Protection Guil
+[2025-08-14T23:07:35.680Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Marine Protection Guil
+[2025-08-14T23:07:35.680Z] [INFO]   Prompt: 02 worldbuilding/groups/marine protection guil, high fantasy, medieval, magical, enchanted, vibrant,...
+[2025-08-14T23:07:41.697Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_marine_protection_guil.png
+[2025-08-14T23:07:44.698Z] [INFO]   [2/10] 02_Worldbuilding/Groups/Master Cultivators Guild
+[2025-08-14T23:07:44.698Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Master Cultivators Guild
+[2025-08-14T23:07:44.699Z] [INFO]   Prompt: 02 worldbuilding/groups/master cultivators guild, high fantasy, medieval, magical, enchanted, vibran...
+[2025-08-14T23:07:50.712Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_master_cultivators_guild.png
+[2025-08-14T23:07:53.713Z] [INFO]   [3/10] 02_Worldbuilding/Groups/Memory Thieves Guil
+[2025-08-14T23:07:53.714Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Memory Thieves Guil
+[2025-08-14T23:07:53.714Z] [INFO]   Prompt: 02 worldbuilding/groups/memory thieves guil, high fantasy, medieval, magical, enchanted, vibrant, na...
+[2025-08-14T23:07:59.728Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_memory_thieves_guil.png
+[2025-08-14T23:08:02.729Z] [INFO]   [4/10] 02_Worldbuilding/Groups/Merchants Guild.md
+[2025-08-14T23:08:02.730Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Merchants Guild.md
+[2025-08-14T23:08:02.730Z] [INFO]   Prompt: 02 worldbuilding/groups/merchants guild.md, high fantasy, medieval, magical, enchanted, vibrant, nat...
+[2025-08-14T23:08:08.745Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_merchants_guild_md.png
+[2025-08-14T23:08:11.747Z] [INFO]   [5/10] 02_Worldbuilding/Groups/Natural Order Movemen
+[2025-08-14T23:08:11.747Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Natural Order Movemen
+[2025-08-14T23:08:11.747Z] [INFO]   Prompt: 02 worldbuilding/groups/natural order movemen, high fantasy, medieval, magical, enchanted, vibrant, ...
+[2025-08-14T23:08:17.767Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_natural_order_movemen.png
+[2025-08-14T23:08:20.769Z] [INFO]   [6/10] 02_Worldbuilding/Groups/Order of Mirrors
+[2025-08-14T23:08:20.769Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Order of Mirrors
+[2025-08-14T23:08:20.769Z] [INFO]   Prompt: 02 worldbuilding/groups/order of mirrors, high fantasy, medieval, magical, enchanted, vibrant, natur...
+[2025-08-14T23:08:26.787Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_order_of_mirrors.png
+[2025-08-14T23:08:29.789Z] [INFO]   [7/10] 02_Worldbuilding/Groups/Order of the Crystal Flame
+[2025-08-14T23:08:29.789Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Order of the Crystal Flame
+[2025-08-14T23:08:29.789Z] [INFO]   Prompt: 02 worldbuilding/groups/order of the crystal flame, high fantasy, medieval, magical, enchanted, vibr...
+[2025-08-14T23:08:35.804Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_order_of_the_crystal_flame.png
+[2025-08-14T23:08:38.805Z] [INFO]   [8/10] 02_Worldbuilding/Groups/Order of the Silver Ancho
+[2025-08-14T23:08:38.806Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Order of the Silver Ancho
+[2025-08-14T23:08:38.806Z] [INFO]   Prompt: 02 worldbuilding/groups/order of the silver ancho, high fantasy, medieval, magical, enchanted, vibra...
+[2025-08-14T23:08:44.822Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_order_of_the_silver_ancho.png
+[2025-08-14T23:08:47.824Z] [INFO]   [9/10] 02_Worldbuilding/Groups/Order_of_the_Silent_Vigil
+[2025-08-14T23:08:47.824Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Order_of_the_Silent_Vigil
+[2025-08-14T23:08:47.824Z] [INFO]   Prompt: 02 worldbuilding/groups/order of the silent vigil, high fantasy, medieval, magical, enchanted, vibra...
+[2025-08-14T23:08:53.841Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_order_of_the_silent_vigil.png
+[2025-08-14T23:08:56.842Z] [INFO]   [10/10] 02_Worldbuilding/Groups/Parliament_of_Echoes
+[2025-08-14T23:08:56.842Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Parliament_of_Echoes
+[2025-08-14T23:08:56.842Z] [INFO]   Prompt: 02 worldbuilding/groups/parliament of echoes, high fantasy, medieval, magical, enchanted, vibrant, n...
+[2025-08-14T23:09:02.856Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_parliament_of_echoes.png
+[2025-08-14T23:09:02.856Z] [INFO] 
+📊 Statistics:
+[2025-08-14T23:09:02.856Z] [INFO]   Files scanned: 12429
+[2025-08-14T23:09:02.857Z] [INFO]   Assets queued: 8817
+[2025-08-14T23:09:02.857Z] [INFO]   Assets generated: 50
+[2025-08-14T23:09:02.857Z] [INFO]   Assets failed: 0
+[2025-08-14T23:09:02.857Z] [INFO]   Generation rate: 6.0 assets/min
+[2025-08-14T23:09:02.857Z] [INFO]   Time elapsed: 8.3 minutes
+[2025-08-14T23:09:02.858Z] [INFO] 
+⏳ Waiting 15s before next batch...
+[2025-08-14T23:09:17.859Z] [INFO] 
+📦 Processing batch 6 (10 assets)
+[2025-08-14T23:09:17.859Z] [INFO]   [1/10] 02_Worldbuilding/Groups/Political Consulting Guil
+[2025-08-14T23:09:17.859Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Political Consulting Guil
+[2025-08-14T23:09:17.859Z] [INFO]   Prompt: 02 worldbuilding/groups/political consulting guil, high fantasy, medieval, magical, enchanted, vibra...
+[2025-08-14T23:09:23.874Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_political_consulting_guil.png
+[2025-08-14T23:09:26.874Z] [INFO]   [2/10] 02_Worldbuilding/Groups/Pressure Safety Authorit
+[2025-08-14T23:09:26.875Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Pressure Safety Authorit
+[2025-08-14T23:09:26.875Z] [INFO]   Prompt: 02 worldbuilding/groups/pressure safety authorit, high fantasy, medieval, magical, enchanted, vibran...
+[2025-08-14T23:09:32.894Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_pressure_safety_authorit.png
+[2025-08-14T23:09:35.895Z] [INFO]   [3/10] 02_Worldbuilding/Groups/Quest - Cultural Exchang
+[2025-08-14T23:09:35.896Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Quest - Cultural Exchang
+[2025-08-14T23:09:35.896Z] [INFO]   Prompt: 02 worldbuilding/groups/quest - cultural exchang, high fantasy, medieval, magical, enchanted, vibran...
+[2025-08-14T23:09:41.913Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_quest___cultural_exchang.png
+[2025-08-14T23:09:44.915Z] [INFO]   [4/10] 02_Worldbuilding/Groups/Research Council
+[2025-08-14T23:09:44.915Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Research Council
+[2025-08-14T23:09:44.915Z] [INFO]   Prompt: 02 worldbuilding/groups/research council, high fantasy, medieval, magical, enchanted, vibrant, natur...
+[2025-08-14T23:09:50.934Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_research_council.png
+[2025-08-14T23:09:53.935Z] [INFO]   [5/10] 02_Worldbuilding/Groups/Respiratory Engineering Guild
+[2025-08-14T23:09:53.936Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Respiratory Engineering Guild
+[2025-08-14T23:09:53.936Z] [INFO]   Prompt: 02 worldbuilding/groups/respiratory engineering guild, high fantasy, medieval, magical, enchanted, v...
+[2025-08-14T23:09:59.948Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_respiratory_engineering_guild.png
+[2025-08-14T23:10:02.949Z] [INFO]   [6/10] 02_Worldbuilding/Groups/Shadow Harmonists Guild
+[2025-08-14T23:10:02.949Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Shadow Harmonists Guild
+[2025-08-14T23:10:02.950Z] [INFO]   Prompt: 02 worldbuilding/groups/shadow harmonists guild, high fantasy, medieval, magical, enchanted, vibrant...
+[2025-08-14T23:10:08.963Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_shadow_harmonists_guild.png
+[2025-08-14T23:10:11.964Z] [INFO]   [7/10] 02_Worldbuilding/Groups/Shadow-Silk Weavers Guil
+[2025-08-14T23:10:11.964Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Shadow-Silk Weavers Guil
+[2025-08-14T23:10:11.964Z] [INFO]   Prompt: 02 worldbuilding/groups/shadow-silk weavers guil, high fantasy, medieval, magical, enchanted, vibran...
+[2025-08-14T23:10:17.975Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_shadow_silk_weavers_guil.png
+[2025-08-14T23:10:20.975Z] [INFO]   [8/10] 02_Worldbuilding/Groups/Shadow_Conspiracy
+[2025-08-14T23:10:20.976Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Shadow_Conspiracy
+[2025-08-14T23:10:20.976Z] [INFO]   Prompt: 02 worldbuilding/groups/shadow conspiracy, high fantasy, medieval, magical, enchanted, vibrant, natu...
+[2025-08-14T23:10:26.994Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_shadow_conspiracy.png
+[2025-08-14T23:10:29.995Z] [INFO]   [9/10] 02_Worldbuilding/Groups/Shadowhaven Merchant Marine.md
+[2025-08-14T23:10:29.995Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Shadowhaven Merchant Marine.md
+[2025-08-14T23:10:29.996Z] [INFO]   Prompt: 02 worldbuilding/groups/shadowhaven merchant marine.md, high fantasy, medieval, magical, enchanted, ...
+[2025-08-14T23:10:36.023Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_shadowhaven_merchant_marine_md.png
+[2025-08-14T23:10:39.023Z] [INFO]   [10/10] 02_Worldbuilding/Groups/Shadowhawk Syndicat.md
+[2025-08-14T23:10:39.023Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Shadowhawk Syndicat.md
+[2025-08-14T23:10:39.024Z] [INFO]   Prompt: 02 worldbuilding/groups/shadowhawk syndicat.md, high fantasy, medieval, magical, enchanted, vibrant,...
+[2025-08-14T23:10:45.037Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_shadowhawk_syndicat_md.png
+[2025-08-14T23:10:45.038Z] [INFO] 
+📊 Statistics:
+[2025-08-14T23:10:45.038Z] [INFO]   Files scanned: 12429
+[2025-08-14T23:10:45.038Z] [INFO]   Assets queued: 8817
+[2025-08-14T23:10:45.038Z] [INFO]   Assets generated: 60
+[2025-08-14T23:10:45.038Z] [INFO]   Assets failed: 0
+[2025-08-14T23:10:45.038Z] [INFO]   Generation rate: 6.0 assets/min
+[2025-08-14T23:10:45.038Z] [INFO]   Time elapsed: 10.0 minutes
+[2025-08-14T23:10:45.038Z] [INFO] 
+⏳ Waiting 15s before next batch...
+[2025-08-14T23:11:00.039Z] [INFO] 
+📦 Processing batch 7 (10 assets)
+[2025-08-14T23:11:00.039Z] [INFO]   [1/10] 02_Worldbuilding/Groups/Silverscale_Consortium
+[2025-08-14T23:11:00.040Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Silverscale_Consortium
+[2025-08-14T23:11:00.040Z] [INFO]   Prompt: 02 worldbuilding/groups/silverscale consortium, high fantasy, medieval, magical, enchanted, vibrant,...
+[2025-08-14T23:11:05.721Z] [INFO] 
+⚠️ Interrupted - saving progress...
+[2025-08-14T23:12:27.376Z] [INFO] 
+🚀 VAULT BATCH ASSET GENERATOR
+[2025-08-14T23:12:27.377Z] [INFO] ================================
+
+[2025-08-14T23:12:27.378Z] [INFO] Loaded progress: 60 assets already processed
+[2025-08-14T23:12:27.378Z] [INFO] 📂 Scanning vault for files needing assets...
+[2025-08-14T23:12:27.378Z] [INFO]   Scanning 01_Adventures...
+[2025-08-14T23:12:27.382Z] [INFO]   Scanning 02_Worldbuilding...
+[2025-08-14T23:12:27.747Z] [INFO]   Scanning 03_Mechanics...
+[2025-08-14T23:12:27.749Z] [INFO]   Scanning 06_GM_Resources...
+[2025-08-14T23:12:27.749Z] [INFO] 
+✅ Scan complete: 8749 assets to generate
+[2025-08-14T23:12:27.749Z] [INFO] 
+🎨 Starting batch generation (batch size: 10)
+[2025-08-14T23:12:27.749Z] [INFO] 
+📦 Processing batch 1 (10 assets)
+[2025-08-14T23:12:27.749Z] [INFO]   [1/10] 02_Worldbuilding/Groups/Surface Reconnection Coalition
+[2025-08-14T23:12:27.749Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Surface Reconnection Coalition
+[2025-08-14T23:12:27.750Z] [INFO]   Prompt: 02 worldbuilding/groups/surface reconnection coalition, high fantasy, medieval, magical, enchanted, ...
+[2025-08-14T23:12:33.791Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_surface_reconnection_coalition.png
+[2025-08-14T23:12:36.792Z] [INFO]   [2/10] 02_Worldbuilding/Groups/The Cloud Shepherd Guild
+[2025-08-14T23:12:36.792Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Cloud Shepherd Guild
+[2025-08-14T23:12:36.793Z] [INFO]   Prompt: 02 worldbuilding/groups/the cloud shepherd guild, high fantasy, medieval, magical, enchanted, vibran...
+[2025-08-14T23:12:42.811Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_cloud_shepherd_guild.png
+[2025-08-14T23:12:45.813Z] [INFO]   [3/10] 02_Worldbuilding/Groups/The Crimson Fleet.md
+[2025-08-14T23:12:45.813Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Crimson Fleet.md
+[2025-08-14T23:12:45.813Z] [INFO]   Prompt: 02 worldbuilding/groups/the crimson fleet.md, high fantasy, medieval, magical, enchanted, vibrant, n...
+[2025-08-14T23:12:51.825Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_crimson_fleet_md.png
+[2025-08-14T23:12:54.827Z] [INFO]   [4/10] 02_Worldbuilding/Groups/The Crimson Tide Pirates.md
+[2025-08-14T23:12:54.827Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Crimson Tide Pirates.md
+[2025-08-14T23:12:54.827Z] [INFO]   Prompt: 02 worldbuilding/groups/the crimson tide pirates.md, high fantasy, medieval, magical, enchanted, vib...
+[2025-08-14T23:13:00.844Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_crimson_tide_pirates_md.png
+[2025-08-14T23:13:03.844Z] [INFO]   [5/10] 02_Worldbuilding/Groups/The Cultural Exchange Society
+[2025-08-14T23:13:03.845Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Cultural Exchange Society
+[2025-08-14T23:13:03.845Z] [INFO]   Prompt: 02 worldbuilding/groups/the cultural exchange society, high fantasy, medieval, magical, enchanted, v...

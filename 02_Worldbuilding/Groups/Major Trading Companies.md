@@ -615,3 +615,112 @@ Consider how corporate actions ripple through society, affecting everything from
 ## Known Members
 
 - [[04_Resources_Assets_Portraits_portrait-npc-lord-magnus-goldspire-lord-magnus-goldspire.svg]]
+
+
+## Structure
+
+### Leadership
+- **Supreme Leader**: Ultimate authority
+- **Council/Board**: Decision makers
+- **Department Heads**: Operational leaders
+
+### Ranks
+1. Initiate level
+2. Member level
+3. Veteran level
+4. Officer level
+5. Leadership level
+
+
+## Members
+
+### Notable Members
+- [[Leader Name]] - Current head
+- [[Key Officer]] - Important figure
+- [[Rising Star]] - Ambitious member
+
+### Membership Requirements
+- Skills or qualities needed
+- Initiation process
+- Ongoing obligations
+
+
+## Goals
+
+### Public Mission
+What they claim to pursue
+
+### True Objectives
+- Primary goal
+- Secondary objectives
+- Long-term vision
+
+### Current Projects
+- Active operations
+- Research efforts
+- Political maneuvers
+
+
+## Resources
+
+### Financial
+- Funding sources
+- Wealth level
+- Economic influence
+
+### Physical Assets
+- Properties owned
+- Equipment available
+- Special resources
+
+### Human Resources
+- Member skills
+- Allies and contacts
+- Information networks
+
+
+## Operations
+
+### Regular Activities
+- Day-to-day operations
+- Revenue generation
+- Member services
+
+### Special Operations
+- Covert activities
+- Major projects
+- Crisis responses
+
+
+## Relationships
+
+### Allies
+- Aligned organizations
+- Political supporters
+- Business partners
+
+### Enemies
+- Rival organizations
+- Opposed factions
+- Active threats
+
+### Neutral Parties
+- Potential allies or enemies
+- Trade partners
+- Watching parties
+
+
+## Secrets
+
+### Open Secrets
+Things widely suspected
+
+### Hidden Truths
+- Real leadership
+- True funding sources
+- Secret objectives
+
+### Deep Mysteries
+- Ancient connections
+- Forbidden knowledge
+- Ultimate goals

@@ -27,6 +27,11 @@ updated: 2025-08-14
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Mornings see solemn ceremonies, while evening transforms the area with warm lamplight.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Midday shows grand plazas, while nightfall transforms the area with warm lamplight.
 
 

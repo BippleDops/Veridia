@@ -27,6 +27,11 @@ updated: 2025-08-14
 
 ### Atmosphere
 
+The atmosphere of this location shifts throughout the day. Midday shows misty mornings, while evening transforms the area with warm lamplight.
+
+
+### Atmosphere
+
 The atmosphere of this location shifts throughout the day. Mornings see vibrant festivals, while nightfall transforms the area with quiet contemplation.
 
 

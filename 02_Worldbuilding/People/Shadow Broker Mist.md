@@ -131,6 +131,13 @@ Known only as "Mist," this enigmatic figure operates in the liminal spaces betwe
 - [[Unknown Rival]] - Professional competitor
 - [[Unknown Contact]] - Information source
 
+
+
+### Connected NPCs
+- [[Unknown Ally]] - Trusted confidant
+- [[Unknown Rival]] - Professional competitor
+- [[Unknown Contact]] - Information source
+
 ## Motivations
 1. **Primary**: Accumulate secrets and power to control both realms
 2. **Secondary**: Survive her shadow transformation without losing all humanity

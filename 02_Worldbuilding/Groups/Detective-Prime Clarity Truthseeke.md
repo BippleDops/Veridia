@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-detective-prime-clarity-truthseeke-detective-prime-clarity-truthseeke.svg)
+
+
+> [!figure] Heraldry
 
 ## 🔧 Deep Evaluation Improvements
 

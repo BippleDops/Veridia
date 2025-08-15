@@ -31,6 +31,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-abyssos-prime-inverse-palace-abyssos-prime-inverse-palace.svg)
+
+
+> [!figure] View
 
 # Abyssos Prime - Inverse Palace
 

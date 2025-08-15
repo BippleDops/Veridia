@@ -40,6 +40,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-depth-wardens-depth-wardens.svg)
+
+
+> [!figure] View
 
 # Depth Wardens
 

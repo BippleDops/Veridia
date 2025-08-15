@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-silence-keeper-mute-silence-keeper-mute.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

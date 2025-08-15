@@ -34,6 +34,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-port-meridian-harbor-port-meridian-harbor.svg)
+
+
+> [!figure] View
 
 # Port Meridian Harbor
 

@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-echo-prime-cacophony-voidlung-echo-prime-cacophony-voidlung.svg)
+
+
+> [!figure] Heraldry
 
 ## 🔧 Deep Evaluation Improvements
 

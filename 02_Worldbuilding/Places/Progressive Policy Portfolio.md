@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-progressive-policy-portfolio-progressive-policy-portfolio.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

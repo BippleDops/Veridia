@@ -42,6 +42,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-compass-quest-compass-quest.svg)
+
+
+> [!figure] View
 
 # Compass Quest
 

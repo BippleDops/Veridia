@@ -35,6 +35,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-siren-s-rest-tavern-the-siren-s-rest-tavern.svg)
+
+
 # The Siren's Rest Tavern
 
 ## Overview

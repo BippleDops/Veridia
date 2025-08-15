@@ -36,6 +36,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-silverscale-consortium-silverscale-consortium.svg)
+
+
+> [!figure] Heraldry
 
 # The Silverscale Consortium
 *Masters of the Crystal Market, The Invisible Crown, Merchants of Tomorrow*

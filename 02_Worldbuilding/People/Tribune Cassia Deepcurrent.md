@@ -35,6 +35,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-tribune-cassia-deepcurrent-tribune-cassia-deepcurrent.svg)
+
+
+> [!figure] Portrait
 
 # Tribune Cassia Deepcurrent
 *Voice of Pragmatic Goverce, The Compromise Builder*

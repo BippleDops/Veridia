@@ -23,6 +23,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-thalassa-the-pathfinder-thalassa-the-pathfinder.svg)
+
+
+> [!figure] Heraldry
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -26,6 +26,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-mist-walker-captain-luna-pathfinder-mist-walker-captain-luna-pathfinder.svg)
+
+
+> [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements
 

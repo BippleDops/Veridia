@@ -45,6 +45,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-sunken-library-of-thalassius-the-sunken-library-of-thalassius.svg)
+
+
 # The Sunken Library of Thalassius
 
 ## Overview

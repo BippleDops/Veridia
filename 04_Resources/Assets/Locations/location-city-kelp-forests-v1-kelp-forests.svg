@@ -1,16 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="3072" viewBox="0 0 2048 3072">
-  <defs>
-    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#14213d"/>
-      <stop offset="100%" stop-color="#fca311"/>
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#grad)"/>
-  <circle cx="1741" cy="614" r="246" fill="#e5e5e5" opacity="0.25"/>
-  <g fill="#000000" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif">
-    <text x="5%" y="50%" font-size="123" font-weight="700">Kelp Forests</text>
-    <text x="5%" y="50%" dy="111" font-size="55" opacity="0.9">LOCATION • mysterious • studio</text>
-    <text x="5%" y="95%" font-size="43" opacity="0.8">2:3 · 2048x3072 · concept art, high detail</text>
-  </g>
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+<defs>
+
+        <linearGradient id="loc-canopy" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#006400"/><stop offset="50%" stop-color="#228B22"/><stop offset="100%" stop-color="#32CD32"/>
+        </linearGradient>
+
+        <linearGradient id="loc-moss" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#8FBC8F"/><stop offset="50%" stop-color="#9ACD32"/><stop offset="100%" stop-color="#ADFF2F"/>
+        </linearGradient>
+
+        <linearGradient id="loc-bark" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#8B4513"/><stop offset="50%" stop-color="#A0522D"/><stop offset="100%" stop-color="#D2691E"/>
+        </linearGradient>
+
+        <filter id="loc-shadow">
+          <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.3"/>
+        </filter>
+</defs>
+<rect width="400" height="400" fill="url(#loc-canopy)"/>
+<rect x="172.49615508735056" y="272.101171442691" width="10" height="99.21337634581486" 
+                  fill="#8FBC8F"/>
+<circle cx="177.49615508735056" cy="252.101171442691" r="30" fill="#32CD32"/>
+<circle cx="162.49615508735056" cy="262.101171442691" r="25" fill="#00FF00"/>
+<circle cx="192.49615508735056" cy="262.101171442691" r="25" fill="#00FF00"/>
+<rect x="170.9832160841786" y="217.0831692164805" width="10" height="81.7832454965835" 
+                  fill="#8FBC8F"/>
+<circle cx="175.9832160841786" cy="197.0831692164805" r="30" fill="#32CD32"/>
+<circle cx="160.9832160841786" cy="207.0831692164805" r="25" fill="#00FF00"/>
+<circle cx="190.9832160841786" cy="207.0831692164805" r="25" fill="#00FF00"/>
+<rect x="154.86684583780382" y="306.2808976410049" width="10" height="73.92281533222283" 
+                  fill="#8FBC8F"/>
+<circle cx="159.86684583780382" cy="286.2808976410049" r="30" fill="#32CD32"/>
+<circle cx="144.86684583780382" cy="296.2808976410049" r="25" fill="#00FF00"/>
+<circle cx="174.86684583780382" cy="296.2808976410049" r="25" fill="#00FF00"/>
+<rect x="226.9888566457115" y="299.36173679790585" width="10" height="119.90008822576547" 
+                  fill="#8FBC8F"/>
+<circle cx="231.9888566457115" cy="279.36173679790585" r="30" fill="#32CD32"/>
+<circle cx="216.9888566457115" cy="289.36173679790585" r="25" fill="#00FF00"/>
+<circle cx="246.9888566457115" cy="289.36173679790585" r="25" fill="#00FF00"/>
+<rect x="289.1899458953891" y="304.7068719751425" width="10" height="103.52124669591393" 
+                  fill="#8FBC8F"/>
+<circle cx="294.1899458953891" cy="284.7068719751425" r="30" fill="#32CD32"/>
+<circle cx="279.1899458953891" cy="294.7068719751425" r="25" fill="#00FF00"/>
+<circle cx="309.1899458953891" cy="294.7068719751425" r="25" fill="#00FF00"/>
+<rect x="215.80923530249333" y="314.32897632774024" width="10" height="124.51212405249338" 
+                  fill="#8FBC8F"/>
+<circle cx="220.80923530249333" cy="294.32897632774024" r="30" fill="#32CD32"/>
+<circle cx="205.80923530249333" cy="304.32897632774024" r="25" fill="#00FF00"/>
+<circle cx="235.80923530249333" cy="304.32897632774024" r="25" fill="#00FF00"/>
+<rect x="216.7172383264456" y="332.9865627953659" width="10" height="84.7945964232517" 
+                  fill="#8FBC8F"/>
+<circle cx="221.7172383264456" cy="312.9865627953659" r="30" fill="#32CD32"/>
+<circle cx="206.7172383264456" cy="322.9865627953659" r="25" fill="#00FF00"/>
+<circle cx="236.7172383264456" cy="322.9865627953659" r="25" fill="#00FF00"/>
+<rect x="101.37293277176826" y="207.87419720103932" width="10" height="107.050200703714" 
+                  fill="#8FBC8F"/>
+<circle cx="106.37293277176826" cy="187.87419720103932" r="30" fill="#32CD32"/>
+<circle cx="91.37293277176826" cy="197.87419720103932" r="25" fill="#00FF00"/>
+<circle cx="121.37293277176826" cy="197.87419720103932" r="25" fill="#00FF00"/>
+<rect x="229.5548603898079" y="232.09073923090278" width="10" height="69.33014165570927" 
+                  fill="#8FBC8F"/>
+<circle cx="234.5548603898079" cy="212.09073923090278" r="30" fill="#32CD32"/>
+<circle cx="219.5548603898079" cy="222.09073923090278" r="25" fill="#00FF00"/>
+<circle cx="249.5548603898079" cy="222.09073923090278" r="25" fill="#00FF00"/>
+<rect x="326.7086221034327" y="259.0522589170154" width="10" height="86.63223364471322" 
+                  fill="#8FBC8F"/>
+<circle cx="331.7086221034327" cy="239.05225891701542" r="30" fill="#32CD32"/>
+<circle cx="316.7086221034327" cy="249.05225891701542" r="25" fill="#00FF00"/>
+<circle cx="346.7086221034327" cy="249.05225891701542" r="25" fill="#00FF00"/>
+<rect x="100" y="20" width="200" height="40" 
+              fill="#228B22" opacity="0.8"/>
+<text x="200" y="45" text-anchor="middle" font-size="20" 
+              fill="white">forests</text>
 </svg>

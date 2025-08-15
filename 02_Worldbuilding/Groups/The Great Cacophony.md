@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-the-great-cacophony-the-great-cacophony.svg)
+
+
+> [!figure] Heraldry
 
 ## 🔧 Deep Evaluation Improvements
 

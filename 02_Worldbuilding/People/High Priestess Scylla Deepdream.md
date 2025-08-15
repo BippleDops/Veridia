@@ -20,6 +20,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-high-priestess-scylla-deepdream-high-priestess-scylla-deepdream.svg)
+
+
+> [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements
 

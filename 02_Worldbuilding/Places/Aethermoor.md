@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-aethermoor-aethermoor.svg)
+
+
+> [!figure] View
 
 # Aethermoor
 *The Shattered Crown Continent*

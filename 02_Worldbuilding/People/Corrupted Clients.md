@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-corrupted-clients-corrupted-clients.svg)
+
+
+> [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements
 

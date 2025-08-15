@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-pilgrim-guide-samuel-walkingfaith-pilgrim-guide-samuel-walkingfaith.svg)
+
+
+> [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements
 

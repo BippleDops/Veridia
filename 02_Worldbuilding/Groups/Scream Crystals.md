@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-scream-crystals-scream-crystals.svg)
+
+
+> [!figure] Heraldry
 
 ## 🔧 Deep Evaluation Improvements
 

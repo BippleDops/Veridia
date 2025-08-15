@@ -23,6 +23,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-gareth-goldenheart-the-chosen-vessel-gareth-goldenheart-the-chosen-vessel.svg)
+
+
+> [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements
 

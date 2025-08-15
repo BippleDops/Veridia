@@ -23,6 +23,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-merchant-s-covenant-merchant-s-covenant.svg)
+
+
+> [!figure] Heraldry
 
 # Merchant's Covet
 *"Knowledge Flows Like Current, Value Rises Like Pressure"*

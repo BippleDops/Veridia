@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-purist-coalition-purist-coalition.svg)
+
+
+> [!figure] Heraldry
 
 # Purist Coalition
 *Return to the Time Before Corruption*

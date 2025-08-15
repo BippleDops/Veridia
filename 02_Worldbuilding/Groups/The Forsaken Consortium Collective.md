@@ -23,6 +23,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-the-forsaken-consortium-collective-the-forsaken-consortium-collective.svg)
+
+
+> [!figure] Heraldry
 
 # The Forsaken Consortium Collective
 *Claiming What Others Left Behind*

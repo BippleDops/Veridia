@@ -1,16 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="3072" viewBox="0 0 2048 3072">
-  <defs>
-    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#14213d"/>
-      <stop offset="100%" stop-color="#fca311"/>
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#grad)"/>
-  <circle cx="1741" cy="614" r="246" fill="#e5e5e5" opacity="0.25"/>
-  <g fill="#000000" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif">
-    <text x="5%" y="50%" font-size="123" font-weight="700">World Map</text>
-    <text x="5%" y="50%" dy="111" font-size="55" opacity="0.9">LOCATION • mysterious • studio</text>
-    <text x="5%" y="95%" font-size="43" opacity="0.8">2:3 · 2048x3072 · concept art, high detail</text>
-  </g>
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+<defs>
+
+        <linearGradient id="dungeon-stone" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#2F4F4F"/><stop offset="50%" stop-color="#696969"/><stop offset="100%" stop-color="#808080"/>
+        </linearGradient>
+
+        <linearGradient id="dungeon-shadow" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#000000"/><stop offset="50%" stop-color="#1C1C1C"/><stop offset="100%" stop-color="#363636"/>
+        </linearGradient>
+
+        <linearGradient id="dungeon-torch" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#FF4500"/><stop offset="50%" stop-color="#FF6347"/><stop offset="100%" stop-color="#FF7F50"/>
+        </linearGradient>
+<pattern id="dungeon-pattern" x="0" y="0" width="50" height="50" patternUnits="userSpaceOnUse">
+                <circle cx="10" cy="10" r="3" fill="white"/>
+                <circle cx="30" cy="25" r="4" fill="white"/>
+                <circle cx="40" cy="40" r="2" fill="white"/>
+                </pattern>
+
+        <filter id="map-shadow">
+          <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.3"/>
+        </filter>
+
+        <filter id="map-glow">
+          <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+          <feMerge>
+            <feMergeNode in="coloredBlur"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+</defs>
+<rect width="800" height="600" fill="url(#dungeon-stone)"/>
+<rect x="353.78074462752744" y="131.20717170808794" width="94.35642330446902" height="104.78306647305993" 
+                  fill="#A9A9A9" stroke="#696969" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<circle cx="509.0934066965495" cy="320.9647039283918" r="69.1667267778284"
+                  fill="#A9A9A9" stroke="#696969" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<rect x="419.0402485420514" y="92.28232967259754" width="91.96288836170513" height="175.56749800276384" 
+                  fill="#A9A9A9" stroke="#696969" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<circle cx="400.0806946886603" cy="314.9783266528049" r="63.952505279809685"
+                  fill="#A9A9A9" stroke="#696969" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<rect x="598.8530356030551" y="510.1707028234472" width="155.71796799441003" height="129.00555189456884" 
+                  fill="#A9A9A9" stroke="#696969" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<path d="M 400.95895627976194 183.5987049446179 
+                        L 509.0934066965495 320.9647039283918"
+                stroke="#808080" stroke-width="20" fill="none"/>
+<path d="M 509.0934066965495 320.9647039283918 
+                        L 465.021692722904 180.06607867397946"
+                stroke="#808080" stroke-width="20" fill="none"/>
+<path d="M 465.021692722904 180.06607867397946 
+                        L 400.0806946886603 314.9783266528049"
+                stroke="#808080" stroke-width="20" fill="none"/>
+<path d="M 400.0806946886603 314.9783266528049 
+                        L 676.7120196002601 574.6734787707317"
+                stroke="#808080" stroke-width="20" fill="none"/>
+<rect x="390.95895627976194" y="126.20717170808794" 
+                width="20" height="10" fill="#708090"/>
+<text x="400.95895627976194" y="183.5987049446179" 
+                text-anchor="middle" font-size="20" fill="white">1</text>
+<rect x="499.0934066965495" y="237.40119225874403" 
+                width="20" height="10" fill="#708090"/>
+<text x="509.0934066965495" y="320.9647039283918" 
+                text-anchor="middle" font-size="20" fill="white">2</text>
+<rect x="455.021692722904" y="87.28232967259754" 
+                width="20" height="10" fill="#708090"/>
+<text x="465.021692722904" y="180.06607867397946" 
+                text-anchor="middle" font-size="20" fill="white">3</text>
+<rect x="390.0806946886603" y="246.02582137299524" 
+                width="20" height="10" fill="#708090"/>
+<text x="400.0806946886603" y="314.9783266528049" 
+                text-anchor="middle" font-size="20" fill="white">4</text>
+<rect x="666.7120196002601" y="505.1707028234472" 
+                width="20" height="10" fill="#708090"/>
+<text x="676.7120196002601" y="574.6734787707317" 
+                text-anchor="middle" font-size="20" fill="white">5</text>
+<text x="400" y="30" text-anchor="middle" font-size="24" 
+              fill="#696969" filter="url(#map-glow)">map</text>
+<line x1="50" y1="570" x2="150" y2="570" 
+              stroke="#696969" stroke-width="2"/>
+<text x="100" y="590" text-anchor="middle" font-size="12" 
+              fill="#696969">10 ft</text>
 </svg>

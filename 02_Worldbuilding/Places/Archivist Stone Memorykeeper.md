@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-archivist-stone-memorykeeper-archivist-stone-memorykeeper.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

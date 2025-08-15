@@ -37,6 +37,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-the-seven-seals-the-seven-seals.svg)
+
+
 # The Seven Seals
 
 *Ancient guardians of reality's foundations*

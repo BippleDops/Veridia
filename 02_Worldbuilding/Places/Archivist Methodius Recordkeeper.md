@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-archivist-methodius-recordkeeper-archivist-methodius-recordkeeper.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

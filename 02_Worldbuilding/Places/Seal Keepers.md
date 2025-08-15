@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-seal-keepers-seal-keepers.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

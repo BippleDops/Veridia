@@ -1,16 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="1440" viewBox="0 0 2560 1440">
-  <defs>
-    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#0f2027"/>
-      <stop offset="100%" stop-color="#203a43"/>
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#grad)"/>
-  <circle cx="2176" cy="288" r="173" fill="#2c5364" opacity="0.25"/>
-  <g fill="#68d8d6" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif">
-    <text x="5%" y="50%" font-size="86" font-weight="700">Shadow Embassy</text>
-    <text x="5%" y="50%" dy="77" font-size="39" opacity="0.9">PORTRAIT • solemn • rim-lit</text>
-    <text x="5%" y="95%" font-size="30" opacity="0.8">16:9 · 2560x1440 · painterly, fantasy realism</text>
-  </g>
+<svg width="300" height="400" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg">
+<defs>
+
+        <linearGradient id="portrait-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#000000"/><stop offset="50%" stop-color="#1A0033"/><stop offset="100%" stop-color="#330066"/>
+        </linearGradient>
+
+        <filter id="portrait-shadow">
+          <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.3"/>
+        </filter>
+</defs>
+<rect width="300" height="400" fill="url(#portrait-bg)"/>
+<rect x="10" y="10" width="280" height="380" 
+              stroke="#1A0033" stroke-width="5" fill="none"/>
+<ellipse cx="150" cy="170" rx="80" ry="100" 
+              fill="#4B0082" filter="url(#portrait-shadow)"/>
+<ellipse cx="120" cy="150" rx="15" ry="20" fill="white"/>
+<ellipse cx="180" cy="150" rx="15" ry="20" fill="white"/>
+<circle cx="120" cy="150" r="10" fill="#1A0033"/>
+<circle cx="180" cy="150" r="10" fill="#1A0033"/>
+<path d="M 200 170 Q 245.53364891256058 199.55202066613396 265.5336489125606 219.55202066613396" 
+                  stroke="#6A0DAD" stroke-width="4" fill="none"/>
+<path d="M 150 220 Q 120.44797933386604 265.5336489125606 140.44797933386604 285.5336489125606" 
+                  stroke="#6A0DAD" stroke-width="4" fill="none"/>
+<path d="M 100 170 Q 54.46635108743939 140.44797933386607 74.46635108743939 160.44797933386607" 
+                  stroke="#6A0DAD" stroke-width="4" fill="none"/>
+<path d="M 150 120 Q 179.55202066613393 74.46635108743939 199.55202066613393 94.46635108743939" 
+                  stroke="#6A0DAD" stroke-width="4" fill="none"/>
+<rect x="30" y="330" width="240" height="40" 
+              fill="#1A0033"/>
+<text x="150" y="360" text-anchor="middle" 
+              font-size="18" fill="white">embassy</text>
 </svg>

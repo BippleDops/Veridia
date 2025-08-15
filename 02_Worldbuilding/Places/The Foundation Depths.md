@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-foundation-depths-the-foundation-depths.svg)
+
+
+> [!figure] View
 
 # The Foundation Depths
 *Where Aquabyssos Stands Upon Ancient Dreams*

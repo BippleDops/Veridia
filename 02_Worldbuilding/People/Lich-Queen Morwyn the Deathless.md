@@ -26,6 +26,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-lich-queen-morwyn-the-deathless-lich-queen-morwyn-the-deathless.svg)
+
+
+> [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements
 

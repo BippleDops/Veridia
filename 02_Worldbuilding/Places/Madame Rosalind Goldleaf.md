@@ -45,6 +45,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-madame-rosalind-goldleaf-madame-rosalind-goldleaf.svg)
+
+
+> [!figure] View
 
 # Madame Rosalind Goldleaf
 

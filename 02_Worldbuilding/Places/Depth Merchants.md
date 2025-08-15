@@ -41,6 +41,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-depth-merchants-depth-merchants.svg)
+
+
+> [!figure] View
 
 # Depth Merchants
 *Where the Deep Ocean Yields Its Treasures*

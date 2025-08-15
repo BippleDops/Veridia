@@ -23,6 +23,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-victoria-harbormane-v1-victoria-harbormane.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

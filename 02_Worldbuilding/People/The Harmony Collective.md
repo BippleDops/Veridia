@@ -31,6 +31,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-the-harmony-collective-the-harmony-collective.svg)
+
+
+> [!figure] Portrait
 
 # The Harmony Collective
 

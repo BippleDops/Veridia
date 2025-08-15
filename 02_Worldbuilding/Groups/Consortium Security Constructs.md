@@ -38,6 +38,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-consortium-security-constructs-consortium-security-constructs.svg)
+
+
+> [!figure] Heraldry
 
 # Consortium Security Constructs
 *The Crystal Guard, The Ironprice Legion, Corporate Justice*

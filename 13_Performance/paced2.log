@@ -855,3 +855,142 @@
 [worker2] Retry 1/2 for Portrait NPC Captain Thalia Stormguard V2 Captain Thalia Stormguard.svg.md
 [worker2] Failed: No context extracted
 [worker2] Retry 1/2 for Portrait NPC Captain Thornback Captain Thornback.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thornback V1 Captain Thornback.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thornback V2 Captain Thornback.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thorne Darkwater Captain Thorne Darkwater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 49 complete
+  • Generated: 0
+  • Failed: 245
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 50 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Thorne Darkwater V1 Captain Thorne Darkwater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thorne Darkwater V2 Captain Thorne Darkwater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thrace Deeprunner Captain Thrace Deeprunner.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thrace Deeprunner V1 Captain Thrace Deeprunner.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thrace Deeprunner V2 Captain Thrace Deeprunner.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 50 complete
+  • Generated: 0
+  • Failed: 250
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+
+[worker2] ⏸️  Taking a 2 minute break...
+  Reason: Pacing protocol activated
+  Resume at: 9:02:25 PM
+
+[worker2] ▶️  Resuming generation...
+
+[worker2] Processing batch 51 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Threshold Captain Threshold.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Threshold V1 Captain Threshold.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Threshold V2 Captain Threshold.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Torren Stormwright Captain Torren Stormwright.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Torren Stormwright V1 Captain Torren Stormwright.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 51 complete
+  • Generated: 0
+  • Failed: 255
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 52 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Torren Stormwright V2 Captain Torren Stormwright.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Torrent Freewater Captain Torrent Freewater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Torrent Freewater V1 Captain Torrent Freewater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Torrent Freewater V2 Captain Torrent Freewater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Torrent Swiftcurrent Captain Torrent Swiftcurrent.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 52 complete
+  • Generated: 0
+  • Failed: 260
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 53 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Torrent Swiftcurrent V1 Captain Torrent Swiftcurrent.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Torrent Swiftcurrent V2 Captain Torrent Swiftcurrent.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Truth Ironwill Captain Truth Ironwill.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Truth Ironwill V1 Captain Truth Ironwill.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Truth Ironwill V2 Captain Truth Ironwill.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 53 complete
+  • Generated: 0
+  • Failed: 265
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 54 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Twin Reality Marsh Captain Twin Reality Marsh.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Twin Reality Marsh V1 Captain Twin Reality Marsh.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Twin Reality Marsh V2 Captain Twin Reality Marsh.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Valeria V1 Captain Valeria.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Valeria V2 Captain Valeria.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 54 complete
+  • Generated: 0
+  • Failed: 270
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 55 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Voidguard Captain Voidguard.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Voidguard V1 Captain Voidguard.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Voidguard V2 Captain Voidguard.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Zara Stormwind Captain Zara Stormwind.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Zara Stormwind V1 Captain Zara Stormwind.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 55 complete
+  • Generated: 0
+  • Failed: 275
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 56 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Zara Stormwind V2 Captain Zara Stormwind.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Castellan Ironledger Iii Castellan Ironledger Iii.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Castellan Ironledger Iii V1 Castellan Ironledger Iii.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Castellan Ironledger Iii V2 Castellan Ironledger Iii.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Character Relationship Web Core Npcs Character Relationship Web Core Npcs.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 56 complete
+  • Generated: 0
+  • Failed: 280
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...

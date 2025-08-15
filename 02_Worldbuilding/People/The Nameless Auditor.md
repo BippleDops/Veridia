@@ -33,6 +33,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-the-nameless-auditor-the-nameless-auditor.svg)
+
+
+> [!figure] Portrait
 
 # The Nameless Auditor
 *Master of Secrets, The Information Broker Supreme*

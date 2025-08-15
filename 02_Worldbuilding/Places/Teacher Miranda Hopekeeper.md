@@ -35,6 +35,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-teacher-miranda-hopekeeper-teacher-miranda-hopekeeper.svg)
+
+
+> [!figure] View
 
 # The Hopekeeper Academy
 

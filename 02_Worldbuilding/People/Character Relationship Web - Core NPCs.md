@@ -29,6 +29,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-character-relationship-web-core-npcs-character-relationship-web-core-npcs.svg)
+
+
+> [!figure] Portrait
 
 # Character Relationship Web - Core NPCs
 *How the Major Characters' Backstories Interconnect and Create Plot Opportunities*

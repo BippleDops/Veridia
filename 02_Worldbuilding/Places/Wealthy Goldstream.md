@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-wealthy-goldstream-v1-wealthy-goldstream.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

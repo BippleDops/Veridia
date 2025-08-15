@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-harbor-master-luna-freedrift-harbor-master-luna-freedrift.svg)
+
+
+> [!figure] Portrait
 
 # Harbor Master Luna Freedrift
 *The Current's Voice, She Who Opens All Ports, The People's Harbor*

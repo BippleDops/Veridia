@@ -38,6 +38,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-trader-grimm-voidheart-trader-grimm-voidheart.png)
+
+
 # Trader Grimm Voidheart
 
 ## 🔧 Deep Evaluation Improvements

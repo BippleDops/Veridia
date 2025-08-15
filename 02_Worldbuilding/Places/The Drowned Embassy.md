@@ -19,6 +19,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-drowned-embassy-the-drowned-embassy.svg)
+
+
+> [!figure] View
 
 # The Drowned Embassy
 

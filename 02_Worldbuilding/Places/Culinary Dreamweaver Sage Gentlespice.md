@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-culinary-dreamweaver-sage-gentlespice-culinary-dreamweaver-sage-gentlespice.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -23,6 +23,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-navigator-abyssal-truthseeker-navigator-abyssal-truthseeker.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

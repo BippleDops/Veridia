@@ -33,6 +33,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-scholar-vivienne-the-chronicler-scholar-vivienne-the-chronicler.svg)
+
+
+> [!figure] Portrait
 
 # Scholar Vivienne the Chronicler
 *Keeper of Shard Lore, Master of Ancient Texts*

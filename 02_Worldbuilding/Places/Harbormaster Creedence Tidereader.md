@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-harbormaster-creedence-tidereader-harbormaster-creedence-tidereader.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

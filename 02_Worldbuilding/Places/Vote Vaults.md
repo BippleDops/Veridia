@@ -36,6 +36,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-vote-vaults-v1-vote-vaults.svg)
+
+
 # Vote Vaults
 
 ## Overview

@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-acolyte-sister-tidal-deepfaith-acolyte-sister-tidal-deepfaith.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

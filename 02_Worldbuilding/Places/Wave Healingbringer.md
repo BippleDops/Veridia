@@ -23,6 +23,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-wave-healingbringer-v1-wave-healingbringer.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -36,6 +36,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-the-depth-wardens-the-depth-wardens.svg)
+
+
+> [!figure] Portrait
 
 # The Depth Wardens
 *Elite Guardians of the Deepest Places*

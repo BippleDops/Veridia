@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-noble-quarter-salons-noble-quarter-salons.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

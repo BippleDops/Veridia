@@ -45,6 +45,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-reflection-pools-surgical-theater-reflection-pools-surgical-theater.svg)
+
+
+> [!figure] View
 
 # Reflection Pools - Surgical Theater
 

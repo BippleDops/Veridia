@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-captain-lyanna-brightshield-captain-lyanna-brightshield.svg)
+
+
+> [!figure] Portrait
 
 # Captain Lyanna Brightshield
 *The Incorruptible, Rising Star of the Crystal Wardens*

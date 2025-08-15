@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-high-chamberlain-nautilus-deepcurrent-high-chamberlain-nautilus-deepcurrent.svg)
+
+
+> [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements
 

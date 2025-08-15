@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-captain-scale-walker-captain-scale-walker.svg)
+
+
+> [!figure] Portrait
 
 # Captain Scale-Walker
 *The Deep Navigator, Keeper of Ancient Routes*

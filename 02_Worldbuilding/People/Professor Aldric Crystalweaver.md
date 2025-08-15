@@ -23,6 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-professor-aldric-crystalweaver-professor-aldric-crystalweaver.svg)
+
+
 # Professor Aldric Crystalweaver
 
 ## Overview

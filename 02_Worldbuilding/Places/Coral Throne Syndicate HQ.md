@@ -38,6 +38,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-coral-throne-syndicate-hq-coral-throne-syndicate-hq.svg)
+
+
+> [!figure] View
 
 # Coral Throne Syndicate HQ
 *The Crimson Fortress - Where Blood Coral Reigns Supreme*

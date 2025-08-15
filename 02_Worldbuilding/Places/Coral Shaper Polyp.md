@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-coral-shaper-polyp-coral-shaper-polyp.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

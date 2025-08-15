@@ -45,6 +45,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-memory-farmers-memory-farmers.svg)
+
+
+> [!figure] View
 
 # Memory Farmers
 *Harvesters of Experience and Consciousness*

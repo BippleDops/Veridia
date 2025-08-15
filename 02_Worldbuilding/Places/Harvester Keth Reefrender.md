@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-harvester-keth-reefrender-harvester-keth-reefrender.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

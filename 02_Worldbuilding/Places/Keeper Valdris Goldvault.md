@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-keeper-valdris-goldvault-keeper-valdris-goldvault.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

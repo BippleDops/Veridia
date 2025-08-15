@@ -41,6 +41,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-parliament-of-echoes-public-gallery-parliament-of-echoes-public-gallery.png)
+
+
 # Parliament of Echoes - Public Gallery
 
 ## Overview

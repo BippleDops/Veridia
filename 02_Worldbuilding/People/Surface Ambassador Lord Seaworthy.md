@@ -32,6 +32,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-surface-ambassador-lord-seaworthy-surface-ambassador-lord-seaworthy.svg)
+
+
+> [!figure] Portrait
 
 # Surface Ambassador Lord Seaworthy
 *Bridge Between Worlds, Voice of the Surface Kingdoms*

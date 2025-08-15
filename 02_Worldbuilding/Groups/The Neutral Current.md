@@ -23,6 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-the-neutral-current-the-neutral-current.svg)
+
+
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

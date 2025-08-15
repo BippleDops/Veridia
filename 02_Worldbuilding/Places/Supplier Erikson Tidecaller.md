@@ -41,6 +41,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-supplier-erikson-tidecaller-supplier-erikson-tidecaller.svg)
+
+
+> [!figure] View
 
 # Supplier Erikson Tidecaller
 *Master of Tidal Treasures*

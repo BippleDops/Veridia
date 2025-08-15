@@ -36,6 +36,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-the-liminal-trading-company-the-liminal-trading-company.svg)
+
+
+> [!figure] Heraldry
 
 # The Liminal Trading Company
 *Masters of Between-World Commerce, The Dimensional Merchants*

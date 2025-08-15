@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-scribe-master-elena-truthkeeper-scribe-master-elena-truthkeeper.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

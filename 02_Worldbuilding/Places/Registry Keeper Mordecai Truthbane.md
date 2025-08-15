@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-registry-keeper-mordecai-truthbane-registry-keeper-mordecai-truthbane.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-siren-maeve-echoborn-siren-maeve-echoborn.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

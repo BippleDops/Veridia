@@ -30,6 +30,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-market-mystery-market-mystery.svg)
+
+
+> [!figure] View
 
 # Market Mystery
 

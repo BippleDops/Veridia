@@ -40,6 +40,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-memory-storm-fields-the-memory-storm-fields.svg)
+
+
+> [!figure] View
 
 # The Memory Storm Fields
 

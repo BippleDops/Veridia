@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-chief-inspector-magnus-ledgerkeep-chief-inspector-magnus-ledgerkeep.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -36,6 +36,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-shadow-wells-shadow-wells.svg)
+
+
+> [!figure] View
 
 # Shadow Wells
 

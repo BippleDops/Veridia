@@ -36,6 +36,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-merchant-lord-silas-copperfield-merchant-lord-silas-copperfield.svg)
+
+
 # Merchant Lord Silas Copperfield
 
 ## 🔧 Deep Evaluation Improvements

@@ -23,6 +23,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-the-deepwater-trading-consortium-the-deepwater-trading-consortium.svg)
+
+
+> [!figure] Heraldry
 
 # The Deepwater Trading Consortium
 *Masters of Ocean Commerce*

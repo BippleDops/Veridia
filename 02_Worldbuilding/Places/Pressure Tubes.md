@@ -26,6 +26,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-pressure-tubes-pressure-tubes.svg)
+
+
+> [!figure] View
 
 # Pressure Tubes
 *The Circulatory System of the Deep Realm*

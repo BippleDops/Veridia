@@ -26,6 +26,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-abyssos-prime-upper-districts-abyssos-prime-upper-districts.png)
+
+
+> [!figure] View
 
 # Abyssos Prime Upper Districts
 *The Crown of the Deep Capital, Where Light Still Remembers the Surface*

@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-master-archivist-thomas-scrollkeeper.png)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-crystal-powered-vessels-crystal-powered-vessels.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

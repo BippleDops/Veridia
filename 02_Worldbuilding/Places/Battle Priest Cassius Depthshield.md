@@ -23,6 +23,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-battle-priest-cassius-depthshield-battle-priest-cassius-depthshield.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

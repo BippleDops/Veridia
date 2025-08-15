@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-temple-scholar-depth-seer-temple-scholar-depth-seer.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

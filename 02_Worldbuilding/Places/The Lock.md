@@ -37,6 +37,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-lock-the-lock.svg)
+
+
+> [!figure] View
 
 # The Lock
 *The Last Barrier Between Worlds*

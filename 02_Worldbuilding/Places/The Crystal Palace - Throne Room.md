@@ -26,6 +26,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-crystal-palace-throne-room-the-crystal-palace-throne-room.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

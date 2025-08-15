@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-the-crimson-sage-the-crimson-sage.svg)
+
+
+> [!figure] Portrait
 
 # The Crimson Sage
 *The Wandering Scholar, Keeper of Forgotten Truths*

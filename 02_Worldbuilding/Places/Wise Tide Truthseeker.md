@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-wise-tide-truthseeker-v1-wise-tide-truthseeker.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

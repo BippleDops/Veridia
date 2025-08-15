@@ -36,6 +36,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-ancient-mer-folk-empire-ancient-mer-folk-empire.svg)
+
+
 # Ancient Mer-Folk Empire
 
 ## Overview

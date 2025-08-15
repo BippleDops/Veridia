@@ -26,6 +26,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-living-tide-temples-the-living-tide-temples.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

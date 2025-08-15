@@ -32,6 +32,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-the-crimson-shard-guardian-the-crimson-shard-guardian.svg)
+
+
+> [!figure] Portrait
 
 # The Crimson Shard Guardian
 *Bound Elemental, Herald of the Blood Plague*

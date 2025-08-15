@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-symphony-of-the-abyss-recipe-symphony-of-the-abyss-recipe.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -46,6 +46,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-shrinking-sanctuary-the-shrinking-sanctuary.svg)
+
+
+> [!figure] View
 
 # The Shrinking Sanctuary
 

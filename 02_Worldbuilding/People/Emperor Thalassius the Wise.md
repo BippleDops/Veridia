@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-emperor-thalassius-the-wise-emperor-thalassius-the-wise.svg)
+
+
+> [!figure] Portrait
 
 # Emperor Thalassius the Wise
 

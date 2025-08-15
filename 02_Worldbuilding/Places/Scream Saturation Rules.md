@@ -27,6 +27,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-scream-saturation-rules-scream-saturation-rules.svg)
+
+
+> [!figure] View
 
 # Scream Saturation Rules
 

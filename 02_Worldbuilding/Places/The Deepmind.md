@@ -37,6 +37,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-deepmind-the-deepmind.svg)
+
+
+> [!figure] View
 
 # The Deepmind
 *The Living Palace of Thought, Memory Made Manifest, The Neural Throne*

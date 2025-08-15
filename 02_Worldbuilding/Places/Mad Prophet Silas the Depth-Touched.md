@@ -35,6 +35,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-mad-prophet-silas-the-depth-touched-mad-prophet-silas-the-depth-touched.svg)
+
+
 # Mad Prophet Silas the Depth-Touched
 
 ## 🔧 Deep Evaluation Improvements

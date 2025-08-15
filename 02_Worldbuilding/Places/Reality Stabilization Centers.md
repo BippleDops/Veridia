@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-reality-stabilization-centers-reality-stabilization-centers.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

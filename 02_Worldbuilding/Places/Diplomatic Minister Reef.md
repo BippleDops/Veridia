@@ -23,6 +23,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-diplomatic-minister-reef-diplomatic-minister-reef.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

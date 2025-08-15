@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-inter-realm-diplomacy-inter-realm-diplomacy.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

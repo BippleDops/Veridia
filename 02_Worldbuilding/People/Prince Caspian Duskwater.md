@@ -40,6 +40,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-prince-caspian-duskwater-prince-caspian-duskwater.svg)
+
+
+> [!figure] Portrait
 
 # Prince Caspian Duskwater
 *The Exiled Heir, The Forgotten Prince*

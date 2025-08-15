@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-reef-guard-captain-torrent-shellborn-reef-guard-captain-torrent-shellborn.svg)
+
+
+> [!figure] View
 
 # Shellborn Reef Station
 *Guardian of Living Waters*

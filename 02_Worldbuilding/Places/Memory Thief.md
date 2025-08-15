@@ -43,6 +43,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-memory-thief-memory-thief.svg)
+
+
+> [!figure] View
 
 # The Memory Thief
 *Dealer in Stolen Thoughts*

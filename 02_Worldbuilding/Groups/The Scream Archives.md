@@ -20,6 +20,10 @@ world: Both
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-the-scream-archives-the-scream-archives.svg)
+
+
+> [!figure] Heraldry
 
 ## Player-Facing Summary
 

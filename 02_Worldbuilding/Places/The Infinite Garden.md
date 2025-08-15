@@ -28,6 +28,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-infinite-garden-the-infinite-garden.svg)
+
+
+> [!figure] View
 
 # The Infinite Garden
 

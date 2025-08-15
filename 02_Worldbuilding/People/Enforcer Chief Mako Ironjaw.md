@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-enforcer-chief-mako-ironjaw-enforcer-chief-mako-ironjaw.svg)
+
+
+> [!figure] Portrait
 
 # Enforcer Chief Mako Ironjaw
 *The Steel-Toothed Hunter, Terror of the Black Markets, The Emperor's Fang*

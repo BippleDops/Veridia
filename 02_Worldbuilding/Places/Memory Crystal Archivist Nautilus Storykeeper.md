@@ -27,6 +27,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-memory-crystal-archivist-nautilus-storykeeper-memory-crystal-archivist-nautilus-storykeeper.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

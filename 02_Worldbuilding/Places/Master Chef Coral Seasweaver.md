@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-master-chef-coral-seasweaver-master-chef-coral-seasweaver.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

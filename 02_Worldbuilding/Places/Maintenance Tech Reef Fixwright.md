@@ -27,6 +27,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-maintenance-tech-reef-fixwright-maintenance-tech-reef-fixwright.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-memoriam-keeper-marcus-remembrance-memoriam-keeper-marcus-remembrance.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

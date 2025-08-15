@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-harbor-guild-the-harbor-guild.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

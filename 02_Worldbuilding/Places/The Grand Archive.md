@@ -22,6 +22,10 @@ world: Both
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-grand-archive-the-grand-archive.svg)
+
+
+> [!figure] View
 
 ## Player-Facing Summary
 

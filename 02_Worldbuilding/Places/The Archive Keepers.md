@@ -21,6 +21,10 @@ world: Aquabyssos
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-archive-keepers-the-archive-keepers.svg)
+
+
+> [!figure] View
 
 ## Player-Facing Summary
 

@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-war-machine-engineers-v1-war-machine-engineers.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

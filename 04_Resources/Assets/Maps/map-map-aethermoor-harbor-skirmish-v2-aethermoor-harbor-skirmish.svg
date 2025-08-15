@@ -1,16 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="1440" viewBox="0 0 2560 1440">
-  <defs>
-    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#2c2a4a"/>
-      <stop offset="100%" stop-color="#e84545"/>
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#grad)"/>
-  <circle cx="2176" cy="288" r="173" fill="#903749" opacity="0.25"/>
-  <g fill="#53354a" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif">
-    <text x="5%" y="50%" font-size="86" font-weight="700">Aethermoor Harbor Skirmish</text>
-    <text x="5%" y="50%" dy="77" font-size="39" opacity="0.9">MAP • solemn • rim-lit</text>
-    <text x="5%" y="95%" font-size="30" opacity="0.8">16:9 · 2560x1440 · concept art, high detail</text>
-  </g>
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+<defs>
+
+        <linearGradient id="aethermoor-sky" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#87CEEB"/><stop offset="50%" stop-color="#98D8E8"/><stop offset="100%" stop-color="#B0E0E6"/>
+        </linearGradient>
+
+        <linearGradient id="aethermoor-sunset" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#FF6B6B"/><stop offset="50%" stop-color="#FFD93D"/><stop offset="100%" stop-color="#6BCB77"/>
+        </linearGradient>
+
+        <linearGradient id="aethermoor-brass" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#B8860B"/><stop offset="50%" stop-color="#DAA520"/><stop offset="100%" stop-color="#FFD700"/>
+        </linearGradient>
+<pattern id="aethermoor-pattern" x="0" y="0" width="50" height="50" patternUnits="userSpaceOnUse">
+                <circle cx="10" cy="10" r="3" fill="white"/>
+                <circle cx="30" cy="25" r="4" fill="white"/>
+                <circle cx="40" cy="40" r="2" fill="white"/>
+                </pattern>
+
+        <filter id="map-shadow">
+          <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.3"/>
+        </filter>
+
+        <filter id="map-glow">
+          <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+          <feMerge>
+            <feMergeNode in="coloredBlur"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+</defs>
+<rect width="800" height="600" fill="url(#aethermoor-sky)"/>
+<circle cx="609.3174806159479" cy="116.47287374750232" r="62.01052791257855"
+                  fill="#F0E68C" stroke="#87CEEB" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<circle cx="713.0231455495057" cy="461.76348500245" r="70.4357089767031"
+                  fill="#F0E68C" stroke="#87CEEB" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<circle cx="264.8390839448357" cy="302.220082592723" r="33.805683021206804"
+                  fill="#F0E68C" stroke="#87CEEB" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<circle cx="385.018453106364" cy="534.6357387169974" r="45.22769588207293"
+                  fill="#F0E68C" stroke="#87CEEB" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<circle cx="696.2687568213056" cy="430.88684720590345" r="75.50588262645581"
+                  fill="#F0E68C" stroke="#87CEEB" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<path d="M 609.3174806159479 116.47287374750232 
+                        L 713.0231455495057 461.76348500245"
+                stroke="#FFD700" stroke-width="20" fill="none"/>
+<path d="M 713.0231455495057 461.76348500245 
+                        L 264.8390839448357 302.220082592723"
+                stroke="#FFD700" stroke-width="20" fill="none"/>
+<path d="M 264.8390839448357 302.220082592723 
+                        L 385.018453106364 534.6357387169974"
+                stroke="#FFD700" stroke-width="20" fill="none"/>
+<path d="M 385.018453106364 534.6357387169974 
+                        L 696.2687568213056 430.88684720590345"
+                stroke="#FFD700" stroke-width="20" fill="none"/>
+<rect x="599.3174806159479" y="49.462345834923774" 
+                width="20" height="10" fill="#DAA520"/>
+<text x="609.3174806159479" y="116.47287374750232" 
+                text-anchor="middle" font-size="20" fill="white">1</text>
+<rect x="703.0231455495057" y="375.5269136544977" 
+                width="20" height="10" fill="#DAA520"/>
+<text x="713.0231455495057" y="461.76348500245" 
+                text-anchor="middle" font-size="20" fill="white">2</text>
+<rect x="254.8390839448357" y="230.52691379865794" 
+                width="20" height="10" fill="#DAA520"/>
+<text x="264.8390839448357" y="302.220082592723" 
+                text-anchor="middle" font-size="20" fill="white">3</text>
+<rect x="375.018453106364" y="484.40804283492446" 
+                width="20" height="10" fill="#DAA520"/>
+<text x="385.018453106364" y="534.6357387169974" 
+                text-anchor="middle" font-size="20" fill="white">4</text>
+<rect x="686.2687568213056" y="350.38096457944766" 
+                width="20" height="10" fill="#DAA520"/>
+<text x="696.2687568213056" y="430.88684720590345" 
+                text-anchor="middle" font-size="20" fill="white">5</text>
+<text x="400" y="30" text-anchor="middle" font-size="24" 
+              fill="#87CEEB" filter="url(#map-glow)">skirmish</text>
+<line x1="50" y1="570" x2="150" y2="570" 
+              stroke="#87CEEB" stroke-width="2"/>
+<text x="100" y="590" text-anchor="middle" font-size="12" 
+              fill="#87CEEB">10 ft</text>
 </svg>

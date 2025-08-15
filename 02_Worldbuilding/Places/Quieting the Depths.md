@@ -29,6 +29,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-quieting-the-depths-quieting-the-depths.svg)
+
+
+> [!figure] View
 
 # Quieting the Depths
 

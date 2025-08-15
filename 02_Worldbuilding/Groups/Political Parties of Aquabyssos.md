@@ -28,6 +28,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-political-parties-of-aquabyssos-political-parties-of-aquabyssos.svg)
+
+
+> [!figure] Heraldry
 
 # Political Parties of Aquabyssos
 *The Fractured Spectrum of Underwater Democracy*

@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-quartermaster-shadow-supply-quartermaster-shadow-supply.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

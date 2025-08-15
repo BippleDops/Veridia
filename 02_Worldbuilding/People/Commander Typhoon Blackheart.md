@@ -32,6 +32,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-commander-typhoon-blackheart-commander-typhoon-blackheart.svg)
+
+
+> [!figure] Portrait
 
 # Commander Typhoon Blackheart
 *Iron Fist of the Depths, Guardian of Order*

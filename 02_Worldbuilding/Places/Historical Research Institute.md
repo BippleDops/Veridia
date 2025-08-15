@@ -23,6 +23,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-historical-research-institute-historical-research-institute.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -28,6 +28,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-into-the-blue-into-the-blue.svg)
+
+
+> [!figure] View
 
 # Into the Blue
 

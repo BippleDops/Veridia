@@ -1,16 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="3072" viewBox="0 0 2048 3072">
-  <defs>
-    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#14213d"/>
-      <stop offset="100%" stop-color="#fca311"/>
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#grad)"/>
-  <circle cx="1741" cy="614" r="246" fill="#e5e5e5" opacity="0.25"/>
-  <g fill="#000000" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif">
-    <text x="5%" y="50%" font-size="123" font-weight="700">Underwater Fermentation</text>
-    <text x="5%" y="50%" dy="111" font-size="55" opacity="0.9">LOCATION • on-brand • cinematic</text>
-    <text x="5%" y="95%" font-size="43" opacity="0.8">2:3 · 2048x3072 · concept art, high detail</text>
-  </g>
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+<defs>
+
+        <linearGradient id="loc-ocean" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#001F3F"/><stop offset="50%" stop-color="#003D7A"/><stop offset="100%" stop-color="#0066CC"/>
+        </linearGradient>
+
+        <linearGradient id="loc-depth" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#000033"/><stop offset="50%" stop-color="#001F3F"/><stop offset="100%" stop-color="#003366"/>
+        </linearGradient>
+
+        <linearGradient id="loc-coral" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#FF6B6B"/><stop offset="50%" stop-color="#FF8E53"/><stop offset="100%" stop-color="#FE6B8B"/>
+        </linearGradient>
+
+        <filter id="loc-shadow">
+          <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.3"/>
+        </filter>
+</defs>
+<rect width="400" height="400" fill="url(#loc-ocean)"/>
+<ellipse cx="232.8633367936303" cy="349.5560000571848" rx="40.19834992559808" 
+                  ry="62.12401205008899" fill="#004C99" 
+                  opacity="0.7"/>
+<ellipse cx="78.84213099697122" cy="280.9321247414737" rx="46.17211711509455" 
+                  ry="64.55913399637856" fill="#004C99" 
+                  opacity="0.7"/>
+<ellipse cx="203.81977558838523" cy="329.6430299405179" rx="27.707202317980872" 
+                  ry="34.02778826876701" fill="#004C99" 
+                  opacity="0.7"/>
+<ellipse cx="342.7922016713529" cy="301.63421959356515" rx="44.51232711218441" 
+                  ry="55.56057470713505" fill="#004C99" 
+                  opacity="0.7"/>
+<ellipse cx="161.92012226477934" cy="271.942794141526" rx="47.39117725489266" 
+                  ry="54.74425644057447" fill="#004C99" 
+                  opacity="0.7"/>
+<ellipse cx="41.75960670241632" cy="339.8230356689506" rx="15" ry="8" 
+                  fill="#00A3E0" transform="rotate(-14.27673368118282 41.75960670241632 339.8230356689506)"/>
+<ellipse cx="136.15959405372777" cy="263.2695875524115" rx="15" ry="8" 
+                  fill="#00A3E0" transform="rotate(-9.51034856953647 136.15959405372777 263.2695875524115)"/>
+<ellipse cx="231.39877603174975" cy="189.04195303089895" rx="15" ry="8" 
+                  fill="#00A3E0" transform="rotate(3.698971828201728 231.39877603174975 189.04195303089895)"/>
+<ellipse cx="37.825057099411865" cy="176.85653882531176" rx="15" ry="8" 
+                  fill="#00A3E0" transform="rotate(11.14683748345966 37.825057099411865 176.85653882531176)"/>
+<ellipse cx="27.19152611229663" cy="166.61324547345893" rx="15" ry="8" 
+                  fill="#00A3E0" transform="rotate(7.099341653866894 27.19152611229663 166.61324547345893)"/>
+<ellipse cx="288.9576151912868" cy="61.20916799414575" rx="15" ry="8" 
+                  fill="#00A3E0" transform="rotate(-8.726736833886823 288.9576151912868 61.20916799414575)"/>
+<ellipse cx="291.7287123711563" cy="109.61001187827037" rx="15" ry="8" 
+                  fill="#00A3E0" transform="rotate(-7.876300672466 291.7287123711563 109.61001187827037)"/>
+<ellipse cx="372.6339758225857" cy="142.71980342485108" rx="15" ry="8" 
+                  fill="#00A3E0" transform="rotate(1.3686817904314914 372.6339758225857 142.71980342485108)"/>
+<circle cx="161.31375498287727" cy="143.84821364668062" r="3.8644680929024355" fill="white" opacity="0.3"/>
+<circle cx="194.76277823563618" cy="352.4509791762121" r="2.585223140102004" fill="white" opacity="0.3"/>
+<circle cx="351.7531449851519" cy="132.97408408514042" r="2.3526614002063932" fill="white" opacity="0.3"/>
+<circle cx="346.1423208149672" cy="111.74376160919506" r="2.9230838465797704" fill="white" opacity="0.3"/>
+<circle cx="372.98443437531176" cy="277.30538557450546" r="4.494456843660529" fill="white" opacity="0.3"/>
+<circle cx="247.26277905356673" cy="294.34253534542654" r="3.4451494338874866" fill="white" opacity="0.3"/>
+<circle cx="320.05158537791306" cy="133.0083280865768" r="3.363920485893733" fill="white" opacity="0.3"/>
+<circle cx="35.85791700154029" cy="348.03283912080775" r="4.79189941646754" fill="white" opacity="0.3"/>
+<circle cx="82.94383983149038" cy="397.0257889454567" r="4.161049632487487" fill="white" opacity="0.3"/>
+<circle cx="174.99828324799998" cy="177.87210653507623" r="5.606077224328436" fill="white" opacity="0.3"/>
+<circle cx="223.76119014984312" cy="349.91607226456824" r="2.16374906675387" fill="white" opacity="0.3"/>
+<circle cx="193.14020500463" cy="87.05579122278237" r="4.605994216339708" fill="white" opacity="0.3"/>
+<circle cx="262.20264827525307" cy="338.4424675666912" r="3.156128208135839" fill="white" opacity="0.3"/>
+<circle cx="27.24241963944465" cy="148.3716228364718" r="3.7123306360887685" fill="white" opacity="0.3"/>
+<circle cx="265.6767672557838" cy="341.51631131667773" r="3.7051936123253326" fill="white" opacity="0.3"/>
+<circle cx="314.55613459474546" cy="299.9464098202444" r="2.4021122357648976" fill="white" opacity="0.3"/>
+<circle cx="34.660899137936326" cy="176.74247988414322" r="4.713919239472267" fill="white" opacity="0.3"/>
+<circle cx="131.17917331002707" cy="63.582608422962" r="3.6612697725542795" fill="white" opacity="0.3"/>
+<circle cx="284.6015832582648" cy="217.4404338020583" r="4.9969809308974025" fill="white" opacity="0.3"/>
+<circle cx="113.1418872990825" cy="365.592061147524" r="3.296440893668984" fill="white" opacity="0.3"/>
+<rect x="100" y="20" width="200" height="40" 
+              fill="#0066CC" opacity="0.8"/>
+<text x="200" y="45" text-anchor="middle" font-size="20" 
+              fill="white">fermentation</text>
 </svg>

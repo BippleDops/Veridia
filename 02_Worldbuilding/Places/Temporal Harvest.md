@@ -35,6 +35,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-temporal-harvest-temporal-harvest.svg)
+
+
+> [!figure] View
 
 # Temporal Harvest
 

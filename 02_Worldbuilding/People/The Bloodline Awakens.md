@@ -39,6 +39,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-the-bloodline-awakens-the-bloodline-awakens.svg)
+
+
+> [!figure] Portrait
 
 # The Bloodline Awakens
 *When Ancient Heritage Stirs to Life*

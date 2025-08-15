@@ -38,6 +38,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-sage-lyralei-starweaver-sage-lyralei-starweaver.svg)
+
+
 # Sage Lyralei Starweaver
 
 ## 🔧 Deep Evaluation Improvements

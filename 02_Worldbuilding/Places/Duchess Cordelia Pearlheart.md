@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-duchess-cordelia-pearlheart-duchess-cordelia-pearlheart.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

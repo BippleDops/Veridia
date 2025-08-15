@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-portal-terminal-central-portal-terminal-central.png)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

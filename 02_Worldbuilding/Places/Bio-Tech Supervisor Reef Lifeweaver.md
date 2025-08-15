@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-bio-tech-supervisor-reef-lifeweaver-bio-tech-supervisor-reef-lifeweaver.png)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

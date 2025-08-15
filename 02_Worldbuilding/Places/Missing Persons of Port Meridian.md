@@ -30,6 +30,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-missing-persons-of-port-meridian-missing-persons-of-port-meridian.svg)
+
+
+> [!figure] View
 
 # Missing Persons of Port Meridian
 

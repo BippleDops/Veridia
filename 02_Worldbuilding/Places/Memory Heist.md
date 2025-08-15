@@ -44,6 +44,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-memory-heist-memory-heist.svg)
+
+
 # Memory Heist
 
 ## Overview

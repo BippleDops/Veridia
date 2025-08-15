@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-shadow-markets-new-the-shadow-markets-new.svg)
+
+
+> [!figure] View
 
 # The Shadow Markets
 *Where Forbidden Goods Find Willing Buyers*

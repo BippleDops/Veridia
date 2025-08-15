@@ -29,6 +29,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-market-heist-market-heist.svg)
+
+
+> [!figure] View
 
 # Market Heist
 

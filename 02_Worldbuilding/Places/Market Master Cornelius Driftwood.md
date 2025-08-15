@@ -38,6 +38,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-market-master-cornelius-driftwood-market-master-cornelius-driftwood.svg)
+
+
 # Market Master Cornelius Driftwood
 
 ## 🔧 Deep Evaluation Improvements

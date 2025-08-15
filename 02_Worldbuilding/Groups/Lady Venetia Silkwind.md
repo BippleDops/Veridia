@@ -36,6 +36,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-lady-venetia-silkwind-lady-venetia-silkwind.svg)
+
+
+> [!figure] Heraldry
 
 # The Silk Trade Guild
 *Weavers of Dreams, The Golden Thread, Masters of Luxury Commerce*

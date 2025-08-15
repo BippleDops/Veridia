@@ -27,6 +27,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-commander-reef-shadowstrike-commander-reef-shadowstrike.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

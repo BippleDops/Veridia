@@ -29,6 +29,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-constellation-mystery-the-constellation-mystery.png)
+
+
+> [!figure] View
 
 # The Constellation Mystery
 

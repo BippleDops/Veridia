@@ -23,6 +23,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-royal-chaplain-magnus-goldcurrent-royal-chaplain-magnus-goldcurrent.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

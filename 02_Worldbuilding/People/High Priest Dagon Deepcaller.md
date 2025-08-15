@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-high-priest-dagon-deepcaller-high-priest-dagon-deepcaller.svg)
+
+
+> [!figure] Portrait
 
 # High Priest Dagon Deepcaller
 *Prophet of the Depths, Voice of the Leviathans*

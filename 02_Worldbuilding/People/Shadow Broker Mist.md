@@ -26,6 +26,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-shadow-broker-mist-shadow-broker-mist.svg)
+
+
+> [!figure] Portrait
 
 # Shadow Broker Mist
 *The Whisper in the Dark, She Who Sells Secrets, The Living Shadow*

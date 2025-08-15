@@ -32,6 +32,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-brother-matthias-the-amber-bearer-brother-matthias-the-amber-bearer.svg)
+
+
+> [!figure] Portrait
 
 # Brother Matthias the Amber Bearer
 *Unwitting Guardian of the Amber Shard, The Righteous Crusader*

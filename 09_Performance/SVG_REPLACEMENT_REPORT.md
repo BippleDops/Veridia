@@ -1,0 +1,75 @@
+# SVG Replacement Report
+
+Generated: 2025-08-15T02:06:50.835Z
+
+## Summary
+
+- Total SVG files found: 4039
+- Successfully replaced: 4039
+- Success rate: 100.0%
+
+## Replacement Details
+
+### location (2160 files)
+
+- 04_Resources/Assets/Locations/location-city-aboleth-adjunct-yzz-aboleth-adjunct-yzz.svg
+- 04_Resources/Assets/Locations/location-city-aboleth-adjunct-yzz-v1-aboleth-adjunct-yzz.svg
+- 04_Resources/Assets/Locations/location-city-abyss-currentbinder-abyss-currentbinder.svg
+- 04_Resources/Assets/Locations/location-city-abyss-currentbinder-v1-abyss-currentbinder.svg
+- 04_Resources/Assets/Locations/location-city-abyssal-crystals-abyssal-crystals.svg
+- 04_Resources/Assets/Locations/location-city-abyssal-crystals-v1-abyssal-crystals.svg
+- 04_Resources/Assets/Locations/location-city-abyssal-territories-abyssal-territories.svg
+- 04_Resources/Assets/Locations/location-city-abyssal-territories-v1-abyssal-territories.svg
+- 04_Resources/Assets/Locations/location-city-abyssos-prime-2-abyssos-prime-2.svg
+- 04_Resources/Assets/Locations/location-city-abyssos-prime-2-v1-abyssos-prime-2.svg
+- ... and 2150 more
+
+### portrait (1319 files)
+
+- 04_Resources/Assets/Locations/location-city-family-portrait-family-portrait.svg
+- 04_Resources/Assets/Locations/location-city-family-portrait-v1-family-portrait.svg
+- 04_Resources/Assets/Portraits/portrait-npc-aboleth-prime-yoth-aboleth-prime-yoth.svg
+- 04_Resources/Assets/Portraits/portrait-npc-aboleth-prime-yoth-v1-aboleth-prime-yoth.svg
+- 04_Resources/Assets/Portraits/portrait-npc-aboleth-prime-yoth-v2-aboleth-prime-yoth.svg
+- 04_Resources/Assets/Portraits/portrait-npc-abyssal-cathedral-abyssal-cathedral.svg
+- 04_Resources/Assets/Portraits/portrait-npc-abyssal-cathedral-v1-abyssal-cathedral.svg
+- 04_Resources/Assets/Portraits/portrait-npc-abyssal-cathedral-v2-abyssal-cathedral.svg
+- 04_Resources/Assets/Portraits/portrait-npc-abyssos-prime-government-abyssos-prime-government.svg
+- 04_Resources/Assets/Portraits/portrait-npc-abyssos-prime-government-v1-abyssos-prime-government.svg
+- ... and 1309 more
+
+### map (110 files)
+
+- 04_Resources/Assets/Locations/location-city-world-map-v1-world-map.svg
+- 04_Resources/Assets/Locations/location-city-world-map-world-map.svg
+- 04_Resources/Assets/Maps/map-map-abyssal-trench-ledge-abyssal-trench-ledge.svg
+- 04_Resources/Assets/Maps/map-map-abyssal-trench-ledge-v1-abyssal-trench-ledge.svg
+- 04_Resources/Assets/Maps/map-map-abyssal-trench-ledge-v2-abyssal-trench-ledge.svg
+- 04_Resources/Assets/Maps/map-map-aethermoor-harbor-skirmish-aethermoor-harbor-skirmish.svg
+- 04_Resources/Assets/Maps/map-map-aethermoor-harbor-skirmish-v1-aethermoor-harbor-skirmish.svg
+- 04_Resources/Assets/Maps/map-map-aethermoor-harbor-skirmish-v2-aethermoor-harbor-skirmish.svg
+- 04_Resources/Assets/Maps/map-map-airship-deck-melee-airship-deck-melee.svg
+- 04_Resources/Assets/Maps/map-map-airship-deck-melee-v1-airship-deck-melee.svg
+- ... and 100 more
+
+### generic (450 files)
+
+- 04_Resources/Assets/Scenes/scene-scene-airship-docks-riot-airship-docks-riot.svg
+- 04_Resources/Assets/Scenes/scene-scene-airship-docks-riot-v1-airship-docks-riot.svg
+- 04_Resources/Assets/Scenes/scene-scene-airship-docks-riot-v2-airship-docks-riot.svg
+- 04_Resources/Assets/Scenes/scene-scene-cloud-citadel-duel-cloud-citadel-duel.svg
+- 04_Resources/Assets/Scenes/scene-scene-cloud-citadel-duel-v1-cloud-citadel-duel.svg
+- 04_Resources/Assets/Scenes/scene-scene-cloud-citadel-duel-v2-cloud-citadel-duel.svg
+- 04_Resources/Assets/Scenes/scene-scene-crystal-trench-aurora-crystal-trench-aurora.svg
+- 04_Resources/Assets/Scenes/scene-scene-crystal-trench-aurora-v1-crystal-trench-aurora.svg
+- 04_Resources/Assets/Scenes/scene-scene-crystal-trench-aurora-v2-crystal-trench-aurora.svg
+- 04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-deep-mother-s-tentacles-rising.svg
+- ... and 440 more
+
+## Design Themes Used
+
+- **aquabyssos**: ocean, depth, coral
+- **aethermoor**: sky, sunset, brass
+- **void**: void, corruption, madness
+- **forest**: canopy, moss, bark
+- **dungeon**: stone, shadow, torch

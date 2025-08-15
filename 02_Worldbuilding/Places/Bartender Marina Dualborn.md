@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-bartender-marina-dualborn-bartender-marina-dualborn.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

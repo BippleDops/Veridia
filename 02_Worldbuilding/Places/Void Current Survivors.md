@@ -26,6 +26,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-void-current-survivors-v1-void-current-survivors.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

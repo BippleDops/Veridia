@@ -33,6 +33,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-the-light-preservation-society-the-light-preservation-society.svg)
+
+
+> [!figure] Heraldry
 
 # The Light Preservation Society
 *Guardians of Authentic Humanity*

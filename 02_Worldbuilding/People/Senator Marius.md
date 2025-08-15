@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-senator-marius-senator-marius.svg)
+
+
+> [!figure] Portrait
 
 # Senator Marcus Marius Tidespeaker
 

@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-living-supremacist-enclaves-living-supremacist-enclaves.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

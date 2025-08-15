@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-slave-markets-of-tethys-the-slave-markets-of-tethys.svg)
+
+
+> [!figure] View
 
 # The Slave Markets of Tethys
 *Where Human Lives Become Currency*

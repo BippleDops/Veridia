@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-void-keeper-sister-nyx-nullspace-v1-void-keeper-sister-nyx-nullspace.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

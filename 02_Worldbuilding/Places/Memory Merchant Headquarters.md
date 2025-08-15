@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-memory-merchant-headquarters-memory-merchant-headquarters.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

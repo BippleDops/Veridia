@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-temporal-convergence-storms-the-temporal-convergence-storms.svg)
+
+
+> [!figure] View
 
 # The Temporal Convergence Storms
 *Where Past, Present, and Future Collide*

@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-crystal-cathedral-of-pure-light-the-crystal-cathedral-of-pure-light.svg)
+
+
+> [!figure] View
 
 # The Crystal Cathedral of Pure Light
 *Where Divine Will Flows Through Sacred Crystal*

@@ -19,6 +19,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-synthesis-gardens-the-synthesis-gardens.svg)
+
+
+> [!figure] View
 
 # The Synthesis Gardens
 

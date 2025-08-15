@@ -33,6 +33,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-banker-fish-the-banker-fish.svg)
+
+
+> [!figure] View
 
 # The Aquatic Bank - Underwater Ficial Institution
 

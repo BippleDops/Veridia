@@ -27,6 +27,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-throne-of-bubbles-throne-of-bubbles.svg)
+
+
+> [!figure] Portrait
 
 # His Eternal Majesty, Keeper of the Throne of Bubbles
 *The Suspended Emperor, He Who Breathes Water, The Eternal Sovereign of Depths*

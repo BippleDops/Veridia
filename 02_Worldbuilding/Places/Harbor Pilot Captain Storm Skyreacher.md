@@ -26,6 +26,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-harbor-pilot-captain-storm-skyreacher-harbor-pilot-captain-storm-skyreacher.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-countess-marina-stormcrest-countess-marina-stormcrest.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

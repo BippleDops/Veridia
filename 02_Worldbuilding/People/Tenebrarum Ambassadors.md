@@ -26,6 +26,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-tenebrarum-ambassadors-tenebrarum-ambassadors.svg)
+
+
+> [!figure] Portrait
 
 # The Tenebrarum Ambassadors
 *Voices from the Shadow Realm, Diplomats of the Dark Current*

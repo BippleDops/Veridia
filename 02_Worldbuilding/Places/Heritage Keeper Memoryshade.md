@@ -26,6 +26,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-heritage-keeper-memoryshade-heritage-keeper-memoryshade.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

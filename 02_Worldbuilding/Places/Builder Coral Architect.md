@@ -26,6 +26,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-builder-coral-architect-builder-coral-architect.png)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

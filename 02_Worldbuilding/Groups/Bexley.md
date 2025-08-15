@@ -37,6 +37,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-bexley-bexley.svg)
+
+
+> [!figure] Heraldry
 
 # Bexley
 *The Port City Administration, Gateway to the Depths, The Merchant's Harbor*

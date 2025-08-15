@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-thalassa-the-deepmother-thalassa-the-deepmother.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

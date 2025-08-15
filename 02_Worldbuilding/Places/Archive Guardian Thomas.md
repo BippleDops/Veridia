@@ -21,6 +21,10 @@ world: Both
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-archive-guardian-thomas-archive-guardian-thomas.svg)
+
+
+> [!figure] View
 
 ## Player-Facing Summary
 

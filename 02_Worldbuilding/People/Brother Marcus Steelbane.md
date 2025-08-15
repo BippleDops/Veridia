@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-brother-marcus-steelbane-brother-marcus-steelbane.svg)
+
+
+> [!figure] Portrait
 
 # Brother Marcus Steelbane
 *The Iron Monk, Guardian of the Sacred Flame*

@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-vault-keeper-eternal-v1-vault-keeper-eternal.svg)
+
+
+> [!figure] View
 
 # Vault Keeper Eternal
 

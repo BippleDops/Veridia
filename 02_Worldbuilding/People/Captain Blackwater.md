@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-captain-blackwater-captain-blackwater.svg)
+
+
+> [!figure] Portrait
 
 # Captain Blackwater
 *The Lost Brother, Herald of Crystal Song*

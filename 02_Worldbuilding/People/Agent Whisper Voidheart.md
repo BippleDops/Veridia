@@ -31,6 +31,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-agent-whisper-voidheart-agent-whisper-voidheart.svg)
+
+
 # Agent Whisper Voidheart
 
 ## Overview

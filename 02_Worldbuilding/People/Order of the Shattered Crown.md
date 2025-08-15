@@ -36,6 +36,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-order-of-the-shattered-crown-order-of-the-shattered-crown.svg)
+
+
+> [!figure] Portrait
 
 # Grand Master Valdric Shardseeker
 *Founder and Supreme Leader of the Order of the Shattered Crown*

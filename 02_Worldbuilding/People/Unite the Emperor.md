@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-unite-the-emperor-unite-the-emperor.svg)
+
+
+> [!figure] Portrait
 
 # Unite the Emperor
 *Lord Commander Octavius Thalassion VII, The Scattered Crown, The Last Emperor's Voice*

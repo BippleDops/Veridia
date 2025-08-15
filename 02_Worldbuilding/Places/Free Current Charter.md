@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-free-current-charter-free-current-charter.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

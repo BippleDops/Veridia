@@ -23,6 +23,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-the-brotherhood-of-the-black-anchor-the-brotherhood-of-the-black-anchor.svg)
+
+
+> [!figure] Heraldry
 
 # The Brotherhood of the Black Anchor
 *In Shadow We Sail, In Silence We Strike*

@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-guild-of-reef-builders-the-guild-of-reef-builders.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

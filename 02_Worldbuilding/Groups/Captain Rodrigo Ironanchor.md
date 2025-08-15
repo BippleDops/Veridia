@@ -37,6 +37,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-captain-rodrigo-ironanchor-captain-rodrigo-ironanchor.svg)
+
+
+> [!figure] Heraldry
 
 # The Iron Fleet
 *Masters of the Storm Seas, The Steel Armada, Guardians of Maritime Commerce*

@@ -1,16 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="3072" viewBox="0 0 2048 3072">
-  <defs>
-    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#001845"/>
-      <stop offset="100%" stop-color="#003566"/>
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#grad)"/>
-  <circle cx="1741" cy="614" r="246" fill="#ffc300" opacity="0.25"/>
-  <g fill="#ffd60a" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif">
-    <text x="5%" y="50%" font-size="123" font-weight="700">Storm approaching the airship</text>
-    <text x="5%" y="50%" dy="111" font-size="55" opacity="0.9">SCENE • mysterious • studio</text>
-    <text x="5%" y="95%" font-size="43" opacity="0.8">2:3 · 2048x3072 · concept art, high detail</text>
-  </g>
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+<defs>
+
+        <linearGradient id="icon-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#87CEEB"/><stop offset="50%" stop-color="#98D8E8"/><stop offset="100%" stop-color="#B0E0E6"/>
+        </linearGradient>
+
+        <filter id="icon-glow">
+          <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+          <feMerge>
+            <feMergeNode in="coloredBlur"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+</defs>
+<circle cx="50" cy="50" r="45" fill="url(#icon-grad)" filter="url(#icon-glow)"/>
+<path d="M 80 50 68.47759065022574 57.6536686473018 71.21320343559643 71.21320343559643 57.6536686473018 68.47759065022574 50 80 42.34633135269821 68.47759065022574 28.786796564403577 71.21320343559643 31.522409349774264 57.6536686473018 20 50.00000000000001 31.522409349774264 42.34633135269821 28.78679656440357 28.786796564403577 42.34633135269819 31.52240934977427 49.99999999999999 20 57.6536686473018 31.522409349774268 71.21320343559643 28.78679656440357 68.47759065022572 42.34633135269819 Z" fill="white"/>
+<circle cx="50" cy="50" r="10" fill="#87CEEB"/>
 </svg>

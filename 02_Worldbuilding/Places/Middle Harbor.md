@@ -26,6 +26,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-middle-harbor-middle-harbor.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

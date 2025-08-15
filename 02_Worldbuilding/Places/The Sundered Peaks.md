@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-sundered-peaks-the-sundered-peaks.svg)
+
+
+> [!figure] View
 
 # The Sundered Peaks
 *Where Earth Meets Sky and Crystal*

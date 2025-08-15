@@ -39,6 +39,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-the-siren-the-siren.svg)
+
+
+> [!figure] Portrait
 
 # The Siren
 *The Voice That Knows All Secrets, The Masked Songstress, Keeper of Whispered Truths*

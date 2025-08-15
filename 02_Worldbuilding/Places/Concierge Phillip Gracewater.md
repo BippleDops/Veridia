@@ -43,6 +43,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-concierge-phillip-gracewater-concierge-phillip-gracewater.svg)
+
+
+> [!figure] View
 
 # Concierge Phillip Gracewater
 *The Welcoming Face of Diplomacy*

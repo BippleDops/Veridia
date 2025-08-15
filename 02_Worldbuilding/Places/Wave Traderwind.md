@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-wave-traderwind-v1-wave-traderwind.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -42,6 +42,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-abyssos-prime-pressure-terminal-abyssos-prime-pressure-terminal.svg)
+
+
+> [!figure] View
 
 # Abyssos Prime - Pressure Terminal
 

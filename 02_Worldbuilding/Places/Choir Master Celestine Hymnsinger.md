@@ -39,6 +39,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-choir-master-celestine-hymnsinger-choir-master-celestine-hymnsinger.svg)
+
+
 # Choir Master Celestine Hymnsinger
 
 ## 🔧 Deep Evaluation Improvements

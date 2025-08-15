@@ -30,6 +30,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-whisper-island-mystery-the-whisper-island-mystery.png)
+
+
+> [!figure] View
 
 # The Whisper Island Mystery
 

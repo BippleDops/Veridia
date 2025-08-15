@@ -32,6 +32,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-azure-citadel-azure-citadel.svg)
+
+
+> [!figure] View
 
 # Azure Citadel
 

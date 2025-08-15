@@ -37,6 +37,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-master-chen-wei-master-chen-wei.png)
+
+
+> [!figure] Heraldry
 
 # The Order of the Flowing Current
 *Masters of Inner Harmony, Guardians of Ancient Wisdom, The Peaceful Warriors*

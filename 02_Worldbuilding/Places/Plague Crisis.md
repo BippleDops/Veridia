@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-plague-crisis-plague-crisis.png)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

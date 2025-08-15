@@ -33,6 +33,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-floating-market-the-floating-market.svg)
+
+
+> [!figure] View
 
 # The Floating Market
 *The Nexus of Worlds, Where All Realities Meet*

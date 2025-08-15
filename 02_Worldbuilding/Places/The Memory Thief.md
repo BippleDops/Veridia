@@ -36,6 +36,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-memory-thief-the-memory-thief.svg)
+
+
+> [!figure] View
 
 # The Memory Thief
 

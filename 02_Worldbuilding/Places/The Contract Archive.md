@@ -20,6 +20,10 @@ world: Both
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-contract-archive-the-contract-archive.svg)
+
+
+> [!figure] View
 
 ## Player-Facing Summary
 

@@ -21,6 +21,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-sir-marcus-dawnforge-sir-marcus-dawnforge.svg)
+
+
+> [!figure] Portrait
 
 # Sir Marcus Dawnforge
 

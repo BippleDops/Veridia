@@ -37,6 +37,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-the-cerulean-breath-the-cerulean-breath.svg)
+
+
+> [!figure] Portrait
 
 # The Cerulean Breath
 *Maraleth the Eternal Current, Keeper of Deep Memories, Living Library of the Abyss*

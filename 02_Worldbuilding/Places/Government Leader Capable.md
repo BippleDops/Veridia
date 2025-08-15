@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-government-leader-capable-government-leader-capable.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

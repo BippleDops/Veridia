@@ -39,6 +39,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-crown-dome-conspiracy-crown-dome-conspiracy.svg)
+
+
 # Crown Dome Conspiracy
 
 ## 🔧 Deep Evaluation Improvements

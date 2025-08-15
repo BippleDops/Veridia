@@ -28,6 +28,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-reality-anchor-network-reality-anchor-network.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

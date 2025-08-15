@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-the-barnacle-the-barnacle.svg)
+
+
+> [!figure] Portrait
 
 # Crust Deepmeld, the Barnacle
 

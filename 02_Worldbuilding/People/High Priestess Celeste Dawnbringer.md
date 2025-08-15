@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-high-priestess-celeste-dawnbringer-high-priestess-celeste-dawnbringer.svg)
+
+
+> [!figure] Portrait
 
 # High Priestess Celeste Dawnbringer
 *The Healing Light, She Who Brings Dawn to Darkness, Keeper of Sacred Flames*

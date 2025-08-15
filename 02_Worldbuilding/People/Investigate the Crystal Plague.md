@@ -33,6 +33,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-investigate-the-crystal-plague-investigate-the-crystal-plague.svg)
+
+
+> [!figure] Portrait
 
 # Investigate the Crystal Plague
 

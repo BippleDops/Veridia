@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-void-krakens-v1-void-krakens.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

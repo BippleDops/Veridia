@@ -26,6 +26,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-pilgrimage-master-depth-guide-melancholy-pilgrimage-master-depth-guide-melancholy.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

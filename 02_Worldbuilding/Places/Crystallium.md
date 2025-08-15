@@ -38,6 +38,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-crystallium-crystallium.svg)
+
+
+> [!figure] View
 
 # Crystallium
 *The Underwater Crystal Laboratory*

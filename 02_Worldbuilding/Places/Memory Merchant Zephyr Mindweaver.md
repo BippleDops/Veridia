@@ -37,6 +37,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-memory-merchant-zephyr-mindweaver-memory-merchant-zephyr-mindweaver.svg)
+
+
+> [!figure] View
 
 # Memory Merchant Zephyr Mindweaver
 

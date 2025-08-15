@@ -37,6 +37,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-palace-guard-captain-neutralis-palace-guard-captain-neutralis.png)
+
+
 # Palace Guard Captain Neutralis
 
 ## 🔧 Deep Evaluation Improvements

@@ -43,6 +43,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-mothercoral-crisis-the-mothercoral-crisis.svg)
+
+
+> [!figure] View
 
 # The Mothercoral Crisis
 *When the Foundation of Life Begins to Die*

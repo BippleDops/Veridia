@@ -36,6 +36,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-port-meridian-harbor-district-port-meridian-harbor-district.svg)
+
+
 # Port Meridian - Harbor District
 
 ## 🔧 Deep Evaluation Improvements

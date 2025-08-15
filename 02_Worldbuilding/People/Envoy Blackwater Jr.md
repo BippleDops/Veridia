@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-envoy-blackwater-jr-envoy-blackwater-jr.svg)
+
+
+> [!figure] Portrait
 
 # Envoy Cassius Blackwater Jr.
 

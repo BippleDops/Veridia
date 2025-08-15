@@ -37,6 +37,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-secret-vault-beneath-throne-secret-vault-beneath-throne.svg)
+
+
 # Secret Vault Beneath Throne
 
 ## Overview

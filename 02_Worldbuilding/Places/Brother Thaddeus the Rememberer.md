@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-brother-thaddeus-the-rememberer-brother-thaddeus-the-rememberer.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-throne-room-heart-of-palace-throne-room-heart-of-palace.svg)
+
+
+> [!figure] View
 
 # Throne Room - Heart of Palace
 *Where Crown and Crystal Meet Divine Authority*

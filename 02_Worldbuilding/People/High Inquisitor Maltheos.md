@@ -27,6 +27,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-high-inquisitor-maltheos-high-inquisitor-maltheos.svg)
+
+
+> [!figure] Portrait
 
 # High Inquisitor Maltheos
 *The Zealous Purifier, Scourge of Corruption, Voice of Divine Wrath*

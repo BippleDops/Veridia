@@ -23,6 +23,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-the-carrion-court-the-carrion-court.svg)
+
+
+> [!figure] Heraldry
 
 # The Carrion Court
 *In Death We Find True Nobility*

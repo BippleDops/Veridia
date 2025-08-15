@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-empress-tethys-the-ever-drowning-empress-tethys-the-ever-drowning.svg)
+
+
+> [!figure] Portrait
 
 # Empress Tethys the Ever-Drowning
 

@@ -29,6 +29,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-missing-diplomat-the-missing-diplomat.svg)
+
+
+> [!figure] View
 
 # The Missing Diplomat
 

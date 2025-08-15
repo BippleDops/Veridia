@@ -36,6 +36,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-purist-coalition-thugs-purist-coalition-thugs.svg)
+
+
+> [!figure] Heraldry
 
 # Purist Coalition Thugs
 *The Clean Blade Movement, Crystal Breakers, Guardians of Natural Order*

@@ -23,6 +23,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-the-artisans-collective-of-master-crafters-the-artisans-collective-of-master-crafters.svg)
+
+
+> [!figure] Heraldry
 
 # The Artisans' Collective of Master Crafters
 *Where Skill Meets Magic and Perfection is Born*

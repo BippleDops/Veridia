@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-senator-senator.svg)
+
+
+> [!figure] Portrait
 
 # Senator Cordelia Deepcurrent
 

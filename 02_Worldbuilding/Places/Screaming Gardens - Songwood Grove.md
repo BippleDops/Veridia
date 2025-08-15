@@ -39,6 +39,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-screaming-gardens-songwood-grove-screaming-gardens-songwood-grove.svg)
+
+
 # Screaming Gardens - Songwood Grove
 
 ## 🔧 Deep Evaluation Improvements

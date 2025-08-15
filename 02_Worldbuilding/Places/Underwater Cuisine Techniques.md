@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-underwater-cuisine-techniques-underwater-cuisine-techniques.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

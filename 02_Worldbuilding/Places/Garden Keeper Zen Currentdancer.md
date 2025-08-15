@@ -35,6 +35,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-garden-keeper-zen-currentdancer-garden-keeper-zen-currentdancer.svg)
+
+
 # Garden Keeper Zen Currentdancer
 
 ## 🔧 Deep Evaluation Improvements

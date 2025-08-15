@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-merchant-princes-merchant-princes.svg)
+
+
+> [!figure] Heraldry
 
 # Merchant Princes
 *Gold Flows Like Water, Power Follows the Current*

@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-harbor-master-captain-dockwise-harbor-master-captain-dockwise.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

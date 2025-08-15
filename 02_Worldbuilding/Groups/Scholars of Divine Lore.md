@@ -30,6 +30,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-scholars-of-divine-lore-scholars-of-divine-lore.svg)
+
+
+> [!figure] Heraldry
 
 # Scholars of Divine Lore
 

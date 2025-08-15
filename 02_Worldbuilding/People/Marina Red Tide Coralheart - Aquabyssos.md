@@ -36,6 +36,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-marina-red-tide-coralheart-aquabyssos-marina-red-tide-coralheart-aquabyssos.svg)
+
+
+> [!figure] Portrait
 
 # Marina Red Tide Coralheart
 *The Adapted Guide, Shadow Switcher, Depth Walker*

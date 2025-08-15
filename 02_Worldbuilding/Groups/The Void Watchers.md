@@ -36,6 +36,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-the-void-watchers-the-void-watchers.svg)
+
+
+> [!figure] Heraldry
 
 # The Void Watchers
 *Guardians of Reality's Edge, Sentinels Against the Unmaking*

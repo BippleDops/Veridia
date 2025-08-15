@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-temple-of-the-dawn-temple-of-the-dawn.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

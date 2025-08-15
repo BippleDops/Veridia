@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-sacred-healing-springs-sacred-healing-springs.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

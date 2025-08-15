@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-vault-keepers-the-vault-keepers.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

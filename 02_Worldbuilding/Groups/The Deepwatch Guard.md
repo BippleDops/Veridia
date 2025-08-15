@@ -35,6 +35,10 @@ improvements: 20
 ---
 
 > [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-the-deepwatch-guard-the-deepwatch-guard.svg)
+
+
+> [!figure] Heraldry
 
 # The Deepwatch Guard
 *Elite Sentinels Against the Darkness Below*

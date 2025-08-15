@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-regional-courts-regional-courts.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-community-support-networks-community-support-networks.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

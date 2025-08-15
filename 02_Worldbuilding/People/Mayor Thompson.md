@@ -24,6 +24,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-mayor-thompson-mayor-thompson.svg)
+
+
+> [!figure] Portrait
 
 # Mayor Bartholomew "Barrel" Thompson
 

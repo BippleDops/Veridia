@@ -39,6 +39,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-hidden-smuggler-s-cove-hidden-smuggler-s-cove.svg)
+
+
 # Hidden Smuggler's Cove
 
 ## Overview

@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-surface-expert-grainwise-surface-expert-grainwise.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

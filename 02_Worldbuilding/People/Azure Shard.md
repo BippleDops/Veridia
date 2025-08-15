@@ -36,6 +36,10 @@ improvements: 20
 ---
 
 > [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-azure-shard-azure-shard.svg)
+
+
+> [!figure] Portrait
 
 # Azure Shard
 *The Sky-Watcher, Guardian of the Heavens' Heart, The Blue Oracle*

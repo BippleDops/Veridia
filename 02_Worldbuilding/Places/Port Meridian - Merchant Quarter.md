@@ -40,6 +40,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-port-meridian-merchant-quarter-port-meridian-merchant-quarter.svg)
+
+
+> [!figure] View
 
 # Port Meridian - Merchant Quarter
 *The Golden Heart of Commerce*

@@ -37,6 +37,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-tavern-keeper-finn-splitlung-tavern-keeper-finn-splitlung.svg)
+
+
 # Tavern Keeper Finn Splitlung
 
 ## 🔧 Deep Evaluation Improvements

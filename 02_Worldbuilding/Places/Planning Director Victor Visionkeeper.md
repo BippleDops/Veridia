@@ -25,6 +25,10 @@ improvements: 20
 ---
 
 > [!figure] View
+![](04_Resources/Assets/Locations/location-city-planning-director-victor-visionkeeper-planning-director-victor-visionkeeper.svg)
+
+
+> [!figure] View
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -26,6 +26,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-inverted-ballroom-wing-party-quarters-inverted-ballroom-wing-party-quarters.svg)
+
+
 # Inverted Ballroom Wing - Party Quarters
 
 ## Overview

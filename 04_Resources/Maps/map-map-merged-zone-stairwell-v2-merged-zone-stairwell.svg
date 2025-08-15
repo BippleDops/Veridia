@@ -1,0 +1,117 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+<defs>
+
+        <linearGradient id="aethermoor-sky" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#87CEEB"/><stop offset="50%" stop-color="#98D8E8"/><stop offset="100%" stop-color="#B0E0E6"/>
+        </linearGradient>
+
+        <linearGradient id="aethermoor-sunset" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#FF6B6B"/><stop offset="50%" stop-color="#FFD93D"/><stop offset="100%" stop-color="#6BCB77"/>
+        </linearGradient>
+
+        <linearGradient id="aethermoor-brass" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#B8860B"/><stop offset="50%" stop-color="#DAA520"/><stop offset="100%" stop-color="#FFD700"/>
+        </linearGradient>
+<pattern id="aethermoor-pattern" x="0" y="0" width="50" height="50" patternUnits="userSpaceOnUse">
+                <circle cx="10" cy="10" r="3" fill="white"/>
+                <circle cx="30" cy="25" r="4" fill="white"/>
+                <circle cx="40" cy="40" r="2" fill="white"/>
+                </pattern>
+
+        <filter id="map-shadow">
+          <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.3"/>
+        </filter>
+
+        <filter id="map-glow">
+          <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+          <feMerge>
+            <feMergeNode in="coloredBlur"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+</defs>
+<rect width="800" height="600" fill="url(#aethermoor-sky)"/>
+<rect x="728.6210309066464" y="350.05831958009003" width="126.2435091773044" height="136.03032179692656" 
+                  fill="#F0E68C" stroke="#87CEEB" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<rect x="353.1505792889326" y="112.69239780209273" width="142.76252737056686" height="175.95025642536876" 
+                  fill="#F0E68C" stroke="#87CEEB" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<circle cx="618.0573990720203" cy="562.9502835206422" r="63.67301559974058"
+                  fill="#F0E68C" stroke="#87CEEB" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<circle cx="248.02018881612074" cy="352.3501769987172" r="73.74799475871356"
+                  fill="#F0E68C" stroke="#87CEEB" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<rect x="589.0787782415073" y="262.88678961417565" width="135.6154637337918" height="162.90108327751528" 
+                  fill="#F0E68C" stroke="#87CEEB" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<circle cx="591.7207873106454" cy="148.53531896542898" r="58.55162508415732"
+                  fill="#F0E68C" stroke="#87CEEB" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<circle cx="639.3663330771592" cy="339.82419878772566" r="67.36304418431004"
+                  fill="#F0E68C" stroke="#87CEEB" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<rect x="198.41323628160546" y="533.7593987640989" width="146.2347573480721" height="84.2480485821754" 
+                  fill="#F0E68C" stroke="#87CEEB" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<path d="M 791.7427854952986 418.0734804785533 
+                        L 424.53184297421603 200.6675260147771"
+                stroke="#FFD700" stroke-width="20" fill="none"/>
+<path d="M 424.53184297421603 200.6675260147771 
+                        L 618.0573990720203 562.9502835206422"
+                stroke="#FFD700" stroke-width="20" fill="none"/>
+<path d="M 618.0573990720203 562.9502835206422 
+                        L 248.02018881612074 352.3501769987172"
+                stroke="#FFD700" stroke-width="20" fill="none"/>
+<path d="M 248.02018881612074 352.3501769987172 
+                        L 656.8865101084032 344.33733125293327"
+                stroke="#FFD700" stroke-width="20" fill="none"/>
+<path d="M 656.8865101084032 344.33733125293327 
+                        L 591.7207873106454 148.53531896542898"
+                stroke="#FFD700" stroke-width="20" fill="none"/>
+<path d="M 591.7207873106454 148.53531896542898 
+                        L 639.3663330771592 339.82419878772566"
+                stroke="#FFD700" stroke-width="20" fill="none"/>
+<path d="M 639.3663330771592 339.82419878772566 
+                        L 271.5306149556415 575.8834230551867"
+                stroke="#FFD700" stroke-width="20" fill="none"/>
+<rect x="781.7427854952986" y="345.05831958009003" 
+                width="20" height="10" fill="#DAA520"/>
+<text x="791.7427854952986" y="418.0734804785533" 
+                text-anchor="middle" font-size="20" fill="white">1</text>
+<rect x="414.53184297421603" y="107.69239780209273" 
+                width="20" height="10" fill="#DAA520"/>
+<text x="424.53184297421603" y="200.6675260147771" 
+                text-anchor="middle" font-size="20" fill="white">2</text>
+<rect x="608.0573990720203" y="494.2772679209016" 
+                width="20" height="10" fill="#DAA520"/>
+<text x="618.0573990720203" y="562.9502835206422" 
+                text-anchor="middle" font-size="20" fill="white">3</text>
+<rect x="238.02018881612074" y="258.2058147545853" 
+                width="20" height="10" fill="#DAA520"/>
+<text x="248.02018881612074" y="352.3501769987172" 
+                text-anchor="middle" font-size="20" fill="white">4</text>
+<rect x="646.8865101084032" y="257.88678961417565" 
+                width="20" height="10" fill="#DAA520"/>
+<text x="656.8865101084032" y="344.33733125293327" 
+                text-anchor="middle" font-size="20" fill="white">5</text>
+<rect x="581.7207873106454" y="84.98369388127165" 
+                width="20" height="10" fill="#DAA520"/>
+<text x="591.7207873106454" y="148.53531896542898" 
+                text-anchor="middle" font-size="20" fill="white">6</text>
+<rect x="629.3663330771592" y="267.4611546034156" 
+                width="20" height="10" fill="#DAA520"/>
+<text x="639.3663330771592" y="339.82419878772566" 
+                text-anchor="middle" font-size="20" fill="white">7</text>
+<rect x="261.5306149556415" y="528.7593987640989" 
+                width="20" height="10" fill="#DAA520"/>
+<text x="271.5306149556415" y="575.8834230551867" 
+                text-anchor="middle" font-size="20" fill="white">8</text>
+<text x="400" y="30" text-anchor="middle" font-size="24" 
+              fill="#87CEEB" filter="url(#map-glow)">stairwell</text>
+<line x1="50" y1="570" x2="150" y2="570" 
+              stroke="#87CEEB" stroke-width="2"/>
+<text x="100" y="590" text-anchor="middle" font-size="12" 
+              fill="#87CEEB">10 ft</text>
+</svg>

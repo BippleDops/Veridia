@@ -1,0 +1,49 @@
+{
+  "character": {
+    "name": "Head of Memory Integration Dr. Nautilus Depthcaller (People)",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Head of Memory Integration Dr. Nautilus Depthcaller (People).md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Improvements",
+    "gender": "neutral",
+    "alignment": "**: Neutral",
+    "faction": "## Notable Quotes",
+    "description": "title: Head of Memory Integration Dr. Nautilus Depthcaller\naliases:\n- Head of Memory Integration Dr Nautilus Depthcaller\ntype: npc\ntags:\n- character\n- active\n- npc\ncreated: '2025-08-14'\nmodified: '2025-08-14'\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "A distinguished individual whose presence commands attention. Their appearance suggests experience and capability in their chosen field.",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": null
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "standard",
+    "expression": "neutral",
+    "lighting": "balanced"
+  },
+  "prompt": "realistic portrait of Unknown Unknown, A distinguished individual whose presence commands attention. Their appearance suggests experience and capability in their chosen field., weathered, neutral expression, balanced lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.489Z",
+  "placeholder": true
+}

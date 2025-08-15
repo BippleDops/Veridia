@@ -1,0 +1,51 @@
+{
+  "character": {
+    "name": "Shadow Broker Mist",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Shadow Broker Mist.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Improvements",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": null,
+    "description": "title: Shadow Broker Mist\ntype: Npc\ntags:\n- both\n- npc\n- world/both\n- character\n- content/npc\n- active\n- complete\n- status/in-progress\n- conspiracy\n- bloodline\ncreated: '2025-08-11'\nmodified: '2025-08-14'\nstatus: complete\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nupdated: '2025-08-13T12:34:17.679974+00:00'\nworld: Both\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "Unlike [[Jasper \"Three Eyes\" Flint|02 Worldbuilding/People/Jasper \"Three Eyes\" Flint]]'s crude information brokerage, Mist deals in secrets that can topple governments, destroy lives, or grant impossible power. Everything else is merely.",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "major NPC"
+    ]
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "friendly",
+    "expression": "smiling",
+    "lighting": "warm"
+  },
+  "prompt": "realistic portrait of Unknown Unknown, Unlike [[Jasper \"Three Eyes\" Flint|02 Worldbuilding/People/Jasper \"Three Eyes\" Flint]]'s crude information brokerage, Mist deals in secrets that can topple governments, destroy lives, or grant impossible power. Everything else is merely., weathered, smiling expression, warm lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.749Z",
+  "placeholder": true
+}

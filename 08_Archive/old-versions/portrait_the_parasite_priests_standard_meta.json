@@ -1,0 +1,55 @@
+{
+  "character": {
+    "name": "The Parasite Priests",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/The Parasite Priests.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Improvements",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "- npc",
+    "description": "title: The Parasite Priests\ntype: Npc\ntags:\n- aquabyssos\n- mysterious\n- status/complete\n- cult\n- content/faction\n- npc\n- symbiosis\n- biological-horror\n- content/location\n- content/npc\n- character\n- active\n- complete\n- world/aquabyssos\n- corruption\ncreated: '2025-08-08'\nmodified: '2025-08-14'\nstatus: complete\nrace: Unknown\nclass: Unknown\nlocation: '[[The Symbiotic Sanctuaries]] - Hidden throughout Aquabyssos'\naffiliation: '[[The Deep Mother]] (Claimed)'\ncreated_by: auto-stub\ndanger_level: Extreme\ninfluence: Growing\nrole: Symbiotic Cult\nsecrecy_level: High\nsize: Unknown (Estimated 200-500 Members)\nupdated: '2025-08-13T12:34:17.629972+00:00'\nworld: Aquabyssos\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "**Traits**: Loyal, loyal, cautious\n\n**Ideals**: Excellence in their chosen field, maintaining professional standards\n\n**Bonds**: Loyalty to allies, commitment to their cause\n\n**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives",
+    "appearance": "- **Muscle Parasites**: Increase strength and endurance by optimizing muscle fiber efficiency\n- **Sensory Parasites**: Enhance vision, hearing, or other senses through nervous system integration\n- **Circulatory Parasites**: Improve blood flow and oxygen delivery for enhanced stamina\n- **Bone Parasites**: Strengthen skeletal structure and accelerate healing from injuries\n\n**Aquatic Adaptation Parasites:**\nSpecialized for underwater survival in Aquabyssos's environment:\n- **Gill Parasites**: Provide functional gills for underwater breathing\n- **Pressure Parasites**: Enable survival at extreme depths without equipment\n- **Swimming Parasites**: Enhance underwater movement speed and efficiency\n- **Echolocation Parasites**: Grant sonar-like navigation abilities\n\n**Mental Enhancement Parasites:**\nBrain parasites that improve cognitive capabilities:\n- **Memory Parasites**: Perfect recall and accelerated learning abilities\n- **Calculation Parasites**: Enhanced mathematical and logical reasoning\n- **Creativity Parasites**: Improved artistic and innovative thinking\n- **Telepathic Parasites**: Limited mind-reading and mental communication\n\n**Magical Enhancement Parasites:**\nRare organisms that interact with magical energies:\n- **Mana Parasites**: Increased magical energy capacity and regeneration\n- **Spell Parasites**: Ability to cast specific spells through parasitic assistance\n- **Resistance Parasites**: Protection from magical attacks and effects\n- **Detection Parasites**: Enhanced ability to sense magical auras and effects",
+    "divine": [
+      "divine"
+    ],
+    "monstrous": [
+      "aberration"
+    ],
+    "pc": null,
+    "major": [
+      "leader"
+    ]
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "standard",
+    "expression": "neutral",
+    "lighting": "balanced"
+  },
+  "prompt": "portrait_miniature portrait of Unknown Unknown, - **Muscle Parasites**: Increase strength and endurance by optimizing muscle fiber efficiency\n- **Sensory Parasites**: Enhance vision, hearing, or other senses through nervous system integration\n- **Circulatory Parasites**: Improve blood flow and oxygen delivery for enhanced stamina\n- **Bone Parasites**: Strengthen skeletal structure and accelerate healing from injuries\n\n**Aquatic Adaptation Parasites:**\nSpecialized for underwater survival in Aquabyssos's environment:\n- **Gill Parasites**: Provide functional gills for underwater breathing\n- **Pressure Parasites**: Enable survival at extreme depths without equipment\n- **Swimming Parasites**: Enhance underwater movement speed and efficiency\n- **Echolocation Parasites**: Grant sonar-like navigation abilities\n\n**Mental Enhancement Parasites:**\nBrain parasites that improve cognitive capabilities:\n- **Memory Parasites**: Perfect recall and accelerated learning abilities\n- **Calculation Parasites**: Enhanced mathematical and logical reasoning\n- **Creativity Parasites**: Improved artistic and innovative thinking\n- **Telepathic Parasites**: Limited mind-reading and mental communication\n\n**Magical Enhancement Parasites:**\nRare organisms that interact with magical energies:\n- **Mana Parasites**: Increased magical energy capacity and regeneration\n- **Spell Parasites**: Ability to cast specific spells through parasitic assistance\n- **Resistance Parasites**: Protection from magical attacks and effects\n- **Detection Parasites**: Enhanced ability to sense magical auras and effects, weathered, neutral expression, balanced lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.345Z",
+  "placeholder": true
+}

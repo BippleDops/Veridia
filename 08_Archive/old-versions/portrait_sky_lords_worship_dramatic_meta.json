@@ -1,0 +1,51 @@
+{
+  "character": {
+    "name": "Sky_Lords_Worship",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Sky_Lords_Worship.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Improvements",
+    "gender": "neutral",
+    "alignment": "**: Neutral",
+    "faction": "## Notable Quotes",
+    "description": "title: Sky Lords Worship\ntype: npc\ntags:\n- active\n- character\n- aethermoor\n- npc\ncreated: '2025-08-14'\nmodified: '2025-08-14'\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "A distinguished individual whose presence commands attention. Their appearance suggests experience and capability in their chosen field.",
+    "divine": [
+      "divine"
+    ],
+    "monstrous": null,
+    "pc": null,
+    "major": null
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "dramatic",
+    "expression": "intense",
+    "lighting": "dramatic"
+  },
+  "prompt": "portrait_miniature portrait of Unknown Unknown, A distinguished individual whose presence commands attention. Their appearance suggests experience and capability in their chosen field., weathered, intense expression, dramatic lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.319Z",
+  "placeholder": true
+}

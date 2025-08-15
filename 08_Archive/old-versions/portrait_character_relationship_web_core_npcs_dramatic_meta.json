@@ -1,0 +1,53 @@
+{
+  "character": {
+    "name": "Character Relationship Web - Core NPCs",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Character Relationship Web - Core NPCs.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "- Both are manipulated by Vex Shadowthorn, who knows their secrets and plays them against each other",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "## Secrets",
+    "description": "title: Character Relationship Web   Core NPCs\ntype: Lore\ntags:\n- lore\n- both\n- status/complete\n- relationship-web\n- npc\n- world/both\n- character\n- content/npc\n- active\n- campaign/arc\n- relationship-guide\n- complete\n- conspiracy\ncreated: '2025-08-12'\nmodified: '2025-08-14'\nstatus: complete\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nupdated: '2025-08-13T12:34:17.746379+00:00'\nworld: Both\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "**Traits**: Brave, brave, curious\n\n**Ideals**: Excellence in their chosen field, maintaining professional standards\n\n**Bonds**: Loyalty to allies, commitment to their cause\n\n**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives",
+    "appearance": "Character Relationship Web - Core NPCs presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures]",
+    "divine": null,
+    "monstrous": [
+      "monster"
+    ],
+    "pc": null,
+    "major": [
+      "major NPC"
+    ]
+  },
+  "style": "noir",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "dramatic",
+    "expression": "intense",
+    "lighting": "dramatic"
+  },
+  "prompt": "noir portrait of Unknown Unknown, Character Relationship Web - Core NPCs presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures], weathered, intense expression, dramatic lighting, high contrast style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.066Z",
+  "placeholder": true
+}

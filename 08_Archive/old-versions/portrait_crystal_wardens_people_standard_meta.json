@@ -1,0 +1,53 @@
+{
+  "character": {
+    "name": "Crystal Wardens (People)",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Crystal Wardens (People).md",
+    "race": "Crystal-Touched Elf",
+    "class": "Eldritch Knight Fighter/Abjuration Wizard",
+    "age": "'156'",
+    "gender": "neutral",
+    "alignment": "Lawful Good",
+    "faction": null,
+    "description": "title: Crystal Wardens\ntype: Npc\ntags:\n- status/complete\n- campaign/hook\n- npc\n- protector\n- character\n- content/npc\n- world/aethermoor\n- active\n- complete\n- aethermoor\n- bloodline\ncreated: '2025-08-08'\nmodified: '2025-08-14'\nstatus: complete\nrace: Crystal-Touched Elf\nclass: Eldritch Knight Fighter/Abjuration Wizard\nlocation: '[[The Crystal Spires]] - Warden''s Sanctum'\nlevel: 17\nMyCategory: NPC\nMyContainer: None\naffiliation: '[[Crystal Wardens Order]] - Supreme Commander'\nage: '156'\nalignment: Lawful Good\ncreated_by: auto-stub\nobsidianUIMode: preview\nrole: High Warden of the Crystal Order\nupdated: '2025-08-13T12:34:17.669446+00:00'\nworld: Aethermoor\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "Luminara embodies the dual nature of crystal itself—beautiful and dangerous, protective yet sharp-edged. She possesses an unwavering dedication to duty that borders on obsession, viewing the protection of Aethermoor's crystals as a sacred responsibility that transcends personal considerations.\n\nHer crystalline transformation has enhanced her mental faculties while making her increasingly alien in her thought processes. She thinks in terms of crystalline structures and mathematical perfection, sometimes struggling to understand the messy emotions and chaotic thinking of purely organic beings. However, she retains enough of her elven empathy to genuinely care for those she protects.\n\nLuminara is patient to an almost geological degree when dealing with long-term threats, but can act with lightning-fast precision when immediate action is required. She speaks with formal precision but shows flashes of her original personality when discussing art, music, or the beauty of well-crafted objects.",
+    "appearance": "Luminara stands 5'10\" with an otherworldly presence that immediately commands attention. Her elven heritage is still visible, but overlaid with crystalline modifications that catch and refract light in mesmerizing patterns. Her left arm from elbow to fingertips has become living crystal that shifts color based on her emotional state—clear when calm, brilliant gold when determined, dangerous red when angered.\n\nCrystalline veins run beneath her translucent skin, pulsing with soft light that follows the rhythm of nearby crystal formations rather than her heartbeat. Her hair appears to be spun from crystal fiber, flowing like liquid light and occasionally forming temporary crown-like formations when she channels significant magic.\n\nHer eyes have become multifaceted crystal orbs that reflect not just light but magical energy, allowing her to see the flow of magic itself. When she speaks, her voice carries harmonic resoces that can shatter glass at close range or produce incredibly beautiful musical tones when she's pleased.\n\nShe wears armor forged from living crystal that grows and adapts to threats, providing protection that shifts from flexible crystal mesh to rigid protective plating as needed. Her weapons are similarly crafted from bonded crystals that respond to her will and can be reshaped for different combat situations.",
+    "divine": [
+      "Celestial"
+    ],
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "leader"
+    ]
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "standard",
+    "expression": "neutral",
+    "lighting": "balanced"
+  },
+  "prompt": "portrait_miniature portrait of Crystal-Touched Elf Eldritch Knight Fighter/Abjuration Wizard, Luminara stands 5'10\" with an otherworldly presence that immediately commands attention. Her elven heritage is still visible, but overlaid with crystalline modifications that catch and refract light in mesmerizing patterns. Her left arm from elbow to fingertips has become living crystal that shifts color based on her emotional state—clear when calm, brilliant gold when determined, dangerous red when angered.\n\nCrystalline veins run beneath her translucent skin, pulsing with soft light that follows the rhythm of nearby crystal formations rather than her heartbeat. Her hair appears to be spun from crystal fiber, flowing like liquid light and occasionally forming temporary crown-like formations when she channels significant magic.\n\nHer eyes have become multifaceted crystal orbs that reflect not just light but magical energy, allowing her to see the flow of magic itself. When she speaks, her voice carries harmonic resoces that can shatter glass at close range or produce incredibly beautiful musical tones when she's pleased.\n\nShe wears armor forged from living crystal that grows and adapts to threats, providing protection that shifts from flexible crystal mesh to rigid protective plating as needed. Her weapons are similarly crafted from bonded crystals that respond to her will and can be reshaped for different combat situations., weathered, neutral expression, balanced lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.209Z",
+  "placeholder": true
+}

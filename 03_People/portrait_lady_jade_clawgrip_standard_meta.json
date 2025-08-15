@@ -1,0 +1,51 @@
+{
+  "character": {
+    "name": "Lady Jade Clawgrip",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Lady Jade Clawgrip.md",
+    "race": "Half-Dragon (Silver Heritage)",
+    "class": "Unknown",
+    "age": ")",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "chosen and success level",
+    "description": "title: Lady Jade Clawgrip\ntype: Npc\ntags:\n- status/complete\n- corporate-raider\n- npc\n- silverscale-consortium\n- character\n- content/npc\n- ruthless-executive\n- world/aethermoor\n- active\n- complete\n- aethermoor\n- bloodline\n- prophecy\ncreated: '2025-08-09'\nmodified: '2025-08-14'\nstatus: complete\nrace: Half-Dragon (Silver Heritage)\nclass: Unknown\nlocation: '[[The Silver Tower of Commerce]] - Acquisitions Floor'\naffiliation: '[[Silverscale Consortium]] - Board of Scales'\nage: '38'\ncreated_by: auto-stub\nrole: Scale of Acquisition\nupdated: '2025-08-13T12:34:17.700652+00:00'\nworld: Aethermoor\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "**Traits**: Wise, determined, wise\n\n**Ideals**: Excellence in their chosen field, maintaining professional standards\n\n**Bonds**: Loyalty to allies, commitment to their cause\n\n**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives",
+    "appearance": "Lady Jade Clawgrip presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures]",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "important"
+    ]
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "standard",
+    "expression": "neutral",
+    "lighting": "balanced"
+  },
+  "prompt": "realistic portrait of Half-Dragon (Silver Heritage) Unknown, Lady Jade Clawgrip presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures], weathered, neutral expression, balanced lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.557Z",
+  "placeholder": true
+}

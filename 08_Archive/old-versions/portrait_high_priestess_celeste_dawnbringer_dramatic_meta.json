@@ -1,0 +1,53 @@
+{
+  "character": {
+    "name": "High Priestess Celeste Dawnbringer",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/High Priestess Celeste Dawnbringer.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Improvements",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "tries to use knowledge of conspiracy for leverage",
+    "description": "title: High Priestess Celeste Dawnbringer\ntype: Npc\ntags:\n- both\n- npc\n- world/both\n- character\n- content/npc\n- active\n- complete\n- status/in-progress\ncreated: '2025-08-11'\nmodified: '2025-08-14'\nstatus: complete\nrace: Unknown\nclass: Unknown\nlocation: Unknown\ncr: '15'\nupdated: '2025-08-13T12:34:17.638639+00:00'\nworld: Both\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "**Church Officials from Other Realms** - Could expose the conspiracy if they discover the truth\n**Healing Orders Abroad** - Celeste maintains correspondence seeking cures, risking exposure",
+    "divine": [
+      "divine"
+    ],
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "leader"
+    ]
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "dramatic",
+    "expression": "intense",
+    "lighting": "dramatic"
+  },
+  "prompt": "portrait_miniature portrait of Unknown Unknown, **Church Officials from Other Realms** - Could expose the conspiracy if they discover the truth\n**Healing Orders Abroad** - Celeste maintains correspondence seeking cures, risking exposure, weathered, intense expression, dramatic lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.235Z",
+  "placeholder": true
+}

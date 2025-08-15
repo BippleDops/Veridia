@@ -1,0 +1,53 @@
+{
+  "character": {
+    "name": "Captain Nautilus the Deep Wanderer",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Captain Nautilus the Deep Wanderer.md",
+    "race": "Human (Divinely Transformed)",
+    "class": "Unknown",
+    "age": "Unknown (appears ageless)",
+    "gender": "neutral",
+    "alignment": null,
+    "faction": null,
+    "description": "Captain Nautilus the Deep Wanderer represents a significant element within the campaign world, offering various opportunities for engagement and development.",
+    "personality": "",
+    "appearance": "svg)\n\n\n# Captain Nautilus the Deep Wanderer\n\n## Overview\nThis document contains important information regarding Captain Nautilus the Deep Wanderer and its role within the greater narrative.",
+    "divine": [
+      "divine"
+    ],
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "important"
+    ]
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "standard",
+    "expression": "neutral",
+    "lighting": "balanced"
+  },
+  "prompt": "portrait_miniature portrait of Human (Divinely Transformed) Unknown, svg)\n\n\n# Captain Nautilus the Deep Wanderer\n\n## Overview\nThis document contains important information regarding Captain Nautilus the Deep Wanderer and its role within the greater narrative., weathered, neutral expression, balanced lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.181Z",
+  "placeholder": true
+}

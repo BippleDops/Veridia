@@ -1,0 +1,50 @@
+{
+  "character": {
+    "name": "The Senator",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/The Senator.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Improvements",
+    "gender": "neutral",
+    "alignment": "Lawful Evil (Believes she's Lawful Good)",
+    "faction": "Shadow Parliament (Unknowingly)",
+    "description": "title: The Senator\ntype: Npc\ntags:\n- both\n- npc\n- world/both\n- character\n- content/npc\n- active\n- complete\n- status/in-progress\ncreated: '2025-08-11'\nmodified: '2025-08-14'\nstatus: complete\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nupdated: '2025-08-13T12:34:17.483858+00:00'\nworld: Both\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "The Senator presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures]",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "leader"
+    ]
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "cruel smile",
+      "cold eyes",
+      "sinister expression",
+      "imposing presence"
+    ],
+    "accessories": [
+      "dark regalia",
+      "evil artifact",
+      "scars",
+      "ominous jewelry"
+    ],
+    "backgrounds": [
+      "dark throne",
+      "lair",
+      "storm clouds"
+    ]
+  },
+  "version": {
+    "suffix": "sad",
+    "expression": "sad",
+    "lighting": "soft"
+  },
+  "prompt": "realistic portrait of Unknown Unknown, The Senator presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures], cruel smile, sad expression, soft lighting, oil painting style, dark throne background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.873Z",
+  "placeholder": true
+}

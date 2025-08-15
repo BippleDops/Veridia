@@ -1,0 +1,53 @@
+{
+  "character": {
+    "name": "The Heart of Oceanus",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/The Heart of Oceanus.md",
+    "race": "Primordial Entity",
+    "class": "Unknown",
+    "age": "Ancient - Pre-Creation",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "has captured a fragment of the Heart (formed from the collected tears of innocents) and is using it to control weather patterns. Rescue it before the Heart becomes too weak to maintain global water cycles.",
+    "description": "title: The Heart of Oceanus\ntype: Npc\ntags:\n- aquabyssos\n- status/complete\n- entity\n- heart\n- npc\n- primordial\n- content/lore\n- character\n- content/npc\n- patron\n- active\n- divine\n- complete\n- world/aquabyssos\n- bloodline\n- prophecy\ncreated: '2025-08-08'\nmodified: '2025-08-14'\nstatus: complete\nrace: Primordial Entity\nclass: Unknown\nlocation: The Deepest Depths of All Oceans\nMyCategory: NPC\nMyContainer: None\naffiliation: The Ocean Itself\nage: Ancient - Pre-Creation\ncreated_by: auto-stub\nobsidianUIMode: preview\nrole: Primordial Sea Spirit\nupdated: '2025-08-13T12:34:17.472596+00:00'\nworld: Aquabyssos\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "The Heart of Oceanus presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures]",
+    "divine": [
+      "divine"
+    ],
+    "monstrous": [
+      "monster"
+    ],
+    "pc": null,
+    "major": null
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "dramatic",
+    "expression": "intense",
+    "lighting": "dramatic"
+  },
+  "prompt": "portrait_miniature portrait of Primordial Entity Unknown, The Heart of Oceanus presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures], weathered, intense expression, dramatic lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.340Z",
+  "placeholder": true
+}

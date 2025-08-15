@@ -1,0 +1,51 @@
+{
+  "character": {
+    "name": "Envoy Blackwater Jr",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Envoy Blackwater Jr.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Resistances** Necrotic, Psychic",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "s want access to this information, putting Cassius and the party in the middle of a treasure hunt with political implications.",
+    "description": "Standing 6'1\" with the lean, elegant build typical of diplomatic nobility, Cassius possesses an otherworldly handsomeness that draws attention in any room. His half-elven heritage is evident in his sharp features and pointed ears, but shadow corruption has left its mark—his naturally dark hair contains streaks that seem to absorb light, and his green eyes occasionally flash with an inner darkness.\n\nHe dresses immaculately in the latest diplomatic fashions, favoring deep blues and silver that complement Aquabyssos's formal protocols. His clothing always includes subtle shadow-touched elements: cufflinks that seem to drink light, a cloak pin that whispers in dead languages, and rings that grow cold when lies are spoken nearby.\n\nA thin scar runs from his left temple to his jaw—a memento from his first diplomatic mission where he nearly died before making his pact with shadow entities. He covers it with carefully applied cosmetics during formal occasions.",
+    "personality": "",
+    "appearance": "Envoy Blackwater Jr presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures]",
+    "divine": [
+      "Celestial"
+    ],
+    "monstrous": null,
+    "pc": null,
+    "major": null
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "standard",
+    "expression": "neutral",
+    "lighting": "balanced"
+  },
+  "prompt": "portrait_miniature portrait of Unknown Unknown, Envoy Blackwater Jr presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures], weathered, neutral expression, balanced lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.223Z",
+  "placeholder": true
+}

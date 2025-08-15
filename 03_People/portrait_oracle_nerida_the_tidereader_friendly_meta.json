@@ -1,0 +1,51 @@
+{
+  "character": {
+    "name": "Oracle Nerida the Tidereader",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Oracle Nerida the Tidereader.md",
+    "race": "Human (Sea-Touched)",
+    "class": "Divination Wizard/Sea Domain Cleric",
+    "age": "67 (appears timeless)",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": null,
+    "description": "Oracle Nerida the Tidereader represents a significant element within the campaign world, offering various opportunities for engagement and development.",
+    "personality": "",
+    "appearance": "svg)\n\n\n# Oracle Nerida the Tidereader\n\n## Overview\nThis document contains important information regarding Oracle Nerida the Tidereader and its role within the greater narrative.",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "important"
+    ]
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "friendly",
+    "expression": "smiling",
+    "lighting": "warm"
+  },
+  "prompt": "realistic portrait of Human (Sea-Touched) Divination Wizard/Sea Domain Cleric, svg)\n\n\n# Oracle Nerida the Tidereader\n\n## Overview\nThis document contains important information regarding Oracle Nerida the Tidereader and its role within the greater narrative., weathered, smiling expression, warm lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.692Z",
+  "placeholder": true
+}

@@ -1,0 +1,49 @@
+{
+  "character": {
+    "name": "Sister Morwyn Veilkeeper",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Sister Morwyn Veilkeeper.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Improvements",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "## Notable Quotes",
+    "description": "title: Sister Morwyn Veilkeeper\ntype: NPC\ntags:\n- character\n- both\n- active\n- npc\n- bloodline\ncreated: null\nmodified: '2025-08-14'\nstatus: active\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nupdated: '2025-08-13T12:34:17.601545+00:00'\nworld: Both\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "Sister Morwyn operates from a hidden sanctum within [[The Shadowmere]], where the boundary between reality and shadow grows thin.",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": null
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "standard",
+    "expression": "neutral",
+    "lighting": "balanced"
+  },
+  "prompt": "realistic portrait of Unknown Unknown, Sister Morwyn operates from a hidden sanctum within [[The Shadowmere]], where the boundary between reality and shadow grows thin., weathered, neutral expression, balanced lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.787Z",
+  "placeholder": true
+}

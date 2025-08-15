@@ -236,3 +236,11 @@
 
 [2025-08-15T19:15:18.310Z] [2025-08-15T19:15:04.650Z] Link Resolver: Fixed 0 links
 
+[2025-08-15T19:20:04.616Z] [2025-08-15T19:20:04.614Z] Link Resolver: Starting scan...
+
+[2025-08-15T19:20:16.826Z] [2025-08-15T19:20:04.614Z] Link Resolver: Fixed 0 links
+
+[2025-08-15T19:25:04.632Z] [2025-08-15T19:25:04.629Z] Link Resolver: Starting scan...
+
+[2025-08-15T19:25:19.852Z] ERROR: [2025-08-15T19:25:04.629Z] Link Resolver Error: ENOENT: no such file or directory, open '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/13_Performance/Templates/05_Templates.md'
+

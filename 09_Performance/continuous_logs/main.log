@@ -355,3 +355,28 @@ Press Ctrl+C to stop
 [Git Synchronizer] [2025-08-15T19:19:59.075Z] Git Sync: Starting synchronization...
 [Index Builder] [2025-08-15T19:19:59.074Z] Index Builder: Rebuilding indexes...
 [Index Builder] [2025-08-15T19:19:59.074Z] Index Builder: Indexes rebuilt successfully
+[Git Synchronizer] [2025-08-15T19:19:59.075Z] Git Sync: Pushed changes to remote
+[Link Resolver] [2025-08-15T19:20:04.614Z] Link Resolver: Starting scan...
+[Link Resolver] [2025-08-15T19:20:04.614Z] Link Resolver: Fixed 0 links
+[Content Enhancer] [2025-08-15T19:20:25.178Z] Content Enhancer: Starting enhancement...
+[Content Enhancer] [2025-08-15T19:20:25.178Z] Content Enhancer: Enhanced 0 files
+[Link Resolver] [2025-08-15T19:25:04.629Z] Link Resolver: Starting scan...
+[Link Resolver ERROR] [2025-08-15T19:25:04.629Z] Link Resolver Error: ENOENT: no such file or directory, open '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/13_Performance/Templates/05_Templates.md'
+[Asset Generator] [2025-08-15T19:26:33.444Z] Asset Generator: Checking for missing assets...
+[Asset Generator] [2025-08-15T19:26:33.444Z] Asset Generator: Generated 3 assets
+node:internal/fs/promises:640
+  return new FileHandle(await PromisePrototypeThen(
+                        ^
+
+Error: ENOENT: no such file or directory, open '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/09_Performance/AUTOMATION_STATUS.md'
+    at async open (node:internal/fs/promises:640:25)
+    at async Object.writeFile (node:internal/fs/promises:1247:14)
+    at async ContinuousVaultAutomation.updateStatus (/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/scripts/continuous_vault_automation.js:887:5)
+    at async Timeout._onTimeout (/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/scripts/continuous_vault_automation.js:894:9) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/09_Performance/AUTOMATION_STATUS.md'
+}
+
+Node.js v24.4.1

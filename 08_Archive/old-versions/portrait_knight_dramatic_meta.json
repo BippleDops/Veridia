@@ -1,0 +1,55 @@
+{
+  "character": {
+    "name": "Knight",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Knight.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Resistances** Radiant; Necrotic (crystal-enhanced protection)",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": null,
+    "description": "Sir Theron Crystalward stands as a beacon of hope in troubled times, his crystal-enhanced plate armor gleaming with inner light even in the deepest shadows. At 6'2\" with steel-gray hair and piercing blue eyes that seem to reflect the very essence of Aethermoor's crystals, he embodies the ideals of knighthood while wrestling with the complexities of a changing world.\n\nBorn into minor nobility, Theron earned his knighthood through valor during the Crystal Wars, where he discovered his unique ability to commune with and purify corrupted crystals. This gift has made him invaluable in the fight against shadow corruption, but it has also burdened him with knowledge of how deeply the taint has spread through both realms.\n\nHis armor bears the crystalline sigil of his order, and intricate engravings tell the story of his greatest victories. Most notably, the crystal embedded in his breastplate pulses with a gentle light—a fragment of the original Heart of Aethermoor, gifted to him by [[Queen Seraphina Lumengarde]] herself.",
+    "personality": "**Traits**: Honest, determined, clever\n\n**Ideals**: Excellence in their chosen field, maintaining professional standards\n\n**Bonds**: Loyalty to allies, commitment to their cause\n\n**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives",
+    "appearance": "Knight presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures]",
+    "divine": [
+      "Celestial"
+    ],
+    "monstrous": [
+      "fiend"
+    ],
+    "pc": [
+      "player character"
+    ],
+    "major": null
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "dramatic",
+    "expression": "intense",
+    "lighting": "dramatic"
+  },
+  "prompt": "portrait_miniature portrait of Unknown Unknown, Knight presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures], weathered, intense expression, dramatic lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.247Z",
+  "placeholder": true
+}

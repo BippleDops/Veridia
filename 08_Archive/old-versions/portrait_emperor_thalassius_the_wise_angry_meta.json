@@ -1,0 +1,55 @@
+{
+  "character": {
+    "name": "Emperor Thalassius the Wise",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Emperor Thalassius the Wise.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Resistances** Cold, Lightning, Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "clock. Reward scouting and map use.",
+    "description": "Emperor Thalassius the Wise has ruled Aquabyssos for over three thousand years, transforming from benevolent king to undead sovereign through a pact with the [[Deep Mother]] herself. Unlike the twisted liches of the surface world, Thalassius maintained his sanity and noble bearing through the transformation, though his flesh has long since given way to translucent, jellyfish-like tissue stretched over ancient bones that gleam with deep-sea phosphorescence.\n\nStanding seven feet tall even in his hunched, eternal posture, Thalassius wears the corroded crown of the first emperor, now fused to his skull through millennia of pressure and magic. His eyes are twin abyssal pearls that glow with an eerie blue-green light, seeing through time itself. Barnacles and coral growths decorate his form like jewelry, and schools of bioluminescent fish swim through his partially translucent body, living symbols of his unity with the ocean depths.\n\nThe emperor rarely leaves the Sunken Throne, a massive chamber at the heart of [[Abyssos Prime   Inverse Palace]], where the water itself bows to his will. Here, surrounded by the fossilized remains of his original court, he contemplates the eternal balance between the depths and the surface, between [[Aquabyssos]] and [[Aethermoor]], between life and undeath.",
+    "personality": "**Traits**: Brave, patient, clever\n\n**Ideals**: Excellence in their chosen field, maintaining professional standards\n\n**Bonds**: Loyalty to allies, commitment to their cause\n\n**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives",
+    "appearance": "Emperor Thalassius the Wise presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures]",
+    "divine": [
+      "divine"
+    ],
+    "monstrous": [
+      "undead"
+    ],
+    "pc": null,
+    "major": [
+      "important"
+    ]
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "angry",
+    "expression": "angry",
+    "lighting": "harsh"
+  },
+  "prompt": "portrait_miniature portrait of Unknown Unknown, Emperor Thalassius the Wise presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures], weathered, angry expression, harsh lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.222Z",
+  "placeholder": true
+}

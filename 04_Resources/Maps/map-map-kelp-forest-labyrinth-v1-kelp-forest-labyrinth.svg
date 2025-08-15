@@ -1,0 +1,95 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+<defs>
+
+        <linearGradient id="forest-canopy" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#006400"/><stop offset="50%" stop-color="#228B22"/><stop offset="100%" stop-color="#32CD32"/>
+        </linearGradient>
+
+        <linearGradient id="forest-moss" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#8FBC8F"/><stop offset="50%" stop-color="#9ACD32"/><stop offset="100%" stop-color="#ADFF2F"/>
+        </linearGradient>
+
+        <linearGradient id="forest-bark" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#8B4513"/><stop offset="50%" stop-color="#A0522D"/><stop offset="100%" stop-color="#D2691E"/>
+        </linearGradient>
+<pattern id="forest-pattern" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+               <ellipse cx="20" cy="20" rx="15" ry="8" fill="white" transform="rotate(45 20 20)"/>
+               </pattern>
+
+        <filter id="map-shadow">
+          <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.3"/>
+        </filter>
+
+        <filter id="map-glow">
+          <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+          <feMerge>
+            <feMergeNode in="coloredBlur"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+</defs>
+<rect width="800" height="600" fill="url(#forest-canopy)"/>
+<rect x="282.46037974309587" y="244.2839676846963" width="63.01613599531922" height="167.33392964624935" 
+                  fill="#00FF00" stroke="#228B22" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<rect x="559.6830383809281" y="379.70094483402727" width="86.89102895326955" height="152.97930254392594" 
+                  fill="#00FF00" stroke="#228B22" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<circle cx="127.92665747903501" cy="323.4708998747703" r="50.927268675058826"
+                  fill="#00FF00" stroke="#228B22" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<rect x="515.2538941505743" y="387.5693704813932" width="147.34196286587087" height="148.25442791605886" 
+                  fill="#00FF00" stroke="#228B22" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<circle cx="393.29604581325765" cy="228.03622210897532" r="72.89559849779396"
+                  fill="#00FF00" stroke="#228B22" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<rect x="60.94181338837213" y="505.8393914819643" width="69.21813004392372" height="102.09313826758093" 
+                  fill="#00FF00" stroke="#228B22" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<path d="M 313.9684477407555 327.950932507821 
+                        L 603.1285528575629 456.19059610599027"
+                stroke="#32CD32" stroke-width="20" fill="none"/>
+<path d="M 603.1285528575629 456.19059610599027 
+                        L 127.92665747903501 323.4708998747703"
+                stroke="#32CD32" stroke-width="20" fill="none"/>
+<path d="M 127.92665747903501 323.4708998747703 
+                        L 588.9248755835097 461.6965844394226"
+                stroke="#32CD32" stroke-width="20" fill="none"/>
+<path d="M 588.9248755835097 461.6965844394226 
+                        L 393.29604581325765 228.03622210897532"
+                stroke="#32CD32" stroke-width="20" fill="none"/>
+<path d="M 393.29604581325765 228.03622210897532 
+                        L 95.550878410334 556.8859606157548"
+                stroke="#32CD32" stroke-width="20" fill="none"/>
+<rect x="303.9684477407555" y="239.2839676846963" 
+                width="20" height="10" fill="#8FBC8F"/>
+<text x="313.9684477407555" y="327.950932507821" 
+                text-anchor="middle" font-size="20" fill="white">1</text>
+<rect x="593.1285528575629" y="374.70094483402727" 
+                width="20" height="10" fill="#8FBC8F"/>
+<text x="603.1285528575629" y="456.19059610599027" 
+                text-anchor="middle" font-size="20" fill="white">2</text>
+<rect x="117.92665747903501" y="251.76916338563012" 
+                width="20" height="10" fill="#8FBC8F"/>
+<text x="127.92665747903501" y="323.4708998747703" 
+                text-anchor="middle" font-size="20" fill="white">3</text>
+<rect x="578.9248755835097" y="382.5693704813932" 
+                width="20" height="10" fill="#8FBC8F"/>
+<text x="588.9248755835097" y="461.6965844394226" 
+                text-anchor="middle" font-size="20" fill="white">4</text>
+<rect x="383.29604581325765" y="150.14062361118135" 
+                width="20" height="10" fill="#8FBC8F"/>
+<text x="393.29604581325765" y="228.03622210897532" 
+                text-anchor="middle" font-size="20" fill="white">5</text>
+<rect x="85.550878410334" y="500.8393914819643" 
+                width="20" height="10" fill="#8FBC8F"/>
+<text x="95.550878410334" y="556.8859606157548" 
+                text-anchor="middle" font-size="20" fill="white">6</text>
+<text x="400" y="30" text-anchor="middle" font-size="24" 
+              fill="#228B22" filter="url(#map-glow)">labyrinth</text>
+<line x1="50" y1="570" x2="150" y2="570" 
+              stroke="#228B22" stroke-width="2"/>
+<text x="100" y="590" text-anchor="middle" font-size="12" 
+              fill="#228B22">10 ft</text>
+</svg>

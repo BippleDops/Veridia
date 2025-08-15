@@ -1,0 +1,65 @@
+---
+
+title: NPC_Template
+type: npc
+tags:
+- npc
+
+created: '2025-01-15'
+modified: '2025-01-15'
+
+--- # NPC_Template ---
+
+## Description
+
+Detailed description pending.
+title: NPC Template
+type: template
+tags:
+- template
+- active
+
+created: '2025-08-14'
+modified: '2025-08-14'
+
+--- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 09_Templates-specific enhancement ## Quest Hooks
+
+1. 2. 3. ## Plot Hooks - A noble needs help finding before dawn
+
+
+- A prisoner has gone missing and truth emerges
+- A stranger needs help finding before winter ## Related Notes - [[Similar Topic 1]]
+
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]] ## 09_Templates Specific Content Contextual improvement based on 09_Templates
+
+
+## Notes
+
+*Additional notes*
+
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

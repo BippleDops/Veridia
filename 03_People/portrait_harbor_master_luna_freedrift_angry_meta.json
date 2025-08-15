@@ -1,0 +1,51 @@
+{
+  "character": {
+    "name": "Harbor Master Luna Freedrift",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Harbor Master Luna Freedrift.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Improvements",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "## Plot Hooks",
+    "description": "title: Harbor Master Luna Freedrift\ntype: Npc\ntags:\n- both\n- npc\n- world/both\n- character\n- content/npc\n- active\n- complete\n- status/in-progress\ncreated: '2025-08-11'\nmodified: '2025-08-14'\nstatus: complete\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nupdated: '2025-08-13T12:34:17.710313+00:00'\nworld: Both\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "wise",
+    "appearance": "** Luna makes two attacks with her rapier or shortbow, or she can make one attack and use a cunning action. ** Within Freedom Harbor, Luna can command the assistance of harbor guards, customs officials, and loyal merchants.",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "leader"
+    ]
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "angry",
+    "expression": "angry",
+    "lighting": "harsh"
+  },
+  "prompt": "realistic portrait of Unknown Unknown, ** Luna makes two attacks with her rapier or shortbow, or she can make one attack and use a cunning action. ** Within Freedom Harbor, Luna can command the assistance of harbor guards, customs officials, and loyal merchants., weathered, angry expression, harsh lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.487Z",
+  "placeholder": true
+}

@@ -1,0 +1,53 @@
+{
+  "character": {
+    "name": "The Harmony Collective",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/The Harmony Collective.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Improvements",
+    "gender": "neutral",
+    "alignment": "4. **Deep Synchronization:** Advanced mental conditioning",
+    "faction": "- harmony",
+    "description": "title: The Harmony Collective\ntype: Npc\ntags:\n- aquabyssos\n- status/complete\n- cult\n- content/faction\n- harmony\n- npc\n- character\n- content/npc\n- active\n- complete\n- world/aquabyssos\ncreated: '2025-08-12'\nmodified: '2025-08-14'\nstatus: complete\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nMyCategory: Religious\nMyContainer: None\ncreated_by: auto-stub\nobsidianUIMode: preview\nupdated: '2025-08-13T12:34:17.507083+00:00'\nworld: Aquabyssos\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "Members practice \"thoughtless thinking\" - acting without personal motivation or desire.",
+    "divine": [
+      "divine"
+    ],
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "Leader"
+    ]
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "friendly",
+    "expression": "smiling",
+    "lighting": "warm"
+  },
+  "prompt": "portrait_miniature portrait of Unknown Unknown, Members practice \"thoughtless thinking\" - acting without personal motivation or desire., weathered, smiling expression, warm lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.338Z",
+  "placeholder": true
+}

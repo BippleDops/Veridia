@@ -1,0 +1,51 @@
+{
+  "character": {
+    "name": "The Cerulean Breath",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/The Cerulean Breath.md",
+    "race": "Ancient Dragon Turtle",
+    "class": "Draconic Sorcerer/Circle of the Land Druid",
+    "age": "created: '2025-08-08'",
+    "gender": "neutral",
+    "alignment": "Neutral Good",
+    "faction": null,
+    "description": "title: The Cerulean Breath\ntype: Npc\ntags:\n- aquabyssos\n- status/complete\n- world/aquabyssos\n- npc\n- content/lore\n- character\n- content/npc\n- active\n- dragon-turtle\n- complete\n- content/item\n- sage\ncreated: '2025-08-08'\nmodified: '2025-08-14'\nstatus: complete\nrace: Ancient Dragon Turtle\nclass: Draconic Sorcerer/Circle of the Land Druid\nlocation: '[[The Cerulean Depths]] - Sapphire Grotto'\nlevel: 20\nMyCategory: NPC\nMyContainer: None\naffiliation: '[[The Depth Wardens]] - Elder Advisor'\nage: 2,847\nalignment: Neutral Good\ncreated_by: auto-stub\nobsidianUIMode: preview\nrole: Ancient Dragon Turtle Sage\nupdated: '2025-08-13T12:34:17.687488+00:00'\nworld: Aquabyssos\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "Maraleth embodies the patient wisdom of ages, approaching problems with the long perspective that comes from having witnessed the rise and fall of civilizations. She is infinitely patient with those who seek her counsel, but has little tolerance for willful ignorance or deliberate cruelty. Her advice often comes in the form of stories, parables, and historical examples that allow listeners to draw their own conclusions.\n\nShe possesses a deep, gentle sense of humor that emerges in unexpected moments, often through wordplay or subtle references to historical events. Maraleth takes genuine delight in learning new things, despite her vast accumulated knowledge, and is especially interested in the perspectives of younger beings who see the world differently than she does.\n\nHer greatest sorrow is the knowledge that she will eventually outlive all the mortals she comes to care about, leading her to maintain a slight emotional distance even from her closest friends. However, she considers this the price of her role as keeper of memories and protector of generations yet to come.",
+    "appearance": "Maraleth is massive even by dragon turtle standards, measuring 80 feet from snout to tail with a shell span of 60 feet. Her shell has evolved over millennia into a living coral reef system that hosts thousands of sea creatures, making her a mobile ecosystem. The shell's surface is encrusted with luminescent coral formations in shades of blue, teal, and pearl that create constantly shifting patterns of beautiful bioluminescence.\n\nHer head is noble and wise, with large, intelligent eyes that shift through shades of deep blue and green like the ocean itself. Unlike the fierce visage of most dragons, her features radiate kindness and ancient wisdom. Her breath often creates small clouds of glittering cerulean mist that spiral around her when she speaks, giving her words an otherworldly quality.\n\nMaraleth's limbs are powerful but graceful, capable of delicate manipulation despite their size. Her claws have been worn smooth by millennia of gentle use, and she often uses them like massive writing implements when creating charts or maps in the sea floor. Trailing from her shell are long, kelp-like fronds that serve as both sensory organs and communication devices, allowing her to sense vibrations and emotions across vast distances.",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "leader"
+    ]
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "dramatic",
+    "expression": "intense",
+    "lighting": "dramatic"
+  },
+  "prompt": "realistic portrait of Ancient Dragon Turtle Draconic Sorcerer/Circle of the Land Druid, Maraleth is massive even by dragon turtle standards, measuring 80 feet from snout to tail with a shell span of 60 feet. Her shell has evolved over millennia into a living coral reef system that hosts thousands of sea creatures, making her a mobile ecosystem. The shell's surface is encrusted with luminescent coral formations in shades of blue, teal, and pearl that create constantly shifting patterns of beautiful bioluminescence.\n\nHer head is noble and wise, with large, intelligent eyes that shift through shades of deep blue and green like the ocean itself. Unlike the fierce visage of most dragons, her features radiate kindness and ancient wisdom. Her breath often creates small clouds of glittering cerulean mist that spiral around her when she speaks, giving her words an otherworldly quality.\n\nMaraleth's limbs are powerful but graceful, capable of delicate manipulation despite their size. Her claws have been worn smooth by millennia of gentle use, and she often uses them like massive writing implements when creating charts or maps in the sea floor. Trailing from her shell are long, kelp-like fronds that serve as both sensory organs and communication devices, allowing her to sense vibrations and emotions across vast distances., weathered, intense expression, dramatic lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.814Z",
+  "placeholder": true
+}

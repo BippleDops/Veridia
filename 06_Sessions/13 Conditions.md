@@ -1,0 +1,70 @@
+---
+
+title: 13 Conditions
+type: note
+tags:
+- note
+
+created: '2025-01-15'
+modified: '2025-01-15'
+
+--- # 13 Conditions ---
+
+## Description
+
+Detailed description pending.
+title: 13 Conditions
+aliases:
+- Conditions
+
+type: note
+tags:
+- both
+- ttrpg-cli/compendium/src/5e/phb
+- research
+- world/both
+- active
+- note
+- status/in-progress
+
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidian UIMode: preview
+updated: '2025-08-13T12:34:05.219212+00:00'
+world: Both
+
+--- # Conditions
+
+*Source: Player's Handbook (2014), p. 289* Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monster's attack, or other effect. Most conditions, such as [[conditions#Blinded|blinded]], are impairments, but a few, such as [[conditions#Invisible|invisible]], can be advantageous. A condition lasts either until it is countered (the [[conditions#prone|prone]] condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition. If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't. For a full list of the conditions, see the conditions page. The conditions are:- [[conditions#Blinded|blinded]] - [[conditions#Charmed|charmed]] - [[conditions#Deafened|deafened]] - [[conditions#Exhaustion|exhaustion]] - [[conditions#frightened|frightened]] - [[conditions#Grappled|grappled]] - [[conditions#Incapacitated|incapacitated]] - [[conditions#Invisible|invisible]] - [[conditions#Paralyzed|paralyzed]] - [[conditions#Petrified|petrified]] - [[conditions#Poisoned|poisoned]] - [[conditions#prone|prone]] - [[conditions#Restrained|restrained]] - [[conditions#Stunned|stunned]] - [[conditions#Unconscious|unconscious]] ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary 13 conditions is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 13 conditions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 13 conditions. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality ## Plot Hooks - A prisoner has gone missing and evil awakens
+
+- A shipment has gone missing and chaos spreads
+- A letter reveals the truth about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## Conditions Reference (PHB p.290-292) ### Common Conditions
+
+- **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
+- **Charmed**: Can't attack charmer, charmer has advantage on social checks
+- **Deafened**: Can't hear, auto-fail hearing checks
+- **Frightened**: Disadvantage while source in sight, can't move closer
+- **Grappled**: Speed 0, ends if grappler incapacitated
+- **Incapacitated**: Can't take actions or reactions
+- **Invisible**: Heavily obscured, advantage on attacks, attacks against have disadvantage
+- **Paralyzed**: Incapacitated, can't move/speak, auto-fail STR/DEX saves
+- **Poisoned**: Disadvantage on attacks and ability checks
+- **Prone**: Disadvantage on attacks, melee against has advantage
+- **Restrained**: Speed 0, disadvantage on attacks/DEX saves
+- **Stunned**: Incapacitated, can't move, can barely speak
+- **Unconscious**: Incapacitated, prone, drops everything ### Exhaustion (PHB p.291)
+
+1. Disadvantage on ability checks
+2. Speed halved
+3. Disadvantage on attacks and saves
+4. HP maximum halved
+5. Speed reduced to 0
+6. Death
+
+
+
+## Notes
+
+*Additional notes*

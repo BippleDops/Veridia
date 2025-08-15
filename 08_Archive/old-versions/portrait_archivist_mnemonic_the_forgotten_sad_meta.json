@@ -1,0 +1,53 @@
+{
+  "character": {
+    "name": "Archivist Mnemonic the Forgotten",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Archivist Mnemonic the Forgotten.md",
+    "race": "Human (Memory-Touched)",
+    "class": "Unknown",
+    "age": "Unknown (memory fragments suggest centuries)",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "## Secrets",
+    "description": "title: Archivist Mnemonic the Forgotten\ntype: Npc\ntags:\n- aquabyssos\n- status/complete\n- forgotten\n- npc\n- deep-mother\n- content/npc\n- character\n- active\n- divine-servant\n- complete\n- world/aquabyssos\n- memory-keeper\ncreated: '2025-08-09'\nmodified: '2025-08-14'\nstatus: complete\nrace: Human (Memory-Touched)\nclass: Unknown\nlocation: '[[The Archive of Unremembered Things]] - The Forgetting Vaults'\naffiliation: '[[The Archive of Unremembered Things]]'\nage: Unknown (memory fragments suggest centuries)\ncr: '5'\ncreated_by: auto-stub\nrole: Keeper of Lost Memories\nupdated: '2025-08-13T12:34:17.492986+00:00'\nworld: Aquabyssos\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "**Traits**: Creative, creative, curious\n\n**Ideals**: Excellence in their chosen field, maintaining professional standards\n\n**Bonds**: Loyalty to allies, commitment to their cause\n\n**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives",
+    "appearance": "Archivist Mnemonic the Forgotten presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures]",
+    "divine": [
+      "divine"
+    ],
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "important"
+    ]
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "sad",
+    "expression": "sad",
+    "lighting": "soft"
+  },
+  "prompt": "portrait_miniature portrait of Human (Memory-Touched) Unknown, Archivist Mnemonic the Forgotten presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures], weathered, sad expression, soft lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.084Z",
+  "placeholder": true
+}

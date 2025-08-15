@@ -1,0 +1,53 @@
+{
+  "character": {
+    "name": "Senator",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Senator.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Resistances** Cold",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": ", though she maneuvers to lead rather than follow",
+    "description": "Senator Cordelia Deepcurrent epitomizes the sophisticated power broker of Aquabyssos politics. Her elegant merfolk physique is enhanced by centuries of selective breeding among the political elite—scales that shimmer with an iridescent blue-green that seems to shift with her moods, and flowing fins that move with practiced grace even in the densest political waters.\n\nStanding 5'6\" with an aristocratic bearing, Cordelia adorns herself in the finest coral jewelry and silk garments that flow like water around her form. Her most distinctive feature is her voice—melodious and hypnotic, capable of swaying hearts and minds with equal ease. When she speaks in the Parliament chambers, even her enemies listen.\n\nShe represents the Deepcurrent District, the wealthiest area of Aquabyssos, where the most influential families maintain their ancestral coral mansions. Her political philosophy centers on maintaining Aquabyssos's independence while carefully managing the delicate relationship with surface dwellers and the growing shadow threat.",
+    "personality": "wise",
+    "appearance": "## Relationships\n\n**Allies:**\n- **[[Parliament Loyalists]]** - Her primary political faction, though she maneuvers to lead rather than follow\n- **[[Emperor Thalassius the Wise]]** - Maintains cordial relations while quietly positioning for more power\n- **[[Banker Titus Goldcurrent]]** - Her cousin and ficial advisor who helps fund her political operations\n- **[[Ambassador Nerida Deepcurrent]]** - Her sister, serving as the diplomatic arm of their family's ambitions\n\n**Enemies:**\n- **[[Shadow Parliament]]** - She sees them as a direct threat to legitimate government\n- **[[The Coral Throne Syndicate]]** - Criminal organizations that corrupt the political process\n- **Reform Movement** - Radical politicians who want to democratize the Parliament system\n\n**Complicated:**\n- **[[Senator Glaucus]]** - Political rival who she respects but fundamentally disagrees with on key issues\n- **[[Prince Caspian Duskwater]]** - She suspects him of shadow corruption but lacks definitive proof\n- **[[Surface Ambassador Lord Seaworthy]]** - Navigates the complex relationship between surface and depth politics\n\n## Quest Hooks\n\n1. One creature within 60 feet must succeed on a DC 17 Charisma save or be compelled to follow a reasonable, non-harmful command for up to 1 hour.",
+    "divine": [
+      "Celestial"
+    ],
+    "monstrous": [
+      "monster"
+    ],
+    "pc": null,
+    "major": null
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "friendly",
+    "expression": "smiling",
+    "lighting": "warm"
+  },
+  "prompt": "portrait_miniature portrait of Unknown Unknown, ## Relationships\n\n**Allies:**\n- **[[Parliament Loyalists]]** - Her primary political faction, though she maneuvers to lead rather than follow\n- **[[Emperor Thalassius the Wise]]** - Maintains cordial relations while quietly positioning for more power\n- **[[Banker Titus Goldcurrent]]** - Her cousin and ficial advisor who helps fund her political operations\n- **[[Ambassador Nerida Deepcurrent]]** - Her sister, serving as the diplomatic arm of their family's ambitions\n\n**Enemies:**\n- **[[Shadow Parliament]]** - She sees them as a direct threat to legitimate government\n- **[[The Coral Throne Syndicate]]** - Criminal organizations that corrupt the political process\n- **Reform Movement** - Radical politicians who want to democratize the Parliament system\n\n**Complicated:**\n- **[[Senator Glaucus]]** - Political rival who she respects but fundamentally disagrees with on key issues\n- **[[Prince Caspian Duskwater]]** - She suspects him of shadow corruption but lacks definitive proof\n- **[[Surface Ambassador Lord Seaworthy]]** - Navigates the complex relationship between surface and depth politics\n\n## Quest Hooks\n\n1. One creature within 60 feet must succeed on a DC 17 Charisma save or be compelled to follow a reasonable, non-harmful command for up to 1 hour., weathered, smiling expression, warm lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.315Z",
+  "placeholder": true
+}

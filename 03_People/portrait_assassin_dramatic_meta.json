@@ -1,0 +1,49 @@
+{
+  "character": {
+    "name": "Assassin",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Assassin.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Resistances** Necrotic (shadow corruption)",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "## Voice & Mannerisms",
+    "description": "Vespara Thorne is a legendary assassin who walks the razor's edge between Aethermoor and Aquabyssos. Once a noble's daughter from the Crystal Spires, she was touched by shadow corruption during a diplomatic mission to the depths. Rather than succumb to madness, she embraced the darkness and became something new—a killer who moves between worlds like a whisper in the night.\n\nStanding 5'6\" with platinum hair streaked with shadow-black, Vespara's most striking feature is her heterochromic eyes: one crystal-blue (Aethermoor heritage), one void-black (shadow corruption). Intricate tattoos of crystalline patterns spiral down her arms, pulsing faintly with trapped shadows.\n\nShe operates from the Shadowblade District, a neutral zone where information flows like water and contracts are sealed in blood and crystal dust. Her reputation is built on three pillars: she never misses a target, she never breaks a contract, and she never kills without cause.",
+    "personality": "",
+    "appearance": "** Vespara's weapons are coated with crystallized shadow essence. Standing 5'6\" with platinum hair streaked with shadow-black, Vespara's most striking feature is her heterochromic eyes: one crystal-blue (Aethermoor heritage), one void-black (shadow corruption). Standing 5'6\" with platinum hair streaked with shadow-black, Vespara's most striking feature is her heterochromic eyes: one crystal-blue (Aethermoor heritage), one void-black (shadow corruption). Rather than succumb to madness, she embraced the darkness and became something new—a killer who moves between worlds like a whisper in the night.",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": null
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "dramatic",
+    "expression": "intense",
+    "lighting": "dramatic"
+  },
+  "prompt": "realistic portrait of Unknown Unknown, ** Vespara's weapons are coated with crystallized shadow essence. Standing 5'6\" with platinum hair streaked with shadow-black, Vespara's most striking feature is her heterochromic eyes: one crystal-blue (Aethermoor heritage), one void-black (shadow corruption). Standing 5'6\" with platinum hair streaked with shadow-black, Vespara's most striking feature is her heterochromic eyes: one crystal-blue (Aethermoor heritage), one void-black (shadow corruption). Rather than succumb to madness, she embraced the darkness and became something new—a killer who moves between worlds like a whisper in the night., weathered, intense expression, dramatic lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:48.489Z",
+  "placeholder": true
+}

@@ -1,0 +1,51 @@
+{
+  "character": {
+    "name": "Duchess Marina Ever-Drowning",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Duchess Marina Ever-Drowning.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "nts who don't know they work for her.",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "> - Created [[Ambassador Nerida Deepcurrent]] from compiled memories",
+    "description": "title: Duchess Marina Ever Drowning\ntype: NPC\ntags:\n- character\n- both\n- active\n- npc\ncreated: null\nmodified: '2025-08-14'\nstatus: active\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nupdated: '2025-08-13T12:34:17.716613+00:00'\nworld: Both\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "**STR:** 10 (+0) **DEX:** 20 (+5) **CON:** 20 (+5)\n**INT:** 24 (+7) **WIS:** 18 (+4) **CHA:** 22 (+6)\n\n## Voice & Mannerisms\n\n**Voice**: Cold and distant\n\n**Speech Pattern**: Peppered with idioms\n\n**Physical Habits**: Maintains intense eye contact\n\n## The Palace of Last Breaths\nHer residence and headquarters:\n- Built from shipwrecks of merchant vessels\n- Ballroom where drowned nobles dance eternally\n- Gallery of portraits that contain trapped souls\n- Vault holding her 776 death memories\n- Throne room submerged in memory water\n\n## Secrets\n> [!warning] DM Only\n> - Her 1000th drowning will transform her into something cosmic\n> - Has been replacing surface nobles with memory-sculpted duplicates\n> - Owns the true memory of who shattered the Crown of Stars\n> - Is actually three people sharing one body (original, first drowning, current)\n> - Has economic leverage over every major faction\n> - Created [[Ambassador Nerida Deepcurrent]] from compiled memories\n> - Can kill people by selling their memory of how to breathe\n> - The Selenthian Dynasty treasure contains pre-universe artifacts\n\n## Memory Collection\nNotable memories in her vault:\n- The last sunset before the first drowning\n- A god's first doubt\n- The moment the Crown of Stars was conceived\n- Every mother's final goodbye to drowned children\n- The taste of air to the newly transformed\n\n## Plot Hooks\n1.",
+    "divine": [
+      "god"
+    ],
+    "monstrous": null,
+    "pc": null,
+    "major": null
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "standard",
+    "expression": "neutral",
+    "lighting": "balanced"
+  },
+  "prompt": "portrait_miniature portrait of Unknown Unknown, **STR:** 10 (+0) **DEX:** 20 (+5) **CON:** 20 (+5)\n**INT:** 24 (+7) **WIS:** 18 (+4) **CHA:** 22 (+6)\n\n## Voice & Mannerisms\n\n**Voice**: Cold and distant\n\n**Speech Pattern**: Peppered with idioms\n\n**Physical Habits**: Maintains intense eye contact\n\n## The Palace of Last Breaths\nHer residence and headquarters:\n- Built from shipwrecks of merchant vessels\n- Ballroom where drowned nobles dance eternally\n- Gallery of portraits that contain trapped souls\n- Vault holding her 776 death memories\n- Throne room submerged in memory water\n\n## Secrets\n> [!warning] DM Only\n> - Her 1000th drowning will transform her into something cosmic\n> - Has been replacing surface nobles with memory-sculpted duplicates\n> - Owns the true memory of who shattered the Crown of Stars\n> - Is actually three people sharing one body (original, first drowning, current)\n> - Has economic leverage over every major faction\n> - Created [[Ambassador Nerida Deepcurrent]] from compiled memories\n> - Can kill people by selling their memory of how to breathe\n> - The Selenthian Dynasty treasure contains pre-universe artifacts\n\n## Memory Collection\nNotable memories in her vault:\n- The last sunset before the first drowning\n- A god's first doubt\n- The moment the Crown of Stars was conceived\n- Every mother's final goodbye to drowned children\n- The taste of air to the newly transformed\n\n## Plot Hooks\n1., weathered, neutral expression, balanced lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.214Z",
+  "placeholder": true
+}

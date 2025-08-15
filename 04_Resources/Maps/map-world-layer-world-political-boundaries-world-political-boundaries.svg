@@ -1,0 +1,107 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+<defs>
+
+        <linearGradient id="dungeon-stone" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#2F4F4F"/><stop offset="50%" stop-color="#696969"/><stop offset="100%" stop-color="#808080"/>
+        </linearGradient>
+
+        <linearGradient id="dungeon-shadow" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#000000"/><stop offset="50%" stop-color="#1C1C1C"/><stop offset="100%" stop-color="#363636"/>
+        </linearGradient>
+
+        <linearGradient id="dungeon-torch" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#FF4500"/><stop offset="50%" stop-color="#FF6347"/><stop offset="100%" stop-color="#FF7F50"/>
+        </linearGradient>
+<pattern id="dungeon-pattern" x="0" y="0" width="50" height="50" patternUnits="userSpaceOnUse">
+                <circle cx="10" cy="10" r="3" fill="white"/>
+                <circle cx="30" cy="25" r="4" fill="white"/>
+                <circle cx="40" cy="40" r="2" fill="white"/>
+                </pattern>
+
+        <filter id="map-shadow">
+          <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.3"/>
+        </filter>
+
+        <filter id="map-glow">
+          <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+          <feMerge>
+            <feMergeNode in="coloredBlur"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+</defs>
+<rect width="800" height="600" fill="url(#dungeon-stone)"/>
+<circle cx="540.787031278127" cy="218.82188665162914" r="41.60907722234062"
+                  fill="#A9A9A9" stroke="#696969" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<rect x="492.6014208039225" y="414.3272067033396" width="123.27183174049206" height="88.54060653040221" 
+                  fill="#A9A9A9" stroke="#696969" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<circle cx="296.4115091032152" cy="506.61218055799475" r="43.880873300880125"
+                  fill="#A9A9A9" stroke="#696969" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<circle cx="595.6512676355584" cy="179.4013505648024" r="42.542150037224346"
+                  fill="#A9A9A9" stroke="#696969" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<rect x="261.6761114414819" y="150.34376911606608" width="87.90043930261677" height="172.27717051216786" 
+                  fill="#A9A9A9" stroke="#696969" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<rect x="648.5121716206438" y="436.34893898174295" width="79.74149047527101" height="133.47938703788347" 
+                  fill="#A9A9A9" stroke="#696969" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<rect x="97.60340859250636" y="408.87456555843266" width="145.71591943735473" height="136.93806617992868" 
+                  fill="#A9A9A9" stroke="#696969" stroke-width="3"
+                  filter="url(#map-shadow)"/>
+<path d="M 540.787031278127 218.82188665162914 
+                        L 554.2373366741685 458.5975099685407"
+                stroke="#808080" stroke-width="20" fill="none"/>
+<path d="M 554.2373366741685 458.5975099685407 
+                        L 296.4115091032152 506.61218055799475"
+                stroke="#808080" stroke-width="20" fill="none"/>
+<path d="M 296.4115091032152 506.61218055799475 
+                        L 595.6512676355584 179.4013505648024"
+                stroke="#808080" stroke-width="20" fill="none"/>
+<path d="M 595.6512676355584 179.4013505648024 
+                        L 305.6263310927903 236.48235437215"
+                stroke="#808080" stroke-width="20" fill="none"/>
+<path d="M 305.6263310927903 236.48235437215 
+                        L 688.3829168582793 503.0886325006847"
+                stroke="#808080" stroke-width="20" fill="none"/>
+<path d="M 688.3829168582793 503.0886325006847 
+                        L 170.46136831118372 477.343598648397"
+                stroke="#808080" stroke-width="20" fill="none"/>
+<rect x="530.787031278127" y="153.75480621246868" 
+                width="20" height="10" fill="#708090"/>
+<text x="540.787031278127" y="218.82188665162914" 
+                text-anchor="middle" font-size="20" fill="white">1</text>
+<rect x="544.2373366741685" y="409.3272067033396" 
+                width="20" height="10" fill="#708090"/>
+<text x="554.2373366741685" y="458.5975099685407" 
+                text-anchor="middle" font-size="20" fill="white">2</text>
+<rect x="286.4115091032152" y="447.48604966071065" 
+                width="20" height="10" fill="#708090"/>
+<text x="296.4115091032152" y="506.61218055799475" 
+                text-anchor="middle" font-size="20" fill="white">3</text>
+<rect x="585.6512676355584" y="125.56204873838692" 
+                width="20" height="10" fill="#708090"/>
+<text x="595.6512676355584" y="179.4013505648024" 
+                text-anchor="middle" font-size="20" fill="white">4</text>
+<rect x="295.6263310927903" y="145.34376911606608" 
+                width="20" height="10" fill="#708090"/>
+<text x="305.6263310927903" y="236.48235437215" 
+                text-anchor="middle" font-size="20" fill="white">5</text>
+<rect x="678.3829168582793" y="431.34893898174295" 
+                width="20" height="10" fill="#708090"/>
+<text x="688.3829168582793" y="503.0886325006847" 
+                text-anchor="middle" font-size="20" fill="white">6</text>
+<rect x="160.46136831118372" y="403.87456555843266" 
+                width="20" height="10" fill="#708090"/>
+<text x="170.46136831118372" y="477.343598648397" 
+                text-anchor="middle" font-size="20" fill="white">7</text>
+<text x="400" y="30" text-anchor="middle" font-size="24" 
+              fill="#696969" filter="url(#map-glow)">boundaries</text>
+<line x1="50" y1="570" x2="150" y2="570" 
+              stroke="#696969" stroke-width="2"/>
+<text x="100" y="590" text-anchor="middle" font-size="12" 
+              fill="#696969">10 ft</text>
+</svg>

@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["Previous Session"]
+---
+
 # Previous Session
 
 > *The fate of many hangs in the balance...*

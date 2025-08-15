@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Civic Engagement 1 (01 Adventures)"]
+---
+
 # Quest   Civic Engagement 1 (01 Adventures)
 
 

@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["Moral Dilemmas"]
+---
+
 # Moral Dilemmas
 
 > *What starts as simple becomes legendary...*

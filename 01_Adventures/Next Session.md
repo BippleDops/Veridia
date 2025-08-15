@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["Next Session"]
+---
+
 # Next Session
 
 

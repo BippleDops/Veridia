@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Breaking the Scales"]
+---
+
 # Quest   Breaking The Scales
 
 > *Time is running out...*

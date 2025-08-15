@@ -306,3 +306,9 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #council #faction #worldbuilding
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Recent Events]]
+- Connected to: [[Main Quest Line]]

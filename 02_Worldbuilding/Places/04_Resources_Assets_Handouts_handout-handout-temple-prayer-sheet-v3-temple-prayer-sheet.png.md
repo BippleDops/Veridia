@@ -279,3 +279,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #temple #worldbuilding #place
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Recent Events]]
+- Connected to: [[Main Quest Line]]

@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.399072+00:00'
 world: Aquabyssos
 ---
 
+![Master Cultivator Polyp Growe](../../../04_Resources/Assets/Generated/Misc/master_cultivator_polyp_growe.png)
+
+
 
 
 ## Overview
@@ -137,3 +140,10 @@ Things widely suspected
 - Ancient connections
 - Forbidden knowledge
 - Ultimate goals
+
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Power Structures]]
+- Connected to: [[Side Adventures]]

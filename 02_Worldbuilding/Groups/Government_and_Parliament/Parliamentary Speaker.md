@@ -137,3 +137,10 @@ Things widely suspected
 - Ancient connections
 - Forbidden knowledge
 - Ultimate goals
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Regional Politics]]
+- Connected to: [[Character Backstories]]

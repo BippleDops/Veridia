@@ -1,0 +1,13 @@
+{
+  "title": "Family Retainer",
+  "prompt": "Family retainer, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:06:44.969Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Family Retainer.md"
+}

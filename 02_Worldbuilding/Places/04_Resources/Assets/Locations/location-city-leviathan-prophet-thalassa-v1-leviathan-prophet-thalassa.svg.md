@@ -158,3 +158,12 @@ Ongoing situations affecting location-city-leviathan-prophet-thalassa-v1-leviath
 - Environmental hazards
 - Hostile creatures
 - Political tensions
+
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

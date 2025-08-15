@@ -171,3 +171,10 @@ Ongoing situations affecting Quartermaster Shadow Supply:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Power Structures]]
+- Connected to: [[Character Backstories]]

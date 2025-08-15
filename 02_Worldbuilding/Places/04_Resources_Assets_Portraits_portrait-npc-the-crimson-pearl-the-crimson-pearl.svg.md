@@ -277,3 +277,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #port #worldbuilding #place
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Regional Politics]]
+- Connected to: [[World Events]]

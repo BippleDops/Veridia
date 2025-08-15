@@ -171,3 +171,10 @@ Ongoing situations affecting Coral Seasweaver:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Power Structures]]
+- Connected to: [[World Events]]

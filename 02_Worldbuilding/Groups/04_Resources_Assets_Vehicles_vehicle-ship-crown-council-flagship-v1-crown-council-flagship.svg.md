@@ -311,3 +311,9 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #council #faction #worldbuilding
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Regional Politics]]
+- Connected to: [[Side Adventures]]

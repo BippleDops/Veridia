@@ -15,6 +15,9 @@ membership: Unknown
 updated: 2025-08-14
 ---
 
+![Faction_Name](../../04_Resources/Assets/Generated/Misc/faction_name.png)
+
+
 
 # Faction_Name
 
@@ -160,3 +163,12 @@ Things widely suspected
 - Ancient connections
 - Forbidden knowledge
 - Ultimate goals
+
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

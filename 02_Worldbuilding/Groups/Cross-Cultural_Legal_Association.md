@@ -307,3 +307,9 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #cult #faction #worldbuilding
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Recent Events]]
+- Connected to: [[Main Quest Line]]

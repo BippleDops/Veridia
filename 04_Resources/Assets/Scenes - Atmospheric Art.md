@@ -255,3 +255,32 @@ modified: '2025-08-14'
 ```json
 []
 ```
+\n\n## Aquabyssos creature prompts (2025-08-14T23:45:42Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos creature prompts (2025-08-14T23:50:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos creature prompts (2025-08-14T23:54:23Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos creature prompts (2025-08-14T23:58:43Z)\n
+```json
+[]
+```
+
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes
+\n\n## Aquabyssos creature prompts (2025-08-15T00:06:22Z)\n
+```json
+[]
+```

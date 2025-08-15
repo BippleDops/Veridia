@@ -279,3 +279,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #harbor #worldbuilding #place
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Historical Context]]
+- Connected to: [[Main Quest Line]]

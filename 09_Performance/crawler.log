@@ -7385,3 +7385,610 @@ Service status: { comfyui: true, sdwebui: true, n8n: false, ollama: true }
 
 
 ⏸️ Pausing 30 seconds before next batch...
+
+📦 Processing Batch 21
+   Assets in batch: 100
+   Remaining in queue: 17
+
+🎨 Generating audio: The_Stillwater_Method.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Stillwater Method ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-stillwater-method-the-stillwater-method.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Suicide_Bridges.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Suicide Bridges ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-suicide-bridges-the-suicide-bridges.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Sundered_Peaks.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Sundered Peaks ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-sundered-peaks-the-sundered-peaks.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Sundered_Vaults.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Sundered Vaults ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-sundered-vaults-the-sundered-vaults.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Sunken_Cathedral_of_Perfect_Order.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Sunken Cathedral of Perfect Order ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-sunken-cathedral-of-perfect-order-the-sunken-cathedral-of-perfect-order.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Sunken_Cathedral_of_Stars.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Sunken Cathedral of Stars ambient soundscape, > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-sunken-cathedral-of-stars-the-sunken-cathedral-of-stars.svg) sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Sunken_Library_of_Thalassius.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Sunken Library of Thalassius ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-sunken-library-of-thalassius-the-sunken-library-of-thalassius.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Sunken_Markets.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Sunken Markets ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-sunken-markets-the-sunken-markets.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Sunken_Palace.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Sunken Palace ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-sunken-palace-the-sunken-palace.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Sunken_Senate.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Sunken Senate ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-sunken-senate-the-sunken-senate.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Synthesis_Gardens.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Synthesis Gardens ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-synthesis-gardens-the-synthesis-gardens.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Temple_of_Eternal_Tides.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Temple of Eternal Tides ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-temple-of-eternal-tides-the-temple-of-eternal-tides.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Temporal_Convergence_Storms.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Temporal Convergence Storms ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-temporal-convergence-storms-the-temporal-convergence-storms.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Thirteen_Keys.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Thirteen Keys ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-thirteen-keys-the-thirteen-keys.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Thornfield_District.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Thornfield District ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-thornfield-district-the-thornfield-district.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Threshold_Chambers.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Threshold Chambers ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-threshold-chambers-the-threshold-chambers.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Tidecaller.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Tidecaller ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-tidecaller-the-tidecaller.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Tidepool_Markets.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Tidepool Markets ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-tidepool-markets-the-tidepool-markets.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Time_Keeper.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Time Keeper ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-time-keeper-the-time-keeper.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Trade_Quarter.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Trade Quarter ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-trade-quarter-the-trade-quarter.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Transition_Centers.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Transition Centers ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-transition-centers-the-transition-centers.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Trencher_Folk.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Trencher Folk ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-trencher-folk-the-trencher-folk.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Twilight_Gardens.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Twilight Gardens ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-twilight-gardens-the-twilight-gardens.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Twin_Prophets.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Twin Prophets ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-twin-prophets-the-twin-prophets.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Umbral_Nexus.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Umbral Nexus ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-umbral-nexus-the-umbral-nexus.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Unremembered_Parliament.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Unremembered Parliament ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-unremembered-parliament-the-unremembered-parliament.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Vault_Keepers.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Vault Keepers ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-vault-keepers-the-vault-keepers.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Verdant_Reach.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Verdant Reach ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-verdant-reach-the-verdant-reach.png]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Void_Tears.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Void Tears ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-void-tears-the-void-tears.png]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Void_Touched_Depths.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Void Touched Depths ambient soundscape, > [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-void-touched-depths-the-void-touched-depths.svg) sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Wandering_Atoll.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Wandering Atoll ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-wandering-atoll-the-wandering-atoll.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Whisper_Island_Mystery.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Whisper Island Mystery ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-whisper-island-mystery-the-whisper-island-mystery.png]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Whispering_Caverns.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Whispering Caverns ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-whispering-caverns-the-whispering-caverns.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Whispering_Depths.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Whispering Depths ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-whispering-depths-the-whispering-depths.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: The_Whispering_Peaks.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "The Whispering Peaks ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-whispering-peaks-the-whispering-peaks.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Theological_Education.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Theological Education ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-theological-education-theological-education.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Theological_Seminaries.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Theological Seminaries ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-theological-seminaries-theological-seminaries.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Theological_Warfare.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Theological Warfare ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-theological-warfare-theological-warfare.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Thomas_Deepanchor.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Thomas Deepanchor ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-thomas-deepanchor-thomas-deepanchor.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Thorek_Crystalhammer.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Thorek Crystalhammer ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-thorek-crystalhammer-thorek-crystalhammer.png]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Throne_Room_-_Heart_of_Palace.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Throne Room - Heart of Palace ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-throne-room-heart-of-palace-throne-room-heart-of-palace.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Tidal_Memento.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Tidal Memento ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-tidal-memento-tidal-memento.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Tidal_Runner_Nerissa.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Tidal Runner Nerissa ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-tidal-runner-nerissa-tidal-runner-nerissa.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Tidal_Stormcrest.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Tidal Stormcrest ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-tidal-stormcrest-tidal-stormcrest.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Tide_Bondkeeper.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Tide Bondkeeper ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-tide-bondkeeper-tide-bondkeeper.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Tide_Risktaker.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Tide Risktaker ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-tide-risktaker-tide-risktaker.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Tide_Welcomeheart.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Tide Welcomeheart ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-tide-welcomeheart-tide-welcomeheart.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Time-Lost_Delegate_Chronus.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Time-Lost Delegate Chronus ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-time-lost-delegate-chronus-time-lost-delegate-chronus.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Time.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Time ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-time-time.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Titan_Foundationbearer.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Titan Foundationbearer ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-titan-foundationbearer-titan-foundationbearer.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Toxin_Specialist_Venom_Reef.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Toxin Specialist Venom Reef ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-toxin-specialist-venom-reef-toxin-specialist-venom-reef.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Trade_Regulations.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Trade Regulations ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-trade-regulations-trade-regulations.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Trade_Union.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Trade Union ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-trade-union-trade-union.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Trade_Unions.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Trade Unions ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-trade-unions-trade-unions.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Trader_Compass_Rose.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Trader Compass Rose ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-trader-compass-rose-trader-compass-rose.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Traditional_Craft_Districts.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Traditional Craft Districts ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-traditional-craft-districts-traditional-craft-districts.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Traditional_Elder_Wisdom_Keeper.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Traditional Elder Wisdom Keeper ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-traditional-elder-wisdom-keeper-traditional-elder-wisdom-keeper.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Transformation_Medicine_Techniques.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Transformation Medicine Techniques ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-transformation-medicine-techniques-transformation-medicine-techniques.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Transformation_Specialist_Anemone_Flowshift.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Transformation Specialist Anemone Flowshift ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-transformation-specialist-anemone-flowshift-transformation-specialist-anemone-flowshift.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Transportation_Guild_Masters.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Transportation Guild Masters ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-transportation-guild-masters-transportation-guild-masters.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Transportation_Guild.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Transportation Guild ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-transportation-guild-transportation-guild.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Treasury_Department.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Treasury Department ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-treasury-department-treasury-department.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Treaty_of_the_Depths.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Treaty of the Depths ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-treaty-of-the-depths-treaty-of-the-depths.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Triton.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Triton ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-triton-triton.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Truth_Verification_Magic.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Truth Verification Magic ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-truth-verification-magic-truth-verification-magic.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Truth-Seeker_Cornelius.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Truth-Seeker Cornelius ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-truth-seeker-cornelius-truth-seeker-cornelius.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Twilight_Depths.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Twilight Depths ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-twilight-depths-twilight-depths.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Tymora.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Tymora ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-tymora-tymora.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Umberlee.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Umberlee ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-umberlee-umberlee.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Undead_Rights_Organization_HQ.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Undead Rights Organization HQ ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-undead-rights-organization-hq-undead-rights-organization-hq.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Undead_Services_Bureau.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Undead Services Bureau ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-undead-services-bureau-undead-services-bureau.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Underwater_Cuisine_Techniques.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Underwater Cuisine Techniques ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-underwater-cuisine-techniques-underwater-cuisine-techniques.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Underwater_Fermentation.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Underwater Fermentation ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-underwater-fermentation-underwater-fermentation.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Underwater_Religious_Practices.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Underwater Religious Practices ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-underwater-religious-practices-underwater-religious-practices.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Unity_Hopecurrent.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Unity Hopecurrent ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-unity-hopecurrent-unity-hopecurrent.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: University_Philosophy_Departments.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "University Philosophy Departments ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-university-philosophy-departments-university-philosophy-departments.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: University_System.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "University System ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-university-system-university-system.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Vault_Breach.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Vault Breach ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-vault-breach-v1-vault-breach.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Vault_Keeper_Aurelia_Crownguard.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Vault Keeper Aurelia Crownguard ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-vault-keeper-aurelia-crownguard-v1-vault-keeper-aurelia-crownguard.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Vault_Keeper_Eternal.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Vault Keeper Eternal ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-vault-keeper-eternal-vault-keeper-eternal.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Vault_Maintenance_Checklist.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Vault Maintenance Checklist ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-vault-maintenance-checklist-v1-vault-maintenance-checklist.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Veiled_Hierophant.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Veiled Hierophant ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-veiled-hierophant-v1-veiled-hierophant.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Victoria_Harbormane.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Victoria Harbormane ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-victoria-harbormane-v1-victoria-harbormane.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Voices_from_Below.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Voices from Below ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-voices-from-below-v1-voices-from-below.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Void_Contamination.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Void Contamination ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-void-contamination-v1-void-contamination.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Void_Current_Survivors.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Void Current Survivors ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-void-current-survivors-v1-void-current-survivors.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Void_Keeper_Sister_Nyx_Nullspace.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Void Keeper Sister Nyx Nullspace ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-void-keeper-sister-nyx-nullspace-v1-void-keeper-sister-nyx-nullspace.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Void_Krakens.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Void Krakens ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-void-krakens-v1-void-krakens.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Void_Prophet_Nullus_the_Erased.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Void Prophet Nullus the Erased ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-void-prophet-nullus-the-erased-v1-void-prophet-nullus-the-erased.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Void_Touched_Pilgrims.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Void Touched Pilgrims ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-void-touched-pilgrims-v1-void-touched-pilgrims.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Void-Keeper_Null.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Void-Keeper Null ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-void-keeper-null-v1-void-keeper-null.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Voluntary_Taxation.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Voluntary Taxation ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-voluntary-taxation-v1-voluntary-taxation.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Vote_Vaults.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Vote Vaults ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-vote-vaults-v1-vote-vaults.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Wandering_Prophet_Coral_Stormrider.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Wandering Prophet Coral Stormrider ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-wandering-prophet-coral-stormrider-v1-wandering-prophet-coral-stormrider.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: War_Machine_Assembly_Halls.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "War Machine Assembly Halls ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-war-machine-assembly-halls-v1-war-machine-assembly-halls.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: War_Machine_Engineers.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "War Machine Engineers ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-war-machine-engineers-v1-war-machine-engineers.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: War_of_the_Sunless_Depths.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "War of the Sunless Depths ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-war-of-the-sunless-depths-v1-war-of-the-sunless-depths.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Warehouse_District.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Warehouse District ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-warehouse-district-v1-warehouse-district.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Warforged.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Warforged ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-warforged-v1-warforged.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Warrior_Scarredheart.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Warrior Scarredheart ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-warrior-scarredheart-v1-warrior-scarredheart.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+
+⏸️ Pausing 30 seconds before next batch...
+
+📦 Processing Batch 22
+   Assets in batch: 17
+   Remaining in queue: 0
+
+🎨 Generating audio: Warrior_Thane_Visionward.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Warrior Thane Visionward ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-warrior-thane-visionward-v1-warrior-thane-visionward.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Wave_Friendlyserve.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Wave Friendlyserve ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-wave-friendlyserve-v1-wave-friendlyserve.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Wave_Healingbringer.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Wave Healingbringer ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-wave-healingbringer-v1-wave-healingbringer.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Wave_Merchant.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Wave Merchant ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-wave-merchant-v1-wave-merchant.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Wave_Soothingtouch.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Wave Soothingtouch ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-wave-soothingtouch-v1-wave-soothingtouch.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Wave_Traderwind.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Wave Traderwind ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-wave-traderwind-v1-wave-traderwind.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Wealthy_Goldcurrent.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Wealthy Goldcurrent ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-wealthy-goldcurrent-v1-wealthy-goldcurrent.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Wealthy_Goldstream.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Wealthy Goldstream ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-wealthy-goldstream-v1-wealthy-goldstream.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Weapon_Master_Dain_Sharpedge.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Weapon Master Dain Sharpedge ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-weapon-master-dain-sharpedge-v1-weapon-master-dain-sharpedge.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Whisper_Island_Docks.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Whisper Island Docks ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-whisper-island-docks-v1-whisper-island-docks.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Whisper_Island.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Whisper Island ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-whisper-island-docks-whisper-island-docks.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Whisper-Touched_William.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Whisper-Touched William ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-whisper-touched-william-v1-whisper-touched-william.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Wisdom_Futureseer.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Wisdom Futureseer ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-wisdom-futureseer-v1-wisdom-futureseer.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Wise_Counselor_Deep.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Wise Counselor Deep ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-wise-counselor-deep-v1-wise-counselor-deep.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Wise_Tide_Truthseeker.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Wise Tide Truthseeker ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-wise-tide-truthseeker-v1-wise-tide-truthseeker.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: Withered_Court.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "Withered Court ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-withered-court-withered-court.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+🎨 Generating audio: World_Map.wav
+❌ Failed: Command failed: python -m audiocraft.models.musicgen --prompt "World Map ambient soundscape, > [!figure] View
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-world-map-v1-world-map.svg]] sounds" --duration 60
+/bin/sh: python: command not found
+
+
+============================================================
+📊 CRAWL COMPLETE
+============================================================
+✅ Generated: 0 assets
+❌ Failed: 2117 assets
+📦 Batches: 22
+⏱️ Duration: 4877 seconds (81 minutes)
+
+📄 Report saved to: 09_Performance/crawler_final_report.json

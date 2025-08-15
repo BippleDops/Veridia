@@ -171,3 +171,10 @@ Ongoing situations affecting Professor Marina Reefbuilder:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Recent Events]]
+- Connected to: [[Character Backstories]]

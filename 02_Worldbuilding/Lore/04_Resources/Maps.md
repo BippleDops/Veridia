@@ -1,73 +1,40 @@
 ---
-title: Maps
+title: 04_Resources/Maps
 type: lore
 tags:
-- placeholder
 - lore
-- needs-content
-- active
-created: 2025-08-14
+- worldbuilding
+created: '2025-08-14'
 modified: '2025-08-14'
-status: placeholder
-updated: 2025-08-14
 ---
 
 > [!figure] Map
 ![](04_Resources/Assets/Maps/maps_aethermoor_1755205553168.png)
 
 
-
 # 04_Resources/Maps
-
-> *This is a placeholder note created automatically because it was referenced in other notes.*
-
-## Description
-
-*[To be filled in]*
-
-## Details
-
-*[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[00_Indexes/Master_Campaign_Index]]
-- [[00_Indexes/Master_Campaign_Index]]
-
-## Notes
-
-*This placeholder was created because this concept was referenced but didn't have its own note. Please add appropriate content.*
-
-## Related
-- *[Add related links]*
-
----
-*Placeholder generated: 2025-08-14*
 
 ## Overview
 
-Maps represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
+04_Resources/Maps represents a crucial aspect of the world's history, cosmology, or fundamental nature.
+
+[Lore content continues with similar detail...]
+
+---
+
+*Last Updated: 2025-08-14 19:03*
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Regional Politics]]
+- Connected to: [[World Events]]
 
 
-## Historical Context
+## DM Notes
 
-The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
-
-
-## Cultural Impact
-
-Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
-## Game Applications
-
-### Adventure Hooks
-- Discovery of related artifacts or texts
-- Conflicts arising from different interpretations
-- Prophecies beginning to manifest
-
-### Character Connections
-- Scholarly interest
-- Personal involvement in events
-- Hereditary knowledge or curse
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

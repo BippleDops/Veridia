@@ -278,3 +278,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #port #worldbuilding #place
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Power Structures]]
+- Connected to: [[Character Backstories]]

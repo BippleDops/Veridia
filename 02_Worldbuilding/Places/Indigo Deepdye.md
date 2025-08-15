@@ -171,3 +171,10 @@ Ongoing situations affecting Indigo Deepdye:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Recent Events]]
+- Connected to: [[Side Adventures]]

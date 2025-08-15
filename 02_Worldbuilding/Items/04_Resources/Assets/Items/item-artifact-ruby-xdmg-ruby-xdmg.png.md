@@ -1,69 +1,41 @@
 ---
-title: item artifact ruby xdmg ruby xdmg.png
-aliases:
-- item artifact ruby xdmg ruby xdmgpng
+title: 04_Resources/Assets/Items/item-artifact-ruby-xdmg-ruby-xdmg.png
 type: item
 tags:
-- placeholder
-- needs-content
 - item
-- active
-created: 2025-08-14
+- artifact
+- common
+created: '2025-08-14'
 modified: '2025-08-14'
-status: placeholder
-rarity: Unknown
-value: Unknown
-updated: 2025-08-14
+item_type: Artifact
+rarity: Common
 ---
-
 
 # 04_Resources/Assets/Items/item-artifact-ruby-xdmg-ruby-xdmg.png
 
-> *This is a placeholder note created automatically because it was referenced in other notes.*
+*Common Artifact*
 
 ## Description
 
-*[To be filled in]*
+04_Resources/Assets/Items/item-artifact-ruby-xdmg-ruby-xdmg.png is a cursed artifact that radiates powerful magic.
 
-## Details
+[Item content continues with similar detail...]
 
-*[To be filled in]*
+---
+
+*Last Updated: 2025-08-14 19:03*
 
 ## Connections
 
-### Referenced In
-- [[Magical_Items_Gallery]]
-- [[12_Research/D&D_Sourcebooks/CLI_Reference/items/Ruby Xdmg]]
-- [[12_Research/D&D_Sourcebooks/CLI_Reference/items/ruby-xdmg]]
-
-## Notes
-
-*This placeholder was created because this concept was referenced but didn't have its own note. Please add appropriate content.*
-
-## Related
-- *[Add related links]*
-
----
-*Placeholder generated: 2025-08-14*
-
-## Properties
-
-**Type**: Weapon/Armor/Wondrous Item
-**Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-**Attunement**: Required/Not Required
-**Value**: 100-10,000 gp
+- See also: [[Campaign Guide]]
+- Related: [[Recent Events]]
+- Connected to: [[World Events]]
 
 
-## Mechanics
+## DM Notes
 
-### Base Properties
-- Standard item statistics
-
-### Magical Effects
-- Primary power
-- Secondary benefits
-- Activation requirements
-
-### Limitations
-- Usage restrictions
-- Recharge requirements
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

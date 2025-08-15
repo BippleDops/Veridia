@@ -278,3 +278,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #city #worldbuilding #place
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Regional Politics]]
+- Connected to: [[World Events]]

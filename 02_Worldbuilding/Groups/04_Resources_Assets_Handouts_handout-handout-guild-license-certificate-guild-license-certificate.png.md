@@ -306,3 +306,9 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #guild #faction #worldbuilding
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Historical Context]]
+- Connected to: [[Side Adventures]]

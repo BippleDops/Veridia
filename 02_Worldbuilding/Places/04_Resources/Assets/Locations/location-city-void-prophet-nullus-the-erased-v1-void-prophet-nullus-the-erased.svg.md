@@ -159,3 +159,12 @@ Ongoing situations affecting location-city-void-prophet-nullus-the-erased-v1-voi
 - Environmental hazards
 - Hostile creatures
 - Political tensions
+
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

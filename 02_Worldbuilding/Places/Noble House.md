@@ -171,3 +171,10 @@ Ongoing situations affecting Noble House:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Historical Context]]
+- Connected to: [[Character Backstories]]

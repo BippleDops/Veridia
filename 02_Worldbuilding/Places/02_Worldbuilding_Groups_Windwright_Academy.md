@@ -275,3 +275,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #academy #worldbuilding #place
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Recent Events]]
+- Connected to: [[Side Adventures]]

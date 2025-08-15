@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.407266+00:00'
 world: Both
 ---
 
+![Cult of the Endless Void](../../../04_Resources/Assets/Generated/Misc/cult_of_the_endless_void.png)
+
+
 
 
 ## Cross-References

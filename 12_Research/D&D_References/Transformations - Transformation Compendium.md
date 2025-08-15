@@ -259,3 +259,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[03_Mechanics/Transformations/Crystal/Crystal_Bloom|03 Mechanics/Transformations/Crystal/Crystal Bloom]]
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Recent Events]]
+- Connected to: [[Character Backstories]]

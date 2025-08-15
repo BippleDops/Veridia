@@ -1,0 +1,13 @@
+{
+  "title": "Economic Intelligence",
+  "prompt": "Economic intelligence, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:01:19.934Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Economic Intelligence.md"
+}

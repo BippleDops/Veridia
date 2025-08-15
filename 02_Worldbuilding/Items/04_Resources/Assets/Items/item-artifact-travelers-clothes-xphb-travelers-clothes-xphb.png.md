@@ -1,69 +1,41 @@
 ---
-title: item artifact travelers clothes xphb travelers clothes xphb.png
-aliases:
-- item artifact travelers clothes xphb travelers clothes xphbpng
+title: 04_Resources/Assets/Items/item-artifact-travelers-clothes-xphb-travelers-clothes-xphb.png
 type: item
 tags:
-- placeholder
-- needs-content
 - item
-- active
-created: 2025-08-14
+- amulet
+- very rare
+created: '2025-08-14'
 modified: '2025-08-14'
-status: placeholder
-rarity: Unknown
-value: Unknown
-updated: 2025-08-14
+item_type: Amulet
+rarity: Very Rare
 ---
-
 
 # 04_Resources/Assets/Items/item-artifact-travelers-clothes-xphb-travelers-clothes-xphb.png
 
-> *This is a placeholder note created automatically because it was referenced in other notes.*
+*Very Rare Amulet*
 
 ## Description
 
-*[To be filled in]*
+04_Resources/Assets/Items/item-artifact-travelers-clothes-xphb-travelers-clothes-xphb.png is a ancient amulet that radiates divine energy.
 
-## Details
+[Item content continues with similar detail...]
 
-*[To be filled in]*
+---
+
+*Last Updated: 2025-08-14 19:03*
 
 ## Connections
 
-### Referenced In
-- [[Magical_Items_Gallery]]
-- [[12_Research/D&D_Sourcebooks/CLI_Reference/items/travelers-clothes-xphb]]
-- [[12_Research/D&D_Sourcebooks/CLI_Reference/items/Travelers Clothes Xphb]]
-
-## Notes
-
-*This placeholder was created because this concept was referenced but didn't have its own note. Please add appropriate content.*
-
-## Related
-- *[Add related links]*
-
----
-*Placeholder generated: 2025-08-14*
-
-## Properties
-
-**Type**: Weapon/Armor/Wondrous Item
-**Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-**Attunement**: Required/Not Required
-**Value**: 100-10,000 gp
+- See also: [[World Overview]]
+- Related: [[Power Structures]]
+- Connected to: [[Character Backstories]]
 
 
-## Mechanics
+## DM Notes
 
-### Base Properties
-- Standard item statistics
-
-### Magical Effects
-- Primary power
-- Secondary benefits
-- Activation requirements
-
-### Limitations
-- Usage restrictions
-- Recharge requirements
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

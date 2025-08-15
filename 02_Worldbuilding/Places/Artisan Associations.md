@@ -171,3 +171,10 @@ Ongoing situations affecting Artisan Associations:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Power Structures]]
+- Connected to: [[Main Quest Line]]

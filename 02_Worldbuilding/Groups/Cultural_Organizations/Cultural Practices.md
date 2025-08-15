@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.435790+00:00'
 world: Both
 ---
 
+![Cultural Practices](../../../04_Resources/Assets/Generated/Misc/cultural_practices.png)
+
+
 
 
 ## Overview

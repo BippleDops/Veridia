@@ -313,3 +313,9 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #council #faction #worldbuilding
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Recent Events]]
+- Connected to: [[World Events]]

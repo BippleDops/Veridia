@@ -137,3 +137,10 @@ Things widely suspected
 - Ancient connections
 - Forbidden knowledge
 - Ultimate goals
+
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Regional Politics]]
+- Connected to: [[Character Backstories]]

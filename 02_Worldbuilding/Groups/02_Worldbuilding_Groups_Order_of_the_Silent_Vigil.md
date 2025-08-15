@@ -308,3 +308,9 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #order #faction #worldbuilding
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Regional Politics]]
+- Connected to: [[Side Adventures]]

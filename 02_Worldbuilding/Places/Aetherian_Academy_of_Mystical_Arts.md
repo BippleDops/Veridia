@@ -276,3 +276,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #academy #worldbuilding #place
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Regional Politics]]
+- Connected to: [[Main Quest Line]]

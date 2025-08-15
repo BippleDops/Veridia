@@ -170,3 +170,10 @@ Last known to be: - [[02_Worldbuilding/Lore/Engineering Corps|02 Wor...
 ### Limitations
 - Usage restrictions
 - Recharge requirements
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Power Structures]]
+- Connected to: [[Main Quest Line]]

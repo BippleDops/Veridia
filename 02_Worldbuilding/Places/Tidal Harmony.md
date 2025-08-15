@@ -167,3 +167,10 @@ Ongoing situations affecting Tidal Harmony:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Regional Politics]]
+- Connected to: [[Character Backstories]]

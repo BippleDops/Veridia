@@ -181,3 +181,19 @@ modified: '2025-08-14'
 **Days per Month**: 32
 **Special Days**: 17 holidays/festivals
 **Astronomical Events**: 7 per year
+
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Recent Events]]
+- Connected to: [[Main Quest Line]]
+
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

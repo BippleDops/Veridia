@@ -167,3 +167,10 @@ Ongoing situations affecting Port Meridian Council Chamber:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Recent Events]]
+- Connected to: [[World Events]]

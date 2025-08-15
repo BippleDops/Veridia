@@ -278,3 +278,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #temple #worldbuilding #place
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Regional Politics]]
+- Connected to: [[Main Quest Line]]

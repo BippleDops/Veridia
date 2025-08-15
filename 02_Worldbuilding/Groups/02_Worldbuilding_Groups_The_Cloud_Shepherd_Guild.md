@@ -308,3 +308,9 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #guild #faction #worldbuilding
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Historical Context]]
+- Connected to: [[World Events]]

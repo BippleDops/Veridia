@@ -277,3 +277,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #port #worldbuilding #place
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Power Structures]]
+- Connected to: [[Character Backstories]]

@@ -275,3 +275,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #temple #worldbuilding #place
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Historical Context]]
+- Connected to: [[World Events]]

@@ -62,3 +62,10 @@ date_played: TBD
 - Threads to follow up
 - NPCs to prepare
 - Locations to detail
+
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Regional Politics]]
+- Connected to: [[Main Quest Line]]

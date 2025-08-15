@@ -171,3 +171,10 @@ Ongoing situations affecting Temple of the Dawn:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Recent Events]]
+- Connected to: [[World Events]]

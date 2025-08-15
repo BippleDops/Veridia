@@ -171,3 +171,10 @@ Ongoing situations affecting Trade Union:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Historical Context]]
+- Connected to: [[Character Backstories]]

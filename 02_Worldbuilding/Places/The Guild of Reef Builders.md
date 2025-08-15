@@ -171,3 +171,10 @@ Ongoing situations affecting The Guild of Reef Builders:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Regional Politics]]
+- Connected to: [[Character Backstories]]

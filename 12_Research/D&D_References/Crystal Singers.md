@@ -59,3 +59,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Crystal Singers|02 Worldbuilding/Places/Crystal Singers]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Power Structures]]
+- Connected to: [[World Events]]

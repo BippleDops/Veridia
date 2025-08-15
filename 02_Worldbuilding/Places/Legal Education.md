@@ -163,3 +163,10 @@ Ongoing situations affecting Legal Education:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Regional Politics]]
+- Connected to: [[Side Adventures]]

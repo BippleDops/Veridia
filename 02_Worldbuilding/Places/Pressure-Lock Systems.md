@@ -171,3 +171,10 @@ Ongoing situations affecting Pressure-Lock Systems:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Recent Events]]
+- Connected to: [[Main Quest Line]]

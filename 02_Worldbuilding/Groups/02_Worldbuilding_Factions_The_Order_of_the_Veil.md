@@ -308,3 +308,9 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #order #faction #worldbuilding
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Power Structures]]
+- Connected to: [[World Events]]

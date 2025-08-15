@@ -434,3 +434,10 @@ Shadow-touched Equipment Set is a remarkable item of significant craftsmanship. 
 ### Limitations
 - Usage restrictions
 - Recharge requirements
+
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Regional Politics]]
+- Connected to: [[Main Quest Line]]

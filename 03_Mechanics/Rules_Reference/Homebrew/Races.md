@@ -73,3 +73,10 @@ Apply this rule when:
 3. Make appropriate rolls
 4. Apply results
 5. Narrate outcome
+
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Recent Events]]
+- Connected to: [[Main Quest Line]]

@@ -278,3 +278,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #city #worldbuilding #place
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Recent Events]]
+- Connected to: [[Character Backstories]]

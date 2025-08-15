@@ -306,3 +306,9 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #guild #faction #worldbuilding
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Recent Events]]
+- Connected to: [[Side Adventures]]

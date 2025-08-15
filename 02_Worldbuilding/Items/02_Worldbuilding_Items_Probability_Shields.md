@@ -170,3 +170,10 @@ Last known to be: - **[[02_Worldbuilding/Items/Probability Shields|0...
 ### Limitations
 - Usage restrictions
 - Recharge requirements
+
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Historical Context]]
+- Connected to: [[Character Backstories]]

@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.434895+00:00'
 world: Both
 ---
 
+![Cultural Festival](../../../04_Resources/Assets/Generated/Misc/cultural_festival.png)
+
+
 
 
 ## Overview
@@ -144,3 +147,10 @@ Things widely suspected
 - Ancient connections
 - Forbidden knowledge
 - Ultimate goals
+
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Recent Events]]
+- Connected to: [[Character Backstories]]

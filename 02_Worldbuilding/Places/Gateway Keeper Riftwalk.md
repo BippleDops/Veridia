@@ -172,3 +172,10 @@ Ongoing situations affecting Gateway Keeper Riftwalk:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Historical Context]]
+- Connected to: [[Character Backstories]]

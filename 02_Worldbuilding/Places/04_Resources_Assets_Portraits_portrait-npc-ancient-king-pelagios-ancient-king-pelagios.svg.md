@@ -278,3 +278,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #port #worldbuilding #place
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Regional Politics]]
+- Connected to: [[Main Quest Line]]

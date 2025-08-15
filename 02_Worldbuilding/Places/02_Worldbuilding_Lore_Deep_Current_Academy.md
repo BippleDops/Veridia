@@ -275,3 +275,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #academy #worldbuilding #place
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Recent Events]]
+- Connected to: [[Main Quest Line]]

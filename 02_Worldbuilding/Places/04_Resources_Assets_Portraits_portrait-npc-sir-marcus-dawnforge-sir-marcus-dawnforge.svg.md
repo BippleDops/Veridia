@@ -278,3 +278,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #port #worldbuilding #place
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Regional Politics]]
+- Connected to: [[Character Backstories]]

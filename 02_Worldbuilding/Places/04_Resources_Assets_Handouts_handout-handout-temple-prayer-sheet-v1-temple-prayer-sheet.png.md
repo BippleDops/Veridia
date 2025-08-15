@@ -279,3 +279,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #temple #worldbuilding #place
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Power Structures]]
+- Connected to: [[Character Backstories]]

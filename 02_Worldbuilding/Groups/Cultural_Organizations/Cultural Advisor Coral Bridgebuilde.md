@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.432364+00:00'
 world: Both
 ---
 
+![Cultural Advisor Coral Bridgebuilde](../../../04_Resources/Assets/Generated/Misc/cultural_advisor_coral_bridgebuilde.png)
+
+
 
 
 ## Overview
@@ -137,3 +140,10 @@ Things widely suspected
 - Ancient connections
 - Forbidden knowledge
 - Ultimate goals
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Power Structures]]
+- Connected to: [[Side Adventures]]

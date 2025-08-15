@@ -511,3 +511,10 @@ Forbidden Tomes of Deep Mother is a remarkable item of significant craftsmanship
 ### Limitations
 - Usage restrictions
 - Recharge requirements
+
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Regional Politics]]
+- Connected to: [[Character Backstories]]

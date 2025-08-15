@@ -9,6 +9,9 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
+![Faction Reputation Matrix](../../04_Resources/Assets/Generated/Misc/faction_reputation_matrix.png)
+
+
 # Faction Reputation Matrix
 
 ## Faction Relationships
@@ -189,3 +192,19 @@ modified: '2025-08-14'
 **Cause**: Resource control
 **Current State**: Skirmishes
 **Player Impact**: Can profit from conflict
+
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Power Structures]]
+- Connected to: [[Side Adventures]]
+
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

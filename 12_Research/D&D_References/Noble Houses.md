@@ -60,3 +60,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Noble Houses|02 Worldbuilding/Places/Noble Houses]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Recent Events]]
+- Connected to: [[Character Backstories]]

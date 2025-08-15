@@ -277,3 +277,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #city #worldbuilding #place
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Recent Events]]
+- Connected to: [[World Events]]

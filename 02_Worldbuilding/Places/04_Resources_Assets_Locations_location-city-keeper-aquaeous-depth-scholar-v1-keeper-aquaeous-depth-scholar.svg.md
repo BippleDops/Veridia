@@ -280,3 +280,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #city #worldbuilding #place
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Historical Context]]
+- Connected to: [[World Events]]

@@ -470,3 +470,10 @@ Legends speak of Surface Signals as a nexus where past and present converge. Loc
 - [[Surface Signals|02 Worldbuilding/Places/Surface Signals]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Recent Events]]
+- Connected to: [[World Events]]

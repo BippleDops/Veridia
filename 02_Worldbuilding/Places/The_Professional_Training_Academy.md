@@ -275,3 +275,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #academy #worldbuilding #place
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Recent Events]]
+- Connected to: [[Side Adventures]]

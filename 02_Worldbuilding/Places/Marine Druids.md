@@ -171,3 +171,10 @@ Ongoing situations affecting Marine Druids:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Power Structures]]
+- Connected to: [[Main Quest Line]]

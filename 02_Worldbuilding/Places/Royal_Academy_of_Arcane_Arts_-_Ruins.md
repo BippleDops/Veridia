@@ -275,3 +275,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #academy #worldbuilding #place
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Recent Events]]
+- Connected to: [[Character Backstories]]

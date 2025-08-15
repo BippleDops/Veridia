@@ -11,6 +11,9 @@ headquarters: Unknown
 membership: Unknown
 ---
 
+![Cultural Integration Council](../../04_Resources/Assets/Generated/Misc/cultural_integration_council.png)
+
+
 # Cultural Integration Council
 
 ## Organization Overview
@@ -304,3 +307,9 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #council #faction #worldbuilding
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Recent Events]]
+- Connected to: [[Character Backstories]]

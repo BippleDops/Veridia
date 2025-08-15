@@ -163,3 +163,10 @@ Ongoing situations affecting The Contract Archive:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Power Structures]]
+- Connected to: [[Side Adventures]]

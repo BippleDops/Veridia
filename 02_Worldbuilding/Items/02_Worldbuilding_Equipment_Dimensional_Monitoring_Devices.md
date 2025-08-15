@@ -170,3 +170,10 @@ Last known to be: - **Material Supplies**: Rare substances for maint...
 ### Limitations
 - Usage restrictions
 - Recharge requirements
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Regional Politics]]
+- Connected to: [[Main Quest Line]]

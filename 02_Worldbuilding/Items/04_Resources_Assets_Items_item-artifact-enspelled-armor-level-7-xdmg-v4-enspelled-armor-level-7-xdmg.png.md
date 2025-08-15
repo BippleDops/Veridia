@@ -174,3 +174,10 @@ Last known to be: ![[04_Resources/Assets/Items/item-artifact-enspell...
 ### Limitations
 - Usage restrictions
 - Recharge requirements
+
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Recent Events]]
+- Connected to: [[Character Backstories]]

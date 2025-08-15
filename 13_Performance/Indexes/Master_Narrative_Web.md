@@ -76,3 +76,18 @@ flowchart TD
 ```dataview
 LIST FROM "01_Adventures/The_Seven_Shards_Campaign" OR "01_Adventures/Convergence_Crisis_Scenarios" WHERE status = "complete"
 ```
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Regional Politics]]
+- Connected to: [[Main Quest Line]]
+
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

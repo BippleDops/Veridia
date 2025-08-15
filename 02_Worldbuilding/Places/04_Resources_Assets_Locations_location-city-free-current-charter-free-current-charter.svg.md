@@ -278,3 +278,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #city #worldbuilding #place
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Power Structures]]
+- Connected to: [[World Events]]

@@ -171,3 +171,10 @@ Ongoing situations affecting The Living Tide Temples:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Power Structures]]
+- Connected to: [[Side Adventures]]

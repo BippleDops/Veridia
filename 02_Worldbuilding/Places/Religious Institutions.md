@@ -167,3 +167,10 @@ Ongoing situations affecting Religious Institutions:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Historical Context]]
+- Connected to: [[Main Quest Line]]

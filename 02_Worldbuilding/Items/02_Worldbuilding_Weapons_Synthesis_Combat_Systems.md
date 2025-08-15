@@ -170,3 +170,10 @@ Last known to be: - **Military Applications**: Creating [[02_Worldbu...
 ### Limitations
 - Usage restrictions
 - Recharge requirements
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Recent Events]]
+- Connected to: [[Main Quest Line]]

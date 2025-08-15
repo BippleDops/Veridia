@@ -148,3 +148,10 @@ Things widely suspected
 - Ancient connections
 - Forbidden knowledge
 - Ultimate goals
+
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Regional Politics]]
+- Connected to: [[Side Adventures]]

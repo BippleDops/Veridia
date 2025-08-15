@@ -47,3 +47,18 @@ SORT questLevel ASC
 
 ## Time Pressure Examples
 - Convergence Storm windows: rolls with advantage for navigation for 1 day after the Festival; disadvantage in opposing realm for 1 day.
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Historical Context]]
+- Connected to: [[Side Adventures]]
+
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

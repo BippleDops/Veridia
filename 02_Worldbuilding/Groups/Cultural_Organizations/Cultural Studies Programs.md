@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.431556+00:00'
 world: Both
 ---
 
+![Cultural Studies Programs](../../../04_Resources/Assets/Generated/Misc/cultural_studies_programs.png)
+
+
 
 
 ## Cross-References

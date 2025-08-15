@@ -11,6 +11,9 @@ headquarters: Unknown
 membership: Unknown
 ---
 
+![Cultural Ambassador Bridge-Builder](../../04_Resources/Assets/Generated/Misc/cultural_ambassador_bridge_builder.png)
+
+
 # Cultural Ambassador Bridge-Builder
 
 ## Organization Overview
@@ -299,3 +302,9 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #cult #faction #worldbuilding
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Recent Events]]
+- Connected to: [[Side Adventures]]

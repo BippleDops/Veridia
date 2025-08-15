@@ -49,3 +49,18 @@ graph LR
 - Travel time is expressed in days by default; underwater routes may use pressure-lock segments.
 - Realm-shift points are rare; consuming a charge from a shard or meeting ritual requirements may be necessary.
 - Resource availability fluctuates with the Living Economy; see [[03_Mechanics/Living_Economy_System.md|Living Economy System]].
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Power Structures]]
+- Connected to: [[World Events]]
+
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

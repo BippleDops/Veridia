@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.406470+00:00'
 world: Aquabyssos
 ---
 
+![Crystal Cultivation Training Cente](../../../04_Resources/Assets/Generated/Misc/crystal_cultivation_training_cente.png)
+
+
 
 
 ## Overview
@@ -143,3 +146,10 @@ Things widely suspected
 - Ancient connections
 - Forbidden knowledge
 - Ultimate goals
+
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Power Structures]]
+- Connected to: [[Side Adventures]]

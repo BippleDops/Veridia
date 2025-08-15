@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.431966+00:00'
 world: Aethermoor
 ---
 
+![Cultural Patron](../../../04_Resources/Assets/Generated/Misc/cultural_patron.png)
+
+
 
 
 ## Overview

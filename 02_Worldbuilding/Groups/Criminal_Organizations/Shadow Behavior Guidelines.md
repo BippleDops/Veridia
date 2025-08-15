@@ -685,3 +685,10 @@ What they claim to pursue
 - Covert activities
 - Major projects
 - Crisis responses
+
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Regional Politics]]
+- Connected to: [[Character Backstories]]

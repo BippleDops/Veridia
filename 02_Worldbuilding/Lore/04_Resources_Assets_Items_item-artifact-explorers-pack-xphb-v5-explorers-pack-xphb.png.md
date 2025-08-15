@@ -198,3 +198,10 @@ Adapt this lore to fit campaign:
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Power Structures]]
+- Connected to: [[World Events]]

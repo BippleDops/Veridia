@@ -1689,3 +1689,11 @@ Life in Master Groups Index follows the rhythms of mixed culture, with the commu
 - [[Cultural Patro]]
 - [[02_Worldbuilding/Groups/Shadowhawk Syndicat.md|Shadowhawk Syndicat]]
 - [[02_Worldbuilding/Groups/Cultural Organization.md|Cultural Organization]]
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

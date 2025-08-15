@@ -279,3 +279,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #port #worldbuilding #place
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Historical Context]]
+- Connected to: [[Main Quest Line]]

@@ -313,3 +313,10 @@ Legends speak of Crystal Resonanc as a nexus where past and present converge. Lo
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Historical Context]]
+- Connected to: [[Character Backstories]]

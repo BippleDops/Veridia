@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.437225+00:00'
 world: Both
 ---
 
+![Cross-Cultural Business Development Society](../../../04_Resources/Assets/Generated/Misc/cross_cultural_business_development_society.png)
+
+
 
 
 ## Overview
@@ -142,3 +145,10 @@ Things widely suspected
 - Ancient connections
 - Forbidden knowledge
 - Ultimate goals
+
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Historical Context]]
+- Connected to: [[World Events]]

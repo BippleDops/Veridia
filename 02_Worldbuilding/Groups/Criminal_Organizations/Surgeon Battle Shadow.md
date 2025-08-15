@@ -145,3 +145,10 @@ Things widely suspected
 - Ancient connections
 - Forbidden knowledge
 - Ultimate goals
+
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Historical Context]]
+- Connected to: [[Character Backstories]]

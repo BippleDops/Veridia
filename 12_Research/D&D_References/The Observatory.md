@@ -59,3 +59,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Observatory|02 Worldbuilding/Places/The Observatory]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Recent Events]]
+- Connected to: [[Character Backstories]]

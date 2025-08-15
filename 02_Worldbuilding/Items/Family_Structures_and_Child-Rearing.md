@@ -170,3 +170,10 @@ Last known to be: - [[Family Structures and Child-Rearing]]...
 ### Limitations
 - Usage restrictions
 - Recharge requirements
+
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Power Structures]]
+- Connected to: [[World Events]]

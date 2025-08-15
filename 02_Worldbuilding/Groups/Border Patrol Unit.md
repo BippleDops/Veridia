@@ -163,3 +163,10 @@ Things widely suspected
 - Ancient connections
 - Forbidden knowledge
 - Ultimate goals
+
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Historical Context]]
+- Connected to: [[Side Adventures]]

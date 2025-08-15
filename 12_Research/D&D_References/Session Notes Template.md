@@ -60,3 +60,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Vault_Navigation_Hub|Vault Navigation Hub]]
+
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Power Structures]]
+- Connected to: [[World Events]]

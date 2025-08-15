@@ -232,3 +232,19 @@ modified: '2025-08-14'
 - **Order of the Flame**: +22 reputation
 - **Shadow Syndicate**: +16 reputation
 - **Local Population**: Fear increases
+
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Regional Politics]]
+- Connected to: [[Character Backstories]]
+
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

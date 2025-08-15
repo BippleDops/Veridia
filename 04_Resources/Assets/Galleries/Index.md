@@ -9,7 +9,3 @@
  - [[04_Resources/Assets/Galleries/Faction_Symbols_&_Heraldry.md]]
  - [[04_Resources/Assets/Galleries/In-World_Handouts_Gallery.md]]
  - [[04_Resources/Assets/Galleries/Magical_Items_Gallery.md]]
-
-## Related
-
-*Links to related content will be added here.*

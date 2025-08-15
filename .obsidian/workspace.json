@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e17f13f3405f76f1",
+            "id": "fa5c4d6e2915788c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12_Research/D&D_References/The Floating Market.md",
+                "file": "02_Worldbuilding/Places/Places.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Floating Market"
-            }
-          },
-          {
-            "id": "fa5c4d6e2915788c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.8"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.8"
+              "title": "Places"
             }
           }
         ]
@@ -401,27 +389,34 @@
       "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "active": "e17f13f3405f76f1",
+  "active": "fa5c4d6e2915788c",
   "lastOpenFiles": [
+    "04_Resources/Assets/Generated/Misc/master_cultivator_polyp_growe.json",
+    "04_Resources/Assets/Generated/Misc/master_cultivator_polyp_growe.png",
+    "04_Resources/Assets/Generated/Misc/master_cultivator_apprenticeships.json",
+    "04_Resources/Assets/Generated/Misc/master_cultivator_apprenticeships.png",
+    "04_Resources/Assets/Generated/Misc/master_cultivator_apprenticeship.json",
+    "04_Resources/Assets/Generated/Misc/master_cultivator_apprenticeship.png",
+    "04_Resources/Assets/Generated/Misc/deep_sea_cultists.json",
+    "04_Resources/Assets/Generated/Misc/deep_sea_cultists.png",
+    "04_Resources/Assets/Generated/Misc/deep_sea_cultist.json",
+    "04_Resources/Assets/Generated/Misc/deep_sea_cultist.png",
+    "12_Research/D&D_References/The Floating Market.md",
+    "04_Resources/Assets/Generated/Misc/cult_of_the_endless_void.json",
+    "04_Resources/Assets/Generated/Misc/cult_of_the_endless_void.png",
     "scripts/fix_all_broken_links.py",
     "09_Performance/logs/n8n.log",
     "09_Performance/pid/n8n.pid",
     "04_Resources/Assets/Generated/Videos",
     "scripts/launch_n8n_system.sh",
-    "13_Performance/fixes_and_research_20250814_171128.json",
     "12_Research/TTRPG_Articles/Tools_and_Resources.md",
     "12_Research/TTRPG_Articles/Game_Design_Articles.md",
     "12_Research/TTRPG_Articles/DM_Advice_Articles.md",
     "12_Research/Actual_Play_Campaigns/Other_Actual_Plays.md",
     "12_Research/Actual_Play_Campaigns/Dimension_20.md",
     "12_Research/Actual_Play_Campaigns/Critical_Role.md",
-    "scripts/setup_video_generator.sh",
-    "scripts/fix_and_enhance_vault.py",
     "02_Worldbuilding/Lore/Administrator General Vera Crosswind.md",
     "02_Worldbuilding/Lore/A Day in Aquabyssos.md",
-    "scripts/n8n_orchestrator.js",
-    "12_Research/TTRPG_Articles",
-    "12_Research/Actual_Play_Campaigns",
     "11_Media/AUDIO_LICENSE_README.md",
     "PHASE1_60_PERCENT_COMPLETE.md",
     "00_Indexes/DM_Session_Navigator.md",
@@ -438,18 +433,11 @@
     "12_Research/D&D_Sourcebooks/Baldur's_Gate_Descent_into_Avernus/INDEX.md",
     "02_Worldbuilding/Lore/Crystal Caverns.md",
     "02_Worldbuilding/Lore/Port Meridian.md",
-    "12_Research/D&D_Sourcebooks/CLI_Reference/item-mastery.md",
     "04_Resources/Assets/quests/missing-caravan.png",
     "04_Resources/Assets/Canvas/Relationship_Graph.canvas",
     "Ω_Assets/Pasted image 20250121213204.png",
     "Ω_Assets/Pasted Image 20240630225934_265.png",
     "Ω_Assets/Pasted image 20240630204305.png",
-    "Ω_Assets/Pasted image 20240630203445.png",
-    "Ω_Assets/Pasted image 20240630203450.png",
-    "3-Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp",
-    "3-Mechanics/CLI/vehicles/token/astral-skiff-mtf.webp",
-    "3-Mechanics/CLI/vehicles/token/apparatus-of-kwalish-xdmg.webp",
-    "3-Mechanics/CLI/vehicles/token/astral-brig-mtf.webp",
     "0-Scratch Notes/Untitled.canvas",
     "0-Scratch Notes/MoC - Canvas Home Page.canvas",
     "Untitled.canvas"

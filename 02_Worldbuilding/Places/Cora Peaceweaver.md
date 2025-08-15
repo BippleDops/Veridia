@@ -171,3 +171,10 @@ Ongoing situations affecting Cora Peaceweaver:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Recent Events]]
+- Connected to: [[Main Quest Line]]

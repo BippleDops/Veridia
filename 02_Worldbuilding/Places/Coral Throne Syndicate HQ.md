@@ -808,3 +808,10 @@ Ongoing situations affecting Coral Throne Syndicate HQ:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Recent Events]]
+- Connected to: [[Side Adventures]]

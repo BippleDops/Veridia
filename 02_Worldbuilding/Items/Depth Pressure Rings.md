@@ -407,3 +407,10 @@ Depth Pressure Rings is a remarkable item of significant craftsmanship. Its appe
 ### Limitations
 - Usage restrictions
 - Recharge requirements
+
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Historical Context]]
+- Connected to: [[World Events]]

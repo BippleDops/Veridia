@@ -659,3 +659,10 @@ Trade Goods Catalog is a remarkable item of significant craftsmanship. Its appea
 ### Limitations
 - Usage restrictions
 - Recharge requirements
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Recent Events]]
+- Connected to: [[Character Backstories]]

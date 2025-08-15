@@ -424,8 +424,3 @@
 
 ## creatures_void_1755205571185
 ![](04_Resources/Assets/Creatures/creatures_void_1755205571185.png)
-
-
-## Related
-
-*Links to related content will be added here.*

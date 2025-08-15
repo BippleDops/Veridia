@@ -234,3 +234,11 @@ Your vault is now fully optimized for:
 - [[LINK_UPDATE_COMPLETE]] - Link repair summary
 - [[FRONTMATTER_FIX_COMPLETE]] - Metadata standardization
 - [[13_Performance/optimization_report_*.md]] - Detailed reports
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

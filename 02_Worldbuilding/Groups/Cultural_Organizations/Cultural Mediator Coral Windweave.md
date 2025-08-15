@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.436615+00:00'
 world: Both
 ---
 
+![Cultural Mediator Coral Windweave](../../../04_Resources/Assets/Generated/Misc/cultural_mediator_coral_windweave.png)
+
+
 
 
 ## Overview
@@ -142,3 +145,10 @@ Things widely suspected
 - Ancient connections
 - Forbidden knowledge
 - Ultimate goals
+
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Historical Context]]
+- Connected to: [[Side Adventures]]

@@ -167,3 +167,10 @@ Ongoing situations affecting Lament Architecture:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Power Structures]]
+- Connected to: [[World Events]]

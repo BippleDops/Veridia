@@ -304,3 +304,10 @@ Ongoing situations affecting Merchant:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Regional Politics]]
+- Connected to: [[Main Quest Line]]

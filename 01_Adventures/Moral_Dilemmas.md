@@ -332,3 +332,19 @@ modified: '2025-08-14'
 2. **Restitution**: Quest completion
 3. **Demonstration**: Defeat evil
 4. **Forgiveness**: From gods
+
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Recent Events]]
+- Connected to: [[Character Backstories]]
+
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

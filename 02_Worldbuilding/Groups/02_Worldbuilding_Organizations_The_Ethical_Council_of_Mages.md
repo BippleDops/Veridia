@@ -307,3 +307,9 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #council #faction #worldbuilding
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Power Structures]]
+- Connected to: [[Character Backstories]]

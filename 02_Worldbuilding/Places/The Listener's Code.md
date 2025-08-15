@@ -171,3 +171,10 @@ Ongoing situations affecting The Listener's Code:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Historical Context]]
+- Connected to: [[World Events]]

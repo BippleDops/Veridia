@@ -158,3 +158,12 @@ Ongoing situations affecting location-city-legal-counsel-derek-lawkeeper-v1-lega
 - Environmental hazards
 - Hostile creatures
 - Political tensions
+
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

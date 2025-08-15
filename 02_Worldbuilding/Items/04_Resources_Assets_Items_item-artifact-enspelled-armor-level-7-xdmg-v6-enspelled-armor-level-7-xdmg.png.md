@@ -174,3 +174,10 @@ Last known to be: ![[04_Resources/Assets/Items/item-artifact-enspell...
 ### Limitations
 - Usage restrictions
 - Recharge requirements
+
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Historical Context]]
+- Connected to: [[World Events]]

@@ -279,3 +279,9 @@ Key locations marked:
 
 ---
 *Tags*: #location #temple #worldbuilding #place
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Power Structures]]
+- Connected to: [[Main Quest Line]]

@@ -1,0 +1,13 @@
+{
+  "title": "Deep Sea Cultists",
+  "prompt": "Deep sea cultists, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:45:14.549Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Cults_and_Movements/Deep Sea Cultists.md"
+}

@@ -59,3 +59,19 @@ node scripts/video_generation.js --image path/to/image.png
 # Check system status
 curl http://127.0.0.1:8188/system_stats | jq
 ```
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Recent Events]]
+- Connected to: [[Side Adventures]]
+
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

@@ -671,3 +671,10 @@ Ongoing situations affecting Commercial Hubs and Markets:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Historical Context]]
+- Connected to: [[Main Quest Line]]

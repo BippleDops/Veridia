@@ -163,3 +163,10 @@ Ongoing situations affecting Elder Whisper-In-The-Dark:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Regional Politics]]
+- Connected to: [[Side Adventures]]

@@ -171,3 +171,10 @@ Ongoing situations affecting Pressure Engineers:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Historical Context]]
+- Connected to: [[World Events]]

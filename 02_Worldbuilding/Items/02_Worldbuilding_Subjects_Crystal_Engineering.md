@@ -170,3 +170,10 @@ Last known to be: - Advanced degree in [[Magical Theory|02 Worldbuil...
 ### Limitations
 - Usage restrictions
 - Recharge requirements
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Power Structures]]
+- Connected to: [[Side Adventures]]

@@ -171,3 +171,10 @@ Ongoing situations affecting Scholar Thomas Precedent:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Historical Context]]
+- Connected to: [[Main Quest Line]]

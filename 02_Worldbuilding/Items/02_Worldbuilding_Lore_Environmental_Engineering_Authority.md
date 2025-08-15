@@ -170,3 +170,10 @@ Last known to be: - [[02_Worldbuilding/Lore/Environmental Engineerin...
 ### Limitations
 - Usage restrictions
 - Recharge requirements
+
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Power Structures]]
+- Connected to: [[Side Adventures]]

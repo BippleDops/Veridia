@@ -174,3 +174,10 @@ Last known to be: ![[04_Resources/Assets/Items/item-artifact-boots-o...
 ### Limitations
 - Usage restrictions
 - Recharge requirements
+
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Power Structures]]
+- Connected to: [[Side Adventures]]

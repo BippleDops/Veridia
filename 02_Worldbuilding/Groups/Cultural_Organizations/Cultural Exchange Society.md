@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.438090+00:00'
 world: Both
 ---
 
+![Cultural Exchange Society](../../../04_Resources/Assets/Generated/Misc/cultural_exchange_society.png)
+
+
 
 
 ## Cross-References

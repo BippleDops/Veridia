@@ -64,3 +64,10 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Scholarly interest
 - Personal involvement in events
 - Hereditary knowledge or curse
+
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Regional Politics]]
+- Connected to: [[World Events]]

@@ -308,3 +308,9 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #order #faction #worldbuilding
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Regional Politics]]
+- Connected to: [[Character Backstories]]

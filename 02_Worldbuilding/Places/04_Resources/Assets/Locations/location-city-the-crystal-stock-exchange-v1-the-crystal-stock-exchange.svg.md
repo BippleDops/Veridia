@@ -158,3 +158,12 @@ Ongoing situations affecting location-city-the-crystal-stock-exchange-v1-the-cry
 - Environmental hazards
 - Hostile creatures
 - Political tensions
+
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

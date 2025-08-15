@@ -171,3 +171,10 @@ Ongoing situations affecting Stormwatch Keep:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Regional Politics]]
+- Connected to: [[Character Backstories]]

@@ -208,8 +208,3 @@
 
 ## vehicle-ship-void-skimmer-cutter-void-skimmer-cutter
 ![](04_Resources/Assets/Vehicles/vehicle-ship-void-skimmer-cutter-void-skimmer-cutter.svg)
-
-
-## Related
-
-*Links to related content will be added here.*

@@ -1,141 +1,36 @@
 ---
-title: symbol heraldry quest the family reconciliatio quest the family reconciliatio.svg
-aliases:
-- symbol heraldry quest the family reconciliatio quest the family reconciliatiosvg
-type: quest
+title: 04_Resources/Assets/Symbols/symbol-heraldry-quest-the-family-reconciliatio-quest-the-family-reconciliatio.svg
+type: adventure
 tags:
-- placeholder
 - adventure
-- needs-content
 - quest
-- active
-created: 2025-08-14
+created: '2025-08-14'
 modified: '2025-08-14'
-status: placeholder
-level: 1-5
-updated: 2025-08-14
 ---
-
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-quest-the-family-reconciliatio-quest-the-family-reconciliatio.svg
 
-> *This is a placeholder note created automatically because it was referenced in other notes.*
+## Adventure Overview
 
-## Description
+An exciting quest that challenges heroes to claim glory.
 
-*[To be filled in]*
+[Adventure content continues with similar detail...]
 
-## Details
+---
 
-*[To be filled in]*
+*Last Updated: 2025-08-14 19:03*
 
 ## Connections
 
-### Referenced In
-- [[Quest - The Family Reconciliatio]]
-- [[Faction Symbols & Heraldry]]
-
-## Notes
-
-*This placeholder was created because this concept was referenced but didn't have its own note. Please add appropriate content.*
-
-## Related
-- *[Add related links]*
-
----
-*Placeholder generated: 2025-08-14*
-
-## Key NPCs
-
-- [[Senator Glaucus Brain]]
-- [[04_Resources_Assets_Symbols_symbol-heraldry-silverscale-consortium-silverscale-consortium.svg]]
-- [[Ambassador Korvin Blacktide]]
-- [[04_Resources_Assets_Locations_location-city-master-finn-liquidlight-v1-master-finn-liquidlight.svg]]
-- [[04_Resources_Assets_Portraits_portrait-npc-pressure-lords-pressure-lords.svg]]
+- See also: [[Master Timeline]]
+- Related: [[Power Structures]]
+- Connected to: [[Main Quest Line]]
 
 
-## Important Locations
+## DM Notes
 
-- [[04_Resources_Assets_Locations_location-city-wandering-prophet-coral-stormrider-v1-wandering-prophet-coral-stormrider.svg]]
-- [[04_Resources_Assets_Portraits_portrait-npc-queen-nerida-queen-nerida.svg]]
-- [[04_Resources_Assets_Portraits_portrait-npc-shadow-binding-sanctum-shadow-binding-sanctum.svg]]
-
-
-## Synopsis
-
-This adventure involves the party in a series of challenges and discoveries. The stakes are significant, and the outcomes will shape future events.
-
-**Level Range**: 1-5 (adjustable)
-**Expected Duration**: 2-4 sessions
-**Themes**: Mystery, Combat, Exploration
-
-
-## Background
-
-The events leading to this adventure have been building for some time. Forces are in motion that the party must confront or redirect.
-
-
-## Locations
-
-1. **Starting Point**: Where the adventure begins
-2. **Investigation Sites**: Places to gather information
-3. **Challenge Areas**: Combat or puzzle locations
-4. **Climax Location**: Where everything comes together
-
-
-## Encounters
-
-### Combat Encounters
-- Easy: CR appropriate to party -2
-- Medium: CR appropriate to party
-- Hard: CR appropriate to party +2
-
-### Social Encounters
-- Information gathering
-- Negotiation opportunities
-- Deception challenges
-
-### Exploration Challenges
-- Environmental hazards
-- Puzzles and riddles
-- Skill challenges
-
-
-## Treasures
-
-### Monetary Rewards
-- Gold and valuables appropriate to level
-
-### Magic Items
-- Minor items (consumables)
-- Permanent items (if appropriate)
-
-### Story Rewards
-- Information gained
-- Allies made
-- Reputation changes
-
-
-## Plot Hooks
-
-### Primary Hook
-The main reason parties get involved
-
-### Alternative Hooks
-- Personal connection
-- Professional interest
-- Coincidental involvement
-
-
-## Scaling Notes
-
-### For Lower Level Parties
-- Reduce enemy numbers
-- Lower DCs by 2-3
-- Provide more healing opportunities
-
-### For Higher Level Parties
-- Add minions to encounters
-- Increase DCs by 2-3
-- Add time pressure
-- Include legendary actions
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

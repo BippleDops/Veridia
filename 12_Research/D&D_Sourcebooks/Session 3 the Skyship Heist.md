@@ -1473,3 +1473,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[02_Worldbuilding/Places|02 Worldbuilding/Places]] - Related content
 - [[Master_Campaign_Index|Master Campaign Index]] - Campaign overview
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Recent Events]]
+- Connected to: [[Main Quest Line]]

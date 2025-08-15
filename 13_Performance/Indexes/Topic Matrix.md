@@ -177,3 +177,18 @@ world: Both
 *Last Updated: 2025-08-11*
 *Total Indexed Files: 951*
 *Cross-References: 2,847*
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Regional Politics]]
+- Connected to: [[Main Quest Line]]
+
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

@@ -309,3 +309,9 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #syndicate #faction #worldbuilding
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Recent Events]]
+- Connected to: [[World Events]]

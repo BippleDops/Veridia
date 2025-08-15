@@ -1,0 +1,41 @@
+---
+title: Family Structures and Child-Rearing
+type: item
+tags:
+- item
+- artifact
+- uncommon
+created: '2025-08-14'
+modified: '2025-08-14'
+item_type: Artifact
+rarity: Uncommon
+---
+
+# Family Structures and Child-Rearing
+
+*Uncommon Artifact*
+
+## Description
+
+Family Structures and Child-Rearing is a ancient artifact that radiates powerful magic.
+
+[Item content continues with similar detail...]
+
+---
+
+*Last Updated: 2025-08-14 19:03*
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Regional Politics]]
+- Connected to: [[World Events]]
+
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

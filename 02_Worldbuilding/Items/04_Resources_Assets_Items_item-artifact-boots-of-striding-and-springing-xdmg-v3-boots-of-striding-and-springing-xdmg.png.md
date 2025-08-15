@@ -174,3 +174,10 @@ Last known to be: ![[04_Resources/Assets/Items/item-artifact-boots-o...
 ### Limitations
 - Usage restrictions
 - Recharge requirements
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Historical Context]]
+- Connected to: [[World Events]]

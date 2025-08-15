@@ -163,3 +163,10 @@ Ongoing situations affecting Liminal Constantinople:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Regional Politics]]
+- Connected to: [[Side Adventures]]

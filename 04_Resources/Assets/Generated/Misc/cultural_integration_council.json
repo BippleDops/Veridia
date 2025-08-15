@@ -1,0 +1,13 @@
+{
+  "title": "Cultural Integration Council",
+  "prompt": "Cultural integration council, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:53:46.007Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Cultural_Integration_Council.md"
+}

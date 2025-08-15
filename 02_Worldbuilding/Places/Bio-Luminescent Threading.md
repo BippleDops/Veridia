@@ -167,3 +167,10 @@ Ongoing situations affecting Bio-Luminescent Threading:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Regional Politics]]
+- Connected to: [[Character Backstories]]

@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.402653+00:00'
 world: Aquabyssos
 ---
 
+![The Forgetting Cult](../../../04_Resources/Assets/Generated/Misc/the_forgetting_cult.png)
+
+
 
 
 ## Overview

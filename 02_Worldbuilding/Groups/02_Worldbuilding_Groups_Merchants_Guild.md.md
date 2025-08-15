@@ -309,3 +309,9 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #guild #faction #worldbuilding
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Regional Politics]]
+- Connected to: [[World Events]]

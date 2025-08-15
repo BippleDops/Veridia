@@ -171,3 +171,10 @@ Ongoing situations affecting Sage Currentknow:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Recent Events]]
+- Connected to: [[Main Quest Line]]

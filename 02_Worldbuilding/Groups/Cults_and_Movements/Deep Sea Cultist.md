@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.403984+00:00'
 world: Aquabyssos
 ---
 
+![Deep Sea Cultist](../../../04_Resources/Assets/Generated/Misc/deep_sea_cultist.png)
+
+
 
 
 ## Overview
@@ -137,3 +140,10 @@ Things widely suspected
 - Ancient connections
 - Forbidden knowledge
 - Ultimate goals
+
+
+## Connections
+
+- See also: [[Campaign Guide]]
+- Related: [[Power Structures]]
+- Connected to: [[Main Quest Line]]

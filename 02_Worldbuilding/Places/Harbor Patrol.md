@@ -163,3 +163,10 @@ Ongoing situations affecting Harbor Patrol:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Recent Events]]
+- Connected to: [[Side Adventures]]

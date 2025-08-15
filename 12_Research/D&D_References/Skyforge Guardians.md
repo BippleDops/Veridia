@@ -65,3 +65,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[fiendish-cults-cult-organization-mtf]]
 - [[new-organizations]]
 - [[Border Fortresses]]
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Power Structures]]
+- Connected to: [[Side Adventures]]

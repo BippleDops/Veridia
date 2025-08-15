@@ -307,3 +307,9 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #cult #faction #worldbuilding
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Power Structures]]
+- Connected to: [[Side Adventures]]

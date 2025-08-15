@@ -171,3 +171,10 @@ Ongoing situations affecting Port Meridian Medical Institute:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[World Overview]]
+- Related: [[Historical Context]]
+- Connected to: [[Character Backstories]]

@@ -170,3 +170,10 @@ Last known to be: - **[[02_Worldbuilding/Items/Dual-State Armor|02 W...
 ### Limitations
 - Usage restrictions
 - Recharge requirements
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Regional Politics]]
+- Connected to: [[Character Backstories]]

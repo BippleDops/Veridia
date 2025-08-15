@@ -167,3 +167,10 @@ Ongoing situations affecting Lighthouse Keeper Finn Deepbeacon:
 - Secrets known only to a few
 - Ancient mysteries
 - Concealed dangers
+
+
+## Connections
+
+- See also: [[Master Timeline]]
+- Related: [[Power Structures]]
+- Connected to: [[Main Quest Line]]

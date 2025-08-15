@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.403550+00:00'
 world: Aquabyssos
 ---
 
+![Master Cultivator Apprenticeships](../../../04_Resources/Assets/Generated/Misc/master_cultivator_apprenticeships.png)
+
+
 
 
 ## Overview

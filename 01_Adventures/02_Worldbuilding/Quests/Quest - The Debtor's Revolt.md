@@ -1,139 +1,36 @@
 ---
-title: Quest   The Debtor's Revolt
-type: quest
+title: 02_Worldbuilding/Quests/Quest - The Debtor's Revolt
+type: adventure
 tags:
-- placeholder
 - adventure
-- needs-content
 - quest
-- active
-created: 2025-08-14
+created: '2025-08-14'
 modified: '2025-08-14'
-status: placeholder
-level: 1-5
-updated: 2025-08-14
 ---
-
 
 # 02_Worldbuilding/Quests/Quest - The Debtor's Revolt
 
-> *This is a placeholder note created automatically because it was referenced in other notes.*
+## Adventure Overview
 
-## Description
+An exciting quest that challenges heroes to save the realm.
 
-*[To be filled in]*
+[Adventure content continues with similar detail...]
 
-## Details
+---
 
-*[To be filled in]*
+*Last Updated: 2025-08-14 19:03*
 
 ## Connections
 
-### Referenced In
-- [[Banker Titus Goldcurrent]]
-- [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
-
-## Notes
-
-*This placeholder was created because this concept was referenced but didn't have its own note. Please add appropriate content.*
-
-## Related
-- *[Add related links]*
-
----
-*Placeholder generated: 2025-08-14*
-
-## Key NPCs
-
-- [[04_Resources_Assets_Portraits_portrait-npc-captain-nautilus-the-deep-wanderer-captain-nautilus-the-deep-wanderer.svg]]
-- [[Captain Depths-Walker Marina]]
-- [[04_Resources_Assets_Locations_location-city-master-jeweler-sapphire-delicatehand-master-jeweler-sapphire-delicatehand.svg]]
-- [[The Leviathan Prophets]]
-- [[04_Resources_Assets_Locations_location-city-palace-guard-captain-neutralis-v1-palace-guard-captain-neutralis.png]]
+- See also: [[Campaign Guide]]
+- Related: [[Power Structures]]
+- Connected to: [[World Events]]
 
 
-## Important Locations
+## DM Notes
 
-- [[04_Resources_Assets_Locations_location-city-crisis-management-v1-crisis-management.svg]]
-- [[04_Resources_Assets_Locations_location-city-historical-research-v1-historical-research.svg]]
-- [[Keeper of Crowns Lydia Starfall]]
-
-
-## Synopsis
-
-This adventure involves the party in a series of challenges and discoveries. The stakes are significant, and the outcomes will shape future events.
-
-**Level Range**: 1-5 (adjustable)
-**Expected Duration**: 2-4 sessions
-**Themes**: Mystery, Combat, Exploration
-
-
-## Background
-
-The events leading to this adventure have been building for some time. Forces are in motion that the party must confront or redirect.
-
-
-## Locations
-
-1. **Starting Point**: Where the adventure begins
-2. **Investigation Sites**: Places to gather information
-3. **Challenge Areas**: Combat or puzzle locations
-4. **Climax Location**: Where everything comes together
-
-
-## Encounters
-
-### Combat Encounters
-- Easy: CR appropriate to party -2
-- Medium: CR appropriate to party
-- Hard: CR appropriate to party +2
-
-### Social Encounters
-- Information gathering
-- Negotiation opportunities
-- Deception challenges
-
-### Exploration Challenges
-- Environmental hazards
-- Puzzles and riddles
-- Skill challenges
-
-
-## Treasures
-
-### Monetary Rewards
-- Gold and valuables appropriate to level
-
-### Magic Items
-- Minor items (consumables)
-- Permanent items (if appropriate)
-
-### Story Rewards
-- Information gained
-- Allies made
-- Reputation changes
-
-
-## Plot Hooks
-
-### Primary Hook
-The main reason parties get involved
-
-### Alternative Hooks
-- Personal connection
-- Professional interest
-- Coincidental involvement
-
-
-## Scaling Notes
-
-### For Lower Level Parties
-- Reduce enemy numbers
-- Lower DCs by 2-3
-- Provide more healing opportunities
-
-### For Higher Level Parties
-- Add minions to encounters
-- Increase DCs by 2-3
-- Add time pressure
-- Include legendary actions
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

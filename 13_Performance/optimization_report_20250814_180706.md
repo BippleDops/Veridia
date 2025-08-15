@@ -103,3 +103,10 @@ Generated: 2025-08-14T18:07:06.186981
 
 ---
 *Comprehensive optimization complete. Every note has been enhanced.*
+
+
+## Connections
+
+- See also: [[Central Index]]
+- Related: [[Power Structures]]
+- Connected to: [[World Events]]

@@ -158,3 +158,12 @@ Ongoing situations affecting location-city-the-infinite-garden-v1-the-infinite-g
 - Environmental hazards
 - Hostile creatures
 - Political tensions
+
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes

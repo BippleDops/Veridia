@@ -1,18 +1,32 @@
 ---
+
 title: Gith Tables Githzerai Names Male Mtf
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Gith Tables Githzerai Names Male Mtf"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Gith Tables Githzerai Names Male Mtf
+ # Gith Tables Githzerai Names Male Mtf ---
 
----
+## Description
+
+Detailed description pending.
 title: Gith Tables Githzerai Names Male Mtf
 aliases:
 - Gith Tables; Githzerai Names, Male
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - ttrpg-cli/compendium/src/5e/mtf
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:04.003969+00:00'
 world: Both
----
 
-# Gith Tables; Githzerai Names, Male
-*Source: Mordenkainen's Tome of Foes p. 97* 
+--- # Gith Tables; Githzerai Names, Male
 
-**Githzerai Names, Male**
-
-`dice: [](gith-tables-githzerai-names-male-mtf.md#^githzerai-names-male)`
-
-| dice: d10 | Name |
+*Source: Mordenkainen's Tome of Foes p. 97* **Githzerai Names, Male**`dice: [](gith-tables-githzerai-names-male-mtf.md#^githzerai-names-male)`| dice: d10 | Name |
 |-----------|------|
 | 1 | Dak |
 | 2 | Duurth |
@@ -50,52 +59,24 @@ world: Both
 | 8 | Nurm |
 | 9 | Shrakk |
 | 10 | Xorm |
-^githzerai-names-male
 
-## 🔧 Deep Evaluation Improvements
+^githzerai-names-male ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Gith tables githzerai names male mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of gith tables githzerai names male mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gith tables githzerai names male mtf. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange accidents suggest a curse
 
-*20 targeted improvements identified*
+- A journal reveals the truth about the government ## Related Notes - [[Similar Topic 1]]
 
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Gith tables githzerai names male mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of gith tables githzerai names male mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gith tables githzerai names male mtf.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Strange accidents suggest a curse
-- A journal reveals the truth about the government
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

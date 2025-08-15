@@ -107,3 +107,23 @@ Further information about this topic will be developed as the campaign progresse
 
 - [[Assets Locations Location City St Meridian S Cathedral St Meridian S Cathedral.svg]]
 - [[Assets Symbols Symbol Heraldry Information Exchanges Information Exchanges.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

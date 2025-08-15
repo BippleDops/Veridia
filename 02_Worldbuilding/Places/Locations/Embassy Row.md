@@ -120,3 +120,18 @@ Recent developments have brought new attention to Embassy Row, creating opportun
 
 - [[Goldspire Port]]
 - [[Ironhold]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

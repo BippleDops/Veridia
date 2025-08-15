@@ -407,3 +407,18 @@ Ongoing situations affecting Whisper Island:
 
 - [[Aethermoor - Session 01 Blood in the Harbor]]
 - [[Aquabyssos Ambassadors]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

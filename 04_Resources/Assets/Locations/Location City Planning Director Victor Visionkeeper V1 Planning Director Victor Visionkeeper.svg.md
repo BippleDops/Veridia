@@ -59,3 +59,28 @@ Recent developments have brought new attention to Location City Planning Directo
 
 ## DM Notes
 *Location City Planning Director Victor Visionkeeper V1 Planning Director Victor Visionkeeper.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

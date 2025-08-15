@@ -4,202 +4,173 @@ title: Quest - The Succession Crisis
 type: quest
 tags:
 - quest
+
 created: '2025-01-15'
 modified: '2025-01-15'
 status: active
+aliases: ["Quest - The Succession Crisis"]
+priority: normal
+category: 01 Adventures
+subcategory: Quest - The Succession Crisis.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-## Complications
+ ## Complications
+
+## Description
+
+Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas
+- Moral dilemmas > [!figure] Asset
 
-> [!figure] Asset
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-succession-crisis-quest-the-succession-crisis.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-succession-crisis-quest-the-succession-crisis.svg) # Quest - The Succession Crisis ---
 
-# Quest - The Succession Crisis
-
----
-title: Quest   The Succession Crisis
+title: Quest The Succession Crisis
 type: NPC
 tags:
 - both
 - active
 - npc
 - research
+
 created: '2025-08-11'
 modified: '2025-08-14'
 status: active
 world: Both
 updated: '2025-08-13T01:18:36.875493+00:00'
----
 
-> [!figure] Portrait
+--- > [!figure] Portrait ## Quest Giver
 
-## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
-- **Motivation**: Community safety
+- **Motivation**: Community safety ## Objectives
 
-## Objectives
 ### Primary
-- Main quest goal
 
-### Optional
+- Main quest goal ### Optional
+
 - Secondary objectives
-- Hidden goals
+- Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Quest The Succession Crisis is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Quest The Succession Crisis as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest The Succession Crisis. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## Related Notes - [[Similar Topic 1]]
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Quest   The Succession Crisis is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of Quest   The Succession Crisis as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest   The Succession Crisis.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## Background
 
-## Background
-*[Adventure setup and context]*
+*[Adventure setup and context]* ### What Happened Before
 
-### What Happened Before
-- *[Recent events leading to this adventure]*
+- *[Recent events leading to this adventure]* ### Current Situation - *[What's happening now]* ### The Stakes
 
-### Current Situation  
-- *[What's happening now]*
+- *[What happens if PCs don't act]* ## Adventure Hooks
 
-### The Stakes
-- *[What happens if PCs don't act]*
+*[Ways to get PCs involved]* ### Direct Approach
 
-## Adventure Hooks
-*[Ways to get PCs involved]*
+- *[Straightforward hook]* ### Indirect Approach
 
-### Direct Approach
-- *[Straightforward hook]*
+- *[Subtle introduction]* ### Emergency Hook
 
-### Indirect Approach
-- *[Subtle introduction]*
+- *[Urgent situation]* ## Key NPCs
 
-### Emergency Hook
-- *[Urgent situation]*
+*[Important characters in this adventure]* ### Allies
 
-## Key NPCs
-*[Important characters in this adventure]*
+- *[Helpful NPCs]* ### Antagonists
 
-### Allies
-- *[Helpful NPCs]*
+- *[Opposition NPCs]* ### Neutral Parties
 
-### Antagonists
-- *[Opposition NPCs]*
+- *[Information sources]* ## Locations
 
-### Neutral Parties
-- *[Information sources]*
+*[Important places in this adventure]* ### Starting Location
 
-## Locations
-*[Important places in this adventure]*
+- *[Where adventure begins]* ### Key Sites
 
-### Starting Location
-- *[Where adventure begins]*
+- *[Major locations to visit]* ### Optional Areas
 
-### Key Sites
-- *[Major locations to visit]*
+- *[Side locations]* ## Rewards
 
-### Optional Areas
-- *[Side locations]*
+*[What PCs gain from completing this adventure]* ### Experience Points
 
-## Rewards
-*[What PCs gain from completing this adventure]*
+- *[XP awards]* ### Treasure
 
-### Experience Points
-- *[XP awards]*
+- *[Gold and magic items]* ### Story Rewards
 
-### Treasure
-- *[Gold and magic items]*
+- *[Reputation, allies, information]* ## Scaling
 
-### Story Rewards
-- *[Reputation, allies, information]*
+*[How to adjust for different party levels]* ### Lower Level Parties
 
-## Scaling
-*[How to adjust for different party levels]*
+- *[Adjustments for weaker groups]* ### Higher Level Parties
 
-### Lower Level Parties
-- *[Adjustments for weaker groups]*
+- *[Adjustments for stronger groups]* ### Large/Small Parties
 
-### Higher Level Parties
-- *[Adjustments for stronger groups]*
+- *[Adjustments for party size]* ## Hooks
 
-### Large/Small Parties
-- *[Adjustments for party size]*
-
-## Hooks
 - **Personal**: Character connection
-- **Professional**: Hired for the job
+- **Professional**: Hired for the job ## Time Limit
 
-## Time Limit
 - **Deadline**: When it must be completed
-- **Consequences**: What happens if late
+- **Consequences**: What happens if late ## Opposition
 
-## Opposition
 - **Enemies**: Who opposes the party
-- **Obstacles**: Environmental challenges
+- **Obstacles**: Environmental challenges ## Moral Dilemmas
 
-## Moral Dilemmas
 - **Difficult Choices**: Ethical challenges
-- **Consequences**: Impact of decisions
+- **Consequences**: Impact of decisions ## Optional Objectives
 
-## Optional Objectives
 - **Bonus Goals**: Extra achievements
-- **Hidden Rewards**: Secret treasures
+- **Hidden Rewards**: Secret treasures ## Failure Conditions
 
-## Failure Conditions
 - **What Constitutes Failure**: Clear parameters
-- **Failure Consequences**: What happens
+- **Failure Consequences**: What happens ## Investigation Clues
 
-## Investigation Clues
 - **Obvious Clues**: Easy to find
-- **Hidden Clues**: Require searching
+- **Hidden Clues**: Require searching ## Social Encounters
 
-## Social Encounters
 - **Key Conversations**: Important dialogues
-- **Persuasion Opportunities**: Diplomatic solutions
+- **Persuasion Opportunities**: Diplomatic solutions ## Environmental Hazards
 
-## Environmental Hazards
 - **Natural Dangers**: Environmental threats
-- **Trap Locations**: Mechanical dangers
+- **Trap Locations**: Mechanical dangers ## Scaling Options
 
-## Scaling Options
 - **Easy Mode**: Reduced difficulty
-- **Hard Mode**: Increased challenge
+- **Hard Mode**: Increased challenge ## DM Tips
 
-## DM Tips
 > 💡 **Running This Content**: Advice for game masters
+
 > Adjust difficulty based on party composition
+
+## Notes
+
+*Additional notes*
+
+#story/story
+#story/lore
+#story/background
+#world/location
+#world/world
+#world/setting
+#world/place
+#character/npc
+#character/character
+#character/person
+#gameplay/encounter
+#gameplay/adventure
+#gameplay/quest
+#resource/item
+#resource/treasure
+#meta/reference
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

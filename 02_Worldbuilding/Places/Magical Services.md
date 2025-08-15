@@ -240,3 +240,18 @@ Key stop on magic items trade route
 - [[Inverted Ballroom Wing]]
 - [[Port Meridian - Market Square]]
 - [[Inverted Ballroom Wing (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

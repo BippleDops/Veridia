@@ -120,3 +120,18 @@ Recent developments have brought new attention to The Decompression Chamber, cre
 
 - [[02_Worldbuilding_Places_The_Decompression_Chamber]]
 - [[Dr. Siphon Gillwater (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

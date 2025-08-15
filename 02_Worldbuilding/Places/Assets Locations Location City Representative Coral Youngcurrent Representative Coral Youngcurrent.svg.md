@@ -187,3 +187,22 @@ Key locations marked:
 - The authorities needs help investigating before dawn
 - A stranger needs help finding before winter
 - A noble needs help investigating before winter
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

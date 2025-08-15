@@ -170,3 +170,22 @@ Key locations marked:
 - Someone is hunting a witness for power
 - A noble needs help stealing before winter
 - A merchant needs help investigating before the new moon
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -95,3 +95,28 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Pressure's End]]
 - [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
 - [[02_Worldbuilding/Places/Vote Vaults]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

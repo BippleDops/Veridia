@@ -212,3 +212,18 @@ Ongoing situations affecting Environmental Monitor Reef Ecowatch:
 
 - [[The Deep Harvest]]
 - [[The Deep Harvest (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

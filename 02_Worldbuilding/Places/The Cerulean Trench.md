@@ -317,3 +317,18 @@ Ongoing situations affecting The Cerulean Trench:
 - [[Admiral Thorne Blackwater (D&D_Statblocks)]]
 - [[The Maw of Darkness (D&D_Statblocks)]]
 - [[Traveling Merchant Finn (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

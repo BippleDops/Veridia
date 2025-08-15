@@ -109,3 +109,23 @@ Further information about this topic will be developed as the campaign progresse
 - [[Assets Locations Location City Pilgrimage Master Depth Guide Melancholy V1 Pilgrimage Master Depth Guide Melancholy.svg]]
 - [[Assets Symbols Symbol Heraldry Port Sorrow Trading Company Port Sorrow Trading Company.svg]]
 - [[Assets Symbols Symbol Heraldry the Crimson Tide Pirates the Crimson Tide Pirates.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -237,3 +237,18 @@ Mentioned in The Second Prophecy of Stars
 ## References
 
 - [[System Cli Spells School Necromancy]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

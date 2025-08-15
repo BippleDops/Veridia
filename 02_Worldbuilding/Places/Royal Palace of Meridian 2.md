@@ -188,3 +188,28 @@ Legends speak of Royal Palace of Meridian as a nexus where past and present conv
 - [[02_Worldbuilding/Places/Royal Palace of Meridian]]
 
 <!-- enriched: true -->
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

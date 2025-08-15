@@ -1,18 +1,32 @@
 ---
+
 title: Character Options Subclasses Xge
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Character Options Subclasses Xge"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Character Options Subclasses Xge
+ # Character Options Subclasses Xge ---
 
----
+## Description
+
+Detailed description pending.
 title: Character Options Subclasses Xge
 aliases:
 - Character Options; Subclasses
+
 type: note
 tags:
 - both
@@ -22,28 +36,25 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.796455+00:00'
 world: Both
----
 
-# Character Options; Subclasses
-*Source: Xanathar's Guide to Everything p. 7* 
+--- # Character Options; Subclasses
 
-**Subclasses**
-
-| Class | Subclass | Level Available | Description |
+*Source: Xanathar's Guide to Everything p. 7* **Subclasses** | Class | Subclass | Level Available | Description |
 |-------|----------|-----------------|-------------|
 | Barbarian | Path of the Ancestral Guardian | 3rd | Calls on the spirits of honored ancestors to protect others |
 | Barbarian | Path of the Storm Herald | 3rd | Filled with a rage that channels the primal magic of the storm |
 | Barbarian | [[Barbarian Xphb Path of the Zealot Xphb]] | 3rd | Fueled by a religious zeal that visits destruction on foes |
 | Bard | [[bard-xphb-college-of-glamour-xphb (classes)]] | 3rd | Wields the beguiling, glorious magic of the Feywild |
 | Bard | College of Swords | 3rd | Entertains and slays with daring feats of weapon prowess |
-| Bard | College of Whispers | 3rd | Plants fear and doubt in the minds of others  |
+| Bard | College of Whispers | 3rd | Plants fear and doubt in the minds of others |
 | Cleric | Forge Domain | 1st | Clad in heavy armor, serves a god of the forge or creation |
 | Cleric | Grave Domain | 1st | Opposes the blight of undeath |
 | Druid | Circle of Dreams | 2nd | Mends wounds, guards the weary, and strides through dreams |
@@ -62,51 +73,51 @@ world: Both
 | Rogue | Inquisitive | 3rd | Roots out secrets, akin to a masterful detective |
 | Rogue | Mastermind | 3rd | A master tactician, manipulates others |
 | Rogue | Scout | 3rd | Combines stealth with a knack for survival |
-| Rogue | Swashbuckler | 3rd | Delivers deadly strikes with speed and panache  |
+| Rogue | Swashbuckler | 3rd | Delivers deadly strikes with speed and panache |
 | Sorcerer | Divine Soul | 1st | Harnesses magic bestowed by a god or other divine source |
 | Sorcerer | Shadow Magic | 1st | Wields the grim magic of the Shadowfell |
 | Sorcerer | Storm Sorcery | 1st | Crackles with the power of the storm |
 | Warlock | [[Lock Xphb]] | 1st | Forges a pact with a being from celestial realms |
 | Warlock | The Hexblade | 1st | Serves a shadowy entity that bestows dread curses |
 | Wizard | War Magic | 2nd | Mixes evocation and abjuration magic to dominate the battlefield |
-^subclasses
 
-## 🔧 Deep Evaluation Improvements
+^subclasses ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Character options subclasses xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of character options subclasses xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around character options subclasses xge. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-*20 targeted improvements identified*
 
-### Connection Improvements
+## Notes
 
-- Add cross-references to related notes
+*Additional notes*
 
-### Enhancement Improvements
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/character
+#character/creature
+#character/monster
+#gameplay/quest
+#meta/reference
 
-- Add 12_Research-specific enhancement
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
 
-## Player-Facing Summary
 
-Character options subclasses xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+## Daily Routine
+- Morning activities
+- Evening habits
 
-## Lore Details
 
-Legends speak of character options subclasses xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around character options subclasses xge.
+## Possessions
+- Personal items
+- Valuable objects
 
-## DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+## Combat Tactics
+- Preferred strategies
+- Special moves
 
-## Related
 
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## Secrets
+- Hidden knowledge
+- Personal mysteries

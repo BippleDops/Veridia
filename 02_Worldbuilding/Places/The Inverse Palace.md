@@ -234,3 +234,18 @@ Ongoing situations affecting The Inverse Palace:
 - [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
 - [[Inverted Ballroom Wing (D&D_References)]]
 - [[Temporal Navigation (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

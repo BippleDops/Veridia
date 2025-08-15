@@ -175,3 +175,22 @@ Key stop on spices trade route
 
 - A journal reveals the truth about a local noble
 - Strange sightings suggest a portal
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

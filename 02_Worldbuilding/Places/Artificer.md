@@ -310,3 +310,18 @@ Key stop on magic items trade route
 - [[The Crystalline Foundry]]
 - [[The Crown's Burden]]
 - [[Corrupted Clients (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

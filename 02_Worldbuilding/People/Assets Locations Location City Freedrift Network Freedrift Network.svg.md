@@ -237,3 +237,28 @@ This NPC can serve multiple roles:
 
 - [[04_Resources_Assets_Locations_location-city-commander-reef-shadowstrike-v1-commander-reef-shadowstrike.svg]]
 - [[04_Resources_Assets_Locations_location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

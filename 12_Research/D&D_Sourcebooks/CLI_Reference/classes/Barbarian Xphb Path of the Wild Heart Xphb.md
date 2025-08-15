@@ -1,18 +1,32 @@
 ---
+
 title: Barbarian Xphb Path of the Wild Heart Xphb
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Barbarian Xphb Path of the Wild Heart Xphb"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Barbarian Xphb Path of the Wild Heart Xphb
+ # Barbarian Xphb Path of the Wild Heart Xphb ---
 
----
+## Description
+
+Detailed description pending.
 title: Barbarian Xphb Path of the Wild Heart Xphb
 aliases:
 - Path of the Wild Heart
+
 type: note
 tags:
 - both
@@ -23,22 +37,20 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-class
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:04.770850+00:00'
 world: Both
----
 
-# Path of the Wild Heart
-*[[barbarian-xphb-path-of-the-ancestral-guardian-xge]]: Barbarian Subclass*  
-*Source: Player's Handbook (2024) p. 55*  
+--- # Path of the Wild Heart
 
-> [!tldr] Class and Feature Progression
-> 
-> LevelPBFeatures
+*[[barbarian-xphb-path-of-the-ancestral-guardian-xge]]: Barbarian Subclass* *Source: Player's Handbook (2024) p. 55* > [!tldr] Class and Feature Progression
+
+> > Level PBFeatures
 > 1st+2
 > 2nd+2
 > 3rd+2Path of the Wild Heart
@@ -58,110 +70,21 @@ world: Both
 > 17th+6
 > 18th+6
 > 19th+6
-> 20th+6
+> 20th+6 ^class-progression ### Path of the Wild Heart (Level 3) *Walk in Community with the Animal World* Barbarians who follow the Path of the Wild Heart view themselves as kin to animals. These Barbarians learn magical means to communicate with animals, and their Rage heightens their connection to animals as it fills them with supernatural might. ### Animal Speaker (Level 3) You can cast the [[beast]] and [[Speak With Animals Xphb]] spells but only as Rituals. Wisdom is your spellcasting ability for them. ### Rage of the Wilds (Level 3) Your Rage taps into the primal power of animals. Whenever you activate your Rage, you gain one of the following options of your choice. #### Bear While your Rage is active, you have [[boon-of-energy-resistance-xphb (feats)]] to every damage type except Force, Necrotic, Psychic, and Radiant. #### Eagle When you activate your Rage, you can take the [[actions#Disengage|Disengage]] and [[actions#Dash|Dash]] actions as part of that [[Action Xphb]]. While your Rage is active, you can take a [[Action Xphb]] to take both of those actions. #### Wolf While your Rage is active, your allies have [[Advantage Xphb]] on attack rolls against any enemy of yours within 5 feet of you. ### Aspect of the Wilds (Level 6) You gain one of the following options of your choice. Whenever you finish a [[long-rest-xphb]], you can change your choice. #### Owl You have [[senses#Darkvision|Darkvision]] with a range of 60 feet. If you already have [[senses#Darkvision|Darkvision]], its range increases by 60 feet. #### Panther You have a [[Climb Speed Xphb]] equal to your [[Fly Speed Xphb]]. #### Salmon You have a [[swim-speed-xphb (variant-rules)]] equal to your [[Fly Speed Xphb]]. ### Nature Speaker (Level 10) You can cast the [[Commune With Nature Xphb]] spell but only as a [[Ritual Xphb]]. Wisdom is your spellcasting ability for it. ### Power of the Wilds (Level 14) Whenever you activate your Rage, you gain one of the following options of your choice. #### Falcon While your Rage is active, you have a [[Fly Speed Xphb]] equal to your [[Fly Speed Xphb]] if you aren't wearing any armor. #### Lion While your Rage is active, any of your enemies within 5 feet of you have [[Advantage Xphb]] on attack rolls against targets other than you or another Barbarian who has this option active. #### Ram While your Rage is active, you can cause a Large or smaller creature to have the [[conditions#prone|Prone]] condition when you hit it with a melee attack. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Barbarian xphb path of the wild heart xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of barbarian xphb path of the wild heart xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around barbarian xphb path of the wild heart xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The First Prophecy of Depths ## Plot Hooks - A journal reveals ancient history about the cult
 
-^class-progression
-
-### Path of the Wild Heart (Level 3)
-
-*Walk in Community with the Animal World*
-
-Barbarians who follow the Path of the Wild Heart view themselves as kin to animals. These Barbarians learn magical means to communicate with animals, and their Rage heightens their connection to animals as it fills them with supernatural might.
-
-### Animal Speaker (Level 3)
-
-You can cast the [[beast]] and [[Speak With Animals Xphb]] spells but only as Rituals. Wisdom is your spellcasting ability for them.
-
-### Rage of the Wilds (Level 3)
-
-Your Rage taps into the primal power of animals. Whenever you activate your Rage, you gain one of the following options of your choice.
-
-#### Bear
-
-While your Rage is active, you have [[boon-of-energy-resistance-xphb (feats)]] to every damage type except Force, Necrotic, Psychic, and Radiant.
-
-#### Eagle
-
-When you activate your Rage, you can take the [[actions#Disengage|Disengage]] and [[actions#Dash|Dash]] actions as part of that [[Action Xphb]]. While your Rage is active, you can take a [[Action Xphb]] to take both of those actions.
-
-#### Wolf
-
-While your Rage is active, your allies have [[Advantage Xphb]] on attack rolls against any enemy of yours within 5 feet of you.
-
-### Aspect of the Wilds (Level 6)
-
-You gain one of the following options of your choice. Whenever you finish a [[long-rest-xphb]], you can change your choice.
-
-#### Owl
-
-You have [[senses#Darkvision|Darkvision]] with a range of 60 feet. If you already have [[senses#Darkvision|Darkvision]], its range increases by 60 feet.
-
-#### Panther
-
-You have a [[Climb Speed Xphb]] equal to your [[Fly Speed Xphb]].
-
-#### Salmon
-
-You have a [[swim-speed-xphb (variant-rules)]] equal to your [[Fly Speed Xphb]].
-
-### Nature Speaker (Level 10)
-
-You can cast the [[Commune With Nature Xphb]] spell but only as a [[Ritual Xphb]]. Wisdom is your spellcasting ability for it.
-
-### Power of the Wilds (Level 14)
-
-Whenever you activate your Rage, you gain one of the following options of your choice.
-
-#### Falcon
-
-While your Rage is active, you have a [[Fly Speed Xphb]] equal to your [[Fly Speed Xphb]] if you aren't wearing any armor.
-
-#### Lion
-
-While your Rage is active, any of your enemies within 5 feet of you have [[Advantage Xphb]] on attack rolls against targets other than you or another Barbarian who has this option active.
-
-#### Ram
-
-While your Rage is active, you can cause a Large or smaller creature to have the [[conditions#prone|Prone]] condition when you hit it with a melee attack.
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Barbarian xphb path of the wild heart xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of barbarian xphb path of the wild heart xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around barbarian xphb path of the wild heart xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The First Prophecy of Depths
-
-## Plot Hooks
-
-- A journal reveals ancient history about the cult
 - Someone is searching for a witness for power
-- Someone is hunting an heir for money
+- Someone is hunting an heir for money ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#meta/reference

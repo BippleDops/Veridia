@@ -4,14 +4,25 @@ title: Campaign_Center
 type: quest
 tags:
 - quest
+
 created: '2025-01-15'
 modified: '2025-01-15'
 status: active
+aliases: ["Campaign Center"]
+priority: normal
+category: 01 Adventures
+subcategory: Campaign Center.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Campaign_Center
+ # Campaign_Center ---
 
----
+## Description
+
+Detailed description pending.
 title: Campaign Center
 type: index
 tags:
@@ -19,157 +30,138 @@ tags:
 - index
 - active
 - campaign
+
 created: 2025-08-14
 modified: '2025-08-14'
 updated: 2025-08-14
 cssclass: campaign-center
----
 
-## 🎲 Active Campaigns
+--- ## 🎲 Active Campaigns```dataview
 
-```dataview
-TABLE WITHOUT ID
-  file.link as Campaign,
-  status as Status,
-  sessions as "Total Sessions",
-  players as Players
+TABLE WITHOUT ID file.link as Campaign, status as Status, sessions as "Total Sessions", players as Players
+
 FROM "01_Adventures"
+
 WHERE type = "campaign" OR contains(file.name, "Campaign")
-SORT status ASC
-```
 
-### Upcoming Sessions
-  file.link as Session,
-  campaign as Campaign,
-  date as "Scheduled",
-  status as Status
+SORT status ASC```### Upcoming Sessions file.link as Session, campaign as Campaign, date as "Scheduled", status as Status
+
 WHERE type = "session" AND status != "completed"
-SORT date ASC
 
-### Recent Sessions
-  date as Date,
-  recap as "Quick Recap"
+SORT date ASC ### Recent Sessions date as Date, recap as "Quick Recap"
+
 WHERE type = "session" AND status = "completed"
+
 SORT date DESC
-LIMIT 5
 
-## 📊 Campaign Progress
+LIMIT 5 ## 📊 Campaign Progress sessions-completed as "Completed", sessions-total as "Total", completion as "Progress %"
 
-  sessions-completed as "Completed",
-  sessions-total as "Total",
-  completion as "Progress %"
-WHERE type = "campaign"
+WHERE type = "campaign" ### By Faction faction as Faction, length(rows) as "NPC Count"
 
-### By Faction
-  faction as Faction,
-  length(rows) as "NPC Count"
 FROM "02_Worldbuilding/People"
-WHERE type = "npc" AND faction != 
-GROUP BY faction
-SORT length(rows) DESC
 
-### Important NPCs
-  file.link as NPC,
-  role as Role,
+WHERE type = "npc" AND faction != GROUP BY faction
+
+SORT length(rows) DESC ### Important NPCs file.link as NPC, role as Role,
+
 WHERE importance = "major" OR contains(tags, "important")
-LIMIT 10
 
-## 📍 Campaign Locations
+LIMIT 10 ## 📍 Campaign Locations file.link as Location, campaign as "Used In", visits as Visits,
 
-  file.link as Location,
-  campaign as "Used In",
-  visits as Visits,
 FROM "02_Worldbuilding/Places"
-WHERE campaign != 
-SORT visits DESC
 
----
-*Campaign management powered by Dataview*
+WHERE campaign != SORT visits DESC ---
 
-## Related
+*Campaign management powered by Dataview* ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*
 
-*Links to related content will be added here.*
-
-## DM Notes
-
-*Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes
+- Connections to overarching campaign themes ## Background
 
-## Background
-*[Adventure setup and context]*
+*[Adventure setup and context]* ### What Happened Before
 
-### What Happened Before
-- *[Recent events leading to this adventure]*
+- *[Recent events leading to this adventure]* ### Current Situation - *[What's happening now]* ### The Stakes
 
-### Current Situation  
-- *[What's happening now]*
+- *[What happens if PCs don't act]* ## Adventure Hooks
 
-### The Stakes
-- *[What happens if PCs don't act]*
+*[Ways to get PCs involved]* ### Direct Approach
 
-## Adventure Hooks
-*[Ways to get PCs involved]*
+- *[Straightforward hook]* ### Indirect Approach
 
-### Direct Approach
-- *[Straightforward hook]*
+- *[Subtle introduction]* ### Emergency Hook
 
-### Indirect Approach
-- *[Subtle introduction]*
+- *[Urgent situation]* ## Key NPCs
 
-### Emergency Hook
-- *[Urgent situation]*
+*[Important characters in this adventure]* ### Allies
 
-## Key NPCs
-*[Important characters in this adventure]*
+- *[Helpful NPCs]* ### Antagonists
 
-### Allies
-- *[Helpful NPCs]*
+- *[Opposition NPCs]* ### Neutral Parties
 
-### Antagonists
-- *[Opposition NPCs]*
+- *[Information sources]* ## Locations
 
-### Neutral Parties
-- *[Information sources]*
+*[Important places in this adventure]* ### Starting Location
 
-## Locations
-*[Important places in this adventure]*
+- *[Where adventure begins]* ### Key Sites
 
-### Starting Location
-- *[Where adventure begins]*
+- *[Major locations to visit]* ### Optional Areas
 
-### Key Sites
-- *[Major locations to visit]*
+- *[Side locations]* ## Rewards
 
-### Optional Areas
-- *[Side locations]*
+*[What PCs gain from completing this adventure]* ### Experience Points
 
-## Rewards
-*[What PCs gain from completing this adventure]*
+- *[XP awards]* ### Treasure
 
-### Experience Points
-- *[XP awards]*
+- *[Gold and magic items]* ### Story Rewards
 
-### Treasure
-- *[Gold and magic items]*
+- *[Reputation, allies, information]* ## Scaling
 
-### Story Rewards
-- *[Reputation, allies, information]*
+*[How to adjust for different party levels]* ### Lower Level Parties
 
-## Scaling
-*[How to adjust for different party levels]*
+- *[Adjustments for weaker groups]* ### Higher Level Parties
 
-### Lower Level Parties
-- *[Adjustments for weaker groups]*
+- *[Adjustments for stronger groups]* ### Large/Small Parties
 
-### Higher Level Parties
-- *[Adjustments for stronger groups]*
+- *[Adjustments for party size]* ## Player Tips
 
-### Large/Small Parties
-- *[Adjustments for party size]*
-
-## Player Tips
 > 🎮 **Strategy**: How to approach this content
+
 > Work together and communicate
+
+## Notes
+
+*Additional notes*
+
+#story/story
+#story/background
+#world/location
+#world/world
+#world/place
+#character/npc
+#character/character
+#gameplay/session
+#gameplay/adventure
+#gameplay/quest
+#resource/item
+#resource/treasure
+#meta/index
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

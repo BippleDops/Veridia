@@ -183,3 +183,22 @@ Key stop on metals trade route
 - An heirloom has gone missing and truth emerges
 - Strange accidents suggest ancient magic
 - A stranger needs help delivering before dawn
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -1,18 +1,22 @@
 ---
+
 title: mezzoloth-xmm (fiend)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# mezzoloth-xmm
+--- # mezzoloth-xmm ---
 
----
+## Description
+
+Detailed description pending.
 title: mezzoloth xmm
 aliases:
 - Mezzoloth
+
 type: monster
 tags:
 - ttrpg-cli/monster/size/medium
@@ -26,6 +30,7 @@ tags:
 - active
 - ttrpg-cli/monster/environment/gehenna
 - status/in-progress
+
 created: 2025-08-11
 modified: '2025-08-14'
 status: active
@@ -35,42 +40,13 @@ statblock: inline
 statblock-link: '#^statblock'
 updated: '2025-08-12T23:37:35.542169'
 world: Both
----
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-mezzoloth-xmm-mezzoloth-xmm.svg)
+--- > [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-mezzoloth-xmm-mezzoloth-xmm.svg) # [[Mezzoloth Xmm]]
 
-# [[Mezzoloth Xmm]]
-*Source: Monster Manual (2024) p. 211*  
+*Source: Monster Manual (2024) p. 211* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Mezzoloth *Yugoloth of Tenacity and Want* - **Habitat.** Planar (Gehenna) - **Treasure.** Armaments Mezzoloths are insectile yugoloths that seek power and souls in the service of fiendish lords. These greedy, violent yugoloths are more direct than most of their scheming brethren, but what they lack in guile they make up for in persistence and numbers. Mezzoloths typically form mercenary bands with others of their kind. These forces serve more powerful yugoloths, other fiends, sinister mages, or anyone who provides them with tempting rewards. Mezzoloths obediently adhere to the bargains they strike, potentially serving their patrons for centuries, but once those terms expire, yesterday's client could become today's target. Roll on or choose a result from the Mezzoloth Payments table to inspire a mezzoloth's price for its services. **Mezzoloth Payments**`dice: [](mezzoloth-xmm.md#^mezzoloth-payments)`| dice: 1d6 | The Mezzoloth Agrees to Serve For... |
 
-## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Mezzoloth
-
-*Yugoloth of Tenacity and Want*
-
-- **Habitat.** Planar (Gehenna)  
-- **Treasure.** Armaments  
-
-Mezzoloths are insectile yugoloths that seek power and souls in the service of fiendish lords. These greedy, violent yugoloths are more direct than most of their scheming brethren, but what they lack in guile they make up for in persistence and numbers.
-
-Mezzoloths typically form mercenary bands with others of their kind. These forces serve more powerful yugoloths, other fiends, sinister mages, or anyone who provides them with tempting rewards. Mezzoloths obediently adhere to the bargains they strike, potentially serving their patrons for centuries, but once those terms expire, yesterday's client could become today's target. Roll on or choose a result from the Mezzoloth Payments table to inspire a mezzoloth's price for its services.
-
-**Mezzoloth Payments**
-
-`dice: [](mezzoloth-xmm.md#^mezzoloth-payments)`
-
-| dice: 1d6 | The Mezzoloth Agrees to Serve For... |
 |-----------|--------------------------------------|
 | 1 | Access to a planar portal. |
 | 2 | Information valued by its true master. |
@@ -78,9 +54,8 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
 | 4 | Magic weapons or armor. |
 | 5 | The right to loot holy sites in places it conquers. |
 | 6 | Souls, whether as larvae or captured spirits. |
-^mezzoloth-payments
 
-```statblock
+^mezzoloth-payments```statblock
 "name": "Mezzoloth (XMM)"
 "size": "Medium"
 "type": "fiend"
@@ -90,93 +65,28 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
 "hp": !!int "75"
 "hit_dice": "10d8 + 30"
 "modifier": !!int "3"
-"stats":
-  - !!int "18"
-  - !!int "11"
-  - !!int "16"
-  - !!int "7"
-  - !!int "14"
-  - !!int "10"
+"stats": - !!int "18" - !!int "11" - !!int "16" - !!int "7" - !!int "14" - !!int "10"
 "speed": "40 ft."
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+5"
+"skillsaves": - "name": "[[skills#Perception|Perception]]" "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "acid, poison"
 "condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Infernal; telepathy 60 ft."
 "cr": "5"
-"traits":
-  - "desc": "If the mezzoloth dies outside Gehenna, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb (variant-rules)]]\
-      \ somewhere in Gehenna."
-    "name": "Fiendish Restoration"
-  - "desc": "The mezzoloth has [[Advantage Xphb]]\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "The mezzoloth makes two attacks, using Claws or Mercurial Trident in\
-      \ any combination."
-    "name": "Multiattack"
-  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 9 (2d4 + 4) Slashing damage.\
-      \ If the target is a Large or smaller creature, it has the [[conditions#Grappled|Grappled]]\
-      \ condition (escape DC 14) from two of four claws, and it has the [[conditions#Restrained|Restrained]]\
-      \ condition until the grapple ends."
-    "name": "Claws"
-  - "desc": "Melee  or Ranged Attack Roll: +7, reach 5 ft. or range 20/60 ft. Hit:\
-      \ 8 (1d8 + 4) Piercing damage plus 10 (3d6) Force damage. Hit or Miss: The\
-      \ trident magically returns to the mezzoloth's claw immediately after a ranged\
-      \ attack."
-    "name": "Mercurial Trident"
-  - "desc": "The mezzoloth casts one of the following spells, requiring no Material\
-      \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-      \n1/day each: [[Cloudkill Xphb]], [[darkness-xphb (variant-rules)]],\
-      \ [[dispel-magic-xphb (spells)]]"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "The mezzoloth teleports up to 60 feet to an unoccupied space it can see.\
-      \ It can teleport one creature it is grappling to an unoccupied space within\
-      \ 5 feet of its destination space."
-    "name": "Teleport (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "/03_Mechanics/CLI/bestiary/fiend/token/mezzoloth-xmm.webp"
-```
-^statblock
+"traits": - "desc": "If the mezzoloth dies outside Gehenna, its body dissolves into ichor,\ \ and it gains a new body instantly, reviving with all its [[hit-points-xphb (variant-rules)]]\ \ somewhere in Gehenna." "name": "Fiendish Restoration" - "desc": "The mezzoloth has [[Advantage Xphb]]\ \ on saving throws against spells and other magical effects." "name": "Magic Resistance"
+"actions": - "desc": "The mezzoloth makes two attacks, using Claws or Mercurial Trident in\ \ any combination." "name": "Multiattack" - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 9 (2d4 + 4) Slashing damage.\ \ If the target is a Large or smaller creature, it has the [[conditions#Grappled|Grappled]]\ \ condition (escape DC 14) from two of four claws, and it has the [[conditions#Restrained|Restrained]]\ \ condition until the grapple ends." "name": "Claws" - "desc": "Melee or Ranged Attack Roll: +7, reach 5 ft. Or range 20/60 ft. Hit:\ \ 8 (1d8 + 4) Piercing damage plus 10 (3d6) Force damage. Hit or Miss: The\ \ trident magically returns to the mezzoloth's claw immediately after a ranged\ \ attack." "name": "Mercurial Trident" - "desc": "The mezzoloth casts one of the following spells, requiring no Material\ \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\ \n1/day each: [[Cloudkill Xphb]], [[darkness-xphb (variant-rules)]],\ \ [[dispel-magic-xphb (spells)]]" "name": "Spellcasting"
+"bonus_actions": - "desc": "The mezzoloth teleports up to 60 feet to an unoccupied space it can see.\ \ It can teleport one creature it is grappling to an unoccupied space within\ \ 5 feet of its destination space." "name": "Teleport (Recharge 5-6)"
+"source": - "XMM"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/mezzoloth-xmm.webp"```^statblock ## Environment planar, gehenna ## Player-Facing Summary Mezzoloth xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of mezzoloth xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mezzoloth xmm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is protecting information for money
 
-## Environment
+- Strange sightings suggest a conspiracy ## Related Notes - [[Similar Topic 1]]
 
-planar, gehenna
-
-## Player-Facing Summary
-
-Mezzoloth xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of mezzoloth xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mezzoloth xmm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Someone is protecting information for money
-- Strange sightings suggest a conspiracy
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
+
+*Additional notes*

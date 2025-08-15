@@ -248,3 +248,23 @@ Member of House Serpentblood - Trait: magical affinity
 ## References
 
 - [[04_Resources_Assets_Locations_location-city-master-gardener-sage-harmony-bloomtender-v1-master-gardener-sage-harmony-bloomtender.svg]]
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

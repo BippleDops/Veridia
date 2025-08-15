@@ -1,18 +1,32 @@
 ---
+
 title: summon-fey-xphb (spells)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["summon-fey-xphb (spells)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# summon-fey-xphb
+ # summon-fey-xphb ---
 
----
+## Description
+
+Detailed description pending.
 title: summon fey xphb
 aliases:
 - Summon Fey
+
 type: note
 tags:
 - mechanics/magic
@@ -24,6 +38,7 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -38,84 +53,52 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Illusionist)
+
 cssclasses: json5e-spell
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:36.500628'
 world: Both
----
 
-# Summon Fey
-*3rd-level, Conjuration*  
-![](/03_Mechanics/CLI/spells/img/summon-fey.webp#right)
+--- # Summon Fey
 
-- **Casting time:** 1 Action
+*3rd-level, Conjuration* ![](/03_Mechanics/CLI/spells/img/summon-fey.webp#right) - **Casting time:** 1 Action
 - **Range:** 90 feet
 - **Components:** V, S, M (a gilded flower worth 300+ GP)
-- **Duration:** Concentration, up to 1 hour
+- **Duration:** Concentration, up to 1 hour You call forth a Fey spirit. It manifests in an unoccupied space that you can see within range and uses the [[fey]] stat block. When you cast the spell, choose a mood: Fuming, Mirthful, or Tricksy. The creature resembles a Fey creature of your choice marked by the chosen mood, which determines certain details in its stat block. The creature disappears when it drops to 0 [[hit-points-xphb (variant-rules)]] or when the spell ends. The creature is an ally to you and your allies. In combat, the creature shares your [[Initiative Xphb]] count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the [[actions#Dodge|Dodge]] action and uses its movement to avoid danger. **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block. **Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]] *Source: Player's Handbook (2024) p. 326* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Summon fey xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of summon fey xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around summon fey xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes ## Plot Hooks - Someone is protecting an heir for revenge
 
-You call forth a Fey spirit. It manifests in an unoccupied space that you can see within range and uses the [[fey]] stat block. When you cast the spell, choose a mood: Fuming, Mirthful, or Tricksy. The creature resembles a Fey creature of your choice marked by the chosen mood, which determines certain details in its stat block. The creature disappears when it drops to 0 [[hit-points-xphb (variant-rules)]] or when the spell ends.
+- A stranger needs help finding before the new moon ## Spell Components Detail
 
-The creature is an ally to you and your allies. In combat, the creature shares your [[Initiative Xphb]] count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the [[actions#Dodge|Dodge]] action and uses its movement to avoid danger.
-
-**Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
-
-**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
-
-*Source: Player's Handbook (2024) p. 326*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Summon fey xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of summon fey xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around summon fey xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
-## Plot Hooks
-
-- Someone is protecting an heir for revenge
-- A stranger needs help finding before the new moon
-
-## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
-- **Material**: Required items
+- **Material**: Required items ## Common Uses
 
-## Common Uses
 - Typical applications
-- Creative uses
+- Creative uses ## Counterspell Information
 
-## Counterspell Information
 - How to counter
 - Difficulty class
+
 ## Sourcebook Reference
+
 - **Source**: Player's Handbook
 - **School**: See spell description
-- **Available to**: Check class spell lists
+- **Available to**: Check class spell lists ### CLI Reference
 
-### CLI Reference
-See: `[[fey|summon-fey-xphb (spells)-phb]]` in CLI_Reference/spells/
+See:`[[fey|summon-fey-xphb (spells)-phb]]`in CLI_Reference/spells/
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/combat
+#mechanics/rules
+#mechanics/mechanics
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#resource/item
+#meta/reference

@@ -303,3 +303,18 @@ Ongoing situations affecting Missing Persons of Port Meridian:
 ## References
 
 - [[Aethermoor - Session 01 Blood in the Harbor]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

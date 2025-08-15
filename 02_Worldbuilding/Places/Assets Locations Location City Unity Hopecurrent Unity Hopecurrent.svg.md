@@ -180,3 +180,23 @@ Mentioned in The First Prophecy of Stars
 ## Trade Importance
 
 Key stop on spices trade route
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

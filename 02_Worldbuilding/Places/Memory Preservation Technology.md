@@ -225,3 +225,18 @@ Ongoing situations affecting Memory Preservation Technology:
 - [[Merchant Family Alliances]]
 - [[Doctor Coral Shapeshift]]
 - [[Doctor Coral Shapeshift (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

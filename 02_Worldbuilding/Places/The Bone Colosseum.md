@@ -286,3 +286,18 @@ Key stop on magic items trade route
 - [[The Slave Markets of Tethys]]
 - [[The Shadow Markets New (D&D_References)]]
 - [[The Slave Markets of Tethys (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

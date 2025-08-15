@@ -1,18 +1,32 @@
 ---
+
 title: Initiative Xphb
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Initiative Xphb"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Initiative Xphb
+ # Initiative Xphb ---
 
----
+## Description
+
+Detailed description pending.
 title: Initiative Xphb
 aliases:
 - Initiative
+
 type: note
 tags:
 - both
@@ -22,59 +36,19 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:04.544638+00:00'
 world: Both
----
 
-# Initiative
-*Source: Player's Handbook (2024) p. 369. Available in the SRD and the Free Rules (2024)* 
+--- # Initiative
 
-Initiative determines the order of turns during combat. The combat rules in "chapter 1" explain how to roll Initiative.
+*Source: Player's Handbook (2024) p. 369. Available in the SRD and the Free Rules (2024)* Initiative determines the order of turns during combat. The combat rules in "chapter 1" explain how to roll Initiative. Sometimes a DM might have combatants use their Initiative scores instead of rolling Initiative. Your Initiative score equals 10 plus your Dexterity modifier. If you have [[Advantage Xphb]] on Initiative rolls, increase your Initiative score by 5. If you have [[Advantage Xphb]] on those rolls, decrease that score by 5. [[Dn D5e-Side Screen-2024]] ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Initiative xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of initiative xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around initiative xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Quick_Reference - Dn D5e-Side Screen-2024 (D&D_References)]]
 
-Sometimes a DM might have combatants use their Initiative scores instead of rolling Initiative. Your Initiative score equals 10 plus your Dexterity modifier. If you have [[Advantage Xphb]] on Initiative rolls, increase your Initiative score by 5. If you have [[Advantage Xphb]] on those rolls, decrease that score by 5.
-
-[[DnD5e-SideScreen-2024]]
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Initiative xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of initiative xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around initiative xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Quick_Reference - DnD5e-SideScreen-2024 (D&D_References)]]
 - [[Reference Quick Reference Dnd5e Sidescreen 2024 (D&D_References)]]
 - [[Juvenile Shadow Dragon Xmm]]
 - [[Shadow Dragon Xmm]]
@@ -204,3 +178,18 @@ Contextual improvement based on 12_Research
 - [[long-rest-xphb (variant-rules)]]
 - [[short-rest-xphb (variant-rules)]]
 - [[stat-block-xphb (variant-rules)]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/combat
+#mechanics/rules
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/monster
+#resource/item
+#meta/reference

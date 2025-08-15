@@ -6,120 +6,135 @@ improvements: 20
 modified: '2025-08-14'
 tags:
 - quest
+
 title: Campaign Quick Reference Sheets
 type: lore
 updated: 2025-08-14
 status: active
+aliases: ["Campaign Quick Reference Sheets"]
+priority: normal
+category: 01 Adventures
+subcategory: Campaign Quick Reference Sheets.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Campaign_Quick_Reference_Sheets
+ # Campaign_Quick_Reference_Sheets ## Overview
 
-## Overview
-This document contains important information regarding Campaign_Quick_Reference_Sheets and its role within the greater narrative.
+This document contains important information regarding Campaign_Quick_Reference_Sheets and its role within the greater narrative. ## Description
 
-## Description
-Campaign_Quick_Reference_Sheets represents a significant element within the campaign world, offering various opportunities for engagement and development.
+Campaign_Quick_Reference_Sheets represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
 
-## Key Information
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
-- **Significance**: Important for understanding broader context
+- **Significance**: Important for understanding broader context ## Details
 
-## Details
 ### Background
-Historical context and development over time.
 
-### Current State
-Present circumstances and ongoing relevance.
+Historical context and development over time. ### Current State
 
-### Future Potential
-Possible developments and plot directions.
+Present circumstances and ongoing relevance. ### Future Potential
 
-## Relationships
+Possible developments and plot directions. ## Relationships
+
 - Connected to various other elements within the vault
 - Part of larger narrative structures
-- Influences and is influenced by surrounding content
+- Influences and is influenced by surrounding content ## Usage Notes
 
-## Usage Notes
-This content can be adapted and expanded based on specific campaign needs.
+This content can be adapted and expanded based on specific campaign needs. ## Plot Hooks
 
-## Plot Hooks
 - Can serve as starting point for investigations
 - May provide crucial information at key moments
-- Offers opportunities for player engagement
+- Offers opportunities for player engagement ## DM Notes
 
-## DM Notes
-*Customize as needed for your specific campaign requirements.*
+*Customize as needed for your specific campaign requirements.* ## Adventure Hooks
 
-## Adventure Hooks
-*[Ways to get PCs involved]*
+*[Ways to get PCs involved]* ### Direct Approach
 
-### Direct Approach
-- *[Straightforward hook]*
+- *[Straightforward hook]* ### Indirect Approach
 
-### Indirect Approach
-- *[Subtle introduction]*
+- *[Subtle introduction]* ### Emergency Hook
 
-### Emergency Hook
-- *[Urgent situation]*
+- *[Urgent situation]* ## Key NPCs
 
-## Key NPCs
-*[Important characters in this adventure]*
+*[Important characters in this adventure]* ### Allies
 
-### Allies
-- *[Helpful NPCs]*
+- *[Helpful NPCs]* ### Antagonists
 
-### Antagonists
-- *[Opposition NPCs]*
+- *[Opposition NPCs]* ### Neutral Parties
 
-### Neutral Parties
-- *[Information sources]*
+- *[Information sources]* ## Locations
 
-## Locations
-*[Important places in this adventure]*
+*[Important places in this adventure]* ### Starting Location
 
-### Starting Location
-- *[Where adventure begins]*
+- *[Where adventure begins]* ### Key Sites
 
-### Key Sites
-- *[Major locations to visit]*
+- *[Major locations to visit]* ### Optional Areas
 
-### Optional Areas
-- *[Side locations]*
+- *[Side locations]* ## Rewards
 
-## Rewards
-*[What PCs gain from completing this adventure]*
+*[What PCs gain from completing this adventure]* ### Experience Points
 
-### Experience Points
-- *[XP awards]*
+- *[XP awards]* ### Treasure
 
-### Treasure
-- *[Gold and magic items]*
+- *[Gold and magic items]* ### Story Rewards
 
-### Story Rewards
-- *[Reputation, allies, information]*
+- *[Reputation, allies, information]* ## Scaling
 
-## Scaling
-*[How to adjust for different party levels]*
+*[How to adjust for different party levels]* ### Lower Level Parties
 
-### Lower Level Parties
-- *[Adjustments for weaker groups]*
+- *[Adjustments for weaker groups]* ### Higher Level Parties
 
-### Higher Level Parties
-- *[Adjustments for stronger groups]*
+- *[Adjustments for stronger groups]* ### Large/Small Parties
 
-### Large/Small Parties
-- *[Adjustments for party size]*
+- *[Adjustments for party size]* ## See Also
 
-## See Also
 - Related content
 - Similar topics
-- Connected elements
+- Connected elements ## DM Tips
 
-## DM Tips
 > 💡 **Running This Content**: Advice for game masters
-> Adjust difficulty based on party composition
 
-## References
+> Adjust difficulty based on party composition ## References - [[Campaign Quick Reference Sheets (02_Worldbuilding)]]
 
-- [[Campaign Quick Reference Sheets (02_Worldbuilding)]]
+
+## Notes
+
+*Additional notes*
+
+#story/plot
+#story/narrative
+#story/story
+#story/lore
+#story/background
+#world/location
+#world/world
+#world/place
+#character/npc
+#character/character
+#gameplay/adventure
+#gameplay/quest
+#resource/item
+#resource/treasure
+#meta/reference
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

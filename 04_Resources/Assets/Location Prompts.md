@@ -591,3 +591,88 @@ modified: '2025-01-15'
 ```json
 []
 ```
+\n\n## Aquabyssos location prompts (2025-08-15T11:39:09Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos location prompts (2025-08-15T11:43:09Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos location prompts (2025-08-15T11:47:09Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos location prompts (2025-08-15T11:51:09Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos location prompts (2025-08-15T11:55:10Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos location prompts (2025-08-15T11:59:10Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos location prompts (2025-08-15T12:03:10Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos location prompts (2025-08-15T12:07:10Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos location prompts (2025-08-15T12:11:11Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos location prompts (2025-08-15T12:15:11Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos location prompts (2025-08-15T12:19:11Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos location prompts (2025-08-15T12:23:11Z)\n
+```json
+[]
+```
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes
+\n\n## Aquabyssos location prompts (2025-08-15T12:27:12Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos location prompts (2025-08-15T12:31:12Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos location prompts (2025-08-15T12:35:12Z)\n
+```json
+[]
+```

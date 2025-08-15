@@ -86,3 +86,27 @@ improvements: 20
 
 - A shipment has gone missing and chaos spreads
 - A stranger needs help delivering before the festival
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

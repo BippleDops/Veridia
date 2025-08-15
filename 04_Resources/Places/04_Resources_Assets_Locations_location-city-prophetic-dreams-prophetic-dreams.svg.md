@@ -107,3 +107,23 @@ Further information about this topic will be developed as the campaign progresse
 
 - [[Assets Locations Location City Forge Master Petra Hammerdeep Forge Master Petra Hammerdeep.svg]]
 - [[Assets Symbols Symbol Heraldry Supernatural Mysteries Supernatural Mysteries.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -202,3 +202,23 @@ This NPC can serve multiple roles:
 ## References
 
 - [[Assets Art Astrologer Prime Cassandra Starweaver.png]]
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

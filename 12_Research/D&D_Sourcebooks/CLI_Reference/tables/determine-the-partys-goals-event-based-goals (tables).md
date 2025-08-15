@@ -1,18 +1,32 @@
 ---
+
 title: determine-the-partys-goals-event-based-goals (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["determine-the-partys-goals-event-based-goals (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# determine-the-partys-goals-event-based-goals
+ # determine-the-partys-goals-event-based-goals ---
 
----
+## Description
+
+Detailed description pending.
 title: determine the partys goals event based goals
 aliases:
 - Determine the Party's Goals; Event-Based Goals
+
 type: note
 tags:
 - research
@@ -21,23 +35,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.284275'
 world: Both
----
 
-# Determine the Party's Goals; Event-Based Goals
-*Source: Dungeon Master's Guide p. 76* 
+--- # Determine the Party's Goals; Event-Based Goals
 
-**Event-Based Goals**
-
-`dice: [](determine-the-partys-goals-event-based-goals.md#^event-based-goals)`
-
-| dice: d20 | Goal |
+*Source: Dungeon Master's Guide p. 76* **Event-Based Goals**`dice: [](determine-the-partys-goals-event-based-goals.md#^event-based-goals)`| dice: d20 | Goal |
 |-----------|------|
 | 1 | Bring the villain to justice. |
 | 2 | Clear the name of an innocent NPC. |
@@ -59,50 +68,23 @@ world: Both
 | 18 | Locate a stolen item. |
 | 19 | Make sure a wedding goes off without a hitch. |
 | 20 | Roll twice, ignoring results of 20. |
-^event-based-goals
 
-## 🔧 Deep Evaluation Improvements
+^event-based-goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Determine the partys goals event based goals is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of determine the partys goals event based goals as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around determine the partys goals event based goals. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes ## Plot Hooks - Strange dreams suggest a portal
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Determine the partys goals event based goals is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of determine the partys goals event based goals as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around determine the partys goals event based goals.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
-## Plot Hooks
-
-- Strange dreams suggest a portal
 - A document has gone missing and truth emerges
-- A letter reveals the truth about the government
+- A letter reveals the truth about the government ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/npc
+#resource/item
+#meta/reference

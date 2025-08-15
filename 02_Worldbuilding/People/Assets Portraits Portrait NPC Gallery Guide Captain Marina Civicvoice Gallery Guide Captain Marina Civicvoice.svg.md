@@ -205,3 +205,23 @@ This NPC can serve multiple roles:
 ## References
 
 - [[04_Resources_Assets_Portraits_portrait-npc-captain-zara-stormwind-captain-zara-stormwind.svg]]
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

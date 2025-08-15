@@ -4,212 +4,180 @@ title: Quest - Harbor Security
 type: quest
 tags:
 - quest
+
 created: '2025-01-15'
 modified: '2025-01-15'
 status: active
+aliases: ["Quest - Harbor Security"]
+priority: normal
+category: 01 Adventures
+subcategory: Quest - Harbor Security.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-## Complications
+ ## Complications
+
+## Description
+
+Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas
+- Moral dilemmas > [!figure] Asset
 
-> [!figure] Asset
-![](04_Resources/Assets/Locations/location-city-quest-harbor-security-quest-harbor-security.svg)
+![](04_Resources/Assets/Locations/location-city-quest-harbor-security-quest-harbor-security.svg) # Quest - Harbor Security ---
 
-# Quest - Harbor Security
-
----
-title: Quest   Harbor Security
+title: Quest Harbor Security
 type: Location
 tags:
 - aquabyssos
 - active
 - location
 - research
+
 created: '2025-08-11'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos
 updated: '2025-08-13T01:18:36.187580+00:00'
 danger_level: Moderate
----
 
-> [!figure] View
+--- > [!figure] View ## Quest Giver
 
-## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
-- **Motivation**: Community safety
+- **Motivation**: Community safety ## Objectives
 
-## Objectives
 ### Primary
-- Main quest goal
 
-### Optional
+- Main quest goal ### Optional
+
 - Secondary objectives
-- Hidden goals
+- Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Quest Harbor Security is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Quest Harbor Security as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest Harbor Security. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange sightings suggest a curse
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Quest   Harbor Security is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of Quest   Harbor Security as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest   Harbor Security.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Strange sightings suggest a curse
 - A stranger needs help delivering before winter
-- Strange accidents suggest ancient magic
+- Strange accidents suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## Background
 
-## 12_Research Specific Content
+*[Adventure setup and context]* ### What Happened Before
 
-Contextual improvement based on 12_Research
+- *[Recent events leading to this adventure]* ### Current Situation - *[What's happening now]* ### The Stakes
 
-## 12_Research Specific Content
+- *[What happens if PCs don't act]* ## Adventure Hooks
 
-Contextual improvement based on 12_Research
+*[Ways to get PCs involved]* ### Direct Approach
 
-## Background
-*[Adventure setup and context]*
+- *[Straightforward hook]* ### Indirect Approach
 
-### What Happened Before
-- *[Recent events leading to this adventure]*
+- *[Subtle introduction]* ### Emergency Hook
 
-### Current Situation  
-- *[What's happening now]*
+- *[Urgent situation]* ## Key NPCs
 
-### The Stakes
-- *[What happens if PCs don't act]*
+*[Important characters in this adventure]* ### Allies
 
-## Adventure Hooks
-*[Ways to get PCs involved]*
+- *[Helpful NPCs]* ### Antagonists
 
-### Direct Approach
-- *[Straightforward hook]*
+- *[Opposition NPCs]* ### Neutral Parties
 
-### Indirect Approach
-- *[Subtle introduction]*
+- *[Information sources]* ## Locations
 
-### Emergency Hook
-- *[Urgent situation]*
+*[Important places in this adventure]* ### Starting Location
 
-## Key NPCs
-*[Important characters in this adventure]*
+- *[Where adventure begins]* ### Key Sites
 
-### Allies
-- *[Helpful NPCs]*
+- *[Major locations to visit]* ### Optional Areas
 
-### Antagonists
-- *[Opposition NPCs]*
+- *[Side locations]* ## Rewards
 
-### Neutral Parties
-- *[Information sources]*
+*[What PCs gain from completing this adventure]* ### Experience Points
 
-## Locations
-*[Important places in this adventure]*
+- *[XP awards]* ### Treasure
 
-### Starting Location
-- *[Where adventure begins]*
+- *[Gold and magic items]* ### Story Rewards
 
-### Key Sites
-- *[Major locations to visit]*
+- *[Reputation, allies, information]* ## Scaling
 
-### Optional Areas
-- *[Side locations]*
+*[How to adjust for different party levels]* ### Lower Level Parties
 
-## Rewards
-*[What PCs gain from completing this adventure]*
+- *[Adjustments for weaker groups]* ### Higher Level Parties
 
-### Experience Points
-- *[XP awards]*
+- *[Adjustments for stronger groups]* ### Large/Small Parties
 
-### Treasure
-- *[Gold and magic items]*
+- *[Adjustments for party size]* ## Hooks
 
-### Story Rewards
-- *[Reputation, allies, information]*
-
-## Scaling
-*[How to adjust for different party levels]*
-
-### Lower Level Parties
-- *[Adjustments for weaker groups]*
-
-### Higher Level Parties
-- *[Adjustments for stronger groups]*
-
-### Large/Small Parties
-- *[Adjustments for party size]*
-
-## Hooks
 - **Personal**: Character connection
-- **Professional**: Hired for the job
+- **Professional**: Hired for the job ## Time Limit
 
-## Time Limit
 - **Deadline**: When it must be completed
-- **Consequences**: What happens if late
+- **Consequences**: What happens if late ## Opposition
 
-## Opposition
 - **Enemies**: Who opposes the party
-- **Obstacles**: Environmental challenges
+- **Obstacles**: Environmental challenges ## Moral Dilemmas
 
-## Moral Dilemmas
 - **Difficult Choices**: Ethical challenges
-- **Consequences**: Impact of decisions
+- **Consequences**: Impact of decisions ## Optional Objectives
 
-## Optional Objectives
 - **Bonus Goals**: Extra achievements
-- **Hidden Rewards**: Secret treasures
+- **Hidden Rewards**: Secret treasures ## Failure Conditions
 
-## Failure Conditions
 - **What Constitutes Failure**: Clear parameters
-- **Failure Consequences**: What happens
+- **Failure Consequences**: What happens ## Investigation Clues
 
-## Investigation Clues
 - **Obvious Clues**: Easy to find
-- **Hidden Clues**: Require searching
+- **Hidden Clues**: Require searching ## Social Encounters
 
-## Social Encounters
 - **Key Conversations**: Important dialogues
-- **Persuasion Opportunities**: Diplomatic solutions
+- **Persuasion Opportunities**: Diplomatic solutions ## Environmental Hazards
 
-## Environmental Hazards
 - **Natural Dangers**: Environmental threats
-- **Trap Locations**: Mechanical dangers
+- **Trap Locations**: Mechanical dangers ## Scaling Options
 
-## Scaling Options
 - **Easy Mode**: Reduced difficulty
-- **Hard Mode**: Increased challenge
+- **Hard Mode**: Increased challenge ## Random Table
 
-## Random Table
 | d6 | Result |
 |----|--------|
-| 1  | Option A |
-| 2  | Option B |
-| 3  | Option C |
-| 4  | Option D |
-| 5  | Option E |
-| 6  | Option F |
+| 1 | Option A |
+| 2 | Option B |
+| 3 | Option C |
+| 4 | Option D |
+| 5 | Option E |
+| 6 | Option F |
+
+
+## Notes
+
+*Additional notes*
+
+#story/plot
+#story/story
+#story/lore
+#story/background
+#world/location
+#world/world
+#world/setting
+#world/place
+#character/npc
+#character/character
+#character/person
+#gameplay/encounter
+#gameplay/adventure
+#gameplay/quest
+#resource/item
+#resource/treasure
+#meta/reference
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

@@ -644,3 +644,13 @@ Key stop on metals trade route
 - [[Cure Component Locations]]
 - [[Key Locations]]
 - [[Known Locations]]
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

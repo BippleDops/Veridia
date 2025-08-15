@@ -93,3 +93,27 @@ Mentioned in The First Prophecy of Winds
 - Strange dreams suggest a portal
 - A journal reveals ancient history about a local noble
 - A noble needs help finding before dawn
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

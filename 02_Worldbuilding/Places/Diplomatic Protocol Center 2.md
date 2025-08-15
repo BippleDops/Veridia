@@ -292,3 +292,28 @@ Legends speak of Diplomatic Protocol Center as a nexus where past and present co
 - [[02_Worldbuilding/Places/Diplomatic Protocol Center]]
 
 <!-- enriched: true -->
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

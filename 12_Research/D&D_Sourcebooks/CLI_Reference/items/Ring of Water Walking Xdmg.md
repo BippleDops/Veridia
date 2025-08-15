@@ -1,18 +1,22 @@
 ---
+
 title: Ring of Water Walking Xdmg
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# Ring of Water Walking Xdmg
+--- # Ring of Water Walking Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Ring of Water Walking Xdmg
 aliases:
 - Ring of Water Walking
+
 type: note
 tags:
 - both
@@ -23,6 +27,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -31,61 +36,23 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:07.415981+00:00'
 world: Both
----
 
-# Ring of Water Walking
-*Ring, uncommon*  
-![](/03_Mechanics/CLI/items/img/ring-of-water-walking.webp#right)
+--- # Ring of Water Walking
 
-While wearing this ring, you cast [[water-walk-xphb (spells)]] from it, targeting only yourself.
+*Ring, uncommon* ![](/03_Mechanics/CLI/items/img/ring-of-water-walking.webp#right) While wearing this ring, you cast [[water-walk-xphb (spells)]] from it, targeting only yourself. *Source: Dungeon Master's Guide (2024) p. 296. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Ring of water walking xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of ring of water walking xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ring of water walking xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is hunting a artifact for power
 
-*Source: Dungeon Master's Guide (2024) p. 296. Available in the SRD and the Free Rules (2024)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Ring of water walking xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of ring of water walking xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ring of water walking xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Someone is hunting a artifact for power
 - An heirloom has gone missing and chaos spreads
 - A letter reveals the truth about the government
-- Someone is hunting an heir for love
+- Someone is hunting an heir for love ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Master_Item_Catalog]]
 - [[Magic Item Table F]]
 - [[Random Magic Items Relics]]
 - [[Relics Uncommon Xdmg]]
 - [[magic-item-table-f (tables)]]
 - [[random-magic-items-relics (tables)]]
 - [[relics-uncommon-xdmg (tables)]]
+
+
+## Notes
+
+*Additional notes*

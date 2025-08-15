@@ -107,3 +107,23 @@ Further information about this topic will be developed as the campaign progresse
 
 - [[Assets Portraits Portrait NPC Captain Storm Ambushmaster Captain Storm Ambushmaster.svg]]
 - [[Assets Symbols Symbol Heraldry Information Broker Whisper Goldtongu Information Broker Whisper Goldtongu.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

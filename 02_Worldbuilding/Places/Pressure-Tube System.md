@@ -219,3 +219,18 @@ Ongoing situations affecting Pressure-Tube System:
 
 - [[Pressure Terminal]]
 - [[Pressure Terminal (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

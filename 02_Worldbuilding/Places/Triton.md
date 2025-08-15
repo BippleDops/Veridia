@@ -237,3 +237,18 @@ Ongoing situations affecting Triton:
 - [[The Depth Plague]]
 - [[Current Riders Guild (D&D_References)]]
 - [[The Depth Plague (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

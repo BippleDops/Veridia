@@ -4,19 +4,29 @@ title: Quest_Tracker
 type: quest
 tags:
 - quest
+
 created: '2025-01-15'
 modified: '2025-01-15'
 status: active
+aliases: ["Quest Tracker"]
+priority: normal
+category: 01 Adventures
+subcategory: Quest Tracker.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-## Complications
+ ## Complications
+
+## Description
+
+Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas
+- Moral dilemmas # Quest_Tracker ---
 
-# Quest_Tracker
-
----
 title: Quest Tracker
 type: index
 tags:
@@ -24,211 +34,183 @@ tags:
 - index
 - objectives
 - quests
+
 created: 2025-08-14
 modified: '2025-08-14'
 updated: 2025-08-14
 cssclass: quest-tracker
----
 
-### Main Quests
-```dataview
-TABLE WITHOUT ID
-  file.link as Quest,
-  giver as "Quest Giver",
-  level as Level,
-  reward as Reward
+--- ### Main Quests```dataview
+
+TABLE WITHOUT ID file.link as Quest, giver as "Quest Giver", level as Level, reward as Reward
+
 FROM #quest OR "01_Adventures"
+
 WHERE status = "active" AND type = "main"
-SORT priority DESC
-```
 
-### Side Quests
-  location as Location,
-  difficulty as Difficulty,
+SORT priority DESC```### Side Quests location as Location, difficulty as Difficulty,
+
 WHERE status = "active" AND type = "side"
-SORT level ASC
 
-## Quest Giver
+SORT level ASC ## Quest Giver
+
 - **Name**: Local authority figure
 - **Location**: Town center
-- **Motivation**: Community safety
+- **Motivation**: Community safety ## Objectives
 
-## Objectives
 ### Primary
-- Main quest goal
 
-### Optional
+- Main quest goal ### Optional
+
 - Secondary objectives
-- Hidden goals
+- Hidden goals ## ⏰ Time-Sensitive deadline as Deadline, consequence as "If Failed"
 
-## ⏰ Time-Sensitive
+WHERE deadline != AND status = "active"
 
-  deadline as Deadline,
-  consequence as "If Failed"
-WHERE deadline !=  AND status = "active"
-SORT deadline ASC
+SORT deadline ASC ## ✅ Completed Quests completed as "Completed Date", reward-received as "Rewards"
 
-## ✅ Completed Quests
-
-  completed as "Completed Date",
-  reward-received as "Rewards"
 WHERE status = "completed"
+
 SORT completed DESC
-LIMIT 10
 
-## 📊 Quest Statistics
+LIMIT 10 ## 📊 Quest Statistics status as Status, length(rows) as Count
 
-  status as Status,
-  length(rows) as Count
 WHERE type = "quest" OR contains(tags, "quest")
-GROUP BY status
 
----
-*Quest tracking powered by Dataview*
+GROUP BY status ---
 
-## Related
+*Quest tracking powered by Dataview* ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*
 
-*Links to related content will be added here.*
-
-## DM Notes
-
-*Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes
+- Connections to overarching campaign themes ## Background
 
-## Background
-*[Adventure setup and context]*
+*[Adventure setup and context]* ### What Happened Before
 
-### What Happened Before
-- *[Recent events leading to this adventure]*
+- *[Recent events leading to this adventure]* ### Current Situation - *[What's happening now]* ### The Stakes
 
-### Current Situation  
-- *[What's happening now]*
+- *[What happens if PCs don't act]* ## Adventure Hooks
 
-### The Stakes
-- *[What happens if PCs don't act]*
+*[Ways to get PCs involved]* ### Direct Approach
 
-## Adventure Hooks
-*[Ways to get PCs involved]*
+- *[Straightforward hook]* ### Indirect Approach
 
-### Direct Approach
-- *[Straightforward hook]*
+- *[Subtle introduction]* ### Emergency Hook
 
-### Indirect Approach
-- *[Subtle introduction]*
+- *[Urgent situation]* ## Key NPCs
 
-### Emergency Hook
-- *[Urgent situation]*
+*[Important characters in this adventure]* ### Allies
 
-## Key NPCs
-*[Important characters in this adventure]*
+- *[Helpful NPCs]* ### Antagonists
 
-### Allies
-- *[Helpful NPCs]*
+- *[Opposition NPCs]* ### Neutral Parties
 
-### Antagonists
-- *[Opposition NPCs]*
+- *[Information sources]* ## Locations
 
-### Neutral Parties
-- *[Information sources]*
+*[Important places in this adventure]* ### Starting Location
 
-## Locations
-*[Important places in this adventure]*
+- *[Where adventure begins]* ### Key Sites
 
-### Starting Location
-- *[Where adventure begins]*
+- *[Major locations to visit]* ### Optional Areas
 
-### Key Sites
-- *[Major locations to visit]*
+- *[Side locations]* ## Rewards
 
-### Optional Areas
-- *[Side locations]*
+*[What PCs gain from completing this adventure]* ### Experience Points
 
-## Rewards
-*[What PCs gain from completing this adventure]*
+- *[XP awards]* ### Treasure
 
-### Experience Points
-- *[XP awards]*
+- *[Gold and magic items]* ### Story Rewards
 
-### Treasure
-- *[Gold and magic items]*
+- *[Reputation, allies, information]* ## Scaling
 
-### Story Rewards
-- *[Reputation, allies, information]*
+*[How to adjust for different party levels]* ### Lower Level Parties
 
-## Scaling
-*[How to adjust for different party levels]*
+- *[Adjustments for weaker groups]* ### Higher Level Parties
 
-### Lower Level Parties
-- *[Adjustments for weaker groups]*
+- *[Adjustments for stronger groups]* ### Large/Small Parties
 
-### Higher Level Parties
-- *[Adjustments for stronger groups]*
+- *[Adjustments for party size]* ## Hooks
 
-### Large/Small Parties
-- *[Adjustments for party size]*
-
-## Hooks
 - **Personal**: Character connection
-- **Professional**: Hired for the job
+- **Professional**: Hired for the job ## Time Limit
 
-## Time Limit
 - **Deadline**: When it must be completed
-- **Consequences**: What happens if late
+- **Consequences**: What happens if late ## Opposition
 
-## Opposition
 - **Enemies**: Who opposes the party
-- **Obstacles**: Environmental challenges
+- **Obstacles**: Environmental challenges ## Moral Dilemmas
 
-## Moral Dilemmas
 - **Difficult Choices**: Ethical challenges
-- **Consequences**: Impact of decisions
+- **Consequences**: Impact of decisions ## Optional Objectives
 
-## Optional Objectives
 - **Bonus Goals**: Extra achievements
-- **Hidden Rewards**: Secret treasures
+- **Hidden Rewards**: Secret treasures ## Failure Conditions
 
-## Failure Conditions
 - **What Constitutes Failure**: Clear parameters
-- **Failure Consequences**: What happens
+- **Failure Consequences**: What happens ## Investigation Clues
 
-## Investigation Clues
 - **Obvious Clues**: Easy to find
-- **Hidden Clues**: Require searching
+- **Hidden Clues**: Require searching ## Social Encounters
 
-## Social Encounters
 - **Key Conversations**: Important dialogues
-- **Persuasion Opportunities**: Diplomatic solutions
+- **Persuasion Opportunities**: Diplomatic solutions ## Environmental Hazards
 
-## Environmental Hazards
 - **Natural Dangers**: Environmental threats
-- **Trap Locations**: Mechanical dangers
+- **Trap Locations**: Mechanical dangers ## Scaling Options
 
-## Scaling Options
 - **Easy Mode**: Reduced difficulty
-- **Hard Mode**: Increased challenge
+- **Hard Mode**: Increased challenge ## Alternate Descriptions
 
-## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects
+- **Hidden Details**: Secret aspects ## Random Table
 
-## Random Table
 | d6 | Result |
 |----|--------|
-| 1  | Option A |
-| 2  | Option B |
-| 3  | Option C |
-| 4  | Option D |
-| 5  | Option E |
-| 6  | Option F |
+| 1 | Option A |
+| 2 | Option B |
+| 3 | Option C |
+| 4 | Option D |
+| 5 | Option E |
+| 6 | Option F | ## DM Tips
 
-## DM Tips
 > 💡 **Running This Content**: Advice for game masters
-> Adjust difficulty based on party composition
 
-## Player Tips
+> Adjust difficulty based on party composition ## Player Tips
+
 > 🎮 **Strategy**: How to approach this content
+
 > Work together and communicate
+
+## Notes
+
+*Additional notes*
+
+#story/story
+#story/background
+#world/location
+#world/place
+#character/npc
+#character/character
+#character/person
+#gameplay/encounter
+#gameplay/adventure
+#gameplay/quest
+#resource/item
+#resource/treasure
+#meta/index
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

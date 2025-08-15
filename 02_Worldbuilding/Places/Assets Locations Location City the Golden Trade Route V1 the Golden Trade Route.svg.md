@@ -185,3 +185,22 @@ Key stop on spices trade route
 - A noble needs help stealing before winter
 - A stranger needs help stealing before the new moon
 - A document has gone missing and war looms
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

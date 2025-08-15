@@ -93,3 +93,27 @@ improvements: 20
 - The authorities needs help finding before the festival
 - Someone is searching for a witness for power
 - A document has gone missing and chaos spreads
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

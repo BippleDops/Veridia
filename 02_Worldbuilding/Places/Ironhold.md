@@ -572,3 +572,18 @@ Ironhold was established in the distant past, growing from humble beginnings to 
 - [[The Embassy Quarter (D&D_References)]]
 - [[The Sundered Peaks (D&D_References)]]
 - [[The Synthesis Gardens (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

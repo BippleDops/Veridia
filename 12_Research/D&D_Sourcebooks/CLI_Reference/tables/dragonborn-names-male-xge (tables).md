@@ -1,18 +1,32 @@
 ---
+
 title: dragonborn-names-male-xge (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["dragonborn-names-male-xge (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# dragonborn-names-male-xge
+ # dragonborn-names-male-xge ---
 
----
+## Description
+
+Detailed description pending.
 title: dragonborn names male xge
 aliases:
 - "Dragonborn Names \u2013 Male"
+
 type: note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
@@ -21,23 +35,18 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.418261'
 world: Both
----
 
-# Dragonborn Names – Male
-*Source: Xanathar's Guide to Everything p. 175* 
+--- # Dragonborn Names – Male
 
-**Dragonborn Names – Male**
-
-`dice: [](dragonborn-names-male-xge.md#^dragonborn-names-male)`
-
-| dice: d100 | Name |
+*Source: Xanathar's Guide to Everything p. 175* **Dragonborn Names – Male**`dice: [](dragonborn-names-male-xge.md#^dragonborn-names-male)`| dice: d100 | Name |
 |------------|------|
 | 01-02 | Adrex |
 | 03-04 | Arjhan |
@@ -89,40 +98,17 @@ world: Both
 | 95-96 | Valorean |
 | 97-98 | Vrondiss |
 | 99-00 | Zedaar |
-^dragonborn-names-male
 
-## 🔧 Deep Evaluation Improvements
+^dragonborn-names-male ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Dragonborn names male xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of dragonborn names male xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dragonborn names male xge. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-*20 targeted improvements identified*
 
-### Connection Improvements
+## Notes
 
-- Add cross-references to related notes
+*Additional notes*
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Dragonborn names male xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of dragonborn names male xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dragonborn names male xge.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

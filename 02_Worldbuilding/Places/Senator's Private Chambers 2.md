@@ -271,3 +271,28 @@ Legends speak of Senator's Private Chambers as a nexus where past and present co
 - [[02_Worldbuilding/Lore/Deep Mother]]
 - [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
 - [[02_Worldbuilding/Places/Parliament of Echoes]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

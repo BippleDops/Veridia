@@ -1,18 +1,32 @@
 ---
+
 title: eberron-kol-korran (deities)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["eberron-kol-korran (deities)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# eberron-kol-korran
+ # eberron-kol-korran ---
 
----
+## Description
+
+Detailed description pending.
 title: eberron kol korran
 aliases:
 - Kol Korran
+
 type: note
 tags:
 - ttrpg-cli/compendium/src/5e/phb
@@ -23,74 +37,39 @@ tags:
 - note
 - status/in-progress
 - importance/core
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-deity
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:34.000956'
 world: Both
----
 
-# Kol Korran
-*Source: Player's Handbook p. 296* 
+--- # Kol Korran
 
-- **Alignment**: Neutral
+*Source: Player's Handbook p. 296* - **Alignment**: Neutral
 - **Category**: The Sovereign Host
 - **Domains**: Trickery
 - **Pantheon**: Eberron
-- **Symbol**: Nine-sided gold coin
+- **Symbol**: Nine-sided gold coin ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Eberron kol korran is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of eberron kol korran as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around eberron kol korran. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality ## Plot Hooks - The authorities needs help delivering before dawn
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Eberron kol korran is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of eberron kol korran as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around eberron kol korran.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
-## Plot Hooks
-
-- The authorities needs help delivering before dawn
 - Strange sightings suggest a portal
 - Someone is hunting information for power
-- Someone is hunting a artifact for revenge
+- Someone is hunting a artifact for revenge ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

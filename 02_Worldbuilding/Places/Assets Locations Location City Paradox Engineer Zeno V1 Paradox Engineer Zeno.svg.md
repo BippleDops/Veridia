@@ -171,3 +171,22 @@ Key stop on metals trade route
 - Strange dreams suggest a curse
 - A corpse reveals ancient history about a local noble
 - Strange accidents suggest a portal
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

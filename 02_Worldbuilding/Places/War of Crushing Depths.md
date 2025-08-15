@@ -213,3 +213,18 @@ Key stop on metals trade route
 - [[Memoriam]]
 - [[Current Riders Guild (D&D_References)]]
 - [[Memoriam (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -105,3 +105,28 @@ An exciting quest that challenges heroes to prevent disaster.
 1. **The Prisoner's Dilemma**: Save the hostages OR pursue the villain
 2. **The Devil's Bargain**: Accept dark power OR fight with disadvantage
 3. **The Succession Choice**: Support the heir OR the usurper
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

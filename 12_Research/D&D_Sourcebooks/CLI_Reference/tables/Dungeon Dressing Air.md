@@ -1,18 +1,32 @@
 ---
+
 title: Dungeon Dressing Air
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Dungeon Dressing Air"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Dungeon Dressing Air
+ # Dungeon Dressing Air ---
 
----
+## Description
+
+Detailed description pending.
 title: Dungeon Dressing Air
 aliases:
 - Dungeon Dressing; Air
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.642518+00:00'
 world: Both
----
 
-# Dungeon Dressing; Air
-*Source: Dungeon Master's Guide p. 298* 
+--- # Dungeon Dressing; Air
 
-**Air**
-
-`dice: [](dungeon-dressing-air.md#^air)`
-
-| dice: d100 | Effect |
+*Source: Dungeon Master's Guide p. 298* **Air**`dice: [](dungeon-dressing-air.md#^air)`| dice: d100 | Effect |
 |------------|--------|
 | 1-60 | Clear and damp |
 | 61-70 | Clear and drafty |
@@ -50,45 +59,20 @@ world: Both
 | 94-96 | Smoky or steamy |
 | 97-98 | Clear, with smoke covering ceiling |
 | 99-00 | Clear and windy |
-^air
 
-## 🔧 Deep Evaluation Improvements
+^air ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Dungeon dressing air is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of dungeon dressing air as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dungeon dressing air. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Second Prophecy of Depths ## Plot Hooks - An heirloom has gone missing and war looms
 
-*20 targeted improvements identified*
+- A shipment has gone missing and chaos spreads ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-### Connection Improvements
 
-- Add cross-references to related notes
+## Notes
 
-### Enhancement Improvements
+*Additional notes*
 
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Dungeon dressing air is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of dungeon dressing air as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dungeon dressing air.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The Second Prophecy of Depths
-
-## Plot Hooks
-
-- An heirloom has gone missing and war looms
-- A shipment has gone missing and chaos spreads
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

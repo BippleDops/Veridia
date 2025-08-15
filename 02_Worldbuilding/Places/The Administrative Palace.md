@@ -225,3 +225,18 @@ Key stop on spices trade route
 
 - [[The Crown Authority (Government_and_Parliament)]]
 - [[The Crown Authority]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -217,3 +217,23 @@ Member of House Serpentblood - Trait: magical affinity
 
 - [[04_Resources_Assets_Symbols_symbol-heraldry-the-code-wars-the-code-wars.svg]]
 - [[04_Resources_Assets_Portraits_portrait-npc-merchant-captain-tobias-stormwind-merchant-captain-tobias-stormwind.svg]]
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

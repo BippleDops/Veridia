@@ -1,55 +1,51 @@
 ---
+
 title: Template-Item
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# Template-Item
+--- # Template-Item ## Overview
 
-## Overview
-Template-Item is a notable item with both practical use and historical significance.
+Template-Item is a notable item with both practical use and historical significance. ## Description
 
-## Description
 **Type**: Wondrous Item
 **Rarity**: Uncommon
-**Appearance**: Distinctive craftsmanship sets this item apart from common goods.
+**Appearance**: Distinctive craftsmanship sets this item apart from common goods. ## Properties
 
-## Properties
 - **Primary Function**: Provides utility in specific situations
 - **Secondary Benefits**: Additional advantages when properly utilized
-- **Limitations**: Requires proper knowledge to use effectively
+- **Limitations**: Requires proper knowledge to use effectively ## History
 
-## History
-Crafted by skilled artisans, Template-Item has passed through many hands over the years.
+Crafted by skilled artisans, Template-Item has passed through many hands over the years. ### Origin
 
-### Origin
-Created for a specific purpose that may no longer be immediately apparent.
+Created for a specific purpose that may no longer be immediately apparent. ### Previous Owners
 
-### Previous Owners
 - Original commissioner
 - Various collectors and adventurers
-- Current holder (if any)
+- Current holder (if any) ## Mechanics
 
-## Mechanics
 **Activation**: Action or as specified
 **Duration**: Varies by use
-**Charges**: If applicable
+**Charges**: If applicable ## Value
 
-## Value
 - **Market Price**: Varies by location and buyer
 - **Trade Value**: Comparable to other uncommon items
-- **Collector Interest**: Moderate to high
+- **Collector Interest**: Moderate to high ## Current Location
 
-## Current Location
-Last known to be in [[Region Name]] or surrounding areas.
+Last known to be in [[Region Name]] or surrounding areas. ## Adventure Hooks
 
-## Adventure Hooks
 1. Sought by a collector willing to pay well
 2. Key to solving an ancient puzzle
-3. Draws unwanted attention when displayed
+3. Draws unwanted attention when displayed ## DM Notes
 
-## DM Notes
+
 *Can be modified to fit campaign power level and themes.*
+
+
+## Notes
+
+*Additional notes*

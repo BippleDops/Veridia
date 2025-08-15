@@ -91,3 +91,27 @@ improvements: 20
 - Strange accidents suggest ancient magic
 - A corpse reveals ancient history about the government
 - A letter reveals a betrayal about a local noble
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

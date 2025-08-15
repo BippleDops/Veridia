@@ -215,3 +215,18 @@ Ongoing situations affecting Cultural Districts:
 
 - [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
 - [[Mediator Serenity Stillwater]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

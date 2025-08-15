@@ -57,3 +57,28 @@ Recent developments have brought new attention to Location City Acolyte Sister T
 
 ## DM Notes
 *Location City Acolyte Sister Tidal Deepfaith V1 Acolyte Sister Tidal Deepfaith.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

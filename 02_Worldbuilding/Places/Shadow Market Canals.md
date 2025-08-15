@@ -755,3 +755,18 @@ Ongoing situations affecting Shadow Market Canals:
 - [[Shadow Merchant Riptide (D&D_References)]]
 - [[Ambush Point (D&D_Statblocks)]]
 - [[Find the Grief Bomb (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

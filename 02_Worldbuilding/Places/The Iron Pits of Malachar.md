@@ -278,3 +278,18 @@ Ongoing situations affecting The Iron Pits of Malachar:
 
 - [[The Slave Markets of Tethys]]
 - [[The Slave Markets of Tethys (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

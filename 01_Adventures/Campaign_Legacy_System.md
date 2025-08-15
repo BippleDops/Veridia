@@ -4,14 +4,25 @@ title: Campaign_Legacy_System
 type: quest
 tags:
 - quest
+
 created: '2025-01-15'
 modified: '2025-01-15'
 status: active
+aliases: ["Campaign Legacy System"]
+priority: normal
+category: 01 Adventures
+subcategory: Campaign Legacy System.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Campaign_Legacy_System
+ # Campaign_Legacy_System ---
 
----
+## Description
+
+Detailed description pending.
 title: Campaign Legacy System
 type: mechanics
 tags:
@@ -22,134 +33,108 @@ tags:
 - active
 - complete
 - legacy
+
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
 updated: '2025-08-13T01:18:37.117750+00:00'
 world: Both
----
 
-# Campaign Legacy System
+--- # Campaign Legacy System Multi-generational play: inherited transformations, faction reputation, ancestral memory, bloodline curses, temporal legacy. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Campaign Legacy System is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Campaign Legacy System as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Campaign Legacy System. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is protecting an heir for power
 
-Multi-generational play: inherited transformations, faction reputation, ancestral memory, bloodline curses, temporal legacy.
+- A letter reveals ancient history about a local noble ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## Background
 
-## 🔧 Deep Evaluation Improvements
+*[Adventure setup and context]* ### What Happened Before
 
-*20 targeted improvements identified*
+- *[Recent events leading to this adventure]* ### Current Situation - *[What's happening now]* ### The Stakes
 
-### Connection Improvements
+- *[What happens if PCs don't act]* ## Adventure Hooks
 
-- Add cross-references to related notes
+*[Ways to get PCs involved]* ### Direct Approach
 
-### Enhancement Improvements
+- *[Straightforward hook]* ### Indirect Approach
 
-- Add 12_Research-specific enhancement
+- *[Subtle introduction]* ### Emergency Hook
 
-## Player-Facing Summary
+- *[Urgent situation]* ## Key NPCs
 
-Campaign Legacy System is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+*[Important characters in this adventure]* ### Allies
 
-## Lore Details
+- *[Helpful NPCs]* ### Antagonists
 
-Legends speak of Campaign Legacy System as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Campaign Legacy System.
+- *[Opposition NPCs]* ### Neutral Parties
 
-## DM Notes
+- *[Information sources]* ## Locations
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+*[Important places in this adventure]* ### Starting Location
 
-## Related
+- *[Where adventure begins]* ### Key Sites
 
-*Links to related content will be added here.*
+- *[Major locations to visit]* ### Optional Areas
 
-## Plot Hooks
+- *[Side locations]* ## Rewards
 
-- Someone is protecting an heir for power
-- A letter reveals ancient history about a local noble
+*[What PCs gain from completing this adventure]* ### Experience Points
 
-## 12_Research Specific Content
+- *[XP awards]* ### Treasure
 
-Contextual improvement based on 12_Research
+- *[Gold and magic items]* ### Story Rewards
 
-## 12_Research Specific Content
+- *[Reputation, allies, information]* ## Scaling
 
-Contextual improvement based on 12_Research
+*[How to adjust for different party levels]* ### Lower Level Parties
 
-## Background
-*[Adventure setup and context]*
+- *[Adjustments for weaker groups]* ### Higher Level Parties
 
-### What Happened Before
-- *[Recent events leading to this adventure]*
+- *[Adjustments for stronger groups]* ### Large/Small Parties
 
-### Current Situation  
-- *[What's happening now]*
+- *[Adjustments for party size]* ## DM Tips
 
-### The Stakes
-- *[What happens if PCs don't act]*
-
-## Adventure Hooks
-*[Ways to get PCs involved]*
-
-### Direct Approach
-- *[Straightforward hook]*
-
-### Indirect Approach
-- *[Subtle introduction]*
-
-### Emergency Hook
-- *[Urgent situation]*
-
-## Key NPCs
-*[Important characters in this adventure]*
-
-### Allies
-- *[Helpful NPCs]*
-
-### Antagonists
-- *[Opposition NPCs]*
-
-### Neutral Parties
-- *[Information sources]*
-
-## Locations
-*[Important places in this adventure]*
-
-### Starting Location
-- *[Where adventure begins]*
-
-### Key Sites
-- *[Major locations to visit]*
-
-### Optional Areas
-- *[Side locations]*
-
-## Rewards
-*[What PCs gain from completing this adventure]*
-
-### Experience Points
-- *[XP awards]*
-
-### Treasure
-- *[Gold and magic items]*
-
-### Story Rewards
-- *[Reputation, allies, information]*
-
-## Scaling
-*[How to adjust for different party levels]*
-
-### Lower Level Parties
-- *[Adjustments for weaker groups]*
-
-### Higher Level Parties
-- *[Adjustments for stronger groups]*
-
-### Large/Small Parties
-- *[Adjustments for party size]*
-
-## DM Tips
 > 💡 **Running This Content**: Advice for game masters
-> Adjust difficulty based on party composition
 
-## Player Tips
+> Adjust difficulty based on party composition ## Player Tips
+
 > 🎮 **Strategy**: How to approach this content
+
 > Work together and communicate
+
+## Notes
+
+*Additional notes*
+
+#mechanics/mechanics
+#mechanics/system
+#story/plot
+#story/story
+#story/lore
+#story/background
+#world/location
+#world/world
+#world/setting
+#world/place
+#character/npc
+#character/character
+#gameplay/adventure
+#gameplay/quest
+#resource/item
+#resource/treasure
+#meta/reference
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

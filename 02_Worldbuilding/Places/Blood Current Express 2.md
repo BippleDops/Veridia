@@ -695,3 +695,18 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Blood Current Express]]
 
 <!-- enriched: true -->
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Rumors
+- Local gossip
+- Urban legends

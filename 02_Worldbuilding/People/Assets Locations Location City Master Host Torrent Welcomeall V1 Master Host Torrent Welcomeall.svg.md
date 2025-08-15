@@ -184,3 +184,27 @@ This NPC can serve multiple roles:
 - [[04_Resources_Assets_Portraits_portrait-npc-lord-admiral-gaius-windcutter-lord-admiral-gaius-windcutter.svg]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

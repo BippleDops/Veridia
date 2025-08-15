@@ -118,3 +118,18 @@ Recent developments have brought new attention to The First Failure, creating op
 
 - [[The Primordial Vaults]]
 - [[The Primordial Vaults (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

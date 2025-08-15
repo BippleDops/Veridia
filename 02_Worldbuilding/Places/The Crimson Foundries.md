@@ -258,3 +258,18 @@ Ongoing situations affecting The Crimson Foundries:
 - [[The Shadow Markets New (D&D_References)]]
 - [[The Slave Markets of Tethys (D&D_References)]]
 - [[The Iron Pits of Malachar (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

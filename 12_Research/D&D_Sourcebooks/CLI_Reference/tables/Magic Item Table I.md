@@ -1,18 +1,32 @@
 ---
+
 title: Magic Item Table I
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Magic Item Table I"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Magic Item Table I
+ # Magic Item Table I ---
 
----
+## Description
+
+Detailed description pending.
 title: Magic Item Table I
 aliases:
 - Magic Item Table I
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.656596+00:00'
 world: Both
----
 
-# Magic Item Table I
-*Source: Dungeon Master's Guide p. 144* 
+--- # Magic Item Table I
 
-**Magic Item Table I**
-
-`dice: [](magic-item-table-i.md#^magic-item-table-i)`
-
-| dice: d100 | Magic Item |
+*Source: Dungeon Master's Guide p. 144* **Magic Item Table I**`dice: [](magic-item-table-i.md#^magic-item-table-i)`| dice: d100 | Magic Item |
 |------------|------------|
 | 01-05 | [[defender-xdmg (items)]] |
 | 06-10 | [[hammer-of-thunderbolts-xdmg (items)]] |
@@ -68,7 +77,7 @@ world: Both
 | 70-71 | [[2-armor-xdmg (items)]] |
 | 72-73 | [[2-armor-xdmg (items)]] |
 | 74-75 | [[Well of Many Worlds Xdmg]] |
-| 76 | `dice: [](magic-item-table-i.md#^magic-armor)` |
+| 76 |`dice: [](magic-item-table-i.md#^magic-armor)`|
 | 77 | [[Apparatus of Kwalish Xdmg (vehicles)]] |
 | 78 | [[armor-of-invulnerability-xdmg (items)]] |
 | 79 | [[belt-of-storm-giant-strength-xdmg (items)]] |
@@ -93,13 +102,8 @@ world: Both
 | 98 | [[Talisman of the Sphere Xdmg]] |
 | 99 | [[talisman-of-ultimate-evil-xdmg (items)]] |
 | 00 | [[Tome of the Stilled Tongue Xdmg]] |
-^magic-item-table-i
 
-**Magic armor**
-
-`dice: [](magic-item-table-i.md#^magic-armor)`
-
-| dice: 1d12 |  |
+^magic-item-table-i **Magic armor**`dice: [](magic-item-table-i.md#^magic-armor)`| dice: 1d12 | |
 |------------|--|
 | 1-2 | [[2-armor-xdmg (items)]] |
 | 3-4 | [[2-armor-xdmg (items)]] |
@@ -108,43 +112,23 @@ world: Both
 | 9-10 | [[3 Armor Xdmg]] |
 | 11 | [[3 Armor Xdmg]] |
 | 12 | [[3 Armor Xdmg]] |
-^magic-armor
 
-## 🔧 Deep Evaluation Improvements
+^magic-armor ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Magic item table i is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of magic item table i as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around magic item table i. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - The authorities needs help finding before the new moon
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Magic item table i is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of magic item table i as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around magic item table i.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- The authorities needs help finding before the new moon
 - Strange dreams suggest a portal
 - A journal reveals a conspiracy about a local noble
-- A merchant needs help delivering before the festival
+- A merchant needs help delivering before the festival ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
+
+*Additional notes*
+
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/item
+#meta/reference

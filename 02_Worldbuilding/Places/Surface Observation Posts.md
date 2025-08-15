@@ -258,3 +258,18 @@ Ongoing situations affecting Surface Observation Posts:
 ## References
 
 - [[Hidden Sanctuary]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

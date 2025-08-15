@@ -280,3 +280,18 @@ Mentioned in The First Prophecy of Depths
 
 - [[Quest - The Root Network_1 (01_Adventures)]]
 - [[Quest - The Root Network_2 (01_Adventures)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

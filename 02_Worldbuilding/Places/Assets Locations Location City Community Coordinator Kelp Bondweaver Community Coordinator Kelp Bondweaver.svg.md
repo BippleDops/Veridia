@@ -176,3 +176,22 @@ Key locations marked:
 - Someone is protecting information for money
 - A corpse reveals the truth about the government
 - Strange sightings suggest a conspiracy
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

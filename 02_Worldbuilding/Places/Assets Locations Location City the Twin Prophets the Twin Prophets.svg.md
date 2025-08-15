@@ -175,3 +175,22 @@ Key locations marked:
 - An heirloom has gone missing and evil awakens
 - A journal reveals the truth about the cult
 - A noble needs help delivering before the festival
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

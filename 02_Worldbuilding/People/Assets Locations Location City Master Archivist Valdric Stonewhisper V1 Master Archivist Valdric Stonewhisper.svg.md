@@ -207,3 +207,28 @@ This NPC can serve multiple roles:
 - [[04_Resources_Assets_Symbols_symbol-heraldry-salvage-master-ironwork-salvage-master-ironwork.svg]]
 - [[Assets Symbols Symbol Heraldry Acoustic Infection Acoustic Infection.svg]]
 - [[04_Resources_Assets_Locations_location-city-professor-reef-growthseeker-v1-professor-reef-growthseeker.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

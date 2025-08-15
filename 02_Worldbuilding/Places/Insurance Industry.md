@@ -220,3 +220,18 @@ Ongoing situations affecting Insurance Industry:
 ## References
 
 - [[Memory Alteration Consequences]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

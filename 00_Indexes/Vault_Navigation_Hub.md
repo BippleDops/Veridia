@@ -5,61 +5,76 @@ type: note
 created: 2025-08-14
 modified: 2025-08-14
 status: active
----
-
-# 🧭 Vault Navigation Hub
-
-Welcome to the Veridia TTRPG Vault! This is your central navigation point for all campaign content.
-
-## 📚 Main Sections
-
-### 🎲 Core Campaign
-- [[01 Campaigns/]] - Active campaigns and storylines
-- [[01_Adventures]] - Adventure modules and quests
-- [[06 Sessions]] - Session notes and summaries
-
-### 🌍 World Building
-- [[02_Worldbuilding]] - Complete world lore and background
-- [[People]] - NPCs, characters, and creatures
-- [[04_Resources]] - Locations, maps, and assets
-
-### 🎯 Game Mechanics
-- [[Bestiary]] - Creature statistics
-- [[12 Research]] - Custom game mechanics
-
-### 📋 Organization
-- [[INDEX]] - Indexes and reference materials
-- [[09_Performance]] - Vault management and templates
-
-## 🔍 Quick Access
-
-### Popular Locations
-- [[Places]] - The underwater city
-- [[Places]] - The sky realm
-- [[Places]] - The mysterious void
-
-### Key NPCs
-- Search for important characters in [[People]]
-
-### Resources
-- [[04_Resources]] - Images, maps, and handouts
-- [[04_Resources]] - Player materials
-
-## 🎨 Assets & Media
-- [[04_Resources]] - Visual asset collections
-- [[04_Resources]] - Ambient sounds and music
-- [[04_Resources]] - AI-generated content
+aliases: ["Vault Navigation Hub"]
+priority: normal
+category: 00 Indexes
+subcategory: Vault Navigation Hub.Md
+related: []
+cssclass: standard
+publish: false
 
 ---
-*Last updated: {{date:YYYY-MM-DD}}*
 
+ # 🧭 Vault Navigation Hub Welcome to the Veridia TTRPG Vault! This is your central navigation point for all campaign content. ## 📚 Main Sections ### 🎲 Core Campaign
 
-## See Also
+## Description {#description}
+
+Detailed description pending.
+- [[01 Campaigns/|01 Campaigns/]] - Active campaigns and storylines
+- [[01_Adventures|01 Adventures]] - Adventure modules and quests
+- [[06 Sessions|06 Sessions]] - Session notes and summaries ### 🌍 World Building
+
+- [[02_Worldbuilding|02 Worldbuilding]] - Complete world lore and background
+- [[People|People]] - NPCs, characters, and creatures
+- [[04_Resources|04 Resources]] - Locations, maps, and assets ### 🎯 Game Mechanics
+
+- [[Bestiary|Bestiary]] - Creature statistics
+- [[12 Research|12 Research]] - Custom game mechanics ### 📋 Organization
+
+- [[INDEX|Index]] - Indexes and reference materials
+- [[09_Performance|09 Performance]] - Vault management and templates ## 🔍 Quick Access ### Popular Locations
+
+- [[Places|Places]] - The underwater city
+- [[Places|Places]] - The sky realm
+- [[Places|Places]] - The mysterious void ### Key NPCs
+
+- Search for important characters in [[People|People]] ### Resources
+
+- [[04_Resources|04 Resources]] - Images, maps, and handouts
+- [[04_Resources|04 Resources]] - Player materials ## 🎨 Assets & Media
+
+- [[04_Resources|04 Resources]] - Visual asset collections
+- [[04_Resources|04 Resources]] - Ambient sounds and music
+- [[04_Resources|04 Resources]] - AI-generated content ---
+
+*Last updated: {{date:YYYY-MM-DD}}* ## See Also
+
 - Related content
 - Similar topics
-- Connected elements
+- Connected elements ## Alternate Descriptions
 
-## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects
+
+## Notes {#notes}
+
+*Additional notes*
+
+#mechanics/mechanics
+#story/story
+#story/lore
+#story/background
+#world/location
+#world/world
+#world/place
+#character/npc
+#character/character
+#character/creature
+#gameplay/session
+#gameplay/adventure
+#gameplay/quest
+#meta/index
+#meta/hub
+#meta/navigation
+#meta/reference

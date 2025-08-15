@@ -239,3 +239,18 @@ Key stop on metals trade route
 - [[Shadow Market Canals]]
 - [[Pearl_Harbor_City (D&D_References)]]
 - [[Shadow Market Canals (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

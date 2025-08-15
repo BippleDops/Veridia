@@ -58,3 +58,28 @@ Recent developments have brought new attention to Location City Master Jeweler S
 
 ## DM Notes
 *Location City Master Jeweler Sapphire Delicatehand Master Jeweler Sapphire Delicatehand.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

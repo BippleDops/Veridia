@@ -1,18 +1,32 @@
 ---
+
 title: Secondary Tables Crime Xge
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Secondary Tables Crime Xge"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Secondary Tables Crime Xge
+ # Secondary Tables Crime Xge ---
 
----
+## Description
+
+Detailed description pending.
 title: Secondary Tables Crime Xge
 aliases:
 - Secondary Tables; Crime
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:04.075453+00:00'
 world: Both
----
 
-# Secondary Tables; Crime
-*Source: Xanathar's Guide to Everything p. 70* 
+--- # Secondary Tables; Crime
 
-**Crime**
-
-`dice: [](secondary-tables-crime-xge.md#^crime)`
-
-| dice: d8 | Crime |
+*Source: Xanathar's Guide to Everything p. 70* **Crime**`dice: [](secondary-tables-crime-xge.md#^crime)`| dice: d8 | Crime |
 |----------|-------|
 | 1 | Murder |
 | 2 | Theft |
@@ -48,44 +57,25 @@ world: Both
 | 6 | Kidnapping |
 | 7 | Extortion |
 | 8 | Counterfeiting |
-^crime
 
-## 🔧 Deep Evaluation Improvements
+^crime ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Secondary tables crime xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of secondary tables crime xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around secondary tables crime xge. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is protecting an heir for love
 
-*20 targeted improvements identified*
+- A map reveals ancient history about this place ## Related Notes - [[Similar Topic 1]]
 
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Secondary tables crime xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of secondary tables crime xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around secondary tables crime xge.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Someone is protecting an heir for love
-- A map reveals ancient history about this place
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#meta/reference

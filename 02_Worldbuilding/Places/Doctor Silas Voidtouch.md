@@ -236,3 +236,18 @@ Ongoing situations affecting Doctor Silas Voidtouch:
 - [[Lumengarde (D&D_References)]]
 - [[The Cerulean Trench (D&D_References)]]
 - [[The Crimson Foundries (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

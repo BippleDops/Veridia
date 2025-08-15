@@ -234,3 +234,18 @@ Mentioned in The Second Prophecy of Shadows
 - [[Aquabyssos Cultural Codex]]
 - [[Cross-Realm Etiquette Guide]]
 - [[Pressure Terminal]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

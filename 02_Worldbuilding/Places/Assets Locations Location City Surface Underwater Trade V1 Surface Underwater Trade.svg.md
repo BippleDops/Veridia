@@ -177,3 +177,22 @@ Key locations marked:
 - A stranger needs help finding before dawn
 - A letter reveals ancient history about a local noble
 - A noble needs help finding before the new moon
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

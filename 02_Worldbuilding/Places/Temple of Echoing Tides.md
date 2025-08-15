@@ -195,3 +195,18 @@ Mentioned in The Second Prophecy of Shadows
 
 - [[Mourning Depths]]
 - [[Mourning Depths (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

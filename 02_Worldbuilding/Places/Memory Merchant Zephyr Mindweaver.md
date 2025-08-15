@@ -362,3 +362,18 @@ Key stop on spices trade route
 - [[Discover Marina's Truth]]
 - [[The Phosphor Markets (D&D_References)]]
 - [[Emperor Thalassius the Wise (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

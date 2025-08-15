@@ -1,15 +1,28 @@
 ---
+
 title: Hybrid Class System
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Hybrid Class System"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D References
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Hybrid Class System
+ # Hybrid Class System ---
 
----
+## Description
+
+Detailed description pending.
 title: Hybrid Class System
 type: Mechanics
 tags:
@@ -23,49 +36,31 @@ tags:
 - classes
 - complete
 - content/mechanics
+
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
 updated: '2025-08-13T12:34:17.807321+00:00'
 world: Both
----
 
-# Hybrid Class System
+--- # Hybrid Class System Pressure/crystal hybrids, transformation prestige, parasite-symbiont paths, void-touched archetypes, memory-thief specialists, reality-shaper subclasses. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Example Archetypes
 
-Pressure/crystal hybrids, transformation prestige, parasite-symbiont paths, void-touched archetypes, memory-thief specialists, reality-shaper subclasses.
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Example Archetypes
 - Reality Shaper (Subclass): Anchor aura, paradox step
 - Memory Thief (Rogue): Steal skill memories mid-combat
 - Parasite Knight (Fighter): Symbiont armor with hunger
-- Crystal Cantor (Bard): Resoce songs, shatter risks
+- Crystal Cantor (Bard): Resoce songs, shatter risks Integrates with: [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Memory Trading Economy System|Memory Economy]], [[Complete Pressure Adaptation System]]. ## Player-Facing Summary Hybrid Class System is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Hybrid Class System as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Hybrid Class System. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.*
 
-Integrates with: [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Memory Trading Economy System|Memory Economy]], [[Complete Pressure Adaptation System]].
 
-## Player-Facing Summary
+## Notes
 
-Hybrid Class System is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+*Additional notes*
 
-## Lore Details
-
-Legends speak of Hybrid Class System as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Hybrid Class System.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
+#mechanics/combat
+#mechanics/mechanics
+#mechanics/system
+#story/story
+#story/lore
+#world/world
+#world/setting
+#gameplay/quest
+#meta/reference

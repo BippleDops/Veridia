@@ -255,3 +255,18 @@ Key stop on spices trade route
 ## References
 
 - [[Surface Dweller Adaptation]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

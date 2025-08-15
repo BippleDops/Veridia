@@ -227,3 +227,18 @@ Key stop on textiles trade route
 
 - [[Campaign Epilogues]]
 - [[Campaign Epilogues (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -57,3 +57,28 @@ Recent developments have brought new attention to Location City Keeper Aquaeous 
 
 ## DM Notes
 *Location City Keeper Aquaeous Depth Scholar V1 Keeper Aquaeous Depth Scholar.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

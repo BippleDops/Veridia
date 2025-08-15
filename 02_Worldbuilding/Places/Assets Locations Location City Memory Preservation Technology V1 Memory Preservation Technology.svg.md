@@ -180,3 +180,22 @@ Key locations marked:
 
 - Someone is searching for a witness for money
 - A merchant needs help delivering before dawn
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

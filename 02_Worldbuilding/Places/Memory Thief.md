@@ -473,3 +473,18 @@ Ongoing situations affecting Memory Thief:
 - [[The Eternal Senate]]
 - [[The Memory Storm Fields]]
 - [[The Void Tears]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

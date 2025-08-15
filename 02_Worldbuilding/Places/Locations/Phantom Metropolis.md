@@ -119,3 +119,18 @@ Recent developments have brought new attention to Phantom Metropolis, creating o
 ## References
 
 - [[System Cli Spells School Illusion]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

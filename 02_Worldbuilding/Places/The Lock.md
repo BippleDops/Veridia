@@ -528,3 +528,18 @@ The Lock was established in the distant past, growing from humble beginnings to 
 - [[Smuggler (D&D_Statblocks)]]
 - [[The Lock Saboteur (D&D_Statblocks)]]
 - [[The Maw of Darkness (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

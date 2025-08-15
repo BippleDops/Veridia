@@ -190,3 +190,28 @@ Legends speak of Spy Games as a nexus where past and present converge. Locals de
 - [[02_Worldbuilding/Places/Spy Games]]
 
 <!-- enriched: true -->
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

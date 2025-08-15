@@ -130,3 +130,28 @@ An exciting quest that challenges heroes to prevent disaster.
 - Final confrontation
 - Consequences
 - Epilogue hooks
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

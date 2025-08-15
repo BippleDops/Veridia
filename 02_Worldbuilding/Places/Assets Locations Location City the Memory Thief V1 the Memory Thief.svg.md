@@ -185,3 +185,22 @@ Key locations marked:
 
 - Someone is blackmailing information for power
 - A merchant needs help finding before dawn
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

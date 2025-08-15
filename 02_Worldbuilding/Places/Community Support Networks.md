@@ -208,3 +208,18 @@ Ongoing situations affecting Community Support Networks:
 
 - [[Aethermoor Wind Rider Traditions]]
 - [[The Festival of Rising Tides]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

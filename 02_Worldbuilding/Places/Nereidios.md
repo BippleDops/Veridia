@@ -241,3 +241,18 @@ Ongoing situations affecting Nereidios:
 - [[The Floating Markets of Nereidios]]
 - [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)]]
 - [[Crystallium (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

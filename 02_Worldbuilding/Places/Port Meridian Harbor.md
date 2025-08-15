@@ -271,3 +271,18 @@ Port Meridian Harbor is a notable location characterized by its unique features 
 - [[Goldwave Manor (D&D_References)]]
 - [[Goldwave Manor 3 (D&D_References)]]
 - [[The Royal Palace (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

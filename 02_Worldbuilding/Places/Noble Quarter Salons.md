@@ -234,3 +234,18 @@ Key stop on magic items trade route
 - [[Quest - The Blackmail Papers_1 (01_Adventures)]]
 - [[Quest - The Blackmail Papers_2 (01_Adventures)]]
 - [[VAULT_UPDATES]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

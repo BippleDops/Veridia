@@ -107,3 +107,23 @@ Further information about this topic will be developed as the campaign progresse
 
 - [[Assets Locations Location City Merchant Lord Silas Copperfield Merchant Lord Silas Copperfield.svg]]
 - [[Assets Locations Location City Professor Reef Growthseeker V1 Professor Reef Growthseeker.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

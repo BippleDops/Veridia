@@ -1,15 +1,28 @@
 ---
+
 title: NPC 1 (D&D_References)
 type: npc
 tags:
 - npc
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["NPC 1 (D&D References)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D References
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# NPC 1
+ # NPC 1 ---
 
----
+## Description
+
+Detailed description pending.
 title: NPC 1
 type: Lore
 tags:
@@ -18,41 +31,47 @@ tags:
 - research
 - active
 - note
+
 created: '2025-08-11'
 modified: '2025-08-14'
 status: active
 world: Both
 updated: '2025-08-13T01:18:35.444732+00:00'
----
 
-## 🔧 Deep Evaluation Improvements
+--- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary NPC 1 is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of NPC 1 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around NPC 1. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-*20 targeted improvements identified*
 
-### Connection Improvements
+## Notes
 
-- Add cross-references to related notes
+*Additional notes*
 
-### Enhancement Improvements
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/npc
+#meta/reference
 
-- Add 12_Research-specific enhancement
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
 
-## Player-Facing Summary
 
-NPC 1 is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+## Daily Routine
+- Morning activities
+- Evening habits
 
-## Lore Details
 
-Legends speak of NPC 1 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around NPC 1.
+## Possessions
+- Personal items
+- Valuable objects
 
-## DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+## Combat Tactics
+- Preferred strategies
+- Special moves
 
-## Related
 
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## Secrets
+- Hidden knowledge
+- Personal mysteries

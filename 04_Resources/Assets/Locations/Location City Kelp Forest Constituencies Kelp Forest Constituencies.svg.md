@@ -57,3 +57,28 @@ Recent developments have brought new attention to Location City Kelp Forest Cons
 
 ## DM Notes
 *Location City Kelp Forest Constituencies Kelp Forest Constituencies.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

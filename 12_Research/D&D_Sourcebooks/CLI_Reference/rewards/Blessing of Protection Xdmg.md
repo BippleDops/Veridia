@@ -1,18 +1,32 @@
 ---
+
 title: Blessing of Protection Xdmg
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Blessing of Protection Xdmg"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Blessing of Protection Xdmg
+ # Blessing of Protection Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Blessing of Protection Xdmg
 aliases:
 - Blessing of Protection
+
 type: note
 tags:
 - ttrpg-cli/reward/blessing
@@ -23,70 +37,32 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-reward
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:05.072866+00:00'
 world: Both
----
 
-# Blessing of Protection
+--- # Blessing of Protection You gain a +1 bonus to AC and saving throws. *Source: Dungeon Master's Guide (2024) p. 99* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Blessing of protection xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of blessing of protection xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around blessing of protection xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession ## Plot Hooks - A noble needs help delivering before the new moon
 
-You gain a +1 bonus to AC and saving throws.
-
-*Source: Dungeon Master's Guide (2024) p. 99*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Blessing of protection xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of blessing of protection xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around blessing of protection xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
-## Plot Hooks
-
-- A noble needs help delivering before the new moon
 - Someone is protecting a witness for power
-- A map reveals ancient history about a local noble
+- A map reveals ancient history about a local noble ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

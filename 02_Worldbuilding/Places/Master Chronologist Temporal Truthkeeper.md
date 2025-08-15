@@ -230,3 +230,18 @@ Ongoing situations affecting Master Chronologist Temporal Truthkeeper:
 
 - [[Timeline of Crimes]]
 - [[Timeline of Crimes (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

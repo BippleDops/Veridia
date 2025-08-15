@@ -1,18 +1,32 @@
 ---
+
 title: adventuring-gear-phb (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["adventuring-gear-phb (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# adventuring-gear-phb
+ # adventuring-gear-phb ---
 
----
+## Description
+
+Detailed description pending.
 title: adventuring gear phb
 aliases:
 - Adventuring Gear
+
 type: note
 tags:
 - ttrpg-cli/compendium/src/5e/phb
@@ -21,32 +35,29 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.761790'
 world: Both
----
 
-# Adventuring Gear
-*Source: Player's Handbook p. 148. Available in the SRD and the Basic Rules (2014)* 
+--- # Adventuring Gear
 
-**Adventuring Gear**
-
-| Item | Cost | Weight |
+*Source: Player's Handbook p. 148. Available in the SRD and the Basic Rules (2014)* **Adventuring Gear** | Item | Cost | Weight |
 |------|------|--------|
 | [[abacus|Abacus]] | 2 gp | 2 lb. |
 | [[Acid Xphb]] | 25 gp | 1 lb. |
 | [[alchemists-fire-xphb (items)]] | 50 gp | 1 lb. |
-| *Ammunition* |  |  |
+| *Ammunition* | | |
 | &emsp;[[arrows-20-xphb (items)]] | 1 gp | 1 lb. |
 | &emsp;[[Needles 50 Xphb]] | 1 gp | 1 lb. |
 | &emsp;[[Bolts 20 Xphb]] | 1 gp | 1½ lb. |
 | &emsp;[[Sling Bullets 20 Xphb]] | 4 cp | 1½ lb. |
 | [[antitoxin-xphb (items)]] | 50 gp | — |
-| *[[arcane-focus-xphb (items)]]* |  |  |
+| *[[arcane-focus-xphb (items)]]* | | |
 | &emsp;[[crystal-xphb (items)]] | 10 gp | 1 lb. |
 | &emsp;[[Orb Xphb]] | 20 gp | 3 lb. |
 | &emsp;[[rod-xphb (items)]] | 10 gp | 2 lb. |
@@ -76,7 +87,7 @@ world: Both
 | [[travelers-clothes-xphb (items)]] | 2 gp | 4 lb. |
 | [[component-pouch-xphb (items)]] | 25 gp | 2 lb. |
 | [[Crowbar Xphb]] | 2 gp | 5 lb. |
-| *[[druidic-focus-xphb (items)]]* |  |  |
+| *[[druidic-focus-xphb (items)]]* | | |
 | &emsp;[[sprig-of-mistletoe-xphb (items)]] | 1 gp | — |
 | &emsp;[[totem|Totem]] | 1 gp | — |
 | &emsp;[[Staff Xphb]] | 5 gp | 4 lb. |
@@ -87,7 +98,7 @@ world: Both
 | [[hammer|Hammer]] | 1 gp | 3 lb. |
 | [[sledgehammer|Hammer, sledge]] | 2 gp | 10 lb. |
 | [[healers-kit-xphb (items)]] | 5 gp | 3 lb. |
-| *[[Symbol Xphb]]* |  |  |
+| *[[Symbol Xphb]]* | | |
 | &emsp;[[amulet-xphb (items)]] | 5 gp | 1 lb. |
 | &emsp;[[emblem-xphb (items)]] | 5 gp | — |
 | &emsp;[[Reliquary Xphb]] | 5 gp | 2 lb. |
@@ -145,47 +156,24 @@ world: Both
 | [[Vial Xphb]] | 1 gp | — |
 | [[waterskin-xphb (items)]] | 2 sp | 5 lb. (full) |
 | [[whetstone|Whetstone]] | 1 cp | 1 lb. |
-^adventuring-gear
 
-## 🔧 Deep Evaluation Improvements
+^adventuring-gear ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Adventuring gear phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of adventuring gear phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around adventuring gear phb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange disappearances suggest a curse
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Adventuring gear phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of adventuring gear phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around adventuring gear phb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Strange disappearances suggest a curse
 - Someone is blackmailing a witness for love
 - A merchant needs help delivering before the festival
-- Someone is blackmailing a artifact for money
+- Someone is blackmailing a artifact for money ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#mechanics/rules
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/item
+#resource/gear
+#meta/reference

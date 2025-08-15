@@ -1,18 +1,32 @@
 ---
+
 title: Gods of Greyhawk Xdmg
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Gods of Greyhawk Xdmg"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Gods of Greyhawk Xdmg
+ # Gods of Greyhawk Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Gods of Greyhawk Xdmg
 aliases:
 - Gods of Greyhawk
+
 type: note
 tags:
 - both
@@ -22,21 +36,18 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.608217+00:00'
 world: Both
----
 
-# Gods of Greyhawk
-*Source: Dungeon Master's Guide (2024) p. 149* 
+--- # Gods of Greyhawk
 
-**Gods of Greyhawk**
-
-| Name and Epithet | Home Plane | Typical Worshipers | Symbol |
+*Source: Dungeon Master's Guide (2024) p. 149* **Gods of Greyhawk** | Name and Epithet | Home Plane | Typical Worshipers | Symbol |
 |------------------|------------|--------------------|--------|
 | [[Greyhawk Beory Xdmg]], Heart of Oerth* | "Material Plane" | Farmers, herders | Green disk |
 | [[greyhawk-berei-xdmg (deities)]] of the Hearth | "Bytopia" | Families, farmers | Sheaf of wheat stalks |
@@ -65,48 +76,16 @@ world: Both
 | [[Greyhawk Ulaa Xdmg]], the Bejeweled | "Arcadia" | Miners, jewelers, quarriers | Ruby-hearted mountain |
 | [[greyhawk-vecna-xdmg (deities)]], the Whispered One | Unknown | Necromancers, undead, those who keep or unearth secrets | An eye in the palm of a left hand |
 | [[Greyhawk Wee Jas Xdmg]], the Witch | "Acheron" | Spellcasters, advisers | Red skull in front of fireball |
-^gods-of-greyhawk
 
-*Greater god
+^gods-of-greyhawk *Greater god †Demigod ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Gods of greyhawk xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of gods of greyhawk xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gods of greyhawk xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-†Demigod
 
-## 🔧 Deep Evaluation Improvements
+## Notes
 
-*20 targeted improvements identified*
+*Additional notes*
 
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Gods of greyhawk xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of gods of greyhawk xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gods of greyhawk xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

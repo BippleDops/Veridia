@@ -177,3 +177,22 @@ Key locations marked:
 
 - A corpse reveals the truth about a local noble
 - A corpse reveals a conspiracy about the government
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

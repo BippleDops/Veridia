@@ -1,15 +1,18 @@
 ---
+
 title: Drow 3 Weapon Mm
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# Drow 3 Weapon Mm
+--- # Drow 3 Weapon Mm ---
 
----
+## Description
+
+Detailed description pending.
 title: Drow 3 Weapon Mm
 aliases:
 - Drow +3 Weapon
@@ -64,6 +67,7 @@ aliases:
 - Drow +3 Warhammer
 - Drow +3 Whip
 - Drow +3 Yklwa
+
 type: note
 tags:
 - both
@@ -74,6 +78,7 @@ tags:
 - note
 - content/item
 - status/in-progress
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
@@ -82,16 +87,10 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:07.737540+00:00'
 world: Both
----
 
-> [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-drow-3-weapon-mm-drow-3-weapon-mm.svg)
+--- > [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-drow-3-weapon-mm-drow-3-weapon-mm.svg) # Drow +3 Weapon You have a +3 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer. **Variants**:
 
-# Drow +3 Weapon
-
-You have a +3 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
-
-**Variants**:
 - [Drow +3 Antimatter Rifle](#Drow%20+3%20Antimatter%20Rifle)
 - [Drow +3 Automatic Rifle](#Drow%20+3%20Automatic%20Rifle)
 - [Drow +3 Battleaxe](#Drow%20+3%20Battleaxe)
@@ -142,56 +141,17 @@ You have a +3 bonus to attack and damage rolls made with this weapon. This weapo
 - [Drow +3 War Pick](#Drow%20+3%20War%20Pick)
 - [Drow +3 Warhammer](#Drow%20+3%20Warhammer)
 - [Drow +3 Whip](#Drow%20+3%20Whip)
-- [Drow +3 Yklwa](#Drow%20+3%20Yklwa)
+- [Drow +3 Yklwa](#Drow%20+3%20Yklwa) ### Drow +3 Yklwa - **Damage**: 1d8 piercing
 
-### Drow +3 Yklwa
-
-- **Damage**: 1d8 piercing
 - **Range**: 10/30
 - **Properties**: [[item properties#Thrown|Thrown]]
-- **Weight**: 3.0 lbs.
+- **Weight**: 3.0 lbs. *Source: Monster Manual p. 126* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Drow 3 weapon mm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of drow 3 weapon mm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around drow 3 weapon mm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1]]
 
-*Source: Monster Manual p. 126*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Drow 3 weapon mm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of drow 3 weapon mm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around drow 3 weapon mm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## References
-
-- [[Master_Item_Catalog]]
+*Additional notes*

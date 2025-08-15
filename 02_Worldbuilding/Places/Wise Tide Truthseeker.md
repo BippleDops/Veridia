@@ -205,3 +205,18 @@ Key stop on magic items trade route
 
 - [[The Free Current]]
 - [[The Free Current (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

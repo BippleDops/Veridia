@@ -503,3 +503,18 @@ Ongoing situations affecting Spymaster Crow:
 - [[Pressure's End]]
 - [[Pressure's End (D&D_References)]]
 - [[Memory Merchant Zephyr Mindweaver (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

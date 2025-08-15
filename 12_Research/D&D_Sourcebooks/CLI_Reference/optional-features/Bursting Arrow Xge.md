@@ -1,18 +1,32 @@
 ---
+
 title: Bursting Arrow Xge
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Bursting Arrow Xge"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Bursting Arrow Xge
+ # Bursting Arrow Xge ---
 
----
+## Description
+
+Detailed description pending.
 title: Bursting Arrow Xge
 aliases:
 - Bursting Arrow
+
 type: note
 tags:
 - both
@@ -23,64 +37,32 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-feat
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:06.131728+00:00'
 world: Both
----
 
-# Bursting Arrow
-*Source: Xanathar's Guide to Everything p. 29*  
+--- # Bursting Arrow
 
-You imbue your arrow with force energy drawn from the school of evocation. The energy detonates after your attack. Immediately after the arrow hits the creature, the target and all other creatures within 10 feet of it take `2d6` force damage each.
+*Source: Xanathar's Guide to Everything p. 29* You imbue your arrow with force energy drawn from the school of evocation. The energy detonates after your attack. Immediately after the arrow hits the creature, the target and all other creatures within 10 feet of it take`2d6`force damage each. The force damage increases to`4d6`when you reach 18th level in this class. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Bursting arrow xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of bursting arrow xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bursting arrow xge. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## Plot Hooks - A shipment has gone missing and evil awakens
 
-The force damage increases to `4d6` when you reach 18th level in this class.
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Bursting arrow xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of bursting arrow xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bursting arrow xge.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
-## Plot Hooks
-
-- A shipment has gone missing and evil awakens
 - A letter reveals the truth about this place
-- Strange disappearances suggest a conspiracy
+- Strange disappearances suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#character/creature
+#meta/reference

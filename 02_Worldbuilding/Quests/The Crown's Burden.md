@@ -701,3 +701,28 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Nerissa_Deepcurrent]]
 - [[Nerissa Deepcurrent (D&D_References)]]
 - [[Nerissa_Deepcurrent (D&D_References)]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

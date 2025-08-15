@@ -252,3 +252,28 @@ This NPC can serve multiple roles:
 
 - [[04_Resources_Assets_Symbols_symbol-heraldry-frequency-weapons-frequency-weapons.svg]]
 - [[04_Resources_Assets_Locations_location-city-terminal-director-admiral-current-swiftflow-v1-terminal-director-admiral-current-swiftflow.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

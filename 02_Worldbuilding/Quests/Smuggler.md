@@ -265,3 +265,28 @@ An exciting quest that challenges heroes to prevent disaster.
 - [[Depth Warden Patrol]]
 - [[Harbor District Customs House]]
 - [[The Azure Coast]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

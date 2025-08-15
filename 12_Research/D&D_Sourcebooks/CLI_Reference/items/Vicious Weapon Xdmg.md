@@ -1,15 +1,28 @@
 ---
+
 title: Vicious Weapon Xdmg
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Vicious Weapon Xdmg"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Vicious Weapon Xdmg
+ # Vicious Weapon Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Vicious Weapon Xdmg
 aliases:
 - Vicious Weapon
@@ -66,6 +79,7 @@ aliases:
 - Vicious Whip
 - Vicious Wooden Staff
 - Vicious Yklwa
+
 type: note
 tags:
 - both
@@ -76,6 +90,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -84,15 +99,10 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:06.835168+00:00'
 world: Both
----
 
-# Vicious Weapon
-*Rare*  
-![](/03_Mechanics/CLI/items/img/vicious-weapon.webp#right)
+--- # Vicious Weapon
 
-This magic weapon deals an extra `2d6` damage to any creature it hits. This extra damage is of the same type as the weapon's normal damage.
-
-**Variants**:
+*Rare* ![](/03_Mechanics/CLI/items/img/vicious-weapon.webp#right) This magic weapon deals an extra`2d6`damage to any creature it hits. This extra damage is of the same type as the weapon's normal damage. **Variants**:
 - [Vicious Antimatter Rifle](#Vicious%20Antimatter%20Rifle)
 - [Vicious Automatic Rifle](#Vicious%20Automatic%20Rifle)
 - [Vicious Battleaxe](#Vicious%20Battleaxe)
@@ -145,62 +155,26 @@ This magic weapon deals an extra `2d6` damage to any creature it hits. This extr
 - [Vicious Warhammer](#Vicious%20Warhammer)
 - [Vicious Whip](#Vicious%20Whip)
 - [Vicious Wooden Staff](#Vicious%20Wooden%20Staff)
-- [Vicious Yklwa](#Vicious%20Yklwa)
+- [Vicious Yklwa](#Vicious%20Yklwa) ### Vicious Yklwa - **Damage**: 1d8 piercing
 
-### Vicious Yklwa
-
-- **Damage**: 1d8 piercing
 - **Range**: 10/30
 - **Properties**: [[item properties#Thrown|Thrown]]
-- **Weight**: 3.0 lbs.
+- **Weight**: 3.0 lbs. *Source: Dungeon Master's Guide (2024) p. 318. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Vicious weapon xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of vicious weapon xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vicious weapon xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Hidden Prophecy of Depths ## Plot Hooks - Strange disappearances suggest a curse
 
-*Source: Dungeon Master's Guide (2024) p. 318. Available in the SRD and the Free Rules (2024)*
+- Strange accidents suggest a curse ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+## Notes
 
-### Connection Improvements
+*Additional notes*
 
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Vicious weapon xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of vicious weapon xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vicious weapon xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The Hidden Prophecy of Depths
-
-## Plot Hooks
-
-- Strange disappearances suggest a curse
-- Strange accidents suggest a curse
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Master_Item_Catalog]]
+#mechanics/rules
+#mechanics/mechanics
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#resource/item
+#meta/reference

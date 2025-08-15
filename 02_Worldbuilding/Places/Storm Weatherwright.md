@@ -234,3 +234,18 @@ Key stop on magic items trade route
 
 - [[Barkeep Mira Algaebrew]]
 - [[Barkeep Mira Algaebrew (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

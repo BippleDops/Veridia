@@ -239,3 +239,23 @@ Member of House Eagleblood - Trait: prophecy
 
 - [[04_Resources_Assets_Locations_location-city-harbor-master-captain-dockwise-harbor-master-captain-dockwise.svg]]
 - [[04_Resources_Assets_Locations_location-city-merchant-prince-aldric-goldcurrent-v1-merchant-prince-aldric-goldcurrent.svg]]
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

@@ -172,3 +172,22 @@ Key stop on spices trade route
 - A letter reveals a conspiracy about a local noble
 - Strange sightings suggest a portal
 - A map reveals a conspiracy about a local noble
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

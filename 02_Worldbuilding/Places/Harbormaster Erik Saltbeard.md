@@ -861,3 +861,18 @@ Ongoing situations affecting Harbormaster Erik Saltbeard:
 - [[Port Meridian Harbor]]
 - [[Port Meridian Harbor (D&D_References)]]
 - [[Harbormaster Erik Saltbeard (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

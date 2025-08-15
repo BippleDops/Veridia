@@ -179,3 +179,22 @@ Key locations marked:
 - Strange accidents suggest a portal
 - A letter reveals ancient history about the government
 - An heirloom has gone missing and chaos spreads
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

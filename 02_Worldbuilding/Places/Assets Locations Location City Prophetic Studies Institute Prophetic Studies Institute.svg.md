@@ -182,3 +182,22 @@ Key locations marked:
 - Strange sightings suggest a portal
 - A map reveals a betrayal about this place
 - Someone is searching for an heir for love
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

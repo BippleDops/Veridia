@@ -1,18 +1,32 @@
 ---
+
 title: A Sample Pantheon Dawn War Deities
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["A Sample Pantheon Dawn War Deities"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# A Sample Pantheon Dawn War Deities
+ # A Sample Pantheon Dawn War Deities ---
 
----
+## Description
+
+Detailed description pending.
 title: A Sample Pantheon Dawn War Deities
 aliases:
 - A Sample Pantheon; Dawn War Deities
+
 type: note
 tags:
 - both
@@ -22,21 +36,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.894442+00:00'
 world: Both
----
 
-# A Sample Pantheon; Dawn War Deities
-*Source: Dungeon Master's Guide p. 11* 
+--- # A Sample Pantheon; Dawn War Deities
 
-**Dawn War Deities**
-
-| Deity | Alignment | Suggested Domains | Symbol |
+*Source: Dungeon Master's Guide p. 11* **Dawn War Deities** | Deity | Alignment | Suggested Domains | Symbol |
 |-------|-----------|-------------------|--------|
 | [[Dawn War Asmodeus Dmg]], god of tyranny | LE | Trickery | Three triangles in tight formation |
 | [[Dawn War Avandra Dmg]], goddess of change and luck | CG | Trickery | Three stacked wavy lines |
@@ -58,48 +69,22 @@ world: Both
 | [[dawn-war-torog-dmg (deities)]], god of the Underdark | NE | Death | T attached to a circular shackle |
 | [[dawn-war-vecna-dmg (deities)]], god of evil secrets | NE | Death, Knowledge | Partially shattered one-eyed skull |
 | [[dawn-war-zehir-dmg (deities)]], god of darkness and poison | CE | Trickery, Death | Snake in the shape of a dagger |
-^dawn-war-deities
 
-## 🔧 Deep Evaluation Improvements
+^dawn-war-deities ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary A sample pantheon dawn war deities is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of a sample pantheon dawn war deities as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around a sample pantheon dawn war deities. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. Enriched: true --> ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession ## Plot Hooks - A noble needs help investigating before dawn
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-A sample pantheon dawn war deities is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of a sample pantheon dawn war deities as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around a sample pantheon dawn war deities.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
- enriched: true -->
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
-## Plot Hooks
-
-- A noble needs help investigating before dawn
 - Someone is searching for a artifact for power
-- Someone is blackmailing information for revenge
+- Someone is blackmailing information for revenge ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
+
+*Additional notes*
+
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#gameplay/quest
+#resource/gear
+#meta/reference

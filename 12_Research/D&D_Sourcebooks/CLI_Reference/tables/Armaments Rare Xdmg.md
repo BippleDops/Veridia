@@ -1,18 +1,32 @@
 ---
+
 title: Armaments Rare Xdmg
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Armaments Rare Xdmg"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Armaments Rare Xdmg
+ # Armaments Rare Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Armaments Rare Xdmg
 aliases:
 - Armaments - Rare
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.492010+00:00'
 world: Both
----
 
-# Armaments - Rare
-*Source: Dungeon Master's Guide (2024) p. 328* 
+--- # Armaments - Rare
 
-**Armaments - Rare**
-
-`dice: [](armaments-rare-xdmg.md#^armaments-rare)`
-
-| dice: 1d100 | Item |
+*Source: Dungeon Master's Guide (2024) p. 328* **Armaments - Rare**`dice: [](armaments-rare-xdmg.md#^armaments-rare)`| dice: 1d100 | Item |
 |-------------|------|
 | 01–03 | [[2 Ammunition Xdmg]] |
 | 04–07 | [[1 Armor Xdmg]] |
@@ -76,47 +85,22 @@ world: Both
 | 93–94 | [[vicious-weapon-xdmg (items)]] |
 | 95–97 | [[2-weapon-xdmg (items)]] |
 | 98–00 | [[2-wraps-of-unarmed-power-xdmg (items)]] |
-^armaments-rare
 
-## 🔧 Deep Evaluation Improvements
+^armaments-rare ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Armaments rare xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of armaments rare xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around armaments rare xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1]]
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Armaments rare xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of armaments rare xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around armaments rare xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/item
+#meta/reference

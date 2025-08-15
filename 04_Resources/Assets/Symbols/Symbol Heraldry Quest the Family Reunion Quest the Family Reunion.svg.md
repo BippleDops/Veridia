@@ -96,3 +96,27 @@ An exciting quest that challenges heroes to face destiny.
 
 - Strange sightings suggest a conspiracy
 - A prisoner has gone missing and evil awakens
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

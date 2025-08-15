@@ -107,3 +107,23 @@ Further information about this topic will be developed as the campaign progresse
 
 - [[Assets Locations Location City Deep Compressmaster Deep Compressmaster.svg]]
 - [[Assets Locations Location City Forge Master Korax Hammerdeep V1 Forge Master Korax Hammerdeep.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

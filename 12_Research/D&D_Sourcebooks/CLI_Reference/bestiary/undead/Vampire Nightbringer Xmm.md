@@ -1,18 +1,22 @@
 ---
+
 title: Vampire Nightbringer Xmm
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# Vampire Nightbringer Xmm
+--- # Vampire Nightbringer Xmm ---
 
----
+## Description
+
+Detailed description pending.
 title: Vampire Nightbringer Xmm
 aliases:
 - Vampire Nightbringer
+
 type: monster
 tags:
 - ttrpg-cli/monster/type/undead
@@ -27,6 +31,7 @@ tags:
 - world/both
 - active
 - status/in-progress
+
 created: 2025-08-11
 modified: '2025-08-14'
 status: active
@@ -36,44 +41,13 @@ statblock: inline
 statblock-link: '#^statblock'
 updated: '2025-08-13T12:34:05.923859+00:00'
 world: Both
----
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-vampire-nightbringer-xmm-v1-vampire-nightbringer-xmm.svg)
+--- > [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-vampire-nightbringer-xmm-v1-vampire-nightbringer-xmm.svg) # [[vampire-nightbringer-xmm (undead)]]
 
-# [[vampire-nightbringer-xmm (undead)]]
-*Source: Monster Manual (2024) p. 316*  
+*Source: Monster Manual (2024) p. 316* Born of necromantic rituals and planes of existence suffused with negative energy, vampire nightbringers manipulate shadows and feed on the raw life force of living creatures. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Vampires *Blood-Sucking Lords of the Night* - **Habitat.** Underdark, Urban - **Treasure.** Any Vampires disguise their accursed, immortal natures, passing as mortals to feed on the blood of the living. While the youngest vampires might be little more than bloodthirsty servants of their creators, the eldest possess incredible cunning and control over supernatural forces of the night. Undead vampires lie dormant during the day, retreating to resting places hidden from foes and the sun's searing rays. Roll on or choose a result from the Vampire Resting Places table to inspire a vampire's grim sanctuary. **Vampire Resting Places**`dice: [](vampire-nightbringer-xmm.md#^vampire-resting-places)`| dice: 1d6 | The Vampire's Resting Place Is... |
 
-Born of necromantic rituals and planes of existence suffused with negative energy, vampire nightbringers manipulate shadows and feed on the raw life force of living creatures.
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Vampires
-
-*Blood-Sucking Lords of the Night*
-
-- **Habitat.** Underdark, Urban  
-- **Treasure.** Any  
-
-Vampires disguise their accursed, immortal natures, passing as mortals to feed on the blood of the living. While the youngest vampires might be little more than bloodthirsty servants of their creators, the eldest possess incredible cunning and control over supernatural forces of the night.
-
-Undead vampires lie dormant during the day, retreating to resting places hidden from foes and the sun's searing rays. Roll on or choose a result from the Vampire Resting Places table to inspire a vampire's grim sanctuary.
-
-**Vampire Resting Places**
-
-`dice: [](vampire-nightbringer-xmm.md#^vampire-resting-places)`
-
-| dice: 1d6 | The Vampire's Resting Place Is... |
 |-----------|-----------------------------------|
 | 1 | Among the roots of a dead tree. |
 | 2 | At the bottom of a stagt pool. |
@@ -81,17 +55,9 @@ Undead vampires lie dormant during the day, retreating to resting places hidden 
 | 4 | A large pot full of blood or vinegar. |
 | 5 | A space accessible only by shape-shifting. |
 | 6 | Within a statue or suit of armor. |
-^vampire-resting-places
 
-### Vampire Lairs
+^vampire-resting-places ### Vampire Lairs Vampires and vampire umbral lords create sanctuaries apart from the living, whether hidden in cosmopolitan cities or sequestered in ruins where they dwelled in life. > [!quote] A quote from Astarion, Vampire Spawn > > Darling, you are simply delicious...```statblock
 
-Vampires and vampire umbral lords create sanctuaries apart from the living, whether hidden in cosmopolitan cities or sequestered in ruins where they dwelled in life.
-
-> [!quote] A quote from Astarion, Vampire Spawn  
-> 
-> Darling, you are simply delicious...
-
-```statblock
 "name": "Vampire Nightbringer (XMM)"
 "size": "Small or Medium"
 "type": "undead"
@@ -100,75 +66,22 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 "hp": !!int "142"
 "hit_dice": "19d8 + 57"
 "modifier": !!int "4"
-"stats":
-  - !!int "16"
-  - !!int "18"
-  - !!int "13"
-  - !!int "14"
-  - !!int "15"
+"stats": - !!int "16" - !!int "18" - !!int "13" - !!int "14" - !!int "15"
 "speed": "30 ft., fly 30 ft. (hover)"
-"saves":
-  - "dexterity": !!int "7"
-  - "wisdom": !!int "5"
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+5"
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+7"
+"saves": - "dexterity": !!int "7" - "wisdom": !!int "5"
+"skillsaves": - "name": "[[skills#Perception|Perception]]" "desc": "+5" - "name": "[[skills#Stealth|Stealth]]" "desc": "+7"
 "damage_immunities": "cold, necrotic"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\ \ [[conditions#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Common plus one other language"
 "cr": "8"
-"traits":
-  - "desc": "The vampire takes 10 Radiant damage if it starts its turn in sunlight.\
-      \ While in sunlight, it has [[Advantage Xphb]]\
-      \ on attack rolls and ability checks."
-    "name": "Sunlight Hypersensitivity"
-"actions":
-  - "desc": "The vampire makes one Bite attack and one Shadow Strike attack."
-    "name": "Multiattack"
-  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 7 (1d6 + 4) Piercing damage\
-      \ plus 10 (3d6) Necrotic damage. The target's [[hit-points-xphb (variant-rules)]]\
-      \ maximum decreases by an amount equal to the Necrotic damage taken, and the\
-      \ vampire regains [[hit-points-xphb (variant-rules)]]\
-      \ equal to that amount."
-    "name": "Bite"
-  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 7 (1d6 + 4) Slashing damage\
-      \ plus 14 (4d6) Cold damage."
-    "name": "Shadow Strike"
-"bonus_actions":
-  - "desc": "While in [[Light Xphb]]\
-      \ or [[darkness-xphb (variant-rules)]], the vampire\
-      \ takes the Hide action."
-    "name": "Shadow Stealth"
-"source":
-  - "XMM"
-"image": "/03_Mechanics/CLI/bestiary/undead/token/vampire-nightbringer-xmm.webp"
-```
-^statblock
+"traits": - "desc": "The vampire takes 10 Radiant damage if it starts its turn in sunlight.\ \ While in sunlight, it has [[Advantage Xphb]]\ \ on attack rolls and ability checks." "name": "Sunlight Hypersensitivity"
+"actions": - "desc": "The vampire makes one Bite attack and one Shadow Strike attack." "name": "Multiattack" - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 7 (1d6 + 4) Piercing damage\ \ plus 10 (3d6) Necrotic damage. The target's [[hit-points-xphb (variant-rules)]]\ \ maximum decreases by an amount equal to the Necrotic damage taken, and the\ \ vampire regains [[hit-points-xphb (variant-rules)]]\ \ equal to that amount." "name": "Bite" - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 7 (1d6 + 4) Slashing damage\ \ plus 14 (4d6) Cold damage." "name": "Shadow Strike"
+"bonus_actions": - "desc": "While in [[Light Xphb]]\ \ or [[darkness-xphb (variant-rules)]], the vampire\ \ takes the Hide action." "name": "Shadow Stealth"
+"source": - "XMM"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/vampire-nightbringer-xmm.webp"```^statblock ## Environment underdark, urban ## Player-Facing Summary Vampire nightbringer xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of vampire nightbringer xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vampire nightbringer xmm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## Environment
 
-underdark, urban
+## Notes
 
-## Player-Facing Summary
-
-Vampire nightbringer xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of vampire nightbringer xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vampire nightbringer xmm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+*Additional notes*

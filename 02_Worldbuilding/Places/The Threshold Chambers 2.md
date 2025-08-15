@@ -335,3 +335,28 @@ Legends speak of The Threshold Chambers as a nexus where past and present conver
 - [[02_Worldbuilding/Groups/The Liminal Trading Company]]
 - [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
 - [[02_Worldbuilding/Groups/The Void Watchers]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

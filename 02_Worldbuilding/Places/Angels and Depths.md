@@ -694,3 +694,13 @@ Ongoing situations affecting Angels and Depths:
 - [[The Forgotten One]]
 - [[Angels and Depths (D&D_References)]]
 - [[The Forgotten One (D&D_References)]]
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

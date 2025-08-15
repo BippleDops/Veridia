@@ -184,3 +184,22 @@ Key stop on magic items trade route
 - Someone is hunting information for money
 - Strange sightings suggest ancient magic
 - A letter reveals ancient history about the government
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

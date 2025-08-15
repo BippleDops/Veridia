@@ -1,18 +1,22 @@
 ---
+
 title: Dark Shard Amulet Xdmg
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# Dark Shard Amulet Xdmg
+--- # Dark Shard Amulet Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Dark Shard Amulet Xdmg
 aliases:
 - Dark Shard Amulet
+
 type: note
 tags:
 - both
@@ -23,6 +27,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -31,86 +36,18 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:07.357207+00:00'
 world: Both
----
 
-# Dark Shard Amulet
-*Wondrous item, common (requires attunement by a warlock)*  
-![](/03_Mechanics/CLI/items/img/dark-shard-amulet.webp#right)
+--- # Dark Shard Amulet
 
-- **Weight**: 1.0 lbs.
+*Wondrous item, common (requires attunement by a warlock)* ![](/03_Mechanics/CLI/items/img/dark-shard-amulet.webp#right) - **Weight**: 1.0 lbs. This amulet is fashioned from a shard of resilient material originating from an otherworldly realm. While you are wearing it, you gain the following benefits. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Spellcasting Focus You can use the amulet as a [[spellcasting-focus-xphb (variant-rules)]] for your Warlock spells. ## Unknown Spell As a [[actions#Magic|Magic]] action, you can try to cast a cantrip that you don't know. The cantrip must be on the Warlock spell list and have a casting time of an action, and you make a DC 10 Intelligence ([[skills#Arcana|Arcana]]) check. On a successful check, you cast the spell. On a failed check, the spell fails, and the action used to cast it is wasted. In either case, you can't use this property again until you finish a [[long-rest-xphb]]. *Source: Dungeon Master's Guide (2024) p. 248* ## Player-Facing Summary Dark shard amulet xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of dark shard amulet xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dark shard amulet xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes ## Plot Hooks - Someone is hunting a artifact for power
 
-This amulet is fashioned from a shard of resilient material originating from an otherworldly realm. While you are wearing it, you gain the following benefits.
+- A prisoner has gone missing and truth emerges ## Related Notes - [[Similar Topic 1]]
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Spellcasting Focus
-
-You can use the amulet as a [[spellcasting-focus-xphb (variant-rules)]] for your Warlock spells.
-
-## Unknown Spell
-
-As a [[actions#Magic|Magic]] action, you can try to cast a cantrip that you don't know. The cantrip must be on the Warlock spell list and have a casting time of an action, and you make a DC 10 Intelligence ([[skills#Arcana|Arcana]]) check. On a successful check, you cast the spell. On a failed check, the spell fails, and the action used to cast it is wasted. In either case, you can't use this property again until you finish a [[long-rest-xphb]].
-
-*Source: Dungeon Master's Guide (2024) p. 248*
-
-## Player-Facing Summary
-
-Dark shard amulet xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of dark shard amulet xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dark shard amulet xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
-## Plot Hooks
-
-- Someone is hunting a artifact for power
-- A prisoner has gone missing and truth emerges
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Master_Item_Catalog]]
+*Additional notes*

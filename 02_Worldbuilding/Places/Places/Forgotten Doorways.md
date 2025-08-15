@@ -119,3 +119,18 @@ Recent developments have brought new attention to Forgotten Doorways, creating o
 ## References
 
 - [[02_Worldbuilding_Places_Forgotten_Doorways]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -1,18 +1,32 @@
 ---
+
 title: see-invisibility-xphb (spells)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["see-invisibility-xphb (spells)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# see-invisibility-xphb
+ # see-invisibility-xphb ---
 
----
+## Description
+
+Detailed description pending.
 title: see invisibility xphb
 aliases:
 - See Invisibility
+
 type: note
 tags:
 - mechanics/magic
@@ -25,6 +39,7 @@ tags:
 - status/in-progress
 - importance/core
 - ttrpg-cli/compendium/src/5e/xphb
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
@@ -37,84 +52,32 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Diviner)
+
 cssclasses: json5e-spell
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:36.492666'
 world: Both
----
 
-# See Invisibility
-*2nd-level, Divination*  
+--- # See Invisibility
 
-- **Casting time:** 1 Action
+*2nd-level, Divination* - **Casting time:** 1 Action
 - **Range:** Self
 - **Components:** V, S, M (a pinch of talc)
-- **Duration:** 1 hour
+- **Duration:** 1 hour For the duration, you see creatures and objects that have the [[conditions#Invisible|Invisible]] condition as if they were visible, and you can see into the Ethereal Plane. Creatures and objects there appear ghostly. **Classes**: [[classes]]; [[List Spells Classes Light Domain Xphb]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]] *Source: Player's Handbook (2024) p. 314. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary See invisibility xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of see invisibility xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around see invisibility xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - The authorities needs help delivering before dawn
 
-For the duration, you see creatures and objects that have the [[conditions#Invisible|Invisible]] condition as if they were visible, and you can see into the Ethereal Plane. Creatures and objects there appear ghostly.
-
-**Classes**: [[classes]]; [[List Spells Classes Light Domain Xphb]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
-
-*Source: Player's Handbook (2024) p. 314. Available in the SRD and the Free Rules (2024)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-See invisibility xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of see invisibility xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around see invisibility xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- The authorities needs help delivering before dawn
 - Someone is blackmailing information for love
-- A letter reveals ancient history about a local noble
+- A letter reveals ancient history about a local noble ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## Spell Components Detail
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
-- **Material**: Required items
+- **Material**: Required items ## Common Uses
 
-## Common Uses
 - Typical applications
-- Creative uses
+- Creative uses ## Counterspell Information
 
-## Counterspell Information
 - How to counter
-- Difficulty class
+- Difficulty class ## References - [[Master_Spell_Compendium]]
 
-## References
-
-- [[Master_Spell_Compendium]]
 - [[Death Slaad Xmm]]
 - [[Derro Savant Mpmm]]
 - [[Githzerai Monk Xmm]]
@@ -226,3 +189,22 @@ Contextual improvement based on 12_Research
 - [[Soul Cage Xge]]
 - [[clairvoyance-xphb (spells)]]
 - [[soul-cage-xge (spells)]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/combat
+#mechanics/rules
+#mechanics/mechanics
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/npc
+#character/creature
+#character/monster
+#resource/item
+#meta/reference

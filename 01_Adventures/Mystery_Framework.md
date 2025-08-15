@@ -6,377 +6,278 @@ tags:
 - mystery
 - clues
 - investigation
+
 created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
 status: active
+aliases: ["Mystery Framework"]
+priority: normal
+category: 01 Adventures
+subcategory: Mystery Framework.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-### Mystery_241
+ ### Mystery_241 **Central Mystery**: Disappearance
 
-**Central Mystery**: Disappearance
+## Description
+
+Detailed description pending.
 **Key Clues**: 7 essential pieces
 **Red Herrings**: 5 false leads
-**True Culprit**: Supernatural force
+**True Culprit**: Supernatural force ### Mystery_242 **Central Mystery**: Disappearance
 
-### Mystery_242
-
-**Central Mystery**: Disappearance
 **Key Clues**: 6 essential pieces
 **Red Herrings**: 4 false leads
-**True Culprit**: Supernatural force
+**True Culprit**: Supernatural force ### Mystery_243 **Central Mystery**: Murder
 
-### Mystery_243
-
-**Central Mystery**: Murder
 **Key Clues**: 11 essential pieces
 **Red Herrings**: 6 false leads
-**True Culprit**: Least suspected
+**True Culprit**: Least suspected ### Mystery_244 **Central Mystery**: Conspiracy
 
-### Mystery_244
-
-**Central Mystery**: Conspiracy
 **Key Clues**: 9 essential pieces
 **Red Herrings**: 3 false leads
-**True Culprit**: Supernatural force
+**True Culprit**: Supernatural force ### Mystery_245 **Central Mystery**: Disappearance
 
-### Mystery_245
-
-**Central Mystery**: Disappearance
 **Key Clues**: 8 essential pieces
 **Red Herrings**: 6 false leads
-**True Culprit**: Supernatural force
+**True Culprit**: Supernatural force ### Mystery_246 **Central Mystery**: Conspiracy
 
-### Mystery_246
-
-**Central Mystery**: Conspiracy
 **Key Clues**: 5 essential pieces
 **Red Herrings**: 4 false leads
-**True Culprit**: Multiple parties
+**True Culprit**: Multiple parties ### Mystery_247 **Central Mystery**: Theft
 
-### Mystery_247
-
-**Central Mystery**: Theft
 **Key Clues**: 6 essential pieces
 **Red Herrings**: 6 false leads
-**True Culprit**: Supernatural force
+**True Culprit**: Supernatural force ### Mystery_248 **Central Mystery**: Murder
 
-### Mystery_248
-
-**Central Mystery**: Murder
 **Key Clues**: 8 essential pieces
 **Red Herrings**: 5 false leads
-**True Culprit**: Least suspected
+**True Culprit**: Least suspected ### Mystery_249 **Central Mystery**: Conspiracy
 
-### Mystery_249
-
-**Central Mystery**: Conspiracy
 **Key Clues**: 5 essential pieces
 **Red Herrings**: 4 false leads
-**True Culprit**: Multiple parties
+**True Culprit**: Multiple parties ### Mystery_250 **Central Mystery**: Conspiracy
 
-### Mystery_250
-
-**Central Mystery**: Conspiracy
 **Key Clues**: 8 essential pieces
 **Red Herrings**: 6 false leads
-**True Culprit**: Multiple parties
+**True Culprit**: Multiple parties ### Red Herring
 
-### Red Herring
 **False Lead**: Suspicious character
 **Why It Seems Real**: Motive exists
-**Actual Truth**: Framed
+**Actual Truth**: Framed ### Red Herring
 
-### Red Herring
 **False Lead**: Planted evidence
 **Why It Seems Real**: Motive exists
-**Actual Truth**: Protecting someone
+**Actual Truth**: Protecting someone ### Red Herring
 
-### Red Herring
 **False Lead**: Coincidental timing
 **Why It Seems Real**: Opportunity present
-**Actual Truth**: Coincidence
+**Actual Truth**: Coincidence ### Red Herring
 
-### Red Herring
 **False Lead**: Misleading testimony
 **Why It Seems Real**: Circumstantial evidence
-**Actual Truth**: Coincidence
+**Actual Truth**: Coincidence ### Red Herring
 
-### Red Herring
 **False Lead**: Coincidental timing
 **Why It Seems Real**: Motive exists
-**Actual Truth**: Misunderstanding
+**Actual Truth**: Misunderstanding ### Red Herring
 
-### Red Herring
 **False Lead**: Misleading testimony
 **Why It Seems Real**: Circumstantial evidence
-**Actual Truth**: Coincidence
+**Actual Truth**: Coincidence ### Red Herring
 
-### Red Herring
 **False Lead**: Misleading testimony
 **Why It Seems Real**: Motive exists
-**Actual Truth**: Protecting someone
+**Actual Truth**: Protecting someone ### Red Herring
 
-### Red Herring
 **False Lead**: Coincidental timing
 **Why It Seems Real**: Opportunity present
-**Actual Truth**: Framed
+**Actual Truth**: Framed ### Red Herring
 
-### Red Herring
 **False Lead**: Planted evidence
 **Why It Seems Real**: Opportunity present
-**Actual Truth**: Misunderstanding
+**Actual Truth**: Misunderstanding ### Red Herring
 
-### Red Herring
 **False Lead**: Suspicious character
 **Why It Seems Real**: Motive exists
-**Actual Truth**: Framed
+**Actual Truth**: Framed ### Revelation Moment
 
-### Revelation Moment
 **Discovery**: Real motive
 **How Revealed**: Witness confession
-**Impact**: Creates new questions
+**Impact**: Creates new questions ### Revelation Moment
 
-### Revelation Moment
 **Discovery**: Secret history
 **How Revealed**: Witness confession
-**Impact**: Creates new questions
+**Impact**: Creates new questions ### Revelation Moment
 
-### Revelation Moment
 **Discovery**: Real motive
 **How Revealed**: Witness confession
-**Impact**: Creates new questions
+**Impact**: Creates new questions ### Revelation Moment
 
-### Revelation Moment
 **Discovery**: Real motive
 **How Revealed**: Witness confession
-**Impact**: Shifts suspicion
+**Impact**: Shifts suspicion ### Revelation Moment
 
-### Revelation Moment
 **Discovery**: Real motive
 **How Revealed**: Magical detection
-**Impact**: Creates new questions
+**Impact**: Creates new questions ### Revelation Moment
 
-### Revelation Moment
 **Discovery**: True identity
 **How Revealed**: Witness confession
-**Impact**: Creates new questions
+**Impact**: Creates new questions ### Revelation Moment
 
-### Revelation Moment
 **Discovery**: True identity
 **How Revealed**: Witness confession
-**Impact**: Explains mysteries
+**Impact**: Explains mysteries ### Revelation Moment
 
-### Revelation Moment
 **Discovery**: Secret history
 **How Revealed**: Document found
-**Impact**: Shifts suspicion
+**Impact**: Shifts suspicion ### Revelation Moment
 
-### Revelation Moment
 **Discovery**: Real motive
 **How Revealed**: Magical detection
-**Impact**: Shifts suspicion
+**Impact**: Shifts suspicion ### Revelation Moment
 
-### Revelation Moment
 **Discovery**: True identity
 **How Revealed**: Deduction
-**Impact**: Explains mysteries
+**Impact**: Explains mysteries ### Investigation Mechanics
 
-### Investigation Mechanics
 **Skill Checks**: Investigation DC 19
 **Time Pressure**: 3 days before culprit escapes
-**Resources**: Informant network
+**Resources**: Informant network ### Investigation Mechanics
 
-### Investigation Mechanics
 **Skill Checks**: Insight DC 10
 **Time Pressure**: 4 days before trail goes cold
-**Resources**: Informant network
+**Resources**: Informant network ### Investigation Mechanics
 
-### Investigation Mechanics
 **Skill Checks**: Investigation DC 19
 **Time Pressure**: 5 days before crime repeats
-**Resources**: Underground contacts
+**Resources**: Underground contacts ### Investigation Mechanics
 
-### Investigation Mechanics
 **Skill Checks**: Perception DC 19
 **Time Pressure**: 3 days before crime repeats
-**Resources**: Informant network
+**Resources**: Informant network ### Investigation Mechanics
 
-### Investigation Mechanics
 **Skill Checks**: Investigation DC 16
 **Time Pressure**: 6 days before crime repeats
-**Resources**: Official authority
+**Resources**: Official authority ### Investigation Mechanics
 
-### Investigation Mechanics
 **Skill Checks**: Perception DC 11
 **Time Pressure**: 1 days before culprit escapes
-**Resources**: Magic divination
+**Resources**: Magic divination ### Investigation Mechanics
 
-### Investigation Mechanics
 **Skill Checks**: Investigation DC 14
 **Time Pressure**: 3 days before culprit escapes
-**Resources**: Underground contacts
+**Resources**: Underground contacts ### Investigation Mechanics
 
-### Investigation Mechanics
 **Skill Checks**: Insight DC 10
 **Time Pressure**: 7 days before crime repeats
-**Resources**: Informant network
+**Resources**: Informant network ### Investigation Mechanics
 
-### Investigation Mechanics
 **Skill Checks**: Investigation DC 16
 **Time Pressure**: 6 days before crime repeats
-**Resources**: Underground contacts
+**Resources**: Underground contacts ### Investigation Mechanics
 
-### Investigation Mechanics
 **Skill Checks**: Insight DC 14
 **Time Pressure**: 4 days before crime repeats
-**Resources**: Underground contacts
+**Resources**: Underground contacts ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Accessibility Improvements - Include content warnings and safety tools ### Spotlight Improvements - Include spotlight moment for each character class ### Worldbuilding Improvements - Connect to three other adventures in the vault ### Level_Range Improvements - Provide scaling for different level ranges ### Soundtrack Improvements - Suggest music/ambiance for each scene ### Backup Improvements - Add 'What if players skip this?' contingency ### Art Improvements - Add AI art prompts for key scenes ### Session_Zero Improvements - Add session zero integration questions ## DM Notes *Private notes for campaign integration:*
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Combat Improvements
-
-- Add encounter scaling table for parties of 3-6 players, levels 1-20
-
-### Rewards Improvements
-
-- Create treasure parcels for each major encounter
-
-### Structure Improvements
-
-- Add three-act structure with rising action
-
-### Choices Improvements
-
-- Add meaningful decision points with consequences
-
-### Roleplay Improvements
-
-- Include ethical challenges without clear answers
-
-### Accessibility Improvements
-
-- Include content warnings and safety tools
-
-### Spotlight Improvements
-
-- Include spotlight moment for each character class
-
-### Worldbuilding Improvements
-
-- Connect to three other adventures in the vault
-
-### Level_Range Improvements
-
-- Provide scaling for different level ranges
-
-### Soundtrack Improvements
-
-- Suggest music/ambiance for each scene
-
-### Backup Improvements
-
-- Add 'What if players skip this?' contingency
-
-### Art Improvements
-
-- Add AI art prompts for key scenes
-
-### Session_Zero Improvements
-
-- Add session zero integration questions
-
-## DM Notes
-
-*Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes
+- Connections to overarching campaign themes ## Prophecy Connection Mentioned in The Second Prophecy of Winds ## Plot Hooks - Someone is blackmailing an heir for revenge
 
-## Prophecy Connection
+- Someone is protecting a witness for power ## Moral Quandaries - The villain's family begs for mercy
 
-Mentioned in The Second Prophecy of Winds
-
-## Plot Hooks
-
-- Someone is blackmailing an heir for revenge
-- Someone is protecting a witness for power
-
-## Moral Quandaries
-
-- The villain's family begs for mercy
 - Stealing medicine to save a plague victim
-- Choosing between two villages to save
+- Choosing between two villages to save ## Background
 
-## Background
-*[Adventure setup and context]*
+*[Adventure setup and context]* ### What Happened Before
 
-### What Happened Before
-- *[Recent events leading to this adventure]*
+- *[Recent events leading to this adventure]* ### Current Situation - *[What's happening now]* ### The Stakes
 
-### Current Situation  
-- *[What's happening now]*
+- *[What happens if PCs don't act]* ## Adventure Hooks
 
-### The Stakes
-- *[What happens if PCs don't act]*
+*[Ways to get PCs involved]* ### Direct Approach
 
-## Adventure Hooks
-*[Ways to get PCs involved]*
+- *[Straightforward hook]* ### Indirect Approach
 
-### Direct Approach
-- *[Straightforward hook]*
+- *[Subtle introduction]* ### Emergency Hook
 
-### Indirect Approach
-- *[Subtle introduction]*
+- *[Urgent situation]* ## Key NPCs
 
-### Emergency Hook
-- *[Urgent situation]*
+*[Important characters in this adventure]* ### Allies
 
-## Key NPCs
-*[Important characters in this adventure]*
+- *[Helpful NPCs]* ### Antagonists
 
-### Allies
-- *[Helpful NPCs]*
+- *[Opposition NPCs]* ### Neutral Parties
 
-### Antagonists
-- *[Opposition NPCs]*
+- *[Information sources]* ## Locations
 
-### Neutral Parties
-- *[Information sources]*
+*[Important places in this adventure]* ### Starting Location
 
-## Locations
-*[Important places in this adventure]*
+- *[Where adventure begins]* ### Key Sites
 
-### Starting Location
-- *[Where adventure begins]*
+- *[Major locations to visit]* ### Optional Areas
 
-### Key Sites
-- *[Major locations to visit]*
+- *[Side locations]* ## Scaling
 
-### Optional Areas
-- *[Side locations]*
+*[How to adjust for different party levels]* ### Lower Level Parties
 
-## Scaling
-*[How to adjust for different party levels]*
+- *[Adjustments for weaker groups]* ### Higher Level Parties
 
-### Lower Level Parties
-- *[Adjustments for weaker groups]*
+- *[Adjustments for stronger groups]* ### Large/Small Parties
 
-### Higher Level Parties
-- *[Adjustments for stronger groups]*
+- *[Adjustments for party size]* ## See Also
 
-### Large/Small Parties
-- *[Adjustments for party size]*
-
-## See Also
 - Related content
 - Similar topics
-- Connected elements
+- Connected elements ## Player Tips
 
-## Player Tips
 > 🎮 **Strategy**: How to approach this content
+
 > Work together and communicate
+
+## Notes
+
+*Additional notes*
+
+#mechanics/combat
+#mechanics/mechanics
+#story/plot
+#story/story
+#story/background
+#world/location
+#world/world
+#world/place
+#character/npc
+#character/character
+#gameplay/session
+#gameplay/encounter
+#gameplay/adventure
+#gameplay/quest
+#resource/treasure
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

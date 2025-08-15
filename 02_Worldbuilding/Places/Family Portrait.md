@@ -224,3 +224,18 @@ Ongoing situations affecting Family Portrait:
 
 - [[Original Glaucus]]
 - [[Original Glaucus (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -6,6 +6,7 @@ tags:
 - place
 - active
 - location
+
 created: '2025-08-14'
 modified: '2025-08-14'
 region: Unknown
@@ -13,276 +14,197 @@ population: Unknown
 evaluated: '2025-08-14'
 improvements: 20
 status: active
+aliases: ["Quests Quest Corruption in the Temple"]
+priority: normal
+category: 01 Adventures
+subcategory: Quests Quest Corruption In The Temple.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-## Complications
+ ## Complications
+
+## Description
+
+Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas
+- Moral dilemmas ## Quest Giver
 
-## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
-- **Motivation**: Community safety
+- **Motivation**: Community safety ## Objectives
 
-## Objectives
 ### Primary
-- Main quest goal
 
-### Optional
+- Main quest goal ### Optional
+
 - Secondary objectives
-- Hidden goals
+- Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### History Improvements - Add three historical eras with major events ### Culture Improvements - Define unique cultural practices and taboos ### Economy Improvements - Detail currency, trade goods, and wealth distribution ### Religion Improvements - Create detailed religious observances ### Lifestyle Improvements - Describe typical day for different social classes ### Hospitality Improvements - Explain guest rights and host obligations ### Evolution Improvements - Show how traditions are changing with new generation ### Death_Customs Improvements - Detail funeral rites and afterlife beliefs ### Contradictions Improvements - Include cultural hypocrisies and double standards ### Coming_Of_Age Improvements - Describe rites of passage and adulthood markers ### Superstitions Improvements - List common superstitions and their origins ### Diaspora Improvements - Describe how this culture exists in other regions ## Overview **Type**: Temple
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### History Improvements
-
-- Add three historical eras with major events
-
-### Culture Improvements
-
-- Define unique cultural practices and taboos
-
-### Economy Improvements
-
-- Detail currency, trade goods, and wealth distribution
-
-### Religion Improvements
-
-- Create detailed religious observances
-
-### Lifestyle Improvements
-
-- Describe typical day for different social classes
-
-### Hospitality Improvements
-
-- Explain guest rights and host obligations
-
-### Evolution Improvements
-
-- Show how traditions are changing with new generation
-
-### Death_Customs Improvements
-
-- Detail funeral rites and afterlife beliefs
-
-### Contradictions Improvements
-
-- Include cultural hypocrisies and double standards
-
-### Coming_Of_Age Improvements
-
-- Describe rites of passage and adulthood markers
-
-### Superstitions Improvements
-
-- List common superstitions and their origins
-
-### Diaspora Improvements
-
-- Describe how this culture exists in other regions
-
-## Overview
-
-**Type**: Temple
 **Region**: [[Regional Territory]]
 **Population**: ~1,000-10,000 (varies by type)
 **Government**: Local Council
-**Defenses**: Standard fortifications
+**Defenses**: Standard fortifications ### Atmosphere The atmosphere of this location shifts throughout the day. Mornings see solemn ceremonies, while nightfall transforms the area with increased activity. ### Atmosphere The atmosphere of this location shifts throughout the day. Mornings see vibrant festivals, while nightfall transforms the area with mysterious shadows. 02_Worldbuilding/Quests/Quest - Corruption in the Temple stands as a significant temple in the region, serving both strategic and economic purposes. Its location provides advantages for trade, defense, and regional influence. ### Architecture
 
-### Atmosphere
-
-The atmosphere of this location shifts throughout the day. Mornings see solemn ceremonies, while nightfall transforms the area with increased activity.
-
-### Atmosphere
-
-The atmosphere of this location shifts throughout the day. Mornings see vibrant festivals, while nightfall transforms the area with mysterious shadows.
-
-02_Worldbuilding/Quests/Quest - Corruption in the Temple stands as a significant temple in the region, serving both strategic and economic purposes. Its location provides advantages for trade, defense, and regional influence.
-
-### Architecture
 The temple features architecture typical of the region, with buildings constructed from local materials. Key structures include:
 - Central plaza or courtyard
 - Administrative buildings
 - Commercial district
 - Residential areas
-- Defensive structures (if applicable)
+- Defensive structures (if applicable) ### Founding
 
-### Founding
-Established generations ago as a strategic settlement, 02_Worldbuilding/Quests/Quest - Corruption in the Temple has grown from humble beginnings to its current significance.
+Established generations ago as a strategic settlement, 02_Worldbuilding/Quests/Quest - Corruption in the Temple has grown from humble beginnings to its current significance. ### Notable Landmarks
 
-### Notable Landmarks
 1. **Central Structure**: Main governmental or religious building
 2. **Market Square**: Hub of commercial activity
 3. **Defensive Works**: Walls, gates, or natural barriers
-4. **Cultural Sites**: Temples, theaters, or academies
+4. **Cultural Sites**: Temples, theaters, or academies ## Sensory Details **Sights**: Colorful banners flutter in the breeze **Sounds**: Merchants hawk their wares with practiced calls **Smells**: The aroma of fresh bread wafts from bakeries ### Leadership
 
-## Sensory Details
 
-**Sights**: Colorful banners flutter in the breeze
+Led by a council of representatives or appointed officials, maintaining order and managing resources. ### Laws
 
-**Sounds**: Merchants hawk their wares with practiced calls
-
-**Smells**: The aroma of fresh bread wafts from bakeries
-
-### Leadership
-Led by a council of representatives or appointed officials, maintaining order and managing resources.
-
-### Laws
 Standard regional laws apply, with local ordices for:
 - Trade regulations
 - Public safety
 - Resource management
-- Defense requirements
+- Defense requirements ### Traditions
 
-### Traditions
-Local customs blend regional traditions with unique local practices developed over generations.
+Local customs blend regional traditions with unique local practices developed over generations. ## Current Events The temple currently faces:
 
-## Current Events
-
-The temple currently faces:
 - Political developments
 - Economic opportunities
 - Security concerns
-- Social changes
+- Social changes ## Adventure Hooks 1. **Political Intrigue**: Power struggles within leadership
 
-## Adventure Hooks
-
-1. **Political Intrigue**: Power struggles within leadership
 2. **Economic Opportunity**: Trade deals and merchant conflicts
 3. **Security Threat**: External or internal dangers
 4. **Mystery**: Unexplained events requiring investigation
-5. **Social Conflict**: Tensions between different groups
+5. **Social Conflict**: Tensions between different groups ### Key Locations
 
-### Key Locations
+
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
-5. Hidden or secret areas
+5. Hidden or secret areas ## Maps & Layouts *[Space for maps]* Key locations marked:
 
-## Maps & Layouts
 
-*[Space for maps]*
-
-Key locations marked:
 - Main entrances
 - Important buildings
 - Districts
-- Defensive positions
+- Defensive positions ### Hidden Truths
 
-### Hidden Truths
 - Secrets known only to a few
 - Ancient mysteries
-- Concealed dangers
+- Concealed dangers ---
 
----
-*Tags*: #location #temple #worldbuilding #place
+*Tags*: #location #temple #worldbuilding #place ## Background
 
-## Background
-*[Adventure setup and context]*
+*[Adventure setup and context]* ### What Happened Before
 
-### What Happened Before
-- *[Recent events leading to this adventure]*
+- *[Recent events leading to this adventure]* ### Current Situation - *[What's happening now]* ### The Stakes
 
-### Current Situation  
-- *[What's happening now]*
+- *[What happens if PCs don't act]* ## Key NPCs
 
-### The Stakes
-- *[What happens if PCs don't act]*
+*[Important characters in this adventure]* ### Allies
 
-## Key NPCs
-*[Important characters in this adventure]*
+- *[Helpful NPCs]* ### Antagonists
 
-### Allies
-- *[Helpful NPCs]*
+- *[Opposition NPCs]* ### Neutral Parties
 
-### Antagonists
-- *[Opposition NPCs]*
+- *[Information sources]* ## Locations
 
-### Neutral Parties
-- *[Information sources]*
+*[Important places in this adventure]* ### Starting Location
 
-## Locations
-*[Important places in this adventure]*
+- *[Where adventure begins]* ### Key Sites
 
-### Starting Location
-- *[Where adventure begins]*
+- *[Major locations to visit]* ### Optional Areas
 
-### Key Sites
-- *[Major locations to visit]*
+- *[Side locations]* ## Rewards
 
-### Optional Areas
-- *[Side locations]*
+*[What PCs gain from completing this adventure]* ### Experience Points
 
-## Rewards
-*[What PCs gain from completing this adventure]*
+- *[XP awards]* ### Treasure
 
-### Experience Points
-- *[XP awards]*
+- *[Gold and magic items]* ### Story Rewards
 
-### Treasure
-- *[Gold and magic items]*
+- *[Reputation, allies, information]* ## Scaling
 
-### Story Rewards
-- *[Reputation, allies, information]*
+*[How to adjust for different party levels]* ### Lower Level Parties
 
-## Scaling
-*[How to adjust for different party levels]*
+- *[Adjustments for weaker groups]* ### Higher Level Parties
 
-### Lower Level Parties
-- *[Adjustments for weaker groups]*
+- *[Adjustments for stronger groups]* ### Large/Small Parties
 
-### Higher Level Parties
-- *[Adjustments for stronger groups]*
+- *[Adjustments for party size]* ## Time Limit
 
-### Large/Small Parties
-- *[Adjustments for party size]*
-
-## Time Limit
 - **Deadline**: When it must be completed
-- **Consequences**: What happens if late
+- **Consequences**: What happens if late ## Opposition
 
-## Opposition
 - **Enemies**: Who opposes the party
-- **Obstacles**: Environmental challenges
+- **Obstacles**: Environmental challenges ## Moral Dilemmas
 
-## Moral Dilemmas
 - **Difficult Choices**: Ethical challenges
-- **Consequences**: Impact of decisions
+- **Consequences**: Impact of decisions ## Optional Objectives
 
-## Optional Objectives
 - **Bonus Goals**: Extra achievements
-- **Hidden Rewards**: Secret treasures
+- **Hidden Rewards**: Secret treasures ## Failure Conditions
 
-## Failure Conditions
 - **What Constitutes Failure**: Clear parameters
-- **Failure Consequences**: What happens
+- **Failure Consequences**: What happens ## Investigation Clues
 
-## Investigation Clues
 - **Obvious Clues**: Easy to find
-- **Hidden Clues**: Require searching
+- **Hidden Clues**: Require searching ## Social Encounters
 
-## Social Encounters
 - **Key Conversations**: Important dialogues
-- **Persuasion Opportunities**: Diplomatic solutions
+- **Persuasion Opportunities**: Diplomatic solutions ## Environmental Hazards
 
-## Environmental Hazards
 - **Natural Dangers**: Environmental threats
-- **Trap Locations**: Mechanical dangers
+- **Trap Locations**: Mechanical dangers ## Scaling Options
 
-## Scaling Options
 - **Easy Mode**: Reduced difficulty
-- **Hard Mode**: Increased challenge
+- **Hard Mode**: Increased challenge ## See Also
 
-## See Also
 - Related content
 - Similar topics
-- Connected elements
+- Connected elements ## DM Tips
 
-## DM Tips
 > 💡 **Running This Content**: Advice for game masters
+
 > Adjust difficulty based on party composition
+
+## Notes
+
+*Additional notes*
+
+#mechanics/dice
+#story/story
+#story/background
+#world/location
+#world/world
+#world/place
+#character/npc
+#character/character
+#gameplay/encounter
+#gameplay/adventure
+#gameplay/quest
+#resource/item
+#resource/treasure
+#meta/hub
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

@@ -109,3 +109,23 @@ Further information about this topic will be developed as the campaign progresse
 - [[Assets Locations Location City Captain Echo V1 Captain Echo.svg]]
 - [[Assets Locations Location City Weapon Master Dain Sharpedge Weapon Master Dain Sharpedge.svg]]
 - [[Assets Portraits Portrait NPC Master Smith Priest Vulcan Depthforge Master Smith Priest Vulcan Depthforge.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

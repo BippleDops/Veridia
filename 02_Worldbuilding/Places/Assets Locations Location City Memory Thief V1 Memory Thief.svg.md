@@ -182,3 +182,22 @@ Key stop on magic items trade route
 
 - A corpse reveals a conspiracy about a local noble
 - A merchant needs help stealing before the new moon
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

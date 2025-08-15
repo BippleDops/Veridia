@@ -93,3 +93,27 @@ improvements: 20
 - Strange sightings suggest a conspiracy
 - A prisoner has gone missing and truth emerges
 - Strange sightings suggest a portal
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

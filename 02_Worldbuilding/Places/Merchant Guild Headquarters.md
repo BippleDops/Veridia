@@ -229,3 +229,18 @@ Key stop on spices trade route
 ## References
 
 - [[Quarantine Enforcement]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

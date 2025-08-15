@@ -209,3 +209,18 @@ Ongoing situations affecting Community Leaders:
 - [[The Mothercoral Crisis]]
 - [[Mad Oracle Thessaly (D&D_References)]]
 - [[Shadow Ambush - Optional]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

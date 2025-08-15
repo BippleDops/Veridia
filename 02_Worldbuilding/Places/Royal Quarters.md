@@ -264,3 +264,18 @@ Key stop on textiles trade route
 - [[Inverted Ballroom Wing]]
 - [[Maelstrom Palace]]
 - [[Inverted Ballroom Wing (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

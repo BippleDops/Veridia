@@ -533,3 +533,18 @@ Ongoing situations affecting The Umbral Nexus:
 ## References
 
 - [[The Shadow Conspiracy Hierarchy (Criminal_Organizations)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

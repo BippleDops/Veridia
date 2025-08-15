@@ -224,3 +224,18 @@ Key stop on textiles trade route
 - [[Harbor Master Luna Freedrift (Places)]]
 - [[The Phantom Current (D&D_References)]]
 - [[Harbor Master Luna Freedrift (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

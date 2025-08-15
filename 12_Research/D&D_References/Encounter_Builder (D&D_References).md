@@ -1,15 +1,28 @@
 ---
+
 title: Encounter_Builder (D&D_References)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Encounter Builder (D&D References)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D References
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Encounter_Builder
+ # Encounter_Builder ---
 
----
+## Description
+
+Detailed description pending.
 title: Encounter Builder & Combat Guide
 type: Lore
 tags:
@@ -22,142 +35,83 @@ tags:
 - combat
 - complete
 - gm_resource
+
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
 world: Both
 updated: '2025-08-13T01:18:31.117537+00:00'
----
 
-# Encounter Builder
-*Crafting Memorable Conflicts in the Depths*
+--- # Encounter Builder
 
-### Encounter Formula
-**Challenge = Party Level + Depth Modifier + Situation Modifier**
+*Crafting Memorable Conflicts in the Depths* ### Encounter Formula
 
-### Pressure Point Defense
+**Challenge = Party Level + Depth Modifier + Situation Modifier** ### Pressure Point Defense
+
 **Setup**: Enemies attack from multiple depth levels
-**Enemies**: 
-- 2 ranged (above)
+**Enemies**: - 2 ranged (above)
 - 2 melee (same level)
-- 1 controller (below)
-
-**Environmental Features**:
+- 1 controller (below) **Environmental Features**:
 - Strong current (15ft/round east)
 - Pressure vent (2d6 damage if crossed)
-- Dark water (heavily obscured beyond 30ft)
-
-**Tactics**:
+- Dark water (heavily obscured beyond 30ft) **Tactics**:
 - Ranged attackers maintain height advantage
 - Melee fighters use current for mobility
-- Controller manipulates battlefield with spells/abilities
-
-**Victory Conditions**:
+- Controller manipulates battlefield with spells/abilities **Victory Conditions**:
 - Defeat all enemies
 - Survive 10 rounds
 - Reach escape point
-- Protect objective
+- Protect objective ### Leviathan Hunt
 
-### Leviathan Hunt
 **Setup**: Single massive creature in open water
-**Enemy**: Leviathan (CR = Party Level +3)
-
-**Phases**:
+**Enemy**: Leviathan (CR = Party Level +3) **Phases**:
 1. **Approach** (100-50ft): Ranged attacks only
-2. **Engagement** (50-10ft): Full attacks, AoE abilities
-3. **Desperation** (10ft-0): Grapples, swallow attempts
+2. **Engagement** (50-10ft): Full attacks, Ao E abilities
+3. **Desperation** (10ft-0): Grapples, swallow attempts **Environmental Features**:
 
-**Environmental Features**:
 - No sea floor (infinite depth below)
 - Debris field (half cover)
-- Thermal layer (obscures vision)
-
-**Special Mechanics**:
+- Thermal layer (obscures vision) **Special Mechanics**:
 - Weak points (double damage)
 - Harpoon tethers (prevent escape)
-- Blood frenzy (attracts more predators)
+- Blood frenzy (attracts more predators) ### Faction Ambush
 
-### Faction Ambush
 **Setup**: Political enemies strike during negotiation
-**Enemies**: 
-- 1 Leader (CR = Party Level)
+**Enemies**: - 1 Leader (CR = Party Level)
 - 4 Soldiers (CR = Party Level -2)
-- 2 Assassins (CR = Party Level -1)
+- 2 Assassins (CR = Party Level -1) **Phases**:
 
-**Phases**:
 1. **Negotiation**: Social encounter
 2. **Betrayal**: Surprise round for enemies
 3. **Chaos**: Full combat
-4. **Escape/Capture**: Chase scene
+4. **Escape/Capture**: Chase scene **Complications**:
 
-**Complications**:
 - Civilians present (moral choices)
 - Political ramifications (killing has consequences)
-- Evidence to preserve (for later proof)
+- Evidence to preserve (for later proof) ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Encounter Builder is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Encounter Builder as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Encounter Builder. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A document has gone missing and truth emerges
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Encounter Builder is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of Encounter Builder as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Encounter Builder.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A document has gone missing and truth emerges
 - A map reveals a betrayal about the government
-- Strange sightings suggest a curse
+- Strange sightings suggest a curse ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## Scaling by Party Level
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty
 - **Level 11-15**: Add elite enemies
-- **Level 16-20**: Legendary difficulty
+- **Level 16-20**: Legendary difficulty ## DM Tips
 
-## DM Tips
 > 💡 **Running This Content**: Advice for game masters
-> Adjust difficulty based on party composition
-## Action Economy
 
-### On Your Turn (PHB p.189)
+> Adjust difficulty based on party composition
+## Action Economy ### On Your Turn (PHB p.189)
+
 - **Movement**: Up to your speed
 - **Action**: One action from available options
 - **Bonus Action**: If you have an ability that uses it
-- **Free Actions**: Interact with one object, speak
+- **Free Actions**: Interact with one object, speak ### Actions Available (PHB p.192)
 
-### Actions Available (PHB p.192)
 - **Attack**: Make one attack (more with Extra Attack)
 - **Cast a Spell**: Cast time of 1 action
 - **Dash**: Double movement
@@ -167,13 +121,27 @@ Contextual improvement based on 12_Research
 - **Hide**: Stealth check to hide
 - **Ready**: Prepare action with trigger
 - **Search**: Perception or Investigation
-- **Use an Object**: Interact with object
+- **Use an Object**: Interact with object ### Reactions (PHB p.190)
 
-### Reactions (PHB p.190)
 - One reaction per round
 - Resets at start of your turn
-- Common: Opportunity attacks, Counterspell, Shield
+- Common: Opportunity attacks, Counterspell, Shield ### Bonus Actions
 
-### Bonus Actions
 - Only if feature/spell grants one
 - Common: Off-hand attack, Cunning Action, Healing Word
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/combat
+#mechanics/mechanics
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#gameplay/encounter
+#meta/reference

@@ -172,3 +172,22 @@ Key locations marked:
 - A noble needs help investigating before winter
 - A stranger needs help stealing before dawn
 - An heirloom has gone missing and evil awakens
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

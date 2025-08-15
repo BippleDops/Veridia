@@ -182,3 +182,22 @@ Key locations marked:
 - A document has gone missing and war looms
 - A corpse reveals ancient history about the government
 - A prisoner has gone missing and war looms
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

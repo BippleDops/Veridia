@@ -1,18 +1,32 @@
 ---
+
 title: disguise-self-xphb (spells)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["disguise-self-xphb (spells)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# disguise-self-xphb
+ # disguise-self-xphb ---
 
----
+## Description
+
+Detailed description pending.
 title: disguise self xphb
 aliases:
 - Disguise Self
+
 type: note
 tags:
 - mechanics/magic
@@ -25,6 +39,7 @@ tags:
 - status/in-progress
 - importance/core
 - ttrpg-cli/compendium/src/5e/xphb
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -38,99 +53,40 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Illusionist)
+
 cssclasses: json5e-spell
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:36.027397'
 world: Both
----
 
-# Disguise Self
-*1st-level, Illusion*  
+--- # Disguise Self
 
-- **Casting time:** 1 Action
+*1st-level, Illusion* - **Casting time:** 1 Action
 - **Range:** Self
 - **Components:** V, S
-- **Duration:** 1 hour
+- **Duration:** 1 hour You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends. You can seem 1 foot shorter or taller and can appear heavier or lighter. You must adopt a form that has the same basic arrangement of limbs as you have. Otherwise, the extent of the illusion is up to you. The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing. To discern that you are disguised, a creature must take the [[actions#Study|Study]] action to inspect your appearance and succeed on an Intelligence ([[skills#Investigation|Investigation]]) check against your spell save DC. **Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]] *Source: Player's Handbook (2024) p. 262. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Disguise self xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of disguise self xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around disguise self xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## Plot Hooks - A map reveals a conspiracy about this place
 
-You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends. You can seem 1 foot shorter or taller and can appear heavier or lighter. You must adopt a form that has the same basic arrangement of limbs as you have. Otherwise, the extent of the illusion is up to you.
-
-The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing.
-
-To discern that you are disguised, a creature must take the [[actions#Study|Study]] action to inspect your appearance and succeed on an Intelligence ([[skills#Investigation|Investigation]]) check against your spell save DC.
-
-**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
-
-*Source: Player's Handbook (2024) p. 262. Available in the SRD and the Free Rules (2024)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Disguise self xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of disguise self xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around disguise self xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
-## Plot Hooks
-
-- A map reveals a conspiracy about this place
 - A journal reveals the truth about this place
-- A merchant needs help investigating before dawn
+- A merchant needs help investigating before dawn ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## Spell Components Detail
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
-- **Material**: Required items
+- **Material**: Required items ## Common Uses
 
-## Common Uses
 - Typical applications
-- Creative uses
+- Creative uses ## Counterspell Information
 
-## Counterspell Information
 - How to counter
 - Difficulty class
+
 ## Sourcebook Reference
+
 - **Source**: Player's Handbook
 - **School**: See spell description
-- **Available to**: Check class spell lists
+- **Available to**: Check class spell lists ### CLI Reference
 
-### CLI Reference
-See: `[[disguise-self-xphb (spells)|disguise-self-xphb (spells)-phb]]` in CLI_Reference/spells/
+See:`[[disguise-self-xphb (spells)|disguise-self-xphb (spells)-phb]]`in CLI_Reference/spells/ ## References - [[Master_Spell_Compendium]]
 
-## References
-
-- [[Master_Spell_Compendium]]
 - [[Mind Flayer Arcanist Xmm]]
 - [[mind-flayer-arcanist-xmm (aberration)]]
 - [[Annis Hag Mpmm]]
@@ -181,3 +137,21 @@ See: `[[disguise-self-xphb (spells)|disguise-self-xphb (spells)-phb]]` in CLI_Re
 - [[gnome-deep-dmg (races)]]
 - [[tiefling-dispater-mtf (races)]]
 - [[tiefling-glasya-mtf (races)]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#mechanics/mechanics
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#character/person
+#character/creature
+#resource/item
+#meta/reference

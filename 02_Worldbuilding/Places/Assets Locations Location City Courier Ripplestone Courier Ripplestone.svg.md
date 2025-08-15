@@ -177,3 +177,22 @@ Key locations marked:
 
 - A journal reveals a conspiracy about the cult
 - A stranger needs help stealing before the festival
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

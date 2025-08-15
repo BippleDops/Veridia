@@ -476,3 +476,28 @@ riched: true -->
 - [[02_Worldbuilding/Groups/Purist Coalition]]
 - [[02_Worldbuilding/Lore/The Great Crystallization]]
 - [[02_Worldbuilding/Places/Sylvanheart]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

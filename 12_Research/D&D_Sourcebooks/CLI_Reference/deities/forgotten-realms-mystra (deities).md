@@ -1,18 +1,32 @@
 ---
+
 title: forgotten-realms-mystra (deities)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["forgotten-realms-mystra (deities)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# forgotten-realms-mystra
+ # forgotten-realms-mystra ---
 
----
+## Description
+
+Detailed description pending.
 title: forgotten realms mystra
 aliases:
 - Mystra
+
 type: note
 tags:
 - ttrpg-cli/compendium/src/5e/phb
@@ -24,65 +38,40 @@ tags:
 - note
 - status/in-progress
 - importance/core
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-deity
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:34.043910'
 world: Both
----
 
-# Mystra
-*Source: Player's Handbook p. 294, Sword Coast Adventurer's Guide p. 125. Available in the Basic Rules (2014)* 
+--- # Mystra
 
-- **Alignment**: Neutral Good
+*Source: Player's Handbook p. 294, Sword Coast Adventurer's Guide p. 125. Available in the Basic Rules (2014)* - **Alignment**: Neutral Good
 - **Domains**: Knowledge, Arcana
 - **Pantheon**: Forgotten Realms
-- **Symbol**: Circle of seven stars, or nine stars encircling a flowing red mist, or a single star
+- **Symbol**: Circle of seven stars, or nine stars encircling a flowing red mist, or a single star ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Forgotten realms mystra is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of forgotten realms mystra as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around forgotten realms mystra. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is hunting an heir for power
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Forgotten realms mystra is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of forgotten realms mystra as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around forgotten realms mystra.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Someone is hunting an heir for power
 - A prisoner has gone missing and truth emerges
 - Someone is hunting an heir for love
-- Strange disappearances suggest a portal
+- Strange disappearances suggest a portal ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#gameplay/adventure
+#meta/reference

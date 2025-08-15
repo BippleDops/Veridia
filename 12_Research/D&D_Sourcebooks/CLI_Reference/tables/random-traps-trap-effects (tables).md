@@ -1,18 +1,32 @@
 ---
+
 title: random-traps-trap-effects (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["random-traps-trap-effects (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# random-traps-trap-effects
+ # random-traps-trap-effects ---
 
----
+## Description
+
+Detailed description pending.
 title: random traps trap effects
 aliases:
 - Random Traps; Trap Effects
+
 type: note
 tags:
 - research
@@ -21,23 +35,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.252743'
 world: Both
----
 
-# Random Traps; Trap Effects
-*Source: Dungeon Master's Guide p. 297* 
+--- # Random Traps; Trap Effects
 
-**Trap Effects**
-
-`dice: [](random-traps-trap-effects.md#^trap-effects)`
-
-| dice: d100 | Effect |
+*Source: Dungeon Master's Guide p. 297* **Trap Effects**`dice: [](random-traps-trap-effects.md#^trap-effects)`| dice: d100 | Effect |
 |------------|--------|
 | 1-4 | [[Magic Missile]] shoot from a statue or object |
 | 5-7 | Collapsing staircase creates a ramp that deposits characters into a pit at its lower end |
@@ -70,49 +79,22 @@ world: Both
 | 92-94 | Stone block smashes across hallway |
 | 95-97 | [[Symbol Xphb]] |
 | 98-100 | Walls slide together |
-^trap-effects
 
-## 🔧 Deep Evaluation Improvements
+^trap-effects ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Random traps trap effects is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of random traps trap effects as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random traps trap effects. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The First Prophecy of Winds ## Plot Hooks - Strange dreams suggest a curse
 
-*20 targeted improvements identified*
+- Strange sightings suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-### Connection Improvements
 
-- Add cross-references to related notes
+## Notes
 
-### Enhancement Improvements
+*Additional notes*
 
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Random traps trap effects is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of random traps trap effects as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random traps trap effects.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The First Prophecy of Winds
-
-## Plot Hooks
-
-- Strange dreams suggest a curse
-- Strange sightings suggest ancient magic
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/character
+#character/monster
+#meta/reference

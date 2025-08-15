@@ -275,3 +275,28 @@ Mentioned in The Second Prophecy of Depths
 - [[Aethermoor Session 07 the Festival of Transformation]]
 - [[Aethermoor Session 07 the Festival of]]
 - [[Aethermoor - Session 05 The Queens Madness]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

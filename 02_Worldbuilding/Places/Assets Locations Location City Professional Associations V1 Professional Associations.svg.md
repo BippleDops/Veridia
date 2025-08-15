@@ -175,3 +175,22 @@ Key locations marked:
 - Someone is hunting information for revenge
 - An heirloom has gone missing and war looms
 - Someone is blackmailing a witness for money
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

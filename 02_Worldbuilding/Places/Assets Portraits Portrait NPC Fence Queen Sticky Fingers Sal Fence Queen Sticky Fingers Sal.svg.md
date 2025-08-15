@@ -212,3 +212,28 @@ Key locations marked:
 ## References
 
 - [[Assets Symbols Symbol Heraldry the Great Recognition the Great Recognition.svg]]
+
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

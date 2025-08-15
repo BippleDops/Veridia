@@ -172,3 +172,22 @@ Key locations marked:
 - Strange accidents suggest a portal
 - Someone is blackmailing a artifact for love
 - A journal reveals a conspiracy about the government
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

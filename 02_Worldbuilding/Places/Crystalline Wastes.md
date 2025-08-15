@@ -203,3 +203,18 @@ Ongoing situations affecting Crystalline Wastes:
 - [[Quest - The Pretender's Crown]]
 - [[Quest - The Pretender's Crown_1 (01_Adventures)]]
 - [[The Great Crystallization]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

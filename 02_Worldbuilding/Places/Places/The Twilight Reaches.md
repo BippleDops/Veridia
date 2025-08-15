@@ -120,3 +120,18 @@ Recent developments have brought new attention to The Twilight Reaches, creating
 
 - [[02_Worldbuilding_Places_The_Twilight_Reaches]]
 - [[Surface Signals]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -695,3 +695,18 @@ Ongoing situations affecting Engineer Prisma Depthwright:
 - [[Pearl_Harbor_City (Places)]]
 - [[Engineer Prisma Depthwright (D&D_References)]]
 - [[Pearl_Harbor_City (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

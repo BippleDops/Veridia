@@ -1,18 +1,32 @@
 ---
+
 title: Chambers Chamber
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Chambers Chamber"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Chambers Chamber
+ # Chambers Chamber ---
 
----
+## Description
+
+Detailed description pending.
 title: Chambers Chamber
 aliases:
 - Chambers; Chamber
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.320577+00:00'
 world: Both
----
 
-# Chambers; Chamber
-*Source: Dungeon Master's Guide p. 291* 
+--- # Chambers; Chamber
 
-**Chamber**
-
-`dice: [](chambers-chamber.md#^chamber)`
-
-| dice: d20 | Chamber |
+*Source: Dungeon Master's Guide p. 291* **Chamber**`dice: [](chambers-chamber.md#^chamber)`| dice: d20 | Chamber |
 |-----------|---------|
 | 1-2 | Square, 20 × 20 ft.¹ |
 | 3-4 | Square, 30 × 30 ft.¹ |
@@ -47,48 +56,26 @@ world: Both
 | 10-12 | Rectangle, 30 × 40 ft.¹ |
 | 13-14 | Rectangle, 40 × 50 ft.² |
 | 15 | Rectangle, 50 × 80 ft.² |
-| 16 | Circle, 30 ft. diameter¹ |
-| 17 | Circle, 50 ft. diameter² |
+| 16 | Circle, 30 ft. Diameter¹ |
+| 17 | Circle, 50 ft. Diameter² |
 | 18 | Octagon, 40 × 40 ft.² |
 | 19 | Octagon, 60 × 60 ft.² |
 | 20 | Trapezoid, roughly 40 × 60 ft.² |
-^chamber
 
-¹ Use the Normal Chamber column on the Chamber Exits table.
+^chamber ¹ Use the Normal Chamber column on the Chamber Exits table. ² Use the Large Chamber column on the Chamber Exits table. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Chambers chamber is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of chambers chamber as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chambers chamber. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1]]
 
-² Use the Large Chamber column on the Chamber Exits table.
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Chambers chamber is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of chambers chamber as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chambers chamber.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/dice
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

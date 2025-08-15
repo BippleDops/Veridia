@@ -185,3 +185,22 @@ Key stop on spices trade route
 - Strange accidents suggest a portal
 - A noble needs help investigating before the festival
 - A stranger needs help stealing before winter
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

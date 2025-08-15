@@ -178,3 +178,22 @@ Mentioned in The Second Prophecy of Shadows
 - Strange sightings suggest ancient magic
 - An heirloom has gone missing and chaos spreads
 - Strange disappearances suggest a conspiracy
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

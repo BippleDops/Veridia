@@ -1,18 +1,32 @@
 ---
+
 title: special-purpose-sentient-items-alignment-xdmg (tables)
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["special-purpose-sentient-items-alignment-xdmg (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# special-purpose-sentient-items-alignment-xdmg
+ # special-purpose-sentient-items-alignment-xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: special purpose sentient items alignment xdmg
 aliases:
 - Special Purpose; Sentient Item's Alignment
+
 type: note
 tags:
 - research
@@ -21,23 +35,18 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.597304'
 world: Both
----
 
-# Special Purpose; Sentient Item's Alignment
-*Source: Dungeon Master's Guide (2024) p. 226* 
+--- # Special Purpose; Sentient Item's Alignment
 
-**Sentient Item's Alignment**
-
-`dice: [](special-purpose-sentient-items-alignment-xdmg.md#^sentient-items-alignment)`
-
-| dice: 1d100 | Alignment |
+*Source: Dungeon Master's Guide (2024) p. 226* **Sentient Item's Alignment**`dice: [](special-purpose-sentient-items-alignment-xdmg.md#^sentient-items-alignment)`| dice: 1d100 | Alignment |
 |-------------|-----------|
 | 01–15 | Lawful Good |
 | 16–35 | Neutral Good |
@@ -48,45 +57,22 @@ world: Both
 | 86–89 | Lawful Evil |
 | 90–96 | Neutral Evil |
 | 97–00 | Chaotic Evil |
-^sentient-items-alignment
 
-## 🔧 Deep Evaluation Improvements
+^sentient-items-alignment ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Special purpose sentient items alignment xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of special purpose sentient items alignment xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around special purpose sentient items alignment xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The First Prophecy of Winds ## Plot Hooks - Strange disappearances suggest a conspiracy
 
-*20 targeted improvements identified*
+- A corpse reveals ancient history about this place ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-### Connection Improvements
 
-- Add cross-references to related notes
+## Notes
 
-### Enhancement Improvements
+*Additional notes*
 
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Special purpose sentient items alignment xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of special purpose sentient items alignment xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around special purpose sentient items alignment xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The First Prophecy of Winds
-
-## Plot Hooks
-
-- Strange disappearances suggest a conspiracy
-- A corpse reveals ancient history about this place
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#resource/item
+#meta/reference

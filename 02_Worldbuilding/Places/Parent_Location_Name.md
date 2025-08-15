@@ -119,3 +119,18 @@ Recent developments have brought new attention to Parent_Location_Name, creating
 ## References
 
 - [[Location_Template_1 (09_Templates)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

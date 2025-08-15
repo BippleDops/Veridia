@@ -128,3 +128,28 @@ Legends speak of Party Quarters   Inverse Palace as a nexus where past and prese
 - [[02_Worldbuilding/Places/Party Quarters - Inverse Palace]]
 
 <!-- enriched: true -->
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

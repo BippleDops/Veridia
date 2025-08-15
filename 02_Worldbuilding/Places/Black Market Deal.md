@@ -306,3 +306,18 @@ Key stop on metals trade route
 - [[Pressure's End]]
 - [[The Phosphor Markets]]
 - [[Pearl_Harbor_City (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

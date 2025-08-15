@@ -327,3 +327,18 @@ Key stop on textiles trade route
 - [[Pressure Terminal]]
 - [[Depth Warden Patrol (D&D_Statblocks)]]
 - [[Pressure Terminal (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

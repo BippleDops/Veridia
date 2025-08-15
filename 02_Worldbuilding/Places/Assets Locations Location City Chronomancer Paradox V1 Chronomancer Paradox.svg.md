@@ -168,3 +168,22 @@ Key locations marked:
 
 - Strange disappearances suggest a conspiracy
 - A stranger needs help finding before winter
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

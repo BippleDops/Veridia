@@ -1,18 +1,32 @@
 ---
+
 title: guild-artisan-guild-merchant-variant (backgrounds)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["guild-artisan-guild-merchant-variant (backgrounds)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# guild-artisan-guild-merchant-variant
+ # guild-artisan-guild-merchant-variant ---
 
----
+## Description
+
+Detailed description pending.
 title: guild artisan guild merchant variant
 aliases:
 - Guild Artisan (Guild Merchant) (Variant)
+
 type: note
 tags:
 - ttrpg-cli/compendium/src/5e/phb
@@ -22,52 +36,20 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-background
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:34.935325'
 world: Both
----
 
-# Guild Artisan (Guild Merchant) (Variant)
-*Source: Player's Handbook p. 133*  
+--- # Guild Artisan (Guild Merchant) (Variant)
 
-- **Skill Proficiencies.** [[skills#Insight|Insight]], [[skills#Persuasion|Persuasion]]  
-- **Tool Proficiencies.** One type of artisan's tools, or [[Navigators Tools Xphb]], or an additional language  
-- **Languages.** One of your choice  
-- **Equipment.** A set of artisan's tools (one of your choice) or a [[Mule Xphb]] and [[cart-xphb (items)]], a letter of introduction from your guild, a set of [[travelers-clothes-xphb (items)]], and a belt [[component-pouch-xphb (items)]] containing 15 gp  
+*Source: Player's Handbook p. 133* - **Skill Proficiencies.** [[skills#Insight|Insight]], [[skills#Persuasion|Persuasion]] - **Tool Proficiencies.** One type of artisan's tools, or [[Navigators Tools Xphb]], or an additional language - **Languages.** One of your choice - **Equipment.** A set of artisan's tools (one of your choice) or a [[Mule Xphb]] and [[cart-xphb (items)]], a letter of introduction from your guild, a set of [[travelers-clothes-xphb (items)]], and a belt [[component-pouch-xphb (items)]] containing 15 gp Instead of an artisans' guild, you might belong to a guild of traders, caravan masters, or shopkeepers. You don't craft items yourself but earn a living by buying and selling the works of others (or the raw materials artisans need to practice their craft). Your guild might be a large merchant consortium (or family) with interests across the region. Perhaps you transported goods from one place to another, by ship, wagon, or caravan, or bought them from traveling traders and sold them in your own little shop. In some ways, the traveling merchant's life lends itself to adventure far more than the life of an artisan. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Feature: Guild Membership As an established and respected member of a guild, you can rely on certain benefits that membership provides. Your fellow guild members will provide you with lodging and food if necessary, and pay for your funeral if needed. In some cities and towns, a guildhall offers a central place to meet other members of your profession, which can be a good place to meet potential patrons, allies, or hirelings. Guilds often wield tremendous political power. If you are accused of a crime, your guild will support you if a good case can be made for your innocence or the crime is justifiable. You can also gain access to powerful political figures through the guild, if you are a member in good standing. Such connections might require the donation of money or magic items to the guild's coffers. You must pay dues of 5 gp per month to the guild. If you miss payments, you must make up back dues to remain in the guild's good graces. ## Specialty Guilds are generally found in cities large enough to support several artisans practicing the same trade. However, your guild might instead be a loose network of artisans who each work in a different village within a larger realm. Work with your DM to determine the nature of your guild. You can select your guild business from the Guild Business table or roll randomly.`dice: [](guild-artisan-guild-merchant-variant.md#^guild-business)`| dice: d20 | Guild Business |
 
-Instead of an artisans' guild, you might belong to a guild of traders, caravan masters, or shopkeepers. You don't craft items yourself but earn a living by buying and selling the works of others (or the raw materials artisans need to practice their craft). Your guild might be a large merchant consortium (or family) with interests across the region. Perhaps you transported goods from one place to another, by ship, wagon, or caravan, or bought them from traveling traders and sold them in your own little shop. In some ways, the traveling merchant's life lends itself to adventure far more than the life of an artisan.
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Feature: Guild Membership
-
-As an established and respected member of a guild, you can rely on certain benefits that membership provides. Your fellow guild members will provide you with lodging and food if necessary, and pay for your funeral if needed. In some cities and towns, a guildhall offers a central place to meet other members of your profession, which can be a good place to meet potential patrons, allies, or hirelings.
-
-Guilds often wield tremendous political power. If you are accused of a crime, your guild will support you if a good case can be made for your innocence or the crime is justifiable. You can also gain access to powerful political figures through the guild, if you are a member in good standing. Such connections might require the donation of money or magic items to the guild's coffers.
-
-You must pay dues of 5 gp per month to the guild. If you miss payments, you must make up back dues to remain in the guild's good graces.
-
-## Specialty
-
-Guilds are generally found in cities large enough to support several artisans practicing the same trade. However, your guild might instead be a loose network of artisans who each work in a different village within a larger realm. Work with your DM to determine the nature of your guild. You can select your guild business from the Guild Business table or roll randomly.
-
-`dice: [](guild-artisan-guild-merchant-variant.md#^guild-business)`
-
-| dice: d20 | Guild Business |
 |-----------|----------------|
 | 1 | Alchemists and apothecaries |
 | 2 | Armorers, locksmiths, and finesmiths |
@@ -89,15 +71,10 @@ Guilds are generally found in cities large enough to support several artisans pr
 | 18 | Wagon-makers and wheelwrights |
 | 19 | Weavers and dyers |
 | 20 | Woodcarvers, coopers, and bowyers |
-^guild-business
 
-## Suggested Characteristics
+^guild-business ## Suggested Characteristics Guild artisans are among the most ordinary people in the world—until they set down their tools and take up an adventuring career. They understand the value of hard work and the importance of community, but they're vulnerable to sins of greed and covetousness.`dice: [](guild-artisan-guild-merchant-variant.md#^personality-trait)`| dice: d8 | Personality Trait |
 
-Guild artisans are among the most ordinary people in the world—until they set down their tools and take up an adventuring career. They understand the value of hard work and the importance of community, but they're vulnerable to sins of greed and covetousness.
 
-`dice: [](guild-artisan-guild-merchant-variant.md#^personality-trait)`
-
-| dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I believe that anything worth doing is worth doing right. I can't help it—I'm a perfectionist. |
 | 2 | I'm a snob who looks down on those who can't appreciate fine art. |
@@ -107,11 +84,8 @@ Guild artisans are among the most ordinary people in the world—until they set 
 | 6 | I like to talk at length about my profession. |
 | 7 | I don't part with my money easily and will haggle tirelessly to get the best deal possible. |
 | 8 | I'm well known for my work, and I want to make sure everyone appreciates it. I'm always taken aback when people haven't heard of me. |
-^personality-trait
 
-`dice: [](guild-artisan-guild-merchant-variant.md#^ideal)`
-
-| dice: d6 | Ideal |
+^personality-trait`dice: [](guild-artisan-guild-merchant-variant.md#^ideal)`| dice: d6 | Ideal |
 |----------|-------|
 | 1 | Community. It is the duty of all civilized people to strengthen the bonds of community and the security of civilization. (Lawful) |
 | 2 | Generosity. My talents were given to me so that I could use them to benefit the world. (Good) |
@@ -119,11 +93,8 @@ Guild artisans are among the most ordinary people in the world—until they set 
 | 4 | Greed. I'm only in it for the money. (Evil) |
 | 5 | People. I'm committed to the people I care about, not to ideals. (Neutral) |
 | 6 | Aspiration. I work hard to be the best there is at my craft. (Any) |
-^ideal
 
-`dice: [](guild-artisan-guild-merchant-variant.md#^bond)`
-
-| dice: d6 | Bond |
+^ideal`dice: [](guild-artisan-guild-merchant-variant.md#^bond)`| dice: d6 | Bond |
 |----------|------|
 | 1 | The workshop where I learned my trade is the most important place in the world to me. |
 | 2 | I created a great work for someone, and then found them unworthy to receive it. I'm still looking for someone worthy. |
@@ -131,39 +102,32 @@ Guild artisans are among the most ordinary people in the world—until they set 
 | 4 | I pursue wealth to secure someone's love. |
 | 5 | One day I will return to my guild and prove that I am the greatest artisan of them all. |
 | 6 | I will get revenge on the evil forces that destroyed my place of business and ruined my livelihood. |
-^bond
 
-`dice: [](guild-artisan-guild-merchant-variant.md#^flaw)`
-
-| dice: d6 | Flaw |
+^bond`dice: [](guild-artisan-guild-merchant-variant.md#^flaw)`| dice: d6 | Flaw |
 | 1 | I'll do anything to get my hands on something rare or priceless. |
 | 2 | I'm quick to assume that someone is trying to cheat me. |
 | 3 | No one must ever learn that I once stole money from guild coffers. |
 | 4 | I'm never satisfied with what I have—I always want more. |
 | 5 | I would kill to acquire a noble title. |
 | 6 | I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go, I'm surrounded by rivals. |
-^flaw
 
-## Player-Facing Summary
+^flaw ## Player-Facing Summary Guild artisan guild merchant variant is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of guild artisan guild merchant variant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around guild artisan guild merchant variant. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-Guild artisan guild merchant variant is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## Notes
 
-Legends speak of guild artisan guild merchant variant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around guild artisan guild merchant variant.
+*Additional notes*
 
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/story
+#story/lore
+#story/background
+#world/world
+#world/setting
+#world/place
+#character/character
+#character/person
+#gameplay/adventure
+#resource/item
+#resource/equipment
+#meta/reference

@@ -218,3 +218,28 @@ Member of House Dragonblood - Trait: divine blood
 - [[04_Resources_Assets_Symbols_symbol-heraldry-war-commander-umbral-strategis-v1-war-commander-umbral-strategis.svg]]
 - [[04_Resources_Assets_Locations_location-city-dr-marina-voidstudier-dr-marina-voidstudier.svg]]
 - [[04_Resources_Assets_Locations_location-city-st-meridian-s-cathedral-st-meridian-s-cathedral.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

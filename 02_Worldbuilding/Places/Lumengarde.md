@@ -324,3 +324,18 @@ Lumengarde is a notable location characterized by its unique features and strate
 - [[The Cerulean Trench (D&D_References)]]
 - [[The Phosphor Markets (D&D_References)]]
 - [[Captain Blackwater (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

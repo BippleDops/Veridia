@@ -107,3 +107,23 @@ Further information about this topic will be developed as the campaign progresse
 
 - [[Assets Locations Location City Terminal Master Hadrian Depthbridge Terminal Master Hadrian Depthbridge.svg]]
 - [[Assets Vehicles Vehicle Ship Resonance Drive Yacht Resonance Drive Yacht.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

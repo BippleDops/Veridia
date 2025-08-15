@@ -194,3 +194,28 @@ This NPC can serve multiple roles:
 
 - [[04_Resources_Assets_Locations_location-city-enchanter-valdris-peacewarden-enchanter-valdris-peacewarden.svg]]
 - [[04_Resources_Assets_Locations_location-city-spymaster-crow-v1-spymaster-crow.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

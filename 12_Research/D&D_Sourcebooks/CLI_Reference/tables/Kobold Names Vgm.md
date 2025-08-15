@@ -1,18 +1,32 @@
 ---
+
 title: Kobold Names Vgm
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Kobold Names Vgm"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Kobold Names Vgm
+ # Kobold Names Vgm ---
 
----
+## Description
+
+Detailed description pending.
 title: Kobold Names Vgm
 aliases:
 - Kobold Names
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/vgm
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.931448+00:00'
 world: Both
----
 
-# Kobold Names
-*Source: Volo's Guide to Monsters p. 66* 
+--- # Kobold Names
 
-**Kobold Names**
-
-`dice: [](kobold-names-vgm.md#^kobold-names)`
-
-| dice: d20 | Name |
+*Source: Volo's Guide to Monsters p. 66* **Kobold Names**`dice: [](kobold-names-vgm.md#^kobold-names)`| dice: d20 | Name |
 |-----------|------|
 | 1 | Arix |
 | 2 | Eks |
@@ -60,50 +69,27 @@ world: Both
 | 18 | Tes |
 | 19 | Urak |
 | 20 | Varn |
-^kobold-names
 
-## 🔧 Deep Evaluation Improvements
+^kobold-names ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Kobold names vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of kobold names vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around kobold names vgm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A corpse reveals a betrayal about the government
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Kobold names vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of kobold names vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around kobold names vgm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A corpse reveals a betrayal about the government
 - Someone is searching for a witness for money
 - Someone is blackmailing a artifact for revenge
-- A letter reveals ancient history about a local noble
+- A letter reveals ancient history about a local noble ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
+
+*Additional notes*
+
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/monster
+#meta/reference

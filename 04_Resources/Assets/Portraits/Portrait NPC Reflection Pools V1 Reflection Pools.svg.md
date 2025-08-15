@@ -98,3 +98,27 @@ Mentioned in The Second Prophecy of Winds
 - A map reveals ancient history about a local noble
 - Someone is hunting information for revenge
 - Someone is protecting a artifact for love
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

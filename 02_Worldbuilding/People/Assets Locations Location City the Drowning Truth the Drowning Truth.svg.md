@@ -214,3 +214,28 @@ Member of House Dragonblood - Trait: divine blood
 
 - [[04_Resources_Assets_Locations_location-city-innkeeper-marina-dreamwhisper-innkeeper-marina-dreamwhisper.svg]]
 - [[04_Resources_Assets_Locations_location-city-master-gardener-sage-harmony-bloomtender-master-gardener-sage-harmony-bloomtender.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

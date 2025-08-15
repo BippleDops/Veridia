@@ -1,18 +1,32 @@
 ---
+
 title: the-egyptian-pantheon-egyptian-deities-phb (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["the-egyptian-pantheon-egyptian-deities-phb (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# the-egyptian-pantheon-egyptian-deities-phb
+ # the-egyptian-pantheon-egyptian-deities-phb ---
 
----
+## Description
+
+Detailed description pending.
 title: the egyptian pantheon egyptian deities phb
 aliases:
 - The Egyptian Pantheon; Egyptian Deities
+
 type: note
 tags:
 - ttrpg-cli/compendium/src/5e/phb
@@ -21,21 +35,18 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.487988'
 world: Both
----
 
-# The Egyptian Pantheon; Egyptian Deities
-*Source: Player's Handbook p. 297. Available in the SRD* 
+--- # The Egyptian Pantheon; Egyptian Deities
 
-**Egyptian Deities**
-
-| Deity | Alignment | Suggested Domains | Symbol |
+*Source: Player's Handbook p. 297. Available in the SRD* **Egyptian Deities** | Deity | Alignment | Suggested Domains | Symbol |
 |-------|-----------|-------------------|--------|
 | [[egyptian-re-horakhty (deities)]], god of the sun, ruler of the gods | LG | Life, Light | Solar disk encircled by serpent |
 | [[Egyptian Anubis]], god of judgment and death | LN | Death | Black jackal |
@@ -51,40 +62,16 @@ world: Both
 | [[egyptian-set (deities)]], god of darkness and desert storms | CE | Death, Tempest, Trickery | Coiled cobra |
 | [[egyptian-sobek (deities)]], god of water and crocodiles | LE | Nature, Tempest | Crocodile head with horns and plumes |
 | [[Egyptian Thoth]], god of knowledge and wisdom | N | Knowledge | Ibis |
-^egyptian-deities
 
-## 🔧 Deep Evaluation Improvements
+^egyptian-deities ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary The egyptian pantheon egyptian deities phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of the egyptian pantheon egyptian deities phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around the egyptian pantheon egyptian deities phb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-*20 targeted improvements identified*
 
-### Connection Improvements
+## Notes
 
-- Add cross-references to related notes
+*Additional notes*
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-The egyptian pantheon egyptian deities phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of the egyptian pantheon egyptian deities phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around the egyptian pantheon egyptian deities phb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

@@ -1,18 +1,32 @@
 ---
+
 title: building-your-own-traps-building-a-trap-xdmg (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["building-your-own-traps-building-a-trap-xdmg (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# building-your-own-traps-building-a-trap-xdmg
+ # building-your-own-traps-building-a-trap-xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: building your own traps building a trap xdmg
 aliases:
 - Building Your Own Traps; Building a Trap
+
 type: note
 tags:
 - research
@@ -21,77 +35,41 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.713504'
 world: Both
----
 
-# Building Your Own Traps; Building a Trap
-*Source: Dungeon Master's Guide (2024) p. 103* 
+--- # Building Your Own Traps; Building a Trap
 
-**Building a Trap**
-
-|    |    |    |    |    |    |    |
+*Source: Dungeon Master's Guide (2024) p. 103* **Building a Trap** | | | | | | | |
 |----|----|----|----|----|----|----|
-| 1–4 | `+4` | 10–12 | 5 (`d10`) | `+8` | 13–15 | 11 (`2d10`) |
-| 5–10 | `+4` | 12–14 | 11 (`2d10`) | `+8` | 15–17 | 22 (`4d10`) |
-| 11–16 | `+4` | 14–16 | 22 (`4d10`) | `+8` | 17–19 | 55 (`10d10`) |
-| 17–20 | `+4` | 16–18 | 55 (`10d10`) | `+8` | 19–21 | 99 (`18d10`) |
-^building-a-trap
+| 1–4 |`+4`| 10–12 | 5 (`d10`) |`+8`| 13–15 | 11 (`2d10`) |
+| 5–10 |`+4`| 12–14 | 11 (`2d10`) |`+8`| 15–17 | 22 (`4d10`) |
+| 11–16 |`+4`| 14–16 | 22 (`4d10`) |`+8`| 17–19 | 55 (`10d10`) |
+| 17–20 |`+4`| 16–18 | 55 (`10d10`) |`+8`| 19–21 | 99 (`18d10`) |
 
-## 🔧 Deep Evaluation Improvements
+^building-a-trap ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Building your own traps building a trap xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of building your own traps building a trap xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around building your own traps building a trap xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality ## Plot Hooks - A shipment has gone missing and truth emerges
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Building your own traps building a trap xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of building your own traps building a trap xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around building your own traps building a trap xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
-## Plot Hooks
-
-- A shipment has gone missing and truth emerges
 - Strange disappearances suggest a conspiracy
-- A shipment has gone missing and truth emerges
+- A shipment has gone missing and truth emerges ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

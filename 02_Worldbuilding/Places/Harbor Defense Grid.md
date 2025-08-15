@@ -244,3 +244,18 @@ Ongoing situations affecting Harbor Defense Grid:
 
 - [[Harbormaster Erik Saltbeard]]
 - [[Harbormaster Erik Saltbeard (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

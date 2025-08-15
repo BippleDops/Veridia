@@ -1,18 +1,32 @@
 ---
+
 title: Artifact Properties Major Beneficial Properties Xdmg
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Artifact Properties Major Beneficial Properties Xdmg"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# artifact-properties-major-beneficial-properties-xdmg
+ # artifact-properties-major-beneficial-properties-xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: artifact properties major beneficial properties xdmg
 aliases:
 - Artifact Properties; Major Beneficial Properties
+
 type: note
 tags:
 - both
@@ -20,72 +34,42 @@ tags:
 - active
 - note
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
-obsidianUIMode: preview
+obsidian UIMode: preview
 cssclasses: json5e-note
 updated: '2025-08-13T01:18:31.572918+00:00'
 world: Both
----
 
-# Artifact Properties; Major Beneficial Properties
-*Source: Dungeon Master's Guide (2024) p. 224* 
+--- # Artifact Properties; Major Beneficial Properties
 
-**Major Beneficial Properties**
-
-`dice: [](artifact-properties-major-beneficial-properties-xdmg.md#^major-beneficial-properties)`
-
-| dice: 1d100 | Property |
+*Source: Dungeon Master's Guide (2024) p. 224* **Major Beneficial Properties**`dice: [](artifact-properties-major-beneficial-properties-xdmg.md#^major-beneficial-properties)`| dice: 1d100 | Property |
 |-------------|----------|
 | 01–20 | While attuned to the Artifact, one of your ability scores (DM's choice) increases by 2, to a maximum of 24. |
-| 21–30 | While attuned to the Artifact, you regain `d6` Hit Points at the start of each of your turns if you have at least 1 Hit Point. |
-| 31–40 | When you hit with an attack roll while attuned to the Artifact, the target takes an extra `d6` Force damage. |
+| 21–30 | While attuned to the Artifact, you regain`d6`Hit Points at the start of each of your turns if you have at least 1 Hit Point. |
+| 31–40 | When you hit with an attack roll while attuned to the Artifact, the target takes an extra`d6`Force damage. |
 | 41–50 | While you're attuned to the Artifact, your Speed increases by 10 feet. |
-| 51–60 | While attuned to the Artifact, you can cast one level 4 spell (chosen by the DM) from it. After you cast the spell, roll `d6`. On a roll of 1–5, you can't cast it again in this way until the next dawn. |
+| 51–60 | While attuned to the Artifact, you can cast one level 4 spell (chosen by the DM) from it. After you cast the spell, roll`d6`. On a roll of 1–5, you can't cast it again in this way until the next dawn. |
 | 61–70 | As 51–60 above, except the spell is level 5. |
 | 71–80 | As 51–60 above, except the spell is level 6. |
 | 81–90 | As 51–60 above, except the spell is level 7. |
 | 91–00 | While attuned to the Artifact, you have Immunity to the [[conditions#Blinded|Blinded]], [[conditions#Deafened|Deafened]], [[conditions#Petrified|Petrified]], and [[conditions#Stunned|Stunned]] conditions. |
-^major-beneficial-properties
 
-## 🔧 Deep Evaluation Improvements
+^major-beneficial-properties ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Artifact properties major beneficial properties xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of artifact properties major beneficial properties xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around artifact properties major beneficial properties xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes ## Plot Hooks - A journal reveals ancient history about the cult
 
-*20 targeted improvements identified*
+- A noble needs help investigating before the new moon ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-### Connection Improvements
 
-- Add cross-references to related notes
+## Notes
 
-### Enhancement Improvements
+*Additional notes*
 
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Artifact properties major beneficial properties xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of artifact properties major beneficial properties xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around artifact properties major beneficial properties xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
-## Plot Hooks
-
-- A journal reveals ancient history about the cult
-- A noble needs help investigating before the new moon
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

@@ -244,3 +244,18 @@ Ongoing situations affecting Service Levels:
 - [[Pressure Terminal]]
 - [[The Free Current]]
 - [[Inverted Ballroom Wing (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -209,3 +209,18 @@ Key stop on textiles trade route
 - [[The Void Tears]]
 - [[Void Currents]]
 - [[Void Currents (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -179,3 +179,22 @@ Mentioned in The Hidden Prophecy of Shadows
 
 - A letter reveals a conspiracy about a local noble
 - Someone is protecting a witness for love
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

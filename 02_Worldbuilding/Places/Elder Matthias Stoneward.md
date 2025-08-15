@@ -340,3 +340,18 @@ Ongoing situations affecting Elder Matthias Stoneward:
 ## References
 
 - [[Elder Matthias Stoneward (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

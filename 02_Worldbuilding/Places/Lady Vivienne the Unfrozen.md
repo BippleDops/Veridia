@@ -366,3 +366,18 @@ Ongoing situations affecting Lady Vivienne the Unfrozen:
 - [[Old Valdris]]
 - [[Inverted Ballroom Wing (D&D_References)]]
 - [[Old Valdris (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

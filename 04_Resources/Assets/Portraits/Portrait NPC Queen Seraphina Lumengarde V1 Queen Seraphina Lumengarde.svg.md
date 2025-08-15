@@ -89,3 +89,27 @@ Mentioned in The First Prophecy of Depths
 - A shipment has gone missing and evil awakens
 - Strange disappearances suggest a curse
 - Someone is protecting a witness for love
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

@@ -270,3 +270,23 @@ Legends speak of The Verdant Reach as a nexus where past and present converge. L
 - [[02_Worldbuilding/People/Quest - The Dying Forest]]
 - [[02_Worldbuilding/Places/Sylvanheart]]
 - [[02_Worldbuilding/Quests/Quest - Nature's Balance]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

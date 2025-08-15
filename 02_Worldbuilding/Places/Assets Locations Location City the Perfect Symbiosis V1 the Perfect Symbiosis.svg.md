@@ -175,3 +175,22 @@ Mentioned in The Second Prophecy of Winds
 - A journal reveals ancient history about a local noble
 - Someone is protecting an heir for revenge
 - Strange dreams suggest a portal
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

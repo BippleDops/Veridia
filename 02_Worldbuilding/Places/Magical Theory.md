@@ -236,3 +236,18 @@ Ongoing situations affecting Magical Theory:
 - [[The Tidecaller (Places)]]
 - [[Mad Oracle Thessaly (D&D_References)]]
 - [[The First Truth (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

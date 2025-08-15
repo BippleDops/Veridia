@@ -229,3 +229,28 @@ This NPC can serve multiple roles:
 - [[04_Resources_Assets_Symbols_symbol-heraldry-border-checkpoints-border-checkpoints.svg]]
 - [[04_Resources_Assets_Locations_location-city-pool-of-sacred-drowning-pool-of-sacred-drowning.svg]]
 - [[04_Resources_Assets_Locations_location-city-the-luminous-dawn-cathedral-v1-the-luminous-dawn-cathedral.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

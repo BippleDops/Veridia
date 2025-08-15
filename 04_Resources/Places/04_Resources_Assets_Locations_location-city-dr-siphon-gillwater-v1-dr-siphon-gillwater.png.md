@@ -108,3 +108,23 @@ Further information about this topic will be developed as the campaign progresse
 - [[Assets Locations Location City Merchant Prince Aldric Goldcurrent V1 Merchant Prince Aldric Goldcurrent.svg]]
 - [[Assets Portraits Portrait NPC Duke Aldric Blackwater Duke Aldric Blackwater.svg]]
 - [[Assets Symbols Symbol Heraldry the Carrion Court the Carrion Court.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

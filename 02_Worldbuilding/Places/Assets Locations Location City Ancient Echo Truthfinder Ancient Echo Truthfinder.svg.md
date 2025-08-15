@@ -176,3 +176,22 @@ Key locations marked:
 - A map reveals a conspiracy about a local noble
 - A map reveals a betrayal about the government
 - A merchant needs help investigating before the festival
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

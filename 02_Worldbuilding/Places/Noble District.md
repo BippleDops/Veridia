@@ -238,3 +238,18 @@ Key stop on spices trade route
 - [[Quest - The Truth Unveiled]]
 - [[Quest - The Truth Unveiled_1 (01_Adventures)]]
 - [[Shadow Noble Districts]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

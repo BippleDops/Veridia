@@ -221,3 +221,28 @@ Legends speak of Memoriam   The Forgotten Continent as a nexus where past and pr
 - [[02_Worldbuilding/Places/Memoriam - The Forgotten Continent]]
 
 <!-- enriched: true -->
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

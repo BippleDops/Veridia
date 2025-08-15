@@ -180,3 +180,28 @@ Legends speak of Enchanter Valdris Peacewarden as a nexus where past and present
 - [[02_Worldbuilding/Places/Enchanter Valdris Peacewarden]]
 
 <!-- enriched: true -->
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

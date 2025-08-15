@@ -1,18 +1,32 @@
 ---
+
 title: Determine Your XP Budget XP Budget Per Character Xdmg
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Determine Your XP Budget XP Budget Per Character Xdmg"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# determine-your-xp-budget-xp-budget-per-character-xdmg
+ # determine-your-xp-budget-xp-budget-per-character-xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: determine your xp budget xp budget per character xdmg
 aliases:
 - Determine Your XP Budget; XP Budget per Character
+
 type: note
 tags:
 - research
@@ -21,21 +35,18 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.224442'
 world: Both
----
 
-# Determine Your XP Budget; XP Budget per Character
-*Source: Dungeon Master's Guide (2024) p. 114* 
+--- # Determine Your XP Budget; XP Budget per Character
 
-**XP Budget per Character**
-
-|    |    |    |    |
+*Source: Dungeon Master's Guide (2024) p. 114* **XP Budget per Character** | | | | |
 |----|----|----|----|
 | 1 | 50 | 75 | 100 |
 | 2 | 100 | 150 | 200 |
@@ -57,59 +68,46 @@ world: Both
 | 18 | 5,000 | 8,700 | 14,200 |
 | 19 | 5,500 | 10,700 | 17,200 |
 | 20 | 6,400 | 13,200 | 22,000 |
-^xp-budget-per-character
 
-## 🔧 Deep Evaluation Improvements
+^xp-budget-per-character ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Determine your xp budget xp budget per character xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of determine your xp budget xp budget per character xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around determine your xp budget xp budget per character xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange sightings suggest a portal
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Determine your xp budget xp budget per character xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of determine your xp budget xp budget per character xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around determine your xp budget xp budget per character xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Strange sightings suggest a portal
 - A journal reveals a betrayal about the cult
 - A prisoner has gone missing and war looms
-- A stranger needs help investigating before the festival
+- A stranger needs help investigating before the festival ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/character
+#meta/reference
 
-## 12_Research Specific Content
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
 
-Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
+## Daily Routine
+- Morning activities
+- Evening habits
 
-Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
+## Possessions
+- Personal items
+- Valuable objects
 
-Contextual improvement based on 12_Research
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

@@ -245,3 +245,18 @@ Ongoing situations affecting Interfaith Dialogue:
 - [[Mad Oracle Thessaly]]
 - [[Temple Ward]]
 - [[Mad Oracle Thessaly (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

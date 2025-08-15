@@ -1,18 +1,32 @@
 ---
+
 title: Food Drink and Lodging Xphb
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Food Drink and Lodging Xphb"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Food Drink and Lodging Xphb
+ # Food Drink and Lodging Xphb ---
 
----
+## Description
+
+Detailed description pending.
 title: Food Drink and Lodging Xphb
 aliases:
 - Food, Drink, and Lodging
+
 type: note
 tags:
 - both
@@ -22,21 +36,18 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.702679+00:00'
 world: Both
----
 
-# Food, Drink, and Lodging
-*Source: Player's Handbook (2024) p. 231. Available in the SRD and the Free Rules (2024)* 
+--- # Food, Drink, and Lodging
 
-**Food, Drink, and Lodging**
-
-| Item | Cost |
+*Source: Player's Handbook (2024) p. 231. Available in the SRD and the Free Rules (2024)* **Food, Drink, and Lodging** | Item | Cost |
 |------|------|
 | &emsp;Ale (mug) | 4 CP |
 | &emsp;Bread (loaf) | 2 CP |
@@ -58,49 +69,22 @@ world: Both
 | *Wine (bottle)* |
 | &emsp;Common | 2 SP |
 | &emsp;Fine | 10 GP |
-^food-drink-and-lodging
 
-[[DnD5e-SideScreen-2024]]
+^food-drink-and-lodging [[Dn D5e-Side Screen-2024]] ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Food drink and lodging xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of food drink and lodging xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around food drink and lodging xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1]]
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Food drink and lodging xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of food drink and lodging xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around food drink and lodging xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#mechanics/rules
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/item
+#meta/reference

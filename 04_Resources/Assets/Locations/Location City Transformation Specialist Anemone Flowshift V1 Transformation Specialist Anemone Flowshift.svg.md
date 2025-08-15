@@ -59,3 +59,28 @@ Recent developments have brought new attention to Location City Transformation S
 
 ## DM Notes
 *Location City Transformation Specialist Anemone Flowshift V1 Transformation Specialist Anemone Flowshift.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -181,3 +181,22 @@ Key stop on spices trade route
 - Someone is hunting a artifact for love
 - A document has gone missing and chaos spreads
 - A corpse reveals a betrayal about a local noble
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

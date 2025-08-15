@@ -216,3 +216,18 @@ Ongoing situations affecting Master Archivist Thomas Scrollkeeper:
 ## References
 
 - [[Goldwave Ficial Offices]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

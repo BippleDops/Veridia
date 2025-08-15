@@ -887,3 +887,13 @@ Ongoing situations affecting Surface Tensions:
 - [[Investigation Procedures]]
 - [[Pearl_Harbor_City (Places)]]
 - [[Pearl_Harbor_City (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures

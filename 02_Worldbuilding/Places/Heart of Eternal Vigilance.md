@@ -250,3 +250,18 @@ Ongoing situations affecting Heart of Eternal Vigilance:
 
 - [[Vault Keeper Eternal]]
 - [[Vault Keeper Eternal (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

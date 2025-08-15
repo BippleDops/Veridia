@@ -199,3 +199,18 @@ Ongoing situations affecting Prophetic Dreams:
 - [[Temple Ward]]
 - [[The Void Touched Depths]]
 - [[Whisper-Touched William]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

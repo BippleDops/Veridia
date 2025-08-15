@@ -576,3 +576,18 @@ The Phosphor Markets was established in the distant past, growing from humble be
 - [[Maelstrom Palace]]
 - [[Abyssos Prime - Pressure Terminal (D&D_References)]]
 - [[Lumengarde (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

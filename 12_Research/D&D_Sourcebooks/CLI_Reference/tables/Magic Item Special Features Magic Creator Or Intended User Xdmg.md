@@ -1,18 +1,32 @@
 ---
+
 title: Magic Item Special Features Magic Creator Or Intended User Xdmg
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Magic Item Special Features Magic Creator Or Intended User Xdmg"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# magic-item-special-features-magic-items-creator-or-intended-user-xdmg
+ # magic-item-special-features-magic-items-creator-or-intended-user-xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: magic item special features magic items creator or intended user xdmg
 aliases:
 - Magic Item Special Features; Magic Item's Creator or Intended User
+
 type: note
 tags:
 - both
@@ -20,23 +34,18 @@ tags:
 - active
 - note
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
-obsidianUIMode: preview
+obsidian UIMode: preview
 cssclasses: json5e-note
 updated: '2025-08-13T01:18:31.635027+00:00'
 world: Both
----
 
-# Magic Item Special Features; Magic Item's Creator or Intended User
-*Source: Dungeon Master's Guide (2024) p. 222* 
+--- # Magic Item Special Features; Magic Item's Creator or Intended User
 
-**Magic Item's Creator or Intended User**
-
-`dice: [](magic-item-special-features-magic-items-creator-or-intended-user-xdmg.md#^magic-items-creator-or-intended-user)`
-
-| dice: 1d20 | Creator or Intended User |
+*Source: Dungeon Master's Guide (2024) p. 222* **Magic Item's Creator or Intended User**`dice: [](magic-item-special-features-magic-items-creator-or-intended-user-xdmg.md#^magic-items-creator-or-intended-user)`| dice: 1d20 | Creator or Intended User |
 |------------|--------------------------|
 | 1 | Aberration. The item is ancient. At a glance, it seems to be covered with mucus. |
 | 2 | Celestial. The item is half the normal weight and inscribed with feathered wings, suns, and stars. Fiends find it repulsive. |
@@ -54,53 +63,28 @@ world: Both
 | 16 | Gnome. The item is crafted to appear ordinary and well used. It could also incorporate gears and mechanical components, even if these aren't essential to its function. |
 | 17–19 | Human. The item was created during the heyday of a fallen human kingdom, or it is tied to a human of legend. It might hold writing in a forgotten language or symbols whose significance is lost to the ages. |
 | 20 | Undead. The item incorporates symbols of death, such as bones and skulls, and it might be crafted from parts of corpses. It feels cold to the touch. |
-^magic-items-creator-or-intended-user
 
-## 🔧 Deep Evaluation Improvements
+^magic-items-creator-or-intended-user ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Magic item special features magic items creator or intended user xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of magic item special features magic items creator or intended user xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around magic item special features magic items creator or intended user xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession ## Plot Hooks - A letter reveals the truth about the cult
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Magic item special features magic items creator or intended user xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of magic item special features magic items creator or intended user xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around magic item special features magic items creator or intended user xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
-## Plot Hooks
-
-- A letter reveals the truth about the cult
 - Someone is blackmailing information for power
-- A map reveals a betrayal about a local noble
+- A map reveals a betrayal about a local noble ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
+
+*Additional notes*
+
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#resource/item
+#resource/gear
+#meta/reference

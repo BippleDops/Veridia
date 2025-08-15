@@ -329,3 +329,18 @@ Ongoing situations affecting Navigator Sage Driftwood:
 - [[The Forgotten One]]
 - [[Compass Quest (D&D_References)]]
 - [[The Forgotten One (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

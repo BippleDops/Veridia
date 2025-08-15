@@ -177,3 +177,22 @@ Key locations marked:
 - A stranger needs help investigating before dawn
 - A noble needs help delivering before dawn
 - A document has gone missing and war looms
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

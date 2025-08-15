@@ -174,3 +174,22 @@ Key locations marked:
 - A prisoner has gone missing and truth emerges
 - Someone is protecting an heir for money
 - Someone is blackmailing a artifact for revenge
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

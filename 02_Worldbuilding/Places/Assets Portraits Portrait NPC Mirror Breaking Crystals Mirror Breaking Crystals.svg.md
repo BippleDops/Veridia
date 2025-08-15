@@ -231,3 +231,28 @@ Key locations marked:
 - [[Assets Portraits Portrait NPC Pirate Lords of the Spiral Depths Pirate Lords of the Spiral Depths.svg]]
 - [[Assets Symbols Symbol Heraldry Magical Component Manufacturers Guil Magical Component Manufacturers Guil.svg]]
 - [[Assets Symbols Symbol Heraldry Void Touched Crew Member V1 Void Touched Crew Member.svg]]
+
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

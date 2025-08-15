@@ -248,3 +248,18 @@ Ongoing situations affecting Memory Coral Reefs:
 
 - [[Teacher Miranda Hopekeeper]]
 - [[Teacher Miranda Hopekeeper (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

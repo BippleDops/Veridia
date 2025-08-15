@@ -258,3 +258,18 @@ Ongoing situations affecting The Threshold Chambers:
 - [[Quest - Nature's Balance_1 (01_Adventures)]]
 - [[Quest - The Convergence Crisis]]
 - [[Discover Marina's Truth]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

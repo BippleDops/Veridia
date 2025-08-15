@@ -233,3 +233,18 @@ Ongoing situations affecting Portal Commander Marina Bridgewright:
 ## References
 
 - [[02-chapter-1-playing-the-game#Stabilizing a Character]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

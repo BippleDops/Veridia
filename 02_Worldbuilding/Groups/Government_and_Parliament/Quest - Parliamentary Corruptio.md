@@ -287,3 +287,17 @@ Mentioned in The Hidden Prophecy of Depths
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

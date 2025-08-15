@@ -188,3 +188,22 @@ Key stop on spices trade route
 - A journal reveals the truth about this place
 - A map reveals the truth about the cult
 - A corpse reveals a betrayal about the cult
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

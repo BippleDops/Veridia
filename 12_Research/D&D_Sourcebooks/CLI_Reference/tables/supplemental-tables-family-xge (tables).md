@@ -1,18 +1,32 @@
 ---
+
 title: supplemental-tables-family-xge (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["supplemental-tables-family-xge (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# supplemental-tables-family-xge
+ # supplemental-tables-family-xge ---
 
----
+## Description
+
+Detailed description pending.
 title: supplemental tables family xge
 aliases:
 - Supplemental Tables; Family
+
 type: note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
@@ -21,23 +35,18 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.538180'
 world: Both
----
 
-# Supplemental Tables; Family
-*Source: Xanathar's Guide to Everything p. 63* 
+--- # Supplemental Tables; Family
 
-**Family**
-
-`dice: [](supplemental-tables-family-xge.md#^family)`
-
-| dice: d100 | Family |
+*Source: Xanathar's Guide to Everything p. 63* **Family**`dice: [](supplemental-tables-family-xge.md#^family)`| dice: d100 | Family |
 |------------|--------|
 | 1 | None |
 | 2 | Institution, such as an asylum |
@@ -50,41 +59,20 @@ world: Both
 | 36-55 | Single father or stepfather |
 | 56-75 | Single mother or stepmother |
 | 76-100 | Mother and father |
-^family
 
-## 🔧 Deep Evaluation Improvements
+^family ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Supplemental tables family xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of supplemental tables family xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around supplemental tables family xge. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Second Prophecy of Stars ## Plot Hooks - A journal reveals ancient history about the cult
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Supplemental tables family xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of supplemental tables family xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around supplemental tables family xge.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The Second Prophecy of Stars
-
-## Plot Hooks
-
-- A journal reveals ancient history about the cult
 - A journal reveals a betrayal about this place
+
+## Notes
+
+*Additional notes*
+
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#meta/reference

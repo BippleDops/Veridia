@@ -59,3 +59,28 @@ Recent developments have brought new attention to Location City Environmental Mo
 
 ## DM Notes
 *Location City Environmental Monitor Reef Ecowatch V1 Environmental Monitor Reef Ecowatch.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

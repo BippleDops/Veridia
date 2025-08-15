@@ -262,3 +262,13 @@ Key stop on magic items trade route
 - [[Merchant Family Alliances]]
 - [[The Depth Plague]]
 - [[The Depth Plague (D&D_References)]]
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

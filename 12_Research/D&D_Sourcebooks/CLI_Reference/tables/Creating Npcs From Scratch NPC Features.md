@@ -1,18 +1,32 @@
 ---
+
 title: Creating Npcs From Scratch NPC Features
 type: npc
 tags:
 - npc
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Creating Npcs From Scratch NPC Features"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Creating Npcs From Scratch NPC Features
+ # Creating Npcs From Scratch NPC Features ---
 
----
+## Description
+
+Detailed description pending.
 title: Creating Npcs From Scratch NPC Features
 aliases:
 - Creating NPCs from Scratch; NPC Features
+
 type: note
 tags:
 - both
@@ -22,21 +36,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:04.081753+00:00'
 world: Both
----
 
-# Creating NPCs from Scratch; NPC Features
-*Source: Dungeon Master's Guide p. 282* 
+--- # Creating NPCs from Scratch; NPC Features
 
-**NPC Features**
-
-| Race | Ability Modifiers | Features |
+*Source: Dungeon Master's Guide p. 282* **NPC Features** | Race | Ability Modifiers | Features |
 |------|-------------------|----------|
 | Aarakocra | +2 Dex, +2 Wis | Dive Attack: talon attack action, speed 20 ft., fly 50 ft., speaks Auran |
 | Bullywug | -2 Int, -2 Cha | Amphibious, Speak with Frogs and Toads, Swamp Camouflage, Standing Leap: speed 20 ft., swim 40 ft.: speaks Bullywug |
@@ -48,7 +59,7 @@ world: Both
 | Gnome* | +2 Int, +2 Dex or Con | Gnome Cunning, Small size: speed 25 ft., darkvision 60 ft., speaks Common and Gnomish |
 | Gnome, deep | +1 Str, +2 Dex | Gnome Cunning, Innate Spellcasting, Stone Camouflage, Small size, speed 20 ft., darkvision 120 ft., speaks Gnomish, Terran, and Undercommon |
 | Goblin | -2 Str, +2 Dex | Nimble Escape, Small size, darkvision 60 ft., speaks Common and Goblin |
-| Grimlock | +2 Str, -2 Cha | Blind Senses, Keen Hearing and Smell, Stone Camouflage, can't be blinded, blindsight 30 ft., or 10 ft. while deafened (blind beyond this radius), speaks Undercommon |
+| Grimlock | +2 Str, -2 Cha | Blind Senses, Keen Hearing and Smell, Stone Camouflage, can't be blinded, blindsight 30 ft., or 10 ft. While deafened (blind beyond this radius), speaks Undercommon |
 | Half-elf* | +1 Dex, +1 Int, +2 Cha | Fey Ancestry, darkvision 60 ft., proficiency in two skills, speaks Common and Elvish |
 | Half-orc* | +2 Str, +1 Con | Relentless Endurance, darkvision 60 ft., proficiency in the Intimidation skill, speaks Common and Orc |
 | Halfling* | +2 Dex, +1 Con or Cha | Brave, Halfling Nimbleness, Lucky, Small size, speed 25 ft., speaks Common and Halfling |
@@ -63,46 +74,41 @@ world: Both
 | Tiefling* | +1 Int, +2 Cha | Infernal Legacy (use challenge rating instead of level to determine spells), resistance to fire damage, darkvision 60 ft., speaks Common and Infernal |
 | Troglodyte | +2 Str, +2 Con, -4 Int, -4 Cha | Chameleon Skin, Stench, Sunlight Sensitivity, +1 natural armor bonus to AC, darkvision 60 ft., speaks Troglodyte |
 | Zombie | +1 Str, +2 Con, -6 Int, -4 Wis, -4 Cha | Undead Fortitude, immune to poison damage, can't be poisoned, darkvision 60 ft., can't speak but understands the languages it knew in life |
-^npc-features
 
-* See the *Player's Handbook* for descriptions of this race's features, none of which alter the NPC's challenge rating.
+^npc-features * See the *Player's Handbook* for descriptions of this race's features, none of which alter the NPC's challenge rating. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Creating npcs from scratch npc features is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of creating npcs from scratch npc features as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around creating npcs from scratch npc features. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+## Notes
 
-### Connection Improvements
+*Additional notes*
 
-- Add cross-references to related notes
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/npc
+#meta/reference
 
-### Enhancement Improvements
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
 
-- Add 12_Research-specific enhancement
 
-## Player-Facing Summary
+## Daily Routine
+- Morning activities
+- Evening habits
 
-Creating npcs from scratch npc features is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## Possessions
+- Personal items
+- Valuable objects
 
-Legends speak of creating npcs from scratch npc features as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around creating npcs from scratch npc features.
 
-## DM Notes
+## Combat Tactics
+- Preferred strategies
+- Special moves
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## Secrets
+- Hidden knowledge
+- Personal mysteries

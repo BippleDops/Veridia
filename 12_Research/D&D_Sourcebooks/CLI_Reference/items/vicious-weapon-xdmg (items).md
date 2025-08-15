@@ -1,15 +1,18 @@
 ---
+
 title: vicious-weapon-xdmg (items)
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# vicious-weapon-xdmg
+--- # vicious-weapon-xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: vicious weapon xdmg
 aliases:
 - Vicious Weapon
@@ -66,6 +69,7 @@ aliases:
 - Vicious Whip
 - Vicious Wooden Staff
 - Vicious Yklwa
+
 type: note
 tags:
 - research
@@ -75,6 +79,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -83,15 +88,10 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-12T23:37:37.432453'
 world: Both
----
 
-# Vicious Weapon
-*Rare*  
-![](/03_Mechanics/CLI/items/img/vicious-weapon.webp#right)
+--- # Vicious Weapon
 
-This magic weapon deals an extra `2d6` damage to any creature it hits. This extra damage is of the same type as the weapon's normal damage.
-
-**Variants**:
+*Rare* ![](/03_Mechanics/CLI/items/img/vicious-weapon.webp#right) This magic weapon deals an extra`2d6`damage to any creature it hits. This extra damage is of the same type as the weapon's normal damage. **Variants**:
 - [Vicious Antimatter Rifle](#Vicious%20Antimatter%20Rifle)
 - [Vicious Automatic Rifle](#Vicious%20Automatic%20Rifle)
 - [Vicious Battleaxe](#Vicious%20Battleaxe)
@@ -144,72 +144,27 @@ This magic weapon deals an extra `2d6` damage to any creature it hits. This extr
 - [Vicious Warhammer](#Vicious%20Warhammer)
 - [Vicious Whip](#Vicious%20Whip)
 - [Vicious Wooden Staff](#Vicious%20Wooden%20Staff)
-- [Vicious Yklwa](#Vicious%20Yklwa)
+- [Vicious Yklwa](#Vicious%20Yklwa) ### Vicious Yklwa - **Damage**: 1d8 piercing
 
-### Vicious Yklwa
-
-- **Damage**: 1d8 piercing
 - **Range**: 10/30
 - **Properties**: [[item properties#Thrown|Thrown]]
-- **Weight**: 3.0 lbs.
+- **Weight**: 3.0 lbs. *Source: Dungeon Master's Guide (2024) p. 318. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Vicious weapon xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of vicious weapon xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vicious weapon xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## Plot Hooks - Strange sightings suggest a curse
 
-*Source: Dungeon Master's Guide (2024) p. 318. Available in the SRD and the Free Rules (2024)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Vicious weapon xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of vicious weapon xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vicious weapon xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
-## Plot Hooks
-
-- Strange sightings suggest a curse
 - Strange disappearances suggest ancient magic
-- A prisoner has gone missing and truth emerges
+- A prisoner has gone missing and truth emerges ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Master_Item_Catalog]]
 - [[Armaments Rare Xdmg]]
 - [[Magic Item Table G]]
 - [[Random Magic Items Armaments]]
 - [[armaments-rare-xdmg (tables)]]
 - [[magic-item-table-g (tables)]]
 - [[random-magic-items-armaments (tables)]]
+
+
+## Notes
+
+*Additional notes*

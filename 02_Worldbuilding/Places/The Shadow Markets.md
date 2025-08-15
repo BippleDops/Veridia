@@ -235,3 +235,18 @@ Ongoing situations affecting The Shadow Markets:
 - [[Memory Thief (D&D_Statblocks)]]
 - [[Smuggler (D&D_Statblocks)]]
 - [[Traveling Merchant Finn (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

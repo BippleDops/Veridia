@@ -329,3 +329,18 @@ Ongoing situations affecting Memory Meadows Black Market:
 - [[Whisper Island (D&D_References)]]
 - [[Aurelius Goldwave (D&D_Statblocks)]]
 - [[Diplomatic Tides (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

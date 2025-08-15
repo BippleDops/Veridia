@@ -232,3 +232,18 @@ Ongoing situations affecting Priest Thomas Messagekeeper:
 
 - [[Mad Oracle Thessaly]]
 - [[Mad Oracle Thessaly (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

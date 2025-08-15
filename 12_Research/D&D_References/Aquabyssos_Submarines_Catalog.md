@@ -1,15 +1,28 @@
 ---
+
 title: Aquabyssos_Submarines_Catalog
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Aquabyssos Submarines Catalog"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D References
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Aquabyssos_Submarines_Catalog
+ # Aquabyssos_Submarines_Catalog ---
 
----
+## Description
+
+Detailed description pending.
 title: Aquabyssos Submarines Catalog
 type: mechanics
 tags:
@@ -21,18 +34,15 @@ tags:
 - research
 - active
 - complete
+
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
 updated: '2025-08-13T01:18:37.141013+00:00'
 world: Aquabyssos
----
 
-# Aquabyssos Submarines Catalog (60)
+--- # Aquabyssos Submarines Catalog (60) Each entry lists a signature trait and a primary integration. Use [[New_Ship_Template|New Ship Template]] to instantiate a full stat block per hull. 1. Coral Leviathan — Living reef hull; Reef Regeneration; anchors 2
 
-Each entry lists a signature trait and a primary integration. Use [[New_Ship_Template|New Ship Template]] to instantiate a full stat block per hull.
-
-1. Coral Leviathan — Living reef hull; Reef Regeneration; anchors 2
 2. Parasite Choir Ship — Neural symbiosis; crew sense-link; Sanity saves
 3. Memory Ghost Sub — Phases using consumed charts; identity bleed risk
 4. Crystal Resonator — Pressure-immune hull; harmonic shatter on mis-tune
@@ -47,7 +57,7 @@ Each entry lists a signature trait and a primary integration. Use [[New_Ship_Tem
 13. Wail Engine Boat — Sonic cannon; fear wave; Sanity trigger
 14. Pearl Borer — Siege torpedoes; pierce coral/stone; low Maneuver
 15. Kelp Weave Cutter — Tangle immunity; boarding specialist
-16. Rift Listener — Detects merger pre-shocks; Sensor +2 vs. flickers
+16. Rift Listener — Detects merger pre-shocks; Sensor +2 vs. Flickers
 17. Pressure Choir Barge — Chant reduces environmental DCs by 2
 18. Shadow Lantern Sloop — Shadow-sight optics; Sanity saves on use
 19. Leviathan Tamer — Harpoon arrays; creature control actions
@@ -57,8 +67,8 @@ Each entry lists a signature trait and a primary integration. Use [[New_Ship_Tem
 23. Brine Saint — Auto-triage medbay; crew Sanity +1 on rest
 24. Black Smoker Runner — Heat-shielded; vent surfing; hull stress risk
 25. Cavitation Dancer — Bubble-void tricks; Maneuver +1; noisy ping
-26.  Hush Diver — Sound-dampened; perfect silent drift; Sensor -1
-27. Rift Herald — Broadcast anchor hymn; buffs allies vs. merger
+26. Hush Diver — Sound-dampened; perfect silent drift; Sensor -1
+27. Rift Herald — Broadcast anchor hymn; buffs allies vs. Merger
 28. Reefmason — Deploys coral barricades; terrain control
 29. Tide Oracle — Forecast currents; reroll adverse environment once/day
 30. Echo Harvester — Skims memory tides; gain charts; Sanity test
@@ -91,55 +101,29 @@ Each entry lists a signature trait and a primary integration. Use [[New_Ship_Tem
 57. Trench Singer — Low-frequency hum; confuses predators; Sanity check
 58. Oracle of Bubbles — Divination foam; clue generation; 1/day
 59. Tidebound Shrine — Portable sanctuary; repair + Sanity restore
-60. Deep Mother’s Smile — Eldritch guidance; gains boons; corruption risk
+60. Deep Mother’s Smile — Eldritch guidance; gains boons; corruption risk Integration keys: Pressure/AP gates, Anchors/RSB, Sanity hooks, Memory charts, Faction doctrines. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Aquabyssos Submarines Catalog is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Aquabyssos Submarines Catalog as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos Submarines Catalog. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession ## Plot Hooks - A merchant needs help delivering before dawn
 
-Integration keys: Pressure/AP gates, Anchors/RSB, Sanity hooks, Memory charts, Faction doctrines.
 
-## 🔧 Deep Evaluation Improvements
+- Strange accidents suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[MASTER_VAULT_INDEX]]
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Aquabyssos Submarines Catalog is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of Aquabyssos Submarines Catalog as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos Submarines Catalog.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
-## Plot Hooks
-
-- A merchant needs help delivering before dawn
-- Strange accidents suggest ancient magic
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[MASTER_VAULT_INDEX]]
 - [[README]]
 - [[Queen Seraphina Lumengarde (D&D_References)]]
 - [[Topic Matrix]]
 - [[Topic_Matrix (Indexes)]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/mechanics
+#mechanics/system
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#gameplay/encounter
+#meta/index
+#meta/reference

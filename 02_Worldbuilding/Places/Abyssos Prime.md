@@ -310,3 +310,18 @@ Recommended tracks:
 - [[Traveling Merchant Finn (D&D_Statblocks)]]
 - [[Topic Matrix]]
 - [[Topic_Matrix (Indexes)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

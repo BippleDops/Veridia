@@ -48,3 +48,28 @@ Currently involved in the ongoing events of the campaign.
 - [[Assets Locations Location City Captain Trawl Netcaster V1 Captain Trawl Netcaster.svg]]
 - [[Assets Locations Location City Hadrian Depthbridge V1 Hadrian Depthbridge.svg]]
 - [[Assets Portraits Portrait NPC Captain Thrace Deeprunner Captain Thrace Deeprunner.svg]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

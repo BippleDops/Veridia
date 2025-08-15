@@ -181,3 +181,22 @@ Mentioned in The Hidden Prophecy of Winds
 
 - Someone is searching for a artifact for money
 - Strange disappearances suggest a conspiracy
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

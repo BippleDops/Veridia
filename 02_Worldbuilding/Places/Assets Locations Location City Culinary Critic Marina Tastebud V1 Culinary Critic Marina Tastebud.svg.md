@@ -180,3 +180,22 @@ Mentioned in The Hidden Prophecy of Depths
 - An heirloom has gone missing and evil awakens
 - Strange dreams suggest a conspiracy
 - A map reveals ancient history about this place
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

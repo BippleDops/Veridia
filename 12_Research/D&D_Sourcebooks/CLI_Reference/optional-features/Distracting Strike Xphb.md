@@ -1,18 +1,32 @@
 ---
+
 title: Distracting Strike Xphb
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Distracting Strike Xphb"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Distracting Strike Xphb
+ # Distracting Strike Xphb ---
 
----
+## Description
+
+Detailed description pending.
 title: Distracting Strike Xphb
 aliases:
 - Distracting Strike
+
 type: note
 tags:
 - both
@@ -23,61 +37,35 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-feat
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:06.180445+00:00'
 world: Both
----
 
-# Distracting Strike
-*Source: Player's Handbook (2024) p. 95*  
+--- # Distracting Strike
 
-When you hit a creature with an attack roll, you can expend one Superiority Die to distract the target. Add the Superiority Die roll to the attack's damage roll. The next attack roll against the target by an attacker other than you has [[Advantage Xphb]] if the attack is made before the start of your next turn.
+*Source: Player's Handbook (2024) p. 95* When you hit a creature with an attack roll, you can expend one Superiority Die to distract the target. Add the Superiority Die roll to the attack's damage roll. The next attack roll against the target by an attacker other than you has [[Advantage Xphb]] if the attack is made before the start of your next turn. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Distracting strike xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of distracting strike xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around distracting strike xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes ## Plot Hooks - A stranger needs help finding before the festival
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Distracting strike xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of distracting strike xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around distracting strike xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
-## Plot Hooks
-
-- A stranger needs help finding before the festival
 - A noble needs help finding before the new moon
-- A prisoner has gone missing and chaos spreads
+- A prisoner has gone missing and chaos spreads ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Notes
+
+*Additional notes*
+
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#meta/reference

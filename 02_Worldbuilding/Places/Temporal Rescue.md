@@ -338,3 +338,18 @@ Ongoing situations affecting Temporal Rescue:
 ## References
 
 - [[Temporal Anomaly Resolution]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

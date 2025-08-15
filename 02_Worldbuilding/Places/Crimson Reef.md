@@ -218,3 +218,18 @@ Ongoing situations affecting Crimson Reef:
 - [[02_Worldbuilding_Places_The_Crimson_Reef]]
 - [[Coral Throne Syndicate]]
 - [[Coral Throne Syndicate (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

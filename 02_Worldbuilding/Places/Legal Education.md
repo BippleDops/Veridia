@@ -208,3 +208,18 @@ Ongoing situations affecting Legal Education:
 
 - [[Depth Wardens]]
 - [[Tethyan Hegemony]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

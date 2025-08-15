@@ -1,18 +1,32 @@
 ---
+
 title: chamber-purpose-dungeon-mine (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["chamber-purpose-dungeon-mine (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# chamber-purpose-dungeon-mine
+ # chamber-purpose-dungeon-mine ---
 
----
+## Description
+
+Detailed description pending.
 title: chamber purpose dungeon mine
 aliases:
 - Chamber Purpose; Dungeon: Mine
+
 type: note
 tags:
 - research
@@ -21,23 +35,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.629434'
 world: Both
----
 
-# Chamber Purpose; Dungeon: Mine
-*Source: Dungeon Master's Guide p. 292* 
+--- # Chamber Purpose; Dungeon: Mine
 
-**Dungeon: Mine**
-
-`dice: [](chamber-purpose-dungeon-mine.md#^dungeon-mine)`
-
-| dice: d20 | Purpose |
+*Source: Dungeon Master's Guide p. 292* **Dungeon: Mine**`dice: [](chamber-purpose-dungeon-mine.md#^dungeon-mine)`| dice: d20 | Purpose |
 |-----------|---------|
 | 1-2 | Barracks for miners |
 | 3 | Bedroom for a supervisor or manager |
@@ -51,49 +60,21 @@ world: Both
 | 17 | Smithy for repairing damaged tools |
 | 18-19 | Storage for tools and other equipment |
 | 20 | Strong room or vault used to store ore for transport to the surface |
-^dungeon-mine
 
-## 🔧 Deep Evaluation Improvements
+^dungeon-mine ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Chamber purpose dungeon mine is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of chamber purpose dungeon mine as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chamber purpose dungeon mine. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes ## Plot Hooks - A letter reveals the truth about the cult
 
-*20 targeted improvements identified*
+- A prisoner has gone missing and evil awakens ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-### Connection Improvements
 
-- Add cross-references to related notes
+## Notes
 
-### Enhancement Improvements
+*Additional notes*
 
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Chamber purpose dungeon mine is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of chamber purpose dungeon mine as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chamber purpose dungeon mine.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
-## Plot Hooks
-
-- A letter reveals the truth about the cult
-- A prisoner has gone missing and evil awakens
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/equipment
+#meta/reference

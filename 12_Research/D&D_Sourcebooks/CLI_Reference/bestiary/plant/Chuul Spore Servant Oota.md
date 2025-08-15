@@ -1,18 +1,22 @@
 ---
+
 title: Chuul Spore Servant Oota
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# Chuul Spore Servant Oota
+--- # Chuul Spore Servant Oota ---
 
----
+## Description
+
+Detailed description pending.
 title: Chuul Spore Servant Oota
 aliases:
 - Chuul Spore Servant
+
 type: monster
 tags:
 - both
@@ -25,6 +29,7 @@ tags:
 - ttrpg-cli/monster/type/plant
 - active
 - status/in-progress
+
 created: 2025-08-11
 modified: '2025-08-14'
 status: active
@@ -34,16 +39,12 @@ statblock: inline
 statblock-link: '#^statblock'
 updated: '2025-08-13T12:34:05.673580+00:00'
 world: Both
----
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-chuul-spore-servant-oota-chuul-spore-servant-oota.svg)
+--- > [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-chuul-spore-servant-oota-chuul-spore-servant-oota.svg) # [[Chuul Spore Servant Oota]]
 
-# [[Chuul Spore Servant Oota]]
-*Source: Out of the Abyss p. 228*  
-
-```statblock
-"name": "Chuul Spore Servant (OotA)"
+*Source: Out of the Abyss p. 228*```statblock
+"name": "Chuul Spore Servant (Oot A)"
 "size": "Large"
 "type": "plant"
 "alignment": "Unaligned"
@@ -52,79 +53,24 @@ world: Both
 "hp": !!int "93"
 "hit_dice": "11d10 + 33"
 "modifier": !!int "0"
-"stats":
-  - !!int "19"
-  - !!int "10"
-  - !!int "16"
-  - !!int "2"
-  - !!int "6"
-  - !!int "1"
+"stats": - !!int "19" - !!int "10" - !!int "16" - !!int "2" - !!int "6" - !!int "1"
 "speed": "30 ft., swim 30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
-  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
-  \ [[conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\ \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\ \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "4"
-"actions":
-  - "desc": "The spore servant makes two pincer attacks."
-    "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11\
-      \ (2d6 + 4) bludgeoning damage. The target is [[conditions#Grappled|grappled]]\
-      \ (Escape DC 14) if it is a Large or smaller creature and the spore servant\
-      \ doesn't have two other creatures [[conditions#Grappled|grappled]]."
-    "name": "Pincer"
-"source":
-  - "OotA"
-"image": "/03_Mechanics/CLI/bestiary/plant/token/chuul-spore-servant-oota.webp"
-```
-^statblock
+"actions": - "desc": "The spore servant makes two pincer attacks." "name": "Multiattack" - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11\ \ (2d6 + 4) bludgeoning damage. The target is [[conditions#Grappled|grappled]]\ \ (Escape DC 14) if it is a Large or smaller creature and the spore servant\ \ doesn't have two other creatures [[conditions#Grappled|grappled]]." "name": "Pincer"
+"source": - "Oot A"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/chuul-spore-servant-oota.webp"```^statblock ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Chuul spore servant oota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of chuul spore servant oota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chuul spore servant oota. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A stranger needs help delivering before the new moon
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Chuul spore servant oota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of chuul spore servant oota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chuul spore servant oota.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A stranger needs help delivering before the new moon
 - Strange dreams suggest a conspiracy
-- Someone is searching for a witness for money
+- Someone is searching for a witness for money ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[20 Appendix C Creatures]]
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[20 Appendix C Creatures]]
 - [[20-appendix-c-creatures (out-of-the-abyss)]]
 - [[chuul-spore-servant-oota (plant)]]
+
+
+## Notes
+
+*Additional notes*

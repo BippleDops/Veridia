@@ -1,18 +1,32 @@
 ---
+
 title: Dark Gift of Vaund the Evasive Cos
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Dark Gift of Vaund the Evasive Cos"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Dark Gift of Vaund the Evasive Cos
+ # Dark Gift of Vaund the Evasive Cos ---
 
----
+## Description
+
+Detailed description pending.
 title: Dark Gift of Vaund the Evasive Cos
 aliases:
 - Dark Gift of Vaund the Evasive
+
 type: note
 tags:
 - both
@@ -23,63 +37,32 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/cos
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-reward
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:05.121549+00:00'
 world: Both
----
 
-# Dark Gift of Vaund the Evasive
-*Charm*  
+--- # Dark Gift of Vaund the Evasive
 
-Vaund's gift is the power of evasion. This dark gift grants its beneficiary the benefits of an [[Amulet of Proof Against Detection and]] and a [[ring-of-evasion-xdmg (items)]]. These benefits last for 10 days, after which the dark gift vanishes.
+*Charm* Vaund's gift is the power of evasion. This dark gift grants its beneficiary the benefits of an [[Amulet of Proof Against Detection and]] and a [[ring-of-evasion-xdmg (items)]]. These benefits last for 10 days, after which the dark gift vanishes. The beneficiary of this dark gift becomes twitchy and nervous, and also gains the following flaw: "I can't give a straight answer to any question put to me." *Source: Curse of Strahd p. 193* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Dark gift of vaund the evasive cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of dark gift of vaund the evasive cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dark gift of vaund the evasive cos. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession ## Related Notes - [[Similar Topic 1]]
 
-The beneficiary of this dark gift becomes twitchy and nervous, and also gains the following flaw: "I can't give a straight answer to any question put to me."
-
-*Source: Curse of Strahd p. 193*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Dark gift of vaund the evasive cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of dark gift of vaund the evasive cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dark gift of vaund the evasive cos.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
+
+*Additional notes*
+
+#story/story
+#story/lore
+#world/world
+#world/setting
+#gameplay/quest
+#resource/item
+#meta/reference

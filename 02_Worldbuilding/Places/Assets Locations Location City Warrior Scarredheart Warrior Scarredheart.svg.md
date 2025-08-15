@@ -181,3 +181,22 @@ Key stop on metals trade route
 - A map reveals the truth about a local noble
 - Someone is searching for a witness for revenge
 - Someone is blackmailing a witness for power
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

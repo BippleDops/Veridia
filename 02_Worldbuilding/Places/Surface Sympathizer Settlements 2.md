@@ -182,3 +182,23 @@ Legends speak of Surface Sympathizer Settlements as a nexus where past and prese
 - [[02_Worldbuilding/Places/Surface Sympathizer Settlements]]
 
 <!-- enriched: true -->
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

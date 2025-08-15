@@ -5,105 +5,48 @@ type: lore
 tags:
 - lore
 - worldbuilding
+
 created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
 status: active
----
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### History Improvements
-
-- Add three historical eras with major events
-
-### Culture Improvements
-
-- Define unique cultural practices and taboos
-
-### Economy Improvements
-
-- Detail currency, trade goods, and wealth distribution
-
-### Religion Improvements
-
-- Create detailed religious observances
-
-### Lifestyle Improvements
-
-- Describe typical day for different social classes
-
-### Hospitality Improvements
-
-- Explain guest rights and host obligations
-
-### Diaspora Improvements
-
-- Describe how this culture exists in other regions
-
-### Sensory Improvements
-
-- Add smells, sounds, and textures unique to this culture
-
-### Superstitions Improvements
-
-- List common superstitions and their origins
-
-### Death_Customs Improvements
-
-- Detail funeral rites and afterlife beliefs
-
-### Coming_Of_Age Improvements
-
-- Describe rites of passage and adulthood markers
-
-### Material_Culture Improvements
-
-- Detail common objects and their cultural significance
-
-## Overview
-
-04_Resources/Assets represents a crucial aspect of the world's history, cosmology, or fundamental nature.
+aliases: ["Assets"]
+priority: normal
+category: 04 Resources
+subcategory: Assets.Md
+related: []
+cssclass: standard
+publish: false
 
 ---
 
-*Last Updated: 2025-08-14 19:03*
+ ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### History Improvements - Add three historical eras with major events ### Culture Improvements - Define unique cultural practices and taboos ### Economy Improvements - Detail currency, trade goods, and wealth distribution ### Religion Improvements - Create detailed religious observances ### Lifestyle Improvements - Describe typical day for different social classes ### Hospitality Improvements - Explain guest rights and host obligations ### Diaspora Improvements - Describe how this culture exists in other regions ### Sensory Improvements - Add smells, sounds, and textures unique to this culture ### Superstitions Improvements - List common superstitions and their origins ### Death_Customs Improvements - Detail funeral rites and afterlife beliefs ### Coming_Of_Age Improvements - Describe rites of passage and adulthood markers ### Material_Culture Improvements - Detail common objects and their cultural significance ## Overview 04_Resources/Assets represents a crucial aspect of the world's history, cosmology, or fundamental nature. --- *Last Updated: 2025-08-14 19:03* ## DM Notes *Private notes for campaign integration:*
 
-## DM Notes
+## Description
 
-*Private notes for campaign integration:*
+Detailed description pending.
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes
+- Connections to overarching campaign themes ## Religious Observances ### Daily Prayers
 
-## Religious Observances
-
-### Daily Prayers
 - Dawn: Gratitude for life
 - Noon: Strength for labor
-- Dusk: Protection from darkness
+- Dusk: Protection from darkness ### Weekly Observance
 
-### Weekly Observance
 - Temple attendance mandatory
 - Ritual cleansing required
-- Tithing of 10% income
+- Tithing of 10% income ## See Also
 
-## See Also
 - Related content
 - Similar topics
-- Connected elements
+- Connected elements ## Player Tips
 
-## Player Tips
 > 🎮 **Strategy**: How to approach this content
-> Work together and communicate
 
-## References
+> Work together and communicate ## References - [[Parliamentary Ethics Committee (Government_and_Parliament)]]
 
-- [[Parliamentary Ethics Committee (Government_and_Parliament)]]
 - [[Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png]]
 - [[Queen Seraphina Lumengarde (People)]]
 - [[Aether Crystal]]
@@ -134,3 +77,17 @@ status: active
 - [[rod-of-alertness-xdmg (items)]]
 - [[Archdruid Thornweaver (D&D_Statblocks)]]
 - [[VAULT_100_PERCENT_ACHIEVED]]
+
+
+## Notes
+
+*Additional notes*
+
+#story/story
+#story/lore
+#world/location
+#world/world
+#world/place
+#character/npc
+#resource/item
+#meta/reference

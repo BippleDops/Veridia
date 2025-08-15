@@ -100,3 +100,27 @@ improvements: 20
 - A document has gone missing and war looms
 - Someone is hunting a witness for money
 - Someone is blackmailing a artifact for money
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

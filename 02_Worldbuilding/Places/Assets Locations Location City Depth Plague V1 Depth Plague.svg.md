@@ -171,3 +171,22 @@ Key locations marked:
 - A document has gone missing and evil awakens
 - A document has gone missing and chaos spreads
 - An heirloom has gone missing and truth emerges
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

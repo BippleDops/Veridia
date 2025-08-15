@@ -57,3 +57,28 @@ Recent developments have brought new attention to Location City Commander Reef S
 
 ## DM Notes
 *Location City Commander Reef Shadowstrike V1 Commander Reef Shadowstrike.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

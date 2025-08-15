@@ -213,3 +213,18 @@ Mentioned in The First Prophecy of Shadows
 - [[Current Riders Guild]]
 - [[The Sinking Atoll]]
 - [[Current Riders Guild (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

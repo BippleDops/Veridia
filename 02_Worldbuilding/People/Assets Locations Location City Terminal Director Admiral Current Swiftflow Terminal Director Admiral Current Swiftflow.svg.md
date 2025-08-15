@@ -248,3 +248,28 @@ This NPC can serve multiple roles:
 
 - [[04_Resources_Assets_Portraits_portrait-npc-captain-marina-saltborn-captain-marina-saltborn.svg]]
 - [[04_Resources_Assets_Portraits_portrait-npc-house-guard-captains-house-guard-captains.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

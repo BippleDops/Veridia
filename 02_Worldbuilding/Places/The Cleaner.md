@@ -228,3 +228,18 @@ Ongoing situations affecting The Cleaner:
 
 - [[The Phosphor Markets]]
 - [[The Phosphor Markets (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

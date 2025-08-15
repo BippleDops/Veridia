@@ -182,3 +182,22 @@ Key stop on spices trade route
 - Someone is hunting information for love
 - A corpse reveals ancient history about the cult
 - A shipment has gone missing and evil awakens
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

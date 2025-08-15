@@ -223,3 +223,18 @@ Ongoing situations affecting Pool of Sacred Drowning:
 
 - [[Temple Guardian Marcus the Drowned]]
 - [[Temple Guardian Marcus the Drowned (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

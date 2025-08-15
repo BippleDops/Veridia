@@ -101,3 +101,27 @@ Mentioned in The Second Prophecy of Winds
 - A noble needs help stealing before the new moon
 - Someone is blackmailing an heir for love
 - A shipment has gone missing and chaos spreads
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

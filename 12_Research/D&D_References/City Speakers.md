@@ -1,15 +1,28 @@
 ---
+
 title: City Speakers
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["City Speakers"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D References
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# City Speakers
+ # City Speakers ---
 
----
+## Description
+
+Detailed description pending.
 title: City Speakers
 type: Lore
 tags:
@@ -17,41 +30,22 @@ tags:
 - both
 - active
 - research
+
 created: '2025-08-11'
 modified: '2025-08-14'
 status: active
 world: Both
 updated: '2025-08-13T01:18:34.756519+00:00'
----
 
-## 🔧 Deep Evaluation Improvements
+--- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary City Speakers is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of City Speakers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around City Speakers. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Prophecy Connection Mentioned in The First Prophecy of Winds ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-*20 targeted improvements identified*
 
-### Connection Improvements
+## Notes
 
-- Add cross-references to related notes
+*Additional notes*
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-City Speakers is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of City Speakers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around City Speakers.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Prophecy Connection
-
-Mentioned in The First Prophecy of Winds
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

@@ -238,3 +238,18 @@ Ongoing situations affecting The Mourning Depths:
 - [[Mourning Depths]]
 - [[Aquabyssos - Session 08 - The Fractal Conspiracy]]
 - [[Aquabyssos - Session 09 - The Mourning Strategy]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

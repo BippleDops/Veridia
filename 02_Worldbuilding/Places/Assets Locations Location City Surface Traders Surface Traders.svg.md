@@ -179,3 +179,22 @@ Key stop on magic items trade route
 - Someone is blackmailing information for power
 - A journal reveals a conspiracy about the government
 - An heirloom has gone missing and evil awakens
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -4,202 +4,181 @@ title: Quest - The Symbiotic Sacrament
 type: quest
 tags:
 - quest
+
 created: '2025-01-15'
 modified: '2025-01-15'
 status: active
+aliases: ["Quest - The Symbiotic Sacrament"]
+priority: normal
+category: 01 Adventures
+subcategory: Quest - The Symbiotic Sacrament.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-## Complications
+ ## Complications
+
+## Description
+
+Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas
+- Moral dilemmas > [!figure] Asset
 
-> [!figure] Asset
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-symbiotic-sacrament-quest-the-symbiotic-sacrament.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-symbiotic-sacrament-quest-the-symbiotic-sacrament.svg) # Quest - The Symbiotic Sacrament ---
 
-# Quest - The Symbiotic Sacrament
-
----
-title: Quest   The Symbiotic Sacrament
+title: Quest The Symbiotic Sacrament
 type: NPC
 tags:
 - both
 - active
 - npc
 - research
+
 created: '2025-08-11'
 modified: '2025-08-14'
 status: active
 updated: '2025-08-13T01:18:36.894412+00:00'
 world: Both
----
 
-> [!figure] Portrait
+--- > [!figure] Portrait ## Quest Giver
 
-## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
-- **Motivation**: Community safety
+- **Motivation**: Community safety ## Objectives
 
-## Objectives
 ### Primary
-- Main quest goal
 
-### Optional
+- Main quest goal ### Optional
+
 - Secondary objectives
-- Hidden goals
+- Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Quest The Symbiotic Sacrament is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Quest The Symbiotic Sacrament as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest The Symbiotic Sacrament. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is hunting a artifact for love
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Quest   The Symbiotic Sacrament is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of Quest   The Symbiotic Sacrament as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest   The Symbiotic Sacrament.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Someone is hunting a artifact for love
 - Strange sightings suggest a curse
 - Strange accidents suggest a conspiracy
+
 ## Background
-*[Adventure setup and context]*
 
-### What Happened Before
-- *[Recent events leading to this adventure]*
+*[Adventure setup and context]* ### What Happened Before
 
-### Current Situation  
-- *[What's happening now]*
+- *[Recent events leading to this adventure]* ### Current Situation - *[What's happening now]* ### The Stakes
 
-### The Stakes
-- *[What happens if PCs don't act]*
+- *[What happens if PCs don't act]* ## Adventure Hooks
 
-## Adventure Hooks
-*[Ways to get PCs involved]*
+*[Ways to get PCs involved]* ### Direct Approach
 
-### Direct Approach
-- *[Straightforward hook]*
+- *[Straightforward hook]* ### Indirect Approach
 
-### Indirect Approach
-- *[Subtle introduction]*
+- *[Subtle introduction]* ### Emergency Hook
 
-### Emergency Hook
-- *[Urgent situation]*
+- *[Urgent situation]* ## Key NPCs
 
-## Key NPCs
-*[Important characters in this adventure]*
+*[Important characters in this adventure]* ### Allies
 
-### Allies
-- *[Helpful NPCs]*
+- *[Helpful NPCs]* ### Antagonists
 
-### Antagonists
-- *[Opposition NPCs]*
+- *[Opposition NPCs]* ### Neutral Parties
 
-### Neutral Parties
-- *[Information sources]*
+- *[Information sources]* ## Locations
 
-## Locations
-*[Important places in this adventure]*
+*[Important places in this adventure]* ### Starting Location
 
-### Starting Location
-- *[Where adventure begins]*
+- *[Where adventure begins]* ### Key Sites
 
-### Key Sites
-- *[Major locations to visit]*
+- *[Major locations to visit]* ### Optional Areas
 
-### Optional Areas
-- *[Side locations]*
+- *[Side locations]* ## Rewards
 
-## Rewards
-*[What PCs gain from completing this adventure]*
+*[What PCs gain from completing this adventure]* ### Experience Points
 
-### Experience Points
-- *[XP awards]*
+- *[XP awards]* ### Treasure
 
-### Treasure
-- *[Gold and magic items]*
+- *[Gold and magic items]* ### Story Rewards
 
-### Story Rewards
-- *[Reputation, allies, information]*
+- *[Reputation, allies, information]* ## Scaling
 
-## Scaling
-*[How to adjust for different party levels]*
+*[How to adjust for different party levels]* ### Lower Level Parties
 
-### Lower Level Parties
-- *[Adjustments for weaker groups]*
+- *[Adjustments for weaker groups]* ### Higher Level Parties
 
-### Higher Level Parties
-- *[Adjustments for stronger groups]*
+- *[Adjustments for stronger groups]* ### Large/Small Parties
 
-### Large/Small Parties
-- *[Adjustments for party size]*
+- *[Adjustments for party size]* ## Hooks
 
-## Hooks
 - **Personal**: Character connection
-- **Professional**: Hired for the job
+- **Professional**: Hired for the job ## Time Limit
 
-## Time Limit
 - **Deadline**: When it must be completed
-- **Consequences**: What happens if late
+- **Consequences**: What happens if late ## Opposition
 
-## Opposition
 - **Enemies**: Who opposes the party
-- **Obstacles**: Environmental challenges
+- **Obstacles**: Environmental challenges ## Moral Dilemmas
 
-## Moral Dilemmas
 - **Difficult Choices**: Ethical challenges
-- **Consequences**: Impact of decisions
+- **Consequences**: Impact of decisions ## Optional Objectives
 
-## Optional Objectives
 - **Bonus Goals**: Extra achievements
-- **Hidden Rewards**: Secret treasures
+- **Hidden Rewards**: Secret treasures ## Failure Conditions
 
-## Failure Conditions
 - **What Constitutes Failure**: Clear parameters
-- **Failure Consequences**: What happens
+- **Failure Consequences**: What happens ## Investigation Clues
 
-## Investigation Clues
 - **Obvious Clues**: Easy to find
-- **Hidden Clues**: Require searching
+- **Hidden Clues**: Require searching ## Social Encounters
 
-## Social Encounters
 - **Key Conversations**: Important dialogues
-- **Persuasion Opportunities**: Diplomatic solutions
+- **Persuasion Opportunities**: Diplomatic solutions ## Environmental Hazards
 
-## Environmental Hazards
 - **Natural Dangers**: Environmental threats
-- **Trap Locations**: Mechanical dangers
+- **Trap Locations**: Mechanical dangers ## Scaling Options
 
-## Scaling Options
 - **Easy Mode**: Reduced difficulty
-- **Hard Mode**: Increased challenge
+- **Hard Mode**: Increased challenge ## Random Table
 
-## Random Table
 | d6 | Result |
 |----|--------|
-| 1  | Option A |
-| 2  | Option B |
-| 3  | Option C |
-| 4  | Option D |
-| 5  | Option E |
-| 6  | Option F |
+| 1 | Option A |
+| 2 | Option B |
+| 3 | Option C |
+| 4 | Option D |
+| 5 | Option E |
+| 6 | Option F |
+
+
+## Notes
+
+*Additional notes*
+
+#story/plot
+#story/story
+#story/lore
+#story/background
+#world/location
+#world/world
+#world/setting
+#world/place
+#character/npc
+#character/character
+#character/person
+#gameplay/encounter
+#gameplay/adventure
+#gameplay/quest
+#resource/item
+#resource/treasure
+#meta/reference
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

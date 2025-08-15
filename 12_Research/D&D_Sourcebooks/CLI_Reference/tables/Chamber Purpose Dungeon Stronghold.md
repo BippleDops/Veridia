@@ -1,18 +1,32 @@
 ---
+
 title: Chamber Purpose Dungeon Stronghold
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Chamber Purpose Dungeon Stronghold"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Chamber Purpose Dungeon Stronghold
+ # Chamber Purpose Dungeon Stronghold ---
 
----
+## Description
+
+Detailed description pending.
 title: Chamber Purpose Dungeon Stronghold
 aliases:
 - Chamber Purpose; Dungeon: Stronghold
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:04.055030+00:00'
 world: Both
----
 
-# Chamber Purpose; Dungeon: Stronghold
-*Source: Dungeon Master's Guide p. 292* 
+--- # Chamber Purpose; Dungeon: Stronghold
 
-**Dungeon: Stronghold**
-
-`dice: [](chamber-purpose-dungeon-stronghold.md#^dungeon-stronghold)`
-
-| dice: d100 | Purpose |
+*Source: Dungeon Master's Guide p. 292* **Dungeon: Stronghold**`dice: [](chamber-purpose-dungeon-stronghold.md#^dungeon-stronghold)`| dice: d100 | Purpose |
 |------------|---------|
 | 01-02 | Antechamber where visitors seeking access to the stronghold wait |
 | 03-05 | Armory holding high-quality gear, including light siege weapons such as ballistas |
@@ -69,52 +78,29 @@ world: Both
 | 94-96 | Waiting room where lesser guests are held before receiving an audience |
 | 97-98 | Latrine or bath |
 | 99-00 | Crypt belonging to the stronghold's master or someone else of importance |
-^dungeon-stronghold
 
-## 🔧 Deep Evaluation Improvements
+^dungeon-stronghold ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Chamber purpose dungeon stronghold is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of chamber purpose dungeon stronghold as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chamber purpose dungeon stronghold. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - The authorities needs help stealing before the festival
 
-*20 targeted improvements identified*
+- A letter reveals a betrayal about this place ## Related Notes - [[Similar Topic 1]]
 
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Chamber purpose dungeon stronghold is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of chamber purpose dungeon stronghold as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chamber purpose dungeon stronghold.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- The authorities needs help stealing before the festival
-- A letter reveals a betrayal about this place
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#character/creature
+#character/monster
+#resource/treasure
+#resource/gear
+#meta/reference

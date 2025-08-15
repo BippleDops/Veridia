@@ -95,3 +95,27 @@ Mentioned in The Second Prophecy of Shadows
 
 - Someone is blackmailing a witness for money
 - A document has gone missing and truth emerges
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

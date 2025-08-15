@@ -1,18 +1,32 @@
 ---
+
 title: dungeon-dressing-noises (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["dungeon-dressing-noises (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# dungeon-dressing-noises
+ # dungeon-dressing-noises ---
 
----
+## Description
+
+Detailed description pending.
 title: dungeon dressing noises
 aliases:
 - Dungeon Dressing; Noises
+
 type: note
 tags:
 - research
@@ -21,23 +35,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.683353'
 world: Both
----
 
-# Dungeon Dressing; Noises
-*Source: Dungeon Master's Guide p. 298* 
+--- # Dungeon Dressing; Noises
 
-**Noises**
-
-`dice: [](dungeon-dressing-noises.md#^noises)`
-
-| dice: d100 | Effect |
+*Source: Dungeon Master's Guide p. 298* **Noises**`dice: [](dungeon-dressing-noises.md#^noises)`| dice: d100 | Effect |
 |------------|--------|
 | 1-5 | Bang or slam |
 | 6 | Bellowing |
@@ -94,45 +103,25 @@ world: Both
 | 97 | Whining |
 | 98 | Whispering |
 | 99-00 | Whistling |
-^noises
 
-## 🔧 Deep Evaluation Improvements
+^noises ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Dungeon dressing noises is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of dungeon dressing noises as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dungeon dressing noises. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A prisoner has gone missing and evil awakens
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Dungeon dressing noises is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of dungeon dressing noises as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dungeon dressing noises.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A prisoner has gone missing and evil awakens
 - Strange sightings suggest a conspiracy
-- A shipment has gone missing and war looms
+- A shipment has gone missing and war looms ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

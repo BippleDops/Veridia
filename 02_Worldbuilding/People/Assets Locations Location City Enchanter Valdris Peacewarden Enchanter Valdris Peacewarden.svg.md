@@ -222,3 +222,28 @@ This NPC can serve multiple roles:
 - [[04_Resources_Assets_Symbols_symbol-heraldry-void-echo-silence-deafmake-v1-void-echo-silence-deafmake.svg]]
 - [[04_Resources_Assets_Portraits_portrait-npc-captain-steelhart-captain-steelhart.svg]]
 - [[04_Resources_Assets_Portraits_portrait-npc-captain-torren-stormwright-captain-torren-stormwright.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

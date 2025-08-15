@@ -191,3 +191,27 @@ This NPC can serve multiple roles:
 - **Truth**: Actual nature
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

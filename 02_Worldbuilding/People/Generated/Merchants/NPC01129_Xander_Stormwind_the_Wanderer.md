@@ -124,3 +124,18 @@ Competitor sabotaging business
 
 ---
 **Navigation**: [[00_Indexes/Home|🏠 Home]] | [[00_Indexes/MOCs/NPCs_MOC|👥 NPCs]] | [[00_Indexes/Master_Index|📚 Index]]
+
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves

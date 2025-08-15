@@ -139,3 +139,18 @@ This content can be adapted and expanded based on specific campaign needs.
 - [[Party Shadows]]
 - [[Shadow Independence Levels]]
 - [[Stop the Shadow Harvest]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

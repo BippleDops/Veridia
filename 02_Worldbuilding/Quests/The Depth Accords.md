@@ -91,3 +91,28 @@ An exciting quest that challenges heroes to uncover the truth.
 - [[The Original Palace]]
 - [[The Original Palace (D&D_References)]]
 - [[Diplomatic Tides (D&D_Statblocks)]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

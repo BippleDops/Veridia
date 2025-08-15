@@ -1,18 +1,32 @@
 ---
+
 title: Multiclassing Prerequisites Phb
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Multiclassing Prerequisites Phb"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Multiclassing Prerequisites Phb
+ # Multiclassing Prerequisites Phb ---
 
----
+## Description
+
+Detailed description pending.
 title: Multiclassing Prerequisites Phb
 aliases:
 - Multiclassing Prerequisites
+
 type: note
 tags:
 - both
@@ -22,21 +36,18 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.817259+00:00'
 world: Both
----
 
-# Multiclassing Prerequisites
-*Source: Player's Handbook p. 163. Available in the SRD* 
+--- # Multiclassing Prerequisites
 
-**Multiclassing Prerequisites**
-
-| Class | Ability Score Minimum |
+*Source: Player's Handbook p. 163. Available in the SRD* **Multiclassing Prerequisites** | Class | Ability Score Minimum |
 |-------|-----------------------|
 | [[barbarian-xphb-path-of-the-ancestral-guardian-xge]] | Strength 13 |
 | [[bard-xphb-college-of-swords-xge 2 (classes)]] | Charisma 13 |
@@ -50,36 +61,18 @@ world: Both
 | [[sorcerer-xphb-draconic-sorcery-xphb (classes)]] | Charisma 13 |
 | [[warlock-xphb-fiend-patron-xphb (classes)]] | Charisma 13 |
 | [[Wizard Xphb School of Necromancy]] | Intelligence 13 |
-^multiclassing-prerequisites
 
-## 🔧 Deep Evaluation Improvements
+^multiclassing-prerequisites ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Multiclassing prerequisites phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of multiclassing prerequisites phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around multiclassing prerequisites phb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-*20 targeted improvements identified*
 
-### Connection Improvements
+## Notes
 
-- Add cross-references to related notes
+*Additional notes*
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Multiclassing prerequisites phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of multiclassing prerequisites phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around multiclassing prerequisites phb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/monster
+#gameplay/quest
+#meta/reference

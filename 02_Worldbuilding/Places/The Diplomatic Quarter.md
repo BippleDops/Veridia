@@ -208,3 +208,18 @@ Ongoing situations affecting The Diplomatic Quarter:
 - [[Harbor District Customs House]]
 - [[Aquabyssos Trade Seal (D&D_References)]]
 - [[Surface Ambassador Lord Seaworthy (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

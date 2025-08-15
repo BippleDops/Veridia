@@ -439,3 +439,28 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Great Crystallization 3 (D&D_References)]]
 - [[Ambush Point (D&D_Statblocks)]]
 - [[Discover the Singers Beyond (D&D_Statblocks)]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

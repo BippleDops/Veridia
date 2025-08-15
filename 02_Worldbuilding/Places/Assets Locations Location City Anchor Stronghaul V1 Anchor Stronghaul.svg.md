@@ -183,3 +183,22 @@ Mentioned in The Hidden Prophecy of Winds
 - Strange sightings suggest a portal
 - Someone is protecting a witness for money
 - A journal reveals ancient history about this place
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

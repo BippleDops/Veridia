@@ -46,3 +46,28 @@ Currently involved in the ongoing events of the campaign.
 
 - [[Assets Locations Location City Spymaster Crow Spymaster Crow.svg]]
 - [[Assets Symbols Symbol Heraldry Inventor Chief Adaptatio Inventor Chief Adaptatio.svg]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

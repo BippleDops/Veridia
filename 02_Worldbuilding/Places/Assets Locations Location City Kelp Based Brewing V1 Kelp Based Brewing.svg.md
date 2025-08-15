@@ -173,3 +173,22 @@ Key locations marked:
 
 - A prisoner has gone missing and chaos spreads
 - A letter reveals the truth about this place
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

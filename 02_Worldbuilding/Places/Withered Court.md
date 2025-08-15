@@ -148,3 +148,18 @@ This content can be adapted and expanded based on specific campaign needs.
 - [[The Synthesis Gardens]]
 - [[Stop the Crystal Festival Ritual (D&D_Statblocks)]]
 - [[The Synthesis Gardens (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

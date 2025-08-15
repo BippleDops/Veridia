@@ -196,3 +196,18 @@ Key stop on spices trade route
 - [[Shadow Magic Integration Practices]]
 - [[The Festival of Rising Tides]]
 - [[Underground Smuggling Networks]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

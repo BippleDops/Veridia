@@ -4047,3 +4047,28 @@ type: npc
 
 ## portraits_void_1755205566541
 ![](04_Resources/Assets/Portraits/portraits_void_1755205566541.png)
+
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

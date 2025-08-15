@@ -1,18 +1,22 @@
 ---
+
 title: Prosthetic Limb Xdmg
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# Prosthetic Limb Xdmg
+--- # Prosthetic Limb Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Prosthetic Limb Xdmg
 aliases:
 - Prosthetic Limb
+
 type: note
 tags:
 - both
@@ -23,6 +27,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -31,64 +36,21 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:07.863870+00:00'
 world: Both
----
 
-> [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-prosthetic-limb-xdmg-prosthetic-limb-xdmg.svg)
+--- > [!figure] Item
+![](04_Resources/Assets/Items/item-artifact-prosthetic-limb-xdmg-prosthetic-limb-xdmg.svg) # Prosthetic Limb
 
-# Prosthetic Limb
-*Wondrous item, common*  
+*Wondrous item, common* This magic item replaces a lost limb—a hand, an arm, a foot, a leg, or a similar body part. While the prosthetic is attached, it functions identically to the part it replaces. You can detach or reattach it as a [[actions#Magic|Magic]] action, and it can't be removed against your will while you are alive. *Source: Dungeon Master's Guide (2024) p. 290* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Prosthetic limb xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of prosthetic limb xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around prosthetic limb xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A shipment has gone missing and chaos spreads
 
-This magic item replaces a lost limb—a hand, an arm, a foot, a leg, or a similar body part. While the prosthetic is attached, it functions identically to the part it replaces. You can detach or reattach it as a [[actions#Magic|Magic]] action, and it can't be removed against your will while you are alive.
-
-*Source: Dungeon Master's Guide (2024) p. 290*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Prosthetic limb xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of prosthetic limb xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around prosthetic limb xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A shipment has gone missing and chaos spreads
 - A stranger needs help finding before dawn
 - A shipment has gone missing and truth emerges
-- A journal reveals a conspiracy about a local noble
+- A journal reveals a conspiracy about a local noble ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## References
-
-- [[Master_Item_Catalog]]
+*Additional notes*

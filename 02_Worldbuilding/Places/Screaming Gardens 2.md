@@ -263,3 +263,23 @@ Legends speak of Screaming Gardens as a nexus where past and present converge. L
 - [[02_Worldbuilding/Places/Screaming Gardens]]
 
 <!-- enriched: true -->
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

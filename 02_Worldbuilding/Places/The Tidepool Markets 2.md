@@ -450,3 +450,23 @@ Legends speak of The Tidepool Markets as a nexus where past and present converge
 - [[02_Worldbuilding/Groups/The Liminal Trading Company]]
 - [[02_Worldbuilding/People/Oracle Nerida the Tidereader]]
 - [[02_Worldbuilding/Places/Memory Farmers]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends

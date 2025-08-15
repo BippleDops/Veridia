@@ -57,3 +57,28 @@ Recent developments have brought new attention to Location City Ghost of Dr Thad
 
 ## DM Notes
 *Location City Ghost of Dr Thaddeus Brightwater V1 Ghost of Dr Thaddeus Brightwater.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

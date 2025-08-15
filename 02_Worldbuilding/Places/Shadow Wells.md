@@ -327,3 +327,18 @@ Ongoing situations affecting Shadow Wells:
 - [[Crystal Wardens (D&D_Statblocks)]]
 - [[Depth Warden Patrol (D&D_Statblocks)]]
 - [[Random Encounters (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

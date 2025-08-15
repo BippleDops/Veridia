@@ -16,3 +16,28 @@ Complete the side quest objective.
 
 ---
 **Navigation**: [[INDEX|🏠 Home]] | [[Quests|📜 Quests]] | [[INDEX|📚 Index]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

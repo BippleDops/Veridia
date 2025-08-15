@@ -373,3 +373,18 @@ Key stop on metals trade route
 - [[Aquabyssos - Session 05 - Descent into Darkness]]
 - [[Aquabyssos - Session 08 - The Fractal Conspiracy]]
 - [[The Forgotten One (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

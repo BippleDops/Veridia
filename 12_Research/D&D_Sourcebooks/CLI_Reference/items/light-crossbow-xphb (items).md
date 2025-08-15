@@ -1,18 +1,32 @@
 ---
+
 title: light-crossbow-xphb (items)
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["light-crossbow-xphb (items)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# light-crossbow-xphb
+ # light-crossbow-xphb ---
 
----
+## Description
+
+Detailed description pending.
 title: light crossbow xphb
 aliases:
 - Light Crossbow
+
 type: note
 tags:
 - research
@@ -22,6 +36,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -30,62 +45,19 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-12T23:37:37.083096'
 world: Both
----
 
-# Light Crossbow
-*Weapon*  
-![](/03_Mechanics/CLI/items/img/light-crossbow.webp#right)
+--- # Light Crossbow
 
-- **Damage**: 1d8 piercing
+*Weapon* ![](/03_Mechanics/CLI/items/img/light-crossbow.webp#right) - **Damage**: 1d8 piercing
 - **Range**: 80/320
 - **Properties**: [[item properties#Ammunition|Ammunition]], [[item properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
 - **Cost**: 25 gp
-- **Weight**: 5.0 lbs.
+- **Weight**: 5.0 lbs. *Source: Player's Handbook (2024) p. 215. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Light crossbow xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of light crossbow xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around light crossbow xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - The authorities needs help investigating before the new moon
 
-*Source: Player's Handbook (2024) p. 215. Available in the SRD and the Free Rules (2024)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Light crossbow xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of light crossbow xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around light crossbow xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- The authorities needs help investigating before the new moon
 - Strange disappearances suggest a curse
 - Strange sightings suggest a conspiracy
-- A stranger needs help finding before the new moon
+- A stranger needs help finding before the new moon ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Master_Item_Catalog]]
 - [[Improved Pact Weapon Xge]]
 - [[improved-pact-weapon-xge (optional-features)]]
 - [[Elf Sea Mtf]]
@@ -94,3 +66,18 @@ Contextual improvement based on 12_Research
 - [[Weapons Xphb]]
 - [[weapons-phb (tables)]]
 - [[weapons-xphb (tables)]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#mechanics/mechanics
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/item
+#meta/reference

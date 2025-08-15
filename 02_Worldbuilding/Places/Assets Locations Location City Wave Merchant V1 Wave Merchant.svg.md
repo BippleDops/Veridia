@@ -173,3 +173,22 @@ Key stop on magic items trade route
 
 - A map reveals ancient history about a local noble
 - A document has gone missing and war looms
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

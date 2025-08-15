@@ -192,3 +192,22 @@ Key stop on metals trade route
 - A letter reveals a betrayal about a local noble
 - Strange sightings suggest a curse
 - A map reveals a betrayal about the government
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

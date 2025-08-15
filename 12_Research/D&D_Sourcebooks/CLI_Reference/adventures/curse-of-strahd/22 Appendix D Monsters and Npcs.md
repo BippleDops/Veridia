@@ -1,15 +1,18 @@
 ---
+
 title: 22 Appendix D Monsters and Npcs
 type: npc
 tags:
 - npc
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# 22 Appendix D Monsters and Npcs
+--- # 22 Appendix D Monsters and Npcs ---
 
----
+## Description
+
+Detailed description pending.
 title: 22 Appendix D Monsters and Npcs
 type: research
 tags:
@@ -18,37 +21,41 @@ tags:
 - world/both
 - active
 - status/in-progress
+
 created: 2025-08-11
 modified: '2025-08-14'
 status: active
 updated: '2025-08-13T12:34:04.955852+00:00'
 world: Both
----
 
-## 🔧 Deep Evaluation Improvements
+--- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary 22 appendix d monsters and npcs is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 22 appendix d monsters and npcs as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 22 appendix d monsters and npcs. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.*
 
-*20 targeted improvements identified*
 
-### Connection Improvements
+## Notes
 
-- Add cross-references to related notes
+*Additional notes*
 
-### Enhancement Improvements
 
-- Add 12_Research-specific enhancement
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
 
-## Player-Facing Summary
 
-22 appendix d monsters and npcs is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+## Daily Routine
+- Morning activities
+- Evening habits
 
-## Lore Details
 
-Legends speak of 22 appendix d monsters and npcs as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 22 appendix d monsters and npcs.
+## Possessions
+- Personal items
+- Valuable objects
 
-## DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+## Combat Tactics
+- Preferred strategies
+- Special moves
 
-## Related
 
-*Links to related content will be added here.*
+## Secrets
+- Hidden knowledge
+- Personal mysteries

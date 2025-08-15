@@ -209,3 +209,23 @@ This NPC can serve multiple roles:
 
 - [[04_Resources_Assets_Symbols_symbol-heraldry-family-retaine-family-retaine.svg]]
 - [[04_Resources_Assets_Locations_location-city-beast-master-krell-chainbreaker-v1-beast-master-krell-chainbreaker.svg]]
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

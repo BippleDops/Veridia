@@ -255,3 +255,18 @@ Ongoing situations affecting Pressure Crystals:
 - [[Tethyan Hegemony]]
 - [[Pearl_Harbor_City (D&D_References)]]
 - [[Pressure Terminal (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

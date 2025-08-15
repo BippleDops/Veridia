@@ -48,3 +48,28 @@ Currently involved in the ongoing events of the campaign.
 - [[Assets Locations Location City Deep Compressmaster Deep Compressmaster.svg]]
 - [[Assets Locations Location City Quartermaster David Simpleton Quartermaster David Simpleton.svg]]
 - [[Assets Locations Location City the Crystal Cathedral of Pure Light the Crystal Cathedral of Pure Light.svg]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

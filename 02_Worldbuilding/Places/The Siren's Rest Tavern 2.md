@@ -623,3 +623,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Crystal Wardens]]
 - [[02_Worldbuilding/Places/Hidden Smuggler's Cove]]
 - [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

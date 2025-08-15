@@ -705,3 +705,18 @@ Ongoing situations affecting The Gilded Shard:
 - [[Aboleth Adjunct Yzz (D&D_References)]]
 - [[Azure Citadel (D&D_References)]]
 - [[Crystalhaven (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -170,3 +170,23 @@ Legends speak of The Unremembered Parliament as a nexus where past and present c
 - [[02_Worldbuilding/Places/The Unremembered Parliament]]
 
 <!-- enriched: true -->
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

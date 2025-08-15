@@ -217,3 +217,23 @@ Key stop on metals trade route
 
 - [[Tidal Chambers]]
 - [[Port Meridian Harbor]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

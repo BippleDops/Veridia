@@ -288,3 +288,28 @@ Mentioned in The Hidden Prophecy of Winds
 - Civil war
 - Natural disasters
 - Current [[Power Structures]] established
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

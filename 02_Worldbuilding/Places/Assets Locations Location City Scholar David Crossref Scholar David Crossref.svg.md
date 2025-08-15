@@ -182,3 +182,23 @@ Mentioned in The Hidden Prophecy of Shadows
 ## Trade Importance
 
 Key stop on metals trade route
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -1,18 +1,32 @@
 ---
+
 title: Scholars of Witherbloom Witherbloom Scholars
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Scholars of Witherbloom Witherbloom Scholars"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Scholars of Witherbloom Witherbloom Scholars
+ # Scholars of Witherbloom Witherbloom Scholars ---
 
----
+## Description
+
+Detailed description pending.
 title: Scholars of Witherbloom Witherbloom Scholars
 aliases:
 - Scholars of Witherbloom; Witherbloom Scholars
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.324524+00:00'
 world: Both
----
 
-# Scholars of Witherbloom; Witherbloom Scholars
-*Source: Strixhaven: A Curriculum of Chaos p. 25* 
+--- # Scholars of Witherbloom; Witherbloom Scholars
 
-**Witherbloom Scholars**
-
-`dice: [](scholars-of-witherbloom-witherbloom-scholars-scc.md#^witherbloom-scholars)`
-
-| dice: d8 | Scholar | Principle |
+*Source: Strixhaven: A Curriculum of Chaos p. 25* **Witherbloom Scholars**`dice: [](scholars-of-witherbloom-witherbloom-scholars-scc.md#^witherbloom-scholars)`| dice: d8 | Scholar | Principle |
 |----------|---------|-----------|
 | 1 | Banelock, using concoctions of noxious ingredients for withering magic | Decay |
 | 2 | Bleed doctor, drain the essence of living creatures to fuel sinister spells | Decay |
@@ -48,39 +57,22 @@ world: Both
 | 6 | Earthcroucher, connecting directly with the land to power nature magic | Growth |
 | 7 | Leafbinder, using medicinal herbs to soothe wounds | Growth |
 | 8 | Pestcatcher, harvesting life energy from the pests of the bayou | Decay |
-^witherbloom-scholars
 
-## 🔧 Deep Evaluation Improvements
+^witherbloom-scholars ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Scholars of witherbloom witherbloom scholars scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of scholars of witherbloom witherbloom scholars scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around scholars of witherbloom witherbloom scholars scc. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1]]
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Scholars of witherbloom witherbloom scholars scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of scholars of witherbloom witherbloom scholars scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around scholars of witherbloom witherbloom scholars scc.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/dice
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#meta/reference

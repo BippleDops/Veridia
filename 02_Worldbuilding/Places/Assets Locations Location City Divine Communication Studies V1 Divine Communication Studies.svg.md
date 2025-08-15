@@ -184,3 +184,22 @@ Key stop on magic items trade route
 - Strange dreams suggest a portal
 - A merchant needs help stealing before the festival
 - Someone is hunting a artifact for money
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

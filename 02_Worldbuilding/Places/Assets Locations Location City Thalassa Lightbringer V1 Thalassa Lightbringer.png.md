@@ -179,3 +179,22 @@ Key locations marked:
 - A stranger needs help finding before the festival
 - A merchant needs help stealing before winter
 - Someone is protecting a artifact for power
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

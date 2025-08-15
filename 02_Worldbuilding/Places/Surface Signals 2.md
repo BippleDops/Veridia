@@ -466,3 +466,23 @@ Legends speak of Surface Signals as a nexus where past and present converge. Loc
 - [[02_Worldbuilding/Places/Surface Signals]]
 
 <!-- enriched: true -->
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

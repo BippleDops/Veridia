@@ -1,18 +1,22 @@
 ---
+
 title: Awakened Zurkhwood Oota
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# Awakened Zurkhwood Oota
+--- # Awakened Zurkhwood Oota ---
 
----
+## Description
+
+Detailed description pending.
 title: Awakened Zurkhwood Oota
 aliases:
 - Awakened Zurkhwood
+
 type: monster
 tags:
 - both
@@ -25,6 +29,7 @@ tags:
 - active
 - ttrpg-cli/monster/cr/2
 - status/in-progress
+
 created: 2025-08-11
 modified: '2025-08-14'
 status: active
@@ -34,24 +39,12 @@ statblock: inline
 statblock-link: '#^statblock'
 updated: '2025-08-13T12:34:05.674367+00:00'
 world: Both
----
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-awakened-zurkhwood-oota-awakened-zurkhwood-oota.svg)
+--- > [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-awakened-zurkhwood-oota-awakened-zurkhwood-oota.svg) # [[awakened-zurkhwood-oota (plant)]]
 
-# [[awakened-zurkhwood-oota (plant)]]
-*Source: Out of the Abyss p. 230*  
-
-This creature is an ordinary zurkhwood mushroom (see "Fungi of the Underdark" in chapter 2) given sentience and mobility. An awakened zurkhwood can be created by casting the [[Awaken Xphb]] spell on a normal zurkhwood mushroom. A myconid sovereign can create one by performing a lengthy ritual.
-
-An awakened zurkhwood has the same statistics as an awakened tree (see appendix A of the Monster Manual), with the following modifications:
-
-- The awakened zurkhwood has [[senses#Darkvision|darkvision]] out to a range of 120 feet.  
-- If the awakened zurkhwood was created by a myconid sovereign, it can't speak.  
-- The awakened zurkhwood's False Appearance feature allows it to be mistaken for a normal zurkhwood mushroom (instead of a tree).  
-
-```statblock
-"name": "Awakened Zurkhwood (OotA)"
+*Source: Out of the Abyss p. 230* This creature is an ordinary zurkhwood mushroom (see "Fungi of the Underdark" in chapter 2) given sentience and mobility. An awakened zurkhwood can be created by casting the [[Awaken Xphb]] spell on a normal zurkhwood mushroom. A myconid sovereign can create one by performing a lengthy ritual. An awakened zurkhwood has the same statistics as an awakened tree (see appendix A of the Monster Manual), with the following modifications: - The awakened zurkhwood has [[senses#Darkvision|darkvision]] out to a range of 120 feet. - If the awakened zurkhwood was created by a myconid sovereign, it can't speak. - The awakened zurkhwood's False Appearance feature allows it to be mistaken for a normal zurkhwood mushroom (instead of a tree).```statblock
+"name": "Awakened Zurkhwood (Oot A)"
 "size": "Huge"
 "type": "plant"
 "alignment": "Unaligned"
@@ -60,67 +53,19 @@ An awakened zurkhwood has the same statistics as an awakened tree (see appendix 
 "hp": !!int "59"
 "hit_dice": "7d12 + 14"
 "modifier": !!int "-2"
-"stats":
-  - !!int "19"
-  - !!int "6"
-  - !!int "15"
-  - !!int "10"
-  - !!int "7"
+"stats": - !!int "19" - !!int "6" - !!int "15" - !!int "10" - !!int "7"
 "speed": "20 ft."
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "one language known by its creator"
 "cr": "2"
-"traits":
-  - "desc": "While the tree remains motionless, it is indistinguishable from a normal\
-      \ zurkhwood mushroom."
-    "name": "False Appearance"
-  - "desc": "If the awakened zurkhwood was created by a myconid sovereign, it can't\
-      \ speak."
-    "name": "Mute"
-"actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14\
-      \ (3d6 + 4) bludgeoning damage."
-    "name": "Slam"
-"source":
-  - "OotA"
-"image": "/03_Mechanics/CLI/bestiary/plant/token/awakened-zurkhwood-oota.webp"
-```
-^statblock
+"traits": - "desc": "While the tree remains motionless, it is indistinguishable from a normal\ \ zurkhwood mushroom." "name": "False Appearance" - "desc": "If the awakened zurkhwood was created by a myconid sovereign, it can't\ \ speak." "name": "Mute"
+"actions": - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14\ \ (3d6 + 4) bludgeoning damage." "name": "Slam"
+"source": - "Oot A"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/awakened-zurkhwood-oota.webp"```^statblock ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Awakened zurkhwood oota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of awakened zurkhwood oota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around awakened zurkhwood oota. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+## Notes
 
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Awakened zurkhwood oota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of awakened zurkhwood oota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around awakened zurkhwood oota.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+*Additional notes*

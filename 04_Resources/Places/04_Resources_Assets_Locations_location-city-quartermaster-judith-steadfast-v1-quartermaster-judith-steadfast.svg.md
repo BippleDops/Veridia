@@ -107,3 +107,23 @@ Further information about this topic will be developed as the campaign progresse
 
 - [[Assets Portraits Portrait NPC Lord Commander Steelborn Lord Commander Steelborn.svg]]
 - [[Assets Symbols Symbol Heraldry the Great Cacophony the Great Cacophony.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

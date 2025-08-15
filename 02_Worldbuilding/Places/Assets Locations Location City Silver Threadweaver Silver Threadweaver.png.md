@@ -175,3 +175,22 @@ Key stop on spices trade route
 - A prisoner has gone missing and chaos spreads
 - A letter reveals ancient history about this place
 - The authorities needs help stealing before the new moon
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

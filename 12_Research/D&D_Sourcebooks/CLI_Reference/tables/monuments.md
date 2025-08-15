@@ -1,18 +1,32 @@
 ---
+
 title: monuments
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["monuments"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# monuments
+ # monuments ---
 
----
+## Description
+
+Detailed description pending.
 title: monuments
 aliases:
 - Monuments
+
 type: note
 tags:
 - both
@@ -20,23 +34,18 @@ tags:
 - active
 - note
 - ttrpg-cli/compendium/src/5e/dmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
-obsidianUIMode: preview
+obsidian UIMode: preview
 cssclasses: json5e-note
 updated: '2025-08-13T01:18:31.251145+00:00'
 world: Both
----
 
-# Monuments
-*Source: Dungeon Master's Guide p. 108* 
+--- # Monuments
 
-**Monuments**
-
-`dice: [](monuments.md#^monuments)`
-
-| dice: d20 | Monument |
+*Source: Dungeon Master's Guide p. 108* **Monuments**`dice: [](monuments.md#^monuments)`| dice: d20 | Monument |
 |-----------|----------|
 | 1 | Sealed burial mound or pyramid |
 | 2 | Plundered burial mound or pyramid |
@@ -53,40 +62,18 @@ world: Both
 | 18 | Intact circle of standing stones |
 | 19 | Ruined or toppled circle of standing stones |
 | 20 | Totem pole |
-^monuments
 
-## 🔧 Deep Evaluation Improvements
+^monuments ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Monuments is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of monuments as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monuments. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[young-gold-dragon-xmm (dragon)]]
 
-*20 targeted improvements identified*
 
-### Connection Improvements
+## Notes
 
-- Add cross-references to related notes
+*Additional notes*
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Monuments is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of monuments as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monuments.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[young-gold-dragon-xmm (dragon)]]
+#mechanics/dice
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/person
+#meta/reference

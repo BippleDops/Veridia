@@ -471,3 +471,27 @@ Each component requires a mini-adventure:
 ---
 
 *"In crystal's embrace, we find perfection's curse"* - Dr. Coral Mindbridge's journal
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

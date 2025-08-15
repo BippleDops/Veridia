@@ -497,3 +497,23 @@ Mentioned in The Second Prophecy of Shadows
 - [[The Crystal Wardens]]
 - [[The Sinking Atoll]]
 - [[The Crown's Burden]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

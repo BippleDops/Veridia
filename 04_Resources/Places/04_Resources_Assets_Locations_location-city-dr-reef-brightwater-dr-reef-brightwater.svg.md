@@ -108,3 +108,23 @@ Further information about this topic will be developed as the campaign progresse
 - [[Assets Locations Location City Dr Marina Voidstudier Dr Marina Voidstudier.svg]]
 - [[Assets Locations Location City Harbor Master Captain Dockwise V1 Harbor Master Captain Dockwise.svg]]
 - [[Assets Locations Location City Quartermaster Shadow Supply V1 Quartermaster Shadow Supply.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

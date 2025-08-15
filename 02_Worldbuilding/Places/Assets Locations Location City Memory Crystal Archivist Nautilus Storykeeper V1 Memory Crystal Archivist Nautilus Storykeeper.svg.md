@@ -167,3 +167,27 @@ Key stop on magic items trade route
 - Strange dreams suggest a curse
 - A document has gone missing and truth emerges
 - Someone is hunting information for revenge
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

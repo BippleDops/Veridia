@@ -91,3 +91,27 @@ improvements: 20
 - The authorities needs help delivering before dawn
 - A shipment has gone missing and truth emerges
 - A merchant needs help stealing before the new moon
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

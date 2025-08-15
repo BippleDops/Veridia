@@ -1,18 +1,22 @@
 ---
+
 title: Spirit Statue Mascot Scc
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# Spirit Statue Mascot Scc
+--- # Spirit Statue Mascot Scc ---
 
----
+## Description
+
+Detailed description pending.
 title: Spirit Statue Mascot Scc
 aliases:
 - Spirit Statue Mascot
+
 type: monster
 tags:
 - ttrpg-cli/monster/size/medium
@@ -25,6 +29,7 @@ tags:
 - world/both
 - active
 - status/in-progress
+
 created: 2025-08-11
 modified: '2025-08-14'
 status: active
@@ -34,19 +39,11 @@ statblock: inline
 statblock-link: '#^statblock'
 updated: '2025-08-13T12:34:06.090558+00:00'
 world: Both
----
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-spirit-statue-mascot-scc-spirit-statue-mascot-scc.svg)
+--- > [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-spirit-statue-mascot-scc-spirit-statue-mascot-scc.svg) # [[spirit-statue-mascot-scc]]
 
-# [[spirit-statue-mascot-scc]]
-*Source: Strixhaven: A Curriculum of Chaos p. 216*  
-
-To enhance their studies of the past, Lorehold students often call upon the spirits of dead creatures. Mages seeking longer-term assistance from ancient spirits have learned to house these spirits in statues, giving them a more permanent residence from which to assist the living.
-
-Some of these spirit statues bond with and mentor a specific mage, but most serve in a variety of roles for numerous individuals, ranging from research colleagues to martial tacticians. Regardless, their appearance is so common around the Lorehold campus that they have become the college's mascots.
-
-```statblock
+*Source: Strixhaven: A Curriculum of Chaos p. 216* To enhance their studies of the past, Lorehold students often call upon the spirits of dead creatures. Mages seeking longer-term assistance from ancient spirits have learned to house these spirits in statues, giving them a more permanent residence from which to assist the living. Some of these spirit statues bond with and mentor a specific mage, but most serve in a variety of roles for numerous individuals, ranging from research colleagues to martial tacticians. Regardless, their appearance is so common around the Lorehold campus that they have become the college's mascots.```statblock
 "name": "Spirit Statue Mascot (SCC)"
 "size": "Medium"
 "type": "construct"
@@ -56,79 +53,18 @@ Some of these spirit statues bond with and mentor a specific mage, but most serv
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
 "modifier": !!int "-1"
-"stats":
-  - !!int "14"
-  - !!int "9"
-  - !!int "15"
-  - !!int "12"
-  - !!int "13"
-  - !!int "8"
+"stats": - !!int "14" - !!int "9" - !!int "15" - !!int "12" - !!int "13" - !!int "8"
 "speed": "30 ft."
-"skillsaves":
-  - "name": "[[skills#Arcana|Arcana]]"
-    "desc": "+5"
-  - "name": "[[skills#History|History]]"
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+3"
+"skillsaves": - "name": "[[skills#Arcana|Arcana]]" "desc": "+5" - "name": "[[skills#History|History]]" - "name": "[[skills#Perception|Perception]]" "desc": "+3"
 "senses": "passive Perception 13"
 "languages": "any languages it knew in life"
 "cr": "1/4"
-"traits":
-  - "desc": "When the spirit statue is reduced to 0 hit points, the statue crumbles,\
-      \ and the spirit returns to the afterlife in a burst of ghostly white flame.\
-      \ Each creature within 5 feet of it must succeed on a DC 12 Constitution saving\
-      \ throw or take 3 (d6) radiant damage."
-    "name": "Death Burst"
-"actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-      \ + 2) bludgeoning damage."
-    "name": "Slam"
-  - "desc": "The spirit statue touches one creature. Once within the next 10 minutes,\
-      \ that creature can roll a d4 and add the number rolled to one ability check\
-      \ of its choice, immediately after rolling the d20."
-    "name": "Counsel of the Past (2/Day)"
-"source":
-  - "SCC"
-"image": "/03_Mechanics/CLI/bestiary/construct/token/spirit-statue-mascot-scc.webp"
-```
-^statblock
+"traits": - "desc": "When the spirit statue is reduced to 0 hit points, the statue crumbles,\ \ and the spirit returns to the afterlife in a burst of ghostly white flame.\ \ Each creature within 5 feet of it must succeed on a DC 12 Constitution saving\ \ throw or take 3 (d6) radiant damage." "name": "Death Burst"
+"actions": - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\ \ + 2) bludgeoning damage." "name": "Slam" - "desc": "The spirit statue touches one creature. Once within the next 10 minutes,\ \ that creature can roll a d4 and add the number rolled to one ability check\ \ of its choice, immediately after rolling the d20." "name": "Counsel of the Past (2/Day)"
+"source": - "SCC"
+"image": "/03_Mechanics/CLI/bestiary/construct/token/spirit-statue-mascot-scc.webp"```^statblock ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Spirit statue mascot scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of spirit statue mascot scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spirit statue mascot scc. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+## Notes
 
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Spirit statue mascot scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of spirit statue mascot scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spirit statue mascot scc.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+*Additional notes*

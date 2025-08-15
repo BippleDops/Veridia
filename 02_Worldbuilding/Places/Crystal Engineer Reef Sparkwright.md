@@ -225,3 +225,18 @@ Key stop on magic items trade route
 
 - [[Pressure Adaptation System]]
 - [[Pressure Adaptation System (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

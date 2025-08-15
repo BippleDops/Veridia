@@ -128,3 +128,18 @@ Needs discrete help with family scandal
 
 ---
 *Generated: 2025-08-15T03:51:03.149Z*
+
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves

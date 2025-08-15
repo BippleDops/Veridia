@@ -1,18 +1,32 @@
 ---
+
 title: relics-uncommon-xdmg (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["relics-uncommon-xdmg (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# relics-uncommon-xdmg
+ # relics-uncommon-xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: relics uncommon xdmg
 aliases:
 - Relics - Uncommon
+
 type: note
 tags:
 - research
@@ -21,23 +35,18 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.550030'
 world: Both
----
 
-# Relics - Uncommon
-*Source: Dungeon Master's Guide (2024) p. 330* 
+--- # Relics - Uncommon
 
-**Relics - Uncommon**
-
-`dice: [](relics-uncommon-xdmg.md#^relics-uncommon)`
-
-| dice: 1d100 | Item |
+*Source: Dungeon Master's Guide (2024) p. 330* **Relics - Uncommon**`dice: [](relics-uncommon-xdmg.md#^relics-uncommon)`| dice: 1d100 | Item |
 |-------------|------|
 | 01–05 | [[enspelled-staff-xdmg (items)]] (cantrip or level 1 spell) |
 | 06–10 | [[keoghtoms-ointment-xdmg (items)]] |
@@ -56,46 +65,22 @@ world: Both
 | 86–90 | [[staff-of-the-python-xdmg (items)]] |
 | 91–95 | [[Wand of Magic Detection Xdmg]] |
 | 96–00 | [[Wand of the War Mage Xdmg]] |
-^relics-uncommon
 
-## 🔧 Deep Evaluation Improvements
+^relics-uncommon ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Relics uncommon xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of relics uncommon xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around relics uncommon xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A document has gone missing and truth emerges
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Relics uncommon xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of relics uncommon xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around relics uncommon xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A document has gone missing and truth emerges
 - A shipment has gone missing and evil awakens
-- Someone is protecting a artifact for revenge
+- Someone is protecting a artifact for revenge ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/item
+#meta/reference

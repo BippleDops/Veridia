@@ -57,3 +57,28 @@ Recent developments have brought new attention to Location City Great Plague of 
 
 ## DM Notes
 *Location City Great Plague of Ages Past V1 Great Plague of Ages Past.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

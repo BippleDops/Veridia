@@ -319,3 +319,18 @@ Mentioned in The Hidden Prophecy of Stars
 - [[Pressure Terminal]]
 - [[Surface Tensions]]
 - [[The Azure Coast]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

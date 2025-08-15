@@ -1,18 +1,22 @@
 ---
+
 title: pony-xmm (beast)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# pony-xmm
+--- # pony-xmm ---
 
----
+## Description
+
+Detailed description pending.
 title: pony xmm
 aliases:
 - Pony
+
 type: monster
 tags:
 - ttrpg-cli/monster/size/medium
@@ -26,6 +30,7 @@ tags:
 - active
 - ttrpg-cli/monster/cr/1-8
 - status/in-progress
+
 created: 2025-08-11
 modified: '2025-08-14'
 status: active
@@ -35,31 +40,12 @@ statblock: inline
 statblock-link: '#^statblock'
 updated: '2025-08-12T23:37:35.098507'
 world: Both
----
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-pony-xmm-pony-xmm.svg)
+--- > [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-pony-xmm-pony-xmm.svg) # [[pony-xmm (beast)]]
 
-# [[pony-xmm (beast)]]
-*Source: Monster Manual (2024) p. 367, Player's Handbook (2024) p. 354. Available in the SRD and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 367, Player's Handbook (2024) p. 354. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Animals Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[Panther Xmm]] stat block can also represent a mountain lion, while the [[Goat Xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.```statblock
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Animals
-
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[Panther Xmm]] stat block can also represent a mountain lion, while the [[Goat Xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
-
-```statblock
 "name": "Pony (XMM)"
 "size": "Medium"
 "type": "beast"
@@ -68,77 +54,23 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "0"
-"stats":
-  - !!int "15"
-  - !!int "10"
-  - !!int "13"
-  - !!int "2"
-  - !!int "11"
-  - !!int "7"
+"stats": - !!int "15" - !!int "10" - !!int "13" - !!int "2" - !!int "11" - !!int "7"
 "speed": "40 ft."
-"saves":
-  - "strength": !!int "4"
+"saves": - "strength": !!int "4"
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "1/8"
-"actions":
-  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Bludgeoning damage."
-    "name": "Hooves"
-"source":
-  - "XMM"
-  - "XPHB"
-"image": "/03_Mechanics/CLI/bestiary/beast/token/pony-xmm.webp"
-```
-^statblock
+"actions": - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Bludgeoning damage." "name": "Hooves"
+"source": - "XMM" - "XPHB"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/pony-xmm.webp"```^statblock ## Environment grassland, urban ## Player-Facing Summary Pony xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of pony xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around pony xmm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes ## Plot Hooks - Someone is blackmailing a witness for money
 
-## Environment
-
-grassland, urban
-
-## Player-Facing Summary
-
-Pony xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of pony xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around pony xmm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
-## Plot Hooks
-
-- Someone is blackmailing a witness for money
 - The authorities needs help finding before the new moon
-- A merchant needs help delivering before the new moon
+- A merchant needs help delivering before the new moon ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[stable]]
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[stable]]
 - [[Pony Xmm]]
 - [[2 Appendix a Miscellaneous Creatures]]
 - [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
@@ -152,3 +84,8 @@ Contextual improvement based on 12_Research
 - [[monsters-by-habitat-grassland-monsters-xmm (tables)]]
 - [[monsters-by-habitat-urban-monsters-xmm (tables)]]
 - [[urban-encounters-levels-14-xge (tables)]]
+
+
+## Notes
+
+*Additional notes*

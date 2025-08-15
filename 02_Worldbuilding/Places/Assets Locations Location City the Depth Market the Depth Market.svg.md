@@ -176,3 +176,22 @@ Key locations marked:
 - A prisoner has gone missing and truth emerges
 - A letter reveals a betrayal about this place
 - Strange sightings suggest a portal
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

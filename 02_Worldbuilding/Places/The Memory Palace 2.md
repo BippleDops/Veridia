@@ -71,3 +71,28 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[02_Worldbuilding/Groups/Merchant's Covenant]]
 - [[02_Worldbuilding/Groups/The Crown]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -539,3 +539,18 @@ Ongoing situations affecting The Crystalline Foundry:
 - [[Crystalhaven (D&D_References)]]
 - [[The Resonance Forge Hammer (D&D_References)]]
 - [[Crystal Gardens (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

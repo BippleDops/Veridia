@@ -229,3 +229,18 @@ Key stop on metals trade route
 - [[The Free Current]]
 - [[The Grand Bazaar of Echoing Coins]]
 - [[The Phosphor Markets]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -184,3 +184,27 @@ This NPC can serve multiple roles:
 - [[04_Resources_Assets_Symbols_symbol-heraldry-echo-prime-cacophony-voidlung-echo-prime-cacophony-voidlung.svg]] (enemy)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

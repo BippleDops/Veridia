@@ -48,3 +48,28 @@ Currently involved in the ongoing events of the campaign.
 - [[Assets Locations Location City the Dreamwhisper Inn the Dreamwhisper Inn.svg]]
 - [[Assets Portraits Portrait NPC Lord Aldric Highwind Lord Aldric Highwind.svg]]
 - [[Assets Portraits Portrait NPC Lord Marcus Goldweaver Lord Marcus Goldweaver.svg]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

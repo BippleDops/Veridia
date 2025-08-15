@@ -175,3 +175,28 @@ Legends speak of Memory Parasite Infection as a nexus where past and present con
 - [[02_Worldbuilding/Places/Memory Parasite Infection]]
 
 <!-- enriched: true -->
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

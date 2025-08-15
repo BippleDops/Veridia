@@ -108,3 +108,23 @@ Further information about this topic will be developed as the campaign progresse
 - [[Assets Locations Location City Dream Enhancement Techniques V1 Dream Enhancement Techniques.svg]]
 - [[Assets Locations Location City Market Master Cornelius Driftwood Market Master Cornelius Driftwood.svg]]
 - [[Assets Locations Location City Master Smith Vulcan Deepforge Master Smith Vulcan Deepforge.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

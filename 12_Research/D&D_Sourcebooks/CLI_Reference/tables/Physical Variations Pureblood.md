@@ -1,18 +1,32 @@
 ---
+
 title: Physical Variations Pureblood
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Physical Variations Pureblood"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Physical Variations Pureblood
+ # Physical Variations Pureblood ---
 
----
+## Description
+
+Detailed description pending.
 title: Physical Variations Pureblood
 aliases:
 - Physical Variations; Pureblood Characteristics
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/vgm
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.849488+00:00'
 world: Both
----
 
-# Physical Variations; Pureblood Characteristics
-*Source: Volo's Guide to Monsters p. 97* 
+--- # Physical Variations; Pureblood Characteristics
 
-**Pureblood Characteristics**
-
-`dice: [](physical-variations-pureblood-characteristics-vgm.md#^pureblood-characteristics)`
-
-| dice: d20 | Pureblood Characteristic |
+*Source: Volo's Guide to Monsters p. 97* **Pureblood Characteristics**`dice: [](physical-variations-pureblood-characteristics-vgm.md#^pureblood-characteristics)`| dice: d20 | Pureblood Characteristic |
 |-----------|--------------------------|
 | 1-3 | Fangs |
 | 4-5 | forked tongue |
@@ -47,52 +56,26 @@ world: Both
 | 12-15 | scaly torso |
 | 16-18 | serpentine eyes |
 | 19-20 | Roll twice, re-rolling results of 19 or 20 |
-^pureblood-characteristics
 
-## 🔧 Deep Evaluation Improvements
+^pureblood-characteristics ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Physical variations pureblood characteristics vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of physical variations pureblood characteristics vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around physical variations pureblood characteristics vgm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A letter reveals a betrayal about a local noble
 
-*20 targeted improvements identified*
+- A document has gone missing and evil awakens ## Related Notes - [[Similar Topic 1]]
 
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Physical variations pureblood characteristics vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of physical variations pureblood characteristics vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around physical variations pureblood characteristics vgm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A letter reveals a betrayal about a local noble
-- A document has gone missing and evil awakens
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/character
+#character/monster
+#meta/reference

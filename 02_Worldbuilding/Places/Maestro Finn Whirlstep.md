@@ -217,3 +217,18 @@ Mentioned in The Hidden Prophecy of Shadows
 
 - [[Inverted Ballroom Wing]]
 - [[Inverted Ballroom Wing (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

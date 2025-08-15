@@ -4,14 +4,25 @@ title: Quick_Access_Sidebar
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
 status: active
+aliases: ["Quick Access Sidebar"]
+priority: normal
+category: 00 Indexes
+subcategory: Quick Access Sidebar.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Quick_Access_Sidebar
+ # Quick_Access_Sidebar ---
 
----
+## Description {#description}
+
+Detailed description pending.
 title: Quick Access Sidebar
 type: sidebar
 tags:
@@ -20,62 +31,60 @@ tags:
 - sidebar
 - active
 - quick-access
+
 created: 2025-08-14
 modified: '2025-08-14'
 updated: 2025-08-14
 cssclass: quick-access
----
 
-## 📌 Pinned Content
-```dataview
+--- ## 📌 Pinned Content```dataview
+
 LIST
+
 FROM ""
+
 WHERE contains(tags, "pinned") OR contains(tags, "favorite")
-SORT file.name ASC
-```
-## 🔥 Hot Keys
 
-| Action | Shortcut | Description |
+SORT file.name ASC```## 🔥 Hot Keys | Action | Shortcut | Description |
+
+
 |--------|----------|-------------|
-| Quick Search | `Cmd/Ctrl + O` | Open file |
-| Command Palette | `Cmd/Ctrl + P` | Commands |
-| Daily Note | `Cmd/Ctrl + D` | Today's note |
-| Graph View | `Cmd/Ctrl + G` | Visual graph |
-| Tag Search | `Cmd/Ctrl + T` | Find by tag |
+| Quick Search |`Cmd/Ctrl + O`| Open file |
+| Command Palette |`Cmd/Ctrl + P`| Commands |
+| Daily Note |`Cmd/Ctrl + D`| Today's note |
+| Graph View |`Cmd/Ctrl + G`| Visual graph |
+| Tag Search |`Cmd/Ctrl + T`| Find by tag | ### Campaigns FROM "01_Adventures"
 
-### Campaigns
-
-FROM "01_Adventures"
 WHERE type = "campaign" AND status = "active"
-LIMIT 3
 
-### Current NPCs
+LIMIT 3 ### Current NPCs FROM "02_Worldbuilding/People"
 
-FROM "02_Worldbuilding/People"
 WHERE contains(tags, "current") OR contains(tags, "active")
-LIMIT 5
 
-### Active Locations
+LIMIT 5 ### Active Locations FROM "02_Worldbuilding/Places"
 
-FROM "02_Worldbuilding/Places"
-WHERE contains(tags, "current") OR last-visited = date(today)
+WHERE contains(tags, "current") OR last-visited = date(today) ---
 
----
-*Quick access sidebar for rapid navigation*
+*Quick access sidebar for rapid navigation* ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*
 
-## Related
-
-*Links to related content will be added here.*
-
-## DM Notes
-
-*Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes
+- Connections to overarching campaign themes ## Alternate Descriptions
 
-## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects
+
+## Notes {#notes}
+
+*Additional notes*
+
+#story/story
+#world/location
+#world/world
+#world/place
+#character/npc
+#gameplay/adventure
+#meta/index
+#meta/navigation

@@ -57,3 +57,28 @@ Recent developments have brought new attention to Location City Palace Guard Cap
 
 ## DM Notes
 *Location City Palace Guard Captain Neutralis V1 Palace Guard Captain Neutralis.png can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

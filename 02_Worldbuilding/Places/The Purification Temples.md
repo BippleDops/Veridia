@@ -224,3 +224,18 @@ Ongoing situations affecting The Purification Temples:
 ## References
 
 - [[Crystal Corruption Taboos]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

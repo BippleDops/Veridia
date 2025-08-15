@@ -184,3 +184,22 @@ Key stop on textiles trade route
 - A document has gone missing and evil awakens
 - A map reveals a betrayal about the cult
 - Strange sightings suggest ancient magic
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

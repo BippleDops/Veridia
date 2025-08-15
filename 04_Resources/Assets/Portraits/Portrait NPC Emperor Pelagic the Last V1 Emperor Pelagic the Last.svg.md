@@ -89,3 +89,27 @@ improvements: 20
 - Strange dreams suggest a conspiracy
 - Strange disappearances suggest ancient magic
 - Strange sightings suggest a conspiracy
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

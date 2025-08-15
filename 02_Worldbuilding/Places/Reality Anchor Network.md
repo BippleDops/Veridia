@@ -539,3 +539,18 @@ Ongoing situations affecting Reality Anchor Network:
 
 - [[Great Drowning]]
 - [[Reality Anchor Networks]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

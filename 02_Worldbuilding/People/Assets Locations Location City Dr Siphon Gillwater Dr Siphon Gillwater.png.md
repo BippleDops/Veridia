@@ -212,3 +212,28 @@ Mentioned in The Second Prophecy of Winds
 ## References
 
 - [[04_Resources_Assets_Portraits_portrait-npc-quest-storm-lord-s-challenge-quest-storm-lord-s-challenge.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

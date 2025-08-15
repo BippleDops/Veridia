@@ -49,3 +49,28 @@ Currently involved in the ongoing events of the campaign.
 - [[Assets Locations Location City Surge Mixmaster V1 Surge Mixmaster.png]]
 - [[Assets Portraits Portrait NPC Lord Admiral Gaius Windcutter Lord Admiral Gaius Windcutter.svg]]
 - [[Assets Symbols Symbol Heraldry Witness Protection Protocol V1 Witness Protection Protocol.svg]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

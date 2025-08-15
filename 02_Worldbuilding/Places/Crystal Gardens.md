@@ -671,3 +671,13 @@ Ongoing situations affecting Crystal Gardens:
 - [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
 - [[Depth Warden Patrol (D&D_Statblocks)]]
 - [[The Crystalline Foundry (D&D_Statblocks)]]
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -339,3 +339,18 @@ Ongoing situations affecting The Order of the Shattered Crown:
 - [[Convergence Point Introduction]]
 - [[Convergence_Point_Introduction (D&D_Sourcebooks)]]
 - [[Lord Aurelius Goldwave (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

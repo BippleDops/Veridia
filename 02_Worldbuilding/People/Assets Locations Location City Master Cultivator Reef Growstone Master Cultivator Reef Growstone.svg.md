@@ -213,3 +213,28 @@ This NPC can serve multiple roles:
 ## References
 
 - [[04_Resources_Assets_Art_Places_Astrologer_Prime_Cassandra_Starweaver.png]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

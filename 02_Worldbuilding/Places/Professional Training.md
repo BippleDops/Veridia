@@ -249,3 +249,18 @@ Ongoing situations affecting Professional Training:
 - [[Shadow Magic Integration Practices]]
 - [[The Professional Training Academy]]
 - [[Tidal Chambers]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

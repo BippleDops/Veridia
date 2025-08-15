@@ -120,3 +120,18 @@ Recent developments have brought new attention to Abyssal Spires, creating oppor
 
 - [[02_Worldbuilding_Locations_Abyssal_Spires]]
 - [[System Cli Spells School Enchantment]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

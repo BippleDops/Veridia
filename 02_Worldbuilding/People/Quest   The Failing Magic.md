@@ -48,3 +48,28 @@ Currently involved in the ongoing events of the campaign.
 - [[Assets Locations Location City Admiral Thalassa Stormcurrent Admiral Thalassa Stormcurrent.svg]]
 - [[Assets Locations Location City Harbor Master Nereid Deepcurrent V1 Harbor Master Nereid Deepcurrent.svg]]
 - [[Assets Symbols Symbol Heraldry Merchant Princes Merchant Princes.svg]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

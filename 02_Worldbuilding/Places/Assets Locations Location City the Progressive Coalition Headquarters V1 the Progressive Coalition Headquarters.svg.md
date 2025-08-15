@@ -182,3 +182,22 @@ Key stop on magic items trade route
 - A corpse reveals ancient history about the government
 - A document has gone missing and truth emerges
 - Someone is blackmailing a artifact for love
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

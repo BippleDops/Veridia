@@ -179,3 +179,22 @@ Mentioned in The First Prophecy of Depths
 ## Contingencies
 - If players go off-script
 - Alternative paths
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

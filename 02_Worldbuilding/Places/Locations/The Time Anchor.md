@@ -119,3 +119,18 @@ Recent developments have brought new attention to The Time Anchor, creating oppo
 ## References
 
 - [[Arcanum Heights]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -183,3 +183,22 @@ Key locations marked:
 - The authorities needs help investigating before the festival
 - A letter reveals ancient history about the cult
 - A stranger needs help stealing before the new moon
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

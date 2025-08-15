@@ -60,3 +60,28 @@ Recent developments have brought new attention to Assets Portraits Portrait NPC 
 
 ## DM Notes
 *Assets Portraits Portrait NPC Quest the Prophecy Fulfilled Quest the Prophecy Fulfilled.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

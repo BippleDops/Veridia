@@ -258,3 +258,18 @@ Ongoing situations affecting Mad Prophet Silas the Depth-Touched:
 
 - [[The Cerulean Trench]]
 - [[The Cerulean Trench (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

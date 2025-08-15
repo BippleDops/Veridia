@@ -248,3 +248,18 @@ Ongoing situations affecting City Council of Aquabyssos:
 
 - [[Harbor Master Luna Freedrift (Places)]]
 - [[Harbor Master Luna Freedrift (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

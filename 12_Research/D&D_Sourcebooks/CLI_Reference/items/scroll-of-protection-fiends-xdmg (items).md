@@ -1,18 +1,32 @@
 ---
+
 title: scroll-of-protection-fiends-xdmg (items)
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["scroll-of-protection-fiends-xdmg (items)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# scroll-of-protection-fiends-xdmg
+ # scroll-of-protection-fiends-xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: scroll of protection fiends xdmg
 aliases:
 - Scroll of Protection (Fiends)
+
 type: note
 tags:
 - research
@@ -22,6 +36,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -30,77 +45,32 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-12T23:37:37.037302'
 world: Both
----
 
-# Scroll of Protection (Fiends)
-*Scroll, rare*  
-![](/03_Mechanics/CLI/items/img/scroll-of-protection.webp#right)
+--- # Scroll of Protection (Fiends)
 
-Using a [[actions#Magic|Magic]] action to read the scroll creates a 5-foot [[Area of Effect Xphb]] originating from you. For 5 minutes, {{item.detail2}} can't enter or affect anything in the area. However, if you move in such a way that an Fiend would be inside the area, the effect ends.
+*Scroll, rare* ![](/03_Mechanics/CLI/items/img/scroll-of-protection.webp#right) Using a [[actions#Magic|Magic]] action to read the scroll creates a 5-foot [[Area of Effect Xphb]] originating from you. For 5 minutes, {{item.detail2}} can't enter or affect anything in the area. However, if you move in such a way that an Fiend would be inside the area, the effect ends. As a [[actions#Magic|Magic]] action, a creature within 5 feet of the [[Area of Effect Xphb]] can attempt to overcome it, which forces the creature to make a DC 15 Charisma saving throw. On a successful save, the creature ceases to be affected by the [[Area of Effect Xphb]]. *Source: Dungeon Master's Guide (2024) p. 302* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Scroll of protection fiends xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of scroll of protection fiends xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around scroll of protection fiends xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## Plot Hooks - A letter reveals ancient history about the government
 
-As a [[actions#Magic|Magic]] action, a creature within 5 feet of the [[Area of Effect Xphb]] can attempt to overcome it, which forces the creature to make a DC 15 Charisma saving throw. On a successful save, the creature ceases to be affected by the [[Area of Effect Xphb]].
-
-*Source: Dungeon Master's Guide (2024) p. 302*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Scroll of protection fiends xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of scroll of protection fiends xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around scroll of protection fiends xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
-## Plot Hooks
-
-- A letter reveals ancient history about the government
 - Someone is hunting information for power
-- Someone is blackmailing a witness for revenge
+- Someone is blackmailing a witness for revenge ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Master_Item_Catalog]]
 - [[Scroll of Protection Xdmg]]
 - [[scroll-of-protection-xdmg (items)]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/mechanics
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#resource/item
+#meta/reference

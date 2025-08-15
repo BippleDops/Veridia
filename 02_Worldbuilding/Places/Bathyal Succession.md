@@ -270,3 +270,18 @@ Ongoing situations affecting Bathyal Succession:
 ## References
 
 - [[Eastern Kingdoms (02_Worldbuilding)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

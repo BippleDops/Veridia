@@ -227,3 +227,18 @@ Key stop on textiles trade route
 - [[Fortress of the Deeps]]
 - [[Commander Typhoon Blackheart (Places)]]
 - [[Compass Quest]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

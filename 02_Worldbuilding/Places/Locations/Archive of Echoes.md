@@ -125,3 +125,18 @@ Recent developments have brought new attention to Archive of Echoes, creating op
 - [[Locations Archive of Echoes]]
 - [[System Cli Items Weapons]]
 - [[System Cli Spells School Enchantment]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

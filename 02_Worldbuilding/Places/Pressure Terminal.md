@@ -796,3 +796,13 @@ Ongoing situations affecting Pressure Terminal:
 - [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
 - [[Dr. Siphon Gillwater (D&D_Statblocks)]]
 - [[Noble Quarter (D&D_Statblocks)]]
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

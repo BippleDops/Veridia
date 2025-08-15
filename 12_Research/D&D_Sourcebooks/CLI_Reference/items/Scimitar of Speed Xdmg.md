@@ -1,18 +1,32 @@
 ---
+
 title: Scimitar of Speed Xdmg
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Scimitar of Speed Xdmg"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Scimitar of Speed Xdmg
+ # Scimitar of Speed Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Scimitar of Speed Xdmg
 aliases:
 - Scimitar of Speed
+
 type: note
 tags:
 - both
@@ -23,6 +37,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -31,70 +46,30 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:06.990484+00:00'
 world: Both
----
 
-# Scimitar of Speed
-*Weapon ([[Scimitar Xphb]]), very rare (requires attunement)*  
-![](/03_Mechanics/CLI/items/img/scimitar-of-speed.webp#right)
+--- # Scimitar of Speed
 
-- **Damage**: 1d6 slashing
+*Weapon ([[Scimitar Xphb]]), very rare (requires attunement)* ![](/03_Mechanics/CLI/items/img/scimitar-of-speed.webp#right) - **Damage**: 1d6 slashing
 - **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Light|Light]]
-- **Weight**: 3.0 lbs.
+- **Weight**: 3.0 lbs. You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. In addition, you can make one attack with it as a [[Action Xphb]] on each of your turns. *Source: Dungeon Master's Guide (2024) p. 302. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Scimitar of speed xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of scimitar of speed xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around scimitar of speed xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. In addition, you can make one attack with it as a [[Action Xphb]] on each of your turns.
-
-*Source: Dungeon Master's Guide (2024) p. 302. Available in the SRD and the Free Rules (2024)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Scimitar of speed xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of scimitar of speed xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around scimitar of speed xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Master_Item_Catalog]]
 - [[Armaments Very Rare Xdmg]]
 - [[Magic Item Table H]]
 - [[Random Magic Items Armaments]]
 - [[armaments-very-rare-xdmg (tables)]]
 - [[magic-item-table-h (tables)]]
 - [[random-magic-items-armaments (tables)]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#mechanics/mechanics
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/item
+#meta/reference

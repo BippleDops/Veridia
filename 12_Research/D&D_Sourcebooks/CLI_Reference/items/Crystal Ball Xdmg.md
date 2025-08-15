@@ -1,18 +1,22 @@
 ---
+
 title: Crystal Ball Xdmg
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# Crystal Ball Xdmg
+--- # Crystal Ball Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Crystal Ball Xdmg
 aliases:
 - Crystal Ball
+
 type: note
 tags:
 - both
@@ -23,6 +27,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -31,56 +36,13 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:07.520961+00:00'
 world: Both
----
 
-> [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-crystal-ball-xdmg-crystal-ball-xdmg.svg)
+--- > [!figure] Item
+![](04_Resources/Assets/Items/item-artifact-crystal-ball-xdmg-crystal-ball-xdmg.svg) # Crystal Ball
 
-# Crystal Ball
-*Wondrous item, very rare (requires attunement)*  
+*Wondrous item, very rare (requires attunement)* - **Weight**: 3.0 lbs. The typical crystal ball, a very rare item, is about 6 inches in diameter. While touching it, you can cast the [[Scrying Xphb]] spell (save DC 17) with it. *Source: Dungeon Master's Guide (2024) p. 245. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Crystal ball xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of crystal ball xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around crystal ball xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-- **Weight**: 3.0 lbs.
 
-The typical crystal ball, a very rare item, is about 6 inches in diameter. While touching it, you can cast the [[Scrying Xphb]] spell (save DC 17) with it.
+## Notes
 
-*Source: Dungeon Master's Guide (2024) p. 245. Available in the SRD and the Free Rules (2024)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Crystal ball xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of crystal ball xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around crystal ball xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Master_Item_Catalog]]
+*Additional notes*

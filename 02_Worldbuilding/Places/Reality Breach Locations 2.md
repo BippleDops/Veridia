@@ -318,3 +318,28 @@ Legends speak of Reality Breach Locations as a nexus where past and present conv
 - A map overlay reveals a hidden approach to Reality Breach Locations active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

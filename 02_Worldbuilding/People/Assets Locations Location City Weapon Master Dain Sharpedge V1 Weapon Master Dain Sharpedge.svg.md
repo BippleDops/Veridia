@@ -209,3 +209,28 @@ Mentioned in The Second Prophecy of Shadows
 ## References
 
 - [[04_Resources_Assets_Locations_location-city-st-meridian-s-cathedral-v1-st-meridian-s-cathedral.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

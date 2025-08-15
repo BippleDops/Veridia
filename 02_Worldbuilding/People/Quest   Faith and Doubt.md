@@ -48,3 +48,28 @@ Currently involved in the ongoing events of the campaign.
 - [[Assets Art Choir Master Celestine Hymnsinger.png]]
 - [[Assets Art Dr. Siphon Gillwater.png]]
 - [[Assets Portraits Portrait NPC Captain Dr Bloodletting Captain Dr Bloodletting.svg]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

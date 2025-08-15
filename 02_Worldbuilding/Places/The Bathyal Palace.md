@@ -290,3 +290,18 @@ The Bathyal Palace was established in the distant past, growing from humble begi
 - [[Ancient Aquabyssos Rulers (D&D_References)]]
 - [[Archon Meredith Saltweaver (D&D_References)]]
 - [[Party Shadows]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

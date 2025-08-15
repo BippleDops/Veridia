@@ -175,3 +175,22 @@ Mentioned in The First Prophecy of Depths
 
 - A journal reveals a betrayal about the cult
 - The authorities needs help delivering before dawn
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

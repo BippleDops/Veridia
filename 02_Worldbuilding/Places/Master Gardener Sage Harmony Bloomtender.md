@@ -227,3 +227,18 @@ Mentioned in The Hidden Prophecy of Shadows
 
 - [[Palace Courtyard - Crystal Garden]]
 - [[Palace Courtyard - Crystal Garden (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

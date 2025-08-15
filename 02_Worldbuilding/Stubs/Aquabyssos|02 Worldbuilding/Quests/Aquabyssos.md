@@ -65,3 +65,28 @@ The story behind this quest and why it matters.
 - [[01_Adventures/Campaign_Arc]]
 - [[02_Worldbuilding/Factions/Involved_Faction]]
 - [[00_Indexes/MOCs/Quests_MOC]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

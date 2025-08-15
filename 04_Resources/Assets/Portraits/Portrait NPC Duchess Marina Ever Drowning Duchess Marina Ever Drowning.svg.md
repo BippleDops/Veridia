@@ -86,3 +86,27 @@ improvements: 20
 - A noble needs help finding before winter
 - A noble needs help delivering before the new moon
 - Someone is hunting an heir for power
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

@@ -171,3 +171,22 @@ Key locations marked:
 
 - A map reveals a conspiracy about this place
 - A merchant needs help finding before the festival
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

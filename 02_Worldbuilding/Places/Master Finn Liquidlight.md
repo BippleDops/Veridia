@@ -227,3 +227,18 @@ Ongoing situations affecting Master Finn Liquidlight:
 
 - [[Crystal Gardens]]
 - [[Crystal Gardens (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -211,3 +211,18 @@ Ongoing situations affecting Kelp Forest Constituencies:
 
 - [[Tethyan Hegemony]]
 - [[Tethyan Hegemony (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

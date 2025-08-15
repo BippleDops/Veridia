@@ -4,20 +4,30 @@ title: Quest - The Smuggler's Run
 type: quest
 tags:
 - quest
+
 created: '2025-01-15'
 modified: '2025-01-15'
 status: active
+aliases: ["Quest - The Smuggler's Run"]
+priority: normal
+category: 01 Adventures
+subcategory: Quest - The Smuggler'S Run.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-## Complications
+ ## Complications
+
+## Description {#description}
+
+Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas
+- Moral dilemmas # Quest - The Smuggler's Run ---
 
-# Quest - The Smuggler's Run
-
----
-title: Quest   The Smuggler's Run
+title: Quest The Smuggler's Run
 type: Lore
 tags:
 - lore
@@ -25,184 +35,144 @@ tags:
 - faction
 - research
 - active
+
 created: '2025-08-11'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos
 updated: '2025-08-13T01:18:34.546120+00:00'
----
 
-## Quest Giver
+--- ## Quest Giver
+
 - **Name**: Local authority figure
 - **Location**: Town center
-- **Motivation**: Community safety
+- **Motivation**: Community safety ## Objectives
 
-## Objectives
-### Primary
-- Main quest goal
+### Primary {#primary}
 
-### Optional
+- Main quest goal ### Optional
+
 - Secondary objectives
-- Hidden goals
+- Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Quest The Smuggler's Run is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Quest The Smuggler's Run as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest The Smuggler's Run. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality ## Plot Hooks - Strange accidents suggest a portal
 
-## 🔧 Deep Evaluation Improvements
+- A corpse reveals ancient history about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research ## Background
 
-*20 targeted improvements identified*
+*[Adventure setup and context]* ### What Happened Before
 
-### Connection Improvements
+- *[Recent events leading to this adventure]* ### Current Situation - *[What's happening now]* ### The Stakes
 
-- Add cross-references to related notes
+- *[What happens if PCs don't act]* ## Adventure Hooks
 
-### Enhancement Improvements
+*[Ways to get PCs involved]* ### Direct Approach
 
-- Add 12_Research-specific enhancement
+- *[Straightforward hook]* ### Indirect Approach
 
-## Player-Facing Summary
+- *[Subtle introduction]* ### Emergency Hook
 
-Quest   The Smuggler's Run is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+- *[Urgent situation]* ## Key NPCs
 
-## Lore Details
+*[Important characters in this adventure]* ### Allies
 
-Legends speak of Quest   The Smuggler's Run as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest   The Smuggler's Run.
+- *[Helpful NPCs]* ### Antagonists
 
-## DM Notes
+- *[Opposition NPCs]* ### Neutral Parties
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+- *[Information sources]* ## Locations
 
-## Related
+*[Important places in this adventure]* ### Starting Location
 
-*Links to related content will be added here.*
+- *[Where adventure begins]* ### Key Sites
 
-## Secret Connections
+- *[Major locations to visit]* ### Optional Areas
 
-*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+- *[Side locations]* ## Rewards
 
-## Plot Hooks
+*[What PCs gain from completing this adventure]* ### Experience Points
 
-- Strange accidents suggest a portal
-- A corpse reveals ancient history about the cult
+- *[XP awards]* ### Treasure
 
-## 12_Research Specific Content
+- *[Gold and magic items]* ### Story Rewards
 
-Contextual improvement based on 12_Research
+- *[Reputation, allies, information]* ## Scaling
 
-## Background
-*[Adventure setup and context]*
+*[How to adjust for different party levels]* ### Lower Level Parties
 
-### What Happened Before
-- *[Recent events leading to this adventure]*
+- *[Adjustments for weaker groups]* ### Higher Level Parties
 
-### Current Situation  
-- *[What's happening now]*
+- *[Adjustments for stronger groups]* ### Large/Small Parties
 
-### The Stakes
-- *[What happens if PCs don't act]*
+- *[Adjustments for party size]* ## Hooks
 
-## Adventure Hooks
-*[Ways to get PCs involved]*
-
-### Direct Approach
-- *[Straightforward hook]*
-
-### Indirect Approach
-- *[Subtle introduction]*
-
-### Emergency Hook
-- *[Urgent situation]*
-
-## Key NPCs
-*[Important characters in this adventure]*
-
-### Allies
-- *[Helpful NPCs]*
-
-### Antagonists
-- *[Opposition NPCs]*
-
-### Neutral Parties
-- *[Information sources]*
-
-## Locations
-*[Important places in this adventure]*
-
-### Starting Location
-- *[Where adventure begins]*
-
-### Key Sites
-- *[Major locations to visit]*
-
-### Optional Areas
-- *[Side locations]*
-
-## Rewards
-*[What PCs gain from completing this adventure]*
-
-### Experience Points
-- *[XP awards]*
-
-### Treasure
-- *[Gold and magic items]*
-
-### Story Rewards
-- *[Reputation, allies, information]*
-
-## Scaling
-*[How to adjust for different party levels]*
-
-### Lower Level Parties
-- *[Adjustments for weaker groups]*
-
-### Higher Level Parties
-- *[Adjustments for stronger groups]*
-
-### Large/Small Parties
-- *[Adjustments for party size]*
-
-## Hooks
 - **Personal**: Character connection
-- **Professional**: Hired for the job
+- **Professional**: Hired for the job ## Time Limit
 
-## Time Limit
 - **Deadline**: When it must be completed
-- **Consequences**: What happens if late
+- **Consequences**: What happens if late ## Opposition
 
-## Opposition
 - **Enemies**: Who opposes the party
-- **Obstacles**: Environmental challenges
+- **Obstacles**: Environmental challenges ## Moral Dilemmas
 
-## Moral Dilemmas
 - **Difficult Choices**: Ethical challenges
-- **Consequences**: Impact of decisions
+- **Consequences**: Impact of decisions ## Optional Objectives
 
-## Optional Objectives
 - **Bonus Goals**: Extra achievements
-- **Hidden Rewards**: Secret treasures
+- **Hidden Rewards**: Secret treasures ## Failure Conditions
 
-## Failure Conditions
 - **What Constitutes Failure**: Clear parameters
-- **Failure Consequences**: What happens
+- **Failure Consequences**: What happens ## Investigation Clues
 
-## Investigation Clues
 - **Obvious Clues**: Easy to find
-- **Hidden Clues**: Require searching
+- **Hidden Clues**: Require searching ## Social Encounters
 
-## Social Encounters
 - **Key Conversations**: Important dialogues
-- **Persuasion Opportunities**: Diplomatic solutions
+- **Persuasion Opportunities**: Diplomatic solutions ## Environmental Hazards
 
-## Environmental Hazards
 - **Natural Dangers**: Environmental threats
-- **Trap Locations**: Mechanical dangers
+- **Trap Locations**: Mechanical dangers ## Scaling Options
 
-## Scaling Options
 - **Easy Mode**: Reduced difficulty
-- **Hard Mode**: Increased challenge
+- **Hard Mode**: Increased challenge ## Alternate Descriptions
 
-## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects
+- **Hidden Details**: Secret aspects ## Player Tips
 
-## Player Tips
 > 🎮 **Strategy**: How to approach this content
+
 > Work together and communicate
+
+## Notes {#notes}
+
+*Additional notes*
+
+#story/plot
+#story/story
+#story/lore
+#story/background
+#world/location
+#world/world
+#world/setting
+#world/place
+#character/npc
+#character/character
+#character/person
+#gameplay/encounter
+#gameplay/adventure
+#gameplay/quest
+#resource/item
+#resource/treasure
+#meta/reference
+
+## Timeline {#timeline}
+- Key events
+- Deadlines
+
+
+## NPCs Involved {#npcs-involved}
+- Quest giver
+- Antagonists
+
+
+## Alternative Solutions {#alternative-solutions}
+- Non-combat options
+- Creative approaches

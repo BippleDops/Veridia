@@ -179,3 +179,22 @@ Key stop on spices trade route
 
 - Strange accidents suggest a conspiracy
 - A stranger needs help stealing before the new moon
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

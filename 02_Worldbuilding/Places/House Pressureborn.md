@@ -203,3 +203,18 @@ Ongoing situations affecting House Pressureborn:
 
 - [[Noble Quarter]]
 - [[Noble Quarter (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

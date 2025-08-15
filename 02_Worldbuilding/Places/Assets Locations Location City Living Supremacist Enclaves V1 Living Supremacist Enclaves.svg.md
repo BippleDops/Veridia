@@ -175,3 +175,22 @@ Key locations marked:
 
 - A corpse reveals ancient history about the government
 - Someone is blackmailing an heir for revenge
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

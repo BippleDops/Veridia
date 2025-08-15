@@ -223,3 +223,18 @@ Ongoing situations affecting Libraries:
 - [[Temple Ward]]
 - [[The Eternal Senate]]
 - [[The Shrinking Sanctuary]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

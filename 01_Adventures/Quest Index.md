@@ -4,19 +4,29 @@ title: Quest Index
 type: quest
 tags:
 - quest
+
 created: '2025-01-15'
 modified: '2025-01-15'
 status: active
+aliases: ["Quest Index"]
+priority: normal
+category: 01 Adventures
+subcategory: Quest Index.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-## Complications
+ ## Complications
+
+## Description
+
+Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas
+- Moral dilemmas # Quest Index ---
 
-# Quest Index
-
----
 title: Quest Index
 type: lore
 tags:
@@ -26,202 +36,158 @@ tags:
 - research
 - active
 - complete
+
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
 updated: '2025-08-13T01:18:35.356534+00:00'
 world: Aquabyssos
-obsidianUIMode: preview
-accessibility:
-  screen_reader_summary: This lore entry explains a pivotal principle or event and
-    its consequences for play.
-  content_warnings: []
-  pronunciation: Quest Index
-  safety_tools:
-  - Lines & Veils
-  - X-Card
----
+obsidian UIMode: preview
+accessibility: screen_reader_summary: This lore entry explains a pivotal principle or event and its consequences for play. Content_warnings: [] pronunciation: Quest Index safety_tools: - Lines & Veils - X-Card
 
-# Quest Index
+--- # Quest Index ## Quest Giver
 
-## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
-- **Motivation**: Community safety
+- **Motivation**: Community safety ## Objectives
 
-## Objectives
 ### Primary
-- Main quest goal
 
-### Optional
+- Main quest goal ### Optional
+
 - Secondary objectives
-- Hidden goals
+- Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Summary
 
-## 🔧 Deep Evaluation Improvements
+Quest Index describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual. ## Player-Facing Summary Quest Index is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Quest Index as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest Index. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Second Prophecy of Shadows ## Plot Hooks - Someone is hunting a artifact for money
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Summary
-Quest Index describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
-
-## Player-Facing Summary
-
-Quest Index is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of Quest Index as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest Index.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The Second Prophecy of Shadows
-
-## Plot Hooks
-
-- Someone is hunting a artifact for money
 - A corpse reveals the truth about a local noble
 - Strange sightings suggest a curse
 - Strange sightings suggest a conspiracy
+
 ## Background
-*[Adventure setup and context]*
 
-### What Happened Before
-- *[Recent events leading to this adventure]*
+*[Adventure setup and context]* ### What Happened Before
 
-### Current Situation  
-- *[What's happening now]*
+- *[Recent events leading to this adventure]* ### Current Situation - *[What's happening now]* ### The Stakes
 
-### The Stakes
-- *[What happens if PCs don't act]*
+- *[What happens if PCs don't act]* ## Adventure Hooks
 
-## Adventure Hooks
-*[Ways to get PCs involved]*
+*[Ways to get PCs involved]* ### Direct Approach
 
-### Direct Approach
-- *[Straightforward hook]*
+- *[Straightforward hook]* ### Indirect Approach
 
-### Indirect Approach
-- *[Subtle introduction]*
+- *[Subtle introduction]* ### Emergency Hook
 
-### Emergency Hook
-- *[Urgent situation]*
+- *[Urgent situation]* ## Key NPCs
 
-## Key NPCs
-*[Important characters in this adventure]*
+*[Important characters in this adventure]* ### Allies
 
-### Allies
-- *[Helpful NPCs]*
+- *[Helpful NPCs]* ### Antagonists
 
-### Antagonists
-- *[Opposition NPCs]*
+- *[Opposition NPCs]* ### Neutral Parties
 
-### Neutral Parties
-- *[Information sources]*
+- *[Information sources]* ## Locations
 
-## Locations
-*[Important places in this adventure]*
+*[Important places in this adventure]* ### Starting Location
 
-### Starting Location
-- *[Where adventure begins]*
+- *[Where adventure begins]* ### Key Sites
 
-### Key Sites
-- *[Major locations to visit]*
+- *[Major locations to visit]* ### Optional Areas
 
-### Optional Areas
-- *[Side locations]*
+- *[Side locations]* ## Rewards
 
-## Rewards
-*[What PCs gain from completing this adventure]*
+*[What PCs gain from completing this adventure]* ### Experience Points
 
-### Experience Points
-- *[XP awards]*
+- *[XP awards]* ### Treasure
 
-### Treasure
-- *[Gold and magic items]*
+- *[Gold and magic items]* ### Story Rewards
 
-### Story Rewards
-- *[Reputation, allies, information]*
+- *[Reputation, allies, information]* ## Scaling
 
-## Scaling
-*[How to adjust for different party levels]*
+*[How to adjust for different party levels]* ### Lower Level Parties
 
-### Lower Level Parties
-- *[Adjustments for weaker groups]*
+- *[Adjustments for weaker groups]* ### Higher Level Parties
 
-### Higher Level Parties
-- *[Adjustments for stronger groups]*
+- *[Adjustments for stronger groups]* ### Large/Small Parties
 
-### Large/Small Parties
-- *[Adjustments for party size]*
+- *[Adjustments for party size]* ## Time Limit
 
-## Time Limit
 - **Deadline**: When it must be completed
-- **Consequences**: What happens if late
+- **Consequences**: What happens if late ## Opposition
 
-## Opposition
 - **Enemies**: Who opposes the party
-- **Obstacles**: Environmental challenges
+- **Obstacles**: Environmental challenges ## Moral Dilemmas
 
-## Moral Dilemmas
 - **Difficult Choices**: Ethical challenges
-- **Consequences**: Impact of decisions
+- **Consequences**: Impact of decisions ## Optional Objectives
 
-## Optional Objectives
 - **Bonus Goals**: Extra achievements
-- **Hidden Rewards**: Secret treasures
+- **Hidden Rewards**: Secret treasures ## Failure Conditions
 
-## Failure Conditions
 - **What Constitutes Failure**: Clear parameters
-- **Failure Consequences**: What happens
+- **Failure Consequences**: What happens ## Investigation Clues
 
-## Investigation Clues
 - **Obvious Clues**: Easy to find
-- **Hidden Clues**: Require searching
+- **Hidden Clues**: Require searching ## Social Encounters
 
-## Social Encounters
 - **Key Conversations**: Important dialogues
-- **Persuasion Opportunities**: Diplomatic solutions
+- **Persuasion Opportunities**: Diplomatic solutions ## Environmental Hazards
 
-## Environmental Hazards
 - **Natural Dangers**: Environmental threats
-- **Trap Locations**: Mechanical dangers
+- **Trap Locations**: Mechanical dangers ## Scaling Options
 
-## Scaling Options
 - **Easy Mode**: Reduced difficulty
-- **Hard Mode**: Increased challenge
+- **Hard Mode**: Increased challenge ## Random Table
 
-## Random Table
 | d6 | Result |
 |----|--------|
-| 1  | Option A |
-| 2  | Option B |
-| 3  | Option C |
-| 4  | Option D |
-| 5  | Option E |
-| 6  | Option F |
+| 1 | Option A |
+| 2 | Option B |
+| 3 | Option C |
+| 4 | Option D |
+| 5 | Option E |
+| 6 | Option F | ## Player Tips
 
-## Player Tips
 > 🎮 **Strategy**: How to approach this content
-> Work together and communicate
 
-## References
+> Work together and communicate ## References - [[Location Index]]
 
-- [[Location Index]]
 - [[Campaign Index 3 (D&D_References)]]
 - [[Location Index (D&D_References)]]
+
+
+## Notes
+
+*Additional notes*
+
+#story/plot
+#story/story
+#story/lore
+#story/background
+#world/location
+#world/world
+#world/setting
+#world/place
+#character/npc
+#character/character
+#gameplay/encounter
+#gameplay/adventure
+#gameplay/quest
+#resource/item
+#resource/treasure
+#meta/index
+#meta/reference
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

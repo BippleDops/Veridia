@@ -180,3 +180,22 @@ Key stop on textiles trade route
 - A shipment has gone missing and war looms
 - Someone is protecting an heir for power
 - Strange accidents suggest a conspiracy
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

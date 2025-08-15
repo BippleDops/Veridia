@@ -1,18 +1,32 @@
 ---
+
 title: Dungeon Location
 type: location
 tags:
 - location
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Dungeon Location"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Dungeon Location
+ # Dungeon Location ---
 
----
+## Description
+
+Detailed description pending.
 title: Dungeon Location
 aliases:
 - Dungeon Location
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:04.011829+00:00'
 world: Both
----
 
-# Dungeon Location
-*Source: Dungeon Master's Guide p. 99* 
+--- # Dungeon Location
 
-**Dungeon Location**
-
-`dice: [](dungeon-location.md#^dungeon-location)`
-
-| dice: d100 | Location |
+*Source: Dungeon Master's Guide p. 99* **Dungeon Location**`dice: [](dungeon-location.md#^dungeon-location)`| dice: d100 | Location |
 |------------|----------|
 | 01-04 | A building in a city |
 | 05-08 | Catacombs or sewers beneath a city |
@@ -64,49 +73,45 @@ world: Both
 | 87-90 | On an island |
 | 91-95 | Underwater |
 | 96-100 | Roll on the Exotic Location Table |
-^dungeon-location
 
-## 🔧 Deep Evaluation Improvements
+^dungeon-location ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Dungeon location is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of dungeon location as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dungeon location. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is hunting a witness for love
 
-*20 targeted improvements identified*
+- A merchant needs help stealing before the new moon ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-### Connection Improvements
 
-- Add cross-references to related notes
+## Notes
 
-### Enhancement Improvements
+*Additional notes*
 
-- Add 12_Research-specific enhancement
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/location
+#world/world
+#world/setting
+#meta/reference
 
-## Player-Facing Summary
+## Atmosphere
+- Mood and feeling
+- Sensory details
 
-Dungeon location is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## Resources
+- Natural resources
+- Trade goods
 
-Legends speak of dungeon location as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dungeon location.
 
-## DM Notes
+## Dangers
+- Environmental hazards
+- Hostile creatures
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Related
+## Rumors
+- Local gossip
+- Urban legends
 
-*Links to related content will be added here.*
 
-## Plot Hooks
-
-- Someone is hunting a witness for love
-- A merchant needs help stealing before the new moon
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## Weather
+- Typical conditions
+- Seasonal changes

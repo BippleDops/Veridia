@@ -46,3 +46,28 @@ Currently involved in the ongoing events of the campaign.
 
 - [[Assets Locations Location City Pool of Sacred Drowning V1 Pool of Sacred Drowning.svg]]
 - [[Assets Symbols Symbol Heraldry Temporal Engineering Guil Temporal Engineering Guil.svg]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

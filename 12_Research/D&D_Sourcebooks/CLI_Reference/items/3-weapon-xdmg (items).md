@@ -1,15 +1,18 @@
 ---
+
 title: 3-weapon-xdmg (items)
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# 3-weapon-xdmg
+--- # 3-weapon-xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: 3 weapon xdmg
 aliases:
 - +3 Weapon
@@ -64,6 +67,7 @@ aliases:
 - +3 Warhammer
 - +3 Whip
 - +3 Yklwa
+
 type: note
 tags:
 - research
@@ -73,6 +77,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
@@ -81,17 +86,11 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-12T23:37:37.267037'
 world: Both
----
 
-> [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-3-weapon-xdmg-3-weapon-xdmg.svg)
+--- > [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-3-weapon-xdmg-3-weapon-xdmg.svg) # +3 Weapon
 
-# +3 Weapon
-*Very rare*  
-
-You have a +3 bonus to attack and damage rolls made with this magic weapon.
-
-**Variants**:
+*Very rare* You have a +3 bonus to attack and damage rolls made with this magic weapon. **Variants**:
 - [+3 Antimatter Rifle](#+3%20Antimatter%20Rifle)
 - [+3 Automatic Rifle](#+3%20Automatic%20Rifle)
 - [+3 Battleaxe](#+3%20Battleaxe)
@@ -142,47 +141,15 @@ You have a +3 bonus to attack and damage rolls made with this magic weapon.
 - [+3 War Pick](#+3%20War%20Pick)
 - [+3 Warhammer](#+3%20Warhammer)
 - [+3 Whip](#+3%20Whip)
-- [+3 Yklwa](#+3%20Yklwa)
+- [+3 Yklwa](#+3%20Yklwa) ### +3 Yklwa - **Damage**: 1d8 piercing
 
-### +3 Yklwa
-
-- **Damage**: 1d8 piercing
 - **Range**: 10/30
 - **Properties**: [[item properties#Thrown|Thrown]]
-- **Weight**: 3.0 lbs.
+- **Weight**: 3.0 lbs. *Source: Dungeon Master's Guide (2024) p. 324. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary 3 weapon xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 3 weapon xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 3 weapon xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A merchant needs help investigating before winter
 
-*Source: Dungeon Master's Guide (2024) p. 324. Available in the SRD and the Free Rules (2024)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-3 weapon xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of 3 weapon xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 3 weapon xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A merchant needs help investigating before winter
 - Someone is blackmailing an heir for revenge
 - A prisoner has gone missing and chaos spreads
+
+## Notes
+
+*Additional notes*

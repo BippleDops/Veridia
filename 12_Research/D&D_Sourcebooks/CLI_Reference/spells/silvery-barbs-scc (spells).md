@@ -1,18 +1,32 @@
 ---
+
 title: silvery-barbs-scc (spells)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["silvery-barbs-scc (spells)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# silvery-barbs-scc
+ # silvery-barbs-scc ---
 
----
+## Description
+
+Detailed description pending.
 title: silvery barbs scc
 aliases:
 - Silvery Barbs
+
 type: note
 tags:
 - ttrpg-cli/compendium/src/5e/scc
@@ -24,6 +38,7 @@ tags:
 - campaign/arc
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -34,91 +49,52 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
+
 cssclasses: json5e-spell
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:36.537191'
 world: Both
----
 
-# Silvery Barbs
-*1st-level, Enchantment*  
+--- # Silvery Barbs
 
-- **Casting time:** 1 Reaction
+*1st-level, Enchantment* - **Casting time:** 1 Reaction
 - **Range:** 60 feet
 - **Components:** V
-- **Duration:** Instantaneous
+- **Duration:** Instantaneous You magically distract the triggering creature and turn its momentary uncertainty into encouragement for another creature. The triggering creature must reroll the`d20`and use the lower roll. You can then choose a different creature you can see within range (you can choose yourself). The chosen creature has advantage on the next attack roll, ability check, or saving throw it makes within 1 minute. A creature can be empowered by only one use of this spell at a time. **Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]] *Source: Strixhaven: A Curriculum of Chaos p. 38* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Silvery barbs scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of silvery barbs scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around silvery barbs scc. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The First Prophecy of Shadows ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## Spell Components Detail
 
-You magically distract the triggering creature and turn its momentary uncertainty into encouragement for another creature. The triggering creature must reroll the `d20` and use the lower roll.
-
-You can then choose a different creature you can see within range (you can choose yourself). The chosen creature has advantage on the next attack roll, ability check, or saving throw it makes within 1 minute. A creature can be empowered by only one use of this spell at a time.
-
-**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
-
-*Source: Strixhaven: A Curriculum of Chaos p. 38*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Silvery barbs scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of silvery barbs scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around silvery barbs scc.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The First Prophecy of Shadows
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
-- **Material**: Required items
+- **Material**: Required items ## Common Uses
 
-## Common Uses
 - Typical applications
-- Creative uses
+- Creative uses ## Counterspell Information
 
-## Counterspell Information
 - How to counter
 - Difficulty class
+
 ## Sourcebook Reference
+
 - **Source**: Strixhaven: Curriculum of Chaos
 - **School**: See spell description
-- **Available to**: Check class spell lists
+- **Available to**: Check class spell lists ### CLI Reference
 
-### CLI Reference
-See: `[[silvery-barbs-scc (spells)|silvery-barbs-scc (spells)-phb]]` in CLI_Reference/spells/
+See:`[[silvery-barbs-scc (spells)|silvery-barbs-scc (spells)-phb]]`in CLI_Reference/spells/ ## References - [[Silverquill Student Scc]]
 
-## References
-
-- [[Silverquill Student Scc]]
 - [[silverquill-student-scc (backgrounds)]]
 - [[Spells Scc]]
 - [[spells-scc (tables)]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/mechanics
+#story/story
+#story/lore
+#story/background
+#world/world
+#world/setting
+#character/creature
+#resource/item
+#meta/reference

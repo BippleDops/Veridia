@@ -190,3 +190,22 @@ Key stop on textiles trade route
 - A journal reveals a betrayal about the cult
 - Strange sightings suggest a curse
 - Someone is hunting an heir for love
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

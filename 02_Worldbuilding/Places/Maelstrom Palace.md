@@ -983,3 +983,12 @@ Mentioned in The Hidden Prophecy of Winds
 ## Architecture
 - **Building Style**: Common structures
 - **Notable Features**: Unique elements
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures

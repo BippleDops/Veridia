@@ -235,3 +235,18 @@ Key stop on metals trade route
 
 - [[Temple Ward]]
 - [[Temple Ward (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

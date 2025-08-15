@@ -466,3 +466,18 @@ Key stop on spices trade route
 
 - [[Envoy Blackwater Jr (D&D_Statblocks)]]
 - [[Envoy Blackwater Jr.]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

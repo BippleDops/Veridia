@@ -1,18 +1,32 @@
 ---
+
 title: Prayer of Healing Xphb
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Prayer of Healing Xphb"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Prayer of Healing Xphb
+ # Prayer of Healing Xphb ---
 
----
+## Description
+
+Detailed description pending.
 title: Prayer of Healing Xphb
 aliases:
 - Prayer of Healing
+
 type: note
 tags:
 - both
@@ -24,6 +38,7 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -33,63 +48,33 @@ classes:
 - Cleric
 - Paladin
 - Sorcerer (Divine Soul)
+
 cssclasses: json5e-spell
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:06.593072+00:00'
 world: Both
----
 
-# Prayer of Healing
-*2nd-level, Abjuration*  
+--- # Prayer of Healing
 
-- **Casting time:** 10 minutes
+*2nd-level, Abjuration* - **Casting time:** 10 minutes
 - **Range:** 30 feet
 - **Components:** V
-- **Duration:** Instantaneous
+- **Duration:** Instantaneous Up to five creatures of your choice who remain within range for the spell's entire casting gain the benefits of a [[short-rest-xphb|Short Rest]] and also regain`2d8`[[hit-points-xphb (variant-rules)]]. A creature can't be affected by this spell again until that creature finishes a [[long-rest-xphb|Long Rest]]. **Using a Higher-Level Spell Slot.** The healing increases by`d8`for each spell slot level above 2. **Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]] *Source: Player's Handbook (2024) p. 307. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Prayer of healing xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of prayer of healing xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around prayer of healing xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1]]
 
-Up to five creatures of your choice who remain within range for the spell's entire casting gain the benefits of a [[short-rest-xphb|Short Rest]] and also regain `2d8` [[hit-points-xphb (variant-rules)]]. A creature can't be affected by this spell again until that creature finishes a [[long-rest-xphb|Long Rest]].
-
-**Using a Higher-Level Spell Slot.** The healing increases by `d8` for each spell slot level above 2.
-
-**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
-
-*Source: Player's Handbook (2024) p. 307. Available in the SRD and the Free Rules (2024)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Prayer of healing xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of prayer of healing xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around prayer of healing xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#mechanics/mechanics
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#meta/reference

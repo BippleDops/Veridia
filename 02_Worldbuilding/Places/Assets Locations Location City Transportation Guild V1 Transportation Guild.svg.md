@@ -179,3 +179,22 @@ Key locations marked:
 - A map reveals a conspiracy about the cult
 - A map reveals a betrayal about the cult
 - A document has gone missing and chaos spreads
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

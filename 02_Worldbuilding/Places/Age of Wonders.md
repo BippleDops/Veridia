@@ -228,3 +228,18 @@ Key stop on spices trade route
 
 - [[Vault Keeper Eternal]]
 - [[Vault Keeper Eternal (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

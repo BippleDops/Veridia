@@ -102,3 +102,27 @@ improvements: 20
 - A letter reveals a betrayal about the government
 - Strange disappearances suggest a curse
 - Someone is protecting an heir for love
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

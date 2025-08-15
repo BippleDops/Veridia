@@ -1,18 +1,32 @@
 ---
+
 title: spell-scroll-cantrip-xdmg (items)
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["spell-scroll-cantrip-xdmg (items)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# spell-scroll-cantrip-xdmg
+ # spell-scroll-cantrip-xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: spell scroll cantrip xdmg
 aliases:
 - Spell Scroll (Cantrip)
+
 type: note
 tags:
 - research
@@ -22,6 +36,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
@@ -30,78 +45,35 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-12T23:37:36.977288'
 world: Both
----
 
-# Spell Scroll (Cantrip)
-*Scroll, common*  
-![](/03_Mechanics/CLI/items/img/spell-scroll.webp#right)
+--- # Spell Scroll (Cantrip)
 
-- **Cost**: 30 gp
+*Scroll, common* ![](/03_Mechanics/CLI/items/img/spell-scroll.webp#right) - **Cost**: 30 gp A Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost. If the spell is on your spell list but of a higher level than you can normally cast, you make a DC 10 ability check using your spellcasting ability to determine whether you cast the spell. On a failed check, the spell disappears from the scroll with no other effect. If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is`+5`. *Source: Dungeon Master's Guide (2024) p. 305, Player's Handbook (2024) p. 228. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Spell scroll cantrip xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of spell scroll cantrip xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spell scroll cantrip xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange disappearances suggest a conspiracy
 
-A Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost.
-
-If the spell is on your spell list but of a higher level than you can normally cast, you make a DC 10 ability check using your spellcasting ability to determine whether you cast the spell. On a failed check, the spell disappears from the scroll with no other effect.
-
-If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is `+5`.
-
-*Source: Dungeon Master's Guide (2024) p. 305, Player's Handbook (2024) p. 228. Available in the SRD and the Free Rules (2024)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Spell scroll cantrip xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of spell scroll cantrip xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spell scroll cantrip xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Strange disappearances suggest a conspiracy
 - A prisoner has gone missing and chaos spreads
 - A merchant needs help investigating before the new moon
-- A document has gone missing and chaos spreads
+- A document has gone missing and chaos spreads ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## Spell Components Detail
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
-- **Material**: Required items
+- **Material**: Required items ## Common Uses
 
-## Common Uses
 - Typical applications
-- Creative uses
+- Creative uses ## Counterspell Information
 
-## Counterspell Information
 - How to counter
 - Difficulty class
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#mechanics/mechanics
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/item
+#meta/reference

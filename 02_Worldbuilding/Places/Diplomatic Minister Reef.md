@@ -226,3 +226,18 @@ Ongoing situations affecting Diplomatic Minister Reef:
 
 - [[Quest - The Missing Fleet]]
 - [[Quest - The Missing Fleet_1 (01_Adventures)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

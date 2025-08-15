@@ -1,20 +1,15 @@
----
-tags: [misc]
+--- tags: [misc]
 type: misc
----
-
-# 10,000 Asset Generation Report
-
-Generated: 2025-08-15T03:51:04.242Z
-
-## Summary
-
-**Total [[Assets|Assets]] Generated: 10,000**
-
-## Breakdown by Category
-
-| Category | Count | Percentage |
-|----------|-------|------------|
+aliases: ["10K GENERATION REPORT"]
+created: 2025-08-15
+modified: 2025-08-15
+status: active
+priority: normal
+category: 09 Performance
+subcategory: 10K Generation Report.Md
+related: []
+cssclass: standard
+publish: false --- # 10,000 Asset Generation Report Generated: 2025-08-15T03:51:04.242Z ## Summary **Total [[Assets|Assets]] Generated: 10,000** ## Breakdown by Category | Category | Count | Percentage | ## Description {#description} Detailed description pending. |----------|-------|------------|
 | NPCs | 2,000 | 20.0% |
 | [[Items|Items]] | 1,500 | 15.0% |
 | Locations | 1,500 | 15.0% |
@@ -26,53 +21,39 @@ Generated: 2025-08-15T03:51:04.242Z
 | Factions | 300 | 3.0% |
 | Events | 300 | 3.0% |
 | Shops | 200 | 2.0% |
-| Dungeons | 200 | 2.0% |
-
-## Asset Quality
-
-All assets include:
-- Unique IDs for cross-referencing
+| Dungeons | 200 | 2.0% | ## Asset Quality All assets include: - Unique IDs for cross-referencing
 - Detailed descriptions
 - Game mechanics where applicable
 - Plot hooks and adventure seeds
-- Interconnected [[RELATIONSHIPS|RELATIONSHIPS]]
-
-## [[DIRECTORY_STRUCTURE|DIRECTORY STRUCTURE]]
-
-```
-[[02_Worldbuilding|02_Worldbuilding]]/
-├── [[People|People]]/Generated/ (2,000 NPCs)
+- Interconnected [[RELATIONSHIPS|RELATIONSHIPS]] ## [[DIRECTORY_STRUCTURE|DIRECTORY STRUCTURE]]```[[02_Worldbuilding|02_Worldbuilding]]/ ├── [[People|People]]/Generated/ (2,000 NPCs)
 ├── Items/Generated/ (1,500 items)
 ├── Places/Generated/ (1,500 locations)
 ├── Quests/Generated/ (1,000 quests)
 ├── Lore/Generated/ (1,000 entries)
 ├── Groups/Generated/ (300 factions)
 ├── World_Events/Generated/ (300 events)
-└── Shops/Generated/ (200 shops)
-
-03_Mechanics/
+└── Shops/Generated/ (200 shops) 03_Mechanics/
 ├── Random_Encounters/Generated/ (1,000 encounters)
 ├── Spells/Custom/ (500 spells)
-└── Monsters/Custom/ (500 creatures)
-
-[[04_Resources|04_Resources]]/Assets/
-└── Real_Maps/Generated_Dungeons/ (200 dungeons)
-```
-
-## Usage Guide
-
-1. **Quick Start**: Use the ID system to quickly reference any asset
-2. **Cross-References**: Many assets reference others by ID
+└── Monsters/Custom/ (500 creatures) [[04_Resources|04_Resources]]/Assets/
+└── Real_Maps/Generated_Dungeons/ (200 dungeons)```## Usage Guide 1. **Quick Start**: Use the ID system to quickly reference any asset 2. **Cross-References**: Many assets reference others by ID
 3. **Customization**: All content can be modified for your campaign
-4. **Integration**: Import into your VTT or campaign management tool
-
-## Features
-
-- **No Placeholders**: Every asset contains real, usable content
-- **Interconnected**: NPCs reference locations, quests use multiple assets
+4. **Integration**: Import into your VTT or campaign management tool ## Features - **No Placeholders**: Every asset contains real, usable content - **Interconnected**: NPCs reference locations, quests use multiple assets
 - **Scalable**: Content appropriate for all campaign levels
 - **Organized**: Clear directory structure for easy navigation
-- **Searchable**: Consistent naming and ID system
-
----
-*10,000 assets successfully generated!*
+- **Searchable**: Consistent naming and ID system --- *10,000 assets successfully generated!* ## Notes {#notes} *Additional notes* #mechanics/mechanics
+#mechanics/system
+#story/plot
+#story/lore
+#world/location
+#world/world
+#world/place
+#character/npc
+#character/creature
+#character/monster
+#gameplay/encounter
+#gameplay/adventure
+#gameplay/quest
+#resource/item
+#meta/navigation
+#meta/reference

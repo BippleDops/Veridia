@@ -168,3 +168,22 @@ Key locations marked:
 - Someone is blackmailing a artifact for money
 - Strange sightings suggest ancient magic
 - Strange disappearances suggest ancient magic
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

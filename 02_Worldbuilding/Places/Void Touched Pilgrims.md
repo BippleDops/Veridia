@@ -208,3 +208,18 @@ Ongoing situations affecting Void Touched Pilgrims:
 
 - [[The Void Touched Depths]]
 - [[The Void Touched Depths (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

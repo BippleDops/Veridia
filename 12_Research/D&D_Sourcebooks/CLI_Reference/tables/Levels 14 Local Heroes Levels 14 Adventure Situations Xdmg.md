@@ -1,18 +1,32 @@
 ---
+
 title: Levels 14 Local Heroes Levels 14 Adventure Situations Xdmg
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Levels 14 Local Heroes Levels 14 Adventure Situations Xdmg"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# levels-14-local-heroes-levels-14-adventure-situations-xdmg
+ # levels-14-local-heroes-levels-14-adventure-situations-xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: levels 14 local heroes levels 14 adventure situations xdmg
 aliases:
 - "Levels 1\u20134": "Local Heroes; Levels 1\u20134 Adventure Situations"
+
 type: note
 tags:
 - research
@@ -21,23 +35,18 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.230255'
 world: Both
----
 
-# Levels 1–4: Local Heroes; Levels 1–4 Adventure Situations
-*Source: Dungeon Master's Guide (2024) p. 106* 
+--- # Levels 1–4: Local Heroes; Levels 1–4 Adventure Situations
 
-**Levels 1–4 Adventure Situations**
-
-`dice: [](levels-14-local-heroes-levels-14-adventure-situations-xdmg.md#^levels-14-adventure-situations)`
-
-| dice: 1d20 | Situation |
+*Source: Dungeon Master's Guide (2024) p. 106* **Levels 1–4 Adventure Situations**`dice: [](levels-14-local-heroes-levels-14-adventure-situations-xdmg.md#^levels-14-adventure-situations)`| dice: 1d20 | Situation |
 |------------|-----------|
 | 1 | A dragon wyrmling has gathered a band of kobolds to help it amass a hoard. |
 | 2 | Wererats living in a city's sewers plot to take control of the governing council. |
@@ -59,43 +68,52 @@ world: Both
 | 18 | After a local fisher pulls a grotesque statue from the sea, aquatic monsters start attacking the waterfront at night. |
 | 19 | The ruins on the hill near the village lie under a curse, so people don't go there—except a scholar who wants to study the ruins. |
 | 20 | A new captain has taken charge of a band of pirates or bandits and started raiding more frequently. |
-^levels-14-adventure-situations
 
-## 🔧 Deep Evaluation Improvements
+^levels-14-adventure-situations ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Levels 14 local heroes levels 14 adventure situations xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of levels 14 local heroes levels 14 adventure situations xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around levels 14 local heroes levels 14 adventure situations xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Hidden Prophecy of Stars ## Related Notes - [[Similar Topic 1]]
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Levels 14 local heroes levels 14 adventure situations xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of levels 14 local heroes levels 14 adventure situations xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around levels 14 local heroes levels 14 adventure situations xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The Hidden Prophecy of Stars
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/person
+#character/creature
+#character/monster
+#gameplay/adventure
+#resource/item
+#resource/treasure
+#meta/reference
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

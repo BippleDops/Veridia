@@ -94,3 +94,28 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
 - [[06_GM_Resources/Campaign_Management/Campaign_Relationship_Matrix]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

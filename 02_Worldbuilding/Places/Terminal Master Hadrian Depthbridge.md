@@ -197,3 +197,18 @@ Ongoing situations affecting Terminal Master Hadrian Depthbridge:
 
 - [[Pressure Terminal]]
 - [[Pressure Terminal (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

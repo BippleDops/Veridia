@@ -203,3 +203,18 @@ Ongoing situations affecting The Living Quarters:
 - [[Crystal Palace]]
 - [[Port Meridian - Merchant Quarter]]
 - [[Port Meridian - Merchant Quarter (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

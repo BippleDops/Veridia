@@ -244,3 +244,18 @@ Ongoing situations affecting Merchant Quarter:
 - [[Quest - The Truth Unveiled_1 (01_Adventures)]]
 - [[Goldspire Port]]
 - [[Ironhold]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

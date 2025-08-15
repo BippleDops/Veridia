@@ -119,3 +119,28 @@ Mentioned in The Hidden Prophecy of Winds
 
 - [[Assets Locations Location City Palace Guard Captain Neutralis Palace Guard Captain Neutralis.png]]
 - [[Assets Locations Location City Quartermaster David Simpleton V1 Quartermaster David Simpleton.svg]]
+
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

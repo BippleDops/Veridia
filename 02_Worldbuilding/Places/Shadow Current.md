@@ -245,3 +245,18 @@ Key stop on metals trade route
 - [[The Grand Trade Routes]]
 - [[Abyssos Prime Docks]]
 - [[Abyssos Prime Docks (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

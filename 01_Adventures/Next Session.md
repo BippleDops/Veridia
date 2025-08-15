@@ -7,144 +7,157 @@ level: 1-5
 modified: '2025-08-14'
 tags:
 - quest
+
 title: Next Session
 type: session
 updated: 2025-08-14
 status: active
+aliases: ["Next Session"]
+priority: normal
+category: 01 Adventures
+subcategory: Next Session.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Next Session
+ # Next Session ## Overview
 
-## Overview
-This document contains important information regarding Next Session and its role within the greater narrative.
+This document contains important information regarding Next Session and its role within the greater narrative. ## Description
 
-## Description
-Next Session represents a significant element within the campaign world, offering various opportunities for engagement and development.
+Next Session represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
 
-## Key Information
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
-- **Significance**: Important for understanding broader context
+- **Significance**: Important for understanding broader context ## Details
 
-## Details
 ### Background
-Historical context and development over time.
 
-### Current State
-Present circumstances and ongoing relevance.
+Historical context and development over time. ### Current State
 
-### Future Potential
-Possible developments and plot directions.
+Present circumstances and ongoing relevance. ### Future Potential
 
-## Relationships
+Possible developments and plot directions. ## Relationships
+
 - Connected to various other elements within the vault
 - Part of larger narrative structures
-- Influences and is influenced by surrounding content
+- Influences and is influenced by surrounding content ## Usage Notes
 
-## Usage Notes
-This content can be adapted and expanded based on specific campaign needs.
+This content can be adapted and expanded based on specific campaign needs. ## Plot Hooks
 
-## Plot Hooks
 - Can serve as starting point for investigations
 - May provide crucial information at key moments
-- Offers opportunities for player engagement
+- Offers opportunities for player engagement ## DM Notes
 
-## DM Notes
-*Customize as needed for your specific campaign requirements.*
+*Customize as needed for your specific campaign requirements.* ## Adventure Hooks
 
-## Adventure Hooks
-*[Ways to get PCs involved]*
+*[Ways to get PCs involved]* ### Direct Approach
 
-### Direct Approach
-- *[Straightforward hook]*
+- *[Straightforward hook]* ### Indirect Approach
 
-### Indirect Approach
-- *[Subtle introduction]*
+- *[Subtle introduction]* ### Emergency Hook
 
-### Emergency Hook
-- *[Urgent situation]*
+- *[Urgent situation]* ## Key NPCs
 
-## Key NPCs
-*[Important characters in this adventure]*
+*[Important characters in this adventure]* ### Allies
 
-### Allies
-- *[Helpful NPCs]*
+- *[Helpful NPCs]* ### Antagonists
 
-### Antagonists
-- *[Opposition NPCs]*
+- *[Opposition NPCs]* ### Neutral Parties
 
-### Neutral Parties
-- *[Information sources]*
+- *[Information sources]* ## Locations
 
-## Locations
-*[Important places in this adventure]*
+*[Important places in this adventure]* ### Starting Location
 
-### Starting Location
-- *[Where adventure begins]*
+- *[Where adventure begins]* ### Key Sites
 
-### Key Sites
-- *[Major locations to visit]*
+- *[Major locations to visit]* ### Optional Areas
 
-### Optional Areas
-- *[Side locations]*
+- *[Side locations]* ## Rewards
 
-## Rewards
-*[What PCs gain from completing this adventure]*
+*[What PCs gain from completing this adventure]* ### Experience Points
 
-### Experience Points
-- *[XP awards]*
+- *[XP awards]* ### Treasure
 
-### Treasure
-- *[Gold and magic items]*
+- *[Gold and magic items]* ### Story Rewards
 
-### Story Rewards
-- *[Reputation, allies, information]*
+- *[Reputation, allies, information]* ## Scaling
 
-## Scaling
-*[How to adjust for different party levels]*
+*[How to adjust for different party levels]* ### Lower Level Parties
 
-### Lower Level Parties
-- *[Adjustments for weaker groups]*
+- *[Adjustments for weaker groups]* ### Higher Level Parties
 
-### Higher Level Parties
-- *[Adjustments for stronger groups]*
+- *[Adjustments for stronger groups]* ### Large/Small Parties
 
-### Large/Small Parties
-- *[Adjustments for party size]*
+- *[Adjustments for party size]* ## Preparation Checklist
 
-## Preparation Checklist
-- [ ] Review previous session
-- [ ] Prepare NPC voices
-- [ ] Set up maps
-- [ ] Review rules
-- [ ] Prepare handouts
+- [] Review previous session
+- [] Prepare NPC voices
+- [] Set up maps
+- [] Review rules
+- [] Prepare handouts ## Previous Session Recap
 
-## Previous Session Recap
-- Key events from last time
+- Key events from last time ## Scene List
 
-## Scene List
 1. Opening scene
 2. Development
 3. Climax
-4. Resolution
+4. Resolution ## NPC Roster
 
-## NPC Roster
-- Characters appearing this session
 
-## Props Needed
+- Characters appearing this session ## Props Needed
+
 - Maps
 - Handouts
-- Tokens
+- Tokens ## Contingencies
 
-## Contingencies
 - If players go off-script
-- Alternative paths
+- Alternative paths ## See Also
 
-## See Also
 - Related content
 - Similar topics
-- Connected elements
+- Connected elements ## DM Tips
 
-## DM Tips
 > 💡 **Running This Content**: Advice for game masters
+
 > Adjust difficulty based on party composition
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#story/plot
+#story/narrative
+#story/story
+#story/background
+#world/location
+#world/world
+#world/place
+#character/npc
+#character/character
+#gameplay/session
+#gameplay/adventure
+#gameplay/quest
+#resource/item
+#resource/treasure
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

@@ -1,18 +1,22 @@
 ---
+
 title: clockwork-bronze-scout-mpmm (construct)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# clockwork-bronze-scout-mpmm
+--- # clockwork-bronze-scout-mpmm ---
 
----
+## Description
+
+Detailed description pending.
 title: clockwork bronze scout mpmm
 aliases:
 - Clockwork Bronze Scout
+
 type: monster
 tags:
 - ttrpg-cli/monster/size/medium
@@ -28,6 +32,7 @@ tags:
 - active
 - ttrpg-cli/monster/environment/forest
 - status/in-progress
+
 created: 2025-08-11
 modified: '2025-08-14'
 status: active
@@ -37,41 +42,13 @@ statblock: inline
 statblock-link: '#^statblock'
 updated: '2025-08-12T23:37:35.864973'
 world: Both
----
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-clockwork-bronze-scout-mpmm-clockwork-bronze-scout-mpmm.svg)
+--- > [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-clockwork-bronze-scout-mpmm-clockwork-bronze-scout-mpmm.svg) # [[Clockwork Bronze Scout Mpmm]]
 
-# [[Clockwork Bronze Scout Mpmm]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 79, Mordenkainen's Tome of Foes p. 125*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 79, Mordenkainen's Tome of Foes p. 125* A bronze scout seldom emerges from underground. Its telescoping eyestalks observe foes at close range while most of its segmented body remains buried. If detected, it sends electrical shocks through the ground toward pursuers while it retreats. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Clockworks Gnomes' tinkering with magic and mechanical devices has produced many failed Constructs but also has resulted in genuine advances, such as clockworks. The methods used to craft clockworks have been shared between gnome communities over many generations. ### Individual Designs Gnome artisans prefer unique clockworks over perfectly functioning ones that copy too much from other creations. A clockwork can be customized by adding one of the following enhancements and one potential malfunction to its stat block. You can select randomly or choose a pair of modifications that fit the temperament of the clockwork's builder. **Clockwork Enhancements**`dice: [](clockwork-bronze-scout-mpmm.md#^clockwork-enhancements)`| dice: d10 | Enhancement |
 
-A bronze scout seldom emerges from underground. Its telescoping eyestalks observe foes at close range while most of its segmented body remains buried. If detected, it sends electrical shocks through the ground toward pursuers while it retreats.
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Clockworks
-
-Gnomes' tinkering with magic and mechanical devices has produced many failed Constructs but also has resulted in genuine advances, such as clockworks. The methods used to craft clockworks have been shared between gnome communities over many generations.
-
-### Individual Designs
-
-Gnome artisans prefer unique clockworks over perfectly functioning ones that copy too much from other creations. A clockwork can be customized by adding one of the following enhancements and one potential malfunction to its stat block. You can select randomly or choose a pair of modifications that fit the temperament of the clockwork's builder.
-
-**Clockwork Enhancements**
-
-`dice: [](clockwork-bronze-scout-mpmm.md#^clockwork-enhancements)`
-
-| dice: d10 | Enhancement |
 |-----------|-------------|
 | 1 | **Camouflaged.** The clockwork gains proficiency in [[skills#Stealth|Stealth]] if it lacks that proficiency. While motionless, it is indistinguishable from a stopped machine. |
 | 2 | **Sensors.** The range of the clockwork's [[senses#Darkvision|darkvision]] increases by 60 feet, and it gains proficiency in [[skills#Perception|Perception]] if it lacks that proficiency. |
@@ -83,25 +60,19 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 | 8 | **Suction.** The clockwork gains a climbing speed of 30 feet. |
 | 9 | **Vocal Resonator.** The clockwork gains the ability to speak rudimentary Common or Gnomish. |
 | 10 | **Water Propulsion.** The clockwork gains a swimming speed of 30 feet. |
-^clockwork-enhancements
 
-**Clockwork Malfunctions**
-
-`dice: [](clockwork-bronze-scout-mpmm.md#^clockwork-malfunctions)`
-
-| dice: d8 | Malfunction |
+^clockwork-enhancements **Clockwork Malfunctions**`dice: [](clockwork-bronze-scout-mpmm.md#^clockwork-malfunctions)`| dice: d8 | Malfunction |
 |----------|-------------|
-| 1 | **Faulty Sensors.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork is [[conditions#Blinded|blinded]] until the end of its turn. |
-| 2 | **Flawed Targeting.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork makes attack rolls with disadvantage until the end of its turn. |
+| 1 | **Faulty Sensors.** Roll a`d6`at the start of the clock work's turn. If you roll a 1, the clockwork is [[conditions#Blinded|blinded]] until the end of its turn. |
+| 2 | **Flawed Targeting.** Roll a`d6`at the start of the clock work's turn. If you roll a 1, the clockwork makes attack rolls with disadvantage until the end of its turn. |
 | 3 | **Ground Fault.** The clockwork has vulnerability to lightning damage. |
-| 4 | **Imprinting Loop.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork mistakes one creature it can see within 30 feet for its creator. The clockwork won't willingly harm that creature for 1 minute or until that creature attacks or dam ages it. |
+| 4 | **Imprinting Loop.** Roll a`d6`at the start of the clock work's turn. If you roll a 1, the clockwork mistakes one creature it can see within 30 feet for its creator. The clockwork won't willingly harm that creature for 1 minute or until that creature attacks or dam ages it. |
 | 5 | **Limited Steering.** The clockwork must move in a straight line. It can turn up to 90 degrees before moving and again at the midpoint of its movement. It can rotate freely if it doesn't use any of its speeds on its turn. |
-| 6 | **Overactive Sense of Self-Preservation.** If the clock work has half its hit points or fewer at the start of its turn in combat, roll a `d6`. If you roll a 1, it retreats from combat if possible. It otherwise keeps fighting. |
-| 7 | **Overheats.** Roll a `d6` at the start of the clockwork's turn. If you roll a 1, the clockwork is [[conditions#Incapacitated|incapacitated]] until the end of its turn. |
+| 6 | **Overactive Sense of Self-Preservation.** If the clock work has half its hit points or fewer at the start of its turn in combat, roll a`d6`. If you roll a 1, it retreats from combat if possible. It otherwise keeps fighting. |
+| 7 | **Overheats.** Roll a`d6`at the start of the clockwork's turn. If you roll a 1, the clockwork is [[conditions#Incapacitated|incapacitated]] until the end of its turn. |
 | 8 | **Rusty Gears.** The clockwork has disadvantage on initiative rolls, and its speed decreases by 10 feet. |
-^clockwork-malfunctions
 
-```statblock
+^clockwork-malfunctions```statblock
 "name": "Clockwork Bronze Scout (MPMM)"
 "size": "Medium"
 "type": "construct"
@@ -110,88 +81,28 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 "hp": !!int "36"
 "hit_dice": "8d8"
 "modifier": !!int "3"
-"stats":
-  - !!int "10"
-  - !!int "16"
-  - !!int "11"
-  - !!int "3"
-  - !!int "14"
-  - !!int "1"
+"stats": - !!int "10" - !!int "16" - !!int "11" - !!int "3" - !!int "14" - !!int "1"
 "speed": "30 ft., burrow 30 ft."
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+6"
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+7"
+"skillsaves": - "name": "[[skills#Perception|Perception]]" "desc": "+6" - "name": "[[skills#Stealth|Stealth]]" "desc": "+7"
 "damage_immunities": "poison"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
-  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\ \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\ \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 16"
 "languages": "understands one language of its creator but can't speak"
 "cr": "1"
-"traits":
-  - "desc": "The clockwork doesn't provoke [[actions#Opportunity%20Attack|opportunity attacks]]\
-      \ when it burrows."
-    "name": "Earth Armor"
-  - "desc": "The clockwork has advantage on saving throws against spells and other\
-      \ magical effects."
-    "name": "Magic Resistance"
-  - "desc": "The clockwork doesn't require air, food, drink, or sleep."
-    "name": "Unusual Nature"
-"actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
-      \ + 3) piercing damage plus 3 (d6) lightning damage."
-    "name": "Bite"
-  - "desc": "Each creature in contact with the ground within 15 feet of the clockwork\
-      \ must make a DC 13 Dexterity saving throw, taking 14 (4d6) lightning damage\
-      \ on a failed save, or half as much damage on a successful one."
-    "name": "Lightning Flare (Recharges after a Short or Long Rest)"
-"source":
-  - "MPMM"
-  - "MTF"
-"image": "/03_Mechanics/CLI/bestiary/construct/token/clockwork-bronze-scout-mpmm.webp"
-```
-^statblock
+"traits": - "desc": "The clockwork doesn't provoke [[actions#Opportunity%20Attack|opportunity attacks]]\ \ when it burrows." "name": "Earth Armor" - "desc": "The clockwork has advantage on saving throws against spells and other\ \ magical effects." "name": "Magic Resistance" - "desc": "The clockwork doesn't require air, food, drink, or sleep." "name": "Unusual Nature"
+"actions": - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\ \ + 3) piercing damage plus 3 (d6) lightning damage." "name": "Bite" - "desc": "Each creature in contact with the ground within 15 feet of the clockwork\ \ must make a DC 13 Dexterity saving throw, taking 14 (4d6) lightning damage\ \ on a failed save, or half as much damage on a successful one." "name": "Lightning Flare (Recharges after a Short or Long Rest)"
+"source": - "MPMM" - "MTF"
+"image": "/03_Mechanics/CLI/bestiary/construct/token/clockwork-bronze-scout-mpmm.webp"```^statblock ## Environment forest, grassland, hill, mountain ## Player-Facing Summary Clockwork bronze scout mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of clockwork bronze scout mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around clockwork bronze scout mpmm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The First Prophecy of Winds ## Plot Hooks - A stranger needs help delivering before dawn
 
-## Environment
-
-forest, grassland, hill, mountain
-
-## Player-Facing Summary
-
-Clockwork bronze scout mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of clockwork bronze scout mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around clockwork bronze scout mpmm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The First Prophecy of Winds
-
-## Plot Hooks
-
-- A stranger needs help delivering before dawn
 - A prisoner has gone missing and war looms
 - Strange disappearances suggest a portal
-- The authorities needs help finding before the festival
+- The authorities needs help finding before the festival ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
+
+*Additional notes*

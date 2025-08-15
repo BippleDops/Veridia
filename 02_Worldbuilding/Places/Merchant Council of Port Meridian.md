@@ -205,3 +205,18 @@ Ongoing situations affecting Merchant Council of Port Meridian:
 
 - [[Port Meridian - Merchant Quarter]]
 - [[Port Meridian - Merchant Quarter (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

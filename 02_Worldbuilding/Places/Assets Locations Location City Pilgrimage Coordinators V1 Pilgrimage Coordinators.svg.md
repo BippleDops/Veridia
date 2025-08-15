@@ -175,3 +175,22 @@ Key locations marked:
 - A journal reveals a conspiracy about the government
 - Someone is searching for an heir for revenge
 - Strange sightings suggest a portal
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

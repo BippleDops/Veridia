@@ -1,18 +1,32 @@
 ---
+
 title: flaw-or-secret-npc-flaws-and-secrets (tables)
 type: npc
 tags:
 - npc
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["flaw-or-secret-npc-flaws-and-secrets (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# flaw-or-secret-npc-flaws-and-secrets
+ # flaw-or-secret-npc-flaws-and-secrets ---
 
----
+## Description
+
+Detailed description pending.
 title: flaw or secret npc flaws and secrets
 aliases:
 - Flaw or Secret; NPC Flaws and Secrets
+
 type: note
 tags:
 - research
@@ -21,23 +35,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.585839'
 world: Both
----
 
-# Flaw or Secret; NPC Flaws and Secrets
-*Source: Dungeon Master's Guide p. 91* 
+--- # Flaw or Secret; NPC Flaws and Secrets
 
-**NPC Flaws and Secrets**
-
-`dice: [](flaw-or-secret-npc-flaws-and-secrets.md#^npc-flaws-and-secrets)`
-
-| dice: d12 | Flaw or Secret |
+*Source: Dungeon Master's Guide p. 91* **NPC Flaws and Secrets**`dice: [](flaw-or-secret-npc-flaws-and-secrets.md#^npc-flaws-and-secrets)`| dice: d12 | Flaw or Secret |
 |-----------|----------------|
 | 1 | Forbidden love or susceptibility to romance |
 | 2 | Enjoys decadent pleasures |
@@ -51,47 +60,48 @@ world: Both
 | 10 | Secret crime or misdeed |
 | 11 | Possession of forbidden lore |
 | 12 | Foolhardy bravery |
-^npc-flaws-and-secrets
 
-## 🔧 Deep Evaluation Improvements
+^npc-flaws-and-secrets ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Flaw or secret npc flaws and secrets is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of flaw or secret npc flaws and secrets as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around flaw or secret npc flaws and secrets. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1]]
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Flaw or secret npc flaws and secrets is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of flaw or secret npc flaws and secrets as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around flaw or secret npc flaws and secrets.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/npc
+#character/creature
+#gameplay/session
+#meta/reference
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

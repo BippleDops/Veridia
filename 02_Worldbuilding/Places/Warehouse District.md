@@ -240,3 +240,18 @@ Key stop on magic items trade route
 - [[Abyssos Prime Docks]]
 - [[Reality Breach Locations]]
 - [[The Bone Colosseum]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -237,3 +237,18 @@ Ongoing situations affecting Tidal Stormcrest:
 - [[Abyssos Prime Docks]]
 - [[Harbormaster Tidal Stormcrest]]
 - [[Abyssos Prime Docks (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -250,3 +250,18 @@ Ongoing situations affecting Astrologer Prime Cassandra Starweaver:
 ## References
 
 - [[02_Worldbuilding_People_Dr._Marina_Coralheart_ _Shadow]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

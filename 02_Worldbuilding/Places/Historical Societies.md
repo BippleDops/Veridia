@@ -216,3 +216,18 @@ Ongoing situations affecting Historical Societies:
 ## References
 
 - [[VAULT_UPDATES]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -254,3 +254,18 @@ Ongoing situations affecting Deep Ones:
 - [[The Depth Accords (D&D_References)]]
 - [[The Depth Plague (D&D_References)]]
 - [[The Original Palace (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

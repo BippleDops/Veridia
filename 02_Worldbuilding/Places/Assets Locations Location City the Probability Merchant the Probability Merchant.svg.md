@@ -178,3 +178,22 @@ Key stop on spices trade route
 
 - A stranger needs help stealing before dawn
 - An heirloom has gone missing and truth emerges
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

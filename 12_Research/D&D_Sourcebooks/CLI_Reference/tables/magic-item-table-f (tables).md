@@ -1,18 +1,32 @@
 ---
+
 title: magic-item-table-f (tables)
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["magic-item-table-f (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# magic-item-table-f
+ # magic-item-table-f ---
 
----
+## Description
+
+Detailed description pending.
 title: magic item table f
 aliases:
 - Magic Item Table F
+
 type: note
 tags:
 - research
@@ -21,23 +35,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.536286'
 world: Both
----
 
-# Magic Item Table F
-*Source: Dungeon Master's Guide p. 144* 
+--- # Magic Item Table F
 
-**Magic Item Table F**
-
-`dice: [](magic-item-table-f.md#^magic-item-table-f)`
-
-| dice: d100 | Magic Item |
+*Source: Dungeon Master's Guide p. 144* **Magic Item Table F**`dice: [](magic-item-table-f.md#^magic-item-table-f)`| dice: d100 | Magic Item |
 |------------|------------|
 | 01-15 | [[1-weapon-xdmg (items)]] |
 | 16-18 | [[Shield]] |
@@ -99,53 +108,26 @@ world: Both
 | 98 | [[stone-of-good-luck-xdmg (items)]] |
 | 99 | [[Wind Fan Xdmg]] |
 | 00 | [[winged-boots-xdmg (items)]] |
-^magic-item-table-f
 
-## 🔧 Deep Evaluation Improvements
+^magic-item-table-f ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Magic item table f is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of magic item table f as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around magic item table f. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A stranger needs help investigating before the festival
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Magic item table f is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of magic item table f as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around magic item table f.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A stranger needs help investigating before the festival
 - An heirloom has gone missing and chaos spreads
-- A stranger needs help delivering before the festival
+- A stranger needs help delivering before the festival ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/item
+#meta/reference

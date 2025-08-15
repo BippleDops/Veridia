@@ -1,18 +1,22 @@
 ---
+
 title: Galley Xphb
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# Galley Xphb
+--- # Galley Xphb ---
 
----
+## Description
+
+Detailed description pending.
 title: Galley Xphb
 aliases:
 - Galley
+
 type: note
 tags:
 - both
@@ -23,6 +27,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -31,59 +36,20 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:08.013654+00:00'
 world: Both
----
 
-> [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-galley-xphb-galley-xphb.svg)
+--- > [!figure] Item
+![](04_Resources/Assets/Items/item-artifact-galley-xphb-galley-xphb.svg) # Galley
 
-# Galley
-*Ship, vehicle (water)*  
+*Ship, vehicle (water)* - **Cost**: 30,000 gp *Source: Player's Handbook (2024) p. 230. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Galley xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of galley xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around galley xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Hidden Prophecy of Depths ## Plot Hooks - A noble needs help delivering before dawn
 
-- **Cost**: 30,000 gp
+- Someone is blackmailing information for love ## References - [[Master_Item_Catalog]]
 
-*Source: Player's Handbook (2024) p. 230. Available in the SRD and the Free Rules (2024)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Galley xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of galley xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around galley xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The Hidden Prophecy of Depths
-
-## Plot Hooks
-
-- A noble needs help delivering before dawn
-- Someone is blackmailing information for love
-
-## References
-
-- [[Master_Item_Catalog]]
 - [[Large Vehicles Airborne and Waterborne Vehicles Xphb]]
 - [[Large Vehicles Airborne and Waterborne]]
 - [[Mounts and Vehicles Waterborne Vehicles Phb]]
 - [[mounts-and-vehicles-waterborne-vehicles-phb (tables)]]
+
+
+## Notes
+
+*Additional notes*

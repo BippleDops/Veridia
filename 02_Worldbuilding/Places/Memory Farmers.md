@@ -472,3 +472,18 @@ Key stop on textiles trade route
 - [[Memory Merchant Valeria Siltweave (D&D_Statblocks)]]
 - [[The Foundation Depths (D&D_Statblocks)]]
 - [[The Lock Saboteur (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

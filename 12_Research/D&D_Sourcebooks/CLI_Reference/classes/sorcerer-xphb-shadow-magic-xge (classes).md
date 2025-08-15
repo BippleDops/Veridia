@@ -1,18 +1,32 @@
 ---
+
 title: sorcerer-xphb-shadow-magic-xge (classes)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["sorcerer-xphb-shadow-magic-xge (classes)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# sorcerer-xphb-shadow-magic-xge
+ # sorcerer-xphb-shadow-magic-xge ---
 
----
+## Description
+
+Detailed description pending.
 title: sorcerer xphb shadow magic xge
 aliases:
 - Shadow Magic
+
 type: note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
@@ -22,22 +36,20 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-class
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:34.397772'
 world: Both
----
 
-# Shadow Magic
-*[[sorcerer-xphb-draconic-sorcery-xphb (classes)]]: Sorcerer Subclass*  
-*Source: Xanathar's Guide to Everything p. 50*  
+--- # Shadow Magic
 
-> [!tldr] Class and Feature Progression
-> 
-> LevelPBFeatures
+*[[sorcerer-xphb-draconic-sorcery-xphb (classes)]]: Sorcerer Subclass* *Source: Xanathar's Guide to Everything p. 50* > [!tldr] Class and Feature Progression
+
+> > Level PBFeatures
 > 1st+2
 > 2nd+2
 > 3rd+2Shadow Magic
@@ -57,24 +69,10 @@ world: Both
 > 17th+6
 > 18th+6Umbral Form
 > 19th+6
-> 20th+6
+> 20th+6 ^class-progression > [!caution] Mixed edition content
+> This subclass is from a different game edition. You will need to do some adjustment to resolve differences. ### Shadow Magic (Level 3) You are a creature of shadow, for your innate magic comes from the Shadowfell itself. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed by it. The power of shadow magic casts a strange pall over your physical presence. The spark of life that sustains you is muffled, as if it struggles to remain viable against the dark energy that imbues your soul. At your option, you can pick from or roll on the Shadow Sorcerer Quirks table to create a quirk for your character. **Shadow Sorcerer Quirks**`dice: [](sorcerer-xphb-shadow-magic-xge.md#^shadow-sorcerer-quirks)`| dice: d6 | Quirk |
 
-^class-progression
 
-> [!caution] Mixed edition content
-> This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
-
-### Shadow Magic (Level 3)
-
-You are a creature of shadow, for your innate magic comes from the Shadowfell itself. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed by it.
-
-The power of shadow magic casts a strange pall over your physical presence. The spark of life that sustains you is muffled, as if it struggles to remain viable against the dark energy that imbues your soul. At your option, you can pick from or roll on the Shadow Sorcerer Quirks table to create a quirk for your character.
-
-**Shadow Sorcerer Quirks**
-
-`dice: [](sorcerer-xphb-shadow-magic-xge.md#^shadow-sorcerer-quirks)`
-
-| dice: d6 | Quirk |
 |----------|-------|
 | 1 | You are always icy cold to the touch. |
 | 2 | When you are asleep, you don't appear to breathe (though you must still breathe to survive). |
@@ -82,81 +80,30 @@ The power of shadow magic casts a strange pall over your physical presence. The 
 | 4 | Your heart beats once per minute. This event sometimes surprises you. |
 | 5 | You have trouble remembering that living creatures and corpses should be treated differently. |
 | 6 | You blinked. Once. Last week. |
-^shadow-sorcerer-quirks
 
-### Eyes of the Dark (Level 1)
+^shadow-sorcerer-quirks ### Eyes of the Dark (Level 1) Starting at 1st level, you have [[senses#Darkvision|darkvision]] with a range of 120 feet. When you reach 3rd level in this class, you learn the [[darkness-xphb (variant-rules)]] spell, which doesn't count against your number of sorcerer spells known. In addition, you can cast it by spending 2 sorcery points or by expending a spell slot. If you cast it with sorcery points, you can see through the [[darkness-xphb (variant-rules)]] created by the spell. ### Strength of the Grave (Level 1) Starting at 1st level, your existence in a twilight state between life and death makes you difficult to defeat. When damage reduces you to 0 hit points, you can make a Charisma saving throw (DC 5 + the damage taken). On a success, you instead drop to 1 hit point. You can't use this feature if you are reduced to 0 hit points by radiant damage or by a critical hit. After the saving throw succeeds, you can't use this feature again until you finish a long rest. ### Hound of Ill Omen (Level 6) At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to magically summon a [[hound-of-ill-omen-xge (monstrosity)]] to target one creature you can see within 120 feet of you. The hound uses the [[dire-wolf-xmm]]'s statistics (see the Monster Manual or appendix C in the Player's Handbook), with the following changes: - The hound is size Medium, not Large, and it counts as a monstrosity, not a beast. - It appears with a number of temporary hit points equal to half your sorcerer level. - It can move through other creatures and objects as if they were difficult terrain. The hound takes 5 force damage if it ends its turn inside an object. - At the start of its turn, the hound automatically knows its target's location. If the target was hidden, it is no longer hidden from the hound. The hound appears in an unoccupied space of your choice within 30 feet of the target. Roll initiative for the hound. On its turn, it can move only toward its target by the most direct route, and it can use its action only to attack its target. The hound can make opportunity attacks, but only against its target. Additionally, while the hound is within 5 feet of the target, the target has disadvantage on saving throws against any spell you cast. The hound disappears if it is reduced to 0 hit points, if its target is reduced to 0 hit points, or after 5 minutes. ### Shadow Walk (Level 14) At 14th level, you gain the ability to step from one shadow into another. When you are in dim light or darkness, as a bonus action, you can magically teleport up to 120 feet to an unoccupied space you can see that is also in dim light or darkness. ### Umbral Form (Level 18) Starting at 18th level, you can spend 6 sorcery points as a bonus action to magically transform yourself into a shadowy form. In this form, you have resistance to all damage except force and radiant damage, and you can move through other creatures and objects as if they were difficult terrain. You take 5 force damage if you end your turn inside an object. You remain in this form for 1 minute. It ends early if you are [[conditions#Incapacitated|incapacitated]], if you die, or if you dismiss it as a bonus action. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Sorcerer xphb shadow magic xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of sorcerer xphb shadow magic xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sorcerer xphb shadow magic xge. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality ## Plot Hooks - Someone is blackmailing an heir for money
 
-Starting at 1st level, you have [[senses#Darkvision|darkvision]] with a range of 120 feet.
+- Someone is protecting an heir for love ## Related Notes - [[Similar Topic 1]]
 
-When you reach 3rd level in this class, you learn the [[darkness-xphb (variant-rules)]] spell, which doesn't count against your number of sorcerer spells known. In addition, you can cast it by spending 2 sorcery points or by expending a spell slot. If you cast it with sorcery points, you can see through the [[darkness-xphb (variant-rules)]] created by the spell.
-
-### Strength of the Grave (Level 1)
-
-Starting at 1st level, your existence in a twilight state between life and death makes you difficult to defeat. When damage reduces you to 0 hit points, you can make a Charisma saving throw (DC 5 + the damage taken). On a success, you instead drop to 1 hit point. You can't use this feature if you are reduced to 0 hit points by radiant damage or by a critical hit.
-
-After the saving throw succeeds, you can't use this feature again until you finish a long rest.
-
-### Hound of Ill Omen (Level 6)
-
-At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to magically summon a [[hound-of-ill-omen-xge (monstrosity)]] to target one creature you can see within 120 feet of you. The hound uses the [[dire-wolf-xmm]]'s statistics (see the Monster Manual or appendix C in the Player's Handbook), with the following changes:
-
-- The hound is size Medium, not Large, and it counts as a monstrosity, not a beast.  
-- It appears with a number of temporary hit points equal to half your sorcerer level.  
-- It can move through other creatures and objects as if they were difficult terrain. The hound takes 5 force damage if it ends its turn inside an object.  
-- At the start of its turn, the hound automatically knows its target's location. If the target was hidden, it is no longer hidden from the hound.  
-
-The hound appears in an unoccupied space of your choice within 30 feet of the target. Roll initiative for the hound. On its turn, it can move only toward its target by the most direct route, and it can use its action only to attack its target. The hound can make opportunity attacks, but only against its target. Additionally, while the hound is within 5 feet of the target, the target has disadvantage on saving throws against any spell you cast. The hound disappears if it is reduced to 0 hit points, if its target is reduced to 0 hit points, or after 5 minutes.
-
-### Shadow Walk (Level 14)
-
-At 14th level, you gain the ability to step from one shadow into another. When you are in dim light or darkness, as a bonus action, you can magically teleport up to 120 feet to an unoccupied space you can see that is also in dim light or darkness.
-
-### Umbral Form (Level 18)
-
-Starting at 18th level, you can spend 6 sorcery points as a bonus action to magically transform yourself into a shadowy form. In this form, you have resistance to all damage except force and radiant damage, and you can move through other creatures and objects as if they were difficult terrain. You take 5 force damage if you end your turn inside an object.
-
-You remain in this form for 1 minute. It ends early if you are [[conditions#Incapacitated|incapacitated]], if you die, or if you dismiss it as a bonus action.
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Sorcerer xphb shadow magic xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of sorcerer xphb shadow magic xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sorcerer xphb shadow magic xge.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
-## Plot Hooks
-
-- Someone is blackmailing an heir for money
-- Someone is protecting an heir for love
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/location
+#world/world
+#world/setting
+#world/place
+#character/character
+#character/creature
+#character/monster
+#meta/reference

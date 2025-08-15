@@ -72,3 +72,28 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Ambush - Optional]]
 - [[02_Worldbuilding/Places/Keeper of the Past, Elderly Morgan]]
 - [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -185,3 +185,22 @@ Key stop on magic items trade route
 - The authorities needs help finding before the new moon
 - An heirloom has gone missing and war looms
 - Someone is blackmailing a artifact for love
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -216,3 +216,28 @@ Mentioned in The First Prophecy of Stars
 ## References
 
 - [[04_Resources_Assets_Locations_location-city-transportation-guild-masters-transportation-guild-masters.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

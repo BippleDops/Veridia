@@ -1,18 +1,32 @@
 ---
+
 title: Combat Encounter Difficulty XP Thresholds by Character Level
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Combat Encounter Difficulty XP Thresholds by Character Level"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# combat-encounter-difficulty-xp-thresholds-by-character-level
+ # combat-encounter-difficulty-xp-thresholds-by-character-level ---
 
----
+## Description
+
+Detailed description pending.
 title: combat encounter difficulty xp thresholds by character level
 aliases:
 - Combat Encounter Difficulty; XP Thresholds by Character Level
+
 type: note
 tags:
 - research
@@ -21,21 +35,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.840063'
 world: Both
----
 
-# Combat Encounter Difficulty; XP Thresholds by Character Level
-*Source: Dungeon Master's Guide p. 82. Available in the Basic Rules (2014)* 
+--- # Combat Encounter Difficulty; XP Thresholds by Character Level
 
-**XP Thresholds by Character Level**
-
-| Character Level | Easy | Medium | Hard | Deadly |
+*Source: Dungeon Master's Guide p. 82. Available in the Basic Rules (2014)* **XP Thresholds by Character Level** | Character Level | Easy | Medium | Hard | Deadly |
 |-----------------|------|--------|------|--------|
 | 1st | 25 | 50 | 75 | 100 |
 | 2nd | 50 | 100 | 150 | 200 |
@@ -57,46 +68,48 @@ world: Both
 | 18th | 2,100 | 4,200 | 6,300 | 9,500 |
 | 19th | 2,400 | 4,900 | 7,300 | 10,900 |
 | 20th | 2,800 | 5,700 | 8,500 | 12,700 |
-^xp-thresholds-by-character-level
 
-## 🔧 Deep Evaluation Improvements
+^xp-thresholds-by-character-level ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Combat encounter difficulty xp thresholds by character level is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of combat encounter difficulty xp thresholds by character level as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around combat encounter difficulty xp thresholds by character level. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession ## 12_Research Specific Content Contextual improvement based on 12_Research ## Scaling by Party Level
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Combat encounter difficulty xp thresholds by character level is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of combat encounter difficulty xp thresholds by character level as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around combat encounter difficulty xp thresholds by character level.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty
 - **Level 11-15**: Add elite enemies
 - **Level 16-20**: Legendary difficulty
+
+## Notes
+
+*Additional notes*
+
+#mechanics/combat
+#mechanics/rules
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/character
+#gameplay/encounter
+#meta/reference
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

@@ -1,21 +1,23 @@
 ---
+
 title: Explorers Pack Xphb
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-> [!figure] Asset
-![](04_Resources/Assets/Items/item-artifact-explorers-pack-xphb-explorers-pack-xphb.png)
+--- > [!figure] Asset
+![](04_Resources/Assets/Items/item-artifact-explorers-pack-xphb-explorers-pack-xphb.png) # Explorers Pack Xphb ---
 
-# Explorers Pack Xphb
+## Description
 
----
+Detailed description pending.
 title: Explorers Pack Xphb
 aliases:
 - Explorer's Pack
+
 type: note
 tags:
 - both
@@ -26,6 +28,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -34,60 +37,23 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:07.447597+00:00'
 world: Both
----
 
-> [!figure] Item
+--- > [!figure] Item # Explorer's Pack
 
-# Explorer's Pack
-*Adventuring gear*  
+*Adventuring gear* - **Cost**: 10 gp
+- **Weight**: 55.0 lbs. An Explorer's Pack contains the following items: [[Backpack Xphb]], [[Bedroll Xphb]], 2 flasks of [[Oil Xphb]], 10 days of [[rations-xphb (items)]], [[Rope Xphb]], [[Tinderbox Xphb]], 10 [[Torch Xphb]], and [[waterskin-xphb (items)]]. *Source: Player's Handbook (2024) p. 225. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Explorers pack xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of explorers pack xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around explorers pack xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1]]
 
-- **Cost**: 10 gp
-- **Weight**: 55.0 lbs.
-
-An Explorer's Pack contains the following items: [[Backpack Xphb]], [[Bedroll Xphb]], 2 flasks of [[Oil Xphb]], 10 days of [[rations-xphb (items)]], [[Rope Xphb]], [[Tinderbox Xphb]], 10 [[Torch Xphb]], and [[waterskin-xphb (items)]].
-
-*Source: Player's Handbook (2024) p. 225. Available in the SRD and the Free Rules (2024)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Explorers pack xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of explorers pack xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around explorers pack xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## References - [[Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png]]
 
-## References
-
-- [[Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png]]
 - [[Master_Item_Catalog]]
 - [[Barbarian Xphb]]
 - [[barbarian-xphb (classes)]]
 - [[Swamp Encounters Levels 14 Xge]]
 - [[swamp-encounters-levels-14-xge (tables)]]
+
+
+## Notes
+
+*Additional notes*

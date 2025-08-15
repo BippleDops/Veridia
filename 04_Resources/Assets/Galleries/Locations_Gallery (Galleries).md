@@ -6832,3 +6832,28 @@ modified: '2025-01-15'
 
 ## locations_void_1755205559048
 ![](04_Resources/Assets/Locations/locations_void_1755205559048.png)
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

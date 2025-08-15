@@ -108,3 +108,23 @@ Further information about this topic will be developed as the campaign progresse
 - [[Assets Locations Location City Spymaster Crow V1 Spymaster Crow.svg]]
 - [[Assets Symbols Symbol Heraldry Harmonic Mind Contro Harmonic Mind Contro.svg]]
 - [[Assets Symbols Symbol Heraldry the Unnamed Watcher the Unnamed Watcher.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

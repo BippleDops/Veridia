@@ -200,3 +200,18 @@ Ongoing situations affecting Victoria Harbormane:
 
 - [[Bexley]]
 - [[Bexley (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

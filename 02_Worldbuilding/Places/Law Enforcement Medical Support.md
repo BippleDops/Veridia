@@ -266,3 +266,18 @@ Key stop on magic items trade route
 
 - [[Investigate Shadow Surgeons (Criminal_Organizations)]]
 - [[Investigate Shadow Surgeons]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

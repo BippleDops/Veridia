@@ -1,18 +1,32 @@
 ---
+
 title: Magic Item Table G
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Magic Item Table G"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Magic Item Table G
+ # Magic Item Table G ---
 
----
+## Description
+
+Detailed description pending.
 title: Magic Item Table G
 aliases:
 - Magic Item Table G
+
 type: note
 tags:
 - both
@@ -22,26 +36,21 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.495736+00:00'
 world: Both
----
 
-# Magic Item Table G
-*Source: Dungeon Master's Guide p. 144* 
+--- # Magic Item Table G
 
-**Magic Item Table G**
-
-`dice: [](magic-item-table-g.md#^magic-item-table-g)`
-
-| dice: d100 | Magic Item |
+*Source: Dungeon Master's Guide p. 144* **Magic Item Table G**`dice: [](magic-item-table-g.md#^magic-item-table-g)`| dice: d100 | Magic Item |
 |------------|------------|
 | 01-11 | [[2-weapon-xdmg (items)]] |
-| 12-14 | `dice: [](magic-item-table-g.md#^figurine-of-wondrous-power)` |
+| 12-14 |`dice: [](magic-item-table-g.md#^figurine-of-wondrous-power)`|
 | 15 | [[Adamantine Armor Xdmg]] |
 | 16 | [[Adamantine Armor Xdmg]] |
 | 17 | [[Amulet of Health Xdmg]] |
@@ -128,13 +137,8 @@ world: Both
 | 98 | [[2-wand-of-the-war-mage-xdmg (items)]] |
 | 99 | [[wand-of-wonder-xdmg (items)]] |
 | 00 | [[Wings of Flying Xdmg]] |
-^magic-item-table-g
 
-**Figurine of Wondrous Power**
-
-`dice: [](magic-item-table-g.md#^figurine-of-wondrous-power)`
-
-| dice: d8 | Magic Item |
+^magic-item-table-g **Figurine of Wondrous Power**`dice: [](magic-item-table-g.md#^figurine-of-wondrous-power)`| dice: d8 | Magic Item |
 |----------|------------|
 | 01 | [[figurine-of-wondrous-power-bronze-griffon-xdmg|Figurine of wondrous power, bronze griffon]] |
 | 02 | [[figurine-of-wondrous-power-ebony-fly-xdmg (items)]] |
@@ -143,36 +147,19 @@ world: Both
 | 05 | [[figurine-of-wondrous-power-marble-elephant-xdmg|Figurine of wondrous power, marble elephant]] |
 | 06-07 | [[figurine-of-wondrous-power-onyx-dog-xdmg (items)]] |
 | 08 | [[figurine-of-wondrous-power-serpentine-owl-xdmg|Figurine of wondrous power, serpentine owl]] |
-^figurine-of-wondrous-power
 
-## 🔧 Deep Evaluation Improvements
+^figurine-of-wondrous-power ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Magic item table g is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of magic item table g as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around magic item table g. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-*20 targeted improvements identified*
 
-### Connection Improvements
+## Notes
 
-- Add cross-references to related notes
+*Additional notes*
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Magic item table g is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of magic item table g as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around magic item table g.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#resource/item
+#meta/reference

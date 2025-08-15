@@ -596,3 +596,18 @@ Mentioned in The Hidden Prophecy of Depths
 - [[Temporal Navigation]]
 - [[Temporal Navigation (D&D_Statblocks)]]
 - [[The Whispering Expanse (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

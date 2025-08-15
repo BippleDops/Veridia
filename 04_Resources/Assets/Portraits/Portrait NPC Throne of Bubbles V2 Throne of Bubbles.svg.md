@@ -92,3 +92,27 @@ improvements: 20
 - Someone is hunting a witness for power
 - A corpse reveals a betrayal about the cult
 - The authorities needs help finding before the festival
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

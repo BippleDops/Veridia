@@ -257,3 +257,18 @@ Key stop on spices trade route
 - [[Windwright Academy]]
 - [[Abyssos Prime Docks (D&D_References)]]
 - [[Harbor District Customs House (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

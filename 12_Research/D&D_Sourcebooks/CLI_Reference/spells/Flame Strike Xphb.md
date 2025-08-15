@@ -1,18 +1,32 @@
 ---
+
 title: Flame Strike Xphb
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Flame Strike Xphb"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Flame Strike Xphb
+ # Flame Strike Xphb ---
 
----
+## Description
+
+Detailed description pending.
 title: Flame Strike Xphb
 aliases:
 - Flame Strike
+
 type: note
 tags:
 - both
@@ -25,6 +39,7 @@ tags:
 - status/in-progress
 - importance/core
 - ttrpg-cli/compendium/src/5e/xphb
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -34,56 +49,29 @@ classes:
 - Cleric (Light Domain)
 - Paladin (Oath of Devotion)
 - Sorcerer (Divine Soul)
+
 cssclasses: json5e-spell
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:06.628172+00:00'
 world: Both
----
 
-# Flame Strike
-*5th-level, Evocation*  
+--- # Flame Strike
 
-- **Casting time:** 1 Action
+*5th-level, Evocation* - **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S, M (a pinch of sulfur)
-- **Duration:** Instantaneous
+- **Duration:** Instantaneous A vertical column of brilliant fire roars down from above. Each creature in a 10-foot-radius, 40-foot-high [[Area of Effect Xphb]] centered on a point within range makes a Dexterity saving throw, taking`5d6`Fire damage and`5d6`Radiant damage on a failed save or half as much damage on a successful one. **Using a Higher-Level Spell Slot.** The Fire damage and the Radiant damage increase by`d6`for each spell slot level above 5. **Classes**: [[classes]]; [[List Spells Classes Light Domain Xphb]]; [[classes]]; [[classes]]; [[classes]] *Source: Player's Handbook (2024) p. 275. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Flame strike xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of flame strike xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around flame strike xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## References - [[Master_Spell_Compendium]]
 
-A vertical column of brilliant fire roars down from above. Each creature in a 10-foot-radius, 40-foot-high [[Area of Effect Xphb]] centered on a point within range makes a Dexterity saving throw, taking `5d6` Fire damage and `5d6` Radiant damage on a failed save or half as much damage on a successful one.
 
-**Using a Higher-Level Spell Slot.** The Fire damage and the Radiant damage increase by `d6` for each spell slot level above 5.
+## Notes
 
-**Classes**: [[classes]]; [[List Spells Classes Light Domain Xphb]]; [[classes]]; [[classes]]; [[classes]]
+*Additional notes*
 
-*Source: Player's Handbook (2024) p. 275. Available in the SRD and the Free Rules (2024)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Flame strike xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of flame strike xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around flame strike xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## References
-
-- [[Master_Spell_Compendium]]
+#mechanics/rules
+#mechanics/mechanics
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#meta/reference

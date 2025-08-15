@@ -200,3 +200,23 @@ Legends speak of The Order of the Shattered Crown as a nexus where past and pres
 - [[02_Worldbuilding/Places/The Order of the Shattered Crown]]
 
 <!-- enriched: true -->
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

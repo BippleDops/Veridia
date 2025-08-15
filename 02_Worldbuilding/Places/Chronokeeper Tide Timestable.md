@@ -212,3 +212,18 @@ Ongoing situations affecting Chronokeeper Tide Timestable:
 ## References
 
 - [[Temporal Navigation Hazards]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

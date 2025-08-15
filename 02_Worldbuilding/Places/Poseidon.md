@@ -241,3 +241,18 @@ Ongoing situations affecting Poseidon:
 - [[The Depth Plague (D&D_References)]]
 - [[The Greek Pantheon Greek Deities Phb]]
 - [[the-greek-pantheon-greek-deities-phb (tables)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

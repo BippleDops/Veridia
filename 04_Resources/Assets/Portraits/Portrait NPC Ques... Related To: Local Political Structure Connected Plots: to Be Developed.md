@@ -88,3 +88,27 @@ improvements: 20
 - The authorities needs help investigating before the new moon
 - A stranger needs help delivering before winter
 - Someone is hunting a witness for money
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

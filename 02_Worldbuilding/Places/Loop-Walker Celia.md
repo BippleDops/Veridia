@@ -223,3 +223,18 @@ Key stop on textiles trade route
 ## References
 
 - [[The Recursion Cult]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

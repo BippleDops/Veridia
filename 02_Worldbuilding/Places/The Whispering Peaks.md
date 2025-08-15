@@ -154,3 +154,18 @@ This content can be adapted and expanded based on specific campaign needs.
 
 - [[The Order of the Azure Flame (Orders)]]
 - [[The Order of the Azure Flame]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -252,3 +252,18 @@ Key stop on textiles trade route
 - [[The Shadow Harvest]]
 - [[Prophet Nerida Voidgazer (D&D_References)]]
 - [[The Bathyal Palace (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

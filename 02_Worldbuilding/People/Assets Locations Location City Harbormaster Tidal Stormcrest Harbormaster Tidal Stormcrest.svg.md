@@ -229,3 +229,28 @@ Member of House Eagleblood - Trait: prophecy
 ## References
 
 - [[04_Resources_Assets_Symbols_symbol-heraldry-deep-sea-agricultural-research-institut-deep-sea-agricultural-research-institut.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

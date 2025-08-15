@@ -246,3 +246,18 @@ Ongoing situations affecting Magistrate Justice Lawkeeper:
 
 - [[Port Meridian - Market Square]]
 - [[Port Meridian - Market Square (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

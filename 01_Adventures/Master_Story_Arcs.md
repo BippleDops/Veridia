@@ -6,310 +6,218 @@ tags:
 - story-arcs
 - narrative
 - campaign
+
 created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
 status: active
+aliases: ["Master Story Arcs"]
+priority: normal
+category: 01 Adventures
+subcategory: Master Story Arcs.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-#### Major_Branch_6
+ #### Major_Branch_6
+
+## Description
+
+Detailed description pending.
 **Condition**: Alliance formed or broken
 **Path A**: Direct confrontation with antagonist
 **Path B**: Direct confrontation with antagonist
-**Consequences**: Long-term effects on The Circle of Mages
+**Consequences**: Long-term effects on The Circle of Mages #### Major_Branch_7
 
-#### Major_Branch_7
 **Condition**: Discovery of secret information
 **Path A**: Direct confrontation with antagonist
 **Path B**: Racing against time
-**Consequences**: Long-term effects on Merchant's Guild
+**Consequences**: Long-term effects on Merchant's Guild #### Major_Branch_8
 
-#### Major_Branch_8
 **Condition**: Time limit exceeded
 **Path A**: Seeking ancient power for help
 **Path B**: Forming unlikely alliance
-**Consequences**: Long-term effects on The Circle of Mages
+**Consequences**: Long-term effects on The Circle of Mages #### Major_Branch_9
 
-#### Major_Branch_9
 **Condition**: Alliance formed or broken
 **Path A**: Seeking ancient power for help
 **Path B**: Direct confrontation with antagonist
-**Consequences**: Long-term effects on The Crown Authority
+**Consequences**: Long-term effects on The Crown Authority #### Major_Branch_10
 
-#### Major_Branch_10
 **Condition**: Party's reputation with faction
 **Path A**: Diplomatic resolution attempt
 **Path B**: Diplomatic resolution attempt
-**Consequences**: Long-term effects on Shadow Syndicate
+**Consequences**: Long-term effects on Shadow Syndicate #### Cascade_21 1. **Immediate**: City falls
 
-#### Cascade_21
-
-1. **Immediate**: City falls
 2. **Short-term**: Refugees flee
 3. **Long-term**: Reality shifts
-4. **Permanent**: Laws of nature change
+4. **Permanent**: Laws of nature change #### Cascade_22 1. **Immediate**: Portal opens
 
-#### Cascade_22
 
-1. **Immediate**: Portal opens
 2. **Short-term**: Economy collapses
 3. **Long-term**: Empire rises
-4. **Permanent**: Prophecy fulfilled
+4. **Permanent**: Prophecy fulfilled #### Cascade_23 1. **Immediate**: War begins
 
-#### Cascade_23
 
-1. **Immediate**: War begins
-3. **Long-term**: Gods intervene
+3. **Long-term**: Gods intervene #### Cascade_24 2. **Short-term**: Plague spreads #### Cascade_25 4. **Permanent**: World transformed #### Cascade_26 2. **Short-term**: Magic fails
 
-#### Cascade_24
+4. **Permanent**: History rewritten #### Cascade_27 #### Cascade_28 3. **Long-term**: New age begins #### Cascade_29 1. **Immediate**: Hero dies #### Cascade_30 #### Parallel_13
 
-2. **Short-term**: Plague spreads
 
-#### Cascade_25
-
-4. **Permanent**: World transformed
-
-#### Cascade_26
-
-2. **Short-term**: Magic fails
-4. **Permanent**: History rewritten
-
-#### Cascade_27
-
-#### Cascade_28
-
-3. **Long-term**: New age begins
-
-#### Cascade_29
-
-1. **Immediate**: Hero dies
-
-#### Cascade_30
-
-#### Parallel_13
 While the party pursues the main quest:
 - The Resistance mobilizes forces
 - The Oracle executes secret plan
-- Natural phenomenon affects The Void Rift
+- Natural phenomenon affects The Void Rift #### Parallel_14
 
-#### Parallel_14
 - The Resistance mobilizes forces
 - Merchant Prince Gold executes secret plan
-- Natural phenomenon affects Crystal Caverns
+- Natural phenomenon affects Crystal Caverns #### Parallel_15
 
-#### Parallel_15
 - The Circle of Mages mobilizes forces
 - Lord Vex executes secret plan
-- Natural phenomenon affects Windspire Academy
+- Natural phenomenon affects Windspire Academy #### Parallel_16
 
-#### Parallel_16
 - Order of the Flame mobilizes forces
 - The Oracle executes secret plan
-- Natural phenomenon affects Crystal Caverns
+- Natural phenomenon affects Crystal Caverns #### Timer_21
 
-#### Timer_21
 **Deadline**: 16 days
 **Event**: Army arrival
-**Failure Result**: Magic becomes unstable
+**Failure Result**: Magic becomes unstable #### Timer_22
 
-#### Timer_22
 **Deadline**: 29 days
 **Event**: Magical buildup critical
-**Failure Result**: Allies turn against party
+**Failure Result**: Allies turn against party #### Timer_23
 
-#### Timer_23
 **Deadline**: 12 days
 **Event**: Ancient seal weakening
-**Failure Result**: Ancient evil awakens
+**Failure Result**: Ancient evil awakens #### Timer_24
 
-#### Timer_24
 **Deadline**: 21 days
 **Event**: Magical buildup critical
-**Failure Result**: Ancient evil awakens
+**Failure Result**: Ancient evil awakens #### Timer_25
 
-#### Timer_25
 **Deadline**: 29 days
 **Event**: Army arrival
-**Failure Result**: City is destroyed
+**Failure Result**: City is destroyed #### World Event_13 **Type**: Divine Intervention
 
-#### WorldEvent_13
-
-**Type**: Divine Intervention
 **Trigger**: Portal opens unexpectedly
 **Affected Regions**: 9 major locations
 **Duration**: 23 days
-**Consequences**: 
-- Political: Wars end/begin
+**Consequences**: - Political: Wars end/begin
 - Economic: New resources discovered
 - Magical: Spells fail
-- Social: Mass migration
+- Social: Mass migration #### World Event_14 **Type**: Planar Convergence
 
-#### WorldEvent_14
-
-**Type**: Planar Convergence
 **Trigger**: Portal opens unexpectedly
 **Affected Regions**: 7 major locations
 **Duration**: 19 days
-**Consequences**: 
-- Political: Governments fall
+**Consequences**: - Political: Governments fall
 - Economic: Currency collapses
 - Magical: Magic amplified
-- Social: Cultural revolution
+- Social: Cultural revolution #### Ending_8 **Victory Condition**: Defeat the Dark Lord
 
-#### Ending_8
-
-**Victory Condition**: Defeat the Dark Lord
 **Failure Condition**: Party TPK
 **Epilogue**: Bittersweet victory
-**Seeds for Next Campaign**: Ancient evil stirs
+**Seeds for Next Campaign**: Ancient evil stirs ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Props Improvements - List physical props and handouts needed ### Spotlight Improvements - Include spotlight moment for each character class ### Accessibility Improvements - Include content warnings and safety tools ### Backup Improvements - Add 'What if players skip this?' contingency ### Variants Improvements - Add horror, intrigue, and comedy tone variants ### Level_Range Improvements - Provide scaling for different level ranges ### Session_Zero Improvements - Add session zero integration questions ### Soundtrack Improvements - Suggest music/ambiance for each scene ### Art Improvements - Add AI art prompts for key scenes ## DM Notes *Private notes for campaign integration:*
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Combat Improvements
-
-- Add encounter scaling table for parties of 3-6 players, levels 1-20
-
-### Rewards Improvements
-
-- Create treasure parcels for each major encounter
-
-### Structure Improvements
-
-- Add three-act structure with rising action
-
-### Choices Improvements
-
-- Add meaningful decision points with consequences
-
-### Roleplay Improvements
-
-- Include ethical challenges without clear answers
-
-### Props Improvements
-
-- List physical props and handouts needed
-
-### Spotlight Improvements
-
-- Include spotlight moment for each character class
-
-### Accessibility Improvements
-
-- Include content warnings and safety tools
-
-### Backup Improvements
-
-- Add 'What if players skip this?' contingency
-
-### Variants Improvements
-
-- Add horror, intrigue, and comedy tone variants
-
-### Level_Range Improvements
-
-- Provide scaling for different level ranges
-
-### Session_Zero Improvements
-
-- Add session zero integration questions
-
-### Soundtrack Improvements
-
-- Suggest music/ambiance for each scene
-
-### Art Improvements
-
-- Add AI art prompts for key scenes
-
-## DM Notes
-
-*Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes
+- Connections to overarching campaign themes ## Plot Hooks - Strange disappearances suggest a portal
 
-## Plot Hooks
-
-- Strange disappearances suggest a portal
 - Strange accidents suggest a curse
 - Strange dreams suggest ancient magic
-- A shipment has gone missing and evil awakens
+- A shipment has gone missing and evil awakens ## Critical Decisions 1. **The Prisoner's Dilemma**: Save the hostages OR pursue the villain
 
-## Critical Decisions
-
-1. **The Prisoner's Dilemma**: Save the hostages OR pursue the villain
 2. **The Devil's Bargain**: Accept dark power OR fight with disadvantage
-3. **The Succession Choice**: Support the heir OR the usurper
+3. **The Succession Choice**: Support the heir OR the usurper ## Background
 
-## Background
-*[Adventure setup and context]*
 
-### What Happened Before
-- *[Recent events leading to this adventure]*
+*[Adventure setup and context]* ### What Happened Before
 
-### Current Situation  
-- *[What's happening now]*
+- *[Recent events leading to this adventure]* ### Current Situation - *[What's happening now]* ### The Stakes
 
-### The Stakes
-- *[What happens if PCs don't act]*
+- *[What happens if PCs don't act]* ## Adventure Hooks
 
-## Adventure Hooks
-*[Ways to get PCs involved]*
+*[Ways to get PCs involved]* ### Direct Approach
 
-### Direct Approach
-- *[Straightforward hook]*
+- *[Straightforward hook]* ### Indirect Approach
 
-### Indirect Approach
-- *[Subtle introduction]*
+- *[Subtle introduction]* ### Emergency Hook
 
-### Emergency Hook
-- *[Urgent situation]*
+- *[Urgent situation]* ## Key NPCs
 
-## Key NPCs
-*[Important characters in this adventure]*
+*[Important characters in this adventure]* ### Allies
 
-### Allies
-- *[Helpful NPCs]*
+- *[Helpful NPCs]* ### Antagonists
 
-### Antagonists
-- *[Opposition NPCs]*
+- *[Opposition NPCs]* ### Neutral Parties
 
-### Neutral Parties
-- *[Information sources]*
+- *[Information sources]* ## Locations
 
-## Locations
-*[Important places in this adventure]*
+*[Important places in this adventure]* ### Starting Location
 
-### Starting Location
-- *[Where adventure begins]*
+- *[Where adventure begins]* ### Key Sites
 
-### Key Sites
-- *[Major locations to visit]*
+- *[Major locations to visit]* ### Optional Areas
 
-### Optional Areas
-- *[Side locations]*
+- *[Side locations]* ## Scaling
 
-## Scaling
-*[How to adjust for different party levels]*
+*[How to adjust for different party levels]* ### Lower Level Parties
 
-### Lower Level Parties
-- *[Adjustments for weaker groups]*
+- *[Adjustments for weaker groups]* ### Higher Level Parties
 
-### Higher Level Parties
-- *[Adjustments for stronger groups]*
+- *[Adjustments for stronger groups]* ### Large/Small Parties
 
-### Large/Small Parties
-- *[Adjustments for party size]*
+- *[Adjustments for party size]* ## See Also
 
-## See Also
 - Related content
 - Similar topics
-- Connected elements
+- Connected elements ## DM Tips
 
-## DM Tips
 > 💡 **Running This Content**: Advice for game masters
+
 > Adjust difficulty based on party composition
+
+## Notes
+
+*Additional notes*
+
+#mechanics/combat
+#story/plot
+#story/narrative
+#story/story
+#story/background
+#world/location
+#world/world
+#world/place
+#character/npc
+#character/character
+#gameplay/session
+#gameplay/encounter
+#gameplay/adventure
+#gameplay/quest
+#resource/treasure
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

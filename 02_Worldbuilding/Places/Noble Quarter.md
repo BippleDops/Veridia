@@ -717,3 +717,8 @@ Ongoing situations affecting Noble Quarter:
 - [[Temple Ward]]
 - [[The Noble Quarter Market]]
 - [[Temple Ward (D&D_Statblocks)]]
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures

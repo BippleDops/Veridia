@@ -1,15 +1,18 @@
 ---
+
 title: silvered-weapon-xdmg (items)
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# silvered-weapon-xdmg
+--- # silvered-weapon-xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: silvered weapon xdmg
 aliases:
 - Silvered Weapon
@@ -66,6 +69,7 @@ aliases:
 - Silvered Whip
 - Silvered Wooden Staff
 - Silvered Yklwa
+
 type: note
 tags:
 - research
@@ -75,6 +79,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -83,17 +88,11 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-12T23:37:36.570775'
 world: Both
----
 
-> [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-silvered-weapon-xdmg-silvered-weapon-xdmg.svg)
+--- > [!figure] Item
+![](04_Resources/Assets/Items/item-artifact-silvered-weapon-xdmg-silvered-weapon-xdmg.svg) # Silvered Weapon
 
-# Silvered Weapon
-*Common*  
-
-An alchemical process has bonded silver to this magic weapon. When you score a [[Critical Hit Xphb]] with it against a creature that is shape-shifted, the weapon deals one additional die of damage.
-
-**Variants**:
+*Common* An alchemical process has bonded silver to this magic weapon. When you score a [[Critical Hit Xphb]] with it against a creature that is shape-shifted, the weapon deals one additional die of damage. **Variants**:
 - [Silvered Antimatter Rifle](#Silvered%20Antimatter%20Rifle)
 - [Silvered Automatic Rifle](#Silvered%20Automatic%20Rifle)
 - [Silvered Battleaxe](#Silvered%20Battleaxe)
@@ -146,63 +145,21 @@ An alchemical process has bonded silver to this magic weapon. When you score a [
 - [Silvered Warhammer](#Silvered%20Warhammer)
 - [Silvered Whip](#Silvered%20Whip)
 - [Silvered Wooden Staff](#Silvered%20Wooden%20Staff)
-- [Silvered Yklwa](#Silvered%20Yklwa)
+- [Silvered Yklwa](#Silvered%20Yklwa) ### Silvered Yklwa - **Damage**: 1d8 piercing
 
-### Silvered Yklwa
-
-- **Damage**: 1d8 piercing
 - **Range**: 10/30
 - **Properties**: [[item properties#Silvered%20Weapons|Silvered]], [[item properties#Thrown|Thrown]]
-- **Weight**: 3.0 lbs.
+- **Weight**: 3.0 lbs. *Source: Dungeon Master's Guide (2024) p. 304* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Silvered weapon xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of silvered weapon xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around silvered weapon xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes ## Plot Hooks - Strange dreams suggest ancient magic
 
-*Source: Dungeon Master's Guide (2024) p. 304*
+- Strange disappearances suggest a portal ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[item properties#Silvered%20Weapons]]
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Silvered weapon xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of silvered weapon xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around silvered weapon xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
-## Plot Hooks
-
-- Strange dreams suggest ancient magic
-- Strange disappearances suggest a portal
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[item properties#Silvered%20Weapons]]
 - [[Master_Item_Catalog]]
 - [[Armaments Common Xdmg]]
 - [[Random Magic Items Armaments]]
 - [[armaments-common-xdmg (tables)]]
 - [[random-magic-items-armaments (tables)]]
+
+
+## Notes
+
+*Additional notes*

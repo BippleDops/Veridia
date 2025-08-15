@@ -169,3 +169,22 @@ Key locations marked:
 - A map reveals ancient history about this place
 - Strange disappearances suggest ancient magic
 - The authorities needs help finding before dawn
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -1,18 +1,32 @@
 ---
+
 title: Beyond 1st Level Character Advancement Phb
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Beyond 1st Level Character Advancement Phb"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Beyond 1st Level Character Advancement Phb
+ # Beyond 1st Level Character Advancement Phb ---
 
----
+## Description
+
+Detailed description pending.
 title: Beyond 1st Level Character Advancement Phb
 aliases:
 - Beyond 1st Level; Character Advancement
+
 type: note
 tags:
 - both
@@ -22,21 +36,18 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.882546+00:00'
 world: Both
----
 
-# Beyond 1st Level; Character Advancement
-*Source: Player's Handbook p. 15. Available in the SRD and the Basic Rules (2014)* 
+--- # Beyond 1st Level; Character Advancement
 
-**Character Advancement**
-
-| Experience Points | Level | Proficiency Bonus |
+*Source: Player's Handbook p. 15. Available in the SRD and the Basic Rules (2014)* **Character Advancement** | Experience Points | Level | Proficiency Bonus |
 |-------------------|-------|-------------------|
 | 0 | 1 | +2 |
 | 300 | 2 | +2 |
@@ -58,49 +69,45 @@ world: Both
 | 265,000 | 18 | +6 |
 | 305,000 | 19 | +6 |
 | 355,000 | 20 | +6 |
-^character-advancement
 
-## 🔧 Deep Evaluation Improvements
+^character-advancement ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Beyond 1st level character advancement phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of beyond 1st level character advancement phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around beyond 1st level character advancement phb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is searching for a artifact for love
 
-*20 targeted improvements identified*
+- A map reveals the truth about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Character_Advancement_Quick_Ref]]
 
-### Connection Improvements
 
-- Add cross-references to related notes
+## Notes
 
-### Enhancement Improvements
+*Additional notes*
 
-- Add 12_Research-specific enhancement
+#mechanics/rules
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/character
+#meta/reference
 
-## Player-Facing Summary
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
 
-Beyond 1st level character advancement phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## Daily Routine
+- Morning activities
+- Evening habits
 
-Legends speak of beyond 1st level character advancement phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around beyond 1st level character advancement phb.
 
-## DM Notes
+## Possessions
+- Personal items
+- Valuable objects
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Related
+## Combat Tactics
+- Preferred strategies
+- Special moves
 
-*Links to related content will be added here.*
 
-## Plot Hooks
-
-- Someone is searching for a artifact for love
-- A map reveals the truth about the cult
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Character_Advancement_Quick_Ref]]
+## Secrets
+- Hidden knowledge
+- Personal mysteries

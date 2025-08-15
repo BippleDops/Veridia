@@ -1,18 +1,32 @@
 ---
+
 title: monsters-by-habitat-forest-monsters-xmm (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["monsters-by-habitat-forest-monsters-xmm (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# monsters-by-habitat-forest-monsters-xmm
+ # monsters-by-habitat-forest-monsters-xmm ---
 
----
+## Description
+
+Detailed description pending.
 title: monsters by habitat forest monsters xmm
 aliases:
 - Monsters by Habitat; Forest Monsters
+
 type: note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
@@ -21,21 +35,18 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.282000'
 world: Both
----
 
-# Monsters by Habitat; Forest Monsters
-*Source: Monster Manual (2024) p. 375* 
+--- # Monsters by Habitat; Forest Monsters
 
-**Forest Monsters**
-
-| CR | Monsters |
+*Source: Monster Manual (2024) p. 375* **Forest Monsters** | CR | Monsters |
 |----|----------|
 | 0 | [[awakened-shrub-xmm|Awakened Shrub]], [[Baboon Xmm]], [[giant-badger-xmm (beast)]], [[Giant Bat Xmm]], [[cat-xmm (beast)]], [[deer xmm#^statblock]], [[frog-xmm (beast)]], [[Blood Hawk Xmm]], [[hyena-xmm (beast)]], [[lizard-xmm (beast)]], [[Giant Owl Xmm]], [[Wererat Xmm]], [[phase-spider-xmm (monstrosity)]], [[giant-weasel-xmm (beast)]] |
 | 1/8 | [[blood-hawk-xmm|Blood Hawk]], [[flying-snake-xmm|Flying Snake]], [[giant-rat-xmm|Giant Rat]], [[giant-weasel-xmm|Giant Weasel]], [[Goblin Minion Xmm]], [[kobold-warrior-xmm|Kobold Warrior]], [[Mastiff Xmm]], [[Stirge Xmm]], [[twig-blight-xmm|Twig Blight]], [[venomous-snake-xmm|Venomous Snake]] |
@@ -56,49 +67,21 @@ world: Both
 | 17 | [[adult-gold-dragon-xmm|Adult Gold Dragon]] |
 | 22 | [[ancient-green-dragon-xmm|Ancient Green Dragon]] |
 | 24 | [[ancient-gold-dragon-xmm|Ancient Gold Dragon]] |
-^forest-monsters
 
-## 🔧 Deep Evaluation Improvements
+^forest-monsters ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Monsters by habitat forest monsters xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of monsters by habitat forest monsters xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monsters by habitat forest monsters xmm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A letter reveals a betrayal about the government
 
-*20 targeted improvements identified*
+- Strange accidents suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-### Connection Improvements
 
-- Add cross-references to related notes
+## Notes
 
-### Enhancement Improvements
+*Additional notes*
 
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Monsters by habitat forest monsters xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of monsters by habitat forest monsters xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monsters by habitat forest monsters xmm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A letter reveals a betrayal about the government
-- Strange accidents suggest a conspiracy
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#character/monster
+#meta/reference

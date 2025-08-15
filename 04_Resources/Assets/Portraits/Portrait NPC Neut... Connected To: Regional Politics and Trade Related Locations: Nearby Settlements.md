@@ -88,3 +88,27 @@ improvements: 20
 - A merchant needs help investigating before winter
 - A stranger needs help finding before winter
 - A noble needs help delivering before winter
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

@@ -224,3 +224,18 @@ Key stop on textiles trade route
 
 - [[The Foundation Depths]]
 - [[The Foundation Depths (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

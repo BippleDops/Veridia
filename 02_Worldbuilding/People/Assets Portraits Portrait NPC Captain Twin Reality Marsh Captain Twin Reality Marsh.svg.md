@@ -214,3 +214,23 @@ Member of House Eagleblood - Trait: prophecy
 
 - [[04_Resources_Assets_Symbols_symbol-heraldry-depth-cardinal-wisdom-voidseeke-depth-cardinal-wisdom-voidseeke.svg]]
 - [[04_Resources_Assets_Symbols_symbol-heraldry-the-umbral-exchange-the-umbral-exchange.svg]]
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

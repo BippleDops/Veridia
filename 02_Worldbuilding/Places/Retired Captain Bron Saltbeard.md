@@ -229,3 +229,18 @@ Key stop on spices trade route
 
 - [[Pressure's End]]
 - [[Pressure's End (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

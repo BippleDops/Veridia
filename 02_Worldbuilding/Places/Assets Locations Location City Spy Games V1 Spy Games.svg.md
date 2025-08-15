@@ -176,3 +176,22 @@ Key locations marked:
 - A map reveals the truth about the government
 - Someone is blackmailing an heir for money
 - A noble needs help investigating before winter
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

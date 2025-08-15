@@ -463,3 +463,18 @@ Key stop on metals trade route
 
 - [[The Original Palace (D&D_References)]]
 - [[Find the Grief Bomb (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

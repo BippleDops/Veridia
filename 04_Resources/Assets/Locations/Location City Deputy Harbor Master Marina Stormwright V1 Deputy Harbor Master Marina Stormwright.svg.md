@@ -59,3 +59,28 @@ Recent developments have brought new attention to Location City Deputy Harbor Ma
 
 ## DM Notes
 *Location City Deputy Harbor Master Marina Stormwright V1 Deputy Harbor Master Marina Stormwright.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

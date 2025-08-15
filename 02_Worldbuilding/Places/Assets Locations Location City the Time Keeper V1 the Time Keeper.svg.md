@@ -176,3 +176,22 @@ Key locations marked:
 - Strange sightings suggest ancient magic
 - A noble needs help investigating before the festival
 - A journal reveals a conspiracy about this place
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -228,3 +228,18 @@ Ongoing situations affecting Biological Enhancement Procedures:
 - [[Underwater Breathing]]
 - [[Doctor Coral Shapeshift]]
 - [[Doctor Coral Shapeshift (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

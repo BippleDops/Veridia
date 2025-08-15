@@ -142,3 +142,18 @@ This content can be adapted and expanded based on specific campaign needs.
 
 - [[Aquabyssos - Session 01 - The Drowning Welcome]]
 - [[Find the Grief Bomb (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

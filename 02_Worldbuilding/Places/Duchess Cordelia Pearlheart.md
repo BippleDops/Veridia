@@ -198,3 +198,18 @@ Ongoing situations affecting Duchess Cordelia Pearlheart:
 - [[Economic Warfare and Trade Sanctions]]
 - [[Major Trading Companies (D&D_References)]]
 - [[Noble Quarter (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

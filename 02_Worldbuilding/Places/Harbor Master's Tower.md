@@ -203,3 +203,18 @@ Mentioned in The Second Prophecy of Winds
 - [[Abyssos Prime Docks]]
 - [[Harbor Master Luna Freedrift (Places)]]
 - [[Harbor Master Luna Freedrift (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

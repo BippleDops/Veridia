@@ -1,18 +1,32 @@
 ---
+
 title: Random Buildings Tavern Name Generator
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Random Buildings Tavern Name Generator"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Random Buildings Tavern Name Generator
+ # Random Buildings Tavern Name Generator ---
 
----
+## Description
+
+Detailed description pending.
 title: Random Buildings Tavern Name Generator
 aliases:
 - Random Buildings; Tavern Name Generator
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.429215+00:00'
 world: Both
----
 
-# Random Buildings; Tavern Name Generator
-*Source: Dungeon Master's Guide p. 113* 
+--- # Random Buildings; Tavern Name Generator
 
-**Tavern Name Generator**
-
-`dice: [](random-buildings-tavern-name-generator.md#^tavern-name-generator)`
-
-| dice: d20 | First Part | Second Part |
+*Source: Dungeon Master's Guide p. 113* **Tavern Name Generator**`dice: [](random-buildings-tavern-name-generator.md#^tavern-name-generator)`| dice: d20 | First Part | Second Part |
 |-----------|------------|-------------|
 | 1 | The Silver | Eel |
 | 2 | The Golden | Dolphin |
@@ -60,39 +69,21 @@ world: Both
 | 18 | The Barking | Dog |
 | 19 | The Black | Spider |
 | 20 | The Gleaming | Star |
-^tavern-name-generator
 
-## 🔧 Deep Evaluation Improvements
+^tavern-name-generator ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Random buildings tavern name generator is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of random buildings tavern name generator as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random buildings tavern name generator. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - An heirloom has gone missing and chaos spreads
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Random buildings tavern name generator is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of random buildings tavern name generator as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random buildings tavern name generator.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- An heirloom has gone missing and chaos spreads
 - Strange disappearances suggest a portal
 - Strange accidents suggest a portal
 - A map reveals ancient history about the government
+
+## Notes
+
+*Additional notes*
+
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

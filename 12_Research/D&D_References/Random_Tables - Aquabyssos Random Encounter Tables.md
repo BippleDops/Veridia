@@ -1,16 +1,29 @@
 ---
+
 title: Random_Tables - Aquabyssos Random Encounter Tables
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Random Tables - Aquabyssos Random Encounter Tables"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D References
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Random_Tables - Aquabyssos Random Encounter Tables
+ # Random_Tables - Aquabyssos Random Encounter Tables ---
 
----
-title: Random Tables   Aquabyssos Random Encounter Tables
+## Description
+
+Detailed description pending.
+title: Random Tables Aquabyssos Random Encounter Tables
 type: Lore
 tags:
 - lore
@@ -20,6 +33,7 @@ tags:
 - research
 - active
 - reference
+
 created: '2025-08-07'
 modified: '2025-08-14'
 status: active
@@ -27,51 +41,24 @@ system: D&D 5e
 campaign: Aquabyssos
 world: Aquabyssos
 updated: '2025-08-13T01:18:37.213178+00:00'
----
 
-## 🔧 Deep Evaluation Improvements
+--- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Depth-Based Encounters for the Drowned Realm > *"In Aquabyssos, every depth has its own flavor of horror."* ## How to Use These Tables 1. **Check Frequency**: Roll for encounters based on travel speed and depth
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Depth-Based Encounters for the Drowned Realm
-
-> *"In Aquabyssos, every depth has its own flavor of horror."*
-
-## How to Use These Tables
-
-1. **Check Frequency**: Roll for encounters based on travel speed and depth
 2. **Roll d100**: Determine the base encounter
 3. **Add Complications**: Roll on complication tables for added complexity
 4. **Scale Difficulty**: Adjust CR based on party level and condition
-5. **Environmental Effects**: Apply depth-specific mechanics
+5. **Environmental Effects**: Apply depth-specific mechanics ### Encounter Frequency | Activity | Check Frequency | Roll d20 |
 
-### Encounter Frequency
 
-| Activity | Check Frequency | Roll d20 |
+
 |----------|----------------|----------|
 | Traveling (fast) | Every hour | 17+ = encounter |
 | Traveling (normal) | Every 2 hours | 15+ = encounter |
 | Traveling (cautious) | Every 4 hours | 19+ = encounter |
 | Resting | Every 4 hours | 18+ = encounter |
-| Exploring | Every 30 minutes | 13+ = encounter |
+| Exploring | Every 30 minutes | 13+ = encounter | --- ## Surface & Shallows (0-500ft) *Still touched by sunlight, but wrong* ### d100 Encounter Table | d100 | Encounter | Details |
 
----
 
-## Surface & Shallows (0-500ft)
-
-*Still touched by sunlight, but wrong*
-
-### d100 Encounter Table
-
-| d100 | Encounter | Details |
 |------|-----------|---------|
 | 01-05 | **Crystal Plague Refugees** | 2d6 commoners fleeing transformation, may have early symptoms |
 | 06-10 | **Tidecaller Patrol** | 1d4+1 guards investigating dimensional bleeds |
@@ -93,25 +80,17 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 | 86-90 | **Smuggler's Cache** | Hidden goods worth 2d100 gp |
 | 91-95 | **Portal Glimpse** | Brief view of Aethermoor, no crossing |
 | 96-99 | **Shadow Separator** | Hunting for independent shadows |
-| 00 | **Whale Singer Passing** | Massive creature, reality bends nearby |
+| 00 | **Whale Singer Passing** | Massive creature, reality bends nearby | ### Complication Roll (d6)
 
-### Complication Roll (d6)
 1. During a memory tide surge
 2. Another group arrives mid-encounter
 3. Shadow begins acting independently
 4. Crystal formations provide cover/hazard
 5. Encounter is illusion/memory echo
-6. NPCs mistake party for someone else
+6. NPCs mistake party for someone else --- ## Upper Depths (501-2,500ft) *Where civilization clings to fading light* ### d100 Encounter Table | 01-04 | **Parliament Courier** | Carrying sensitive documents, pursued |
 
----
 
-## Upper Depths (501-2,500ft)
 
-*Where civilization clings to fading light*
-
-### d100 Encounter Table
-
-| 01-04 | **Parliament Courier** | Carrying sensitive documents, pursued |
 | 05-08 | **Shadow Market Dealers** | Selling shadow restraints and memories |
 | 09-12 | **Depth Adapted Patrol** | 1d4+1 veterans with pressure immunity |
 | 13-16 | **Memory Shepherds** | 1d3 shepherds harvesting memories |
@@ -136,9 +115,8 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 | 89-92 | **Abandoned Outpost** | Recent evacuation, something scared them |
 | 93-95 | **Temporal Ambassador** | From future/past with warning |
 | 96-98 | **Shadow Revolution** | Shadows attempting overthrow |
-| 99-00 | **Reality Crack** | Hole to another campaign's reality |
+| 99-00 | **Reality Crack** | Hole to another campaign's reality | ### Environmental Effects (d8)
 
-### Environmental Effects (d8)
 1. Bioluminescent algae bloom (bright light)
 2. Void current (lose direction for 1 hour)
 3. Pressure surge (CON save DC 15)
@@ -146,17 +124,10 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 5. Dead god muscle spasm (earthquake)
 6. Temporal flux (time moves differently)
 7. Shadow density increase (shadows gain +2 autonomy)
-8. Emotional current (feel overwhelming specific emotion)
+8. Emotional current (feel overwhelming specific emotion) --- ## Middle Depths (2,501-5,000ft) *Where humanity becomes negotiable* ### d100 Encounter Table | 01-03 | **The Forgotten Ones** | 1d3 antimemetic entities |
 
----
 
-## Middle Depths (2,501-5,000ft)
 
-*Where humanity becomes negotiable*
-
-### d100 Encounter Table
-
-| 01-03 | **The Forgotten Ones** | 1d3 antimemetic entities |
 | 04-06 | **Infinite Garden Overflow** | Recursive plants growing |
 | 07-09 | **Suicide Bridge Pilgrims** | Seeking conscious architecture |
 | 10-12 | **Shadow Parliament Session** | Shadows debating independence |
@@ -190,25 +161,16 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 | 94-95 | **Recursion Cult** | Seeking infinite depth |
 | 96-97 | **Divine Dream** | God-corpse nightmare |
 | 98-99 | **The Singular** | Being from merged timelines |
-| 00 | **Depth Mother Fragment** | Piece of awakening consciousness |
+| 00 | **Depth Mother Fragment** | Piece of awakening consciousness | ### Adaptation Check (d10)
 
-### Adaptation Check (d10)
 1-2: Gain 1d4 Adaptation Points instantly
 3-4: Shadow acts independently for 1 hour
 5-6: Temporary gills/scales manifest
 7-8: Forget surface memories briefly
 9: Communicate with shadows freely
-10: Immune to pressure for 24 hours
+10: Immune to pressure for 24 hours --- ## Lower Depths (5,001-10,000ft) *Where identity becomes optional* ### d100 Encounter Table | 01-02 | **Antibody Titan** | Defending god-corpse |
 
----
 
-## Lower Depths (5,001-10,000ft)
-
-*Where identity becomes optional*
-
-### d100 Encounter Table
-
-| 01-02 | **Antibody Titan** | Defending god-corpse |
 | 03-05 | **The Infinite Gardener** | At this recursion level |
 | 06-08 | **Suicide Bridge Consciousness** | The bridge speaks |
 | 09-11 | **Complete Shadow Separation** | Witness replacement |
@@ -242,12 +204,10 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 | 93-94 | **Memory Apocalypse** | All memories dying |
 | 95-96 | **Shadow Godling** | Ascended shadow being |
 | 97-98 | **The Deep Truth** | Reality's nature revealed |
-| 99-00 | **Depth Mother Contact** | Direct communication |
+| 99-00 | **Depth Mother Contact** | Direct communication | ### Existential Effects (d12)
 
-### Existential Effects (d12)
 1. Question if you exist
-2. Forget your name temporarily  
-3. Share consciousness with party
+2. Forget your name temporarily 3. Share consciousness with party
 4. Experience ego death
 5. Become your shadow briefly
 6. Exist in multiple timelines
@@ -256,17 +216,10 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 9. Merge with environment
 10. Transcend physical form
 11. Understand the cosmic joke
-12. Achieve temporary enlightenment
+12. Achieve temporary enlightenment --- ## The Abyss (10,000ft+) *Where existence is theoretical* ### d100 Encounter Table | 01-10 | **The Depth Mother** | Fragment of her consciousness |
 
----
 
-## The Abyss (10,000ft+)
 
-*Where existence is theoretical*
-
-### d100 Encounter Table
-
-| 01-10 | **The Depth Mother** | Fragment of her consciousness |
 | 11-20 | **Primordial Entities** | Pre-existence beings |
 | 21-30 | **Living Concepts** | Ideas made flesh |
 | 31-40 | **The First Shadow** | Original darkness |
@@ -276,21 +229,16 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 | 71-80 | **Existence Engine** | What makes things real |
 | 81-90 | **The Final Memory** | Last thought before void |
 | 91-99 | **The Question** | Why anything exists |
-| 00 | **The Answer** | Understanding ends you |
+| 00 | **The Answer** | Understanding ends you | ### Transformation Result (d20)
 
-### Transformation Result (d20)
 1-5: Complete transformation to depth being
 6-10: Shadow achieves independence permanently
 11-14: Merge with the environment
 15-17: Become living memory
 18-19: Achieve non-existence while aware
-20: Transcend current reality
+20: Transcend current reality --- ### Memory Tide Encounters (d20) | d20 | Memory Effect |
 
----
 
-### Memory Tide Encounters (d20)
-
-| d20 | Memory Effect |
 |-----|---------------|
 | 1-2 | Gain skill proficiency for 24 hours |
 | 3-4 | Lose most recent memory |
@@ -302,11 +250,9 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 | 15-16 | Share memories with enemy |
 | 17-18 | Remember alternate timeline |
 | 19 | Forget how to breathe air |
-| 20 | Remember the truth about reality |
+| 20 | Remember the truth about reality | ### Shadow Independence Events (d20) | d20 | Shadow Behavior |
 
-### Shadow Independence Events (d20)
 
-| d20 | Shadow Behavior |
 |-----|----------------|
 | 1-2 | Shadow hides from light |
 | 3-4 | Shadow attacks owner |
@@ -318,11 +264,9 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 | 15-16 | Shadow demands equality |
 | 17-18 | Shadow sacrifices itself |
 | 19 | Shadow achieves full independence |
-| 20 | Shadow and owner merge as equals |
+| 20 | Shadow and owner merge as equals | ### Divine Corpse Encounters (d12) | d12 | God-Flesh Event |
 
-### Divine Corpse Encounters (d12)
 
-| d12 | God-Flesh Event |
 |-----|-----------------|
 | 1 | Muscle spasm (earthquake) |
 | 2 | Blood vessel rupture (flood) |
@@ -335,94 +279,57 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 | 9 | Tissue regeneration attempt |
 | 10 | Divine dream projection |
 | 11 | God-voice speaking |
-| 12 | Awakening tremor |
+| 12 | Awakening tremor | --- ### By Campaign Type **Parliament of Shadows**: +10 to rolls involving shadows
 
----
-
-### By Campaign Type
-
-**Parliament of Shadows**: +10 to rolls involving shadows
 **Infinite Recursion**: Reroll and take both results
 **Leviathan Prophecy**: +15 to divine corpse encounters
 **Memory Wars**: All encounters affect memories
-**Depth Mother's Dream**: Reality glitches on any roll
+**Depth Mother's Dream**: Reality glitches on any roll ### By Party Condition | Condition | Modifier |
 
-### By Party Condition
 
-| Condition | Modifier |
 |-----------|----------|
 | High Adaptation (50+ AP) | +20 to roll |
 | Shadow Rebellion | Roll twice, shadows choose |
 | Memory Compromised | Forget encounter after |
 | Depth Sick | Disadvantage on all rolls |
-| Temporally Displaced | Encounter from wrong time |
+| Temporally Displaced | Encounter from wrong time | ### By Time of Day | Time | Effect |
 
-### By Time of Day
 
-| Time | Effect |
 |------|--------|
 | Dawn | Shadows weakest |
 | Day | Normal encounters |
 | Dusk | Shadows strengthening |
 | Night | +10 to shadow encounters |
 | Memory Tide | Roll on special table |
-| Void Hour | Reality most unstable |
+| Void Hour | Reality most unstable | --- ## Quick Encounter Generator **Roll 3d6:**
 
----
-
-## Quick Encounter Generator
-
-**Roll 3d6:**
 - **First d6**: Encounter category (1-2: Social, 3-4: Combat, 5-6: Environmental)
 - **Second d6**: Complexity (1-2: Simple, 3-4: Standard, 5-6: Complex)
-- **Third d6**: Twist (1: None, 2: Shadow involved, 3: Memory affected, 4: Timeline shifted, 5: Recursion element, 6: Roll twice)
+- **Third d6**: Twist (1: None, 2: Shadow involved, 3: Memory affected, 4: Timeline shifted, 5: Recursion element, 6: Roll twice) --- *"Every encounter in Aquabyssos changes you. The question isn't whether you'll survive, but what you'll become."*
 
----
+— Explorer's Warning ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*
 
-*"Every encounter in Aquabyssos changes you. The question isn't whether you'll survive, but what you'll become."*
-— Explorer's Warning
-
-## Related
-
-*Links to related content will be added here.*
-
-## DM Notes
-
-*Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes
+- Connections to overarching campaign themes ## Plot Hooks - An heirloom has gone missing and war looms
 
-## Plot Hooks
-
-- An heirloom has gone missing and war looms
 - A map reveals a conspiracy about the cult
 - Strange dreams suggest ancient magic
-- A stranger needs help stealing before dawn
+- A stranger needs help stealing before dawn ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## Scaling by Party Level
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty
 - **Level 11-15**: Add elite enemies
 - **Level 16-20**: Legendary difficulty
-## Action Economy
 
-### On Your Turn (PHB p.189)
+## Action Economy ### On Your Turn (PHB p.189)
+
 - **Movement**: Up to your speed
 - **Action**: One action from available options
 - **Bonus Action**: If you have an ability that uses it
-- **Free Actions**: Interact with one object, speak
+- **Free Actions**: Interact with one object, speak ### Actions Available (PHB p.192)
 
-### Actions Available (PHB p.192)
 - **Attack**: Make one attack (more with Extra Attack)
 - **Cast a Spell**: Cast time of 1 action
 - **Dash**: Double movement
@@ -432,13 +339,32 @@ Contextual improvement based on 12_Research
 - **Hide**: Stealth check to hide
 - **Ready**: Prepare action with trigger
 - **Search**: Perception or Investigation
-- **Use an Object**: Interact with object
+- **Use an Object**: Interact with object ### Reactions (PHB p.190)
 
-### Reactions (PHB p.190)
 - One reaction per round
 - Resets at start of your turn
-- Common: Opportunity attacks, Counterspell, Shield
+- Common: Opportunity attacks, Counterspell, Shield ### Bonus Actions
 
-### Bonus Actions
 - Only if feature/spell grants one
 - Common: Off-hand attack, Cunning Action, Healing Word
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/combat
+#mechanics/mechanics
+#mechanics/system
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/place
+#character/npc
+#character/creature
+#gameplay/session
+#gameplay/encounter
+#gameplay/quest
+#resource/loot
+#meta/reference

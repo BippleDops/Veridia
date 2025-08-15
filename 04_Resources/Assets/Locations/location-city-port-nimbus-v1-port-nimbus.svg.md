@@ -57,3 +57,28 @@ Recent developments have brought new attention to location-city-port-nimbus-v1-p
 
 ## DM Notes
 *location-city-port-nimbus-v1-port-nimbus.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

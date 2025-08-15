@@ -367,3 +367,18 @@ Ongoing situations affecting Temple Guardian Marcus the Drowned:
 - [[Discover the Singers Beyond (D&D_Statblocks)]]
 - [[Memory Merchant Zephyr Mindweaver (D&D_Statblocks)]]
 - [[The Lock Saboteur (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

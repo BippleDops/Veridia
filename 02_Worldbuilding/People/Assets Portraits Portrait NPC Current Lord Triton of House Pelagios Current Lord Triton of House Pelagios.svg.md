@@ -205,3 +205,23 @@ Member of House Lionblood - Trait: divine blood
 ## References
 
 - [[Assets Locations Location City Reef Guard Captain Torrent Shellborn V1 Reef Guard Captain Torrent Shellborn.svg]]
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

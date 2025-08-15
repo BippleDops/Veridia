@@ -197,3 +197,23 @@ Legends speak of Nereidios as a nexus where past and present converge. Locals de
 <!-- enriched: true -->
 - [[02_Worldbuilding/Lore/Vorthak]]
 - [[02_Worldbuilding/Places/Memoriam]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

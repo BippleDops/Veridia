@@ -246,3 +246,23 @@ This NPC can serve multiple roles:
 
 - [[04_Resources_Assets_Portraits_portrait-npc-captain-cornelius-deepwater-captain-cornelius-deepwater.svg]]
 - [[04_Resources_Assets_Locations_location-city-forge-master-korax-hammerdeep-forge-master-korax-hammerdeep.svg]]
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

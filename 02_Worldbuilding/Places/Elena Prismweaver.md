@@ -202,3 +202,18 @@ Ongoing situations affecting Elena Prismweaver:
 
 - [[The Crystalline Foundry]]
 - [[The Crystalline Foundry (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -301,3 +301,18 @@ Ongoing situations affecting The Crystal Merchant:
 
 - [[Old Valdris]]
 - [[Old Valdris (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

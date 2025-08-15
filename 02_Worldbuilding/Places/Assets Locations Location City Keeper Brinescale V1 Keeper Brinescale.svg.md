@@ -185,3 +185,22 @@ Key stop on spices trade route
 - A map reveals ancient history about a local noble
 - A journal reveals a betrayal about the cult
 - The authorities needs help investigating before the new moon
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -210,3 +210,23 @@ Mentioned in The Hidden Prophecy of Shadows
 ## References
 
 - [[04_Resources_Assets_Portraits_portrait-npc-lady-seraphina-goldleaf-lady-seraphina-goldleaf.svg]]
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

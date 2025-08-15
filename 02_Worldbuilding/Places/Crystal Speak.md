@@ -247,3 +247,18 @@ Key stop on magic items trade route
 
 - [[Crystal Gardens]]
 - [[Crystal Gardens (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

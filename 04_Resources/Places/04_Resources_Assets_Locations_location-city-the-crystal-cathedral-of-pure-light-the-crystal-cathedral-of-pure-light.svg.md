@@ -106,3 +106,23 @@ Further information about this topic will be developed as the campaign progresse
 ## References
 
 - [[Assets Locations Location City Master Finn Liquidlight V1 Master Finn Liquidlight.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

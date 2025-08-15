@@ -201,3 +201,23 @@ Mentioned in The First Prophecy of Depths
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -215,3 +215,28 @@ Mentioned in The Hidden Prophecy of Stars
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -1,18 +1,32 @@
 ---
+
 title: rogue-xphb-thief-xphb (classes)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["rogue-xphb-thief-xphb (classes)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# rogue-xphb-thief-xphb
+ # rogue-xphb-thief-xphb ---
 
----
+## Description
+
+Detailed description pending.
 title: rogue xphb thief xphb
 aliases:
 - Thief
+
 type: note
 tags:
 - research
@@ -22,22 +36,20 @@ tags:
 - status/in-progress
 - ttrpg-cli/subclass/rogue/thief
 - ttrpg-cli/compendium/src/5e/xphb
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-class
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:34.418208'
 world: Both
----
 
-# Thief
-*[[Rogue Xphb Swashbuckler Xge]]: Rogue Subclass*  
-*Source: Player's Handbook (2024) p. 137. Available in the SRD and the Free Rules (2024)*  
+--- # Thief
 
-> [!tldr] Class and Feature Progression
-> 
-> LevelPBFeatures
+*[[Rogue Xphb Swashbuckler Xge]]: Rogue Subclass* *Source: Player's Handbook (2024) p. 137. Available in the SRD and the Free Rules (2024)* > [!tldr] Class and Feature Progression
+
+> > Level PBFeatures
 > 1st+2
 > 2nd+2
 > 3rd+2Thief
@@ -57,104 +69,21 @@ world: Both
 > 17th+6Thief's Reflexes
 > 18th+6
 > 19th+6
-> 20th+6
+> 20th+6 ^class-progression ### Thief (Level 3) *Hunt for Treasure as a Classic Adventurer* A mix of burglar, treasure hunter, and explorer, you are the epitome of an adventurer. In addition to improving your agility and stealth, you gain abilities useful for delving into ruins and getting maximum benefit from the magic items you find there. ### Fast Hands (Level 3) As a [[Action Xphb]], you can do one of the following. #### Sleight of Hand Make a Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check to pick a lock or disarm a trap with [[thieves-tools-xphb (items)]] or to pick a pocket. #### Use an Object Take the [[actions#Utilize|Utilize]] action, or take the [[actions#Magic|Magic]] action to use a magic item that requires that action. ### Second-Story Work (Level 3) You've trained to get into especially hard-to-reach places, granting you these benefits. #### Climber You gain a [[Climb Speed Xphb]] equal to your [[Fly Speed Xphb]]. #### Jumper You can determine your jump distance using your Dexterity rather than your Strength. ### Supreme Sneak (Level 9) You gain the following Cunning Strike option. #### Stealth Attack (Cost: 1d6) If you have the [[actions#Hide|Hide]] action's [[conditions#Invisible|Invisible]] condition, this attack doesn't end that condition on you if you end the turn behind [[Cover Xphb]] or [[Cover Xphb]]. ### Use Magic Device (Level 13) You've learned how to maximize use of magic items, granting you the following benefits. #### Attunement You can attune to up to four magic items at once. #### Charges Whenever you use a magic item property that expends charges, roll`d6`. On a roll of 6, you use the property without expending the charges. #### Scrolls You can use any [[spell-scroll-xdmg (items)]], using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence ([[skills#Arcana|Arcana]]) check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates. ### Thief's Reflexes (Level 17) You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal [[Initiative Xphb]] and your second turn at your [[Initiative Xphb]] minus 10. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Rogue xphb thief xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of rogue xphb thief xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rogue xphb thief xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-^class-progression
 
-### Thief (Level 3)
+## Notes
 
-*Hunt for Treasure as a Classic Adventurer*
+*Additional notes*
 
-A mix of burglar, treasure hunter, and explorer, you are the epitome of an adventurer. In addition to improving your agility and stealth, you gain abilities useful for delving into ruins and getting maximum benefit from the magic items you find there.
-
-### Fast Hands (Level 3)
-
-As a [[Action Xphb]], you can do one of the following.
-
-#### Sleight of Hand
-
-Make a Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check to pick a lock or disarm a trap with [[thieves-tools-xphb (items)]] or to pick a pocket.
-
-#### Use an Object
-
-Take the [[actions#Utilize|Utilize]] action, or take the [[actions#Magic|Magic]] action to use a magic item that requires that action.
-
-### Second-Story Work (Level 3)
-
-You've trained to get into especially hard-to-reach places, granting you these benefits.
-
-#### Climber
-
-You gain a [[Climb Speed Xphb]] equal to your [[Fly Speed Xphb]].
-
-#### Jumper
-
-You can determine your jump distance using your Dexterity rather than your Strength.
-
-### Supreme Sneak (Level 9)
-
-You gain the following Cunning Strike option.
-
-#### Stealth Attack (Cost: 1d6)
-
-If you have the [[actions#Hide|Hide]] action's [[conditions#Invisible|Invisible]] condition, this attack doesn't end that condition on you if you end the turn behind [[Cover Xphb]] or [[Cover Xphb]].
-
-### Use Magic Device (Level 13)
-
-You've learned how to maximize use of magic items, granting you the following benefits.
-
-#### Attunement
-
-You can attune to up to four magic items at once.
-
-#### Charges
-
-Whenever you use a magic item property that expends charges, roll `d6`. On a roll of 6, you use the property without expending the charges.
-
-#### Scrolls
-
-You can use any [[spell-scroll-xdmg (items)]], using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence ([[skills#Arcana|Arcana]]) check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
-
-### Thief's Reflexes (Level 17)
-
-You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal [[Initiative Xphb]] and your second turn at your [[Initiative Xphb]] minus 10.
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Rogue xphb thief xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of rogue xphb thief xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rogue xphb thief xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#mechanics/combat
+#mechanics/rules
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#gameplay/adventure
+#resource/item
+#resource/treasure
+#meta/reference

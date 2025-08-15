@@ -93,3 +93,27 @@ improvements: 20
 - Someone is blackmailing a witness for love
 - A journal reveals a betrayal about a local noble
 - Strange accidents suggest a curse
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

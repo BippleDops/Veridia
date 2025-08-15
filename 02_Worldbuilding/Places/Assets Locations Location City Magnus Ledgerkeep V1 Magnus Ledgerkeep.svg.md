@@ -177,3 +177,22 @@ Key stop on spices trade route
 
 - A merchant needs help stealing before the festival
 - Someone is protecting a witness for power
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

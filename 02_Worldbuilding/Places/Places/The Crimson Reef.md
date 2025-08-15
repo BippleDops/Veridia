@@ -119,3 +119,18 @@ Recent developments have brought new attention to The Crimson Reef, creating opp
 ## References
 
 - [[02_Worldbuilding_Places_The_Crimson_Reef]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

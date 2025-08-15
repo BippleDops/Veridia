@@ -231,3 +231,18 @@ Ongoing situations affecting The Crystal Cathedral:
 
 - [[Assets Locations Location City the Crystal Cathedral of Pure Light V1 the Crystal Cathedral of Pure Light.svg]]
 - [[The Crystal Cathedral of Pure Light]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

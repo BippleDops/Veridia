@@ -901,3 +901,18 @@ Key stop on textiles trade route
 - [[Ambush Point (D&D_Statblocks)]]
 - [[The Maw of Darkness (D&D_Statblocks)]]
 - [[The Void Touched Depths (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

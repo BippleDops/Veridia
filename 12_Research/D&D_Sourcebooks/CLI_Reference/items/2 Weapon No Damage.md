@@ -1,18 +1,32 @@
 ---
+
 title: 2 Weapon No Damage
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["2 Weapon No Damage"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# 2 Weapon No Damage
+ # 2 Weapon No Damage ---
 
----
+## Description
+
+Detailed description pending.
 title: 2 Weapon No Damage
 aliases:
 - +2 Weapon (no damage)
+
 type: note
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
@@ -23,6 +37,7 @@ tags:
 - note
 - content/item
 - status/in-progress
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
@@ -31,67 +46,23 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:06.732229+00:00'
 world: Both
----
 
-> [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-2-weapon-no-damage-2-weapon-no-damage.svg)
+--- > [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-2-weapon-no-damage-2-weapon-no-damage.svg) # +2 Weapon (no damage)
 
-# +2 Weapon (no damage)
-*Major, rare*  
+*Major, rare* You have a +2 bonus to attack rolls made with this weapon. *Source: Dungeon Master's Guide p. 213* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary 2 weapon no damage is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 2 weapon no damage as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 2 weapon no damage. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality ## Prophecy Connection Mentioned in The Hidden Prophecy of Shadows ## Plot Hooks - Strange disappearances suggest a portal
 
-You have a +2 bonus to attack rolls made with this weapon.
+- A prisoner has gone missing and war looms ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-*Source: Dungeon Master's Guide p. 213*
 
-## 🔧 Deep Evaluation Improvements
+## Notes
 
-*20 targeted improvements identified*
+*Additional notes*
 
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-2 weapon no damage is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of 2 weapon no damage as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 2 weapon no damage.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
-## Prophecy Connection
-
-Mentioned in The Hidden Prophecy of Shadows
-
-## Plot Hooks
-
-- Strange disappearances suggest a portal
-- A prisoner has gone missing and war looms
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Master_Item_Catalog]]
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/item
+#meta/reference

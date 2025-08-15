@@ -89,3 +89,27 @@ improvements: 20
 - A merchant needs help investigating before dawn
 - A corpse reveals a conspiracy about the government
 - A corpse reveals ancient history about this place
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

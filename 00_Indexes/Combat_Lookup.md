@@ -1,18 +1,17 @@
----
-
-title: Combat_Lookup
+--- title: Combat_Lookup
 type: note
 tags:
 - combat
-- note
-created: '2025-01-15'
+- note created: '2025-01-15'
 modified: '2025-01-15'
 status: active
----
-
-# Combat_Lookup
-
----
+aliases: ["Combat Lookup"]
+priority: normal
+category: 00 Indexes
+subcategory: Combat Lookup.Md
+related: []
+cssclass: standard
+publish: false --- # Combat_Lookup --- ## Description {#description} Detailed description pending.
 title: Combat Lookup
 type: search-tool
 tags:
@@ -20,72 +19,30 @@ tags:
 - tool
 - reference
 - active
-- search
-created: 2025-08-14
-modified: '2025-08-14'
----
-
-# Combat Lookup
-
-> Quick combat reference searches
-
-## Search Operators
-
-- `AND` - Both terms required
-- `OR` - Either term
-- `NOT` or `-` - Exclude term
-- `*` - Wildcard
-- `""` - Exact phrase
-
----
-*Search reference tool*
-
-## Related
-
-*Links to related content will be added here.*
-
-## DM Notes
-
-*Private notes for campaign integration:*
-- Can be adapted to fit current story needs
+- search created: 2025-08-14
+modified: '2025-08-14' --- # Combat Lookup > Quick combat reference searches ## Search Operators -`AND`- Both terms required -`OR`- Either term
+-`NOT`or`-`- Exclude term
+-`*`- Wildcard
+-`""`- Exact phrase --- *Search reference tool* ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:* - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes
-
-## Alternate Descriptions
-- **First Impression**: Initial appearance
+- Connections to overarching campaign themes ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects
-
-## Scaling by Party Level
-- **Level 1-4**: Reduce enemies
+- **Hidden Details**: Secret aspects ## Scaling by Party Level - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty
 - **Level 11-15**: Add elite enemies
-- **Level 16-20**: Legendary difficulty
-
-## Random Table
-| d6 | Result |
+- **Level 16-20**: Legendary difficulty ## Random Table | d6 | Result |
 |----|--------|
-| 1  | Option A |
-| 2  | Option B |
-| 3  | Option C |
-| 4  | Option D |
-| 5  | Option E |
-| 6  | Option F |
-
-## DM Tips
-> 💡 **Running This Content**: Advice for game masters
-> Adjust difficulty based on party composition
-## Action Economy
-
-### On Your Turn (PHB p.189)
-- **Movement**: Up to your speed
+| 1 | Option A |
+| 2 | Option B |
+| 3 | Option C |
+| 4 | Option D |
+| 5 | Option E |
+| 6 | Option F | ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition
+## Action Economy ### On Your Turn (PHB p.189) {#action-economy-###-on-your-turn-(phb-p.189)} - **Movement**: Up to your speed
 - **Action**: One action from available options
 - **Bonus Action**: If you have an ability that uses it
-- **Free Actions**: Interact with one object, speak
-
-### Actions Available (PHB p.192)
-- **Attack**: Make one attack (more with Extra Attack)
+- **Free Actions**: Interact with one object, speak ### Actions Available (PHB p.192) - **Attack**: Make one attack (more with Extra Attack)
 - **Cast a Spell**: Cast time of 1 action
 - **Dash**: Double movement
 - **Disengage**: No opportunity attacks
@@ -94,13 +51,10 @@ modified: '2025-08-14'
 - **Hide**: Stealth check to hide
 - **Ready**: Prepare action with trigger
 - **Search**: Perception or Investigation
-- **Use an Object**: Interact with object
-
-### Reactions (PHB p.190)
-- One reaction per round
+- **Use an Object**: Interact with object ### Reactions (PHB p.190) - One reaction per round
 - Resets at start of your turn
-- Common: Opportunity attacks, Counterspell, Shield
-
-### Bonus Actions
-- Only if feature/spell grants one
-- Common: Off-hand attack, Cunning Action, Healing Word
+- Common: Opportunity attacks, Counterspell, Shield ### Bonus Actions - Only if feature/spell grants one
+- Common: Off-hand attack, Cunning Action, Healing Word ## Notes {#notes} *Additional notes* #mechanics/combat
+#story/story
+#meta/index
+#meta/reference

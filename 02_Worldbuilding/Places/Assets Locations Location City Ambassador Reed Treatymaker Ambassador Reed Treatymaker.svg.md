@@ -177,3 +177,22 @@ Key locations marked:
 - A corpse reveals a betrayal about the cult
 - An heirloom has gone missing and chaos spreads
 - A corpse reveals a betrayal about a local noble
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

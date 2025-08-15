@@ -179,3 +179,22 @@ Key locations marked:
 - Someone is blackmailing information for money
 - Strange disappearances suggest a curse
 - A map reveals a betrayal about the cult
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

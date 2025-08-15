@@ -212,3 +212,18 @@ Key stop on spices trade route
 - [[Abyssos Prime Docks]]
 - [[The Azure Coast]]
 - [[Abyssos Prime Docks (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

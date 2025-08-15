@@ -205,3 +205,23 @@ This NPC can serve multiple roles:
 
 - [[04_Resources_Assets_Symbols_symbol-heraldry-the-shadow-crystal-synthesis-the-shadow-crystal-synthesis.png]]
 - [[04_Resources_Assets_Locations_location-city-the-drowned-embassy-v1-the-drowned-embassy.svg]]
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

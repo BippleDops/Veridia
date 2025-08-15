@@ -1,18 +1,32 @@
 ---
+
 title: halfling-names-male-xge (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["halfling-names-male-xge (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# halfling-names-male-xge
+ # halfling-names-male-xge ---
 
----
+## Description
+
+Detailed description pending.
 title: halfling names male xge
 aliases:
 - "Halfling Names \u2013 Male"
+
 type: note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
@@ -21,23 +35,18 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.408690'
 world: Both
----
 
-# Halfling Names – Male
-*Source: Xanathar's Guide to Everything p. 179* 
+--- # Halfling Names – Male
 
-**Halfling Names – Male**
-
-`dice: [](halfling-names-male-xge.md#^halfling-names-male)`
-
-| dice: d100 | Name |
+*Source: Xanathar's Guide to Everything p. 179* **Halfling Names – Male**`dice: [](halfling-names-male-xge.md#^halfling-names-male)`| dice: d100 | Name |
 |------------|------|
 | 01-02 | Alton |
 | 03-04 | Ander |
@@ -89,45 +98,20 @@ world: Both
 | 95-96 | Wendel |
 | 97-98 | Wenner |
 | 99-00 | Wes |
-^halfling-names-male
 
-## 🔧 Deep Evaluation Improvements
+^halfling-names-male ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Halfling names male xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of halfling names male xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around halfling names male xge. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A document has gone missing and chaos spreads
 
-*20 targeted improvements identified*
+- A corpse reveals the truth about a local noble ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-### Connection Improvements
 
-- Add cross-references to related notes
+## Notes
 
-### Enhancement Improvements
+*Additional notes*
 
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Halfling names male xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of halfling names male xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around halfling names male xge.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A document has gone missing and chaos spreads
-- A corpse reveals the truth about a local noble
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

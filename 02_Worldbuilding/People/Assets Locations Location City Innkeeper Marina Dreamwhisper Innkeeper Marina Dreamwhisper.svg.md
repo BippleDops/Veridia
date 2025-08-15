@@ -201,3 +201,28 @@ This NPC can serve multiple roles:
 ## References
 
 - [[Assets Portraits Portrait NPC Captain Morgrim Lastvessel Captain Morgrim Lastvessel.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

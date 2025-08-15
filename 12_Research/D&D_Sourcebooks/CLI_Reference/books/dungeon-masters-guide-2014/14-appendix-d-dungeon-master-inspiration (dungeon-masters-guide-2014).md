@@ -1,18 +1,22 @@
 ---
+
 title: 14-appendix-d-dungeon-master-inspiration (dungeon-masters-guide-2014)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# 14-appendix-d-dungeon-master-inspiration
+--- # 14-appendix-d-dungeon-master-inspiration ---
 
----
+## Description
+
+Detailed description pending.
 title: 14 appendix d dungeon master inspiration
 aliases:
 - Appendix D: Dungeon Master Inspiration
+
 type: note
 tags:
 - research
@@ -21,23 +25,19 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:34.830104'
 world: Both
----
 
-# Appendix D: Dungeon Master Inspiration
-*Source: Dungeon Master's Guide (2014), p. 316* 
+--- # Appendix D: Dungeon Master Inspiration
 
-Here are several inspiring works that can help you become a better storyteller, writer, performer, and mapmaker. This is by no means an exhaustive list, but a collection of titles picked out by playtesters and the Dungeons & Dragons creative team. For more inspirational reading, see the Appendices in the Player's Handbook.
+*Source: Dungeon Master's Guide (2014), p. 316* Here are several inspiring works that can help you become a better storyteller, writer, performer, and mapmaker. This is by no means an exhaustive list, but a collection of titles picked out by playtesters and the Dungeons & Dragons creative team. For more inspirational reading, see the Appendices in the Player's Handbook. > [!note] > > **Atlas Games.**, *Once Upon a Time: The Storytelling Card Game.*,
 
-> [!note] 
-> 
-> **Atlas Games.**, *Once Upon a Time: The Storytelling Card Game.*,
 > **Bernhardt, William.**, *Creating Character: Bringing Your Story to Life.*
 > *Perfecting Plot: Charting the Hero's Journey.*
 > *Story Structure: The Key to Successful Fiction.*
@@ -62,10 +62,10 @@ Here are several inspiring works that can help you become a better storyteller, 
 > **Lee, Alan & David Day.**, *Castles.*,
 > **Macaulay, David.**, *Castle.*,
 > **Malory, Sir Thomas.**, *Le Morte d'Arthur.*,
-> **McKee, Robert.**, *Story: Substance, Structure, Style, and the Principles of Screenwriting.*,
+> **Mc Kee, Robert.**, *Story: Substance, Structure, Style, and the Principles of Screenwriting.*,
 > **Mortimer, Ian.**, *The Time Traveler's Guide to Medieval England.*,
 > **O'Connor, Paul Ryan, ed.**, *Grimtooth's Traps.*,
-> **PennyPress.**, *Variety Puzzles and Games series.*,
+> **Penny Press.**, *Variety Puzzles and Games series.*,
 > **Peterson, Jon.**, *Playing at the World.*,
 > **Robbins, Ben.**, *Microscope.*,
 > **Schell, Jesse.**, *Game Design: A Book of Lenses.*,
@@ -78,40 +78,9 @@ Here are several inspiring works that can help you become a better storyteller, 
 > **Walmsley, Graham.**, *Play Unsafe: How Improvisation Can Change the Way You Roleplay.*,
 > **Wilford, John Noble.**, *The Mapmakers.*,
 > **Writers Digest.**, *The Writer's Complete Fantasy Reference.*
-^3b1
+^3b1 ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary 14 appendix d dungeon master inspiration is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 14 appendix d dungeon master inspiration as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 14 appendix d dungeon master inspiration. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil ## Prophecy Connection Mentioned in The Hidden Prophecy of Stars
 
-## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+## Notes
 
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-14 appendix d dungeon master inspiration is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of 14 appendix d dungeon master inspiration as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 14 appendix d dungeon master inspiration.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
-## Prophecy Connection
-
-Mentioned in The Hidden Prophecy of Stars
+*Additional notes*

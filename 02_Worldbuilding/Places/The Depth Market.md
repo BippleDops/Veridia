@@ -847,3 +847,18 @@ Key stop on spices trade route
 - [[Void Currents]]
 - [[The Sinking Atoll (D&D_References)]]
 - [[Void Currents (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

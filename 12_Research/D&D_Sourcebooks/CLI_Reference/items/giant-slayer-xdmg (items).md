@@ -1,15 +1,18 @@
 ---
+
 title: giant-slayer-xdmg (items)
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# giant-slayer-xdmg
+--- # giant-slayer-xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: giant slayer xdmg
 aliases:
 - Giant Slayer
@@ -66,6 +69,7 @@ aliases:
 - Giant Slayer Whip
 - Giant Slayer Wooden Staff
 - Giant Slayer Yklwa
+
 type: note
 tags:
 - research
@@ -75,6 +79,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -83,17 +88,10 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-12T23:37:36.924093'
 world: Both
----
 
-# Giant Slayer
-*Rare*  
-![](/03_Mechanics/CLI/items/img/giant-slayer.webp#right)
+--- # Giant Slayer
 
-You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.
-
-When you hit a Giant with this weapon, the Giant takes an extra `2d6` damage of the weapon's type and must succeed on a DC 15 Strength saving throw or have the [[conditions#prone|Prone]] condition.
-
-**Variants**:
+*Rare* ![](/03_Mechanics/CLI/items/img/giant-slayer.webp#right) You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. When you hit a Giant with this weapon, the Giant takes an extra`2d6`damage of the weapon's type and must succeed on a DC 15 Strength saving throw or have the [[conditions#prone|Prone]] condition. **Variants**:
 - [Giant Slayer Antimatter Rifle](#Giant%20Slayer%20Antimatter%20Rifle)
 - [Giant Slayer Automatic Rifle](#Giant%20Slayer%20Automatic%20Rifle)
 - [Giant Slayer Battleaxe](#Giant%20Slayer%20Battleaxe)
@@ -146,56 +144,17 @@ When you hit a Giant with this weapon, the Giant takes an extra `2d6` damage of 
 - [Giant Slayer Warhammer](#Giant%20Slayer%20Warhammer)
 - [Giant Slayer Whip](#Giant%20Slayer%20Whip)
 - [Giant Slayer Wooden Staff](#Giant%20Slayer%20Wooden%20Staff)
-- [Giant Slayer Yklwa](#Giant%20Slayer%20Yklwa)
+- [Giant Slayer Yklwa](#Giant%20Slayer%20Yklwa) ### Giant Slayer Yklwa - **Damage**: 1d8 piercing
 
-### Giant Slayer Yklwa
-
-- **Damage**: 1d8 piercing
 - **Range**: 10/30
 - **Properties**: [[item properties#Thrown|Thrown]]
-- **Weight**: 3.0 lbs.
+- **Weight**: 3.0 lbs. *Source: Dungeon Master's Guide (2024) p. 264. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Giant slayer xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of giant slayer xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around giant slayer xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is blackmailing an heir for revenge
 
-*Source: Dungeon Master's Guide (2024) p. 264. Available in the SRD and the Free Rules (2024)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Giant slayer xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of giant slayer xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around giant slayer xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Someone is blackmailing an heir for revenge
 - A merchant needs help stealing before the new moon
 - A journal reveals the truth about the cult
-- Someone is hunting an heir for money
+- Someone is hunting an heir for money ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+*Additional notes*

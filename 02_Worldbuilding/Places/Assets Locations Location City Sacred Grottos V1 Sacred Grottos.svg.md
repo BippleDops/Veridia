@@ -180,3 +180,22 @@ Key locations marked:
 - A stranger needs help delivering before winter
 - A journal reveals a betrayal about this place
 - A prisoner has gone missing and evil awakens
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

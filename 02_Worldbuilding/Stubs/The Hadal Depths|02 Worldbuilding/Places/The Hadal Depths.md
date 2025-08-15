@@ -57,3 +57,28 @@ The Hadal Depths is a notable location in the campaign world.
 - [[02_Worldbuilding/Regions/Region_Map]]
 - [[01_Adventures/Quest_Log]]
 - [[00_Indexes/MOCs/Locations_MOC]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

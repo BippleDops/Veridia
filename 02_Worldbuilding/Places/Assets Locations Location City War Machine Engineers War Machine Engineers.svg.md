@@ -187,3 +187,22 @@ Key stop on magic items trade route
 - Someone is protecting a witness for money
 - A stranger needs help delivering before the new moon
 - A document has gone missing and truth emerges
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

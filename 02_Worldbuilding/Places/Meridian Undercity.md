@@ -119,3 +119,18 @@ Recent developments have brought new attention to Meridian Undercity, creating o
 ## References
 
 - [[Shard_Locations (D&D_Sourcebooks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

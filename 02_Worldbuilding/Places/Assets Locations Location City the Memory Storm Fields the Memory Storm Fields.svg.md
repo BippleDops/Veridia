@@ -179,3 +179,22 @@ Key locations marked:
 - A merchant needs help finding before dawn
 - Strange accidents suggest ancient magic
 - Someone is searching for information for power
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

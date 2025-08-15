@@ -136,3 +136,18 @@ Requires champions for trial by combat
 
 ---
 **Navigation**: [[INDEX|🏠 Home]] | [[Npc|👥 NPCs]] | [[INDEX|📚 Index]]
+
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves

@@ -217,3 +217,27 @@ Adapt as needed for:
 
 ---
 *Tags*: [[#General]] #worldbuilding #07_player_resources/character_options/character_bonds
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

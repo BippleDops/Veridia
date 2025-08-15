@@ -77,3 +77,27 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Contingencies
 - If players go off-script
 - Alternative paths
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

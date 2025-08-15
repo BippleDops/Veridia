@@ -1,18 +1,32 @@
 ---
+
 title: Light Xphb
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Light Xphb"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Light Xphb
+ # Light Xphb ---
 
----
+## Description
+
+Detailed description pending.
 title: Light Xphb
 aliases:
 - Light
+
 type: note
 tags:
 - both
@@ -25,6 +39,7 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -39,73 +54,22 @@ classes:
 - Warlock (Celestial Patron)
 - Wizard
 - Wizard (Evoker)
+
 cssclasses: json5e-spell
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:06.227889+00:00'
 world: Both
----
 
-# Light
-*cantrip, Evocation*  
+--- # Light
 
-- **Casting time:** 1 Action
+*cantrip, Evocation* - **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** V, M (a firefly or phosphorescent moss)
-- **Duration:** 1 hour
+- **Duration:** 1 hour You touch one Large or smaller object that isn't being worn or carried by someone else. Until the spell ends, the object sheds [[Light Xphb]] in a 20-foot radius and [[Light Xphb]] for an additional 20 feet. The light can be colored as you like. Covering the object with something opaque blocks the light. The spell ends if you cast it again. **Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]] *Source: Player's Handbook (2024) p. 292. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Light xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of light xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around light xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange sightings suggest a conspiracy
 
-You touch one Large or smaller object that isn't being worn or carried by someone else. Until the spell ends, the object sheds [[Light Xphb]] in a 20-foot radius and [[Light Xphb]] for an additional 20 feet. The light can be colored as you like.
-
-Covering the object with something opaque blocks the light. The spell ends if you cast it again.
-
-**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
-
-*Source: Player's Handbook (2024) p. 292. Available in the SRD and the Free Rules (2024)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Light xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of light xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around light xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Strange sightings suggest a conspiracy
 - Strange dreams suggest a portal
-- A stranger needs help finding before the festival
+- A stranger needs help finding before the festival ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Spell_Compendium]]
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Master_Spell_Compendium]]
 - [[Silverquill Student Scc]]
 - [[silverquill-student-scc (backgrounds)]]
 - [[Cloaker Xmm]]
@@ -261,3 +225,21 @@ Contextual improvement based on 12_Research
 - [[fireball-fungus-xdmg (traps-hazards)]]
 - [[Apparatus of Kwalish Xdmg (vehicles)]]
 - [[apparatus-of-kwalish-xdmg (vehicles)]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#mechanics/mechanics
+#story/plot
+#story/story
+#story/lore
+#story/background
+#world/world
+#world/setting
+#gameplay/encounter
+#resource/item
+#resource/equipment
+#meta/reference

@@ -1,18 +1,32 @@
 ---
+
 title: Enspelled Staff Level 6 Xdmg
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Enspelled Staff Level 6 Xdmg"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Enspelled Staff Level 6 Xdmg
+ # Enspelled Staff Level 6 Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Enspelled Staff Level 6 Xdmg
 aliases:
 - Enspelled Staff (Level 6)
+
 type: note
 tags:
 - both
@@ -24,6 +38,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
@@ -32,85 +47,37 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:06.859462+00:00'
 world: Both
----
 
-> [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-enspelled-staff-level-6-xdmg-enspelled-staff-level-6-xdmg.svg)
+--- > [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-enspelled-staff-level-6-xdmg-enspelled-staff-level-6-xdmg.svg) # Enspelled Staff (Level 6)
 
-# Enspelled Staff (Level 6)
-*Staff, weapon, legendary (requires attunement by a Spellcaster)*  
-
-- **Damage**:
-  - One-handed: 1d6 bludgeoning
-  - Two-handed: 1d8 bludgeoning
+*Staff, weapon, legendary (requires attunement by a Spellcaster)* - **Damage**: - One-handed: 1d6 bludgeoning - Two-handed: 1d8 bludgeoning
 - **Properties**: [[item properties#Versatile|Versatile]]
-- **Weight**: 4.0 lbs.
+- **Weight**: 4.0 lbs. Bound into this staff is a level 6 spell. The spell is determined when the staff is created and can be of any school of magic. The staff has 6 charges and regains`d6`expended charges daily at dawn. While holding the staff, you can expend 1 charge to cast its spell. If you expend the staff 's last charge, roll`d20`. On a 1, the staff loses its properties and becomes a nonmagical [[Quarterstaff Xphb]]. The spell's saving throw DC is 17, and its attack bonus is`+9`. *Source: Dungeon Master's Guide (2024) p. 258* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Enspelled staff level 6 xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of enspelled staff level 6 xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around enspelled staff level 6 xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A corpse reveals the truth about the cult
 
-Bound into this staff is a level 6 spell. The spell is determined when the staff is created and can be of any school of magic. The staff has 6 charges and regains `d6` expended charges daily at dawn. While holding the staff, you can expend 1 charge to cast its spell. If you expend the staff 's last charge, roll `d20`. On a 1, the staff loses its properties and becomes a nonmagical [[Quarterstaff Xphb]].
+- Someone is blackmailing an heir for money ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## Spell Components Detail
 
-The spell's saving throw DC is 17, and its attack bonus is `+9`.
-
-*Source: Dungeon Master's Guide (2024) p. 258*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Enspelled staff level 6 xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of enspelled staff level 6 xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around enspelled staff level 6 xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A corpse reveals the truth about the cult
-- Someone is blackmailing an heir for money
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
-- **Material**: Required items
+- **Material**: Required items ## Common Uses
 
-## Common Uses
 - Typical applications
-- Creative uses
+- Creative uses ## Counterspell Information
 
-## Counterspell Information
 - How to counter
-- Difficulty class
+- Difficulty class ## References - [[Master_Item_Catalog]]
 
-## References
-
-- [[Master_Item_Catalog]]
 - [[Master_Spell_Compendium]]
+
+
+## Notes
+
+*Additional notes*
+
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/item
+#meta/reference

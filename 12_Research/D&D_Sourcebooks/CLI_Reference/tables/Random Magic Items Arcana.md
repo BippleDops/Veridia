@@ -1,18 +1,32 @@
 ---
+
 title: Random Magic Items Arcana
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Random Magic Items Arcana"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Random Magic Items Arcana
+ # Random Magic Items Arcana ---
 
----
+## Description
+
+Detailed description pending.
 title: Random Magic Items Arcana
 aliases:
 - Random Magic Items - Arcana
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.681058+00:00'
 world: Both
----
 
-# Random Magic Items - Arcana
-*Source: Dungeon Master's Guide (2024) p. 326* 
+--- # Random Magic Items - Arcana
 
-**Arcana - Common**
-
-`dice: [](random-magic-items-arcana.md#^arcana-common)`
-
-| dice: 1d100 | Item |
+*Source: Dungeon Master's Guide (2024) p. 326* **Arcana - Common**`dice: [](random-magic-items-arcana.md#^arcana-common)`| dice: 1d100 | Item |
 |-------------|------|
 | 01–02 | [[Bead of Nourishment Xdmg]] |
 | 03–04 | [[bead-of-refreshment-xdmg (items)]] |
@@ -76,13 +85,8 @@ world: Both
 | 93–94 | [[Tankard of Sobriety Xdmg]] |
 | 95–97 | [[Wand of Conducting Xdmg]] |
 | 98–00 | [[wand-of-pyrotechnics-xdmg (items)]] |
-^arcana-common
 
-**Arcana - Uncommon**
-
-`dice: [](random-magic-items-arcana.md#^arcana-uncommon)`
-
-| 01 | [[Amulet of Proof Against Detection and]] |
+^arcana-common **Arcana - Uncommon**`dice: [](random-magic-items-arcana.md#^arcana-uncommon)`| 01 | [[Amulet of Proof Against Detection and]] |
 | 02 | [[Baba Yagas Dancing Broom Xdmg]] |
 | 03–05 | [[bag-of-holding-xdmg (items)]] |
 | 06–07 | [[bag-of-tricks-xdmg (items)]] |
@@ -144,13 +148,8 @@ world: Both
 | 96–97 | [[wand-of-web-xdmg (items)]] |
 | 98–99 | [[Wind Fan Xdmg]] |
 | 00 | [[winged-boots-xdmg (items)]] |
-^arcana-uncommon
 
-**Arcana - Rare**
-
-`dice: [](random-magic-items-arcana.md#^arcana-rare)`
-
-| 01 | [[Bag of Beans Xdmg]] |
+^arcana-uncommon **Arcana - Rare**`dice: [](random-magic-items-arcana.md#^arcana-rare)`| 01 | [[Bag of Beans Xdmg]] |
 | 02–03 | [[Bead of Force Xdmg]] |
 | 04 | [[bowl-of-commanding-water-elementals-xdmg (items)]] |
 | 05–06 | [[bracers-of-defense-xdmg (items)]] |
@@ -205,13 +204,8 @@ world: Both
 | 95–96 | [[2-wand-of-the-war-mage-xdmg (items)]] |
 | 97–98 | [[wand-of-wonder-xdmg (items)]] |
 | 99–00 | [[Wings of Flying Xdmg]] |
-^arcana-rare
 
-**Arcana - Very Rare**
-
-`dice: [](random-magic-items-arcana.md#^arcana-very-rare)`
-
-| 01–02 | [[Amulet of the Planes Xdmg]] |
+^arcana-rare **Arcana - Very Rare**`dice: [](random-magic-items-arcana.md#^arcana-very-rare)`| 01–02 | [[Amulet of the Planes Xdmg]] |
 | 03–04 | [[bag-of-devouring-xdmg (items)]] |
 | 05–06 | [[Carpet of Flying Xdmg]] |
 | 07–08 | [[cauldron-of-rebirth-xdmg (items)]] |
@@ -251,13 +245,8 @@ world: Both
 | 93–94 | [[Tome of Clear Thought Xdmg]] |
 | 95–97 | [[wand-of-polymorph-xdmg (items)]] |
 | 98–00 | [[3-wand-of-the-war-mage-xdmg (items)]] |
-^arcana-very-rare
 
-**Arcana - Legendary**
-
-`dice: [](random-magic-items-arcana.md#^arcana-legendary)`
-
-| 01–04 | [[Apparatus of Kwalish Xdmg (vehicles)]] |
+^arcana-very-rare **Arcana - Legendary**`dice: [](random-magic-items-arcana.md#^arcana-legendary)`| 01–04 | [[Apparatus of Kwalish Xdmg (vehicles)]] |
 | 05–08 | [[cloak-of-invisibility-xdmg (items)]] |
 | 09–12 | [[Crystal Ball of Mind Reading Xdmg]] |
 | 13–16 | [[crystal-ball-of-telepathy-xdmg (items)]] |
@@ -283,45 +272,23 @@ world: Both
 | 89–92 | [[Tome of the Stilled Tongue Xdmg]] |
 | 93–96 | [[universal-solvent-xdmg (items)]] |
 | 97–00 | [[Well of Many Worlds Xdmg]] |
-^arcana-legendary
 
-## 🔧 Deep Evaluation Improvements
+^arcana-legendary ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Random magic items arcana is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of random magic items arcana as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random magic items arcana. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A map reveals a conspiracy about the cult
 
-*20 targeted improvements identified*
+- A merchant needs help investigating before the new moon ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-### Connection Improvements
 
-- Add cross-references to related notes
+## Notes
 
-### Enhancement Improvements
+*Additional notes*
 
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Random magic items arcana is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of random magic items arcana as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random magic items arcana.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A map reveals a conspiracy about the cult
-- A merchant needs help investigating before the new moon
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#character/monster
+#resource/item
+#meta/reference

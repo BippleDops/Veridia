@@ -49,3 +49,28 @@ Currently involved in the ongoing events of the campaign.
 - [[Assets Portraits Portrait NPC Captain Torrent Freewater Captain Torrent Freewater.svg]]
 - [[Assets Symbols Symbol Heraldry Commerce Manager Fairdealin Commerce Manager Fairdealin.svg]]
 - [[Assets Symbols Symbol Heraldry the Shadow Crystal Synthesis the Shadow Crystal Synthesis.png]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

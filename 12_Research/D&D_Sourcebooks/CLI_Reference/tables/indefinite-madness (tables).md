@@ -1,18 +1,32 @@
 ---
+
 title: indefinite-madness (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["indefinite-madness (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# indefinite-madness
+ # indefinite-madness ---
 
----
+## Description
+
+Detailed description pending.
 title: indefinite madness
 aliases:
 - Indefinite Madness
+
 type: note
 tags:
 - research
@@ -21,23 +35,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.253526'
 world: Both
----
 
-# Indefinite Madness
-*Source: Dungeon Master's Guide p. 259. Available in the SRD* 
+--- # Indefinite Madness
 
-**Indefinite Madness**
-
-`dice: [](indefinite-madness.md#^indefinite-madness)`
-
-| dice: d100 | Flaw (lasts until cured) |
+*Source: Dungeon Master's Guide p. 259. Available in the SRD* **Indefinite Madness**`dice: [](indefinite-madness.md#^indefinite-madness)`| dice: d100 | Flaw (lasts until cured) |
 |------------|--------------------------|
 | 01-15 | "Being drunk keeps me sane." |
 | 16-25 | "I keep whatever I find." |
@@ -51,51 +60,21 @@ world: Both
 | 81-85 | "There's only one person I can trust. And only I can see this special friend." |
 | 86-95 | "I can't take anything seriously. The more serious the situation, the funnier I find it." |
 | 96-100 | "I've discovered that I really like killing people." |
-^indefinite-madness
 
-## 🔧 Deep Evaluation Improvements
+^indefinite-madness ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Indefinite madness is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of indefinite madness as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around indefinite madness. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. Enriched: true --> ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Hidden Prophecy of Depths ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[New Ability Scores Honor and Sanity]]
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Indefinite madness is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of indefinite madness as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around indefinite madness.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
- enriched: true -->
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The Hidden Prophecy of Depths
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[New Ability Scores Honor and Sanity]]
 - [[new-ability-scores-honor-and-sanity (variant-rules)]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#mechanics/dice
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/person
+#meta/reference

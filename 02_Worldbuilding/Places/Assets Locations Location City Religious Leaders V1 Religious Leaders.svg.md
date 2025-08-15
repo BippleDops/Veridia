@@ -175,3 +175,22 @@ Key stop on spices trade route
 
 - Someone is protecting an heir for love
 - Someone is protecting an heir for revenge
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

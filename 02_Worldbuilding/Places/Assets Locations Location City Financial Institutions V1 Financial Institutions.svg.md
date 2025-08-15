@@ -171,3 +171,22 @@ Key stop on spices trade route
 - Someone is hunting an heir for money
 - The authorities needs help delivering before winter
 - Strange disappearances suggest a conspiracy
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -475,3 +475,76 @@ modified: '2025-01-15'
 ```json
 []
 ```
+\n\n## Aethermoor location prompts (2025-08-15T11:40:21Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T11:45:21Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T11:50:21Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T11:55:21Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T12:00:21Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T12:05:22Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T12:10:22Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T12:15:22Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T12:20:22Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T12:25:22Z)\n
+```json
+[]
+```
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes
+\n\n## Aethermoor location prompts (2025-08-15T12:30:23Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T12:35:23Z)\n
+```json
+[]
+```

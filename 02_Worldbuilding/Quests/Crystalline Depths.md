@@ -124,3 +124,28 @@ An exciting quest that challenges heroes to save the realm.
 
 - [[Name Etymology Guide]]
 - [[The Maw of Darkness (D&D_Statblocks)]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

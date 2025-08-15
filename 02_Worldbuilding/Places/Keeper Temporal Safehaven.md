@@ -206,3 +206,18 @@ Ongoing situations affecting Keeper Temporal Safehaven:
 
 - [[The Shrinking Sanctuary]]
 - [[The Shrinking Sanctuary (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

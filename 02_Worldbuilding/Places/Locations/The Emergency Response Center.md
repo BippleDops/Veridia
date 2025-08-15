@@ -119,3 +119,18 @@ Recent developments have brought new attention to The Emergency Response Center,
 ## References
 
 - [[Pressure Tube Terminal]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

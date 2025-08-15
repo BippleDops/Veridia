@@ -336,3 +336,13 @@ Ongoing situations affecting The Seven Shards Mystery:
 - [[Marina-Red-Tide-Coralheart (D&D_References)]]
 - [[Aethermoor - Session 04 The Silverscale Gambit]]
 - [[Aethermoor - Session 05 The Queens Madness]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

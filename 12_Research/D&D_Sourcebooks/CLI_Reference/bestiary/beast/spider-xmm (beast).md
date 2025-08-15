@@ -1,18 +1,22 @@
 ---
+
 title: spider-xmm (beast)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# spider-xmm
+--- # spider-xmm ---
 
----
+## Description
+
+Detailed description pending.
 title: spider xmm
 aliases:
 - Spider
+
 type: monster
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
@@ -29,6 +33,7 @@ tags:
 - ttrpg-cli/monster/environment/forest
 - status/in-progress
 - ttrpg-cli/monster/environment/desert
+
 created: 2025-08-11
 modified: '2025-08-14'
 status: active
@@ -38,31 +43,12 @@ statblock: inline
 statblock-link: '#^statblock'
 updated: '2025-08-12T23:37:35.110454'
 world: Both
----
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-giant-spider-xmm-giant-spider-xmm.svg)
+--- > [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-giant-spider-xmm-giant-spider-xmm.svg) # [[phase-spider-xmm (monstrosity)]]
 
-# [[phase-spider-xmm (monstrosity)]]
-*Source: Monster Manual (2024) p. 369, Player's Handbook (2024) p. 357. Available in the SRD and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 369, Player's Handbook (2024) p. 357. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Animals Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[Panther Xmm]] stat block can also represent a mountain lion, while the [[Goat Xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.```statblock
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Animals
-
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[Panther Xmm]] stat block can also represent a mountain lion, while the [[Goat Xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
-
-```statblock
 "name": "Spider (XMM)"
 "size": "Tiny"
 "type": "beast"
@@ -71,65 +57,18 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "hp": !!int "1"
 "hit_dice": "1d4 - 1"
 "modifier": !!int "2"
-"stats":
-  - !!int "2"
-  - !!int "14"
-  - !!int "8"
-  - !!int "1"
-  - !!int "10"
+"stats": - !!int "2" - !!int "14" - !!int "8" - !!int "1" - !!int "10"
 "speed": "20 ft., climb 20 ft."
-"skillsaves":
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+4"
+"skillsaves": - "name": "[[skills#Stealth|Stealth]]" "desc": "+4"
 "senses": "darkvision 30 ft., passive Perception 10"
 "languages": ""
 "cr": "0"
-"traits":
-  - "desc": "The spider can climb difficult surfaces, including along ceilings, without\
-      \ needing to make an ability check."
-    "name": "Spider Climb"
-  - "desc": "The spider ignores movement restrictions caused by webs, and the spider\
-      \ knows the location of any other creature in contact with the same web."
-    "name": "Web Walker"
-"actions":
-  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage plus 2\
-      \ (d4) Poison damage."
-    "name": "Bite"
-"source":
-  - "XMM"
-  - "XPHB"
-"image": "/03_Mechanics/CLI/bestiary/beast/token/spider-xmm.webp"
-```
-^statblock
+"traits": - "desc": "The spider can climb difficult surfaces, including along ceilings, without\ \ needing to make an ability check." "name": "Spider Climb" - "desc": "The spider ignores movement restrictions caused by webs, and the spider\ \ knows the location of any other creature in contact with the same web." "name": "Web Walker"
+"actions": - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage plus 2\ \ (d4) Poison damage." "name": "Bite"
+"source": - "XMM" - "XPHB"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/spider-xmm.webp"```^statblock ## Environment desert, forest, swamp, underdark, urban ## Player-Facing Summary Spider xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of spider xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spider xmm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## Environment
 
-desert, forest, swamp, underdark, urban
+## Notes
 
-## Player-Facing Summary
-
-Spider xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of spider xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spider xmm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+*Additional notes*

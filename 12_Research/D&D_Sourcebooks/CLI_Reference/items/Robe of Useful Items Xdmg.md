@@ -1,18 +1,22 @@
 ---
+
 title: Robe of Useful Items Xdmg
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# Robe of Useful Items Xdmg
+--- # Robe of Useful Items Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Robe of Useful Items Xdmg
 aliases:
 - Robe of Useful Items
+
 type: note
 tags:
 - both
@@ -23,6 +27,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -31,28 +36,10 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:07.223437+00:00'
 world: Both
----
 
-# Robe of Useful Items
-*Wondrous item, uncommon*  
-![](/03_Mechanics/CLI/items/img/robe-of-useful-items.webp#right)
+--- # Robe of Useful Items
 
-This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can take a [[actions#Magic|Magic]] action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.
-
-The robe has two of each of the following patches:
-
-- [[bullseye-lantern-xphb (items)]] (filled and lit)  
-- [[Dagger Xphb]]  
-- [[mirror-xphb (items)]]  
-- [[pole-xphb (items)]]  
-- [[Rope Xphb]] (coiled)  
-- [[sack-xphb (items)]]  
-
-In addition, the robe has `4d4` other patches. The DM chooses the patches or determines them randomly by rolling on the following table.
-
-`dice: [](robe-of-useful-items-xdmg.md#^1-patch)`
-
-| dice: 1d100 | Patch |
+*Wondrous item, uncommon* ![](/03_Mechanics/CLI/items/img/robe-of-useful-items.webp#right) This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can take a [[actions#Magic|Magic]] action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment. The robe has two of each of the following patches: - [[bullseye-lantern-xphb (items)]] (filled and lit) - [[Dagger Xphb]] - [[mirror-xphb (items)]] - [[pole-xphb (items)]] - [[Rope Xphb]] (coiled) - [[sack-xphb (items)]] In addition, the robe has`4d4`other patches. The DM chooses the patches or determines them randomly by rolling on the following table.`dice: [](robe-of-useful-items-xdmg.md#^1-patch)`| dice: 1d100 | Patch |
 |-------------|-------|
 | 01-08 | Bag of 100 GP |
 | 09-15 | Silver coffer (1 foot long, 6 inches wide and deep) worth 500 GP |
@@ -67,60 +54,13 @@ In addition, the robe has `4d4` other patches. The DM chooses the patches or det
 | 84-90 | 2 [[Mastiff Xmm]] |
 | 91-96 | Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach |
 | 97-00 | [[Portable Ram Xphb]] |
-^1-patch
 
-*Source: Dungeon Master's Guide (2024) p. 298. Available in the SRD and the Free Rules (2024)*
+^1-patch *Source: Dungeon Master's Guide (2024) p. 298. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Robe of useful items xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of robe of useful items xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around robe of useful items xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1]]
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Robe of useful items xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of robe of useful items xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around robe of useful items xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Master_Item_Catalog]]
 - [[Arcana Uncommon Xdmg]]
 - [[Implements Uncommon Xdmg]]
 - [[Random Magic Items Arcana]]
@@ -129,3 +69,8 @@ Contextual improvement based on 12_Research
 - [[implements-uncommon-xdmg (tables)]]
 - [[random-magic-items-arcana (tables)]]
 - [[random-magic-items-implements (tables)]]
+
+
+## Notes
+
+*Additional notes*

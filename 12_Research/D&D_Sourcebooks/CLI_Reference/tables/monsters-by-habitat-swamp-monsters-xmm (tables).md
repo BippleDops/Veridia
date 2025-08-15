@@ -1,18 +1,32 @@
 ---
+
 title: monsters-by-habitat-swamp-monsters-xmm (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["monsters-by-habitat-swamp-monsters-xmm (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# monsters-by-habitat-swamp-monsters-xmm
+ # monsters-by-habitat-swamp-monsters-xmm ---
 
----
+## Description
+
+Detailed description pending.
 title: monsters by habitat swamp monsters xmm
 aliases:
 - Monsters by Habitat; Swamp Monsters
+
 type: note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
@@ -21,21 +35,18 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.707519'
 world: Both
----
 
-# Monsters by Habitat; Swamp Monsters
-*Source: Monster Manual (2024) p. 375* 
+--- # Monsters by Habitat; Swamp Monsters
 
-**Swamp Monsters**
-
-| CR | Monsters |
+*Source: Monster Manual (2024) p. 375* **Swamp Monsters** | CR | Monsters |
 |----|----------|
 | 0 | [[frog-xmm (beast)]], [[lizard-xmm (beast)]], [[Wererat Xmm]], [[Raven Xmm]], [[phase-spider-xmm (monstrosity)]] |
 | 1/8 | [[giant-rat-xmm|Giant Rat]], [[kobold-warrior-xmm|Kobold Warrior]], [[Stirge Xmm]], [[venomous-snake-xmm|Venomous Snake]] |
@@ -53,43 +64,21 @@ world: Both
 | 14 | [[adult-black-dragon-xmm|Adult Black Dragon]] |
 | 15 | [[mummy-lord-xmm|Mummy Lord]] |
 | 21 | [[ancient-black-dragon-xmm|Ancient Black Dragon]] |
-^swamp-monsters
 
-## 🔧 Deep Evaluation Improvements
+^swamp-monsters ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Monsters by habitat swamp monsters xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of monsters by habitat swamp monsters xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monsters by habitat swamp monsters xmm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Second Prophecy of Shadows ## Plot Hooks - An heirloom has gone missing and evil awakens
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Monsters by habitat swamp monsters xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of monsters by habitat swamp monsters xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monsters by habitat swamp monsters xmm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The Second Prophecy of Shadows
-
-## Plot Hooks
-
-- An heirloom has gone missing and evil awakens
 - Someone is blackmailing an heir for money
 - A prisoner has gone missing and war looms
 - A noble needs help stealing before the new moon
+
+## Notes
+
+*Additional notes*
+
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/monster
+#meta/reference

@@ -198,3 +198,18 @@ Key stop on magic items trade route
 
 - [[Theological Warfare]]
 - [[Theological Warfare (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

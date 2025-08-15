@@ -1,18 +1,32 @@
 ---
+
 title: Find the Ideal Introduction Adventure
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Find the Ideal Introduction Adventure"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Find the Ideal Introduction Adventure
+ # Find the Ideal Introduction Adventure ---
 
----
+## Description
+
+Detailed description pending.
 title: Find the Ideal Introduction Adventure
 aliases:
 - Find the Ideal Introduction; Adventure Introduction
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.389425+00:00'
 world: Both
----
 
-# Find the Ideal Introduction; Adventure Introduction
-*Source: Dungeon Master's Guide p. 74* 
+--- # Find the Ideal Introduction; Adventure Introduction
 
-**Adventure Introduction**
-
-`dice: [](find-the-ideal-introduction-adventure-introduction.md#^adventure-introduction)`
-
-| dice: d12 | Introduction |
+*Source: Dungeon Master's Guide p. 74* **Adventure Introduction**`dice: [](find-the-ideal-introduction-adventure-introduction.md#^adventure-introduction)`| dice: d12 | Introduction |
 |-----------|--------------|
 | 1 | While traveling in the wilderness, the characters fall into a sinkhole that opens beneath their feet, dropping them into the adventure location. |
 | 2 | While traveling in the wilderness, the characters notice the entrance to the adventure location. |
@@ -52,55 +61,52 @@ world: Both
 | 10 | An NPC the characters respect asks them to go to the adventure location. |
 | 11 | One night, the characters all dream about entering the adventure location. |
 | 12 | A ghost appears and terrorizes a village. Research reveals that it can be put to rest only by entering the adventure location. |
-^adventure-introduction
 
-## 🔧 Deep Evaluation Improvements
+^adventure-introduction ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Find the ideal introduction adventure introduction is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of find the ideal introduction adventure introduction as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around find the ideal introduction adventure introduction. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality ## Plot Hooks - Strange accidents suggest a curse
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Find the ideal introduction adventure introduction is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of find the ideal introduction adventure introduction as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around find the ideal introduction adventure introduction.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
-## Plot Hooks
-
-- Strange accidents suggest a curse
 - Someone is searching for information for love
 - Strange accidents suggest ancient magic
-- An heirloom has gone missing and truth emerges
+- An heirloom has gone missing and truth emerges ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/location
+#world/world
+#world/setting
+#character/npc
+#character/character
+#character/monster
+#gameplay/adventure
+#resource/item
+#meta/reference
 
-## 12_Research Specific Content
+## Timeline
+- Key events
+- Deadlines
 
-Contextual improvement based on 12_Research
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

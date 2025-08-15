@@ -134,3 +134,18 @@ Recent developments have brought new attention to Temporal Displacement, creatin
 - [[The Reflection Pools]]
 - [[The Seven Shards Mystery]]
 - [[The Void Touched Depths]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

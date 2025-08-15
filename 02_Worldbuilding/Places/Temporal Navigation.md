@@ -576,3 +576,18 @@ Mentioned in The Hidden Prophecy of Shadows
 - [[Find the Grief Bomb (D&D_Statblocks)]]
 - [[The Maw of Darkness (D&D_Statblocks)]]
 - [[The Whispering Expanse (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

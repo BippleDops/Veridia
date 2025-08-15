@@ -229,3 +229,28 @@ This NPC can serve multiple roles:
 - [[04_Resources_Assets_Symbols_symbol-heraldry-border-fortresses-border-fortresses.svg]]
 - [[04_Resources_Assets_Symbols_symbol-heraldry-master-trader-darkmarke-master-trader-darkmarke.svg]]
 - [[Assets Symbols Symbol Heraldry Magical Component Manufacturers Guil Magical Component Manufacturers Guil.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

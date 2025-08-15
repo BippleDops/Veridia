@@ -118,3 +118,18 @@ Recent developments have brought new attention to The Silent Watcher, creating o
 
 - [[Shadow Market Canals]]
 - [[Shadow Market Canals (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -112,3 +112,28 @@ Mentioned in The Second Prophecy of Depths
 ## References
 
 - [[Assets Portraits Portrait NPC Captain Elara Shadowshard Captain Elara Shadowshard.svg]]
+
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

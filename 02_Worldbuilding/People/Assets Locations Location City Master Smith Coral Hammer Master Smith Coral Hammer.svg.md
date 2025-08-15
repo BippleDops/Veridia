@@ -217,3 +217,28 @@ Member of House Serpentblood - Trait: magical affinity
 ## References
 
 - [[04_Resources_Assets_Symbols_symbol-heraldry-depth-safety-authorit-depth-safety-authorit.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

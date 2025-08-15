@@ -252,3 +252,28 @@ Cure Component Locations can serve as:
 - [[Capital City]]
 - [[Conquered Territory]]
 - [[Southshire]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -193,3 +193,18 @@ Ongoing situations affecting Commander Reef Shadowstrike:
 
 - [[Shadow Ambush - Optional (Criminal_Organizations)]]
 - [[Shadow Ambush - Optional]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

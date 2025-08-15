@@ -349,3 +349,18 @@ Ongoing situations affecting The Primordial Vaults:
 - [[The Vanishing Depths (D&D_References)]]
 - [[Captain Scale-Walker (D&D_Statblocks)]]
 - [[The Void Touched Depths (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -225,3 +225,13 @@ Ongoing situations affecting The Cerulean Archipelago:
 
 - [[The Azure Coast]]
 - [[The Azure Coast (D&D_References)]]
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

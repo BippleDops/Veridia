@@ -10,14 +10,25 @@ tags:
 - aerial
 - aquatic
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
 status: active
+aliases: ["MASTER VAULT INDEX"]
+priority: normal
+category: 00 Indexes
+subcategory: Master Vault Index.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# MASTER_VAULT_INDEX
+ # MASTER_VAULT_INDEX ---
 
----
+## Description {#description}
+
+Detailed description pending.
 title: MASTER VAULT INDEX
 type: note
 tags:
@@ -29,94 +40,81 @@ tags:
 - combat
 - shadow-touched
 - crystal-enhanced
+
 created: 2025-08-14
 modified: '2025-08-14'
 status: active
 updated: 2025-08-14
----
 
-# Vault Master Index
+--- # Vault Master Index *Complete Navigation Hub for All Content* ### The Seven Shards Campaign *Cosmic adventure across dimensions*
 
-*Complete Navigation Hub for All Content*
-
-### The Seven Shards Campaign
-
-*Cosmic adventure across dimensions*
-- [[01-campaign-overview (rise-of-tiamat)]]
+- [[01-campaign-overview (rise-of-tiamat)|01-Campaign-Overview (Rise-Of-Tiamat)]]
 - [[Session 01|Session 1: The Beginning]]
 - Progress: Sessions 1-24 planned
-- Theme: Reality manipulation, cosmic horror, epic choices
+- Theme: Reality manipulation, cosmic horror, epic choices ### Shadow Conspiracy *Political intrigue and consciousness manipulation*
 
-### Shadow Conspiracy
-
-*Political intrigue and consciousness manipulation*
-- [[01-campaign-overview (rise-of-tiamat)]]
+- [[01-campaign-overview (rise-of-tiamat)|01-Campaign-Overview (Rise-Of-Tiamat)]]
 - [[Session 1 Shadows in the Senate|Session 1]]
 - Progress: Sessions 1-8 planned
-- Theme: Trust, betrayal, shadow surgery
+- Theme: Trust, betrayal, shadow surgery ### Crystal Plague *Medical mystery with ethical dilemmas*
 
-### Crystal Plague
-
-*Medical mystery with ethical dilemmas*
-- [[01-campaign-overview (rise-of-tiamat)]]
+- [[01-campaign-overview (rise-of-tiamat)|01-Campaign-Overview (Rise-Of-Tiamat)]]
 - Sessions 1-6 planned
-- Theme: Disease, transformation, difficult choices
+- Theme: Disease, transformation, difficult choices ### Winds of Rebellion *Sky realm political upheaval*
 
-### Winds of Rebellion
-
-*Sky realm political upheaval*
 - [[Introduction|Overview]]
 - Sessions 1-8 planned
-- Theme: Freedom vs tradition, aerial combat
+- Theme: Freedom vs tradition, aerial combat ### The Sunken Conspiracy *Ocean depths investigation*
 
-### The Sunken Conspiracy
-
-*Ocean depths investigation*
 - [[Introduction|Overview]]
 - Sessions 1-8 planned
-- Theme: Hidden truth, underwater mystery
+- Theme: Hidden truth, underwater mystery ## 🔄 Recent Updates - Restored deleted worldbuilding content
 
-## 🔄 Recent Updates
-
-- Restored deleted worldbuilding content
 - Organized D&D 5e resources
 - Created missing session templates
-- Built comprehensive connection map
+- Built comprehensive connection map ---
 
----
 *Master Index Last Updated: 2025-08-14*
 *Total Notes: 30258*
-*Total Connections: 112739*
+*Total Connections: 112739* ## Semantic Connections *Related concepts and locations:*
 
-## Semantic Connections
+- [[classes|Classes]]
+- [[Underwater Encounter Distance|Underwater Encounter Distance]]
+- [[Aquabyssos_Submarines_Catalog|Aquabyssos Submarines Catalog]]
+- [[Ocean Ecosystem Management|Ocean Ecosystem Management]]
+- [[Crisis Intervention Chief Raven Darkstorm|Crisis Intervention Chief Raven Darkstorm]]
+- [[Vehicles - Aethermoor Airships|Vehicles - Aethermoor Airships]]
+- [[Border Territories|Border Territories]]
+- [[Bestiary|Bestiary]]
+- [[Border Fortresses|Border Fortresses]]
+- [[Bestiary|Bestiary]] ## DM Notes *Private notes for campaign integration:*
 
-*Related concepts and locations:*
-- [[classes]]
-- [[Underwater Encounter Distance]]
-- [[Aquabyssos_Submarines_Catalog]]
-- [[Ocean Ecosystem Management]]
-- [[Crisis Intervention Chief Raven Darkstorm]]
-- [[Vehicles - Aethermoor Airships]]
-- [[Border Territories]]
-- [[Bestiary]]
-- [[Border Fortresses]]
-- [[Bestiary]]
-
-## DM Notes
-
-*Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes
+- Connections to overarching campaign themes ## Related
 
-## Related
-- [[Aquabyssos World Guide]]
-- [[Aethermoor World Guide]]
-- [[Shadow Conspiracy]]
-- [[Campaign_Overview]]
+- [[Aquabyssos World Guide|Aquabyssos World Guide]]
+- [[Aethermoor World Guide|Aethermoor World Guide]]
+- [[Shadow Conspiracy|Shadow Conspiracy]]
+- [[Campaign_Overview|Campaign Overview]] ## Alternate Descriptions
 
-## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects
+
+## Notes {#notes}
+
+*Additional notes*
+
+#mechanics/combat
+#mechanics/system
+#story/story
+#world/location
+#world/world
+#gameplay/session
+#gameplay/encounter
+#gameplay/adventure
+#meta/index
+#meta/hub
+#meta/navigation

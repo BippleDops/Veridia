@@ -4,14 +4,25 @@ title: Mobile_Dashboard
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
 status: active
+aliases: ["Mobile Dashboard"]
+priority: normal
+category: 00 Indexes
+subcategory: Mobile Dashboard.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Mobile_Dashboard
+ # Mobile_Dashboard ---
 
----
+## Description {#description}
+
+Detailed description pending.
 title: Mobile Dashboard
 type: mobile-template
 tags:
@@ -20,37 +31,36 @@ tags:
 - index
 - active
 - responsive
+
 created: 2025-08-14
 modified: '2025-08-14'
 cssclass: mobile-optimized
----
 
-## 📝 Notes
+--- ## 📝 Notes - [[Session Notes|Session Notes]]
 
-- [[Session Notes]]
-- [[Playe]]
-- [[02_Worldbuilding]]
+- [[Playe|Playe]]
+- [[02_Worldbuilding|02 Worldbuilding]] ---
 
----
-*Optimized for mobile devices*
+*Optimized for mobile devices* ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*
 
-## Related
-
-*Links to related content will be added here.*
-
-## DM Notes
-
-*Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes
+- Connections to overarching campaign themes ## Alternate Descriptions
 
-## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects
+- **Hidden Details**: Secret aspects ## Player Tips
 
-## Player Tips
 > 🎮 **Strategy**: How to approach this content
+
 > Work together and communicate
+
+## Notes {#notes}
+
+*Additional notes*
+
+#story/story
+#world/world
+#gameplay/session
+#meta/index

@@ -200,3 +200,23 @@ Legends speak of Memory Meadows Black Market as a nexus where past and present c
 - [[02_Worldbuilding/Places/Memory Meadows Black Market]]
 
 <!-- enriched: true -->
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

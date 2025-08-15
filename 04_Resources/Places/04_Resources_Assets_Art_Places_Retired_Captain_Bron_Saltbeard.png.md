@@ -109,3 +109,23 @@ Further information about this topic will be developed as the campaign progresse
 - [[Assets Locations Location City Commander Reef Shadowstrike V1 Commander Reef Shadowstrike.svg]]
 - [[Assets Locations Location City Master Finn Liquidlight Master Finn Liquidlight.svg]]
 - [[Assets Portraits Portrait NPC Lady Celestine Windborne Lady Celestine Windborne.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

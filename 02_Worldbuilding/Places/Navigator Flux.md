@@ -220,3 +220,18 @@ Ongoing situations affecting Navigator Flux:
 - [[Pearl_Harbor_City (Places)]]
 - [[Pearl_Harbor_City (D&D_References)]]
 - [[Discover the Singers Beyond (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

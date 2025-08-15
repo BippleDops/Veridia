@@ -120,3 +120,18 @@ Recent developments have brought new attention to Shard Locations, creating oppo
 
 - [[Aurelius Goldwave]]
 - [[Silver Mask]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

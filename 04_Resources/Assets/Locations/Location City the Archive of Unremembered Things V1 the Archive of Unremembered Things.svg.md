@@ -57,3 +57,28 @@ Recent developments have brought new attention to Location City the Archive of U
 
 ## DM Notes
 *Location City the Archive of Unremembered Things V1 the Archive of Unremembered Things.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

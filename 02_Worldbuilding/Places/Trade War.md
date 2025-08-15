@@ -251,3 +251,18 @@ Ongoing situations affecting Trade War:
 - [[Tethyan Hegemony]]
 - [[The_Academy_of_Resoce]]
 - [[Underwater Fermentation]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

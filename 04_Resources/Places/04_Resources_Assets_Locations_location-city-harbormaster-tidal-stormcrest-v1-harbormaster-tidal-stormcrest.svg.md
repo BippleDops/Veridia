@@ -109,3 +109,23 @@ Further information about this topic will be developed as the campaign progresse
 - [[Assets Portraits Portrait NPC Captain Depths Walker Marina Captain Depths Walker Marina.svg]]
 - [[Assets Portraits Portrait NPC Captain Marcus Ironwill Captain Marcus Ironwill.svg]]
 - [[Assets Symbols Symbol Heraldry the Carrion Court the Carrion Court.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

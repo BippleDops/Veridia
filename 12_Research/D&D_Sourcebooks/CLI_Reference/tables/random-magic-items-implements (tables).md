@@ -1,18 +1,32 @@
 ---
+
 title: random-magic-items-implements (tables)
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["random-magic-items-implements (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# random-magic-items-implements
+ # random-magic-items-implements ---
 
----
+## Description
+
+Detailed description pending.
 title: random magic items implements
 aliases:
 - Random Magic Items - Implements
+
 type: note
 tags:
 - research
@@ -21,23 +35,18 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.613099'
 world: Both
----
 
-# Random Magic Items - Implements
-*Source: Dungeon Master's Guide (2024) p. 329* 
+--- # Random Magic Items - Implements
 
-**Implements - Common**
-
-`dice: [](random-magic-items-implements.md#^implements-common)`
-
-| dice: 1d100 | Item |
+*Source: Dungeon Master's Guide (2024) p. 329* **Implements - Common**`dice: [](random-magic-items-implements.md#^implements-common)`| dice: 1d100 | Item |
 |-------------|------|
 | 01–02 | [[Bead of Nourishment Xdmg]] |
 | 03–04 | [[bead-of-refreshment-xdmg (items)]] |
@@ -75,13 +84,8 @@ world: Both
 | 93–94 | [[Wand of Conducting Xdmg]] |
 | 95–97 | [[wand-of-enemy-detection-xdmg (items)]] |
 | 98–00 | [[wand-of-pyrotechnics-xdmg (items)]] |
-^implements-common
 
-**Implements - Uncommon**
-
-`dice: [](random-magic-items-implements.md#^implements-uncommon)`
-
-| 01–02 | [[alchemy-jug-xdmg (items)]] |
+^implements-common **Implements - Uncommon**`dice: [](random-magic-items-implements.md#^implements-uncommon)`| 01–02 | [[alchemy-jug-xdmg (items)]] |
 | 03–06 | [[1-ammunition-xdmg (items)]] |
 | 07–10 | [[bag-of-holding-xdmg (items)]] |
 | 11–12 | [[Boots of Elvenkind Xdmg]] |
@@ -124,13 +128,8 @@ world: Both
 | 95–96 | [[Rope of Climbing Xdmg]] |
 | 97–98 | [[stone-of-good-luck-xdmg (items)]] |
 | 99–00 | [[wand-of-secrets-xdmg (items)]] |
-^implements-uncommon
 
-**Implements - Rare**
-
-`dice: [](random-magic-items-implements.md#^implements-rare)`
-
-| 01–04 | [[2 Ammunition Xdmg]] |
+^implements-uncommon **Implements - Rare**`dice: [](random-magic-items-implements.md#^implements-rare)`| 01–04 | [[2 Ammunition Xdmg]] |
 | 05–08 | [[Bag of Beans Xdmg]] |
 | 09–12 | [[belt-of-dwarvenkind-xdmg (items)]] |
 | 13–16 | [[boots-of-levitation-xdmg (items)]] |
@@ -154,13 +153,8 @@ world: Both
 | 89–92 | [[Rope of Entanglement Xdmg]] |
 | 93–96 | [[Staff of Healing Xdmg]] |
 | 97–00 | [[wand-of-enemy-detection-xdmg (items)]] |
-^implements-rare
 
-**Implements - Very Rare**
-
-`dice: [](random-magic-items-implements.md#^implements-very-rare)`
-
-| 01–07 | [[3-ammunition-xdmg (items)]] |
+^implements-rare **Implements - Very Rare**`dice: [](random-magic-items-implements.md#^implements-very-rare)`| 01–07 | [[3-ammunition-xdmg (items)]] |
 | 08–14 | [[bag-of-devouring-xdmg (items)]] |
 | 15–21 | [[Carpet of Flying Xdmg]] |
 | 22–28 | [[enspelled-weapon-xdmg (items)]] (level 4 or 5 spell) |
@@ -174,60 +168,26 @@ world: Both
 | 78–86 | [[Potion of Supreme Healing Xdmg]] |
 | 87–93 | [[potion-of-speed-xdmg (items)]] |
 | 94–00 | [[tome-of-leadership-and-influence-xdmg (items)]] |
-^implements-very-rare
 
-**Implements - Legendary**
-
-`dice: [](random-magic-items-implements.md#^implements-legendary)`
-
-| 01–17 | [[enspelled-weapon-xdmg (items)]] (level 6, 7, or 8 spell) |
+^implements-very-rare **Implements - Legendary**`dice: [](random-magic-items-implements.md#^implements-legendary)`| 01–17 | [[enspelled-weapon-xdmg (items)]] (level 6, 7, or 8 spell) |
 | 18–34 | [[instrument-of-the-bards-xdmg (items)]] ([[Instrument of the Bards Ollamh Harp Xdmg]]) |
 | 35–54 | [[sovereign-glue-xdmg (items)]] |
 | 55–70 | [[Sphere of Annihilation Xdmg]] |
 | 71–83 | [[Talisman of the Sphere Xdmg]] |
 | 84–00 | [[universal-solvent-xdmg (items)]] |
-^implements-legendary
 
-## 🔧 Deep Evaluation Improvements
+^implements-legendary ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Random magic items implements is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of random magic items implements as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random magic items implements. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The First Prophecy of Shadows ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-*20 targeted improvements identified*
 
-### Connection Improvements
+## Notes
 
-- Add cross-references to related notes
+*Additional notes*
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Random magic items implements is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of random magic items implements as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random magic items implements.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The First Prophecy of Shadows
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Master_Item_Catalog]]
+#mechanics/dice
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/monster
+#resource/item
+#meta/reference

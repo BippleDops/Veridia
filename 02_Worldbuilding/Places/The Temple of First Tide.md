@@ -197,3 +197,18 @@ Key stop on magic items trade route
 - [[Timeline of the Drowning]]
 - [[Timeline of the Drowning (D&D_References)]]
 - [[Timeline of the Drowning 3 (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

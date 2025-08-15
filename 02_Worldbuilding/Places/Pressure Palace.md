@@ -231,3 +231,18 @@ Ongoing situations affecting Pressure Palace:
 - [[The Bathyal Succession]]
 - [[Deep Mother (D&D_References)]]
 - [[Deep Mother 3 (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

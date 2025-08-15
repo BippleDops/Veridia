@@ -178,3 +178,22 @@ Key locations marked:
 - An heirloom has gone missing and evil awakens
 - A letter reveals the truth about this place
 - Someone is blackmailing an heir for love
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

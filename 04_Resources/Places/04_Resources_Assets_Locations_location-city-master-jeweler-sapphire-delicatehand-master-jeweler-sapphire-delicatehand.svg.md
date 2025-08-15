@@ -108,3 +108,23 @@ Further information about this topic will be developed as the campaign progresse
 - [[Assets Locations Location City Drift Harbor District V1 Drift Harbor District.svg]]
 - [[Assets Symbols Symbol Heraldry Information Broker Whisper Goldtongu Information Broker Whisper Goldtongu.svg]]
 - [[Assets Symbols Symbol Heraldry Scream Crystals Scream Crystals.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

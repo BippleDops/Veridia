@@ -120,3 +120,18 @@ Recent developments have brought new attention to Floating Arsenal, creating opp
 
 - [[02_Worldbuilding_Locations_Floating_Arsenal]]
 - [[System Cli Items Weapons]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

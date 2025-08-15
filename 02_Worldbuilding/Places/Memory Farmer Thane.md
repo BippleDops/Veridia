@@ -256,3 +256,18 @@ Key stop on metals trade route
 - [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
 - [[Memory Harvester Kythara (D&D_Statblocks)]]
 - [[Memory Merchant Valeria Siltweave (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

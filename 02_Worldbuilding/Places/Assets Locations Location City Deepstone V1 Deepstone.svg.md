@@ -191,3 +191,23 @@ Mentioned in The Hidden Prophecy of Shadows
 - Civil war
 - Natural disasters
 - Current power structures established
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

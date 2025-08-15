@@ -1,18 +1,32 @@
 ---
+
 title: Sentient Items Special Purpose Xdmg
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Sentient Items Special Purpose Xdmg"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Sentient Items Special Purpose Xdmg
+ # Sentient Items Special Purpose Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Sentient Items Special Purpose Xdmg
 aliases:
 - Sentient Item's Special Purpose
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.658099+00:00'
 world: Both
----
 
-# Sentient Item's Special Purpose
-*Source: Dungeon Master's Guide (2024) p. 226* 
+--- # Sentient Item's Special Purpose
 
-**Sentient Item's Special Purpose**
-
-`dice: [](sentient-items-special-purpose-xdmg.md#^sentient-items-special-purpose)`
-
-| dice: 1d10 | Special Purpose |
+*Source: Dungeon Master's Guide (2024) p. 226* **Sentient Item's Special Purpose**`dice: [](sentient-items-special-purpose-xdmg.md#^sentient-items-special-purpose)`| dice: 1d10 | Special Purpose |
 |------------|-----------------|
 | 1 | Aligned. The item seeks to defeat or destroy those of a diametrically opposed alignment. Such an item is never Neutral. |
 | 2 | Bane. The item seeks to thwart or destroy creatures of a particular type, such as Constructs, Fiends, or Undead. |
@@ -50,48 +59,19 @@ world: Both
 | 8 | Protector. The item seeks to defend a particular kind of creature, such as elves or werewolves. |
 | 9 | Soulmate Seeker. The item seeks another sentient magic item, perhaps one that is similar to itself. |
 | 10 | Templar. The item seeks to defend the servants and interests of a particular deity. |
-^sentient-items-special-purpose
 
-## 🔧 Deep Evaluation Improvements
+^sentient-items-special-purpose ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Sentient items special purpose xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of sentient items special purpose xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sentient items special purpose xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Second Prophecy of Stars ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-*20 targeted improvements identified*
 
-### Connection Improvements
+## Notes
 
-- Add cross-references to related notes
+*Additional notes*
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Sentient items special purpose xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of sentient items special purpose xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sentient items special purpose xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The Second Prophecy of Stars
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Master_Item_Catalog]]
+#mechanics/dice
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#resource/item
+#meta/reference

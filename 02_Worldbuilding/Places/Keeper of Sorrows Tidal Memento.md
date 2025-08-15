@@ -222,3 +222,18 @@ Ongoing situations affecting Keeper of Sorrows Tidal Memento:
 
 - [[Mourning Depths]]
 - [[Mourning Depths (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

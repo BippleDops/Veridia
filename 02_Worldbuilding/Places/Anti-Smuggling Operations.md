@@ -282,3 +282,18 @@ Ongoing situations affecting Anti-Smuggling Operations:
 
 - [[Harbor District Customs House]]
 - [[Harbor District Customs House (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -202,3 +202,18 @@ Ongoing situations affecting Noble Houses:
 - [[Mad Oracle Thessaly (D&D_References)]]
 - [[Harbor Master Luna Freedrift (D&D_Statblocks)]]
 - [[Vault Keeper Eternal (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

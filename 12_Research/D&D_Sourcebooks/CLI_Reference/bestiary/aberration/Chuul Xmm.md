@@ -1,18 +1,22 @@
 ---
+
 title: Chuul Xmm
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# Chuul Xmm
+--- # Chuul Xmm ---
 
----
+## Description
+
+Detailed description pending.
 title: Chuul Xmm
 aliases:
 - Chuul
+
 type: monster
 tags:
 - ttrpg-cli/monster/environment/coastal
@@ -28,6 +32,7 @@ tags:
 - ttrpg-cli/monster/environment/swamp
 - active
 - status/in-progress
+
 created: 2025-08-11
 modified: '2025-08-14'
 status: active
@@ -37,40 +42,12 @@ statblock: inline
 statblock-link: '#^statblock'
 updated: '2025-08-13T12:34:05.593551+00:00'
 world: Both
----
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-chuul-xmm-chuul-xmm.svg)
+--- > [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-chuul-xmm-chuul-xmm.svg) # [[Chuul Xmm]]
 
-# [[Chuul Xmm]]
-*Source: Monster Manual (2024) p. 71. Available in the SRD and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 71. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Chuul *Chitinous Servant of Primeval Powers* - **Habitat.** Coastal, Swamp, Underdark - **Treasure.** Relics Chuuls originated in forgotten ages when aboleths and stranger beings ruled alien empires beneath the waves. The aboleths transformed numerous deep-sea predators into servants that could venture beyond the seas to claim more magic and creatures to exploit. Chuuls are the most enduring of these bizarre servants. Many chuuls serve aboleth overlords, carrying out their whims amid lightless seas and primeval swamps. Other chuuls obey new aberrant masters, such as beholders, grells, or mind flayers. Some chuuls follow their own drives, endlessly collecting ancient magic treasures or interpreting age-old orders to bizarre ends. Regardless of their agendas, chuuls snare creatures in their massive pincers before rendering foes helpless with their paralytic tentacles. Chuuls don't age and can lie dormant in hidden places for millennia before threats, ancient orders, or strange compulsions awaken them.```statblock
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Chuul
-
-*Chitinous Servant of Primeval Powers*
-
-- **Habitat.** Coastal, Swamp, Underdark  
-- **Treasure.** Relics  
-
-Chuuls originated in forgotten ages when aboleths and stranger beings ruled alien empires beneath the waves. The aboleths transformed numerous deep-sea predators into servants that could venture beyond the seas to claim more magic and creatures to exploit. Chuuls are the most enduring of these bizarre servants.
-
-Many chuuls serve aboleth overlords, carrying out their whims amid lightless seas and primeval swamps. Other chuuls obey new aberrant masters, such as beholders, grells, or mind flayers. Some chuuls follow their own drives, endlessly collecting ancient magic treasures or interpreting age-old orders to bizarre ends. Regardless of their agendas, chuuls snare creatures in their massive pincers before rendering foes helpless with their paralytic tentacles.
-
-Chuuls don't age and can lie dormant in hidden places for millennia before threats, ancient orders, or strange compulsions awaken them.
-
-```statblock
 "name": "Chuul (XMM)"
 "size": "Large"
 "type": "aberration"
@@ -79,77 +56,22 @@ Chuuls don't age and can lie dormant in hidden places for millennia before threa
 "hp": !!int "76"
 "hit_dice": "9d10 + 27"
 "modifier": !!int "0"
-"stats":
-  - !!int "19"
-  - !!int "10"
-  - !!int "16"
-  - !!int "5"
-  - !!int "11"
+"stats": - !!int "19" - !!int "10" - !!int "16" - !!int "5" - !!int "11"
 "speed": "30 ft., swim 30 ft."
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+4"
+"skillsaves": - "name": "[[skills#Perception|Perception]]" "desc": "+4"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "understands Deep Speech but can't speak"
 "cr": "4"
-"traits":
-  - "desc": "The chuul can breathe air and water."
-    "name": "Amphibious"
-  - "desc": "The chuul senses magic within 120 feet of itself. This trait otherwise\
-      \ works like the [[detect-magic-xphb (spells)]]\
-      \ spell but isn't itself magical."
-    "name": "Sense Magic"
-"actions":
-  - "desc": "The chuul makes two Pincer attacks and uses Paralyzing Tentacles."
-    "name": "Multiattack"
-  - "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 9 (1d10 + 4) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Grappled|Grappled]]\
-      \ condition (escape DC 14) from one of two pincers."
-    "name": "Pincer"
-  - "desc": "Constitution Saving Throw: DC 13, one creature [[conditions#Grappled|Grappled]]\
-      \ by the chuul. Failure: The target has the [[conditions#Poisoned|Poisoned]]\
-      \ condition and repeats the save at the end of each of its turns, ending the\
-      \ effect on itself on a success. After 1 minute, it succeeds automatically.\
-      \ While [[conditions#Poisoned|Poisoned]], the target has\
-      \ the [[conditions#Paralyzed|Paralyzed]] condition."
-    "name": "Paralyzing Tentacles"
-"source":
-  - "XMM"
-"image": "/03_Mechanics/CLI/bestiary/aberration/token/chuul-xmm.webp"
-```
-^statblock
+"traits": - "desc": "The chuul can breathe air and water." "name": "Amphibious" - "desc": "The chuul senses magic within 120 feet of itself. This trait otherwise\ \ works like the [[detect-magic-xphb (spells)]]\ \ spell but isn't itself magical." "name": "Sense Magic"
+"actions": - "desc": "The chuul makes two Pincer attacks and uses Paralyzing Tentacles." "name": "Multiattack" - "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 9 (1d10 + 4) Bludgeoning\ \ damage. If the target is a Large or smaller creature, it has the [[conditions#Grappled|Grappled]]\ \ condition (escape DC 14) from one of two pincers." "name": "Pincer" - "desc": "Constitution Saving Throw: DC 13, one creature [[conditions#Grappled|Grappled]]\ \ by the chuul. Failure: The target has the [[conditions#Poisoned|Poisoned]]\ \ condition and repeats the save at the end of each of its turns, ending the\ \ effect on itself on a success. After 1 minute, it succeeds automatically.\ \ While [[conditions#Poisoned|Poisoned]], the target has\ \ the [[conditions#Paralyzed|Paralyzed]] condition." "name": "Paralyzing Tentacles"
+"source": - "XMM"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/chuul-xmm.webp"```^statblock ## Environment coastal, swamp, underdark ## Player-Facing Summary Chuul xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of chuul xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chuul xmm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A shipment has gone missing and truth emerges
 
-## Environment
-
-coastal, swamp, underdark
-
-## Player-Facing Summary
-
-Chuul xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of chuul xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chuul xmm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A shipment has gone missing and truth emerges
 - Strange disappearances suggest ancient magic
-- The authorities needs help stealing before dawn
+- The authorities needs help stealing before dawn ## References - [[chuul-xmm (aberration)]]
 
-## References
-
-- [[chuul-xmm (aberration)]]
 - [[Monsters by Habitat Coastal Monsters Xmm]]
 - [[Monsters by Habitat Swamp Monsters Xmm]]
 - [[Monsters by Habitat Underdark Monsters Xmm]]
@@ -160,3 +82,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
 - [[underdark-encounters-levels-1116-xge (tables)]]
 - [[underdark-encounters-levels-14-xge (tables)]]
+
+
+## Notes
+
+*Additional notes*

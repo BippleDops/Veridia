@@ -179,3 +179,22 @@ Key locations marked:
 - An heirloom has gone missing and war looms
 - Someone is searching for a artifact for money
 - Strange sightings suggest a conspiracy
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

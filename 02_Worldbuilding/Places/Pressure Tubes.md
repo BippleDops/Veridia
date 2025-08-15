@@ -503,3 +503,18 @@ Mentioned in The First Prophecy of Stars
 - [[Underwater Breathing (D&D_References)]]
 - [[Topic Matrix]]
 - [[Topic_Matrix (Indexes)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

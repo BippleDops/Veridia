@@ -217,3 +217,18 @@ Ongoing situations affecting Reflection Broker Mirrors:
 ## References
 
 - [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -271,3 +271,18 @@ Ongoing situations affecting The Sunken Cathedral of Stars:
 - [[The Leviathan Cult (Cults_and_Movements)]]
 - [[Prophet Nerida Voidgazer (D&D_References)]]
 - [[The Leviathan Cult]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

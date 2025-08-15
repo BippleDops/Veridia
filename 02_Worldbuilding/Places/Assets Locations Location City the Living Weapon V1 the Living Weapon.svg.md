@@ -178,3 +178,22 @@ Key locations marked:
 - A stranger needs help stealing before the festival
 - Strange disappearances suggest ancient magic
 - The authorities needs help stealing before the new moon
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

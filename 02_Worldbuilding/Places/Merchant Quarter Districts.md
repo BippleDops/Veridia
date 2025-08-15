@@ -249,3 +249,18 @@ Key stop on metals trade route
 
 - [[The Queen (D&D_References)]]
 - [[The Queen 3 (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

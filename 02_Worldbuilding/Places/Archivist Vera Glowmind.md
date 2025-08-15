@@ -503,3 +503,18 @@ Mentioned in The Hidden Prophecy of Winds
 - [[Lumengarde (D&D_References)]]
 - [[The Forgotten One (D&D_References)]]
 - [[Keeper Elara Mindwell (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

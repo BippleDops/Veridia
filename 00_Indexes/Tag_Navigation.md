@@ -7,14 +7,25 @@ tags:
 - quest
 - shadow-touched
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
 status: active
+aliases: ["Tag Navigation"]
+priority: normal
+category: 00 Indexes
+subcategory: Tag Navigation.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Tag_Navigation
+ # Tag_Navigation ---
 
----
+## Description {#description}
+
+Detailed description pending.
 title: Tag Navigation
 type: navigation
 tags:
@@ -23,123 +34,67 @@ tags:
 - active
 - tags
 - hierarchy
+
 created: 2025-08-14
 modified: '2025-08-14'
 updated: 2025-08-14
 cssclass: tag-hierarchy
----
 
-### Find by Single Tag
-```dataview
-TABLE WITHOUT ID
-  file.link as Content,
-  file.folder as Location
-FROM # combat
+--- ### Find by Single Tag```dataview
 
-LIMIT 10
-```
-### Find by Multiple Tags
+TABLE WITHOUT ID file.link as Content, file.folder as Location
 
-  tags as Tags
-FROM #npc AND #aquabyssos
+FROM # combat LIMIT 10```### Find by Multiple Tags tags as Tags
 
-### Tag Combinations
+FROM #npc AND #aquabyssos ### Tag Combinations status as Status
 
-  status as Status
-FROM (#quest OR #adventure) AND #active
+FROM (#quest OR #adventure) AND #active ## 📈 Tag Statistics tag as Tag, length(rows) as "Usage Count"
 
-## 📈 Tag Statistics
-
-  tag as Tag,
-  length(rows) as "Usage Count"
 FROM ""
+
 FLATTEN tags as tag
-WHERE tag != 
-GROUP BY tag
+
+WHERE tag != GROUP BY tag
+
 SORT length(rows) DESC
-LIMIT 20
 
-### Campaign Tags
+LIMIT 20 ### Campaign Tags LIST
 
-LIST
-FROM # campaign OR #seven-shards OR #shadow-conspiracy
+FROM # campaign OR #seven-shards OR #shadow-conspiracy GROUP BY file.folder ### Faction Tags FROM # faction OR #guild OR #organization GROUP BY tags ### Danger Level Tags danger-level as "Danger"
 
-GROUP BY file.folder
+FROM # dangerous OR #deadly OR #safe SORT danger-level DESC ### Recently Tagged file.tags as Tags, file.mtime as Modified
 
-### Faction Tags
+WHERE file.mtime >= date(today) - dur(3 days) AND tags != SORT file.mtime DESC ### Untagged Content WHERE !tags OR tags = ---
 
-FROM # faction OR #guild OR #organization
+*Tag-based navigation powered by Dataview* ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*
 
-GROUP BY tags
-
-### Danger Level Tags
-
-  danger-level as "Danger"
-FROM # dangerous OR #deadly OR #safe
-
-SORT danger-level DESC
-
-### Recently Tagged
-
-  file.tags as Tags,
-  file.mtime as Modified
-WHERE file.mtime >= date(today) - dur(3 days) AND tags != 
-SORT file.mtime DESC
-
-### Untagged Content
-
-WHERE !tags OR tags = 
-
----
-*Tag-based navigation powered by Dataview*
-
-## Related
-
-*Links to related content will be added here.*
-
-## DM Notes
-
-*Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes
+- Connections to overarching campaign themes ## Alternate Descriptions
 
-## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects
+- **Hidden Details**: Secret aspects ## Random Table
 
-## Random Table
 | d6 | Result |
 |----|--------|
-| 1  | Option A |
-| 2  | Option B |
-| 3  | Option C |
-| 4  | Option D |
-| 5  | Option E |
-| 6  | Option F |
+| 1 | Option A |
+| 2 | Option B |
+| 3 | Option C |
+| 4 | Option D |
+| 5 | Option E |
+| 6 | Option F | ## Overview *To be added* ## Goals *To be added* ## Structure *To be added* ## Members *To be added* ## Resources *To be added* ## Relationships *To be added*
 
-## Overview
+## Notes {#notes}
 
-*To be added*
+*Additional notes*
 
-## Goals
-
-*To be added*
-
-## Structure
-
-*To be added*
-
-## Members
-
-*To be added*
-
-## Resources
-
-*To be added*
-
-## Relationships
-
-*To be added*
+#mechanics/combat
+#story/story
+#world/location
+#character/npc
+#gameplay/adventure
+#gameplay/quest
+#meta/index
+#meta/navigation

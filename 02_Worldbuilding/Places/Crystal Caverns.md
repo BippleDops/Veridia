@@ -472,3 +472,18 @@ Crystal Caverns was established in the distant past, growing from humble beginni
 - [[The Depth Plague]]
 - [[The Depth Plague (D&D_References)]]
 - [[Shard_Locations (D&D_Sourcebooks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

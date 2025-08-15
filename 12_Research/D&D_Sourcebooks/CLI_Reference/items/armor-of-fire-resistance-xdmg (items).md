@@ -1,15 +1,18 @@
 ---
+
 title: armor-of-fire-resistance-xdmg (items)
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# armor-of-fire-resistance-xdmg
+--- # armor-of-fire-resistance-xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: armor of fire resistance xdmg
 aliases:
 - Armor of Fire Resistance
@@ -25,6 +28,7 @@ aliases:
 - Scale Mail of Fire Resistance
 - Splint Armor of Fire Resistance
 - Studded Leather Armor of Fire Resistance
+
 type: note
 tags:
 - research
@@ -34,6 +38,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -42,17 +47,11 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-12T23:37:36.699980'
 world: Both
----
 
-> [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-armor-of-fire-resistance-xdmg-armor-of-fire-resistance-xdmg.svg)
+--- > [!figure] Item
+![](04_Resources/Assets/Items/item-artifact-armor-of-fire-resistance-xdmg-armor-of-fire-resistance-xdmg.svg) # Armor of Fire Resistance
 
-# Armor of Fire Resistance
-*Rare (requires attunement)*  
-
-You have [[boon-of-energy-resistance-xphb (feats)]] to fire damage while you wear this armor.
-
-**Variants**:
+*Rare (requires attunement)* You have [[boon-of-energy-resistance-xphb (feats)]] to fire damage while you wear this armor. **Variants**:
 - [Breastplate of Fire Resistance](#Breastplate%20of%20Fire%20Resistance)
 - [Chain Mail of Fire Resistance](#Chain%20Mail%20of%20Fire%20Resistance)
 - [Chain Shirt of Fire Resistance](#Chain%20Shirt%20of%20Fire%20Resistance)
@@ -64,49 +63,14 @@ You have [[boon-of-energy-resistance-xphb (feats)]] to fire damage while you wea
 - [Ring Mail of Fire Resistance](#Ring%20Mail%20of%20Fire%20Resistance)
 - [Scale Mail of Fire Resistance](#Scale%20Mail%20of%20Fire%20Resistance)
 - [Splint Armor of Fire Resistance](#Splint%20Armor%20of%20Fire%20Resistance)
-- [Studded Leather Armor of Fire Resistance](#Studded%20Leather%20Armor%20of%20Fire%20Resistance)
+- [Studded Leather Armor of Fire Resistance](#Studded%20Leather%20Armor%20of%20Fire%20Resistance) ### Studded Leather Armor of Fire Resistance - **Armor Class**: 12 + Dex modifier
 
-### Studded Leather Armor of Fire Resistance
+- **Weight**: 13.0 lbs. *Source: Dungeon Master's Guide (2024) p. 231. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Armor of fire resistance xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of armor of fire resistance xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around armor of fire resistance xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is searching for a witness for revenge
 
-- **Armor Class**: 12 + Dex modifier
-- **Weight**: 13.0 lbs.
-
-*Source: Dungeon Master's Guide (2024) p. 231. Available in the SRD and the Free Rules (2024)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Armor of fire resistance xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of armor of fire resistance xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around armor of fire resistance xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Someone is searching for a witness for revenge
 - Someone is hunting a artifact for money
-- A stranger needs help stealing before the festival
+- A stranger needs help stealing before the festival ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
+
+*Additional notes*

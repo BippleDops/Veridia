@@ -227,3 +227,18 @@ Ongoing situations affecting The Lighthouse Keepers:
 ## References
 
 - [[Shadow Surgeons Collective]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

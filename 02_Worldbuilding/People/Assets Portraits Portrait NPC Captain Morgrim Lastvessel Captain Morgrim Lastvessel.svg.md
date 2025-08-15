@@ -208,3 +208,23 @@ This NPC can serve multiple roles:
 
 - [[04_Resources_Assets_Symbols_symbol-heraldry-agricultural-provinces-agricultural-provinces.svg]]
 - [[04_Resources_Assets_Symbols_symbol-heraldry-echo-prime-cacophony-voidlung-echo-prime-cacophony-voidlung.svg]]
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

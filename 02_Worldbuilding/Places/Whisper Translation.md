@@ -251,3 +251,18 @@ Ongoing situations affecting Whisper Translation:
 - [[Shadow Market Canals]]
 - [[Whisper-Touched William]]
 - [[Shadow Market Canals (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

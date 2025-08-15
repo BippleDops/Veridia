@@ -181,3 +181,23 @@ Legends speak of Political Intrigue of Meridian as a nexus where past and presen
 - [[02_Worldbuilding/Places/Political Intrigue of Meridian]]
 
 <!-- enriched: true -->
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

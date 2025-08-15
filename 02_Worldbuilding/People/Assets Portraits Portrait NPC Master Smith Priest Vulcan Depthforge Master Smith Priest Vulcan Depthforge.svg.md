@@ -209,3 +209,23 @@ Member of House Serpentblood - Trait: magical affinity
 ## References
 
 - [[Assets Locations Location City Guildmaster Harwick V1 Guildmaster Harwick.png]]
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

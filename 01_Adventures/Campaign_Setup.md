@@ -4,129 +4,127 @@ title: Campaign_Setup
 type: quest
 tags:
 - quest
+
 created: '2025-01-15'
 modified: '2025-01-15'
 status: active
+aliases: ["Campaign Setup"]
+priority: normal
+category: 01 Adventures
+subcategory: Campaign Setup.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Campaign_Setup
+ # Campaign_Setup ---
 
----
+## Description
+
+Detailed description pending.
 title: Campaign Setup
 type: template
 tags:
 - template
 - active
+
 created: '2025-08-14'
 modified: '2025-08-14'
----
 
-## 🔧 Deep Evaluation Improvements
+--- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 09_Templates-specific enhancement ## Initial Setup
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 09_Templates-specific enhancement
-
-## Initial Setup
 1. Define campaign theme
 2. Create world overview
 3. Design starting location
-4. Prepare Session 0
+4. Prepare Session 0 ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*
 
-## Related
 
-*Links to related content will be added here.*
-
-## DM Notes
-
-*Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes
+- Connections to overarching campaign themes ## 09_Templates Specific Content Contextual improvement based on 09_Templates ## 09_Templates Specific Content Contextual improvement based on 09_Templates ## Background
 
-## 09_Templates Specific Content
+*[Adventure setup and context]* ### What Happened Before
 
-Contextual improvement based on 09_Templates
+- *[Recent events leading to this adventure]* ### Current Situation - *[What's happening now]* ### The Stakes
 
-## 09_Templates Specific Content
+- *[What happens if PCs don't act]* ## Adventure Hooks
 
-Contextual improvement based on 09_Templates
+*[Ways to get PCs involved]* ### Direct Approach
 
-## Background
-*[Adventure setup and context]*
+- *[Straightforward hook]* ### Indirect Approach
 
-### What Happened Before
-- *[Recent events leading to this adventure]*
+- *[Subtle introduction]* ### Emergency Hook
 
-### Current Situation  
-- *[What's happening now]*
+- *[Urgent situation]* ## Key NPCs
 
-### The Stakes
-- *[What happens if PCs don't act]*
+*[Important characters in this adventure]* ### Allies
 
-## Adventure Hooks
-*[Ways to get PCs involved]*
+- *[Helpful NPCs]* ### Antagonists
 
-### Direct Approach
-- *[Straightforward hook]*
+- *[Opposition NPCs]* ### Neutral Parties
 
-### Indirect Approach
-- *[Subtle introduction]*
+- *[Information sources]* ## Locations
 
-### Emergency Hook
-- *[Urgent situation]*
+*[Important places in this adventure]* ### Starting Location
 
-## Key NPCs
-*[Important characters in this adventure]*
+- *[Where adventure begins]* ### Key Sites
 
-### Allies
-- *[Helpful NPCs]*
+- *[Major locations to visit]* ### Optional Areas
 
-### Antagonists
-- *[Opposition NPCs]*
+- *[Side locations]* ## Rewards
 
-### Neutral Parties
-- *[Information sources]*
+*[What PCs gain from completing this adventure]* ### Experience Points
 
-## Locations
-*[Important places in this adventure]*
+- *[XP awards]* ### Treasure
 
-### Starting Location
-- *[Where adventure begins]*
+- *[Gold and magic items]* ### Story Rewards
 
-### Key Sites
-- *[Major locations to visit]*
+- *[Reputation, allies, information]* ## Scaling
 
-### Optional Areas
-- *[Side locations]*
+*[How to adjust for different party levels]* ### Lower Level Parties
 
-## Rewards
-*[What PCs gain from completing this adventure]*
+- *[Adjustments for weaker groups]* ### Higher Level Parties
 
-### Experience Points
-- *[XP awards]*
+- *[Adjustments for stronger groups]* ### Large/Small Parties
 
-### Treasure
-- *[Gold and magic items]*
-
-### Story Rewards
-- *[Reputation, allies, information]*
-
-## Scaling
-*[How to adjust for different party levels]*
-
-### Lower Level Parties
-- *[Adjustments for weaker groups]*
-
-### Higher Level Parties
-- *[Adjustments for stronger groups]*
-
-### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## Notes
+
+*Additional notes*
+
+#story/story
+#story/background
+#world/location
+#world/world
+#world/place
+#character/npc
+#character/character
+#gameplay/session
+#gameplay/adventure
+#gameplay/quest
+#resource/item
+#resource/treasure
+#meta/reference
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

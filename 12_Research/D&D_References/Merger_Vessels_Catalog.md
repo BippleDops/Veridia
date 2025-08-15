@@ -1,15 +1,28 @@
 ---
+
 title: Merger_Vessels_Catalog
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Merger Vessels Catalog"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D References
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Merger_Vessels_Catalog
+ # Merger_Vessels_Catalog ---
 
----
+## Description
+
+Detailed description pending.
 title: Merger Vessels Catalog
 type: mechanics
 tags:
@@ -21,16 +34,15 @@ tags:
 - research
 - active
 - complete
+
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
 updated: '2025-08-13T01:18:37.144810+00:00'
 world: Both
----
 
-# Merger Vessels Catalog (36)
+--- # Merger Vessels Catalog (36) 1. Time Skipper — Arrives before departing; paradox fuel checks
 
-1. Time Skipper — Arrives before departing; paradox fuel checks
 2. Probability Sloop — Spends luck dice; alters encounter odds
 3. Dream Barge — Sails lullabies; sanity as navigation
 4. Paradox Dreadnought — Must resolve contradictions to fire
@@ -41,7 +53,7 @@ world: Both
 9. Eventide Courier — Moves at sunset in both worlds
 10. Schrödinger Sloop — Cargo both present and absent
 11. Identity Shuttle — Swaps roles; crew reassignment mechanic
-12.  Ghost — No mass at odd ticks; ignores collisions then
+12. Ghost — No mass at odd ticks; ignores collisions then
 13. Kaleidoscope Brig — Color-state changes alter physics
 14. Ouroboros Skiff — Eats its wake; infinite fuel loop risk
 15. Tesseract Barge — Folds deck space; labyrinth fights
@@ -65,55 +77,24 @@ world: Both
 33. Blind Cartographer — Draws routes post-travel; retroactive maps
 34. Spiral Thesis — Tightens reality; suppress magic nearby
 35. Refrain — Repeats last round for ship only
-36. Waking Dream — Only moves while crew dreams; rests as propulsion
+36. Waking Dream — Only moves while crew dreams; rests as propulsion Integration keys: Anchors/RSB, Sanity & memory costs, Deep Mother bargains, Paradox rules. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Merger Vessels Catalog is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Merger Vessels Catalog as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merger Vessels Catalog. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - The authorities needs help investigating before dawn
 
-Integration keys: Anchors/RSB, Sanity & memory costs, Deep Mother bargains, Paradox rules.
 
-## 🔧 Deep Evaluation Improvements
+- An heirloom has gone missing and chaos spreads ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-*20 targeted improvements identified*
 
-### Connection Improvements
+## Notes
 
-- Add cross-references to related notes
+*Additional notes*
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Merger Vessels Catalog is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of Merger Vessels Catalog as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merger Vessels Catalog.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- The authorities needs help investigating before dawn
-- An heirloom has gone missing and chaos spreads
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#mechanics/rules
+#mechanics/mechanics
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#gameplay/encounter
+#meta/navigation
+#meta/reference

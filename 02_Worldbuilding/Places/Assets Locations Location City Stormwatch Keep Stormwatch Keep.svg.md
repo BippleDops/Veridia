@@ -175,3 +175,22 @@ Key locations marked:
 - A noble needs help finding before the festival
 - Someone is searching for information for money
 - A map reveals a betrayal about a local noble
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

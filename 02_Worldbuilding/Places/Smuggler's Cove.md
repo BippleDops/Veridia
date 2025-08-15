@@ -138,3 +138,18 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [[Consequence Chain 5 - Marina Identity Revelation]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

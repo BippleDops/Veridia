@@ -547,3 +547,18 @@ Key stop on spices trade route
 - [[Depth Wardens (D&D_References)]]
 - [[Pressure's End (D&D_References)]]
 - [[Depth Warden Patrol (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

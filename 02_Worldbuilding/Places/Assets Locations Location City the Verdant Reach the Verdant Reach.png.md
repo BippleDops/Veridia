@@ -182,3 +182,22 @@ Key stop on textiles trade route
 
 - A journal reveals the truth about the cult
 - Someone is searching for a artifact for power
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

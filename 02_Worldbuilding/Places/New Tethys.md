@@ -166,3 +166,18 @@ This content can be adapted and expanded based on specific campaign needs.
 - [[The Whispering Depths (D&D_References)]]
 - [[Aurelius Goldwave (D&D_Statblocks)]]
 - [[The Void Touched Depths (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

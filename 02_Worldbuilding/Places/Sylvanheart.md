@@ -573,3 +573,18 @@ Mentioned in The Hidden Prophecy of Depths
 - [[Port Meridian - Merchant Quarter (D&D_References)]]
 - [[The Embassy Quarter (D&D_References)]]
 - [[The Verdant Reach (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -217,3 +217,27 @@ Adapt as needed for:
 
 ---
 *Tags*: [[#General]] #worldbuilding #02-worldbuilding/places/the-crystal-palace
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

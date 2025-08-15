@@ -506,3 +506,18 @@ Ongoing situations affecting Madame Rosalind Goldleaf:
 - [[Major Trading Companies (D&D_References)]]
 - [[Merchant Princes (D&D_References)]]
 - [[Pip Goldleaf (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

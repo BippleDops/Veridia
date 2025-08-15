@@ -220,3 +220,18 @@ Ongoing situations affecting The Trencher Folk:
 - [[The Cerulean Trench]]
 - [[The Bathyal Palace (D&D_References)]]
 - [[The Cerulean Trench (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

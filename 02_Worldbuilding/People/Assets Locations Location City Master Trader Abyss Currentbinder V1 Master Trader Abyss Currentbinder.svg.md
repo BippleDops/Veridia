@@ -205,3 +205,28 @@ Member of House Dragonblood - Trait: prophecy
 ## References
 
 - [[04_Resources_Assets_Locations_location-city-culinary-dreamweaver-sage-gentlespice-v1-culinary-dreamweaver-sage-gentlespice.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

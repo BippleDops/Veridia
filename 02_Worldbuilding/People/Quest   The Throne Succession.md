@@ -48,3 +48,28 @@ Currently involved in the ongoing events of the campaign.
 - [[Assets Portraits Portrait NPC Trade Captain Current Trade Captain Current.svg]]
 - [[Assets Portraits Portrait NPC the Depth Blessed Fisherman Captain Sal Deepcurrent the Depth Blessed Fisherman Captain Sal Deepcurrent.svg]]
 - [[Assets Symbols Symbol Heraldry Quest the Crystal Innovatio Quest the Crystal Innovatio.svg]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

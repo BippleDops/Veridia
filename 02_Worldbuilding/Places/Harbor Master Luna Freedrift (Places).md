@@ -335,3 +335,18 @@ Ongoing situations affecting Harbor Master Luna Freedrift:
 
 ---
 **Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

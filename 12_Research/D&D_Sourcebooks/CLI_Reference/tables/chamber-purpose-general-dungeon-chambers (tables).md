@@ -1,18 +1,32 @@
 ---
+
 title: chamber-purpose-general-dungeon-chambers (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["chamber-purpose-general-dungeon-chambers (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# chamber-purpose-general-dungeon-chambers
+ # chamber-purpose-general-dungeon-chambers ---
 
----
+## Description
+
+Detailed description pending.
 title: chamber purpose general dungeon chambers
 aliases:
 - Chamber Purpose; General Dungeon Chambers
+
 type: note
 tags:
 - research
@@ -21,23 +35,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.484453'
 world: Both
----
 
-# Chamber Purpose; General Dungeon Chambers
-*Source: Dungeon Master's Guide p. 292* 
+--- # Chamber Purpose; General Dungeon Chambers
 
-**General Dungeon Chambers**
-
-`dice: [](chamber-purpose-general-dungeon-chambers.md#^general-dungeon-chambers)`
-
-| dice: d100 | Purpose |
+*Source: Dungeon Master's Guide p. 292* **General Dungeon Chambers**`dice: [](chamber-purpose-general-dungeon-chambers.md#^general-dungeon-chambers)`| dice: d100 | Purpose |
 |------------|---------|
 | 01 | Antechamber |
 | 02-03 | Armory |
@@ -98,41 +107,20 @@ world: Both
 | 97 | Nursery or schoolroom |
 | 98 | Well |
 | 99-00 | Workshop |
-^general-dungeon-chambers
 
-## 🔧 Deep Evaluation Improvements
+^general-dungeon-chambers ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Chamber purpose general dungeon chambers is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of chamber purpose general dungeon chambers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chamber purpose general dungeon chambers. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A document has gone missing and chaos spreads
 
-*20 targeted improvements identified*
+- Someone is blackmailing a artifact for revenge ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-### Connection Improvements
 
-- Add cross-references to related notes
+## Notes
 
-### Enhancement Improvements
+*Additional notes*
 
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Chamber purpose general dungeon chambers is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of chamber purpose general dungeon chambers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chamber purpose general dungeon chambers.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A document has gone missing and chaos spreads
-- Someone is blackmailing a artifact for revenge
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

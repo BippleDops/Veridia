@@ -4,181 +4,131 @@ title: Player_Notes
 type: quest
 tags:
 - quest
+
 created: '2025-01-15'
 modified: '2025-01-15'
 status: active
+aliases: ["Player Notes"]
+priority: normal
+category: 01 Adventures
+subcategory: Player Notes.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Player_Notes
+ # Player_Notes ---
 
----
+## Description
+
+Detailed description pending.
 title: Player Notes
 type: campaign
 tags:
 - active
 - campaign
+
 created: '2025-08-14'
 modified: '2025-08-14'
----
 
-# Player Notes
+--- # Player Notes *Player-visible information* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Accessibility Improvements - Include content warnings and safety tools ### Session_Zero Improvements - Add session zero integration questions ### Soundtrack Improvements - Suggest music/ambiance for each scene ### Spotlight Improvements - Include spotlight moment for each character class ### Art Improvements - Add AI art prompts for key scenes ### Props Improvements - List physical props and handouts needed ### Backup Improvements - Add 'What if players skip this?' contingency ### Variants Improvements - Add horror, intrigue, and comedy tone variants ### Level_Range Improvements - Provide scaling for different level ranges ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*
 
-*Player-visible information*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Combat Improvements
-
-- Add encounter scaling table for parties of 3-6 players, levels 1-20
-
-### Rewards Improvements
-
-- Create treasure parcels for each major encounter
-
-### Structure Improvements
-
-- Add three-act structure with rising action
-
-### Choices Improvements
-
-- Add meaningful decision points with consequences
-
-### Roleplay Improvements
-
-- Include ethical challenges without clear answers
-
-### Accessibility Improvements
-
-- Include content warnings and safety tools
-
-### Session_Zero Improvements
-
-- Add session zero integration questions
-
-### Soundtrack Improvements
-
-- Suggest music/ambiance for each scene
-
-### Spotlight Improvements
-
-- Include spotlight moment for each character class
-
-### Art Improvements
-
-- Add AI art prompts for key scenes
-
-### Props Improvements
-
-- List physical props and handouts needed
-
-### Backup Improvements
-
-- Add 'What if players skip this?' contingency
-
-### Variants Improvements
-
-- Add horror, intrigue, and comedy tone variants
-
-### Level_Range Improvements
-
-- Provide scaling for different level ranges
-
-## Related
-
-*Links to related content will be added here.*
-
-## DM Notes
-
-*Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes
+- Connections to overarching campaign themes ## Plot Hooks - A merchant needs help delivering before the new moon
 
-## Plot Hooks
-
-- A merchant needs help delivering before the new moon
 - Strange disappearances suggest a conspiracy
-- A noble needs help stealing before winter
+- A noble needs help stealing before winter ## Treasure Parcels ### Parcel A (Combat Victory)
 
-## Treasure Parcels
-
-### Parcel A (Combat Victory)
 - 2d6 × 10 gp
 - Potion of Healing
-- Clue to next location
+- Clue to next location ### Parcel B (Exploration)
 
-### Parcel B (Exploration)
 - Magic item (roll on Table F)
 - Ancient map fragment
-- 1d4 gems (50 gp each)
+- 1d4 gems (50 gp each) ## Background
 
-## Background
-*[Adventure setup and context]*
+*[Adventure setup and context]* ### What Happened Before
 
-### What Happened Before
-- *[Recent events leading to this adventure]*
+- *[Recent events leading to this adventure]* ### Current Situation - *[What's happening now]* ### The Stakes
 
-### Current Situation  
-- *[What's happening now]*
+- *[What happens if PCs don't act]* ## Adventure Hooks
 
-### The Stakes
-- *[What happens if PCs don't act]*
+*[Ways to get PCs involved]* ### Direct Approach
 
-## Adventure Hooks
-*[Ways to get PCs involved]*
+- *[Straightforward hook]* ### Indirect Approach
 
-### Direct Approach
-- *[Straightforward hook]*
+- *[Subtle introduction]* ### Emergency Hook
 
-### Indirect Approach
-- *[Subtle introduction]*
+- *[Urgent situation]* ## Key NPCs
 
-### Emergency Hook
-- *[Urgent situation]*
+*[Important characters in this adventure]* ### Allies
 
-## Key NPCs
-*[Important characters in this adventure]*
+- *[Helpful NPCs]* ### Antagonists
 
-### Allies
-- *[Helpful NPCs]*
+- *[Opposition NPCs]* ### Neutral Parties
 
-### Antagonists
-- *[Opposition NPCs]*
+- *[Information sources]* ## Locations
 
-### Neutral Parties
-- *[Information sources]*
+*[Important places in this adventure]* ### Starting Location
 
-## Locations
-*[Important places in this adventure]*
+- *[Where adventure begins]* ### Key Sites
 
-### Starting Location
-- *[Where adventure begins]*
+- *[Major locations to visit]* ### Optional Areas
 
-### Key Sites
-- *[Major locations to visit]*
+- *[Side locations]* ## Scaling
 
-### Optional Areas
-- *[Side locations]*
+*[How to adjust for different party levels]* ### Lower Level Parties
 
-## Scaling
-*[How to adjust for different party levels]*
+- *[Adjustments for weaker groups]* ### Higher Level Parties
 
-### Lower Level Parties
-- *[Adjustments for weaker groups]*
+- *[Adjustments for stronger groups]* ### Large/Small Parties
 
-### Higher Level Parties
-- *[Adjustments for stronger groups]*
+- *[Adjustments for party size]* ## DM Tips
 
-### Large/Small Parties
-- *[Adjustments for party size]*
-
-## DM Tips
 > 💡 **Running This Content**: Advice for game masters
-> Adjust difficulty based on party composition
 
-## References
+> Adjust difficulty based on party composition ## References - [[Player Notes (02_Worldbuilding)]]
 
-- [[Player Notes (02_Worldbuilding)]]
+
+## Notes
+
+*Additional notes*
+
+#mechanics/combat
+#story/plot
+#story/story
+#story/background
+#world/location
+#world/world
+#world/place
+#character/npc
+#character/character
+#gameplay/session
+#gameplay/encounter
+#gameplay/adventure
+#gameplay/quest
+#resource/item
+#resource/treasure
+#meta/reference
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

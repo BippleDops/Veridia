@@ -159,3 +159,18 @@ This content can be adapted and expanded based on specific campaign needs.
 - [[Lord Reginald Seaworthy]]
 - [[Concierge Phillip Gracewater (D&D_References)]]
 - [[Lord Reginald Seaworthy (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

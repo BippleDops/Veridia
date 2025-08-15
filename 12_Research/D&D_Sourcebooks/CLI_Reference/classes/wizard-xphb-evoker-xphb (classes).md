@@ -1,18 +1,32 @@
 ---
+
 title: wizard-xphb-evoker-xphb (classes)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["wizard-xphb-evoker-xphb (classes)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# wizard-xphb-evoker-xphb
+ # wizard-xphb-evoker-xphb ---
 
----
+## Description
+
+Detailed description pending.
 title: wizard xphb evoker xphb
 aliases:
 - Evoker
+
 type: note
 tags:
 - research
@@ -22,22 +36,20 @@ tags:
 - status/in-progress
 - ttrpg-cli/subclass/wizard/evoker
 - ttrpg-cli/compendium/src/5e/xphb
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-class
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:34.387204'
 world: Both
----
 
-# Evoker
-*[[Wizard Xphb School of Necromancy]]: Wizard Subclass*  
-*Source: Player's Handbook (2024) p. 174. Available in the SRD and the Free Rules (2024)*  
+--- # Evoker
 
-> [!tldr] Class and Feature Progression
-> 
-> LevelPBFeatures
+*[[Wizard Xphb School of Necromancy]]: Wizard Subclass* *Source: Player's Handbook (2024) p. 174. Available in the SRD and the Free Rules (2024)* > [!tldr] Class and Feature Progression
+
+> > Level PBFeatures
 > 1st+2
 > 2nd+2
 > 3rd+2Evoker
@@ -57,76 +69,21 @@ world: Both
 > 17th+6
 > 18th+6
 > 19th+6
-> 20th+6
+> 20th+6 ^class-progression ### Evoker (Level 3) *Create Explosive Elemental Effects* Your studies focus on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some Evokers find employment in military forces, serving as artillery to blast armies from afar. Others use their power to protect others, while some seek their own gain. ### Evocation Savant (Level 3) Choose two Wizard spells from the Evocation school, each of which must be no higher than level 2, and add them to your spellbook for free. In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Evocation school to your spellbook for free. The chosen spell must be of a level for which you have spell slots. ### Potent Cantrip (Level 3) Your damaging cantrips affect even creatures that avoid the brunt of the effect. When you cast a cantrip at a creature and you miss with the attack roll or the target succeeds on a saving throw against the cantrip, the target takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip. ### Sculpt Spells (Level 6) You can create pockets of relative safety within the effects of your evocations. When you cast an Evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 plus the spell's level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save. ### Empowered Evocation (Level 10) Whenever you cast a Wizard spell from the Evocation school, you can add your Intelligence modifier to one damage roll of that spell. ### Overchannel (Level 14) You can increase the power of your spells. When you cast a Wizard spell with a spell slot of levels 1–5 that deals damage, you can deal maximum damage with that spell on the turn you cast it. The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a [[long-rest-xphb]], you take`2d12`Necrotic damage for each level of the spell slot immediately after you cast it. This damage ignores [[boon-of-energy-resistance-xphb (feats)]] and [[immunity-xphb (variant-rules)]]. Each time you use this feature again before finishing a [[long-rest-xphb]], the Necrotic damage per spell level increases by`d12`. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Wizard xphb evoker xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of wizard xphb evoker xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wizard xphb evoker xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is blackmailing a witness for money
 
-^class-progression
-
-### Evoker (Level 3)
-
-*Create Explosive Elemental Effects*
-
-Your studies focus on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some Evokers find employment in military forces, serving as artillery to blast armies from afar. Others use their power to protect others, while some seek their own gain.
-
-### Evocation Savant (Level 3)
-
-Choose two Wizard spells from the Evocation school, each of which must be no higher than level 2, and add them to your spellbook for free.
-
-In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Evocation school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
-
-### Potent Cantrip (Level 3)
-
-Your damaging cantrips affect even creatures that avoid the brunt of the effect. When you cast a cantrip at a creature and you miss with the attack roll or the target succeeds on a saving throw against the cantrip, the target takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip.
-
-### Sculpt Spells (Level 6)
-
-You can create pockets of relative safety within the effects of your evocations. When you cast an Evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 plus the spell's level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.
-
-### Empowered Evocation (Level 10)
-
-Whenever you cast a Wizard spell from the Evocation school, you can add your Intelligence modifier to one damage roll of that spell.
-
-### Overchannel (Level 14)
-
-You can increase the power of your spells. When you cast a Wizard spell with a spell slot of levels 1–5 that deals damage, you can deal maximum damage with that spell on the turn you cast it.
-
-The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a [[long-rest-xphb]], you take `2d12` Necrotic damage for each level of the spell slot immediately after you cast it. This damage ignores [[boon-of-energy-resistance-xphb (feats)]] and [[immunity-xphb (variant-rules)]].
-
-Each time you use this feature again before finishing a [[long-rest-xphb]], the Necrotic damage per spell level increases by `d12`.
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Wizard xphb evoker xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of wizard xphb evoker xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wizard xphb evoker xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Someone is blackmailing a witness for money
 - A noble needs help finding before dawn
-- A noble needs help delivering before winter
+- A noble needs help delivering before winter ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#meta/reference

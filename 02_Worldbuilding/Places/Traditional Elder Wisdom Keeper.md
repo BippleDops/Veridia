@@ -223,3 +223,18 @@ Key stop on spices trade route
 
 - [[Crystal Corruption Taboos]]
 - [[Crystal Corruption Taboos (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

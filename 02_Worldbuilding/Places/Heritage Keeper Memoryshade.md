@@ -243,3 +243,18 @@ Key stop on metals trade route
 - [[Dr. Elena Compassion]]
 - [[Shadow Portal Nexus (D&D_References)]]
 - [[Shadow Vale]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

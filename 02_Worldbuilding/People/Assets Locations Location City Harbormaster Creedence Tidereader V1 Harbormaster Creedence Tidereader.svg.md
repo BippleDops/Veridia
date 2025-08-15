@@ -240,3 +240,28 @@ This NPC can serve multiple roles:
 
 - [[04_Resources_Assets_Portraits_portrait-npc-captain-prism-shield-valeria-captain-prism-shield-valeria.svg]]
 - [[04_Resources_Assets_Portraits_portrait-npc-current-lord-triton-of-house-pelagios-current-lord-triton-of-house-pelagios.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

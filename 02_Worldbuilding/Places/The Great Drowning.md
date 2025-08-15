@@ -514,3 +514,18 @@ Ongoing situations affecting The Great Drowning:
 - [[Whisper-Touched William (D&D_References)]]
 - [[The Foundation Depths (D&D_Statblocks)]]
 - [[The Seven Seals (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

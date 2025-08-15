@@ -420,3 +420,28 @@ Legends speak of Shadow Surgery Network as a nexus where past and present conver
 - [[02_Worldbuilding/Places/Shadow Surgery Network]]
 
 <!-- enriched: true -->
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

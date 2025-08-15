@@ -1,15 +1,18 @@
 ---
+
 title: 1-weapon-xdmg (items)
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# 1-weapon-xdmg
+--- # 1-weapon-xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: 1 weapon xdmg
 aliases:
 - +1 Weapon
@@ -64,6 +67,7 @@ aliases:
 - +1 Warhammer
 - +1 Whip
 - +1 Yklwa
+
 type: note
 tags:
 - research
@@ -73,6 +77,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
@@ -81,17 +86,11 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-12T23:37:37.467964'
 world: Both
----
 
-> [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-1-weapon-xdmg-1-weapon-xdmg.svg)
+--- > [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-1-weapon-xdmg-1-weapon-xdmg.svg) # +1 Weapon
 
-# +1 Weapon
-*Uncommon*  
-
-You have a +1 bonus to attack and damage rolls made with this magic weapon.
-
-**Variants**:
+*Uncommon* You have a +1 bonus to attack and damage rolls made with this magic weapon. **Variants**:
 - [+1 Antimatter Rifle](#+1%20Antimatter%20Rifle)
 - [+1 Automatic Rifle](#+1%20Automatic%20Rifle)
 - [+1 Battleaxe](#+1%20Battleaxe)
@@ -142,56 +141,12 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
 - [+1 War Pick](#+1%20War%20Pick)
 - [+1 Warhammer](#+1%20Warhammer)
 - [+1 Whip](#+1%20Whip)
-- [+1 Yklwa](#+1%20Yklwa)
+- [+1 Yklwa](#+1%20Yklwa) ### +1 Yklwa - **Damage**: 1d8 piercing
 
-### +1 Yklwa
-
-- **Damage**: 1d8 piercing
 - **Range**: 10/30
 - **Properties**: [[item properties#Thrown|Thrown]]
-- **Weight**: 3.0 lbs.
+- **Weight**: 3.0 lbs. *Source: Dungeon Master's Guide (2024) p. 324. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary 1 weapon xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 1 weapon xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 1 weapon xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-*Source: Dungeon Master's Guide (2024) p. 324. Available in the SRD and the Free Rules (2024)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-1 weapon xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of 1 weapon xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 1 weapon xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Master_Item_Catalog]]
 - [[Crusaders Shortsword Cos]]
 - [[Figurine of Wondrous Power Ivory Goats Xdmg]]
 - [[crusaders-shortsword-cos (items)]]
@@ -210,3 +165,8 @@ Contextual improvement based on 12_Research
 - [[random-magic-items-armaments (tables)]]
 - [[Downtime Activity Crafting a Magic Item]]
 - [[downtime-activity-crafting-a-magic-item (variant-rules)]]
+
+
+## Notes
+
+*Additional notes*

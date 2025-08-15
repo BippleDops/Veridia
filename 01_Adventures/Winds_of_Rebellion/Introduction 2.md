@@ -247,3 +247,27 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[02_Worldbuilding/Places|02 Worldbuilding/Places]] - Related content
 - [[00_Indexes/Master_Campaign_Index]] - Campaign overview
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

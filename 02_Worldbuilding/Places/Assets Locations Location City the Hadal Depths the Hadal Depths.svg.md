@@ -178,3 +178,22 @@ Key locations marked:
 - A noble needs help finding before winter
 - Someone is protecting information for love
 - Someone is protecting an heir for money
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

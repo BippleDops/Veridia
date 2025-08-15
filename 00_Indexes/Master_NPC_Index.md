@@ -5,75 +5,91 @@ type: npc
 created: 2025-08-14
 modified: 2025-08-14
 status: active
+aliases: ["Master NPC Index"]
+priority: normal
+category: 00 Indexes
+subcategory: Master Npc Index.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Master NPC Index
+ # Master NPC Index ## By Location
+### Aquabyssos {#aquabyssos}
 
-## By Location
-### Aquabyssos
-- *[NPCs organized by location]*
+- *[NPCs organized by location]* ### Aethermoor
 
-### Aethermoor
-- *[NPCs organized by location]*
+- *[NPCs organized by location]* ## By Faction
 
-## By Faction
-### Government Officials
-- *[Political figures]*
+### Government Officials {#government-officials}
 
-### Merchants & Traders
-- *[Economic figures]*
+- *[Political figures]* ### Merchants & Traders
 
-## By Importance
-### Major NPCs
-- *[Campaign-critical characters]*
+- *[Economic figures]* ## By Importance
 
-### Supporting NPCs
-- *[Secondary characters]*
+### Major NPCs {#major-npcs}
 
-### Background NPCs
-- *[Minor characters]*
+- *[Campaign-critical characters]* ### Supporting NPCs
 
-## Quick Reference
+- *[Secondary characters]* ### Background NPCs
+
+- *[Minor characters]* ## Quick Reference
+
 | Name | Location | Role | Status |
 |------|----------|------|--------|
-| *Example* | *Location* | *Role* | *Alive/Dead* |
+| *Example* | *Location* | *Role* | *Alive/Dead* | ## See Also
 
-## See Also
 - Related content
 - Similar topics
-- Connected elements
+- Connected elements ## Alternate Descriptions
 
-## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects
+- **Hidden Details**: Secret aspects ## Random Table
 
-## Random Table
 | d6 | Result |
 |----|--------|
-| 1  | Option A |
-| 2  | Option B |
-| 3  | Option C |
-| 4  | Option D |
-| 5  | Option E |
-| 6  | Option F |
+| 1 | Option A |
+| 2 | Option B |
+| 3 | Option C |
+| 4 | Option D |
+| 5 | Option E |
+| 6 | Option F | ## Description *To be added* ## Appearance *To be added* ## Personality *To be added* ## Relationships *To be added* ## Plot Hooks *To be added*
 
-## Description
+## Notes {#notes}
 
-*To be added*
+*Additional notes*
 
-## Appearance
+#story/plot
+#story/background
+#world/location
+#character/npc
+#character/character
+#character/person
+#meta/index
+#meta/reference
 
-*To be added*
+## Voice & Mannerisms {#voice-&-mannerisms}
+- Speaking style
+- Common phrases
 
-## Personality
 
-*To be added*
+## Daily Routine {#daily-routine}
+- Morning activities
+- Evening habits
 
-## Relationships
 
-*To be added*
+## Possessions {#possessions}
+- Personal items
+- Valuable objects
 
-## Plot Hooks
 
-*To be added*
+## Combat Tactics {#combat-tactics}
+- Preferred strategies
+- Special moves
+
+
+## Secrets {#secrets}
+- Hidden knowledge
+- Personal mysteries

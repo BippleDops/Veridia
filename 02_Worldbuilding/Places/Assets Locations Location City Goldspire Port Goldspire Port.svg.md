@@ -182,3 +182,22 @@ Mentioned in The Hidden Prophecy of Shadows
 - A map reveals a betrayal about a local noble
 - Strange dreams suggest ancient magic
 - Strange dreams suggest a curse
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -5,146 +5,109 @@ type: adventure
 tags:
 - adventure
 - quest
+
 created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
----
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Combat Improvements
-
-- Add encounter scaling table for parties of 3-6 players, levels 1-20
-
-### Rewards Improvements
-
-- Create treasure parcels for each major encounter
-
-### Structure Improvements
-
-- Add three-act structure with rising action
-
-### Choices Improvements
-
-- Add meaningful decision points with consequences
-
-### Roleplay Improvements
-
-- Include ethical challenges without clear answers
-
-### Art Improvements
-
-- Add AI art prompts for key scenes
-
-### Accessibility Improvements
-
-- Include content warnings and safety tools
-
-### Worldbuilding Improvements
-
-- Connect to three other adventures in the vault
-
-### Backup Improvements
-
-- Add 'What if players skip this?' contingency
-
-### Soundtrack Improvements
-
-- Suggest music/ambiance for each scene
-
-### Variants Improvements
-
-- Add horror, intrigue, and comedy tone variants
-
-### Spotlight Improvements
-
-- Include spotlight moment for each character class
-
-### Props Improvements
-
-- List physical props and handouts needed
-
-## Adventure Overview
-
-An exciting quest that challenges heroes to prevent disaster.
+aliases: ["Quest Index.png"]
+status: active
+priority: normal
+category: 01 Adventures
+subcategory: Quest Index.Png.Md
+related: []
+cssclass: standard
+publish: false
 
 ---
 
-*Last Updated: 2025-08-14 19:03*
+ ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Art Improvements - Add AI art prompts for key scenes ### Accessibility Improvements - Include content warnings and safety tools ### Worldbuilding Improvements - Connect to three other adventures in the vault ### Backup Improvements - Add 'What if players skip this?' contingency ### Soundtrack Improvements - Suggest music/ambiance for each scene ### Variants Improvements - Add horror, intrigue, and comedy tone variants ### Spotlight Improvements - Include spotlight moment for each character class ### Props Improvements - List physical props and handouts needed ## Adventure Overview An exciting quest that challenges heroes to prevent disaster. --- *Last Updated: 2025-08-14 19:03* ## DM Notes *Private notes for campaign integration:*
 
-## DM Notes
+## Description
 
-*Private notes for campaign integration:*
+Detailed description pending.
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes
+- Connections to overarching campaign themes ## Critical Decisions 1. **The Prisoner's Dilemma**: Save the hostages OR pursue the villain
 
-## Critical Decisions
-
-1. **The Prisoner's Dilemma**: Save the hostages OR pursue the villain
 2. **The Devil's Bargain**: Accept dark power OR fight with disadvantage
-3. **The Succession Choice**: Support the heir OR the usurper
+3. **The Succession Choice**: Support the heir OR the usurper ## Background
 
-## Background
-*[Adventure setup and context]*
 
-### What Happened Before
-- *[Recent events leading to this adventure]*
+*[Adventure setup and context]* ### What Happened Before
 
-### Current Situation  
-- *[What's happening now]*
+- *[Recent events leading to this adventure]* ### Current Situation - *[What's happening now]* ### The Stakes
 
-### The Stakes
-- *[What happens if PCs don't act]*
+- *[What happens if PCs don't act]* ## Adventure Hooks
 
-## Adventure Hooks
-*[Ways to get PCs involved]*
+*[Ways to get PCs involved]* ### Direct Approach
 
-### Direct Approach
-- *[Straightforward hook]*
+- *[Straightforward hook]* ### Indirect Approach
 
-### Indirect Approach
-- *[Subtle introduction]*
+- *[Subtle introduction]* ### Emergency Hook
 
-### Emergency Hook
-- *[Urgent situation]*
+- *[Urgent situation]* ## Key NPCs
 
-## Key NPCs
-*[Important characters in this adventure]*
+*[Important characters in this adventure]* ### Allies
 
-### Allies
-- *[Helpful NPCs]*
+- *[Helpful NPCs]* ### Antagonists
 
-### Antagonists
-- *[Opposition NPCs]*
+- *[Opposition NPCs]* ### Neutral Parties
 
-### Neutral Parties
-- *[Information sources]*
+- *[Information sources]* ## Locations
 
-## Locations
-*[Important places in this adventure]*
+*[Important places in this adventure]* ### Starting Location
 
-### Starting Location
-- *[Where adventure begins]*
+- *[Where adventure begins]* ### Key Sites
 
-### Key Sites
-- *[Major locations to visit]*
+- *[Major locations to visit]* ### Optional Areas
 
-### Optional Areas
-- *[Side locations]*
+- *[Side locations]* ## Scaling
 
-## Scaling
-*[How to adjust for different party levels]*
+*[How to adjust for different party levels]* ### Lower Level Parties
 
-### Lower Level Parties
-- *[Adjustments for weaker groups]*
+- *[Adjustments for weaker groups]* ### Higher Level Parties
 
-### Higher Level Parties
-- *[Adjustments for stronger groups]*
+- *[Adjustments for stronger groups]* ### Large/Small Parties
 
-### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/combat
+#story/story
+#story/lore
+#story/background
+#world/location
+#world/world
+#world/place
+#character/npc
+#character/character
+#gameplay/encounter
+#gameplay/adventure
+#gameplay/quest
+#resource/treasure
+#meta/index
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

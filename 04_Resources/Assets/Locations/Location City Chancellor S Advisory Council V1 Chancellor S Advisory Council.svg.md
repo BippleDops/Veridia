@@ -57,3 +57,28 @@ Recent developments have brought new attention to Location City Chancellor S Adv
 
 ## DM Notes
 *Location City Chancellor S Advisory Council V1 Chancellor S Advisory Council.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

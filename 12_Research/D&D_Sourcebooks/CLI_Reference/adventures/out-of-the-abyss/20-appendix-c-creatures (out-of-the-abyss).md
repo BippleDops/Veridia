@@ -1,18 +1,22 @@
 ---
+
 title: 20-appendix-c-creatures (out-of-the-abyss)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# 20-appendix-c-creatures
+--- # 20-appendix-c-creatures ---
 
----
+## Description
+
+Detailed description pending.
 title: 20 appendix c creatures
 aliases:
 - Appendix C: Creatures
+
 type: note
 tags:
 - ttrpg-cli/compendium/src/5e/oota
@@ -21,35 +25,20 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:34.661333'
 world: Both
----
 
-# Appendix C: Creatures
-*Source: Out of the Abyss, p. 224* 
+--- # Appendix C: Creatures
 
-This appendix presents new monsters and NPCs encountered in this adventure.
+*Source: Out of the Abyss, p. 224* This appendix presents new monsters and NPCs encountered in this adventure. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Monsters and NPCs by Challenge Rating | Monster | Challenge |
 
-## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Monsters and NPCs by Challenge Rating
-
-| Monster | Challenge |
 |---------|-----------|
 | [[Bridesmaid of Zuggtmoy Oota]] | 1/8 |
 | [[drow-spore-servant-oota (plant)]] | 1/8 |
@@ -76,34 +65,38 @@ This appendix presents new monsters and NPCs encountered in this adventure.
 | [[Chuul Spore Servant Oota]] | 4 |
 | [[Bestiary]] (NPC) | 4 |
 | [[Bestiary]] (NPC) | 4 |
-^monster-challenge
 
-## Player-Facing Summary
+^monster-challenge ## Player-Facing Summary 20 appendix c creatures is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 20 appendix c creatures as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 20 appendix c creatures. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A merchant needs help delivering before dawn
 
-20 appendix c creatures is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of 20 appendix c creatures as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 20 appendix c creatures.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A merchant needs help delivering before dawn
 - An heirloom has gone missing and evil awakens
-- Someone is searching for a artifact for revenge
+- Someone is searching for a artifact for revenge ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

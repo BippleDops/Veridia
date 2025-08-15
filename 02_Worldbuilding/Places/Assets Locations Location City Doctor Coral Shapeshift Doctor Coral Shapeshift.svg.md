@@ -171,3 +171,22 @@ Key locations marked:
 - A shipment has gone missing and chaos spreads
 - Someone is protecting an heir for power
 - A document has gone missing and war looms
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

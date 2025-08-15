@@ -178,3 +178,22 @@ Key stop on spices trade route
 - A journal reveals the truth about this place
 - A prisoner has gone missing and truth emerges
 - A stranger needs help stealing before winter
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

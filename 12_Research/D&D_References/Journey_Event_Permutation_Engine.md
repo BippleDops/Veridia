@@ -1,15 +1,28 @@
 ---
+
 title: Journey_Event_Permutation_Engine
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Journey Event Permutation Engine"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D References
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Journey_Event_Permutation_Engine
+ # Journey_Event_Permutation_Engine ---
 
----
+## Description
+
+Detailed description pending.
 title: Journey Event Permutation Engine
 type: gm_resource
 tags:
@@ -21,34 +34,15 @@ tags:
 - active
 - gm_resource
 - complete
+
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
 updated: '2025-08-13T01:18:31.124703+00:00'
 world: Both
----
 
-# Journey Event Permutation Engine (1,000,000+ combos)
+--- # Journey Event Permutation Engine (1,000,000+ combos) Combine one result from each d20 list to form a unique encounter. This exceeds 1,000 scenarios while staying fast at the table. Roll: 1d20 Environment + 1d20 Faction + 1d20 Horror + 1d20 Discovery + 1d20 Systems (+ optional 1d6 Tone, 1d20 Complication). Integration: Apply Zone Modifiers from [[Vehicle_Core_Rules|Vehicle Core Rules]]; sanity from [[Sanity System]]; anchors/RSB from [[Complete Reality Merger System]]; memory payouts from [[Memory Trading Economy System|Memory Economy]]; faction impacts from [[Complete Faction Warfare System]]. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Environment (d20)
 
-Combine one result from each d20 list to form a unique encounter. This exceeds 1,000 scenarios while staying fast at the table.
-
-Roll: 1d20 Environment + 1d20 Faction + 1d20 Horror + 1d20 Discovery + 1d20 Systems (+ optional 1d6 Tone, 1d20 Complication).
-
-Integration: Apply Zone Modifiers from [[Vehicle_Core_Rules|Vehicle Core Rules]]; sanity from [[Sanity System]]; anchors/RSB from [[Complete Reality Merger System]]; memory payouts from [[Memory Trading Economy System|Memory Economy]]; faction impacts from [[Complete Faction Warfare System]].
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Environment (d20)
 1 Pressure surge wall
 2 Thermal vent bloom
 3 Black smoker ashfall
@@ -57,7 +51,7 @@ Integration: Apply Zone Modifiers from [[Vehicle_Core_Rules|Vehicle Core Rules]]
 6 Silt blizzard
 7 Gravity eddy (sky)
 8 Jetstream kink (sky)
-9  hush pocket
+9 hush pocket
 10 Shadow bloom
 11 Memory rain
 12 Static storm
@@ -68,9 +62,8 @@ Integration: Apply Zone Modifiers from [[Vehicle_Core_Rules|Vehicle Core Rules]]
 17 Abyss quake
 18 Dust river (sky)
 19 Anchor resoce hum
-20 Deep Mother pulse
+20 Deep Mother pulse ## Faction (d20)
 
-## Faction (d20)
 1 Patrol hail (inspection)
 2 Pirate ambush net
 3 Privateer letter of marque
@@ -90,9 +83,8 @@ Integration: Apply Zone Modifiers from [[Vehicle_Core_Rules|Vehicle Core Rules]]
 17 Draft notice
 18 Saboteur ring
 19 Peace convoy
-20 Truce parley
+20 Truce parley ## Horror (d20)
 
-## Horror (d20)
 1 Whispering bulkheads
 2 Ghost log plays
 3 Parasite bloom aboard
@@ -112,9 +104,8 @@ Integration: Apply Zone Modifiers from [[Vehicle_Core_Rules|Vehicle Core Rules]]
 17 Color subtraction scene
 18 Paper-thin deck
 19 Memory flood
-20 Reality predator stalks
+20 Reality predator stalks ## Discovery (d20)
 
-## Discovery (d20)
 1 Hidden dock
 2 Ancient ruin spire
 3 New safe route
@@ -134,9 +125,8 @@ Integration: Apply Zone Modifiers from [[Vehicle_Core_Rules|Vehicle Core Rules]]
 17 Forgotten fleet
 18 Live map graffiti
 19 Dream shrine islet
-20 Black swan omen
+20 Black swan omen ## Systems (d20)
 
-## Systems (d20)
 1 Anchor drift
 2 Hull leak
 3 Sensor blind
@@ -156,41 +146,30 @@ Integration: Apply Zone Modifiers from [[Vehicle_Core_Rules|Vehicle Core Rules]]
 17 Memory loop
 18 Engine cavitation
 19 Autopilot relapse
-20 Turret misalign
+20 Turret misalign ### Optional Tone (d6)
 
-### Optional Tone (d6)
-1 Tragic • 2 Eerie • 3 Heroic • 4 Curious • 5 Chaotic • 6 Sacred
+1 Tragic • 2 Eerie • 3 Heroic • 4 Curious • 5 Chaotic • 6 Sacred ### Optional Complication (d20)
 
-### Optional Complication (d20)
-1 Weather worsens • 2 Anchor fails • 3 Rival appears • 4 Time slips • 5 Trade opportunity • 6 Rescue plea • 7 Betrayal • 8 Secret revealed • 9 Map lies • 10 Structural failure • 11 Ammunition scarce • 12 Fuel low • 13 Sanity brink • 14 Creature hunger • 15 Faction ultimatum • 16 Dream intrudes • 17 Reality tier drops • 18 Systems cascade • 19 Crew romance drama • 20 Deep Mother gaze
+1 Weather worsens • 2 Anchor fails • 3 Rival appears • 4 Time slips • 5 Trade opportunity • 6 Rescue plea • 7 Betrayal • 8 Secret revealed • 9 Map lies • 10 Structural failure • 11 Ammunition scarce • 12 Fuel low • 13 Sanity brink • 14 Creature hunger • 15 Faction ultimatum • 16 Dream intrudes • 17 Reality tier drops • 18 Systems cascade • 19 Crew romance drama • 20 Deep Mother gaze ## Player-Facing Summary Journey Event Permutation Engine is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Journey Event Permutation Engine as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Journey Event Permutation Engine. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A merchant needs help delivering before winter
 
-## Player-Facing Summary
-
-Journey Event Permutation Engine is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of Journey Event Permutation Engine as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Journey Event Permutation Engine.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A merchant needs help delivering before winter
 - Strange dreams suggest a portal
-- Strange sightings suggest a conspiracy
+- Strange sightings suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Journey_Event_Compiler]]
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Journey_Event_Compiler]]
 - [[Vehicles - Journey Event Compiler]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#mechanics/system
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#character/creature
+#gameplay/encounter
+#meta/reference

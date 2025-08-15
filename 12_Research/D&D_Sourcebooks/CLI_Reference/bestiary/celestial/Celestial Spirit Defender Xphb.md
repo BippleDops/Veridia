@@ -1,18 +1,22 @@
 ---
+
 title: Celestial Spirit Defender Xphb
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# Celestial Spirit Defender Xphb
+--- # Celestial Spirit Defender Xphb ---
 
----
+## Description
+
+Detailed description pending.
 title: Celestial Spirit Defender Xphb
 aliases:
 - Celestial Spirit (Defender)
+
 type: monster
 tags:
 - both
@@ -25,6 +29,7 @@ tags:
 - active
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
+
 created: 2025-08-11
 modified: '2025-08-14'
 status: active
@@ -34,81 +39,30 @@ statblock: inline
 statblock-link: '#^statblock'
 updated: '2025-08-13T12:34:06.045098+00:00'
 world: Both
----
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-celestial-spirit-defender-xphb-celestial-spirit-defender-xphb.svg)
+--- > [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-celestial-spirit-defender-xphb-celestial-spirit-defender-xphb.svg) # [[celestial]]
 
-# [[celestial]]
-*Source: Player's Handbook (2024) p. 323*  
-
-```statblock
+*Source: Player's Handbook (2024) p. 323*```statblock
 "name": "Celestial Spirit (Defender) (XPHB)"
 "size": "Large"
 "type": "celestial"
 "alignment": "Neutral"
 "ac_class": "13 + the spell's level"
 "modifier": !!int "2"
-"stats":
-  - !!int "16"
-  - !!int "14"
-  - !!int "10"
+"stats": - !!int "16" - !!int "14" - !!int "10"
 "speed": "30 ft., fly 40 ft."
 "damage_resistances": "radiant"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Celestial, understands the languages you know"
-"actions":
-  - "desc": "The spirit makes a number of attacks equal to half this spell's level\
-      \ (round down)."
-    "name": "Multiattack"
-  - "desc": "Melee Attack Roll: Bonus equals your spell attack modifier, reach 5\
-      \ ft. Hit: 1d10 + 3 + the spell's level Radiant damage, and the spirit can\
-      \ choose itself or another creature it can see within 10 feet of the target.\
-      \ The chosen creature gains d10 Temporary Hit Points."
-    "name": "Radiant Mace"
-  - "desc": "The spirit touches another creature. The target regains Hit Points equal\
-      \ to 2d8 + the spell's level."
-    "name": "Healing Touch (1/Day)"
-"source":
-  - "XPHB"
-```
-^statblock
+"actions": - "desc": "The spirit makes a number of attacks equal to half this spell's level\ \ (round down)." "name": "Multiattack" - "desc": "Melee Attack Roll: Bonus equals your spell attack modifier, reach 5\ \ ft. Hit: 1d10 + 3 + the spell's level Radiant damage, and the spirit can\ \ choose itself or another creature it can see within 10 feet of the target.\ \ The chosen creature gains d10 Temporary Hit Points." "name": "Radiant Mace" - "desc": "The spirit touches another creature. The target regains Hit Points equal\ \ to 2d8 + the spell's level." "name": "Healing Touch (1/Day)"
+"source": - "XPHB"```^statblock ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Celestial spirit defender xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of celestial spirit defender xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around celestial spirit defender xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A prisoner has gone missing and chaos spreads
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Celestial spirit defender xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of celestial spirit defender xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around celestial spirit defender xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A prisoner has gone missing and chaos spreads
 - A corpse reveals a conspiracy about a local noble
-- An heirloom has gone missing and war looms
+- An heirloom has gone missing and war looms ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
+
+*Additional notes*

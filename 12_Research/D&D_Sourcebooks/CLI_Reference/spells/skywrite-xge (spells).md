@@ -1,18 +1,32 @@
 ---
+
 title: skywrite-xge (spells)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["skywrite-xge (spells)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# skywrite-xge
+ # skywrite-xge ---
 
----
+## Description
+
+Detailed description pending.
 title: skywrite xge
 aliases:
 - Skywrite
+
 type: note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
@@ -25,6 +39,7 @@ tags:
 - note
 - status/in-progress
 - aethermoor
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -35,85 +50,51 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Wizard
+
 cssclasses: json5e-spell
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:36.102570'
 world: Both
----
 
-# Skywrite
-*2nd-level, Transmutation (ritual)*  
+--- # Skywrite
 
-- **Casting time:** 1 Action unless cast as a ritual
+*2nd-level, Transmutation (ritual)* - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** Sight
 - **Components:** V, S
-- **Duration:** Concentration, up to 1 hour
+- **Duration:** Concentration, up to 1 hour You cause up to ten words to form in a part of the sky you can see. The words appear to be made of cloud and remain in place for the spell's duration. The words dissipate when the spell ends. A strong wind can disperse the clouds and end the spell early. **Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]] *Source: Xanathar's Guide to Everything p. 165* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Skywrite xge is a sky-borne element of the setting, known for brass fittings and cloudstone terraces. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of skywrite xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around skywrite xge. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1]]
 
-You cause up to ten words to form in a part of the sky you can see. The words appear to be made of cloud and remain in place for the spell's duration. The words dissipate when the spell ends. A strong wind can disperse the clouds and end the spell early.
-
-**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
-
-*Source: Xanathar's Guide to Everything p. 165*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Skywrite xge is a sky-borne element of the setting, known for brass fittings and cloudstone terraces. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of skywrite xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around skywrite xge.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## Spell Components Detail
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
-- **Material**: Required items
+- **Material**: Required items ## Common Uses
 
-## Common Uses
 - Typical applications
-- Creative uses
+- Creative uses ## Counterspell Information
 
-## Counterspell Information
 - How to counter
 - Difficulty class
+
 ## Sourcebook Reference
+
 - **Source**: Xanathar's Guide to Everything
 - **School**: See spell description
-- **Available to**: Check class spell lists
+- **Available to**: Check class spell lists ### CLI Reference
 
-### CLI Reference
-See: `[[skywrite-xge (spells)|skywrite-xge (spells)-phb]]` in CLI_Reference/spells/
+See:`[[skywrite-xge (spells)|skywrite-xge (spells)-phb]]`in CLI_Reference/spells/
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/mechanics
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#resource/item
+#meta/reference

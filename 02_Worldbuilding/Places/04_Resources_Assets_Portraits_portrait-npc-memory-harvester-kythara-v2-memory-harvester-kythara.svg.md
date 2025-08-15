@@ -181,3 +181,22 @@ Key locations marked:
 
 ---
 *Tags*: #location #port #worldbuilding #place
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves

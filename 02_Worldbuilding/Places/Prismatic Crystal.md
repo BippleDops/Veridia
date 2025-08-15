@@ -219,3 +219,18 @@ Mentioned in The Second Prophecy of Shadows
 
 - [[The Crystalline Foundry]]
 - [[The Crystalline Foundry (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

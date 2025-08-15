@@ -172,3 +172,22 @@ Key locations marked:
 - Someone is searching for an heir for money
 - Strange dreams suggest a portal
 - A merchant needs help delivering before dawn
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

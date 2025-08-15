@@ -1,15 +1,28 @@
 ---
+
 title: Demon Armor Xdmg
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Demon Armor Xdmg"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Demon Armor Xdmg
+ # Demon Armor Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Demon Armor Xdmg
 aliases:
 - Demon Armor
@@ -25,6 +38,7 @@ aliases:
 - Demon Scale Mail
 - Demon Splint Armor
 - Demon Studded Leather Armor
+
 type: note
 tags:
 - both
@@ -35,6 +49,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -43,33 +58,11 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:07.173236+00:00'
 world: Both
----
 
-# Demon Armor
-*Cursed item, very rare (requires attunement)*  
-![](/03_Mechanics/CLI/items/img/demon-armor.webp#right)
+--- # Demon Armor
 
-- **Properties**: [[item properties#Cursed%20Items|Cursed]]
+*Cursed item, very rare (requires attunement)* ![](/03_Mechanics/CLI/items/img/demon-armor.webp#right) - **Properties**: [[item properties#Cursed%20Items|Cursed]] While wearing this armor, you gain a +1 bonus to [[armor-class-xphb (variant-rules)]], and you know Abyssal. In addition, the armor's clawed gauntlets allow your Unarmed Strikes to deal`d8`Slashing damage instead of the usual Bludgeoning damage, and you gain a +1 bonus to the attack and damage rolls of your Unarmed Strikes. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Curse Once you don this cursed armor, you can't doff it unless you are targeted by a [[Remove Curse Xphb]] spell or similar magic. While wearing the armor, you have [[Advantage Xphb]] on attack rolls against demons and on saving throws against their spells and special abilities. **Variants**:
 
-While wearing this armor, you gain a +1 bonus to [[armor-class-xphb (variant-rules)]], and you know Abyssal. In addition, the armor's clawed gauntlets allow your Unarmed Strikes to deal `d8` Slashing damage instead of the usual Bludgeoning damage, and you gain a +1 bonus to the attack and damage rolls of your Unarmed Strikes.
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Curse
-
-Once you don this cursed armor, you can't doff it unless you are targeted by a [[Remove Curse Xphb]] spell or similar magic. While wearing the armor, you have [[Advantage Xphb]] on attack rolls against demons and on saving throws against their spells and special abilities.
-
-**Variants**:
 - [Demon Breastplate](#Demon%20Breastplate)
 - [Demon Chain Mail](#Demon%20Chain%20Mail)
 - [Demon Chain Shirt](#Demon%20Chain%20Shirt)
@@ -81,38 +74,19 @@ Once you don this cursed armor, you can't doff it unless you are targeted by a [
 - [Demon Ring Mail](#Demon%20Ring%20Mail)
 - [Demon Scale Mail](#Demon%20Scale%20Mail)
 - [Demon Splint Armor](#Demon%20Splint%20Armor)
-- [Demon Studded Leather Armor](#Demon%20Studded%20Leather%20Armor)
+- [Demon Studded Leather Armor](#Demon%20Studded%20Leather%20Armor) ### Demon Studded Leather Armor - **Armor Class**: 12 + Dex modifier
 
-### Demon Studded Leather Armor
-
-- **Armor Class**: 12 + Dex modifier
 - **Properties**: [[item properties#Cursed%20Items|Cursed]]
-- **Weight**: 13.0 lbs.
+- **Weight**: 13.0 lbs. *Source: Dungeon Master's Guide (2024) p. 252. Available in the SRD and the Free Rules (2024)* ## Player-Facing Summary Demon armor xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of demon armor xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around demon armor xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## References - [[Master_Item_Catalog]]
 
-*Source: Dungeon Master's Guide (2024) p. 252. Available in the SRD and the Free Rules (2024)*
-
-## Player-Facing Summary
-
-Demon armor xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of demon armor xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around demon armor xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## References
-
-- [[Master_Item_Catalog]]
 - [[Armaments Very Rare Xdmg]]
 - [[Magic Item Table H]]
 - [[Random Magic Items Armaments]]
 - [[armaments-very-rare-xdmg (tables)]]
 - [[magic-item-table-h (tables)]]
 - [[random-magic-items-armaments (tables)]]
+
+
+## Notes
+
+*Additional notes*

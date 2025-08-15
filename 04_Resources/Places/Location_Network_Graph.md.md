@@ -358,3 +358,18 @@ The economy is in crisis due to magical phenomena.
 - [[Lord Commander Thorne]]
 - [[Northville]]
 - [[The Chronicler]]
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

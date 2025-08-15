@@ -107,3 +107,23 @@ Further information about this topic will be developed as the campaign progresse
 
 - [[Assets Symbols Symbol Heraldry Merchant Princes Merchant Princes.svg]]
 - [[Assets Symbols Symbol Heraldry Purist Coalition Thugs Purist Coalition Thugs.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

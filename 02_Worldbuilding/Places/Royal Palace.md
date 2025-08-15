@@ -934,3 +934,18 @@ Ongoing situations affecting Royal Palace:
 - [[Throne Room - Heart of Palace (D&D_References)]]
 - [[Noble Quarter (D&D_Statblocks)]]
 - [[Temple Ward (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

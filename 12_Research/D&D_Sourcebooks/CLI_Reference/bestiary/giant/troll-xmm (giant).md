@@ -1,18 +1,22 @@
 ---
+
 title: troll-xmm (giant)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# troll-xmm
+--- # troll-xmm ---
 
----
+## Description
+
+Detailed description pending.
 title: troll xmm
 aliases:
 - Troll
+
 type: monster
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
@@ -30,6 +34,7 @@ tags:
 - research
 - ttrpg-cli/monster/environment/forest
 - status/in-progress
+
 created: 2025-08-11
 modified: '2025-08-14'
 status: active
@@ -39,37 +44,11 @@ statblock: inline
 statblock-link: '#^statblock'
 updated: '2025-08-12T23:37:35.091394'
 world: Both
----
 
-> [!figure] Creature
+--- > [!figure] Creature # [[Troll Xmm]]
 
-# [[Troll Xmm]]
-*Source: Monster Manual (2024) p. 310. Available in the SRD and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 310. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Troll *Loathsome, Regenerating Lurker* - **Habitat.** Arctic, Forest, Hill, Mountain, Swamp, Underdark - **Treasure.** None Trolls creep forth to prey on smaller creatures and drag captives back to festering lairs. These misshapen brutes can regenerate from wounds and regrow severed body parts—including their heads. A troll's severed limbs continue to move and attack. Unless they're burned by flames or acid, trolls can recover from egregious wounds and seek revenge on those who felled them. Trolls typically hunt alone, but small groups occasionally cooperate to ambush prey or raid villages. Creatures such as hags and hill giants might convince trolls to work for them in exchange for disgusting meals.```statblock
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Troll
-
-*Loathsome, Regenerating Lurker*
-
-- **Habitat.** Arctic, Forest, Hill, Mountain, Swamp, Underdark  
-- **Treasure.** None  
-
-Trolls creep forth to prey on smaller creatures and drag captives back to festering lairs. These misshapen brutes can regenerate from wounds and regrow severed body parts—including their heads. A troll's severed limbs continue to move and attack. Unless they're burned by flames or acid, trolls can recover from egregious wounds and seek revenge on those who felled them.
-
-Trolls typically hunt alone, but small groups occasionally cooperate to ambush prey or raid villages. Creatures such as hags and hill giants might convince trolls to work for them in exchange for disgusting meals.
-
-```statblock
 "name": "Troll (XMM)"
 "size": "Large"
 "type": "giant"
@@ -78,72 +57,19 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
 "hp": !!int "94"
 "hit_dice": "9d10 + 45"
 "modifier": !!int "1"
-"stats":
-  - !!int "18"
-  - !!int "13"
-  - !!int "20"
-  - !!int "7"
-  - !!int "9"
+"stats": - !!int "18" - !!int "13" - !!int "20" - !!int "7" - !!int "9"
 "speed": "30 ft."
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+5"
+"skillsaves": - "name": "[[skills#Perception|Perception]]" "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Giant"
 "cr": "5"
-"traits":
-  - "desc": "If the troll ends any turn [[bloodied-xphb (variant-rules)]]\
-      \ and took 15+ Slashing damage during that turn, one of the troll's limbs is\
-      \ severed, falls into the troll's space, and becomes a [[Troll Limb Xmm]].\
-      \ The limb acts immediately after the troll's turn. The troll has 1 [[conditions#Exhaustion|Exhaustion]]\
-      \ level for each missing limb, and it grows replacement limbs the next time\
-      \ it regains [[hit-points-xphb (variant-rules)]]."
-    "name": "Loathsome Limbs (4/Day)"
-  - "desc": "The troll regains 15 [[hit-points-xphb (variant-rules)]]\
-      \ at the start of each of its turns. If the troll takes Acid or Fire damage,\
-      \ this trait doesn't function on the troll's next turn. The troll dies only\
-      \ if it starts its turn with 0 [[hit-points-xphb (variant-rules)]]\
-      \ and doesn't regenerate."
-    "name": "Regeneration"
-"actions":
-  - "desc": "The troll makes three Rend attacks."
-    "name": "Multiattack"
-  - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Slashing damage."
-    "name": "Rend"
-"bonus_actions":
-  - "desc": "The troll moves up to half its [[Fly Speed Xphb]]\
-      \ straight toward an enemy it can see."
-    "name": "Charge"
-"source":
-  - "XMM"
-"image": "/03_Mechanics/CLI/bestiary/giant/token/troll-xmm.webp"
-```
-^statblock
+"traits": - "desc": "If the troll ends any turn [[bloodied-xphb (variant-rules)]]\ \ and took 15+ Slashing damage during that turn, one of the troll's limbs is\ \ severed, falls into the troll's space, and becomes a [[Troll Limb Xmm]].\ \ The limb acts immediately after the troll's turn. The troll has 1 [[conditions#Exhaustion|Exhaustion]]\ \ level for each missing limb, and it grows replacement limbs the next time\ \ it regains [[hit-points-xphb (variant-rules)]]." "name": "Loathsome Limbs (4/Day)" - "desc": "The troll regains 15 [[hit-points-xphb (variant-rules)]]\ \ at the start of each of its turns. If the troll takes Acid or Fire damage,\ \ this trait doesn't function on the troll's next turn. The troll dies only\ \ if it starts its turn with 0 [[hit-points-xphb (variant-rules)]]\ \ and doesn't regenerate." "name": "Regeneration"
+"actions": - "desc": "The troll makes three Rend attacks." "name": "Multiattack" - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Slashing damage." "name": "Rend"
+"bonus_actions": - "desc": "The troll moves up to half its [[Fly Speed Xphb]]\ \ straight toward an enemy it can see." "name": "Charge"
+"source": - "XMM"
+"image": "/03_Mechanics/CLI/bestiary/giant/token/troll-xmm.webp"```^statblock ## Environment arctic, forest, hill, mountain, swamp, underdark ## Player-Facing Summary Troll xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of troll xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around troll xmm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The First Prophecy of Depths ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## Environment
 
-arctic, forest, hill, mountain, swamp, underdark
+## Notes
 
-## Player-Facing Summary
-
-Troll xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of troll xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around troll xmm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The First Prophecy of Depths
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+*Additional notes*

@@ -57,3 +57,28 @@ Recent developments have brought new attention to Location City Inquisitor Morde
 
 ## DM Notes
 *Location City Inquisitor Mordecai Truthseeker V1 Inquisitor Mordecai Truthseeker.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

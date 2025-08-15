@@ -191,3 +191,23 @@ Member of House Dragonblood - Trait: magical affinity
 ## References
 
 - [[Assets Locations Location City Harbor Master Tideshade Harbor Master Tideshade.svg]]
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

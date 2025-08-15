@@ -1,18 +1,32 @@
 ---
+
 title: Identify the Partys Goals Wilderness Goals
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Identify the Partys Goals Wilderness Goals"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Identify the Partys Goals Wilderness Goals
+ # Identify the Partys Goals Wilderness Goals ---
 
----
+## Description
+
+Detailed description pending.
 title: Identify the Partys Goals Wilderness Goals
 aliases:
 - Identify the Party's Goals; Wilderness Goals
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.614483+00:00'
 world: Both
----
 
-# Identify the Party's Goals; Wilderness Goals
-*Source: Dungeon Master's Guide p. 72* 
+--- # Identify the Party's Goals; Wilderness Goals
 
-**Wilderness Goals**
-
-`dice: [](identify-the-partys-goals-wilderness-goals.md#^wilderness-goals)`
-
-| dice: d20 | Goal |
+*Source: Dungeon Master's Guide p. 72* **Wilderness Goals**`dice: [](identify-the-partys-goals-wilderness-goals.md#^wilderness-goals)`| dice: d20 | Goal |
 |-----------|------|
 | 1 | Locate a dungeon or other site of interest (roll on the Dungeon Goals table to find out why). |
 | 2 | Assess the scope of a natural or unnatural disaster. |
@@ -60,45 +69,23 @@ world: Both
 | 18 | Escape the reign of a tyrant. |
 | 19 | Protect a wilderness site from attackers. |
 | 20 | Roll twice, ignoring results of 20. |
-^wilderness-goals
 
-## 🔧 Deep Evaluation Improvements
+^wilderness-goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Identify the partys goals wilderness goals is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of identify the partys goals wilderness goals as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around identify the partys goals wilderness goals. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A letter reveals a betrayal about a local noble
 
-*20 targeted improvements identified*
+- A corpse reveals a conspiracy about a local noble ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-### Connection Improvements
 
-- Add cross-references to related notes
+## Notes
 
-### Enhancement Improvements
+*Additional notes*
 
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Identify the partys goals wilderness goals is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of identify the partys goals wilderness goals as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around identify the partys goals wilderness goals.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A letter reveals a betrayal about a local noble
-- A corpse reveals a conspiracy about a local noble
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#character/npc
+#character/monster
+#meta/reference

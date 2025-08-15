@@ -228,3 +228,28 @@ This NPC can serve multiple roles:
 - [[04_Resources_Assets_Symbols_symbol-heraldry-the-stellar-confluence-the-stellar-confluence.svg]]
 - [[04_Resources_Assets_Symbols_symbol-heraldry-the-sunken-observatory-the-sunken-observatory.svg]]
 - [[04_Resources_Assets_Locations_location-city-surge-mixmaster-surge-mixmaster.png]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

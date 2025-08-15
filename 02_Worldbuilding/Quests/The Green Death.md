@@ -125,3 +125,27 @@ Mentioned in The Hidden Prophecy of Depths
 
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

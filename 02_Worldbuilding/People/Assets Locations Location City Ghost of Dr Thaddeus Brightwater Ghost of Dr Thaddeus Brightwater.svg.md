@@ -189,3 +189,27 @@ This NPC can serve multiple roles:
 - [[The Void Watchers' Shrines]] (enemy)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

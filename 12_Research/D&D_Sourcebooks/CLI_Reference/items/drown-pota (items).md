@@ -1,18 +1,32 @@
 ---
+
 title: drown-pota (items)
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["drown-pota (items)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# drown-pota
+ # drown-pota ---
 
----
+## Description
+
+Detailed description pending.
 title: drown pota
 aliases:
 - Drown
+
 type: note
 tags:
 - content/lore
@@ -23,6 +37,7 @@ tags:
 - content/item
 - ttrpg-cli/compendium/src/5e/pota
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -31,83 +46,34 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-12T23:37:37.512124'
 world: Both
----
 
-# Drown
-*Weapon ([[trident-xphb (items)]]), legendary (requires attunement)*  
-![](/03_Mechanics/CLI/items/img/drown.webp#right)
+--- # Drown
 
-- **Damage**:
-  - One-handed: 1d6 piercing
-  - Two-handed: 1d8 piercing
+*Weapon ([[trident-xphb (items)]]), legendary (requires attunement)* ![](/03_Mechanics/CLI/items/img/drown.webp#right) - **Damage**: - One-handed: 1d6 piercing - Two-handed: 1d8 piercing
 - **Range**: 20/60
 - **Properties**: [[item properties#Thrown|Thrown]], [[item properties#Versatile|Versatile]]
-- **Weight**: 4.0 lbs.
+- **Weight**: 4.0 lbs. A steel trident decorated with bronze barnacles along the upper part of its haft, Drown has a sea-green jewel just below the tines and a silver shell at the end of its haft. It floats on the surface if dropped onto water, and it floats in place if it is released underwater. The trident is always cool to the touch, and it is immune to any damage due to exposure to water. Drown contains a spark of [[Olhydra Pota]], the Princess of Evil Water. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit with it, the targets take an extra`d8`cold damage. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Water Mastery You gain the following benefits while you hold Drown: - You can speak Aquan fluently. - You have resistance to cold damage. - You can cast [[Dominate Monster Xphb]] (save DC 17) on a [[water-elemental-xmm (elemental)]]. Once you have done so, Drown can't be used this way again until the next dawn. ## Tears of Endless Anguish While inside a water node, you can perform a ritual called the Tears of Endless Anguish, using Drown to create a [[devastation-orb-of-water-pota (items)]]. Once you perform the ritual, Drown can't be used to perform the ritual again until the next dawn. ## Flaw Drown makes its wielder covetous. While attuned to the weapon, you gain the following flaw: "I demand and deserve the largest share of the spoils, and I refuse to part with anything that's mine." In addition, if you are attuned to Drown for 24 consecutive hours, barnacles form on your skin. The barnacles can be removed with a [[greater-restoration-xphb (spells)]] spell or similar magic, but not while you are attuned to the weapon. *Source: Princes of the Apocalypse p. 224* ## Player-Facing Summary Drown pota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of drown pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around drown pota. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A map reveals ancient history about the government
 
-A steel trident decorated with bronze barnacles along the upper part of its haft, Drown has a sea-green jewel just below the tines and a silver shell at the end of its haft. It floats on the surface if dropped onto water, and it floats in place if it is released underwater. The trident is always cool to the touch, and it is immune to any damage due to exposure to water. Drown contains a spark of [[Olhydra Pota]], the Princess of Evil Water.
-
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit with it, the targets take an extra `d8` cold damage.
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Water Mastery
-
-You gain the following benefits while you hold Drown:
-
-- You can speak Aquan fluently.  
-- You have resistance to cold damage.  
-- You can cast [[Dominate Monster Xphb]] (save DC 17) on a [[water-elemental-xmm (elemental)]]. Once you have done so, Drown can't be used this way again until the next dawn.  
-
-## Tears of Endless Anguish
-
-While inside a water node, you can perform a ritual called the Tears of Endless Anguish, using Drown to create a [[devastation-orb-of-water-pota (items)]]. Once you perform the ritual, Drown can't be used to perform the ritual again until the next dawn.
-
-## Flaw
-
-Drown makes its wielder covetous. While attuned to the weapon, you gain the following flaw: "I demand and deserve the largest share of the spoils, and I refuse to part with anything that's mine." In addition, if you are attuned to Drown for 24 consecutive hours, barnacles form on your skin. The barnacles can be removed with a [[greater-restoration-xphb (spells)]] spell or similar magic, but not while you are attuned to the weapon.
-
-*Source: Princes of the Apocalypse p. 224*
-
-## Player-Facing Summary
-
-Drown pota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of drown pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around drown pota.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A map reveals ancient history about the government
 - A journal reveals ancient history about the government
 - Strange sightings suggest a portal
-- A shipment has gone missing and evil awakens
+- A shipment has gone missing and evil awakens ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
+
+*Additional notes*
+
+#mechanics/mechanics
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#character/monster
+#resource/item
+#meta/reference

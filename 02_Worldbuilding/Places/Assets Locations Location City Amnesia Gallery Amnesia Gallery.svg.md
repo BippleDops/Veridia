@@ -170,3 +170,22 @@ Key locations marked:
 - Someone is protecting a artifact for revenge
 - Someone is protecting a artifact for money
 - The authorities needs help delivering before winter
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

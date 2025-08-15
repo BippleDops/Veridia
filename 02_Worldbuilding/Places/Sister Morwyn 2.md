@@ -384,3 +384,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/The Harmony Collective]]
 - [[02_Worldbuilding/Places/Abyssos Prime]]
 - [[02_Worldbuilding/Places/Parliament of Echoes]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

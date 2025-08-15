@@ -468,3 +468,18 @@ Mentioned in The First Prophecy of Stars
 ## References
 
 - [[Madame Rosalind Goldleaf (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

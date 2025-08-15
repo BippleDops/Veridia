@@ -256,3 +256,18 @@ Ongoing situations affecting Diplomatic Corps:
 - [[Inverted Ballroom Wing (D&D_References)]]
 - [[Mad Oracle Thessaly (D&D_References)]]
 - [[Reputation System (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

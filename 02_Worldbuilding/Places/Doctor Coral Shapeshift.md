@@ -463,3 +463,18 @@ Ongoing situations affecting Doctor Coral Shapeshift:
 - [[Doctor Coral Shapeshift (D&D_References)]]
 - [[The Phosphor Markets (D&D_References)]]
 - [[Memory Merchant Zephyr Mindweaver (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

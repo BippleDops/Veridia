@@ -1,18 +1,32 @@
 ---
+
 title: Elf Deities the Seldarine Mtf
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Elf Deities the Seldarine Mtf"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Elf Deities the Seldarine Mtf
+ # Elf Deities the Seldarine Mtf ---
 
----
+## Description
+
+Detailed description pending.
 title: Elf Deities the Seldarine Mtf
 aliases:
 - Elf Deities (The Seldarine)
+
 type: note
 tags:
 - both
@@ -22,21 +36,18 @@ tags:
 - ttrpg-cli/compendium/src/5e/mtf
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.579831+00:00'
 world: Both
----
 
-# Elf Deities (The Seldarine)
-*Source: Mordenkainen's Tome of Foes p. 43* 
+--- # Elf Deities (The Seldarine)
 
-**Elf Deities (The Seldarine)**
-
-| Deity | Alignment | Province | Suggested Domains | Common Symbol |
+*Source: Mordenkainen's Tome of Foes p. 43* **Elf Deities (The Seldarine)** | Deity | Alignment | Province | Suggested Domains | Common Symbol |
 |-------|-----------|----------|-------------------|---------------|
 | [[Elven Aerdrie Faenya Mtf]] | CG | Air, rain, fertility, birth | Life, Tempest, Trickery | Bird silhouetted against a cloud |
 | [[Elven Angharradh Mtf]] | CG | Wisdom, growth, protection | Knowledge, Life, War | Three interlocking circles |
@@ -67,50 +78,22 @@ world: Both
 | [[Elven Vandria Gilmadrith Mtf]] | LN | War, grief, justice, vigilance | Grave,* War | Weeping eye |
 | [[Elven Yecind Mtf]] | CG | Music, enchantment | Life, Trickery | Recorder |
 | [[Elven Zandilar Mtf]] | CN | Romance, lust, dance | Life | Lips |
-^elf-deities-the-seldarine
 
-*Appears in *Xanathar's Guide to Everything*
+^elf-deities-the-seldarine *Appears in *Xanathar's Guide to Everything* **Appears in *Sword Coast Adventurer's Guide* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Elf deities the seldarine mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of elf deities the seldarine mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elf deities the seldarine mtf. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A noble needs help investigating before dawn
 
-**Appears in *Sword Coast Adventurer's Guide*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Elf deities the seldarine mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of elf deities the seldarine mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elf deities the seldarine mtf.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A noble needs help investigating before dawn
 - A shipment has gone missing and truth emerges
-- A letter reveals a betrayal about this place
+- A letter reveals a betrayal about this place ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#gameplay/adventure
+#meta/reference

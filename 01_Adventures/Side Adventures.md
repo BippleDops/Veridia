@@ -5,115 +5,89 @@ type: note
 tags:
 - auto-generated
 - linked
+
 created: '2025-01-15'
 modified: 2025-08-14
 status: active
+aliases: ["Side Adventures"]
+priority: normal
+category: 01 Adventures
+subcategory: Side Adventures.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Side Adventures
+ # Side Adventures ## Overview
 
-## Overview
-This topic is referenced in [[deep_quality_enhancement_20250814_175143]] and other parts of the campaign.
+This topic is referenced in [[deep_quality_enhancement_20250814_175143]] and other parts of the campaign. ## Description
 
-## Description
-An important element of the campaign world that connects to various other aspects of the adventure.
+An important element of the campaign world that connects to various other aspects of the adventure. ## Connections
 
-## Connections
 - Referenced by: [[deep_quality_enhancement_20250814_175143]]
-- Related topics in the same category
+- Related topics in the same category ## Details
 
-## Details
-Further information about this topic will be developed as the campaign progresses.
+Further information about this topic will be developed as the campaign progresses. ## Plot Hooks
 
-## Plot Hooks
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
-- Provides opportunities for exploration and discovery
+- Provides opportunities for exploration and discovery ## Background
 
-## Background
-*[Adventure setup and context]*
+*[Adventure setup and context]* ### What Happened Before
 
-### What Happened Before
-- *[Recent events leading to this adventure]*
+- *[Recent events leading to this adventure]* ### Current Situation - *[What's happening now]* ### The Stakes
 
-### Current Situation  
-- *[What's happening now]*
+- *[What happens if PCs don't act]* ## Adventure Hooks
 
-### The Stakes
-- *[What happens if PCs don't act]*
+*[Ways to get PCs involved]* ### Direct Approach
 
-## Adventure Hooks
-*[Ways to get PCs involved]*
+- *[Straightforward hook]* ### Indirect Approach
 
-### Direct Approach
-- *[Straightforward hook]*
+- *[Subtle introduction]* ### Emergency Hook
 
-### Indirect Approach
-- *[Subtle introduction]*
+- *[Urgent situation]* ## Key NPCs
 
-### Emergency Hook
-- *[Urgent situation]*
+*[Important characters in this adventure]* ### Allies
 
-## Key NPCs
-*[Important characters in this adventure]*
+- *[Helpful NPCs]* ### Antagonists
 
-### Allies
-- *[Helpful NPCs]*
+- *[Opposition NPCs]* ### Neutral Parties
 
-### Antagonists
-- *[Opposition NPCs]*
+- *[Information sources]* ## Locations
 
-### Neutral Parties
-- *[Information sources]*
+*[Important places in this adventure]* ### Starting Location
 
-## Locations
-*[Important places in this adventure]*
+- *[Where adventure begins]* ### Key Sites
 
-### Starting Location
-- *[Where adventure begins]*
+- *[Major locations to visit]* ### Optional Areas
 
-### Key Sites
-- *[Major locations to visit]*
+- *[Side locations]* ## Rewards
 
-### Optional Areas
-- *[Side locations]*
+*[What PCs gain from completing this adventure]* ### Experience Points
 
-## Rewards
-*[What PCs gain from completing this adventure]*
+- *[XP awards]* ### Treasure
 
-### Experience Points
-- *[XP awards]*
+- *[Gold and magic items]* ### Story Rewards
 
-### Treasure
-- *[Gold and magic items]*
+- *[Reputation, allies, information]* ## Scaling
 
-### Story Rewards
-- *[Reputation, allies, information]*
+*[How to adjust for different party levels]* ### Lower Level Parties
 
-## Scaling
-*[How to adjust for different party levels]*
+- *[Adjustments for weaker groups]* ### Higher Level Parties
 
-### Lower Level Parties
-- *[Adjustments for weaker groups]*
+- *[Adjustments for stronger groups]* ### Large/Small Parties
 
-### Higher Level Parties
-- *[Adjustments for stronger groups]*
+- *[Adjustments for party size]* ## See Also
 
-### Large/Small Parties
-- *[Adjustments for party size]*
-
-## See Also
 - Related content
 - Similar topics
-- Connected elements
+- Connected elements ## DM Tips
 
-## DM Tips
 > 💡 **Running This Content**: Advice for game masters
-> Adjust difficulty based on party composition
 
-## References
+> Adjust difficulty based on party composition ## References - [[Quest Dependency System]]
 
-- [[Quest Dependency System]]
 - [[optimization_report_*.md]]
 - [[deployment_report]]
 - [[Complete_NPC_Matrix (Indexes)]]
@@ -123,3 +97,44 @@ Further information about this topic will be developed as the campaign progresse
 - [[smart_link_fix_20250814_175123]]
 - [[step_003_build_image_generation_queue]]
 - [[step_008_generate_character_sheets]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/system
+#story/plot
+#story/story
+#story/background
+#world/location
+#world/world
+#world/place
+#character/npc
+#character/character
+#character/monster
+#gameplay/adventure
+#gameplay/quest
+#resource/item
+#resource/treasure
+#meta/index
+#meta/reference
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

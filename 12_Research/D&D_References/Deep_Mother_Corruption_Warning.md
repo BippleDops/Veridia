@@ -1,15 +1,28 @@
 ---
+
 title: Deep_Mother_Corruption_Warning
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Deep Mother Corruption Warning"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D References
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Deep_Mother_Corruption_Warning
+ # Deep_Mother_Corruption_Warning ---
 
----
+## Description
+
+Detailed description pending.
 title: Deep Mother Corruption Warning
 type: Handout
 tags:
@@ -18,75 +31,47 @@ tags:
 - active
 - world/aquabyssos
 - corruption/deep-mother
+
 created: '2025-08-13'
 modified: '2025-08-14'
 status: complete
 updated: '2025-08-13'
 world: Aquabyssos
----
 
-## 🔧 Deep Evaluation Improvements
+--- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Official Advisory from the Council of Depths **CLASSIFICATION: URGENT PUBLIC SAFETY** ### Immediate Recognition Signs **Physical Manifestations:**
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Official Advisory from the Council of Depths
-
-**CLASSIFICATION: URGENT PUBLIC SAFETY**
-
-### Immediate Recognition Signs
-
-**Physical Manifestations:**
 - Unexpected gill slits appearing on neck or torso
 - Eyes developing bioluminescent rings
 - Skin taking on translucent, jellyfish-like qualities
 - Sudden ability to see in complete darkness
-- Involuntary emission of clicking sounds when stressed
-
-**Behavioral Changes:**
+- Involuntary emission of clicking sounds when stressed **Behavioral Changes:**
 - Obsessive interest in deep ocean trenches
 - Speaking in patterns of three (triadic speech)
 - Compulsive drawing of tentacle-like spirals
 - Sudden fear of bright lights
-- Dreams of vast underwater cities
+- Dreams of vast underwater cities ### Emergency Protocols 1. **DO NOT** attempt to confront affected individuals alone
 
-### Emergency Protocols
-
-1. **DO NOT** attempt to confront affected individuals alone
 2. Contact the Depth Wardens immediately via crystal resoce
 3. Evacuate to minimum depth of 500 fathoms
 4. Carry blessed salt at all times
-5. Never look directly into affected person's eyes for more than 3 seconds
+5. Never look directly into affected person's eyes for more than 3 seconds ### Remember
 
-### Remember
-The Deep Mother's influence is NOT the victim's fault. Compassion and swift action save lives.
 
-*By order of High Oracle Serenity Deepcall*
-*Blessed be the depths that protect us*
+The Deep Mother's influence is NOT the victim's fault. Compassion and swift action save lives. *By order of High Oracle Serenity Deepcall*
+*Blessed be the depths that protect us* ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*
 
-## Related
-
-*Links to related content will be added here.*
-
-## DM Notes
-
-*Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes
+- Connections to overarching campaign themes ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#story/story
+#world/world
+#character/person
+#gameplay/mission
+#meta/reference

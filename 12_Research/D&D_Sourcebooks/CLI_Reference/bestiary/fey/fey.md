@@ -1,6 +1,4 @@
----
-
-title: fey
+--- title: fey
 aliases: []
 type: note
 tags:
@@ -8,51 +6,23 @@ tags:
 - research
 - active
 - note
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
-obsidianUIMode: preview
+obsidian UIMode: preview
 cssclasses: json5e-note
 updated: '2025-08-13T01:18:32.611498+00:00'
 world: Both
 evaluated: '2025-08-14'
 improvements: 20
----
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-fey-fey.svg)
+--- > [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-fey-fey.svg) ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Fey is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of fey as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fey. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## References - [[Master_Item_Catalog]]
 
-## 🔧 Deep Evaluation Improvements
+## Description
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Fey is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of fey as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fey.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## References
-
-- [[Master_Item_Catalog]]
+Detailed description pending.
 - [[Master_Spell_Compendium]]
 - [[Fey Spirit Fuming Xphb]]
 - [[Otherworldly Steed Fey Xphb]]
@@ -78,3 +48,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Repeatable Feat List Xphb]]
 - [[racial-feats-xge (tables)]]
 - [[repeatable-feat-list-xphb (tables)]]
+
+
+## Notes
+
+*Additional notes*

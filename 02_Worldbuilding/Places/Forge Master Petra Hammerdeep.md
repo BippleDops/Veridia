@@ -248,3 +248,18 @@ Ongoing situations affecting Forge Master Petra Hammerdeep:
 - [[The Ancient Nobility (D&D_References)]]
 - [[The Crimson Foundries (D&D_Statblocks)]]
 - [[The Iron Pits of Malachar (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

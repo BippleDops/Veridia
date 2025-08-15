@@ -221,3 +221,23 @@ This NPC can serve multiple roles:
 
 - [[04_Resources_Assets_Locations_location-city-dr-siphon-gillwater-v1-dr-siphon-gillwater.png]]
 - [[04_Resources_Assets_Locations_location-city-market-master-cornelius-driftwood-v1-market-master-cornelius-driftwood.svg]]
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

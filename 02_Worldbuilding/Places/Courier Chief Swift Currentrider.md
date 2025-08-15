@@ -196,3 +196,18 @@ Ongoing situations affecting Courier Chief Swift Currentrider:
 
 - [[The Bathyal Palace]]
 - [[The Bathyal Palace (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

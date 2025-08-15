@@ -1,15 +1,18 @@
 ---
+
 title: Holy Avenger Xdmg
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# Holy Avenger Xdmg
+--- # Holy Avenger Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Holy Avenger Xdmg
 aliases:
 - Holy Avenger
@@ -66,6 +69,7 @@ aliases:
 - Holy Avenger Whip
 - Holy Avenger Wooden Staff
 - Holy Avenger Yklwa
+
 type: note
 tags:
 - both
@@ -77,6 +81,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -85,17 +90,10 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:07.290555+00:00'
 world: Both
----
 
-# Holy Avenger
-*Legendary (requires attunement by a paladin)*  
-![](/03_Mechanics/CLI/items/img/holy-avenger.webp#right)
+--- # Holy Avenger
 
-You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. When you hit a Fiend or an Undead with it, that creature takes an extra `2d10` Radiant damage.
-
-While you hold the drawn weapon, it creates a 10-foot [[Area of Effect Xphb]] originating from you. You and all creatures [[friendly-attitude-xphb (variant-rules)]] to you in the [[Area of Effect Xphb]] have [[Advantage Xphb]] on saving throws against spells and other magical effects. If you have 17 or more levels in the Paladin class, the size of the [[Area of Effect Xphb]] increases to 30 feet.
-
-**Variants**:
+*Legendary (requires attunement by a paladin)* ![](/03_Mechanics/CLI/items/img/holy-avenger.webp#right) You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. When you hit a Fiend or an Undead with it, that creature takes an extra`2d10`Radiant damage. While you hold the drawn weapon, it creates a 10-foot [[Area of Effect Xphb]] originating from you. You and all creatures [[friendly-attitude-xphb (variant-rules)]] to you in the [[Area of Effect Xphb]] have [[Advantage Xphb]] on saving throws against spells and other magical effects. If you have 17 or more levels in the Paladin class, the size of the [[Area of Effect Xphb]] increases to 30 feet. **Variants**:
 - [Holy Avenger Antimatter Rifle](#Holy%20Avenger%20Antimatter%20Rifle)
 - [Holy Avenger Automatic Rifle](#Holy%20Avenger%20Automatic%20Rifle)
 - [Holy Avenger Battleaxe](#Holy%20Avenger%20Battleaxe)
@@ -148,64 +146,12 @@ While you hold the drawn weapon, it creates a 10-foot [[Area of Effect Xphb]] or
 - [Holy Avenger Warhammer](#Holy%20Avenger%20Warhammer)
 - [Holy Avenger Whip](#Holy%20Avenger%20Whip)
 - [Holy Avenger Wooden Staff](#Holy%20Avenger%20Wooden%20Staff)
-- [Holy Avenger Yklwa](#Holy%20Avenger%20Yklwa)
+- [Holy Avenger Yklwa](#Holy%20Avenger%20Yklwa) ### Holy Avenger Yklwa - **Damage**: 1d8 piercing
 
-### Holy Avenger Yklwa
-
-- **Damage**: 1d8 piercing
 - **Range**: 10/30
 - **Properties**: [[item properties#Thrown|Thrown]]
-- **Weight**: 3.0 lbs.
+- **Weight**: 3.0 lbs. *Source: Dungeon Master's Guide (2024) p. 269. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Holy avenger xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of holy avenger xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around holy avenger xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession ## Prophecy Connection Mentioned in The Second Prophecy of Depths ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-*Source: Dungeon Master's Guide (2024) p. 269. Available in the SRD and the Free Rules (2024)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Holy avenger xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of holy avenger xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around holy avenger xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
-## Prophecy Connection
-
-Mentioned in The Second Prophecy of Depths
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Master_Item_Catalog]]
 - [[Armaments Legendary Xdmg]]
 - [[Magic Item Table I]]
 - [[Random Magic Items Armaments]]
@@ -216,3 +162,8 @@ Contextual improvement based on 12_Research
 - [[random-magic-items-armaments (tables)]]
 - [[random-magic-items-relics (tables)]]
 - [[relics-legendary-xdmg (tables)]]
+
+
+## Notes
+
+*Additional notes*

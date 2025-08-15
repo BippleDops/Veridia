@@ -242,3 +242,13 @@ Key stop on metals trade route
 - [[Quest - The Lost Expedition]]
 - [[comprehensive_npc_network_analysis]]
 - [[Shard_Locations (D&D_Sourcebooks)]]
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

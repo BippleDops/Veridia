@@ -233,3 +233,18 @@ Key stop on magic items trade route
 - [[Commander Typhoon Blackheart (Places)]]
 - [[Cross-Dimensional Transit Authority]]
 - [[Mad Oracle Thessaly]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

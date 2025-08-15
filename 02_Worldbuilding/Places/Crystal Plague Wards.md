@@ -486,3 +486,18 @@ Mentioned in The First Prophecy of Stars
 - [[Medical Research Facilities]]
 - [[Quarantine Enforcement (D&D_References)]]
 - [[Underground Smuggling Networks (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

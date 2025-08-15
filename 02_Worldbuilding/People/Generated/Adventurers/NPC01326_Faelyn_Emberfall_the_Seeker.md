@@ -136,3 +136,18 @@ Forming expedition to dangerous location
 
 ---
 *Generated: 2025-08-15T03:51:03.261Z*
+
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves

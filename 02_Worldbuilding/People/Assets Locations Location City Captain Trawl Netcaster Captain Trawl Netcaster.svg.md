@@ -225,3 +225,28 @@ Member of House Lionblood - Trait: magical affinity
 
 - [[04_Resources_Assets_Symbols_symbol-heraldry-mobile-terror-platform-mobile-terror-platform.svg]]
 - [[04_Resources_Assets_Locations_location-city-the-sunken-cathedral-of-perfect-order-the-sunken-cathedral-of-perfect-order.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -262,3 +262,18 @@ Key stop on textiles trade route
 - [[Coral Throne Syndicate]]
 - [[Crystal Caverns]]
 - [[Coral Throne Syndicate (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

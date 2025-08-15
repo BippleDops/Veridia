@@ -220,3 +220,18 @@ Ongoing situations affecting Embassy District:
 
 - [[Embassy Districts]]
 - [[The Tide Rises]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

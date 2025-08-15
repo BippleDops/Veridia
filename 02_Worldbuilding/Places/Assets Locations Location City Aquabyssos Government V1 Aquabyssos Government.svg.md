@@ -178,3 +178,22 @@ Key locations marked:
 - A shipment has gone missing and chaos spreads
 - Strange disappearances suggest ancient magic
 - A journal reveals ancient history about the government
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

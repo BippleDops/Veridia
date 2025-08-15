@@ -193,3 +193,18 @@ Ongoing situations affecting Professional Organizations:
 - [[Crystal Corruption Taboos]]
 - [[Eastern Kingdom]]
 - [[Economic Crime Methods]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

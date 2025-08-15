@@ -170,3 +170,22 @@ Key locations marked:
 
 - A shipment has gone missing and evil awakens
 - An heirloom has gone missing and war looms
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

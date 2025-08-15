@@ -219,3 +219,23 @@ This NPC can serve multiple roles:
 ## References
 
 - [[04_Resources_Assets_Vehicles_vehicle-ship-resoce-drive-yacht-resoce-drive-yacht.svg]]
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

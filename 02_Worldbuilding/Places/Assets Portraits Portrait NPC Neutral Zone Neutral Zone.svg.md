@@ -179,3 +179,27 @@ Key locations marked:
 - The authorities needs help investigating before the festival
 - Strange disappearances suggest a portal
 - Strange accidents suggest a portal
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

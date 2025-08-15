@@ -180,3 +180,22 @@ Key stop on textiles trade route
 - Someone is searching for information for power
 - A document has gone missing and evil awakens
 - An heirloom has gone missing and evil awakens
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

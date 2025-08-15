@@ -183,3 +183,22 @@ Mentioned in The First Prophecy of Depths
 - Someone is hunting a artifact for love
 - A corpse reveals ancient history about the government
 - A letter reveals a conspiracy about this place
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

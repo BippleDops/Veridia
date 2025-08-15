@@ -254,3 +254,23 @@ Member of House Serpentblood - Trait: magical affinity
 
 - [[Assets Portraits Portrait NPC Quest Storm Lord S Challenge Quest Storm Lord S Challenge.svg]]
 - [[Assets Symbols Symbol Heraldry Dockworkers Union Dockworkers Union.svg]]
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

@@ -1,106 +1,122 @@
 ---
+
 title: 04_Resources_Assets_Symbols_symbol-heraldry-quest-the-family-reconciliatio-quest-the-family-reconciliatio.svg
 type: note
 tags:
 - auto-generated
 - linked
+
 created: '2025-01-15'
+aliases: ["04 Resources Assets Symbols symbol-heraldry-quest-the-family-reconciliatio-quest-the-family-reconciliatio.svg"]
+modified: 2025-08-15
+status: active
+priority: normal
+category: 01 Adventures
+subcategory: 04 Resources Assets Symbols Symbol-Heraldry-Quest-The-Family-Reconciliatio-Quest-The-Family-Reconciliatio.Svg.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# 04_Resources_Assets_Symbols_symbol-heraldry-quest-the-family-reconciliatio-quest-the-family-reconciliatio.svg
+ # 04_Resources_Assets_Symbols_symbol-heraldry-quest-the-family-reconciliatio-quest-the-family-reconciliatio.svg ## Overview
 
-## Overview
-This topic is referenced in [[Assets Symbols Symbol Heraldry the Crimson Tide Pirates the Crimson Tide Pirates.svg]] and other parts of the campaign.
+This topic is referenced in [[Assets Symbols Symbol Heraldry the Crimson Tide Pirates the Crimson Tide Pirates.svg]] and other parts of the campaign. ## Description
 
-## Description
-An important element of the campaign world that connects to various other aspects of the adventure.
+An important element of the campaign world that connects to various other aspects of the adventure. ## Connections
 
-## Connections
 - Referenced by: [[Assets Symbols Symbol Heraldry the Crimson Tide Pirates the Crimson Tide Pirates.svg]]
-- Related topics in the same category
+- Related topics in the same category ## Details
 
-## Details
-Further information about this topic will be developed as the campaign progresses.
+Further information about this topic will be developed as the campaign progresses. ## Plot Hooks
 
-## Plot Hooks
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
-- Provides opportunities for exploration and discovery
+- Provides opportunities for exploration and discovery ## Background
 
-## Background
-*[Adventure setup and context]*
+*[Adventure setup and context]* ### What Happened Before
 
-### What Happened Before
-- *[Recent events leading to this adventure]*
+- *[Recent events leading to this adventure]* ### Current Situation - *[What's happening now]* ### The Stakes
 
-### Current Situation  
-- *[What's happening now]*
+- *[What happens if PCs don't act]* ## Adventure Hooks
 
-### The Stakes
-- *[What happens if PCs don't act]*
+*[Ways to get PCs involved]* ### Direct Approach
 
-## Adventure Hooks
-*[Ways to get PCs involved]*
+- *[Straightforward hook]* ### Indirect Approach
 
-### Direct Approach
-- *[Straightforward hook]*
+- *[Subtle introduction]* ### Emergency Hook
 
-### Indirect Approach
-- *[Subtle introduction]*
+- *[Urgent situation]* ## Key NPCs
 
-### Emergency Hook
-- *[Urgent situation]*
+*[Important characters in this adventure]* ### Allies
 
-## Key NPCs
-*[Important characters in this adventure]*
+- *[Helpful NPCs]* ### Antagonists
 
-### Allies
-- *[Helpful NPCs]*
+- *[Opposition NPCs]* ### Neutral Parties
 
-### Antagonists
-- *[Opposition NPCs]*
+- *[Information sources]* ## Locations
 
-### Neutral Parties
-- *[Information sources]*
+*[Important places in this adventure]* ### Starting Location
 
-## Locations
-*[Important places in this adventure]*
+- *[Where adventure begins]* ### Key Sites
 
-### Starting Location
-- *[Where adventure begins]*
+- *[Major locations to visit]* ### Optional Areas
 
-### Key Sites
-- *[Major locations to visit]*
+- *[Side locations]* ## Rewards
 
-### Optional Areas
-- *[Side locations]*
+*[What PCs gain from completing this adventure]* ### Experience Points
 
-## Rewards
-*[What PCs gain from completing this adventure]*
+- *[XP awards]* ### Treasure
 
-### Experience Points
-- *[XP awards]*
+- *[Gold and magic items]* ### Story Rewards
 
-### Treasure
-- *[Gold and magic items]*
+- *[Reputation, allies, information]* ## Scaling
 
-### Story Rewards
-- *[Reputation, allies, information]*
+*[How to adjust for different party levels]* ### Lower Level Parties
 
-## Scaling
-*[How to adjust for different party levels]*
+- *[Adjustments for weaker groups]* ### Higher Level Parties
 
-### Lower Level Parties
-- *[Adjustments for weaker groups]*
+- *[Adjustments for stronger groups]* ### Large/Small Parties
 
-### Higher Level Parties
-- *[Adjustments for stronger groups]*
+- *[Adjustments for party size]* ## References - [[Assets Portraits Portrait NPC Lady Crystal Heart Miraleth Lady Crystal Heart Miraleth.svg]]
 
-### Large/Small Parties
-- *[Adjustments for party size]*
-
-## References
-
-- [[Assets Portraits Portrait NPC Lady Crystal Heart Miraleth Lady Crystal Heart Miraleth.svg]]
 - [[Assets Portraits Portrait NPC Lord Marcus Shadowbane Lord Marcus Shadowbane.svg]]
 - [[Assets Symbols Symbol Heraldry the Crimson Tide Pirates the Crimson Tide Pirates.svg]]
+
+
+## Notes
+
+*Additional notes*
+
+#story/plot
+#story/story
+#story/background
+#world/location
+#world/world
+#world/place
+#character/npc
+#character/character
+#gameplay/adventure
+#gameplay/quest
+#resource/item
+#resource/treasure
+#meta/reference
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

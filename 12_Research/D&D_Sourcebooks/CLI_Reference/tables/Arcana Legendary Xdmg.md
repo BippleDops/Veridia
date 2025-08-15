@@ -1,18 +1,32 @@
 ---
+
 title: Arcana Legendary Xdmg
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Arcana Legendary Xdmg"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Arcana Legendary Xdmg
+ # Arcana Legendary Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Arcana Legendary Xdmg
 aliases:
 - Arcana - Legendary
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:04.010314+00:00'
 world: Both
----
 
-# Arcana - Legendary
-*Source: Dungeon Master's Guide (2024) p. 326* 
+--- # Arcana - Legendary
 
-**Arcana - Legendary**
-
-`dice: [](arcana-legendary-xdmg.md#^arcana-legendary)`
-
-| dice: 1d100 | Item |
+*Source: Dungeon Master's Guide (2024) p. 326* **Arcana - Legendary**`dice: [](arcana-legendary-xdmg.md#^arcana-legendary)`| dice: 1d100 | Item |
 |-------------|------|
 | 01–04 | [[Apparatus of Kwalish Xdmg (vehicles)]] |
 | 05–08 | [[cloak-of-invisibility-xdmg (items)]] |
@@ -66,49 +75,26 @@ world: Both
 | 89–92 | [[Tome of the Stilled Tongue Xdmg]] |
 | 93–96 | [[universal-solvent-xdmg (items)]] |
 | 97–00 | [[Well of Many Worlds Xdmg]] |
-^arcana-legendary
 
-## 🔧 Deep Evaluation Improvements
+^arcana-legendary ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Arcana legendary xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of arcana legendary xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around arcana legendary xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality ## Plot Hooks - Someone is protecting a witness for money
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Arcana legendary xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of arcana legendary xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around arcana legendary xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
-## Plot Hooks
-
-- Someone is protecting a witness for money
 - A stranger needs help stealing before the festival
-- An heirloom has gone missing and truth emerges
+- An heirloom has gone missing and truth emerges ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/item
+#meta/reference

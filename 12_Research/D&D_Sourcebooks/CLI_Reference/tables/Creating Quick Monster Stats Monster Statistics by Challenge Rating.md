@@ -1,18 +1,32 @@
 ---
+
 title: Creating Quick Monster Stats Monster Statistics by Challenge Rating
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Creating Quick Monster Stats Monster Statistics by Challenge Rating"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# creating-quick-monster-stats-monster-statistics-by-challenge-rating
+ # creating-quick-monster-stats-monster-statistics-by-challenge-rating ---
 
----
+## Description
+
+Detailed description pending.
 title: creating quick monster stats monster statistics by challenge rating
 aliases:
 - Creating Quick Monster Stats; Monster Statistics by Challenge Rating
+
 type: note
 tags:
 - research
@@ -21,21 +35,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.841852'
 world: Both
----
 
-# Creating Quick Monster Stats; Monster Statistics by Challenge Rating
-*Source: Dungeon Master's Guide p. 274* 
+--- # Creating Quick Monster Stats; Monster Statistics by Challenge Rating
 
-**Monster Statistics by Challenge Rating**
-
-| CR | Prof. Bonus | Armor Class | Hit Points | Attack Bonus | Damage/Round | Save DC |
+*Source: Dungeon Master's Guide p. 274* **Monster Statistics by Challenge Rating** | CR | Prof. Bonus | Armor Class | Hit Points | Attack Bonus | Damage/Round | Save DC |
 |----|-------------|-------------|------------|--------------|--------------|---------|
 | 0 | +2 | ≤ 13 | 1-6 | ≤ +3 | 0-1 | ≤ 13 |
 | 1/8 | +2 | 13 | 7-35 | +3 | 2-3 | 13 |
@@ -71,48 +82,21 @@ world: Both
 | 28 | +8 | 19 | 716-760 | +13 | 267-284 | 22 |
 | 29 | +9 | 19 | 761-805 | +13 | 285-302 | 22 |
 | 30 | +9 | 19 | 806-850 | +14 | 303-320 | 23 |
-^monster-statistics-by-challenge-rating
 
-## 🔧 Deep Evaluation Improvements
+^monster-statistics-by-challenge-rating ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Creating quick monster stats monster statistics by challenge rating is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of creating quick monster stats monster statistics by challenge rating as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around creating quick monster stats monster statistics by challenge rating. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. Enriched: true --> ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality ## Plot Hooks - A noble needs help finding before winter
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Creating quick monster stats monster statistics by challenge rating is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of creating quick monster stats monster statistics by challenge rating as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around creating quick monster stats monster statistics by challenge rating.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
- enriched: true -->
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
-## Plot Hooks
-
-- A noble needs help finding before winter
 - The authorities needs help delivering before the new moon
-- Strange disappearances suggest a conspiracy
+- Strange disappearances suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
+
+*Additional notes*
+
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/monster
+#meta/reference

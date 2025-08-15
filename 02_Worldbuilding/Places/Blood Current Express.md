@@ -871,3 +871,13 @@ Ongoing situations affecting Blood Current Express:
 ## References
 
 - [[Comprehensive-World-Connection-Guide]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures

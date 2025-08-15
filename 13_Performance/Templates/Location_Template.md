@@ -1,50 +1,36 @@
 ---
+
 title: Location_Template
 type: location
 tags:
 - location
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# Location_Template
+--- # Location_Template ---
 
----
+## Description
+
+Detailed description pending.
 title: Location Template
 type: template
 tags:
 - template
 - active
+
 created: '2025-08-14'
 modified: '2025-08-14'
----
 
-### Notable Features
-1. 
-2. 
-3. 
+--- ### Notable Features
 
-### Districts/Areas
+1. 2. 3. ### Districts/Areas
+
+
 1. **Name**: Description
-2. **Name**: Description
+2. **Name**: Description ### Rumors ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 09_Templates-specific enhancement ## Adventure Hooks ## Random Encounters
 
-### Rumors
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 09_Templates-specific enhancement
-
-## Adventure Hooks
-
-## Random Encounters
 | d12 | Encounter |
 |-----|----------|
 | 1-2 | |
@@ -52,11 +38,8 @@ modified: '2025-08-14'
 | 5-6 | |
 | 7-8 | |
 | 9-10 | |
-| 11-12 | |
+| 11-12 | | ## Maps & Images ## Semantic Connections
 
-## Maps & Images
-
-## Semantic Connections
 *Related concepts and locations:*
 - [[Nightmarket Plaza (D&D_References)|Nightmarket Plaza (D&D References)]]
 - [[trade-goods-phb (tables)]]
@@ -65,19 +48,33 @@ modified: '2025-08-14'
 - [[Deputy Archmerchant Scroll Deepmin (D&D_References)|Deputy Archmerchant Scroll Deepmin (D&D References)]]
 - [[Deputy Archmerchant Scroll Deepmind (D&D_References)|Deputy Archmerchant Scroll Deepmind (D&D References)]]
 - [[Finn Deepmarket (D&D_References)|Finn Deepmarket (D&D References)]]
-- [[trade-goods-xdmg (tables)]]
+- [[trade-goods-xdmg (tables)]] ## Plot Hooks - A stranger needs help stealing before dawn
 
-## Plot Hooks
-
-- A stranger needs help stealing before dawn
 - Someone is protecting information for money
 - A prisoner has gone missing and war looms
-- Strange sightings suggest ancient magic
+- Strange sightings suggest ancient magic ## 09_Templates Specific Content Contextual improvement based on 09_Templates ## 09_Templates Specific Content Contextual improvement based on 09_Templates
 
-## 09_Templates Specific Content
 
-Contextual improvement based on 09_Templates
+## Notes
 
-## 09_Templates Specific Content
+*Additional notes*
 
-Contextual improvement based on 09_Templates
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

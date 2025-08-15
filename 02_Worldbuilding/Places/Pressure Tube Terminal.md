@@ -365,3 +365,18 @@ Ongoing situations affecting Pressure Tube Terminal:
 
 - [[Comprehensive-World-Connection-Guide]]
 - [[Aquabyssos - Session 04 - High Tide Horror]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

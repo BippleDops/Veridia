@@ -179,3 +179,22 @@ Key locations marked:
 
 - Strange dreams suggest a curse
 - Someone is searching for a artifact for money
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -1,15 +1,28 @@
 ---
+
 title: Dragon Slayer Xdmg
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Dragon Slayer Xdmg"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Dragon Slayer Xdmg
+ # Dragon Slayer Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Dragon Slayer Xdmg
 aliases:
 - Dragon Slayer
@@ -66,6 +79,7 @@ aliases:
 - Dragon Slayer Whip
 - Dragon Slayer Wooden Staff
 - Dragon Slayer Yklwa
+
 type: note
 tags:
 - both
@@ -76,6 +90,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -84,17 +99,10 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:07.067903+00:00'
 world: Both
----
 
-# Dragon Slayer
-*Rare*  
-![](/03_Mechanics/CLI/items/img/dragon-slayer.webp#right)
+--- # Dragon Slayer
 
-You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.
-
-The weapon deals an extra `3d6` damage of the weapon's type if the target is a Dragon.
-
-**Variants**:
+*Rare* ![](/03_Mechanics/CLI/items/img/dragon-slayer.webp#right) You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. The weapon deals an extra`3d6`damage of the weapon's type if the target is a Dragon. **Variants**:
 - [Dragon Slayer Antimatter Rifle](#Dragon%20Slayer%20Antimatter%20Rifle)
 - [Dragon Slayer Automatic Rifle](#Dragon%20Slayer%20Automatic%20Rifle)
 - [Dragon Slayer Battleaxe](#Dragon%20Slayer%20Battleaxe)
@@ -147,60 +155,12 @@ The weapon deals an extra `3d6` damage of the weapon's type if the target is a D
 - [Dragon Slayer Warhammer](#Dragon%20Slayer%20Warhammer)
 - [Dragon Slayer Whip](#Dragon%20Slayer%20Whip)
 - [Dragon Slayer Wooden Staff](#Dragon%20Slayer%20Wooden%20Staff)
-- [Dragon Slayer Yklwa](#Dragon%20Slayer%20Yklwa)
+- [Dragon Slayer Yklwa](#Dragon%20Slayer%20Yklwa) ### Dragon Slayer Yklwa - **Damage**: 1d8 piercing
 
-### Dragon Slayer Yklwa
-
-- **Damage**: 1d8 piercing
 - **Range**: 10/30
 - **Properties**: [[item properties#Thrown|Thrown]]
-- **Weight**: 3.0 lbs.
+- **Weight**: 3.0 lbs. *Source: Dungeon Master's Guide (2024) p. 254. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Dragon slayer xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of dragon slayer xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dragon slayer xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-*Source: Dungeon Master's Guide (2024) p. 254. Available in the SRD and the Free Rules (2024)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Dragon slayer xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of dragon slayer xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dragon slayer xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Master_Item_Catalog]]
 - [[Charm of the Slayer Xdmg]]
 - [[charm-of-the-slayer-xdmg (rewards)]]
 - [[Armaments Rare Xdmg]]
@@ -209,3 +169,17 @@ Contextual improvement based on 12_Research
 - [[armaments-rare-xdmg (tables)]]
 - [[magic-item-table-g (tables)]]
 - [[random-magic-items-armaments (tables)]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#mechanics/mechanics
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/item
+#meta/reference

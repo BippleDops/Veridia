@@ -1,18 +1,32 @@
 ---
+
 title: bones-of-the-earth-xge (spells)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["bones-of-the-earth-xge (spells)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# bones-of-the-earth-xge
+ # bones-of-the-earth-xge ---
 
----
+## Description
+
+Detailed description pending.
 title: bones of the earth xge
 aliases:
 - Bones of the Earth
+
 type: note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
@@ -22,95 +36,58 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 classes:
 - Bard
 - Druid
+
 cssclasses: json5e-spell
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:36.317255'
 world: Both
----
 
-# Bones of the Earth
-*6th-level, Transmutation*  
+--- # Bones of the Earth
 
-- **Casting time:** 1 Action
+*6th-level, Transmutation* - **Casting time:** 1 Action
 - **Range:** 120 feet
 - **Components:** V, S
-- **Duration:** Instantaneous
+- **Duration:** Instantaneous You cause up to six pillars of stone to burst from places on the ground that you can see within range. Each pillar is a cylinder that has a diameter of 5 feet and a height of up to 30 feet. The ground where a pillar appears must be wide enough for its diameter, and you can target the ground under a creature if that creature is Medium or smaller. Each pillar has AC 5 and 30 hit points. When reduced to 0 hit points, a pillar crumbles into rubble, which creates an area of difficult terrain with a 10-foot radius that lasts until the rubble is cleared. Each 5-foot-diameter portion of the area requires at least 1 minute to clear by hand. If a pillar is created under a creature, that creature must succeed on a Dexterity saving throw or be lifted by the pillar. A creature can choose to fail the save. If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes`6d6`bludgeoning damage and is [[conditions#Restrained|restrained]], pinched between the pillar and the obstacle. The [[conditions#Restrained|restrained]] creature can use an action to make a Strength or Dexterity check (the creature's choice) against the spell's save DC. On a success, the creature is no longer [[conditions#Restrained|restrained]] and must either move off the pillar or fall off it. **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th. **Classes**: [[classes]]; [[classes]] *Source: Xanathar's Guide to Everything p. 150* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Bones of the earth xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of bones of the earth xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bones of the earth xge. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Hidden Prophecy of Stars ## Plot Hooks - The authorities needs help delivering before winter
 
-You cause up to six pillars of stone to burst from places on the ground that you can see within range. Each pillar is a cylinder that has a diameter of 5 feet and a height of up to 30 feet. The ground where a pillar appears must be wide enough for its diameter, and you can target the ground under a creature if that creature is Medium or smaller. Each pillar has AC 5 and 30 hit points. When reduced to 0 hit points, a pillar crumbles into rubble, which creates an area of difficult terrain with a 10-foot radius that lasts until the rubble is cleared. Each 5-foot-diameter portion of the area requires at least 1 minute to clear by hand.
+- A stranger needs help stealing before winter ## 12_Research Specific Content Contextual improvement based on 12_Research ## Spell Components Detail
 
-If a pillar is created under a creature, that creature must succeed on a Dexterity saving throw or be lifted by the pillar. A creature can choose to fail the save.
-
-If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes `6d6` bludgeoning damage and is [[conditions#Restrained|restrained]], pinched between the pillar and the obstacle. The [[conditions#Restrained|restrained]] creature can use an action to make a Strength or Dexterity check (the creature's choice) against the spell's save DC. On a success, the creature is no longer [[conditions#Restrained|restrained]] and must either move off the pillar or fall off it.
-
-**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.
-
-**Classes**: [[classes]]; [[classes]]
-
-*Source: Xanathar's Guide to Everything p. 150*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Bones of the earth xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of bones of the earth xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bones of the earth xge.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The Hidden Prophecy of Stars
-
-## Plot Hooks
-
-- The authorities needs help delivering before winter
-- A stranger needs help stealing before winter
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
-- **Material**: Required items
+- **Material**: Required items ## Common Uses
 
-## Common Uses
 - Typical applications
-- Creative uses
+- Creative uses ## Counterspell Information
 
-## Counterspell Information
 - How to counter
 - Difficulty class
+
 ## Sourcebook Reference
+
 - **Source**: Xanathar's Guide to Everything
 - **School**: See spell description
-- **Available to**: Check class spell lists
+- **Available to**: Check class spell lists ### CLI Reference
 
-### CLI Reference
-See: `[[bones-of-the-earth-xge (spells)|bones-of-the-earth-xge (spells)-phb]]` in CLI_Reference/spells/
+See:`[[bones-of-the-earth-xge (spells)|bones-of-the-earth-xge (spells)-phb]]`in CLI_Reference/spells/
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/mechanics
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#character/creature
+#resource/item
+#meta/reference

@@ -121,3 +121,18 @@ Recent developments have brought new attention to The Philosophical Depths, crea
 - [[02_Worldbuilding_Places_The_Philosophical_Depths]]
 - [[The Drowning Truth]]
 - [[The Drowning Truth (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

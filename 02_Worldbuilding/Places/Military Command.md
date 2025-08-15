@@ -270,3 +270,18 @@ Key stop on magic items trade route
 - [[The Royal Palace]]
 - [[Throne Room - Heart of Palace]]
 - [[Mad Oracle Thessaly (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

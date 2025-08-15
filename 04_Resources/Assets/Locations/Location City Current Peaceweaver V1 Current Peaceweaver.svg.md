@@ -57,3 +57,28 @@ Recent developments have brought new attention to Location City Current Peacewea
 
 ## DM Notes
 *Location City Current Peaceweaver V1 Current Peaceweaver.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

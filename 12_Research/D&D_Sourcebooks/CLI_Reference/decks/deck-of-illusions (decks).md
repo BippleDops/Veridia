@@ -1,18 +1,32 @@
 ---
+
 title: deck-of-illusions (decks)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["deck-of-illusions (decks)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# deck-of-illusions
+ # deck-of-illusions ---
 
----
+## Description
+
+Detailed description pending.
 title: deck of illusions
 aliases:
 - Deck of Illusions
+
 type: note
 tags:
 - research
@@ -21,32 +35,19 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-deck
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:34.911201'
 world: Both
----
 
-> [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-deck-of-illusions-xdmg-deck-of-illusions-xdmg.svg)
+--- > [!figure] Item
+![](04_Resources/Assets/Items/item-artifact-deck-of-illusions-xdmg-deck-of-illusions-xdmg.svg) # Deck of Illusions
 
-# Deck of Illusions
-*Source: Dungeon Master's Guide p. 161. Available in the SRD*  
-
-This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing ` - 1` cards.
-
-The magic of the deck functions only if cards are drawn at random (you can use an altered deck of playing cards to simulate the deck). You can use an action to draw a card at random from the deck and throw it to the ground at a point within 30 feet of you.
-
-An illusion of one or more creatures forms over the thrown card and remains until dispelled. An illusory creature appears real, of the appropriate size, and behaves as if it were a real creature, except that it can do no harm. While you are within 120 feet of the illusory creature and can see it, you can use an action to move it magically anywhere within 30 feet of its card. Any physical interaction with the illusory creature reveals it to be an illusion, because objects pass through it. Someone who uses an action to visually inspect the creature identifies it as illusory with a successful DC 15 Intelligence ([[skills#Investigation|Investigation]]) check. The creature then appears translucent.
-
-The illusion lasts until its card is moved or the illusion is dispelled. When the illusion ends, the image on its card disappears, and that card can't be used again.
-
-`dice: [](deck-of-illusions.md#^1-playing-card-illusion)`
-
-| dice: 1d34 | Playing Card | Illusion |
+*Source: Dungeon Master's Guide p. 161. Available in the SRD* This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing`- 1`cards. The magic of the deck functions only if cards are drawn at random (you can use an altered deck of playing cards to simulate the deck). You can use an action to draw a card at random from the deck and throw it to the ground at a point within 30 feet of you. An illusion of one or more creatures forms over the thrown card and remains until dispelled. An illusory creature appears real, of the appropriate size, and behaves as if it were a real creature, except that it can do no harm. While you are within 120 feet of the illusory creature and can see it, you can use an action to move it magically anywhere within 30 feet of its card. Any physical interaction with the illusory creature reveals it to be an illusion, because objects pass through it. Someone who uses an action to visually inspect the creature identifies it as illusory with a successful DC 15 Intelligence ([[skills#Investigation|Investigation]]) check. The creature then appears translucent. The illusion lasts until its card is moved or the illusion is dispelled. When the illusion ends, the image on its card disappears, and that card can't be used again.`dice: [](deck-of-illusions.md#^1-playing-card-illusion)`| dice: 1d34 | Playing Card | Illusion |
 |------------|--------------|----------|
 | 1 | Ace of hearts | [[Red Dragon Xmm]] |
 | 2 | King of hearts | [[Bestiary]] and four [[Bestiary]] |
@@ -81,49 +82,23 @@ The illusion lasts until its card is moved or the illusion is dispelled. When th
 | 31 | Eight of clubs | [[Bestiary]] |
 | 32 | Two of clubs | [[kobold-warrior-xmm|Kobold]] |
 | 33-34 | jokers (2) | You (the deck's owner) |
-^1-playing-card-illusion
 
-## 🔧 Deep Evaluation Improvements
+^1-playing-card-illusion ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Deck of illusions is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of deck of illusions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around deck of illusions. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is searching for a artifact for power
 
-*20 targeted improvements identified*
+- A noble needs help delivering before dawn ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-### Connection Improvements
 
-- Add cross-references to related notes
+## Notes
 
-### Enhancement Improvements
+*Additional notes*
 
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Deck of illusions is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of deck of illusions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around deck of illusions.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Someone is searching for a artifact for power
-- A noble needs help delivering before dawn
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#resource/item
+#resource/treasure
+#meta/reference

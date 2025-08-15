@@ -59,3 +59,28 @@ Recent developments have brought new attention to Location City His Eternal Maje
 
 ## DM Notes
 *Location City His Eternal Majesty Keeper of the Throne of Bubbles V1 His Eternal Majesty Keeper of the Throne of Bubbles.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

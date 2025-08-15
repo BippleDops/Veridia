@@ -1,18 +1,22 @@
 ---
+
 title: mule-xmm (beast)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# mule-xmm
+--- # mule-xmm ---
 
----
+## Description
+
+Detailed description pending.
 title: mule xmm
 aliases:
 - Mule
+
 type: monster
 tags:
 - ttrpg-cli/monster/size/medium
@@ -27,6 +31,7 @@ tags:
 - ttrpg-cli/monster/cr/1-8
 - status/in-progress
 - ttrpg-cli/monster/environment/desert
+
 created: 2025-08-11
 modified: '2025-08-14'
 status: active
@@ -36,31 +41,12 @@ statblock: inline
 statblock-link: '#^statblock'
 updated: '2025-08-12T23:37:35.119927'
 world: Both
----
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-mule-xmm-mule-xmm.svg)
+--- > [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-mule-xmm-mule-xmm.svg) # [[mule-xmm (beast)]]
 
-# [[mule-xmm (beast)]]
-*Source: Monster Manual (2024) p. 365, Player's Handbook (2024) p. 353. Available in the SRD and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 365, Player's Handbook (2024) p. 353. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Animals Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[Panther Xmm]] stat block can also represent a mountain lion, while the [[Goat Xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.```statblock
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Animals
-
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[Panther Xmm]] stat block can also represent a mountain lion, while the [[Goat Xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
-
-```statblock
 "name": "Mule (XMM)"
 "size": "Medium"
 "type": "beast"
@@ -69,60 +55,19 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "0"
-"stats":
-  - !!int "14"
-  - !!int "10"
-  - !!int "13"
-  - !!int "2"
-  - !!int "5"
+"stats": - !!int "14" - !!int "10" - !!int "13" - !!int "2" - !!int "5"
 "speed": "40 ft."
-"saves":
-  - "strength": !!int "4"
+"saves": - "strength": !!int "4"
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "1/8"
-"traits":
-  - "desc": "The mule counts as one size larger for the purpose of determining its\
-      \ carrying capacity."
-    "name": "Beast of Burden"
-"actions":
-  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Bludgeoning damage."
-    "name": "Hooves"
-"source":
-  - "XMM"
-  - "XPHB"
-"image": "/03_Mechanics/CLI/bestiary/beast/token/mule-xmm.webp"
-```
-^statblock
+"traits": - "desc": "The mule counts as one size larger for the purpose of determining its\ \ carrying capacity." "name": "Beast of Burden"
+"actions": - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Bludgeoning damage." "name": "Hooves"
+"source": - "XMM" - "XPHB"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/mule-xmm.webp"```^statblock ## Environment desert, hill, urban ## Player-Facing Summary Mule xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of mule xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mule xmm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is blackmailing information for revenge
 
-## Environment
+- A prisoner has gone missing and evil awakens ## References - [[stable]]
 
-desert, hill, urban
-
-## Player-Facing Summary
-
-Mule xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of mule xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mule xmm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Someone is blackmailing information for revenge
-- A prisoner has gone missing and evil awakens
-
-## References
-
-- [[stable]]
 - [[Mule Xmm]]
 - [[2 Appendix a Miscellaneous Creatures]]
 - [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
@@ -140,3 +85,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[monsters-by-habitat-urban-monsters-xmm (tables)]]
 - [[mountain-encounters-levels-14-xge (tables)]]
 - [[urban-encounters-levels-14-xge (tables)]]
+
+
+## Notes
+
+*Additional notes*

@@ -1542,3 +1542,28 @@ location represents a crucial aspect of the world's history, cosmology, or funda
 - [[The Phantom Current (D&D_References)]]
 - [[War Machine Engineers (D&D_References)]]
 - [[Quest_Template]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

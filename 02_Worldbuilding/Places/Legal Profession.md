@@ -223,3 +223,18 @@ Ongoing situations affecting Legal Profession:
 
 - [[Memory Alteration Consequences]]
 - [[Political Compromise Costs]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

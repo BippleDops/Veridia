@@ -178,3 +178,22 @@ Key stop on textiles trade route
 - Someone is protecting a witness for money
 - A corpse reveals a conspiracy about the cult
 - A prisoner has gone missing and truth emerges
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

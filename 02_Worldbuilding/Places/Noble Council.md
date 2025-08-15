@@ -256,3 +256,18 @@ Key stop on spices trade route
 - [[Noble Quarter]]
 - [[The Royal Palace]]
 - [[Noble Quarter (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

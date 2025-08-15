@@ -187,3 +187,22 @@ Key stop on textiles trade route
 - A noble needs help stealing before the new moon
 - A journal reveals a conspiracy about the cult
 - Someone is protecting a witness for love
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

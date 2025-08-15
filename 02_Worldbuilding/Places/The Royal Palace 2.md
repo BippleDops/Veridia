@@ -201,3 +201,28 @@ Legends speak of The Royal Palace as a nexus where past and present converge. Lo
 - [[02_Worldbuilding/Places/Parliament of Echoes]]
 - [[02_Worldbuilding/Places/Royal Palace of Meridian]]
 - [[02_Worldbuilding/Places/Throne Room - Heart of Palace]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

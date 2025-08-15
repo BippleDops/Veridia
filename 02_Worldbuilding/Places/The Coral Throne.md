@@ -241,3 +241,18 @@ Ongoing situations affecting The Coral Throne:
 - [[The Depth Accords (D&D_References)]]
 - [[The Original Palace (D&D_References)]]
 - [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

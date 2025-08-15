@@ -1,18 +1,32 @@
 ---
+
 title: Monsters by Habitat Mountain Monsters Xmm
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Monsters by Habitat Mountain Monsters Xmm"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Monsters by Habitat Mountain Monsters Xmm
+ # Monsters by Habitat Mountain Monsters Xmm ---
 
----
+## Description
+
+Detailed description pending.
 title: Monsters by Habitat Mountain Monsters Xmm
 aliases:
 - Monsters by Habitat; Mountain Monsters
+
 type: note
 tags:
 - both
@@ -22,21 +36,18 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.753637+00:00'
 world: Both
----
 
-# Monsters by Habitat; Mountain Monsters
-*Source: Monster Manual (2024) p. 375* 
+--- # Monsters by Habitat; Mountain Monsters
 
-**Mountain Monsters**
-
-| CR | Monsters |
+*Source: Monster Manual (2024) p. 375* **Mountain Monsters** | CR | Monsters |
 |----|----------|
 | 0 | [[Giant Bat Xmm]], [[Eagle Xmm]], [[Goat Xmm]], [[Blood Hawk Xmm]] |
 | 1/8 | [[Blood Hawk Xmm]], [[Kobold Warrior Xmm]], [[Stirge Xmm]] |
@@ -57,43 +68,21 @@ world: Both
 | 17 | [[Red Dragon Xmm]] |
 | 23 | [[ancient-silver-dragon-xmm (dragon)]] |
 | 24 | [[Red Dragon Xmm]] |
-^mountain-monsters
 
-## 🔧 Deep Evaluation Improvements
+^mountain-monsters ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Monsters by habitat mountain monsters xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of monsters by habitat mountain monsters xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monsters by habitat mountain monsters xmm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1]]
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Monsters by habitat mountain monsters xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of monsters by habitat mountain monsters xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monsters by habitat mountain monsters xmm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
+
+*Additional notes*
+
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/monster
+#meta/reference

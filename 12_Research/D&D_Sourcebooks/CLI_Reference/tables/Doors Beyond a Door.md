@@ -1,18 +1,32 @@
 ---
+
 title: Doors Beyond a Door
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Doors Beyond a Door"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Doors Beyond a Door
+ # Doors Beyond a Door ---
 
----
+## Description
+
+Detailed description pending.
 title: Doors Beyond a Door
 aliases:
 - Doors; Beyond a Door
+
 type: note
 tags:
 - both
@@ -22,75 +36,42 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:04.102473+00:00'
 world: Both
----
 
-# Doors; Beyond a Door
-*Source: Dungeon Master's Guide p. 291* 
+--- # Doors; Beyond a Door
 
-**Beyond a Door**
-
-`dice: [](doors-beyond-a-door.md#^beyond-a-door)`
-
-| dice: d20 | Feature |
+*Source: Dungeon Master's Guide p. 291* **Beyond a Door**`dice: [](doors-beyond-a-door.md#^beyond-a-door)`| dice: d20 | Feature |
 |-----------|---------|
-| 1-2 | Passage extending 10 ft., then T intersection extending 10 ft. to the right and left |
-| 3-8 | Passage 20 ft. straight ahead |
+| 1-2 | Passage extending 10 ft., then T intersection extending 10 ft. To the right and left |
+| 3-8 | Passage 20 ft. Straight ahead |
 | 9-18 | Chamber (roll on the Chamber table) |
 | 19 | Stairs (roll on the Stairs table) |
 | 20 | False door with trap |
-^beyond-a-door
 
-## 🔧 Deep Evaluation Improvements
+^beyond-a-door ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Doors beyond a door is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of doors beyond a door as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around doors beyond a door. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A stranger needs help finding before dawn
 
-*20 targeted improvements identified*
+- A prisoner has gone missing and chaos spreads ## Related Notes - [[Similar Topic 1]]
 
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Doors beyond a door is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of doors beyond a door as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around doors beyond a door.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A stranger needs help finding before dawn
-- A prisoner has gone missing and chaos spreads
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

@@ -146,3 +146,18 @@ This content can be adapted and expanded based on specific campaign needs.
 
 - [[Garden of Shadows]]
 - [[Crystalhaven (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

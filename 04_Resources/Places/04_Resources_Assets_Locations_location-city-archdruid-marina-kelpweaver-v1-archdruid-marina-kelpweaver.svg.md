@@ -107,3 +107,23 @@ Further information about this topic will be developed as the campaign progresse
 
 - [[Assets Locations Location City Crystal Master Prism Lightweaver Crystal Master Prism Lightweaver.svg]]
 - [[Assets Portraits Portrait NPC Captain Lyanna Brightshield Captain Lyanna Brightshield.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

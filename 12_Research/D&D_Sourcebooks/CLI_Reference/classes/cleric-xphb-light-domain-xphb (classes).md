@@ -1,18 +1,32 @@
 ---
+
 title: cleric-xphb-light-domain-xphb (classes)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["cleric-xphb-light-domain-xphb (classes)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# cleric-xphb-light-domain-xphb
+ # cleric-xphb-light-domain-xphb ---
 
----
+## Description
+
+Detailed description pending.
 title: cleric xphb light domain xphb
 aliases:
 - Light Domain
+
 type: note
 tags:
 - research
@@ -23,22 +37,20 @@ tags:
 - status/in-progress
 - importance/core
 - ttrpg-cli/compendium/src/5e/xphb
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-class
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:34.452146'
 world: Both
----
 
-# Light Domain
-*[[cleric-xphb-nature-domain (classes)]]: Cleric Subclass*  
-*Source: Player's Handbook (2024) p. 74*  
+--- # Light Domain
 
-> [!tldr] Class and Feature Progression
-> 
-> LevelPBFeatures
+*[[cleric-xphb-nature-domain (classes)]]: Cleric Subclass* *Source: Player's Handbook (2024) p. 74* > [!tldr] Class and Feature Progression
+
+> > Level PBFeatures
 > 1st+2
 > 2nd+2
 > 3rd+2Light Domain
@@ -58,92 +70,35 @@ world: Both
 > 17th+6Corona of Light
 > 18th+6
 > 19th+6
-> 20th+6
+> 20th+6 ^class-progression ### Light Domain (Level 3) *Bring Light to Banish Darkness* The Light Domain emphasizes the divine power to bring about blazing fire and revelation. Clerics who wield this power are enlightened souls infused with radiance and the power of their deities' discerning vision, charged with chasing away lies and burning away darkness. The Light Domain is associated with gods of truth, vigilance, beauty, insight, and renewal. Some of these gods are identified with the sun or as charioteers who guide the sun across the sky. Others are sentinels who pierce deception. Some are deities of beauty and artistry who teach that art is a vehicle for the soul's improvement. ### Light Domain Spells (Level 3) Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Light Domain Spells table, you thereafter always have the listed spells prepared. **Light Domain Spells** | Cleric Level | Prepared Spells |
 
-^class-progression
 
-### Light Domain (Level 3)
-
-*Bring Light to Banish Darkness*
-
-The Light Domain emphasizes the divine power to bring about blazing fire and revelation. Clerics who wield this power are enlightened souls infused with radiance and the power of their deities' discerning vision, charged with chasing away lies and burning away darkness.
-
-The Light Domain is associated with gods of truth, vigilance, beauty, insight, and renewal. Some of these gods are identified with the sun or as charioteers who guide the sun across the sky. Others are sentinels who pierce deception. Some are deities of beauty and artistry who teach that art is a vehicle for the soul's improvement.
-
-### Light Domain Spells (Level 3)
-
-Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Light Domain Spells table, you thereafter always have the listed spells prepared.
-
-**Light Domain Spells**
-
-| Cleric Level | Prepared Spells |
 |--------------|-----------------|
 | 3rd | [[Burning Hands Xphb]], [[faerie-fire-xphb (spells)]], [[Scorching Ray Xphb]], [[see-invisibility-xphb (spells)]] |
 | 5th | [[Light Xphb]], [[fireball-xphb (spells)]] |
 | 7th | [[Arcane Eye Xphb]], [[wall-of-fire-xphb (spells)]] |
 | 9th | [[flame-strike-xphb (spells)]], [[Scrying Xphb]] |
-^light-domain-spells
 
-### Radiance of the Dawn (Level 3)
+^light-domain-spells ### Radiance of the Dawn (Level 3) As a [[actions#Magic|Magic]] action, you present your [[Symbol Xphb]] and expend a use of your Channel Divinity to emit a flash of light in a 30-foot [[Area of Effect Xphb]] originating from yourself. Any magical [[darkness-xphb (variant-rules)]]—such as that created by the [[darkness-xphb (variant-rules)]] spell—in that area is dispelled. Additionally, each creature of your choice in that area must make a Constitution saving throw, taking Radiant damage equal to`2d10`plus your Cleric level on a failed save or half as much damage on a successful one. ### Warding Flare (Level 3) When a creature that you can see within 30 feet of yourself makes an attack roll, you can take a [[reaction-xphb (variant-rules)]] to impose [[Advantage Xphb]] on the attack roll, causing light to flare before it hits or misses. You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [[long-rest-xphb]]. ### Improved Warding Flare (Level 6) You regain all expended uses of your Warding Flare when you finish a [[short-rest-xphb]] or [[long-rest-xphb]]. In addition, whenever you use Warding Flare, you can give the target of the triggering attack a number of [[temporary-hit-points-xphb (variant-rules)]] equal to`2d6`plus your Wisdom modifier. ### Corona of Light (Level 17) As a [[actions#Magic|Magic]] action, you cause yourself to emit an aura of sunlight that lasts for 1 minute or until you dismiss it (no action required). You emit [[Light Xphb]] in a 60-foot radius and [[Light Xphb]] for an additional 30 feet. Your enemies in the [[Light Xphb]] have [[Advantage Xphb]] on saving throws against your Radiance of the Dawn and any spell that deals Fire or Radiant damage. You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb]]. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Cleric xphb light domain xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of cleric xphb light domain xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cleric xphb light domain xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange disappearances suggest a portal
 
-As a [[actions#Magic|Magic]] action, you present your [[Symbol Xphb]] and expend a use of your Channel Divinity to emit a flash of light in a 30-foot [[Area of Effect Xphb]] originating from yourself. Any magical [[darkness-xphb (variant-rules)]]—such as that created by the [[darkness-xphb (variant-rules)]] spell—in that area is dispelled. Additionally, each creature of your choice in that area must make a Constitution saving throw, taking Radiant damage equal to `2d10` plus your Cleric level on a failed save or half as much damage on a successful one.
-
-### Warding Flare (Level 3)
-
-When a creature that you can see within 30 feet of yourself makes an attack roll, you can take a [[reaction-xphb (variant-rules)]] to impose [[Advantage Xphb]] on the attack roll, causing light to flare before it hits or misses.
-
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [[long-rest-xphb]].
-
-### Improved Warding Flare (Level 6)
-
-You regain all expended uses of your Warding Flare when you finish a [[short-rest-xphb]] or [[long-rest-xphb]].
-
-In addition, whenever you use Warding Flare, you can give the target of the triggering attack a number of [[temporary-hit-points-xphb (variant-rules)]] equal to `2d6` plus your Wisdom modifier.
-
-### Corona of Light (Level 17)
-
-As a [[actions#Magic|Magic]] action, you cause yourself to emit an aura of sunlight that lasts for 1 minute or until you dismiss it (no action required). You emit [[Light Xphb]] in a 60-foot radius and [[Light Xphb]] for an additional 30 feet. Your enemies in the [[Light Xphb]] have [[Advantage Xphb]] on saving throws against your Radiance of the Dawn and any spell that deals Fire or Radiant damage.
-
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb]].
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Cleric xphb light domain xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of cleric xphb light domain xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cleric xphb light domain xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Strange disappearances suggest a portal
 - A prisoner has gone missing and chaos spreads
 - An heirloom has gone missing and war looms
-- The authorities needs help finding before dawn
+- The authorities needs help finding before dawn ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#meta/reference

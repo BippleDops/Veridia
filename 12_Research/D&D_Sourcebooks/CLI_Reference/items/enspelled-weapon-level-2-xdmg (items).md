@@ -1,15 +1,18 @@
 ---
+
 title: enspelled-weapon-level-2-xdmg (items)
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# enspelled-weapon-level-2-xdmg
+--- # enspelled-weapon-level-2-xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: enspelled weapon level 2 xdmg
 aliases:
 - Enspelled Weapon (Level 2)
@@ -66,6 +69,7 @@ aliases:
 - Enspelled (Level 2) Whip
 - Enspelled (Level 2) Wooden Staff
 - Enspelled (Level 2) Yklwa
+
 type: note
 tags:
 - research
@@ -75,6 +79,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
@@ -83,19 +88,11 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-12T23:37:36.781786'
 world: Both
----
 
-> [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-enspelled-weapon-level-2-xdmg-enspelled-weapon-level-2-xdmg.svg)
+--- > [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-enspelled-weapon-level-2-xdmg-enspelled-weapon-level-2-xdmg.svg) # Enspelled Weapon (Level 2)
 
-# Enspelled Weapon (Level 2)
-*Rare (requires attunement)*  
-
-Bound into this weapon is a level 2 spell. The spell is determined when the weapon is created and must belong to the Conjuration, Divination, Evocation, Necromancy, or Transmutation school of magic. The weapon has 6 charges and regains `d6` expended charges daily at dawn. While holding the weapon, you can expend 1 charge to cast its spell.
-
-The spell's saving throw DC is 13, and its attack bonus is `+5`.
-
-**Variants**:
+*Rare (requires attunement)* Bound into this weapon is a level 2 spell. The spell is determined when the weapon is created and must belong to the Conjuration, Divination, Evocation, Necromancy, or Transmutation school of magic. The weapon has 6 charges and regains`d6`expended charges daily at dawn. While holding the weapon, you can expend 1 charge to cast its spell. The spell's saving throw DC is 13, and its attack bonus is`+5`. **Variants**:
 - [Enspelled (Level 2) Antimatter Rifle](#Enspelled%20(Level%202)%20Antimatter%20Rifle)
 - [Enspelled (Level 2) Automatic Rifle](#Enspelled%20(Level%202)%20Automatic%20Rifle)
 - [Enspelled (Level 2) Battleaxe](#Enspelled%20(Level%202)%20Battleaxe)
@@ -148,74 +145,29 @@ The spell's saving throw DC is 13, and its attack bonus is `+5`.
 - [Enspelled (Level 2) Warhammer](#Enspelled%20(Level%202)%20Warhammer)
 - [Enspelled (Level 2) Whip](#Enspelled%20(Level%202)%20Whip)
 - [Enspelled (Level 2) Wooden Staff](#Enspelled%20(Level%202)%20Wooden%20Staff)
-- [Enspelled (Level 2) Yklwa](#Enspelled%20(Level%202)%20Yklwa)
+- [Enspelled (Level 2) Yklwa](#Enspelled%20(Level%202)%20Yklwa) ### Enspelled (Level 2) Yklwa - **Damage**: 1d8 piercing
 
-### Enspelled (Level 2) Yklwa
-
-- **Damage**: 1d8 piercing
 - **Range**: 10/30
 - **Properties**: [[item properties#Thrown|Thrown]]
-- **Weight**: 3.0 lbs.
+- **Weight**: 3.0 lbs. *Source: Dungeon Master's Guide (2024) p. 258* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Enspelled weapon level 2 xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of enspelled weapon level 2 xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around enspelled weapon level 2 xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession ## Plot Hooks - Strange dreams suggest ancient magic
 
-*Source: Dungeon Master's Guide (2024) p. 258*
+- A map reveals ancient history about this place ## 12_Research Specific Content Contextual improvement based on 12_Research ## Spell Components Detail
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Enspelled weapon level 2 xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of enspelled weapon level 2 xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around enspelled weapon level 2 xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
-## Plot Hooks
-
-- Strange dreams suggest ancient magic
-- A map reveals ancient history about this place
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
-- **Material**: Required items
+- **Material**: Required items ## Common Uses
 
-## Common Uses
 - Typical applications
-- Creative uses
+- Creative uses ## Counterspell Information
 
-## Counterspell Information
 - How to counter
-- Difficulty class
+- Difficulty class ## References - [[Master_Item_Catalog]]
 
-## References
-
-- [[Master_Item_Catalog]]
 - [[Master_Spell_Compendium]]
 - [[Enspelled Weapon Xdmg]]
 - [[enspelled-weapon-xdmg (items)]]
+
+
+## Notes
+
+*Additional notes*

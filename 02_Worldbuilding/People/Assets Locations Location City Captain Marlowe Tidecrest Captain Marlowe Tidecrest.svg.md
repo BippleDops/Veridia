@@ -212,3 +212,28 @@ Member of House Dragonblood - Trait: divine blood
 ## References
 
 - [[04_Resources_Assets_Portraits_portrait-npc-captain-henrik-proudbanner-captain-henrik-proudbanner.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -208,3 +208,28 @@ This NPC can serve multiple roles:
 ## References
 
 - [[04_Resources_Assets_Symbols_symbol-heraldry-the-deep-expansion-the-deep-expansion.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

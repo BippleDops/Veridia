@@ -1,80 +1,78 @@
 ---
+
 tags: [general]
 type: template
 status: active
----
 
-# Template Place
+--- # Template Place ## Overview Template Place represents an important element within the campaign world. ## Description This component serves a vital role in the ongoing narrative and world-building efforts. It connects to various other elements and provides depth to the campaign setting. ## Key Features ### Primary Aspects
 
-## Overview
-
-Template Place represents an important element within the campaign world.
-
-## Description
-
-This component serves a vital role in the ongoing narrative and world-building efforts. It connects to various other elements and provides depth to the campaign setting.
-
-## Key Features
-
-### Primary Aspects
 - **Core Function**: Central purpose and role
 - **Unique Traits**: Distinguishing characteristics
-- **Connections**: Links to other elements
+- **Connections**: Links to other elements ### Secondary Aspects
 
-### Secondary Aspects
 - Supporting details
 - Environmental factors
-- Cultural significance
+- Cultural significance ## Detailed Information ### Background
 
-## Detailed Information
+The history and development of Template Place within the campaign context. ### Current Status
 
-### Background
-The history and development of Template Place within the campaign context.
+How this element currently functions and its present importance. ### Future Potential
 
-### Current Status
-How this element currently functions and its present importance.
+Possible developments and plot opportunities. ## Relationships ### Direct Connections
 
-### Future Potential
-Possible developments and plot opportunities.
+- Develops through gameplay ### Indirect Influences
 
-## Relationships
-
-### Direct Connections
-- Develops through gameplay
-
-### Indirect Influences
 - Broader campaign themes
 - World-building elements
-- Character interactions
+- Character interactions ## Usage Guidelines ### For Players
 
-## Usage Guidelines
-
-### For Players
 - How to interact with this element
 - Potential benefits or risks
-- Story opportunities
+- Story opportunities ### For Game Masters
 
-### For Game Masters
 - Implementation suggestions
 - Customization options
-- Plot hook ideas
+- Plot hook ideas ## Additional Notes ### Variations
 
-## Additional Notes
-
-### Variations
 - Alternative interpretations
 - Regional differences
-- Cultural adaptations
+- Cultural adaptations ### Special Considerations
 
-### Special Considerations
 - Unique mechanics
 - Balance factors
-- Integration tips
+- Integration tips ## References & Resources
 
-## References & Resources
 - Campaign documentation
 - Related materials
-- Inspiration sources
+- Inspiration sources ---
 
----
 *Enhanced by Stub Enhancement System*
+
+## Notes
+
+*Additional notes*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

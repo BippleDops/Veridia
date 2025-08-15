@@ -273,3 +273,18 @@ Key stop on textiles trade route
 ## References
 
 - [[VAULT_UPDATES]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

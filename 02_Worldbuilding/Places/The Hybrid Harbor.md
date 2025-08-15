@@ -233,3 +233,18 @@ Ongoing situations affecting The Hybrid Harbor:
 
 - [[The Transformed Citizens]]
 - [[The Transformed Citizens (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

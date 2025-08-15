@@ -184,3 +184,22 @@ Mentioned in The First Prophecy of Winds
 - A document has gone missing and war looms
 - A stranger needs help delivering before the festival
 - Someone is searching for information for revenge
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -178,3 +178,22 @@ Key stop on magic items trade route
 
 - The authorities needs help investigating before the new moon
 - A stranger needs help delivering before winter
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

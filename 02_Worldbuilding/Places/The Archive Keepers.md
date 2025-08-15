@@ -151,3 +151,18 @@ Ongoing situations affecting The Archive Keepers:
 ## References
 
 - [[Whisper Island]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -1,18 +1,32 @@
 ---
+
 title: The Greek Pantheon Greek Deities Phb
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["The Greek Pantheon Greek Deities Phb"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# The Greek Pantheon Greek Deities Phb
+ # The Greek Pantheon Greek Deities Phb ---
 
----
+## Description
+
+Detailed description pending.
 title: The Greek Pantheon Greek Deities Phb
 aliases:
 - The Greek Pantheon; Greek Deities
+
 type: note
 tags:
 - both
@@ -22,21 +36,18 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.595248+00:00'
 world: Both
----
 
-# The Greek Pantheon; Greek Deities
-*Source: Player's Handbook p. 297. Available in the SRD* 
+--- # The Greek Pantheon; Greek Deities
 
-**Greek Deities**
-
-| Deity | Alignment | Suggested Domains | Symbol |
+*Source: Player's Handbook p. 297. Available in the SRD* **Greek Deities** | Deity | Alignment | Suggested Domains | Symbol |
 |-------|-----------|-------------------|--------|
 | [[greek-zeus (deities)]], god of the sky, ruler of the gods | N | Tempest | Fist full of lightning bolts |
 | [[greek-aphrodite (deities)]], goddess of love and beauty | CG | Light | Sea shell |
@@ -57,47 +68,22 @@ world: Both
 | [[greek-pan (deities)]], god of nature | CN | Nature | Syrinx (pan pipes) |
 | [[Poseidon]], god of the sea and earthquakes | CN | Tempest | Trident |
 | [[greek-tyche (deities)]], goddess of good fortune | N | Trickery | Red pentagram |
-^greek-deities
 
-## 🔧 Deep Evaluation Improvements
+^greek-deities ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary The greek pantheon greek deities phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of the greek pantheon greek deities phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around the greek pantheon greek deities phb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A shipment has gone missing and chaos spreads
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-The greek pantheon greek deities phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of the greek pantheon greek deities phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around the greek pantheon greek deities phb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A shipment has gone missing and chaos spreads
 - Strange sightings suggest a conspiracy
 - Strange sightings suggest a curse
-- A stranger needs help finding before dawn
+- A stranger needs help finding before dawn ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#gameplay/adventure
+#meta/reference

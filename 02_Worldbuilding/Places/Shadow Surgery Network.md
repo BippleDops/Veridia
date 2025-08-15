@@ -143,3 +143,18 @@ This content can be adapted and expanded based on specific campaign needs.
 - [[The Umbral Nexus]]
 - [[The Light Preservation Society (D&D_References)]]
 - [[The Umbral Nexus (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

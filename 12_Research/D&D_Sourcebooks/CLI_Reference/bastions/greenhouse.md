@@ -1,18 +1,32 @@
 ---
+
 title: greenhouse
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["greenhouse"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# greenhouse
+ # greenhouse ---
 
----
+## Description
+
+Detailed description pending.
 title: greenhouse
 aliases:
 - Greenhouse
+
 type: note
 tags:
 - both
@@ -21,92 +35,43 @@ tags:
 - active
 - note
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
-obsidianUIMode: preview
+obsidian UIMode: preview
 cssclasses: json5e-bastion
 updated: '2025-08-13T01:18:32.410263+00:00'
 world: Both
----
 
-# Greenhouse
-*Level 9 Bastion facility*  
+--- # Greenhouse
 
-- **Prerequisites**: None
+*Level 9 Bastion facility* - **Prerequisites**: None
 - **Space**: Roomy (16 sq)
 - **Hirelings**: 1
-- **Order**: harvest
+- **Order**: harvest A Greenhouse is an enclosure where rare plants and fungi are nurtured in a controlled climate. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Fruit of Restoration One plant in your Greenhouse has three magical fruits growing on it. Any creature that eats one of these fruits gains the benefit of a [[Lesser Restoration Xphb]] spell. Fruits that aren't eaten within 24 hours of being picked lose their magic. The plant replaces all picked fruits daily at dawn, and it can't be transplanted without killing it. ## Harvest Options When you issue the "Harvest" order to this facility, choose one of the following options: - **Harvest.** Healing Herbs. You commission the facility's hireling to create a [[potion-of-greater-healing-xdmg (items)]] made from healing herbs. The work takes 7 days and costs no money. - **Harvest.** Poison. You commission the facility's hireling to extract one application of a poison from rare plants or fungi. Choose the type of poison from the following options: [[Assassin]], [[malice-xdmg (items)]], [[pale-tincture-xdmg (items)]], or [[truth-serum-xdmg (items)]]. See ""Poison"" in "chapter 3" for each poison's effect. Once harvested, the poison can be contained in a vial. The work takes 7 days and costs no money. *Source: Dungeon Master's Guide (2024) p. 341* ## Player-Facing Summary Greenhouse is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of greenhouse as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around greenhouse. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A shipment has gone missing and evil awakens
 
-A Greenhouse is an enclosure where rare plants and fungi are nurtured in a controlled climate.
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Fruit of Restoration
-
-One plant in your Greenhouse has three magical fruits growing on it. Any creature that eats one of these fruits gains the benefit of a [[Lesser Restoration Xphb]] spell. Fruits that aren't eaten within 24 hours of being picked lose their magic. The plant replaces all picked fruits daily at dawn, and it can't be transplanted without killing it.
-
-## Harvest Options
-
-When you issue the "Harvest" order to this facility, choose one of the following options:
-
-- **Harvest.** Healing Herbs. You commission the facility's hireling to create a [[potion-of-greater-healing-xdmg (items)]] made from healing herbs. The work takes 7 days and costs no money.  
-- **Harvest.** Poison. You commission the facility's hireling to extract one application of a poison from rare plants or fungi. Choose the type of poison from the following options: [[Assassin]], [[malice-xdmg (items)]], [[pale-tincture-xdmg (items)]], or [[truth-serum-xdmg (items)]]. See ""Poison"" in "chapter 3" for each poison's effect. Once harvested, the poison can be contained in a vial. The work takes 7 days and costs no money.  
-
-*Source: Dungeon Master's Guide (2024) p. 341*
-
-## Player-Facing Summary
-
-Greenhouse is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of greenhouse as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around greenhouse.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A shipment has gone missing and evil awakens
 - A merchant needs help finding before the festival
-- Strange disappearances suggest a portal
+- Strange disappearances suggest a portal ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Special Facility Descriptions Special Facilities Xdmg]]
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Special Facility Descriptions Special Facilities Xdmg]]
 - [[Special Facility Descriptions Special]]
+
+
+## Notes
+
+*Additional notes*
+
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#character/creature
+#gameplay/mission
+#resource/item
+#meta/reference

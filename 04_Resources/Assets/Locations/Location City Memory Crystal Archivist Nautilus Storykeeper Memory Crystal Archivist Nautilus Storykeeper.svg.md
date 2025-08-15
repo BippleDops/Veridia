@@ -59,3 +59,28 @@ Recent developments have brought new attention to Location City Memory Crystal A
 
 ## DM Notes
 *Location City Memory Crystal Archivist Nautilus Storykeeper Memory Crystal Archivist Nautilus Storykeeper.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

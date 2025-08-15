@@ -228,3 +228,18 @@ Key stop on magic items trade route
 ## References
 
 - [[Campaign_Relationship_Matrix]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

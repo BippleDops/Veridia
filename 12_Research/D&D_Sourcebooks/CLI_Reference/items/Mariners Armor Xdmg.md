@@ -1,15 +1,28 @@
 ---
+
 title: Mariners Armor Xdmg
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Mariners Armor Xdmg"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Mariners Armor Xdmg
+ # Mariners Armor Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Mariners Armor Xdmg
 aliases:
 - Mariner's Armor
@@ -25,6 +38,7 @@ aliases:
 - Mariner's Scale Mail
 - Mariner's Splint Armor
 - Mariner's Studded Leather Armor
+
 type: note
 tags:
 - both
@@ -35,6 +49,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -43,17 +58,10 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:06.788613+00:00'
 world: Both
----
 
-# Mariner's Armor
-*Uncommon*  
-![](/03_Mechanics/CLI/items/img/mariners-armor.webp#right)
+--- # Mariner's Armor
 
-While wearing this armor, you have a [[swim-speed-xphb (variant-rules)]] equal to your [[Fly Speed Xphb]]. In addition, if you start your turn underwater with 0 [[hit-points-xphb (variant-rules)]], you immediately regain `d4` [[hit-points-xphb (variant-rules)]]. The armor can't heal anyone again until the next dawn.
-
-The armor is decorated with fish and shell motifs.
-
-**Variants**:
+*Uncommon* ![](/03_Mechanics/CLI/items/img/mariners-armor.webp#right) While wearing this armor, you have a [[swim-speed-xphb (variant-rules)]] equal to your [[Fly Speed Xphb]]. In addition, if you start your turn underwater with 0 [[hit-points-xphb (variant-rules)]], you immediately regain`d4`[[hit-points-xphb (variant-rules)]]. The armor can't heal anyone again until the next dawn. The armor is decorated with fish and shell motifs. **Variants**:
 - [Mariner's Breastplate](#Mariner's%20Breastplate)
 - [Mariner's Chain Mail](#Mariner's%20Chain%20Mail)
 - [Mariner's Chain Shirt](#Mariner's%20Chain%20Shirt)
@@ -65,54 +73,24 @@ The armor is decorated with fish and shell motifs.
 - [Mariner's Ring Mail](#Mariner's%20Ring%20Mail)
 - [Mariner's Scale Mail](#Mariner's%20Scale%20Mail)
 - [Mariner's Splint Armor](#Mariner's%20Splint%20Armor)
-- [Mariner's Studded Leather Armor](#Mariner's%20Studded%20Leather%20Armor)
+- [Mariner's Studded Leather Armor](#Mariner's%20Studded%20Leather%20Armor) ### Mariner's Studded Leather Armor - **Armor Class**: 12 + Dex modifier
 
-### Mariner's Studded Leather Armor
+- **Weight**: 13.0 lbs. *Source: Dungeon Master's Guide (2024) p. 278* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Mariners armor xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of mariners armor xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mariners armor xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1]]
 
-- **Armor Class**: 12 + Dex modifier
-- **Weight**: 13.0 lbs.
-
-*Source: Dungeon Master's Guide (2024) p. 278*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Mariners armor xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of mariners armor xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mariners armor xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## References
+*Additional notes*
 
-- [[Master_Item_Catalog]]
+#mechanics/rules
+#mechanics/mechanics
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/item
+#meta/reference

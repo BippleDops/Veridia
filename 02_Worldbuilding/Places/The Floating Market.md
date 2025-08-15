@@ -679,3 +679,18 @@ Ongoing situations affecting The Floating Market:
 
 - [[Trade Route Establishment]]
 - [[The Floating Markets of Nereidios]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

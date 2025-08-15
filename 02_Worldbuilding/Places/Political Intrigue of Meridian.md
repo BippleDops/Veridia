@@ -305,3 +305,18 @@ Key stop on metals trade route
 ## References
 
 - [[Aethermoor - Session 03 Council of Shadows]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

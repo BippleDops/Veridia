@@ -257,3 +257,18 @@ Key stop on metals trade route
 - [[The Kraken's Harbor]]
 - [[The Kraken's Harbor (D&D_References)]]
 - [[The Sundering]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

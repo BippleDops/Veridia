@@ -210,3 +210,18 @@ Ongoing situations affecting The Neutral Current Tavern:
 - [[Pearl_Harbor_City (Places)]]
 - [[Mourning Depths (D&D_References)]]
 - [[Pearl_Harbor_City (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

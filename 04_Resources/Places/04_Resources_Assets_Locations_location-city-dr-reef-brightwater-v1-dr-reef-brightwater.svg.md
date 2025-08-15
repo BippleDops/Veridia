@@ -108,3 +108,23 @@ Further information about this topic will be developed as the campaign progresse
 - [[Assets Locations Location City Futures Master Economic Sense Futures Master Economic Sense.svg]]
 - [[Assets Locations Location City Innkeeper Marina Dreamwhisper Innkeeper Marina Dreamwhisper.svg]]
 - [[Assets Locations Location City Temple Guardian Marcus the Drowned V1 Temple Guardian Marcus the Drowned.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

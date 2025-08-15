@@ -334,3 +334,18 @@ Ongoing situations affecting The Depth Plague:
 - [[Coral Throne Syndicate (D&D_References)]]
 - [[Current Riders Guild (D&D_References)]]
 - [[Memoriam (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

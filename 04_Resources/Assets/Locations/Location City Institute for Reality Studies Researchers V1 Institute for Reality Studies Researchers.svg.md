@@ -59,3 +59,28 @@ Recent developments have brought new attention to Location City Institute for Re
 
 ## DM Notes
 *Location City Institute for Reality Studies Researchers V1 Institute for Reality Studies Researchers.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

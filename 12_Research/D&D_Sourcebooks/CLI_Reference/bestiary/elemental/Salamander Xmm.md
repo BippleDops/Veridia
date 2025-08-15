@@ -1,21 +1,23 @@
 ---
+
 title: Salamander Xmm
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-> [!figure] Asset
-![](04_Resources/Assets/Creatures/creature-creature-salamander-xmm-salamander-xmm.png)
+--- > [!figure] Asset
+![](04_Resources/Assets/Creatures/creature-creature-salamander-xmm-salamander-xmm.png) # Salamander Xmm ---
 
-# Salamander Xmm
+## Description
 
----
+Detailed description pending.
 title: Salamander Xmm
 aliases:
 - Salamander
+
 type: monster
 tags:
 - both
@@ -31,6 +33,7 @@ tags:
 - active
 - research
 - status/in-progress
+
 created: 2025-08-11
 modified: '2025-08-14'
 status: active
@@ -40,43 +43,11 @@ statblock: inline
 statblock-link: '#^statblock'
 updated: '2025-08-13T12:34:05.756274+00:00'
 world: Both
----
 
-> [!figure] Creature
+--- > [!figure] Creature # [[Salamander Xmm]]
 
-# [[Salamander Xmm]]
-*Source: Monster Manual (2024) p. 267. Available in the SRD and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 267. Available in the SRD and the Free Rules (2024)* Most salamanders are arrogant yet curious, seeking to create artful blazes or burn that which has never been burned. They eagerly explain their work to strangers before trying to determine how the strangers burn. Salamanders radiate intense heat, which is conducted by their blazing weapons. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Salamanders *Serpentine Artists of the Inferno* - **Habitat.** Planar (Elemental Plane of Fire), Underdark - **Treasure.** Armaments Salamanders are serpentine denizens of the Elemental Plane of Fire. They believe that flames expose the purest forms of all things and delight in burning and melting things, seeing fleeting beauty and striking nuances in blazes consuming different fuels—ancient forests, artistic masterpieces, or living creatures. To salamanders, those that can't endure their flames are nothing but ashes in disguise. They harbor malice toward few creatures, but they consider creating remarkable flames more important than the pain and loss their fires cause. Salamanders are typically content to dwell on the Elemental Plane of Fire, creating strange, temporary art amid the flames. Some travel to other planes of existence and worlds to experience the flames of other realms or create conflagrations of unprecedented scale. > [!quote] A quote from Filiag Highthumbs > > The salamanders of the Elemental Plane of Fire delight in meeting visitors from other realms. For them, every stranger is a potential addition to their fiery artistry. Don't fall for their flattery, no matter how beautifully they say you'll burn.```statblock
 
-Most salamanders are arrogant yet curious, seeking to create artful blazes or burn that which has never been burned. They eagerly explain their work to strangers before trying to determine how the strangers burn. Salamanders radiate intense heat, which is conducted by their blazing weapons.
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Salamanders
-
-*Serpentine Artists of the Inferno*
-
-- **Habitat.** Planar (Elemental Plane of Fire), Underdark  
-- **Treasure.** Armaments  
-
-Salamanders are serpentine denizens of the Elemental Plane of Fire. They believe that flames expose the purest forms of all things and delight in burning and melting things, seeing fleeting beauty and striking nuances in blazes consuming different fuels—ancient forests, artistic masterpieces, or living creatures. To salamanders, those that can't endure their flames are nothing but ashes in disguise. They harbor malice toward few creatures, but they consider creating remarkable flames more important than the pain and loss their fires cause.
-
-Salamanders are typically content to dwell on the Elemental Plane of Fire, creating strange, temporary art amid the flames. Some travel to other planes of existence and worlds to experience the flames of other realms or create conflagrations of unprecedented scale.
-
-> [!quote] A quote from Filiag Highthumbs  
-> 
-> The salamanders of the Elemental Plane of Fire delight in meeting visitors from other realms. For them, every stranger is a potential addition to their fiery artistry. Don't fall for their flattery, no matter how beautifully they say you'll burn.
-
-```statblock
 "name": "Salamander (XMM)"
 "size": "Large"
 "type": "elemental"
@@ -85,88 +56,24 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "hp": !!int "90"
 "hit_dice": "12d10 + 24"
 "modifier": !!int "2"
-"stats":
-  - !!int "18"
-  - !!int "14"
-  - !!int "15"
-  - !!int "11"
-  - !!int "10"
-  - !!int "12"
+"stats": - !!int "18" - !!int "14" - !!int "15" - !!int "11" - !!int "10" - !!int "12"
 "speed": "30 ft., climb 30 ft."
 "damage_vulnerabilities": "cold"
 "damage_immunities": "fire"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Primordial (Ig)"
 "cr": "5"
-"traits":
-  - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
-      \ choice in a 5-foot [[Area of Effect Xphb]]\
-      \ originating from the salamander takes 7 (2d6) Fire damage."
-    "name": "Fire Aura"
-"actions":
-  - "desc": "The salamander makes two Flame Spear attacks. It can replace one attack\
-      \ with a use of Constrict."
-    "name": "Multiattack"
-  - "desc": "Melee  or Ranged Attack Roll: +7, reach 5 ft. or range 20/60 ft. Hit:\
-      \ 13 (2d8 + 4) Piercing damage plus 7 (2d6) Fire damage. Hit or Miss: The\
-      \ spear magically returns to the salamander's hand immediately after a ranged\
-      \ attack."
-    "name": "Flame Spear"
-  - "desc": "Strength Saving Throw: DC 15, one Large or smaller creature the salamander\
-      \ can see within 10 feet. Failure: 11 (2d6 + 4) Bludgeoning damage plus 7\
-      \ (2d6) Fire damage. The target has the [[conditions#Grappled|Grappled]]\
-      \ condition (escape DC 14), and it has the [[conditions#Restrained|Restrained]]\
-      \ condition until the grapple ends."
-    "name": "Constrict"
-"source":
-  - "XMM"
-"image": "/03_Mechanics/CLI/bestiary/elemental/token/salamander-xmm.webp"
-```
-^statblock
+"traits": - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\ \ choice in a 5-foot [[Area of Effect Xphb]]\ \ originating from the salamander takes 7 (2d6) Fire damage." "name": "Fire Aura"
+"actions": - "desc": "The salamander makes two Flame Spear attacks. It can replace one attack\ \ with a use of Constrict." "name": "Multiattack" - "desc": "Melee or Ranged Attack Roll: +7, reach 5 ft. Or range 20/60 ft. Hit:\ \ 13 (2d8 + 4) Piercing damage plus 7 (2d6) Fire damage. Hit or Miss: The\ \ spear magically returns to the salamander's hand immediately after a ranged\ \ attack." "name": "Flame Spear" - "desc": "Strength Saving Throw: DC 15, one Large or smaller creature the salamander\ \ can see within 10 feet. Failure: 11 (2d6 + 4) Bludgeoning damage plus 7\ \ (2d6) Fire damage. The target has the [[conditions#Grappled|Grappled]]\ \ condition (escape DC 14), and it has the [[conditions#Restrained|Restrained]]\ \ condition until the grapple ends." "name": "Constrict"
+"source": - "XMM"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/salamander-xmm.webp"```^statblock ## Environment planar, fire, underdark ## Player-Facing Summary Salamander xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of salamander xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around salamander xmm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession ## Plot Hooks - A document has gone missing and war looms
 
-## Environment
+- Someone is searching for information for love ## Related Notes - [[Similar Topic 1]]
 
-planar, fire, underdark
-
-## Player-Facing Summary
-
-Salamander xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of salamander xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around salamander xmm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
-## Plot Hooks
-
-- A document has gone missing and war looms
-- Someone is searching for information for love
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[salamander-xmm (elemental)]]
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[salamander-xmm (elemental)]]
 - [[Iron Flask Xdmg]]
 - [[iron-flask-xdmg (items)]]
 - [[Monsters by Habitat Underdark Monsters Xmm]]
@@ -177,3 +84,8 @@ Contextual improvement based on 12_Research
 - [[underdark-encounters-levels-1116-xge (tables)]]
 - [[underdark-encounters-levels-14-xge (tables)]]
 - [[underdark-encounters-levels-1720-xge (tables)]]
+
+
+## Notes
+
+*Additional notes*

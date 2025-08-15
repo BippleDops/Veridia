@@ -1,18 +1,32 @@
 ---
+
 title: greek-hestia (deities)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["greek-hestia (deities)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# greek-hestia
+ # greek-hestia ---
 
----
+## Description
+
+Detailed description pending.
 title: greek hestia
 aliases:
 - Hestia
+
 type: note
 tags:
 - ttrpg-cli/compendium/src/5e/phb
@@ -23,60 +37,31 @@ tags:
 - note
 - status/in-progress
 - importance/core
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-deity
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.909740'
 world: Both
----
 
-# Hestia
-*Source: Player's Handbook p. 298. Available in the SRD* 
+--- # Hestia
 
-- **Alignment**: Neutral Good
+*Source: Player's Handbook p. 298. Available in the SRD* - **Alignment**: Neutral Good
 - **Domains**: Life
 - **Pantheon**: Greek
-- **Symbol**: Hearth
+- **Symbol**: Hearth ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Greek hestia is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of greek hestia as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around greek hestia. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Greek Pantheon Greek Deities Phb]]
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Greek hestia is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of greek hestia as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around greek hestia.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[The Greek Pantheon Greek Deities Phb]]
 - [[the-greek-pantheon-greek-deities-phb (tables)]]
+
+
+## Notes
+
+*Additional notes*
+
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

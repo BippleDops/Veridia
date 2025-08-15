@@ -248,3 +248,18 @@ Ongoing situations affecting Transportation Guild:
 - [[Blood Current Express]]
 - [[Transportation Guild Masters]]
 - [[Blood Current Express (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

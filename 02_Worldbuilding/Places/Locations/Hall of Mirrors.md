@@ -120,3 +120,18 @@ Recent developments have brought new attention to Hall of Mirrors, creating oppo
 
 - [[LIFE_MANAGEMENT_SYSTEM]]
 - [[System Cli Spells School Illusion]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

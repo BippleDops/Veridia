@@ -239,3 +239,18 @@ Key stop on spices trade route
 - [[The Bathyal Palace (D&D_References)]]
 - [[The Mothercoral Crisis (D&D_References)]]
 - [[The Royal Palace (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

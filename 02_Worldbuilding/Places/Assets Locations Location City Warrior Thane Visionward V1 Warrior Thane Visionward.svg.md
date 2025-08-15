@@ -175,3 +175,22 @@ Key locations marked:
 
 - A merchant needs help stealing before winter
 - A noble needs help investigating before the festival
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

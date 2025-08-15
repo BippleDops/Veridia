@@ -181,3 +181,22 @@ Key stop on spices trade route
 - Someone is hunting a artifact for revenge
 - A letter reveals a conspiracy about the government
 - A journal reveals a conspiracy about the cult
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

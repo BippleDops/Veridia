@@ -193,3 +193,28 @@ Member of House Wolfblood - Trait: magical affinity
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

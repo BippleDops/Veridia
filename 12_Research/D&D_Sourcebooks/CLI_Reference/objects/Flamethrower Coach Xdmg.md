@@ -1,18 +1,32 @@
 ---
+
 title: Flamethrower Coach Xdmg
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Flamethrower Coach Xdmg"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Flamethrower Coach Xdmg
+ # Flamethrower Coach Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Flamethrower Coach Xdmg
 aliases:
 - Flamethrower Coach
+
 type: note
 tags:
 - both
@@ -24,73 +38,41 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-object
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:05.136414+00:00'
 world: Both
----
 
-# Flamethrower Coach
+--- # Flamethrower Coach
+
 %%-- Embedded content starts on the next line. --%%
-*Source: Dungeon Master's Guide (2024) p. 96*  
-
-Powered by magic, this iron coach has a flamethrower turret mounted atop it.
-
-The coach can accommodate up to two Medium creatures. An iron hatch in the vehicle's underbelly grants access. Narrow slits in the front, sides, and back of the coach allow its occupants to see outside. A creature in the coach has [[Cover Xphb]] against attacks and other effects that originate outside it.
-
-The coach is designed for a crew of two: a driver and a gunner. The driver can take the [[actions#Utilize|Utilize]] action to move and turn the coach, which has a Speed of 30 feet, using levers and pedals inside. The gunner can use the Flamethrower action to aim and fire it.
-
-```ad-statblock
+*Source: Dungeon Master's Guide (2024) p. 96* Powered by magic, this iron coach has a flamethrower turret mounted atop it. The coach can accommodate up to two Medium creatures. An iron hatch in the vehicle's underbelly grants access. Narrow slits in the front, sides, and back of the coach allow its occupants to see outside. A creature in the coach has [[Cover Xphb]] against attacks and other effects that originate outside it. The coach is designed for a crew of two: a driver and a gunner. The driver can take the [[actions#Utilize|Utilize]] action to move and turn the coach, which has a Speed of 30 feet, using levers and pedals inside. The gunner can use the Flamethrower action to aim and fire it.```ad-statblock
 title: Flamethrower Coach
 ![](/03_Mechanics/CLI/objects/token/flamethrower-coach-xdmg.webp#token)
-*Large Siege weapon*
-
-- **Armor Class** 19
+*Large Siege weapon* - **Armor Class** 19
 - **Hit Points** 100
-- **Speed** 
+- **Speed** |STR|DEX|CON|INT|WIS|CHA|
 
-|STR|DEX|CON|INT|WIS|CHA|
+
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)| ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Actions ***Flamethrower.*** *Dexterity Saving Throw:* DC 15, each creature in a 60-foot-long, 5-foot-wide [[Area of Effect Xphb]]. *Failure:* 14 (4d6) Fire damage, and the creature starts burning. *Success:* Half damage only.```^statblock ## Player-Facing Summary Flamethrower coach xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of flamethrower coach xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around flamethrower coach xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - The authorities needs help investigating before the new moon
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Actions
-
-***Flamethrower.*** *Dexterity Saving Throw:* DC 15, each creature in a 60-foot-long, 5-foot-wide [[Area of Effect Xphb]]. *Failure:* 14 (4d6) Fire damage, and the creature starts burning. *Success:* Half damage only.
-```
-^statblock
-
-## Player-Facing Summary
-
-Flamethrower coach xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of flamethrower coach xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around flamethrower coach xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- The authorities needs help investigating before the new moon
 - A stranger needs help delivering before the new moon
+
+## Notes
+
+*Additional notes*
+
+#mechanics/mechanics
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#resource/item
+#meta/reference

@@ -204,3 +204,18 @@ Key stop on metals trade route
 ## References
 
 - [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

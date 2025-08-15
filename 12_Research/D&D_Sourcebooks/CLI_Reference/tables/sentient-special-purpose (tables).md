@@ -1,18 +1,32 @@
 ---
+
 title: sentient-special-purpose (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["sentient-special-purpose (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# sentient-special-purpose
+ # sentient-special-purpose ---
 
----
+## Description
+
+Detailed description pending.
 title: sentient special purpose
 aliases:
 - Sentient Special Purpose
+
 type: note
 tags:
 - research
@@ -21,23 +35,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.241277'
 world: Both
----
 
-# Sentient Special Purpose
-*Source: Dungeon Master's Guide p. 216. Available in the SRD* 
+--- # Sentient Special Purpose
 
-**Sentient Special Purpose**
-
-`dice: [](sentient-special-purpose.md#^sentient-special-purpose)`
-
-| dice: d10 | Purpose |
+*Source: Dungeon Master's Guide p. 216. Available in the SRD* **Sentient Special Purpose**`dice: [](sentient-special-purpose.md#^sentient-special-purpose)`| dice: d10 | Purpose |
 |-----------|---------|
 | 1 | Aligned: The item seeks to defeat or destroy those of a diametrically opposed alignment. (Such an item is never neutral.) |
 | 2 | Bane: The item seeks to defeat or destroy creatures of a particular kind, such as fiends, shapechangers, trolls, or wizards. |
@@ -49,46 +58,23 @@ world: Both
 | 8 | Lore Seeker: The item craves knowledge or is determined to solve a mystery, learn a secret, or unravel a cryptic prophecy. |
 | 9 | Destiny Seeker: The item is convinced that it and its wielder have key roles to play in future events. |
 | 10 | Creator Seeker: The item seeks its creator and wants to understand why it was created. |
-^sentient-special-purpose
 
-## 🔧 Deep Evaluation Improvements
+^sentient-special-purpose ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Sentient special purpose is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of sentient special purpose as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sentient special purpose. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is hunting an heir for money
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Sentient special purpose is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of sentient special purpose as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sentient special purpose.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Someone is hunting an heir for money
 - A stranger needs help investigating before winter
-- The authorities needs help investigating before the new moon
+- The authorities needs help investigating before the new moon ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#resource/item
+#meta/reference

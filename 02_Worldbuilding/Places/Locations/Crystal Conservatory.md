@@ -122,3 +122,18 @@ Recent developments have brought new attention to Crystal Conservatory, creating
 - [[The Crystal Conservatory]]
 - [[System Cli Spells School Enchantment]]
 - [[System Cli Spells School Illusion]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

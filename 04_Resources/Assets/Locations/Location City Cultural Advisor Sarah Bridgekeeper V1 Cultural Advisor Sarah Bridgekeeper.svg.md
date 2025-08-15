@@ -58,3 +58,28 @@ Recent developments have brought new attention to Location City Cultural Advisor
 
 ## DM Notes
 *Location City Cultural Advisor Sarah Bridgekeeper V1 Cultural Advisor Sarah Bridgekeeper.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

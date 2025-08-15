@@ -107,3 +107,23 @@ Further information about this topic will be developed as the campaign progresse
 
 - [[Assets Locations Location City Merchant Prince Aldric Goldcurrent V1 Merchant Prince Aldric Goldcurrent.svg]]
 - [[Assets Locations Location City Terminal Director Admiral Current Swiftflow V1 Terminal Director Admiral Current Swiftflow.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

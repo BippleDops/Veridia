@@ -167,3 +167,22 @@ Key locations marked:
 - A journal reveals a conspiracy about this place
 - Someone is blackmailing an heir for love
 - Someone is searching for a witness for revenge
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -188,3 +188,22 @@ Key stop on metals trade route
 - Someone is searching for a artifact for power
 - A journal reveals a conspiracy about a local noble
 - Someone is hunting a witness for revenge
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

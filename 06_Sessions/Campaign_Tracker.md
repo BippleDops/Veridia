@@ -1,84 +1,33 @@
----
-
-tags: [note]
+--- tags: [note]
 type: note
-- --
-
-# Campaign Tracker
-
-## Campaign Overview
+- -- # Campaign Tracker ## Campaign Overview ## Description {#description} Detailed description pending.
 **Campaign Name**: *[Campaign Title]*
 **Start Date**: *[Date]*
-**Current Session**: *[Number]*
-
-## Party Status
-
-### Current Level
-- *[Party level]*
-
-### Current Location
-- *[Where the party is now]*
-
-### Current Objective
-- *[Main goal]*
-
-## Active Plot Threads
-- *[Ongoing storylines]*
-
-## Completed Arcs
-- *[Finished storylines]*
-
-## Important NPCs
-
-### Allies
-- *[Friendly NPCs]*
-
-### Enemies
-- *[Hostile NPCs]*
-
-### Neutral
-- *[Uncommitted NPCs]*
-
-## Key Locations
-
-### Visited
-- *[Places party has been]*
-
-### Known But Unvisited
-- *[Places party knows about]*
-
-### Secret/Unknown
-- *[Hidden locations]*
-
-## Major Events Timeline
-| Session | Date | Event |
-|
-created: 2025-08-14
+**Current Session**: *[Number]* ## Party Status ### Current Level - *[Party level]* ### Current Location - *[Where the party is now]* ### Current Objective - *[Main goal]* ## Active Plot Threads - *[Ongoing storylines]* ## Completed Arcs - *[Finished storylines]* ## Important NPCs ### Allies - *[Friendly NPCs]* ### Enemies - *[Hostile NPCs]* ### Neutral - *[Uncommitted NPCs]* ## Key Locations ### Visited - *[Places party has been]* ### Known But Unvisited - *[Places party knows about]* ### Secret/Unknown - *[Hidden locations]* ## Major Events Timeline | Session | Date | Event |
+| created: 2025-08-14
 modified: 2025-08-14
 status: active
----------|------|-------|
-| 1 | *Date* | *Campaign start* |
-
-## See Also
-- Related content
+aliases: ["Campaign Tracker"]
+priority: normal
+category: 06 Sessions
+subcategory: Campaign Tracker.Md
+related: []
+cssclass: standard
+publish: false --- ------|------|-------|
+| 1 | *Date* | *Campaign start* | ## See Also - Related content
 - Similar topics
-- Connected elements
-
-## Alternate Descriptions
-- **First Impression**: Initial appearance
+- Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects
-
-## Random Table
-| d6 | Result |
+- **Hidden Details**: Secret aspects ## Random Table | d6 | Result |
 |----|--------|
-| 1  | Option A |
-| 2  | Option B |
-| 3  | Option C |
-| 4  | Option D |
-| 5  | Option E |
-| 6  | Option F |
-
-## DM Tips
-> 💡 **Running This Content**: Advice for game masters
-> Adjust difficulty based on party composition
+| 1 | Option A |
+| 2 | Option B |
+| 3 | Option C |
+| 4 | Option D |
+| 5 | Option E |
+| 6 | Option F | ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## Notes {#notes} *Additional notes* #story/plot
+#story/story
+#world/location
+#world/place
+#character/npc
+#gameplay/session

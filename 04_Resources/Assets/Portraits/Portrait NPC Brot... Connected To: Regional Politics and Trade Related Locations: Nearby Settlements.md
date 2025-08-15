@@ -93,3 +93,27 @@ improvements: 20
 - A stranger needs help investigating before the new moon
 - Strange sightings suggest a curse
 - Strange accidents suggest a portal
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

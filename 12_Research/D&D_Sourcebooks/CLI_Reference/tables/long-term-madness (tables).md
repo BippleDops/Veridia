@@ -1,18 +1,32 @@
 ---
+
 title: long-term-madness (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["long-term-madness (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# long-term-madness
+ # long-term-madness ---
 
----
+## Description
+
+Detailed description pending.
 title: long term madness
 aliases:
 - Long-Term Madness
+
 type: note
 tags:
 - research
@@ -21,23 +35,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.459656'
 world: Both
----
 
-# Long-Term Madness
-*Source: Dungeon Master's Guide p. 259. Available in the SRD* 
+--- # Long-Term Madness
 
-**Long-Term Madness**
-
-`dice: [](long-term-madness.md#^long-term-madness)`
-
-| dice: d100 | Effects (lasts 1d10 × 10 hours) |
+*Source: Dungeon Master's Guide p. 259. Available in the SRD* **Long-Term Madness**`dice: [](long-term-madness.md#^long-term-madness)`| dice: d100 | Effects (lasts 1d10 × 10 hours) |
 |------------|---------------------------------|
 | 01-10 | The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins. |
 | 11-20 | The character experiences vivid hallucinations and has disadvantage on ability checks. |
@@ -51,62 +60,31 @@ world: Both
 | 86-90 | Whenever the character takes damage, he or she must succeed on a DC 15 Wisdom saving throw or be affected as though he or she failed a saving throw against the [[Confusion Xphb]] spell. The confusion effect lasts for 1 minute. |
 | 91-95 | The character loses the ability to speak. |
 | 96-100 | The character falls [[conditions#Unconscious|unconscious]]. No amount of jostling or damage can wake the character. |
-^long-term-madness
 
-## 🔧 Deep Evaluation Improvements
+^long-term-madness ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Long term madness is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of long term madness as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around long term madness. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession ## Plot Hooks - A document has gone missing and chaos spreads
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Long term madness is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of long term madness as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around long term madness.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
-## Plot Hooks
-
-- A document has gone missing and chaos spreads
 - A journal reveals ancient history about this place
-- Someone is hunting information for money
+- Someone is hunting information for money ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[New Ability Scores Honor and Sanity]]
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[New Ability Scores Honor and Sanity]]
 - [[new-ability-scores-honor-and-sanity (variant-rules)]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#character/character
+#character/person
+#meta/reference

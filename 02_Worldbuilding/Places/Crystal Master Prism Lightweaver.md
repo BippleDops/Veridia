@@ -205,3 +205,18 @@ Key stop on magic items trade route
 - [[Master_Artificer_Coral_Gemwright (People)]]
 - [[Harbormaster Erik Saltbeard]]
 - [[Harbormaster Erik Saltbeard (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -227,3 +227,18 @@ Ongoing situations affecting Harvester Keth Reefrender:
 
 - [[Coral Throne Syndicate HQ]]
 - [[Coral Throne Syndicate HQ (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -181,3 +181,22 @@ Key locations marked:
 
 - A prisoner has gone missing and evil awakens
 - A shipment has gone missing and chaos spreads
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

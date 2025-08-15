@@ -1,18 +1,22 @@
 ---
+
 title: 2-character-races (volos-guide-to-monsters)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# 2-character-races
+--- # 2-character-races ---
 
----
+## Description
+
+Detailed description pending.
 title: 2 character races
 aliases:
 - Character Races
+
 type: note
 tags:
 - research
@@ -21,181 +25,118 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/vgm
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:34.776377'
 world: Both
----
 
-# Character Races
-*Source: Volo's Guide to Monsters, p. 103* 
+--- # Character Races
 
-Heroes come in many shapes and sizes. This chapter presents character races that are some of the more distinctive race options in the D&D multiverse. They supplement the options in the *Player's Handbook* and are more rare in the worlds of D&D than the races in that book are.
+*Source: Volo's Guide to Monsters, p. 103* Heroes come in many shapes and sizes. This chapter presents character races that are some of the more distinctive race options in the D&D multiverse. They supplement the options in the *Player's Handbook* and are more rare in the worlds of D&D than the races in that book are. If you're a player, consult with your DM before using any of the races here. Many DMs like to consider the implications for their world before adding a new race. Your DM may say yes or no to you using a race or may modify it in some way. The following races are detailed in this chapter: **Aasimar** are humanoids with an angelic spark in their souls, which grants them supernatural power. **Firbolgs** are forest guardians who prefer peaceful methods to protect their homes but take up arms if they must. **Goliaths** are hulking wanderers who dwell at the highest mountain reaches. **Kenku** are cursed bird folk, who still pay the price for an ancient betrayal. Dwelling in human cities, they have a sinister reputation for working as criminals. **Lizardfolk** sometimes venture from their swamp homes in search of treasure and glory. Inscrutable to their mammalian companions, they prove to be stout allies. **Tabaxi** are curious cat folk, who have journeyed from their distant homeland in search of interesting treasures and lore. **Tritons** are guardians of the ocean depths, who sometimes join people on land in the battle against evil. The chapter also includes a section of monstrous character options that a DM can add to a campaign: **bugbear, goblin, hobgoblin, kobold, orc, and ** **yuan-ti pureblood,** the stories of which are explored in chapter 1. At the end of the chapter is a section that you can use to determine the height and weight of a character who is a member of one of the races in this chapter. If you're the DM, including any of these races in your campaign is a storytelling opportunity, a chance for you to decide the roles that different peoples play in the tales you weave. You might decide that a race in this chapter is common in your world, that only a few members of it still live, or that it doesn't exist at all. Whatever you decide about the races, consider how they can enhance your stories. - [[List Spells Races Aasimar Xphb]] - [[List Spells Races Aasimar Xphb]] - [[List Spells Races Aasimar Xphb]] - [[Bugbear Vgm]] - [[List Spells Races Firbolg Vgm]] - [[goblin-vgm (races)]] - [[Goliath Xphb]] - [[Hobgoblin Vgm]] - [[Kenku Vgm]] - [[kobold-vgm (races)]] - [[lizardfolk-vgm (races)]] - [[orc-xphb (races)]] - [[Tabaxi Vgm]] - [[triton-vgm (races)]] - [[yuan-ti-pureblood-vgm (races)]] ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Height and Weight You may roll for your character's height and weight on the Random Height and Weight table. The roll in the Height Modifier column adds a number (in inches) to the character's base height. To get a weight, multiply the number you rolled for height by the roll in the Weight Modifier column and add the result (in pounds) to the base weight. ## Player-Facing Summary 2 character races is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 2 character races as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 2 character races. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality ## Prophecy Connection Mentioned in The Second Prophecy of Depths ## Plot Hooks - A corpse reveals a betrayal about the government
 
-If you're a player, consult with your DM before using any of the races here. Many DMs like to consider the implications for their world before adding a new race. Your DM may say yes or no to you using a race or may modify it in some way.
-
-The following races are detailed in this chapter: **Aasimar** are humanoids with an angelic spark in their souls, which grants them supernatural power. **Firbolgs** are forest guardians who prefer peaceful methods to protect their homes but take up arms if they must. **Goliaths** are hulking wanderers who dwell at the highest mountain reaches. **Kenku** are cursed bird folk, who still pay the price for an ancient betrayal. Dwelling in human cities, they have a sinister reputation for working as criminals. **Lizardfolk** sometimes venture from their swamp homes in search of treasure and glory. Inscrutable to their mammalian companions, they prove to be stout allies. **Tabaxi** are curious cat folk, who have journeyed from their distant homeland in search of interesting treasures and lore. **Tritons** are guardians of the ocean depths, who sometimes join people on land in the battle against evil.
-
-The chapter also includes a section of monstrous character options that a DM can add to a campaign: **bugbear, goblin, hobgoblin, kobold, orc, and ** **yuan-ti pureblood,** the stories of which are explored in chapter 1.
-
-At the end of the chapter is a section that you can use to determine the height and weight of a character who is a member of one of the races in this chapter.
-
-If you're the DM, including any of these races in your campaign is a storytelling opportunity, a chance for you to decide the roles that different peoples play in the tales you weave. You might decide that a race in this chapter is common in your world, that only a few members of it still live, or that it doesn't exist at all. Whatever you decide about the races, consider how they can enhance your stories.
-
-- [[List Spells Races Aasimar Xphb]]  
-- [[List Spells Races Aasimar Xphb]]  
-- [[List Spells Races Aasimar Xphb]]  
-- [[Bugbear Vgm]]  
-- [[List Spells Races Firbolg Vgm]]  
-- [[goblin-vgm (races)]]  
-- [[Goliath Xphb]]  
-- [[Hobgoblin Vgm]]  
-- [[Kenku Vgm]]  
-- [[kobold-vgm (races)]]  
-- [[lizardfolk-vgm (races)]]  
-- [[orc-xphb (races)]]  
-- [[Tabaxi Vgm]]  
-- [[triton-vgm (races)]]  
-- [[yuan-ti-pureblood-vgm (races)]]  
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Height and Weight
-
-You may roll for your character's height and weight on the Random Height and Weight table. The roll in the Height Modifier column adds a number (in inches) to the character's base height. To get a weight, multiply the number you rolled for height by the roll in the Weight Modifier column and add the result (in pounds) to the base weight.
-
-## Player-Facing Summary
-
-2 character races is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of 2 character races as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 2 character races.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
-## Prophecy Connection
-
-Mentioned in The Second Prophecy of Depths
-
-## Plot Hooks
-
-- A corpse reveals a betrayal about the government
 - A merchant needs help finding before the festival
-- The authorities needs help delivering before dawn
+- The authorities needs help delivering before dawn ## 12_Research Specific Content Contextual improvement based on 12_Research ## Unearthed Arcana & Playtest Content ### Latest UA Documents
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## Unearthed Arcana & Playtest Content
-
-### Latest UA Documents
 - **One D&D Playtest**: Character Origins (2022-2024)
 - **Expert Classes**: Bard, Ranger, Rogue updates
 - **Warrior Classes**: Fighter, Barbarian, Monk updates
 - **Priest Classes**: Cleric, Druid, Paladin updates
-- **Mage Classes**: Sorcerer, Warlock, Wizard updates
+- **Mage Classes**: Sorcerer, Warlock, Wizard updates ### Popular UA Options (Not in Official Books)
 
-### Popular UA Options (Not in Official Books)
 - **Mystic Class**: Psionics system (UA 2017)
 - **Revised Ranger**: Improved base class (UA 2016)
 - **Class Feature Variants**: Alternative abilities (UA 2019)
 - **Modern Magic**: Technology spells (UA 2015)
-- **Planeshift Series**: MTG crossover content
+- **Planeshift Series**: MTG crossover content ### UA Subclasses by Class
 
-### UA Subclasses by Class
 #### Artificer
+
 - Archivist (UA 2020)
-- Maverick (UA Eberron)
+- Maverick (UA Eberron) #### Barbarian
 
-#### Barbarian
 - Path of the Wild Soul (became Wild Magic in TCE)
-- Path of the Beast (finalized in TCE)
+- Path of the Beast (finalized in TCE) #### Bard
 
-#### Bard
 - College of Satire (UA 2016)
-- College of Swords (finalized in XGE)
+- College of Swords (finalized in XGE) #### Cleric
 
-#### Cleric
 - City Domain (UA Modern Magic)
-- Protection Domain (UA 2016)
+- Protection Domain (UA 2016) #### Druid
 
-#### Druid
 - Circle of Twilight (UA 2016)
-- Circle of Wildfire (finalized in TCE)
+- Circle of Wildfire (finalized in TCE) #### Fighter
 
-#### Fighter
 - Sharpshooter (UA 2016)
-- Scout (became Ranger subclass)
+- Scout (became Ranger subclass) #### Monk
 
-#### Monk
 - Way of Tranquility (UA 2016)
-- Way of the Astral Self (finalized in TCE)
+- Way of the Astral Self (finalized in TCE) #### Paladin
 
-#### Paladin
 - Oath of Treachery (UA 2016)
-- Oath of Heroism (became Glory in TCE)
+- Oath of Heroism (became Glory in TCE) #### Ranger
 
-#### Ranger
 - Primeval Guardian (UA 2017)
-- Monster Slayer (finalized in XGE)
+- Monster Slayer (finalized in XGE) #### Rogue
 
-#### Rogue
 - Revived (became Phantom in TCE)
-- Soulknife (finalized in TCE)
+- Soulknife (finalized in TCE) #### Sorcerer
 
-#### Sorcerer
 - Phoenix Sorcery (UA 2017)
-- Sea Sorcery (UA 2017)
+- Sea Sorcery (UA 2017) #### Warlock
 
-#### Warlock
 - The Raven Queen (UA 2017)
-- The Seeker (UA 2016)
+- The Seeker (UA 2016) #### Wizard
 
-#### Wizard
 - Theurgy (UA 2017)
-- War Magic (finalized in XGE)
+- War Magic (finalized in XGE) ### UA Races/Lineages
 
-### UA Races/Lineages
 - Changeling (finalized in ERLW)
 - Shifter (finalized in ERLW)
 - Warforged (finalized in ERLW)
 - Gith (finalized in MTF)
-- Revenant (UA Gothic Heroes)
+- Revenant (UA Gothic Heroes) ### Playtest Considerations
 
-### Playtest Considerations
 ⚠️ **Balance Warning**: UA content is playtest material
 - May be unbalanced compared to official content
 - Subject to change or abandonment
 - Requires DM approval
-- May conflict with published versions
+- May conflict with published versions ### Where to Find UA
 
-### Where to Find UA
 - **D&D Beyond**: UA Archive section
 - **Wizards Website**: Monthly UA articles (discontinued 2021)
-- **Reddit r/UnearthedArcana**: Community discussions
+- **Reddit r/Unearthed Arcana**: Community discussions
 - **One D&D Playtest**: D&D Beyond exclusive
+
+
+## Notes
+
+*Additional notes*
+
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

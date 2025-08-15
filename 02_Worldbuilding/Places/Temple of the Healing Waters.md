@@ -224,3 +224,18 @@ Mentioned in The Second Prophecy of Depths
 - [[Shadow Surgeons Collective]]
 - [[The Festival of Rising Tides (D&D_References)]]
 - [[Tidal Memory Ceremonies (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

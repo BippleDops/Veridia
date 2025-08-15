@@ -211,3 +211,18 @@ Ongoing situations affecting Keeper of Crowns Lydia Starfall:
 
 - [[The Lock]]
 - [[The Lock (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

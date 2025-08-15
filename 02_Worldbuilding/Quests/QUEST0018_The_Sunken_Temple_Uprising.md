@@ -217,3 +217,23 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 
 ---
 **Navigation**: [[INDEX|🏠 Home]] | [[Quests|📜 Quests]] | [[INDEX|📚 Index]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

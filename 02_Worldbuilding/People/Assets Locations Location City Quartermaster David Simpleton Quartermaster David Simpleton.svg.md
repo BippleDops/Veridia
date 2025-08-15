@@ -200,3 +200,28 @@ This NPC can serve multiple roles:
 - **Parent**: [[Aerisi Kalinoth Pota|aerisi kalinoth pota]]
 - **Enemy**: [[Portrait NPC Mist Walker Captain Luna Pathfinder V2 Mist Walker Captain Luna Pathfinder.svg]]
 - **Victim**: [[Portrait NPC Weaponsmith Captain Marcus Sharpedge V1 Weaponsmith Captain Marcus Sharpedge.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

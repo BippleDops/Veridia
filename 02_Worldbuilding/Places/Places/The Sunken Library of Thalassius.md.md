@@ -121,3 +121,18 @@ Recent developments have brought new attention to The Sunken Library of Thalassi
 ## References
 
 - [[02_Worldbuilding_Places_The_Sunken_Library_of_Thalassius.md]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

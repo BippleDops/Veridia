@@ -254,3 +254,18 @@ Ongoing situations affecting Diplomatic Immunity:
 - [[Royal Palace]]
 - [[Theological Warfare]]
 - [[The Tide Rises]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -1,18 +1,32 @@
 ---
+
 title: deities-of-greyhawk-phb (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["deities-of-greyhawk-phb (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# deities-of-greyhawk-phb
+ # deities-of-greyhawk-phb ---
 
----
+## Description
+
+Detailed description pending.
 title: deities of greyhawk phb
 aliases:
 - Deities of Greyhawk
+
 type: note
 tags:
 - ttrpg-cli/compendium/src/5e/phb
@@ -21,21 +35,18 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.520086'
 world: Both
----
 
-# Deities of Greyhawk
-*Source: Player's Handbook p. 293* 
+--- # Deities of Greyhawk
 
-**Deities of Greyhawk**
-
-| Deity | Alignment | Suggested Domains | Symbol |
+*Source: Player's Handbook p. 293* **Deities of Greyhawk** | Deity | Alignment | Suggested Domains | Symbol |
 |-------|-----------|-------------------|--------|
 | Beory, goddess of nature | N | Nature | Green disk |
 | Boccob, god of magic | N | Knowledge | Eye within a pentagram |
@@ -62,40 +73,16 @@ world: Both
 | Ulaa, goddess of hills and mountains | LG | Life, War | Mountain with a circle at its heart |
 | Vecna, god of evil secrets | NE | Knowledge | Hand with eye in the palm |
 | Wee Jas, goddess of magic and death | LN | Death, Knowledge | Red skull in front of fireball |
-^deities-of-greyhawk
 
-## 🔧 Deep Evaluation Improvements
+^deities-of-greyhawk ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Deities of greyhawk phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of deities of greyhawk phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around deities of greyhawk phb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-*20 targeted improvements identified*
 
-### Connection Improvements
+## Notes
 
-- Add cross-references to related notes
+*Additional notes*
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Deities of greyhawk phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of deities of greyhawk phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around deities of greyhawk phb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

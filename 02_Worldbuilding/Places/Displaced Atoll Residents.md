@@ -119,3 +119,18 @@ Recent developments have brought new attention to Displaced Atoll Residents, cre
 ## References
 
 - [[The Sinking Atoll (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

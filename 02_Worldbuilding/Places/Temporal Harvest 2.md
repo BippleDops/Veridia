@@ -227,3 +227,23 @@ Legends speak of Temporal Harvest as a nexus where past and present converge. Lo
 - [[02_Worldbuilding/Places/Temporal Harvest]]
 
 <!-- enriched: true -->
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

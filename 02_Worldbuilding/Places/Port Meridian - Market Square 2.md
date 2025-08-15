@@ -641,3 +641,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Depth Wardens]]
 - [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
 - [[02_Worldbuilding/Places/Port Meridian]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends

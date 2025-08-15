@@ -957,3 +957,18 @@ Ongoing situations affecting Mourning Depths:
 - [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)]]
 - [[Aquabyssos - Session 07 - The Resonance Revelation]]
 - [[System Cli Spells School Conjuration]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

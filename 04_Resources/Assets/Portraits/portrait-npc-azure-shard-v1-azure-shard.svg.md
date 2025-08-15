@@ -85,3 +85,27 @@ improvements: 20
 - A letter reveals a conspiracy about the government
 - A shipment has gone missing and war looms
 - Someone is protecting information for revenge
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

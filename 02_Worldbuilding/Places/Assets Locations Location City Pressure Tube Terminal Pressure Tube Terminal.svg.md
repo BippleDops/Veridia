@@ -183,3 +183,22 @@ Key stop on metals trade route
 - A shipment has gone missing and chaos spreads
 - Strange disappearances suggest a conspiracy
 - A document has gone missing and truth emerges
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

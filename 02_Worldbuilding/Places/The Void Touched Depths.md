@@ -510,3 +510,18 @@ Key stop on spices trade route
 - [[Fortress of the Deeps (D&D_References)]]
 - [[Port Meridian Harbor (D&D_References)]]
 - [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

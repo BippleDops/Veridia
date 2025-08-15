@@ -1032,3 +1032,28 @@ Key Locations can serve as:
 - [[Wise Tide Truthseeker]]
 - [[Witness Reports]]
 - [[World Map]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

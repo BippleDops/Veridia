@@ -58,3 +58,28 @@ Recent developments have brought new attention to Location City High Chancellor 
 
 ## DM Notes
 *Location City High Chancellor Nerissa Deepcurrent V1 High Chancellor Nerissa Deepcurrent.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

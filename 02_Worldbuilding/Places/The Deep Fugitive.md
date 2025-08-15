@@ -305,3 +305,18 @@ Ongoing situations affecting The Deep Fugitive:
 - [[Pearl_Harbor_City (Places)]]
 - [[Compass Quest (D&D_References)]]
 - [[Pearl_Harbor_City (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

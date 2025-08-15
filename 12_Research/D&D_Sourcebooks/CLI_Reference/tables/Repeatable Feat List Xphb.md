@@ -1,18 +1,32 @@
 ---
+
 title: Repeatable Feat List Xphb
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Repeatable Feat List Xphb"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Repeatable Feat List Xphb
+ # Repeatable Feat List Xphb ---
 
----
+## Description
+
+Detailed description pending.
 title: Repeatable Feat List Xphb
 aliases:
 - Repeatable; Feat List
+
 type: note
 tags:
 - both
@@ -22,21 +36,18 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.650995+00:00'
 world: Both
----
 
-# Repeatable; Feat List
-*Source: Player's Handbook (2024) p. 199* 
+--- # Repeatable; Feat List
 
-**Feat List**
-
-| Feat | Category |
+*Source: Player's Handbook (2024) p. 199* **Feat List** | Feat | Category |
 |------|----------|
 | [[Ability Score Improvement Xphb]]* | "General" |
 | [[Actor Xphb]] | "General" |
@@ -113,54 +124,26 @@ world: Both
 | [[unarmed-fighting-xphb (feats)]] | "Fighting Style" |
 | [[War Caster Xphb]] | "General" |
 | [[great-weapon-master-xphb (feats)]] | "General" |
-^feat-list
 
-*This feat can be taken more than once.
+^feat-list *This feat can be taken more than once. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Repeatable feat list xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of repeatable feat list xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around repeatable feat list xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. Enriched: true --> ## Related *Links to related content will be added here.* ## Plot Hooks - A journal reveals a betrayal about the government
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Repeatable feat list xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of repeatable feat list xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around repeatable feat list xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
- enriched: true -->
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A journal reveals a betrayal about the government
 - Someone is protecting information for power
 - Someone is searching for a witness for love
-- Someone is protecting an heir for power
+- Someone is protecting an heir for power ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
+
+*Additional notes*
+
+#mechanics/combat
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

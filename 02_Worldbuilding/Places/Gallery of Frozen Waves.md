@@ -261,3 +261,18 @@ Ongoing situations affecting Gallery of Frozen Waves:
 - [[Screaming Gardens]]
 - [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
 - [[Screaming Gardens (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

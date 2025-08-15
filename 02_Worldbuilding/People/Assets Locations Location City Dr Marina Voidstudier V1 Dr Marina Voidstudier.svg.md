@@ -217,3 +217,28 @@ Mentioned in The Hidden Prophecy of Winds
 
 - [[04_Resources_Assets_Symbols_symbol-heraldry-supernatural-mysteries-supernatural-mysteries.svg]]
 - [[04_Resources_Assets_Art_Places_Captain_Trawl_Netcaster.png]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

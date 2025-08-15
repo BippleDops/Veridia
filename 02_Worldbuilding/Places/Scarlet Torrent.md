@@ -286,3 +286,18 @@ Ongoing situations affecting Scarlet Torrent:
 - [[Blood Current Express (D&D_References)]]
 - [[Watch Captain Roderick Shieldbreaker (D&D_References)]]
 - [[The Heart of Oceanus (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

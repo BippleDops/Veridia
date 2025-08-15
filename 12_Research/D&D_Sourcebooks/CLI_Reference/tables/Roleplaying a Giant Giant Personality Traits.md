@@ -1,18 +1,32 @@
 ---
+
 title: Roleplaying a Giant Giant Personality Traits
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Roleplaying a Giant Giant Personality Traits"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Roleplaying a Giant Giant Personality Traits
+ # Roleplaying a Giant Giant Personality Traits ---
 
----
+## Description
+
+Detailed description pending.
 title: Roleplaying a Giant Giant Personality Traits
 aliases:
 - Roleplaying a Giant; Giant Personality Traits
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/vgm
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.889494+00:00'
 world: Both
----
 
-# Roleplaying a Giant; Giant Personality Traits
-*Source: Volo's Guide to Monsters p. 23* 
+--- # Roleplaying a Giant; Giant Personality Traits
 
-**Giant Personality Traits**
-
-`dice: [](roleplaying-a-giant-giant-personality-traits-vgm.md#^giant-personality-traits)`
-
-| dice: d8 | Personality Trait |
+*Source: Volo's Guide to Monsters p. 23* **Giant Personality Traits**`dice: [](roleplaying-a-giant-giant-personality-traits-vgm.md#^giant-personality-traits)`| dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | The brutality of my peers is a relic of a bygone era that should be stamped out. I seek a more enlightened path. |
 | 2 | As the most powerful beings in creation, we have a duty to use our strength for the benefit of all. |
@@ -48,48 +57,27 @@ world: Both
 | 6 | I measure a creature's worth by its size. The small folk are beneath my concern. |
 | 7 | The small folk are vermin. I enjoy torturing and killing them. |
 | 8 | Good or bad, Annam's sons represent the ideals that we, as giants, must strive to uphold. |
-^giant-personality-traits
 
-## 🔧 Deep Evaluation Improvements
+^giant-personality-traits ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Roleplaying a giant giant personality traits vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of roleplaying a giant giant personality traits vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around roleplaying a giant giant personality traits vgm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes ## Plot Hooks - A noble needs help stealing before dawn
 
-*20 targeted improvements identified*
+- Someone is hunting a artifact for love ## Related Notes - [[Similar Topic 1]]
 
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Roleplaying a giant giant personality traits vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of roleplaying a giant giant personality traits vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around roleplaying a giant giant personality traits vgm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
-## Plot Hooks
-
-- A noble needs help stealing before dawn
-- Someone is hunting a artifact for love
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/person
+#character/creature
+#character/monster
+#meta/reference

@@ -170,3 +170,23 @@ Key locations marked:
 ## Plot Hooks
 
 - A noble needs help finding before the festival
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

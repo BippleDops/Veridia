@@ -205,3 +205,18 @@ Mentioned in The Second Prophecy of Depths
 
 - [[The Shadow Duchess Duel (Criminal_Organizations)]]
 - [[The Shadow Duchess Duel]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

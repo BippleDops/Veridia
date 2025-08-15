@@ -234,3 +234,18 @@ Key stop on textiles trade route
 
 - [[The Crystalline Foundry]]
 - [[The Crystalline Foundry (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

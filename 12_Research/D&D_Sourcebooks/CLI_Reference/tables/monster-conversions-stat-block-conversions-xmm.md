@@ -1,18 +1,32 @@
 ---
+
 title: monster-conversions-stat-block-conversions-xmm
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["monster-conversions-stat-block-conversions-xmm"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# monster-conversions-stat-block-conversions-xmm
+ # monster-conversions-stat-block-conversions-xmm ---
 
----
+## Description
+
+Detailed description pending.
 title: monster conversions stat block conversions xmm
 aliases:
 - Monster Conversions; Stat Block Conversions
+
 type: note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
@@ -21,21 +35,18 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.581807'
 world: Both
----
 
-# Monster Conversions; Stat Block Conversions
-*Source: Monster Manual (2024) p. 374* 
+--- # Monster Conversions; Stat Block Conversions
 
-**Stat Block Conversions**
-
-| 2014 Stat Block | 2025 Equivalent |
+*Source: Monster Manual (2024) p. 374* **Stat Block Conversions** | 2014 Stat Block | 2025 Equivalent |
 |-----------------|-----------------|
 | [[aarakocra-skirmisher-xmm|Aarakocra]] | [[aarakocra-skirmisher-xmm|Aarakocra Skirmisher]] |
 | [[Bestiary]] | [[Bestiary]] |
@@ -96,42 +107,21 @@ world: Both
 | [[Bestiary]] | [[Bestiary]] |
 | [[shadow-dragon-xmm (legendary-group)]] | [[shadow-dragon-xmm (legendary-group)]] |
 | [[Bestiary]] | [[Bestiary]] |
-^stat-block-conversions
 
-## 🔧 Deep Evaluation Improvements
+^stat-block-conversions ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Monster conversions stat block conversions xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of monster conversions stat block conversions xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monster conversions stat block conversions xmm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange disappearances suggest ancient magic
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Monster conversions stat block conversions xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of monster conversions stat block conversions xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monster conversions stat block conversions xmm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Strange disappearances suggest ancient magic
 - A journal reveals ancient history about the cult
-- Someone is blackmailing a witness for love
+- Someone is blackmailing a witness for love ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
+
+*Additional notes*
+
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/monster
+#meta/reference

@@ -1,18 +1,32 @@
 ---
+
 title: Experience Points by Challenge Rating Xmm
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Experience Points by Challenge Rating Xmm"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Experience Points by Challenge Rating Xmm
+ # Experience Points by Challenge Rating Xmm ---
 
----
+## Description
+
+Detailed description pending.
 title: Experience Points by Challenge Rating Xmm
 aliases:
 - Experience Points by Challenge Rating
+
 type: note
 tags:
 - both
@@ -22,21 +36,18 @@ tags:
 - active
 - note
 - status/in-progress
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:04.078824+00:00'
 world: Both
----
 
-# Experience Points by Challenge Rating
-*Source: Monster Manual (2024) p. 8. Available in the SRD and the Free Rules (2024)* 
+--- # Experience Points by Challenge Rating
 
-**Experience Points by Challenge Rating**
-
-| CR | XP |
+*Source: Monster Manual (2024) p. 8. Available in the SRD and the Free Rules (2024)* **Experience Points by Challenge Rating** | CR | XP |
 |----|----|
 | 0 | 0 or 10 |
 | 1/8 | 25 |
@@ -72,55 +83,29 @@ world: Both
 | 28 | 120,000 |
 | 29 | 135,000 |
 | 30 | 155,000 |
-^experience-points-by-challenge-rating
 
-## 🔧 Deep Evaluation Improvements
+^experience-points-by-challenge-rating ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Experience points by challenge rating xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of experience points by challenge rating xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around experience points by challenge rating xmm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is searching for an heir for revenge
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Experience points by challenge rating xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of experience points by challenge rating xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around experience points by challenge rating xmm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Someone is searching for an heir for revenge
 - A noble needs help investigating before dawn
 - Someone is hunting information for revenge
-- A prisoner has gone missing and chaos spreads
+- A prisoner has gone missing and chaos spreads ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[1 How to Use a Monster]]
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[1 How to Use a Monster]]
 - [[1-how-to-use-a-monster (monster-manual-2025)]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/monster
+#meta/reference

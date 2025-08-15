@@ -46,3 +46,28 @@ Currently involved in the ongoing events of the campaign.
 
 - [[Assets Locations Location City Dream Enhancement Techniques V1 Dream Enhancement Techniques.svg]]
 - [[Assets Portraits Portrait NPC Lady Shadowmere Lady Shadowmere.svg]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

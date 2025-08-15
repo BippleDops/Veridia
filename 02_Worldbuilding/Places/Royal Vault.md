@@ -222,3 +222,18 @@ Key stop on spices trade route
 - [[The Royal Palace (D&D_References)]]
 - [[Aethermoor - Session 05 The Queens Madness]]
 - [[Depth Warden Patrol (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

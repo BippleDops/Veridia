@@ -1,18 +1,32 @@
 ---
+
 title: current-chamber-state (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["current-chamber-state (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# current-chamber-state
+ # current-chamber-state ---
 
----
+## Description
+
+Detailed description pending.
 title: current chamber state
 aliases:
 - Current Chamber State
+
 type: note
 tags:
 - research
@@ -21,23 +35,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.282832'
 world: Both
----
 
-# Current Chamber State
-*Source: Dungeon Master's Guide p. 295* 
+--- # Current Chamber State
 
-**Current Chamber State**
-
-`dice: [](current-chamber-state.md#^current-chamber-state)`
-
-| dice: d20 | Features |
+*Source: Dungeon Master's Guide p. 295* **Current Chamber State**`dice: [](current-chamber-state.md#^current-chamber-state)`| dice: d20 | Features |
 |-----------|----------|
 | 1-3 | Rubble, ceiling partially collapsed |
 | 4-5 | Holes, floor partially collapsed |
@@ -48,43 +57,21 @@ world: Both
 | 17-18 | Converted to some other use (roll on the General Dungeon Chambers table) |
 | 19 | Stripped bare |
 | 20 | Pristine and in original state |
-^current-chamber-state
 
-## 🔧 Deep Evaluation Improvements
+^current-chamber-state ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Current chamber state is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of current chamber state as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around current chamber state. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1]]
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Current chamber state is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of current chamber state as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around current chamber state.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
+
+*Additional notes*
+
+#mechanics/dice
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

@@ -120,3 +120,18 @@ Recent developments have brought new attention to Abyssal Forges, creating oppor
 
 - [[02_Worldbuilding_Locations_Abyssal_Forges]]
 - [[System Cli Items Weapons]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -489,3 +489,18 @@ Key stop on spices trade route
 ## References
 
 - [[Sister Morwyn's Memorial Sanctuary]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

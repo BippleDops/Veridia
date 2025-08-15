@@ -156,3 +156,18 @@ This content can be adapted and expanded based on specific campaign needs.
 - [[Shadow Market Canals (D&D_References)]]
 - [[Aethermoor - Session 04 The Silverscale Gambit]]
 - [[Ambush Point (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -106,3 +106,23 @@ Further information about this topic will be developed as the campaign progresse
 ## References
 
 - [[Assets Symbols Symbol Heraldry Diplomatic Intelligence Diplomatic Intelligence.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

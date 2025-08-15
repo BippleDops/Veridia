@@ -210,3 +210,28 @@ Mentioned in The Hidden Prophecy of Winds
 
 - [[04_Resources_Assets_Symbols_symbol-heraldry-master-chen-wei-master-chen-wei.png]]
 - [[04_Resources_Assets_Locations_location-city-merchant-lord-silas-copperfield-v1-merchant-lord-silas-copperfield.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -218,3 +218,18 @@ Mentioned in The Second Prophecy of Depths
 
 - [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
 - [[Consequence Chain 2 - Crystal Trade Disruption]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

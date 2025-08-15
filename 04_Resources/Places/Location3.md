@@ -106,3 +106,23 @@ Further information about this topic will be developed as the campaign progresse
 ## References
 
 - [[Location_Template_1 (09_Templates)]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

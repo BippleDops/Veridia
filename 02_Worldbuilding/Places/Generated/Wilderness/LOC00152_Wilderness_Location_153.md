@@ -15,3 +15,28 @@ A detailed wilderness location with rich history and plot hooks.
 
 ---
 **Navigation**: [[INDEX|🏠 Home]] | [[location|📍 Locations]] | [[INDEX|📚 Index]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

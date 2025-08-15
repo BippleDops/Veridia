@@ -183,3 +183,22 @@ Key locations marked:
 - Strange accidents suggest a portal
 - Strange disappearances suggest a portal
 - Someone is searching for an heir for love
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

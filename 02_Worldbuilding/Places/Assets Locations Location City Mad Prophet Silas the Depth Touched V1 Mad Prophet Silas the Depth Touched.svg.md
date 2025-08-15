@@ -178,3 +178,22 @@ Key locations marked:
 - A map reveals ancient history about the cult
 - Someone is hunting a witness for revenge
 - A stranger needs help finding before the new moon
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

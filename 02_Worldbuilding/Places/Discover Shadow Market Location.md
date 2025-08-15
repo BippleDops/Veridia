@@ -246,3 +246,18 @@ Mentioned in The Hidden Prophecy of Stars
 
 - [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
 - [[Aquabyssos - Session 01 - The Drowning Welcome]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

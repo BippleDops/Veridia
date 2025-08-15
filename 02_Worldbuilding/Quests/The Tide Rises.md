@@ -221,3 +221,27 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

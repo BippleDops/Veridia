@@ -1,15 +1,18 @@
 ---
+
 title: drow-2-weapon-mm (items)
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# drow-2-weapon-mm
+--- # drow-2-weapon-mm ---
 
----
+## Description
+
+Detailed description pending.
 title: drow 2 weapon mm
 aliases:
 - Drow +2 Weapon
@@ -64,6 +67,7 @@ aliases:
 - Drow +2 Warhammer
 - Drow +2 Whip
 - Drow +2 Yklwa
+
 type: note
 tags:
 - ttrpg-cli/compendium/src/5e/mm
@@ -73,6 +77,7 @@ tags:
 - note
 - content/item
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -81,16 +86,10 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-12T23:37:36.654725'
 world: Both
----
 
-> [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-drow-2-weapon-mm-drow-2-weapon-mm.svg)
+--- > [!figure] Item
+![](04_Resources/Assets/Items/item-artifact-drow-2-weapon-mm-drow-2-weapon-mm.svg) # Drow +2 Weapon You have a +2 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer. **Variants**:
 
-# Drow +2 Weapon
-
-You have a +2 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
-
-**Variants**:
 - [Drow +2 Antimatter Rifle](#Drow%20+2%20Antimatter%20Rifle)
 - [Drow +2 Automatic Rifle](#Drow%20+2%20Automatic%20Rifle)
 - [Drow +2 Battleaxe](#Drow%20+2%20Battleaxe)
@@ -141,59 +140,21 @@ You have a +2 bonus to attack and damage rolls made with this weapon. This weapo
 - [Drow +2 War Pick](#Drow%20+2%20War%20Pick)
 - [Drow +2 Warhammer](#Drow%20+2%20Warhammer)
 - [Drow +2 Whip](#Drow%20+2%20Whip)
-- [Drow +2 Yklwa](#Drow%20+2%20Yklwa)
+- [Drow +2 Yklwa](#Drow%20+2%20Yklwa) ### Drow +2 Yklwa - **Damage**: 1d8 piercing
 
-### Drow +2 Yklwa
-
-- **Damage**: 1d8 piercing
 - **Range**: 10/30
 - **Properties**: [[item properties#Thrown|Thrown]]
-- **Weight**: 3.0 lbs.
+- **Weight**: 3.0 lbs. *Source: Monster Manual p. 126* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Drow 2 weapon mm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of drow 2 weapon mm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around drow 2 weapon mm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A map reveals a conspiracy about the cult
 
-*Source: Monster Manual p. 126*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Drow 2 weapon mm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of drow 2 weapon mm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around drow 2 weapon mm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A map reveals a conspiracy about the cult
 - Strange disappearances suggest a portal
 - Someone is hunting an heir for love
-- A noble needs help finding before the festival
+- A noble needs help finding before the festival ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## References - [[Master_Item_Catalog]]
 
-## References
 
-- [[Master_Item_Catalog]]
+## Notes
+
+*Additional notes*

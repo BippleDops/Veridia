@@ -802,3 +802,18 @@ Ongoing situations affecting The Free Current:
 - [[The Depth Market (D&D_References)]]
 - [[The Phosphor Markets (D&D_References)]]
 - [[The Void Touched Depths (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

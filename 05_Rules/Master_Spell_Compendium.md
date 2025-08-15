@@ -1,35 +1,35 @@
 ---
 
-tags:
-  - index
-  - spells
-  - compendium
-  - reference
+tags: - index - spells - compendium - reference
 type: index
 created: 2025-08-14
 modified: 2025-08-14
 status: active
+aliases: ["Master Spell Compendium"]
+priority: normal
+category: 05 Rules
+subcategory: Master Spell Compendium.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Master Spell Compendium
+ # Master Spell Compendium ## Quick Navigation
 
-## Quick Navigation
+## Description
+
+Detailed description pending.
 - [[#By School]]
 - [[#By Level]]
 - [[#By Class]]
-- [[#Alphabetical]]
+- [[#Alphabetical]] ## Statistics
 
-## Statistics
 - **Total Spells**: 2478
 - **Schools**: 10
 - **Max Level**: 9
-- **Last Updated**: 2025-08-14
+- **Last Updated**: 2025-08-14 ## By School ### Unknown - [[08-chapter-7-spells (players-handbook-2024)]] (Level 0)
 
-## By School
-
-### Unknown
-
-- [[08-chapter-7-spells (players-handbook-2024)]] (Level 0)
 - [[08-chapter-7-spells (players-handbook-2024)]] (Level 0)
 - [[09-appendix-b-spells (princes-of-the-apocalypse)]] (Level 0)
 - [[09-appendix-b-spells (princes-of-the-apocalypse)]] (Level 0)
@@ -2348,51 +2348,27 @@ status: active
 - [[System Cli Spells School Divination]] (Level 0)
 - [[System Cli Spells School Enchantment]] (Level 0)
 - [[System Cli Spells School Evocation]] (Level 0)
-- [[System Cli Spells School Transmutation]] (Level 0)
-
-### Abjuration
+- [[System Cli Spells School Transmutation]] (Level 0) ### Abjuration - [[List Spells School Abjuration]] (Level 0)
 
 - [[List Spells School Abjuration]] (Level 0)
-- [[List Spells School Abjuration]] (Level 0)
-- [[Ω_System-CLI-spells-school-abjuration (Lore)]] (Level 0)
-
-### Conjuration
+- [[Ω_System-CLI-spells-school-abjuration (Lore)]] (Level 0) ### Conjuration - [[list-spells-school-conjuration (lists)]] (Level 0)
 
 - [[list-spells-school-conjuration (lists)]] (Level 0)
-- [[list-spells-school-conjuration (lists)]] (Level 0)
-- [[System Cli Spells School Conjuration]] (Level 0)
-
-### Divination
+- [[System Cli Spells School Conjuration]] (Level 0) ### Divination - [[List Spells School Divination]] (Level 0)
 
 - [[List Spells School Divination]] (Level 0)
-- [[List Spells School Divination]] (Level 0)
-- [[System Cli Spells School Divination]] (Level 0)
+- [[System Cli Spells School Divination]] (Level 0) ### Enchantment - [[list-spells-school-enchantment]] (Level 0)
 
-### Enchantment
-
-- [[list-spells-school-enchantment]] (Level 0)
-- [[list-spells-school-enchantment]] (Level 0)
-
-### Evocation
+- [[list-spells-school-enchantment]] (Level 0) ### Evocation - [[List Spells School Evocation]] (Level 0)
 
 - [[List Spells School Evocation]] (Level 0)
-- [[List Spells School Evocation]] (Level 0)
-- [[System Cli Spells School Evocation]] (Level 0)
+- [[System Cli Spells School Evocation]] (Level 0) ### Illusion - [[list-spells-school-illusion (lists)]] (Level 0)
 
-### Illusion
-
-- [[list-spells-school-illusion (lists)]] (Level 0)
-- [[list-spells-school-illusion (lists)]] (Level 0)
-
-### Necromancy
+- [[list-spells-school-illusion (lists)]] (Level 0) ### Necromancy - [[spells]] (Level 0)
 
 - [[spells]] (Level 0)
-- [[spells]] (Level 0)
-- [[System Cli Spells School Necromancy]] (Level 0)
+- [[System Cli Spells School Necromancy]] (Level 0) ### Of - [[Detect Magic Xphb]] (Level 0)
 
-### Of
-
-- [[Detect Magic Xphb]] (Level 0)
 - [[detect-magic-xphb (spells)]] (Level 0)
 - [[detect-magic-xphb (spells)]] (Level 0)
 - [[detect-magic-xphb (spells)]] (Level 0)
@@ -2527,19 +2503,11 @@ status: active
 - [[spell-gem-star-ruby-oota (items)]] (Level 0)
 - [[spell-gem-star-ruby-oota (items)]] (Level 0)
 - [[spell-gem-topaz-oota (items)]] (Level 0)
-- [[spell-gem-topaz-oota (items)]] (Level 0)
-
-### Transmutation
+- [[spell-gem-topaz-oota (items)]] (Level 0) ### Transmutation - [[list-spells-school-transmutation]] (Level 0)
 
 - [[list-spells-school-transmutation]] (Level 0)
-- [[list-spells-school-transmutation]] (Level 0)
-- [[System Cli Spells School Transmutation]] (Level 0)
+- [[System Cli Spells School Transmutation]] (Level 0) ## By Level ### Level 0 - [[08-chapter-7-spells (players-handbook-2024)]] (Unknown)
 
-## By Level
-
-### Level 0
-
-- [[08-chapter-7-spells (players-handbook-2024)]] (Unknown)
 - [[08-chapter-7-spells (players-handbook-2024)]] (Unknown)
 - [[09-appendix-b-spells (princes-of-the-apocalypse)]] (Unknown)
 - [[09-appendix-b-spells (princes-of-the-apocalypse)]] (Unknown)
@@ -4778,11 +4746,8 @@ status: active
 - [[System Cli Spells School Evocation]] (Unknown)
 - [[System Cli Spells School Necromancy]] (necromancy)
 - [[System Cli Spells School Transmutation]] (transmutation)
-- [[System Cli Spells School Transmutation]] (Unknown)
+- [[System Cli Spells School Transmutation]] (Unknown) ### Level 1 - [[Enspelled Armor Level 1 Xdmg]] (of)
 
-### Level 1
-
-- [[Enspelled Armor Level 1 Xdmg]] (of)
 - [[Enspelled Armor Level 1 Xdmg]] (of)
 - [[enspelled-armor-level-1-xdmg (items)]] (of)
 - [[enspelled-armor-level-1-xdmg (items)]] (of)
@@ -4813,11 +4778,8 @@ status: active
 - [[Spell Scroll Level 1 Xdmg]] (Unknown)
 - [[Spell Scroll Level 1 Xdmg]] (Unknown)
 - [[spell-scroll-xdmg (items)]] (Unknown)
-- [[spell-scroll-xdmg (items)]] (Unknown)
+- [[spell-scroll-xdmg (items)]] (Unknown) ### Level 2 - [[Chromatic Orb Xphb]] (Unknown)
 
-### Level 2
-
-- [[Chromatic Orb Xphb]] (Unknown)
 - [[Orb Xphb]] (Unknown)
 - [[Orb Xphb]] (Unknown)
 - [[Orb Xphb]] (Unknown)
@@ -4838,11 +4800,8 @@ status: active
 - [[hex-xphb (spells)]] (Unknown)
 - [[hex-xphb (spells)]] (Unknown)
 - [[Spell Scroll Level 2 Xdmg]] (Unknown)
-- [[Spell Scroll Level 2 Xdmg]] (Unknown)
+- [[Spell Scroll Level 2 Xdmg]] (Unknown) ### Level 3 - [[Dispel Magic Xphb]] (Unknown)
 
-### Level 3
-
-- [[Dispel Magic Xphb]] (Unknown)
 - [[dispel-magic-xphb (spells)]] (Unknown)
 - [[dispel-magic-xphb (spells)]] (Unknown)
 - [[dispel-magic-xphb (spells)]] (Unknown)
@@ -4875,11 +4834,8 @@ status: active
 - [[Weapon Xphb]] (Unknown)
 - [[Weapon Xphb]] (Unknown)
 - [[spell-scroll-level-3-xdmg (items)]] (Unknown)
-- [[spell-scroll-level-3-xdmg (items)]] (Unknown)
+- [[spell-scroll-level-3-xdmg (items)]] (Unknown) ### Level 4 - [[Bestow Curse Xphb]] (Unknown)
 
-### Level 4
-
-- [[Bestow Curse Xphb]] (Unknown)
 - [[spells]] (Unknown)
 - [[spells]] (Unknown)
 - [[spells]] (Unknown)
@@ -4900,11 +4856,8 @@ status: active
 - [[Major Image Xphb]] (Unknown)
 - [[Major Image Xphb]] (Unknown)
 - [[Spell Scroll Level 4 Xdmg]] (Unknown)
-- [[Spell Scroll Level 4 Xdmg]] (Unknown)
+- [[Spell Scroll Level 4 Xdmg]] (Unknown) ### Level 5 - [[Contingency Xphb]] (Unknown)
 
-### Level 5
-
-- [[Contingency Xphb]] (Unknown)
 - [[contingency-xphb (spells)]] (Unknown)
 - [[contingency-xphb (spells)]] (Unknown)
 - [[contingency-xphb (spells)]] (Unknown)
@@ -4937,11 +4890,8 @@ status: active
 - [[Vulnerability Xphb]] (Unknown)
 - [[Vulnerability Xphb]] (Unknown)
 - [[spell-scroll-level-5-xdmg (items)]] (Unknown)
-- [[spell-scroll-level-5-xdmg (items)]] (Unknown)
+- [[spell-scroll-level-5-xdmg (items)]] (Unknown) ### Level 6 - [[Dominate Person Xphb]] (Unknown)
 
-### Level 6
-
-- [[Dominate Person Xphb]] (Unknown)
 - [[Dominate Person Xphb]] (Unknown)
 - [[Dominate Person Xphb]] (Unknown)
 - [[Dominate Person Xphb]] (Unknown)
@@ -4962,11 +4912,8 @@ status: active
 - [[Planar Binding Xphb]] (Unknown)
 - [[Planar Binding Xphb]] (Unknown)
 - [[Spell Scroll Level 6 Xdmg]] (Unknown)
-- [[Spell Scroll Level 6 Xdmg]] (Unknown)
+- [[Spell Scroll Level 6 Xdmg]] (Unknown) ### Level 7 - [[Enspelled Armor Level 7 Xdmg]] (Unknown)
 
-### Level 7
-
-- [[Enspelled Armor Level 7 Xdmg]] (Unknown)
 - [[Enspelled Armor Level 7 Xdmg]] (Unknown)
 - [[Enspelled Armor Level 7 Xdmg]] (Unknown)
 - [[Enspelled Armor Level 7 Xdmg]] (Unknown)
@@ -5009,11 +4956,8 @@ status: active
 - [[Ring of Spell Turning Xdmg]] (Unknown)
 - [[Ring of Spell Turning Xdmg]] (Unknown)
 - [[spell-scroll-level-7-xdmg (items)]] (Unknown)
-- [[spell-scroll-level-7-xdmg (items)]] (Unknown)
+- [[spell-scroll-level-7-xdmg (items)]] (Unknown) ### Level 8 - [[Enspelled Armor Level 8 Xdmg]] (of)
 
-### Level 8
-
-- [[Enspelled Armor Level 8 Xdmg]] (of)
 - [[Enspelled Armor Level 8 Xdmg]] (of)
 - [[enspelled-armor-level-8-xdmg (items)]] (of)
 - [[enspelled-armor-level-8-xdmg (items)]] (of)
@@ -5030,11 +4974,8 @@ status: active
 - [[Wish Xphb]] (Unknown)
 - [[spells]] (Unknown)
 - [[spells]] (Unknown)
-- [[spells]] (Unknown)
+- [[spells]] (Unknown) ### Level 9 - [[Dominate Monster Xphb]] (Unknown)
 
-### Level 9
-
-- [[Dominate Monster Xphb]] (Unknown)
 - [[Dominate Monster Xphb]] (Unknown)
 - [[Dominate Monster Xphb]] (Unknown)
 - [[Dominate Monster Xphb]] (Unknown)
@@ -5043,38 +4984,31 @@ status: active
 - [[Imprisonment Xphb]] (Unknown)
 - [[Imprisonment Xphb]] (Unknown)
 - [[Spell Scroll Level 9 Xdmg]] (Unknown)
-- [[Spell Scroll Level 9 Xdmg]] (Unknown)
+- [[Spell Scroll Level 9 Xdmg]] (Unknown) ## Examples
 
-## Examples
-*Practical applications of this rule*
+*Practical applications of this rule* ## Common Mistakes
 
-## Common Mistakes
-*Frequent misunderstandings to avoid*
+*Frequent misunderstandings to avoid* ## Quick Reference
 
-## Quick Reference
-- Key points for fast lookup
+- Key points for fast lookup ## Common Rulings
 
-## Common Rulings
-- Frequent situations and decisions
+- Frequent situations and decisions ## House Rules
 
-## House Rules
-- Table-specific modifications
+- Table-specific modifications ## See Also
 
-## See Also
 - Related content
 - Similar topics
-- Connected elements
+- Connected elements ## DM Tips
 
-## DM Tips
 > 💡 **Running This Content**: Advice for game masters
-> Adjust difficulty based on party composition
 
-## Player Tips
+> Adjust difficulty based on party composition ## Player Tips
+
 > 🎮 **Strategy**: How to approach this content
-> Work together and communicate
-## Official Rules Reference
 
-### Core Rulebooks
+> Work together and communicate
+## Official Rules Reference ### Core Rulebooks
+
 - **Spellcasting**: PHB Chapter 10 (p.201-205)
 - **Spell Slots**: PHB p.201
 - **Concentration**: PHB p.203
@@ -5082,34 +5016,49 @@ status: active
 - **Metamagic Options**: PHB p.101, TCE p.65-66
 - **Spell Versatility (UA)**: UA Class Feature Variants
 - **Expanded Spell Lists**: TCE, XGE, SCAG
-- **Strixhaven Spells**: SCC p.36-39
+- **Strixhaven Spells**: SCC p.36-39 ### Optional Rules (DMG)
 
-### Optional Rules (DMG)
 - Consider variant rules from DMG Chapter 9
-- Review optional class features from TCE
+- Review optional class features from TCE ### Sage Advice
 
-### Sage Advice
-- Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice)
+- Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice) ### Common Table Rulings
 
-### Common Table Rulings
 - Document house rules clearly
-- Maintain consistency across sessions
+- Maintain consistency across sessions ## Variant Rules Options ### From DMG Chapter 9
 
-## Variant Rules Options
-
-### From DMG Chapter 9
 - **Proficiency Dice**: Roll dice instead of flat bonus
 - **Hero Points**: Narrative currency system
 - **Honor/Sanity**: Additional ability scores
 - **Lingering Injuries**: Lasting combat effects
 - **Massive Damage**: System shock rules
-- **Morale**: When enemies flee
+- **Morale**: When enemies flee ### From Other Sources
 
-### From Other Sources
 - **Spell Points** (DMG p.288): Alternative to slots
 - **Gritty Realism** (DMG p.267): Longer rests
 - **Side Initiative** (DMG p.270): Group turns
-- **Facing** (DMG p.252): Directional combat
+- **Facing** (DMG p.252): Directional combat ### Table Consideration
 
-### Table Consideration
 Discuss with players before implementing
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/combat
+#mechanics/rules
+#mechanics/system
+#mechanics/dice
+#story/narrative
+#story/lore
+#story/background
+#character/person
+#character/creature
+#character/monster
+#gameplay/session
+#gameplay/quest
+#resource/item
+#meta/index
+#meta/moc
+#meta/navigation
+#meta/reference

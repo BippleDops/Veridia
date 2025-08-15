@@ -1,18 +1,32 @@
 ---
+
 title: Bit and Bridle
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Bit and Bridle"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Bit and Bridle
+ # Bit and Bridle ---
 
----
+## Description
+
+Detailed description pending.
 title: Bit and Bridle
 aliases:
 - Bit and bridle
+
 type: note
 tags:
 - both
@@ -23,6 +37,7 @@ tags:
 - note
 - content/item
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -31,60 +46,30 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:07.031087+00:00'
 world: Both
----
 
-> [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-bit-and-bridle-bit-and-bridle.svg)
+--- > [!figure] Item
+![](04_Resources/Assets/Items/item-artifact-bit-and-bridle-bit-and-bridle.svg) # Bit and bridle
 
-# Bit and bridle
-*Tack and harness*  
+*Tack and harness* - **Cost**: 2 gp
+- **Weight**: 1.0 lbs. *Source: Player's Handbook p. 157. Available in the SRD and the Basic Rules (2014)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Bit and bridle is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of bit and bridle as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bit and bridle. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Second Prophecy of Depths ## Plot Hooks - Someone is hunting information for revenge
 
-- **Cost**: 2 gp
-- **Weight**: 1.0 lbs.
-
-*Source: Player's Handbook p. 157. Available in the SRD and the Basic Rules (2014)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Bit and bridle is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of bit and bridle as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bit and bridle.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The Second Prophecy of Depths
-
-## Plot Hooks
-
-- Someone is hunting information for revenge
 - A merchant needs help investigating before winter
-- A document has gone missing and evil awakens
+- A document has gone missing and evil awakens ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/item
+#meta/reference

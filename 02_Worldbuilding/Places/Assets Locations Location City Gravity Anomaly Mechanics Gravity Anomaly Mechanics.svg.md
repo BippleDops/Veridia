@@ -181,3 +181,22 @@ Mentioned in The Second Prophecy of Shadows
 - A shipment has gone missing and evil awakens
 - Strange accidents suggest a conspiracy
 - An heirloom has gone missing and chaos spreads
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

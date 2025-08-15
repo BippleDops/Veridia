@@ -281,3 +281,28 @@ Legends speak of Crystal Caverns as the heart of the world where crystallized ma
 Emphasize the sensory overwhelm and wonder of the crystal environment. Use the harmonic descriptions to create atmospheric mood, and remember that the caverns respond to party emotions and actions. The interdimensional aspects allow for encounters with beings from either realm, while corruption areas provide constant environmental threat.
 
 <!-- enriched: true -->
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

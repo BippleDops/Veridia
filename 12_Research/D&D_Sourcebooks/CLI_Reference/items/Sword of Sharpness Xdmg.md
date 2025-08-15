@@ -1,15 +1,18 @@
 ---
+
 title: Sword of Sharpness Xdmg
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# Sword of Sharpness Xdmg
+--- # Sword of Sharpness Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Sword of Sharpness Xdmg
 aliases:
 - Sword of Sharpness
@@ -17,6 +20,7 @@ aliases:
 - Greatsword of Sharpness
 - Longsword of Sharpness
 - Scimitar of Sharpness
+
 type: note
 tags:
 - both
@@ -27,6 +31,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -35,77 +40,23 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:07.288965+00:00'
 world: Both
----
 
-# Sword of Sharpness
-*Very rare (requires attunement)*  
-![](/03_Mechanics/CLI/items/img/sword-of-sharpness.webp#right)
+--- # Sword of Sharpness
 
-When you attack an object with this magic weapon and hit, maximize your weapon damage dice against the target.
-
-When you attack a creature with this weapon and roll a 20 on the `d20` for the attack roll, that target takes an extra 14 Slashing damage and gains 1 [[conditions#Exhaustion|Exhaustion]] level.
-
-**Variants**:
+*Very rare (requires attunement)* ![](/03_Mechanics/CLI/items/img/sword-of-sharpness.webp#right) When you attack an object with this magic weapon and hit, maximize your weapon damage dice against the target. When you attack a creature with this weapon and roll a 20 on the`d20`for the attack roll, that target takes an extra 14 Slashing damage and gains 1 [[conditions#Exhaustion|Exhaustion]] level. **Variants**:
 - [Glaive of Sharpness](#Glaive%20of%20Sharpness)
 - [Greatsword of Sharpness](#Greatsword%20of%20Sharpness)
 - [Longsword of Sharpness](#Longsword%20of%20Sharpness)
-- [Scimitar of Sharpness](#Scimitar%20of%20Sharpness)
+- [Scimitar of Sharpness](#Scimitar%20of%20Sharpness) ### Scimitar of Sharpness - **Damage**: 1d6 slashing
 
-### Scimitar of Sharpness
-
-- **Damage**: 1d6 slashing
 - **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Light|Light]]
-- **Weight**: 3.0 lbs.
+- **Weight**: 3.0 lbs. *Source: Dungeon Master's Guide (2024) p. 314. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Sword of sharpness xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of sword of sharpness xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sword of sharpness xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession ## Related Notes - [[Similar Topic 1]]
 
-*Source: Dungeon Master's Guide (2024) p. 314. Available in the SRD and the Free Rules (2024)*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Sword of sharpness xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of sword of sharpness xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sword of sharpness xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+*Additional notes*

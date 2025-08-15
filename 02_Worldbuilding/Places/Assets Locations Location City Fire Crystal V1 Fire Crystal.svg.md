@@ -179,3 +179,22 @@ Key stop on spices trade route
 - The authorities needs help stealing before the festival
 - Someone is searching for information for power
 - Someone is blackmailing an heir for love
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

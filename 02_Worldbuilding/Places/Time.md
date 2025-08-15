@@ -1859,3 +1859,18 @@ Ongoing situations affecting Time:
 - [[step_082 (phase_069)]]
 - [[step_057 (phase_075)]]
 - [[step_100 (phase_076)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -57,3 +57,28 @@ Recent developments have brought new attention to location-city-bubble-burst-v1-
 
 ## DM Notes
 *location-city-bubble-burst-v1-bubble-burst.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

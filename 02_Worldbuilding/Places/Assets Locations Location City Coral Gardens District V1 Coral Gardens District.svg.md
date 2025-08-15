@@ -179,3 +179,22 @@ Key locations marked:
 - Someone is searching for a artifact for power
 - A letter reveals the truth about this place
 - Someone is hunting a witness for revenge
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

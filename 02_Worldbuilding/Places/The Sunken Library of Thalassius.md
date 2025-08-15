@@ -166,3 +166,18 @@ This content can be adapted and expanded based on specific campaign needs.
 - [[Syndicate War]]
 - [[The Coral Throne Syndicate]]
 - [[The Cure]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

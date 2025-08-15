@@ -357,3 +357,12 @@ Ongoing situations affecting Constellation Codex:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

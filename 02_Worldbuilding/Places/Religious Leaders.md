@@ -265,3 +265,18 @@ Key stop on metals trade route
 - [[The_Academy_of_Resoce]]
 - [[Theological Warfare]]
 - [[The First Truth (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

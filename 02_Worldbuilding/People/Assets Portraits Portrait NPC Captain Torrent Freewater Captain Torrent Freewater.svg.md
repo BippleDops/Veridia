@@ -231,3 +231,23 @@ Member of House Dragonblood - Trait: magical affinity
 ## References
 
 - [[04_Resources_Assets_Locations_location-city-harbormaster-tidal-stormcrest-harbormaster-tidal-stormcrest.svg]]
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

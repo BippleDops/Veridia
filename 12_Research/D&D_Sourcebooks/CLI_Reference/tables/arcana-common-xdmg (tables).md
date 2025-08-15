@@ -1,18 +1,32 @@
 ---
+
 title: arcana-common-xdmg (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["arcana-common-xdmg (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# arcana-common-xdmg
+ # arcana-common-xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: arcana common xdmg
 aliases:
 - Arcana - Common
+
 type: note
 tags:
 - research
@@ -21,23 +35,18 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.304631'
 world: Both
----
 
-# Arcana - Common
-*Source: Dungeon Master's Guide (2024) p. 326* 
+--- # Arcana - Common
 
-**Arcana - Common**
-
-`dice: [](arcana-common-xdmg.md#^arcana-common)`
-
-| dice: 1d100 | Item |
+*Source: Dungeon Master's Guide (2024) p. 326* **Arcana - Common**`dice: [](arcana-common-xdmg.md#^arcana-common)`| dice: 1d100 | Item |
 |-------------|------|
 | 01–02 | [[Bead of Nourishment Xdmg]] |
 | 03–04 | [[bead-of-refreshment-xdmg (items)]] |
@@ -75,48 +84,20 @@ world: Both
 | 93–94 | [[Tankard of Sobriety Xdmg]] |
 | 95–97 | [[Wand of Conducting Xdmg]] |
 | 98–00 | [[wand-of-pyrotechnics-xdmg (items)]] |
-^arcana-common
 
-## 🔧 Deep Evaluation Improvements
+^arcana-common ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Arcana common xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of arcana common xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around arcana common xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange sightings suggest a curse ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-*20 targeted improvements identified*
 
-### Connection Improvements
+## Notes
 
-- Add cross-references to related notes
+*Additional notes*
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Arcana common xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of arcana common xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around arcana common xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Strange sightings suggest a curse
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/monster
+#resource/item
+#meta/reference

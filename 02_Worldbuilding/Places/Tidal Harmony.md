@@ -231,3 +231,18 @@ Ongoing situations affecting Tidal Harmony:
 - [[Marriage_Counselor_Tidal_Harmony (02_Worldbuilding)]]
 - [[Reality Breach Locations]]
 - [[Temple of the Sunken Cathedral]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

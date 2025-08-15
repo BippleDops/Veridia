@@ -261,3 +261,18 @@ Mentioned in The Hidden Prophecy of Shadows
 - [[Compass Quest (D&D_References)]]
 - [[Master Cultivator Thalia Greenglow (D&D_References)]]
 - [[The Green Death (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

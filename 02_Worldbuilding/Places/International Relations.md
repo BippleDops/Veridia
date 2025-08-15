@@ -244,3 +244,18 @@ Mentioned in The Second Prophecy of Winds
 - [[Throne Room - Heart of Palace]]
 - [[Treaty of the Depths]]
 - [[Mad Oracle Thessaly (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

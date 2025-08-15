@@ -224,3 +224,18 @@ Ongoing situations affecting Commercial District:
 - [[The_Professional_Training_Academy (Places)]]
 - [[Windwright Academy]]
 - [[Aquabyssos Trade Seal (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

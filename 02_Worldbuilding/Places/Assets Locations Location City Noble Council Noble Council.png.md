@@ -179,3 +179,22 @@ Key locations marked:
 - A merchant needs help investigating before the festival
 - A journal reveals ancient history about a local noble
 - Strange accidents suggest ancient magic
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

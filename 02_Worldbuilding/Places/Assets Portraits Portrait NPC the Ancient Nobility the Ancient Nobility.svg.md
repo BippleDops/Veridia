@@ -172,3 +172,27 @@ Key locations marked:
 - Someone is searching for information for money
 - A merchant needs help finding before the festival
 - A stranger needs help investigating before the festival
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

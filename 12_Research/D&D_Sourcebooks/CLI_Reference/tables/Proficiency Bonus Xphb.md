@@ -1,18 +1,32 @@
 ---
+
 title: Proficiency Bonus Xphb
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Proficiency Bonus Xphb"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Proficiency Bonus Xphb
+ # Proficiency Bonus Xphb ---
 
----
+## Description
+
+Detailed description pending.
 title: Proficiency Bonus Xphb
 aliases:
 - Proficiency Bonus
+
 type: note
 tags:
 - both
@@ -22,21 +36,18 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.432212+00:00'
 world: Both
----
 
-# Proficiency Bonus
-*Source: Player's Handbook (2024) p. 13. Available in the SRD and the Free Rules (2024)* 
+--- # Proficiency Bonus
 
-**Proficiency Bonus**
-
-| Level or CR | Bonus |
+*Source: Player's Handbook (2024) p. 13. Available in the SRD and the Free Rules (2024)* **Proficiency Bonus** | Level or CR | Bonus |
 |-------------|-------|
 | Up to 4 | +2 |
 | 5–8 | +3 |
@@ -46,40 +57,17 @@ world: Both
 | 21–24 | +7 |
 | 25–28 | +8 |
 | 29–30 | +9 |
-^proficiency-bonus
 
-## 🔧 Deep Evaluation Improvements
+^proficiency-bonus ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Proficiency bonus xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of proficiency bonus xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around proficiency bonus xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-*20 targeted improvements identified*
 
-### Connection Improvements
+## Notes
 
-- Add cross-references to related notes
+*Additional notes*
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Proficiency bonus xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of proficiency bonus xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around proficiency bonus xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#mechanics/rules
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

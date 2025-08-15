@@ -225,3 +225,23 @@ This NPC can serve multiple roles:
 
 - [[04_Resources_Assets_Portraits_portrait-npc-director-of-experimental-procedures-dr-siren-voidtouch-director-of-experimental-procedures-dr-siren-voidtouch.svg]]
 - [[04_Resources_Assets_Art_Places_Retired_Captain_Bron_Saltbeard.png]]
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

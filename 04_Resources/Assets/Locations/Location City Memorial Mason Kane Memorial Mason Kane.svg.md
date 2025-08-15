@@ -57,3 +57,28 @@ Recent developments have brought new attention to Location City Memorial Mason K
 
 ## DM Notes
 *Location City Memorial Mason Kane Memorial Mason Kane.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -1,18 +1,32 @@
 ---
+
 title: magic-item-table-c (tables)
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["magic-item-table-c (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# magic-item-table-c
+ # magic-item-table-c ---
 
----
+## Description
+
+Detailed description pending.
 title: magic item table c
 aliases:
 - Magic Item Table C
+
 type: note
 tags:
 - research
@@ -21,23 +35,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.610801'
 world: Both
----
 
-# Magic Item Table C
-*Source: Dungeon Master's Guide p. 144* 
+--- # Magic Item Table C
 
-**Magic Item Table C**
-
-`dice: [](magic-item-table-c.md#^magic-item-table-c)`
-
-| dice: d100 | Magic Item |
+*Source: Dungeon Master's Guide p. 144* **Magic Item Table C**`dice: [](magic-item-table-c.md#^magic-item-table-c)`| dice: d100 | Magic Item |
 |------------|------------|
 | 01-15 | [[healing]] |
 | 16-22 | [[Spell Scroll Level 4 Xdmg]] |
@@ -67,36 +76,18 @@ world: Both
 | 98 | [[Necklace of Fireballs Xdmg]] |
 | 99 | [[Periapt of Health Xdmg]] |
 | 00 | [[sending-stones-xdmg (items)]] |
-^magic-item-table-c
 
-## 🔧 Deep Evaluation Improvements
+^magic-item-table-c ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Magic item table c is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of magic item table c as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around magic item table c. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-*20 targeted improvements identified*
 
-### Connection Improvements
+## Notes
 
-- Add cross-references to related notes
+*Additional notes*
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Magic item table c is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of magic item table c as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around magic item table c.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/item
+#meta/reference

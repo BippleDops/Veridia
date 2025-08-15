@@ -25,3 +25,28 @@ type: npc
 
 ---
 *Quick reference for [[_03_Mechanics_CLI_bestiary_npc_galazeth-prismari-scc]]*
+
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

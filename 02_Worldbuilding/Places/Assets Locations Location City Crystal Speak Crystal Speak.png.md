@@ -178,3 +178,22 @@ Key stop on spices trade route
 - Someone is protecting information for revenge
 - A noble needs help investigating before winter
 - Someone is blackmailing a artifact for love
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

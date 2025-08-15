@@ -219,3 +219,28 @@ Mentioned in The Hidden Prophecy of Winds
 ## References
 
 - [[04_Resources_Assets_Locations_location-city-the-drowning-truth-v1-the-drowning-truth.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

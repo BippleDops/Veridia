@@ -187,3 +187,22 @@ Key locations marked:
 - Strange accidents suggest ancient magic
 - A shipment has gone missing and chaos spreads
 - A stranger needs help investigating before the festival
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

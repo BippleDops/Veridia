@@ -190,3 +190,23 @@ This NPC can serve multiple roles:
 ## References
 
 - [[04_Resources_Assets_Portraits_portrait-npc-lord-admiral-gaius-windcutter-lord-admiral-gaius-windcutter.svg]]
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

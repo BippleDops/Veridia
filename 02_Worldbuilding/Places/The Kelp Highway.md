@@ -254,3 +254,18 @@ Ongoing situations affecting The Kelp Highway:
 - [[The Kelp Highways]]
 - [[Northgate]]
 - [[Dr. Siphon Gillwater (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

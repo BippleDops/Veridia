@@ -1,15 +1,28 @@
 ---
+
 title: Vehicles - Aethermoor Airships Catalog
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Vehicles - Aethermoor Airships Catalog"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D References
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Vehicles - Aethermoor Airships Catalog
+ # Vehicles - Aethermoor Airships Catalog ---
 
----
+## Description
+
+Detailed description pending.
 title: Aethermoor Airships Catalog
 type: Mechanics
 tags:
@@ -24,16 +37,15 @@ tags:
 - complete
 - content/mechanics
 - aethermoor
+
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
 updated: '2025-08-13T12:34:17.771420+00:00'
 world: Aethermoor
----
 
-# Aethermoor Airships Catalog (60)
+--- # Aethermoor Airships Catalog (60) 1. Wind-Sung Clipper — Song sails; speed + while music plays
 
-1. Wind-Sung Clipper — Song sails; speed + while music plays
 2. Void-Touched Corsair — Gravity- pods; Sanity risk in void-sight
 3. Nimbus Garden — Living cloud hull; weather shaping
 4. Star-Anchored Platform — Orbital relay; anchor arrays 2
@@ -92,38 +104,18 @@ world: Aethermoor
 57. Luminous Sloop — Glow camouflage; safe near stars
 58. Gale Oracle — Predictive maneuvers; negate hit 1/day
 59. Sky Anchor — Portable anchor pylon; stabilizes zones
-60. Choir Courier — Broadcasts morale; allied initiative +1
+60. Choir Courier — Broadcasts morale; allied initiative +1 Integration keys: Altitude pressure inversion, resoce arrays, anchors, sanity hooks, memory charts, faction doctrines. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Aethermoor Airships Catalog is a sky-borne element of the setting, known for brass fittings and cloudstone terraces. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Aethermoor Airships Catalog as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aethermoor Airships Catalog. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-Integration keys: Altitude pressure inversion, resoce arrays, anchors, sanity hooks, memory charts, faction doctrines.
 
-## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+## Notes
 
-### Connection Improvements
+*Additional notes*
 
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Aethermoor Airships Catalog is a sky-borne element of the setting, known for brass fittings and cloudstone terraces. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of Aethermoor Airships Catalog as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aethermoor Airships Catalog.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#mechanics/mechanics
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/gear
+#meta/reference

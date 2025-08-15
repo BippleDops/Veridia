@@ -148,3 +148,18 @@ This content can be adapted and expanded based on specific campaign needs.
 - [[Discover the Singers Beyond (D&D_Statblocks)]]
 - [[Find the Grief Bomb (D&D_Statblocks)]]
 - [[The Maw of Darkness (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

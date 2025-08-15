@@ -89,3 +89,27 @@ improvements: 20
 - A merchant needs help finding before winter
 - A map reveals ancient history about a local noble
 - A journal reveals a betrayal about the government
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

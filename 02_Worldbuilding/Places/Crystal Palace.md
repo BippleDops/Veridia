@@ -312,3 +312,18 @@ Ongoing situations affecting Crystal Palace:
 - [[Crystal Palace Throne Room]]
 - [[The Crystal Palace]]
 - [[The Tethyan Hegemony]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

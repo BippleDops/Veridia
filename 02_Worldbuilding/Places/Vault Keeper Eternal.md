@@ -311,3 +311,18 @@ Ongoing situations affecting Vault Keeper Eternal:
 - [[The Primordial Vaults (D&D_References)]]
 - [[The Lock Saboteur (D&D_Statblocks)]]
 - [[Vault Keeper Eternal (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

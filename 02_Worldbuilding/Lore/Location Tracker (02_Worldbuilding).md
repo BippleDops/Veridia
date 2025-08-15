@@ -105,3 +105,27 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 - Strange sightings suggest a curse
 - Strange disappearances suggest a curse
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

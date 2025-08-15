@@ -1,18 +1,32 @@
 ---
+
 title: random-settlements-known-for-its (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["random-settlements-known-for-its (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# random-settlements-known-for-its
+ # random-settlements-known-for-its ---
 
----
+## Description
+
+Detailed description pending.
 title: random settlements known for its
 aliases:
 - Random Settlements; Known For Its...
+
 type: note
 tags:
 - research
@@ -21,23 +35,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.367796'
 world: Both
----
 
-# Random Settlements; Known For Its...
-*Source: Dungeon Master's Guide p. 112* 
+--- # Random Settlements; Known For Its...
 
-**Known For Its...**
-
-`dice: [](random-settlements-known-for-its.md#^known-for-its)`
-
-| dice: d20 | Feature |
+*Source: Dungeon Master's Guide p. 112* **Known For Its...**`dice: [](random-settlements-known-for-its.md#^known-for-its)`| dice: d20 | Feature |
 |-----------|---------|
 | 1 | Delicious cuisine |
 | 2 | Rude people |
@@ -59,37 +68,19 @@ world: Both
 | 18 | Powerful guilds |
 | 19 | Strong drink |
 | 20 | Patriotism |
-^known-for-its
 
-## 🔧 Deep Evaluation Improvements
+^known-for-its ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Random settlements known for its is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of random settlements known for its as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random settlements known for its. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A merchant needs help investigating before winter
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Random settlements known for its is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of random settlements known for its as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random settlements known for its.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A merchant needs help investigating before winter
 - Strange dreams suggest a portal
+
+## Notes
+
+*Additional notes*
+
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

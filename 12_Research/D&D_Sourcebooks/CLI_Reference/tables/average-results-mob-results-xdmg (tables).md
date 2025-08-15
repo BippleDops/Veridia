@@ -1,18 +1,32 @@
 ---
+
 title: average-results-mob-results-xdmg (tables)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["average-results-mob-results-xdmg (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# average-results-mob-results-xdmg
+ # average-results-mob-results-xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: average results mob results xdmg
 aliases:
 - Average Results; Mob Results
+
 type: note
 tags:
 - research
@@ -21,21 +35,18 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.634010'
 world: Both
----
 
-# Average Results; Mob Results
-*Source: Dungeon Master's Guide (2024) p. 82* 
+--- # Average Results; Mob Results
 
-**Mob Results**
-
-|    |    |    |    |    |    |    |    |
+*Source: Dungeon Master's Guide (2024) p. 82* **Mob Results** | | | | | | | | |
 |----|----|----|----|----|----|----|----|
 | 1 | 1–4 | 1 | 4/4 | 5/5 | 6/6 | 8/8 | 10/10 |
 | 2 | 5–6 | — | 4/4 | 5/5 | 6/6 | 8/8 | 10/10 |
@@ -57,48 +68,16 @@ world: Both
 | 18 | — | 13 | 1/4 | 1/5 | 1/6 | 1/8 | 2/10 |
 | 19 | 20 | 14–15 | 0 | 1/5 | 1/6 | 1/8 | 1/10 |
 | 20 | — | 16–17 | 0 | 0 | 0 | 0 | 1/10 |
-^mob-results
 
-## 🔧 Deep Evaluation Improvements
+^mob-results ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Average results mob results xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of average results mob results xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around average results mob results xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-*20 targeted improvements identified*
 
-### Connection Improvements
+## Notes
 
-- Add cross-references to related notes
+*Additional notes*
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Average results mob results xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of average results mob results xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around average results mob results xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

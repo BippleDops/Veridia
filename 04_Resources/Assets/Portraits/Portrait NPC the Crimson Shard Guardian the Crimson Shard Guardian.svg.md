@@ -89,3 +89,27 @@ improvements: 20
 - Strange disappearances suggest a curse
 - Someone is hunting information for love
 - The authorities needs help investigating before winter
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

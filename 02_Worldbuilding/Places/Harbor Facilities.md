@@ -247,3 +247,18 @@ Ongoing situations affecting Harbor Facilities:
 ## References
 
 - [[Fortress of the Deeps]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

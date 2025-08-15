@@ -62,3 +62,28 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 - [[Assets Locations Location City Master Archivist Thomas Scrollkeeper V1 Master Archivist Thomas Scrollkeeper.png]]
 - [[Assets Portraits Portrait NPC Captain Nerida Stormcrest Captain Nerida Stormcrest.svg]]
+
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

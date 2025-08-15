@@ -206,3 +206,18 @@ Key stop on magic items trade route
 ## References
 
 - [[Post-Merge Chronology]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

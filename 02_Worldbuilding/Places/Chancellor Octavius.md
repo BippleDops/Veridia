@@ -252,3 +252,18 @@ Ongoing situations affecting Chancellor Octavius:
 - [[Quest - The Truth Unveiled_1 (01_Adventures)]]
 - [[Mad Oracle Thessaly]]
 - [[Mad Oracle Thessaly (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

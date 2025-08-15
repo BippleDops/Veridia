@@ -177,3 +177,22 @@ Key locations marked:
 
 - The authorities needs help investigating before winter
 - Someone is protecting a witness for power
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

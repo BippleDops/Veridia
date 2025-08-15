@@ -405,3 +405,18 @@ Key stop on spices trade route
 - [[Aquabyssos - Session 05 - Descent into Darkness]]
 - [[Aquabyssos - Session 06 - The Silhouette Surgeons]]
 - [[Aquabyssos - Session 07 - The Resonance Revelation]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

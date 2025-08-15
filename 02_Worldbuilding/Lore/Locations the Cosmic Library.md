@@ -264,3 +264,27 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Strange disappearances suggest a portal
 - The authorities needs help investigating before the festival
 - Someone is hunting a artifact for revenge
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

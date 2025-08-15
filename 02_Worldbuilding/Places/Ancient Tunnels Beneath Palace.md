@@ -140,3 +140,18 @@ This content can be adapted and expanded based on specific campaign needs.
 - [[The Royal Palace]]
 - [[The Royal Palace (D&D_References)]]
 - [[Aethermoor - Session 05 The Queens Madness]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -178,3 +178,22 @@ Key stop on spices trade route
 - A shipment has gone missing and evil awakens
 - A letter reveals ancient history about the government
 - A journal reveals a conspiracy about this place
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

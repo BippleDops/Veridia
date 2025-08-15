@@ -217,3 +217,27 @@ Adapt as needed for:
 
 ---
 *Tags*: [[#General]] #worldbuilding #01_adventures/the_annual_renewal
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

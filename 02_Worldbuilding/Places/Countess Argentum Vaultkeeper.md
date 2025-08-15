@@ -206,3 +206,18 @@ Ongoing situations affecting Countess Argentum Vaultkeeper:
 - [[Lady Jade Clawgrip]]
 - [[Silverscale Consortium (D&D_References)]]
 - [[Lady Jade Clawgrip (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

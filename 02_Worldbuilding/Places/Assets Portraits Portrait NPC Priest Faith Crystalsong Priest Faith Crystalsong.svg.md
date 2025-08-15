@@ -181,3 +181,27 @@ Key locations marked:
 - A corpse reveals the truth about this place
 - A noble needs help stealing before the festival
 - A journal reveals a betrayal about the cult
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

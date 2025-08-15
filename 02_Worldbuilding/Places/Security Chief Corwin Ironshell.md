@@ -214,3 +214,18 @@ Ongoing situations affecting Security Chief Corwin Ironshell:
 
 - [[Pressure Terminal]]
 - [[Pressure Terminal (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

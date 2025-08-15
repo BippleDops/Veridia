@@ -107,3 +107,23 @@ Further information about this topic will be developed as the campaign progresse
 
 - [[Assets Symbols Symbol Heraldry Commander Void Tacticia Commander Void Tacticia.svg]]
 - [[Assets Symbols Symbol Heraldry the Sunken Observatory the Sunken Observatory.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

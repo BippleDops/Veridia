@@ -181,3 +181,27 @@ This NPC can serve multiple roles:
 - [[Korvin Blacktide]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

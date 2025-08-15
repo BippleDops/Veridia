@@ -122,3 +122,18 @@ Recent developments have brought new attention to Sunken Palace, creating opport
 - [[The Sunken Palace]]
 - [[System Cli Items Weapons]]
 - [[System Cli Spells School Enchantment]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -228,3 +228,18 @@ Ongoing situations affecting Grief Counseling:
 - [[Sister Morwyn]]
 - [[The Shrinking Sanctuary]]
 - [[Mourning Depths (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

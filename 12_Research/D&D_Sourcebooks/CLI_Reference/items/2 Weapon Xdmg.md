@@ -1,15 +1,28 @@
 ---
+
 title: 2 Weapon Xdmg
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["2 Weapon Xdmg"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# 2 Weapon Xdmg
+ # 2 Weapon Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: 2 Weapon Xdmg
 aliases:
 - +2 Weapon
@@ -64,6 +77,7 @@ aliases:
 - +2 Warhammer
 - +2 Whip
 - +2 Yklwa
+
 type: note
 tags:
 - both
@@ -74,6 +88,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -82,17 +97,11 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:07.002073+00:00'
 world: Both
----
 
-> [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-2-weapon-xdmg-2-weapon-xdmg.svg)
+--- > [!figure] Item
+![](04_Resources/Assets/Items/item-artifact-2-weapon-xdmg-2-weapon-xdmg.svg) # +2 Weapon
 
-# +2 Weapon
-*Rare*  
-
-You have a +2 bonus to attack and damage rolls made with this magic weapon.
-
-**Variants**:
+*Rare* You have a +2 bonus to attack and damage rolls made with this magic weapon. **Variants**:
 - [+2 Antimatter Rifle](#+2%20Antimatter%20Rifle)
 - [+2 Automatic Rifle](#+2%20Automatic%20Rifle)
 - [+2 Battleaxe](#+2%20Battleaxe)
@@ -143,49 +152,21 @@ You have a +2 bonus to attack and damage rolls made with this magic weapon.
 - [+2 War Pick](#+2%20War%20Pick)
 - [+2 Warhammer](#+2%20Warhammer)
 - [+2 Whip](#+2%20Whip)
-- [+2 Yklwa](#+2%20Yklwa)
+- [+2 Yklwa](#+2%20Yklwa) ### +2 Yklwa - **Damage**: 1d8 piercing
 
-### +2 Yklwa
-
-- **Damage**: 1d8 piercing
 - **Range**: 10/30
 - **Properties**: [[item properties#Thrown|Thrown]]
-- **Weight**: 3.0 lbs.
+- **Weight**: 3.0 lbs. *Source: Dungeon Master's Guide (2024) p. 324. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary 2 weapon xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 2 weapon xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 2 weapon xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-*Source: Dungeon Master's Guide (2024) p. 324. Available in the SRD and the Free Rules (2024)*
 
-## 🔧 Deep Evaluation Improvements
+## Notes
 
-*20 targeted improvements identified*
+*Additional notes*
 
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-2 weapon xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of 2 weapon xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 2 weapon xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Master_Item_Catalog]]
+#mechanics/rules
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/item
+#meta/reference

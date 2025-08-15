@@ -122,3 +122,18 @@ Recent developments have brought new attention to Whisper-Touched William's Orac
 - [[The Whispering Expanse]]
 - [[Whisper-Touched William (D&D_References)]]
 - [[The Whispering Expanse (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

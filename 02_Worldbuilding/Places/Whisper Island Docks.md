@@ -224,3 +224,18 @@ Ongoing situations affecting Whisper Island Docks:
 ## References
 
 - [[Aethermoor - Session 02 The Lighthouse of Storms]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

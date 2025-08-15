@@ -1,61 +1,69 @@
 ---
+
 title: New Item
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["New Item"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D References
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# New Item
+ # New Item ## Overview
 
-## Overview
-New Item is a notable item with both practical use and historical significance.
+New Item is a notable item with both practical use and historical significance. ## Description
 
-## Description
-**Type**: Wondrous Item
-
-*Further details to be discovered.*
-
-*Further details to be discovered.*
-
-*Further details to be discovered.*
+**Type**: Wondrous Item *Further details to be discovered.* *Further details to be discovered.* *Further details to be discovered.*
 **Rarity**: Uncommon
-**Appearance**: Distinctive craftsmanship sets this item apart from common goods.
+**Appearance**: Distinctive craftsmanship sets this item apart from common goods. ## Properties
 
-## Properties
 - **Primary Function**: Provides utility in specific situations
 - **Secondary Benefits**: Additional advantages when properly utilized
-- **Limitations**: Requires proper knowledge to use effectively
+- **Limitations**: Requires proper knowledge to use effectively ## History
 
-## History
-Crafted by skilled artisans, New Item has passed through many hands over the years.
+Crafted by skilled artisans, New Item has passed through many hands over the years. ### Origin
 
-### Origin
-Created for a specific purpose that may no longer be immediately apparent.
+Created for a specific purpose that may no longer be immediately apparent. ### Previous Owners
 
-### Previous Owners
 - Original commissioner
 - Various collectors and adventurers
-- Current holder (if any)
+- Current holder (if any) ## Mechanics
 
-## Mechanics
 **Activation**: Action or as specified
 **Duration**: Varies by use
-**Charges**: If applicable
+**Charges**: If applicable ## Value
 
-## Value
 - **Market Price**: Varies by location and buyer
 - **Trade Value**: Comparable to other uncommon items
-- **Collector Interest**: Moderate to high
+- **Collector Interest**: Moderate to high ## Current Location
 
-## Current Location
-Last known to be in [[Region Name]] or surrounding areas.
+Last known to be in [[Region Name]] or surrounding areas. ## Adventure Hooks
 
-## Adventure Hooks
 1. Sought by a collector willing to pay well
 2. Key to solving an ancient puzzle
-3. Draws unwanted attention when displayed
+3. Draws unwanted attention when displayed ## DM Notes
 
-## DM Notes
+
 *Can be modified to fit campaign power level and themes.*
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/mechanics
+#story/story
+#world/location
+#gameplay/adventure
+#gameplay/mission
+#resource/item
+#meta/reference

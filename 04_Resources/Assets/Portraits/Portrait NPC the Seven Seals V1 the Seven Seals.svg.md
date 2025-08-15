@@ -88,3 +88,27 @@ improvements: 20
 - Someone is searching for an heir for money
 - The authorities needs help delivering before dawn
 - Someone is protecting information for love
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

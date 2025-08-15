@@ -494,3 +494,27 @@ The party discovers that cult healing practices, while religiously motivated, ar
 - [[02_Worldbuilding/Lore/Quarantine Enforcement]] - Government policies that cults help members evade
 
 <!-- enriched: true -->
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

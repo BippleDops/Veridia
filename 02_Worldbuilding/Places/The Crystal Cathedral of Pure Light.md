@@ -240,3 +240,18 @@ Ongoing situations affecting The Crystal Cathedral of Pure Light:
 - [[Assets Locations Location City the Crystal Cathedral of Pure Light V1 the Crystal Cathedral of Pure Light.svg]]
 - [[Shadow Conspiracy (People)]]
 - [[Shadow Conspiracy (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

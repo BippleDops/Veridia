@@ -223,3 +223,28 @@ Member of House Dragonblood - Trait: magical affinity
 
 - [[04_Resources_Assets_Locations_location-city-market-master-cornelius-driftwood-market-master-cornelius-driftwood.svg]]
 - [[04_Resources_Assets_Locations_location-city-the-crystal-cathedral-of-pure-light-the-crystal-cathedral-of-pure-light.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

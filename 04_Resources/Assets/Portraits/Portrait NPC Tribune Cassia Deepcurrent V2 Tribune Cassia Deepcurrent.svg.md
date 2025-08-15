@@ -96,3 +96,27 @@ improvements: 20
 - The authorities needs help investigating before winter
 - Strange sightings suggest a portal
 - A stranger needs help investigating before the new moon
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

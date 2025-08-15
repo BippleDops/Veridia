@@ -182,3 +182,22 @@ Key stop on magic items trade route
 
 - A journal reveals the truth about the cult
 - A map reveals a betrayal about this place
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

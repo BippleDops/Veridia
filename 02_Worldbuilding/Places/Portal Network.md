@@ -223,3 +223,18 @@ Ongoing situations affecting Portal Network:
 ## References
 
 - [[Umbral Exchange]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

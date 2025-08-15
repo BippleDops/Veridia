@@ -238,3 +238,28 @@ Mentioned in The First Prophecy of Shadows
 ## References
 
 - [[Assets Locations Location City Deep Compressmaster Deep Compressmaster.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

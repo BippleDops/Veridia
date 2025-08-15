@@ -1,18 +1,32 @@
 ---
+
 title: Random Magic Items Armaments
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Random Magic Items Armaments"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Random Magic Items Armaments
+ # Random Magic Items Armaments ---
 
----
+## Description
+
+Detailed description pending.
 title: Random Magic Items Armaments
 aliases:
 - Random Magic Items - Armaments
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.396206+00:00'
 world: Both
----
 
-# Random Magic Items - Armaments
-*Source: Dungeon Master's Guide (2024) p. 328* 
+--- # Random Magic Items - Armaments
 
-**Armaments - Common**
-
-`dice: [](random-magic-items-armaments.md#^armaments-common)`
-
-| dice: 1d100 | Item |
+*Source: Dungeon Master's Guide (2024) p. 328* **Armaments - Common**`dice: [](random-magic-items-armaments.md#^armaments-common)`| dice: 1d100 | Item |
 |-------------|------|
 | 01–10 | [[armor-of-gleaming-xdmg (items)]] |
 | 11–20 | [[Cast Off Armor Xdmg]] |
@@ -50,13 +59,8 @@ world: Both
 | 71–80 | [[Sylvan Talon Xdmg]] |
 | 81–90 | [[veterans-cane-xdmg (items)]] |
 | 91–00 | [[Walloping Ammunition Xdmg]] |
-^armaments-common
 
-**Armaments - Uncommon**
-
-`dice: [](random-magic-items-armaments.md#^armaments-uncommon)`
-
-| 01–04 | [[Adamantine Armor Xdmg]] |
+^armaments-common **Armaments - Uncommon**`dice: [](random-magic-items-armaments.md#^armaments-uncommon)`| 01–04 | [[Adamantine Armor Xdmg]] |
 | 05–08 | [[adamantine-weapon-xdmg (items)]] |
 | 09–13 | [[1-ammunition-xdmg (items)]] |
 | 14–18 | [[Bracers of Archery Xdmg]] |
@@ -77,13 +81,8 @@ world: Both
 | 86–90 | [[1-weapon-xdmg (items)]] |
 | 91–95 | [[weapon-of-warning-xdmg (items)]] |
 | 96–00 | [[1-wraps-of-unarmed-power-xdmg (items)]] |
-^armaments-uncommon
 
-**Armaments - Rare**
-
-`dice: [](random-magic-items-armaments.md#^armaments-rare)`
-
-| 01–03 | [[2 Ammunition Xdmg]] |
+^armaments-uncommon **Armaments - Rare**`dice: [](random-magic-items-armaments.md#^armaments-rare)`| 01–03 | [[2 Ammunition Xdmg]] |
 | 04–07 | [[1 Armor Xdmg]] |
 | 08–10 | [[armor-of-resistance-xdmg (items)]] |
 | 11–13 | [[Armor of Vulnerability Xdmg]] |
@@ -119,13 +118,8 @@ world: Both
 | 93–94 | [[vicious-weapon-xdmg (items)]] |
 | 95–97 | [[2-weapon-xdmg (items)]] |
 | 98–00 | [[2-wraps-of-unarmed-power-xdmg (items)]] |
-^armaments-rare
 
-**Armaments - Very Rare**
-
-`dice: [](random-magic-items-armaments.md#^armaments-very-rare)`
-
-| 01–03 | [[3-ammunition-xdmg (items)]] |
+^armaments-rare **Armaments - Very Rare**`dice: [](random-magic-items-armaments.md#^armaments-very-rare)`| 01–03 | [[3-ammunition-xdmg (items)]] |
 | 04–06 | [[Ammunition of Slaying Xdmg]] |
 | 07–09 | [[Shield]] |
 | 10–12 | [[2-armor-xdmg (items)]] |
@@ -158,13 +152,8 @@ world: Both
 | 92–94 | [[Thunderous Greatclub Xdmg]] |
 | 95–97 | [[3 Weapon Xdmg]] |
 | 98–00 | [[3-wraps-of-unarmed-power-xdmg (items)]] |
-^armaments-very-rare
 
-**Armaments - Legendary**
-
-`dice: [](random-magic-items-armaments.md#^armaments-legendary)`
-
-| 01–06 | [[3 Armor Xdmg]] |
+^armaments-very-rare **Armaments - Legendary**`dice: [](random-magic-items-armaments.md#^armaments-legendary)`| 01–06 | [[3 Armor Xdmg]] |
 | 07–12 | [[armor-of-invulnerability-xdmg (items)]] |
 | 13–18 | [[giant]] |
 | 19–21 | [[belt-of-storm-giant-strength-xdmg (items)]] |
@@ -182,47 +171,22 @@ world: Both
 | 88–90 | [[Rod of Lordly Might Xdmg]] |
 | 91–95 | [[Sword of Answering Xdmg]] |
 | 96–00 | [[Vorpal Sword Xdmg]] |
-^armaments-legendary
 
-## 🔧 Deep Evaluation Improvements
+^armaments-legendary ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Random magic items armaments is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of random magic items armaments as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random magic items armaments. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Hidden Prophecy of Shadows ## Related Notes - [[Similar Topic 1]]
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Random magic items armaments is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of random magic items armaments as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random magic items armaments.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The Hidden Prophecy of Shadows
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
+
+*Additional notes*
+
+#mechanics/dice
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/item
+#meta/reference

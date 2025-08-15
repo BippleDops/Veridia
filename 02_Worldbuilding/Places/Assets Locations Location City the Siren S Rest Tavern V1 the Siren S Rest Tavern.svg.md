@@ -186,3 +186,22 @@ Key locations marked:
 - Someone is protecting a artifact for revenge
 - Someone is protecting a witness for money
 - A prisoner has gone missing and chaos spreads
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

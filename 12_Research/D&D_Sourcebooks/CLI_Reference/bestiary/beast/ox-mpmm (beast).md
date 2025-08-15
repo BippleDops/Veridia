@@ -1,18 +1,22 @@
 ---
+
 title: ox-mpmm (beast)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# ox-mpmm
+--- # ox-mpmm ---
 
----
+## Description
+
+Detailed description pending.
 title: ox mpmm
 aliases:
 - Ox
+
 type: monster
 tags:
 - world/surface
@@ -26,6 +30,7 @@ tags:
 - research
 - active
 - status/in-progress
+
 created: 2025-08-11
 modified: '2025-08-14'
 status: active
@@ -35,33 +40,12 @@ statblock: inline
 statblock-link: '#^statblock'
 updated: '2025-08-12T23:37:35.236214'
 world: Both
----
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-ox-mpmm-ox-mpmm.svg)
+--- > [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-ox-mpmm-ox-mpmm.svg) # [[Ox Mpmm]]
 
-# [[Ox Mpmm]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208* Oxen are domesticated cattle bred for milk and meat production and for hauling. Many cultures incorporate the ox into their labor and diets. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Cattle Many kinds of cattle roam the multiverse, some of them domesticated and others feral. In many cultures, cattle are almost like family to the folk who tend to them.```statblock
 
-Oxen are domesticated cattle bred for milk and meat production and for hauling. Many cultures incorporate the ox into their labor and diets.
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Cattle
-
-Many kinds of cattle roam the multiverse, some of them domesticated and others feral. In many cultures, cattle are almost like family to the folk who tend to them.
-
-```statblock
 "name": "Ox (MPMM)"
 "size": "Large"
 "type": "beast"
@@ -71,68 +55,21 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 "hp": !!int "15"
 "hit_dice": "2d10 + 4"
 "modifier": !!int "0"
-"stats":
-  - !!int "18"
-  - !!int "10"
-  - !!int "14"
-  - !!int "2"
-  - !!int "4"
+"stats": - !!int "18" - !!int "10" - !!int "14" - !!int "2" - !!int "4"
 "speed": "30 ft."
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "1/4"
-"traits":
-  - "desc": "The ox is considered to be one size larger for the purpose of determining\
-      \ its carrying capacity."
-    "name": "Beast of Burden"
-"actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
-      \ + 4) piercing damage. If the ox moved at least 20 feet straight toward the\
-      \ target immediately before the hit, the target takes an extra 7 (2d6) piercing\
-      \ damage."
-    "name": "Gore"
-"source":
-  - "MPMM"
-  - "VGM"
-"image": "/03_Mechanics/CLI/bestiary/beast/token/ox-mpmm.webp"
-```
-^statblock
+"traits": - "desc": "The ox is considered to be one size larger for the purpose of determining\ \ its carrying capacity." "name": "Beast of Burden"
+"actions": - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\ \ + 4) piercing damage. If the ox moved at least 20 feet straight toward the\ \ target immediately before the hit, the target takes an extra 7 (2d6) piercing\ \ damage." "name": "Gore"
+"source": - "MPMM" - "VGM"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/ox-mpmm.webp"```^statblock ## Environment grassland, urban ## Player-Facing Summary Ox mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of ox mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ox mpmm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Hidden Prophecy of Depths ## Plot Hooks - Someone is hunting information for love
 
-## Environment
-
-grassland, urban
-
-## Player-Facing Summary
-
-Ox mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of ox mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ox mpmm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The Hidden Prophecy of Depths
-
-## Plot Hooks
-
-- Someone is hunting information for love
 - Strange accidents suggest a conspiracy
 - Strange accidents suggest a portal
-- A map reveals ancient history about the cult
+- A map reveals ancient history about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+*Additional notes*

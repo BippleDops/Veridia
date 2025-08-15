@@ -1,18 +1,22 @@
 ---
+
 title: giant-fly-dmg (beast)
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# giant-fly-dmg
+--- # giant-fly-dmg ---
 
----
+## Description
+
+Detailed description pending.
 title: giant fly dmg
 aliases:
 - Giant Fly
+
 type: monster
 tags:
 - ttrpg-cli/monster/type/beast
@@ -24,6 +28,7 @@ tags:
 - active
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-08-11
 modified: '2025-08-14'
 status: active
@@ -33,15 +38,11 @@ statblock: inline
 statblock-link: '#^statblock'
 updated: '2025-08-12T23:37:35.200422'
 world: Both
----
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-giant-fly-dmg-giant-fly-dmg.svg)
+--- > [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-giant-fly-dmg-giant-fly-dmg.svg) # [[giant-fly-dmg (beast)]]
 
-# [[giant-fly-dmg (beast)]]
-*Source: Dungeon Master's Guide p. 169*  
-
-```statblock
+*Source: Dungeon Master's Guide p. 169*```statblock
 "name": "Giant Fly (DMG)"
 "size": "Large"
 "type": "beast"
@@ -50,58 +51,16 @@ world: Both
 "hp": !!int "19"
 "hit_dice": "3d10 + 3"
 "modifier": !!int "1"
-"stats":
-  - !!int "14"
-  - !!int "13"
-  - !!int "2"
-  - !!int "10"
-  - !!int "3"
+"stats": - !!int "14" - !!int "13" - !!int "2" - !!int "10" - !!int "3"
 "speed": "30 ft., fly 60 ft."
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": ""
-"source":
-  - "DMG"
-"image": "/03_Mechanics/CLI/bestiary/beast/token/giant-fly-dmg.webp"
-```
-^statblock
+"source": - "DMG"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/giant-fly-dmg.webp"```^statblock ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Giant fly dmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of giant fly dmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around giant fly dmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A shipment has gone missing and chaos spreads
 
-## 🔧 Deep Evaluation Improvements
+- Someone is protecting a artifact for revenge ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Giant Fly Dmg]]
 
-*20 targeted improvements identified*
 
-### Connection Improvements
+## Notes
 
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Giant fly dmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of giant fly dmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around giant fly dmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A shipment has gone missing and chaos spreads
-- Someone is protecting a artifact for revenge
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Giant Fly Dmg]]
+*Additional notes*

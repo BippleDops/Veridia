@@ -243,3 +243,28 @@ Member of House Lionblood - Trait: divine blood
 - [[04_Resources_Assets_Portraits_portrait-npc-duke-aldric-blackwater-duke-aldric-blackwater.svg]]
 - [[04_Resources_Assets_Portraits_portrait-npc-the-reality-sick-mayor-lord-quantum-aldrich-the-reality-sick-mayor-lord-quantum-aldrich.svg]]
 - [[04_Resources_Assets_Locations_location-city-archdruid-marina-kelpweaver-v1-archdruid-marina-kelpweaver.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

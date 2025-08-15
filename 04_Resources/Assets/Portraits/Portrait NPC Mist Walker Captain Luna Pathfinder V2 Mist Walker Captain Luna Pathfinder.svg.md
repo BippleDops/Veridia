@@ -60,3 +60,28 @@ Actively involved in current events, pursuing their own agenda while maintaining
 ## References
 
 - [[Assets Locations Location City Quartermaster David Simpleton Quartermaster David Simpleton.svg]]
+
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

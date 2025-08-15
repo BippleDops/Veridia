@@ -229,3 +229,28 @@ Mentioned in The Hidden Prophecy of Shadows
 
 - [[04_Resources_Assets_Locations_location-city-crystal-master-prism-lightweaver-crystal-master-prism-lightweaver.svg]]
 - [[04_Resources_Assets_Locations_location-city-scout-captain-vera-deepwatch-v1-scout-captain-vera-deepwatch.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

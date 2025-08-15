@@ -596,3 +596,18 @@ Ongoing situations affecting Antiquarian Eliza Tidecaller:
 - [[Antiquarian Eliza Tidecaller (D&D_References)]]
 - [[Compass Quest (D&D_References)]]
 - [[The Phosphor Markets (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -557,3 +557,18 @@ Key stop on magic items trade route
 
 - [[Aethermoor - Session 03 Council of Shadows]]
 - [[Cathedral of Light (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -121,3 +121,18 @@ Recent developments have brought new attention to The Gilded Serpent, creating o
 - [[02_Worldbuilding_Places_The_Gilded_Serpent]]
 - [[Vex Shadowthorn's Apprentices]]
 - [[Vex Shadowthorn's Apprentices (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

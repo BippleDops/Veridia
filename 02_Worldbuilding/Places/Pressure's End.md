@@ -311,3 +311,18 @@ Pressure's End was established in the distant past, growing from humble beginnin
 - [[Lumengarde (D&D_References)]]
 - [[Admiral Thorne Blackwater (D&D_Statblocks)]]
 - [[The Lock Saboteur (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -233,3 +233,18 @@ Mentioned in The Second Prophecy of Depths
 ## References
 
 - [[Inverted Ballroom Wing (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

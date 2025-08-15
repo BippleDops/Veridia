@@ -119,3 +119,18 @@ Recent developments have brought new attention to Thalassopolis Ruins, creating 
 ## References
 
 - [[02_Worldbuilding_Places_Thalassopolis_Ruins]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -328,3 +328,23 @@ The main reason parties get involved
 - Magic item (roll on Table F)
 - Ancient map fragment
 - 1d4 gems (50 gp each)
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

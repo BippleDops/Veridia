@@ -218,3 +218,18 @@ Ongoing situations affecting Deep Harbor:
 - [[The Tethyan Hegemony]]
 - [[Abyssos Prime Docks]]
 - [[Blood Current Express]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

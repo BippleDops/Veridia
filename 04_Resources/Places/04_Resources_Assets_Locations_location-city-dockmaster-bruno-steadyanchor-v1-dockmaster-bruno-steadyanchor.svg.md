@@ -107,3 +107,23 @@ Further information about this topic will be developed as the campaign progresse
 
 - [[Assets Locations Location City Keeper Valdris Goldvault Keeper Valdris Goldvault.svg]]
 - [[Assets Locations Location City Terminal Master Hadrian Depthbridge V1 Terminal Master Hadrian Depthbridge.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

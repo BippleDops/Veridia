@@ -1,18 +1,32 @@
 ---
+
 title: new-organizations (tables)
 type: organization
 tags:
 - organization
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["new-organizations (tables)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# new-organizations
+ # new-organizations ---
 
----
+## Description
+
+Detailed description pending.
 title: new organizations
 aliases:
 - New Organizations
+
 type: note
 tags:
 - research
@@ -21,23 +35,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-12T23:37:33.759328'
 world: Both
----
 
-# New Organizations
-*Source: Dungeon Master's Guide p. 31* 
+--- # New Organizations
 
-**New Organizations**
-
-`dice: [](new-organizations.md#^new-organizations)`
-
-| dice: d10 | New Organizations |
+*Source: Dungeon Master's Guide p. 31* **New Organizations**`dice: [](new-organizations.md#^new-organizations)`| dice: d10 | New Organizations |
 |-----------|-------------------|
 | 1 | Crime syndicate/bandit confederacy |
 | 2 | Guild (masons, apothecaries, goldsmiths) |
@@ -49,57 +58,12 @@ world: Both
 | 8 | Religion/sect/denomination |
 | 9 | School/university |
 | 10 | Secret society/cult/cabal |
-^new-organizations
 
-## 🔧 Deep Evaluation Improvements
+^new-organizations ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary New organizations is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of new organizations as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around new organizations. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A stranger needs help investigating before winter
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-New organizations is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of new organizations as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around new organizations.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A stranger needs help investigating before winter
 - A journal reveals the truth about this place
-- Someone is searching for a artifact for money
+- Someone is searching for a artifact for money ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Quest - Redemption's Price]]
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Quest - Redemption's Price]]
 - [[Artisan Collective]]
 - [[Corrupted Clients (D&D_References)]]
 - [[Corruption Networks]]
@@ -133,3 +97,19 @@ Contextual improvement based on 12_Research
 - [[The Deep Territories]]
 - [[The Depth Mother's Blessing]]
 - [[The Hippocratic Vault]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#gameplay/quest
+#meta/navigation
+#meta/reference

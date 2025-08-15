@@ -107,3 +107,23 @@ Further information about this topic will be developed as the campaign progresse
 
 - [[Assets Locations Location City Scout Captain Vera Deepwatch Scout Captain Vera Deepwatch.svg]]
 - [[Assets Locations Location City Scribe Master Elena Truthkeeper V1 Scribe Master Elena Truthkeeper.svg]]
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

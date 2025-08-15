@@ -187,3 +187,22 @@ Key stop on magic items trade route
 
 - A letter reveals a conspiracy about the government
 - A stranger needs help finding before dawn
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

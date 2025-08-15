@@ -215,3 +215,18 @@ Ongoing situations affecting Port Nimbus:
 
 - [[Quest - The Lost Expedition]]
 - [[VAULT_UPDATES]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

@@ -93,3 +93,27 @@ improvements: 20
 - The authorities needs help delivering before the festival
 - Strange accidents suggest a portal
 - A document has gone missing and evil awakens
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

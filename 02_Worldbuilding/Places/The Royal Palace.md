@@ -351,3 +351,18 @@ Ongoing situations affecting The Royal Palace:
 - [[Goldwave Manor 3 (D&D_References)]]
 - [[Port Meridian - Market Square (D&D_References)]]
 - [[Port Meridian Harbor (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

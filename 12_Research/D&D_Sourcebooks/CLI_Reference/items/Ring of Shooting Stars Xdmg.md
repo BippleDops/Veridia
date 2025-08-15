@@ -1,18 +1,32 @@
 ---
+
 title: Ring of Shooting Stars Xdmg
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Ring of Shooting Stars Xdmg"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Ring of Shooting Stars Xdmg
+ # Ring of Shooting Stars Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Ring of Shooting Stars Xdmg
 aliases:
 - Ring of Shooting Stars
+
 type: note
 tags:
 - both
@@ -23,6 +37,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -31,106 +46,48 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:07.099667+00:00'
 world: Both
----
 
-# Ring of Shooting Stars
-*Ring, very rare (requires attunement)*  
-![](/03_Mechanics/CLI/items/img/ring-of-shooting-stars.webp#right)
+--- # Ring of Shooting Stars
 
-You can cast [[dancing-lights-xphb (spells)]] or [[Fount of Moonlight Xphb]] from the ring.
+*Ring, very rare (requires attunement)* ![](/03_Mechanics/CLI/items/img/ring-of-shooting-stars.webp#right) You can cast [[dancing-lights-xphb (spells)]] or [[Fount of Moonlight Xphb]] from the ring. The ring has 6 charges and regains`d6`expended charges daily at dawn. You can expend its charges to use the properties below. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Faerie Fire You can expend 1 charge to cast [[faerie-fire-xphb (spells)]] from the ring. ## Lightning Spheres You can expend 2 charges as a [[actions#Magic|Magic]] action to create up to four 3-foot-diameter spheres of lightning. Each sphere appears in an unoccupied space you can see within 120 feet of yourself. The spheres last as long as you maintain [[conditions#Concentration|Concentration]], up to 1 minute. Each sphere sheds [[Light Xphb]] in a 30-foot radius. As a [[Action Xphb]], you can move each sphere up to 30 feet, but no farther than 120 feet away from yourself. The first time the sphere comes within 5 feet of a creature other than you that isn't behind [[Cover Xphb]], the sphere discharges lightning at that creature and disappears. That creature makes a DC 15 Dexterity saving throw. On a failed save, the creature takes Lightning damage based on the number of spheres you created, as shown in the following table. On a successful save, the creature takes half as much damage. | Number of Spheres | Lightning Damage |
 
-The ring has 6 charges and regains `d6` expended charges daily at dawn. You can expend its charges to use the properties below.
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Faerie Fire
-
-You can expend 1 charge to cast [[faerie-fire-xphb (spells)]] from the ring.
-
-## Lightning Spheres
-
-You can expend 2 charges as a [[actions#Magic|Magic]] action to create up to four 3-foot-diameter spheres of lightning.
-
-Each sphere appears in an unoccupied space you can see within 120 feet of yourself. The spheres last as long as you maintain [[conditions#Concentration|Concentration]], up to 1 minute. Each sphere sheds [[Light Xphb]] in a 30-foot radius.
-
-As a [[Action Xphb]], you can move each sphere up to 30 feet, but no farther than 120 feet away from yourself. The first time the sphere comes within 5 feet of a creature other than you that isn't behind [[Cover Xphb]], the sphere discharges lightning at that creature and disappears. That creature makes a DC 15 Dexterity saving throw. On a failed save, the creature takes Lightning damage based on the number of spheres you created, as shown in the following table. On a successful save, the creature takes half as much damage.
-
-| Number of Spheres | Lightning Damage |
 |-------------------|------------------|
-| 1 | `4d12` |
-| 2 | `5d4` |
-| 3 | `2d6` |
-| 4 | `2d4` |
-^number-of-spheres-lightning-damage
+| 1 |`4d12`|
+| 2 |`5d4`|
+| 3 |`2d6`|
+| 4 |`2d4`|
 
-## Shooting Stars
+^number-of-spheres-lightning-damage ## Shooting Stars You can expend 1 to 3 charges as a [[actions#Magic|Magic]] action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of yourself. Each creature in a 15-foot [[Cube Area of Effect Xphb]] originating from that point is showered in sparks and makes a DC 15 Dexterity saving throw, taking`5d4`Radiant damage on a failed save or half as much damage on a successful one. *Source: Dungeon Master's Guide (2024) p. 294. Available in the SRD and the Free Rules (2024)* ## Player-Facing Summary Ring of shooting stars xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of ring of shooting stars xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ring of shooting stars xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Hidden Prophecy of Depths ## Plot Hooks - A corpse reveals the truth about this place
 
-You can expend 1 to 3 charges as a [[actions#Magic|Magic]] action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of yourself. Each creature in a 15-foot [[Cube Area of Effect Xphb]] originating from that point is showered in sparks and makes a DC 15 Dexterity saving throw, taking `5d4` Radiant damage on a failed save or half as much damage on a successful one.
-
-*Source: Dungeon Master's Guide (2024) p. 294. Available in the SRD and the Free Rules (2024)*
-
-## Player-Facing Summary
-
-Ring of shooting stars xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of ring of shooting stars xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ring of shooting stars xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The Hidden Prophecy of Depths
-
-## Plot Hooks
-
-- A corpse reveals the truth about this place
 - Someone is protecting a witness for power
 - A letter reveals a betrayal about the cult
-- Someone is searching for an heir for love
+- Someone is searching for an heir for love ## Related Notes - [[Similar Topic 1]]
 
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Master_Item_Catalog]]
 - [[Arcana Very Rare Xdmg]]
 - [[Magic Item Table H]]
 - [[Random Magic Items Arcana]]
 - [[arcana-very-rare-xdmg (tables)]]
 - [[magic-item-table-h (tables)]]
 - [[random-magic-items-arcana (tables)]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#mechanics/mechanics
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#character/creature
+#resource/item
+#meta/reference

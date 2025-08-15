@@ -221,3 +221,18 @@ Ongoing situations affecting Battle Priest Cassius Depthshield:
 
 - [[Pressure's End (D&D_References)]]
 - [[The Forgotten One (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

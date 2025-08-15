@@ -5,76 +5,92 @@ type: quest
 created: 2025-08-14
 modified: 2025-08-14
 status: active
+aliases: ["Master Quest Index"]
+priority: normal
+category: 00 Indexes
+subcategory: Master Quest Index.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Master Quest Index
+ # Master Quest Index ## Main Storylines
 
-## Main Storylines
-### Primary Campaign Arc
-- *[Major story quests]*
+## Description {#description}
 
-### Regional Questlines
-- *[Area-specific quest chains]*
+Detailed description pending.
+### Primary Campaign Arc {#primary-campaign-arc}
 
-## Side Quests
-### Character Development
-- *[Personal growth quests]*
+- *[Major story quests]* ### Regional Questlines
 
-### Faction Missions
-- *[Organization-specific tasks]*
+- *[Area-specific quest chains]* ## Side Quests
 
-### Exploration
-- *[Discovery and exploration]*
+### Character Development {#character-development}
 
-## Quest Status Tracking
+- *[Personal growth quests]* ### Faction Missions
+
+- *[Organization-specific tasks]* ### Exploration
+
+- *[Discovery and exploration]* ## Quest Status Tracking
+
 | Quest Name | Status | Level | Rewards | Notes |
 |------------|---------|-------|---------|-------|
-| *Example* | *Active/Complete* | *1-20* | *Rewards* | *Notes* |
+| *Example* | *Active/Complete* | *1-20* | *Rewards* | *Notes* | ## See Also
 
-## See Also
 - Related content
 - Similar topics
-- Connected elements
+- Connected elements ## Alternate Descriptions
 
-## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects
+- **Hidden Details**: Secret aspects ## Random Table
 
-## Random Table
 | d6 | Result |
 |----|--------|
-| 1  | Option A |
-| 2  | Option B |
-| 3  | Option C |
-| 4  | Option D |
-| 5  | Option E |
-| 6  | Option F |
+| 1 | Option A |
+| 2 | Option B |
+| 3 | Option C |
+| 4 | Option D |
+| 5 | Option E |
+| 6 | Option F | ## DM Tips
 
-## DM Tips
 > 💡 **Running This Content**: Advice for game masters
-> Adjust difficulty based on party composition
 
-## Player Tips
+> Adjust difficulty based on party composition ## Player Tips
+
 > 🎮 **Strategy**: How to approach this content
-> Work together and communicate
 
-## Objective
+> Work together and communicate ## Objective *To be added* ## Background *To be added* ## Tasks *To be added* ## Rewards *To be added* ## Complications *To be added*
 
-*To be added*
+## Notes {#notes}
 
-## Background
+*Additional notes*
 
-*To be added*
+#story/story
+#story/background
+#character/character
+#character/person
+#gameplay/adventure
+#gameplay/quest
+#gameplay/mission
+#meta/index
 
-## Tasks
+## Timeline {#timeline}
+- Key events
+- Deadlines
 
-*To be added*
 
-## Rewards
+## NPCs Involved {#npcs-involved}
+- Quest giver
+- Antagonists
 
-*To be added*
 
-## Complications
+## Locations {#locations}
+- Starting point
+- Key locations
 
-*To be added*
+
+## Alternative Solutions {#alternative-solutions}
+- Non-combat options
+- Creative approaches

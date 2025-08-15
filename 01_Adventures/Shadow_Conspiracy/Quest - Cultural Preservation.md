@@ -118,3 +118,22 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Scaling Options
 - **Easy Mode**: Reduced difficulty
 - **Hard Mode**: Increased challenge
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

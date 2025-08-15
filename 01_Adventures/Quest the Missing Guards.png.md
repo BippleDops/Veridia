@@ -1,6 +1,8 @@
 ---
+
 aliases:
-- Quest   The Missing Guardspng
+- Quest The Missing Guardspng
+
 class: Unknown
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -10,108 +12,132 @@ modified: '2025-08-14'
 race: Unknown
 tags:
 - quest
+
 title: Quest the Missing Guards.png
 type: npc
 updated: 2025-08-14
+status: active
+priority: normal
+category: 01 Adventures
+subcategory: Quest The Missing Guards.Png.Md
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Quest the Missing Guards.png
+ # Quest the Missing Guards.png ## Overview
 
-## Overview
-Quest the Missing Guards.png is a notable figure in the realm, known for their unique skills and complex motivations.
+## Description
 
-## Appearance
+Detailed description pending.
+
+Quest the Missing Guards.png is a notable figure in the realm, known for their unique skills and complex motivations. ## Appearance
+
 - **Age**: Middle-aged
 - **Build**: Average height, lean build
 - **Distinguishing Features**: Keen eyes that miss nothing
-- **Typical Attire**: Practical clothing suited for their profession
+- **Typical Attire**: Practical clothing suited for their profession ## Personality
 
-## Personality
 - **Traits**: Observant, calculating, pragmatic
 - **Ideals**: Knowledge is power, loyalty must be earned
 - **Bonds**: Connected to several influential organizations
-- **Flaws**: Tendency to overthink situations
+- **Flaws**: Tendency to overthink situations ## Background
 
-## Background
-Born into modest circumstances, Quest the Missing Guards.png rose through dedication and cunning to their current position.
+Born into modest circumstances, Quest the Missing Guards.png rose through dedication and cunning to their current position. ## Abilities
 
-## Abilities
 - **Skills**: Investigation, Persuasion, Insight
 - **Special Abilities**: Keen tactical mind
-- **Equipment**: Various tools of their trade
+- **Equipment**: Various tools of their trade ## Relationships
 
-## Relationships
 - **Allies**: [[The Merchant's Guild]], [[City Watch]]
 - **Rivals**: [[Shadow Conspiracy]]
-- **Contacts**: Network of informants throughout the city
+- **Contacts**: Network of informants throughout the city ## Current Activities
 
-## Current Activities
-Actively involved in current events, pursuing their own agenda while maintaining public appearances.
+Actively involved in current events, pursuing their own agenda while maintaining public appearances. ## Plot Hooks
 
-## Plot Hooks
 1. Seeks adventurers for a delicate mission
 2. Has information about a mystery the party is investigating
-3. May become an ally or adversary based on party actions
+3. May become an ally or adversary based on party actions ## DM Notes
 
-## DM Notes
-*This NPC can serve multiple roles depending on campaign needs. Their true loyalties are intentionally ambiguous.*
 
-## Adventure Hooks
-*[Ways to get PCs involved]*
+*This NPC can serve multiple roles depending on campaign needs. Their true loyalties are intentionally ambiguous.* ## Adventure Hooks
 
-### Direct Approach
-- *[Straightforward hook]*
+*[Ways to get PCs involved]* ### Direct Approach
 
-### Indirect Approach
-- *[Subtle introduction]*
+- *[Straightforward hook]* ### Indirect Approach
 
-### Emergency Hook
-- *[Urgent situation]*
+- *[Subtle introduction]* ### Emergency Hook
 
-## Key NPCs
-*[Important characters in this adventure]*
+- *[Urgent situation]* ## Key NPCs
 
-### Allies
-- *[Helpful NPCs]*
+*[Important characters in this adventure]* ### Allies
 
-### Antagonists
-- *[Opposition NPCs]*
+- *[Helpful NPCs]* ### Antagonists
 
-### Neutral Parties
-- *[Information sources]*
+- *[Opposition NPCs]* ### Neutral Parties
 
-## Locations
-*[Important places in this adventure]*
+- *[Information sources]* ## Locations
 
-### Starting Location
-- *[Where adventure begins]*
+*[Important places in this adventure]* ### Starting Location
 
-### Key Sites
-- *[Major locations to visit]*
+- *[Where adventure begins]* ### Key Sites
 
-### Optional Areas
-- *[Side locations]*
+- *[Major locations to visit]* ### Optional Areas
 
-## Rewards
-*[What PCs gain from completing this adventure]*
+- *[Side locations]* ## Rewards
 
-### Experience Points
-- *[XP awards]*
+*[What PCs gain from completing this adventure]* ### Experience Points
 
-### Treasure
-- *[Gold and magic items]*
+- *[XP awards]* ### Treasure
 
-### Story Rewards
-- *[Reputation, allies, information]*
+- *[Gold and magic items]* ### Story Rewards
 
-## Scaling
-*[How to adjust for different party levels]*
+- *[Reputation, allies, information]* ## Scaling
 
-### Lower Level Parties
-- *[Adjustments for weaker groups]*
+*[How to adjust for different party levels]* ### Lower Level Parties
 
-### Higher Level Parties
-- *[Adjustments for stronger groups]*
+- *[Adjustments for weaker groups]* ### Higher Level Parties
 
-### Large/Small Parties
+- *[Adjustments for stronger groups]* ### Large/Small Parties
+
 - *[Adjustments for party size]*
+
+
+## Notes
+
+*Additional notes*
+
+#story/plot
+#story/story
+#story/background
+#world/location
+#world/place
+#character/npc
+#character/character
+#character/person
+#gameplay/adventure
+#gameplay/quest
+#gameplay/mission
+#resource/item
+#resource/equipment
+#resource/treasure
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

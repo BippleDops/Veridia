@@ -182,3 +182,22 @@ Key stop on magic items trade route
 - Strange dreams suggest a portal
 - Someone is hunting an heir for power
 - Strange sightings suggest ancient magic
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

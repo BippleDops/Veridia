@@ -215,3 +215,27 @@ The economy is in crisis due to recent discoveries.
 - An heirloom has gone missing and evil awakens
 - A document has gone missing and war looms
 - A prisoner has gone missing and truth emerges
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

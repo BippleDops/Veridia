@@ -303,3 +303,18 @@ Mentioned in The Second Prophecy of Shadows
 - [[Pearl_Harbor_City (Places)]]
 - [[Port Meridian Harbor]]
 - [[Pearl_Harbor_City (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

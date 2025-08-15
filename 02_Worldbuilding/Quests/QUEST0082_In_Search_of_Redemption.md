@@ -72,3 +72,23 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 
 ---
 *Generated: 2025-08-15T03:21:04.092Z*
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

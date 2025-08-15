@@ -1,18 +1,32 @@
 ---
+
 title: Chamber Purpose Dungeon Temple or Shrine
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Chamber Purpose Dungeon Temple or Shrine"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Chamber Purpose Dungeon Temple or Shrine
+ # Chamber Purpose Dungeon Temple or Shrine ---
 
----
+## Description
+
+Detailed description pending.
 title: Chamber Purpose Dungeon Temple or Shrine
 aliases:
 - Chamber Purpose; Dungeon: Temple or Shrine
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.626410+00:00'
 world: Both
----
 
-# Chamber Purpose; Dungeon: Temple or Shrine
-*Source: Dungeon Master's Guide p. 292* 
+--- # Chamber Purpose; Dungeon: Temple or Shrine
 
-**Dungeon: Temple or Shrine**
-
-`dice: [](chamber-purpose-dungeon-temple-or-shrine.md#^dungeon-temple-or-shrine)`
-
-| dice: d100 | Purpose |
+*Source: Dungeon Master's Guide p. 292* **Dungeon: Temple or Shrine**`dice: [](chamber-purpose-dungeon-temple-or-shrine.md#^dungeon-temple-or-shrine)`| dice: d100 | Purpose |
 |------------|---------|
 | 01-03 | Armory filled with weapons and armor, battle banners, and pents |
 | 04-05 | Audience chamber where priests of the temple receive commoners and low-ranking visitors |
@@ -68,56 +77,27 @@ world: Both
 | 90 | Latrine or bath |
 | 91-94 | Well for drinking water, defendable in the case of attack or siege |
 | 95-00 | Workshop for repairing or creating weapons, religious items, and tools |
-^dungeon-temple-or-shrine
 
-## 🔧 Deep Evaluation Improvements
+^dungeon-temple-or-shrine ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Chamber purpose dungeon temple or shrine is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of chamber purpose dungeon temple or shrine as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chamber purpose dungeon temple or shrine. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Second Prophecy of Shadows ## Plot Hooks - Strange dreams suggest a portal
 
-*20 targeted improvements identified*
+- A noble needs help investigating before winter ## Related Notes - [[Similar Topic 1]]
 
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Chamber purpose dungeon temple or shrine is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of chamber purpose dungeon temple or shrine as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chamber purpose dungeon temple or shrine.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Prophecy Connection
-
-Mentioned in The Second Prophecy of Shadows
-
-## Plot Hooks
-
-- Strange dreams suggest a portal
-- A noble needs help investigating before winter
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#character/monster
+#resource/item
+#meta/reference

@@ -123,3 +123,18 @@ Recent developments have brought new attention to Cultural Centers, creating opp
 - [[Keeper Elara Mindwell]]
 - [[Sylvanheart]]
 - [[The Free Current]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

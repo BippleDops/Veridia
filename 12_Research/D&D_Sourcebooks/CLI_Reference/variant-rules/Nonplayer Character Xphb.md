@@ -1,18 +1,32 @@
 ---
+
 title: Nonplayer Character Xphb
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Nonplayer Character Xphb"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Nonplayer Character Xphb
+ # Nonplayer Character Xphb ---
 
----
+## Description
+
+Detailed description pending.
 title: Nonplayer Character Xphb
 aliases:
 - Nonplayer Character
+
 type: note
 tags:
 - both
@@ -22,59 +36,58 @@ tags:
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:04.565669+00:00'
 world: Both
----
 
-# Nonplayer Character
-*Source: Player's Handbook (2024) p. 371. Available in the SRD and the Free Rules (2024)* 
+--- # Nonplayer Character
 
-A nonplayer character (NPC) is a [[Charm Monster Xphb]] that has a personal name and a distinct personality.
+*Source: Player's Handbook (2024) p. 371. Available in the SRD and the Free Rules (2024)* A nonplayer character (NPC) is a [[Charm Monster Xphb]] that has a personal name and a distinct personality. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Nonplayer character xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of nonplayer character xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around nonplayer character xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. Enriched: true --> ## Related *Links to related content will be added here.* ## Plot Hooks - A shipment has gone missing and chaos spreads
 
-## 🔧 Deep Evaluation Improvements
+- An heirloom has gone missing and chaos spreads ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-*20 targeted improvements identified*
 
-### Connection Improvements
+## Notes
 
-- Add cross-references to related notes
+*Additional notes*
 
-### Enhancement Improvements
+#mechanics/rules
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/npc
+#character/character
+#character/person
+#character/monster
+#meta/reference
 
-- Add 12_Research-specific enhancement
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
 
-## Player-Facing Summary
 
-Nonplayer character xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+## Daily Routine
+- Morning activities
+- Evening habits
 
-## Lore Details
 
-Legends speak of nonplayer character xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around nonplayer character xphb.
+## Possessions
+- Personal items
+- Valuable objects
 
-## DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+## Combat Tactics
+- Preferred strategies
+- Special moves
 
- enriched: true -->
 
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A shipment has gone missing and chaos spreads
-- An heirloom has gone missing and chaos spreads
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## Secrets
+- Hidden knowledge
+- Personal mysteries

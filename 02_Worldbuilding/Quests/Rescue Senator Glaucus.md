@@ -53,3 +53,28 @@ This content can be adapted and expanded based on specific campaign needs.
 
 - [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
 - [[The Maw of Darkness (D&D_Statblocks)]]
+
+
+## Timeline
+- Key events
+- Deadlines
+
+
+## NPCs Involved
+- Quest giver
+- Antagonists
+
+
+## Locations
+- Starting point
+- Key locations
+
+
+## Complications
+- Potential problems
+- Twists
+
+
+## Alternative Solutions
+- Non-combat options
+- Creative approaches

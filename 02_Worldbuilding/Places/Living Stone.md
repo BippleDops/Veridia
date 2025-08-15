@@ -229,3 +229,18 @@ Ongoing situations affecting Living Stone:
 - [[The Foundation Depths]]
 - [[Throne Room - Heart of Palace]]
 - [[The Foundation Depths (D&D_Statblocks)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

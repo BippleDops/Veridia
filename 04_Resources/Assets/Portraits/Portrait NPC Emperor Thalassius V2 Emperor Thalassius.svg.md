@@ -90,3 +90,27 @@ improvements: 20
 - A noble needs help delivering before the new moon
 - Strange dreams suggest a curse
 - The authorities needs help finding before the new moon
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

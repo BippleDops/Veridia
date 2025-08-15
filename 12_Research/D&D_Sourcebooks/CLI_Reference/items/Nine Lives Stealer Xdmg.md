@@ -1,15 +1,28 @@
 ---
+
 title: Nine Lives Stealer Xdmg
 type: item
 tags:
 - item
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["Nine Lives Stealer Xdmg"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# Nine Lives Stealer Xdmg
+ # Nine Lives Stealer Xdmg ---
 
----
+## Description
+
+Detailed description pending.
 title: Nine Lives Stealer Xdmg
 aliases:
 - Nine Lives Stealer
@@ -66,6 +79,7 @@ aliases:
 - Nine Lives Stealer Whip
 - Nine Lives Stealer Wooden Staff
 - Nine Lives Stealer Yklwa
+
 type: note
 tags:
 - both
@@ -76,6 +90,7 @@ tags:
 - content/item
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -84,31 +99,11 @@ cssclasses: json5e-item
 obsidian-u-i-mode: preview
 updated: '2025-08-13T12:34:07.027131+00:00'
 world: Both
----
 
-# Nine Lives Stealer
-*Very rare (requires attunement)*  
-![](/03_Mechanics/CLI/items/img/nine-lives-stealer.webp#right)
+--- # Nine Lives Stealer
 
-You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.
+*Very rare (requires attunement)* ![](/03_Mechanics/CLI/items/img/nine-lives-stealer.webp#right) You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Life Stealing The weapon has`1d8 + 1`charges. When you attack a creature that has fewer than 100 [[hit-points-xphb (variant-rules)]] with this weapon and roll a 20 on the`d20`for the attack roll, the creature must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body. Constructs and Undead succeed on the save automatically. The weapon loses 1 charge if the creature is slain. When the weapon has no charges remaining, it loses this property. **Variants**:
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Life Stealing
-
-The weapon has `1d8 + 1` charges. When you attack a creature that has fewer than 100 [[hit-points-xphb (variant-rules)]] with this weapon and roll a 20 on the `d20` for the attack roll, the creature must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body. Constructs and Undead succeed on the save automatically. The weapon loses 1 charge if the creature is slain. When the weapon has no charges remaining, it loses this property.
-
-**Variants**:
 - [Nine Lives Stealer Antimatter Rifle](#Nine%20Lives%20Stealer%20Antimatter%20Rifle)
 - [Nine Lives Stealer Automatic Rifle](#Nine%20Lives%20Stealer%20Automatic%20Rifle)
 - [Nine Lives Stealer Battleaxe](#Nine%20Lives%20Stealer%20Battleaxe)
@@ -161,55 +156,37 @@ The weapon has `1d8 + 1` charges. When you attack a creature that has fewer than
 - [Nine Lives Stealer Warhammer](#Nine%20Lives%20Stealer%20Warhammer)
 - [Nine Lives Stealer Whip](#Nine%20Lives%20Stealer%20Whip)
 - [Nine Lives Stealer Wooden Staff](#Nine%20Lives%20Stealer%20Wooden%20Staff)
-- [Nine Lives Stealer Yklwa](#Nine%20Lives%20Stealer%20Yklwa)
+- [Nine Lives Stealer Yklwa](#Nine%20Lives%20Stealer%20Yklwa) ### Nine Lives Stealer Yklwa - **Damage**: 1d8 piercing
 
-### Nine Lives Stealer Yklwa
-
-- **Damage**: 1d8 piercing
 - **Range**: 10/30
 - **Properties**: [[item properties#Thrown|Thrown]]
-- **Weight**: 3.0 lbs.
+- **Weight**: 3.0 lbs. *Source: Dungeon Master's Guide (2024) p. 281. Available in the SRD and the Free Rules (2024)* ## Player-Facing Summary Nine lives stealer xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of nine lives stealer xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around nine lives stealer xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A prisoner has gone missing and truth emerges
 
-*Source: Dungeon Master's Guide (2024) p. 281. Available in the SRD and the Free Rules (2024)*
+- A shipment has gone missing and war looms ## Related Notes - [[Similar Topic 1]]
 
-## Player-Facing Summary
-
-Nine lives stealer xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of nine lives stealer xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around nine lives stealer xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A prisoner has gone missing and truth emerges
-- A shipment has gone missing and war looms
-
-## Related Notes
-
-- [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
-- [[Historical Context]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[Master_Item_Catalog]]
 - [[Armaments Very Rare Xdmg]]
 - [[Magic Item Table H]]
 - [[Random Magic Items Armaments]]
 - [[armaments-very-rare-xdmg (tables)]]
 - [[magic-item-table-h (tables)]]
 - [[random-magic-items-armaments (tables)]]
+
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#mechanics/mechanics
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#resource/item
+#meta/reference

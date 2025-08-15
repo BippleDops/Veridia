@@ -1,15 +1,18 @@
 ---
+
 title: elemental
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
----
 
-# elemental
+--- # elemental ---
 
----
+## Description
+
+Detailed description pending.
 title: elemental
 aliases: []
 type: note
@@ -18,68 +21,22 @@ tags:
 - research
 - active
 - note
+
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
-obsidianUIMode: preview
+obsidian UIMode: preview
 cssclasses: json5e-note
 updated: '2025-08-13T01:18:32.735944+00:00'
 world: Both
----
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-air-elemental-myrmidon-mpmm-air-elemental-myrmidon-mpmm.svg)
+--- > [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-air-elemental-myrmidon-mpmm-air-elemental-myrmidon-mpmm.svg) ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Elemental is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of elemental as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elemental. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is blackmailing an heir for money
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-Elemental is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of elemental as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elemental.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- Someone is blackmailing an heir for money
 - A merchant needs help delivering before the new moon
 - Strange sightings suggest a curse
-- Strange accidents suggest a conspiracy
+- Strange accidents suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[LIFE_MANAGEMENT_SYSTEM]]
 
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-## References
-
-- [[LIFE_MANAGEMENT_SYSTEM]]
 - [[ITEM00102_Blazing_Hammer_of_the_Ancients]]
 - [[Master_Item_Catalog]]
 - [[Master_Spell_Compendium]]
@@ -151,3 +108,8 @@ Contextual improvement based on 12_Research
 - [[random-magic-items-arcana (tables)]]
 - [[random-magic-items-relics (tables)]]
 - [[relics-rare-xdmg (tables)]]
+
+
+## Notes
+
+*Additional notes*

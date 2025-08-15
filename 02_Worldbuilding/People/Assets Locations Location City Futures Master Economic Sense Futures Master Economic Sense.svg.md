@@ -231,3 +231,28 @@ Member of House Dragonblood - Trait: prophecy
 
 - [[04_Resources_Assets_Symbols_symbol-heraldry-the-deepwater-trading-consortium-the-deepwater-trading-consortium.svg]]
 - [[04_Resources_Assets_Locations_location-city-dr-reef-brightwater-v1-dr-reef-brightwater.svg]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

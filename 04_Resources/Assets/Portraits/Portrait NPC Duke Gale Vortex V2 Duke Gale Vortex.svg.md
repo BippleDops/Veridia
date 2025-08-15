@@ -98,3 +98,27 @@ Mentioned in The First Prophecy of Shadows
 - Someone is searching for a artifact for revenge
 - Strange disappearances suggest a curse
 - Strange disappearances suggest ancient magic
+
+## Voice & Mannerisms
+- Speaking style
+- Common phrases
+
+
+## Daily Routine
+- Morning activities
+- Evening habits
+
+
+## Possessions
+- Personal items
+- Valuable objects
+
+
+## Combat Tactics
+- Preferred strategies
+- Special moves
+
+
+## Secrets
+- Hidden knowledge
+- Personal mysteries

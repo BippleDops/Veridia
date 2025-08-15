@@ -1,18 +1,32 @@
 ---
+
 title: 750 Gp Art Objects
 type: note
 tags:
 - note
+
 created: '2025-01-15'
 modified: '2025-01-15'
+aliases: ["750 Gp Art Objects"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
 ---
 
-# 750 Gp Art Objects
+ # 750 Gp Art Objects ---
 
----
+## Description
+
+Detailed description pending.
 title: 750 Gp Art Objects
 aliases:
 - 750 gp Art Objects
+
 type: note
 tags:
 - both
@@ -22,23 +36,18 @@ tags:
 - note
 - ttrpg-cli/compendium/src/5e/dmg
 - status/in-progress
+
 created: 2025-07-23 12:39
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
-obsidianUIMode: preview
+obsidian UIMode: preview
 updated: '2025-08-13T12:34:03.370827+00:00'
 world: Both
----
 
-# 750 gp Art Objects
-*Source: Dungeon Master's Guide p. 134* 
+--- # 750 gp Art Objects
 
-**750 gp Art Objects**
-
-`dice: [](750-gp-art-objects.md#^750-gp-art-objects)`
-
-| dice: d10 | Object |
+*Source: Dungeon Master's Guide p. 134* **750 gp Art Objects**`dice: [](750-gp-art-objects.md#^750-gp-art-objects)`| dice: d10 | Object |
 |-----------|--------|
 | 1 | [[silver-chalice-set-with-moonstones-xdmg (items)]] |
 | 2 | [[Bundle of Sheet Music Representing the Lost Dirges of a Famous Composer Xdmg]] |
@@ -50,47 +59,23 @@ world: Both
 | 8 | [[Silver and Gold Brooch Xdmg]] |
 | 9 | [[Obsidian Statuette with Gold Fittings and Inlay Xdmg]] |
 | 10 | [[painted-gold-war-mask-xdmg (items)]] |
-^750-gp-art-objects
 
-## 🔧 Deep Evaluation Improvements
+^750-gp-art-objects ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary 750 gp art objects is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 750 gp art objects as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 750 gp art objects. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A letter reveals a betrayal about the government
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-
-## Player-Facing Summary
-
-750 gp art objects is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of 750 gp art objects as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 750 gp art objects.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-## Plot Hooks
-
-- A letter reveals a betrayal about the government
 - A journal reveals a betrayal about the cult
 - A letter reveals a conspiracy about the cult
-- Someone is protecting an heir for love
+- Someone is protecting an heir for love ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-## 12_Research Specific Content
 
-Contextual improvement based on 12_Research
+## Notes
 
-## 12_Research Specific Content
+*Additional notes*
 
-Contextual improvement based on 12_Research
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/item
+#meta/reference

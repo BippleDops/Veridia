@@ -59,3 +59,28 @@ Recent developments have brought new attention to Location City the Crystal Cath
 
 ## DM Notes
 *Location City the Crystal Cathedral of Pure Light the Crystal Cathedral of Pure Light.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

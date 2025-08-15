@@ -177,3 +177,22 @@ Key stop on spices trade route
 - A document has gone missing and truth emerges
 - A stranger needs help delivering before dawn
 - A shipment has gone missing and evil awakens
+
+## Resources
+- Natural resources
+- Trade goods
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Rumors
+- Local gossip
+- Urban legends
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

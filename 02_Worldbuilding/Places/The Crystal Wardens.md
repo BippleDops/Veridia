@@ -732,3 +732,18 @@ Ongoing situations affecting The Crystal Wardens:
 - [[Crystalhaven (D&D_References)]]
 - [[The Final Choice (D&D_References)]]
 - [[The Final Choice 3 (D&D_References)]]
+
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+
+## Weather
+- Typical conditions
+- Seasonal changes

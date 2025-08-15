@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:43.954280
+modified: 2025-08-15T12:24:43.954282
+aliases: [Quest - Redemption's Price]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary {#primary}|Primary {#primary}]]
+- [[#Notes {#notes}|Notes {#notes}]]
+- [[#Timeline {#timeline}|Timeline {#timeline}]]
+- [[#NPCs Involved {#npcs-involved}|NPCs Involved {#npcs-involved}]]
+- [[#Alternative Solutions {#alternative-solutions}|Alternative Solutions {#alternative-solutions}]]
+- [[#Stakes|Stakes]]
+- [[#Session Prep|Session Prep]]
+
+
 # Quest   Redemption'S Price
 
 > *What starts as simple becomes legendary...* This remarkable element adds depth and intrigue to any campaign.
@@ -51,7 +72,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - Redemption's Price ---
+- Moral dilemmas # Quest - Redemption
+*The air carries the scent of [appropriate smell].*'s Price ---
 
 title: Quest Redemption's Price
 type: Quest

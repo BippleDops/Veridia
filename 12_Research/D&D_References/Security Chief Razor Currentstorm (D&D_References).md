@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Security Chief Razor Currentstorm (D&D_References)
 type: note
@@ -34,7 +35,8 @@ tags:
 - active
 - location
 
-created: '2025-08-11'
+cr
+*The [texture] surface feels [description] to the touch.*eated: '2025-08-11'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos

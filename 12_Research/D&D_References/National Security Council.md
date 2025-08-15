@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: National Security Council
 type: note
@@ -34,7 +35,8 @@ tags:
 - research
 - active
 
-created: '2025-08-11'
+created: '2
+*The [texture] surface feels [description] to the touch.*025-08-11'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos

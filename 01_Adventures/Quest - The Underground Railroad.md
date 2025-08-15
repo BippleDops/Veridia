@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:29.600449
+modified: 2025-08-15T12:25:29.600451
+aliases: [Quest - The Underground Railroad]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Underground Railroad
 
 > *What starts as simple becomes legendary...*
@@ -51,7 +71,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - The Underground Railroad ---
+- Moral dilemmas # Quest - The Underground Railroad 
+*The [texture] surface feels [description] to the touch.*---
 
 title: Quest The Underground Railroad
 type: NPC

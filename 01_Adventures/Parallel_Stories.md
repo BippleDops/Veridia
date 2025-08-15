@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.081595
+modified: 2025-08-15T12:24:55.081600
+aliases: [Parallel Stories]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Visual References|Visual References]]
+
+
+---
 tags: [misc]
 type: misc
 aliases: ["Parallel Stories"]
@@ -64,7 +85,8 @@ publish: false
 Detailed description pending.
 **Elsewhere**: Coup occurs
 **Location**: The Void Rift
-**Key Actors**: Merchant Prince Gold, The Circle of Mages
+**Key Actors**: Merchant Prince Gold
+*The [texture] surface feels [description] to the touch.*, The Circle of Mages
 **Connection to Party**: Direct consequence
 **Party Learns**: Days later via messenger ### Parallel Event_82 **While Party Is**: Traveling
 
@@ -241,3 +263,8 @@ Detailed description pending.
 
 
 *Every story needs its heroes.*
+
+## Visual References
+![[04_Resources/Assets/Maps/World/Continents/world_parallel_realities_places_political.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_parallel_realities_places_gm.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_parallel_realities_places_player.png]]

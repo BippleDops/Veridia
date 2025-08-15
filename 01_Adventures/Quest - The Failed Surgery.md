@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:48.008134
+modified: 2025-08-15T12:25:48.008136
+aliases: [Quest - The Failed Surgery]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - The Failed Surgery
 type: quest
@@ -29,7 +46,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Failed Surgery ---
 
-title: Quest The Failed Surgery
+t
+*Sounds of [relevant sounds] echo in the distance.*itle: Quest The Failed Surgery
 type: Lore
 tags:
 - lore

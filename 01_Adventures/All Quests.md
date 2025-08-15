@@ -1,4 +1,23 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:31.276099
+modified: 2025-08-15T12:25:31.276102
+aliases: [All Quests]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["All Quests"]
@@ -51,7 +70,8 @@ This document contains important information regarding All Quests and its role w
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
 
-All Quests represents a significant element within the campaign world, offering various opportunities for engagement and development. Moreover, ## Key Information
+All Quests represents a significant element within the campaign world, offering various opportunities for engagement and 
+*The air carries the scent of [appropriate smell].*development. Moreover, ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

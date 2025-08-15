@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, obsidianttrpgvault experimental]
+created: 2025-08-15T12:24:29.686293
+modified: 2025-08-15T12:24:29.686294
+aliases: [VAULT 100 PERCENT ACHIEVED]
+---
+
 # Vault 100 Percent Achieved
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -33,7 +41,8 @@ tags:
 status: active
 aliases: ["VAULT 100 PERCENT ACHIEVED"]
 priority: normal
-category: Vault 100 Percent Achieved.Md
+cat
+*The air carries the scent of [appropriate smell].*egory: Vault 100 Percent Achieved.Md
 subcategory: Misc
 related: []
 cssclass: standard
@@ -57,3 +66,8 @@ publish: false --- --------|--------|-------|
 **Key Question**: What role will this play in the greater story?
 
 *Adventure awaits those brave enough to seek it.*
+
+## Visual References
+![[04_Resources/Assets/Maps/World/Continents/world_the_vault_keepers_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_vault_keeper_aurelia_crownguard_vault_keeper_aurelia_crownguard_svg_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_vault_breach_vault_breach_svg_physical.png]]

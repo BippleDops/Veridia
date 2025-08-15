@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Marina Goldtide
 type: note
@@ -34,7 +35,8 @@ tags:
 - active
 - location
 
-created: '2025-08-11'
+created: '2025-08-11
+*Sounds of [relevant sounds] echo in the distance.*'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos

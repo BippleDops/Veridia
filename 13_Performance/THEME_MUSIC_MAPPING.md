@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 13_performance]
+created: 2025-08-15T12:24:41.114974
+modified: 2025-08-15T12:24:41.114975
+aliases: [THEME MUSIC MAPPING]
+---
+
 # Theme Music Mapping
 
 
@@ -26,7 +34,8 @@ type: note
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 - **Style**: underwater ambient
-- **Instruments**: synthesizer, glass harmonica, whale sounds, harp
+- **Instruments**: synthesizer, glass harmonica, whale sounds, har
+*The [texture] surface feels [description] to the touch.*p
 - **Mood**: mysterious, deep, flowing
 - **Tempo**: slow to medium
 - **Key**: minor keys, especially D minor and A minor ### Aethermoor - **Style**: ethereal fantasy

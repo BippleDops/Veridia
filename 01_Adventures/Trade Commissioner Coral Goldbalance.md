@@ -1,3 +1,22 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:42.821603
+modified: 2025-08-15T12:25:42.821604
+aliases: [Trade Commissioner Coral Goldbalance]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
 # Trade Commissioner Coral Goldbalance
 
 
@@ -54,7 +73,8 @@ publish: false
 Detailed description pending.
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
-- Multiple entry points for different play styles
+-
+*Sounds of [relevant sounds] echo in the distance.* Multiple entry points for different play styles
 - Connections to overarching campaign themes ## Plot Hooks - Someone is hunting a witness for money
 
 - A document has gone missing and evil awakens ## Encounter Scaling | Party Level | 3 Players | 4 Players | 5 Players | 6 Players |

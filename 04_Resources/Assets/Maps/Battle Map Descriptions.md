@@ -1395,3 +1395,55 @@ modified: '2025-01-15'
 ```json
 []
 ```
+\n\n## Aethermoor map prompts (2025-08-15T17:20:10Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-15T17:22:03Z)\n
+```json
+[]
+```
+\n\n## Aethermoor map prompts (2025-08-15T17:25:10Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-15T17:26:03Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-15T17:30:03Z)\n
+```json
+[]
+```
+\n\n## Aethermoor map prompts (2025-08-15T17:30:10Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-15T17:34:04Z)\n
+```json
+[]
+```
+\n\n## Aethermoor map prompts (2025-08-15T17:35:11Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-15T17:38:04Z)\n
+```json
+[]
+```
+\n\n## Aethermoor map prompts (2025-08-15T17:40:11Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-15T17:42:04Z)\n
+```json
+[]
+```
+\n\n## Aethermoor map prompts (2025-08-15T17:45:11Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-15T17:46:04Z)\n
+```json
+[]
+```

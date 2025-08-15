@@ -1,4 +1,22 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:51.015886
+modified: 2025-08-15T12:25:51.015887
+aliases: [Quest - The Deepmind Weapon]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - The Deepmind Weapon
 type: quest
@@ -29,7 +47,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-deepmind-weapon-quest-the-deepmind-weapon.svg) # Quest - The Deepmind Weapon ---
+![](04_Resources
+*Sounds of [relevant sounds] echo in the distance.*/Assets/Portraits/portrait-npc-quest-the-deepmind-weapon-quest-the-deepmind-weapon.svg) # Quest - The Deepmind Weapon ---
 
 title: Quest The Deepmind Weapon
 type: NPC

@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:40.948518
+modified: 2025-08-15T12:24:40.948522
+aliases: [Session 8 - The Deep Mother's Call]
+---
+
 # Session 8   The Deep Mother'S Call
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -23,7 +31,8 @@ improvements: 20
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes ## Secret Connections * [Hidden from players]* Connected to The Hidden Covenant - Control trade routes ## Plot Hooks - A document has gone missing and chaos spreads - A map reveals the truth about this place
+- Connections 
+*The [texture] surface feels [description] to the touch.*to overarching campaign themes ## Secret Connections * [Hidden from players]* Connected to The Hidden Covenant - Control trade routes ## Plot Hooks - A document has gone missing and chaos spreads - A map reveals the truth about this place
 - A map reveals a betrayal about this place
 - A corpse reveals a conspiracy about a local noble ## Cultural Practices ### Greetings - Touch foreheads for equals
 - Bow deeply to superiors

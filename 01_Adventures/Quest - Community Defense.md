@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:31.260305
+modified: 2025-08-15T12:25:31.260309
+aliases: [Quest - Community Defense]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Community Defense"]
@@ -59,7 +79,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Community Defense ---
 
-title: Quest Community Defense
+ti
+*The [texture] surface feels [description] to the touch.*tle: Quest Community Defense
 type: Lore
 tags:
 - lore

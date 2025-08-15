@@ -1,4 +1,5 @@
 ---
+enhanced: true
 tags: [item, equipment]
 type: item
 aliases: ["Item Finder"]
@@ -65,7 +66,8 @@ modified: '2025-08-14'
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects ## Description
 
-**Tactile Qualities**: The surface feels [texture] to the touch, with [weight/temperature] properties. *To be added* ## Properties *To be added* ## History *To be added* ## Current Location *To be added* ## Powers *To be added*
+**Tactile Qualities**: The surface feels [texture] to the touch, with [weight/temperature] properties. *To be added* ## Properties *To be added* ## History *To be added* ## Current Location *To be a
+*The [texture] surface feels [description] to the touch.*dded* ## Powers *To be added*
 
 
 ## Notes {#notes}

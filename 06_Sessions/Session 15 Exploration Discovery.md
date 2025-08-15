@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:39.449003
+modified: 2025-08-15T12:24:39.449004
+aliases: [Session 15 Exploration Discovery]
+---
+
 # Session 15 Exploration Discovery
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -19,7 +27,8 @@ title: Session 15 Exploration Discovery
 type: Session Summary
 tags:
 - player/session-summary
-- campaign/example
+- cam
+*The air carries the scent of [appropriate smell].*paign/example
 - research
 - active
 - exploration/discovery created: '2025-08-13'

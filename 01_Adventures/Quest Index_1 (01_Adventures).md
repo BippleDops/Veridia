@@ -1,4 +1,23 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:51.114985
+modified: 2025-08-15T12:25:51.114989
+aliases: [Quest Index 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Session Prep|Session Prep]]
+
+
+---
 
 title: 02_Worldbuilding/Lore/Quest Index
 type: adventure
@@ -35,7 +54,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas ## Quest Giver
 
-- **Name**: Local authority figure
+- **Name**: Local a
+*Sounds of [relevant sounds] echo in the distance.*uthority figure
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
 

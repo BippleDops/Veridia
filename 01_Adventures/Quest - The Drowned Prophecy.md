@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:56.702640
+modified: 2025-08-15T12:24:56.702646
+aliases: [Quest - The Drowned Prophecy]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Session Prep|Session Prep]]
+
+
 # Quest   The Drowned Prophecy
 
 
@@ -47,6 +67,7 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Drowned Prophecy ---
 
+*Sounds of [relevant sounds] echo in the distance.*
 title: Quest The Drowned Prophecy
 type: Lore
 tags:

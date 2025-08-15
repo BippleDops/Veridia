@@ -1,4 +1,5 @@
 ---
+enhanced: true
 tags: [misc]
 type: misc
 aliases: ["Relationship Web"]
@@ -45,7 +46,8 @@ tags:
 - index
 - active
 
-created: 2025-08-14
+created: 2025-
+*The [texture] surface feels [description] to the touch.*08-14
 modified: '2025-08-14'
 updated: 2025-08-14
 cssclass: relationship-web
@@ -121,3 +123,8 @@ WHERE quests-given != OR contains(tags, "quest-giver") ---
 **Key Question**: What role will this play in the greater story?
 
 *What happens next is up to you.*
+
+## Visual References
+![[04_Resources/Assets/Portraits/NPCs/portrait_character_relationship_web_core_npcs.png]]
+![[04_Resources/Assets/Portraits/NPCs/portrait_character_faction_relationship_matrix.png]]
+![[04_Resources/Assets/Portraits/NPCs/portrait_npc_relationship_system.png]]

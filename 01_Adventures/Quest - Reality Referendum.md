@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:43.950868
+modified: 2025-08-15T12:24:43.950870
+aliases: [Quest - Reality Referendum]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary {#primary}|Primary {#primary}]]
+- [[#Notes {#notes}|Notes {#notes}]]
+- [[#Timeline {#timeline}|Timeline {#timeline}]]
+- [[#NPCs Involved {#npcs-involved}|NPCs Involved {#npcs-involved}]]
+- [[#Alternative Solutions {#alternative-solutions}|Alternative Solutions {#alternative-solutions}]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   Reality Referendum
 
 > *Time is running out...* This remarkable element adds depth and intrigue to any campaign.
@@ -51,7 +71,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - Reality Referendum ---
+- Moral dilemmas # Quest - Reality Re
+*The air carries the scent of [appropriate smell].*ferendum ---
 
 title: Quest Reality Referendum
 type: Lore

@@ -1,4 +1,22 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:50.977104
+modified: 2025-08-15T12:25:50.977107
+aliases: [Quest - Budget Crisis]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Session Prep|Session Prep]]
+
+
+---
 
 title: Quest - Budget Crisis
 type: quest
@@ -29,7 +47,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Budget Crisis ---
 
-title: Quest Budget Crisis
+title:
+*The [texture] surface feels [description] to the touch.* Quest Budget Crisis
 type: Lore
 tags:
 - lore

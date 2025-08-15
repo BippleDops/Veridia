@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:44.696775
+modified: 2025-08-15T12:24:44.696779
+aliases: [Quest - Hearts and Minds 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary {#primary}|Primary {#primary}]]
+- [[#Notes {#notes}|Notes {#notes}]]
+- [[#Timeline {#timeline}|Timeline {#timeline}]]
+- [[#NPCs Involved {#npcs-involved}|NPCs Involved {#npcs-involved}]]
+- [[#Alternative Solutions {#alternative-solutions}|Alternative Solutions {#alternative-solutions}]]
+- [[#Stakes|Stakes]]
+- [[#Session Prep|Session Prep]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Hearts and Minds 1 (01 Adventures)"]
@@ -62,7 +83,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas ## Quest Giver
 
-- **Name**: Local authority figure
+- **
+*Sounds of [relevant sounds] echo in the distance.*Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
 

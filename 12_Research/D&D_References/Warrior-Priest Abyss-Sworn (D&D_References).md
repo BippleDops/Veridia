@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Warrior-Priest Abyss-Sworn (D&D_References)
 type: note
@@ -34,7 +35,8 @@ tags:
 - research
 
 created: '2025-08-11'
-modified: '2025-08-14'
+
+*The air carries the scent of [appropriate smell].*modified: '2025-08-14'
 status: active
 world: Aquabyssos
 updated: '2025-08-13T01:18:36.871309+00:00'

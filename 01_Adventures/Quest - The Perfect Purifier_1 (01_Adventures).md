@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.996435
+modified: 2025-08-15T12:25:47.996436
+aliases: [Quest - The Perfect Purifier 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest The Perfect Purifier
 type: Npc
@@ -52,7 +69,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas > [!figure] Portrait # Quest - The Perfect Purifier **Level:** 7-10 | **Type:** Heist/Investigation | **Duration:** 3-5 sessions ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### History Improvements - Add three historical eras with major events ### Culture Improvements - Define unique cultural practices and taboos ### Economy Improvements - Detail currency, trade goods, and wealth distribution ### Religion Improvements - Create detailed religious observances ### Lifestyle Improvements - Describe typical day for different social classes ### Material_Culture Improvements - Detail common objects and their cultural significance ### Oral_Tradition Improvements - Add folk tales and children's stories ### Evolution Improvements - Show how traditions are changing with new generation ### Superstitions Improvements - List common superstitions and their origins ### Hospitality Improvements - Explain guest rights and host obligations ### Death_Customs Improvements - Detail funeral rites and afterlife beliefs ### Diaspora Improvements - Describe how this culture exists in other regions ### Coming_Of_Age Improvements - Describe rites of passage and adulthood markers ### Contradictions Improvements - Include cultural hypocrisies and double standards ## Quest Overview
+- Moral dilemmas > [!figure] Portrait # Quest - The 
+*The air carries the scent of [appropriate smell].*Perfect Purifier **Level:** 7-10 | **Type:** Heist/Investigation | **Duration:** 3-5 sessions ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### History Improvements - Add three historical eras with major events ### Culture Improvements - Define unique cultural practices and taboos ### Economy Improvements - Detail currency, trade goods, and wealth distribution ### Religion Improvements - Create detailed religious observances ### Lifestyle Improvements - Describe typical day for different social classes ### Material_Culture Improvements - Detail common objects and their cultural significance ### Oral_Tradition Improvements - Add folk tales and children's stories ### Evolution Improvements - Show how traditions are changing with new generation ### Superstitions Improvements - List common superstitions and their origins ### Hospitality Improvements - Explain guest rights and host obligations ### Death_Customs Improvements - Detail funeral rites and afterlife beliefs ### Diaspora Improvements - Describe how this culture exists in other regions ### Coming_Of_Age Improvements - Describe rites of passage and adulthood markers ### Contradictions Improvements - Include cultural hypocrisies and double standards ## Quest Overview
 
 Alchemist Master Theron Crystalline claims to have developed the Perfect Purifier - a device capable of cleansing any corruption, including the Crystal Plague. However, his laboratory was ransacked and the device stolen by unknown agents. The race is on to recover this potentially world-saving invention before it falls into the wrong hands. ## Quest Giver
 

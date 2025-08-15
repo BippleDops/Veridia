@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:37.157961
+modified: 2025-08-15T12:24:37.157962
+aliases: [Session 23 - The Seven Become One]
+---
+
 # Session 23   The Seven Become One
 
 
@@ -27,7 +35,8 @@ improvements: 20
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes ## Secret Connections * [Hidden from players]* Connected to The Hidden Alliance - Manipulate succession ## Cultural Practices ### Greetings - Touch foreheads for equals
+- Connections 
+*The [texture] surface feels [description] to the touch.*to overarching campaign themes ## Secret Connections * [Hidden from players]* Connected to The Hidden Alliance - Manipulate succession ## Cultural Practices ### Greetings - Touch foreheads for equals
 - Bow deeply to superiors
 - Never shake with left hand ### Taboos - Speaking during sunset prayer
 - Wearing red on holy days

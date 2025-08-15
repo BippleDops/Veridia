@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:30.479938
+modified: 2025-08-15T12:25:30.479940
+aliases: [Quest - The Throne Succession]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Throne Succession
 
 > *Time is running out...*
@@ -53,7 +73,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-throne-succession-quest-the-throne-succession.svg) # Quest - The Throne Succession ---
+![](04_Resources
+*The [texture] surface feels [description] to the touch.*/Assets/Portraits/portrait-npc-quest-the-throne-succession-quest-the-throne-succession.svg) # Quest - The Throne Succession ---
 
 title: Quest The Throne Succession
 type: NPC

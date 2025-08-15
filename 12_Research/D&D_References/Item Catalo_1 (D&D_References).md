@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Item Catalo_1 (D&D_References)
 type: item
@@ -18,7 +19,7 @@ publish: false
 
 ---
 
- # Item_Catalo ---
+ # [[Item_Catalog_Complete (Indexes)|Item_Catalo]] ---
 
 ## Description
 
@@ -31,7 +32,8 @@ tags:
 - lore
 - both
 - active
-- research
+- res
+*The [texture] surface feels [description] to the touch.*earch
 
 created: '2025-08-11'
 modified: '2025-08-14'
@@ -52,3 +54,21 @@ world: Both
 #world/setting
 #resource/item
 #meta/reference
+
+## Related Content
+*Enhanced with 1 new connections*
+
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

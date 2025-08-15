@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.075913
+modified: 2025-08-15T12:25:47.075917
+aliases: [Campaign Center]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Visual References|Visual References]]
+
+
+---
 tags: [misc]
 type: misc
 aliases: ["Campaign Center"]
@@ -61,7 +81,8 @@ tags:
 - active
 - campaign
 
-created: 2025-08-14
+created:
+*The air carries the scent of [appropriate smell].* 2025-08-14
 modified: '2025-08-14'
 updated: 2025-08-14
 cssclass: campaign-center
@@ -202,3 +223,9 @@ WHERE campaign != SORT visits DESC ---
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/_cross_campaign_organizations.png]]
+![[04_Resources/Assets/Generated/Misc/parliament_of_shadows_campaign.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_cross_campaign_locations_player.png]]

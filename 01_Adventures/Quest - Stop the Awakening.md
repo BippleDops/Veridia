@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:37.976366
+modified: 2025-08-15T12:25:37.976368
+aliases: [Quest - Stop the Awakening]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   Stop The Awakening
 
 > *Time is running out...*
@@ -53,7 +73,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Stop the Awakening ---
 
-title: Quest Stop the Awakening
+t
+*Sounds of [relevant sounds] echo in the distance.*itle: Quest Stop the Awakening
 type: Lore
 tags:
 - lore

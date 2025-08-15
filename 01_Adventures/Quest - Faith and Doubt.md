@@ -1,4 +1,23 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:42.749680
+modified: 2025-08-15T12:25:42.749682
+aliases: [Quest - Faith and Doubt]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Faith and Doubt"]
@@ -57,7 +76,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-faith-and-doubt-quest-faith-and-doubt.svg) # Quest - Faith and Doubt ---
+![](04_Resources
+*The [texture] surface feels [description] to the touch.*/Assets/Portraits/portrait-npc-quest-faith-and-doubt-quest-faith-and-doubt.svg) # Quest - Faith and Doubt ---
 
 title: Quest Faith and Doubt
 type: NPC

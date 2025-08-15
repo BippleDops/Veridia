@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Sunken Palace of Tides (D&D_References)
 type: note
@@ -33,7 +34,8 @@ tags:
 - location
 - research
 
-created: '2025-08-11'
+created: '2025-0
+*The air carries the scent of [appropriate smell].*8-11'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos

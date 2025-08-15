@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.937541
+modified: 2025-08-15T12:25:47.937545
+aliases: [Quest - The Corruption Investigation]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - The Corruption Investigation
 type: quest
@@ -27,7 +44,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - The Corruption Investigation ---
+- Moral dilemmas # Quest - The Corruption Investigat
+*The [texture] surface feels [description] to the touch.*ion ---
 
 title: Quest The Corruption Investigation
 type: Lore

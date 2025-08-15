@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T12:24:41.131420
+modified: 2025-08-15T12:24:41.131421
+aliases: [Quick Start Guide.md]
+---
+
 # Quick Start Guide.Md
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -16,7 +24,8 @@ improvements: 20
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
-- Multiple entry points for different play styles
+- Multip
+*The air carries the scent of [appropriate smell].*le entry points for different play styles
 - Connections to overarching campaign themes ## Plot Hooks - Someone is searching for a artifact for money - A shipment has gone missing and war looms
 - Someone is hunting a artifact for power
 - Someone is hunting an heir for love ## See Also - Related content
@@ -51,3 +60,8 @@ publish: false --- -|--------|
 
 
 *What happens next is up to you.*
+
+## Visual References
+![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-v1-quick-reference-overlay.png]]
+![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-v2-quick-reference-overlay.png]]
+![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-quick-reference-overlay.png]]

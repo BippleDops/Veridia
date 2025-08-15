@@ -1,4 +1,23 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:51.098066
+modified: 2025-08-15T12:25:51.098071
+aliases: [Campaign Setup]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Session Prep|Session Prep]]
+- [[#Visual References|Visual References]]
+
+
+---
 
 title: Campaign_Setup
 type: quest
@@ -32,7 +51,8 @@ tags:
 - active
 
 created: '2025-08-14'
-modified: '2025-08-14'
+modif
+*The air carries the scent of [appropriate smell].*ied: '2025-08-14'
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 09_Templates-specific enhancement ## Initial Setup
 
@@ -138,3 +158,9 @@ modified: '2025-08-14'
 - **Key NPCs**: Important characters for this content
 - **Props Needed**: Physical or digital aids to enhance play
 - **Estimated Time**: How long this typically takes to run
+
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/_cross_campaign_organizations.png]]
+![[04_Resources/Assets/Generated/Misc/parliament_of_shadows_campaign.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_cross_campaign_locations_player.png]]

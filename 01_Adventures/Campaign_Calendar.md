@@ -1,4 +1,22 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:50.936334
+modified: 2025-08-15T12:25:50.936338
+aliases: [Campaign Calendar]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Visual References|Visual References]]
+
+
+---
 
 title: Campaign_Calendar
 type: quest
@@ -33,7 +51,8 @@ tags:
 - active
 - research
 
-created: '2025-08-11'
+created: '2025
+*The [texture] surface feels [description] to the touch.*-08-11'
 modified: '2025-08-14'
 status: active
 world: Both
@@ -134,3 +153,9 @@ updated: '2025-08-13T01:18:35.794169+00:00'
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/_cross_campaign_organizations.png]]
+![[04_Resources/Assets/Generated/Misc/parliament_of_shadows_campaign.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_cross_campaign_locations_player.png]]

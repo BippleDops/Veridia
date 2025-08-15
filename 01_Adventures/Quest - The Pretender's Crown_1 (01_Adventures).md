@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:54.987805
+modified: 2025-08-15T12:24:54.987811
+aliases: [Quest - The Pretender's Crown 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Pretender'S Crown 1 (01 Adventures)
 
 
@@ -59,7 +79,8 @@ type: Lore
 tags:
 - lore
 - aerial
-- intrigue
+- intri
+*The [texture] surface feels [description] to the touch.*gue
 - investigation
 - political
 - worldbuilding

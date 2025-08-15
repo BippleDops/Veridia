@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.970117
+modified: 2025-08-15T12:24:55.970120
+aliases: [Quest - The Pretender]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Pretender
 
 > *The fate of many hangs in the balance...*
@@ -53,7 +73,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-pretender-quest-the-pretender.svg) # Quest - The Pretender ---
+![](04_Resources
+*The air carries the scent of [appropriate smell].*/Assets/Portraits/portrait-npc-quest-the-pretender-quest-the-pretender.svg) # Quest - The Pretender ---
 
 title: Quest The Pretender
 type: npc

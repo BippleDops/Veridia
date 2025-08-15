@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T12:24:41.156506
+modified: 2025-08-15T12:24:41.156507
+aliases: [World Primer.md]
+---
+
 # World Primer.Md
 
 
@@ -27,7 +35,8 @@ improvements: 20
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
-- Multiple entry points for different play styles
+- Multip
+*The air carries the scent of [appropriate smell].*le entry points for different play styles
 - Connections to overarching campaign themes ## Plot Hooks - A shipment has gone missing and war looms - Someone is hunting a artifact for love
 - A document has gone missing and evil awakens
 - A map reveals the truth about the cult ## See Also - Related content
@@ -48,3 +57,8 @@ improvements: 20
 **Key Question**: What role will this play in the greater story?
 
 *Adventure awaits those brave enough to seek it.*
+
+## Visual References
+![[04_Resources/Assets/Maps/world-map.png]]
+![[04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_respiratory_engineering_guild.png]]
+![[04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_cultural_organization_md.png]]

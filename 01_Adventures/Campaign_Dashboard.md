@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:38.042181
+modified: 2025-08-15T12:25:38.042187
+aliases: [Campaign Dashboard]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [misc]
 type: misc
 aliases: ["Campaign Dashboard"]
@@ -30,7 +51,7 @@ Comprehensive overview of this content.
 
 ---
 
-title: Campaign_Dashboard
+title: [[[[[[Campaign_Dashboard|Campaign_Dashboard]]|Campaign_Dashboard]]|Campaign_Dashboard]]
 type: quest
 tags:
 - quest
@@ -60,7 +81,8 @@ title: Campaign Dashboard - Aquabyssos & Aethermoor
 type: [[Lore|Lore]]
 tags:
 - dashboard
-- master-control
+-
+*The air carries the scent of [appropriate smell].* master-control
 - tracking
 - content/lore
 - world/both
@@ -305,3 +327,12 @@ const days Since Update = (Date.now() - last Update) / (1000 * 60 * 60 * 24); if
 
 
 **Key Question**: Will the heroes rise to the challenge?
+
+## Related Content
+*Enhanced with 3 new connections*
+
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/_cross_campaign_organizations.png]]
+![[04_Resources/Assets/Generated/Misc/parliament_of_shadows_campaign.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_cross_campaign_locations_player.png]]

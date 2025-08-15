@@ -1,4 +1,22 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:48.010871
+modified: 2025-08-15T12:25:48.010876
+aliases: [Quest - The Harbor War]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Session Prep|Session Prep]]
+
+
+---
 
 title: Quest - The Harbor War
 type: quest
@@ -29,7 +47,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Locations/location-city-quest-the-harbor-war-quest-the-harbor-war.svg) # Quest - The Harbor War ---
+![](04_Resources
+*The [texture] surface feels [description] to the touch.*/Assets/Locations/location-city-quest-the-harbor-war-quest-the-harbor-war.svg) # Quest - The Harbor War ---
 
 title: Quest The Harbor War
 type: Location

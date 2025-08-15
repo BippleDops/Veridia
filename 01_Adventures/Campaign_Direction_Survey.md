@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:47.691500
+modified: 2025-08-15T12:24:47.691501
+aliases: [Campaign Direction Survey]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [misc]
 type: misc
 aliases: ["Campaign Direction Survey"]
@@ -62,7 +83,8 @@ title: Campaign Direction Survey
 type: Feedback Form
 tags:
 - player-resource
-- player/feedback
+- player/feedb
+*The air carries the scent of [appropriate smell].*ack
 - active
 - story/planning
 - campaign/direction
@@ -241,3 +263,8 @@ ___ World Exploration & Discovery Which storyline would you most like to see res
 
 
 *The adventure continues...*
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/_cross_campaign_organizations.png]]
+![[04_Resources/Assets/Generated/Misc/parliament_of_shadows_campaign.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_cross_campaign_locations_player.png]]

@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, obsidianttrpgvault experimental]
+created: 2025-08-15T12:24:30.320145
+modified: 2025-08-15T12:24:30.320155
+aliases: [VAULT ORGANIZATION STATUS]
+---
+
 # Vault Organization Status
 
 
@@ -21,7 +29,8 @@ modified: '2025-01-15'
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 - **Backup Directories Archived**: 3 (moved to 08_Archive/Vault_Backups)
-- **Broken Links Fixed**: 1,501
+- **Broken Links Fixed**:
+*The [texture] surface feels [description] to the touch.* 1,501
 - **Files Reorganized**: 176
 - **Session files moved to 06_Sessions**: All stray [[Session Notes|Session Notes]]
 - **Templates consolidated in 09_Templates**: All template files ### Current Structure```Obsidian TTRPGVault Experimental/ ├── 00_Indexes/ # Navigation and documentation ├── [[01_Adventures|01_Adventures]]/ # Campaigns and adventures │ ├── Convergence_Crisis_Scenarios/
@@ -110,7 +119,7 @@ publish: false --- ----------|-----------|---------|
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects ## [[Conditions|Conditions]] Reference (PHB p.290-292) ### Common Conditions {#[[conditions|conditions]]-reference-(phb-p.290-292)-###-common-conditions} - **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
+- **Hidden Details**: Secret aspects ## [[Conditions|Conditions]] Reference (ACX p.290-292) ### Common Conditions {#[[conditions|conditions]]-reference-(phb-p.290-292)-###-common-conditions} - **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
 - **Charmed**: Can't attack charmer, charmer has advantage on social checks
 - **Deafened**: Can't hear, auto-fail hearing checks
 - **Frightened**: Disadvantage while source in sight, can't move closer
@@ -122,7 +131,7 @@ publish: false --- ----------|-----------|---------|
 - **Prone**: Disadvantage on attacks, melee against has advantage
 - **Restrained**: Speed 0, disadvantage on attacks/DEX saves
 - **Stunned**: Incapacitated, can't move, can barely speak
-- **Unconscious**: Incapacitated, prone, drops everything ### Exhaustion (PHB p.291) 1. Disadvantage on ability checks
+- **Unconscious**: Incapacitated, prone, drops everything ### Exhaustion (ACX p.291) 1. Disadvantage on ability checks
 2. Speed halved
 3. Disadvantage on attacks and saves
 4. HP maximum halved
@@ -157,3 +166,8 @@ publish: false --- ----------|-----------|---------|
 
 ## Thematic Elements
 This content explores themes of identity, adding narrative depth to your campaign.
+
+## Visual References
+![[04_Resources/Assets/Maps/World/Continents/world_the_vault_keepers_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_vault_keeper_aurelia_crownguard_vault_keeper_aurelia_crownguard_svg_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_vault_breach_vault_breach_svg_physical.png]]

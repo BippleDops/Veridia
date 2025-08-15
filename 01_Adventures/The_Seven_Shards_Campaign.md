@@ -1,4 +1,23 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:51.038767
+modified: 2025-08-15T12:25:51.038769
+aliases: [The Seven Shards Campaign]
+---
+
+## Table of Contents
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Session Prep|Session Prep]]
+- [[#Visual References|Visual References]]
+
+
+---
 
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -30,7 +49,8 @@ This document contains important information regarding The_Seven_Shards_Campaign
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
 
-The_Seven_Shards_Campaign represents a significant element within the campaign world, offering various opportunities for engagement and development. Subsequently, ## Key Information
+The_Seven_Shards_Campaign represents a significant element within the campaign world, offering various opportunities for 
+*The [texture] surface feels [description] to the touch.*engagement and development. Subsequently, ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
@@ -145,3 +165,9 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - **Key NPCs**: Important characters for this content
 - **Props Needed**: Physical or digital aids to enhance play
 - **Estimated Time**: How long this typically takes to run
+
+
+## Visual References
+![[04_Resources/Assets/Maps/World/Continents/world_the_seven_shards_mystery_gm.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_the_seven_founding_houses_political.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_the_seven_shards_mystery_v1_the_seven_shards_mystery_svg_political.png]]

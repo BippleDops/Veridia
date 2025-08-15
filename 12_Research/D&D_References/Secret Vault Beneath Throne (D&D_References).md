@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Secret Vault Beneath Throne (D&D_References)
 type: note
@@ -24,7 +25,8 @@ This document contains important information regarding Secret Vault Beneath Thro
 
 **Details**: Rich sensory elements bring this to life.
 
-Secret Vault Beneath Throne represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+Secret Vault Beneath Throne represents a significant element within the campaign world, offering various opportunities for engagement and deve
+*The air carries the scent of [appropriate smell].*lopment. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
@@ -71,3 +73,17 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 #story/background
 #world/world
 #meta/reference
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

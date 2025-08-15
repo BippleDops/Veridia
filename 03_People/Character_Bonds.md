@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:41.543910
+modified: 2025-08-15T12:24:41.543913
+aliases: [Character Bonds]
+---
+
 # Character Bonds
 
 > *Not all allies are what they seem...* This remarkable element adds depth and intrigue to any campaign.
@@ -22,7 +30,8 @@ related: []
 cssclass: standard
 publish: false --- # Character_Bonds ## Portrait![[Character_Bonds|Character Bonds]] *Portrait reference for Character_Bonds* ## Overview ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. Character_Bonds is a notable figure in the realm, known for their unique skills and complex motivations. Meanwhile, ## Appearance - **Age**: Middle-aged
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. Character_Bonds is a notable figure in the realm, know
+*The [texture] surface feels [description] to the touch.*n for their unique skills and complex motivations. Meanwhile, ## Appearance - **Age**: Middle-aged
 - **Build**: Average height, lean build
 - **Distinguishing Features**: Keen eyes that miss nothing
 - **Typical Attire**: Practical clothing suited for their profession ## Personality - **Traits**: Observant, calculating, pragmatic
@@ -78,3 +87,8 @@ publish: false --- # Character_Bonds ## Portrait![[Character_Bonds|Character Bon
 
 
 *What happens next is up to you.*
+
+## Visual References
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-v1-character-sheet-layout.png]]
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-character-sheet-layout.png]]
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-v2-character-sheet-layout.png]]

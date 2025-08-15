@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 00_indexes]
+created: 2025-08-15T12:24:43.940365
+modified: 2025-08-15T12:24:43.940371
+aliases: [Master Quest Index]
+---
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary Campaign Arc {#primary-campaign-arc}|Primary Campaign Arc {#primary-campaign-arc}]]
+- [[#Character Development {#character-development}|Character Development {#character-development}]]
+- [[#Notes {#notes}|Notes {#notes}]]
+- [[#Timeline {#timeline}|Timeline {#timeline}]]
+- [[#NPCs Involved {#npcs-involved}|NPCs Involved {#npcs-involved}]]
+- [[#Locations {#locations}|Locations {#locations}]]
+- [[#Alternative Solutions {#alternative-solutions}|Alternative Solutions {#alternative-solutions}]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Master Quest Index"]
@@ -44,7 +65,8 @@ Detailed description pending.
 
 ### Primary Campaign Arc {#primary-campaign-arc}
 
-- *[Major story quests]* ### Regional Questlines
+- *[Major story quests]* 
+*The [texture] surface feels [description] to the touch.*### Regional Questlines
 
 - *[Area-specific quest chains]* ## Side Quests
 
@@ -134,3 +156,8 @@ Detailed description pending.
 **Key Question**: Will the heroes rise to the challenge?
 
 *What happens next is up to you.*
+
+## Visual References
+![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
+![[04_Resources/Assets/Locations/location-city-surge-mixmaster-v1-surge-mixmaster.png]]
+![[04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]

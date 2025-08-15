@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:50.968086
+modified: 2025-08-15T12:25:50.968089
+aliases: [Quest - Identity Crisis]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - Identity Crisis
 type: quest
@@ -29,7 +46,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Identity Crisis ---
 
-title: Quest Identity Crisis
+titl
+*The air carries the scent of [appropriate smell].*e: Quest Identity Crisis
 type: Lore
 tags:
 - lore

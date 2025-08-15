@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:41.388562
+modified: 2025-08-15T12:24:41.388564
+aliases: [NPC Generator]
+---
+
 # Npc Generator
 
 > *Every scar tells a story...* This remarkable element adds depth and intrigue to any campaign.
@@ -24,7 +32,8 @@ tags:
 modified: '2025-01-15'
 - -- # NPC_Generator ## Portrait![[Npc|Npc]] * Portrait reference for NPC_Generator* ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. * [Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. * [Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Ke
+*The [texture] surface feels [description] to the touch.*y character traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -76,3 +85,8 @@ updated: '2025-08-13T01:18:35.191831+00:00'
 **Key Question**: What drives this character's actions?
 
 *What happens next is up to you.*
+
+## Visual References
+![[04_Resources/Assets/Portraits/NPCs/portrait_random_npc_generator.png]]
+![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_random_npc_generator_standard.png]]
+![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_random_npc_generator_dramatic.png]]

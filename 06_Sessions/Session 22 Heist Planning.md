@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:39.338560
+modified: 2025-08-15T12:24:39.338563
+aliases: [Session 22 Heist Planning]
+---
+
 # Session 22 Heist Planning
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -29,7 +37,8 @@ title: Session 22 Heist Planning
 type: Session Summary
 tags:
 - player/session-summary
-- campaign/example
+- campaign/e
+*The air carries the scent of [appropriate smell].*xample
 - research
 - active
 - heist/planning created: '2025-08-13'

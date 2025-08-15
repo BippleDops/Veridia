@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:39.381622
+modified: 2025-08-15T12:24:39.381623
+aliases: [Session 4 (06 Sessions)]
+---
+
 # Session 4 (06 Sessions)
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -33,7 +41,8 @@ tags:
 - research
 - active
 - complete
-- category/people created: '2025-08-11'
+- category/peop
+*The air carries the scent of [appropriate smell].*le created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
 updated: '2025-08-13T01:18:36.971535+00:00'

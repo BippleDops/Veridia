@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.951032
+modified: 2025-08-15T12:24:55.951033
+aliases: [Joint Council Emergency Session]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [misc]
 type: misc
 aliases: ["Joint Council Emergency Session"]
@@ -51,7 +71,8 @@ This document contains important information regarding Joint Council Emergency S
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
 
-Joint Council Emergency Session represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+Joint Council Emergency Session represents a significant element within the campaign world, offering various opportunitie
+*The air carries the scent of [appropriate smell].*s for engagement and development. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

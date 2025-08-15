@@ -1,4 +1,22 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:50.999665
+modified: 2025-08-15T12:25:50.999668
+aliases: [Quest - Stop the Awakening 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Session Prep|Session Prep]]
+
+
+---
 
 title: Quest Stop the Awakening
 type: Lore
@@ -42,7 +60,8 @@ Detailed description pending.
 
 - **Name**: Local authority figure
 - **Location**: Town center
-- **Motivation**: Community safety ## Objectives
+- **Motivation**: Community safet
+*The [texture] surface feels [description] to the touch.*y ## Objectives
 
 ### Primary
 

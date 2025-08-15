@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Captain Rodrigo Ironanchor (D&D_References)
 type: note
@@ -33,7 +34,8 @@ tags:
 - naval-force
 - faction
 - research
-- active
+- ac
+*Sounds of [relevant sounds] echo in the distance.*tive
 - complete
 - mercenary
 - aethermoor

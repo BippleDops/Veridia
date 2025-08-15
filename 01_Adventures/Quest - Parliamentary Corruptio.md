@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:44.771590
+modified: 2025-08-15T12:24:44.771591
+aliases: [Quest - Parliamentary Corruptio]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   Parliamentary Corruptio
 
 > *The fate of many hangs in the balance...* This remarkable element adds depth and intrigue to any campaign.
@@ -51,7 +71,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - Parliamentary Corruptio ---
+- Moral dilemmas # Quest - Parliamentary Corruptio -
+*The [texture] surface feels [description] to the touch.*--
 
 title: Quest Parliamentary Corruptio
 type: Group

@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:51.029593
+modified: 2025-08-15T12:25:51.029595
+aliases: [Quest - Budget Crisis 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest Budget Crisis
 type: Lore
@@ -42,7 +59,8 @@ Detailed description pending.
 
 - **Name**: Local authority figure
 - **Location**: Town center
-- **Motivation**: Community safety ## Objectives
+- **Motivation**: Community safet
+*The [texture] surface feels [description] to the touch.*y ## Objectives
 
 ### Primary
 

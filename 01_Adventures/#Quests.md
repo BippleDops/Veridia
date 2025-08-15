@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -30,7 +31,8 @@ publish: false
 This document contains important information regarding #Quests and its role within the greater narrative. ## Description
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
-#Quests represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+#Quests represents a significant element within the campaign world, offering various opportunities for engagement and deve
+*The air carries the scent of [appropriate smell].*lopment. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

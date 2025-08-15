@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Reference Quick Reference Dnd5e DM Screen 2014
 type: note
@@ -32,7 +33,8 @@ aliases:
 type: Lore
 tags:
 - lore
-- both
+- bot
+*Sounds of [relevant sounds] echo in the distance.*h
 - note
 - dm-screen
 - content/lore
@@ -66,3 +68,17 @@ world: Both
 #world/world
 #world/setting
 #meta/reference
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

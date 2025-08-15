@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.034442
+modified: 2025-08-15T12:24:55.034447
+aliases: [Quest - The Pure Strike]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Pure Strike
 
 > *The fate of many hangs in the balance...* This remarkable element adds depth and intrigue to any campaign.
@@ -53,7 +73,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Pure Strike ---
 
-title: Quest The Pure Strike
+titl
+*The air carries the scent of [appropriate smell].*e: Quest The Pure Strike
 type: Lore
 tags:
 - lore

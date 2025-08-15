@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.894080
+modified: 2025-08-15T12:24:55.894081
+aliases: [Quest Two Minds One Body]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest Two Minds One Body
 
 > *Time is running out...*
@@ -53,7 +73,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest Two Minds One Body ---
 
-title: Quest Two Minds One Body
+tit
+*Sounds of [relevant sounds] echo in the distance.*le: Quest Two Minds One Body
 type: Lore
 tags:
 - lore

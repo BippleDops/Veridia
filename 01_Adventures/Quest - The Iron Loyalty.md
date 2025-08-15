@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:44.737828
+modified: 2025-08-15T12:24:44.737829
+aliases: [Quest - The Iron Loyalty]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Iron Loyalty
 
 > *Time is running out...* This remarkable element adds depth and intrigue to any campaign.
@@ -53,7 +73,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Iron Loyalty ---
 
-title: Quest The Iron Loyalty
+tit
+*The [texture] surface feels [description] to the touch.*le: Quest The Iron Loyalty
 type: Lore
 tags:
 - lore

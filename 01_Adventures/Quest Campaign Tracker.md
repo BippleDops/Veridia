@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:48.036694
+modified: 2025-08-15T12:25:48.036697
+aliases: [Quest Campaign Tracker]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest Campaign Tracker
 type: quest
@@ -29,7 +46,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest Campaign Tracker ---
 
-title: Quest Campaign Tracker
+title
+*The air carries the scent of [appropriate smell].*: Quest Campaign Tracker
 type: Lore
 tags:
 - lore

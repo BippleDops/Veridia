@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:49.205629
+modified: 2025-08-15T12:24:49.205630
+aliases: [Quest - Civil Rights Campaign]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Civil Rights Campaign"]
@@ -58,6 +79,7 @@ Detailed description pending.
 - Unexpected obstacles
 - Time pressure
 - Moral dilemmas # Quest - Civil Rights Campaign ---
+*The air carries the scent of [appropriate smell].*
 
 title: Quest Civil Rights Campaign
 type: Lore

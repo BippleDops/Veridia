@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: DM_Advice_Articles
 type: note
@@ -34,7 +35,8 @@ tags:
 - active
 - reference
 
-created: 2025-08-14
+created: 
+*The [texture] surface feels [description] to the touch.*2025-08-14
 modified: '2025-08-14'
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Reddit Communities
@@ -70,3 +72,17 @@ modified: '2025-08-14'
 #story/plot
 #story/story
 #meta/reference
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

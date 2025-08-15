@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:41.506855
+modified: 2025-08-15T12:24:41.506860
+aliases: [NPC Relationship Tracker]
+---
+
 # Npc Relationship Tracker
 
 > *A figure whose reputation precedes them...* This remarkable element adds depth and intrigue to any campaign.
@@ -21,7 +29,8 @@ related: []
 cssclass: standard
 publish: false --- # NPC_Relationship_Tracker ## Portrait![[Npc|Npc]] *Portrait reference for NPC_Relationship_Tracker* ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key
+*Sounds of [relevant sounds] echo in the distance.* character traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -119,3 +128,8 @@ world: Both --- ### Key NPCs - Aquabyssos```👑 GOVERNMENT OFFICIALS ┌──�
 **Key Question**: What drives this character's actions?
 
 *Adventure awaits those brave enough to seek it.*
+
+## Visual References
+![[04_Resources/Assets/Portraits/NPCs/portrait_character_relationship_web_core_npcs.png]]
+![[04_Resources/Assets/Portraits/NPCs/portrait_character_faction_relationship_matrix.png]]
+![[04_Resources/Assets/Portraits/NPCs/portrait_npc_relationship_system.png]]

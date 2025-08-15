@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:35.293130
+modified: 2025-08-15T12:25:35.293133
+aliases: [Quest - The Deepest Current]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Deepest Current
 
 > *What starts as simple becomes legendary...*
@@ -53,7 +73,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-deepest-current-quest-the-deepest-current.svg) # Quest - The Deepest Current ---
+![](04_Resources
+*Sounds of [relevant sounds] echo in the distance.*/Assets/Portraits/portrait-npc-quest-the-deepest-current-quest-the-deepest-current.svg) # Quest - The Deepest Current ---
 
 title: Quest The Deepest Current
 type: NPC

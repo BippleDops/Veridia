@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Aquabyssos Ambassadors
 type: note
@@ -32,7 +33,8 @@ title: Aquabyssos Ambassadors
 type: Lore
 tags:
 - lore
-- aquabyssos
+
+*The [texture] surface feels [description] to the touch.*- aquabyssos
 - diplomatic-corps
 - completed
 - diplomacy

@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:54.984686
+modified: 2025-08-15T12:25:54.984690
+aliases: [Quest - The Corruption Cure]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - The Corruption Cure
 type: quest
@@ -29,7 +46,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-corruption-cure-quest-the-corruption-cure.svg) # Quest - The Corruption Cure ---
+![](04_Resources
+*The air carries the scent of [appropriate smell].*/Assets/Portraits/portrait-npc-quest-the-corruption-cure-quest-the-corruption-cure.svg) # Quest - The Corruption Cure ---
 
 title: Quest The Corruption Cure
 type: NPC

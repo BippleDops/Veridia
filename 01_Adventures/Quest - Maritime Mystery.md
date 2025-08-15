@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:49.182144
+modified: 2025-08-15T12:24:49.182147
+aliases: [Quest - Maritime Mystery]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Maritime Mystery"]
@@ -59,7 +80,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Maritime Mystery ---
 
-title: Quest Maritime Mystery
+tit
+*The [texture] surface feels [description] to the touch.*le: Quest Maritime Mystery
 type: Lore
 tags:
 - lore

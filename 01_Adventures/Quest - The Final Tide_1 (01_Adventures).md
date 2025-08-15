@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.983946
+modified: 2025-08-15T12:25:47.983948
+aliases: [Quest - The Final Tide 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest The Final Tide
 type: Lore
@@ -41,7 +58,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas ## Quest Giver
 
-- **Name**: Local authority figure
+- **Name**: Local a
+*The air carries the scent of [appropriate smell].*uthority figure
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
 

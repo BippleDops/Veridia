@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:51.041460
+modified: 2025-08-15T12:25:51.041461
+aliases: [Quest - Crystal Innovation]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - Crystal Innovation
 type: quest
@@ -29,7 +46,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-crystal-innovation-quest-crystal-innovation.svg) # Quest - Crystal Innovation ## Quest Giver
+![](04_Resources
+*The [texture] surface feels [description] to the touch.*/Assets/Portraits/portrait-npc-quest-crystal-innovation-quest-crystal-innovation.svg) # Quest - Crystal Innovation ## Quest Giver
 
 - **Name**: Local authority figure
 - **Location**: Town center

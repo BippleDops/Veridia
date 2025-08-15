@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.769308
+modified: 2025-08-15T12:24:55.769309
+aliases: [Quest - The Shadow Wa]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Shadow Wa
 
 > *What starts as simple becomes legendary...*
@@ -53,7 +73,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Shadow Wa ---
 
-title: Quest The Shadow Wa
+title:
+*The air carries the scent of [appropriate smell].* Quest The Shadow Wa
 type: Group
 tags:
 - both

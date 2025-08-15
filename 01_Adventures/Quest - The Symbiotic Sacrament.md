@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.875563
+modified: 2025-08-15T12:24:55.875565
+aliases: [Quest - The Symbiotic Sacrament]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+
+
 # Quest   The Symbiotic Sacrament
 
 > *What starts as simple becomes legendary...*
@@ -54,7 +75,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-symbiotic-sacrament-quest-the-symbiotic-sacrament.svg) # Quest - The Symbiotic Sacrament ---
+![](04_Resources
+*The [texture] surface feels [description] to the touch.*/Assets/Portraits/portrait-npc-quest-the-symbiotic-sacrament-quest-the-symbiotic-sacrament.svg) # Quest - The Symbiotic Sacrament ---
 
 title: Quest The Symbiotic Sacrament
 type: NPC

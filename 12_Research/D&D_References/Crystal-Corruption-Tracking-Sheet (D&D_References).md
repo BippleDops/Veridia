@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Crystal-Corruption-Tracking-Sheet (D&D_References)
 type: note
@@ -31,7 +32,8 @@ tags:
 - lore
 - technology
 - corruption-detection
-- innovation
+- innovatio
+*The [texture] surface feels [description] to the touch.*n
 - data-analysis
 - monitoring-device
 - crystal-corruption

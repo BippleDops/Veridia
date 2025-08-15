@@ -1,4 +1,5 @@
 ---
+enhanced: true
 tags: [misc]
 type: misc
 aliases: ["LIFE MANAGEMENT SYSTEM"]
@@ -44,7 +45,8 @@ publish: false
 
 Detailed description pending.
 - Daily tasks → Daily rituals and routines in settlements
-- Weekly tasks → Weekly market days and guild meetings
+- Weekly tasks → Weekly market days and
+*The [texture] surface feels [description] to the touch.* guild meetings
 - Monthly tasks → Monthly festivals and inspections
 - Quarterly tasks → Seasonal changes and events
 - Yearly tasks → Annual celebrations and renewals ### Parallel Systems Your real-world maintenance mirrors campaign world systems:
@@ -158,3 +160,8 @@ Detailed description pending.
 
 
 *Adventure awaits those brave enough to seek it.*
+
+## Visual References
+![[04_Resources/Assets/Locations/location-city-bio-tech-supervisor-reef-lifeweaver-v1-bio-tech-supervisor-reef-lifeweaver.png]]
+![[04_Resources/Assets/Locations/location-city-bio-tech-supervisor-reef-lifeweaver-bio-tech-supervisor-reef-lifeweaver.png]]
+![[04_Resources/Assets/Generated/Misc/02_worldbuilding_organizations_the_life_eternal.png]]

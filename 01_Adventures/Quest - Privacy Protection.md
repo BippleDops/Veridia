@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:29.541174
+modified: 2025-08-15T12:25:29.541180
+aliases: [Quest - Privacy Protection]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   Privacy Protection
 
 > *Time is running out...*
@@ -53,7 +73,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Privacy Protection ---
 
-title: Quest Privacy Protection
+t
+*Sounds of [relevant sounds] echo in the distance.*itle: Quest Privacy Protection
 type: Lore
 tags:
 - lore

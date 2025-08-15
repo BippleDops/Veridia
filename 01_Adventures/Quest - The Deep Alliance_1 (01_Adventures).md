@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:43.992446
+modified: 2025-08-15T12:24:43.992452
+aliases: [Quest - The Deep Alliance 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description {#description}|Description {#description}]]
+- [[#Primary {#primary}|Primary {#primary}]]
+- [[#Notes {#notes}|Notes {#notes}]]
+- [[#Timeline {#timeline}|Timeline {#timeline}]]
+- [[#NPCs Involved {#npcs-involved}|NPCs Involved {#npcs-involved}]]
+- [[#Alternative Solutions {#alternative-solutions}|Alternative Solutions {#alternative-solutions}]]
+- [[#Stakes|Stakes]]
+- [[#Thematic Elements|Thematic Elements]]
+
+
 # Quest   The Deep Alliance 1 (01 Adventures)
 
 
@@ -71,7 +92,8 @@ Detailed description pending.
 
 - **Name**: Local authority figure
 - **Location**: Town center
-- **Motivation**: Community safety > [!figure] Portrait ## Objectives
+- **Motivation**: 
+*The air carries the scent of [appropriate smell].*Community safety > [!figure] Portrait ## Objectives
 
 
 ### Primary {#primary}

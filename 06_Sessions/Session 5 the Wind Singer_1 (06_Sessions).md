@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:40.898751
+modified: 2025-08-15T12:24:40.898759
+aliases: [Session 5 the Wind Singer 1 (06 Sessions)]
+---
+
 # Session 5 The Wind Singer 1 (06 Sessions)
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -32,7 +40,8 @@ tags:
 - spiritual-journey
 - research
 - active
-- winds-of-rebellion
+- winds-of-
+*The [texture] surface feels [description] to the touch.*rebellion
 - aethermoor created: '2025-08-11'
 modified: '2025-08-14'
 status: active

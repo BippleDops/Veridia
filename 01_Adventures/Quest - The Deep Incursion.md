@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:29.614775
+modified: 2025-08-15T12:25:29.614776
+aliases: [Quest - The Deep Incursion]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Deep Incursion
 
 > *Time is running out...*
@@ -53,7 +74,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Deep Incursion ---
 
-title: Quest The Deep Incursion
+t
+*Sounds of [relevant sounds] echo in the distance.*itle: Quest The Deep Incursion
 type: NPC
 tags:
 - both

@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Ultimate_GM_Screen
 type: note
@@ -33,7 +34,8 @@ tags:
 - active
 - gm_resource
 - universal
-- gm_screen
+- gm_
+*The air carries the scent of [appropriate smell].*screen
 
 created: modified: '2025-08-14'
 status: complete
@@ -57,3 +59,23 @@ updated: '2025-08-13T01:18:31.114962+00:00'
 #world/world
 #world/setting
 #meta/reference
+
+## Visual References
+![[04_Resources/Assets/Digital/ui-ui-inventory-management-screen-inventory-management-screen.png]]
+![[04_Resources/Assets/Digital/ui-ui-inventory-management-screen-v2-inventory-management-screen.png]]
+![[04_Resources/Assets/Digital/ui-ui-inventory-management-screen-v1-inventory-management-screen.png]]
+
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

@@ -1,4 +1,23 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:39.032652
+modified: 2025-08-15T12:25:39.032655
+aliases: [Next Session]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Session Prep|Session Prep]]
+
+
+---
 tags: [misc]
 type: misc
 aliases: ["Next Session"]
@@ -49,7 +68,8 @@ This document contains important information regarding Next Session and its role
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
 
-Next Session represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+Next Session represents a significant element within the campaign world, offering various opportunities for engagement an
+*The [texture] surface feels [description] to the touch.*d development. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

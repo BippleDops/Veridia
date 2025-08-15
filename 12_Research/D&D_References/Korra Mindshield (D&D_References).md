@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Korra Mindshield (D&D_References)
 type: note
@@ -34,7 +35,8 @@ tags:
 - research
 
 created: '2025-08-11'
-modified: '2025-08-14'
+modifi
+*The air carries the scent of [appropriate smell].*ed: '2025-08-14'
 status: active
 world: Both
 updated: '2025-08-13T01:18:36.510683+00:00'
@@ -56,3 +58,17 @@ danger_level: Moderate
 #world/world
 #world/setting
 #meta/reference
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

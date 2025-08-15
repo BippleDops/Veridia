@@ -1,3 +1,22 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:39.052501
+modified: 2025-08-15T12:25:39.052504
+aliases: [Quest - The Great Integration]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
 # Quest   The Great Integration
 
 
@@ -50,6 +69,7 @@ Detailed description pending.
 - Unexpected obstacles
 - Time pressure
 - Moral dilemmas # Quest - The Great Integration ---
+*Sounds of [relevant sounds] echo in the distance.*
 
 title: Quest The Great Integration
 type: Lore

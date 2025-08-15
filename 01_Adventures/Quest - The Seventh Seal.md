@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:31.243131
+modified: 2025-08-15T12:25:31.243138
+aliases: [Quest - The Seventh Seal]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Session Prep|Session Prep]]
+
+
 # Quest   The Seventh Seal
 
 > *Time is running out...*
@@ -44,7 +64,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Seventh Seal ---
 
-title: Quest The Seventh Seal
+tit
+*Sounds of [relevant sounds] echo in the distance.*le: Quest The Seventh Seal
 type: Lore
 tags:
 - lore

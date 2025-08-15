@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.818779
+modified: 2025-08-15T12:24:55.818783
+aliases: [Quest - The Seven Seals]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Seven Seals
 
 > *The fate of many hangs in the balance...*
@@ -53,7 +74,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Seven Seals ---
 
-title: Quest The Seven Seals
+titl
+*The [texture] surface feels [description] to the touch.*e: Quest The Seven Seals
 type: Lore
 tags:
 - lore

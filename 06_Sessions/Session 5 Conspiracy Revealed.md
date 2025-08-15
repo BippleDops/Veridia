@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:39.373935
+modified: 2025-08-15T12:24:39.373936
+aliases: [Session 5 Conspiracy Revealed]
+---
+
 # Session 5 Conspiracy Revealed
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -19,6 +27,7 @@ title: 'The Sunken Conspiracy - Session 5: Conspiracy Revealed'
 type: Adventure
 tags:
 - aquabyssos
+*The [texture] surface feels [description] to the touch.*
 - adventure
 - status/complete
 - campaign/session
@@ -299,7 +308,7 @@ world: Aquabyssos
 - Ancient memory coral therapy showing 85% success rate
 - Support group networks helping with emotional recovery
 - Legal precedent established protecting modification victims
-- International cooperation on preventing future incidents RECOMMENDATIONS:
+- International cooperation on preventing future incidents RECOBCENDATIONS:
 - Expand program to search for additional victims
 - Establish permanent research center for memory modification
 - Create legal framework for supporting recovery process

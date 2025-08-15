@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: The Blight Druids (D&D_References)
 type: note
@@ -35,7 +36,8 @@ tags:
 - aethermoor
 
 created: '2025-08-11'
-modified: '2025-08-14'
+m
+*The [texture] surface feels [description] to the touch.*odified: '2025-08-14'
 status: active
 world: Aethermoor
 updated: '2025-08-13T01:18:35.656767+00:00'
@@ -59,3 +61,17 @@ updated: '2025-08-13T01:18:35.656767+00:00'
 #world/setting
 #character/npc
 #meta/reference
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

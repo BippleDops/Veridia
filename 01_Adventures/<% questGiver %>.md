@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.940135
+modified: 2025-08-15T12:25:47.940136
+aliases: [<% questGiver %>]
+---
+
+## Table of Contents
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -31,7 +48,8 @@ This document contains important information regarding <% quest Giver %> and its
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
 
-<% quest Giver %> represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+<% quest Giver %> represents a significant element within the campaign world, offering various opportunities for engageme
+*Sounds of [relevant sounds] echo in the distance.*nt and development. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

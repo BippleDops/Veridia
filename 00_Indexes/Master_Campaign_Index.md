@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 00_indexes]
+created: 2025-08-15T12:24:43.947499
+modified: 2025-08-15T12:24:43.947504
+aliases: [Master Campaign Index]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Core Systems **Environmental**: {#core-systems-**environmental**:}|Core Systems **Environmental**: {#core-systems-**environmental**:}]]
+- [[#Aethermoor Campaign WHERE contains(file.name, "Aethermoor") {#aethermoor-campaign-where-contains(file.name,-"aethermoor")}|Aethermoor Campaign WHERE contains(file.name, "Aethermoor") {#aethermoor-campaign-where-contains(file.name,-"aethermoor")}]]
+- [[#Find by Status file.link AC "File", type AC "Type", file.folder AC "Location" {#find-by-status-file.link-ac-"file",-type-ac-"type",-file.folder-ac-"location"}|Find by Status file.link AC "File", type AC "Type", file.folder AC "Location" {#find-by-status-file.link-ac-"file",-type-ac-"type",-file.folder-ac-"location"}]]
+- [[#Recently Modified file.mtime AC "Modified", status AC "Status" {#recently-modified-file.mtime-ac-"modified",-status-ac-"status"}|Recently Modified file.mtime AC "Modified", status AC "Status" {#recently-modified-file.mtime-ac-"modified",-status-ac-"status"}]]
+- [[#Most Connected length(file.inlinks) AC "Incoming Links", length(file.outlinks) AC "Outgoing Links" {#most-connected-length(file.inlinks)-ac-"incoming-links",-length(file.outlinks)-ac-"outgoing-links"}|Most Connected length(file.inlinks) AC "Incoming Links", length(file.outlinks) AC "Outgoing Links" {#most-connected-length(file.inlinks)-ac-"incoming-links",-length(file.outlinks)-ac-"outgoing-links"}]]
+- [[#Priority Completion Areas 1. **Quests**: 86% complete ✅ {#priority-completion-areas-1.-**quests**:-86%-complete-✅}|Priority Completion Areas 1. **Quests**: 86% complete ✅ {#priority-completion-areas-1.-**quests**:-86%-complete-✅}]]
+- [[#Update Procedures 1. Run completion status check {#update-procedures-1.-run-completion-status-check}|Update Procedures 1. Run completion status check {#update-procedures-1.-run-completion-status-check}]]
+- [[#Session Prep 1. Check [[Session Log|Session Log]] for last session {#session-prep-1.-check-[[session-log|session-log]]-for-last-session}|Session Prep 1. Check [[Session Log|Session Log]] for last session {#session-prep-1.-check-[[session-log|session-log]]-for-last-session}]]
+- [[#Notes {#notes}|Notes {#notes}]]
+
+
+---
 
 title: Master_Campaign_Index
 type: note
@@ -40,7 +61,8 @@ tags:
 - aerial
 - session-notes
 - index
-- master-control
+- mas
+*Sounds of [relevant sounds] echo in the distance.*ter-control
 - status/complete
 - aquatic
 - quest
@@ -260,3 +282,8 @@ updated: 2025-08-13T07:59:50.321845
 **Balance Note**: Adjust creature numbers based on party size and level.
 
 *The dice will decide the fate.*
+
+## Visual References
+![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
+![[04_Resources/Assets/Locations/location-city-surge-mixmaster-v1-surge-mixmaster.png]]
+![[04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]

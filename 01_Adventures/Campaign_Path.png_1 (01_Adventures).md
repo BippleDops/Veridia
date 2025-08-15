@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.833077
+modified: 2025-08-15T12:24:55.833082
+aliases: [Campaign Path.png 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Visual References|Visual References]]
+
+
+---
 tags: [misc]
 type: misc
 aliases: ["Campaign Path.png 1 (01 Adventures)"]
@@ -67,7 +88,8 @@ publish: false
 Detailed description pending.
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
-- Multiple entry points for different play styles
+-
+*The air carries the scent of [appropriate smell].* Multiple entry points for different play styles
 - Connections to overarching campaign themes ## Plot Hooks - Someone is searching for an heir for love
 
 - A prisoner has gone missing and chaos spreads
@@ -172,3 +194,8 @@ Detailed description pending.
 
 
 **Balance Note**: Adjust creature numbers based on party size and level.
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/_cross_campaign_organizations.png]]
+![[04_Resources/Assets/Generated/Misc/parliament_of_shadows_campaign.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_cross_campaign_locations_player.png]]

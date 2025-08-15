@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:37.093628
+modified: 2025-08-15T12:24:37.093632
+aliases: [Session Notes]
+---
+
 # Session Notes
 
 
@@ -27,7 +35,8 @@ improvements: 20
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes ## Plot Hooks - A letter reveals the truth about the cult - Strange disappearances suggest a curse
+- Connections 
+*The air carries the scent of [appropriate smell].*to overarching campaign themes ## Plot Hooks - A letter reveals the truth about the cult - Strange disappearances suggest a curse
 - A prisoner has gone missing and chaos spreads ## Cultural Practices ### Greetings - Touch foreheads for equals
 - Bow deeply to superiors
 - Never shake with left hand ### Taboos - Speaking during sunset prayer

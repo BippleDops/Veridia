@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:51.024196
+modified: 2025-08-15T12:25:51.024198
+aliases: [Quest Giver]
+---
+
+## Table of Contents
+- [[#Primary|Primary]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -46,7 +63,8 @@ This document contains important information regarding Quest Giver and its role 
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
 
-Quest Giver represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+Quest Giver represents a significant element within the campaign world, offering various opportunities for engagement and
+*The air carries the scent of [appropriate smell].* development. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

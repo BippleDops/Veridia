@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:44.729381
+modified: 2025-08-15T12:24:44.729383
+aliases: [Quest - The Shadow Conspiracy Investigatio]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Shadow Conspiracy Investigatio
 
 > *Time is running out...* This remarkable element adds depth and intrigue to any campaign.
@@ -51,7 +72,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - The Shadow Conspiracy Investigatio ---
+- Moral dilemmas # Quest - The Shadow Conspiracy Inv
+*The air carries the scent of [appropriate smell].*estigatio ---
 
 title: Quest The Shadow Conspiracy Investigatio
 type: Group

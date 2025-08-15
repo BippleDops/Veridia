@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:56.717312
+modified: 2025-08-15T12:24:56.717316
+aliases: [DM Notes]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [misc]
 type: misc
 aliases: ["DM Notes"]
@@ -65,7 +85,8 @@ tags:
 - campaign
 
 created: '2025-08-14'
-modified: '2025-08-14'
+modified: '
+*Sounds of [relevant sounds] echo in the distance.*2025-08-14'
 
 --- # DM Notes *Secret information* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards
 

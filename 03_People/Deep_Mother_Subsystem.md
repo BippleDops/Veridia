@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:41.163245
+modified: 2025-08-15T12:24:41.163247
+aliases: [Deep Mother Subsystem]
+---
+
 # Deep Mother Subsystem
 
 
@@ -16,7 +24,8 @@ type: npc
 **Complexity**: Moderate
 **Purpose**: Enhance gameplay in specific situations ## Description
 
-**Details**: Rich sensory elements bring this to life. Deep_Mother_Subsystem provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ## Core Mechanics ### Basic Resolution The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
+**Details**: Rich sensory elements bring this to life. Deep_Mother_Subsystem provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This s
+*The air carries the scent of [appropriate smell].*ystem integrates with existing D&D 5e rules while adding meaningful choices and consequences. ## Core Mechanics ### Basic Resolution The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
 2. **Setup**: Establish parameters and stakes
 3. **Action**: Players create choices using the system
 4. **Resolution**: Determine outcomes based on rolls and decisions
@@ -158,3 +167,8 @@ publish: false --- -|--------|
 **Key Question**: What role will this play in the greater story?
 
 *The adventure continues...*
+
+## Visual References
+![[04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-v2-deep-mother-s-tentacles-rising.png]]
+![[04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-deep-mother-s-tentacles-rising.png]]
+![[04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-v1-deep-mother-s-tentacles-rising.png]]

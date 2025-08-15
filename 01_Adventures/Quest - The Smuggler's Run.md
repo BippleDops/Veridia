@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:44.689085
+modified: 2025-08-15T12:24:44.689089
+aliases: [Quest - The Smuggler's Run]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary {#primary}|Primary {#primary}]]
+- [[#Notes {#notes}|Notes {#notes}]]
+- [[#Timeline {#timeline}|Timeline {#timeline}]]
+- [[#NPCs Involved {#npcs-involved}|NPCs Involved {#npcs-involved}]]
+- [[#Alternative Solutions {#alternative-solutions}|Alternative Solutions {#alternative-solutions}]]
+- [[#Stakes|Stakes]]
+- [[#Session Prep|Session Prep]]
+
+
 # Quest   The Smuggler'S Run
 
 > *What starts as simple becomes legendary...* This remarkable element adds depth and intrigue to any campaign.
@@ -51,7 +72,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - The Smuggler's Run ---
+- Moral dilemmas # Quest - The Smuggl
+*The air carries the scent of [appropriate smell].*er's Run ---
 
 title: Quest The Smuggler's Run
 type: Lore

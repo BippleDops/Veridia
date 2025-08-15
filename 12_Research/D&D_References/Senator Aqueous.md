@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Senator Aqueous
 type: note
@@ -35,7 +36,8 @@ tags:
 - active
 
 created: '2025-08-11'
-modified: '2025-08-14'
+mod
+*The [texture] surface feels [description] to the touch.*ified: '2025-08-14'
 status: active
 world: Aquabyssos
 updated: '2025-08-13T01:18:34.542849+00:00'

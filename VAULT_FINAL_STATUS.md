@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, obsidianttrpgvault experimental]
+created: 2025-08-15T12:24:29.692572
+modified: 2025-08-15T12:24:29.692573
+aliases: [VAULT FINAL STATUS]
+---
+
 # Vault Final Status
 
 
@@ -32,7 +40,8 @@ modified: '2024-08-14'
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 1. **Complete Interconnection**: Every element connects logically
-2. **Deep Simulation**: Economic, political, social systems
+2. **Deep Simulation**: Economic
+*The air carries the scent of [appropriate smell].*, political, social systems
 3. **Infinite Scalability**: Framework for endless expansion
 4. **Multi-Campaign Ready**: Supports multiple simultaneous games
 5. **Player & DM Friendly**: Useful for all participants ## 📈 Enhancement Phases Completed 1. **Phase 1**: Initial 10,000 enhancements ✅ 2. **Phase 2**: Additional 50,000 enhancements ✅
@@ -65,7 +74,7 @@ modified: '2024-08-14'
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## Player Tips > 🎮 **Strategy**: How to approach this content > Work together and communicate
 
-## [[Conditions|Conditions]] Reference (PHB p.290-292) ### Common Conditions {#[[conditions|conditions]]-reference-(phb-p.290-292)-###-common-conditions} - **Blinded**: Can't see, auto-fail sight checks, [[Disadvantage|disadvantage]] on attacks
+## [[Conditions|Conditions]] Reference (ACX p.290-292) ### Common Conditions {#[[conditions|conditions]]-reference-(phb-p.290-292)-###-common-conditions} - **Blinded**: Can't see, auto-fail sight checks, [[Disadvantage|disadvantage]] on attacks
 - **Charmed**: Can't attack charmer, charmer has advantage on social checks
 - **Deafened**: Can't hear, auto-fail hearing checks
 - **Frightened**: Disadvantage while source in sight, can't move closer
@@ -77,7 +86,7 @@ modified: '2024-08-14'
 - **Prone**: Disadvantage on attacks, melee against has advantage
 - **Restrained**: Speed 0, disadvantage on attacks/DEX saves
 - **Stunned**: Incapacitated, can't move, can barely speak
-- **Unconscious**: Incapacitated, prone, drops everything ### [[Exhaustion|Exhaustion]] (PHB p.291) 1. Disadvantage on ability checks
+- **Unconscious**: Incapacitated, prone, drops everything ### [[Exhaustion|Exhaustion]] (ACX p.291) 1. Disadvantage on ability checks
 2. Speed halved
 3. Disadvantage on attacks and saves
 4. HP maximum halved
@@ -103,3 +112,8 @@ modified: '2024-08-14'
 **Key Question**: What role will this play in the greater story?
 
 *Every story needs its heroes.*
+
+## Visual References
+![[04_Resources/Assets/Maps/World/Continents/world_the_vault_keepers_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_vault_keeper_aurelia_crownguard_vault_keeper_aurelia_crownguard_svg_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_vault_breach_vault_breach_svg_physical.png]]

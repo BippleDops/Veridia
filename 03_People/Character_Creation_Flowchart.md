@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:43.075639
+modified: 2025-08-15T12:24:43.075641
+aliases: [Character Creation Flowchart]
+---
+
 # Character Creation Flowchart
 
 > *Not all allies are what they seem...* This remarkable element adds depth and intrigue to any campaign.
@@ -21,7 +29,8 @@ related: []
 cssclass: standard
 publish: false --- # Character_Creation_Flowchart ## Portrait![[Character_Creation_Flowchart|Character Creation Flowchart]] *Portrait reference for Character_Creation_Flowchart* ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key
+*Sounds of [relevant sounds] echo in the distance.* character traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -96,3 +105,8 @@ world: Both --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements i
 
 
 *Adventure awaits those brave enough to seek it.*
+
+## Visual References
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-v1-character-sheet-layout.png]]
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-character-sheet-layout.png]]
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-v2-character-sheet-layout.png]]

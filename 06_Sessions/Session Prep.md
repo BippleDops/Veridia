@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:37.107165
+modified: 2025-08-15T12:24:37.107167
+aliases: [Session Prep]
+---
+
 # Session Prep
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -30,7 +38,8 @@ type: template
 tags:
 - template
 - active created: '2025-08-14'
-modified: '2025-08-14'
+modified: '2025
+*The air carries the scent of [appropriate smell].*-08-14'
 - -- ## 🔧 Deep Evaluation Improvements * 20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 09_Templates-specific enhancement ## Related * Links to related content will be added here.* ## DM Notes * Private notes for campaign integration:* - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles

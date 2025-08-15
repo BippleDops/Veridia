@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:36.309219
+modified: 2025-08-15T12:25:36.309226
+aliases: [Quest - The Crown Reborn]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#DM Guidance|DM Guidance]]
+- [[#Session Prep|Session Prep]]
+
+
 # Quest   The Crown Reborn
 
 
@@ -47,7 +68,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Crown Reborn ---
 
-title: Quest The Crown Reborn
+tit
+*Sounds of [relevant sounds] echo in the distance.*le: Quest The Crown Reborn
 type: Lore
 tags:
 - lore

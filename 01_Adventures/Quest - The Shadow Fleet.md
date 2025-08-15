@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.061491
+modified: 2025-08-15T12:24:55.061492
+aliases: [Quest - The Shadow Fleet]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Shadow Fleet
 
 > *The fate of many hangs in the balance...* This remarkable element adds depth and intrigue to any campaign.
@@ -53,7 +74,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Shadow Fleet ---
 
-title: Quest The Shadow Fleet
+tit
+*The [texture] surface feels [description] to the touch.*le: Quest The Shadow Fleet
 type: NPC
 tags:
 - both

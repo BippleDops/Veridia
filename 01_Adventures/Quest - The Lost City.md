@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:46.179040
+modified: 2025-08-15T12:24:46.179042
+aliases: [Quest - The Lost City]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Lost City
 
 > *Time is running out...* This remarkable element adds depth and intrigue to any campaign.
@@ -53,7 +74,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Lost City ---
 
-title: Quest The Lost City
+title:
+*Sounds of [relevant sounds] echo in the distance.* Quest The Lost City
 type: Lore
 tags:
 - lore

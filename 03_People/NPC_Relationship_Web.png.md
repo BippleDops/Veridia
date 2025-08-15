@@ -1,8 +1,16 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:42.992204
+modified: 2025-08-15T12:24:42.992206
+aliases: [NPC Relationship Web.png]
+---
+
 # Npc Relationship Web.Png
 
 > *Not all allies are what they seem...* This remarkable element adds depth and intrigue to any campaign.
 
---- title: 04_Resources/Assets/Art/Lore/NPC_Relationship_Web.png
+--- title: 04_Resources/Assets/Art/Lore/[[[[[[[[[[NPC_Relationship_Web.png_1 (03_People)|NPC_Relationship_Web]].png_1 (03_People)|NPC_Relationship_Web]].png_1 (03_People)|NPC_Relationship_Web]].png_1 (03_People)|NPC_Relationship_Web]].png_1 (03_People)|NPC_Relationship_Web]].png
 type: npc
 tags:
 - npc
@@ -24,7 +32,8 @@ related: []
 cssclass: standard
 publish: false --- # NPC_Relationship_Web.png ## Portrait![[Relationship_Web|portrait_npc_relationship_web.png.png]] *Portrait reference for NPC_Relationship_Web.png* ## Overview ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. NPC_Relationship_Web.png is a notable figure in the realm, known for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. NPC_Relationship_Web.png is a notable figure in the re
+*The [texture] surface feels [description] to the touch.*alm, known for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
 - **Build**: Average height, lean build
 - **Distinguishing Features**: Keen eyes that miss nothing
 - **Typical Attire**: Practical clothing suited for their profession ## Personality - **Traits**: Observant, calculating, pragmatic
@@ -68,3 +77,12 @@ publish: false --- # NPC_Relationship_Web.png ## Portrait![[Relationship_Web|por
 **Key Question**: What drives this character's actions?
 
 *Every story needs its heroes.*
+
+## Related Content
+*Enhanced with 5 new connections*
+
+
+## Visual References
+![[04_Resources/Assets/Portraits/NPCs/portrait_character_relationship_web_core_npcs.png]]
+![[04_Resources/Assets/Portraits/NPCs/portrait_character_faction_relationship_matrix.png]]
+![[04_Resources/Assets/Portraits/NPCs/portrait_npc_relationship_system.png]]

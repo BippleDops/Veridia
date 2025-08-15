@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: '#Star Systems'
 type: mechanics
@@ -21,7 +22,7 @@ publish: false
 
 ---
 
- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### Variant Improvements - Add 'gritty realism' variant of rule ### Monster_Use Improvements - Explain if/how monsters use this rule ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Automated Improvements - Add macro/code for VTT implementation ### Magic_Items Improvements - Note how magic items affect this rule ## Mechanic Overview **System**: D&D 5th Edition
+ ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### Variant Improvements - Add 'gritty realism' variant of rule ### Monster_Use Improvements - Explain if/how monsters use this rule ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Automated Improvements - Add macro/code for VTT implementation ### [[Magic_Items_Quick_Reference|Magic_Items]] Improvements - Note how magic items affect this rule ## Mechanic Overview **System**: D&D 5th Edition
 
 ## Description
 
@@ -30,7 +31,8 @@ publish: false
 Detailed description pending.
 **Type**: Rule Variant / Subsystem / Optional Rule
 **Complexity**: Moderate
-**Purpose**: Enhance gameplay in specific situations ### Basic Resolution
+**Purpose**: Enhance gameplay in spe
+*The air carries the scent of [appropriate smell].*cific situations ### Basic Resolution
 
 The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
 2. Nevertheless, **Setup**: Establish parameters and stakes
@@ -184,20 +186,20 @@ Elena tries to jump while carrying an unconscious ally in heavy rain. DC increas
 > Work together and communicate
 ## Official Rules Reference ### Core Rulebooks
 
-- **General Rules**: PHB Chapter 7-10
-- **DM Guidelines**: DMG Chapter 8
-- **Variant Rules**: DMG Chapter 9
-- **Optional Rules**: TCE p.4-8
+- **General Rules**: ACX Chapter 7-10
+- **DM Guidelines**: WWT Chapter 8
+- **Variant Rules**: WWT Chapter 9
+- **Optional Rules**: TMF p.4-8
 - **UA Playtest Material**: D&D Beyond UA Archive
-- **Expansion Content**: Check specific setting books ### Optional Rules (DMG)
+- **Expansion Content**: Check specific setting books ### Optional Rules (WWT)
 
-- Consider variant rules from DMG Chapter 9
-- Review optional class features from TCE ### Sage Advice
+- Consider variant rules from WWT Chapter 9
+- Review optional class features from TMF ### Sage Advice
 
 - Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice) ### Common Table Rulings
 
 - Document house rules clearly
-- Maintain consistency across sessions ## Variant Rules Options ### From DMG Chapter 9
+- Maintain consistency across sessions ## Variant Rules Options ### From WWT Chapter 9
 
 - **Proficiency Dice**: Roll dice instead of flat bonus
 - **Hero Points**: Narrative currency system
@@ -206,10 +208,10 @@ Elena tries to jump while carrying an unconscious ally in heavy rain. DC increas
 - **Massive Damage**: System shock rules
 - **Morale**: When enemies flee ### From Other Sources
 
-- **Spell Points** (DMG p.288): Alternative to slots
-- **Gritty Realism** (DMG p.267): Longer rests
-- **Side Initiative** (DMG p.270): Group turns
-- **Facing** (DMG p.252): Directional combat ### Table Consideration
+- **Spell Points** (WWT p.288): Alternative to slots
+- **Gritty Realism** (WWT p.267): Longer rests
+- **Side Initiative** (WWT p.270): Group turns
+- **Facing** (WWT p.252): Directional combat ### Table Consideration
 
 Discuss with players before implementing
 
@@ -233,3 +235,12 @@ Discuss with players before implementing
 #gameplay/quest
 #resource/item
 #meta/reference
+
+## Related Content
+*Enhanced with 1 new connections*
+
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/filtration_systems_guild.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_pressure_lock_systems_v1_pressure_lock_systems_svg_political.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_pressure_lock_systems_pressure_lock_systems_svg_political.png]]

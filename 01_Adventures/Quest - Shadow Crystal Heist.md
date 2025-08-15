@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:37.992326
+modified: 2025-08-15T12:25:37.992329
+aliases: [Quest - Shadow Crystal Heist]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   Shadow Crystal Heist
 
 > *Time is running out...*
@@ -53,6 +73,7 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Shadow Crystal Heist ---
 
+*The air carries the scent of [appropriate smell].*
 title: Quest Shadow Crystal Heist
 type: Lore
 tags:

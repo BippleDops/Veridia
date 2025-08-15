@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Abyssos Prime - Throne of Bubbles
 type: note
@@ -34,7 +35,8 @@ tags:
 - royal
 - throne
 - npc
-- research
+- r
+*Sounds of [relevant sounds] echo in the distance.*esearch
 - content/location
 - content/npc
 - active

@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: The Crimson Hand (D&D_References)
 type: note
@@ -34,7 +35,8 @@ tags:
 - convergence
 - shadow-corruption
 - faction
-- research
+
+*Sounds of [relevant sounds] echo in the distance.*- research
 - crimson-hand
 - power-seeking
 - active

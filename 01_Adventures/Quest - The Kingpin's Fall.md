@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:29.676528
+modified: 2025-08-15T12:25:29.676532
+aliases: [Quest - The Kingpin's Fall]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Session Prep|Session Prep]]
+
+
 # Quest   The Kingpin'S Fall
 
 > *What starts as simple becomes legendary...*
@@ -53,7 +74,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-kingpin-s-fall-quest-the-kingpin-s-fall.svg) # Quest - The Kingpin's Fall ---
+![](04_Resources
+*The air carries the scent of [appropriate smell].*/Assets/Portraits/portrait-npc-quest-the-kingpin-s-fall-quest-the-kingpin-s-fall.svg) # Quest - The Kingpin's Fall ---
 
 title: Quest The Kingpin's Fall
 type: NPC

@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 tags: - index - spells - compendium - reference
 type: index
@@ -28,7 +29,8 @@ Detailed description pending.
 - [[#Alphabetical]] ## Statistics
 
 - **Total Spells**: 2478
-- **Schools**: 10
+- *
+*The air carries the scent of [appropriate smell].**Schools**: 10
 - **Max Level**: 9
 - **Last Updated**: 2025-08-14 ## By School ### Unknown - [[08-chapter-7-spells (players-handbook-2024)]] (Level 0)
 
@@ -5017,22 +5019,22 @@ Detailed description pending.
 > Work together and communicate
 ## Official Rules Reference ### Core Rulebooks
 
-- **Spellcasting**: PHB Chapter 10 (p.201-205)
-- **Spell Slots**: PHB p.201
-- **Concentration**: PHB p.203
-- **Components**: PHB p.203
-- **Metamagic Options**: PHB p.101, TCE p.65-66
+- **Spellcasting**: ACX Chapter 10 (p.201-205)
+- **Spell Slots**: ACX p.201
+- **Concentration**: ACX p.203
+- **Components**: ACX p.203
+- **Metamagic Options**: ACX p.101, TMF p.65-66
 - **Spell Versatility (UA)**: UA Class Feature Variants
-- **Expanded Spell Lists**: TCE, XGE, SCAG
-- **Strixhaven Spells**: SCC p.36-39 ### Optional Rules (DMG)
+- **Expanded Spell Lists**: TMF, XSR, SCEH
+- **Strixhaven Spells**: SCC p.36-39 ### Optional Rules (WWT)
 
-- Consider variant rules from DMG Chapter 9
-- Review optional class features from TCE ### Sage Advice
+- Consider variant rules from WWT Chapter 9
+- Review optional class features from TMF ### Sage Advice
 
 - Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice) ### Common Table Rulings
 
 - Document house rules clearly
-- Maintain consistency across sessions ## Variant Rules Options ### From DMG Chapter 9
+- Maintain consistency across sessions ## Variant Rules Options ### From WWT Chapter 9
 
 - **Proficiency Dice**: Roll dice instead of flat bonus
 - **Hero Points**: Narrative currency system
@@ -5041,10 +5043,10 @@ Detailed description pending.
 - **Massive Damage**: System shock rules
 - **Morale**: When enemies flee ### From Other Sources
 
-- **Spell Points** (DMG p.288): Alternative to slots
-- **Gritty Realism** (DMG p.267): Longer rests
-- **Side Initiative** (DMG p.270): Group turns
-- **Facing** (DMG p.252): Directional combat ### Table Consideration
+- **Spell Points** (WWT p.288): Alternative to slots
+- **Gritty Realism** (WWT p.267): Longer rests
+- **Side Initiative** (WWT p.270): Group turns
+- **Facing** (WWT p.252): Directional combat ### Table Consideration
 
 Discuss with players before implementing
 
@@ -5070,3 +5072,8 @@ Discuss with players before implementing
 #meta/moc
 #meta/navigation
 #meta/reference
+
+## Visual References
+![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
+![[04_Resources/Assets/Locations/location-city-surge-mixmaster-v1-surge-mixmaster.png]]
+![[04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]

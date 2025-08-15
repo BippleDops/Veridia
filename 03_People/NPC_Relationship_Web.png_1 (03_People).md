@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:41.204356
+modified: 2025-08-15T12:24:41.204361
+aliases: [NPC Relationship Web.png 1 (03 People)]
+---
+
 # Npc Relationship Web.Png 1 (03 People)
 
 > *A figure whose reputation precedes them...* This remarkable element adds depth and intrigue to any campaign.
@@ -22,7 +30,8 @@ related: []
 cssclass: standard
 publish: false --- # NPC_Relationship_Web.png_1 ## Portrait![[Relationship_Web|portrait_npc_relationship_web.png_1_(03_people).png]] *Portrait reference for NPC_Relationship_Web.png_1 (03_People)* ## Overview ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. NPC_Relationship_Web.png_1 is a notable figure in the realm, known for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. NPC_Relationship_Web.png_1 is a notable figure in the 
+*The [texture] surface feels [description] to the touch.*realm, known for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
 - **Build**: Average height, lean build
 - **Distinguishing Features**: Keen eyes that miss nothing
 - **Typical Attire**: Practical clothing suited for their profession ## Personality - **Traits**: Observant, calculating, pragmatic
@@ -66,3 +75,8 @@ publish: false --- # NPC_Relationship_Web.png_1 ## Portrait![[Relationship_Web|p
 **Key Question**: What drives this character's actions?
 
 *What happens next is up to you.*
+
+## Visual References
+![[04_Resources/Assets/Portraits/NPCs/portrait_character_relationship_web_core_npcs.png]]
+![[04_Resources/Assets/Portraits/NPCs/portrait_character_faction_relationship_matrix.png]]
+![[04_Resources/Assets/Portraits/NPCs/portrait_npc_relationship_system.png]]

@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:44.719919
+modified: 2025-08-15T12:24:44.719925
+aliases: [Quest - The First Shadow]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+
+
 # Quest   The First Shadow
 
 > *The fate of many hangs in the balance...* This remarkable element adds depth and intrigue to any campaign.
@@ -54,7 +75,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The First Shadow ---
 
-title: Quest The First Shadow
+tit
+*The air carries the scent of [appropriate smell].*le: Quest The First Shadow
 type: Lore
 tags:
 - lore

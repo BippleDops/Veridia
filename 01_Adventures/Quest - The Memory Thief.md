@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:47.005871
+modified: 2025-08-15T12:24:47.005873
+aliases: [Quest - The Memory Thief]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Memory Thief
 
 > *Time is running out...* This remarkable element adds depth and intrigue to any campaign.
@@ -53,7 +73,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Memory Thief ---
 
-title: Quest The Memory Thief
+tit
+*The air carries the scent of [appropriate smell].*le: Quest The Memory Thief
 type: Lore
 tags:
 - lore

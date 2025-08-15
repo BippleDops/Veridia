@@ -1,4 +1,22 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:50.993944
+modified: 2025-08-15T12:25:50.993946
+aliases: [Quest - Rescue the Originals 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Session Prep|Session Prep]]
+
+
+---
 
 title: Quest Rescue the Originals
 type: Lore
@@ -41,7 +59,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas ## Quest Giver
 
-- **Name**: Local authority figure
+- **Name**: Local a
+*The air carries the scent of [appropriate smell].*uthority figure
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
 

@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, obsidianttrpgvault experimental]
+created: 2025-08-15T12:24:28.942206
+modified: 2025-08-15T12:24:28.942211
+aliases: [TAG INDEX]
+---
+
 # Tag Index
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -17,7 +25,8 @@ subcategory: Misc
 related: []
 cssclass: standard
 publish: false --- # Tag [[[[Index|Index]]|INDEX]] Complete [[INDEX|index]] of all tags used in the vault. ## #"beauty" (2) - [[sensory_immersion_techniques|Sensory Immersion Techniques]] {#tag-[[[[index|index]]|index]]-complete-[[index|index]]-of-all-tags-used-in-the-vault.-##-#"beauty"-(2)---[[sensory_immersion_techniques|sensory-immersion-techniques]]} ## Description {#description} Detailed description pending.
-- [[sensory_immersion_techniques|Sensory Immersion Techniques]] ## #"boss" (12) - [[[[Campaign_Overview|Campaign_Overview]] (Crystal_Plague)]] - [[Campaign_Overview (Crystal_Plague)|Campaign Overview (Crystal Plague)]]
+- [[sensory_immersion_techniques|Sensory Immersion Techniques]] ## #"boss" (12) - [[[[Campaign_Overview|Campaign_Overview]] (Crystal_Plague)]] - [[Campaig
+*The [texture] surface feels [description] to the touch.*n_Overview (Crystal_Plague)|Campaign Overview (Crystal Plague)]]
 - [[Campaign_Overview (Crystal_Plague)|Campaign Overview (Crystal Plague)]]
 - [[Campaign_Overview (Crystal_Plague)|Campaign Overview (Crystal Plague)]]
 - [[Campaign_Overview (Shadow_Conspiracy)|Campaign Overview (Shadow Conspiracy)]]
@@ -349,3 +358,8 @@ publish: false --- # Tag [[[[Index|Index]]|INDEX]] Complete [[INDEX|index]] of a
 **Key Question**: What role will this play in the greater story?
 
 *The dice will decide the fate.*
+
+## Visual References
+![[04_Resources/Assets/Portraits/NPCs/portrait_00_indexes_master_index.png]]
+![[04_Resources/Assets/Portraits/NPCs/Major/portrait_00_indexes_master_index_friendly.png]]
+![[04_Resources/Assets/Portraits/NPCs/Major/portrait_00_indexes_master_index_dramatic.png]]

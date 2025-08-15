@@ -1,3 +1,21 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.885002
+modified: 2025-08-15T12:24:55.885004
+aliases: [Quest1]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest1
 
 > *The fate of many hangs in the balance...*
@@ -59,7 +77,8 @@ This topic is referenced in [[Npc]] and other parts of the campaign. ## Descript
 
 An important element of the campaign world that connects to various other aspects of the adventure. ## Connections
 
-- Referenced by: [[Npc]]
+- Ref
+*The air carries the scent of [appropriate smell].*erenced by: [[Npc]]
 - Related topics in the same category ## Details
 
 Further information about this topic will be developed as the campaign progresses. ## Plot Hooks

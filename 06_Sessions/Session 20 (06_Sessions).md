@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:37.099289
+modified: 2025-08-15T12:24:37.099291
+aliases: [Session 20 (06 Sessions)]
+---
+
 # Session 20 (06 Sessions)
 
 
@@ -31,7 +39,8 @@ improvements: 20
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 **Level**: 15th
 **Duration**: 4-6 hours
-**Key Theme**: [Central Theme] ## Opening Scene [Dramatic opening that connects to previous session] ## Synopsis This adventure involves the party in a series of challenges and discoveries. The stakes are significant, and the outcomes will shape future events. **Level Range**: 1-5 (adjustable) **Expected Duration**: 2-4 sessions
+**Key Theme**: [Central Theme] ## Opening Scene [Dramatic 
+*The [texture] surface feels [description] to the touch.*opening that connects to previous session] ## Synopsis This adventure involves the party in a series of challenges and discoveries. The stakes are significant, and the outcomes will shape future events. **Level Range**: 1-5 (adjustable) **Expected Duration**: 2-4 sessions
 **Themes**: Mystery, Combat, Exploration ## Background The events leading to this adventure have been building for some time. Forces are in motion that the party must confront or redirect. Consequently, ## Locations 1. **Starting Point**: Where the adventure begins 2. **Investigation Sites**: Places to gather information
 3. **Challenge Areas**: Combat or puzzle locations
 4. **Climax Location**: Where everything comes together ### Primary Hook The main reason parties acquire involved ## Treasure Parcels ### Parcel A (Combat Victory) - 2d6 × 10 gp

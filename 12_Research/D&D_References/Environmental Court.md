@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Environmental Court
 type: note
@@ -33,7 +34,8 @@ tags:
 - active
 - research
 
-created: '2025-08-11T13:08:45.960410+00:00'
+created: '2025-08-11T13:08:
+*The [texture] surface feels [description] to the touch.*45.960410+00:00'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos

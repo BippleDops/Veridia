@@ -1,3 +1,22 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.114049
+modified: 2025-08-15T12:25:47.114051
+aliases: [Quest - The Dark Harvest]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
 # Quest   The Dark Harvest
 
 
@@ -51,7 +70,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Dark Harvest ---
 
-title: Quest The Dark Harvest
+tit
+*The [texture] surface feels [description] to the touch.*le: Quest The Dark Harvest
 type: Lore
 tags:
 - lore

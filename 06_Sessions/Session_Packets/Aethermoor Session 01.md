@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -28,7 +29,8 @@ This document contains important information regarding Aethermoor Session 01 and
 
 **Details**: Rich sensory elements bring this to life.
 
-Aethermoor Session 01 represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+Aethermoor Session 01 represents a significant element within the campaign world, offering various opportunities for engagement and developmen
+*The air carries the scent of [appropriate smell].*t. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

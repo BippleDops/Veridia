@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:39.480305
+modified: 2025-08-15T12:24:39.480306
+aliases: [Session Log.base]
+---
+
 # Session Log.Base
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -32,7 +40,8 @@ tags:
 - lore
 - both
 - index
-- research
+- resear
+*The air carries the scent of [appropriate smell].*ch
 - active created: '2025-08-11'
 modified: '2025-08-14'
 status: active

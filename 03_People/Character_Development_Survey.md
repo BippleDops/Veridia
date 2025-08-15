@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:41.480087
+modified: 2025-08-15T12:24:41.480090
+aliases: [Character Development Survey]
+---
+
 # Character Development Survey
 
 > *A figure whose reputation precedes them...* This remarkable element adds depth and intrigue to any campaign.
@@ -21,7 +29,8 @@ related: []
 cssclass: standard
 publish: false --- # Character_Development_Survey ## Portrait![[Character_Development_Survey|Character Development Survey]] *Portrait reference for Character_Development_Survey* ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key
+*Sounds of [relevant sounds] echo in the distance.* character traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -143,3 +152,14 @@ _________________________________________ FEAT PREFERENCES: What type of feat in
 
 
 *What happens next is up to you.*
+
+## Visual References
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-v1-character-sheet-layout.png]]
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-character-sheet-layout.png]]
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-v2-character-sheet-layout.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

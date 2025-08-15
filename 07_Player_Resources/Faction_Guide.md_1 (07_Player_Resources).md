@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T12:24:41.139490
+modified: 2025-08-15T12:24:41.139495
+aliases: [Faction Guide.md 1 (07 Player Resources)]
+---
+
 # Faction Guide.Md 1 (07 Player Resources)
 
 
@@ -17,7 +25,8 @@ improvements: 20
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes ## Plot Hooks - A shipment has gone missing and chaos spreads - Someone is searching for a witness for love ## Historical Timeline ### The Age of Founding (1000 years ago) - The First Settlement
+- Connections 
+*The [texture] surface feels [description] to the touch.*to overarching campaign themes ## Plot Hooks - A shipment has gone missing and chaos spreads - Someone is searching for a witness for love ## Historical Timeline ### The Age of Founding (1000 years ago) - The First Settlement
 - Discovery of magical crystals
 - War with indigenous peoples ### The Golden Era (500 years ago) - Economic prosperity
 - Cultural renaissance
@@ -67,3 +76,8 @@ publish: false --- -|--------|
 
 
 *The dice will decide the fate.*
+
+## Visual References
+![[04_Resources/Assets/Digital/ui-ui-faction-reputation-bar-v1-faction-reputation-bar.png]]
+![[04_Resources/Assets/Digital/ui-ui-faction-reputation-bar-v2-faction-reputation-bar.png]]
+![[04_Resources/Assets/Digital/ui-ui-faction-reputation-bar-faction-reputation-bar.png]]

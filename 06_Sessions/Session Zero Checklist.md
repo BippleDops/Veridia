@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:39.462090
+modified: 2025-08-15T12:24:39.462092
+aliases: [Session Zero Checklist]
+---
+
 # Session Zero Checklist
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -32,7 +40,8 @@ tags:
 - both
 - content/lore
 - world/both
-- research
+- researc
+*Sounds of [relevant sounds] echo in the distance.*h
 - active
 - complete
 - status/in-progress created: '2025-08-11'

@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:46.220802
+modified: 2025-08-15T12:24:46.220803
+aliases: [Quest - Information War]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Information War"]
@@ -59,7 +79,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Information War ---
 
-title: Quest Information War
+titl
+*The air carries the scent of [appropriate smell].*e: Quest Information War
 type: Lore
 tags:
 - lore

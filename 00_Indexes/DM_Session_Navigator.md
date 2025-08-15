@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: DM_Session_Navigator
 type: session
@@ -35,6 +36,7 @@ tags:
 - session
 - dm-tool
 - active
+*The [texture] surface feels [description] to the touch.*
 
 created: 2025-08-14
 modified: '2025-08-14'
@@ -122,3 +124,8 @@ SORT priority DESC ---
 
 ## Thematic Elements
 This content explores themes of revenge, adding narrative depth to your campaign.
+
+## Visual References
+![[04_Resources/Assets/Portraits/NPCs/portrait_session_4.png]]
+![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_session_4_people_dramatic.png]]
+![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_session_4_people_standard.png]]

@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.939674
+modified: 2025-08-15T12:24:55.939678
+aliases: [Quest 1]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest 1
 
 > *The fate of many hangs in the balance...*
@@ -54,7 +74,8 @@ Detailed description pending.
 - Moral dilemmas # Quest 1 ---
 
 title: Quest 1
-type: Lore
+type:
+*The [texture] surface feels [description] to the touch.* Lore
 tags:
 - lore
 - both

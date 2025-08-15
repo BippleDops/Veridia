@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Professor Euclid Mindmaze (D&D_References)
 type: note
@@ -33,7 +34,8 @@ tags:
 - aquabyssos
 - research
 - active
-- complete
+- comp
+*Sounds of [relevant sounds] echo in the distance.*lete
 
 created: '2025-08-11'
 modified: '2025-08-14'

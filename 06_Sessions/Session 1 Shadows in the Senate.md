@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:39.413644
+modified: 2025-08-15T12:24:39.413648
+aliases: [Session 1 Shadows in the Senate]
+---
+
 # Session 1 Shadows In The Senate
 
 
@@ -24,7 +32,8 @@ tags:
 - session-1
 - political-intrigue
 - research
-- status/active
+- statu
+*Sounds of [relevant sounds] echo in the distance.*s/active
 - active
 - world/aquabyssos created: '2025-08-13'
 modified: '2025-08-14'

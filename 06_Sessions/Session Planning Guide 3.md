@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:39.404777
+modified: 2025-08-15T12:24:39.404777
+aliases: [Session Planning Guide 3]
+---
+
 # Session Planning Guide 3
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -26,7 +34,8 @@ tags:
 - lore
 - aquabyssos
 - status/complete
-- campaign/session
+- campaign/
+*Sounds of [relevant sounds] echo in the distance.*session
 - content/lore
 - research
 - active

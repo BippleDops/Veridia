@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:51.007578
+modified: 2025-08-15T12:25:51.007580
+aliases: [Quest - The Democratic Crisis]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - The Democratic Crisis
 type: quest
@@ -28,6 +45,7 @@ Detailed description pending.
 - Unexpected obstacles
 - Time pressure
 - Moral dilemmas # Quest - The Democratic Crisis ---
+*Sounds of [relevant sounds] echo in the distance.*
 
 title: Quest The Democratic Crisis
 type: Lore

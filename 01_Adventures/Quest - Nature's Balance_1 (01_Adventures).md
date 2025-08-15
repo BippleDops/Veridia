@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:50.871946
+modified: 2025-08-15T12:25:50.871953
+aliases: [Quest - Nature's Balance 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - Nature's Balance_1 (01_Adventures)
 type: quest
@@ -32,7 +49,8 @@ Detailed description pending.
 - Main quest goal ### Optional
 
 - Secondary objectives
-- Hidden goals # Quest - Nature's Balance ---
+- Hidden goals # Quest - Natu
+*Sounds of [relevant sounds] echo in the distance.*re's Balance ---
 
 title: Quest Nature's Balance
 type: Lore

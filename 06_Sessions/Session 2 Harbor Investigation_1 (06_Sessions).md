@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:37.123145
+modified: 2025-08-15T12:24:37.123148
+aliases: [Session 2 Harbor Investigation 1 (06 Sessions)]
+---
+
 # Session 2 Harbor Investigation 1 (06 Sessions)
 
 
@@ -32,7 +40,8 @@ title: 'The Sunken Conspiracy - Session 2: Harbor Investigation'
 type: session
 tags:
 - aquabyssos
-- session
+
+*The air carries the scent of [appropriate smell].*- session
 - investigation
 - social
 - research

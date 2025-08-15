@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:46.987363
+modified: 2025-08-15T12:24:46.987365
+aliases: [Campaign Overview 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Visual References|Visual References]]
+
+
+---
 tags: [misc]
 type: misc
 aliases: ["Campaign Overview 1 (01 Adventures)"]
@@ -61,7 +82,8 @@ tags:
 - research
 - world/both
 - status/active
-- active
+- act
+*The air carries the scent of [appropriate smell].*ive
 - epic-arc
 - campaign/seven-shards
 
@@ -239,3 +261,8 @@ Each shard's influence creates specific mechanical effects:
 **Key Question**: Will the heroes rise to the challenge?
 
 *What happens next is up to you.*
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/_cross_campaign_organizations.png]]
+![[04_Resources/Assets/Generated/Misc/parliament_of_shadows_campaign.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_cross_campaign_locations_player.png]]

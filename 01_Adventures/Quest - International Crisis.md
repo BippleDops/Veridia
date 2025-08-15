@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.031053
+modified: 2025-08-15T12:24:55.031054
+aliases: [Quest - International Crisis]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Session Prep|Session Prep]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - International Crisis"]
@@ -59,6 +80,7 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - International Crisis ---
 
+*The air carries the scent of [appropriate smell].*
 title: Quest International Crisis
 type: Lore
 tags:

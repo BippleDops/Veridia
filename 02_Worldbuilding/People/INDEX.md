@@ -1,3 +1,9 @@
+---
+tags: [npc, character]
+type: npc
+aliases: ["INDEX"]
+---
+
 # NPCs Index
 
 *Total: 1229 entries*

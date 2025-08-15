@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Magic Rules
 type: mechanics
@@ -21,7 +22,7 @@ publish: false
 
 ---
 
- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Simplified Improvements - Create simplified version for new players ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ### Magic_Items Improvements - Note how magic items affect this rule ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### Variant Improvements - Add 'gritty realism' variant of rule ### Session_Zero Improvements - Include session zero discussion points ### Monster_Use Improvements - Explain if/how monsters use this rule ## Rule Summary Magic_Rules provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay. Additionally, ## When to Use Apply this rule when:
+ ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Simplified Improvements - Create simplified version for new players ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ### [[Magic_Items_Quick_Reference|Magic_Items]] Improvements - Note how magic items affect this rule ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### Variant Improvements - Add 'gritty realism' variant of rule ### Session_Zero Improvements - Include session zero discussion points ### Monster_Use Improvements - Explain if/how monsters use this rule ## Rule Summary Magic_Rules provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay. Additionally, ## When to Use Apply this rule when:
 
 ## Description
 
@@ -30,7 +31,8 @@ publish: false
 Detailed description pending.
 - Specific trigger conditions are met
 - Players request this type of action
-- The situation calls for additional detail ### Example 1: Basic Application
+- The situation calls for additional
+*The air carries the scent of [appropriate smell].* detail ### Example 1: Basic Application
 
 *Scenario*: Simple use case
 *Resolution*: How to handle it
@@ -73,15 +75,15 @@ Detailed description pending.
 
 ## Official Rules Reference ### Core Rulebooks
 
-- **General Rules**: PHB Chapter 7-10
-- **DM Guidelines**: DMG Chapter 8
-- **Variant Rules**: DMG Chapter 9
-- **Optional Rules**: TCE p.4-8
+- **General Rules**: ACX Chapter 7-10
+- **DM Guidelines**: WWT Chapter 8
+- **Variant Rules**: WWT Chapter 9
+- **Optional Rules**: TMF p.4-8
 - **UA Playtest Material**: D&D Beyond UA Archive
-- **Expansion Content**: Check specific setting books ### Optional Rules (DMG)
+- **Expansion Content**: Check specific setting books ### Optional Rules (WWT)
 
-- Consider variant rules from DMG Chapter 9
-- Review optional class features from TCE ### Sage Advice
+- Consider variant rules from WWT Chapter 9
+- Review optional class features from TMF ### Sage Advice
 
 - Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice) ### Common Table Rulings
 
@@ -104,3 +106,12 @@ Detailed description pending.
 #gameplay/quest
 #resource/item
 #meta/reference
+
+## Related Content
+*Enhanced with 1 new connections*
+
+
+## Visual References
+![[04_Resources/Assets/Placeholder Images/MagicTitleBar.png]]
+![[04_Resources/Assets/Generated/Misc/royal_academy_of_magical_science.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_magical_engineer_reef_spellbreath_magical_engineer_reef_spellbreath_svg_player.png]]

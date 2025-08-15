@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:36.292036
+modified: 2025-08-15T12:24:36.292037
+aliases: [Session 10 New Horizons (06 Sessions)]
+---
+
 # Session 10 New Horizons (06 Sessions)
 
 
@@ -24,7 +32,8 @@ tags:
 - act-3
 - research
 - world/both
-- session/seven-shards
+- session/seven
+*The [texture] surface feels [description] to the touch.*-shards
 - status/active
 - active
 - campaign-finale created: '2025-08-13'

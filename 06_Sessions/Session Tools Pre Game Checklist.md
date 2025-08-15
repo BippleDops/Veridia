@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:37.132114
+modified: 2025-08-15T12:24:37.132119
+aliases: [Session Tools Pre Game Checklist]
+---
+
 # Session Tools Pre Game Checklist
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -31,7 +39,8 @@ tags:
 - both
 - active
 - mechanic
-- research created: modified: '2025-08-14'
+- research
+*The [texture] surface feels [description] to the touch.* created: modified: '2025-08-14'
 status: active
 updated: '2025-08-13T04:22:10.866667+00:00'
 world: Both

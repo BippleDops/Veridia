@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:39.343390
+modified: 2025-08-15T12:24:39.343392
+aliases: [Session 18 Horror Corruption]
+---
+
 # Session 18 Horror Corruption
 
 
@@ -33,7 +41,8 @@ tags:
 - campaign/example
 - research
 - active
-- horror/corruption created: '2025-08-13'
+- horror/corruption create
+*Sounds of [relevant sounds] echo in the distance.*d: '2025-08-13'
 modified: '2025-08-14'
 status: complete
 updated: '2025-08-13'

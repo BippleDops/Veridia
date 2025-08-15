@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:36.268684
+modified: 2025-08-15T12:24:36.268689
+aliases: [Session 09 the Shard Convergence]
+---
+
 # Session 09 The Shard Convergence
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -20,7 +28,8 @@ type: Session
 tags:
 - research
 - world/both
-- session/seven-shards
+- session/seve
+*The air carries the scent of [appropriate smell].*n-shards
 - status/active
 - active
 - act-2

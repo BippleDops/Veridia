@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.006570
+modified: 2025-08-15T12:24:55.006573
+aliases: [Quest - The Debt Crown]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Debt Crown
 
 > *What starts as simple becomes legendary...* This remarkable element adds depth and intrigue to any campaign.
@@ -53,7 +74,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Debt Crown ---
 
-title: Quest The Debt Crown
+title
+*The air carries the scent of [appropriate smell].*: Quest The Debt Crown
 type: Lore
 tags:
 - lore

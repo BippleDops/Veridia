@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 13_performance]
+created: 2025-08-15T12:24:41.087817
+modified: 2025-08-15T12:24:41.087819
+aliases: [SYSTEM STATUS]
+---
+
 # System Status
 
 
@@ -34,6 +42,7 @@ tags:
 - active
 - note created: '2025-08-14'
 modified: '2025-08-14'
+*Sounds of [relevant sounds] echo in the distance.*
 - -- # TTRPG Vault Asset Generation System Status ## 🚀 System Overview **Status:** FULLY OPERATIONAL
 **Last Updated:** August 14, 2025 ## ✅ Active Services ### 1. **API Integrations** - **Open AI (GPT-4 + DALL-E 3):** ✅ Connected and generating - Organization: org-2RQvi6x SEda Tm DXO2Brvi99T - Project: proj_b6VDmk RDhaa7Zl Yv Ox Etz Jvv - Status: Working with rate limiting - **Stability AI (SDXL):** ✅ Connected and generating - Engine: stable-diffusion-xl-1024-v1-0 - Status: Primary image generation service - **Unsplash:** ⚠️ Key issue (non-critical) - Used for inspiration only - **Spotify:** ℹ️ Configured (OAuth required for full access) ### 2. **Running Processes** - **Orchestrator:** Continuous asset generation loop
 - **Production Pipeline:** Large-scale parallel generation
@@ -85,7 +94,7 @@ modified: '2025-08-14'
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## Player Tips > 🎮 **Strategy**: How to approach this content > Work together and communicate
 
-## Conditions Reference (PHB p.290-292) ### Common Conditions {#conditions-reference-(phb-p.290-292)-###-common-conditions} - **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
+## Conditions Reference (ACX p.290-292) ### Common Conditions {#conditions-reference-(phb-p.290-292)-###-common-conditions} - **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
 - **Charmed**: Can't attack charmer, charmer has advantage on social checks
 - **Deafened**: Can't hear, auto-fail hearing checks
 - **Frightened**: Disadvantage while source in sight, can't move closer
@@ -97,7 +106,7 @@ modified: '2025-08-14'
 - **Prone**: Disadvantage on attacks, melee against has advantage
 - **Restrained**: Speed 0, disadvantage on attacks/DEX saves
 - **Stunned**: Incapacitated, can't move, can barely speak
-- **Unconscious**: Incapacitated, prone, drops everything ### Exhaustion (PHB p.291) 1. Disadvantage on ability checks
+- **Unconscious**: Incapacitated, prone, drops everything ### Exhaustion (ACX p.291) 1. Disadvantage on ability checks
 2. Speed halved
 3. Disadvantage on attacks and saves
 4. HP maximum halved
@@ -128,3 +137,8 @@ modified: '2025-08-14'
 
 ## Thematic Elements
 This content explores themes of redemption, adding narrative depth to your campaign.
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/complete_faction_warfare_system_resource_management.png]]
+![[04_Resources/Assets/Generated/Misc/filtration_systems_guild.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_pressure_tube_system_pressure_tube_system_svg_player.png]]

@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Educational Systems and Institutions
 type: mechanics
@@ -21,13 +22,14 @@ publish: false
 
 ---
 
- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Magic_Items Improvements - Note how magic items affect this rule ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### Session_Zero Improvements - Include session zero discussion points ### Variant Improvements - Add 'gritty realism' variant of rule ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Automated Improvements - Add macro/code for VTT implementation ### Monster_Use Improvements - Explain if/how monsters use this rule ## Mechanic Overview **System**: D&D 5th Edition
+ ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### [[Magic_Items_Quick_Reference|Magic_Items]] Improvements - Note how magic items affect this rule ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### Session_Zero Improvements - Include session zero discussion points ### Variant Improvements - Add 'gritty realism' variant of rule ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Automated Improvements - Add macro/code for VTT implementation ### Monster_Use Improvements - Explain if/how monsters use this rule ## Mechanic Overview **System**: D&D 5th Edition
 
 **Type**: Rule Variant / Subsystem / Optional Rule
 **Complexity**: Moderate
 **Purpose**: Enhance gameplay in specific situations ## Description
 
-**Details**: Rich sensory elements bring this to life. Educational Systems and Institutions provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
+**Details**: Rich sensory elements bring this to life. Educational Systems and Institutions provides a structured approach to handling specific game situations that benefit from additional mechanica
+*The [texture] surface feels [description] to the touch.*l depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
 
 The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
 2. **Setup**: Establish parameters and stakes
@@ -182,15 +184,15 @@ Elena tries to jump while carrying an unconscious ally in heavy rain. DC increas
 
 ## Official Rules Reference ### Core Rulebooks
 
-- **General Rules**: PHB Chapter 7-10
-- **DM Guidelines**: DMG Chapter 8
-- **Variant Rules**: DMG Chapter 9
-- **Optional Rules**: TCE p.4-8
+- **General Rules**: ACX Chapter 7-10
+- **DM Guidelines**: WWT Chapter 8
+- **Variant Rules**: WWT Chapter 9
+- **Optional Rules**: TMF p.4-8
 - **UA Playtest Material**: D&D Beyond UA Archive
-- **Expansion Content**: Check specific setting books ### Optional Rules (DMG)
+- **Expansion Content**: Check specific setting books ### Optional Rules (WWT)
 
-- Consider variant rules from DMG Chapter 9
-- Review optional class features from TCE ### Sage Advice
+- Consider variant rules from WWT Chapter 9
+- Review optional class features from TMF ### Sage Advice
 
 - Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice) ### Common Table Rulings
 
@@ -218,3 +220,12 @@ Elena tries to jump while carrying an unconscious ally in heavy rain. DC increas
 #gameplay/quest
 #resource/item
 #meta/reference
+
+## Related Content
+*Enhanced with 1 new connections*
+
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/filtration_systems_guild.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_pressure_lock_systems_v1_pressure_lock_systems_svg_political.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_pressure_lock_systems_pressure_lock_systems_svg_political.png]]

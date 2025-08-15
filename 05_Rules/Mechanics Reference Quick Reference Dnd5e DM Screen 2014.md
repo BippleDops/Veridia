@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Mechanics Reference Quick Reference Dnd5e DM Screen 2014
 type: mechanics
@@ -28,7 +29,8 @@ publish: false
 **Complexity**: Moderate
 **Purpose**: Enhance gameplay in specific situations ## Description
 
-**Details**: Rich sensory elements bring this to life. 03_Mechanics/Rules_Reference/Quick_Reference/Dn D5e-DM Screen-2014 provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
+**Details**: Rich sensory elements bring this to life. 03_Mechanics/Rules_Reference/Quick_Reference/Dn D5e-DM Screen-2014 provides a structured approach to handling specific game situations that ben
+*The air carries the scent of [appropriate smell].*efit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
 
 The fundamental process works as follows: 1. Therefore, **Trigger**: Specific situation arises requiring this mechanic
 2. **Setup**: Establish parameters and stakes
@@ -172,15 +174,15 @@ Elena tries to jump while carrying an unconscious ally in heavy rain. DC increas
 
 ## Official Rules Reference ### Core Rulebooks
 
-- **General Rules**: PHB Chapter 7-10
-- **DM Guidelines**: DMG Chapter 8
-- **Variant Rules**: DMG Chapter 9
-- **Optional Rules**: TCE p.4-8
+- **General Rules**: ACX Chapter 7-10
+- **DM Guidelines**: WWT Chapter 8
+- **Variant Rules**: WWT Chapter 9
+- **Optional Rules**: TMF p.4-8
 - **UA Playtest Material**: D&D Beyond UA Archive
-- **Expansion Content**: Check specific setting books ### Optional Rules (DMG)
+- **Expansion Content**: Check specific setting books ### Optional Rules (WWT)
 
-- Consider variant rules from DMG Chapter 9
-- Review optional class features from TCE ### Sage Advice
+- Consider variant rules from WWT Chapter 9
+- Review optional class features from TMF ### Sage Advice
 
 - Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice) ### Common Table Rulings
 

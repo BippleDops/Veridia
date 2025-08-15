@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.897126
+modified: 2025-08-15T12:25:47.897128
+aliases: [Quest - The Shadow Conspiracy]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - The Shadow Conspiracy
 type: quest
@@ -28,6 +45,7 @@ Detailed description pending.
 - Unexpected obstacles
 - Time pressure
 - Moral dilemmas # Quest - The Shadow Conspiracy ---
+*The air carries the scent of [appropriate smell].*
 
 title: Quest The Shadow Conspiracy
 type: Lore

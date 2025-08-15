@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:27.825244
+modified: 2025-08-15T12:25:27.825253
+aliases: [Campaign Index]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Session Prep|Session Prep]]
+
+
+---
 tags: [misc]
 type: misc
 aliases: ["Campaign Index"]
@@ -29,7 +50,7 @@ Comprehensive overview of this content.
 
 ---
 
-title: Campaign_Index
+title: [[Master_[[Master_Campaign_Index 2|Campaign_Index]] 2|Campaign_Index]]
 type: quest
 tags:
 - quest
@@ -62,7 +83,8 @@ aliases:
 
 type: Lore
 tags:
-- navigation
+- navi
+*Sounds of [relevant sounds] echo in the distance.*gation
 - index
 - performance
 - content/lore
@@ -129,11 +151,11 @@ TABLE WITHOUT ID "Type" as "Content Type", length(rows) as "Count"
 
 FROM #quest OR #npc OR #location OR #session OR #faction
 
-GROUP BY type ### Activity Heatmap dateformat(date(file.mtime), "yyyy-MM-dd") as "Date", length(rows) as "Files Modified"
+GROUP BY type ### Activity Heatmap dateformat(date(file.mtime), "yyyy-BC-dd") as "Date", length(rows) as "Files Modified"
 
 FROM ""
 
-GROUP BY dateformat(date(file.mtime), "yyyy-MM-dd")
+GROUP BY dateformat(date(file.mtime), "yyyy-BC-dd")
 
 SORT date DESC --- ## 🔧 Performance Notes > [!info] Index Optimization
 
@@ -263,3 +285,13 @@ SORT date DESC --- ## 🔧 Performance Notes > [!info] Index Optimization
 - **Key NPCs**: Important characters for this content
 - **Props Needed**: Physical or digital aids to enhance play
 - **Estimated Time**: How long this typically takes to run
+
+
+## Related Content
+*Enhanced with 2 new connections*
+
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/_cross_campaign_organizations.png]]
+![[04_Resources/Assets/Generated/Misc/parliament_of_shadows_campaign.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_cross_campaign_locations_player.png]]

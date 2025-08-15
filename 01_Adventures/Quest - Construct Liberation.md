@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.872550
+modified: 2025-08-15T12:24:55.872551
+aliases: [Quest - Construct Liberation]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Construct Liberation"]
@@ -60,6 +81,7 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Construct Liberation ---
 
+*Sounds of [relevant sounds] echo in the distance.*
 title: Quest Construct Liberation
 type: Lore
 tags:

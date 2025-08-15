@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.750320
+modified: 2025-08-15T12:24:55.750321
+aliases: [Quest - The Divine Test]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Divine Test
 
 > *The fate of many hangs in the balance...*
@@ -53,7 +73,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-divine-test-quest-the-divine-test.svg) # Quest - The Divine Test ---
+![](04_Resources
+*Sounds of [relevant sounds] echo in the distance.*/Assets/Portraits/portrait-npc-quest-the-divine-test-quest-the-divine-test.svg) # Quest - The Divine Test ---
 
 title: Quest The Divine Test
 type: NPC

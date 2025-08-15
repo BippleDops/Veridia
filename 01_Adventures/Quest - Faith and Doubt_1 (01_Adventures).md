@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:51.108277
+modified: 2025-08-15T12:25:51.108282
+aliases: [Quest - Faith and Doubt 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest Faith and Doubt
 type: Npc
@@ -43,7 +60,8 @@ Detailed description pending.
 
 - **Name**: Local authority figure
 - **Location**: Town center
-- **Motivation**: Community safety > [!figure] Portrait ## Objectives
+- **Motivation**: Community safet
+*The air carries the scent of [appropriate smell].*y > [!figure] Portrait ## Objectives
 
 ### Primary
 

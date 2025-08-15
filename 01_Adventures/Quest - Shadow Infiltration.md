@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:46.260350
+modified: 2025-08-15T12:24:46.260351
+aliases: [Quest - Shadow Infiltration]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Session Prep|Session Prep]]
+
+
 # Quest   Shadow Infiltration
 
 > *Time is running out...* This remarkable element adds depth and intrigue to any campaign.
@@ -53,7 +74,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Shadow Infiltration ---
 
-title: Quest Shadow Infiltration
+
+*The air carries the scent of [appropriate smell].*title: Quest Shadow Infiltration
 type: Lore
 tags:
 - lore

@@ -1,3 +1,22 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:42.740364
+modified: 2025-08-15T12:25:42.740370
+aliases: [Quest - The Pretender's Crown]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
 # Quest   The Pretender'S Crown
 
 
@@ -53,6 +72,7 @@ Detailed description pending.
 - Unexpected obstacles
 - Time pressure
 - Moral dilemmas # Quest - The Pretender's Crown ---
+*The [texture] surface feels [description] to the touch.*
 
 title: Quest The Pretender's Crown
 type: Lore

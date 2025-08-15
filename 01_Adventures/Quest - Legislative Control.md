@@ -1,4 +1,23 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:42.768628
+modified: 2025-08-15T12:25:42.768629
+aliases: [Quest - Legislative Control]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Legislative Control"]
@@ -57,7 +76,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Legislative Control ---
 
-title: Quest Legislative Control
+
+*The [texture] surface feels [description] to the touch.*title: Quest Legislative Control
 type: Lore
 tags:
 - lore

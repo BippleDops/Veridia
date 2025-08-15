@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:36.252479
+modified: 2025-08-15T12:24:36.252480
+aliases: [Session 01 the Convergence Mystery]
+---
+
 # Session 01 The Convergence Mystery
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -29,7 +37,8 @@ title: Session 01 The Convergence Mystery
 type: Session Summary
 tags:
 - player/session-summary
-- campaign/example
+- c
+*Sounds of [relevant sounds] echo in the distance.*ampaign/example
 - research
 - active
 - story/recap created: '2025-08-13'

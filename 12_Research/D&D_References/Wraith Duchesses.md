@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Wraith Duchesses
 type: note
@@ -34,7 +35,8 @@ tags:
 - location
 - aethermoor
 
-created: '2025-08-11'
+created: '2025-08-1
+*Sounds of [relevant sounds] echo in the distance.*1'
 modified: '2025-08-14'
 status: active
 world: Aethermoor
@@ -63,3 +65,17 @@ updated: '2025-08-13T01:18:34.541738+00:00'
 #world/setting
 #world/place
 #meta/reference
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

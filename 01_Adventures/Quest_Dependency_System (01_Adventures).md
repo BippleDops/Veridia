@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:47.697615
+modified: 2025-08-15T12:24:47.697618
+aliases: [Quest Dependency System (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Visual References|Visual References]]
+
+
 # Quest Dependency System (01 Adventures)
 
 > *Time is running out...* This remarkable element adds depth and intrigue to any campaign.
@@ -59,7 +80,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest Dependency System ## Quest Giver
+- Moral dilemmas # Quest Dependency System ## Quest 
+*The air carries the scent of [appropriate smell].*Giver
 
 - **Name**: Local authority figure
 - **Location**: Town center
@@ -234,3 +256,8 @@ SORT quest Level ASC```## Sample Dependency Chains
 **Balance Note**: Adjust creature numbers based on party size and level.
 
 *Adventure awaits those brave enough to seek it.*
+
+## Visual References
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-v1-quest-the-void-conspiracy.png]]
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-quest-the-void-conspiracy.png]]
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-v2-quest-the-void-conspiracy.png]]

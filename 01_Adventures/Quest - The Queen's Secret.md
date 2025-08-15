@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:29.673108
+modified: 2025-08-15T12:25:29.673109
+aliases: [Quest - The Queen's Secret]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Queen'S Secret
 
 > *The fate of many hangs in the balance...*
@@ -53,7 +73,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-queen-s-secret-quest-the-queen-s-secret.svg) # Quest - The Queen's Secret ---
+![](04_Resources
+*Sounds of [relevant sounds] echo in the distance.*/Assets/Portraits/portrait-npc-quest-the-queen-s-secret-quest-the-queen-s-secret.svg) # Quest - The Queen's Secret ---
 
 title: Quest The Queen's Secret
 type: NPC

@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:39.468740
+modified: 2025-08-15T12:24:39.468741
+aliases: [Aethermoor - Session 08 Between Two Worlds]
+---
+
 # Aethermoor   Session 08 Between Two Worlds
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -22,7 +30,8 @@ tags:
 - campaign/session
 - world/aquabyssos
 - note
-- content/lore
+- c
+*Sounds of [relevant sounds] echo in the distance.*ontent/lore
 - world/aethermoor
 - active
 - complete

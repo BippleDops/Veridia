@@ -1,4 +1,22 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.971384
+modified: 2025-08-15T12:25:47.971386
+aliases: [Quest - The Refugee Emergency 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Session Prep|Session Prep]]
+
+
+---
 
 title: Quest The Refugee Emergency
 type: Npc
@@ -43,7 +61,8 @@ Detailed description pending.
 
 - **Name**: Local authority figure
 - **Location**: Town center
-- **Motivation**: Community safety ## Objectives
+- **Motivation**: Community safet
+*Sounds of [relevant sounds] echo in the distance.*y ## Objectives
 
 ### Primary
 

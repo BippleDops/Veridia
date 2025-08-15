@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 13_performance]
+created: 2025-08-15T12:24:41.119892
+modified: 2025-08-15T12:24:41.119897
+aliases: [MULTIMEDIA GENERATION COMPLETE]
+---
+
 # Multimedia Generation Complete
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -15,7 +23,8 @@ related: []
 cssclass: standard
 publish: false --- # MULTIMEDIA GENERATION COMPLETE ## Overview MULTIMEDIA GENERATION COMPLETE represents an important element within the campaign world. ## Description
 
-**Details**: Rich sensory elements bring this to life. This component serves a vital role in the ongoing narrative and world-building efforts. It connects to various other elements and provides depth to the campaign setting. Moreover, ## Key Features ### Primary Aspects - **Core Function**: Central purpose and role
+**Details**: Rich sensory elements bring this to life. This component serves a vital role in the ongoing narrative and world-building efforts. It connects to various other elements and provides dept
+*The air carries the scent of [appropriate smell].*h to the campaign setting. Moreover, ## Key Features ### Primary Aspects - **Core Function**: Central purpose and role
 - **Unique Traits**: Distinguishing characteristics
 - **Connections**: Links to other elements ### Secondary Aspects - Supporting details
 - Environmental factors
@@ -45,3 +54,8 @@ publish: false --- # MULTIMEDIA GENERATION COMPLETE ## Overview MULTIMEDIA GENER
 **Key Question**: What role will this play in the greater story?
 
 *Every story needs its heroes.*
+
+## Visual References
+![[04_Resources/Assets/Items/Items/item_illusion_generation_mirrors_icon.png]]
+![[04_Resources/Assets/Items/Items/item_illusion_generation_mirrors_display.png]]
+![[04_Resources/Assets/Generated/Misc/complete_faction_warfare_system_resource_management.png]]

@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:36.313042
+modified: 2025-08-15T12:25:36.313048
+aliases: [Quest - Refugees of the Deep]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   Refugees Of The Deep
 
 > *The fate of many hangs in the balance...*
@@ -53,6 +73,7 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Refugees of the Deep ---
 
+*The air carries the scent of [appropriate smell].*
 title: Quest Refugees of the Deep
 type: NPC
 tags:

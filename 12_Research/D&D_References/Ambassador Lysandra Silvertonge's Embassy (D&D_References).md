@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Ambassador Lysandra Silvertonge's Embassy (D&D_References)
 type: note
@@ -32,7 +33,8 @@ tags:
 - aquabyssos
 - person
 - research
-- active
+- acti
+*The [texture] surface feels [description] to the touch.*ve
 
 created: '2025-08-11'
 modified: '2025-08-14'

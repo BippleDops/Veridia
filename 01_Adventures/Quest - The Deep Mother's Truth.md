@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:46.185443
+modified: 2025-08-15T12:24:46.185445
+aliases: [Quest - The Deep Mother's Truth]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Deep Mother'S Truth
 
 > *What starts as simple becomes legendary...* This remarkable element adds depth and intrigue to any campaign.
@@ -53,7 +74,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-deep-mother-s-truth-quest-the-deep-mother-s-truth.svg) # Quest - The Deep Mother's Truth ---
+![](04_Resources
+*Sounds of [relevant sounds] echo in the distance.*/Assets/Portraits/portrait-npc-quest-the-deep-mother-s-truth-quest-the-deep-mother-s-truth.svg) # Quest - The Deep Mother's Truth ---
 
 title: Quest The Deep Mother's Truth
 type: NPC

@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:29.670042
+modified: 2025-08-15T12:25:29.670048
+aliases: [Quest - The Runaway Golem]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Adventure Hooks|Adventure Hooks]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Runaway Golem
 
 
@@ -48,7 +69,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-runaway-golem-quest-the-runaway-golem.svg) # Quest - The Runaway Golem ---
+![](04_Resources
+*The [texture] surface feels [description] to the touch.*/Assets/Portraits/portrait-npc-quest-the-runaway-golem-quest-the-runaway-golem.svg) # Quest - The Runaway Golem ---
 
 title: Quest The Runaway Golem
 type: NPC

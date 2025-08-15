@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:47.002923
+modified: 2025-08-15T12:24:47.002926
+aliases: [Quest - Ascension]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Ascension"]
@@ -59,7 +79,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Ascension ---
 
-title: Quest Ascension
+title: Que
+*The air carries the scent of [appropriate smell].*st Ascension
 type: Lore
 tags:
 - lore

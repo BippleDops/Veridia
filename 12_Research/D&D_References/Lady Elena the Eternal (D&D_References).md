@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Lady Elena the Eternal (D&D_References)
 type: note
@@ -34,7 +35,8 @@ tags:
 - research
 
 created: '2025-08-11'
-modified: '2025-08-14'
+modi
+*Sounds of [relevant sounds] echo in the distance.*fied: '2025-08-14'
 status: active
 world: Aquabyssos
 updated: '2025-08-13T01:18:37.019707+00:00'

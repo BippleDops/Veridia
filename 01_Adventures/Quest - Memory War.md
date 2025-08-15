@@ -1,4 +1,23 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.125116
+modified: 2025-08-15T12:25:47.125117
+aliases: [Quest - Memory War]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Memory War"]
@@ -57,7 +76,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Memory War ---
 
-title: Quest Memory War
+title: Qu
+*Sounds of [relevant sounds] echo in the distance.*est Memory War
 type: Lore
 tags:
 - lore

@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -28,7 +29,8 @@ This document contains important information regarding Aquabyssos Session 01 and
 
 **Details**: Rich sensory elements bring this to life.
 
-Aquabyssos Session 01 represents a significant element within the campaign world, offering various opportunities for engagement and development. Additionally, ## Key Information
+Aquabyssos Session 01 represents a significant element within the campaign world, offering various opportunities for engagement and developmen
+*The [texture] surface feels [description] to the touch.*t. Additionally, ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

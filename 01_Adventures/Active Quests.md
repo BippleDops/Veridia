@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.954771
+modified: 2025-08-15T12:24:55.954775
+aliases: [Active Quests]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Active Quests"]
@@ -66,7 +86,8 @@ publish: false
 Detailed description pending.
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
-- Multiple entry points for different play styles
+-
+*The [texture] surface feels [description] to the touch.* Multiple entry points for different play styles
 - Connections to overarching campaign themes ## Encounter Scaling | Party Level | 3 Players | 4 Players | 5 Players | 6 Players |
 
 

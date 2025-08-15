@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:43.976116
+modified: 2025-08-15T12:24:43.976121
+aliases: [Quest - The Void Conspiracy]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary {#primary}|Primary {#primary}]]
+- [[#Notes {#notes}|Notes {#notes}]]
+- [[#Timeline {#timeline}|Timeline {#timeline}]]
+- [[#NPCs Involved {#npcs-involved}|NPCs Involved {#npcs-involved}]]
+- [[#Alternative Solutions {#alternative-solutions}|Alternative Solutions {#alternative-solutions}]]
+- [[#Stakes|Stakes]]
+- [[#Thematic Elements|Thematic Elements]]
+
+
 # Quest   The Void Conspiracy
 
 > *The fate of many hangs in the balance...* This remarkable element adds depth and intrigue to any campaign.
@@ -52,6 +73,7 @@ Detailed description pending.
 - Unexpected obstacles
 - Time pressure
 - Moral dilemmas > [!figure] Portrait
+*Sounds of [relevant sounds] echo in the distance.*
 
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-quest-the-void-conspiracy.png) # Quest - The Void Conspiracy ## Quest Giver
 

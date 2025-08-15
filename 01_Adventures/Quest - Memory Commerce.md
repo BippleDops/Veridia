@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:49.197070
+modified: 2025-08-15T12:24:49.197071
+aliases: [Quest - Memory Commerce]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Memory Commerce"]
@@ -59,7 +80,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Memory Commerce ---
 
-title: Quest Memory Commerce
+titl
+*The air carries the scent of [appropriate smell].*e: Quest Memory Commerce
 type: Lore
 tags:
 - lore

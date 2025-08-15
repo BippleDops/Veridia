@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Vault_Self_Improvement_Engine (D&D_References)
 type: note
@@ -34,7 +35,8 @@ tags:
 - research
 - active
 - qa
-- complete
+- 
+*Sounds of [relevant sounds] echo in the distance.*complete
 
 created: '2025-08-11'
 modified: '2025-08-14'
@@ -61,3 +63,23 @@ world: Both
 #world/world
 #world/setting
 #meta/reference
+
+## Visual References
+![[04_Resources/Assets/Maps/World/Continents/world_the_vault_keepers_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_vault_keeper_aurelia_crownguard_vault_keeper_aurelia_crownguard_svg_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_vault_breach_vault_breach_svg_physical.png]]
+
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

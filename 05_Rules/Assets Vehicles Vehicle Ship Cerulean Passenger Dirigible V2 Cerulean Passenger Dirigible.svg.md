@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Assets Vehicles Vehicle Ship Cerulean Passenger Dirigible V2 Cerulean Passenger Dirigible.svg
 aliases:
@@ -23,13 +24,14 @@ publish: false
 
 ---
 
- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Automated Improvements - Add macro/code for VTT implementation ### Interaction Improvements - Clarify interaction with multiclassing ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Magic_Items Improvements - Note how magic items affect this rule ### Simplified Improvements - Create simplified version for new players ### Monster_Use Improvements - Explain if/how monsters use this rule ### Session_Zero Improvements - Include session zero discussion points ## Mechanic Overview **System**: D&D 5th Edition
+ ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Automated Improvements - Add macro/code for VTT implementation ### Interaction Improvements - Clarify interaction with multiclassing ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### [[Magic_Items_Quick_Reference|Magic_Items]] Improvements - Note how magic items affect this rule ### Simplified Improvements - Create simplified version for new players ### Monster_Use Improvements - Explain if/how monsters use this rule ### Session_Zero Improvements - Include session zero discussion points ## Mechanic Overview **System**: D&D 5th Edition
 
 **Type**: Rule Variant / Subsystem / Optional Rule
 **Complexity**: Moderate
 **Purpose**: Enhance gameplay in specific situations ## Description
 
-**Details**: Rich sensory elements bring this to life. 04_Resources/Assets/Vehicles/vehicle-ship-cerulean-passenger-dirigible-v2-cerulean-passenger-dirigible.svg provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
+**Details**: Rich sensory elements bring this to life. 04_Resources/Assets/Vehicles/vehicle-ship-cerulean-passenger-dirigible-v2-cerulean-passenger-dirigible.svg provides a structured approach to ha
+*Sounds of [relevant sounds] echo in the distance.*ndling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
 
 The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
 2. **Setup**: Establish parameters and stakes
@@ -180,3 +182,6 @@ Solution: Adjust DCs and modifiers ## Designer Notes This mechanic aims to:
 #gameplay/quest
 #resource/item
 #meta/reference
+
+## Related Content
+*Enhanced with 1 new connections*

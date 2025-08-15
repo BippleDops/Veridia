@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Trade Arbitrator Marina Fairwave
 type: note
@@ -33,7 +34,8 @@ tags:
 - active
 - research
 
-created: '2025-08-11T13:08:45.821601+00:00'
+created: '2025-08-11
+*The air carries the scent of [appropriate smell].*T13:08:45.821601+00:00'
 modified: '2025-08-14'
 status: active
 world: Both
@@ -59,3 +61,29 @@ updated: '2025-08-13T01:18:34.537063+00:00'
 #world/world
 #world/setting
 #meta/reference
+
+## Realm Connections
+
+### Connection to Aethermoor
+This connects to the sky realm of Sky realm of eternal winds and floating islands.
+
+- **Ruling Power**: The Windlord Council
+- **Capital**: [[Skylance Citadel]]
+- **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
+- **Current Conflict**: The Void Incursion, Elemental Convergence
+- **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
+
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+navigate floating islands connected by bridges of solidified cloud.
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

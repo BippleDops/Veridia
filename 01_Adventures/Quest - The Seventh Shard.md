@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:56.720369
+modified: 2025-08-15T12:24:56.720370
+aliases: [Quest - The Seventh Shard]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Seventh Shard
 
 > *Time is running out...*
@@ -53,7 +73,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Seventh Shard ---
 
-title: Quest The Seventh Shard
+ti
+*The air carries the scent of [appropriate smell].*tle: Quest The Seventh Shard
 type: Quest
 tags:
 - both

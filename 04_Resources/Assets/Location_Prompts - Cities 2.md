@@ -1,3 +1,9 @@
+---
+tags: [location, place]
+type: location
+aliases: ["Location Prompts - Cities 2"]
+---
+
 
 ## Culture & Daily Life
 

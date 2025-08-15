@@ -1,4 +1,22 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.107809
+modified: 2025-08-15T12:25:47.107811
+aliases: [Quest - Harbor Expansion 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Harbor Expansion 1 (01 Adventures)"]
@@ -84,7 +102,8 @@ publish: false
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
-5. Hidden or secret areas ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Sensory Details **Sights**: The architecture features sweeping arches and ornate carvings **Sounds**: Distant music drifts from a nearby tavern **Smells**: The tang of salt air permeates everything ## Description Quest - Harbor Expansion is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region. **Type**: Settlement/Landmark/Region
+5. Hidden or secret areas ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Sensory Details **Sights**: The architecture features sweeping arches and ornate carvings **Sounds**: Distant music drifts from a nearby tavern **Smells**: The tang of salt air permeates everything ## Description Quest - Harbor Expansion is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
+*Sounds of [relevant sounds] echo in the distance.* **Type**: Settlement/Landmark/Region
 
 
 **Size**: Appropriate to location type

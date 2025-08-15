@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: The Kelp Witches
 type: note
@@ -35,7 +36,8 @@ tags:
 - active
 
 created: '2025-08-11'
-modified: '2025-08-14'
+mo
+*The [texture] surface feels [description] to the touch.*dified: '2025-08-14'
 status: active
 world: Aquabyssos
 updated: '2025-08-13T01:18:34.539676+00:00'

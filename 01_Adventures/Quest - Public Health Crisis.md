@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:49.208589
+modified: 2025-08-15T12:24:49.208590
+aliases: [Quest - Public Health Crisis]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   Public Health Crisis
 
 > *The fate of many hangs in the balance...* This remarkable element adds depth and intrigue to any campaign.
@@ -53,6 +74,7 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Public Health Crisis ---
 
+*The air carries the scent of [appropriate smell].*
 title: Quest Public Health Crisis
 type: Lore
 tags:

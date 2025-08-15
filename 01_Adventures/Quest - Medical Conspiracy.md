@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:50.980154
+modified: 2025-08-15T12:25:50.980156
+aliases: [Quest - Medical Conspiracy]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - Medical Conspiracy
 type: quest
@@ -29,7 +46,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Medical Conspiracy ---
 
-title: Quest Medical Conspiracy
+t
+*The [texture] surface feels [description] to the touch.*itle: Quest Medical Conspiracy
 type: Lore
 tags:
 - lore

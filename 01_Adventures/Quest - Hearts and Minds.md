@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.057779
+modified: 2025-08-15T12:24:55.057781
+aliases: [Quest - Hearts and Minds]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Hearts and Minds"]
@@ -62,7 +82,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Hearts and Minds ---
 
-title: Quest Hearts and Minds
+tit
+*The [texture] surface feels [description] to the touch.*le: Quest Hearts and Minds
 type: Lore
 tags:
 - lore

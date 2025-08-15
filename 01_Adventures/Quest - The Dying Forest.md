@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:46.195516
+modified: 2025-08-15T12:24:46.195518
+aliases: [Quest - The Dying Forest]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Thematic Elements|Thematic Elements]]
+
+
 # Quest   The Dying Forest
 
 
@@ -56,7 +77,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-dying-forest-quest-the-dying-forest.svg) # Quest - The Dying Forest ---
+![](04_Resources
+*Sounds of [relevant sounds] echo in the distance.*/Assets/Portraits/portrait-npc-quest-the-dying-forest-quest-the-dying-forest.svg) # Quest - The Dying Forest ---
 
 title: Quest The Dying Forest
 type: NPC

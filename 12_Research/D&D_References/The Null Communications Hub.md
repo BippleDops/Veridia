@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: The Null Communications Hub
 type: note
@@ -34,7 +35,8 @@ tags:
 - research
 - active
 
-created: '2025-08-11'
+created: '2025
+*Sounds of [relevant sounds] echo in the distance.*-08-11'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos

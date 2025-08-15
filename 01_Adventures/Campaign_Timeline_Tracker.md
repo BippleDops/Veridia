@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:42.789547
+modified: 2025-08-15T12:25:42.789550
+aliases: [Campaign Timeline Tracker]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Visual References|Visual References]]
+
+
+---
 tags: [misc]
 type: misc
 aliases: ["Campaign Timeline Tracker"]
@@ -61,7 +82,8 @@ tags:
 - note
 
 created: '2025-08-14'
-modified: '2025-08-14'
+mo
+*The air carries the scent of [appropriate smell].*dified: '2025-08-14'
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Planning Improvements - Define clear objectives for the session ### Structure Improvements - Create scene-by-scene breakdown ### Contingency Improvements - Prepare for different player choices ### Engagement Improvements - Ensure each player gets spotlight moment ### Meta Improvements - Address any table/player issues ### X_Factor Improvements - Add one surprising element ### Props Improvements - List physical props and handouts to prepare ### Environment Improvements - Use environment as active element ### Callbacks Improvements - Reference previous session moments ### Timer Improvements - Include timed challenge or deadline ### Mood Improvements - Define intended emotional arc ## Current Date
 
@@ -181,3 +203,9 @@ modified: '2025-08-14'
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/_cross_campaign_organizations.png]]
+![[04_Resources/Assets/Generated/Misc/parliament_of_shadows_campaign.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_cross_campaign_locations_player.png]]

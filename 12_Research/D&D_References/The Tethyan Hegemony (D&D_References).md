@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: The Tethyan Hegemony (D&D_References)
 type: note
@@ -32,7 +33,8 @@ tags:
 - aquabyssos
 - lore
 - historical-events
-- empires
+- e
+*The air carries the scent of [appropriate smell].*mpires
 - research
 - aquabyssos-history
 - active

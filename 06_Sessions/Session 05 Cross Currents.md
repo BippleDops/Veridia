@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:36.309756
+modified: 2025-08-15T12:24:36.309761
+aliases: [Session 05 Cross Currents]
+---
+
 # Session 05 Cross Currents
 
 
@@ -34,7 +42,8 @@ tags:
 - diplomacy
 - session-guide
 - research
-- world/both
+- world/
+*The [texture] surface feels [description] to the touch.*both
 - active
 - exploration
 - campaign/seven-shards created: '2025-08-13'

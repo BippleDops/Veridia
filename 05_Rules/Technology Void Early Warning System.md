@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Technology Void Early Warning System
 type: mechanics
@@ -28,7 +29,8 @@ publish: false
 **Complexity**: Moderate
 **Purpose**: Enhance gameplay in specific situations ## Description
 
-**Details**: Rich sensory elements bring this to life. 02_Worldbuilding/Technology/Void Early Warning System provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
+**Details**: Rich sensory elements bring this to life. 02_Worldbuilding/Technology/Void Early Warning System provides a structured approach to handling specific game situations that benefit from add
+*Sounds of [relevant sounds] echo in the distance.*itional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
 
 The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
 2. **Setup**: Establish parameters and stakes
@@ -174,20 +176,20 @@ Elena tries to jump while carrying an unconscious ally in heavy rain. DC increas
 
 ## Official Rules Reference ### Core Rulebooks
 
-- **General Rules**: PHB Chapter 7-10
-- **DM Guidelines**: DMG Chapter 8
-- **Variant Rules**: DMG Chapter 9
-- **Optional Rules**: TCE p.4-8
+- **General Rules**: ACX Chapter 7-10
+- **DM Guidelines**: WWT Chapter 8
+- **Variant Rules**: WWT Chapter 9
+- **Optional Rules**: TMF p.4-8
 - **UA Playtest Material**: D&D Beyond UA Archive
-- **Expansion Content**: Check specific setting books ### Optional Rules (DMG)
+- **Expansion Content**: Check specific setting books ### Optional Rules (WWT)
 
-- Consider variant rules from DMG Chapter 9
-- Review optional class features from TCE ### Sage Advice
+- Consider variant rules from WWT Chapter 9
+- Review optional class features from TMF ### Sage Advice
 
 - Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice) ### Common Table Rulings
 
 - Document house rules clearly
-- Maintain consistency across sessions ## Variant Rules Options ### From DMG Chapter 9
+- Maintain consistency across sessions ## Variant Rules Options ### From WWT Chapter 9
 
 - **Proficiency Dice**: Roll dice instead of flat bonus
 - **Hero Points**: Narrative currency system
@@ -196,10 +198,10 @@ Elena tries to jump while carrying an unconscious ally in heavy rain. DC increas
 - **Massive Damage**: System shock rules
 - **Morale**: When enemies flee ### From Other Sources
 
-- **Spell Points** (DMG p.288): Alternative to slots
-- **Gritty Realism** (DMG p.267): Longer rests
-- **Side Initiative** (DMG p.270): Group turns
-- **Facing** (DMG p.252): Directional combat ### Table Consideration
+- **Spell Points** (WWT p.288): Alternative to slots
+- **Gritty Realism** (WWT p.267): Longer rests
+- **Side Initiative** (WWT p.270): Group turns
+- **Facing** (WWT p.252): Directional combat ### Table Consideration
 
 Discuss with players before implementing
 

@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:29.654206
+modified: 2025-08-15T12:25:29.654208
+aliases: [Quest - The Corporate Coup]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Corporate Coup
 
 > *The fate of many hangs in the balance...*
@@ -53,7 +73,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Corporate Coup ---
 
-title: Quest The Corporate Coup
+t
+*The air carries the scent of [appropriate smell].*itle: Quest The Corporate Coup
 type: Lore
 tags:
 - lore

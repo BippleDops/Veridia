@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Mechanics Custom Classes
 type: mechanics
@@ -27,7 +28,8 @@ publish: false
 **Complexity**: Moderate
 **Purpose**: Enhance gameplay in specific situations ## Description
 
-**Details**: Rich sensory elements bring this to life. 03_Mechanics/Custom_Classes provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
+**Details**: Rich sensory elements bring this to life. 03_Mechanics/Custom_Classes provides a structured approach to handling specific game situations that benefit from additional mechanical depth. 
+*Sounds of [relevant sounds] echo in the distance.*This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
 
 The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
 2. **Setup**: Establish parameters and stakes
@@ -165,22 +167,22 @@ Solution: Adjust DCs and modifiers ## Designer Notes This mechanic aims to:
 
 ## Official Rules Reference ### Core Rulebooks
 
-- **Core Classes**: PHB Chapter 3
-- **Artificer**: TCE p.9-23
+- **Core Classes**: ACX Chapter 3
+- **Artificer**: TMF p.9-23
 - **Blood Hunter (Popular Homebrew)**: DM's Guild
-- **Optional Class Features**: TCE p.89-116
+- **Optional Class Features**: TMF p.89-116
 - **UA Class Variants**: Various UA documents
 - **Wildemount Subclasses**: EGTW p.168-174
 - **Strixhaven Subclasses**: SCC p.28-35
-- **2024 Classes**: XPHB Chapter 3 ### Optional Rules (DMG)
+- **2024 Classes**: XACX Chapter 3 ### Optional Rules (WWT)
 
-- Consider variant rules from DMG Chapter 9
-- Review optional class features from TCE ### Sage Advice
+- Consider variant rules from WWT Chapter 9
+- Review optional class features from TMF ### Sage Advice
 
 - Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice) ### Common Table Rulings
 
 - Document house rules clearly
-- Maintain consistency across sessions ## Variant Rules Options ### From DMG Chapter 9
+- Maintain consistency across sessions ## Variant Rules Options ### From WWT Chapter 9
 
 - **Proficiency Dice**: Roll dice instead of flat bonus
 - **Hero Points**: Narrative currency system
@@ -189,10 +191,10 @@ Solution: Adjust DCs and modifiers ## Designer Notes This mechanic aims to:
 - **Massive Damage**: System shock rules
 - **Morale**: When enemies flee ### From Other Sources
 
-- **Spell Points** (DMG p.288): Alternative to slots
-- **Gritty Realism** (DMG p.267): Longer rests
-- **Side Initiative** (DMG p.270): Group turns
-- **Facing** (DMG p.252): Directional combat ### Table Consideration
+- **Spell Points** (WWT p.288): Alternative to slots
+- **Gritty Realism** (WWT p.267): Longer rests
+- **Side Initiative** (WWT p.270): Group turns
+- **Facing** (WWT p.252): Directional combat ### Table Consideration
 
 Discuss with players before implementing
 

@@ -1,3 +1,22 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:29.595696
+modified: 2025-08-15T12:25:29.595699
+aliases: [Quest - The Traitor Within]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Traitor Within
 
 > *The fate of many hangs in the balance...*
@@ -44,7 +63,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-traitor-within-quest-the-traitor-within.svg) # Quest - The Traitor Within ---
+![](04_Resources
+*Sounds of [relevant sounds] echo in the distance.*/Assets/Portraits/portrait-npc-quest-the-traitor-within-quest-the-traitor-within.svg) # Quest - The Traitor Within ---
 
 title: Quest The Traitor Within
 type: NPC

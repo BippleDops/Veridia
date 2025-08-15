@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:41.261914
+modified: 2025-08-15T12:24:41.261916
+aliases: [NPC3]
+---
+
 # Npc3
 
 > *A figure whose reputation precedes them...* This remarkable element adds depth and intrigue to any campaign.
@@ -19,7 +27,8 @@ tags:
 - linked created: '2025-01-15'
 - -- # NPC3 ## Portrait![[NPC3|Npc3]] * Portrait reference for NPC3* ## Overview This topic is referenced in [[Npc|Npc]] and other parts of the campaign. ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. An important element of the campaign world that connects to various other aspects of the adventure. ## Connections - Referenced by: [[Npc|Npc]]
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. An important element of the campaign world that connects to various other aspects of the adventure.
+*The air carries the scent of [appropriate smell].* ## Connections - Referenced by: [[Npc|Npc]]
 - Related topics in the same category ## Details Further information about this topic will be developed as the campaign progresses. ## Plot Hooks - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery ## Stats```statblock creature: Custom NPC```### Quick Stats - **AC**: *[Armor Class]*
@@ -67,3 +76,8 @@ tags:
 
 
 *Adventure awaits those brave enough to seek it.*
+
+## Visual References
+![[04_Resources/Assets/Portraits/NPCs/portrait_npc3.png]]
+![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc3_people_friendly.png]]
+![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc3_people_dramatic.png]]

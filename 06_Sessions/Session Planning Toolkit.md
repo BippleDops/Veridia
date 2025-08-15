@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:38.600655
+modified: 2025-08-15T12:24:38.600660
+aliases: [Session Planning Toolkit]
+---
+
 # Session Planning Toolkit
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -32,7 +40,8 @@ tags:
 - dashboard
 - both
 - research
-- active created: '2025-08-11'
+- active cre
+*The [texture] surface feels [description] to the touch.*ated: '2025-08-11'
 modified: '2025-08-14'
 status: active
 world: Both

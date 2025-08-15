@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.069761
+modified: 2025-08-15T12:24:55.069762
+aliases: [Quest - The Phantom Fleet]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Phantom Fleet
 
 > *Time is running out...* This remarkable element adds depth and intrigue to any campaign.
@@ -53,7 +73,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Phantom Fleet ---
 
-title: Quest The Phantom Fleet
+ti
+*The [texture] surface feels [description] to the touch.*tle: Quest The Phantom Fleet
 type: Lore
 tags:
 - lore

@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Legal System of Aquabyssos Procedures
 type: mechanics
@@ -28,7 +29,8 @@ publish: false
 **Complexity**: Moderate
 **Purpose**: Enhance gameplay in specific situations ## Description
 
-**Details**: Rich sensory elements bring this to life. Legal System of Aquabyssos/Procedures provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
+**Details**: Rich sensory elements bring this to life. Legal System of Aquabyssos/Procedures provides a structured approach to handling specific game situations that benefit from additional mechanic
+*The [texture] surface feels [description] to the touch.*al depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
 
 The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
 2. Additionally, **Setup**: Establish parameters and stakes
@@ -193,15 +195,15 @@ A: Supernatural abilities suppressed, mundane portions still function ## Balance
 > Work together and communicate
 ## Official Rules Reference ### Core Rulebooks
 
-- **General Rules**: PHB Chapter 7-10
-- **DM Guidelines**: DMG Chapter 8
-- **Variant Rules**: DMG Chapter 9
-- **Optional Rules**: TCE p.4-8
+- **General Rules**: ACX Chapter 7-10
+- **DM Guidelines**: WWT Chapter 8
+- **Variant Rules**: WWT Chapter 9
+- **Optional Rules**: TMF p.4-8
 - **UA Playtest Material**: D&D Beyond UA Archive
-- **Expansion Content**: Check specific setting books ### Optional Rules (DMG)
+- **Expansion Content**: Check specific setting books ### Optional Rules (WWT)
 
-- Consider variant rules from DMG Chapter 9
-- Review optional class features from TCE ### Sage Advice
+- Consider variant rules from WWT Chapter 9
+- Review optional class features from TMF ### Sage Advice
 
 - Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice) ### Common Table Rulings
 
@@ -228,3 +230,8 @@ A: Supernatural abilities suppressed, mundane portions still function ## Balance
 #gameplay/encounter
 #gameplay/quest
 #meta/reference
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_legal_defense_network.png]]
+![[04_Resources/Assets/Generated/Misc/cross_cultural_legal_association.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_legal_education_gm.png]]

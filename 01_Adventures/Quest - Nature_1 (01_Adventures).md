@@ -1,4 +1,23 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:39.029604
+modified: 2025-08-15T12:25:39.029608
+aliases: [Quest - Nature 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Nature 1 (01 Adventures)"]
@@ -83,7 +102,8 @@ Detailed description pending.
 
 - **Name**: Local authority figure
 - **Location**: Town center
-- **Motivation**: Community safety ## Objectives
+- **Motivation**
+*Sounds of [relevant sounds] echo in the distance.*: Community safety ## Objectives
 
 
 ### Primary

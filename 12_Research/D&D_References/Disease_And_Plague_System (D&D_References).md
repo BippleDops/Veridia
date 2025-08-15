@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Disease_And_Plague_System (D&D_References)
 type: note
@@ -34,7 +35,8 @@ tags:
 - active
 - universal
 
-created: '2025-08-11'
+cre
+*The air carries the scent of [appropriate smell].*ated: '2025-08-11'
 modified: '2025-08-14'
 status: complete
 updated: '2025-08-13T01:18:37.113633+00:00'
@@ -61,3 +63,23 @@ obsidian UIMode: preview
 #world/world
 #world/setting
 #meta/reference
+
+## Visual References
+![[04_Resources/Assets/Locations/location-city-plague-crisis-plague-crisis.png]]
+![[04_Resources/Assets/Locations/location-city-plague-crisis-v1-plague-crisis.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_the_depth_plague_the_depth_plague_svg_player.png]]
+
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

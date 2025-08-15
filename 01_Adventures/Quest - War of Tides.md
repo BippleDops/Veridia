@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.999173
+modified: 2025-08-15T12:25:47.999174
+aliases: [Quest - War of Tides]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - War of Tides
 type: quest
@@ -29,7 +46,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - War of Tides ---
 
-title: Quest War of Tides
+title: 
+*The air carries the scent of [appropriate smell].*Quest War of Tides
 type: Lore
 tags:
 - lore

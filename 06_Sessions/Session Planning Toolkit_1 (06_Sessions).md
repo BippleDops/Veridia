@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:36.183237
+modified: 2025-08-15T12:24:36.183238
+aliases: [Session Planning Toolkit 1 (06 Sessions)]
+---
+
 # Session Planning Toolkit 1 (06 Sessions)
 
 
@@ -27,7 +35,8 @@ tags:
 - active
 - gm_resource
 - complete
-- session-planning created: '2025-08-11'
+- session-planning c
+*The [texture] surface feels [description] to the touch.*reated: '2025-08-11'
 modified: '2025-08-14'
 status: complete
 world: Both

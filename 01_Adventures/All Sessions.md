@@ -1,4 +1,23 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.797378
+modified: 2025-08-15T12:24:55.797383
+aliases: [All Sessions]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [misc]
 type: misc
 aliases: ["All Sessions"]
@@ -51,7 +70,8 @@ This document contains important information regarding All Sessions and its role
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
 
-All Sessions represents a significant element within the campaign world, offering various opportunities for engagement and development. Subsequently, ## Key Information
+All Sessions represents a significant element within the campaign world, offering various opportunities for engagement an
+*The air carries the scent of [appropriate smell].*d development. Subsequently, ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

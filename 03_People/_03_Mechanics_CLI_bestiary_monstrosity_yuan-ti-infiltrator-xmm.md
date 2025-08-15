@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:43.086597
+modified: 2025-08-15T12:24:43.086600
+aliases: [ 03 Mechanics CLI bestiary monstrosity yuan-ti-infiltrator-xmm]
+---
+
 #  03 Mechanics Cli Bestiary Monstrosity Yuan Ti Infiltrator Xmm
 
 
@@ -25,7 +33,8 @@ publish: false --- # /03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-
 **Complexity**: Moderate
 **Purpose**: Enhance gameplay in specific situations ## Description
 
-**Details**: Rich sensory elements bring this to life. /03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ## Core Mechanics ### Basic Resolution The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
+**Details**: Rich sensory elements bring this to life. /03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm provides a structured approach to handling specific game situations that benefit
+*The air carries the scent of [appropriate smell].* from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ## Core Mechanics ### Basic Resolution The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
 2. **Setup**: Establish parameters and stakes
 3. **Action**: Players create choices using the system
 4. **Resolution**: Determine outcomes based on rolls and decisions
@@ -160,3 +169,8 @@ publish: false --- # /03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-
 
 
 *The adventure continues...*
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/faction_loyalty_mechanics.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_gravity_anomaly_mechanics_gm.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_gravity_anomaly_mechanics_gravity_anomaly_mechanics_svg_gm.png]]

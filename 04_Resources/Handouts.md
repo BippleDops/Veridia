@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: 04_Resources/Handouts
 type: lore
@@ -29,7 +30,8 @@ Detailed description pending.
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes ## Prophecy Connection Mentioned in The Hidden Prophecy of Winds ## Cultural Practices ### Greetings
+- Connections to overarching
+*The [texture] surface feels [description] to the touch.* campaign themes ## Prophecy Connection Mentioned in The Hidden Prophecy of Winds ## Cultural Practices ### Greetings
 
 - Touch foreheads for equals
 - Bow deeply to superiors
@@ -66,3 +68,8 @@ Detailed description pending.
 #story/story
 #story/lore
 #world/world
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/04_resources_assets_handouts_handout_handout_cult_text_with_marginalia_v2_cult_text_with_marginalia_png.png]]
+![[04_Resources/Assets/Generated/Misc/assets_handouts_handout_handout_cult_text_with_marginalia_v2_cult_text_with_marginalia_png.png]]
+![[04_Resources/Assets/Generated/Misc/04_resources_assets_handouts_handout_handout_council_summons_notice_v3_council_summons_notice_png.png]]

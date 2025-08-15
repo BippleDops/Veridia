@@ -1,3 +1,22 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.127973
+modified: 2025-08-15T12:25:47.127974
+aliases: [Quest - Truth Market]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
 # Quest   Truth Market
 
 
@@ -51,7 +70,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Truth Market ---
 
-title: Quest Truth Market
+title: 
+*The [texture] surface feels [description] to the touch.*Quest Truth Market
 type: Lore
 tags:
 - lore

@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:48.031099
+modified: 2025-08-15T12:25:48.031101
+aliases: [Quest - The New World Order]
+---
+
+## Table of Contents
+- [[#Primary|Primary]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -46,7 +63,8 @@ This document contains important information regarding Quest - The New World Ord
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
 
-Quest - The New World Order represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+Quest - The New World Order represents a significant element within the campaign world, offering various opportunities fo
+*Sounds of [relevant sounds] echo in the distance.*r engagement and development. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

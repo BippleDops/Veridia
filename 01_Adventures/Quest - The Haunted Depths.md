@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:37.922458
+modified: 2025-08-15T12:25:37.922463
+aliases: [Quest - The Haunted Depths]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Haunted Depths
 
 > *The fate of many hangs in the balance...*
@@ -53,7 +74,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Haunted Depths ---
 
-title: Quest The Haunted Depths
+t
+*The [texture] surface feels [description] to the touch.*itle: Quest The Haunted Depths
 type: Lore
 tags:
 - lore

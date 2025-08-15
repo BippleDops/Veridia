@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:30.486276
+modified: 2025-08-15T12:25:30.486280
+aliases: [Quest - Parliamentary Infiltratio]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+
+
 # Quest   Parliamentary Infiltratio
 
 > *The fate of many hangs in the balance...*
@@ -52,7 +73,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - Parliamentary Infiltratio ---
+- Moral dilemmas # Quest - Parliamentary Infiltratio
+*Sounds of [relevant sounds] echo in the distance.* ---
 
 title: Quest Parliamentary Infiltratio
 type: Group

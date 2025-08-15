@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Skill Checks
 type: mechanics
@@ -30,7 +31,8 @@ publish: false
 Detailed description pending.
 - Specific trigger conditions are met
 - Players request this type of action
-- The situation calls for additional detail ### Example 1: Basic Application
+- The situation calls for additional
+*Sounds of [relevant sounds] echo in the distance.* detail ### Example 1: Basic Application
 
 *Scenario*: Simple use case
 *Resolution*: How to handle it
@@ -80,16 +82,16 @@ Detailed description pending.
 
 ## Official Rules Reference ### Core Rulebooks
 
-- **Ability Checks**: PHB Chapter 7 (p.171-179)
-- **Skills**: PHB p.174-179
-- **Passive Checks**: PHB p.175
-- **Working Together**: PHB p.175
-- **Skill Expertise (Optional)**: TCE p.79-80
-- **Tool Proficiencies**: XGE p.78-85
-- **UA Skill Feats**: Various UA documents ### Optional Rules (DMG)
+- **Ability Checks**: ACX Chapter 7 (p.171-179)
+- **Skills**: ACX p.174-179
+- **Passive Checks**: ACX p.175
+- **Working Together**: ACX p.175
+- **Skill Expertise (Optional)**: TMF p.79-80
+- **Tool Proficiencies**: XSR p.78-85
+- **UA Skill Feats**: Various UA documents ### Optional Rules (WWT)
 
-- Consider variant rules from DMG Chapter 9
-- Review optional class features from TCE ### Sage Advice
+- Consider variant rules from WWT Chapter 9
+- Review optional class features from TMF ### Sage Advice
 
 - Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice) ### Common Table Rulings
 
@@ -111,3 +113,6 @@ Detailed description pending.
 #gameplay/session
 #gameplay/quest
 #meta/reference
+
+## Visual References
+![[04_Resources/Assets/Placeholder Images/SkillsTitleBar.png]]

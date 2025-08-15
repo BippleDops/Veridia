@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:38.598325
+modified: 2025-08-15T12:24:38.598333
+aliases: [Session 5 the Wind Singer]
+---
+
 # Session 5 The Wind Singer
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -32,7 +40,8 @@ tags:
 - levels-4-6
 - spiritual-journey
 - research
-- world/aethermoor
+- wor
+*The [texture] surface feels [description] to the touch.*ld/aethermoor
 - active
 - complete
 - status/in-progress

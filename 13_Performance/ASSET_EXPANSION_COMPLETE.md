@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 13_performance]
+created: 2025-08-15T12:24:41.081122
+modified: 2025-08-15T12:24:41.081124
+aliases: [ASSET EXPANSION COMPLETE]
+---
+
 # Asset Expansion Complete
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -15,7 +23,8 @@ related: []
 cssclass: standard
 publish: false --- # ASSET EXPANSION COMPLETE ## Overview ASSET EXPANSION COMPLETE represents an important element within the campaign world. ## Description
 
-**Details**: Rich sensory elements bring this to life. This component serves a vital role in the ongoing narrative and world-building efforts. It connects to various other elements and provides depth to the campaign setting. Moreover, ## Key Features ### Primary Aspects - **Core Function**: Central purpose and role
+**Details**: Rich sensory elements bring this to life. This component serves a vital role in the ongoing narrative and world-building efforts. It connects to various other elements and provides dept
+*The [texture] surface feels [description] to the touch.*h to the campaign setting. Moreover, ## Key Features ### Primary Aspects - **Core Function**: Central purpose and role
 - **Unique Traits**: Distinguishing characteristics
 - **Connections**: Links to other elements ### Secondary Aspects - Supporting details
 - Environmental factors
@@ -50,3 +59,8 @@ publish: false --- # ASSET EXPANSION COMPLETE ## Overview ASSET EXPANSION COMPLE
 **Key Question**: What role will this play in the greater story?
 
 *Every story needs its heroes.*
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/assets_vehicles_vehicle_ship_crown_council_flagship_crown_council_flagship_svg.png]]
+![[04_Resources/Assets/Generated/Misc/04_resources_assets_art_places_syndicate_enforcers_png.png]]
+![[04_Resources/Assets/Generated/Misc/04_resources_assets_handouts_handout_handout_cult_text_with_marginalia_v2_cult_text_with_marginalia_png.png]]

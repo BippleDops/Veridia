@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: World_Bible_Index (D&D_References)
 type: note
@@ -33,7 +34,8 @@ tags:
 - content/lore
 - world/both
 - research
-- active
+- act
+*The air carries the scent of [appropriate smell].*ive
 - comprehensive
 - reference
 - world-bible
@@ -125,3 +127,23 @@ SORT file.mtime DESC --- *"Two worlds, seven shards, one truth: Everything is co
 #resource/item
 #meta/index
 #meta/reference
+
+## Visual References
+![[04_Resources/Assets/Maps/world-map.png]]
+![[04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_respiratory_engineering_guild.png]]
+![[04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_cultural_organization_md.png]]
+
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

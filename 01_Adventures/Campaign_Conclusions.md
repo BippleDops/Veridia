@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:46.961129
+modified: 2025-08-15T12:24:46.961131
+aliases: [Campaign Conclusions]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Visual References|Visual References]]
+
+
+---
 tags: [misc]
 type: misc
 aliases: ["Campaign Conclusions"]
@@ -65,7 +86,8 @@ publish: false
 Detailed description pending.
 **Final Location**: Capital city
 **Final Enemy**: Dark lord
-**Stakes**: World ending ### Climactic Battle
+**Stakes**: World ending ### Cl
+*Sounds of [relevant sounds] echo in the distance.*imactic Battle
 
 **Phase 1**: Chase sequence
 **Phase 2**: Lieutet fights
@@ -316,3 +338,8 @@ Detailed description pending.
 **Balance Note**: Adjust creature numbers based on party size and level.
 
 *Every story needs its heroes.*
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/_cross_campaign_organizations.png]]
+![[04_Resources/Assets/Generated/Misc/parliament_of_shadows_campaign.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_cross_campaign_locations_player.png]]

@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Market Square
 type: note
@@ -34,7 +35,8 @@ tags:
 - active
 - universal
 
-created: '2025-08-11'
+created: '2025-08-1
+*The [texture] surface feels [description] to the touch.*1'
 modified: '2025-08-14'
 status: active
 world: Universal
@@ -75,3 +77,17 @@ updated: '2025-08-13T01:18:34.517255+00:00'
 #gameplay/mission
 #meta/index
 #meta/reference
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

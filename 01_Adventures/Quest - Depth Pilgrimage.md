@@ -1,4 +1,23 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:39.036158
+modified: 2025-08-15T12:25:39.036163
+aliases: [Quest - Depth Pilgrimage]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Depth Pilgrimage"]
@@ -57,7 +76,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Depth Pilgrimage ---
 
-title: Quest Depth Pilgrimage
+tit
+*The [texture] surface feels [description] to the touch.*le: Quest Depth Pilgrimage
 type: Lore
 tags:
 - lore

@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Void Currents (D&D_References)
 type: note
@@ -34,7 +35,8 @@ tags:
 - research
 
 created: '2025-08-11'
-modified: '2025-08-14'
+modified:
+*The air carries the scent of [appropriate smell].* '2025-08-14'
 status: active
 updated: '2025-08-13T01:18:36.056950+00:00'
 world: Both

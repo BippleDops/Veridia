@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:51.032196
+modified: 2025-08-15T12:25:51.032197
+aliases: [Quest - The Final Tide]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - The Final Tide
 type: quest
@@ -29,7 +46,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Final Tide ---
 
-title: Quest The Final Tide
+title
+*Sounds of [relevant sounds] echo in the distance.*: Quest The Final Tide
 type: Lore
 tags:
 - lore

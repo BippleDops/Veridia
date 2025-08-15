@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, d&d_references]
+created: 2025-08-15T12:25:56.655763
+modified: 2025-08-15T12:25:56.655769
+aliases: [Encounter Builder (D&D References)]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Action Economy ### On Your Turn (ACX p.189)|Action Economy ### On Your Turn (ACX p.189)]]
+- [[#Notes|Notes]]
+- [[#Visual References|Visual References]]
+- [[#Realm Connections|Realm Connections]]
+- [[#Connection to Aquabyssos|Connection to Aquabyssos]]
+
+
+---
 
 title: Encounter_Builder (D&D_References)
 type: note
@@ -33,7 +50,8 @@ tags:
 - both
 - encounters
 - research
-- active
+- a
+*Sounds of [relevant sounds] echo in the distance.*ctive
 - combat
 - complete
 - gm_resource
@@ -107,12 +125,12 @@ updated: '2025-08-13T01:18:31.117537+00:00'
 > 💡 **Running This Content**: Advice for game masters
 
 > Adjust difficulty based on party composition
-## Action Economy ### On Your Turn (PHB p.189)
+## Action Economy ### On Your Turn (ACX p.189)
 
 - **Movement**: Up to your speed
 - **Action**: One action from available options
 - **Bonus Action**: If you have an ability that uses it
-- **Free Actions**: Interact with one object, speak ### Actions Available (PHB p.192)
+- **Free Actions**: Interact with one object, speak ### Actions Available (ACX p.192)
 
 - **Attack**: Make one attack (more with Extra Attack)
 - **Cast a Spell**: Cast time of 1 action
@@ -123,7 +141,7 @@ updated: '2025-08-13T01:18:31.117537+00:00'
 - **Hide**: Stealth check to hide
 - **Ready**: Prepare action with trigger
 - **Search**: Perception or Investigation
-- **Use an Object**: Interact with object ### Reactions (PHB p.190)
+- **Use an Object**: Interact with object ### Reactions (ACX p.190)
 
 - One reaction per round
 - Resets at start of your turn
@@ -147,3 +165,23 @@ updated: '2025-08-13T01:18:31.117537+00:00'
 #character/creature
 #gameplay/encounter
 #meta/reference
+
+## Visual References
+![[04_Resources/Assets/Digital/ui-ui-encounter-control-board-v1-encounter-control-board.png]]
+![[04_Resources/Assets/Digital/ui-ui-encounter-control-board-encounter-control-board.png]]
+![[04_Resources/Assets/Digital/ui-ui-encounter-control-board-v2-encounter-control-board.png]]
+
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

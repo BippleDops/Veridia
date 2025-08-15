@@ -1,4 +1,22 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.900437
+modified: 2025-08-15T12:25:47.900441
+aliases: [Quest - The Missing Guards]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Session Prep|Session Prep]]
+
+
+---
 
 title: Quest - The Missing Guards
 type: quest
@@ -29,7 +47,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-missing-guards-quest-the-missing-guards.svg) # Quest - The Missing Guards ---
+![](04_Resources
+*The [texture] surface feels [description] to the touch.*/Assets/Portraits/portrait-npc-quest-the-missing-guards-quest-the-missing-guards.svg) # Quest - The Missing Guards ---
 
 title: Quest The Missing Guards
 type: npc

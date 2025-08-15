@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:30.483127
+modified: 2025-08-15T12:25:30.483133
+aliases: [Quest - The Brother's Burden]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Brother'S Burden
 
 > *What starts as simple becomes legendary...*
@@ -53,7 +73,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-brother-s-burden-quest-the-brother-s-burden.svg) # Quest - The Brother's Burden ---
+![](04_Resources
+*Sounds of [relevant sounds] echo in the distance.*/Assets/Portraits/portrait-npc-quest-the-brother-s-burden-quest-the-brother-s-burden.svg) # Quest - The Brother's Burden ---
 
 title: Quest The Brother's Burden
 type: NPC

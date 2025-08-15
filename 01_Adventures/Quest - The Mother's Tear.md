@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:31.781253
+modified: 2025-08-15T12:25:31.781255
+aliases: [Quest - The Mother's Tear]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Mother'S Tear
 
 > *The fate of many hangs in the balance...*
@@ -53,7 +74,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Mother's Tear ---
 
-title: Quest The Mother's Tear
+ti
+*The [texture] surface feels [description] to the touch.*tle: Quest The Mother's Tear
 type: Lore
 tags:
 - lore

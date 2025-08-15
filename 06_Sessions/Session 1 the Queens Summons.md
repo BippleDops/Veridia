@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:37.086392
+modified: 2025-08-15T12:24:37.086398
+aliases: [Session 1 the Queens Summons]
+---
+
 # Session 1 The Queens Summons
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -23,7 +31,8 @@ tags:
 - political-intrigue
 - research
 - content/npc
-- world/aethermoor
+
+*The air carries the scent of [appropriate smell].*- world/aethermoor
 - active
 - complete
 - status/in-progress

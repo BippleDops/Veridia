@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Councilor Marcus Traditionkeeper (D&D_References)
 type: note
@@ -33,7 +34,8 @@ tags:
 - location
 - research
 
-created: '2025-08-11'
+create
+*Sounds of [relevant sounds] echo in the distance.*d: '2025-08-11'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos

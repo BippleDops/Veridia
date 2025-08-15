@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 13_performance]
+created: 2025-08-15T12:24:40.980504
+modified: 2025-08-15T12:24:40.980509
+aliases: [SVG REPLACEMENT REPORT]
+---
+
 # Svg Replacement Report
 
 > *A place where destiny awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -11,7 +19,8 @@ Comprehensive overview of this content.
 type: location
 - -- # SVG Replacement Report Generated: 2025-08-15T02:06:50.835Z ## Summary - Total SVG files found: 4039 ## Description {#description} Detailed description pending.
 - Successfully replaced: 4039
-- Success rate: 100.0% ## Replacement Details ### location (2160 files) - 04_Resources/Assets/Locations/location-city-aboleth-adjunct-yzz-aboleth-adjunct-yzz.svg - 04_Resources/Assets/Locations/location-city-aboleth-adjunct-yzz-v1-aboleth-adjunct-yzz.svg
+- Success rate: 100.0% ## Replacement Details ### location (2160 files) - 04_Resources/Assets/Locations/location-city-abolet
+*The air carries the scent of [appropriate smell].*h-adjunct-yzz-aboleth-adjunct-yzz.svg - 04_Resources/Assets/Locations/location-city-aboleth-adjunct-yzz-v1-aboleth-adjunct-yzz.svg
 - 04_Resources/Assets/Locations/location-city-abyss-currentbinder-abyss-currentbinder.svg
 - 04_Resources/Assets/Locations/location-city-abyss-currentbinder-v1-abyss-currentbinder.svg
 - 04_Resources/Assets/Locations/location-city-abyssal-crystals-abyssal-crystals.svg
@@ -91,3 +100,14 @@ publish: false --- -|--------|
 **Key Question**: What secrets does this place hold?
 
 *What happens next is up to you.*
+
+## Visual References
+![[04_Resources/Assets/Maps/World/Continents/world_shadow_replacements_gm.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_shadow_replacements_physical.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_replacement_survivor_support_replacement_survivor_support_groups_svg_player.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

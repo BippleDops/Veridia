@@ -1,4 +1,22 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:50.880819
+modified: 2025-08-15T12:25:50.880822
+aliases: [Quest - The Shattered Memories]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Session Prep|Session Prep]]
+
+
+---
 
 title: Quest - The Shattered Memories
 type: quest
@@ -27,7 +45,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - The Shattered Memories ---
+- Moral dilemmas # Quest - The Shattered Memories --
+*Sounds of [relevant sounds] echo in the distance.*-
 
 title: Quest The Shattered Memories
 type: NPC

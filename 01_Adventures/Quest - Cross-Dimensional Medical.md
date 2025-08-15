@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.766206
+modified: 2025-08-15T12:24:55.766208
+aliases: [Quest - Cross-Dimensional Medical]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Cross-Dimensional Medical"]
@@ -57,7 +78,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - Cross-Dimensional Medical ---
+- Moral dilemmas # Quest - Cross-Dimensional Medical
+*The [texture] surface feels [description] to the touch.* ---
 
 title: Quest Cross Dimensional Medical
 type: Lore

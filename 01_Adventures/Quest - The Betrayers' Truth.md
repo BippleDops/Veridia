@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:46.226765
+modified: 2025-08-15T12:24:46.226766
+aliases: [Quest - The Betrayers' Truth]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Betrayers' Truth
 
 > *The fate of many hangs in the balance...* This remarkable element adds depth and intrigue to any campaign.
@@ -53,7 +74,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-betrayers-truth-quest-the-betrayers-truth.svg) # Quest - The Betrayers' Truth ---
+![](04_Resources
+*The air carries the scent of [appropriate smell].*/Assets/Portraits/portrait-npc-quest-the-betrayers-truth-quest-the-betrayers-truth.svg) # Quest - The Betrayers' Truth ---
 
 title: Quest The Betrayers' Truth
 type: NPC

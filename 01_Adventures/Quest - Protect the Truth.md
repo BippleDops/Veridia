@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:50.939467
+modified: 2025-08-15T12:25:50.939470
+aliases: [Quest - Protect the Truth]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - Protect the Truth
 type: quest
@@ -29,7 +46,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Protect the Truth ---
 
-title: Quest Protect the Truth
+ti
+*Sounds of [relevant sounds] echo in the distance.*tle: Quest Protect the Truth
 type: Lore
 tags:
 - lore

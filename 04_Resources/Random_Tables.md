@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: 04_Resources/Random_Tables
 type: lore
@@ -29,7 +30,8 @@ Detailed description pending.
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes ## Plot Hooks - Strange dreams suggest ancient magic
+- Connections to overarching
+*The [texture] surface feels [description] to the touch.* campaign themes ## Plot Hooks - Strange dreams suggest ancient magic
 
 - Strange disappearances suggest a conspiracy
 - A document has gone missing and truth emerges
@@ -51,3 +53,8 @@ Detailed description pending.
 #story/story
 #story/lore
 #world/world
+
+## Visual References
+![[04_Resources/Assets/Placeholder Images/RandomGensTitleBar.png]]
+![[04_Resources/Assets/Portraits/NPCs/portrait_random_npc.png]]
+![[04_Resources/Assets/Portraits/NPCs/portrait_random_npc_generator.png]]

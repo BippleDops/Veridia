@@ -1,4 +1,5 @@
 ---
+enhanced: true
 tags: [misc]
 type: misc
 aliases: ["Quick Access Sidebar"]
@@ -48,7 +49,8 @@ tags:
 - index
 - sidebar
 - active
-- quick-access
+- quick-a
+*The [texture] surface feels [description] to the touch.*ccess
 
 created: 2025-08-14
 modified: '2025-08-14'
@@ -117,3 +119,8 @@ WHERE contains(tags, "current") OR last-visited = date(today) ---
 
 
 *Adventure awaits those brave enough to seek it.*
+
+## Visual References
+![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-v1-quick-reference-overlay.png]]
+![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-v2-quick-reference-overlay.png]]
+![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-quick-reference-overlay.png]]

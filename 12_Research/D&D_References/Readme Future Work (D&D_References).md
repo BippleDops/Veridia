@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Readme Future Work (D&D_References)
 type: note
@@ -35,6 +36,7 @@ tags:
 - world/both
 - research
 - active
+*The air carries the scent of [appropriate smell].*
 - complete
 - status/in-progress
 
@@ -61,3 +63,17 @@ world: Both
 #world/setting
 #meta/index
 #meta/reference
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

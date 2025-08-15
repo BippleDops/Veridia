@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:50.875038
+modified: 2025-08-15T12:25:50.875041
+aliases: [Quest - Mother's Mercy]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - Mother's Mercy
 type: quest
@@ -29,7 +46,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Mother's Mercy ---
 
-title: Quest Mother's Mercy
+title
+*Sounds of [relevant sounds] echo in the distance.*: Quest Mother's Mercy
 type: Lore
 tags:
 - lore

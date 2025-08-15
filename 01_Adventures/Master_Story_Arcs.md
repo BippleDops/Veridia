@@ -1,4 +1,23 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:51.048524
+modified: 2025-08-15T12:25:51.048529
+aliases: [Master Story Arcs]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Session Prep|Session Prep]]
+- [[#Visual References|Visual References]]
+
+
+---
 
 title: Master Story Arcs
 type: narrative-framework
@@ -31,7 +50,8 @@ publish: false
 Detailed description pending.
 **Condition**: Alliance formed or broken
 **Path A**: Direct confrontation with antagonist
-**Path B**: Direct confrontation with antagonist
+*
+*The [texture] surface feels [description] to the touch.**Path B**: Direct confrontation with antagonist
 **Consequences**: Long-term effects on The Circle of Mages #### Major_Branch_7
 
 **Condition**: Discovery of secret information
@@ -233,3 +253,9 @@ While the party pursues the main quest:
 - **Key NPCs**: Important characters for this content
 - **Props Needed**: Physical or digital aids to enhance play
 - **Estimated Time**: How long this typically takes to run
+
+
+## Visual References
+![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
+![[04_Resources/Assets/Locations/location-city-surge-mixmaster-v1-surge-mixmaster.png]]
+![[04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]

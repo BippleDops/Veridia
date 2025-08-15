@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, obsidianttrpgvault experimental]
+created: 2025-08-15T12:24:29.703822
+modified: 2025-08-15T12:24:29.703824
+aliases: [README]
+---
+
 # Readme
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -21,7 +29,8 @@ related: []
 cssclass: standard
 publish: false --- ## Vault Purpose ## Description
 
-**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending. This is a comprehensive D&D 5e campaign world featuring two interconnected realms (Aquabyssos and Aethermoor) with multiple ongoing campaigns, extensive worldbuilding, and integrated game mechanics. #### 📁 00_Indexes/ **Purpose**: Master navigation and cross-references for the entire vault
+**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending. This is a comprehensive D&D 5e campaign world featuring two interconnected realms (Aquabyssos and 
+*The [texture] surface feels [description] to the touch.*Aethermoor) with multiple ongoing campaigns, extensive worldbuilding, and integrated game mechanics. #### 📁 00_Indexes/ **Purpose**: Master navigation and cross-references for the entire vault
 -`Master_Campaign_Index.md`- All campaigns overview
 -`Master_People_Index.md`- All NPCs catalog -`Master_Places_Index.md`- All locations directory
 -`Master_Groups_Index.md`- All factions/organizations
@@ -57,8 +66,8 @@ publish: false --- ## Vault Purpose ## Description
 -`Quick_References/`- Rules summaries
 -`Session_Recaps/`- Adventure summaries
 -`World_Maps/`- Player-safe maps **Current Status**: ⚠️ Minimal - 6 files --- #### 📁 06_GM_Resources/ **Purpose**: Game Master tools and references
--`Campaign_Management/`- Planning tools
--`NPC_Guides/`- Quick NPC references
+-`[[Campaign_Management_Guide|Campaign_Management]]/`- Planning tools
+-`[[NPC_Guides - Roleplay_Guide|NPC_Guides]]/`- Quick NPC references
 -`Reference_Cards/`- Rule quick refs
 -`Session_Tools/`- Running games
 -`World_Event_Calendar.md`- Timeline of events **Current Status**: ⚠️ Minimal - 2 files --- #### 📁 07_Templates/ **Purpose**: Reusable templates for content creation
@@ -152,3 +161,12 @@ publish: false --- ## Vault Purpose ## Description
 **Balance Note**: Adjust creature numbers based on party size and level.
 
 *What happens next is up to you.*
+
+## Related Content
+*Enhanced with 2 new connections*
+
+
+## Visual References
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_nautilus_threadmender_v1_nautilus_threadmender_svg_gm.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_nautilus_threadmender_gm.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_nautilus_threadmender_nautilus_threadmender_svg_player.png]]

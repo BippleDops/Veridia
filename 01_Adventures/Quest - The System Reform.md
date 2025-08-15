@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:48.033765
+modified: 2025-08-15T12:25:48.033766
+aliases: [Quest - The System Reform]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - The System Reform
 type: quest
@@ -29,7 +46,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The System Reform ---
 
-title: Quest The System Reform
+ti
+*Sounds of [relevant sounds] echo in the distance.*tle: Quest The System Reform
 type: Lore
 tags:
 - lore

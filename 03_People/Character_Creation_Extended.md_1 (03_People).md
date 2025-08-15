@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:41.299043
+modified: 2025-08-15T12:24:41.299050
+aliases: [Character Creation Extended.md 1 (03 People)]
+---
+
 # Character Creation Extended.Md 1 (03 People)
 
 > *Not all allies are what they seem...* This remarkable element adds depth and intrigue to any campaign.
@@ -26,7 +34,8 @@ type: npc
 updated: 2025-08-14
 - -- # Character_Creation_Extended.md_1 ## Portrait![[Character_Creation_Extended|Character Creation Extended]] * Portrait reference for Character_Creation_Extended.md_1 (03_People)* ## Overview ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. Character_Creation_Extended.md_1 is a notable figure in the realm, known for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. Character_Creation_Extended.md_1 is a notable figure i
+*The air carries the scent of [appropriate smell].*n the realm, known for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
 - **Build**: Average height, lean build
 - **Distinguishing Features**: Keen eyes that miss nothing
 - **Typical Attire**: Practical clothing suited for their profession ## Personality - **Traits**: Observant, calculating, pragmatic
@@ -78,3 +87,8 @@ updated: 2025-08-14
 
 ## Thematic Elements
 This content explores themes of hope against darkness, adding narrative depth to your campaign.
+
+## Visual References
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-v1-character-sheet-layout.png]]
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-character-sheet-layout.png]]
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-v2-character-sheet-layout.png]]

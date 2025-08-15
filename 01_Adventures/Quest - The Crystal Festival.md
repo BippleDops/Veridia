@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:37.914331
+modified: 2025-08-15T12:25:37.914338
+aliases: [Quest - The Crystal Festival]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Crystal Festival
 
 > *Time is running out...*
@@ -53,6 +73,7 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Crystal Festival ---
 
+*Sounds of [relevant sounds] echo in the distance.*
 title: Quest The Crystal Festival
 type: Lore
 tags:

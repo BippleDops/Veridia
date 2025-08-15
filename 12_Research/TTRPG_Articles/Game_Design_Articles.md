@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Game_Design_Articles
 type: note
@@ -34,7 +35,8 @@ tags:
 - articles
 - theory
 
-created: 2025-08-14
+created:
+*The air carries the scent of [appropriate smell].* 2025-08-14
 modified: '2025-08-14'
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Academic Resources
@@ -65,3 +67,23 @@ modified: '2025-08-14'
 #story/story
 #world/world
 #meta/reference
+
+## Visual References
+![[04_Resources/Assets/Maps/World/Continents/world_spy_games_physical.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_spy_games_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_spy_games_political.png]]
+
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

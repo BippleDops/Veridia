@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:36.315915
+modified: 2025-08-15T12:24:36.315918
+aliases: [Session 07 the Convergence Approaches]
+---
+
 # Session 07 The Convergence Approaches
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -30,7 +38,8 @@ type: Quest
 tags:
 - session-guide
 - research
-- world/both
+- world/
+*The air carries the scent of [appropriate smell].*both
 - climax-building
 - active
 - epic-encounters

@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:29.640088
+modified: 2025-08-15T12:25:29.640092
+aliases: [Quest - The Blackmail Papers]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Blackmail Papers
 
 > *Time is running out...*
@@ -53,7 +74,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-blackmail-papers-quest-the-blackmail-papers.svg) # Quest - The Blackmail Papers ---
+![](04_Resources
+*The air carries the scent of [appropriate smell].*/Assets/Portraits/portrait-npc-quest-the-blackmail-papers-quest-the-blackmail-papers.svg) # Quest - The Blackmail Papers ---
 
 title: Quest The Blackmail Papers
 type: npc

@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 13_performance]
+created: 2025-08-15T12:24:41.039194
+modified: 2025-08-15T12:24:41.039195
+aliases: [optimization report 20250814 180743 (13 Performance)]
+---
+
 # Optimization Report 20250814 180743 (13 Performance)
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -25,7 +33,8 @@ modified: '2025-01-15'
 - -- # Note Optimization Report Generated: 2025-08-14T18:07:43.028358 ## 📊 Statistics - **Total Notes**: 37,809 ## Description {#description} Detailed description pending.
 - **Notes Optimized**: 6,754
 - **Success Rate**: 17.9%
-- **Errors**: 0 ## ✨ Optimizations Applied - **Enhanced atmosphere**: 4,480 times - **Added relationship links**: 2,270 times
+- **Errors**: 0 ## ✨ Optimizations Applied - **Enhanced atmosphere**: 4,480 times - **Added relatio
+*The air carries the scent of [appropriate smell].*nship links**: 2,270 times
 - **Enhanced personality**: 713 times ## 📝 Content Enhancements ### NPCs Enhanced With: - Complete personality profiles
 - Stat blocks for D&D 5e
 - Voice and mannerism notes
@@ -74,3 +83,8 @@ modified: '2025-01-15'
 
 ## Thematic Elements
 This content explores themes of identity, adding narrative depth to your campaign.
+
+## Visual References
+![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_gm.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_witness_reports_gm.png]]

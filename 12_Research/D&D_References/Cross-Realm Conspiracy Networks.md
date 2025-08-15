@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Cross-Realm Conspiracy Networks
 type: note
@@ -33,7 +34,8 @@ tags:
 - both-worlds
 - research
 - active
-- smuggling
+-
+*Sounds of [relevant sounds] echo in the distance.* smuggling
 - complete
 - conspiracy
 - criminal

@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.990172
+modified: 2025-08-15T12:24:55.990173
+aliases: [Quest - The Final Performance 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Final Performance 1 (01 Adventures)
 
 > *What starts as simple becomes legendary...*
@@ -63,7 +83,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas ## Quest Giver
 
-- **Name**: Local authority figure
+- **Name**: Local a
+*The air carries the scent of [appropriate smell].*uthority figure
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
 

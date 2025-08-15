@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Depth Navy
 type: note
@@ -34,7 +35,8 @@ tags:
 - research
 
 created: '2025-08-11'
-modified: '2025-08-14'
+modified: '202
+*The [texture] surface feels [description] to the touch.*5-08-14'
 status: active
 world: Aquabyssos
 updated: '2025-08-13T01:18:34.541016+00:00'

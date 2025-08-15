@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:29.611791
+modified: 2025-08-15T12:25:29.611796
+aliases: [Quest2 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Primary|Primary]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Session Prep|Session Prep]]
+
+
 # Quest2 (01 Adventures)
 
 > *Time is running out...*
@@ -61,7 +81,8 @@ This document contains important information regarding Quest2 and its role withi
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
 
-Quest2 represents a significant element within the campaign world, offering various opportunities for engagement and development. Indeed, ## Key Information
+Quest2 represents a significant element within the campaign world, offering various opportunities for engagement and deve
+*Sounds of [relevant sounds] echo in the distance.*lopment. Indeed, ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

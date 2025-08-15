@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:37.135552
+modified: 2025-08-15T12:24:37.135558
+aliases: [Session 05 Political Intrigue Example]
+---
+
 # Session 05 Political Intrigue Example
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -19,7 +27,8 @@ title: Session 05 Political Intrigue Example
 type: Session Summary
 tags:
 - player/session-summary
-- campaign/example
+
+*The [texture] surface feels [description] to the touch.*- campaign/example
 - politics/intrigue
 - research
 - active created: '2025-08-13'

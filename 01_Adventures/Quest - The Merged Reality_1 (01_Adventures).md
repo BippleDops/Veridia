@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:43.973145
+modified: 2025-08-15T12:24:43.973146
+aliases: [Quest - The Merged Reality 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Description|Description]]
+- [[#Primary {#primary}|Primary {#primary}]]
+- [[#Background {#background}|Background {#background}]]
+- [[#Notes {#notes}|Notes {#notes}]]
+- [[#Timeline {#timeline}|Timeline {#timeline}]]
+- [[#NPCs Involved {#npcs-involved}|NPCs Involved {#npcs-involved}]]
+- [[#Alternative Solutions {#alternative-solutions}|Alternative Solutions {#alternative-solutions}]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Merged Reality 1 (01 Adventures)
 
 > *What starts as simple becomes legendary...* This remarkable element adds depth and intrigue to any campaign.
@@ -58,7 +79,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas ## Quest Giver
 
-- **Name**: Local authority figure
+- **
+*The [texture] surface feels [description] to the touch.*Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
 

@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:36.279789
+modified: 2025-08-15T12:24:36.279790
+aliases: [Session 06 the Sky Throne]
+---
+
 # Session 06 The Sky Throne
 
 
@@ -34,7 +42,8 @@ tags:
 - aethermoor
 - court-intrigue
 - investigation
-- session-guide
+-
+*The air carries the scent of [appropriate smell].* session-guide
 - research
 - active
 - world/aethermoor

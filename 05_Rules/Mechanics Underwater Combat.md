@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Mechanics Underwater Combat
 type: mechanics
@@ -21,13 +22,14 @@ publish: false
 
 ---
 
- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Interaction Improvements - Clarify interaction with multiclassing ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### Magic_Items Improvements - Note how magic items affect this rule ### Simplified Improvements - Create simplified version for new players ### Automated Improvements - Add macro/code for VTT implementation ### Session_Zero Improvements - Include session zero discussion points ### Monster_Use Improvements - Explain if/how monsters use this rule ### Variant Improvements - Add 'gritty realism' variant of rule ## Mechanic Overview **System**: D&D 5th Edition
+ ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Interaction Improvements - Clarify interaction with multiclassing ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### [[Magic_Items_Quick_Reference|Magic_Items]] Improvements - Note how magic items affect this rule ### Simplified Improvements - Create simplified version for new players ### Automated Improvements - Add macro/code for VTT implementation ### Session_Zero Improvements - Include session zero discussion points ### Monster_Use Improvements - Explain if/how monsters use this rule ### Variant Improvements - Add 'gritty realism' variant of rule ## Mechanic Overview **System**: D&D 5th Edition
 
 **Type**: Rule Variant / Subsystem / Optional Rule
 **Complexity**: Moderate
 **Purpose**: Enhance gameplay in specific situations ## Description
 
-**Details**: Rich sensory elements bring this to life. 03_Mechanics/Underwater_Combat provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
+**Details**: Rich sensory elements bring this to life. 03_Mechanics/Underwater_Combat provides a structured approach to handling specific game situations that benefit from additional mechanical dept
+*The air carries the scent of [appropriate smell].*h. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
 
 The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
 2. Consequently, **Setup**: Establish parameters and stakes
@@ -181,27 +183,27 @@ Solution: Adjust DCs and modifiers ## Designer Notes This mechanic aims to:
 > Adjust difficulty based on party composition
 ## Official Rules Reference ### Core Rulebooks
 
-- **Combat**: PHB Chapter 9 (p.189-198)
-- **Actions in Combat**: PHB p.192-193
-- **Cover**: PHB p.196
-- **Advantage/Disadvantage**: PHB p.173
-- **Optional Action Options**: DMG p.271-272
-- **Flanking (Optional)**: DMG p.251
+- **Combat**: ACX Chapter 9 (p.189-198)
+- **Actions in Combat**: ACX p.192-193
+- **Cover**: ACX p.196
+- **Advantage/Disadvantage**: ACX p.173
+- **Optional Action Options**: WWT p.271-272
+- **Flanking (Optional)**: WWT p.251
 - **UA Fighting Styles**: Various UA documents
-- **Tasha's Optional Class Features**: TCE p.89-95 ### Optional Rules (DMG)
+- **Tasha's Optional Class Features**: TMF p.89-95 ### Optional Rules (WWT)
 
-- Consider variant rules from DMG Chapter 9
-- Review optional class features from TCE ### Sage Advice
+- Consider variant rules from WWT Chapter 9
+- Review optional class features from TMF ### Sage Advice
 
 - Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice) ### Common Table Rulings
 
 - Document house rules clearly
-- Maintain consistency across sessions ## Action Economy ### On Your Turn (PHB p.189)
+- Maintain consistency across sessions ## Action Economy ### On Your Turn (ACX p.189)
 
 - **Movement**: Up to your speed
 - **Action**: One action from available options
 - **Bonus Action**: If you have an ability that uses it
-- **Free Actions**: Interact with one object, speak ### Actions Available (PHB p.192)
+- **Free Actions**: Interact with one object, speak ### Actions Available (ACX p.192)
 
 - **Attack**: Make one attack (more with Extra Attack)
 - **Cast a Spell**: Cast time of 1 action
@@ -212,7 +214,7 @@ Solution: Adjust DCs and modifiers ## Designer Notes This mechanic aims to:
 - **Hide**: Stealth check to hide
 - **Ready**: Prepare action with trigger
 - **Search**: Perception or Investigation
-- **Use an Object**: Interact with object ### Reactions (PHB p.190)
+- **Use an Object**: Interact with object ### Reactions (ACX p.190)
 
 - One reaction per round
 - Resets at start of your turn
@@ -241,3 +243,21 @@ Solution: Adjust DCs and modifiers ## Designer Notes This mechanic aims to:
 #gameplay/quest
 #resource/item
 #meta/reference
+
+## Related Content
+*Enhanced with 1 new connections*
+
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

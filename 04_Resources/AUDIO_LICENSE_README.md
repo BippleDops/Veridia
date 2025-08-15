@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: AUDIO_LICENSE_README
 type: note
@@ -34,7 +35,8 @@ tags:
 created: '2025-08-14'
 modified: '2025-08-14'
 
---- ## 📜 License Information All audio files in this vault are intended for use with open-source tabletop role-playing games and are organized according to Creative Commons licensing principles. #### CC0 (Public Domain)
+--
+*The [texture] surface feels [description] to the touch.*- ## 📜 License Information All audio files in this vault are intended for use with open-source tabletop role-playing games and are organized according to Creative Commons licensing principles. #### CC0 (Public Domain)
 
 Files in these directories are free for any use:
 -`/04_Resources/Assets/Audio/Generated/`- Procedurally generated ambient sounds
@@ -137,3 +139,8 @@ Modified: [Yes/No] ### Common Audio Cues
 #world/world
 #gameplay/session
 #gameplay/mission
+
+## Visual References
+![[04_Resources/Assets/Handouts/handout-handout-guild-license-certificate-v3-guild-license-certificate.png]]
+![[04_Resources/Assets/Handouts/handout-handout-guild-license-certificate-v2-guild-license-certificate.png]]
+![[04_Resources/Assets/Handouts/handout-handout-guild-license-certificate-v1-guild-license-certificate.png]]

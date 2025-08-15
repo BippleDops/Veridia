@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Political System Rules
 type: mechanics
@@ -21,13 +22,14 @@ publish: false
 
 ---
 
- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Automated Improvements - Add macro/code for VTT implementation ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Variant Improvements - Add 'gritty realism' variant of rule ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### Magic_Items Improvements - Note how magic items affect this rule ### Monster_Use Improvements - Explain if/how monsters use this rule ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ### Interaction Improvements - Clarify interaction with multiclassing ### Session_Zero Improvements - Include session zero discussion points ### Simplified Improvements - Create simplified version for new players ## Mechanic Overview **System**: D&D 5th Edition
+ ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Automated Improvements - Add macro/code for VTT implementation ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Variant Improvements - Add 'gritty realism' variant of rule ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### [[Magic_Items_Quick_Reference|Magic_Items]] Improvements - Note how magic items affect this rule ### Monster_Use Improvements - Explain if/how monsters use this rule ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ### Interaction Improvements - Clarify interaction with multiclassing ### Session_Zero Improvements - Include session zero discussion points ### Simplified Improvements - Create simplified version for new players ## Mechanic Overview **System**: D&D 5th Edition
 
 **Type**: Rule Variant / Subsystem / Optional Rule
 **Complexity**: Moderate
 **Purpose**: Enhance gameplay in specific situations ## Description
 
-**Details**: Rich sensory elements bring this to life. Political System Rules provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
+**Details**: Rich sensory elements bring this to life. Political System Rules provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This 
+*Sounds of [relevant sounds] echo in the distance.*system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
 
 The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
 2. **Setup**: Establish parameters and stakes
@@ -181,15 +183,15 @@ A: Supernatural abilities suppressed, mundane portions still function ## Quick R
 > Work together and communicate
 ## Official Rules Reference ### Core Rulebooks
 
-- **General Rules**: PHB Chapter 7-10
-- **DM Guidelines**: DMG Chapter 8
-- **Variant Rules**: DMG Chapter 9
-- **Optional Rules**: TCE p.4-8
+- **General Rules**: ACX Chapter 7-10
+- **DM Guidelines**: WWT Chapter 8
+- **Variant Rules**: WWT Chapter 9
+- **Optional Rules**: TMF p.4-8
 - **UA Playtest Material**: D&D Beyond UA Archive
-- **Expansion Content**: Check specific setting books ### Optional Rules (DMG)
+- **Expansion Content**: Check specific setting books ### Optional Rules (WWT)
 
-- Consider variant rules from DMG Chapter 9
-- Review optional class features from TCE ### Sage Advice
+- Consider variant rules from WWT Chapter 9
+- Review optional class features from TMF ### Sage Advice
 
 - Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice) ### Common Table Rulings
 
@@ -216,3 +218,12 @@ A: Supernatural abilities suppressed, mundane portions still function ## Quick R
 #gameplay/quest
 #resource/item
 #meta/reference
+
+## Related Content
+*Enhanced with 1 new connections*
+
+
+## Visual References
+![[04_Resources/Assets/Locations/location-city-political-leader-reef-crown-v1-political-leader-reef-crown.png]]
+![[04_Resources/Assets/Locations/location-city-political-leader-reef-crown-political-leader-reef-crown.png]]
+![[04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_political_consulting_guil.png]]

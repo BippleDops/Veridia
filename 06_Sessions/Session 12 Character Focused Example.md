@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:39.353730
+modified: 2025-08-15T12:24:39.353732
+aliases: [Session 12 Character Focused Example]
+---
+
 # Session 12 Character Focused Example
 
 > *A figure whose reputation precedes them...* This remarkable element adds depth and intrigue to any campaign.
@@ -26,7 +34,8 @@ modified: '2025-01-15'
 
 **Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending.
 title: Session 12 Character Focused Example
-type: Session Summary
+type: Sess
+*The [texture] surface feels [description] to the touch.*ion Summary
 tags:
 - player/session-summary
 - campaign/example

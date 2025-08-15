@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:29.566392
+modified: 2025-08-15T12:25:29.566397
+aliases: [Previous Session]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [misc]
 type: misc
 aliases: ["Previous Session"]
@@ -51,7 +71,8 @@ This document contains important information regarding Previous Session and its 
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
 
-Previous Session represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+Previous Session represents a significant element within the campaign world, offering various opportunities for engagemen
+*The air carries the scent of [appropriate smell].*t and development. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:50.982769
+modified: 2025-08-15T12:25:50.982771
+aliases: [Quest - The Deep Mother Rises]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - The Deep Mother Rises
 type: quest
@@ -28,6 +45,7 @@ Detailed description pending.
 - Unexpected obstacles
 - Time pressure
 - Moral dilemmas # Quest - The Deep Mother Rises ---
+*The air carries the scent of [appropriate smell].*
 
 title: Quest The Deep Mother Rises
 type: Lore

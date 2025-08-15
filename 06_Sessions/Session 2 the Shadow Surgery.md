@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:37.104855
+modified: 2025-08-15T12:24:37.104859
+aliases: [Session 2 the Shadow Surgery]
+---
+
 # Session 2 The Shadow Surgery
 
 
@@ -23,6 +31,7 @@ type: research
 tags:
 - active
 - research created: '2025-08-14'
+*Sounds of [relevant sounds] echo in the distance.*
 modified: '2025-08-14'
 - -- # Session 2: The Shadow Surgery * The Shadow Conspiracy Campaign - Investigation Deepens* ## 🔧 Deep Evaluation Improvements * 20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Session Overview Having discovered evidence of consciousness manipulation in Session 1, the heroes must infiltrate the abandoned medical facility where shadow surgeries are performed. They'll witness the horrifying process firsthand and uncover the true scope of the conspiracy. **Location**: Abandoned Aquabyssos Medical University - East Wing **Level**: 5th-6th **Duration**: 4-5 hours **Key Theme**: Body horror meets political thriller```dataview TABLE evidence-collected, conspiracy-exposure, trust-network FROM "Shadow_Conspiracy" WHERE contains(tags, "session-2")```### The Medical District The trail from Session 1 leads to the Medical District - a sprawling complex of hospitals, research facilities, and the prestigious Aquabyssos Medical University. The East Wing was supposedly closed for "renovation" three months ago. **Investigation DC 15**: The timing coincides with the start of unusual parliamentary voting patterns
 **Perception DC 18**: Fresh tire tracks lead to the supposedly abandoned building **Insight DC 16**: Security guards seem nervous and avoid eye contact ### Getting Inside **Option 1: Social Infiltration** - Disguise as medical inspectors (Deception DC 16)

@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T12:24:41.145260
+modified: 2025-08-15T12:24:41.145265
+aliases: [Quick Start Guide]
+---
+
 # Quick Start Guide
 
 
@@ -17,7 +25,8 @@ improvements: 20
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes ## Plot Hooks - Someone is protecting a witness for love - Someone is searching for a witness for power ## Historical Timeline ### The Age of Founding (1000 years ago) - The First Settlement
+- Connections 
+*Sounds of [relevant sounds] echo in the distance.*to overarching campaign themes ## Plot Hooks - Someone is protecting a witness for love - Someone is searching for a witness for power ## Historical Timeline ### The Age of Founding (1000 years ago) - The First Settlement
 - Discovery of magical crystals
 - War with indigenous peoples ### The Golden Era (500 years ago) - Economic prosperity
 - Cultural renaissance
@@ -55,3 +64,8 @@ publish: false --- -|--------|
 
 
 *What happens next is up to you.*
+
+## Visual References
+![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-v1-quick-reference-overlay.png]]
+![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-v2-quick-reference-overlay.png]]
+![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-quick-reference-overlay.png]]

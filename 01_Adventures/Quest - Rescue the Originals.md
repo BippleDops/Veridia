@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:38.045675
+modified: 2025-08-15T12:25:38.045680
+aliases: [Quest - Rescue the Originals]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Session Prep|Session Prep]]
+
+
 # Quest   Rescue The Originals
 
 > *Time is running out...*
@@ -53,6 +74,7 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Rescue the Originals ---
 
+*Sounds of [relevant sounds] echo in the distance.*
 title: Quest Rescue the Originals
 type: Lore
 tags:

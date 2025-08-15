@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:36.173962
+modified: 2025-08-15T12:24:36.173963
+aliases: [Session 0 - Aquabyssos]
+---
+
 # Session 0   Aquabyssos
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -17,7 +25,8 @@ tags:
 - aquabyssos
 - campaign-setup
 - worldbuilding
-- research
+
+*The air carries the scent of [appropriate smell].*- research
 - session-zero
 - active
 - complete created: '2025-08-11'

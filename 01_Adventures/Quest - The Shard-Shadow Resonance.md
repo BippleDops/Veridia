@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.801093
+modified: 2025-08-15T12:24:55.801097
+aliases: [Quest - The Shard-Shadow Resonance]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Shard Shadow Resonance
 
 > *What starts as simple becomes legendary...*
@@ -51,7 +71,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - The Shard-Shadow Resoce ---
+- Moral dilemmas # Quest - The Shard-Shadow Resoce -
+*Sounds of [relevant sounds] echo in the distance.*--
 
 title: Quest The Shard Shadow Resoce
 type: Quest

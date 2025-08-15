@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.934614
+modified: 2025-08-15T12:25:47.934616
+aliases: [Quest - Neural Revolution]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - Neural Revolution
 type: quest
@@ -29,7 +46,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Neural Revolution ---
 
-title: Quest Neural Revolution
+ti
+*Sounds of [relevant sounds] echo in the distance.*tle: Quest Neural Revolution
 type: Lore
 tags:
 - lore

@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:46.235619
+modified: 2025-08-15T12:24:46.235620
+aliases: [Quest - The Crystal Innovatio]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Session Prep|Session Prep]]
+
+
 # Quest   The Crystal Innovatio
 
 > *Time is running out...* This remarkable element adds depth and intrigue to any campaign.
@@ -53,7 +74,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Symbols/symbol-heraldry-quest-the-crystal-innovatio-quest-the-crystal-innovatio.svg) # Quest - The Crystal Innovatio ---
+![](04_Resources
+*Sounds of [relevant sounds] echo in the distance.*/Assets/Symbols/symbol-heraldry-quest-the-crystal-innovatio-quest-the-crystal-innovatio.svg) # Quest - The Crystal Innovatio ---
 
 title: Quest The Crystal Innovatio
 type: Group

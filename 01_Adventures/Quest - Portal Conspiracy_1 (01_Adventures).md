@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:36.325587
+modified: 2025-08-15T12:25:36.325593
+aliases: [Quest - Portal Conspiracy 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   Portal Conspiracy 1 (01 Adventures)
 
 
@@ -81,7 +101,8 @@ publish: false
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
-5. Hidden or secret areas ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Sensory Details **Sights**: Shadows dance across weathered rough-hewn stone barriers **Sounds**: The clang of hammer on anvil rings from the smithy **Smells**: The tang of salt air permeates everything ## Description Quest - Portal Conspiracy is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region. **Type**: Settlement/Landmark/Region
+5. Hidden or secret areas ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Sensory Details **Sights**: Shadows dance across weathered rough-hewn stone barriers **Sounds**: The clang of hammer on anvil rings from the smithy **Smells**: The tang of salt air permeates everything ## Description Quest - Portal Conspiracy is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region
+*The air carries the scent of [appropriate smell].*. **Type**: Settlement/Landmark/Region
 
 
 **Size**: Appropriate to location type

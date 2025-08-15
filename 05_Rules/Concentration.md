@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Concentration
 type: concentration
@@ -35,7 +36,8 @@ publish: false
 Detailed description pending.
 
 |--------|-------|----------|--------------|
-| - | - | - | 10 or half damage | ## Rule Summary Concentration provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay. ## When to Use Apply this rule when:
+| - | - | - | 10 or half damage | ## Rule Summary Concentration pr
+*Sounds of [relevant sounds] echo in the distance.*ovides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay. ## When to Use Apply this rule when:
 
 - Specific trigger conditions are met
 - Players request this type of action
@@ -82,15 +84,15 @@ Detailed description pending.
 
 ## Official Rules Reference ### Core Rulebooks
 
-- **General Rules**: PHB Chapter 7-10
-- **DM Guidelines**: DMG Chapter 8
-- **Variant Rules**: DMG Chapter 9
-- **Optional Rules**: TCE p.4-8
+- **General Rules**: ACX Chapter 7-10
+- **DM Guidelines**: WWT Chapter 8
+- **Variant Rules**: WWT Chapter 9
+- **Optional Rules**: TMF p.4-8
 - **UA Playtest Material**: D&D Beyond UA Archive
-- **Expansion Content**: Check specific setting books ### Optional Rules (DMG)
+- **Expansion Content**: Check specific setting books ### Optional Rules (WWT)
 
-- Consider variant rules from DMG Chapter 9
-- Review optional class features from TCE ### Sage Advice
+- Consider variant rules from WWT Chapter 9
+- Review optional class features from TMF ### Sage Advice
 
 - Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice) ### Common Table Rulings
 

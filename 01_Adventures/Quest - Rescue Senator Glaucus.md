@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:46.198582
+modified: 2025-08-15T12:24:46.198583
+aliases: [Quest - Rescue Senator Glaucus]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   Rescue Senator Glaucus
 
 > *The fate of many hangs in the balance...* This remarkable element adds depth and intrigue to any campaign.
@@ -51,7 +71,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - Rescue Senator Glaucus ---
+- Moral dilemmas # Quest - Rescue Senator Glaucus --
+*Sounds of [relevant sounds] echo in the distance.*-
 
 title: Quest Rescue Senator Glaucus
 type: Lore

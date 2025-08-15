@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Save Both Civilizations
 type: note
@@ -33,7 +34,8 @@ tags:
 - unity
 - survival
 - existential-threat
-- cooperation
+-
+*The air carries the scent of [appropriate smell].* cooperation
 - alliance-building
 - both worlds
 - both-worlds

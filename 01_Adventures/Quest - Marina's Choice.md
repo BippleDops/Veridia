@@ -1,4 +1,22 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:50.945511
+modified: 2025-08-15T12:25:50.945513
+aliases: [Quest - Marina's Choice]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Session Prep|Session Prep]]
+
+
+---
 
 title: Quest - Marina's Choice
 type: quest
@@ -29,7 +47,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Marina's Choice ---
 
-title: Quest Marina's Choice
+titl
+*The [texture] surface feels [description] to the touch.*e: Quest Marina's Choice
 type: Lore
 tags:
 - lore

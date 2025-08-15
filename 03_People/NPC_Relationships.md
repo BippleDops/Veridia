@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:41.382210
+modified: 2025-08-15T12:24:41.382213
+aliases: [NPC Relationships]
+---
+
 # Npc Relationships
 
 > *Every scar tells a story...* This remarkable element adds depth and intrigue to any campaign.
@@ -6,7 +14,8 @@
 type: npc
 - -- # NPC Relationships ## Overview ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. This document tracks relationships between NPCs and with the party. ## Party Relationships ### Allies | NPC | Relationship | How They Met | Current Status |
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. This document tracks relationships between NPCs and wi
+*The [texture] surface feels [description] to the touch.*th the party. ## Party Relationships ### Allies | NPC | Relationship | How They Met | Current Status |
 | created: 2025-08-14
 modified: 2025-08-14
 status: active
@@ -60,3 +69,8 @@ publish: false --- --|--------------|--------------|----------------|
 
 
 *Adventure awaits those brave enough to seek it.*
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

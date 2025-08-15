@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:51.102055
+modified: 2025-08-15T12:25:51.102058
+aliases: [Quest - The Public Revelation]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - The Public Revelation
 type: quest
@@ -28,6 +45,7 @@ Detailed description pending.
 - Unexpected obstacles
 - Time pressure
 - Moral dilemmas # Quest - The Public Revelation ---
+*The [texture] surface feels [description] to the touch.*
 
 title: Quest The Public Revelation
 type: Lore

@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:39.390596
+modified: 2025-08-15T12:24:39.390597
+aliases: [Session 25 Diplomacy Example]
+---
+
 # Session 25 Diplomacy Example
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -19,7 +27,8 @@ title: Session 25 Diplomacy Example
 type: Session Summary
 tags:
 - diplomacy/negotiation
-- player/session-summary
+- player/s
+*The air carries the scent of [appropriate smell].*ession-summary
 - campaign/example
 - research
 - active created: '2025-08-13'

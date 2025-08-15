@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:48.040541
+modified: 2025-08-15T12:25:48.040543
+aliases: [quest (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest
 type: adventure
@@ -33,7 +50,8 @@ publish: false
 Detailed description pending.
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
-- Multiple entry points for different play styles
+-
+*The [texture] surface feels [description] to the touch.* Multiple entry points for different play styles
 - Connections to overarching campaign themes ## Background
 
 *[Adventure setup and context]* ### What Happened Before

@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, obsidianttrpgvault experimental]
+created: 2025-08-15T12:24:23.377863
+modified: 2025-08-15T12:24:23.377868
+aliases: [VAULT CLEAN STATUS]
+---
+
 # Vault Clean Status
 
 
@@ -30,7 +38,8 @@ modified: '2024-08-14'
 - -- ## 🏆 Root Directory: PRISTINE The vault root directory is now perfectly organized with only essential files and well-structured directories. ### Standardized [[DIRECTORY_STRUCTURE|Directory Structure]]```00_Indexes/ - Indexes and documentation ## Description
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
-[[01_Adventures|01_Adventures]]/ - Adventure modules and campaigns [[02_Worldbuilding|02_Worldbuilding]]/ - [[Lore|Lore]], [[Groups|groups]], [[Items|Items]], world details
+[[01_Adventures|01_Adventures]]/ - Adventure modules and campaigns [[02_Worldbuilding|02_Worldbuil
+*The air carries the scent of [appropriate smell].*ding]]/ - [[Lore|Lore]], [[Groups|groups]], [[Items|Items]], world details
 03_People/ - NPCs and characters
 04_Places/ - Locations and [[Maps|Maps]]
 [[04_Resources|04_Resources]]/ - [[Assets|Assets]], media, and resources
@@ -63,7 +72,7 @@ modified: '2024-08-14'
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## Player Tips > 🎮 **Strategy**: How to approach this content > Work together and communicate
 
-## [[Conditions|Conditions]] Reference (PHB p.290-292) ### Common Conditions {#[[conditions|conditions]]-reference-(phb-p.290-292)-###-common-conditions} - **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
+## [[Conditions|Conditions]] Reference (ACX p.290-292) ### Common Conditions {#[[conditions|conditions]]-reference-(phb-p.290-292)-###-common-conditions} - **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
 - **Charmed**: Can't attack charmer, charmer has advantage on social checks
 - **Deafened**: Can't hear, auto-fail hearing checks
 - **Frightened**: Disadvantage while source in sight, can't move closer
@@ -75,7 +84,7 @@ modified: '2024-08-14'
 - **Prone**: Disadvantage on attacks, melee against has advantage
 - **Restrained**: Speed 0, disadvantage on attacks/DEX saves
 - **Stunned**: Incapacitated, can't move, can barely speak
-- **Unconscious**: Incapacitated, prone, drops everything ### [[Exhaustion|Exhaustion]] (PHB p.291) 1. Disadvantage on ability checks
+- **Unconscious**: Incapacitated, prone, drops everything ### [[Exhaustion|Exhaustion]] (ACX p.291) 1. Disadvantage on ability checks
 2. Speed halved
 3. Disadvantage on attacks and saves
 4. HP maximum halved
@@ -104,3 +113,8 @@ modified: '2024-08-14'
 
 
 *Every story needs its heroes.*
+
+## Visual References
+![[04_Resources/Assets/Maps/World/Continents/world_the_vault_keepers_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_vault_keeper_aurelia_crownguard_vault_keeper_aurelia_crownguard_svg_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_vault_breach_vault_breach_svg_physical.png]]

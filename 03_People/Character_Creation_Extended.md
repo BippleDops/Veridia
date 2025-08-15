@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:41.485601
+modified: 2025-08-15T12:24:41.485604
+aliases: [Character Creation Extended]
+---
+
 # Character Creation Extended
 
 > *Every scar tells a story...* This remarkable element adds depth and intrigue to any campaign.
@@ -22,7 +30,8 @@ related: []
 cssclass: standard
 publish: false --- # Character_Creation_Extended ## Portrait![[Character_Creation_Extended|Character Creation Extended]] *Portrait reference for Character_Creation_Extended* ## Overview ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. Character_Creation_Extended is a notable figure in the realm, known for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. Character_Creation_Extended is a notable figure in the
+*The air carries the scent of [appropriate smell].* realm, known for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
 - **Build**: Average height, lean build
 - **Distinguishing Features**: Keen eyes that miss nothing
 - **Typical Attire**: Practical clothing suited for their profession ## Personality - **Traits**: Observant, calculating, pragmatic
@@ -83,3 +92,8 @@ publish: false --- # Character_Creation_Extended ## Portrait![[Character_Creatio
 
 
 *What happens next is up to you.*
+
+## Visual References
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-v1-character-sheet-layout.png]]
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-character-sheet-layout.png]]
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-v2-character-sheet-layout.png]]

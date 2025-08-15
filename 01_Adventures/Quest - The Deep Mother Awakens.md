@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:38.028309
+modified: 2025-08-15T12:25:38.028311
+aliases: [Quest - The Deep Mother Awakens]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Deep Mother Awakens
 
 > *What starts as simple becomes legendary...*
@@ -51,7 +71,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - The Deep Mother Awakens ---
+- Moral dilemmas # Quest - The Deep Mother Awakens -
+*Sounds of [relevant sounds] echo in the distance.*--
 
 title: Quest The Deep Mother Awakens
 type: Lore

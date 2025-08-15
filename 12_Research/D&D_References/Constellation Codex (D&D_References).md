@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Constellation Codex (D&D_References)
 type: note
@@ -34,7 +35,8 @@ tags:
 - active
 - artifact
 - location
-- complete
+- 
+*The air carries the scent of [appropriate smell].*complete
 - ancient-wisdom
 - astronomical-knowledge
 

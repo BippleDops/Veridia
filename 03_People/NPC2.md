@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:41.182434
+modified: 2025-08-15T12:24:41.182437
+aliases: [NPC2]
+---
+
 # Npc2
 
 > *A figure whose reputation precedes them...* This remarkable element adds depth and intrigue to any campaign.
@@ -19,7 +27,8 @@ tags:
 - linked created: '2025-01-15'
 - -- # NPC2 ## Portrait![[Npc|Npc]] * Portrait reference for NPC2* ## Overview This topic is referenced in [[Npc|Npc]] and other parts of the campaign. ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. An important element of the campaign world that connects to various other aspects of the adventure. ## Connections - Referenced by: [[Npc|Npc]]
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. An important element of the campaign world that connects to various other aspects of the adventure.
+*Sounds of [relevant sounds] echo in the distance.* ## Connections - Referenced by: [[Npc|Npc]]
 - Related topics in the same category ## Details Further information about this topic will be developed as the campaign progresses. ## Plot Hooks - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery ## Stats```statblock creature: Custom NPC```### Quick Stats - **AC**: *[Armor Class]*
@@ -73,3 +82,8 @@ tags:
 
 
 *The dice will decide the fate.*
+
+## Visual References
+![[04_Resources/Assets/Portraits/NPCs/portrait_npc2.png]]
+![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc2_people_friendly.png]]
+![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc2_people_dramatic.png]]

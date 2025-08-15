@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Initiative Tracker
 type: initiative
@@ -27,7 +28,7 @@ publish: false
 ---
 
  > [!figure] Asset
-![](04_Resources/Assets/Digital/ui-ui-initiative-tracker-initiative-tracker.png) ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Variant Improvements - Add 'gritty realism' variant of rule ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### Magic_Items Improvements - Note how magic items affect this rule ### Session_Zero Improvements - Include session zero discussion points ### Simplified Improvements - Create simplified version for new players ### Automated Improvements - Add macro/code for VTT implementation ### Monster_Use Improvements - Explain if/how monsters use this rule ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Interaction Improvements - Clarify interaction with multiclassing ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ## Current Combat | Init | Name | HP | AC | Conditions | Notes |
+![](04_Resources/Assets/Digital/ui-ui-initiative-tracker-initiative-tracker.png) ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Variant Improvements - Add 'gritty realism' variant of rule ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### [[Magic_Items_Quick_Reference|Magic_Items]] Improvements - Note how magic items affect this rule ### Session_Zero Improvements - Include session zero discussion points ### Simplified Improvements - Create simplified version for new players ### Automated Improvements - Add macro/code for VTT implementation ### Monster_Use Improvements - Explain if/how monsters use this rule ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Interaction Improvements - Clarify interaction with multiclassing ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ## Current Combat | Init | Name | HP | AC | Conditions | Notes |
 
 
 ## Description
@@ -37,7 +38,8 @@ publish: false
 Detailed description pending.
 
 |------|------|----|----|------------|-------|
-| 20 | - | - | - | - | - | ## Rule Summary Initiative_Tracker provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay. ## When to Use Apply this rule when:
+| 20 | - | - | - | - | - | ## Rule Summary Initiative_Tracker pr
+*Sounds of [relevant sounds] echo in the distance.*ovides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay. ## When to Use Apply this rule when:
 
 - Specific trigger conditions are met
 - Players request this type of action
@@ -85,15 +87,15 @@ Detailed description pending.
 
 ## Official Rules Reference ### Core Rulebooks
 
-- **General Rules**: PHB Chapter 7-10
-- **DM Guidelines**: DMG Chapter 8
-- **Variant Rules**: DMG Chapter 9
-- **Optional Rules**: TCE p.4-8
+- **General Rules**: ACX Chapter 7-10
+- **DM Guidelines**: WWT Chapter 8
+- **Variant Rules**: WWT Chapter 9
+- **Optional Rules**: TMF p.4-8
 - **UA Playtest Material**: D&D Beyond UA Archive
-- **Expansion Content**: Check specific setting books ### Optional Rules (DMG)
+- **Expansion Content**: Check specific setting books ### Optional Rules (WWT)
 
-- Consider variant rules from DMG Chapter 9
-- Review optional class features from TCE ### Sage Advice
+- Consider variant rules from WWT Chapter 9
+- Review optional class features from TMF ### Sage Advice
 
 - Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice) ### Common Table Rulings
 
@@ -119,3 +121,12 @@ Detailed description pending.
 #gameplay/quest
 #resource/item
 #meta/reference
+
+## Related Content
+*Enhanced with 1 new connections*
+
+
+## Visual References
+![[04_Resources/Assets/Digital/ui-ui-initiative-tracker-initiative-tracker.png]]
+![[04_Resources/Assets/Digital/ui-ui-initiative-tracker-v2-initiative-tracker.png]]
+![[04_Resources/Assets/Digital/ui-ui-initiative-tracker-v1-initiative-tracker.png]]

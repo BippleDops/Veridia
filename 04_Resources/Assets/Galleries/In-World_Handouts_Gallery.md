@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["In-World Handouts Gallery"]
+---
+
 # In-World Handouts Gallery
 
 %% Use reading mode for visual gallery %%

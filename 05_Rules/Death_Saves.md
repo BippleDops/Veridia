@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Death Saves
 type: death-saves
@@ -25,7 +26,7 @@ publish: false
 
 ---
 
- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Magic_Items Improvements - Note how magic items affect this rule ### Automated Improvements - Add macro/code for VTT implementation ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Simplified Improvements - Create simplified version for new players ### Interaction Improvements - Clarify interaction with multiclassing ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### Monster_Use Improvements - Explain if/how monsters use this rule ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ## Active Death Saves | Character | Successes | Failures | Status |
+ ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### [[Magic_Items_Quick_Reference|Magic_Items]] Improvements - Note how magic items affect this rule ### Automated Improvements - Add macro/code for VTT implementation ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Simplified Improvements - Create simplified version for new players ### Interaction Improvements - Clarify interaction with multiclassing ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### Monster_Use Improvements - Explain if/how monsters use this rule ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ## Active Death Saves | Character | Successes | Failures | Status |
 
 
 ## Description
@@ -35,7 +36,8 @@ publish: false
 Detailed description pending.
 
 |-----------|-----------|----------|--------|
-| Example | ○○○ | ○○○ | Unconscious | ## Rule Summary Death_Saves provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay. Furthermore, ## When to Use Apply this rule when:
+| Example | ○○○ | ○○○ | Unconscious | ## Rule Summary Death_Saves
+*Sounds of [relevant sounds] echo in the distance.* provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay. Furthermore, ## When to Use Apply this rule when:
 
 - Specific trigger conditions are met
 - Players request this type of action
@@ -80,20 +82,20 @@ Detailed description pending.
 
 ## Official Rules Reference ### Core Rulebooks
 
-- **General Rules**: PHB Chapter 7-10
-- **DM Guidelines**: DMG Chapter 8
-- **Variant Rules**: DMG Chapter 9
-- **Optional Rules**: TCE p.4-8
+- **General Rules**: ACX Chapter 7-10
+- **DM Guidelines**: WWT Chapter 8
+- **Variant Rules**: WWT Chapter 9
+- **Optional Rules**: TMF p.4-8
 - **UA Playtest Material**: D&D Beyond UA Archive
-- **Expansion Content**: Check specific setting books ### Optional Rules (DMG)
+- **Expansion Content**: Check specific setting books ### Optional Rules (WWT)
 
-- Consider variant rules from DMG Chapter 9
-- Review optional class features from TCE ### Sage Advice
+- Consider variant rules from WWT Chapter 9
+- Review optional class features from TMF ### Sage Advice
 
 - Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice) ### Common Table Rulings
 
 - Document house rules clearly
-- Maintain consistency across sessions ## Variant Rules Options ### From DMG Chapter 9
+- Maintain consistency across sessions ## Variant Rules Options ### From WWT Chapter 9
 
 - **Proficiency Dice**: Roll dice instead of flat bonus
 - **Hero Points**: Narrative currency system
@@ -102,10 +104,10 @@ Detailed description pending.
 - **Massive Damage**: System shock rules
 - **Morale**: When enemies flee ### From Other Sources
 
-- **Spell Points** (DMG p.288): Alternative to slots
-- **Gritty Realism** (DMG p.267): Longer rests
-- **Side Initiative** (DMG p.270): Group turns
-- **Facing** (DMG p.252): Directional combat ### Table Consideration
+- **Spell Points** (WWT p.288): Alternative to slots
+- **Gritty Realism** (WWT p.267): Longer rests
+- **Side Initiative** (WWT p.270): Group turns
+- **Facing** (WWT p.252): Directional combat ### Table Consideration
 
 Discuss with players before implementing
 
@@ -128,3 +130,12 @@ Discuss with players before implementing
 #gameplay/quest
 #resource/item
 #meta/reference
+
+## Related Content
+*Enhanced with 1 new connections*
+
+
+## Visual References
+![[04_Resources/Assets/Placeholder Images/HealDeathDmgTitleBar.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_death_speaker_marina_depthkeeper_physical.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_death_speaker_marina_depthkeeper_player.png]]

@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:41.217974
+modified: 2025-08-15T12:24:41.217977
+aliases: [Character Creation]
+---
+
 # Character Creation
 
 > *A figure whose reputation precedes them...* This remarkable element adds depth and intrigue to any campaign.
@@ -24,7 +32,8 @@ tags:
 modified: '2025-01-15'
 - -- # Character_Creation ## Portrait![[Character_Creation|Character Creation]] * Portrait reference for Character_Creation* ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. * [Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. * [Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Ke
+*Sounds of [relevant sounds] echo in the distance.*y character traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -81,3 +90,8 @@ modified: '2025-08-14'
 
 
 *The dice will decide the fate.*
+
+## Visual References
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-v1-character-sheet-layout.png]]
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-character-sheet-layout.png]]
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-v2-character-sheet-layout.png]]

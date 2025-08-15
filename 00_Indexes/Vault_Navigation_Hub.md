@@ -1,4 +1,5 @@
 ---
+enhanced: true
 tags: [misc]
 type: misc
 aliases: ["Vault Navigation Hub"]
@@ -39,7 +40,8 @@ publish: false
 
 Detailed description pending.
 - [[01 Campaigns/|01 Campaigns/]] - Active campaigns and storylines
-- [[01_Adventures|01 Adventures]] - Adventure modules and quests
+- [[01_Adventures|01 Adventur
+*Sounds of [relevant sounds] echo in the distance.*es]] - Adventure modules and quests
 - [[06 Sessions|06 Sessions]] - Session notes and summaries ### 🌍 World Building
 
 - [[02_Worldbuilding|02 Worldbuilding]] - Complete world lore and background
@@ -65,7 +67,7 @@ Detailed description pending.
 - [[04_Resources|04 Resources]] - Ambient sounds and music
 - [[04_Resources|04 Resources]] - AI-generated content ---
 
-*Last updated: {{date:YYYY-MM-DD}}* ## See Also
+*Last updated: {{date:YYYY-BC-DD}}* ## See Also
 
 - Related content
 - Similar topics
@@ -106,3 +108,8 @@ Detailed description pending.
 **Key Question**: What role will this play in the greater story?
 
 *The dice will decide the fate.*
+
+## Visual References
+![[04_Resources/Assets/Maps/World/Continents/world_the_vault_keepers_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_vault_keeper_aurelia_crownguard_vault_keeper_aurelia_crownguard_svg_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_vault_breach_vault_breach_svg_physical.png]]

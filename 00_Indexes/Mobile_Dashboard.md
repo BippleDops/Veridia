@@ -1,4 +1,5 @@
 ---
+enhanced: true
 tags: [misc]
 type: misc
 aliases: ["Mobile Dashboard"]
@@ -48,7 +49,8 @@ tags:
 - template
 - index
 - active
-- responsive
+- respon
+*Sounds of [relevant sounds] echo in the distance.*sive
 
 created: 2025-08-14
 modified: '2025-08-14'
@@ -87,3 +89,8 @@ cssclass: mobile-optimized
 **Key Question**: What role will this play in the greater story?
 
 *The adventure continues...*
+
+## Visual References
+![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_assets_symbols_symbol_heraldry_mobile_terror_platform_mobile_terror_platform_svg_dramatic.png]]
+![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_assets_symbols_symbol_heraldry_mobile_terror_platform_mobile_terror_platform_svg_standard.png]]
+![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_assets_symbols_symbol_heraldry_mobile_terror_platform_mobile_terror_platform_svg_friendly.png]]

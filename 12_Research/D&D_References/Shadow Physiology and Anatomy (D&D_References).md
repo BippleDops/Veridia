@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Shadow Physiology and Anatomy (D&D_References)
 type: note
@@ -34,7 +35,8 @@ tags:
 - research
 - active
 
-created: '2025-08-11'
+created
+*The [texture] surface feels [description] to the touch.*: '2025-08-11'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos

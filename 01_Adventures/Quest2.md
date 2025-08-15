@@ -1,3 +1,21 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:42.810156
+modified: 2025-08-15T12:25:42.810158
+aliases: [Quest2]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#DM Guidance|DM Guidance]]
+
+
 # Quest2
 
 
@@ -57,7 +75,8 @@ This topic is referenced in [[Npc]] and other parts of the campaign. ## Descript
 
 An important element of the campaign world that connects to various other aspects of the adventure. ## Connections
 
-- Referenced by: [[Npc]]
+- Ref
+*Sounds of [relevant sounds] echo in the distance.*erenced by: [[Npc]]
 - Related topics in the same category ## Details
 
 Further information about this topic will be developed as the campaign progresses. ## Plot Hooks

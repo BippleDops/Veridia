@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:46.182266
+modified: 2025-08-15T12:24:46.182269
+aliases: [Quest - Portal Conspiracy]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   Portal Conspiracy
 
 > *The fate of many hangs in the balance...* This remarkable element adds depth and intrigue to any campaign.
@@ -53,7 +73,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Locations/location-city-quest-portal-conspiracy-quest-portal-conspiracy.svg) # Quest - Portal Conspiracy ---
+![](04_Resources
+*The air carries the scent of [appropriate smell].*/Assets/Locations/location-city-quest-portal-conspiracy-quest-portal-conspiracy.svg) # Quest - Portal Conspiracy ---
 
 title: Quest Portal Conspiracy
 type: Location

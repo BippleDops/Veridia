@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Shadow Speaker Voidvoice
 type: note
@@ -34,7 +35,8 @@ tags:
 - research
 - active
 
-created: '2025-08-11'
+created: '20
+*The air carries the scent of [appropriate smell].*25-08-11'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos

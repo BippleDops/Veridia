@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:36.331699
+modified: 2025-08-15T12:25:36.331705
+aliases: [Quest - The Diplomatic Immunity Case 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Diplomatic Immunity Case 1 (01 Adventures)
 
 
@@ -71,7 +91,8 @@ Detailed description pending.
 
 - **Name**: Local authority figure
 - **Location**: Town center
-- **Motivation**: Community safety > [!figure] Portrait ## Objectives
+- **Motivation**: Community safet
+*Sounds of [relevant sounds] echo in the distance.*y > [!figure] Portrait ## Objectives
 
 
 ### Primary

@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Tools_and_Resources
 type: note
@@ -34,7 +35,8 @@ tags:
 - active
 - articles
 
-created: 2025-08-14
+created: 202
+*The [texture] surface feels [description] to the touch.*5-08-14
 modified: '2025-08-14'
 
 --- ### Discord Servers
@@ -64,3 +66,23 @@ modified: '2025-08-14'
 
 #story/story
 #meta/reference
+
+## Visual References
+![[04_Resources/Assets/Items/Items/item_the_living_tools_display.png]]
+![[04_Resources/Assets/Items/Items/item_the_living_tools_icon.png]]
+![[04_Resources/Assets/Items/Items/item_prison_break_tools_icon.png]]
+
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

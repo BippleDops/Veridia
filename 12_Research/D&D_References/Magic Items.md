@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Magic Items
 type: item
@@ -30,7 +31,8 @@ type: Lore
 tags:
 - lore
 - aquabyssos
-- magical-crafting
+- magica
+*The air carries the scent of [appropriate smell].*l-crafting
 - both worlds
 - complete
 - both-worlds

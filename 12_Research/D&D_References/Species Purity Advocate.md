@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Species Purity Advocate
 type: note
@@ -34,7 +35,8 @@ tags:
 - research
 
 created: '2025-08-11'
-modified: '2025-08-14'
+m
+*Sounds of [relevant sounds] echo in the distance.*odified: '2025-08-14'
 status: active
 world: Aquabyssos
 updated: '2025-08-13T01:18:34.536688+00:00'

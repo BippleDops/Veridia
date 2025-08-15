@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Quartermaster David Simpleton (D&D_References)
 type: note
@@ -33,7 +34,8 @@ tags:
 - location
 - research
 
-created: '2025-08-11'
+created: 
+*The air carries the scent of [appropriate smell].*'2025-08-11'
 modified: '2025-08-14'
 status: active
 world: Aethermoor
@@ -62,3 +64,17 @@ danger_level: Moderate
 #world/world
 #world/setting
 #meta/reference
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

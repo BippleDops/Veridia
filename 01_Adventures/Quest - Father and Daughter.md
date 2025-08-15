@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:56.723397
+modified: 2025-08-15T12:24:56.723399
+aliases: [Quest - Father and Daughter]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Father and Daughter"]
@@ -60,7 +81,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Father and Daughter ---
 
-title: Quest Father and Daughter
+
+*Sounds of [relevant sounds] echo in the distance.*title: Quest Father and Daughter
 type: Lore
 tags:
 - lore

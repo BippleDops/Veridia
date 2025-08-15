@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:51.004675
+modified: 2025-08-15T12:25:51.004677
+aliases: [Quest - The Drowned Prophecy 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: 02_Worldbuilding/Quests/Quest - The Drowned Prophecy
 type: adventure
@@ -34,7 +51,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas ## Quest Giver
 
-- **Name**: Local authority figure
+- **Name**: Local a
+*The [texture] surface feels [description] to the touch.*uthority figure
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
 

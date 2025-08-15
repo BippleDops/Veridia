@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:31.764160
+modified: 2025-08-15T12:25:31.764166
+aliases: [Quest Tree System]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Related Content|Related Content]]
+
+
 # Quest Tree System
 
 > *Time is running out...*
@@ -57,21 +78,22 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas ## Quest Giver
 
-- **Name**: Local authority figure
+- **Name**: Local a
+*Sounds of [relevant sounds] echo in the distance.*uthority figure
 - **Location**: Town center
-- **Motivation**: Community safety ### Quest_26
+- **Motivation**: Community safety ### [[QUEST00262_Personal_Quest_263|Quest_26]]
 
 **Prerequisites**: Complete [Quest C], Reputation: 55
-**Unlocks**: Access to unique ability ### Quest_27
+**Unlocks**: Access to unique ability ### [[QUEST00276_Personal_Quest_277|Quest_27]]
 
 **Prerequisites**: Complete [Quest A], Reputation: 54
-**Unlocks**: Access to new area ### Quest_28
+**Unlocks**: Access to new area ### [[QUEST00280_Personal_Quest_281|Quest_28]]
 
 **Prerequisites**: Complete [Quest C], Reputation: 39
-**Unlocks**: Access to secret information ### Quest_29
+**Unlocks**: Access to secret information ### [[QUEST00291_Personal_Quest_292|Quest_29]]
 
 **Prerequisites**: Complete [Quest C], Reputation: 59
-**Unlocks**: Access to unique ability ### Quest_30
+**Unlocks**: Access to unique ability ### [[QUEST00299_Personal_Quest_300|Quest_30]]
 
 **Prerequisites**: Complete [Quest C], Reputation: 43
 **Unlocks**: Access to special vendor ### Quest Chain_33 1. **Introduction**: Mysterious message
@@ -237,3 +259,13 @@ Detailed description pending.
 - **If Successful**: The positive outcomes that await
 - **If Failed**: The dire consequences of failure
 - **Time Pressure**: Why this cannot wait
+
+
+## Related Content
+*Enhanced with 5 new connections*
+
+
+## Visual References
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-v1-quest-the-void-conspiracy.png]]
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-quest-the-void-conspiracy.png]]
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-v2-quest-the-void-conspiracy.png]]

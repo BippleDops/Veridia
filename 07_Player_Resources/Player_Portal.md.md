@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T12:24:41.149651
+modified: 2025-08-15T12:24:41.149652
+aliases: [Player Portal.md]
+---
+
 # Player Portal.Md
 
 
@@ -18,7 +26,8 @@ improvements: 20
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes ## Plot Hooks - Someone is blackmailing a witness for money - Someone is searching for information for love
+- Connections 
+*The air carries the scent of [appropriate smell].*to overarching campaign themes ## Plot Hooks - Someone is blackmailing a witness for money - Someone is searching for information for love
 - A map reveals a betrayal about a local noble
 - Strange dreams suggest ancient magic ## Historical Timeline ### The Age of Founding (1000 years ago) - The First Settlement
 - Discovery of magical crystals
@@ -70,3 +79,8 @@ publish: false --- -|--------|
 **Key Question**: What role will this play in the greater story?
 
 *Adventure awaits those brave enough to seek it.*
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/07_player_resources_visual_handouts_guild_seal_document_silverscale_consortiu.png]]
+![[04_Resources/Assets/Generated/Misc/faction_overview_for_players.png]]
+![[04_Resources/Assets/Generated/Misc/07_player_resources_faction_guide_md.png]]

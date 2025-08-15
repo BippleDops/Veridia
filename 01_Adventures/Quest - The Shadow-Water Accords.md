@@ -1,3 +1,22 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.162416
+modified: 2025-08-15T12:25:47.162417
+aliases: [Quest - The Shadow-Water Accords]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
 # Quest   The Shadow Water Accords
 
 
@@ -51,7 +70,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-shadow-water-accords-quest-the-shadow-water-accords.svg) # Quest - The Shadow-Water Accords ---
+![](04_Resources
+*Sounds of [relevant sounds] echo in the distance.*/Assets/Portraits/portrait-npc-quest-the-shadow-water-accords-quest-the-shadow-water-accords.svg) # Quest - The Shadow-Water Accords ---
 
 title: Quest The Shadow Water Accords
 type: NPC

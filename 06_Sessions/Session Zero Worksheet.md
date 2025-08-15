@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:36.259720
+modified: 2025-08-15T12:24:36.259723
+aliases: [Session Zero Worksheet]
+---
+
 # Session Zero Worksheet
 
 
@@ -33,7 +41,8 @@ type: Visual Handout
 tags:
 - player/visual
 - session/preparation
-- research
+- r
+*The [texture] surface feels [description] to the touch.*esearch
 - active
 - reference/worksheet created: '2025-08-13'
 modified: '2025-08-14'
@@ -103,7 +112,7 @@ ____________________________________________ PERSONAL GOAL: GREATEST FEAR: IMPOR
 □ Everyone's enjoyment matters equally
 □ Spotlight sharing is important
 □ Supporting others' moments is valued
-□ Creative collaboration is encouraged COMMUNICATION AGREEMENT:
+□ Creative collaboration is encouraged COBCUNICATION AGREEMENT:
 □ Problems will be addressed promptly
 □ Feedback will be given constructively
 □ Boundaries will be respected

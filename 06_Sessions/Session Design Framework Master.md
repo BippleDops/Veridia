@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:40.935068
+modified: 2025-08-15T12:24:40.935071
+aliases: [Session Design Framework Master]
+---
+
 # Session Design Framework Master
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -29,7 +37,8 @@ title: Session Design Framework Master
 type: research
 tags:
 - active
-- research created: '2025-08-14'
+- research created: '2025-08-
+*The air carries the scent of [appropriate smell].*14'
 modified: '2025-08-14'
 - -- ### Session 3: The Parliament of Shadows **Core Objective**: Expose the Shadow Chamber's parliamentary infiltration
 **Duration**: 4-5 hours

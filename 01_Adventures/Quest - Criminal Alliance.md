@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.903380
+modified: 2025-08-15T12:25:47.903384
+aliases: [Quest - Criminal Alliance]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - Criminal Alliance
 type: quest
@@ -29,7 +46,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Criminal Alliance ---
 
-title: Quest Criminal Alliance
+ti
+*Sounds of [relevant sounds] echo in the distance.*tle: Quest Criminal Alliance
 type: Lore
 tags:
 - lore

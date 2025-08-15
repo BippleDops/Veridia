@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.965710
+modified: 2025-08-15T12:25:47.965711
+aliases: [Quest - Shadow Medicine]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - Shadow Medicine
 type: quest
@@ -29,7 +46,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Shadow Medicine ---
 
-title: Quest Shadow Medicine
+titl
+*The [texture] surface feels [description] to the touch.*e: Quest Shadow Medicine
 type: Lore
 tags:
 - lore

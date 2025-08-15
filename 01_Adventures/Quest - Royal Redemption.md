@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:29.624389
+modified: 2025-08-15T12:25:29.624391
+aliases: [Quest - Royal Redemption]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   Royal Redemption
 
 > *Time is running out...*
@@ -53,7 +74,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Royal Redemption ---
 
-title: Quest Royal Redemption
+tit
+*Sounds of [relevant sounds] echo in the distance.*le: Quest Royal Redemption
 type: Lore
 tags:
 - lore

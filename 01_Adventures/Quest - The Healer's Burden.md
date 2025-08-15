@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.881585
+modified: 2025-08-15T12:24:55.881586
+aliases: [Quest - The Healer's Burden]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Healer'S Burden
 
 
@@ -56,7 +76,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-healer-s-burden-quest-the-healer-s-burden.svg) # Quest - The Healer's Burden ---
+![](04_Resources
+*Sounds of [relevant sounds] echo in the distance.*/Assets/Portraits/portrait-npc-quest-the-healer-s-burden-quest-the-healer-s-burden.svg) # Quest - The Healer's Burden ---
 
 title: Quest The Healer's Burden
 type: NPC

@@ -1,4 +1,23 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:29.591799
+modified: 2025-08-15T12:25:29.591804
+aliases: [Main Quest Line]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Main Quest Line"]
@@ -49,7 +68,8 @@ This topic is referenced in [[audio_fit_report_1]] and other parts of the campai
 
 An important element of the campaign world that connects to various other aspects of the adventure. ## Connections
 
-- Referenced by: [[audio_fit_report_1]]
+- Ref
+*Sounds of [relevant sounds] echo in the distance.*erenced by: [[audio_fit_report_1]]
 - Related topics in the same category ## Details
 
 Further information about this topic will be developed as the campaign progresses. ## Plot Hooks

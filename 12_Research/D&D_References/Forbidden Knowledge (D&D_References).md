@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Forbidden Knowledge (D&D_References)
 type: note
@@ -34,7 +35,8 @@ tags:
 - active
 - location
 
-created: '2025-08-11'
+created: '2025-0
+*The air carries the scent of [appropriate smell].*8-11'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos

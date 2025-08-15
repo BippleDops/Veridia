@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, obsidianttrpgvault experimental]
+created: 2025-08-15T12:24:30.323396
+modified: 2025-08-15T12:24:30.323398
+aliases: [Campaign Dashboard]
+---
+
 # Campaign Dashboard
 
 *Central hub for campaign navigation - Auto-updated*
@@ -29,3 +37,8 @@
 
 ---
 *Continuously maintained by automation system*
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/_cross_campaign_organizations.png]]
+![[04_Resources/Assets/Generated/Misc/parliament_of_shadows_campaign.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_cross_campaign_locations_player.png]]

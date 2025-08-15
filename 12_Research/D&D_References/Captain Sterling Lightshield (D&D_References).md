@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Captain Sterling Lightshield (D&D_References)
 type: note
@@ -34,7 +35,8 @@ tags:
 - research
 
 created: '2025-08-11'
-modified: '2025-08-14'
+modi
+*Sounds of [relevant sounds] echo in the distance.*fied: '2025-08-14'
 status: active
 world: Both
 updated: '2025-08-13T01:18:36.923215+00:00'
@@ -59,3 +61,17 @@ updated: '2025-08-13T01:18:36.923215+00:00'
 #world/setting
 #character/npc
 #meta/reference
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

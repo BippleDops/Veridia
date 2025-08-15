@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.976433
+modified: 2025-08-15T12:24:55.976436
+aliases: [Quest - Smuggler's Run]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   Smuggler'S Run
 
 > *The fate of many hangs in the balance...*
@@ -54,7 +75,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Smuggler's Run ---
 
-title: Quest Smuggler's Run
+title
+*The air carries the scent of [appropriate smell].*: Quest Smuggler's Run
 type: Quest
 tags:
 - both

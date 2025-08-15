@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, obsidianttrpgvault experimental]
+created: 2025-08-15T12:24:36.040830
+modified: 2025-08-15T12:24:36.040832
+aliases: [CLAUDE]
+---
+
 # Claude
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -24,7 +32,8 @@ type: note
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 - Related content
 - Similar topics
-- Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
+- Connected elements ## Alternate Descriptions - **First Impres
+*Sounds of [relevant sounds] echo in the distance.*sion**: Initial appearance
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects ## Notes {#notes} *Additional notes*
 

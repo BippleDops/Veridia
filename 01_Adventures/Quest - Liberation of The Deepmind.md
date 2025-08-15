@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.772228
+modified: 2025-08-15T12:24:55.772229
+aliases: [Quest - Liberation of The Deepmind]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Liberation of The Deepmind"]
@@ -57,7 +77,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - Liberation of The Deepmind ---
+- Moral dilemmas # Quest - Liberation of The Deepmin
+*The [texture] surface feels [description] to the touch.*d ---
 
 title: Quest Liberation of The Deepmind
 type: Lore

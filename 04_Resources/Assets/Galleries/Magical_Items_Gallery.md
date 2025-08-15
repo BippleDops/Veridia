@@ -1,3 +1,9 @@
+---
+tags: [item, equipment]
+type: item
+aliases: ["Magical Items Gallery"]
+---
+
 # Magical Items Gallery
 
 %% Use reading mode for visual gallery %%

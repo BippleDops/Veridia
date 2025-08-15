@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:41.420785
+modified: 2025-08-15T12:24:41.420789
+aliases: [NPC Voices]
+---
+
 # Npc Voices
 
 
@@ -5,7 +13,8 @@
 
 > *A figure whose reputation precedes them...*
 
---- ## Description *[Add detailed physical appearance and personality traits here]* ## Personality {#description-*[add-detailed-physical-appearance-and-personality-traits-here]*-##-personality} - **Traits**: *[Key character traits]*
+--- ## Description *[Add detailed physical appearance and personality traits here]* ## Personality {#description-*[add-detailed-physical-appearance-and-personality-traits-here]*-##-personality} - **Traits**: *[Key char
+*The air carries the scent of [appropriate smell].*acter traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -179,3 +188,8 @@ publish: false --- ## 🔧 Deep Evaluation Improvements *20 targeted improvement
 
 
 *Every story needs its heroes.*
+
+## Visual References
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_voices_from_below_voices_from_below_svg_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_voices_from_below_political.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_voices_from_below_v1_voices_from_below_svg_player.png]]

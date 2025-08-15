@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Shadow Embassy Network
 type: note
@@ -34,7 +35,8 @@ tags:
 - research
 - active
 
-created: '2025-08-11T13:08:46.678835+00:00'
+created: '2025
+*The air carries the scent of [appropriate smell].*-08-11T13:08:46.678835+00:00'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos

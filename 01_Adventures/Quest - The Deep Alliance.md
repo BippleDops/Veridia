@@ -1,3 +1,22 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:42.802786
+modified: 2025-08-15T12:25:42.802787
+aliases: [Quest - The Deep Alliance]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
 # Quest   The Deep Alliance
 
 
@@ -51,7 +70,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-deep-alliance-quest-the-deep-alliance.svg) # Quest - The Deep Alliance ---
+![](04_Resources
+*The air carries the scent of [appropriate smell].*/Assets/Portraits/portrait-npc-quest-the-deep-alliance-quest-the-deep-alliance.svg) # Quest - The Deep Alliance ---
 
 title: Quest The Deep Alliance
 type: NPC

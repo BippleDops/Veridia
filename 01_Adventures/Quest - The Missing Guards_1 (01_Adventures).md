@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:28.162875
+modified: 2025-08-15T12:25:28.162885
+aliases: [Quest - The Missing Guards 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Missing Guards 1 (01 Adventures)
 
 
@@ -77,7 +97,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - The Missing Guards ## Quest Giver
+- Moral dilemmas # Quest - The Missing Guards ## Que
+*The [texture] surface feels [description] to the touch.*st Giver
 
 - **Name**: Local authority figure
 - **Location**: Town center

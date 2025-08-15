@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:43.002556
+modified: 2025-08-15T12:24:43.002557
+aliases: [NPC Name Generator.png 1 (03 People)]
+---
+
 # Npc Name Generator.Png 1 (03 People)
 
 > *Every scar tells a story...* This remarkable element adds depth and intrigue to any campaign.
@@ -20,9 +28,10 @@ category: 03 People
 subcategory: Npc Name Generator.Png 1 (03 People).Md
 related: []
 cssclass: standard
-publish: false --- # NPC_Name_Generator.png_1 ## Portrait![[Npc|portrait_npc_name_generator.png_1_(03_people).png]] *Portrait reference for NPC_Name_Generator.png_1 (03_People)* ## Overview ## Description
+publish: false --- # [[[[[[[[NPC_Name_Generator.png|NPC_Name_Generator]].png|NPC_Name_Generator]].png|NPC_Name_Generator]].png|NPC_Name_Generator]].png_1 ## Portrait![[Npc|portrait_npc_name_generator.png_1_(03_people).png]] *Portrait reference for NPC_Name_Generator.png_1 (03_People)* ## Overview ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. NPC_Name_Generator.png_1 is a notable figure in the realm, known for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. NPC_Name_Generator.png_1 is a notable figure in the re
+*The [texture] surface feels [description] to the touch.*alm, known for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
 - **Build**: Average height, lean build
 - **Distinguishing Features**: Keen eyes that miss nothing
 - **Typical Attire**: Practical clothing suited for their profession ## Personality - **Traits**: Observant, calculating, pragmatic
@@ -66,3 +75,12 @@ publish: false --- # NPC_Name_Generator.png_1 ## Portrait![[Npc|portrait_npc_nam
 **Key Question**: What drives this character's actions?
 
 *The adventure continues...*
+
+## Related Content
+*Enhanced with 4 new connections*
+
+
+## Visual References
+![[04_Resources/Assets/Locations/location-city-memorial-wall-of-names-v1-memorial-wall-of-names.png]]
+![[04_Resources/Assets/Locations/location-city-memorial-wall-of-names-memorial-wall-of-names.png]]
+![[04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_nameless_librarians.png]]

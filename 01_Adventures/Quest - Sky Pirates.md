@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:51.051553
+modified: 2025-08-15T12:25:51.051555
+aliases: [Quest - Sky Pirates]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - Sky Pirates
 type: quest
@@ -29,7 +46,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Sky Pirates ---
 
-title: Quest Sky Pirates
+title: Q
+*The air carries the scent of [appropriate smell].*uest Sky Pirates
 type: Lore
 tags:
 - lore

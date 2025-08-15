@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T12:24:36.053259
+modified: 2025-08-15T12:24:36.053262
+aliases: [10K GENERATION REPORT]
+---
+
 # 10K Generation Report
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -23,7 +31,8 @@ publish: false --- # 10,000 Asset Generation Report Generated: 2025-08-15T03:51:
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending. |----------|-------|------------|
 | NPCs | 2,000 | 20.0% |
 | [[Items|Items]] | 1,500 | 15.0% |
-| Locations | 1,500 | 15.0% |
+| L
+*The air carries the scent of [appropriate smell].*ocations | 1,500 | 15.0% |
 | [[Quests|Quests]] | 1,000 | 10.0% |
 | Encounters | 1,000 | 10.0% |
 | [[Lore|Lore]] | 1,000 | 10.0% |
@@ -74,3 +83,8 @@ publish: false --- # 10,000 Asset Generation Report Generated: 2025-08-15T03:51:
 **Balance Note**: Adjust creature numbers based on party size and level.
 
 *Every story needs its heroes.*
+
+## Visual References
+![[04_Resources/Assets/Items/Items/item_illusion_generation_mirrors_icon.png]]
+![[04_Resources/Assets/Items/Items/item_illusion_generation_mirrors_display.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_gm.png]]

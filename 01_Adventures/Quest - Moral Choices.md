@@ -1,4 +1,23 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:42.753060
+modified: 2025-08-15T12:25:42.753061
+aliases: [Quest - Moral Choices]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Moral Choices"]
@@ -57,7 +76,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Moral Choices ---
 
-title: Quest Moral Choices
+title:
+*The air carries the scent of [appropriate smell].* Quest Moral Choices
 type: Lore
 tags:
 - lore

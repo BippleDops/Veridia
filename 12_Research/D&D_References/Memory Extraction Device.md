@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Memory Extraction Device
 type: note
@@ -34,7 +35,8 @@ tags:
 - research
 - active
 
-created: '2025-08-11T13:08:46.670338+00:00'
+created: '20
+*Sounds of [relevant sounds] echo in the distance.*25-08-11T13:08:46.670338+00:00'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos

@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Goldhorn the Magnificent
 type: note
@@ -30,7 +31,8 @@ type: Lore
 tags:
 - lore
 - dimensional nexus (both realms)
-- dimensional-nexus-(both-realms)
+- dimensional-nexus-(b
+*The [texture] surface feels [description] to the touch.*oth-realms)
 - research
 - active
 - location
@@ -61,3 +63,17 @@ updated: '2025-08-13T01:18:34.540048+00:00'
 #world/world
 #world/setting
 #meta/reference
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

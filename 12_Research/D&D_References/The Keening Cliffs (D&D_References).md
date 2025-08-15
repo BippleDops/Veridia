@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: The Keening Cliffs (D&D_References)
 type: note
@@ -34,7 +35,8 @@ tags:
 - active
 - haunted-mountain-range
 
-created: '2025-08-11'
+cre
+*The air carries the scent of [appropriate smell].*ated: '2025-08-11'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos

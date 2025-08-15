@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:48.043489
+modified: 2025-08-15T12:25:48.043494
+aliases: [Quest - Precision Strike]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - Precision Strike
 type: quest
@@ -29,7 +46,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Precision Strike ---
 
-title: Quest Precision Strike
+tit
+*The [texture] surface feels [description] to the touch.*le: Quest Precision Strike
 type: Lore
 tags:
 - lore

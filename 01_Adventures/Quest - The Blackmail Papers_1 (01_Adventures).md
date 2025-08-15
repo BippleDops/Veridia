@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:46.175538
+modified: 2025-08-15T12:24:46.175545
+aliases: [Quest - The Blackmail Papers 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Blackmail Papers 1 (01 Adventures)
 
 
@@ -59,7 +79,8 @@ Detailed description pending.
 
 ### Primary
 
-- Main quest goal ### Optional
+- Main
+*The [texture] surface feels [description] to the touch.* quest goal ### Optional
 
 - Secondary objectives
 - Hidden goals # Quest - The Blackmail Papers ---

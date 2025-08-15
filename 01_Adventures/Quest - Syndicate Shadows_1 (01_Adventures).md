@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.002898
+modified: 2025-08-15T12:24:55.002901
+aliases: [Quest - Syndicate Shadows 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   Syndicate Shadows 1 (01 Adventures)
 
 
@@ -77,7 +97,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - Syndicate Shadows ## Quest Giver
+- Moral dilemmas # Quest - Syndicate Shadows ## Ques
+*The [texture] surface feels [description] to the touch.*t Giver
 
 - **Name**: Local authority figure
 - **Location**: Town center

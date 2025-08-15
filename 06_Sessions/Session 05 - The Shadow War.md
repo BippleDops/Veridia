@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:40.907889
+modified: 2025-08-15T12:24:40.907893
+aliases: [Session 05 - The Shadow War]
+---
+
 # Session 05   The Shadow War
 
 
@@ -35,7 +43,8 @@ tags:
 - aquabyssos
 - session
 - research
-- active created: '2025-08-11'
+- activ
+*The [texture] surface feels [description] to the touch.*e created: '2025-08-11'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos

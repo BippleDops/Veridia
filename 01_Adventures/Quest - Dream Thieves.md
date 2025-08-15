@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:49.865140
+modified: 2025-08-15T12:24:49.865143
+aliases: [Quest - Dream Thieves]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Dream Thieves"]
@@ -59,7 +80,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Dream Thieves ---
 
-title: Quest Dream Thieves
+title:
+*The air carries the scent of [appropriate smell].* Quest Dream Thieves
 type: Lore
 tags:
 - lore

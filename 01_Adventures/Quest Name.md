@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:43.967347
+modified: 2025-08-15T12:24:43.967348
+aliases: [Quest Name]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Primary {#primary}|Primary {#primary}]]
+- [[#Background {#background}|Background {#background}]]
+- [[#Notes {#notes}|Notes {#notes}]]
+- [[#Timeline {#timeline}|Timeline {#timeline}]]
+- [[#NPCs Involved {#npcs-involved}|NPCs Involved {#npcs-involved}]]
+- [[#Alternative Solutions {#alternative-solutions}|Alternative Solutions {#alternative-solutions}]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+- [[#Session Prep|Session Prep]]
+
+
 # Quest Name
 
 > *What starts as simple becomes legendary...* This remarkable element adds depth and intrigue to any campaign.
@@ -61,7 +82,8 @@ This document contains important information regarding Quest Name and its role w
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
 
-Quest Name represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+Quest Name represents a significant element within the campaign world, offering various opportunities for engagement and 
+*The [texture] surface feels [description] to the touch.*development. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

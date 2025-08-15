@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:30.492439
+modified: 2025-08-15T12:25:30.492442
+aliases: [Quest - Shadow Citizenship Act]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   Shadow Citizenship Act
 
 > *What starts as simple becomes legendary...*
@@ -51,7 +72,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - Shadow Citizenship Act ---
+- Moral dilemmas # Quest - Shadow Citizenship Act --
+*Sounds of [relevant sounds] echo in the distance.*-
 
 title: Quest Shadow Citizenship Act
 type: Lore

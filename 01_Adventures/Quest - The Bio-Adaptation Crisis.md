@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:29.582642
+modified: 2025-08-15T12:25:29.582644
+aliases: [Quest - The Bio-Adaptation Crisis]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Bio Adaptation Crisis
 
 > *Time is running out...*
@@ -53,7 +73,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-bio-adaptation-crisis-quest-the-bio-adaptation-crisis.svg) # Quest - The Bio-Adaptation Crisis ---
+![](04_Resources
+*Sounds of [relevant sounds] echo in the distance.*/Assets/Portraits/portrait-npc-quest-the-bio-adaptation-crisis-quest-the-bio-adaptation-crisis.svg) # Quest - The Bio-Adaptation Crisis ---
 
 title: Quest The Bio Adaptation Crisis
 type: NPC

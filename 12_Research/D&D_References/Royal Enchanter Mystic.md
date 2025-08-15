@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Royal Enchanter Mystic
 type: note
@@ -34,7 +35,8 @@ tags:
 - character
 - active
 
-created: '2025-08-11'
+created: '20
+*Sounds of [relevant sounds] echo in the distance.*25-08-11'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos

@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Economic Justice Debates
 type: note
@@ -32,7 +33,8 @@ tags:
 - aquabyssos
 - resource-allocation
 - economics
-- research
+- researc
+*Sounds of [relevant sounds] echo in the distance.*h
 - active
 - moral-dilemmas
 - justice

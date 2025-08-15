@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 13_performance]
+created: 2025-08-15T12:24:40.995065
+modified: 2025-08-15T12:24:40.995070
+aliases: [audio fit report]
+---
+
 # Audio Fit Report
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -19,7 +27,8 @@ modified: '2025-08-14'
 status: active
 priority: normal
 category: 13 Performance
-subcategory: Audio Fit Report.Md
+subcatego
+*The air carries the scent of [appropriate smell].*ry: Audio Fit Report.Md
 related: []
 cssclass: standard
 publish: false --- |---|---:|:---:|---|
@@ -279,3 +288,8 @@ publish: false --- |---|---:|:---:|---|
 **Key Question**: What role will this play in the greater story?
 
 *The adventure continues...*
+
+## Visual References
+![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_gm.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_witness_reports_gm.png]]

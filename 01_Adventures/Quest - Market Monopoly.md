@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:48.460832
+modified: 2025-08-15T12:24:48.460833
+aliases: [Quest - Market Monopoly]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Thematic Elements|Thematic Elements]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Market Monopoly"]
@@ -59,7 +80,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Market Monopoly ---
 
-title: Quest Market Monopoly
+titl
+*Sounds of [relevant sounds] echo in the distance.*e: Quest Market Monopoly
 type: Lore
 tags:
 - lore

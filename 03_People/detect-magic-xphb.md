@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:42.972904
+modified: 2025-08-15T12:24:42.972906
+aliases: [detect-magic-xphb]
+---
+
 # Detect Magic Xphb
 
 
@@ -25,7 +33,8 @@ publish: false --- # detect-magic-xphb ## Portrait![[detect-magic-xphb|Detect-Ma
 **Complexity**: Moderate
 **Purpose**: Enhance gameplay in specific situations ## Description
 
-**Details**: Rich sensory elements bring this to life. detect-magic-xphb provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ## Core Mechanics ### Basic Resolution The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
+**Details**: Rich sensory elements bring this to life. detect-magic-xphb provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This syste
+*The air carries the scent of [appropriate smell].*m integrates with existing D&D 5e rules while adding meaningful choices and consequences. ## Core Mechanics ### Basic Resolution The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
 2. **Setup**: Establish parameters and stakes
 3. **Action**: Players create choices using the system
 4. However, **Resolution**: Determine outcomes based on rolls and decisions

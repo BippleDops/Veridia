@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, obsidianttrpgvault experimental]
+created: 2025-08-15T12:24:28.932175
+modified: 2025-08-15T12:24:28.932181
+aliases: [VAULT NARRATIVE COMPLETION STATUS]
+---
+
 # Vault Narrative Completion Status
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -15,7 +23,8 @@ related: []
 cssclass: standard
 publish: false --- # VAULT NARRATIVE COMPLETION STATUS ## Overview VAULT NARRATIVE COMPLETION STATUS represents an important element within the [[Campaign World|campaign world]]. ## Description
 
-**Details**: Rich sensory elements bring this to life. This component serves a vital role in the ongoing narrative and world-building efforts. It connects to various other elements and provides depth to the campaign setting. Indeed, ## Key Features ### Primary Aspects - **Core Function**: Central purpose and role
+**Details**: Rich sensory elements bring this to life. This component serves a vital role in the ongoing narrative and world-building efforts. It connects to various other elements and provides dept
+*Sounds of [relevant sounds] echo in the distance.*h to the campaign setting. Indeed, ## Key Features ### Primary Aspects - **Core Function**: Central purpose and role
 - **Unique Traits**: Distinguishing characteristics
 - **Connections**: Links to other elements ### Secondary Aspects - Supporting details
 - Environmental factors
@@ -46,3 +55,8 @@ publish: false --- # VAULT NARRATIVE COMPLETION STATUS ## Overview VAULT NARRATI
 **Key Question**: What role will this play in the greater story?
 
 *The adventure continues...*
+
+## Visual References
+![[04_Resources/Assets/Maps/World/Continents/world_the_vault_keepers_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_vault_keeper_aurelia_crownguard_vault_keeper_aurelia_crownguard_svg_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_vault_breach_vault_breach_svg_physical.png]]

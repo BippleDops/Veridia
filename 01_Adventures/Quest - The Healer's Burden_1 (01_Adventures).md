@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.016163
+modified: 2025-08-15T12:24:55.016164
+aliases: [Quest - The Healer's Burden 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Healer'S Burden 1 (01 Adventures)
 
 
@@ -69,7 +89,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas > [!figure] Portrait # Quest - The Healer's Burden *"Dr. Celeste Dawnbringer must choose who lives and who dies - and the weight of those choices may break her oath to accomplish no harm."* ## Quest Giver
+- Moral dilemmas > [!figure] Portrait # Quest - The 
+*Sounds of [relevant sounds] echo in the distance.*Healer's Burden *"Dr. Celeste Dawnbringer must choose who lives and who dies - and the weight of those choices may break her oath to accomplish no harm."* ## Quest Giver
 
 - **Name**: Local authority figure
 - **Location**: Town center

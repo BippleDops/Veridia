@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Council Representative
 type: note
@@ -34,7 +35,8 @@ tags:
 - character
 - active
 
-created: '2025-08-11T13:08:46.455142+00:00'
+created: '20
+*The [texture] surface feels [description] to the touch.*25-08-11T13:08:46.455142+00:00'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos

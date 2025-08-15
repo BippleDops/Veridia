@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:49.868241
+modified: 2025-08-15T12:24:49.868243
+aliases: [Quest - Legitimacy Campaign]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Legitimacy Campaign"]
@@ -60,7 +81,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Legitimacy Campaign ---
 
-title: Quest Legitimacy Campaign
+
+*The [texture] surface feels [description] to the touch.*title: Quest Legitimacy Campaign
 type: Lore
 tags:
 - lore

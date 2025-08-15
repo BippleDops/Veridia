@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Dr. Elena Compassion
 type: note
@@ -34,7 +35,8 @@ tags:
 - lore
 - aquabyssos
 - faction
-- research
+- res
+*The [texture] surface feels [description] to the touch.*earch
 - active
 - complete
 

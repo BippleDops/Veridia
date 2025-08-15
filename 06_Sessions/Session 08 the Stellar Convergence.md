@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:39.335242
+modified: 2025-08-15T12:24:39.335245
+aliases: [Session 08 the Stellar Convergence]
+---
+
 # Session 08 The Stellar Convergence
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -30,7 +38,8 @@ type: Quest
 tags:
 - session-guide
 - research
-- world/both
+- world/bot
+*Sounds of [relevant sounds] echo in the distance.*h
 - active
 - epic-encounters
 - campaign-finale

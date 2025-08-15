@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Major Trading Companies (D&D_References)
 type: note
@@ -33,7 +34,8 @@ tags:
 - rivalries
 - trading-companies
 - research
-- active
+- a
+*The air carries the scent of [appropriate smell].*ctive
 - complete
 - merchant-princes
 - group

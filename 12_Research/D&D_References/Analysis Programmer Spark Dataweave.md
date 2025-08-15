@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Analysis Programmer Spark Dataweave
 type: note
@@ -33,7 +34,8 @@ tags:
 - active
 - research
 
-created: '2025-08-11'
+created: '2
+*The [texture] surface feels [description] to the touch.*025-08-11'
 modified: '2025-08-14'
 status: active
 world: Aethermoor
@@ -65,3 +67,17 @@ updated: '2025-08-13T01:18:34.538529+00:00'
 #world/world
 #world/setting
 #meta/reference
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

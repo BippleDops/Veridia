@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Mechanics Aerial Combat
 type: mechanics
@@ -22,13 +23,14 @@ publish: false
 
 ---
 
- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Monster_Use Improvements - Explain if/how monsters use this rule ### Magic_Items Improvements - Note how magic items affect this rule ### Variant Improvements - Add 'gritty realism' variant of rule ### Session_Zero Improvements - Include session zero discussion points ### Simplified Improvements - Create simplified version for new players ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Automated Improvements - Add macro/code for VTT implementation ## Mechanic Overview **System**: D&D 5th Edition
+ ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Monster_Use Improvements - Explain if/how monsters use this rule ### [[Magic_Items_Quick_Reference|Magic_Items]] Improvements - Note how magic items affect this rule ### Variant Improvements - Add 'gritty realism' variant of rule ### Session_Zero Improvements - Include session zero discussion points ### Simplified Improvements - Create simplified version for new players ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Automated Improvements - Add macro/code for VTT implementation ## Mechanic Overview **System**: D&D 5th Edition
 
 **Type**: Rule Variant / Subsystem / Optional Rule
 **Complexity**: Moderate
 **Purpose**: Enhance gameplay in specific situations ## Description
 
-**Details**: Rich sensory elements bring this to life. 03_Mechanics/Aerial_Combat provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
+**Details**: Rich sensory elements bring this to life. 03_Mechanics/Aerial_Combat provides a structured approach to handling specific game situations that benefit from additional mechanical depth. T
+*The air carries the scent of [appropriate smell].*his system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
 
 The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
 2. However, **Setup**: Establish parameters and stakes
@@ -184,27 +186,27 @@ A: Supernatural abilities suppressed, mundane portions still function ## Common 
 > Work together and communicate
 ## Official Rules Reference ### Core Rulebooks
 
-- **Combat**: PHB Chapter 9 (p.189-198)
-- **Actions in Combat**: PHB p.192-193
-- **Cover**: PHB p.196
-- **Advantage/Disadvantage**: PHB p.173
-- **Optional Action Options**: DMG p.271-272
-- **Flanking (Optional)**: DMG p.251
+- **Combat**: ACX Chapter 9 (p.189-198)
+- **Actions in Combat**: ACX p.192-193
+- **Cover**: ACX p.196
+- **Advantage/Disadvantage**: ACX p.173
+- **Optional Action Options**: WWT p.271-272
+- **Flanking (Optional)**: WWT p.251
 - **UA Fighting Styles**: Various UA documents
-- **Tasha's Optional Class Features**: TCE p.89-95 ### Optional Rules (DMG)
+- **Tasha's Optional Class Features**: TMF p.89-95 ### Optional Rules (WWT)
 
-- Consider variant rules from DMG Chapter 9
-- Review optional class features from TCE ### Sage Advice
+- Consider variant rules from WWT Chapter 9
+- Review optional class features from TMF ### Sage Advice
 
 - Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice) ### Common Table Rulings
 
 - Document house rules clearly
-- Maintain consistency across sessions ## Action Economy ### On Your Turn (PHB p.189)
+- Maintain consistency across sessions ## Action Economy ### On Your Turn (ACX p.189)
 
 - **Movement**: Up to your speed
 - **Action**: One action from available options
 - **Bonus Action**: If you have an ability that uses it
-- **Free Actions**: Interact with one object, speak ### Actions Available (PHB p.192)
+- **Free Actions**: Interact with one object, speak ### Actions Available (ACX p.192)
 
 - **Attack**: Make one attack (more with Extra Attack)
 - **Cast a Spell**: Cast time of 1 action
@@ -215,7 +217,7 @@ A: Supernatural abilities suppressed, mundane portions still function ## Common 
 - **Hide**: Stealth check to hide
 - **Ready**: Prepare action with trigger
 - **Search**: Perception or Investigation
-- **Use an Object**: Interact with object ### Reactions (PHB p.190)
+- **Use an Object**: Interact with object ### Reactions (ACX p.190)
 
 - One reaction per round
 - Resets at start of your turn
@@ -244,3 +246,6 @@ A: Supernatural abilities suppressed, mundane portions still function ## Common 
 #gameplay/quest
 #resource/item
 #meta/reference
+
+## Related Content
+*Enhanced with 1 new connections*

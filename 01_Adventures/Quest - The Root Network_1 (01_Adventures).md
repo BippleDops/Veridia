@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:45.457782
+modified: 2025-08-15T12:24:45.457789
+aliases: [Quest - The Root Network 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Root Network 1 (01 Adventures)
 
 
@@ -60,7 +80,8 @@ Detailed description pending.
 - Main quest goal ### Optional
 
 - Secondary objectives
-- Hidden goals # Quest - The Root Network ---
+- Hidden goals # Quest - The
+*The [texture] surface feels [description] to the touch.* Root Network ---
 
 title: Quest The Root Network
 type: Location

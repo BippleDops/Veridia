@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: The Depth Mother's Blessing
 type: note
@@ -33,7 +34,8 @@ tags:
 - active
 - research
 
-created: '2025-08-11'
+created: '2025-08-1
+*The [texture] surface feels [description] to the touch.*1'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos

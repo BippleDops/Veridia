@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: UNIFIED_MECHANICS_GUIDE
 type: note
@@ -33,6 +34,7 @@ tags:
 - mechanics
 - both-worlds
 - research
+*The air carries the scent of [appropriate smell].*
 - active
 - complete
 - reference
@@ -332,3 +334,8 @@ Apply these modifiers to base DCs: | Condition | Modifier | Examples |
 #resource/equipment
 #meta/navigation
 #meta/reference
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/faction_loyalty_mechanics.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_gravity_anomaly_mechanics_gm.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_gravity_anomaly_mechanics_gravity_anomaly_mechanics_svg_gm.png]]

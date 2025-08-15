@@ -1,4 +1,5 @@
 ---
+enhanced: true
 tags: [misc]
 type: misc
 aliases: ["Combat Lookup"]
@@ -36,7 +37,8 @@ tags:
 - tool
 - reference
 - active
-- search created: 2025-08-14
+- search created:
+*The [texture] surface feels [description] to the touch.* 2025-08-14
 modified: '2025-08-14' --- # Combat Lookup > Quick combat reference searches ## Search Operators -`AND`- Both terms required -`OR`- Either term
 -`NOT`or`-`- Exclude term
 -`*`- Wildcard
@@ -57,10 +59,10 @@ modified: '2025-08-14' --- # Combat Lookup > Quick combat reference searches ## 
 | 5 | Option E |
 | 6 | Option F | ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition
 
-## Action Economy ### On Your Turn (PHB p.189) {#action-economy-###-on-your-turn-(phb-p.189)} - **Movement**: Up to your speed
+## Action Economy ### On Your Turn (ACX p.189) {#action-economy-###-on-your-turn-(phb-p.189)} - **Movement**: Up to your speed
 - **Action**: One action from available options
 - **Bonus Action**: If you have an ability that uses it
-- **Free Actions**: Interact with one object, speak ### Actions Available (PHB p.192) - **Attack**: create one attack (more with Extra Attack)
+- **Free Actions**: Interact with one object, speak ### Actions Available (ACX p.192) - **Attack**: create one attack (more with Extra Attack)
 - **Cast a Spell**: Cast time of 1 action
 - **Dash**: Double movement
 - **Disengage**: No opportunity attacks
@@ -69,7 +71,7 @@ modified: '2025-08-14' --- # Combat Lookup > Quick combat reference searches ## 
 - **Hide**: Stealth check to hide
 - **Ready**: Prepare action with trigger
 - **Search**: Perception or Investigation
-- **Use an Object**: Interact with object ### Reactions (PHB p.190) - One reaction per round
+- **Use an Object**: Interact with object ### Reactions (ACX p.190) - One reaction per round
 - Resets at start of your turn
 - Common: Opportunity attacks, Counterspell, Shield ### Bonus Actions - Only if feature/spell grants one
 - Common: Off-hand attack, Cunning Action, Healing Word ## Notes {#notes} *Additional notes* #mechanics/combat
@@ -80,3 +82,8 @@ modified: '2025-08-14' --- # Combat Lookup > Quick combat reference searches ## 
 **Key Question**: What role will this play in the greater story?
 
 *Every story needs its heroes.*
+
+## Visual References
+![[04_Resources/Assets/Placeholder Images/CombatActionsTitleBar.png]]
+![[04_Resources/Assets/Placeholder Images/CombatDefault.png]]
+![[04_Resources/Assets/Placeholder Images/MiscCombatRulesTitleBar.png]]

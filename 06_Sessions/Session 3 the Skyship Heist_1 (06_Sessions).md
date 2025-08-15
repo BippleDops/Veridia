@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:36.210575
+modified: 2025-08-15T12:24:36.210578
+aliases: [Session 3 the Skyship Heist 1 (06 Sessions)]
+---
+
 # Session 3 The Skyship Heist 1 (06 Sessions)
 
 
@@ -23,7 +31,8 @@ type: research
 tags:
 - adventure-session
 - levels-4-6
-- research
+- researc
+*The [texture] surface feels [description] to the touch.*h
 - aerial-infiltration
 - active
 - winds-of-rebellion

@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:49.169241
+modified: 2025-08-15T12:24:49.169244
+aliases: [Quest - Corruption in the Temple]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Primary|Primary]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Session Prep|Session Prep]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Corruption in the Temple"]
@@ -67,7 +87,8 @@ This document contains important information regarding Quest - Corruption in the
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
 
-Quest - Corruption in the Temple represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+Quest - Corruption in the Temple represents a significant element within the campaign world, offering various opportuniti
+*The air carries the scent of [appropriate smell].*es for engagement and development. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

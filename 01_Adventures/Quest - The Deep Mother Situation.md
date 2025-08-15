@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.744617
+modified: 2025-08-15T12:24:55.744620
+aliases: [Quest - The Deep Mother Situation]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Deep Mother Situation
 
 > *What starts as simple becomes legendary...*
@@ -51,7 +71,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - The Deep Mother Situation ---
+- Moral dilemmas # Quest - The Deep Mother Situation
+*The air carries the scent of [appropriate smell].* ---
 
 title: Quest The Deep Mother Situation
 type: Lore

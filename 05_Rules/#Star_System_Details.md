@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: '#Star System Details'
 type: mechanics
@@ -21,7 +22,7 @@ publish: false
 
 ---
 
- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Session_Zero Improvements - Include session zero discussion points ### Interaction Improvements - Clarify interaction with multiclassing ### Simplified Improvements - Create simplified version for new players ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Monster_Use Improvements - Explain if/how monsters use this rule ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ### Magic_Items Improvements - Note how magic items affect this rule ## Mechanic Overview **System**: D&D 5th Edition
+ ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Session_Zero Improvements - Include session zero discussion points ### Interaction Improvements - Clarify interaction with multiclassing ### Simplified Improvements - Create simplified version for new players ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Monster_Use Improvements - Explain if/how monsters use this rule ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ### [[Magic_Items_Quick_Reference|Magic_Items]] Improvements - Note how magic items affect this rule ## Mechanic Overview **System**: D&D 5th Edition
 
 ## Description
 
@@ -30,7 +31,8 @@ publish: false
 Detailed description pending.
 **Type**: Rule Variant / Subsystem / Optional Rule
 **Complexity**: Moderate
-**Purpose**: Enhance gameplay in specific situations ### Basic Resolution
+**Purpose**: Enhance gameplay in spe
+*Sounds of [relevant sounds] echo in the distance.*cific situations ### Basic Resolution
 
 The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
 2. **Setup**: Establish parameters and stakes
@@ -185,15 +187,15 @@ Elena tries to jump while carrying an unconscious ally in heavy rain. DC increas
 > Adjust difficulty based on party composition
 ## Official Rules Reference ### Core Rulebooks
 
-- **General Rules**: PHB Chapter 7-10
-- **DM Guidelines**: DMG Chapter 8
-- **Variant Rules**: DMG Chapter 9
-- **Optional Rules**: TCE p.4-8
+- **General Rules**: ACX Chapter 7-10
+- **DM Guidelines**: WWT Chapter 8
+- **Variant Rules**: WWT Chapter 9
+- **Optional Rules**: TMF p.4-8
 - **UA Playtest Material**: D&D Beyond UA Archive
-- **Expansion Content**: Check specific setting books ### Optional Rules (DMG)
+- **Expansion Content**: Check specific setting books ### Optional Rules (WWT)
 
-- Consider variant rules from DMG Chapter 9
-- Review optional class features from TCE ### Sage Advice
+- Consider variant rules from WWT Chapter 9
+- Review optional class features from TMF ### Sage Advice
 
 - Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice) ### Common Table Rulings
 
@@ -220,3 +222,12 @@ Elena tries to jump while carrying an unconscious ally in heavy rain. DC increas
 #gameplay/quest
 #resource/item
 #meta/reference
+
+## Related Content
+*Enhanced with 1 new connections*
+
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/complete_faction_warfare_system_resource_management.png]]
+![[04_Resources/Assets/Generated/Misc/filtration_systems_guild.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_pressure_tube_system_pressure_tube_system_svg_player.png]]

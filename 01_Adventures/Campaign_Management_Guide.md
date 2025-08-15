@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:30.476313
+modified: 2025-08-15T12:25:30.476319
+aliases: [Campaign Management Guide]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Visual References|Visual References]]
+
+
+---
 tags: [misc]
 type: misc
 aliases: ["Campaign Management Guide"]
@@ -64,7 +85,8 @@ tags:
 - lore
 - gm-resource
 - both
-- campaign-management
+- campaign-ma
+*Sounds of [relevant sounds] echo in the distance.*nagement
 - organization
 - research
 - active
@@ -495,3 +517,8 @@ Spend points to:
 
 
 **Key Question**: Will the heroes rise to the challenge?
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/_cross_campaign_organizations.png]]
+![[04_Resources/Assets/Generated/Misc/parliament_of_shadows_campaign.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_cross_campaign_locations_player.png]]

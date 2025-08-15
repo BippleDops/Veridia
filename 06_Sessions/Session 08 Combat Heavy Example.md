@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:39.435214
+modified: 2025-08-15T12:24:39.435217
+aliases: [Session 08 Combat Heavy Example]
+---
+
 # Session 08 Combat Heavy Example
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -30,7 +38,8 @@ tags:
 - campaign/example
 - research
 - active
-- combat/tactical created: '2025-08-13'
+- combat/tactical creat
+*Sounds of [relevant sounds] echo in the distance.*ed: '2025-08-13'
 modified: '2025-08-14'
 status: complete
 updated: '2025-08-13'
@@ -93,10 +102,10 @@ world: Both
 - **Level 11-15**: Add elite enemies
 - **Level 16-20**: Legendary difficulty ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition
 
-## Action Economy ### On Your Turn (PHB p.189) {#action-economy-###-on-your-turn-(phb-p.189)} - **Movement**: Up to your speed
+## Action Economy ### On Your Turn (ACX p.189) {#action-economy-###-on-your-turn-(phb-p.189)} - **Movement**: Up to your speed
 - **Action**: One action from available options
 - **Bonus Action**: If you have an ability that uses it
-- **Free Actions**: Interact with one object, speak ### Actions Available (PHB p.192) - **Attack**: create one attack (more with Extra Attack)
+- **Free Actions**: Interact with one object, speak ### Actions Available (ACX p.192) - **Attack**: create one attack (more with Extra Attack)
 - **Cast a Spell**: Cast time of 1 action
 - **Dash**: Double movement
 - **Disengage**: No opportunity attacks
@@ -105,7 +114,7 @@ world: Both
 - **Hide**: Stealth check to hide
 - **Ready**: Prepare action with trigger
 - **Search**: Perception or Investigation
-- **Use an Object**: Interact with object ### Reactions (PHB p.190) - One reaction per round
+- **Use an Object**: Interact with object ### Reactions (ACX p.190) - One reaction per round
 - Resets at start of your turn
 - Common: Opportunity attacks, Counterspell, Shield ### Bonus Actions - Only if feature/spell grants one
 - Common: Off-hand attack, Cunning Action, Healing Word ## Notes {#notes} *Additional notes* #mechanics/combat

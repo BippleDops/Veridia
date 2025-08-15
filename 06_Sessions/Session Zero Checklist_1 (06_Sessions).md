@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:40.943582
+modified: 2025-08-15T12:24:40.943587
+aliases: [Session Zero Checklist 1 (06 Sessions)]
+---
+
 # Session Zero Checklist 1 (06 Sessions)
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -31,7 +39,8 @@ tags:
 - lore
 - both
 - active
-- research created: '2025-08-11'
+- research created: '2025-08
+*The [texture] surface feels [description] to the touch.*-11'
 modified: '2025-08-14'
 status: active
 world: Both

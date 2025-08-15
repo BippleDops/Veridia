@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Depth Adaptation Points
 type: note
@@ -33,7 +34,8 @@ tags:
 - both
 - pressure
 - mechanics
-- worldbuilding
+- worldbuildin
+*Sounds of [relevant sounds] echo in the distance.*g
 - research
 - active
 - adaptation

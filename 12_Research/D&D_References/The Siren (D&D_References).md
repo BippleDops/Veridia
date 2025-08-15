@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: The Siren (D&D_References)
 type: note
@@ -35,7 +36,8 @@ tags:
 - spy
 - research
 - active
-- bard
+-
+*Sounds of [relevant sounds] echo in the distance.* bard
 - complete
 - aethermoor
 

@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:38.609087
+modified: 2025-08-15T12:24:38.609090
+aliases: [Session Log]
+---
+
 # Session Log
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -30,7 +38,8 @@ type: campaign
 tags:
 - active
 - campaign created: '2025-08-14'
-modified: '2025-08-14'
+modified: '2025-
+*The air carries the scent of [appropriate smell].*08-14'
 - -- ## 🔧 Deep Evaluation Improvements * 20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Props Improvements - List physical props and handouts needed ### Session_Zero Improvements - Add session zero integration questions ### Accessibility Improvements - Include content warnings and safety tools ### Level_Range Improvements - Provide scaling for different level ranges ### Art Improvements - Add AI art prompts for key scenes ### Backup Improvements - Add 'What if players skip this?' contingency ### Spotlight Improvements - Include spotlight moment for each character class ## Related * Links to related content will be added here.* ## DM Notes * Private notes for campaign integration:* - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles

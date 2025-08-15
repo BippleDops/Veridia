@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:29.533933
+modified: 2025-08-15T12:25:29.533938
+aliases: [Moral Dilemmas]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [misc]
 type: misc
 aliases: ["Moral Dilemmas"]
@@ -60,7 +80,8 @@ publish: false
 
 Detailed description pending.
 **Stakes**: Personal honor
-**No Good Choice**: Both options lead to unintended consequences ### Dilemma_252 **Situation**: Justice vs mercy
+**No Good Choice**: Both options lead to unintended consequences
+*The air carries the scent of [appropriate smell].* ### Dilemma_252 **Situation**: Justice vs mercy
 
 **Stakes**: Personal honor
 **No Good Choice**: Both options lead to someone suffering ### Dilemma_253 **Situation**: Freedom vs security

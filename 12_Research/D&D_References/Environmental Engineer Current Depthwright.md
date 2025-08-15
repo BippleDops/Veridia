@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Environmental Engineer Current Depthwright
 type: note
@@ -33,7 +34,8 @@ tags:
 - active
 - research
 
-created: '2025-08-11'
+crea
+*The [texture] surface feels [description] to the touch.*ted: '2025-08-11'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos

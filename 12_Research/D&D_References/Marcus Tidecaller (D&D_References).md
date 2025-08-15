@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Marcus Tidecaller (D&D_References)
 type: note
@@ -35,7 +36,8 @@ tags:
 - active
 
 created: '2025-08-11'
-modified: '2025-08-14'
+m
+*The air carries the scent of [appropriate smell].*odified: '2025-08-14'
 status: active
 world: Aquabyssos
 updated: '2025-08-13T01:18:35.321655+00:00'

@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:39.507395
+modified: 2025-08-15T12:24:39.507398
+aliases: [Session 2 Harbor Investigation]
+---
+
 # Session 2 Harbor Investigation
 
 
@@ -31,7 +39,8 @@ modified: '2025-01-15'
 title: 'The Sunken Conspiracy - Session 2: Harbor Investigation'
 type: Adventure
 tags:
-- mechanics/social
+- mechanics
+*The [texture] surface feels [description] to the touch.*/social
 - aquabyssos
 - adventure
 - status/complete

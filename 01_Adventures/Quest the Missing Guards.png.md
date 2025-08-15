@@ -1,3 +1,22 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:42.792413
+modified: 2025-08-15T12:25:42.792414
+aliases: [Quest the Missing Guards.png]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Session Prep|Session Prep]]
+
+
 # Quest The Missing Guards.Png
 
 
@@ -50,7 +69,8 @@ publish: false
 
 Detailed description pending.
 
-Quest the Missing Guards.png is a notable figure in the realm, known for their unique skills and complex motivations. ## Appearance
+Quest the Missing Guards.png is a notable figure in the realm, known for their unique skil
+*Sounds of [relevant sounds] echo in the distance.*ls and complex motivations. ## Appearance
 
 - **Age**: Middle-aged
 - **Build**: Average height, lean build

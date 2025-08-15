@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:36.284025
+modified: 2025-08-15T12:24:36.284026
+aliases: [Session 04 the Deep Mother Stirs]
+---
+
 # Session 04 The Deep Mother Stirs
 
 
@@ -33,7 +41,8 @@ type: Quest
 tags:
 - investigation
 - session-guide
-- research
+- resear
+*The air carries the scent of [appropriate smell].*ch
 - active
 - horror
 - world/aquabyssos

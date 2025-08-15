@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.788605
+modified: 2025-08-15T12:24:55.788610
+aliases: [Quest - Diplomatic Immunity]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Diplomatic Immunity"]
@@ -54,7 +75,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Diplomatic Immunity ---
 
-title: Quest Diplomatic Immunity
+
+*The [texture] surface feels [description] to the touch.*title: Quest Diplomatic Immunity
 type: Lore
 tags:
 - lore

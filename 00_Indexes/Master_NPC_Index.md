@@ -1,4 +1,5 @@
 ---
+enhanced: true
 tags: [npc, character]
 type: npc
 aliases: ["Master NPC Index"]
@@ -75,7 +76,8 @@ publish: false
 | 5 | Option E |
 | 6 | Option F | ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *To be added* ## Appearance *To be added* ## Personality *To be added* ## Relationships *To be added* ## Plot Hooks *To be added*
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *To be added* ## Appearance *To be added* ## Personality *To be added* ## Relationships *To be adde
+*Sounds of [relevant sounds] echo in the distance.*d* ## Plot Hooks *To be added*
 
 
 ## Notes {#notes}
@@ -129,3 +131,8 @@ publish: false
 
 
 *Every story needs its heroes.*
+
+## Visual References
+![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
+![[04_Resources/Assets/Locations/location-city-surge-mixmaster-v1-surge-mixmaster.png]]
+![[04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]

@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:43.147054
+modified: 2025-08-15T12:24:43.147058
+aliases: [Character Creation Guide]
+---
+
 # Character Creation Guide
 
 > *A figure whose reputation precedes them...* This remarkable element adds depth and intrigue to any campaign.
@@ -21,7 +29,8 @@ related: []
 cssclass: standard
 publish: false --- # Character_Creation_Guide ## Portrait![[Character_Creation_Guide|Character Creation Guide]] *Portrait reference for Character_Creation_Guide* ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key
+*The air carries the scent of [appropriate smell].* character traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -79,3 +88,8 @@ updated: '2025-08-13T01:18:35.881054+00:00' --- ## 🔧 Deep Evaluation Improvem
 
 
 *Every story needs its heroes.*
+
+## Visual References
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-v1-character-sheet-layout.png]]
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-character-sheet-layout.png]]
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-v2-character-sheet-layout.png]]

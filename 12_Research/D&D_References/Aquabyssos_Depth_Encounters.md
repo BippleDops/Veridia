@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Aquabyssos_Depth_Encounters
 type: note
@@ -32,6 +33,7 @@ tags:
 - research
 - type/encounter-table
 - active
+*Sounds of [relevant sounds] echo in the distance.*
 - status/ready
 - category/exploration
 - world/aquabyssos
@@ -136,12 +138,12 @@ world: Aquabyssos
 > 🎮 **Strategy**: How to approach this content
 
 > Work together and communicate
-## Action Economy ### On Your Turn (PHB p.189)
+## Action Economy ### On Your Turn (ACX p.189)
 
 - **Movement**: Up to your speed
 - **Action**: One action from available options
 - **Bonus Action**: If you have an ability that uses it
-- **Free Actions**: Interact with one object, speak ### Actions Available (PHB p.192)
+- **Free Actions**: Interact with one object, speak ### Actions Available (ACX p.192)
 
 - **Attack**: Make one attack (more with Extra Attack)
 - **Cast a Spell**: Cast time of 1 action
@@ -152,7 +154,7 @@ world: Aquabyssos
 - **Hide**: Stealth check to hide
 - **Ready**: Prepare action with trigger
 - **Search**: Perception or Investigation
-- **Use an Object**: Interact with object ### Reactions (PHB p.190)
+- **Use an Object**: Interact with object ### Reactions (ACX p.190)
 
 - One reaction per round
 - Resets at start of your turn
@@ -182,3 +184,8 @@ world: Aquabyssos
 #meta/hub
 #meta/navigation
 #meta/reference
+
+## Visual References
+![[04_Resources/Assets/Maps/maps_aquabyssos_1755205548077.png]]
+![[04_Resources/Assets/Maps/maps_aquabyssos_1755205560398.png]]
+![[04_Resources/Assets/Scenes/scenes_aquabyssos_1755205548077.png]]

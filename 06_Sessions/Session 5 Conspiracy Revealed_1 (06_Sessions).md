@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:37.153253
+modified: 2025-08-15T12:24:37.153257
+aliases: [Session 5 Conspiracy Revealed 1 (06 Sessions)]
+---
+
 # Session 5 Conspiracy Revealed 1 (06 Sessions)
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -19,7 +27,8 @@ title: 'The Sunken Conspiracy - Session 5: Conspiracy Revealed'
 type: session
 tags:
 - aquabyssos
-- session
+-
+*The air carries the scent of [appropriate smell].* session
 - diplomatic-crisis
 - finale
 - research
@@ -296,7 +305,7 @@ updated: '2025-08-13T01:18:37.160710+00:00'
 - Ancient memory coral therapy showing 85% success rate
 - Support group networks helping with emotional recovery
 - Legal precedent established protecting modification victims
-- International cooperation on preventing future incidents RECOMMENDATIONS:
+- International cooperation on preventing future incidents RECOBCENDATIONS:
 - Expand program to search for additional victims
 - Establish permanent research center for memory modification
 - Create legal framework for supporting recovery process

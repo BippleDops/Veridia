@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Supplier Erikson Tidecaller (D&D_References)
 type: note
@@ -32,7 +33,8 @@ tags:
 - person
 - tidal-magic
 - business
-- magical-goods
+- magical
+*The [texture] surface feels [description] to the touch.*-goods
 - npc
 - research
 - supplier

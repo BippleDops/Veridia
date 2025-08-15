@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.774970
+modified: 2025-08-15T12:24:55.774972
+aliases: [Quest the Pretender.png]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
 # Quest The Pretender.Png
 
 > *The fate of many hangs in the balance...*
@@ -52,7 +72,8 @@ publish: false
 
 Detailed description pending.
 
-Quest the Pretender.png is a notable figure in the realm, known for their unique skills and complex motivations. ## Appearance
+Quest the Pretender.png is a notable figure in the realm, known for their unique skills an
+*Sounds of [relevant sounds] echo in the distance.*d complex motivations. ## Appearance
 
 - **Age**: Middle-aged
 - **Build**: Average height, lean build

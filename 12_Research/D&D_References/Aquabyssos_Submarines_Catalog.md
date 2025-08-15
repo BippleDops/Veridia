@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Aquabyssos_Submarines_Catalog
 type: note
@@ -32,7 +33,8 @@ tags:
 - aquabyssos
 - catalog
 - mechanics
-- vehicles
+- veh
+*The [texture] surface feels [description] to the touch.*icles
 - research
 - active
 - complete
@@ -129,3 +131,8 @@ world: Aquabyssos
 #gameplay/encounter
 #meta/index
 #meta/reference
+
+## Visual References
+![[04_Resources/Assets/Maps/maps_aquabyssos_1755205548077.png]]
+![[04_Resources/Assets/Maps/maps_aquabyssos_1755205560398.png]]
+![[04_Resources/Assets/Scenes/scenes_aquabyssos_1755205548077.png]]

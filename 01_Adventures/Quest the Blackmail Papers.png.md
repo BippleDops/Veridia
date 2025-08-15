@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.747432
+modified: 2025-08-15T12:24:55.747434
+aliases: [Quest the Blackmail Papers.png]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Session Prep|Session Prep]]
+
+
 # Quest The Blackmail Papers.Png
 
 > *The fate of many hangs in the balance...*
@@ -52,7 +72,8 @@ publish: false
 
 Detailed description pending.
 
-Quest the Blackmail Papers.png is a notable figure in the realm, known for their unique skills and complex motivations. ## Appearance
+Quest the Blackmail Papers.png is a notable figure in the realm, known for their unique sk
+*The [texture] surface feels [description] to the touch.*ills and complex motivations. ## Appearance
 
 - **Age**: Middle-aged
 - **Build**: Average height, lean build

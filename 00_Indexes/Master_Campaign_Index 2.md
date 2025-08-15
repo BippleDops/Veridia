@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 created: '2025-08-11'
 status: complete
@@ -36,7 +37,8 @@ publish: false
 **Details**: Rich sensory elements bring this to life. {#description}
 
 Detailed description pending.
-*Complete Navigation System for Aquabyssos & Aethermoor* See also: [[03_Mechanics/Phase Omega Enhanced Index|03 Mechanics/Phase Omega Enhanced Index]] ## 🎮 Control Centers ### Existing Dashboards & Trackers
+*Complete Navigation System for Aquabyssos & Aethermoor* See also: [[03_Mechanics/Phase Omega Enh
+*The [texture] surface feels [description] to the touch.*anced Index|03 Mechanics/Phase Omega Enhanced Index]] ## 🎮 Control Centers ### Existing Dashboards & Trackers
 
 - [[1-DM Toolkit/DM Board|1-Dm Toolkit/Dm Board]] - Quick creation buttons and party overview
 - [[02_Worldbuilding/Lore/Quest Campaign Tracker|02 Worldbuilding/Lore/Quest Campaign Tracker]] - Comprehensive quest management
@@ -48,7 +50,7 @@ Detailed description pending.
 - [[02_Worldbuilding/Lore/Item Catalog|02 Worldbuilding/Lore/Item Catalog]] - Equipment and treasure
 - [[02_Worldbuilding/Lore/Spell Compendium|02 Worldbuilding/Lore/Spell Compendium]] - Magic reference ### New Integrated Systems
 
-- [[06_GM_Resources/Campaign_Management/Campaign_Dashboard|06 Gm Resources/Campaign Management/Campaign Dashboard]] - High-level campaign overview
+- [[06_GM_Resources/[[Campaign_Management_Guide|Campaign_Management]]/[[Campaign_Dashboard|Campaign_Dashboard]]|06 Gm Resources/Campaign Management/Campaign Dashboard]] - High-level campaign overview
 - [[02_Worldbuilding/Lore/Complete Pressure Adaptation System|02 Worldbuilding/Lore/Complete Pressure Adaptation System]] - Full transformation mechanics
 - [[02_Worldbuilding/Lore/Complete Faction Warfare System|02 Worldbuilding/Lore/Complete Faction Warfare System]] - Political warfare rules
 - [[02_Worldbuilding/Lore/Complete Reality Merger System|02 Worldbuilding/Lore/Complete Reality Merger System]] - Dimensional mechanics
@@ -268,3 +270,12 @@ FROM "02_Worldbuilding"```## 🎮 Quick Actions ### Session Prep
 **Balance Note**: Adjust creature numbers based on party size and level.
 
 *The adventure continues...*
+
+## Related Content
+*Enhanced with 2 new connections*
+
+
+## Visual References
+![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
+![[04_Resources/Assets/Locations/location-city-surge-mixmaster-v1-surge-mixmaster.png]]
+![[04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]

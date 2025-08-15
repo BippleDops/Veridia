@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:36.337424
+modified: 2025-08-15T12:24:36.337428
+aliases: [Session 3 the Skyship Heist]
+---
+
 # Session 3 The Skyship Heist
 
 
@@ -23,7 +31,8 @@ type: Adventure
 tags:
 - adventure
 - content/adventure
-- levels-4-6
+- levels-
+*The air carries the scent of [appropriate smell].*4-6
 - research
 - world/aethermoor
 - active

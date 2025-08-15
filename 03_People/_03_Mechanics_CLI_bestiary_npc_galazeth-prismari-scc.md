@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:42.969261
+modified: 2025-08-15T12:24:42.969265
+aliases: [ 03 Mechanics CLI bestiary npc galazeth-prismari-scc]
+---
+
 #  03 Mechanics Cli Bestiary Npc Galazeth Prismari Scc
 
 
@@ -25,7 +33,8 @@ publish: false --- # /03 Mechanics/CLI/bestiary/npc/galazeth-prismari-scc ## Por
 **Complexity**: Moderate
 **Purpose**: Enhance gameplay in specific situations ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. /03 Mechanics/CLI/bestiary/npc/galazeth-prismari-scc provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ## Core Mechanics ### Basic Resolution The fundamental process works as follows: 1. Consequently, **Trigger**: Specific situation arises requiring this mechanic
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. /03 Mechanics/CLI/bestiary/npc/galazeth-prismari-scc provides a structured approach to handling spe
+*Sounds of [relevant sounds] echo in the distance.*cific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ## Core Mechanics ### Basic Resolution The fundamental process works as follows: 1. Consequently, **Trigger**: Specific situation arises requiring this mechanic
 2. **Setup**: Establish parameters and stakes
 3. **Action**: Players create choices using the system
 4. **Resolution**: Determine outcomes based on rolls and decisions
@@ -163,3 +172,14 @@ publish: false --- # /03 Mechanics/CLI/bestiary/npc/galazeth-prismari-scc ## Por
 
 
 *The adventure continues...*
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/faction_loyalty_mechanics.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_gravity_anomaly_mechanics_gm.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_gravity_anomaly_mechanics_gravity_anomaly_mechanics_svg_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Crimson Hand Apprentices
 type: note
@@ -32,7 +33,8 @@ tags:
 - lore
 - underground
 - street-level
-- training-program
+- training-pr
+*The [texture] surface feels [description] to the touch.*ogram
 - organization
 - organized-crime
 - research
@@ -91,3 +93,17 @@ primary_activities: Recruitment and Training
 #gameplay/mission
 #resource/equipment
 #meta/reference
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

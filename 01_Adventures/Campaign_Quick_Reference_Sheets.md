@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.051079
+modified: 2025-08-15T12:24:55.051082
+aliases: [Campaign Quick Reference Sheets]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Visual References|Visual References]]
+
+
+---
 tags: [misc]
 type: misc
 aliases: ["Campaign Quick Reference Sheets"]
@@ -50,7 +70,8 @@ This document contains important information regarding Campaign_Quick_Reference_
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
 
-Campaign_Quick_Reference_Sheets represents a significant element within the campaign world, offering various opportunities for engagement and development. Nevertheless, ## Key Information
+Campaign_Quick_Reference_Sheets represents a significant element within the campaign world, offering various opportunitie
+*The [texture] surface feels [description] to the touch.*s for engagement and development. Nevertheless, ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
@@ -181,3 +202,8 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 **Key Question**: Will the heroes rise to the challenge?
 
 *Every story needs its heroes.*
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/_cross_campaign_organizations.png]]
+![[04_Resources/Assets/Generated/Misc/parliament_of_shadows_campaign.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_cross_campaign_locations_player.png]]

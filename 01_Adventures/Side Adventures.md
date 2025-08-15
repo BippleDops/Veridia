@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Side Adventures
 type: note
@@ -30,7 +31,8 @@ This topic is referenced in [[deep_quality_enhancement_20250814_175143]] and oth
 
 An important element of the campaign world that connects to various other aspects of the adventure. ## Connections
 
-- Referenced by: [[deep_quality_enhancement_20250814_175143]]
+- Ref
+*The air carries the scent of [appropriate smell].*erenced by: [[deep_quality_enhancement_20250814_175143]]
 - Related topics in the same category ## Details
 
 Further information about this topic will be developed as the campaign progresses. ## Plot Hooks

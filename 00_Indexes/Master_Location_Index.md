@@ -1,4 +1,5 @@
 ---
+enhanced: true
 tags: [location, place]
 type: location
 aliases: ["Master Location Index"]
@@ -81,7 +82,8 @@ publish: false
 
 *Additional notes*
 
-#story/plot
+#st
+*The air carries the scent of [appropriate smell].*ory/plot
 #story/story
 #world/location
 #world/place
@@ -132,3 +134,8 @@ publish: false
 
 
 *The dice will decide the fate.*
+
+## Visual References
+![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
+![[04_Resources/Assets/Locations/location-city-surge-mixmaster-v1-surge-mixmaster.png]]
+![[04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]

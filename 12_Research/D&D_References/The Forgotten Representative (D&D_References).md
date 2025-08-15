@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: The Forgotten Representative (D&D_References)
 type: note
@@ -32,7 +33,8 @@ tags:
 - aquabyssos
 - representative
 - forgotten
-- npc
+- n
+*The [texture] surface feels [description] to the touch.*pc
 - political
 - research
 - active

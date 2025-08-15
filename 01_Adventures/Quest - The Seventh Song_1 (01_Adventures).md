@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:47.677319
+modified: 2025-08-15T12:24:47.677321
+aliases: [Quest - The Seventh Song 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Session Prep|Session Prep]]
+
+
 # Quest   The Seventh Song 1 (01 Adventures)
 
 
@@ -70,7 +91,8 @@ Detailed description pending.
 
 - **Name**: Local authority figure
 - **Location**: Town center
-- **Motivation**: Community safety > [!figure] Portrait ## Objectives
+- **Motivation**: Community safet
+*The air carries the scent of [appropriate smell].*y > [!figure] Portrait ## Objectives
 
 
 ### Primary

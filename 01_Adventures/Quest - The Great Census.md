@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:48.051853
+modified: 2025-08-15T12:25:48.051857
+aliases: [Quest - The Great Census]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - The Great Census
 type: quest
@@ -29,7 +46,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Great Census ---
 
-title: Quest The Great Census
+tit
+*Sounds of [relevant sounds] echo in the distance.*le: Quest The Great Census
 type: Lore
 tags:
 - lore

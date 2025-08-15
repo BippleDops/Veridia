@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:27.852409
+modified: 2025-08-15T12:25:27.852413
+aliases: [Quest Index.png]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
 # Quest Index.Png
 
 
@@ -26,7 +47,7 @@ Comprehensive overview of this content.
 
 ---
 
-title: 04_Resources/Assets/Art/Lore/Quest_Index.png
+title: 04_Resources/Assets/Art/Lore/[[Master_Quest_Index|Quest_Index]].png
 type: adventure
 tags:
 - adventure
@@ -59,7 +80,8 @@ publish: false
 Detailed description pending.
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
-- Multiple entry points for different play styles
+-
+*Sounds of [relevant sounds] echo in the distance.* Multiple entry points for different play styles
 - Connections to overarching campaign themes ## Critical Decisions 1. **The Prisoner's Dilemma**: Save the hostages OR pursue the villain
 
 2. **The Devil's Bargain**: Accept dark power OR fight with disadvantage
@@ -160,3 +182,12 @@ Detailed description pending.
 
 
 **Balance Note**: Adjust creature numbers based on party size and level.
+
+## Related Content
+*Enhanced with 1 new connections*
+
+
+## Visual References
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-v1-quest-the-void-conspiracy.png]]
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-quest-the-void-conspiracy.png]]
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-v2-quest-the-void-conspiracy.png]]

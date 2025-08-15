@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:39.443840
+modified: 2025-08-15T12:24:39.443841
+aliases: [Session 30 Campaign Finale]
+---
+
 # Session 30 Campaign Finale
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -30,7 +38,8 @@ tags:
 - campaign/example
 - research
 - finale/epic
-- active created: '2025-08-13'
+- active created: '2025
+*The air carries the scent of [appropriate smell].*-08-13'
 modified: '2025-08-14'
 status: complete
 updated: '2025-08-13'

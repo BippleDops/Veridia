@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, obsidianttrpgvault experimental]
+created: 2025-08-15T12:24:35.308228
+modified: 2025-08-15T12:24:35.308231
+aliases: [FINAL GENERATION REPORT]
+---
+
 # Final Generation Report
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -15,7 +23,8 @@ related: []
 cssclass: standard
 publish: false --- # FINAL GENERATION REPORT ## Overview FINAL GENERATION REPORT represents an important element within the campaign world. ## Description
 
-**Details**: Rich sensory elements bring this to life. This component serves a vital role in the ongoing narrative and world-building efforts. It connects to various other elements and provides depth to the campaign setting. ## Key Features ### Primary Aspects - **Core Function**: Central purpose and role
+**Details**: Rich sensory elements bring this to life. This component serves a vital role in the ongoing narrative and world-building efforts. It connects to various other elements and provides dept
+*Sounds of [relevant sounds] echo in the distance.*h to the campaign setting. ## Key Features ### Primary Aspects - **Core Function**: Central purpose and role
 - **Unique Traits**: Distinguishing characteristics
 - **Connections**: Links to other elements ### Secondary Aspects - Supporting details
 - Environmental factors
@@ -51,3 +60,8 @@ publish: false --- # FINAL GENERATION REPORT ## Overview FINAL GENERATION REPORT
 
 
 *The dice will decide the fate.*
+
+## Visual References
+![[04_Resources/Assets/Items/Items/item_illusion_generation_mirrors_icon.png]]
+![[04_Resources/Assets/Items/Items/item_illusion_generation_mirrors_display.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_gm.png]]

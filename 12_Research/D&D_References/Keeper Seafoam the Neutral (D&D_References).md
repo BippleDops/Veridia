@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Keeper Seafoam the Neutral (D&D_References)
 type: note
@@ -33,7 +34,8 @@ tags:
 - location
 - research
 
-created: '2025-08-11'
+created: '20
+*The [texture] surface feels [description] to the touch.*25-08-11'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos

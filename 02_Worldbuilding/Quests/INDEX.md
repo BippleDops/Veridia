@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["INDEX"]
+---
+
 # Quests Index
 
 *Total: 215 entries*

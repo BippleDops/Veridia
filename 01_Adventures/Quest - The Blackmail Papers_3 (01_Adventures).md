@@ -1,4 +1,22 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.931634
+modified: 2025-08-15T12:25:47.931637
+aliases: [Quest - The Blackmail Papers 3 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Session Prep|Session Prep]]
+
+
+---
 
 title: Quest The Blackmail Papers
 type: Npc
@@ -48,7 +66,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - The Blackmail Papers ## Quest Giver
+- Moral dilemmas # Quest - The Blackmail Papers ## Q
+*The air carries the scent of [appropriate smell].*uest Giver
 
 - **Name**: Local authority figure
 - **Location**: Town center

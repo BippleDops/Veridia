@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:29.627389
+modified: 2025-08-15T12:25:29.627391
+aliases: [Quest - Mirror Surveillance]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Mirror Surveillance"]
@@ -59,7 +79,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Mirror Surveillance ---
 
-title: Quest Mirror Surveillance
+
+*Sounds of [relevant sounds] echo in the distance.*title: Quest Mirror Surveillance
 type: Lore
 tags:
 - lore

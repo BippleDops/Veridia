@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:29.524788
+modified: 2025-08-15T12:25:29.524793
+aliases: [Quest - Planar Convergence]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Session Prep|Session Prep]]
+
+
 # Quest   Planar Convergence
 
 > *The fate of many hangs in the balance...*
@@ -53,7 +74,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Planar Convergence ---
 
-title: Quest Planar Convergence
+t
+*The air carries the scent of [appropriate smell].*itle: Quest Planar Convergence
 type: Lore
 tags:
 - lore

@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:35.278464
+modified: 2025-08-15T12:25:35.278471
+aliases: [Quest - The Convergence Crisis]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#DM Guidance|DM Guidance]]
+
+
 # Quest   The Convergence Crisis
 
 > *Time is running out...*
@@ -42,7 +62,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - The Convergence Crisis ---
+- Moral dilemmas # Quest - The Convergence Crisis --
+*The air carries the scent of [appropriate smell].*-
 
 title: Quest The Convergence Crisis
 type: Lore

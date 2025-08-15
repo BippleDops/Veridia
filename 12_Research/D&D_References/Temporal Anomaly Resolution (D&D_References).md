@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Temporal Anomaly Resolution (D&D_References)
 type: note
@@ -32,7 +33,8 @@ tags:
 - both
 - environmental-hazards
 - time-distortion
-- chronological-engineering
+- ch
+*Sounds of [relevant sounds] echo in the distance.*ronological-engineering
 - temporal-safety
 - advanced-physics
 - research

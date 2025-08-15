@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.138986
+modified: 2025-08-15T12:25:47.138990
+aliases: [Quest - The Lost Expedition 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Session Prep|Session Prep]]
+
+
 # Quest   The Lost Expedition 1 (01 Adventures)
 
 
@@ -59,7 +79,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas ## Quest Giver
 
-- **Name**: Local authority figure
+- **Name**: Local a
+*Sounds of [relevant sounds] echo in the distance.*uthority figure
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
 

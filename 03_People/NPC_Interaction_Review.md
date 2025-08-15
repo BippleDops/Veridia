@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:41.515020
+modified: 2025-08-15T12:24:41.515023
+aliases: [NPC Interaction Review]
+---
+
 # Npc Interaction Review
 
 > *Not all allies are what they seem...* This remarkable element adds depth and intrigue to any campaign.
@@ -21,7 +29,8 @@ related: []
 cssclass: standard
 publish: false --- # NPC_Interaction_Review ## Portrait![[Npc|Npc]] *Portrait reference for NPC_Interaction_Review* ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key
+*The air carries the scent of [appropriate smell].* character traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -114,3 +123,13 @@ _____________________________________ NPC IMPROVEMENT NEEDED: What could be bett
 
 
 *Every story needs its heroes.*
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/faction_interaction_rules.png]]
+![[04_Resources/Assets/Generated/Misc/faction_interaction_matrix.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

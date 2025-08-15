@@ -1,4 +1,22 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:48.001952
+modified: 2025-08-15T12:25:48.001954
+aliases: [Quest - Seeds of the Deep]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - Seeds of the Deep
 type: quest
@@ -29,7 +47,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-seeds-of-the-deep-quest-seeds-of-the-deep.svg) # Quest - Seeds of the Deep ---
+![](04_Resources
+*Sounds of [relevant sounds] echo in the distance.*/Assets/Portraits/portrait-npc-quest-seeds-of-the-deep-quest-seeds-of-the-deep.svg) # Quest - Seeds of the Deep ---
 
 title: Quest Seeds of the Deep
 type: NPC

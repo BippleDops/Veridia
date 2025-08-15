@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Conditions
 type: conditions
@@ -24,7 +25,7 @@ publish: false
 
 ---
 
- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Monster_Use Improvements - Explain if/how monsters use this rule ### Interaction Improvements - Clarify interaction with multiclassing ### Magic_Items Improvements - Note how magic items affect this rule ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ### Simplified Improvements - Create simplified version for new players ### Automated Improvements - Add macro/code for VTT implementation ### Variant Improvements - Add 'gritty realism' variant of rule ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Session_Zero Improvements - Include session zero discussion points ## Active Conditions | Character | Condition | Duration | Effect |
+ ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Monster_Use Improvements - Explain if/how monsters use this rule ### Interaction Improvements - Clarify interaction with multiclassing ### [[Magic_Items_Quick_Reference|Magic_Items]] Improvements - Note how magic items affect this rule ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ### Simplified Improvements - Create simplified version for new players ### Automated Improvements - Add macro/code for VTT implementation ### Variant Improvements - Add 'gritty realism' variant of rule ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Session_Zero Improvements - Include session zero discussion points ## Active Conditions | Character | Condition | Duration | Effect |
 
 
 ## Description
@@ -36,7 +37,8 @@ Detailed description pending.
 |-----------|-----------|----------|--------|
 | - | - | - | - | ### Exhaustion
 
-1. Disadvantage on ability checks
+1. Disadvantage on ability chec
+*The [texture] surface feels [description] to the touch.*ks
 2. Speed halved
 3. Disadvantage on attacks and saves
 4. HP maximum halved
@@ -92,20 +94,20 @@ Detailed description pending.
 > Adjust difficulty based on party composition
 ## Official Rules Reference ### Core Rulebooks
 
-- **General Rules**: PHB Chapter 7-10
-- **DM Guidelines**: DMG Chapter 8
-- **Variant Rules**: DMG Chapter 9
-- **Optional Rules**: TCE p.4-8
+- **General Rules**: ACX Chapter 7-10
+- **DM Guidelines**: WWT Chapter 8
+- **Variant Rules**: WWT Chapter 9
+- **Optional Rules**: TMF p.4-8
 - **UA Playtest Material**: D&D Beyond UA Archive
-- **Expansion Content**: Check specific setting books ### Optional Rules (DMG)
+- **Expansion Content**: Check specific setting books ### Optional Rules (WWT)
 
-- Consider variant rules from DMG Chapter 9
-- Review optional class features from TCE ### Sage Advice
+- Consider variant rules from WWT Chapter 9
+- Review optional class features from TMF ### Sage Advice
 
 - Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice) ### Common Table Rulings
 
 - Document house rules clearly
-- Maintain consistency across sessions ## Conditions Reference (PHB p.290-292) ### Common Conditions
+- Maintain consistency across sessions ## Conditions Reference (ACX p.290-292) ### Common Conditions
 
 - **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
 - **Charmed**: Can't attack charmer, charmer has advantage on social checks
@@ -119,14 +121,14 @@ Detailed description pending.
 - **Prone**: Disadvantage on attacks, melee against has advantage
 - **Restrained**: Speed 0, disadvantage on attacks/DEX saves
 - **Stunned**: Incapacitated, can't move, can barely speak
-- **Unconscious**: Incapacitated, prone, drops everything ### Exhaustion (PHB p.291)
+- **Unconscious**: Incapacitated, prone, drops everything ### Exhaustion (ACX p.291)
 
 1. Disadvantage on ability checks
 2. Speed halved
 3. Disadvantage on attacks and saves
 4. HP maximum halved
 5. Speed reduced to 0
-6. Death ## Variant Rules Options ### From DMG Chapter 9
+6. Death ## Variant Rules Options ### From WWT Chapter 9
 
 
 - **Proficiency Dice**: Roll dice instead of flat bonus
@@ -136,10 +138,10 @@ Detailed description pending.
 - **Massive Damage**: System shock rules
 - **Morale**: When enemies flee ### From Other Sources
 
-- **Spell Points** (DMG p.288): Alternative to slots
-- **Gritty Realism** (DMG p.267): Longer rests
-- **Side Initiative** (DMG p.270): Group turns
-- **Facing** (DMG p.252): Directional combat ### Table Consideration
+- **Spell Points** (WWT p.288): Alternative to slots
+- **Gritty Realism** (WWT p.267): Longer rests
+- **Side Initiative** (WWT p.270): Group turns
+- **Facing** (WWT p.252): Directional combat ### Table Consideration
 
 Discuss with players before implementing ## References - [[Outfitters_Shop]]
 
@@ -174,3 +176,10 @@ Discuss with players before implementing ## References - [[Outfitters_Shop]]
 #gameplay/quest
 #resource/item
 #meta/reference
+
+## Related Content
+*Enhanced with 1 new connections*
+
+
+## Visual References
+![[04_Resources/Assets/Placeholder Images/ConditionsTitleBar.png]]

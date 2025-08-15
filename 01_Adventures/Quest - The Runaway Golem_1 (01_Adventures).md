@@ -1,3 +1,22 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.865521
+modified: 2025-08-15T12:24:55.865526
+aliases: [Quest - The Runaway Golem 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Runaway Golem 1 (01 Adventures)
 
 
@@ -71,7 +90,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas > [!figure] Portrait # Quest - The Runaway Golem **Level:** 4-6 | **Type:** Chase/Investigation | **Duration:** 2-3 sessions ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### History Improvements - Add three historical eras with major events ### Culture Improvements - Define unique cultural practices and taboos ### Economy Improvements - Detail currency, trade goods, and wealth distribution ### Religion Improvements - Create detailed religious observances ### Lifestyle Improvements - Describe typical day for different social classes ### Coming_Of_Age Improvements - Describe rites of passage and adulthood markers ### Evolution Improvements - Show how traditions are changing with new generation ### Death_Customs Improvements - Detail funeral rites and afterlife beliefs ### Material_Culture Improvements - Detail common objects and their cultural significance ### Superstitions Improvements - List common superstitions and their origins ### Hospitality Improvements - Explain guest rights and host obligations ## Overview
+- Moral dilemmas > [!figure] Portrait # Quest - The 
+*Sounds of [relevant sounds] echo in the distance.*Runaway Golem **Level:** 4-6 | **Type:** Chase/Investigation | **Duration:** 2-3 sessions ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### History Improvements - Add three historical eras with major events ### Culture Improvements - Define unique cultural practices and taboos ### Economy Improvements - Detail currency, trade goods, and wealth distribution ### Religion Improvements - Create detailed religious observances ### Lifestyle Improvements - Describe typical day for different social classes ### Coming_Of_Age Improvements - Describe rites of passage and adulthood markers ### Evolution Improvements - Show how traditions are changing with new generation ### Death_Customs Improvements - Detail funeral rites and afterlife beliefs ### Material_Culture Improvements - Detail common objects and their cultural significance ### Superstitions Improvements - List common superstitions and their origins ### Hospitality Improvements - Explain guest rights and host obligations ## Overview
 
 **Difficulty**: Moderate (Levels 3-5)
 

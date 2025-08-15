@@ -1,4 +1,5 @@
 ---
+enhanced: true
 tags: [misc]
 type: misc
 aliases: ["Tag Navigation"]
@@ -48,7 +49,8 @@ tags:
 - tags
 - hierarchy
 
-created: 2025-08-14
+cr
+*The [texture] surface feels [description] to the touch.*eated: 2025-08-14
 modified: '2025-08-14'
 updated: 2025-08-14
 cssclass: tag-hierarchy
@@ -116,3 +118,8 @@ WHERE file.mtime >= date(today) - dur(3 days) AND tags != SORT file.mtime DESC #
 **Key Question**: What role will this play in the greater story?
 
 *Every story needs its heroes.*
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/aerial_navigation_guild.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_current_navigation_techniques_current_navigation_techniques_svg_physical.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_current_navigation_techniques_physical.png]]

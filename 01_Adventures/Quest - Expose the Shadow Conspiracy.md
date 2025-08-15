@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.948168
+modified: 2025-08-15T12:24:55.948170
+aliases: [Quest - Expose the Shadow Conspiracy]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Expose the Shadow Conspiracy"]
@@ -57,7 +77,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - Expose the Shadow Conspiracy ---
+- Moral dilemmas # Quest - Expose the Shadow Conspir
+*The [texture] surface feels [description] to the touch.*acy ---
 
 title: Quest Expose the Shadow Conspiracy
 type: Lore

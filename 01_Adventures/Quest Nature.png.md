@@ -1,3 +1,22 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.803972
+modified: 2025-08-15T12:24:55.803976
+aliases: [Quest Nature.png]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest Nature.Png
 
 > *The fate of many hangs in the balance...*
@@ -52,7 +71,8 @@ publish: false
 
 Detailed description pending.
 
-Quest Nature.png is a notable figure in the realm, known for their unique skills and complex motivations. ## Appearance
+Quest Nature.png is a notable figure in the realm, known for their unique skills and compl
+*The air carries the scent of [appropriate smell].*ex motivations. ## Appearance
 
 - **Age**: Middle-aged
 - **Build**: Average height, lean build

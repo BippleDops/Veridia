@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 13_performance]
+created: 2025-08-15T12:24:41.002703
+modified: 2025-08-15T12:24:41.002706
+aliases: [final link repair 20250814 175237]
+---
+
 # Final Link Repair 20250814 175237
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -26,7 +34,8 @@ modified: '2025-08-14'
 - -- # Final Link Repair Report Generated: 2025-08-14T17:52:37.386497 ## 📊 Statistics - **Links Fixed**: 22,560 ## Description
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
-- **Files Updated**: 6,992 ## ✅ Repairs Applied ### D&D_References Links - Removed path prefix from all D&D_References links
+- **Files Updated**: 6,992 ## ✅ Repairs Applied ### D&D_References Links - Removed path prefix fro
+*The [texture] surface feels [description] to the touch.*m all D&D_References links
 - Links now point directly to note names ### Other Patterns - Fixed incorrect campaign paths
 - Corrected resource paths - Removed.md extensions from links
 - Fixed double slashes in paths - -- * Final link repair complete. All major link issues resolveded.* ## Connections - See also: [[World Overview|World Overview]] - Related: [[Regional Politics|Regional Politics]]
@@ -46,3 +55,23 @@ modified: '2025-08-14'
 **Key Question**: What role will this play in the greater story?
 
 *Adventure awaits those brave enough to seek it.*
+
+## Visual References
+![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_gm.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_02_worldbuilding_people_portal_engineer_shade_linkwright_political.png]]
+
+
+## Realm Connections
+
+### Connection to Aethermoor
+This connects to the sky realm of Sky realm of eternal winds and floating islands.
+
+- **Ruling Power**: The Windlord Council
+- **Capital**: [[Skylance Citadel]]
+- **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
+- **Current Conflict**: The Void Incursion, Elemental Convergence
+- **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
+
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+navigate floating islands connected by bridges of solidified cloud.

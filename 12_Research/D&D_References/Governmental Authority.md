@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Governmental Authority
 type: note
@@ -34,7 +35,8 @@ tags:
 - research
 
 created: '2025-08-11'
-modified: '2025-08-14'
+modifi
+*Sounds of [relevant sounds] echo in the distance.*ed: '2025-08-14'
 status: active
 updated: '2025-08-13T01:18:36.757470+00:00'
 world: Both

@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Supply Master Cargo Deephaul
 type: note
@@ -32,7 +33,8 @@ tags:
 - aquabyssos
 - research
 - active
-- criminal-headquarters
+- criminal-headquar
+*The air carries the scent of [appropriate smell].*ters
 
 created: '2025-08-11'
 modified: '2025-08-14'

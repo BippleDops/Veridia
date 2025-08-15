@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:39.378192
+modified: 2025-08-15T12:24:39.378193
+aliases: [Session 3 - Memories Lost and Found]
+---
+
 # Session 3   Memories Lost And Found
 
 
@@ -27,7 +35,8 @@ improvements: 20
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes ## Prophecy Connection Mentioned in The First Prophecy of Shadows ## Plot Hooks - A letter reveals a betrayal about a local noble - A stranger needs help stealing before the festival
+- Connections 
+*The air carries the scent of [appropriate smell].*to overarching campaign themes ## Prophecy Connection Mentioned in The First Prophecy of Shadows ## Plot Hooks - A letter reveals a betrayal about a local noble - A stranger needs help stealing before the festival
 - A noble needs help finding before winter ## Religious Observances ### Daily Prayers - Dawn: Gratitude for life
 - Noon: Strength for labor
 - Dusk: Protection from darkness ### Weekly Observance - Temple attendance mandatory

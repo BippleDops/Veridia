@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:50.962370
+modified: 2025-08-15T12:25:50.962373
+aliases: [Quest - Reflection Reality]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - Reflection Reality
 type: quest
@@ -29,7 +46,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Reflection Reality ---
 
-title: Quest Reflection Reality
+t
+*The [texture] surface feels [description] to the touch.*itle: Quest Reflection Reality
 type: Lore
 tags:
 - lore

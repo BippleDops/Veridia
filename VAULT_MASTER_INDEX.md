@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, obsidianttrpgvault experimental]
+created: 2025-08-15T12:24:29.678193
+modified: 2025-08-15T12:24:29.678196
+aliases: [VAULT MASTER INDEX]
+---
+
 # Vault Master Index
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -27,7 +35,8 @@ modified: '2025-08-14'
 - -- ### Content Directories ## Description
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
-1. **[[Quest - Military Innovation_1 ([[01_Adventures|01_Adventures]])]]** - Adventure modules and campaigns
+1. **[[Quest - Military Innovation_1 ([[01_Adventures|01_Adventures]])]]** - Adventure modules and
+*The [texture] surface feels [description] to the touch.* campaigns
 2. **** - [[Lore|Lore]], [[Groups|groups]], [[Items|Items]], and world details
 3. **[[03 People|03 People]]** - [[npcs|NPCs]] and characters
 4. Indeed, **[[04 Places|04 Places]]** - [[locations|Locations]] and [[Maps|Maps]]
@@ -79,3 +88,8 @@ modified: '2025-08-14'
 
 ## Thematic Elements
 This content explores themes of destiny, adding narrative depth to your campaign.
+
+## Visual References
+![[04_Resources/Assets/Maps/World/Continents/world_the_vault_keepers_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_vault_keeper_aurelia_crownguard_vault_keeper_aurelia_crownguard_svg_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_vault_breach_vault_breach_svg_physical.png]]

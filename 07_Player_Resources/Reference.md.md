@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T12:24:41.122130
+modified: 2025-08-15T12:24:41.122131
+aliases: [Reference.md]
+---
+
 # Reference.Md
 
 
@@ -26,7 +34,8 @@ improvements: 20
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes ## Plot Hooks - Strange sightings suggest ancient magic - Someone is hunting an heir for power
+- Connections 
+*Sounds of [relevant sounds] echo in the distance.*to overarching campaign themes ## Plot Hooks - Strange sightings suggest ancient magic - Someone is hunting an heir for power
 - An heirloom has gone missing and war looms
 - A stranger needs help investigating before winter ## See Also - Related content
 - Similar topics

@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:27.836278
+modified: 2025-08-15T12:25:27.836286
+aliases: [Quest - Storm Lord's Challenge]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   Storm Lord'S Challenge
 
 > *The fate of many hangs in the balance...*
@@ -54,7 +75,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-storm-lord-s-challenge-quest-storm-lord-s-challenge.svg) # Quest - Storm Lord's Challenge ---
+![](04_Resources
+*The air carries the scent of [appropriate smell].*/Assets/Portraits/portrait-npc-quest-storm-lord-s-challenge-quest-storm-lord-s-challenge.svg) # Quest - Storm Lord's Challenge ---
 
 title: Quest Storm Lord's Challenge
 type: NPC

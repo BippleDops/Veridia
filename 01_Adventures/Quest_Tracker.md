@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:45.466109
+modified: 2025-08-15T12:24:45.466111
+aliases: [Quest Tracker]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Visual References|Visual References]]
+
+
 # Quest Tracker
 
 > *What starts as simple becomes legendary...* This remarkable element adds depth and intrigue to any campaign.
@@ -53,7 +74,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest_Tracker ---
 
-title: Quest Tracker
+title: Quest T
+*Sounds of [relevant sounds] echo in the distance.*racker
 type: index
 tags:
 - active
@@ -259,3 +281,8 @@ GROUP BY status ---
 **Balance Note**: Adjust creature numbers based on party size and level.
 
 *Every story needs its heroes.*
+
+## Visual References
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-v1-quest-the-void-conspiracy.png]]
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-quest-the-void-conspiracy.png]]
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-v2-quest-the-void-conspiracy.png]]

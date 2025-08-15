@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Spell Slots
 type: spell-slots
@@ -24,7 +25,7 @@ publish: false
 
 ---
 
- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Simplified Improvements - Create simplified version for new players ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### Magic_Items Improvements - Note how magic items affect this rule ### Variant Improvements - Add 'gritty realism' variant of rule ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ### Session_Zero Improvements - Include session zero discussion points ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Interaction Improvements - Clarify interaction with multiclassing ## Rule Summary Spell_Slots provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay. ## When to Use Apply this rule when:
+ ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Simplified Improvements - Create simplified version for new players ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### [[Magic_Items_Quick_Reference|Magic_Items]] Improvements - Note how magic items affect this rule ### Variant Improvements - Add 'gritty realism' variant of rule ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ### Session_Zero Improvements - Include session zero discussion points ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Interaction Improvements - Clarify interaction with multiclassing ## Rule Summary Spell_Slots provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay. ## When to Use Apply this rule when:
 
 ## Description
 
@@ -33,7 +34,8 @@ publish: false
 Detailed description pending.
 - Specific trigger conditions are met
 - Players request this type of action
-- The situation calls for additional detail ### Example 1: Basic Application
+- The situation calls for additional
+*The air carries the scent of [appropriate smell].* detail ### Example 1: Basic Application
 
 *Scenario*: Simple use case
 *Resolution*: How to handle it
@@ -79,22 +81,22 @@ Detailed description pending.
 > Adjust difficulty based on party composition
 ## Official Rules Reference ### Core Rulebooks
 
-- **Spellcasting**: PHB Chapter 10 (p.201-205)
-- **Spell Slots**: PHB p.201
-- **Concentration**: PHB p.203
-- **Components**: PHB p.203
-- **Metamagic Options**: PHB p.101, TCE p.65-66
+- **Spellcasting**: ACX Chapter 10 (p.201-205)
+- **Spell Slots**: ACX p.201
+- **Concentration**: ACX p.203
+- **Components**: ACX p.203
+- **Metamagic Options**: ACX p.101, TMF p.65-66
 - **Spell Versatility (UA)**: UA Class Feature Variants
-- **Expanded Spell Lists**: TCE, XGE, SCAG
-- **Strixhaven Spells**: SCC p.36-39 ### Optional Rules (DMG)
+- **Expanded Spell Lists**: TMF, XSR, SCEH
+- **Strixhaven Spells**: SCC p.36-39 ### Optional Rules (WWT)
 
-- Consider variant rules from DMG Chapter 9
-- Review optional class features from TCE ### Sage Advice
+- Consider variant rules from WWT Chapter 9
+- Review optional class features from TMF ### Sage Advice
 
 - Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice) ### Common Table Rulings
 
 - Document house rules clearly
-- Maintain consistency across sessions ## Variant Rules Options ### From DMG Chapter 9
+- Maintain consistency across sessions ## Variant Rules Options ### From WWT Chapter 9
 
 - **Proficiency Dice**: Roll dice instead of flat bonus
 - **Hero Points**: Narrative currency system
@@ -103,10 +105,10 @@ Detailed description pending.
 - **Massive Damage**: System shock rules
 - **Morale**: When enemies flee ### From Other Sources
 
-- **Spell Points** (DMG p.288): Alternative to slots
-- **Gritty Realism** (DMG p.267): Longer rests
-- **Side Initiative** (DMG p.270): Group turns
-- **Facing** (DMG p.252): Directional combat ### Table Consideration
+- **Spell Points** (WWT p.288): Alternative to slots
+- **Gritty Realism** (WWT p.267): Longer rests
+- **Side Initiative** (WWT p.270): Group turns
+- **Facing** (WWT p.252): Directional combat ### Table Consideration
 
 Discuss with players before implementing
 
@@ -127,3 +129,12 @@ Discuss with players before implementing
 #gameplay/quest
 #resource/item
 #meta/reference
+
+## Related Content
+*Enhanced with 1 new connections*
+
+
+## Visual References
+![[04_Resources/Assets/Digital/ui-ui-spellbook-effects-spellbook-effects.png]]
+![[04_Resources/Assets/Digital/ui-ui-spellbook-effects-v2-spellbook-effects.png]]
+![[04_Resources/Assets/Digital/ui-ui-spellbook-effects-v1-spellbook-effects.png]]

@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Lumina Crystals
 type: note
@@ -34,7 +35,8 @@ tags:
 - active
 - location
 
-created: '2025-08-11'
+created: '2025-08-11
+*The [texture] surface feels [description] to the touch.*'
 modified: '2025-08-14'
 status: active
 world: Aquabyssos

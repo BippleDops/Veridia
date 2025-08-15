@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:39.293507
+modified: 2025-08-15T12:24:39.293514
+aliases: [Session 1 the Queens Summons 1 (06 Sessions)]
+---
+
 # Session 1 The Queens Summons 1 (06 Sessions)
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -23,7 +31,8 @@ tags:
 - political-intrigue
 - research
 - active
-- winds-of-rebellion
+- win
+*Sounds of [relevant sounds] echo in the distance.*ds-of-rebellion
 - aethermoor created: '2025-08-11'
 modified: '2025-08-14'
 status: active

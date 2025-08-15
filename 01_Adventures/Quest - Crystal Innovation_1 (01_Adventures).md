@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.922700
+modified: 2025-08-15T12:24:55.922701
+aliases: [Quest - Crystal Innovation 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Primary|Primary]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Crystal Innovation 1 (01 Adventures)"]
@@ -88,7 +108,8 @@ This document contains important information regarding Quest - Crystal Innovatio
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
 
-Quest - Crystal Innovation_1 represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+Quest - Crystal Innovation_1 represents a significant element within the campaign world, offering various opportunities f
+*The air carries the scent of [appropriate smell].*or engagement and development. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

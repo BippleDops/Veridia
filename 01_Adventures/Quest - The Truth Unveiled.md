@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:54.979810
+modified: 2025-08-15T12:25:54.979817
+aliases: [Quest - The Truth Unveiled]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 
 title: Quest - The Truth Unveiled
 type: quest
@@ -31,7 +48,8 @@ Detailed description pending.
 
 ### Primary
 
-- Main quest goal ### Optional
+- Main 
+*The [texture] surface feels [description] to the touch.*quest goal ### Optional
 
 - Secondary objectives
 - Hidden goals > [!figure] Asset

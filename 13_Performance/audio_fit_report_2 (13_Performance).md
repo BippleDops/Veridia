@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 13_performance]
+created: 2025-08-15T12:24:41.025414
+modified: 2025-08-15T12:24:41.025416
+aliases: [audio fit report 2 (13 Performance)]
+---
+
 # Audio Fit Report 2 (13 Performance)
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -17,7 +25,8 @@ modified: '2025-01-15'
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending. | aliases: ["audio fit report 2 (13 Performance)"]
 status: active
 priority: normal
-category: 13 Performance
+category: 13 Pe
+*Sounds of [relevant sounds] echo in the distance.*rformance
 subcategory: Audio Fit Report 2 (13 Performance).Md
 related: []
 cssclass: standard
@@ -268,3 +277,8 @@ publish: false --- |---|---:|:---:|---|
 **Key Question**: What role will this play in the greater story?
 
 *Adventure awaits those brave enough to seek it.*
+
+## Visual References
+![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_gm.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_witness_reports_gm.png]]

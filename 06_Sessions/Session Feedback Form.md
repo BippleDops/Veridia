@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:39.346174
+modified: 2025-08-15T12:24:39.346175
+aliases: [Session Feedback Form]
+---
+
 # Session Feedback Form
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -30,7 +38,8 @@ type: Feedback Form
 tags:
 - session/review
 - campaign/improvement
-- research
+- r
+*Sounds of [relevant sounds] echo in the distance.*esearch
 - player/feedback
 - active created: '2025-08-13'
 modified: '2025-08-14'

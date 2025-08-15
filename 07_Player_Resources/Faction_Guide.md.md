@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T12:24:41.152969
+modified: 2025-08-15T12:24:41.152971
+aliases: [Faction Guide.md]
+---
+
 # Faction Guide.Md
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -15,7 +23,8 @@ type: faction
 updated: 2025-08-14
 - -- # Faction_Guide.md ## Overview This document contains important information regarding Faction_Guide.md and its role within the greater narrative. ## Description
 
-**Details**: Rich sensory elements bring this to life. Faction_Guide.md represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information - **Primary Purpose**: Serves specific function within the world
+**Details**: Rich sensory elements bring this to life. Faction_Guide.md represents a significant element within the campaign world, offering various opportunities for engagement and development. ## 
+*Sounds of [relevant sounds] echo in the distance.*Key Information - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details ### Background Historical context and development over time. ### Current State Present circumstances and ongoing relevance. ### Future Potential Possible developments and plot directions. Nevertheless, ## Relationships - Connected to various other elements within the vault
 - Part of larger narrative structures
@@ -51,3 +60,8 @@ publish: false --- -|--------|
 **Key Question**: What role will this play in the greater story?
 
 *What happens next is up to you.*
+
+## Visual References
+![[04_Resources/Assets/Digital/ui-ui-faction-reputation-bar-v1-faction-reputation-bar.png]]
+![[04_Resources/Assets/Digital/ui-ui-faction-reputation-bar-v2-faction-reputation-bar.png]]
+![[04_Resources/Assets/Digital/ui-ui-faction-reputation-bar-faction-reputation-bar.png]]

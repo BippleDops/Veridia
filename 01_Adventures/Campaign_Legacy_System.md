@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:39.061449
+modified: 2025-08-15T12:25:39.061452
+aliases: [Campaign Legacy System]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Visual References|Visual References]]
+
+
+---
 tags: [misc]
 type: misc
 aliases: ["Campaign Legacy System"]
@@ -59,7 +79,8 @@ tags:
 - generations
 - both
 - mechanics
-- research
+- rese
+*The [texture] surface feels [description] to the touch.*arch
 - active
 - complete
 - legacy
@@ -175,3 +196,9 @@ world: Both
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/_cross_campaign_organizations.png]]
+![[04_Resources/Assets/Generated/Misc/parliament_of_shadows_campaign.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_cross_campaign_locations_player.png]]

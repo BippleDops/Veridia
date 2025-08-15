@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:55.910875
+modified: 2025-08-15T12:24:55.910879
+aliases: [Campaign Timeline]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Visual References|Visual References]]
+
+
+---
 tags: [misc]
 type: misc
 aliases: ["Campaign Timeline"]
@@ -58,7 +78,8 @@ title: Campaign Timeline
 type: Reference
 tags:
 - timeline/seven-shards
-- calendar-integration
+- calendar-integrati
+*The air carries the scent of [appropriate smell].*on
 - research
 - world/both
 - status/active
@@ -322,3 +343,8 @@ Automatic event tracking and timeline visualization through dataview queries emb
 
 
 **Balance Note**: Adjust creature numbers based on party size and level.
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/_cross_campaign_organizations.png]]
+![[04_Resources/Assets/Generated/Misc/parliament_of_shadows_campaign.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_cross_campaign_locations_player.png]]

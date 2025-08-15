@@ -1,3 +1,22 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.168666
+modified: 2025-08-15T12:25:47.168668
+aliases: [Quest - The Democratic Balance 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
 # Quest   The Democratic Balance 1 (01 Adventures)
 
 
@@ -69,7 +88,8 @@ Detailed description pending.
 
 - **Name**: Local authority figure
 - **Location**: Town center
-- **Motivation**: Community safety > [!figure] Portrait ## Objectives
+- **Motivation**: Community safet
+*The air carries the scent of [appropriate smell].*y > [!figure] Portrait ## Objectives
 
 
 ### Primary

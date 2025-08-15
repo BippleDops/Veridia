@@ -1,4 +1,22 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:52.641496
+modified: 2025-08-15T12:25:52.641499
+aliases: [Mystery Framework]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Visual References|Visual References]]
+
+
+---
 
 title: Mystery Framework
 type: investigation
@@ -31,7 +49,8 @@ publish: false
 Detailed description pending.
 **Key Clues**: 7 essential pieces
 **Red Herrings**: 5 false leads
-**True Culprit**: Supernatural force ### Mystery_242 **Central Mystery**: Disappearance
+**True Culprit**: Superna
+*The [texture] surface feels [description] to the touch.*tural force ### Mystery_242 **Central Mystery**: Disappearance
 
 **Key Clues**: 6 essential pieces
 **Red Herrings**: 4 false leads
@@ -283,3 +302,9 @@ Detailed description pending.
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+## Visual References
+![[04_Resources/Assets/Locations/location-city-the-whisper-island-mystery-v1-the-whisper-island-mystery.png]]
+![[04_Resources/Assets/Locations/location-city-the-constellation-mystery-v1-the-constellation-mystery.png]]
+![[04_Resources/Assets/Locations/location-city-the-constellation-mystery-the-constellation-mystery.png]]

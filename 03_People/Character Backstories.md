@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:43.089038
+modified: 2025-08-15T12:24:43.089040
+aliases: [Character Backstories]
+---
+
 # Character Backstories
 
 > *Every scar tells a story...* This remarkable element adds depth and intrigue to any campaign.
@@ -17,7 +25,8 @@ related: []
 cssclass: standard
 publish: false --- # Character Backstories ## Portrait![[Character Backstories|Character Backstories]] *Portrait reference for Character Backstories* ## Overview This topic is referenced in [[final_link_repair_20250814_175237|Final Link Repair 20250814 175237]] and other parts of the campaign. ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. An important element of the campaign world that connects to various other aspects of the adventure. ## Connections - Referenced by: [[final_link_repair_20250814_175237|Final Link Repair 20250814 175237]]
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. An important element of the campaign world that connects to various other aspects of the adventure.
+*Sounds of [relevant sounds] echo in the distance.* ## Connections - Referenced by: [[final_link_repair_20250814_175237|Final Link Repair 20250814 175237]]
 - Related topics in the same category ## Details Further information about this topic will be developed as the campaign progresses. ## Plot Hooks - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery ## Stats```statblock creature: Custom NPC```### Quick Stats - **AC**: *[Armor Class]*

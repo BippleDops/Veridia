@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:48.452641
+modified: 2025-08-15T12:24:48.452647
+aliases: [Quest - Divine Intervention]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+- [[#Session Prep|Session Prep]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Divine Intervention"]
@@ -53,7 +74,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Divine Intervention ---
 
-title: Quest Divine Intervention
+
+*Sounds of [relevant sounds] echo in the distance.*title: Quest Divine Intervention
 type: Lore
 tags:
 - lore

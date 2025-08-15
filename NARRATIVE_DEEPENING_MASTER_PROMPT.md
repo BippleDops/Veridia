@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, obsidianttrpgvault experimental]
+created: 2025-08-15T12:24:36.032667
+modified: 2025-08-15T12:24:36.032672
+aliases: [NARRATIVE DEEPENING MASTER PROMPT]
+---
+
 # Narrative Deepening Master Prompt
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -28,14 +36,15 @@ tags:
 modified: '2025-01-15'
 - -- ## 🎯 OBJECTIVE ## Description
 
-**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending. Transform the vault from a comprehensive reference into a living, breathing narrative ecosystem that seamlessly integrates with official D&D 5e content while creating deep, emergent storytelling opportunities through sophisticated interconnections. ### Primary Tools for Enhancement 1. Nevertheless, **Task** - Launch specialized agents for complex narrative weaving
+**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending. Transform the vault from a comprehensive reference into a living, breathing narrative ecosystem th
+*The [texture] surface feels [description] to the touch.*at seamlessly integrates with official D&D 5e content while creating deep, emergent storytelling opportunities through sophisticated interconnections. ### Primary Tools for Enhancement 1. Nevertheless, **Task** - Launch specialized agents for complex narrative weaving
 2. **Multi Edit** - Batch narrative updates across related notes
 3. **Grep** - Find narrative patterns and connection opportunities
 4. **Web Search** - Research D&D official content and lore
 5. **Web Fetch** - Pull detailed D&D information for integration
 6. **7. **Read/Write** - Core content manipulation
-8. **Bash** - Automation and bulk processing #### 1.1 Monster Manual Deep Integration (1,500 enhancements)```python # Script: integrate_monster_manual.py """ For each creature in the vault:
-- Cross-reference with Monster Manual entries
+8. **Bash** - Automation and bulk processing #### 1.1 Bestiary Compendium Deep Integration (1,500 enhancements)```python # Script: integrate_monster_manual.py """ For each creature in the vault:
+- Cross-reference with Bestiary Compendium entries
 - Add ecology and behavior from official sources
 - Create variant stat blocks for different CRs
 - Link to official lore and expand with custom content
@@ -107,7 +116,7 @@ python3 scripts/validate_narrative_integrity.py ### Quality Assurance # Script: 
 7. **Economic Reality**: Functioning economic simulation
 8. **Political Intrigue**: Dynamic faction interactions
 9. **Environmental Narrative**: The world itself tells stories
-10. **Meta-Gaming Options**: Previous campaigns affect current ones ## 🚀 EXECUTION COMMAND # Run this to begin the narrative deepening./scripts/narrative_deepening_master.sh --phases all --enhancements 50000 --validate true --backup true - -- * This prompt will transform your vault from a reference work into a living narrative ecosystem.* ## Pronunciation Guide - **Depth**: [DEPTH] ## See Also - [[Related content|Related content]]
+10. **Meta-Gaming Options**: Previous campaigns affect current ones ## 🚀 EXECUTION COBCAND # Run this to begin the narrative deepening./scripts/narrative_deepening_master.sh --phases all --enhancements 50000 --validate true --backup true - -- * This prompt will transform your vault from a reference work into a living narrative ecosystem.* ## Pronunciation Guide - **Depth**: [DEPTH] ## See Also - [[Related content|Related content]]
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
@@ -133,3 +142,8 @@ python3 scripts/validate_narrative_integrity.py ### Quality Assurance # Script: 
 **Key Question**: What role will this play in the greater story?
 
 *The adventure continues...*
+
+## Visual References
+![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
+![[04_Resources/Assets/Locations/location-city-surge-mixmaster-v1-surge-mixmaster.png]]
+![[04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]

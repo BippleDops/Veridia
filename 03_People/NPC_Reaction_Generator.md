@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:43.109076
+modified: 2025-08-15T12:24:43.109078
+aliases: [NPC Reaction Generator]
+---
+
 # Npc Reaction Generator
 
 > *Not all allies are what they seem...* This remarkable element adds depth and intrigue to any campaign.
@@ -21,7 +29,8 @@ related: []
 cssclass: standard
 publish: false --- # NPC_Reaction_Generator ## Portrait![[NPC_Reaction_Generator|Npc Reaction Generator]] *Portrait reference for NPC_Reaction_Generator* ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key
+*The air carries the scent of [appropriate smell].* character traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -151,3 +160,8 @@ world: Both --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements i
 
 ## Thematic Elements
 This content explores themes of loyalty, adding narrative depth to your campaign.
+
+## Visual References
+![[04_Resources/Assets/Portraits/NPCs/portrait_npc_reaction_matrix.png]]
+![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc_reaction_matrix_friendly.png]]
+![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc_reaction_matrix_dramatic.png]]

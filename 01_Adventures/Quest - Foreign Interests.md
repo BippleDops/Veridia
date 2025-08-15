@@ -1,4 +1,22 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:52.604396
+modified: 2025-08-15T12:25:52.604403
+aliases: [Quest - Foreign Interests]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Session Prep|Session Prep]]
+
+
+---
 
 title: Quest - Foreign Interests
 type: quest
@@ -29,7 +47,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Foreign Interests ---
 
-title: Quest Foreign Interests
+ti
+*Sounds of [relevant sounds] echo in the distance.*tle: Quest Foreign Interests
 type: Lore
 tags:
 - lore

@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -30,7 +31,8 @@ publish: false
 This document contains important information regarding #Quest Details and its role within the greater narrative. ## Description
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
-#Quest Details represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+#Quest Details represents a significant element within the campaign world, offering various opportunities for engagement a
+*The air carries the scent of [appropriate smell].*nd development. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

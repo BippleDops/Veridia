@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: README (04_Resources)
 type: note
@@ -26,7 +27,8 @@ publish: false
 
 Detailed description pending.
 
-Store media files in appropriate subdirectories for easy access during sessions. ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*
+Store media files in appropriate subdirectories for easy access during sessions. ## Related *Links to related c
+*Sounds of [relevant sounds] echo in the distance.*ontent will be added here.* ## DM Notes *Private notes for campaign integration:*
 
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level

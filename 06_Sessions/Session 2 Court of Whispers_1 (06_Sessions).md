@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:37.189225
+modified: 2025-08-15T12:24:37.189231
+aliases: [Session 2 Court of Whispers 1 (06 Sessions)]
+---
+
 # Session 2 Court Of Whispers 1 (06 Sessions)
 
 
@@ -23,7 +31,8 @@ type: research
 tags:
 - adventure-session
 - political-intrigue
-- levels-4-6
+-
+*The air carries the scent of [appropriate smell].* levels-4-6
 - research
 - active
 - social-investigation

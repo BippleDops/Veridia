@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:41.472854
+modified: 2025-08-15T12:24:41.472858
+aliases: [NPC Portraits Gallery 2]
+---
+
 # Npc Portraits Gallery 2
 
 
@@ -24,7 +32,8 @@ related: []
 cssclass: standard
 publish: false --- # NPC_Portraits_Gallery 2 ## Portrait![[Npc|Npc]] *Portrait reference for NPC_Portraits_Gallery 2* ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key
+*The air carries the scent of [appropriate smell].* character traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -75,3 +84,8 @@ modified: '2025-08-14' --- # NPC Portraits Gallery %% Use reading mode for visua
 **Key Question**: What drives this character's actions?
 
 *The adventure continues...*
+
+## Visual References
+![[04_Resources/Assets/Portraits/portraits_void_1755205553655.png]]
+![[04_Resources/Assets/Portraits/portraits_aethermoor_1755205568006.png]]
+![[04_Resources/Assets/Portraits/portraits_aethermoor_1755205553079.png]]

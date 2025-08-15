@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:48.457790
+modified: 2025-08-15T12:24:48.457794
+aliases: [Player Notes]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+- [[#Visual References|Visual References]]
+
+
+---
 tags: [misc]
 type: misc
 aliases: ["Player Notes"]
@@ -65,7 +86,8 @@ tags:
 - campaign
 
 created: '2025-08-14'
-modified: '2025-08-14'
+modifie
+*The air carries the scent of [appropriate smell].*d: '2025-08-14'
 
 --- # Player Notes *Player-visible information* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards
 
@@ -184,3 +206,8 @@ modified: '2025-08-14'
 **Balance Note**: Adjust creature numbers based on party size and level.
 
 *Adventure awaits those brave enough to seek it.*
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/07_player_resources_visual_handouts_guild_seal_document_silverscale_consortiu.png]]
+![[04_Resources/Assets/Generated/Misc/faction_overview_for_players.png]]
+![[04_Resources/Assets/Generated/Misc/07_player_resources_faction_guide_md.png]]

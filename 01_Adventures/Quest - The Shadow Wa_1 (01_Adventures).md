@@ -1,3 +1,22 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.891256
+modified: 2025-08-15T12:25:47.891262
+aliases: [Quest - The Shadow Wa 1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
 # Quest   The Shadow Wa 1 (01 Adventures)
 
 
@@ -68,7 +87,8 @@ Detailed description pending.
 
 - **Name**: Local authority figure
 - **Location**: Town center
-- **Motivation**: Community safety ![Quest - The Shadow Wa](../../../04_Resources/Assets/Generated/Misc/quest___the_shadow_wa.png) ## Objectives
+- **Motivation**: Community safet
+*Sounds of [relevant sounds] echo in the distance.*y ![Quest - The Shadow Wa](../../../04_Resources/Assets/Generated/Misc/quest___the_shadow_wa.png) ## Objectives
 
 
 ### Primary

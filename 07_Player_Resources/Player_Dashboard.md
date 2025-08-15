@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T12:24:41.126316
+modified: 2025-08-15T12:24:41.126318
+aliases: [Player Dashboard]
+---
+
 # Player Dashboard
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -21,7 +29,8 @@ tags:
 - player-resource
 - character
 - active
-- player
+- playe
+*The [texture] surface feels [description] to the touch.*r
 - resource created: 2025-08-14
 modified: '2025-08-14'
 - -- ## 🔧 Deep Evaluation Improvements * 20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 07_Player_Resources-specific enhancement ## Character Sheets```dataview TABLE WITHOUT ID file.link as Character, class as Class, level as Level, hp as HP, ac as AC FROM "05_Player_Resources/Characters" WHERE type = "pc"```## Session Recaps file.link as Session, date as Date, recap as "Quick Summary" FROM "01_Adventures" WHERE type = "session" AND player-visible = true SORT date DESC LIMIT 5 ## Available Quests LIST FROM #quest WHERE status = "available" AND player-visible = true ## Party Inventory item as Item, quantity as Qty, carried-by as "Carried By" FROM "05_Player_Resources/Inventory" ## Known NPCs file.link as NPC, relationship as Relationship, location as "Last Seen" FROM "02_Worldbuilding/People" WHERE player-known = true SORT relationship DESC ## Maps & Locations - [[World Map|World Map]]
@@ -63,3 +72,8 @@ publish: false --- -|--------|
 **Key Question**: What role will this play in the greater story?
 
 *Adventure awaits those brave enough to seek it.*
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/07_player_resources_visual_handouts_guild_seal_document_silverscale_consortiu.png]]
+![[04_Resources/Assets/Generated/Misc/faction_overview_for_players.png]]
+![[04_Resources/Assets/Generated/Misc/07_player_resources_faction_guide_md.png]]

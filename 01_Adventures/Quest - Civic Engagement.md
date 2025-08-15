@@ -1,4 +1,23 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:47.095802
+modified: 2025-08-15T12:25:47.095803
+aliases: [Quest - Civic Engagement]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Civic Engagement"]
@@ -57,7 +76,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Civic Engagement ---
 
-title: Quest Civic Engagement
+tit
+*The [texture] surface feels [description] to the touch.*le: Quest Civic Engagement
 type: Lore
 tags:
 - lore

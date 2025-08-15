@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:37.980035
+modified: 2025-08-15T12:25:37.980039
+aliases: [Quest - Combat Medicine Crisis]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Action Economy ### On Your Turn (ACX p.189)|Action Economy ### On Your Turn (ACX p.189)]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Combat Medicine Crisis"]
@@ -13,7 +34,7 @@ aliases: ["Quest - Combat Medicine Crisis"]
 - [Overview](#overview)
 - [Description](#description)
   - [Primary](#primary)
-- [Action Economy ### On Your Turn (PHB p.189)](#action-economy-###-on-your-turn-(phb-p.189))
+- [Action Economy ### On Your Turn (ACX p.189)](#action-economy-###-on-your-turn-(phb-p.189))
 - [Notes](#notes)
 - [Timeline](#timeline)
 - [NPCs Involved](#npcs-involved)
@@ -58,7 +79,8 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - Combat Medicine Crisis ---
+- Moral dilemmas # Quest - Combat Medicine Crisis --
+*The air carries the scent of [appropriate smell].*-
 
 title: Quest Combat Medicine Crisis
 type: Lore
@@ -176,12 +198,12 @@ world: Both
 
 > Work together and communicate
 
-## Action Economy ### On Your Turn (PHB p.189)
+## Action Economy ### On Your Turn (ACX p.189)
 
 - **Movement**: Up to your speed
 - **Action**: One action from available options
 - **Bonus Action**: If you have an ability that uses it
-- **Free Actions**: Interact with one object, speak ### Actions Available (PHB p.192)
+- **Free Actions**: Interact with one object, speak ### Actions Available (ACX p.192)
 
 - **Attack**: Make one attack (more with Extra Attack)
 - **Cast a Spell**: Cast time of 1 action
@@ -192,7 +214,7 @@ world: Both
 - **Hide**: Stealth check to hide
 - **Ready**: Prepare action with trigger
 - **Search**: Perception or Investigation
-- **Use an Object**: Interact with object ### Reactions (PHB p.190)
+- **Use an Object**: Interact with object ### Reactions (ACX p.190)
 
 - One reaction per round
 - Resets at start of your turn

@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:41.550882
+modified: 2025-08-15T12:24:41.550884
+aliases: [NPC Reactions]
+---
+
 # Npc Reactions
 
 > *Every scar tells a story...* This remarkable element adds depth and intrigue to any campaign.
@@ -22,7 +30,8 @@ related: []
 cssclass: standard
 publish: false --- # NPC_Reactions ## Portrait![[Npc|Npc]] *Portrait reference for NPC_Reactions* ## Overview ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. NPC_Reactions is a notable figure in the realm, known for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. NPC_Reactions is a notable figure in the realm, known 
+*The air carries the scent of [appropriate smell].*for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
 - **Build**: Average height, lean build
 - **Distinguishing Features**: Keen eyes that miss nothing
 - **Typical Attire**: Practical clothing suited for their profession ## Personality - **Traits**: Observant, calculating, pragmatic

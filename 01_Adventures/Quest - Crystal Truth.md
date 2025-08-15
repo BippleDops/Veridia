@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:27.860332
+modified: 2025-08-15T12:25:27.860340
+aliases: [Quest - Crystal Truth]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Crystal Truth"]
@@ -59,7 +80,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Crystal Truth ---
 
-title: Quest Crystal Truth
+title:
+*The air carries the scent of [appropriate smell].* Quest Crystal Truth
 type: Lore
 tags:
 - lore

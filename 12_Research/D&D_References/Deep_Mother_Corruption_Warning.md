@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Deep_Mother_Corruption_Warning
 type: note
@@ -31,7 +32,8 @@ tags:
 - player/handout
 - research
 - active
-- world/aquabyssos
+- world/aquabysso
+*Sounds of [relevant sounds] echo in the distance.*s
 - corruption/deep-mother
 
 created: '2025-08-13'
@@ -77,3 +79,8 @@ The Deep Mother's influence is NOT the victim's fault. Compassion and swift acti
 #character/person
 #gameplay/mission
 #meta/reference
+
+## Visual References
+![[04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-v2-deep-mother-s-tentacles-rising.png]]
+![[04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-deep-mother-s-tentacles-rising.png]]
+![[04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-v1-deep-mother-s-tentacles-rising.png]]

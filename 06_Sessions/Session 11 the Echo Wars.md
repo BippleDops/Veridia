@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:36.304956
+modified: 2025-08-15T12:24:36.304958
+aliases: [Session 11 the Echo Wars]
+---
+
 # Session 11 The Echo Wars
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -20,7 +28,8 @@ type: research
 tags:
 - active
 - research created: '2025-08-14'
-modified: '2025-08-14'
+mod
+*The air carries the scent of [appropriate smell].*ified: '2025-08-14'
 - -- # Session 11: The Echo Wars * The Seven Shards Campaign - Beyond the Convergence* ## 🔧 Deep Evaluation Improvements * 20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Session Overview Three months after the cosmic guardian ceremony, the heroes discover that their reality manipulations have created "echo dimensions" - alternate realities where different choices were made. These echoes are now waging war across dimensional boundaries, threatening to tear apart the newly stabilized cosmos. **Location**: The Dimensional Observatory & Multiple Echo Realities **Level**: 11th **Duration**: 6-8 hours **Key Theme**: Confronting the consequences of choice and change```dataview TABLE echo-reality, stability-rating, conflict-level FROM "Seven_Shards_Campaign" WHERE contains(tags, "echo-dimension")```### The Dimensional Observatory Built six months ago to monitor the new cosmic order, the Observatory now detects catastrophic instabilities. Reality itself seems to be fracturing along the lines of decisions the heroes made. Additionally, **Scene Setup**: The heroes are summoned by [[People|People]], now serving as the Cosmic Observatory Director. > [!quote] Brother Marcus > "Your victory created... Complications. Every choice you made, every path not taken, has manifested as a separate reality. And now these 'echo dimensions' are at war with each other - and with us." ### The Echo Revelation **Arcana DC 18**: Understanding the echo phenomenon - Each major choice created a dimensional branch
 - Echo realities exist where heroes made different decisions
 - These echoes are now becoming increasingly hostile **Investigation DC 16**: Observatory readings show:

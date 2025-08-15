@@ -1,10 +1,19 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:41.259087
+modified: 2025-08-15T12:24:41.259089
+aliases: [Character Creation Extended.md]
+---
+
 # Character Creation Extended.Md
 
 > *Every scar tells a story...* This remarkable element adds depth and intrigue to any campaign.
 
 --- ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. * [Add detailed physical appearance and personality traits here]* ## Personality {#description-*-[add-detailed-physical-appearance-and-personality-traits-here]*-##-personality} - **Traits**: *[Key character traits]*
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. * [Add detailed physical appearance and personality traits here]* ## Personality {#description-*-[a
+*Sounds of [relevant sounds] echo in the distance.*dd-detailed-physical-appearance-and-personality-traits-here]*-##-personality} - **Traits**: *[Key character traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -75,3 +84,14 @@ publish: false --- -|--------|
 **Key Question**: What drives this character's actions?
 
 *What happens next is up to you.*
+
+## Visual References
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-v1-character-sheet-layout.png]]
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-character-sheet-layout.png]]
+![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-v2-character-sheet-layout.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

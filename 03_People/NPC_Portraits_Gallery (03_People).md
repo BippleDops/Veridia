@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T12:24:43.068049
+modified: 2025-08-15T12:24:43.068056
+aliases: [NPC Portraits Gallery (03 People)]
+---
+
 # Npc Portraits Gallery (03 People)
 
 
@@ -10,7 +18,7 @@
 
 Comprehensive overview of this content.
 
---- title: NPC_Portraits_Gallery (03_People)
+--- title: [[[[NPC_Portraits_Gallery 2|NPC_Portraits_Gallery]] 2|NPC_Portraits_Gallery]] (03_People)
 type: npc
 tags:
 - npc created: '2025-01-15'
@@ -24,7 +32,8 @@ related: []
 cssclass: standard
 publish: false --- # NPC Portraits Gallery ## Portrait![[NPC_Portraits_Gallery (03_People)|Npc Portraits Gallery (03 People)]] *Portrait reference for NPC_Portraits_Gallery (03_People)* ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key
+*The [texture] surface feels [description] to the touch.* character traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -76,3 +85,18 @@ publish: false --- # NPC Portraits Gallery ## Portrait![[NPC_Portraits_Gallery (
 
 ## Thematic Elements
 This content explores themes of hope against darkness, adding narrative depth to your campaign.
+
+## Related Content
+*Enhanced with 2 new connections*
+
+
+## Visual References
+![[04_Resources/Assets/Portraits/portraits_void_1755205553655.png]]
+![[04_Resources/Assets/Portraits/portraits_aethermoor_1755205568006.png]]
+![[04_Resources/Assets/Portraits/portraits_aethermoor_1755205553079.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

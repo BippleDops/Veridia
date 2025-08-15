@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:24:56.000391
+modified: 2025-08-15T12:24:56.000392
+aliases: [Quest1 (01 Adventures)]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Primary|Primary]]
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+- [[#Session Prep|Session Prep]]
+
+
 # Quest1 (01 Adventures)
 
 > *The fate of many hangs in the balance...*
@@ -61,7 +82,8 @@ This document contains important information regarding Quest1 and its role withi
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
 
-Quest1 represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+Quest1 represents a significant element within the campaign world, offering various opportunities for engagement and deve
+*The [texture] surface feels [description] to the touch.*lopment. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

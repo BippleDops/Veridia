@@ -1,4 +1,5 @@
 ---
+enhanced: true
 tags: [misc]
 type: misc
 aliases: ["Bookmark Collections"]
@@ -46,7 +47,8 @@ tags:
 - bookmarks
 - campaigns
 - active
-- collections
+- coll
+*The air carries the scent of [appropriate smell].*ections
 
 created: 2025-08-14
 modified: '2025-08-14'

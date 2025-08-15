@@ -1,4 +1,5 @@
 ---
+enhanced: true
 tags: [misc]
 type: misc
 aliases: ["MASTER VAULT INDEX"]
@@ -65,7 +66,8 @@ tags:
 - index
 - aquatic
 - active
-- combat
+- 
+*The air carries the scent of [appropriate smell].*combat
 - shadow-touched
 - crystal-enhanced
 
@@ -153,3 +155,8 @@ updated: 2025-08-14
 **Balance Note**: Adjust creature numbers based on party size and level.
 
 *The adventure continues...*
+
+## Visual References
+![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
+![[04_Resources/Assets/Locations/location-city-surge-mixmaster-v1-surge-mixmaster.png]]
+![[04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]

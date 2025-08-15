@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: 04_Resources/Assets
 type: lore
@@ -29,7 +30,8 @@ Detailed description pending.
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes ## Religious Observances ### Daily Prayers
+- Connections to overarching
+*The [texture] surface feels [description] to the touch.* campaign themes ## Religious Observances ### Daily Prayers
 
 - Dawn: Gratitude for life
 - Noon: Strength for labor
@@ -94,3 +96,8 @@ Detailed description pending.
 #character/npc
 #resource/item
 #meta/reference
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/assets_vehicles_vehicle_ship_crown_council_flagship_crown_council_flagship_svg.png]]
+![[04_Resources/Assets/Generated/Misc/04_resources_assets_art_places_syndicate_enforcers_png.png]]
+![[04_Resources/Assets/Generated/Misc/04_resources_assets_handouts_handout_handout_cult_text_with_marginalia_v2_cult_text_with_marginalia_png.png]]

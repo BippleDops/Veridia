@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T12:24:36.242830
+modified: 2025-08-15T12:24:36.242832
+aliases: [Session 2 Court of Whispers]
+---
+
 # Session 2 Court Of Whispers
 
 
@@ -23,7 +31,8 @@ type: Adventure
 tags:
 - mechanics/social
 - adventure
-- content/adventure
+- content/
+*Sounds of [relevant sounds] echo in the distance.*adventure
 - levels-4-6
 - political-intrigue
 - research

@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:30.489316
+modified: 2025-08-15T12:25:30.489321
+aliases: [Quest - The Successor's Burden]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Stakes|Stakes]]
+
+
 # Quest   The Successor'S Burden
 
 > *The fate of many hangs in the balance...*
@@ -53,7 +73,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-successor-s-burden-quest-the-successor-s-burden.svg) # Quest - The Successor's Burden ---
+![](04_Resources
+*The [texture] surface feels [description] to the touch.*/Assets/Portraits/portrait-npc-quest-the-successor-s-burden-quest-the-successor-s-burden.svg) # Quest - The Successor's Burden ---
 
 title: Quest The Successor's Burden
 type: NPC

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:29.492119
+modified: 2025-08-15T12:25:29.492126
+aliases: [Quest - Harbor Expansion]
+---
+
+## Table of Contents
+- [[#Contents|Contents]]
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Primary|Primary]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Stakes|Stakes]]
+
+
+---
 tags: [quest, adventure]
 type: quest
 aliases: ["Quest - Harbor Expansion"]
@@ -59,7 +80,8 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas > [!figure] Asset
 
-![](04_Resources/Assets/Locations/location-city-quest-harbor-expansion-quest-harbor-expansion.svg) # Quest - Harbor Expansion ---
+![](04_Resources
+*Sounds of [relevant sounds] echo in the distance.*/Assets/Locations/location-city-quest-harbor-expansion-quest-harbor-expansion.svg) # Quest - Harbor Expansion ---
 
 title: Quest Harbor Expansion
 type: Location

@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: Biomedical Specialist Dr. Current Lungwright
 type: note
@@ -29,7 +30,8 @@ title: Biomedical Specialist Dr. Current Lungwright
 aliases:
 - Biomedical Specialist Dr Current Lungwright
 
-type: Lore
+type
+*The air carries the scent of [appropriate smell].*: Lore
 tags:
 - lore
 - aquabyssos

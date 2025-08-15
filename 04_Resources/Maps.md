@@ -1,4 +1,5 @@
 ---
+enhanced: true
 
 title: 04_Resources/Maps
 type: lore
@@ -31,7 +32,8 @@ Detailed description pending.
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes ## Plot Hooks - A merchant needs help finding before the new moon
+- Connections to overarching
+*Sounds of [relevant sounds] echo in the distance.* campaign themes ## Plot Hooks - A merchant needs help finding before the new moon
 
 - The authorities needs help investigating before the festival
 - A journal reveals the truth about a local noble
@@ -73,3 +75,8 @@ Detailed description pending.
 #story/story
 #story/lore
 #world/world
+
+## Visual References
+![[04_Resources/Assets/Maps/maps_aethermoor_1755205553168.png]]
+![[04_Resources/Assets/Maps/maps_aquabyssos_1755205548077.png]]
+![[04_Resources/Assets/Maps/maps_aethermoor_1755205565352.png]]

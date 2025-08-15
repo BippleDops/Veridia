@@ -1,3 +1,11 @@
+---
+enhanced: true
+tags: [enhanced, 13_performance]
+created: 2025-08-15T12:24:41.009515
+modified: 2025-08-15T12:24:41.009519
+aliases: [optimization report 20250814 180706]
+---
+
 # Optimization Report 20250814 180706
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
@@ -30,7 +38,8 @@ modified: '2025-01-15'
 - **Added ## Motivations**: 2,260 times - **Added stat block**: 2,047 times
 - **Added ## Relationships**: 2,020 times - **Added ## Plot Hooks**: 1,988 times - **Added ## Appearance**: 1,977 times - **Added ## Background**: 1,947 times - **Added ## Abilities**: 1,820 times - **Added ## Current Activities**: 1,820 times - **Added overview**: 1,695 times
 - **Added ## Personality**: 1,528 times - **Added ## DM Notes**: 1,392 times - **Added ## Description**: 1,241 times - **Enhanced personality**: 713 times
-- **Added ## Operations**: 521 times - **Added ## Members**: 509 times - **Added ## Resources**: 503 times - **Added ## Goals**: 350 times - **Added ## Overview**: 318 times - **Added ## Structure**: 297 times - **Added mechanics**: 163 times
+- **Added ## Operations**: 521 times - **Added ## Members**: 509 times - **Added ## Resources**: 503 times - **Added ## Goals**: 350 times - **Add
+*The air carries the scent of [appropriate smell].*ed ## Overview**: 318 times - **Added ## Structure**: 297 times - **Added mechanics**: 163 times
 - **Added ## Locations**: 141 times - **Added ## Encounters**: 141 times - **Added ## Treasures**: 141 times - **Added ## Scaling Notes**: 141 times - **Added ## Synopsis**: 140 times - **Added properties**: 139 times
 - **Added usage guide**: 58 times
 - **Added rule summary**: 57 times
@@ -86,3 +95,8 @@ modified: '2025-01-15'
 
 
 *The dice will decide the fate.*
+
+## Visual References
+![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_gm.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_player.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_witness_reports_gm.png]]

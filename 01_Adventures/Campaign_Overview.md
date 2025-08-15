@@ -1,6 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 01_adventures]
+created: 2025-08-15T12:25:50.951380
+modified: 2025-08-15T12:25:50.951382
+aliases: [Campaign Overview]
+---
 
-title: Campaign_Overview
+## Table of Contents
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Related Content|Related Content]]
+- [[#Visual References|Visual References]]
+
+
+---
+
+title: [[[[Campaign_Overview_1 (01_Adventures)|Campaign_Overview]]_1 (01_Adventures)|Campaign_Overview]]
 type: quest
 tags:
 - quest
@@ -32,7 +51,8 @@ tags:
 - campaign
 
 created: '2025-08-14'
-modified: '2025-08-14'
+mo
+*Sounds of [relevant sounds] echo in the distance.*dified: '2025-08-14'
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards
 
@@ -135,3 +155,13 @@ modified: '2025-08-14'
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+## Related Content
+*Enhanced with 2 new connections*
+
+
+## Visual References
+![[04_Resources/Assets/Generated/Misc/_cross_campaign_organizations.png]]
+![[04_Resources/Assets/Generated/Misc/parliament_of_shadows_campaign.png]]
+![[04_Resources/Assets/Maps/World/Continents/world_cross_campaign_locations_player.png]]

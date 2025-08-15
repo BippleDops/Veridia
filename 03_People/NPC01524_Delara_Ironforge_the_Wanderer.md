@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.915848
+modified: 2025-08-15T16:41:46.915852
+aliases: [NPC01524 Delara Ironforge the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Drusilla Goldleaf the Seeker (Professional - Rival)|Drusilla Goldleaf the Seeker (Professional - Rival)]]
+- [[#Delara Grimholt the Broken (Criminal - Target)|Delara Grimholt the Broken (Criminal - Target)]]
+- [[#Ysara Ironforge the Redeemed (Professional - Rival)|Ysara Ironforge the Redeemed (Professional - Rival)]]
+
+
+---
 aliases: ["Delara Ironforge the Wanderer", "delara ironforge the wanderer", "Delara Ironforge Wanderer", "Wanderer the Ironforge Delara"]
 tags: [npc, character]
 type: npc
@@ -239,3 +260,14 @@ Needs help with personal quest
 - Requires [[FAC00086_Cults_87]]
 - Requires [[QUEST00000_Personal_Quest_1]]
 - Affected by [[step_040 (phase_072)]]
+
+## Visual References
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

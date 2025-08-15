@@ -320,3 +320,9 @@ Ongoing situations affecting Quieting the Depths:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00287_Ysara_Underhill_the_Wise]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.714196
+modified: 2025-08-15T16:41:46.714198
+aliases: [NPC0099 Tara Goldleaf]
+---
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Secrets|Secrets]]
+- [[#Relationships|Relationships]]
+- [[#Roleplaying|Roleplaying]]
+
+
+---
 aliases: ["Tara Goldleaf", "tara goldleaf", "Goldleaf Tara"]
 tags: [, generated]
   - npc
@@ -229,3 +250,8 @@ Investigation, Arcana, Stealth
 - See also: [[Red Dragon Scale Mail Xdmg]]
 - Leads to [[medallion-of-thoughts-xdmg (items)]]
 - Requires [[Economic_System]]
+
+## Visual References
+![[03_People/portrait_assets_symbols_symbol_heraldry_sister_astara_the_ever_watching_sister_astara_the_ever_watching_svg_standard.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_sister_astara_the_ever_watching_sister_astara_the_ever_watching_svg_dramatic.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_sister_astara_the_ever_watching_sister_astara_the_ever_watching_svg_friendly.png]]

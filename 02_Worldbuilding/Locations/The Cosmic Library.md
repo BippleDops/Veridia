@@ -129,3 +129,7 @@ Recent developments have brought new attention to The Cosmic Library, creating o
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]

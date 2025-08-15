@@ -221,3 +221,10 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00922_Wynne_Youngblood_the_Fallen]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC00407_Hestara_Dawnstrider]]

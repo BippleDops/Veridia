@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Orion Xendar the Lost
 
 *Human Cultist (Villains), Age 23, Male*

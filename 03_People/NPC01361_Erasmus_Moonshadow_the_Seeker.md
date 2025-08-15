@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Erasmus Moonshadow the Seeker
 
 *Goliath Bard (Adventurers), Age 39, Female*

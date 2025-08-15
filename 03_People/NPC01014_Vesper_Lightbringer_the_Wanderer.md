@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Lightbringer the Wanderer
 
 *Dragonborn Shopkeeper (Merchants), Age 62, Male*

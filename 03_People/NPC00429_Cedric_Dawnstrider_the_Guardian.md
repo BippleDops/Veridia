@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Cedric Dawnstrider the Guardian
 
 *Dwarf Baker (Commoners), Age 58, Female*

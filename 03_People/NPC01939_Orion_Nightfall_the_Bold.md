@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.033702
+modified: 2025-08-15T16:41:42.033704
+aliases: [NPC01939 Orion Nightfall the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Dara Lightbringer the Cunning (Political - Puppet)|Dara Lightbringer the Cunning (Political - Puppet)]]
+- [[#Aldric Proudmore the Risen (Family - Parent)|Aldric Proudmore the Risen (Family - Parent)]]
+- [[#Dara Zephyrblade the Scholar (Personal - Nemesis)|Dara Zephyrblade the Scholar (Personal - Nemesis)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Orion Nightfall the Bold", "orion nightfall the bold", "Orion Nightfall Bold", "Bold the Nightfall Orion"]
 tags: [npc, character]
@@ -146,6 +167,57 @@ Provides information for a price
 - Special moves
 
 ## See Also
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[NPC00080_Branwen_Proudmore]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC_Name_Generator.png]]
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[Sage Elara]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[Keeper Elara Mindwell]]
+- [[Enchanter Valdris Peacewarden]]
+- [[Madame Rosalind Goldleaf]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[Party_Inventory]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC00615_Lyanna_Moonshadow_the_Lost]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[Sanity_Quick_Reference.md]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[Quick_Start_Guide.md]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[Ancient_Prophecy_Fragment_Verdan]]
+- [[11 Spellcasting]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[The Silent Watcher 2]]
+- [[15 the Planes of Existence]]
+- [[07 Customization Options]]
+- [[Session_Recaps]]
+- [[10 Combat]]
+- [[MOC_Lore]]
 - [[Related_Content]]
 
 
@@ -155,9 +227,9 @@ Provides information for a price
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -267,3 +339,14 @@ Provides information for a price
 - Affected by [[ITEM00157_Blazing_Dagger_of_Wounding]]
 - Leads to [[Assets Locations Location City Deep Ones Deep Ones.svg]]
 - Parallels [[Lieutenant Memory Probe]]
+
+## Visual References
+![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

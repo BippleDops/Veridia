@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.497830
+modified: 2025-08-15T16:41:40.497833
+aliases: [NPC00407 Hestara Dawnstrider]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Cedric Darkwater the Mystic (Family - Child)|Cedric Darkwater the Mystic (Family - Child)]]
+- [[#Solas Quicksilver the Swift (Professional - Partner)|Solas Quicksilver the Swift (Professional - Partner)]]
+- [[#Baelor Frostwhisper (Political - Ally)|Baelor Frostwhisper (Political - Ally)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Hestara Dawnstrider", "hestara dawnstrider", "Dawnstrider Hestaratags: [npc, character, combat, lore]er]
 type: npc
@@ -31,7 +56,7 @@ Tall and delicate, with Long and flowing blonde hair and Black eyes. Scarred ski
 - **Dream**: Opening their own shop
 
 ## Background
-Family has worked the same trade for generations, but times are changing Strange abilities have begun manifesting without explanation.
+Family has worked the same trade for generations, but [[Time]]s are changing Strange abilities have begun manifesting without explanation.
 
 ## Current Situation
 - **Occupation**: Farmer
@@ -135,7 +160,7 @@ Witnessed a crime
 - Special moves
 
 ## Combat Stats
-Base: **Bandit** (MM p.343)
+Base: **Bandit** (BC p.343)
 Modifications:
 - HP: 25
 - AC: 10
@@ -146,6 +171,40 @@ Modifications:
 > How this works in play
 
 ## See Also
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC01276_Erasmus_Keenblade_the_Wanderer]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[15 the Planes of Existence]]
+- [[13 Conditions]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[12 Spells]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
 - [[Related_Content]]
 
 
@@ -155,8 +214,8 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -166,30 +225,30 @@ Modifications:
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
 
 ## Connections
 
-- Compare with [[Aethermoor Technical University]]
+- Compare with [[[[Aethermoor]] Technical University]]
 - Requires [[step_035 (phase_055)]]
-- Connects to [[location-city-artificer-v1-artificer.svg]]
+- Connects to [[location-city-[[Artificer]]-v1-artificer.svg]]
 - Compare with [[NPC00663_Alaric_Dawnstrider_the_Strong]]
-- Leads to [[Assets Locations Location City Ancient Tunnels Beneath Palace Ancient Tunnels Beneath Palace.svg]]
+- Leads to [[Assets Locations [[Location City [[Ancient Tunnels Beneath Palace]] Ancient Tunnels Beneath Palace.svg]]]]
 - Related: [[crowbar-xphb (items)]]
 - Influences [[LOC00000_Planes_Location_1]]
 - Connects to [[step_068]]
-- See also: [[Assets Locations Location City the Lock V1 the Lock.svg]]
+- See also: [[Assets Locations Location City [[The Lock]] V1 the Lock.svg]]
 - Connects to [[QUEST00441_Side_Quest_442]]
 - Influences [[Portrait NPC Captain Sterling Lightshield Captain Sterling Lightshield.svg]]
-- Related: [[Assets Locations Location City the Observatory the Observatory.svg]]
+- Related: [[Assets Locations Location City [[The Observatory]] the Observatory.svg]]
 - Originates from [[physical-characteristics-beholder-skin-texture-vgm]]
 - Parallels [[NPC00960_Gavril_Hawthorne_the_Guardian]]
 - Influences [[truth-serum-xdmg (items)]]
@@ -197,28 +256,28 @@ Modifications:
 - Connects to [[NPC00452_Solas_Lightbringer_the_Swift]]
 - Related: [[step_063 (phase_054)]]
 - Affected by [[The Vault of Whispers]]
-- Related: [[Harbormaster Tidal Stormcrest 2]]
+- Related: [[[[Harbormaster [[Tidal Stormcrest]]]] 2]]
 - Related: [[LOC00080_Wilderness_Location_81]]
 - Related: [[step_045 (phase_016)]]
 - Affected by [[forgotten-realms-eldath (deities)]]
 - Affected by [[half-elf (races)]]
 - Related: [[upper-class-carousing-complications-xge (tables)]]
 - Connects to [[Giant Ape Xmm]]
-- Compare with [[Assets Locations Location City Crimson Velocity Crimson Velocity.svg]]
+- Compare with [[Assets Locations Location City [[Crimson Velocity]] Crimson Velocity.svg]]
 - Affected by [[step_024 (phase_016)]]
 - Affected by [[step_045 (phase_058)]]
 - Influences [[Justice Shadowin]]
 - Connects to [[step_049]]
-- Connects to [[Location City the Deep Temple V1 the Deep Temple.svg]]
+- Connects to [[Location City [[The Deep Temple]] V1 the Deep Temple.svg]]
 - See also: [[LOC00298_Planes_Location_299]]
-- Affected by [[The Deserter's Tale (D&D_References)]]
+- Affected by [[[[The Deserter]]'s Tale (D&D_References)]]
 - Requires [[ITEM00270_Blessed_Sword_of_Speed]]
 - Originates from [[ITEM00588_Ethereal_Plate_of_Fortitude]]
 - See also: [[Quest - The Refugee Emergency_1 (01_Adventures)]]
 - See also: [[Greataxe Xphb]]
 - See also: [[Pressure Effects]]
 - Originates from [[Portrait NPC Crystal Plague Infected Npcs V1 Crystal Plague Infected Npcs.svg_1 (Portraits)]]
-- Originates from [[Bio-Integration Researcher Coral Lifeshaper (D&D_References)]]
+- Originates from [[Bio-Integration Researcher [[Coral Lifeshaper]] (D&D_References)]]
 - Related: [[Brother Pelagios Irondeep]]
 - Parallels [[step_023 (phase_020)]]
 - Related: [[step_029]]
@@ -235,12 +294,12 @@ Modifications:
 - Related: [[Crystal Cults (D&D_References)]]
 - Connects to [[step_002]]
 - See also: [[Forest Communities]]
-- Connects to [[Harbor Master's License (D&D_References)]]
-- Connects to [[Royal Academy of Arcane Arts Ruins (Places)]]
+- Connects to [[[[Harbor Master's License]] (D&D_References)]]
+- Connects to [[[[Royal Academy of Arcane Arts Ruin]]s (Places)]]
 - Connects to [[The Blight Druids (D&D_References)]]
 - Parallels [[The Lady's Garden Society (D&D_References)]]
 - Affected by [[The Scholars of Divine Lore]]
-- Affected by [[Assets Locations Location City the Archive Keepers the Archive Keepers.svg]]
+- Affected by [[Assets Locations Location City [[The Archive Keepers]] the Archive Keepers.svg]]
 - Requires [[step_056 (phase_013)]]
 - Parallels [[The Clockwork Depths (D&D_References)]]
 - Parallels [[blowgun-xphb (items)]]
@@ -248,33 +307,38 @@ Modifications:
 - See also: [[Sylvanheart]]
 - Parallels [[Human Names French Male Xge]]
 - Leads to [[Giant Fire Beetle Xmm]]
-- See also: [[Location City Temple of Sacred Dreams V1 Temple of Sacred Dreams.svg]]
-- Affected by [[Assets Locations Location City Flame Keeper Brother Ignatius V1 Flame Keeper Brother Ignatius.svg]]
+- See also: [[Location City [[Temple of Sacred Dreams]] V1 Temple of Sacred Dreams.svg]]
+- Affected by [[Assets Locations [[Location City [[Flame Keeper Brother Ignatius]] V1 Flame Keeper Brother Ignatius.svg]]]]
 - Related: [[step_087]]
 - See also: [[The Temple of First Tide]]
 - Originates from [[step_063 (phase_043)]]
 - See also: [[SPELL00086_Nature_Spell_87]]
 - Parallels [[MON00151_Undead_Creature_152]]
-- Originates from [[Assets Locations Location City Historical Prophetic Analysis Historical Prophetic Analysis.svg]]
-- Related: [[Location City High Vigil Keeper Thalassa Depthmind High Vigil Keeper Thalassa Depthmind.svg]]
+- Originates from [[Assets Locations Location City [[Historical Prophetic Analysis]] Historical Prophetic Analysis.svg]]
+- Related: [[Location City [[High Vigil Keeper Thalassa Depthmind]] High Vigil Keeper Thalassa Depthmind.svg]]
 - Compare with [[tome-of-clear-thought-xdmg (items)]]
 - Related: [[step_058]]
-- Connects to [[Assets Locations Location City Coral Reef Sanctuaries Coral Reef Sanctuaries.svg]]
-- Compare with [[Location City Court Herald Master Proclamation Crownvoice V1 Court Herald Master Proclamation Crownvoice.svg]]
-- Compare with [[Archivist Methodius Recordkeeper (D&D_References)]]
+- Connects to [[Assets Locations Location City [[Coral Reef Sanctuaries]] Coral Reef Sanctuaries.svg]]
+- Compare with [[Location City [[Court Herald Master Proclamation Crownvoice]] V1 Court Herald Master Proclamation Crownvoice.svg]]
+- Compare with [[[[Archivist Methodius Recordkeeper]] (D&D_References)]]
 - Related: [[Orc Names Orc Male Names Vgm]]
 - Connects to [[NPC00759_Malakai_Ironforge_the_Redeemed]]
 - Related: [[Sage of Two Worlds 2]]
 - Affected by [[Brass Dragon]]
 - Affected by [[step_050 (phase_078)]]
-- Parallels [[The Sunken Cathedral of Perfect Order (D&D_References)]]
+- Parallels [[[[The Sunken Cathedral of Perfect Order]] (D&D_References)]]
 - Affected by [[elven-naralis-analor-mtf (deities)]]
 - Related: [[QUEST00236_Personal_Quest_237]]
 - Requires [[The Drowned Village 2]]
 - Related: [[arcane-lock-xphb (spells)]]
-- Parallels [[Portrait NPC Abyssos Prime Government Abyssos Prime Government.svg_1 (Portraits)]]
+- Parallels [[Portrait NPC [[Abyssos Prime]] Government Abyssos Prime Government.svg_1 (Portraits)]]
 - Influences [[Plant Growth Xphb]]
 - Influences [[star-spawn-seer-mpmm (aberration)]]
 - Requires [[step_039]]
 - Parallels [[Quest - Foreign Interests_1 (01_Adventures)]]
 - Compare with [[Frontier Settlement]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

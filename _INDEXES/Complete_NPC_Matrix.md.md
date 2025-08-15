@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, _indexes]
+created: 2025-08-15T16:41:29.243799
+modified: 2025-08-15T16:41:29.243802
+aliases: [Complete NPC Matrix.md]
+---
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Abilities|Abilities]]
+- [[#Relationships|Relationships]]
+- [[#Current Activities|Current Activities]]
+- [[#Plot Hooks|Plot Hooks]]
+- [[#DM Notes|DM Notes]]
+- [[#Voice & Mannerisms|Voice & Mannerisms]]
+
+
+---
 title: 13_Performance/Indexes/Complete_NPC_Matrix.md
 type: npc
 tags:
@@ -117,25 +138,42 @@ FROM "02_Worldbuilding"
 WHERE contains(file.name, "Location") OR contains(tags, "location")
 ```
 ## See Also
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[09 Adventuring]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[Count_Strahd_von_Zarovich]]
+- [[16 Credits]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[Party_Quests]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Dungeon Master's Guide (DMG) p.211
-- Mordenkainen's Tome of Foes (MTF) p.193
+- Worldweaver's Tome (WWT) p.211
+- Mordenkainen's Forbidden Knowledge of Foes (MFK) p.193
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -146,8 +184,8 @@ Following magic item guidelines (DMG p.135-136):
 - [[ULTIMATE_ASSET_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -157,18 +195,18 @@ Following magic item guidelines (DMG p.135-136):
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
 
 ## Connections
 
@@ -272,3 +310,6 @@ Following magic item guidelines (DMG p.135-136):
 - Compare with [[Reference Homebrew Races]]
 - Leads to [[Location City Master Elena Preserver Master Elena Preserver.svg]]
 - Requires [[Assets Locations Location City Heart of Eternal Vigilance Heart of Eternal Vigilance.svg]]
+
+## Visual References
+![[04_Resources/Assets/Misc/complete_faction_warfare_system_resource_management.png]]

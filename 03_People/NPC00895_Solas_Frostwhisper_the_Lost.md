@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.851926
+modified: 2025-08-15T16:41:45.851929
+aliases: [NPC00895 Solas Frostwhisper the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Idris Darkwater the Bold (Criminal - Informant)|Idris Darkwater the Bold (Criminal - Informant)]]
+- [[#Orion Brightblade the Seeker (Criminal - Fence)|Orion Brightblade the Seeker (Criminal - Fence)]]
+- [[#Qadim Quicksilver the Wise (Family - Parent)|Qadim Quicksilver the Wise (Family - Parent)]]
+
+
+---
 aliases: ["Solas Frostwhisper the Lost", "solas frostwhisper the lost", "Solas Frostwhisper Lost", "Lost the Frostwhisper Solas"]
 tags: [npc, character]
 type: npc
@@ -247,3 +268,14 @@ Caravan needs guards
 - Parallels [[step_055 (phase_018)]]
 - Originates from [[step_080 (phase_060)]]
 - Influences [[Marina Stormwright 2]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

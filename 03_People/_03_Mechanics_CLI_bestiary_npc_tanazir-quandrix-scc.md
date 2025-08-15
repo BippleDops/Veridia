@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_03_mechanics_cli_bestiary_npc_tanazir_quandrix_scc_friendly.png]]
+
+
 # /03 Mechanics/CLI/bestiary/npc/tanazir-quandrix-scc
 
 ## Basic Information

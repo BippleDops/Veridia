@@ -1,4 +1,22 @@
 ---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:25.196540
+modified: 2025-08-15T16:41:25.196544
+aliases: [ULTIMATE ASSET REPORT]
+---
+
+## Table of Contents
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Visual References|Visual References]]
+- [[#See Also|See Also]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
+---
 enhanced: trtags: [enhanced, 13_performance, combat, exploration, lore]ce]
 created: 2025-08-15T12:24:41.069678
 modified: 2025-08-15T12:24:41.069681
@@ -23,6 +41,7 @@ cssclass: standard
 publish: false --- # ULTIMATE ASSET REPORT ## Overview ULTIMATE ASSET REPORT represents an important element within the campaign world. ## Description
 
 **Details**: Rich sensory elements bring this to life. This component serves a vital role in the ongoing narrative and world-building efforts. It connects to various other elements and provides dept
+*The [texture] surface feels [description] to the touch.*
 *The air carries the scent of [appropriate smell].*h to the campaign setting. ## Key Features ### Primary Aspects - **Core Function**: Central purpose and role
 - **Unique Traits**: Distinguishing characteristics
 - **Connections**: Links to other elements ### Secondary Aspects - Supporting details
@@ -80,21 +99,21 @@ publish: false --- # ULTIMATE ASSET REPORT ## Overview ULTIMATE ASSET REPORT rep
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Inspiration**: See PHB p.125
+- **Combat**: See ACX p.189-198
+- **Inspiration**: See ACX p.125
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Ewan Nightfall the Broken
 
 *Human Cleric (Adventurers), Age 47, Male*

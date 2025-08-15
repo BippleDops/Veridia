@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Kaelen Blackstone the Wanderer
 
 *Firbolg Dark Wizard (Villains), Age 42, Male*

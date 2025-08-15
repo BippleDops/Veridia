@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Keeper Aquaeous 
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01367_Lyanna_Xendar_the_Wise]]

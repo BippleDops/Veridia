@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Drusilla Lightbringer the Scholar
 
 *Firbolg Courtier (Nobles), Age 52, Non-binary*

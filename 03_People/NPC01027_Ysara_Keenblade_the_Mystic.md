@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ysara Keenblade the Mystic
 
 *Half-Elf Caravan Master (Merchants), Age 77, Male*

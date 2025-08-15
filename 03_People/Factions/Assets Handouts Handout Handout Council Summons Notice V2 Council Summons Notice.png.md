@@ -17,6 +17,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![04_Resources/Assets/Handouts/handout-handout-council-summons-notice-v2-council-summons-notice.png](../../04_Resources/Assets/Misc/04_resources_assets_handouts_handout_handout_council_summons_notice_v2_council_summons_notice_png.png)
 
 ## 🔧 Deep Evaluation Improvements

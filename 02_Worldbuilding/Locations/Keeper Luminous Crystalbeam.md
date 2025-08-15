@@ -288,3 +288,8 @@ Ongoing situations affecting Keeper Luminous Crystalbeam:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]

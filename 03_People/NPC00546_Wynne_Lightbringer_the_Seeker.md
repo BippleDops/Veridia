@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.242002
+modified: 2025-08-15T16:41:46.242007
+aliases: [NPC00546 Wynne Lightbringer the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Zephyr Ravenheart the Strong (Family - Child)|Zephyr Ravenheart the Strong (Family - Child)]]
+- [[#Alaric Crystalbrook the Fallen (Family - Spouse)|Alaric Crystalbrook the Fallen (Family - Spouse)]]
+- [[#Jorah Moonshadow the Broken (Family - Parent)|Jorah Moonshadow the Broken (Family - Parent)]]
+
+
+---
 aliases: ["Wynne Lightbringer the Seeker", "wynne lightbringer the seeker", "Wynne Lightbringer Seeker", "Seeker the Lightbringer Wynne"]
 tags: [npc, character]
 type: npc
@@ -249,3 +270,14 @@ Witnessed a crime
 - Compare with [[Creature Creature Thorny Vegepygmy Mpmm V1 Thorny Vegepygmy Mpmm.png]]
 - Parallels [[Cities]]
 - Leads to [[warhammer-xphb (items)]]
+
+## Visual References
+![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

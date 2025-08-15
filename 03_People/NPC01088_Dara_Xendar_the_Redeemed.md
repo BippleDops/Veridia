@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Dara Xendar the Redeemed
 
 *Dwarf Appraiser (Merchants), Age 57, Non-binary*

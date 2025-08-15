@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.927170
+modified: 2025-08-15T16:41:41.927174
+aliases: [NPC01301 Jorah Underhill the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gavril Thornweave the Mystic (Family - Child)|Gavril Thornweave the Mystic (Family - Child)]]
+- [[#Gareth Underhill the Seeker (Criminal - Accomplice)|Gareth Underhill the Seeker (Criminal - Accomplice)]]
+- [[#Fiora Crystalbrook the Risen (Professional - Employer)|Fiora Crystalbrook the Risen (Professional - Employer)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Jorah Underhill the Broken", "jorah underhill the broken", "Jorah Underhill Broken", "Broken the Underhill Jorah"]
 tags: [npc, character]
@@ -139,24 +164,32 @@ Forming expedition to dangerous location
 - Special moves
 
 ## See Also
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[Player_Feedback_Form.md]]
+- [[MOC_Rules]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Tasha's Cauldron of Everything (TCE) p.99
+- Tasha's Mystical Formulae of Everything (TMF) p.99
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -164,9 +197,9 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -276,3 +309,8 @@ Following magic item guidelines (DMG p.135-136):
 - Related: [[LOC00223_Cities_Location_224]]
 - Influences [[LORE00326_Prophecies_Entry_327]]
 - Parallels [[Harbor Master Captain Dockwise 2]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

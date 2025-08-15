@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Orion Goldleaf the Strong
 
 *Gnome Aristocrat (Nobles), Age 64, Female*

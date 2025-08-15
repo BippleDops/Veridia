@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_ancient_black_dragon_xmm_friendly.png]]
+
+
 # ancient-black-dragon-xmm
 
 ## Basic Information

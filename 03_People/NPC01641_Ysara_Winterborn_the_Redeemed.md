@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.549452
+modified: 2025-08-15T16:41:46.549454
+aliases: [NPC01641 Ysara Winterborn the Redeemed]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Baelor Jadeclaw the Lost (Personal - Childhood friend)|Baelor Jadeclaw the Lost (Personal - Childhood friend)]]
+- [[#Gavril Ashford the Broken (Political - Puppet)|Gavril Ashford the Broken (Political - Puppet)]]
+- [[#Hilda Ravenheart the Fallen (Family - Spouse)|Hilda Ravenheart the Fallen (Family - Spouse)]]
+
+
+---
 aliases: ["Ysara Winterborn the Redeemed", "ysara winterborn the redeemed", "Ysara Winterborn Redeemed", "Redeemed the Winterborn Ysara"]
 tags: [npc, character]
 type: npc
@@ -242,3 +263,14 @@ Provides information for a price
 - Originates from [[kuo-toa-xmm (aberration)]]
 - Compare with [[Nightmare Protection (D&D_References)]]
 - Leads to [[step_098 (phase_070)]]
+
+## Visual References
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

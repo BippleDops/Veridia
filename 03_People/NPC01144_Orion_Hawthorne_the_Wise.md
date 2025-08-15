@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.636380
+modified: 2025-08-15T16:41:43.636383
+aliases: [NPC01144 Orion Hawthorne the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Branwen Crystalbrook the Seeker (Criminal - Accomplice)|Branwen Crystalbrook the Seeker (Criminal - Accomplice)]]
+- [[#Aldric Darkwater the Risen (Family - Sibling)|Aldric Darkwater the Risen (Family - Sibling)]]
+- [[#Baelor Brightblade the Swift (Political - Puppet)|Baelor Brightblade the Swift (Political - Puppet)]]
+
+
+---
 aliases: ["Orion Hawthorne the Wise", "orion hawthorne the wise", "Orion Hawthorne Wise", "Wise the Hawthorne Orion"]
 tags: [npc, character]
 type: npc
@@ -245,3 +266,14 @@ Caravan needs guards
 - Originates from [[Location City Merchant Quarter V1 Merchant Quarter.svg]]
 - Leads to [[Glyph of Warding Xphb]]
 - Originates from [[Pier 8 (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

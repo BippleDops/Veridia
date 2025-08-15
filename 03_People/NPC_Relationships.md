@@ -6,6 +6,10 @@ modified: 2025-08-15T12:24:41.382213
 aliases: [NPC Relationships]
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Npc Relationships
 
 > *Every scar tells a story...* This remarkable element adds depth and intrigue to any campaign.

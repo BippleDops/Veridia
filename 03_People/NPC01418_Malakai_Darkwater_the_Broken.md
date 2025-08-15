@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Malakai Darkwater the Broken
 
 *Goliath Rogue (Adventurers), Age 43, Female*

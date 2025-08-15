@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Malakai Moonshadow the Fallen
 
 *Half-Orc Trader (Merchants), Age 34, Male*

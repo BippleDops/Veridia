@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gavril Lightbringer the Scholar
 
 *Dragonborn Blacksmith (Commoners), Age 71, Male*

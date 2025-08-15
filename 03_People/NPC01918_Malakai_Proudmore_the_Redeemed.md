@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.356055
+modified: 2025-08-15T16:41:48.356058
+aliases: [NPC01918 Malakai Proudmore the Redeemed]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Urien Stormwind the Seeker (Professional - Mentor)|Urien Stormwind the Seeker (Professional - Mentor)]]
+- [[#Aeliana Hawthorne the Bold (Political - Opposition)|Aeliana Hawthorne the Bold (Political - Opposition)]]
+- [[#Kaelen Quicksilver the Guardian (Political - Opposition)|Kaelen Quicksilver the Guardian (Political - Opposition)]]
+
+
+---
 aliases: ["Malakai Proudmore the Redeemed", "malakai proudmore the redeemed", "Malakai Proudmore Redeemed", "Redeemed the Proudmore Malakai"]
 tags: [npc, character]
 type: npc
@@ -138,3 +163,9 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

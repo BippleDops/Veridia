@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Caelum Ravenheart the Scholar
 
 *Elf Fisher (Commoners), Age 50, Non-binary*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Qadim Proudmore the Broken
 
 *Gnome Wizard (Adventurers), Age 61, Male*

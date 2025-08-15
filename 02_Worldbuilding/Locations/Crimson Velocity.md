@@ -233,3 +233,8 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]
+- [[NPC00407_Hestara_Dawnstrider]]

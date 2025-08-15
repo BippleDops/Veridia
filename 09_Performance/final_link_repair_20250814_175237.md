@@ -1,4 +1,22 @@
 ---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:18.600679
+modified: 2025-08-15T16:41:18.600687
+aliases: [final link repair 20250814 175237]
+---
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Visual References|Visual References]]
+- [[#Realm Connections|Realm Connections]]
+- [[#Connection to Aethermoor|Connection to Aethermoor]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+
+
+---
 enhanced: trtags: [enhanced, 13_performance, combat, magic, exploration, puzzle, lore]ce]
 created: 2025-08-15T12:24:41.002703
 modified: 2025-08-15T12:24:41.002706
@@ -34,6 +52,7 @@ modified: '2025-08-14'
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 - **Files Updated**: 6,992 ## ✅ Repairs Applied ### D&D_References Links - Removed path prefix fro
+*Sounds of [relevant sounds] echo in the distance.*
 *The [texture] surface feels [description] to the touch.*m all D&D_References links
 - Links now point directly to note names ### Other Patterns - Fixed incorrect campaign paths
 - Corrected resource paths - Removed.md extensions from links
@@ -86,20 +105,20 @@ navigate floating islands connected by bridges of solidified cloud.
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*

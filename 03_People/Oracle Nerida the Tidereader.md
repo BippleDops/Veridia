@@ -31,6 +31,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_oracle_nerida_the_tidereader.png]]
+
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-oracle-nerida-the-tidereader-oracle-nerida-the-tidereader.svg)
 

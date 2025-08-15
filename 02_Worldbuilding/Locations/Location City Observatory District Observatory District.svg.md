@@ -82,3 +82,8 @@ Recent developments have brought new attention to Location City Observatory Dist
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]

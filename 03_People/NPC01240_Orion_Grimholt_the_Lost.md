@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Orion Grimholt the Lost
 
 *Dwarf Bard (Adventurers), Age 48, Non-binary*

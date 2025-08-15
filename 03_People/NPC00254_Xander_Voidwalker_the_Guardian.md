@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Xander Voidwalker the Guardian
 
 *Human Courtier (Nobles), Age 57, Non-binary*

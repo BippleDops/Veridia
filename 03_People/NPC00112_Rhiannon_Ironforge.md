@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.167369
+modified: 2025-08-15T16:41:44.167373
+aliases: [NPC00112 Rhiannon Ironforge]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Idris Dawnstrider the Lost (Personal - Ex-lover)|Idris Dawnstrider the Lost (Personal - Ex-lover)]]
+- [[#Corvus Zephyrblade (Personal - Love interest)|Corvus Zephyrblade (Personal - Love interest)]]
+- [[#Idris Thornweave the Guardian (Political - Ally)|Idris Thornweave the Guardian (Political - Ally)]]
+
+
+---
 aliases: ["Rhiannon Ironforge", "rhiannon ironforge", "Ironforge Rhiannon"]
 tags: [npc, character]
 type: npc
@@ -243,3 +264,14 @@ Requires champions for trial by combat
 - Compare with [[Ambush Point]]
 - See also: [[Portrait NPC Quest the Refugee Evacuation Quest the Refugee Evacuation.svg]]
 - Related: [[SPELL00003_Arcane_Spell_4]]
+
+## Visual References
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

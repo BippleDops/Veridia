@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.999284
+modified: 2025-08-15T16:41:40.999287
+aliases: [NPC00296 Elric Jadeclaw the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Jorah Hawthorne the Scholar (Family - Spouse)|Jorah Hawthorne the Scholar (Family - Spouse)]]
+- [[#Felicia Frostwhisper (Criminal - Fence)|Felicia Frostwhisper (Criminal - Fence)]]
+- [[#Gareth Nightfall (Criminal - Fence)|Gareth Nightfall (Criminal - Fence)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Elric Jadeclaw the Bold", "elric jadeclaw the bold", "Elric Jadeclaw Bold", "Bold the Jadeclaw Elrictags: [npc, character, combat, magic, social, lore]er]
 type: npc
@@ -116,7 +137,7 @@ Deception, History, Insight, Persuasion
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- Political alliances
+- [[Political Alliances]]
 - Upcoming social events
 
 ## Plot Hook
@@ -147,13 +168,17 @@ Wants rivals investigated
 - Special moves
 
 ## Combat Stats
-Base: **Priest** (MM p.348)
+Base: **Priest** (BC p.348)
 Modifications:
 - HP: 35
 - AC: 12
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC01283_Corvus_Hawthorne_the_Fallen]]
+- [[10 Combat]]
 - [[Related_Content]]
 
 
@@ -163,8 +188,8 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -181,7 +206,7 @@ Modifications:
 - Influences [[step_008 (phase_008)]]
 - Leads to [[Portrait NPC the Throne Pretenders the Throne Pretenders.svg_1 (Portraits)]]
 - Compare with [[poisoners-kit-xphb (items)]]
-- Connects to [[Location City Memory Sharing Techniques V1 Memory Sharing Techniques.svg]]
+- Connects to [[Location City [[Memory Sharing Techniques]] V1 Memory Sharing Techniques.svg]]
 - Compare with [[step_093 (phase_009)]]
 - See also: [[ENC00141_Environmental_Encounter_142]]
 - Requires [[LORE00123_History_Entry_124]]
@@ -190,14 +215,14 @@ Modifications:
 - Originates from [[Battle Map Descriptions (Maps)]]
 - Parallels [[Memory Reflection Mirrors]]
 - Connects to [[step_004 (phase_007)]]
-- Related: [[Location City Archaeological Discoveries Archaeological Discoveries.svg]]
+- Related: [[Location City [[Archaeological Discoveries]] Archaeological Discoveries.svg]]
 - Connects to [[Survival Codex]]
 - Affected by [[NPC00996_Ewan_Ashford_the_Mystic]]
 - Affected by [[step_048]]
 - Originates from [[the-norse-pantheon-norse-deities-phb (tables)]]
 - Leads to [[step_027 (phase_054)]]
 - See also: [[step_098]]
-- Connects to [[Sea Witch 2]]
+- Connects to [[[[Sea Witch]] 2]]
 - Requires [[Scholar Wisdom Clearwater (D&D_References)]]
 - Compare with [[Observatory Codex]]
 - Requires [[Item Artifact Enspelled Armor Level 7 Xdmg V1 Enspelled Armor Level 7 Xdmg.png]]
@@ -205,7 +230,7 @@ Modifications:
 - Related: [[The Weather Wardens Council]]
 - Leads to [[Pressure Sculpting]]
 - Influences [[Creating a Gnoll War Band Gnoll War Band]]
-- Originates from [[Aethermoor Council (D&D_References)]]
+- Originates from [[[[Aethermoor]] Council (D&D_References)]]
 - See also: [[Memory_Magic_Reference]]
 - Compare with [[NPC01130_Vesper_Oakenshield_the_Mystic]]
 - Affected by [[step_006 (phase_026)]]
@@ -221,7 +246,7 @@ Modifications:
 - See also: [[QUEST00119_Main_Quest_120]]
 - Affected by [[LORE00182_Legends_Entry_183]]
 - See also: [[Diplomatic Coordinator Lysandra Starweave]]
-- Requires [[Keeper Aquaeous Depth-Scholar 2]]
+- Requires [[[[Keeper Aquaeous Depth-Scholar]] 2]]
 - See also: [[NPC00379_Gareth_Proudmore_the_Risen]]
 - Connects to [[LORE00290_Prophecies_Entry_291]]
 - Connects to [[Education Director Selene Shadowscholar]]
@@ -233,18 +258,18 @@ Modifications:
 - Compare with [[step_064 (phase_099)]]
 - Parallels [[Royal Commerce Commission]]
 - Related: [[LORE00188_Legends_Entry_189]]
-- Compare with [[Assets Locations Location City Memorial Mason Kane Memorial Mason Kane.svg]]
+- Compare with [[Assets Locations Location City [[Memorial Mason Kane]] Memorial Mason Kane.svg]]
 - Affected by [[step_016 (phase_095)]]
 - Leads to [[gnome-deep-dmg (races)]]
 - Connects to [[step_074 (phase_059)]]
 - See also: [[SPELL00159_Nature_Spell_160]]
-- Parallels [[Interfaith Cooperation 2]]
-- Influences [[The Forge of War]]
+- Parallels [[[[Interfaith Cooperation]] 2]]
+- Influences [[The [[Forge of War]]]]
 - Originates from [[MON00000_Constructs_Creature_1]]
 - Compare with [[Quest the Root Network.png]]
 - Parallels [[step_005 (phase_035)]]
 - Leads to [[ENC00182_Combat_Encounter_183]]
-- Connects to [[Downtime Activity Carousing]]
+- Connects to [[Down[[Time]] Activity Carousing]]
 - Influences [[Location City Temple Scholar Depth Seer Temple Scholar Depth Seer.svg]]
 - Compare with [[step_078 (phase_004)]]
 - Parallels [[ITEM00421_Fortified_Chain_Mail_of_Protection]]
@@ -252,25 +277,36 @@ Modifications:
 - See also: [[The Prime Reflection]]
 - Leads to [[step_045]]
 - Influences [[Religious Leader Father Ocean Breeze 2]]
-- Requires [[House Mercurial (D&D_References)]]
+- Requires [[[[House Mercurial]] (D&D_References)]]
 - Originates from [[Intervention Windows 2]]
 - Parallels [[step_088]]
 - Related: [[NPC00759_Malakai_Ironforge_the_Redeemed]]
 - Influences [[step_027 (phase_095)]]
 - Compare with [[step_074 (phase_030)]]
-- Compare with [[Gem Trueeye 2]]
-- Influences [[Location City Storyteller Memorykeeper Storyteller Memorykeeper.svg]]
-- See also: [[Assets Locations Location City Builder Coral Architect V1 Builder Coral Architect.png]]
+- Compare with [[[[Gem Trueeye]] 2]]
+- Influences [[Location City [[Storyteller Memorykeeper]] Storyteller Memorykeeper.svg]]
+- See also: [[Assets Locations [[Location City [[Builder Coral Architect]] V1 Builder Coral Architect.png]]]]
 - Originates from [[Describe Appearance and Personality]]
 - Connects to [[stone-golem-xmm]]
-- Originates from [[Location City Skyship Technology V1 Skyship Technology.svg]]
+- Originates from [[Location City [[Skyship Technology]] V1 Skyship Technology.svg]]
 - Influences [[Template-Planet]]
-- Connects to [[Assets Locations Location City Reflection Pools Surgical Theater V1 Reflection Pools Surgical Theater.svg]]
+- Connects to [[Assets Locations [[Location City Reflection Pools Surgical Theater V1 Reflection Pools Surgical Theater.svg]]]]
 - Requires [[step_089]]
 - Parallels [[Vehicle Ship Abyssal Scout Submarine V2 Abyssal Scout Submarine.png]]
 - Compare with [[step_055]]
 - Influences [[Portrait NPC Sire... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
-- Connects to [[MUSIC_INDEX]]
+- Connects to [[MUSIC_[[INDEX]]]]
 - Leads to [[step_040 (phase_084)]]
 - Leads to [[NPC01735_Kaelen_Oakenshield_the_Broken]]
 - Related: [[LORE0075_History_of_the_Lost_City]]
+
+## Visual References
+![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

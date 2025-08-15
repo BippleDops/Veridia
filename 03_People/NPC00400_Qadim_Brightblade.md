@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.986795
+modified: 2025-08-15T16:41:43.986796
+aliases: [NPC00400 Qadim Brightblade]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Vesper Moonshadow the Fallen (Political - Spy)|Vesper Moonshadow the Fallen (Political - Spy)]]
+- [[#Alaric Lightbringer the Guardian (Family - Sibling)|Alaric Lightbringer the Guardian (Family - Sibling)]]
+- [[#Nerys Thornweave the Wanderer (Personal - Best friend)|Nerys Thornweave the Wanderer (Personal - Best friend)]]
+
+
+---
 aliases: ["Qadim Brightblade", "qadim brightblade", "Brightblade Qadim"]
 tags: [npc, character]
 type: npc
@@ -241,3 +266,8 @@ Discovered something valuable
 - Compare with [[list-spells-classes-circle-of-the-sea-xphb (lists)]]
 - Originates from [[step_020 (phase_066)]]
 - Requires [[Assets Locations Location City Luminous Laboratory District V1 Luminous Laboratory District.svg]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.746605
+modified: 2025-08-15T16:41:46.746607
+aliases: [Assets Locations Location City Terminal Director Admiral Current Swiftflow Terminal Director Admiral Current Swiftflow.svg]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_terminal_director_admiral_current_swiftflow_svg_dramatic.png]]
+
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+- [[#Superstitions Improvements|Superstitions Improvements]]
+- [[#Diaspora Improvements|Diaspora Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+
+
+---
 
 title: Assets Locations Location City Terminal Director Admiral Current Swiftflow
   Terminal Director Admiral Current Swiftflow.svg

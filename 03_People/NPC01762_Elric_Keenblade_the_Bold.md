@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Elric Keenblade the Bold
 
 *Genasi Crime Boss (Villains), Age 42, Female*

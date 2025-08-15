@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Ewan Keenblade
 
 *Aasimar Heir (Nobles), Age 50, Male*

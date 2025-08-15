@@ -321,3 +321,9 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[The Silent Watcher 2]]

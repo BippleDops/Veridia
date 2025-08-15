@@ -14,6 +14,10 @@ class: Unknown
 location: Unknown
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_symbols_symbol_heraldry_the_scream_archives_the_scream_archives_svg_standard.png]]
+
+
 ## Basic Information
 
 **Title**: Dr

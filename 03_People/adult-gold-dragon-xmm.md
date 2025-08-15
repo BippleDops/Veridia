@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_adult_gold_dragon_xmm_friendly.png]]
+
+
 # adult-gold-dragon-xmm
 
 ## Basic Information

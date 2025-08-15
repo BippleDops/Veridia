@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.134450
+modified: 2025-08-15T16:41:41.134454
+aliases: [NPC00739 Gavril Ashford the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Oakenshield the Cunning (Personal - Best friend)|Thalia Oakenshield the Cunning (Personal - Best friend)]]
+- [[#Baelor Underhill the Wise (Professional - Partner)|Baelor Underhill the Wise (Professional - Partner)]]
+- [[#Idris Xendar the Wise (Political - Opposition)|Idris Xendar the Wise (Political - Opposition)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Gavril Ashford the Bold", "gavril ashford the bold", "Gavril Ashford Bold", "Bold the Ashford Gavriltags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
@@ -134,13 +155,43 @@ Family member has gone missing
 - Special moves
 
 ## Combat Stats
-Base: **Bandit** (MM p.343)
+Base: **Bandit** (BC p.343)
 Modifications:
 - HP: 13
 - AC: 12
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[Depth_Adapted_Background]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[Faction_Guide.md]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[Combat_Encounter_Analysis]]
+- [[13 Conditions]]
+- [[07 Customization Options]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[11 Rules Glossary]]
+- [[Count_Strahd_von_Zarovich]]
 - [[Related_Content]]
 
 
@@ -150,9 +201,9 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -164,7 +215,7 @@ Modifications:
 
 - Connects to [[step_096 (phase_018)]]
 - Influences [[Giant Shark Xmm]]
-- Leads to [[Portal Network (D&D_References)]]
+- Leads to [[[[Portal Network]] (D&D_References)]]
 - See also: [[NPC01551_Hilda_Emberfall_the_Swift]]
 - Influences [[step_007 (phase_095)]]
 - Affected by [[Staff of Withering Xdmg]]
@@ -177,12 +228,12 @@ Modifications:
 - Compare with [[book-of-exalted-deeds-xdmg (items)]]
 - Related: [[bonus-action-xphb (variant-rules)]]
 - See also: [[step_052 (phase_074)]]
-- Requires [[Artificer Magnus Weightless]]
-- Requires [[Ancient Treasury of Tides 2]]
-- Originates from [[Symbol Heraldry Merchant S Covenant V1 Merchant S Covenant.svg]]
+- Requires [[[[Artificer]] Magnus Weightless]]
+- Requires [[[[Ancient Treasury of Tides]] 2]]
+- Originates from [[Symbol Heraldry [[Merchant]] S Covenant V1 Merchant S Covenant.svg]]
 - Compare with [[Artifact_of_the_Ancients]]
-- Connects to [[Keeper Thundercall 2]]
-- See also: [[Ancient Historian Memento (D&D_References)]]
+- Connects to [[[[Keeper Thundercall]] 2]]
+- See also: [[[[Ancient Historian Memento]] (D&D_References)]]
 - Connects to [[step_097]]
 - Influences [[Communications Manager Jessica Spokesperson]]
 - Leads to [[step_052 (phase_027)]]
@@ -192,7 +243,7 @@ Modifications:
 - Affected by [[step_078]]
 - Compare with [[MON00132_Constructs_Creature_133]]
 - Related: [[Portrait NPC Ancient King Pelagios Ancient King Pelagios.svg_1 (Portraits)]]
-- Compare with [[Location City Master Gardener Sage Harmony Bloomtender V1 Master Gardener Sage Harmony Bloomtender.svg]]
+- Compare with [[Location City [[Master Gardener Sage Harmony Bloomtender]] V1 Master Gardener Sage Harmony Bloomtender.svg]]
 - Leads to [[Portrait NPC the Seven Seals V2 the Seven Seals.svg]]
 - See also: [[Quest - The Lost Verse]]
 - Affected by [[02_Worldbuilding_Equipment_Neural_Activity_Mappers]]
@@ -206,26 +257,26 @@ Modifications:
 - Related: [[ITEM00527_Warded_Plate_of_Resistance]]
 - Originates from [[LOC00136_Cities_Location_137]]
 - Affected by [[Portrait NPC Unite the Emperor V1 Unite the Emperor.svg]]
-- Affected by [[Time''s Mercy]]
+- Affected by [[[[Time]]''s Mercy]]
 - Compare with [[Master of Whispers Shade-Tongue Aldric]]
 - Influences [[Enspelled Armor Level 7 Xdmg]]
 - Connects to [[Sailing Ship Xphb]]
 - Compare with [[Crystal_Bloom]]
 - Compare with [[step_066 (phase_062)]]
 - Requires [[Rogue Xphb Scout Xge]]
-- See also: [[Aethermoor - Session 04 The Silverscale Gambit]]
+- See also: [[[[Aethermoor]] - Session 04 The Silverscale Gambit]]
 - Requires [[step_089 (phase_061)]]
 - Affected by [[step_081 (phase_036)]]
 - Related: [[Portrait NPC Quest Into the Wastes V2 Quest Into the Wastes.svg]]
 - See also: [[step_018 (phase_039)]]
-- Related: [[Location City Gallery of Echoing Truths V1 Gallery of Echoing Truths.svg]]
+- Related: [[Location City [[Gallery of Echoing Truths]] V1 Gallery of Echoing Truths.svg]]
 - Connects to [[Assets Portraits Portrait NPC Captain Shadowsail Captain Shadowsail.svg]]
 - Parallels [[Symbol Heraldry Vex Shadowthorn Boss Fight V1 Vex Shadowthorn Boss Fight.png]]
 - Related: [[step_006 (phase_086)]]
 - Leads to [[step_089 (phase_075)]]
 - Related: [[step_005 (phase_085)]]
 - Related: [[step_006 (phase_024)]]
-- Requires [[Location City the Memory Meadows Black Market V1 the Memory Meadows Black Market.svg]]
+- Requires [[Location City [[[[The Memory Meadows]] Black Market]] V1 the [[Memory Meadows Black Market]].svg]]
 - Compare with [[step_092 (phase_018)]]
 - See also: [[step_078 (phase_047)]]
 - Requires [[Cross-Realm Commerce Laws]]
@@ -242,7 +293,7 @@ Modifications:
 - Leads to [[step_028 (phase_026)]]
 - Connects to [[eberron-aureon (deities)]]
 - Affected by [[SPELL00057_Arcane_Spell_58]]
-- Influences [[Location City High Hierophant Meridius High Hierophant Meridius.svg]]
+- Influences [[Location City [[High Hierophant Meridius]] High Hierophant Meridius.svg]]
 - Connects to [[NPC00288_Branwen_Ashford_the_Seeker]]
 - Leads to [[step_007 (phase_031)]]
 - Originates from [[step_090 (phase_008)]]
@@ -255,10 +306,21 @@ Modifications:
 - Compare with [[ENC00293_Social_Encounter_294]]
 - Affected by [[Bronze Dragon Wyrmling Xmm]]
 - Influences [[ENC00179_Environmental_Encounter_180]]
-- See also: [[Location City Theological Seminaries Theological Seminaries.svg]]
+- See also: [[Location City [[Theological Seminaries]] Theological Seminaries.svg]]
 - Influences [[Animated Halberd Cos]]
 - Related: [[step_058 (phase_007)]]
 - Influences [[step_064 (phase_092)]]
 - See also: [[cuddly-strixhaven-mascot-scc (items)]]
 - Requires [[ITEM00591_Enchanted_Gauntlets_of_Grace]]
 - Influences [[QUEST00201_Personal_Quest_202]]
+
+## Visual References
+![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

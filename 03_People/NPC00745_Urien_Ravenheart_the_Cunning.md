@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Urien Ravenheart the Cunning
 
 *Aasimar Fisher (Commoners), Age 67, Non-binary*

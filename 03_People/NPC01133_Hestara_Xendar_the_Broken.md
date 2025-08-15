@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hestara Xendar the Broken
 
 *Dwarf Trader (Merchants), Age 55, Female*

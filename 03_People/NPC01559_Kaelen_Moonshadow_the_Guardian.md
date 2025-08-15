@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.457759
+modified: 2025-08-15T16:41:43.457761
+aliases: [NPC01559 Kaelen Moonshadow the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Crystalbrook the Strong (Family - Sibling)|Thalia Crystalbrook the Strong (Family - Sibling)]]
+- [[#Branwen Darkwater the Broken (Personal - Nemesis)|Branwen Darkwater the Broken (Personal - Nemesis)]]
+- [[#Orion Grimholt the Strong (Family - Child)|Orion Grimholt the Strong (Family - Child)]]
+
+
+---
 aliases: ["Kaelen Moonshadow the Guardian", "kaelen moonshadow the guardian", "Kaelen Moonshadow Guardian", "Guardian the Moonshadow Kaelen"]
 tags: [npc, character]
 type: npc
@@ -243,3 +264,14 @@ Forming expedition to dangerous location
 - Parallels [[step_088 (phase_096)]]
 - Connects to [[Deep Sea Explorer Captain Abyss (D&D_References)]]
 - Originates from [[The Forgotten Isles]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
+![[03_People/portrait_the_crimson_shard_guardian.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

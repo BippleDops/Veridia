@@ -328,3 +328,8 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]

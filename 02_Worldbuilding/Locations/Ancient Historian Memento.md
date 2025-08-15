@@ -266,3 +266,10 @@ Ongoing situations affecting Ancient Historian Memento:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]

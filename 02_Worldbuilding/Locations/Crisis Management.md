@@ -273,3 +273,9 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC00162_Xander_Thornweave]]

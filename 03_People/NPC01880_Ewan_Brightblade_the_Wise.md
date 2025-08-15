@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ewan Brightblade the Wise
 
 *Halfling Corrupt Noble (Villains), Age 49, Non-binary*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Kaelen Darkwater the Bold
 
 *Dwarf Dark Wizard (Villains), Age 25, Non-binary*

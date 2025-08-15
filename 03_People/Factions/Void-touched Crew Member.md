@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_symbols_symbol_heraldry_void_touched_crew_member_v1_void_touched_crew_member_svg_standard.png]]
+
+
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-void-touched-crew-member-v1-void-touched-crew-member.svg)
 

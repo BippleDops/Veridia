@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.932769
+modified: 2025-08-15T16:41:42.932772
+aliases: [NPC00946 Fiora Proudmore the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gareth Zephyrblade the Bold (Criminal - Informant)|Gareth Zephyrblade the Bold (Criminal - Informant)]]
+- [[#Gavril Frostwhisper the Risen (Professional - Partner)|Gavril Frostwhisper the Risen (Professional - Partner)]]
+- [[#Hestara Silverleaf the Swift (Professional - Employee)|Hestara Silverleaf the Swift (Professional - Employee)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Fiora Proudmore the Fallen", "fiora proudmore the fallen", "Fiora Proudmore Fallen", "Fallen the Proudmore Fiora"]
 tags: [npc, character]
@@ -146,11 +171,11 @@ Seeks rare merchandise
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -260,3 +285,8 @@ Seeks rare merchandise
 - See also: [[ITEM00660_Mithril_Leather_of_Protection]]
 - Related: [[Mislead Xphb]]
 - See also: [[step_024 (phase_090)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

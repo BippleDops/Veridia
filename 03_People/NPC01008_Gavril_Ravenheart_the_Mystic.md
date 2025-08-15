@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gavril Ravenheart the Mystic
 
 *Dragonborn Caravan Master (Merchants), Age 65, Non-binary*

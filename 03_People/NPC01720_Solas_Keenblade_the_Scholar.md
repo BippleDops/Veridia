@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Keenblade the Scholar
 
 *Elf Dark Wizard (Villains), Age 70, Female*

@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Whisper Touched 
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01151_Orion_Stormwind_the_Seeker]]

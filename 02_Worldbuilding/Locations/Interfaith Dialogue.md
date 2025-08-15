@@ -260,3 +260,7 @@ Ongoing situations affecting Interfaith Dialogue:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00162_Xander_Thornweave]]

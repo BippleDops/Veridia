@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.254225
+modified: 2025-08-15T16:41:42.254228
+aliases: [NPC00662 Jorah Darkwater the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Rhiannon Lightbringer the Fallen (Criminal - Accomplice)|Rhiannon Lightbringer the Fallen (Criminal - Accomplice)]]
+- [[#Urien Lightbringer the Guardian (Professional - Employer)|Urien Lightbringer the Guardian (Professional - Employer)]]
+- [[#Ysara Keenblade the Strong (Personal - Love interest)|Ysara Keenblade the Strong (Personal - Love interest)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Jorah Darkwater the Scholar", "jorah darkwater the scholar", "Jorah Darkwater Scholar", "Scholar the Darkwater Jorah"]
 tags: [npc, character]
@@ -157,10 +178,10 @@ Being extorted by criminals
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -270,3 +291,14 @@ Being extorted by criminals
 - Parallels [[Swarm of Ravens Xmm]]
 - Affected by [[QUEST00154_Main_Quest_155]]
 - Compare with [[Assets Locations Location City Paradox Engineer Zeno Paradox Engineer Zeno.svg]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

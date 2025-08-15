@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.186078
+modified: 2025-08-15T16:41:48.186079
+aliases: [Assets Locations Location City Dr Reef Brightwater Dr Reef Brightwater.svg]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Superstitions Improvements|Superstitions Improvements]]
+- [[#Diaspora Improvements|Diaspora Improvements]]
+- [[#Sensory Improvements|Sensory Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+
+
+---
 
 title: Assets Locations Location City Dr Reef Brightwater Dr Reef Brightwater.svg
 aliases:

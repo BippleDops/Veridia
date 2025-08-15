@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Hilda Nightfall the Bold
 
 *Dragonborn Corrupt Noble (Villains), Age 22, Male*

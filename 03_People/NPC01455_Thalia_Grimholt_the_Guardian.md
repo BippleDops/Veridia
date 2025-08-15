@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.541075
+modified: 2025-08-15T16:41:42.541079
+aliases: [NPC01455 Thalia Grimholt the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Baelor Thornweave the Broken (Criminal - Accomplice)|Baelor Thornweave the Broken (Criminal - Accomplice)]]
+- [[#Nerys Grimholt the Scholar (Professional - Mentor)|Nerys Grimholt the Scholar (Professional - Mentor)]]
+- [[#Malakai Xendar the Risen (Personal - Childhood friend)|Malakai Xendar the Risen (Personal - Childhood friend)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Thalia Grimholt the Guardian", "thalia grimholt the guardian", "Thalia Grimholt Guardian", "Guardian the Grimholt Thalia"]
 tags: [npc, character]
@@ -158,9 +179,9 @@ Has information about legendary item
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -270,3 +291,14 @@ Has information about legendary item
 - Related: [[NPC01753_Gavril_Frostwhisper_the_Mystic]]
 - Requires [[ENC00108_Social_Encounter_109]]
 - Compare with [[Assets Item Artifact Poisoners Kit Xphb V4 Poisoners Kit Xphb.png]]
+
+## Visual References
+![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

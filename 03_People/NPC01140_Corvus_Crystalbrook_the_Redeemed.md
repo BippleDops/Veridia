@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Corvus Crystalbrook the Redeemed
 
 *Dwarf Trader (Merchants), Age 65, Male*

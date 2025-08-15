@@ -19,6 +19,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_locations_location_city_the_harbormaster_s_office_the_harbormaster_s_office_svg_friendly.png]]
+
+
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*

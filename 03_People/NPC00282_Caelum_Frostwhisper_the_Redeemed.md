@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Caelum Frostwhisper the Redeemed
 
 *Aasimar Heir (Nobles), Age 58, Female*

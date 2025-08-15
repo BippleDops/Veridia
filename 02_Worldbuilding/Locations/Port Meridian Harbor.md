@@ -286,3 +286,9 @@ Port Meridian Harbor is a notable location characterized by its unique features 
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]

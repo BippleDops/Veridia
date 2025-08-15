@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.411163
+modified: 2025-08-15T16:41:46.411167
+aliases: [NPC00735 Aldric Xendar the Cunning]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Caelum Keenblade the Wanderer (Personal - Love interest)|Caelum Keenblade the Wanderer (Personal - Love interest)]]
+- [[#Thalia Emberfall the Bold (Criminal - Handler)|Thalia Emberfall the Bold (Criminal - Handler)]]
+- [[#Hilda Quicksilver the Redeemed (Professional - Partner)|Hilda Quicksilver the Redeemed (Professional - Partner)]]
+
+
+---
 aliases: ["Aldric Xendar the Cunning", "aldric xendar the cunning", "Aldric Xendar Cunning", "Cunning the Xendar Aldric"]
 tags: [npc, character]
 type: npc
@@ -251,3 +272,14 @@ Family member has gone missing
 - Compare with [[Shadow Cultis]]
 - Requires [[Symbol Heraldry Aquabyssos Faction Web V1 Aquabyssos Faction Web.svg_1 (Symbols)]]
 - Connects to [[Assets Locations Location City Port Authority Port Authority.svg]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
+![[03_People/portrait_duke_aldric_blackwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

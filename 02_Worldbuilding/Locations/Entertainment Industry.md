@@ -218,3 +218,8 @@ Ongoing situations affecting Entertainment Industry:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00453_Idris_Grimholt]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]

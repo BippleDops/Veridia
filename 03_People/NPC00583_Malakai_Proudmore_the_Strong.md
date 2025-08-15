@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Malakai Proudmore the Strong
 
 *Elf Carpenter (Commoners), Age 29, Male*

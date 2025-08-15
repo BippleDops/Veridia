@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Madame Rosalind 
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]

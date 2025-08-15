@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.905098
+modified: 2025-08-15T16:41:41.905102
+aliases: [NPC00285 Xander Goldleaf the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Branwen Ironwood (Professional - Partner)|Branwen Ironwood (Professional - Partner)]]
+- [[#Rhiannon Moonshadow the Seeker (Political - Puppet)|Rhiannon Moonshadow the Seeker (Political - Puppet)]]
+- [[#Felicia Xendar the Lost (Personal - Best friend)|Felicia Xendar the Lost (Personal - Best friend)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Xander Goldleaf the Mystic", "xander goldleaf the mystic", "Xander Goldleaf Mystic", "Mystic the Goldleaf Xander"]
 tags: [npc, character]
@@ -134,6 +155,18 @@ Needs discrete help with family scandal
 - Special moves
 
 ## See Also
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[Player_Feedback_Form.md]]
+- [[11 Spellcasting]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[11 Rules Glossary]]
+- [[NPC00372_Alaric_Grimholt]]
 - [[Related_Content]]
 
 
@@ -143,9 +176,9 @@ Needs discrete help with family scandal
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -255,3 +288,14 @@ Needs discrete help with family scandal
 - Compare with [[ITEM00359_Venomous_Sword_of_Wounding]]
 - Connects to [[Ghostly Gaze Xge]]
 - Parallels [[The Deep Mother]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.223821
+modified: 2025-08-15T16:41:44.223822
+aliases: [NPC00996 Ewan Ashford the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Quicksilver the Lost (Personal - Best friend)|Thalia Quicksilver the Lost (Personal - Best friend)]]
+- [[#Aeliana Blackstone the Wanderer (Professional - Partner)|Aeliana Blackstone the Wanderer (Professional - Partner)]]
+- [[#Elric Emberfall the Bold (Criminal - Accomplice)|Elric Emberfall the Bold (Criminal - Accomplice)]]
+
+
+---
 aliases: ["Ewan Ashford the Mystic", "ewan ashford the mystic", "Ewan Ashford Mystic", "Mystic the Ashford Ewan"]
 tags: [npc, character]
 type: npc
@@ -249,3 +270,14 @@ Competitor sabotaging business
 - Influences [[ENC00083_Social_Encounter_84]]
 - Compare with [[X-105_Crown_Council_Summit_Convoy]]
 - Requires [[Firenewt Warrior Mpmm]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

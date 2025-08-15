@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Caelum Blackstone the Scholar
 
 *Dragonborn Baker (Commoners), Age 77, Non-binary*

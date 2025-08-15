@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Drusilla Moonshadow the Guardian
 
 *Firbolg Ambassador (Nobles), Age 38, Male*

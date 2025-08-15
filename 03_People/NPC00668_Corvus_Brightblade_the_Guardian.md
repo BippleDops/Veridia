@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.742669
+modified: 2025-08-15T16:41:46.742672
+aliases: [NPC00668 Corvus Brightblade the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Drusilla Voidwalker the Scholar (Professional - Partner)|Drusilla Voidwalker the Scholar (Professional - Partner)]]
+- [[#Felicia Hawthorne the Seeker (Family - Spouse)|Felicia Hawthorne the Seeker (Family - Spouse)]]
+- [[#Xander Ashford the Cunning (Professional - Partner)|Xander Ashford the Cunning (Professional - Partner)]]
+
+
+---
 aliases: ["Corvus Brightblade the Guardian", "corvus brightblade the guardian", "Corvus Brightblade Guardian", "Guardian the Brightblade Corvus"]
 tags: [npc, character]
 type: npc
@@ -249,3 +270,14 @@ Being extorted by criminals
 - Affected by [[dragonlance-sargonnas-phb (deities)]]
 - Affected by [[Memory Magic (D&D_References)]]
 - Requires [[human-names-roman-male-xge (tables)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
+![[03_People/portrait_the_crimson_shard_guardian.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

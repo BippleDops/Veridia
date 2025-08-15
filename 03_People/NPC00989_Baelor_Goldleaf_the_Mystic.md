@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.304632
+modified: 2025-08-15T16:41:42.304636
+aliases: [NPC00989 Baelor Goldleaf the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Cedric Ironwood the Lost (Criminal - Fence)|Cedric Ironwood the Lost (Criminal - Fence)]]
+- [[#Erasmus Thornweave the Wise (Political - Puppet)|Erasmus Thornweave the Wise (Political - Puppet)]]
+- [[#Elric Nightfall the Cunning (Political - Ally)|Elric Nightfall the Cunning (Political - Ally)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Baelor Goldleaf the Mystic", "baelor goldleaf the mystic", "Baelor Goldleaf Mystic", "Mystic the Goldleaf Baelor"]
 tags: [npc, character]
@@ -149,11 +170,11 @@ Seeks rare merchandise
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -263,3 +284,14 @@ Seeks rare merchandise
 - Requires [[step_059 (phase_073)]]
 - Connects to [[MON00005_Aberrations_Creature_6]]
 - Leads to [[ENC00491_Combat_Encounter_492]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_dramatic.png]]
+![[03_People/portrait_lady_seraphina_goldleaf_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.439149
+modified: 2025-08-15T16:41:41.439152
+aliases: [NPC01555 Branwen Xendar the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Pyria Silverleaf the Fallen (Professional - Employee)|Pyria Silverleaf the Fallen (Professional - Employee)]]
+- [[#Nerys Youngblood the Wise (Family - Child)|Nerys Youngblood the Wise (Family - Child)]]
+- [[#Pyria Blackstone the Scholar (Professional - Employer)|Pyria Blackstone the Scholar (Professional - Employer)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Branwen Xendar the Seeker", "branwen xendar the seeker", "Branwen Xendar Seeker", "Seeker the Xendar Branwentags: [npc, character, combat, magic, exploration, puzzle, lore]er]
 type: npc
@@ -104,7 +125,7 @@ Athletics, Stealth, Survival, Animal Handling
 - "Buy me a drink and we'll talk."
 
 ### Catchphrases
-- "Time will tell."
+- "[[Time]] will tell."
 - "Time will tell."
 
 ### Knowledge
@@ -141,6 +162,14 @@ Has information about legendary item
 - Special moves
 
 ## See Also
+- [[NPC00300_Urien_Zephyrblade]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[04 Classes]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
 - [[Related_Content]]
 
 
@@ -150,8 +179,8 @@ Has information about legendary item
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -167,7 +196,7 @@ Has information about legendary item
 - Influences [[ENC00051_Social_Encounter_52]]
 - Originates from [[step_093]]
 - Connects to [[step_022 (phase_030)]]
-- Influences [[Professor Marina Reefbuilder (D&D_References)]]
+- Influences [[[[Professor Marina Reefbuilder]] (D&D_References)]]
 - Related: [[tinderstrike-pota (items)]]
 - Influences [[LOC00180_Planes_Location_181]]
 - Connects to [[twists]]
@@ -199,21 +228,21 @@ Has information about legendary item
 - Requires [[Lord Commander Thane Skyward (D&D_References)]]
 - Requires [[star-spawn-seer-mpmm (aberration)]]
 - Leads to [[World_Building_Input]]
-- Parallels [[Location City Senior Nurse Polyp Tendercurrent V1 Senior Nurse Polyp Tendercurrent.svg]]
+- Parallels [[Location City [[Senior Nurse Polyp Tendercurrent]] V1 Senior Nurse Polyp Tendercurrent.svg]]
 - Requires [[step_049]]
 - Originates from [[INV 003]]
 - Leads to [[Vex Shadowthorn (D&D_References)]]
 - Originates from [[Biomancer Corvus Intestinal 2]]
-- Leads to [[Weapons Trader Gareth Steelmerchant]]
+- Leads to [[Weapons Trader Gareth Steel[[Merchant]]]]
 - Originates from [[step_048 (phase_085)]]
 - Leads to [[step_081 (phase_013)]]
-- Related: [[Location City the Crystal Palace Throne Room V1 the Crystal Palace Throne Room.svg]]
+- Related: [[Location City the [[Crystal Palace]] Throne Room V1 the Crystal Palace Throne Room.svg]]
 - Connects to [[step_087]]
 - Compare with [[Archshadow Mind Voidwright]]
-- Related: [[Harbor Master's Tower 2]]
+- Related: [[[[Harbor Master's Tower]] 2]]
 - Parallels [[NPC00360_Drusilla_Hawthorne]]
 - Originates from [[Template_StarSystem_Placeholder.png (09_Templates)]]
-- Requires [[Maelstrom Palace 2]]
+- Requires [[[[Maelstrom Palace]] 2]]
 - Leads to [[ENC00022_Combat_Encounter_23]]
 - Related: [[Fiendish Spirit Xphb]]
 - Requires [[Scene Scene Storm Approaching the Airship V1 Storm Approaching the Airship.png]]
@@ -227,7 +256,7 @@ Has information about legendary item
 - Requires [[step_060]]
 - Originates from [[Throne of Bubbles (D&D_Statblocks)]]
 - Compare with [[NPC01497_Malakai_Crystalbrook_the_Lost]]
-- Influences [[Reef Truescale (D&D_References)]]
+- Influences [[[[Reef Truescale]] (D&D_References)]]
 - Requires [[step_055 (phase_092)]]
 - Leads to [[step_090 (phase_023)]]
 - Leads to [[Resonance Cascade Attack 2]]
@@ -239,18 +268,18 @@ Has information about legendary item
 - See also: [[step_016 (phase_020)]]
 - Leads to [[Brass Dragon Wyrmling Xmm]]
 - Leads to [[step_015 (phase_010)]]
-- See also: [[Smuggler's Cove (D&D_References)]]
+- See also: [[[[Smuggler's Cove]] (D&D_References)]]
 - See also: [[step_037]]
 - Parallels [[step_065 (phase_064)]]
 - Influences [[ITEM00197_Thunder_Axe_of_Speed]]
 - Originates from [[Current Democratic Party]]
-- Related: [[Aquabyssos Depth Caste System]]
+- Related: [[[[Aquabyssos]] Depth Caste System]]
 - Affected by [[04_Resources_Assets_Portraits_portrait-npc-captain-lyanna-brightshield-captain-lyanna-brightshield.svg_Quick_Ref]]
 - See also: [[Portrait NPC Quest the Royal Treatment V2 Quest the Royal Treatment.svg]]
 - Related: [[NPC01634_Erasmus_Frostwhisper_the_Seeker]]
 - Connects to [[Portrait NPC Duchess Marina Ever Drowning Duchess Marina Ever Drowning.svg_1 (Portraits)]]
 - Leads to [[step_083]]
-- Affected by [[Poet Laureate Tidal Wordsmith 2]]
+- Affected by [[[[Poet Laureate Tidal Wordsmith]] 2]]
 - Originates from [[Evidence Types Guide (D&D_References)]]
 - Influences [[The Ethical Committee]]
 - Parallels [[step_071 (phase_050)]]
@@ -261,3 +290,14 @@ Has information about legendary item
 - Leads to [[The Divine Seekers]]
 - Requires [[step_028 (phase_093)]]
 - Affected by [[sailor-pirate-variant (backgrounds)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Lyanna Emberfall the Seeker
 
 *Half-Elf Crime Boss (Villains), Age 31, Female*

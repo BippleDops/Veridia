@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Drusilla Ashford the Risen
 
 *Tiefling Crime Boss (Villains), Age 26, Female*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Felicia Voidwalker the Strong
 
 *Half-Elf Caravan Master (Merchants), Age 29, Male*

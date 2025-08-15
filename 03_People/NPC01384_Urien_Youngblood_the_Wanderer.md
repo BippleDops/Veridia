@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Urien Youngblood the Wanderer
 
 *Elf Bard (Adventurers), Age 45, Non-binary*

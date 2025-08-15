@@ -250,3 +250,7 @@ Ongoing situations affecting The Shadow Markets:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00393_Kaelen_Grimholt]]

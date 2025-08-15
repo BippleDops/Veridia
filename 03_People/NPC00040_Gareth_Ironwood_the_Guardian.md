@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.685977
+modified: 2025-08-15T16:41:43.685980
+aliases: [NPC00040 Gareth Ironwood the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hilda Brightblade (Professional - Partner)|Hilda Brightblade (Professional - Partner)]]
+- [[#Hestara Underhill (Political - Patron)|Hestara Underhill (Political - Patron)]]
+- [[#Zephyr Stormwind the Seeker (Political - Opposition)|Zephyr Stormwind the Seeker (Political - Opposition)]]
+
+
+---
 aliases: ["Gareth Ironwood the Guardian", "gareth ironwood the guardian", "Gareth Ironwood Guardian", "Guardian the Ironwood Gareth"]
 tags: [npc, character]
 type: npc
@@ -241,3 +262,14 @@ Requires champions for trial by combat
 - Leads to [[Creatures_Gallery]]
 - Originates from [[Cargo Master Holdspace]]
 - Parallels [[step_094]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
+![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

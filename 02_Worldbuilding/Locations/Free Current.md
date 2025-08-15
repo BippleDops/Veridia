@@ -172,3 +172,11 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]

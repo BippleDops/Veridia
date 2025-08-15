@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.346073
+modified: 2025-08-15T16:41:46.346076
+aliases: [NPC00226 Gavril Emberfall]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Zephyr Brightblade the Lost (Criminal - Handler)|Zephyr Brightblade the Lost (Criminal - Handler)]]
+- [[#Kaelen Ironwood (Professional - Mentor)|Kaelen Ironwood (Professional - Mentor)]]
+- [[#Aldric Xendar (Personal - Love interest)|Aldric Xendar (Personal - Love interest)]]
+
+
+---
 aliases: ["Gavril Emberfall", "gavril emberfall", "Emberfall Gavril"]
 tags: [npc, character]
 type: npc
@@ -252,3 +277,8 @@ Needs discrete help with family scandal
 - Parallels [[ENC00083_Social_Encounter_84]]
 - Related: [[Goldwave Manor 2]]
 - Originates from [[NPC00906_Aeliana_Ashford_the_Fallen]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

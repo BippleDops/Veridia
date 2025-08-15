@@ -253,3 +253,12 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
+- [[NPC00287_Ysara_Underhill_the_Wise]]
+- [[NPC00393_Kaelen_Grimholt]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]

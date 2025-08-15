@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.318758
+modified: 2025-08-15T16:41:42.318764
+aliases: [NPC00564 Hestara Oakenshield]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Malakai Hawthorne the Lost (Professional - Employer)|Malakai Hawthorne the Lost (Professional - Employer)]]
+- [[#Alaric Crystalbrook the Risen (Professional - Rival)|Alaric Crystalbrook the Risen (Professional - Rival)]]
+- [[#Corvus Goldleaf the Wise (Family - Child)|Corvus Goldleaf the Wise (Family - Child)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Hestara Oakenshield", "hestara oakenshield", "Oakenshield Hestara"]
 tags: [npc, character]
@@ -155,10 +180,10 @@ Family member has gone missing
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -268,3 +293,8 @@ Family member has gone missing
 - Affected by [[LORE00050_Prophecies_Entry_51]]
 - Influences [[step_070 (phase_087)]]
 - Connects to [[NPC00302_Rhiannon_Lightbringer_the_Broken]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

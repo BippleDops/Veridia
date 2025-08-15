@@ -284,3 +284,7 @@ Ongoing situations affecting Navigator Abyssal Truthseeker:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]

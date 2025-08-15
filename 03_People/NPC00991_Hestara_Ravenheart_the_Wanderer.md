@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hestara Ravenheart the Wanderer
 
 *Genasi Caravan Master (Merchants), Age 33, Male*

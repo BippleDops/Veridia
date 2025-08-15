@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Lyanna Goldleaf the Seeker
 
 *Genasi Caravan Master (Merchants), Age 21, Female*

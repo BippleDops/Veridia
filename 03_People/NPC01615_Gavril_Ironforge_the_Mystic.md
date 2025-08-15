@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.948913
+modified: 2025-08-15T16:41:45.948916
+aliases: [NPC01615 Gavril Ironforge the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Urien Voidwalker the Seeker (Professional - Employee)|Urien Voidwalker the Seeker (Professional - Employee)]]
+- [[#Rhiannon Zephyrblade the Swift (Political - Ally)|Rhiannon Zephyrblade the Swift (Political - Ally)]]
+- [[#Wynne Crystalbrook the Seeker (Family - Cousin)|Wynne Crystalbrook the Seeker (Family - Cousin)]]
+
+
+---
 aliases: ["Gavril Ironforge the Mystic", "gavril ironforge the mystic", "Gavril Ironforge Mystic", "Mystic the Ironforge Gavril"]
 tags: [npc, character]
 type: npc
@@ -240,3 +261,14 @@ Is secretly testing the party
 - Connects to [[The Forgotten Isles]]
 - Requires [[The Threshold Chambers]]
 - Connects to [[Animated Drow Statue Oota]]
+
+## Visual References
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

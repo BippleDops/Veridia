@@ -382,3 +382,7 @@ Ongoing situations affecting Temple Guardian Marcus the Drowned:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]

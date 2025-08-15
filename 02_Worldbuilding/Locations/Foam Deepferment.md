@@ -214,3 +214,7 @@ Ongoing situations affecting Foam Deepferment:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]

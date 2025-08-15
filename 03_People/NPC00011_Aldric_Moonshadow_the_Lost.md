@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aldric Moonshadow the Lost
 
 *Firbolg Heir (Nobles), Age 58, Male*

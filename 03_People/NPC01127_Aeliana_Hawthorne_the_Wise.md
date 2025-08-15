@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.295366
+modified: 2025-08-15T16:41:46.295369
+aliases: [NPC01127 Aeliana Hawthorne the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Frostwhisper the Lost (Professional - Rival)|Ysara Frostwhisper the Lost (Professional - Rival)]]
+- [[#Gavril Youngblood the Strong (Professional - Mentor)|Gavril Youngblood the Strong (Professional - Mentor)]]
+- [[#Idris Goldleaf the Wanderer (Political - Opposition)|Idris Goldleaf the Wanderer (Political - Opposition)]]
+
+
+---
 aliases: ["Aeliana Hawthorne the Wise", "aeliana hawthorne the wise", "Aeliana Hawthorne Wise", "Wise the Hawthorne Aeliana"]
 tags: [npc, character]
 type: npc
@@ -243,3 +264,14 @@ Caravan needs guards
 - Requires [[Fragment Compass (D&D_References)]]
 - Connects to [[step_033 (phase_086)]]
 - Connects to [[Hill Encounters Levels 1116 Xge]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

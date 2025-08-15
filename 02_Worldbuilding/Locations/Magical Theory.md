@@ -251,3 +251,7 @@ Ongoing situations affecting Magical Theory:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00162_Xander_Thornweave]]

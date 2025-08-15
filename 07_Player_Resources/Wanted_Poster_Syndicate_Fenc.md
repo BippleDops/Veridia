@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:33.990989
+modified: 2025-08-15T16:41:33.990991
+aliases: [Wanted Poster Syndicate Fenc]
+---
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Key Information|Key Information]]
+- [[#Details|Details]]
+- [[#Background|Background]]
+- [[#Current State|Current State]]
+- [[#Future Potential|Future Potential]]
+- [[#Relationships|Relationships]]
+- [[#Usage Notes|Usage Notes]]
+- [[#Plot Hooks|Plot Hooks]]
+
+
+---
 created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
@@ -20,7 +41,8 @@ This document contains important information regarding Wanted_Poster_Syndicate_F
 Wanted_Poster_Syndicate_Fenc represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
 ## Key Information
-- **Primary Purpose**: Serves specific function within the world
+- **Primary Purpose**: Serv
+*Sounds of [relevant sounds] echo in the distance.*es specific function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context
 
@@ -55,6 +77,35 @@ This content can be adapted and expanded based on specific campaign needs.
 > The villain has agents watching this place
 
 ## See Also
+- [[NPC00372_Alaric_Grimholt]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[What You Know - Abyssos Prime.md]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[Ship_Schematic_The_Seahawk.md]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[NPC00080_Branwen_Proudmore]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[Master_Narrative_Web.md]]
 - [[Related_Content]]
 
 
@@ -67,14 +118,14 @@ This content can be adapted and expanded based on specific campaign needs.
 - [[ULTIMATE_ASSET_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -178,3 +229,8 @@ This content can be adapted and expanded based on specific campaign needs.
 - Influences [[Illumination Crystals]]
 - Requires [[Crystal Resonance]]
 - See also: [[Crystal Command Cores (D&D_References)]]
+
+## Visual References
+![[04_Resources/Assets/Handouts/handout-handout-wanted-poster-with-reward-wanted-poster-with-reward.png]]
+![[04_Resources/Assets/Handouts/handout-handout-wanted-poster-with-reward-v1-wanted-poster-with-reward.png]]
+![[04_Resources/Assets/Handouts/handout-handout-wanted-poster-with-reward-v3-wanted-poster-with-reward.png]]

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.353866
+modified: 2025-08-15T16:41:46.353872
+aliases: [NPC01295 Kaelen Keenblade the Cunning]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hilda Voidwalker the Mystic (Family - Parent)|Hilda Voidwalker the Mystic (Family - Parent)]]
+- [[#Drusilla Brightblade the Broken (Professional - Employer)|Drusilla Brightblade the Broken (Professional - Employer)]]
+- [[#Hilda Lightbringer the Mystic (Professional - Partner)|Hilda Lightbringer the Mystic (Professional - Partner)]]
+
+
+---
 aliases: ["Kaelen Keenblade the Cunning", "kaelen keenblade the cunning", "Kaelen Keenblade Cunning", "Cunning the Keenblade Kaelen"]
 tags: [npc, character]
 type: npc
@@ -245,3 +270,8 @@ Knows secret about major threat
 - Influences [[09 Running the Game]]
 - Influences [[LOC0027_Peakford]]
 - Compare with [[INDEX]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -344,3 +344,7 @@ Ongoing situations affecting Memory Meadows Black Market:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00739_Gavril_Ashford_the_Bold]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Branwen Hawthorne the Mystic
 
 *Dwarf Ambassador (Nobles), Age 74, Male*

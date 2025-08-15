@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Quicksilver
 
 *Firbolg Noble (Nobles), Age 48, Non-binary*

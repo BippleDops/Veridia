@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Orion Emberfall the Guardian
 
 *Tabaxi Rogue (Adventurers), Age 33, Non-binary*

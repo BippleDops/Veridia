@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:34.245943
+modified: 2025-08-15T16:41:34.245946
+aliases: [City District Map Port Meridian Harbo]
+---
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Exterior|Exterior]]
+- [[#Interior|Interior]]
+- [[#History|History]]
+- [[#Inhabitants|Inhabitants]]
+- [[#Services & Features|Services & Features]]
+- [[#Points of Interest|Points of Interest]]
+- [[#Current Events|Current Events]]
+- [[#Adventure Hooks|Adventure Hooks]]
+
+
+---
 created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
@@ -22,7 +43,8 @@ City_District_Map_Port_Meridian_Harbo serves as an important location within the
 A distinctive location that captures the essence of its surroundings while maintaining its own character.
 
 ### Exterior
-The approach to City_District_Map_Port_Meridian_Harbo reveals its significance through architectural and natural features.
+The approach to City_District_Map_Port_Meridian_Harbo reveals its significance 
+*The air carries the scent of [appropriate smell].*through architectural and natural features.
 
 ### Interior
 Within City_District_Map_Port_Meridian_Harbo, visitors find a carefully designed space serving multiple purposes.
@@ -62,6 +84,85 @@ Recent developments have brought new attention to City_District_Map_Port_Meridia
 > The villain has agents watching this place
 
 ## See Also
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]
+- [[NPC01286_Xander_Proudmore_the_Bold]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
+- [[NPC00644_Nerys_Dawnstrider_the_Wanderer]]
+- [[Pilgrim_Pass_Prayer_Sli]]
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Archdruid Thornweaver]]
+- [[What You Know - Abyssos Prime.md]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC00763_Urien_Brightblade_the_Broken]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC00820_Thalia_Nightfall_the_Risen]]
+- [[Ship_Schematic_The_Seahawk.md]]
+- [[NPC00670_Xander_Goldleaf_the_Scholar]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[Downtime_Activities]]
+- [[NPC00207_Ysara_Ravenheart]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[05 Personality and Background]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[11 Rules Glossary]]
+- [[Player_Comfort_Check]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00601_Vesper_Ironwood_the_Guardian]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[Reputation_Tracker]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[15 the Planes of Existence]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[Basic_Rules]]
+- [[MOC_Quests]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[Session_Recaps]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[Character_Journal_Template]]
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
+- [[Quest - The Merged Reality_1 (01_Adventures)]]
+- [[02 Step by Step Characters]]
+- [[07 Customization Options]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[11 Spellcasting]]
+- [[Item_Catalog_Complete.md]]
+- [[Sage Elara]]
+- [[The_Corroded_Crown.png]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[MASTER_NAVIGATION]]
+- [[MOC_Locations]]
+- [[MASTER_MOC]]
+- [[Master_Narrative_Web.md]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
 - [[Related_Content]]
 
 
@@ -71,7 +172,7 @@ Recent developments have brought new attention to City_District_Map_Port_Meridia
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## Thematic Connections
@@ -81,15 +182,15 @@ Recent developments have brought new attention to City_District_Map_Port_Meridia
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -193,3 +294,8 @@ Recent developments have brought new attention to City_District_Map_Port_Meridia
 - Influences [[Location City Surface Trade Ports Surface Trade Ports.svg]]
 - Influences [[Councilor Elena Brightwind (D&D_References)]]
 - Connects to [[Portrait NPC Lord Aldric Thornwhisper V1 Lord Aldric Thornwhisper.svg]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_marina_reefbuilder_professor_marina_reefbuilder_svg_standard.png]]
+![[03_People/portrait_assets_locations_location_city_quartermaster_sterling_suppystone_quartermaster_sterling_suppystone_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_reef_guard_captain_torrent_shellborn_v1_reef_guard_captain_torrent_shellborn_svg_standard.png]]

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.218845
+modified: 2025-08-15T16:41:48.218847
+aliases: [Assets Locations Location City St Meridian S Cathedral St Meridian S Cathedral.svg]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_locations_location_city_st_meridian_s_cathedral_st_meridian_s_cathedral_svg_friendly.png]]
+
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Diaspora Improvements|Diaspora Improvements]]
+- [[#Evolution Improvements|Evolution Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+- [[#Death_Customs Improvements|Death_Customs Improvements]]
+
+
+---
 
 title: Assets Locations Location City St Meridian S Cathedral St Meridian S Cathedral.svg
 aliases:

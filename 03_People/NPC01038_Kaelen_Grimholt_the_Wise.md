@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.500881
+modified: 2025-08-15T16:41:45.500884
+aliases: [NPC01038 Kaelen Grimholt the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Xander Silverleaf the Seeker (Professional - Rival)|Xander Silverleaf the Seeker (Professional - Rival)]]
+- [[#Gavril Voidwalker the Wanderer (Political - Ally)|Gavril Voidwalker the Wanderer (Political - Ally)]]
+- [[#Elric Silverleaf the Swift (Criminal - Handler)|Elric Silverleaf the Swift (Criminal - Handler)]]
+
+
+---
 aliases: ["Kaelen Grimholt the Wise", "kaelen grimholt the wise", "Kaelen Grimholt Wise", "Wise the Grimholt Kaelen"]
 tags: [npc, character]
 type: npc
@@ -248,3 +269,14 @@ Caravan needs guards
 - Originates from [[SPELL00104_Divine_Spell_105]]
 - See also: [[Portrait NPC Quest the Perfect Purifier Quest the Perfect Purifier.svg]]
 - Compare with [[Medical Combat Manual 2]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

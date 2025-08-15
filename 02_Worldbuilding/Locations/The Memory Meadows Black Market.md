@@ -230,3 +230,8 @@ Ongoing situations affecting The Memory Meadows Black Market:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]

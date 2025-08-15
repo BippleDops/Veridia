@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Hawthorne
 
 *Half-Orc Courtier (Nobles), Age 74, Female*

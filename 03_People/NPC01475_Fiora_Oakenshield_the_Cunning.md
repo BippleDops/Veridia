@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Fiora Oakenshield the Cunning
 
 *Firbolg Ranger (Adventurers), Age 69, Female*

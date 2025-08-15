@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ysara Moonshadow the Lost
 
 *Half-Elf Bard (Adventurers), Age 39, Male*

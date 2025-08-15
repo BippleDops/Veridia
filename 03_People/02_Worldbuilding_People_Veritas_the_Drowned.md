@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_02_worldbuilding_people_veritas_the_drowned_friendly.png]]
+
+
 # 02 Worldbuilding/People/Veritas the Drowned
 
 ## Basic Information

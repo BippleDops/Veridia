@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:38.144800
+modified: 2025-08-15T16:41:38.144802
+aliases: [Ship Schematic The Seahawk.md]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+- [[#Superstitions Improvements|Superstitions Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Visual_Handouts/Ship_Schematic_The_Seahawk.md
 type: lore
@@ -88,6 +109,31 @@ tags: [combat, lore]
 > Notable saying or prophecy
 
 ## See Also
+- [[Faction_Relationship_Web]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[Depth_Adapted_Background]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[Marcus Shardbreaker Grimm_1]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Parliamentary_Voting_Guide]]
+- [[Sanity_Quick_Reference.md]]
+- [[Combat_Encounter_Analysis]]
+- [[14 Gods of the Multiverse]]
+- [[11 Rules Glossary]]
 - [[Related_Content]]
 
 
@@ -97,15 +143,15 @@ tags: [combat, lore]
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -209,3 +255,23 @@ tags: [combat, lore]
 - Requires [[light-hammer-xphb (items)]]
 - See also: [[QUEST00473_Side_Quest_474]]
 - Compare with [[step_025 (phase_061)]]
+
+## Visual References
+![[03_People/portrait_character_faction_relationship_matrix_standard.png]]
+![[03_People/portrait_npc_relationship_system_friendly.png]]
+![[03_People/portrait_character_relationship_web_core_npcs.png]]
+
+
+## Realm Connections
+
+### Connection to Aquabyssos
+This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
+
+- **Ruling Power**: The Tidal Throne
+- **Capital**: [[Pearlheart Palace]]
+- **Primary Magic**: Tidal control, pressure magic, bioluminescence
+- **Current Conflict**: The Crushing Dark, Surface Wars
+- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+build cities of living coral and navigate by bioluminescent paths.

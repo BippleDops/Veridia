@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Dara Oakenshield the Bold
 
 *Human Carpenter (Commoners), Age 26, Female*

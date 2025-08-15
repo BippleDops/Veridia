@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.855367
+modified: 2025-08-15T16:41:40.855370
+aliases: [NPC00885 Kaelen Xendar the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Solas Winterborn the Guardian (Political - Ally)|Solas Winterborn the Guardian (Political - Ally)]]
+- [[#Pyria Blackstone the Seeker (Professional - Employer)|Pyria Blackstone the Seeker (Professional - Employer)]]
+- [[#Jorah Ashford the Risen (Professional - Rival)|Jorah Ashford the Risen (Professional - Rival)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Kaelen Xendar the Lost", "kaelen xendar the lost", "Kaelen Xendar Lost", "Lost the Xendar Kaelentags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
@@ -6,12 +27,12 @@ type: npc
 
 # Kaelen Xendar the Lost
 
-*Aasimar Appraiser (Merchants), Age 24, Female*
+*Aasimar Appraiser ([[Merchant]]s), Age 24, Female*
 
 **ID**: NPC00885
 
 ## Quick Reference
-- **Location**: The Gilded Serpent tavern in the merchant quarter
+- **Location**: [[The Gilded Serpent]] [[Tavern]] in the [[Merchant Quarter]]
 - **Occupation**: Cloth merchant
 - **Disposition**: Never uses people's real names
 
@@ -142,13 +163,15 @@ Has map to lost treasure
 - Special moves
 
 ## Combat Stats
-Base: **Noble** (MM p.348)
+Base: **Noble** (BC p.348)
 Modifications:
 - HP: 37
 - AC: 10
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Parliamentary_Voting_Guide]]
 - [[Related_Content]]
 
 
@@ -158,9 +181,9 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -175,17 +198,17 @@ Modifications:
 - Compare with [[step_080 (phase_068)]]
 - Affected by [[LOC00037_Dungeons_Location_38]]
 - Affected by [[ENC00427_Combat_Encounter_428]]
-- Leads to [[Location City Keeper of Contracts Minerva Bindingword Keeper of Contracts Minerva Bindingword.svg]]
+- Leads to [[Location City [[Keeper of Contracts Minerva Bindingword]] Keeper of Contracts Minerva Bindingword.svg]]
 - Originates from [[Portrait NPC the Crimson Shard Guardian V1 the Crimson Shard Guardian.svg_1 (Portraits)]]
-- Parallels [[Assets Locations Location City Healer Sage Bondseer Healer Sage Bondseer.svg]]
+- Parallels [[Assets Locations Location City [[Healer Sage Bondseer]] Healer Sage Bondseer.svg]]
 - Compare with [[winter-wolf-xmm (monstrosity)]]
 - Compare with [[NPC00568_Thalia_Brightblade_the_Fallen]]
-- Requires [[Quest - Liberation of The Deepmind]]
+- Requires [[Quest - Liberation of [[The Deepmind]]]]
 - See also: [[Potion of Animal Friendship Xdmg]]
 - See also: [[LOC00167_Planes_Location_168]]
 - Requires [[Trade Representatives 2]]
 - Compare with [[dawn-war-tharizdun-dmg (deities)]]
-- See also: [[Sommelier Bacchus Deepbottle (D&D_References)]]
+- See also: [[[[Sommelier Bacchus Deepbottle]] (D&D_References)]]
 - Requires [[Liche]]
 - Parallels [[firearms]]
 - Originates from [[Consequence Chain 4 - Deep Mother Awakening 2]]
@@ -197,14 +220,14 @@ Modifications:
 - See also: [[Portrait NPC Blood in the Water V1 Blood in the Water.svg_1 (Portraits)]]
 - Connects to [[ENC00074_Combat_Encounter_75]]
 - Affected by [[LOC00083_Cities_Location_84]]
-- Requires [[Assets Locations Location City the Deepmost Current V1 the Deepmost Current.svg]]
+- Requires [[Assets Locations Location City [[The Deepmost Current]] V1 the Deepmost Current.svg]]
 - Compare with [[EVENT00013_Magical_Event_14]]
 - See also: [[Mass Combat Resolution]]
 - Connects to [[Assets Handouts Handout Handout Aged Treasure Map V3 Aged Treasure Map.png]]
 - Related: [[step_094]]
 - Parallels [[Handout Handout Temple Prayer Sheet V2 Temple Prayer Sheet.png]]
 - Connects to [[step_098 (phase_068)]]
-- Influences [[Location City Current Riders Guild Current Riders Guild.svg]]
+- Influences [[Location City [[Current Riders Guild]] Current Riders Guild.svg]]
 - See also: [[step_093 (phase_043)]]
 - Related: [[Original Survivor Network]]
 - Influences [[step_043 (phase_064)]]
@@ -212,13 +235,13 @@ Modifications:
 - Leads to [[Portrait NPC Shadow Parliament V1 Shadow Parliament.svg_1 (Portraits)]]
 - See also: [[Elder_Sky-Singer_Melody_Windvoice (02_Worldbuilding)]]
 - Influences [[Location City the Siren S Rest Tavern V1 the Siren S Rest Tavern.svg]]
-- Requires [[Pressure Suit Malfunction 2]]
+- Requires [[[[Pressure Suit Malfunction]] 2]]
 - Requires [[Item Artifact Explorers Pack Xphb V6 Explorers Pack Xphb.png]]
 - Requires [[step_028 (phase_079)]]
 - Connects to [[step_095 (phase_069)]]
 - Connects to [[The Pressure Chambers 2]]
 - See also: [[Silver Threadweaver]]
-- Requires [[The Seven Shards Mystery (D&D_References)]]
+- Requires [[[[The Seven Shards Mystery]] (D&D_References)]]
 - Compare with [[step_041]]
 - Connects to [[Marcus Goldweaver]]
 - Influences [[Sending Stones Xdmg]]
@@ -226,21 +249,21 @@ Modifications:
 - Compare with [[step_027]]
 - Influences [[ITEM01070_Pure_Herb_of_Swiftness]]
 - See also: [[MON00105_Undead_Creature_106]]
-- Leads to [[Location City Senator Marina Tidecaller V1 Senator Marina Tidecaller.svg]]
+- Leads to [[Location City [[Senator Marina Tidecaller]] V1 Senator Marina Tidecaller.svg]]
 - Originates from [[resistance-xphb (spells)]]
 - Originates from [[step_033 (phase_086)]]
 - Leads to [[SHOP00027_Specialty_Shop_28]]
-- Originates from [[Professor Reef Growthseeker (D&D_References)]]
+- Originates from [[[[Professor Reef Growthseeker]] (D&D_References)]]
 - Originates from [[Traditional Communities]]
 - See also: [[Spell Compendium (D&D_References)]]
-- Affected by [[Embassy Quarter 2]]
+- Affected by [[[[Embassy Quarter]] 2]]
 - Influences [[MON00054_Aberrations_Creature_55]]
 - Influences [[step_034 (phase_079)]]
 - Influences [[Sky_Events_Pack_D]]
 - Compare with [[step_055 (phase_098)]]
 - Originates from [[LOC0086_Marshwick]]
 - Requires [[ITEM0086_Glorious_Crown_of_the_Dawn]]
-- See also: [[Assets Art Screaming Gardens Songwood Grove.png]]
+- See also: [[Assets Art [[Screaming Gardens]] Songwood Grove.png]]
 - Requires [[step_078]]
 - Influences [[Chunk of Meat]]
 - Compare with [[Dark Gift of Sykane the Soul Hungerer Cos]]
@@ -252,7 +275,7 @@ Modifications:
 - Originates from [[LORE00312_Legends_Entry_313]]
 - Parallels [[Physical Characteristics Beholder Eye Size]]
 - Parallels [[step_047]]
-- Leads to [[Location City Master Engineer Cordelia Pressurewright Master Engineer Cordelia Pressurewright.svg]]
+- Leads to [[Location City [[Master Engineer Cordelia Pressurewright]] Master Engineer Cordelia Pressurewright.svg]]
 - Influences [[INV-006.png (Art)]]
 - See also: [[wild-magic-zone-xdmg (traps-hazards)]]
 - See also: [[Lord Marcus Goldweaver (D&D_References)]]
@@ -265,8 +288,19 @@ Modifications:
 - Connects to [[List Spells Classes Diviner Xphb]]
 - Related: [[step_098 (phase_034)]]
 - Connects to [[step_092 (phase_008)]]
-- Related: [[Assets Locations Location City the Crystal Hive Collective V1 the Crystal Hive Collective.svg]]
+- Related: [[Assets Locations Location City [[The Crystal Hive Collective]] V1 the Crystal Hive Collective.svg]]
 - Requires [[FAC00088_Cults_89]]
 - See also: [[Whisper Ward Amulet 2]]
 - Requires [[step_091 (phase_068)]]
 - Influences [[step_019 (phase_068)]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

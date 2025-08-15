@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Faelyn Brightblade the Lost
 
 *Half-Elf Cleric (Adventurers), Age 48, Female*

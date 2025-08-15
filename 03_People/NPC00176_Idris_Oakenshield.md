@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Oakenshield
 
 *Aasimar Courtier (Nobles), Age 68, Female*

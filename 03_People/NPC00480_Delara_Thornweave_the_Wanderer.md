@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.292008
+modified: 2025-08-15T16:41:45.292015
+aliases: [NPC00480 Delara Thornweave the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Zephyrblade the Seeker (Professional - Mentor)|Wynne Zephyrblade the Seeker (Professional - Mentor)]]
+- [[#Xander Darkwater the Bold (Professional - Mentor)|Xander Darkwater the Bold (Professional - Mentor)]]
+- [[#Ewan Youngblood the Lost (Political - Puppet)|Ewan Youngblood the Lost (Political - Puppet)]]
+
+
+---
 aliases: ["Delara Thornweave the Wanderer", "delara thornweave the wanderer", "Delara Thornweave Wanderer", "Wanderer the Thornweave Delara"]
 tags: [npc, character]
 type: npc
@@ -236,3 +257,14 @@ Discovered something valuable
 - Compare with [[Aethermoor-Aquabyssos-World-Connection-Guide]]
 - Parallels [[LOC00078_Planes_Location_79]]
 - Affected by [[potion-of-fire-giant-strength-xdmg (items)]]
+
+## Visual References
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

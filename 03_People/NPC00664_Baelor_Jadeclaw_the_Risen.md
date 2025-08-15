@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Baelor Jadeclaw the Risen
 
 *Halfling Farmer (Commoners), Age 29, Non-binary*

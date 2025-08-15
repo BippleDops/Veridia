@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Pyria Stormwind the Swift
 
 *Half-Elf Wizard (Adventurers), Age 62, Male*

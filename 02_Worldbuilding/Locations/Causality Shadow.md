@@ -217,3 +217,7 @@ Mentioned in The Second Prophecy of Winds
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]

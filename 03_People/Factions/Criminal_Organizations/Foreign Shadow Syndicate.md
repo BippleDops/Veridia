@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Foreign Shadow Syndicate](../../../04_Resources/Assets/Misc/foreign_shadow_syndicate.png)
 
 ## 🔧 Deep Evaluation Improvements

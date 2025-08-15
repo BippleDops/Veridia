@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Zephyr Crystalbrook the Seeker
 
 *Half-Elf Caravan Master (Merchants), Age 56, Non-binary*

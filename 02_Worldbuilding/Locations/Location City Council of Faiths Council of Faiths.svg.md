@@ -82,3 +82,9 @@ Recent developments have brought new attention to Location City Council of Faith
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]

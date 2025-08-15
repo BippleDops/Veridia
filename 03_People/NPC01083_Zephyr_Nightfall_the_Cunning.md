@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.971603
+modified: 2025-08-15T16:41:47.971605
+aliases: [NPC01083 Zephyr Nightfall the Cunning]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Nerys Keenblade the Lost (Personal - Nemesis)|Nerys Keenblade the Lost (Personal - Nemesis)]]
+- [[#Branwen Oakenshield the Cunning (Political - Opposition)|Branwen Oakenshield the Cunning (Political - Opposition)]]
+- [[#Dara Youngblood the Strong (Criminal - Fence)|Dara Youngblood the Strong (Criminal - Fence)]]
+
+
+---
 aliases: ["Zephyr Nightfall the Cunning", "zephyr nightfall the cunning", "Zephyr Nightfall Cunning", "Cunning the Nightfall Zephyr"]
 tags: [npc, character]
 type: npc
@@ -135,3 +156,15 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
+![[03_People/portrait_zephyr_goldwhisper_standard.png]]
+![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

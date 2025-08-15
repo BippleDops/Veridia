@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.966034
+modified: 2025-08-15T16:41:42.966036
+aliases: [NPC00412 Ewan Darkwater the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Xander Hawthorne the Lost (Personal - Love interest)|Xander Hawthorne the Lost (Personal - Love interest)]]
+- [[#Aeliana Blackstone the Mystic (Professional - Mentor)|Aeliana Blackstone the Mystic (Professional - Mentor)]]
+- [[#Dara Zephyrblade the Cunning (Political - Puppet)|Dara Zephyrblade the Cunning (Political - Puppet)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Ewan Darkwater the Wanderer", "ewan darkwater the wanderer", "Ewan Darkwater Wanderer", "Wanderer the Darkwater Ewan"]
 tags: [npc, character]
@@ -146,8 +167,8 @@ Discovered something valuable
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -257,3 +278,14 @@ Discovered something valuable
 - Leads to [[Wind Engineering and Sky Architecture]]
 - Requires [[Assets Locations Location City Marcus Evenscale V1 Marcus Evenscale.svg]]
 - Compare with [[step_077 (phase_025)]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

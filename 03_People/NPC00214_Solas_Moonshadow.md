@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.463223
+modified: 2025-08-15T16:41:43.463227
+aliases: [NPC00214 Solas Moonshadow]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Frostwhisper the Fallen (Criminal - Accomplice)|Corvus Frostwhisper the Fallen (Criminal - Accomplice)]]
+- [[#Alaric Voidwalker the Bold (Professional - Mentor)|Alaric Voidwalker the Bold (Professional - Mentor)]]
+- [[#Erasmus Zephyrblade the Cunning (Political - Spy)|Erasmus Zephyrblade the Cunning (Political - Spy)]]
+
+
+---
 aliases: ["Solas Moonshadow", "solas moonshadow", "Moonshadow Solas"]
 tags: [npc, character]
 type: npc
@@ -257,3 +282,8 @@ Wants rivals investigated
 - Parallels [[ITEM00655_Dragon_Scale_Chain_Mail_of_the_Guardian]]
 - See also: [[step_023 (phase_046)]]
 - Influences [[The Community Feast Halls (Places)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

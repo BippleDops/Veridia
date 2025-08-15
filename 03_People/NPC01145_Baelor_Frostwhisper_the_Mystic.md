@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.654155
+modified: 2025-08-15T16:41:46.654158
+aliases: [NPC01145 Baelor Frostwhisper the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Vesper Silverleaf the Mystic (Criminal - Accomplice)|Vesper Silverleaf the Mystic (Criminal - Accomplice)]]
+- [[#Alaric Ashford the Strong (Personal - Childhood friend)|Alaric Ashford the Strong (Personal - Childhood friend)]]
+- [[#Erasmus Moonshadow the Lost (Family - Cousin)|Erasmus Moonshadow the Lost (Family - Cousin)]]
+
+
+---
 aliases: ["Baelor Frostwhisper the Mystic", "baelor frostwhisper the mystic", "Baelor Frostwhisper Mystic", "Mystic the Frostwhisper Baelor"]
 tags: [npc, character]
 type: npc
@@ -253,3 +274,14 @@ Has map to lost treasure
 - Connects to [[The Phantom Market]]
 - Compare with [[improvised-weapons-xphb (variant-rules)]]
 - Related: [[wretched-sorrowsworn-mpmm (monstrosity)]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

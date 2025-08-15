@@ -339,3 +339,23 @@ Lumengarde is a notable location characterized by its unique features and strate
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC01283_Corvus_Hawthorne_the_Fallen]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC01286_Xander_Proudmore_the_Bold]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]

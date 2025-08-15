@@ -244,3 +244,8 @@ Mentioned in The Second Prophecy of Winds
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.402932
+modified: 2025-08-15T16:41:46.402937
+aliases: [NPC01102 Faelyn Dawnstrider the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Caelum Goldleaf the Bold (Criminal - Fence)|Caelum Goldleaf the Bold (Criminal - Fence)]]
+- [[#Ewan Dawnstrider the Cunning (Family - Parent)|Ewan Dawnstrider the Cunning (Family - Parent)]]
+- [[#Ysara Dawnstrider the Broken (Professional - Mentor)|Ysara Dawnstrider the Broken (Professional - Mentor)]]
+
+
+---
 aliases: ["Faelyn Dawnstrider the Risen", "faelyn dawnstrider the risen", "Faelyn Dawnstrider Risen", "Risen the Dawnstrider Faelyn"]
 tags: [npc, character]
 type: npc
@@ -255,3 +280,8 @@ Caravan needs guards
 - Connects to [[Physical Variations Yuan Ti Snake Head Shape]]
 - Leads to [[NPC00998_Idris_Ravenheart_the_Strong]]
 - Parallels [[Doctor Coral Shapeshift (D&D_References)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

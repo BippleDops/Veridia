@@ -209,3 +209,7 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]

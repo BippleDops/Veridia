@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Lightbringer the Strong
 
 *Tiefling Ambassador (Nobles), Age 53, Male*

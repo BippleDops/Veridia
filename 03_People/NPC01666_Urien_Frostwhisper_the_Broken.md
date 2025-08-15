@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.838368
+modified: 2025-08-15T16:41:45.838370
+aliases: [NPC01666 Urien Frostwhisper the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aldric Zephyrblade the Seeker (Criminal - Handler)|Aldric Zephyrblade the Seeker (Criminal - Handler)]]
+- [[#Delara Ravenheart the Bold (Political - Patron)|Delara Ravenheart the Bold (Political - Patron)]]
+- [[#Aldric Lightbringer the Seeker (Political - Puppet)|Aldric Lightbringer the Seeker (Political - Puppet)]]
+
+
+---
 aliases: ["Urien Frostwhisper the Broken", "urien frostwhisper the broken", "Urien Frostwhisper Broken", "Broken the Frostwhisper Urien"]
 tags: [npc, character]
 type: npc
@@ -254,3 +279,8 @@ Provides information for a price
 - Influences [[02_Worldbuilding_Factions_The_Crystal_Forge_Guild]]
 - Affected by [[Map Map Kelp Forest Labyrinth V1 Kelp Forest Labyrinth.svg]]
 - Originates from [[step_058 (phase_094)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Diplomatic Q
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00461_Branwen_Proudmore_the_Strong]]

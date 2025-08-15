@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Brenna Hawthorne the Bold
 
 *Half-Elf Baker (Commoners), Age 58, Non-binary*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.180076
+modified: 2025-08-15T16:41:42.180081
+aliases: [NPC01435 Xander Hawthorne the Broken]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Malakai Quicksilver the Broken (Criminal - Informant)|Malakai Quicksilver the Broken (Criminal - Informant)]]
+- [[#Elric Crystalbrook the Guardian (Political - Spy)|Elric Crystalbrook the Guardian (Political - Spy)]]
+- [[#Felicia Ravenheart the Seeker (Political - Opposition)|Felicia Ravenheart the Seeker (Political - Opposition)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Xander Hawthorne the Broken", "xander hawthorne the broken", "Xander Hawthorne Broken", "Broken the Hawthorne Xander"]
 tags: [npc, character]
@@ -155,9 +176,9 @@ Needs help with personal quest
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -267,3 +288,14 @@ Needs help with personal quest
 - Affected by [[Master Banker Cornelius Coinwright 2]]
 - Parallels [[step_066 (phase_025)]]
 - Requires [[step_014 (phase_044)]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, _indexes]
+created: 2025-08-15T16:41:29.307818
+modified: 2025-08-15T16:41:29.307820
+aliases: [MOC Combat]
+---
+
+## Table of Contents
+- [[#Quick Links|Quick Links]]
+- [[#Content|Content]]
+- [[#Recent NPCs|Recent NPCs]]
+- [[#Active Quests|Active Quests]]
+- [[#Session Log|Session Log]]
+- [[#Location Network|Location Network]]
+- [[#See Also|See Also]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#Thematic Connections|Thematic Connections]]
+- [[#D&D 5e References|D&D 5e References]]
+
+
 -tags: [moc, index, combat]ex]
 created: 2025-08-15
 ---
@@ -47,11 +68,62 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 > Important safety or rule information
 
 ## See Also
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[Party_Quests]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]
+- [[12 Spells]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[NPC00838_Drusilla_Proudmore_the_Risen]]
+- [[Sage Elara]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[The_Corroded_Crown.png]]
+- [[NPC00601_Vesper_Ironwood_the_Guardian]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[10 Combat]]
+- [[Combat_Encounter_Analysis]]
+- [[MOC_NPCs]]
+- [[Character_Journals]]
+- [[11 Rules Glossary]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[Quick_Start_Guide]]
+- [[11 Spellcasting]]
+- [[Session_Recaps]]
+- [[Character_Journal_Template]]
+- [[07 Customization Options]]
+- [[README]]
+- [[MOC_Sessions]]
+- [[MOC_Locations]]
+- [[MOC_Lore]]
+- [[MOC_Quests]]
 - [[Related_Content]]
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## Thematic Connections
@@ -61,9 +133,9 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -167,3 +239,8 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Requires [[International Law Enforcement]]
 - Compare with [[Crystal Festival (D&D_References)]]
 - Influences [[monsters-by-habitat-mountain-monsters-xmm (tables)]]
+
+## Visual References
+![[03_People/portrait_10_combat_dropping_to_0_hit_points_death_saving_throws_standard.png]]
+![[03_People/portrait_10_combat_dropping_to_0_hit_points_death_saving_throws_dramatic.png]]
+![[03_People/portrait_10_combat_dropping_to_0_hit_points_stabilizing_a_creature_standard.png]]

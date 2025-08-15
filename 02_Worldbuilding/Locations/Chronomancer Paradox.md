@@ -253,3 +253,8 @@ Ongoing situations affecting Chronomancer Paradox:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]

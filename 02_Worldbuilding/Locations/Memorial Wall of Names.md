@@ -208,3 +208,11 @@ Ongoing situations affecting Memorial Wall of Names:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00945_Wynne_Voidwalker_the_Seeker]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[NPC00494_Lyanna_Hawthorne_the_Guardian]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]

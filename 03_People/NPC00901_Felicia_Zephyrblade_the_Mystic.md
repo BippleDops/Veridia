@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Felicia Zephyrblade the Mystic
 
 *Elf Broker (Merchants), Age 41, Male*

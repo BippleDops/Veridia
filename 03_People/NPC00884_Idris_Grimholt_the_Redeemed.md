@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Grimholt the Redeemed
 
 *Human Broker (Merchants), Age 22, Male*

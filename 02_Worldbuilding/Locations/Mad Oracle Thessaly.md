@@ -663,3 +663,7 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[yuan-ti-pit-master-mpmm]]

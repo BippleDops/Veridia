@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.057577
+modified: 2025-08-15T16:41:48.057581
+aliases: [NPC00933 Drusilla Voidwalker the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Fiora Crystalbrook the Guardian (Professional - Partner)|Fiora Crystalbrook the Guardian (Professional - Partner)]]
+- [[#Xander Ironforge the Strong (Criminal - Accomplice)|Xander Ironforge the Strong (Criminal - Accomplice)]]
+- [[#Brenna Lightbringer the Fallen (Criminal - Fence)|Brenna Lightbringer the Fallen (Criminal - Fence)]]
+
+
+---
 aliases: ["Drusilla Voidwalker the Seeker", "drusilla voidwalker the seeker", "Drusilla Voidwalker Seeker", "Seeker the Voidwalker Drusilla"]
 tags: [npc, character]
 type: npc
@@ -143,3 +164,15 @@ Caravan needs guards
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
+![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
+![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.377044
+modified: 2025-08-15T16:41:45.377048
+aliases: [NPC01823 Xander Quicksilver the Broken]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hilda Dawnstrider the Bold (Family - Sibling)|Hilda Dawnstrider the Bold (Family - Sibling)]]
+- [[#Branwen Thornweave the Seeker (Personal - Childhood friend)|Branwen Thornweave the Seeker (Personal - Childhood friend)]]
+- [[#Orion Zephyrblade the Redeemed (Personal - Childhood friend)|Orion Zephyrblade the Redeemed (Personal - Childhood friend)]]
+
+
+---
 aliases: ["Xander Quicksilver the Broken", "xander quicksilver the broken", "Xander Quicksilver Broken", "Broken the Quicksilver Xander"]
 tags: [npc, character]
 type: npc
@@ -250,3 +271,14 @@ Is secretly testing the party
 - Influences [[step_080]]
 - Parallels [[Adjudicating Areas of Effect Targets in Area of Effect Xdmg]]
 - Parallels [[The Free Current Movement (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

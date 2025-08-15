@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.691716
+modified: 2025-08-15T16:41:42.691719
+aliases: [NPC00038 Kaelen Nightfall]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aeliana Goldleaf the Swift (Family - Cousin)|Aeliana Goldleaf the Swift (Family - Cousin)]]
+- [[#Solas Youngblood (Criminal - Handler)|Solas Youngblood (Criminal - Handler)]]
+- [[#Malakai Ironforge the Swift (Family - Parent)|Malakai Ironforge the Swift (Family - Parent)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Kaelen Nightfall", "kaelen nightfall", "Nightfall Kaelen"]
 tags: [npc, character]
@@ -154,10 +179,10 @@ Needs discrete help with family scandal
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -267,3 +292,8 @@ Needs discrete help with family scandal
 - Affected by [[QUEST00109_Side_Quest_110]]
 - Compare with [[Merchant_Guilds]]
 - Connects to [[step_066]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

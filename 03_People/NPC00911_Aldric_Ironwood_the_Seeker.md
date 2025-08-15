@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aldric Ironwood the Seeker
 
 *Halfling Caravan Master (Merchants), Age 53, Female*

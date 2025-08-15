@@ -278,3 +278,8 @@ Ongoing situations affecting Tide Bondkeeper:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC00494_Lyanna_Hawthorne_the_Guardian]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Drusilla Brightblade
 
 *Halfling Aristocrat (Nobles), Age 27, Non-binary*

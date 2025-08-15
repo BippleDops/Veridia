@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Brenna Frostwhisper the Mystic
 
 *Tiefling Ambassador (Nobles), Age 43, Female*

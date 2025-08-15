@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T16:41:32.764744
+modified: 2025-08-15T16:41:32.764749
+aliases: [08 Using Ability Scores]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Prep Checklist|Prep Checklist]]
+- [[#Npcs Needed|Npcs Needed]]
+- [[#Locations|Locations]]
+- [[#Encounters|Encounters]]
+- [[#Props|Props]]
+- [[#Rules|Rules]]
+- [[#Campaign Connection|Campaign Connection]]
+- [[#See Also|See Also]]
+
+
+---
 
 title: 08 Using Ability Scores
 type: note
@@ -25,7 +46,8 @@ tags:
 
 created: 2025-08-11
 modified: '2025-08-14'
-status: active
+status: act
+*Sounds of [relevant sounds] echo in the distance.*ive
 updated: '2025-08-13T12:34:05.212486+00:00'
 world: Both
 
@@ -68,6 +90,19 @@ world: Both
 Connected to the main villain's plan
 
 ## See Also
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[Faction_Relationship_Web]]
+- [[Player_Comfort_Check]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[Parliamentary_Voting_Guide]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
 - [[Related_Content]]
 
 
@@ -77,24 +112,24 @@ Connected to the main villain's plan
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Combat**: See PHB p.189-198
+- **Ability Checks**: See ACX p.174
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

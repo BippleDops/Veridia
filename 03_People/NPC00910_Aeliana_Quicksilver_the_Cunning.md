@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aeliana Quicksilver the Cunning
 
 *Half-Orc Shopkeeper (Merchants), Age 64, Female*

@@ -639,3 +639,8 @@ Ongoing situations affecting Crystal Cult Temples:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]

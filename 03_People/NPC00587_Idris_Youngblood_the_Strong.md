@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.818335
+modified: 2025-08-15T16:41:41.818340
+aliases: [NPC00587 Idris Youngblood the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gavril Keenblade the Bold (Criminal - Handler)|Gavril Keenblade the Bold (Criminal - Handler)]]
+- [[#Vesper Lightbringer the Seeker (Political - Ally)|Vesper Lightbringer the Seeker (Political - Ally)]]
+- [[#Aeliana Silverleaf the Seeker (Personal - Love interest)|Aeliana Silverleaf the Seeker (Personal - Love interest)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Idris Youngblood the Strong", "idris youngblood the strong", "Idris Youngblood Strong", "Strong the Youngblood Idris"]
 tags: [npc, character]
@@ -152,6 +173,18 @@ Witnessed a crime
 - Special moves
 
 ## See Also
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[MOC_Rules]]
 - [[Related_Content]]
 
 
@@ -161,9 +194,9 @@ Witnessed a crime
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -273,3 +306,14 @@ Witnessed a crime
 - Influences [[step_026 (phase_025)]]
 - Related: [[step_055 (phase_090)]]
 - See also: [[The Sunken Conspiracy]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

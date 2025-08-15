@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Ewan Winterborn the Guardian
 
 *Elf Corrupt Noble (Villains), Age 38, Male*

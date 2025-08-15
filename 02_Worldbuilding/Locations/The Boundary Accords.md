@@ -225,3 +225,7 @@ Ongoing situations affecting The Boundary Accords:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00395_Aeliana_Thornweave]]

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.430807
+modified: 2025-08-15T16:41:45.430810
+aliases: [NPC01192 Idris Moonshadow the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gavril Ashford the Wanderer (Professional - Employer)|Gavril Ashford the Wanderer (Professional - Employer)]]
+- [[#Zephyr Hawthorne the Lost (Personal - Childhood friend)|Zephyr Hawthorne the Lost (Personal - Childhood friend)]]
+- [[#Gareth Lightbringer the Scholar (Political - Patron)|Gareth Lightbringer the Scholar (Political - Patron)]]
+
+
+---
 aliases: ["Idris Moonshadow the Seeker", "idris moonshadow the seeker", "Idris Moonshadow Seeker", "Seeker the Moonshadow Idris"]
 tags: [npc, character]
 type: npc
@@ -239,3 +260,14 @@ Caravan needs guards
 - Affected by [[step_066 (phase_095)]]
 - Connects to [[NPC0078_Nathaniel_Ironforge]]
 - Connects to [[Temporal Research Institute]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

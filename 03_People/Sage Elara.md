@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.431148
+modified: 2025-08-15T16:41:41.431150
+aliases: [Sage Elara]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Abilities|Abilities]]
+- [[#Relationships|Relationships]]
+- [[#Current Activities|Current Activities]]
+- [[#Plot Hooks|Plot Hooks]]
+- [[#DM Notes|DM Notes]]
+- [[#References|References]]
+
+
+---
 aliases: [Sage_Elara, Sage-Elara]
 title: Sage Elara
 type: npc
@@ -44,7 +69,7 @@ Born into modest circumstances, Sage Elara rose through dedication and cunning t
 - **Equipment**: Various tools of their trade
 
 ## Relationships
-- **Allies**: [[The Merchant's Guild]], [[City Watch]]
+- **Allies**: [[The [[Merchant]]'s Guild]], [[City Watch]]
 - **Rivals**: [[Shadow Conspiracy]]
 - **Contacts**: Network of informants throughout the city
 
@@ -62,7 +87,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 ## References
 
 - [[Sirens]]
-- [[Location_Network_Graph.md]]
+- [[[[Location_Network_Graph]].md]]
 - [[Sirens (D&D_References)]]
 
 
@@ -91,6 +116,50 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Personal mysteries
 
 ## See Also
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC00046_Urien_Ironwood_the_Wise]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[World_Primer.md]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[Session_Recaps]]
+- [[NPC00838_Drusilla_Proudmore_the_Risen]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[07 Customization Options]]
+- [[NPC00080_Branwen_Proudmore]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[MASTER_MOC]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[11 Spellcasting]]
+- [[Player_Comfort_Check]]
+- [[Depth_Adapted_Background.md]]
+- [[Archdruid Thornweaver]]
+- [[Item_Catalog_Complete.md]]
+- [[Master_Narrative_Web.md]]
 - [[Related_Content]]
 
 
@@ -103,8 +172,8 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - [[ULTIMATE_ASSET_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Connections
@@ -112,7 +181,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Leads to [[cover-xphb (variant-rules)]]
 - Influences [[Corruption Exposure Tracking 2]]
 - See also: [[step_051 (phase_054)]]
-- Influences [[Location City the Crystal Wardens the Crystal Wardens.svg]]
+- Influences [[Location City [[The Crystal Wardens]] the Crystal Wardens.svg]]
 - Parallels [[step_028]]
 - Related: [[step_094 (phase_006)]]
 - Originates from [[Frost Salamander Mpmm]]
@@ -124,7 +193,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Connects to [[Character_Journals]]
 - Connects to [[step_010 (phase_086)]]
 - Influences [[Ki Rin Mpmm]]
-- Leads to [[Location City Tenebrarum Embassy V1 Tenebrarum Embassy.svg]]
+- Leads to [[Location City [[Tenebrarum Embassy]] V1 Tenebrarum Embassy.svg]]
 - Originates from [[ITEM00881_Void-touched_Orb_of_Truth]]
 - Originates from [[The Forsaken Consortium Collective]]
 - Connects to [[FAC00073_Guilds_74]]
@@ -155,7 +224,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Connects to [[Armor of Psychic Resistance Xdmg]]
 - See also: [[step_076 (phase_087)]]
 - Related: [[step_023 (phase_082)]]
-- Leads to [[Portrait NPC Master of Currents Poseidon Master of Currents Poseidon.svg]]
+- Leads to [[Portrait NPC Master of Currents [[Poseidon]] Master of Currents Poseidon.svg]]
 - Connects to [[Assets Portraits Portrait NPC the Harmony Collective the Harmony Collective.svg]]
 - Leads to [[EVENT00067_Natural_Event_68]]
 - Related: [[10-combat#Shoving a Creature]]
@@ -167,7 +236,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Related: [[list-spells-races-yuan-ti-pureblood-vgm (lists)]]
 - Affected by [[Scene Scene Storm Approaching the Airship V2 Storm Approaching the Airship.png]]
 - Compare with [[MON00102_Aberrations_Creature_103]]
-- Affected by [[Aquabyssos Cultural Codex (D&D_References)]]
+- Affected by [[[[Aquabyssos]] Cultural Codex (D&D_References)]]
 - Affected by [[NPC01722_Branwen_Oakenshield_the_Mystic]]
 - Requires [[portrait-npc-senator-marius-v1-senator-marius.svg_1 (Portraits)]]
 - Parallels [[NPC01763_Kaelen_Ironforge_the_Bold]]
@@ -192,17 +261,17 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Affected by [[Truth-seeker's Lens (D&D_References)]]
 - See also: [[Community Resource Sharing]]
 - Originates from [[step_095 (phase_090)]]
-- Influences [[Professional Training (D&D_References)]]
+- Influences [[[[Professional Training]] (D&D_References)]]
 - Affected by [[step_024 (phase_067)]]
 - Compare with [[Technician Dark Arts 2]]
 - Requires [[LOC00246_Planes_Location_247]]
-- Requires [[Trade Unions]]
-- Compare with [[Assets Locations Location City the Time Keeper V1 the Time Keeper.svg]]
+- Requires [[[[Trade Union]]s]]
+- Compare with [[Assets Locations [[Location City the [[Time]] Keeper V1 [[The Time Keeper]].svg]]]]
 - See also: [[greek-hercules (deities)]]
 - Compare with [[green-copper-ewer-cos (items)]]
 - Affected by [[potion-of-supreme-healing-xdmg (items)]]
 - Leads to [[NPC01332_Drusilla_Emberfall_the_Guardian]]
-- Requires [[Location City the Grand Archive V1 the Grand Archive.svg]]
+- Requires [[Location City [[The Grand Archive]] V1 the Grand Archive.svg]]
 - Connects to [[step_062 (phase_088)]]
 - Connects to [[EVENT00037_Political_Event_38]]
 - Leads to [[Cosmic Guardian Rules]]

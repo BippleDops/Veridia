@@ -223,3 +223,10 @@ Ongoing situations affecting Seeds of the Past:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]

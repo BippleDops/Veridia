@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_symbols_symbol_heraldry_master_trader_darkmarke_master_trader_darkmarke_svg_friendly.png]]
+
+
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-master-trader-darkmarke-master-trader-darkmarke.svg)
 

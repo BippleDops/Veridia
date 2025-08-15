@@ -234,3 +234,7 @@ Ongoing situations affecting Palace Staff Guild:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]

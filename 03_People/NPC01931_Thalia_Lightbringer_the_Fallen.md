@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.221109
+modified: 2025-08-15T16:41:41.221112
+aliases: [NPC01931 Thalia Lightbringer the Fallen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aeliana Ironforge the Guardian (Political - Opposition)|Aeliana Ironforge the Guardian (Political - Opposition)]]
+- [[#Aeliana Stormwind the Broken (Family - Cousin)|Aeliana Stormwind the Broken (Family - Cousin)]]
+- [[#Baelor Ravenheart the Wanderer (Political - Opposition)|Baelor Ravenheart the Wanderer (Political - Opposition)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Thalia Lightbringer the Fallen", "thalia lightbringer the fallen", "Thalia Lightbringer Fallen", "Fallen the Lightbringer Thaliatags: [npc, character, combat, lore]er]
 type: npc
@@ -150,32 +171,76 @@ Provides information for a price
 - Special moves
 
 ## Combat Stats
-Base: **Noble** (MM p.348)
+Base: **Noble** (BC p.348)
 Modifications:
 - HP: 43
 - AC: 11
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[Parliamentary_Voting_Guide]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10 Combat]]
+- [[11 Rules Glossary]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[MOC_Items]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[Sage Elara]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC01970_Brenna_Dawnstrider_the_Wise]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[02 Step by Step Characters]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[04 Classes]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[Concept_Map]]
+- [[NPC00670_Xander_Goldleaf_the_Scholar]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Tasha's Cauldron of Everything (TCE) p.104
-- Mordenkainen's Tome of Foes (MTF) p.68
+- Tasha's Mystical Formulae of Everything (TMF) p.104
+- Mordenkainen's Forbidden Knowledge of Foes (MFK) p.68
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -183,9 +248,9 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -210,14 +275,14 @@ Following magic item guidelines (DMG p.135-136):
 - Related: [[LOC00253_Planes_Location_254]]
 - Related: [[NPC01064_Gareth_Blackstone_the_Strong]]
 - Related: [[NPC00164_Solas_Thornweave]]
-- Affected by [[Historical Research Institute]]
+- Affected by [[[[Historical Research]] Institute]]
 - Requires [[step_059 (phase_049)]]
 - Originates from [[Enemy Xphb]]
 - Leads to [[step_018 (phase_011)]]
 - Compare with [[step_034]]
 - Connects to [[NPC01273_Alaric_Ironwood_the_Guardian]]
 - Leads to [[step_029 (phase_023)]]
-- Connects to [[Chief Temporal Engineer Paradox Timeweaver (D&D_References)]]
+- Connects to [[Chief Temporal Engineer Paradox [[Time]]weaver (D&D_References)]]
 - Affected by [[LOC00271_Dungeons_Location_272]]
 - Leads to [[Location City Enchanter Valdris Peacewarden Enchanter Valdris Peacewarden.svg]]
 - Compare with [[step_065 (phase_024)]]
@@ -248,17 +313,17 @@ Following magic item guidelines (DMG p.135-136):
 - Parallels [[step_060]]
 - Requires [[hag-vgm (legendary-group)]]
 - Parallels [[ITEM00617_Ethereal_Shield_of_Resistance]]
-- Leads to [[Pressure Palace (D&D_References)]]
+- Leads to [[[[Pressure Palace]] (D&D_References)]]
 - Requires [[mixing-potions-potion-miscibility-xdmg (tables)]]
 - Originates from [[Creature Creature Nightmare Xmm V1 Nightmare Xmm.png]]
 - Affected by [[Academy of Sciences]]
 - Connects to [[Master Sergeant Reef Ironwall]]
 - See also: [[step_079 (phase_052)]]
-- Originates from [[Aquabyssos Content]]
+- Originates from [[[[Aquabyssos]] Content]]
 - Influences [[celtic-math-mathonwy (deities)]]
 - Compare with [[Semiautomatic Pistol Xdmg]]
-- Parallels [[Aboleth Adjunct Yzz (D&D_References)]]
-- Parallels [[Assets Locations Location City Whisper Island Docks V1 Whisper Island Docks.svg]]
+- Parallels [[[[Aboleth Adjunct Yzz]] (D&D_References)]]
+- Parallels [[Assets Locations [[Location City [[Whisper Island]] Docks V1 [[Whisper Island Docks]].svg]]]]
 - Related: [[ITEM01163_Superior_Herb_of_Vigor]]
 - See also: [[step_067 (phase_087)]]
 - See also: [[Travel Calculator (D&D_References)]]
@@ -277,21 +342,32 @@ Following magic item guidelines (DMG p.135-136):
 - See also: [[Assets Item Artifact Explorers Pack Xphb V4 Explorers Pack Xphb.png]]
 - Influences [[illithilich-vgm (undead)]]
 - See also: [[Chancellor Marcus Provinces]]
-- Requires [[Portrait NPC King Marcus Lumengarde King Marcus Lumengarde.svg_1 (Portraits)]]
+- Requires [[Portrait NPC King Marcus [[Lumengarde]] King Marcus Lumengarde.svg_1 (Portraits)]]
 - Connects to [[random-settlements-known-for-its (tables)]]
-- Requires [[Reality Anchor Networks (Items)]]
+- Requires [[[[Reality Anchor Network]]s (Items)]]
 - See also: [[ITEM0089_Blessed_Orb_of_the_Dawn]]
 - Affected by [[Princess Lyralei 2]]
 - Influences [[step_086 (phase_067)]]
 - Connects to [[Battle Map Descriptions]]
 - Connects to [[starry-wisp-xphb (spells)]]
 - Compare with [[Experience Points Xphb]]
-- Compare with [[Location City Ancient Treasury of Tides Ancient Treasury of Tides.svg]]
+- Compare with [[Location City [[Ancient Treasury of Tides]] Ancient Treasury of Tides.svg]]
 - Parallels [[NPC Directory.base (Lore)]]
-- Affected by [[Assets Locations Location City Liminal Constantinople Liminal Constantinople.svg]]
-- Connects to [[Security Quarters (D&D_References)]]
+- Affected by [[Assets Locations [[Location City [[Liminal Constantinople]] Liminal Constantinople.svg]]]]
+- Connects to [[[[Security Quarters]] (D&D_References)]]
 - Affected by [[ITEM01020_Lesser_Powder_of_Fortune]]
 - Leads to [[step_090 (phase_075)]]
 - Related: [[step_009]]
 - Compare with [[Arcane Assembly 2]]
 - Connects to [[The Masked Broker]]
+
+## Visual References
+![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

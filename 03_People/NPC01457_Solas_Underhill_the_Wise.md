@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Underhill the Wise
 
 *Human Bard (Adventurers), Age 74, Non-binary*

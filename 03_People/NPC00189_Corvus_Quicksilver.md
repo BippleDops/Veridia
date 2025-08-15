@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Corvus Quicksilver
 
 *Dwarf Aristocrat (Nobles), Age 67, Male*

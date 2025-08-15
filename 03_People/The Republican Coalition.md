@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.960473
+modified: 2025-08-15T16:41:47.960477
+aliases: [The Republican Coalition]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_the_republican_coalition_dramatic.png]]
+
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Relationships|Relationships]]
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+- [[#Oral_Tradition Improvements|Oral_Tradition Improvements]]
+
+
+---
 
 title: The Republican Coalition
 type: Npc
@@ -283,7 +308,7 @@ ___
 - Retreats when below 25% health
 
 ## Sourcebook Reference
-> Based on **Commoner** (MM p.345) with modifications
+> Based on **Commoner** (BC p.345) with modifications
 
 ## References
 

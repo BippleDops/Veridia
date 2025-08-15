@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Zephyr Underhill the Redeemed
 
 *Human Baker (Commoners), Age 41, Male*

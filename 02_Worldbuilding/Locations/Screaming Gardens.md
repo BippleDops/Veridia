@@ -420,3 +420,13 @@ Ongoing situations affecting Screaming Gardens:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00494_Lyanna_Hawthorne_the_Guardian]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]

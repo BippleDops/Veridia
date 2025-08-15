@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Dara Proudmore the Risen
 
 *Half-Orc Appraiser (Merchants), Age 57, Male*

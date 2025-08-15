@@ -223,3 +223,9 @@ Ongoing situations affecting The Diplomatic Quarter:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Orion Ravenheart the Risen
 
 *Halfling Trader (Merchants), Age 53, Male*

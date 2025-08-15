@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.059589
+modified: 2025-08-15T16:41:43.059592
+aliases: [NPC00341 Urien Jadeclaw the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Dawnstrider the Wanderer (Political - Ally)|Thalia Dawnstrider the Wanderer (Political - Ally)]]
+- [[#Solas Hawthorne the Cunning (Family - Cousin)|Solas Hawthorne the Cunning (Family - Cousin)]]
+- [[#Hestara Jadeclaw the Fallen (Professional - Employer)|Hestara Jadeclaw the Fallen (Professional - Employer)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Urien Jadeclaw the Risen", "urien jadeclaw the risen", "Urien Jadeclaw Risen", "Risen the Jadeclaw Urien"]
 tags: [npc, character]
@@ -159,11 +184,11 @@ Wants rivals investigated
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -273,3 +298,8 @@ Wants rivals investigated
 - Leads to [[Location City Scepter of Winter S Command V1 Scepter of Winter S Command.svg]]
 - Parallels [[SPELL00128_Nature_Spell_129]]
 - Connects to [[Legal Scholar Professor Depth Lawkeeper 2]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

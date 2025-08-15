@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.620961
+modified: 2025-08-15T16:41:45.620968
+aliases: [NPC01314 Corvus Nightfall the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Felicia Goldleaf the Lost (Criminal - Accomplice)|Felicia Goldleaf the Lost (Criminal - Accomplice)]]
+- [[#Baelor Ashford the Broken (Family - Child)|Baelor Ashford the Broken (Family - Child)]]
+- [[#Elric Zephyrblade the Broken (Personal - Nemesis)|Elric Zephyrblade the Broken (Personal - Nemesis)]]
+
+
+---
 aliases: ["Corvus Nightfall the Broken", "corvus nightfall the broken", "Corvus Nightfall Broken", "Broken the Nightfall Corvus"]
 tags: [npc, character]
 type: npc
@@ -244,3 +269,8 @@ Has information about legendary item
 - Originates from [[step_032]]
 - Influences [[The Great Convergence Prophecies 2]]
 - Affected by [[step_083 (phase_067)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

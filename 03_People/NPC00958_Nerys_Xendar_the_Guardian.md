@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Nerys Xendar the Guardian
 
 *Gnome Appraiser (Merchants), Age 33, Non-binary*

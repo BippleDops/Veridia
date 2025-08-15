@@ -307,3 +307,7 @@ Mentioned in The First Prophecy of Shadows
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01892_Gareth_Xendar_the_Scholar]]

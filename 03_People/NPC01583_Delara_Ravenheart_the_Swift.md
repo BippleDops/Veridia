@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Delara Ravenheart the Swift
 
 *Genasi Wizard (Adventurers), Age 67, Non-binary*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Dara Ashford the Bold
 
 *Genasi Appraiser (Merchants), Age 51, Male*

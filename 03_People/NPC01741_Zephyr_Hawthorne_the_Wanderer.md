@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Zephyr Hawthorne the Wanderer
 
 *Elf Cultist (Villains), Age 66, Female*

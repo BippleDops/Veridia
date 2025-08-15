@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.061839
+modified: 2025-08-15T16:41:42.061845
+aliases: [NPC01041 Thalia Dawnstrider the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aldric Thornweave the Broken (Family - Child)|Aldric Thornweave the Broken (Family - Child)]]
+- [[#Faelyn Proudmore the Guardian (Criminal - Fence)|Faelyn Proudmore the Guardian (Criminal - Fence)]]
+- [[#Branwen Dawnstrider the Lost (Political - Ally)|Branwen Dawnstrider the Lost (Political - Ally)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Thalia Dawnstrider the Lost", "thalia dawnstrider the lost", "Thalia Dawnstrider Lost", "Lost the Dawnstrider Thalia"]
 tags: [npc, character]
@@ -148,6 +169,23 @@ Seeks rare merchandise
 - Special moves
 
 ## See Also
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[Parliamentary_Voting_Guide]]
+- [[NPC00407_Hestara_Dawnstrider]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[09 Adventuring]]
+- [[Combat_Encounter_Analysis]]
+- [[Sanity_Quick_Reference.md]]
+- [[Quiet_Chapel_Oath_Scrol]]
+- [[Session_Recaps]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[11 Rules Glossary]]
+- [[MOC_Items]]
 - [[Related_Content]]
 
 
@@ -157,11 +195,11 @@ Seeks rare merchandise
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -271,3 +309,14 @@ Seeks rare merchandise
 - Requires [[The Crystal Cathedral of Pure Light 2]]
 - Leads to [[Location City the Living Quarters V1 the Living Quarters.svg]]
 - Connects to [[LOC00233_Dungeons_Location_234]]
+
+## Visual References
+![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

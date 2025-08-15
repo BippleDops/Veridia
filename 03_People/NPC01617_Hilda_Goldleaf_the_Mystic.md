@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hilda Goldleaf the Mystic
 
 *Halfling Cultist (Villains), Age 52, Female*

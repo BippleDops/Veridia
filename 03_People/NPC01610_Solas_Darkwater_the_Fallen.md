@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Darkwater the Fallen
 
 *Firbolg Assassin (Villains), Age 54, Male*

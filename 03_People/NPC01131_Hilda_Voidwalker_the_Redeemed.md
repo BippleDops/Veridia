@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Hilda Voidwalker the Redeemed
 
 *Half-Elf Appraiser (Merchants), Age 64, Non-binary*

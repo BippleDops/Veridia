@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Thalia Dawnstrider the Wise
 
 *Goliath Corrupt Noble (Villains), Age 19, Non-binary*

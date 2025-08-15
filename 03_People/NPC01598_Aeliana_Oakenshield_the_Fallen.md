@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.678102
+modified: 2025-08-15T16:41:42.678106
+aliases: [NPC01598 Aeliana Oakenshield the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Dara Ashford the Fallen (Political - Ally)|Dara Ashford the Fallen (Political - Ally)]]
+- [[#Hestara Xendar the Redeemed (Family - Parent)|Hestara Xendar the Redeemed (Family - Parent)]]
+- [[#Solas Nightfall the Wise (Professional - Employee)|Solas Nightfall the Wise (Professional - Employee)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Aeliana Oakenshield the Fallen", "aeliana oakenshield the fallen", "Aeliana Oakenshield Fallen", "Fallen the Oakenshield Aeliana"]
 tags: [npc, character]
@@ -149,16 +174,16 @@ Knows secret about major threat
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
 
@@ -168,8 +193,8 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -279,3 +304,8 @@ Following magic item guidelines (DMG p.135-136):
 - Affected by [[Portal Network (D&D_References)]]
 - Requires [[ITEM00022_Thunder_Staff_of_Slaying]]
 - Requires [[Crystal Corruption]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

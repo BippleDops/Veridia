@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Rhiannon Ashford the Wise
 
 *Gnome Ambassador (Nobles), Age 24, Female*

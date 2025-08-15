@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.753524
+modified: 2025-08-15T16:41:43.753528
+aliases: [NPC00752 Dara Ashford the Risen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Solas Crystalbrook the Broken (Personal - Childhood friend)|Solas Crystalbrook the Broken (Personal - Childhood friend)]]
+- [[#Urien Voidwalker the Mystic (Professional - Mentor)|Urien Voidwalker the Mystic (Professional - Mentor)]]
+- [[#Erasmus Emberfall the Wise (Political - Patron)|Erasmus Emberfall the Wise (Political - Patron)]]
+
+
+---
 aliases: ["Dara Ashford the Risen", "dara ashford the risen", "Dara Ashford Risen", "Risen the Ashford Dara"]
 tags: [npc, character]
 type: npc
@@ -243,3 +264,14 @@ Family member has gone missing
 - Compare with [[LORE00237_Prophecies_Entry_238]]
 - Influences [[Refugee Integration Protocols]]
 - Originates from [[step_003 (phase_020)]]
+
+## Visual References
+![[03_People/portrait_captain_dara_ironwill_friendly.png]]
+![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
+![[03_People/portrait_captain_dara_ironwill_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

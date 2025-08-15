@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Alaric Dawnstrider the Lost
 
 *Gnome Broker (Merchants), Age 67, Female*

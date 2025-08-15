@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ysara Silverleaf the Risen
 
 *Gnome Rogue (Adventurers), Age 21, Male*

@@ -332,3 +332,7 @@ Ongoing situations affecting The Cerulean Trench:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]

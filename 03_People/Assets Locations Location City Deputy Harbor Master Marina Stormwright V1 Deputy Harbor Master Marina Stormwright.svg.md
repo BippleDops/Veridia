@@ -19,6 +19,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_locations_location_city_deputy_harbor_master_marina_stormwright_v1_deputy_harbor_master_marina_stormwright_svg_standard.png]]
+
+
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*

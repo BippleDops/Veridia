@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hestara Lightbringer the Seeker
 
 *Tiefling Cleric (Adventurers), Age 54, Male*

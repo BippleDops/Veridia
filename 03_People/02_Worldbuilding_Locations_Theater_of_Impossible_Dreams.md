@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_02_worldbuilding_locations_theater_of_impossible_dreams.png]]
+
+
 # 02 Worldbuilding/Locations/Theater of Impossible Dreams
 
 ## Basic Information

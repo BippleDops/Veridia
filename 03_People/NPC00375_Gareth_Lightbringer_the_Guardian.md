@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Gareth Lightbringer the Guardian
 
 *Gnome Noble (Nobles), Age 56, Non-binary*

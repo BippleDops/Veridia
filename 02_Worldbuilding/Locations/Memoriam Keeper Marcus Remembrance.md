@@ -225,3 +225,10 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC01625_Qadim_Lightbringer_the_Swift]]

@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_symbols_symbol_heraldry_inventor_chief_adaptatio_inventor_chief_adaptatio_svg_friendly.png]]
+
+
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-inventor-chief-adaptatio-inventor-chief-adaptatio.svg)
 

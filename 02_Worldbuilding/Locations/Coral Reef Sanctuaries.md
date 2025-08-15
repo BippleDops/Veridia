@@ -218,3 +218,10 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC00407_Hestara_Dawnstrider]]

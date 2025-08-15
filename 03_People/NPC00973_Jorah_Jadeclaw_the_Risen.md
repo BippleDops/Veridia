@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.619776
+modified: 2025-08-15T16:41:43.619780
+aliases: [NPC00973 Jorah Jadeclaw the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Kaelen Silverleaf the Redeemed (Professional - Mentor)|Kaelen Silverleaf the Redeemed (Professional - Mentor)]]
+- [[#Elric Proudmore the Lost (Family - Spouse)|Elric Proudmore the Lost (Family - Spouse)]]
+- [[#Rhiannon Emberfall the Cunning (Personal - Ex-lover)|Rhiannon Emberfall the Cunning (Personal - Ex-lover)]]
+
+
+---
 aliases: ["Jorah Jadeclaw the Risen", "jorah jadeclaw the risen", "Jorah Jadeclaw Risen", "Risen the Jadeclaw Jorah"]
 tags: [npc, character]
 type: npc
@@ -241,3 +266,8 @@ Seeks rare merchandise
 - Affected by [[gust-of-wind-xphb (spells)]]
 - Connects to [[see-invisibility-xphb (spells)]]
 - See also: [[Foreign Crime Syndicate]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

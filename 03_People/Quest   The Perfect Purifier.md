@@ -5,6 +5,10 @@ race: Human
 occupation: Commoner
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-perfect-purifier-quest-the-perfect-purifier.svg]]
+
+
 # Quest   The Perfect Purifier
 
 *Human Commoner*

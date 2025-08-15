@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.127197
+modified: 2025-08-15T16:41:48.127198
+aliases: [NPC01808 Qadim Underhill the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Solas Proudmore the Cunning (Family - Sibling)|Solas Proudmore the Cunning (Family - Sibling)]]
+- [[#Ysara Youngblood the Strong (Professional - Rival)|Ysara Youngblood the Strong (Professional - Rival)]]
+- [[#Ewan Silverleaf the Strong (Personal - Nemesis)|Ewan Silverleaf the Strong (Personal - Nemesis)]]
+
+
+---
 aliases: ["Qadim Underhill the Wise", "qadim underhill the wise", "Qadim Underhill Wise", "Wise the Underhill Qadim"]
 tags: [npc, character]
 type: npc
@@ -155,3 +176,15 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

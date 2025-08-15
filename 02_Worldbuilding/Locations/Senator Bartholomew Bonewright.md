@@ -209,3 +209,9 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]

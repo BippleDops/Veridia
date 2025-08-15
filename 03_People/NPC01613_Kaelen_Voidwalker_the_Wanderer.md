@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.384517
+modified: 2025-08-15T16:41:41.384520
+aliases: [NPC01613 Kaelen Voidwalker the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Caelum Lightbringer the Strong (Personal - Nemesis)|Caelum Lightbringer the Strong (Personal - Nemesis)]]
+- [[#Fiora Voidwalker the Swift (Personal - Childhood friend)|Fiora Voidwalker the Swift (Personal - Childhood friend)]]
+- [[#Gareth Emberfall the Bold (Family - Child)|Gareth Emberfall the Bold (Family - Child)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Kaelen Voidwalker the Wanderer", "kaelen voidwalker the wanderer", "Kaelen Voidwalker Wanderer", "Wanderer the Voidwalker Kaelentags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
@@ -148,24 +169,60 @@ Blackmails party into service
 - Special moves
 
 ## See Also
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC00820_Thalia_Nightfall_the_Risen]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[Party_Inventory]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[Faction_Guide.md]]
+- [[What You Know - Abyssos Prime.md]]
+- [[Parliamentary_Voting_Guide]]
+- [[NPC00058_Elric_Nightfall]]
+- [[PROGRESS_REPORT_2025-08-10_SESSION3]]
+- [[NPC00162_Xander_Thornweave]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[16 Credits]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[MOC_Lore]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[MOC_Quests]]
+- [[Master_Narrative_Web.md]]
+- [[Complete_NPC_Matrix.md]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Player's Handbook (PHB) p.297
+- Adventurer's Codex (ACX) p.297
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -173,10 +230,10 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -186,15 +243,15 @@ Following magic item guidelines (DMG p.135-136):
 
 ## Connections
 
-- See also: [[Memorial District of Abyssos Prime]]
-- Originates from [[Tenebrarum Embassy (D&D_References)]]
+- See also: [[Memorial District of [[Abyssos Prime]]]]
+- Originates from [[[[Tenebrarum Embassy]] (D&D_References)]]
 - Originates from [[step_016 (phase_015)]]
 - Influences [[Business Coalitions]]
 - Compare with [[LORE0014_Secret_of_the_Fallen_Star]]
 - Parallels [[boots-of-speed-xdmg (items)]]
 - See also: [[step_022 (phase_015)]]
-- Leads to [[Location City Deep Watchfulrest V1 Deep Watchfulrest.svg]]
-- Originates from [[Assets Locations Location City High Chancellor Nerissa Deepcurrent V1 High Chancellor Nerissa Deepcurrent.svg]]
+- Leads to [[Location City [[Deep Watchfulrest]] V1 Deep Watchfulrest.svg]]
+- Originates from [[Assets Locations Location City [[High Chancellor Nerissa Deepcurrent]] V1 High Chancellor Nerissa Deepcurrent.svg]]
 - Compare with [[step_014]]
 - Compare with [[LORE00144_Prophecies_Entry_145]]
 - Influences [[Holy Symbol Varies Holy Symbols Xphb]]
@@ -204,7 +261,7 @@ Following magic item guidelines (DMG p.135-136):
 - Leads to [[step_042 (phase_078)]]
 - Leads to [[QUEST00304_Side_Quest_305]]
 - Connects to [[step_050 (phase_076)]]
-- Influences [[Location City Secondary Education V1 Secondary Education.svg]]
+- Influences [[Location City [[Secondary Education]] V1 Secondary Education.svg]]
 - Influences [[telepathy-xphb (spells)]]
 - Leads to [[Democratic Erosion 2]]
 - Requires [[step_007 (phase_062)]]
@@ -218,7 +275,7 @@ Following magic item guidelines (DMG p.135-136):
 - Originates from [[Investigation Log INV-000 (D&D_References)]]
 - Leads to [[step_091]]
 - Affected by [[House Crimsontiide]]
-- Connects to [[Assets Locations Location City the Aether Works V1 the Aether Works.svg]]
+- Connects to [[Assets Locations Location City [[The Aether Works]] V1 the Aether Works.svg]]
 - Connects to [[FAC00052_Orders_53]]
 - Requires [[step_073 (phase_041)]]
 - Connects to [[ITEM0097_Blessed_Tome_of_the_Dawn]]
@@ -242,19 +299,19 @@ Following magic item guidelines (DMG p.135-136):
 - Requires [[NPC01477_Solas_Crystalbrook_the_Risen]]
 - Originates from [[The Hall of Records]]
 - Affected by [[Crystal Guard]]
-- Connects to [[Master_People_Index]]
+- Connects to [[Master_People_[[INDEX]]]]
 - Influences [[portrait-npc-the-emperor-v2-the-emperor.svg_1 (Portraits)]]
 - See also: [[Tide-Speaker Nerida of House Abyssos]]
 - Compare with [[The Shadow Awakening]]
 - Requires [[NPC01835_Xander_Frostwhisper_the_Wise]]
-- Parallels [[Assets Locations Location City Luminous Hollow V1 Luminous Hollow.svg]]
+- Parallels [[Assets Locations [[Location City [[Luminous Hollow]] V1 Luminous Hollow.svg]]]]
 - Originates from [[Topic Matrix]]
 - Originates from [[War College of Depths (Lore)]]
-- Affected by [[Assets Locations Location City Safety Coordinator Reef Safeguard V1 Safety Coordinator Reef Safeguard.svg]]
+- Affected by [[Assets Locations Location City [[Safety Coordinator Reef Safeguard]] V1 Safety Coordinator Reef Safeguard.svg]]
 - Requires [[FAC00037_Orders_38]]
-- Influences [[Current Innovator 2]]
+- Influences [[[[Current Innovator]] 2]]
 - Influences [[symbol-heraldry-the-archivist-the-archivist.svg]]
-- Connects to [[Portrait NPC Lord General Harrison Ironhold V1 Lord General Harrison Ironhold.svg]]
+- Connects to [[Portrait NPC Lord General Harrison [[Ironhold]] V1 Lord General Harrison Ironhold.svg]]
 - Originates from [[step_094 (phase_008)]]
 - Leads to [[ITEM01226_Lesser_Herb_of_Vigor]]
 - Leads to [[Assets Item Artifact Whelm Xdmg V1 Whelm Xdmg.png]]
@@ -264,7 +321,7 @@ Following magic item guidelines (DMG p.135-136):
 - Affected by [[ENC00037_Social_Encounter_38]]
 - Leads to [[Phase Transition Special Effects 2]]
 - Compare with [[step_083 (phase_077)]]
-- Connects to [[Location City Memorial Tender Sarah Memorial Tender Sarah.svg]]
+- Connects to [[Location City [[Memorial Tender Sarah]] Memorial Tender Sarah.svg]]
 - Related: [[pony-xmm (beast)]]
 - Influences [[LOC00268_Towns_Location_269]]
 - Affected by [[SHOP00006_General_Shop_7]]
@@ -279,10 +336,21 @@ Following magic item guidelines (DMG p.135-136):
 - Requires [[LOC00273_Dungeons_Location_274]]
 - Compare with [[step_030 (phase_031)]]
 - Requires [[Location City Crystal Powered Vessels Crystal Powered Vessels.svg]]
-- Influences [[Assets Locations Location City Crisis Management V1 Crisis Management.svg]]
-- See also: [[Political Parties of Aquabyssos]]
+- Influences [[Assets Locations [[Location City [[Crisis Management]] V1 Crisis Management.svg]]]]
+- See also: [[Political Parties of [[Aquabyssos]]]]
 - Compare with [[Lieutenant Loyalt (D&D_References)]]
-- See also: [[Assets Locations Location City Noble Quarter V1 Noble Quarter.svg]]
+- See also: [[Assets Locations Location City [[Noble Quarter]] V1 Noble Quarter.svg]]
 - Connects to [[The Loyal Shadows]]
-- Parallels [[Assets Locations Location City Archivist Stone Memorykeeper Archivist Stone Memorykeeper.svg]]
+- Parallels [[Assets Locations Location City [[Archivist Stone Memorykeeper]] Archivist Stone Memorykeeper.svg]]
 - Affected by [[step_045 (phase_012)]]
+
+## Visual References
+![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
+![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
+![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

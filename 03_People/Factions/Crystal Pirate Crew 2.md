@@ -13,6 +13,10 @@ updated: '2025-08-13T12:34:17.305614+00:00'
 world: Aethermoor
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-crystal-pirate-crew-crystal-pirate-crew.svg)

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T16:41:31.874388
+modified: 2025-08-15T16:41:31.874391
+aliases: [11 Rules Glossary]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Prep Checklist|Prep Checklist]]
+- [[#Npcs Needed|Npcs Needed]]
+- [[#Locations|Locations]]
+- [[#Encounters|Encounters]]
+- [[#Props|Props]]
+- [[#Rules|Rules]]
+- [[#Campaign Connection|Campaign Connection]]
+- [[#See Also|See Also]]
+
+
+---
 
 title: 11 Rules Glossary
 type: note
@@ -26,7 +47,8 @@ tags:
 - active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/compendium/src/5e/x
+*The [texture] surface feels [description] to the touch.*phb
 
 created: 2025-07-23
 modified: '2025-08-14'
@@ -38,7 +60,7 @@ world: Both
 
 --- # Rules Glossary
 
-*Source: Player's Handbook (2024), p. 360* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Glossary Conventions The glossary uses the following conventions: - **Tags in Brackets.** Some entries have a tag in brackets after the entry's name, as in "Attack [Action]." A tag—Action, Area of Effect, Attitude, Condition, or Hazard—indicates that a rule is part of a family of rules. The tags also have glossary entries. - **"You.** " The game's rules—in this glossary and elsewhere—often talk about something happening to you in the game world. That "you" refers to the creature or object that the rule applies to in a particular moment of play. For example, the "you" in the [[conditions#prone|Prone]] condition is a creature that currently has that condition. - **"See Also.** " Some glossary entries include a See also section that points to other entries in the glossary, to chapters in this book, or both. - **No Obsolete Terms.** The glossary contains definitions of current rules terms only. If you're looking for a term from an earlier version of the fifth edition rules, consult the index. - **Abbreviations.** The abbreviations listed below appear in this glossary and elsewhere in the rules. ![[glossary-conventions-xphb (tables)]] ![](/03_Mechanics/CLI/books/players-handbook-2024/img/246-12-001-dungeon-border.webp#center) ## Rules Definitions Here are definitions of various rules. > [!embed-variantrule]- Ability Check
+*Source: Adventurer's Codex (2024), p. 360* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Glossary Conventions The glossary uses the following conventions: - **Tags in Brackets.** Some entries have a tag in brackets after the entry's name, as in "Attack [Action]." A tag—Action, Area of Effect, Attitude, Condition, or Hazard—indicates that a rule is part of a family of rules. The tags also have glossary entries. - **"You.** " The game's rules—in this glossary and elsewhere—often talk about something happening to you in the game world. That "you" refers to the creature or object that the rule applies to in a particular moment of play. For example, the "you" in the [[conditions#prone|Prone]] condition is a creature that currently has that condition. - **"See Also.** " Some glossary entries include a See also section that points to other entries in the glossary, to chapters in this book, or both. - **No Obsolete Terms.** The glossary contains definitions of current rules terms only. If you're looking for a term from an earlier version of the fifth edition rules, consult the index. - **Abbreviations.** The abbreviations listed below appear in this glossary and elsewhere in the rules. ![[glossary-conventions-xphb (tables)]] ![](/03_Mechanics/CLI/books/players-handbook-2024/img/246-12-001-dungeon-border.webp#center) ## Rules Definitions Here are definitions of various rules. > [!embed-variantrule]- Ability Check
 
 > ![[Ability Check Xphb]] > [!embed-variantrule]- Ability Score and Modifier
 
@@ -234,6 +256,11 @@ world: Both
 Connected to the main villain's plan
 
 ## See Also
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00719_Orion_Hawthorne_the_Cunning]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[12 Spells]]
+- [[10 Appendix B Creature Stat Blocks]]
 - [[Related_Content]]
 
 
@@ -243,30 +270,30 @@ Connected to the main villain's plan
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Death Saves**: See PHB p.197
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Brenna Ravenheart the Fallen
 
 *Aasimar Fighter (Adventurers), Age 72, Non-binary*

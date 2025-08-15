@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.504342
+modified: 2025-08-15T16:41:41.504348
+aliases: [NPC01781 Urien Keenblade the Cunning]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Fiora Winterborn the Redeemed (Personal - Nemesis)|Fiora Winterborn the Redeemed (Personal - Nemesis)]]
+- [[#Zephyr Blackstone the Fallen (Family - Cousin)|Zephyr Blackstone the Fallen (Family - Cousin)]]
+- [[#Rhiannon Brightblade the Wise (Family - Child)|Rhiannon Brightblade the Wise (Family - Child)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Urien Keenblade the Cunning", "urien keenblade the cunning", "Urien Keenblade Cunning", "Cunning the Keenblade Urientags: [npc, character, combat, magic, social, exploration, puzzle, lore]er]
 type: npc
@@ -13,7 +38,7 @@ type: npc
 ## Quick Reference
 - **Location**: Crossroads inn on the trade route
 - **Occupation**: Cult leader
-- **Disposition**: Laughs at the most inappropriate times
+- **Disposition**: Laughs at the most inappropriate [[Time]]s
 
 ## Appearance
 Tall and slender, with Short and neat blonde hair and Violet eyes. Freckled skin. Perfect white teeth that seem to gleam.
@@ -139,24 +164,58 @@ Provides information for a price
 - Special moves
 
 ## See Also
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[NPC01276_Erasmus_Keenblade_the_Wanderer]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[Sage Elara]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC01625_Qadim_Lightbringer_the_Swift]]
+- [[Sanity Quick Reference]]
+- [[NPC01970_Brenna_Dawnstrider_the_Wise]]
+- [[World_Primer.md]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[03 Races]]
+- [[11 Rules Glossary]]
+- [[16 Credits]]
+- [[Count_Strahd_von_Zarovich]]
+- [[MOC_Items]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC00207_Ysara_Ravenheart]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Mordenkainen's Tome of Foes (MTF) p.25
+- Mordenkainen's Forbidden Knowledge of Foes (MFK) p.25
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -164,9 +223,9 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -190,7 +249,7 @@ Following magic item guidelines (DMG p.135-136):
 - Affected by [[04_Resources_Assets_Symbols_symbol-heraldry-navigation-geography-navigation-geography.svg]]
 - Requires [[Wizard Xphb]]
 - Requires [[Chrysoprase Xdmg]]
-- See also: [[Luminous Laboratory District (D&D_References)]]
+- See also: [[[[Luminous Laboratory District]] (D&D_References)]]
 - Parallels [[Crystal Addiction Victims]]
 - Related: [[step_003 (phase_037)]]
 - Related: [[Imperial Nav]]
@@ -201,7 +260,7 @@ Following magic item guidelines (DMG p.135-136):
 - Parallels [[Polar Bear Xmm]]
 - Connects to [[Pressure Guard]]
 - Leads to [[NPC Directory.base (People)]]
-- Influences [[Location City Truth and Madness Truth and Madness.svg]]
+- Influences [[Location City [[Truth and Madness]] Truth and Madness.svg]]
 - Related: [[Pressure Symbiont]]
 - Related: [[Identity Protection Service]]
 - Connects to [[step_054 (phase_030)]]
@@ -217,7 +276,7 @@ Following magic item guidelines (DMG p.135-136):
 - Affected by [[meld-into-stone-xphb (spells)]]
 - Related: [[MON00162_Undead_Creature_163]]
 - Leads to [[step_033 (phase_060)]]
-- Influences [[Aquabyssos_Character_Backgrounds]]
+- Influences [[[[Aquabyssos]]_Character_Backgrounds]]
 - Requires [[The Divine Reconciliation]]
 - Requires [[MON00157_Undead_Creature_158]]
 - Affected by [[LOC00004_Wilderness_Location_5]]
@@ -225,7 +284,7 @@ Following magic item guidelines (DMG p.135-136):
 - Compare with [[step_036]]
 - See also: [[Eldritch Smite Xphb]]
 - See also: [[Portrait NPC Shadow Parliament V2 Shadow Parliament.svg_1 (Portraits)]]
-- Affected by [[Deep Compressmaster (D&D_References)]]
+- Affected by [[[[Deep Compressmaster]] (D&D_References)]]
 - Parallels [[Ficial Corruption]]
 - Connects to [[step_014 (phase_048)]]
 - Parallels [[Dr Coral Mindmend]]
@@ -233,9 +292,9 @@ Following magic item guidelines (DMG p.135-136):
 - Related: [[Bandit Leader Scarface]]
 - Affected by [[The Throne Pretenders]]
 - See also: [[Actions Xphb]]
-- Influences [[Location City Environmental Monitor Reef Ecowatch Environmental Monitor Reef Ecowatch.svg]]
+- Influences [[Location City [[Environmental Monitor Reef Ecowatch]] Environmental Monitor Reef Ecowatch.svg]]
 - Originates from [[Npc Portraits Gallery (D&D_References)]]
-- Related: [[Assets Locations Location City Depth Wardens Depth Wardens.svg]]
+- Related: [[Assets Locations Location City [[Depth Warden]]s [[Depth Wardens]].svg]]
 - See also: [[Aberrant Cults (Cults_and_Movements)]]
 - Leads to [[Aquabyssos - Session 01 - The Drowning Welcome]]
 - Affected by [[step_073]]
@@ -251,7 +310,7 @@ Following magic item guidelines (DMG p.135-136):
 - Parallels [[NPC00669_Zephyr_Youngblood_the_Lost]]
 - Originates from [[sensory_immersion_techniques]]
 - Related: [[LORE00138_History_Entry_139]]
-- Leads to [[Assets Locations Location City Crystallization Process V1 Crystallization Process.png]]
+- Leads to [[Assets Locations Location City [[Crystallization Process]] V1 Crystallization Process.png]]
 - Requires [[step_033]]
 - Leads to [[step_077 (phase_014)]]
 - Affected by [[alhoon-mpmm (undead)]]
@@ -262,17 +321,22 @@ Following magic item guidelines (DMG p.135-136):
 - Related: [[step_079 (phase_049)]]
 - Compare with [[Portrait NPC Duke Theron Depthguard V1 Duke Theron Depthguard.svg]]
 - Requires [[LORE00279_Prophecies_Entry_280]]
-- Compare with [[Assets Locations Location City Chief Inspector Magnus Ledgerkeep V1 Chief Inspector Magnus Ledgerkeep.svg]]
+- Compare with [[Assets Locations [[Location City [[Chief Inspector [[Magnus Ledgerkeep]]]] V1 Chief Inspector Magnus Ledgerkeep.svg]]]]
 - Related: [[International Temporal Safety Counci]]
 - Affected by [[Oracle Pelagic Deepgaze]]
-- Requires [[Location City the Deep Patrol V1 the Deep Patrol.svg]]
+- Requires [[Location City [[The Deep Patrol]] V1 the Deep Patrol.svg]]
 - Originates from [[step_076 (phase_087)]]
-- See also: [[Assets Locations Location City Liberty Coalition Liberty Coalition.svg]]
+- See also: [[Assets Locations [[Location City [[Liberty Coalition]] Liberty Coalition.svg]]]]
 - Influences [[step_045 (phase_037)]]
-- Leads to [[Discover Shadow Market Location (D&D_References)]]
+- Leads to [[[[Discover Shadow Market Location]] (D&D_References)]]
 - Influences [[supernatural-hooks-xdmg (tables)]]
 - Related: [[step_044]]
 - See also: [[LOC00287_Wilderness_Location_288]]
 - Requires [[Snake Horror Rot]]
 - See also: [[befuddlement-xphb (spells)]]
 - Related: [[Assets Handouts Handout Handout Docking Permit V1 Docking Permit.png]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

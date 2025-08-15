@@ -685,3 +685,8 @@ Ongoing situations affecting The Sinking Atoll:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[yuan-ti-pit-master-mpmm]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]

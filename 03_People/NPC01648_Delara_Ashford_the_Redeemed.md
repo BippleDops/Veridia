@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Delara Ashford the Redeemed
 
 *Elf Cultist (Villains), Age 68, Non-binary*

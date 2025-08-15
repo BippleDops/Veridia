@@ -612,3 +612,7 @@ Ongoing situations affecting Abyssos Prime - Pressure Terminal:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]

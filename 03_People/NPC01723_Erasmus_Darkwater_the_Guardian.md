@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Erasmus Darkwater the Guardian
 
 *Half-Orc Assassin (Villains), Age 35, Male*

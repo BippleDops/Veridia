@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.033892
+modified: 2025-08-15T16:41:41.033896
+aliases: [NPC01994 Orion Brightblade the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Branwen Crystalbrook the Lost (Personal - Ex-lover)|Branwen Crystalbrook the Lost (Personal - Ex-lover)]]
+- [[#Aeliana Frostwhisper the Risen (Professional - Partner)|Aeliana Frostwhisper the Risen (Professional - Partner)]]
+- [[#Thalia Ashford the Wanderer (Professional - Mentor)|Thalia Ashford the Wanderer (Professional - Mentor)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Orion Brightblade the Risen", "orion brightblade the risen", "Orion Brightblade Risen", "Risen the Brightblade Oriontags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
@@ -99,7 +124,7 @@ Deception, Intimidation, Survival
 - "This is a dangerous place to wander."
 
 ### Catchphrases
-- "Time will tell."
+- "[[Time]] will tell."
 - "Everyone has a price."
 
 ### Knowledge
@@ -136,13 +161,57 @@ Is secretly testing the party
 - Special moves
 
 ## Combat Stats
-Base: **Bandit** (MM p.343)
+Base: **Bandit** (BC p.343)
 Modifications:
 - HP: 42
 - AC: 13
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[Party_Inventory]]
+- [[Propaganda_Broadsheet_Syndicate.md]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC00080_Branwen_Proudmore]]
+- [[Sanity_Quick_Reference.md]]
+- [[Downtime_Activities]]
+- [[14 Gods of the Multiverse]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[08 Using Ability Scores]]
+- [[16 Credits]]
+- [[NPC00649_Corvus_Zephyrblade_the_Broken]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[11 Rules Glossary]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[Character_Journal_Template]]
+- [[Faction_Relationship_Web]]
+- [[MASTER_MOC]]
+- [[Master_Narrative_Web.md]]
 - [[Related_Content]]
 
 
@@ -152,10 +221,10 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -167,23 +236,23 @@ Modifications:
 
 - Connects to [[magic-item-purchase-complications-xge (tables)]]
 - Parallels [[LORE00143_Prophecies_Entry_144]]
-- Originates from [[Community Organizations (D&D_References)]]
-- Related: [[The Tethyan Hegemony]]
+- Originates from [[[[Community Organizations]] (D&D_References)]]
+- Related: [[The [[Tethyan Hegemony]]]]
 - Leads to [[QUEST00120_Side_Quest_121]]
 - Compare with [[step_097]]
-- Influences [[Assets Locations Location City Void Prophet Nullus the Erased V1 Void Prophet Nullus the Erased.svg]]
+- Influences [[Assets Locations Location City [[Void Prophet Nullus the Erased]] V1 Void Prophet Nullus the Erased.svg]]
 - Parallels [[Portrait_Prompts - NPCs]]
 - Affected by [[Cultural Studies Program]]
 - Leads to [[Lyre Xphb]]
 - Affected by [[step_073]]
 - Leads to [[step_072 (phase_058)]]
-- Compare with [[Assets Locations Location City Grief Overwhelming Syndrome Grief Overwhelming Syndrome.svg]]
+- Compare with [[Assets Locations [[Location City [[Grief Overwhelming Syndrome]] Grief Overwhelming Syndrome.svg]]]]
 - Parallels [[The First King's Diary (D&D_References)]]
 - See also: [[Treaty of the Depths]]
 - Connects to [[Obsidian Statuette With Gold Fittings and]]
 - Compare with [[Examples of Faction Ranks]]
 - Originates from [[step_066 (phase_046)]]
-- Connects to [[Ancient Historian Memento (D&D_References)]]
+- Connects to [[[[Ancient Historian Memento]] (D&D_References)]]
 - Compare with [[step_033 (phase_075)]]
 - See also: [[Deep Mining Guild]]
 - Leads to [[Information Storage Crystals]]
@@ -194,14 +263,14 @@ Modifications:
 - Leads to [[obsidian-xdmg (items)]]
 - Affected by [[NPC01611_Gavril_Ironwood_the_Wise]]
 - Leads to [[ENC00008_Social_Encounter_9]]
-- Requires [[Location City Professional Associations Professional Associations.svg]]
+- Requires [[Location City [[Professional Associations]] Professional Associations.svg]]
 - Compare with [[copper-chalice-with-silver-filigree-xdmg (items)]]
 - Parallels [[step_060 (phase_014)]]
 - Influences [[ITEM00201_Cursed_Staff_of_Accuracy]]
 - Requires [[Deep Current Networks]]
 - Originates from [[Portrait NPC Quest the Deep Mother S Truth V1 Quest the Deep Mother S Truth.svg]]
 - Leads to [[FAC00003_Cults_4]]
-- Leads to [[Location City Abyssal Territories Abyssal Territories.svg]]
+- Leads to [[Location City [[Abyssal Territories]] Abyssal Territories.svg]]
 - Compare with [[MON00012_Constructs_Creature_13]]
 - Originates from [[ITEM00448_Adamantine_Leather_of_Protection]]
 - Connects to [[step_047 (phase_038)]]
@@ -220,7 +289,7 @@ Modifications:
 - Related: [[Quest - Harbor Expansion_1 (01_Adventures)]]
 - Requires [[Parliament Building Maps]]
 - Leads to [[step_090 (phase_024)]]
-- Influences [[Location City Master Curator Pearl Artflow V1 Master Curator Pearl Artflow.svg]]
+- Influences [[Location City [[Master Curator Pearl Artflow]] V1 Master Curator Pearl Artflow.svg]]
 - Requires [[step_079 (phase_093)]]
 - Compare with [[location-city-fire-crystals-v1-fire-crystals.svg]]
 - Connects to [[Shadow_Surgeon_Rogue]]
@@ -237,7 +306,7 @@ Modifications:
 - Parallels [[04_Resources_Assets_Portraits_portrait-npc-lady-celestine-windborne-lady-celestine-windborne.svg_Quick_Ref]]
 - Requires [[Cloud of Daggers Xphb]]
 - Requires [[ITEM01238_Pure_Oil_of_Swiftness]]
-- Leads to [[Customer Relations Director Seraphina Calmcurrent (D&D_References)]]
+- Leads to [[[[Customer Relations Director Seraphina Calmcurrent]] (D&D_References)]]
 - Originates from [[Reference Quick Reference Dnd5e DM Screen 2014]]
 - Connects to [[step_064 (phase_046)]]
 - Requires [[Scholar-Priest Tidal-Memory (D&D_References)]]
@@ -247,9 +316,9 @@ Modifications:
 - Connects to [[step_099]]
 - Compare with [[step_068]]
 - Compare with [[Assets Handouts Handout Handout Aged Treasure Map V2 Aged Treasure Map.png]]
-- Related: [[Assets Locations Location City Admiral Thalassa Stormcurrent V1 Admiral Thalassa Stormcurrent.svg]]
+- Related: [[Assets Locations Location City [[Admiral Thalassa Stormcurrent]] V1 Admiral Thalassa Stormcurrent.svg]]
 - Requires [[step_056 (phase_027)]]
-- Affected by [[Assets Locations Location City Storm Guard Storm Guard.svg]]
+- Affected by [[Assets Locations Location City [[Storm Guard]] Storm Guard.svg]]
 - Originates from [[Lord_Lady_Chamberlain_Court_Manager]]
 - Affected by [[NPC01993_Drusilla_Ironwood_the_Risen]]
 - Parallels [[NPC00027_Faelyn_Proudmore]]
@@ -260,8 +329,13 @@ Modifications:
 - Originates from [[witherbloom-primer-scc (items)]]
 - See also: [[Quest - Parliamentary Infiltratio]]
 - Affected by [[duergar-screamer-mpmm (construct)]]
-- Connects to [[Location City the Spiral Sanctum the Spiral Sanctum.svg]]
+- Connects to [[Location City [[The Spiral Sanctum]] the Spiral Sanctum.svg]]
 - Originates from [[Session 02 (06_Sessions)]]
 - Leads to [[step_008 (phase_097)]]
 - Affected by [[Marcus the Jus]]
 - Related: [[The Brotherhood of the Black Anchor 2]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

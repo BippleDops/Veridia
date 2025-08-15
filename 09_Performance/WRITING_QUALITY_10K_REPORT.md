@@ -1,4 +1,5 @@
 ---
+enhanced: true
 enhanced: trtags: [enhanced, 09_performance, combat, magic, exploration, puzzle, lore]ce]
 created: 2025-08-15T12:24:36.161414
 modified: 2025-08-15T12:24:36.161418
@@ -278,25 +279,25 @@ Your TTRPG vault is now not just organized and complete - it's beautifully writt
 - [[NEXT_LEVEL_IMPROVEMENTS]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Combat**: See PHB p.189-198
-- **Resting**: See PHB p.186
+- **Ability Checks**: See ACX p.174
+- **Combat**: See ACX p.189-198
+- **Resting**: See ACX p.186
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

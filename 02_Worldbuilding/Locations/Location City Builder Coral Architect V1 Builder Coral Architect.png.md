@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Builder Coral Ar
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]

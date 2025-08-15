@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Lightbringer the Bold
 
 *Tiefling Ranger (Adventurers), Age 64, Male*

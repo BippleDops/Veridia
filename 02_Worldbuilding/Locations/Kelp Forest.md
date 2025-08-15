@@ -236,3 +236,8 @@ Mentioned in The Hidden Prophecy of Shadows
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]

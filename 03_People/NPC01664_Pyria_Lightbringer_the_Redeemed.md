@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.763587
+modified: 2025-08-15T16:41:41.763593
+aliases: [NPC01664 Pyria Lightbringer the Redeemed]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Qadim Proudmore the Redeemed (Professional - Employer)|Qadim Proudmore the Redeemed (Professional - Employer)]]
+- [[#Vesper Youngblood the Lost (Political - Opposition)|Vesper Youngblood the Lost (Political - Opposition)]]
+- [[#Ysara Ravenheart the Wise (Criminal - Handler)|Ysara Ravenheart the Wise (Criminal - Handler)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Pyria Lightbringer the Redeemed", "pyria lightbringer the redeemed", "Pyria Lightbringer Redeemed", "Redeemed the Lightbringer Pyria"]
 tags: [npc, character]
@@ -152,6 +173,16 @@ Provides information for a price
 - Special moves
 
 ## See Also
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00259_Delara_Proudmore]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Parliamentary_Voting_Guide]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[10 Combat]]
+- [[11 Rules Glossary]]
 - [[Related_Content]]
 
 
@@ -161,9 +192,9 @@ Provides information for a price
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -273,3 +304,14 @@ Provides information for a price
 - Requires [[ENC0099_Random_Encounter_100]]
 - Related: [[Blanket Xphb]]
 - Compare with [[Murgaxor Scc]]
+
+## Visual References
+![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

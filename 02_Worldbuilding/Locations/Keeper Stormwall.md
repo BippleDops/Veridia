@@ -232,3 +232,7 @@ Ongoing situations affecting Keeper Stormwall:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00494_Lyanna_Hawthorne_the_Guardian]]

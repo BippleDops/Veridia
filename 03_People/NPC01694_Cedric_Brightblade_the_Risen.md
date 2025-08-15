@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.077855
+modified: 2025-08-15T16:41:46.077859
+aliases: [NPC01694 Cedric Brightblade the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Caelum Ironforge the Lost (Criminal - Fence)|Caelum Ironforge the Lost (Criminal - Fence)]]
+- [[#Rhiannon Underhill the Risen (Family - Spouse)|Rhiannon Underhill the Risen (Family - Spouse)]]
+- [[#Gavril Grimholt the Lost (Political - Puppet)|Gavril Grimholt the Lost (Political - Puppet)]]
+
+
+---
 aliases: ["Cedric Brightblade the Risen", "cedric brightblade the risen", "Cedric Brightblade Risen", "Risen the Brightblade Cedric"]
 tags: [npc, character]
 type: npc
@@ -241,3 +266,8 @@ Blackmails party into service
 - Leads to [[Portrait NPC Archdruid Thornweaver Archdruid Thornweaver.svg_1 (Portraits)]]
 - Originates from [[NPC01657_Dara_Dawnstrider_the_Mystic]]
 - Parallels [[NPC01990_Corvus_Frostwhisper_the_Wise]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

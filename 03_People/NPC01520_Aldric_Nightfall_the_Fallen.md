@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Aldric Nightfall the Fallen
 
 *Half-Orc Cleric (Adventurers), Age 70, Female*

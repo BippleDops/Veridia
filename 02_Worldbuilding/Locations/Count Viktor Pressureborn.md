@@ -229,3 +229,8 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00922_Wynne_Youngblood_the_Fallen]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]

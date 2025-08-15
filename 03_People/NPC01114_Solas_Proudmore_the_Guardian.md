@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Proudmore the Guardian
 
 *Tiefling Appraiser (Merchants), Age 54, Male*

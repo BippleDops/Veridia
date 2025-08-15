@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.974043
+modified: 2025-08-15T16:41:42.974045
+aliases: [NPC01739 Hilda Xendar the Cunning]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aeliana Emberfall the Cunning (Criminal - Accomplice)|Aeliana Emberfall the Cunning (Criminal - Accomplice)]]
+- [[#Lyanna Crystalbrook the Risen (Professional - Partner)|Lyanna Crystalbrook the Risen (Professional - Partner)]]
+- [[#Drusilla Dawnstrider the Wise (Criminal - Informant)|Drusilla Dawnstrider the Wise (Criminal - Informant)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Hilda Xendar the Cunning", "hilda xendar the cunning", "Hilda Xendar Cunning", "Cunning the Xendar Hilda"]
 tags: [npc, character]
@@ -152,10 +177,10 @@ Offers deal too good to refuse
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -265,3 +290,8 @@ Offers deal too good to refuse
 - Compare with [[Assets Locations Location City Temple of the Healing Waters V1 Temple of the Healing Waters.svg]]
 - Related: [[Private Arbitration 2]]
 - Leads to [[MON00142_Undead_Creature_143]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

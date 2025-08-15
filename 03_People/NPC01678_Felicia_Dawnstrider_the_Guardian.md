@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Felicia Dawnstrider the Guardian
 
 *Tabaxi Assassin (Villains), Age 35, Non-binary*

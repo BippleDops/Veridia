@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.016806
+modified: 2025-08-15T16:41:42.016809
+aliases: [NPC01113 Solas Ravenheart the Cunning]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Idris Emberfall the Cunning (Political - Patron)|Idris Emberfall the Cunning (Political - Patron)]]
+- [[#Fiora Keenblade the Wise (Criminal - Informant)|Fiora Keenblade the Wise (Criminal - Informant)]]
+- [[#Branwen Stormwind the Mystic (Family - Child)|Branwen Stormwind the Mystic (Family - Child)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Solas Ravenheart the Cunning", "solas ravenheart the cunning", "Solas Ravenheart Cunning", "Cunning the Ravenheart Solas"]
 tags: [npc, character]
@@ -148,6 +173,24 @@ Has map to lost treasure
 - Special moves
 
 ## See Also
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[Depth_Adapted_Background]]
+- [[Party_Quests]]
+- [[Player_Portal.md]]
+- [[What You Know - Abyssos Prime.md]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[Sanity_Quick_Reference.md]]
+- [[Sanity Quick Reference]]
+- [[10 Combat]]
 - [[Related_Content]]
 
 
@@ -157,9 +200,9 @@ Has map to lost treasure
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -269,3 +312,8 @@ Has map to lost treasure
 - Compare with [[ITEM00542_Ethereal_Cloak_of_Fortitude]]
 - Related: [[Frequency Manipulatio]]
 - Related: [[shortbow-xphb (items)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

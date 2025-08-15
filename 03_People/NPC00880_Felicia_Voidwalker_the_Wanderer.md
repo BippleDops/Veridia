@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Felicia Voidwalker the Wanderer
 
 *Tabaxi Broker (Merchants), Age 27, Non-binary*

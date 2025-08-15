@@ -238,3 +238,9 @@ Ongoing situations affecting Legal Profession:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00287_Ysara_Underhill_the_Wise]]
+- [[NPC01286_Xander_Proudmore_the_Bold]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]

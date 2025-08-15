@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aeliana Thornweave the Wise
 
 *Half-Elf Fisher (Commoners), Age 75, Non-binary*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.372803
+modified: 2025-08-15T16:41:44.372809
+aliases: [NPC00847 Caelum Goldleaf the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Orion Dawnstrider the Fallen (Personal - Best friend)|Orion Dawnstrider the Fallen (Personal - Best friend)]]
+- [[#Corvus Lightbringer the Mystic (Personal - Nemesis)|Corvus Lightbringer the Mystic (Personal - Nemesis)]]
+- [[#Qadim Crystalbrook the Wise (Political - Opposition)|Qadim Crystalbrook the Wise (Political - Opposition)]]
+
+
+---
 aliases: ["Caelum Goldleaf the Mystic", "caelum goldleaf the mystic", "Caelum Goldleaf Mystic", "Mystic the Goldleaf Caelum"]
 tags: [npc, character]
 type: npc
@@ -250,3 +271,14 @@ Caravan needs guards
 - Requires [[step_013]]
 - Compare with [[step_057]]
 - See also: [[Template_StarSystem_Placeholder.png_2 (09_Templates)]]
+
+## Visual References
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

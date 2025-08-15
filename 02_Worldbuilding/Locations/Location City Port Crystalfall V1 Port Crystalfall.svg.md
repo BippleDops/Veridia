@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Port Crystalfall
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00815_Baelor_Thornweave_the_Swift]]

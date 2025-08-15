@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.913063
+modified: 2025-08-15T16:41:45.913065
+aliases: [NPC00835 Urien Jadeclaw the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Nerys Jadeclaw the Broken (Professional - Partner)|Nerys Jadeclaw the Broken (Professional - Partner)]]
+- [[#Rhiannon Blackstone the Fallen (Political - Opposition)|Rhiannon Blackstone the Fallen (Political - Opposition)]]
+- [[#Qadim Proudmore the Guardian (Personal - Nemesis)|Qadim Proudmore the Guardian (Personal - Nemesis)]]
+
+
+---
 aliases: ["Urien Jadeclaw the Wanderer", "urien jadeclaw the wanderer", "Urien Jadeclaw Wanderer", "Wanderer the Jadeclaw Urien"]
 tags: [npc, character]
 type: npc
@@ -245,3 +266,14 @@ Caravan needs guards
 - Connects to [[monsters-by-habitat-grassland-monsters-xmm (tables)]]
 - Compare with [[Plot_Threads]]
 - Parallels [[Brontosaurus Mpmm]]
+
+## Visual References
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

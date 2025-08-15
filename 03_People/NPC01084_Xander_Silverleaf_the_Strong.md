@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.067972
+modified: 2025-08-15T16:41:43.067974
+aliases: [NPC01084 Xander Silverleaf the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Vesper Goldleaf the Wanderer (Personal - Nemesis)|Vesper Goldleaf the Wanderer (Personal - Nemesis)]]
+- [[#Aeliana Darkwater the Guardian (Personal - Love interest)|Aeliana Darkwater the Guardian (Personal - Love interest)]]
+- [[#Wynne Voidwalker the Strong (Family - Parent)|Wynne Voidwalker the Strong (Family - Parent)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Xander Silverleaf the Strong", "xander silverleaf the strong", "Xander Silverleaf Strong", "Strong the Silverleaf Xander"]
 tags: [npc, character]
@@ -152,11 +173,11 @@ Competitor sabotaging business
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -266,3 +287,14 @@ Competitor sabotaging business
 - Originates from [[step_079 (phase_099)]]
 - See also: [[step_083]]
 - Connects to [[Jasper Worldbridge]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gavril Crystalbrook the Seeker
 
 *Halfling Shopkeeper (Merchants), Age 45, Male*

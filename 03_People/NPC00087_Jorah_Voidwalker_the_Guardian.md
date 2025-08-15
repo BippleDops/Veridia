@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Jorah Voidwalker the Guardian
 
 *Dwarf Courtier (Nobles), Age 64, Male*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Alaric Darkwater the Redeemed
 
 *Dragonborn Dark Wizard (Villains), Age 22, Male*

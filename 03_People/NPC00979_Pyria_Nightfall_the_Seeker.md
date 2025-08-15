@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Pyria Nightfall the Seeker
 
 *Dragonborn Caravan Master (Merchants), Age 73, Female*

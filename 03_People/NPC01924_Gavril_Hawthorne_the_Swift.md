@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gavril Hawthorne the Swift
 
 *Genasi Cultist (Villains), Age 58, Non-binary*

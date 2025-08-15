@@ -239,3 +239,11 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC00351_Corvus_Ironwood]]

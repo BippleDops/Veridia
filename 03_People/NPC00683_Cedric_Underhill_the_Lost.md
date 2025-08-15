@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.073202
+modified: 2025-08-15T16:41:44.073205
+aliases: [NPC00683 Cedric Underhill the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Xander Youngblood the Strong (Professional - Employer)|Xander Youngblood the Strong (Professional - Employer)]]
+- [[#Aeliana Blackstone the Swift (Political - Puppet)|Aeliana Blackstone the Swift (Political - Puppet)]]
+- [[#Brenna Quicksilver the Mystic (Political - Spy)|Brenna Quicksilver the Mystic (Political - Spy)]]
+
+
+---
 aliases: ["Cedric Underhill the Lost", "cedric underhill the lost", "Cedric Underhill Lost", "Lost the Underhill Cedric"]
 tags: [npc, character]
 type: npc
@@ -244,3 +265,14 @@ Witnessed a crime
 - Affected by [[step_021 (phase_011)]]
 - Connects to [[Session 06 (The_Sunken_Conspiracy)]]
 - Originates from [[Location City Religious Religious Groups.svg]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

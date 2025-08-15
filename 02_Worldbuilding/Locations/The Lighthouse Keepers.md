@@ -242,3 +242,9 @@ Ongoing situations affecting The Lighthouse Keepers:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00393_Kaelen_Grimholt]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]

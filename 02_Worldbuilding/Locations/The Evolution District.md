@@ -233,3 +233,9 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC01625_Qadim_Lightbringer_the_Swift]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]

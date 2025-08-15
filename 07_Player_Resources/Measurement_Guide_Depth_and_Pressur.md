@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:39.635779
+modified: 2025-08-15T16:41:39.635784
+aliases: [Measurement Guide Depth and Pressur]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Evolution Improvements|Evolution Improvements]]
+- [[#Superstitions Improvements|Superstitions Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+- [[#Material_Culture Improvements|Material_Culture Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Visual_Handouts/Measurement_Guide_Depth_and_Pressur
 type: lore
@@ -108,6 +129,7 @@ tags: [combat, lore]
 > Additional context or lore
 
 ## See Also
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
 - [[Related_Content]]
 
 
@@ -117,14 +139,14 @@ tags: [combat, lore]
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -228,3 +250,8 @@ tags: [combat, lore]
 - Related: [[step_062]]
 - Influences [[step_012 (phase_094)]]
 - Parallels [[Location City the Exotic Emporium V1 the Exotic Emporium.svg]]
+
+## Visual References
+![[03_People/portrait_gallery_guide_captain_marina_civicvoice_standard.png]]
+![[03_People/portrait_assets_locations_location_city_pilgrimage_master_depth_guide_melancholy_v1_pilgrimage_master_depth_guide_melancholy_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_pilgrimage_master_depth_guide_melancholy_v1_pilgrimage_master_depth_guide_melancholy_svg_standard.png]]

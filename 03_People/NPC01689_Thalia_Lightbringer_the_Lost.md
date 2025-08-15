@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Thalia Lightbringer the Lost
 
 *Dragonborn Cultist (Villains), Age 27, Non-binary*

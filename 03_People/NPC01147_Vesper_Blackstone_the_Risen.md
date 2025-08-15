@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.814558
+modified: 2025-08-15T16:41:45.814563
+aliases: [NPC01147 Vesper Blackstone the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Urien Goldleaf the Scholar (Personal - Best friend)|Urien Goldleaf the Scholar (Personal - Best friend)]]
+- [[#Pyria Proudmore the Wise (Family - Cousin)|Pyria Proudmore the Wise (Family - Cousin)]]
+- [[#Hestara Underhill the Broken (Criminal - Accomplice)|Hestara Underhill the Broken (Criminal - Accomplice)]]
+
+
+---
 aliases: ["Vesper Blackstone the Risen", "vesper blackstone the risen", "Vesper Blackstone Risen", "Risen the Blackstone Vesper"]
 tags: [npc, character]
 type: npc
@@ -244,3 +269,8 @@ Competitor sabotaging business
 - Originates from [[step_057 (phase_021)]]
 - Related: [[step_063 (phase_096)]]
 - Related: [[02_Worldbuilding_Lore_Planar_Breaches_of_Aquabyssos]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

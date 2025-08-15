@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hilda Dawnstrider the Guardian
 
 *Elf Blacksmith (Commoners), Age 47, Non-binary*

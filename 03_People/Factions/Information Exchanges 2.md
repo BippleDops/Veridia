@@ -13,6 +13,10 @@ updated: '2025-08-13T12:34:17.284405+00:00'
 world: Both
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-information-exchanges-information-exchanges.svg)

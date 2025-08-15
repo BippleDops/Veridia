@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.509121
+modified: 2025-08-15T16:41:45.509124
+aliases: [NPC01529 Brenna Darkwater the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ewan Ashford the Cunning (Criminal - Informant)|Ewan Ashford the Cunning (Criminal - Informant)]]
+- [[#Malakai Keenblade the Broken (Political - Puppet)|Malakai Keenblade the Broken (Political - Puppet)]]
+- [[#Erasmus Jadeclaw the Wanderer (Criminal - Handler)|Erasmus Jadeclaw the Wanderer (Criminal - Handler)]]
+
+
+---
 aliases: ["Brenna Darkwater the Scholar", "brenna darkwater the scholar", "Brenna Darkwater Scholar", "Scholar the Darkwater Brenna"]
 tags: [npc, character]
 type: npc
@@ -246,3 +267,14 @@ Needs help with personal quest
 - Connects to [[SPELL00046_Arcane_Spell_47]]
 - Affected by [[SPELL00039_Nature_Spell_40]]
 - Related: [[step_025 (phase_095)]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

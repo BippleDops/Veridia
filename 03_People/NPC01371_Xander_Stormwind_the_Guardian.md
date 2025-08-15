@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.007856
+modified: 2025-08-15T16:41:41.007861
+aliases: [NPC01371 Xander Stormwind the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Pyria Moonshadow the Guardian (Professional - Rival)|Pyria Moonshadow the Guardian (Professional - Rival)]]
+- [[#Nerys Silverleaf the Wise (Professional - Employer)|Nerys Silverleaf the Wise (Professional - Employer)]]
+- [[#Brenna Brightblade the Risen (Criminal - Accomplice)|Brenna Brightblade the Risen (Criminal - Accomplice)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Xander Stormwind the Guardian", "xander stormwind the guardian", "Xander Stormwind Guardian", "Guardian the Stormwind Xandertags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
@@ -149,33 +170,58 @@ Knows secret about major threat
 - Special moves
 
 ## Combat Stats
-Base: **Commoner** (MM p.345)
+Base: **Commoner** (BC p.345)
 Modifications:
 - HP: 22
 - AC: 15
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[Letter_From_the_Pearl_Guard_Captai]]
+- [[13 Conditions]]
+- [[08 Using Ability Scores]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[MOC_Lore]]
+- [[MOC_Items]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Player's Handbook (PHB) p.238
-- Tasha's Cauldron of Everything (TCE) p.150
-- Volo's Guide to Monsters (VGM) p.254
+- Adventurer's Codex (ACX) p.238
+- Tasha's Mystical Formulae of Everything (TMF) p.150
+- Volo's Creature Catalog to Monsters (VCC) p.254
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -183,8 +229,8 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -200,13 +246,13 @@ Following magic item guidelines (DMG p.135-136):
 - Affected by [[Ambush Drake Hotdq]]
 - See also: [[NPC01744_Idris_Xendar_the_Mystic]]
 - See also: [[Pact of the Chain Xphb]]
-- Originates from [[Electric Eel 2]]
+- Originates from [[[[Electric Eel]] 2]]
 - Affected by [[Goldhorn the Magnificent]]
 - Originates from [[Chaos Bolt Xge]]
 - Related: [[The Pressure Wars 2]]
-- Parallels [[Location City Conservatory of Memory Conservatory of Memory.svg]]
+- Parallels [[Location City [[Conservatory of Memory]] Conservatory of Memory.svg]]
 - See also: [[Searing Smite Xphb]]
-- Requires [[Location City the Crystal Hive Collective the Crystal Hive Collective.svg]]
+- Requires [[Location City [[The Crystal Hive Collective]] the Crystal Hive Collective.svg]]
 - See also: [[step_079 (phase_094)]]
 - Originates from [[Portrait NPC Agent Whisper Voidheart Agent Whisper Voidheart.svg_1 (Portraits)]]
 - Related: [[Deep Prophecy (D&D_References)]]
@@ -237,7 +283,7 @@ Following magic item guidelines (DMG p.135-136):
 - Requires [[step_065 (phase_010)]]
 - Affected by [[step_044 (phase_092)]]
 - Affected by [[Earl Demersal]]
-- Compare with [[Specimen Careful Lifeguard (D&D_References)]]
+- Compare with [[[[Specimen Careful Lifeguard]] (D&D_References)]]
 - Requires [[LOC0015_Valeshire]]
 - Parallels [[Campaign Calendar (D&D_References)]]
 - See also: [[Commander Tidal Strongcurrent 2]]
@@ -247,28 +293,28 @@ Following magic item guidelines (DMG p.135-136):
 - Connects to [[Pressure Cult]]
 - See also: [[step_078]]
 - Parallels [[SPELL00149_Arcane_Spell_150]]
-- Leads to [[Assets Locations Location City Alternative Path Fled City Alternative Path Fled City.svg]]
+- Leads to [[Assets Locations [[Location City Alternative Path Fled City Alternative Path Fled City.svg]]]]
 - Requires [[EVENT00000_Natural_Event_1]]
 - Connects to [[The Lighthouse of Storms.md]]
 - Connects to [[Etheric Currents (D&D_References)]]
 - Connects to [[step_036 (phase_099)]]
 - Affected by [[LOC00171_Towns_Location_172]]
 - Parallels [[Fighter Xphb Psi Warrior Xphb]]
-- Influences [[Assets Locations Location City the Void Tears the Void Tears.png]]
+- Influences [[Assets Locations Location City [[The Void Tears]] the Void Tears.png]]
 - See also: [[step_093]]
 - Originates from [[README]]
 - See also: [[ITEM00267_Radiant_Crossbow_of_Speed]]
 - Affected by [[Concepts Cosmic Truth]]
 - Related: [[NPC00113_Aeliana_Ironforge]]
 - Compare with [[The Growth Gardens (D&D_References)]]
-- Originates from [[Location City Port Meridian Merchant Quarter V1 Port Meridian Merchant Quarter.svg]]
+- Originates from [[Location City [[Port Meridian]] [[[[Merchant]] Quarter]] V1 Port Meridian Merchant Quarter.svg]]
 - Originates from [[enspelled-staff-level-8-xdmg (items)]]
 - Connects to [[step_070 (phase_084)]]
 - Parallels [[Temporal Control (D&D_References)]]
 - Leads to [[step_019]]
 - Related: [[step_093 (phase_019)]]
 - Requires [[step_087 (phase_085)]]
-- Influences [[Archive_Index (D&D_References)]]
+- Influences [[Archive_[[INDEX]] (D&D_References)]]
 - Originates from [[Saving Throws Proficiency Bonus by Challenge]]
 - See also: [[Portrait NPC the Seven Seals V2 the Seven Seals.svg_1 (Portraits)]]
 - Compare with [[Portrait NPC the Pressure Pirates V1 the Pressure Pirates.svg_1 (Portraits)]]
@@ -283,8 +329,8 @@ Following magic item guidelines (DMG p.135-136):
 - See also: [[NPC_Voices_Quick_Ref]]
 - Requires [[Throne Room (Lore)]]
 - Leads to [[Barkskin Xphb]]
-- Compare with [[Manta Ray (D&D_References)]]
-- Originates from [[Location City the Umbral Nexus the Umbral Nexus.svg]]
+- Compare with [[[[Manta Ray]] (D&D_References)]]
+- Originates from [[Location City [[The Umbral Nexus]] the Umbral Nexus.svg]]
 - Influences [[step_095]]
 - Requires [[LOC00153_Dungeons_Location_154]]
 - Affected by [[EVENT00053_Political_Event_54]]
@@ -294,3 +340,29 @@ Following magic item guidelines (DMG p.135-136):
 - Originates from [[Random Tricks Tricks]]
 - Parallels [[step_081 (phase_032)]]
 - Leads to [[Dark Gift of Tarakamedes the Grave Wyrm Cos]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Realm Connections
+
+### Connection to [[Aethermoor]]
+This connects to the sky realm of Sky realm of eternal winds and floating islands.
+
+- **Ruling Power**: The Windlord Council
+- **Capital**: [[Skylance Citadel]]
+- **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
+- **Current Conflict**: The Void Incursion, Elemental Convergence
+- **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
+
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+navigate floating islands connected by bridges of solidified cloud.
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

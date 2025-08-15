@@ -227,3 +227,8 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]

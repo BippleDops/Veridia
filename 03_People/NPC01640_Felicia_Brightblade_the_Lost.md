@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Felicia Brightblade the Lost
 
 *Tabaxi Crime Boss (Villains), Age 64, Male*

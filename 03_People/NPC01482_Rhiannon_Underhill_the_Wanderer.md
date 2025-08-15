@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Rhiannon Underhill the Wanderer
 
 *Half-Orc Bard (Adventurers), Age 36, Female*

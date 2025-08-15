@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Zephyr Emberfall the Broken
 
 *Gnome Blacksmith (Commoners), Age 56, Female*

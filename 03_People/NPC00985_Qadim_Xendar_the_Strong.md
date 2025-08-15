@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Qadim Xendar the Strong
 
 *Tabaxi Shopkeeper (Merchants), Age 35, Non-binary*

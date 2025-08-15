@@ -237,3 +237,8 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]

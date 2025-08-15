@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hestara Goldleaf
 
 *Firbolg Fisher (Commoners), Age 34, Non-binary*

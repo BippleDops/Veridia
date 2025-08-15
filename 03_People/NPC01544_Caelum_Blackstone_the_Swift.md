@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.699836
+modified: 2025-08-15T16:41:45.699842
+aliases: [NPC01544 Caelum Blackstone the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Brenna Stormwind the Scholar (Family - Cousin)|Brenna Stormwind the Scholar (Family - Cousin)]]
+- [[#Malakai Silverleaf the Cunning (Political - Patron)|Malakai Silverleaf the Cunning (Political - Patron)]]
+- [[#Aldric Ravenheart the Lost (Political - Puppet)|Aldric Ravenheart the Lost (Political - Puppet)]]
+
+
+---
 aliases: ["Caelum Blackstone the Swift", "caelum blackstone the swift", "Caelum Blackstone Swift", "Swift the Blackstone Caelum"]
 tags: [npc, character]
 type: npc
@@ -242,3 +263,14 @@ Needs help with personal quest
 - Parallels [[LOC00154_Wilderness_Location_155]]
 - Compare with [[step_029 (phase_085)]]
 - Compare with [[step_030 (phase_093)]]
+
+## Visual References
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

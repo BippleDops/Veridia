@@ -261,3 +261,7 @@ Mentioned in The Hidden Prophecy of Stars
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01781_Urien_Keenblade_the_Cunning]]

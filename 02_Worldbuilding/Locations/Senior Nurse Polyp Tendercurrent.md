@@ -279,3 +279,9 @@ Ongoing situations affecting Senior Nurse Polyp Tendercurrent:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]

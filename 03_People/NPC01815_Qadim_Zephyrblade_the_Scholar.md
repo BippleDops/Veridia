@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Qadim Zephyrblade the Scholar
 
 *Genasi Cultist (Villains), Age 63, Female*

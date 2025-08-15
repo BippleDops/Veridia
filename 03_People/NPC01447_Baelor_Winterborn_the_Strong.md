@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.578225
+modified: 2025-08-15T16:41:40.578230
+aliases: [NPC01447 Baelor Winterborn the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Lyanna Blackstone the Fallen (Family - Child)|Lyanna Blackstone the Fallen (Family - Child)]]
+- [[#Baelor Dawnstrider the Swift (Family - Parent)|Baelor Dawnstrider the Swift (Family - Parent)]]
+- [[#Kaelen Lightbringer the Fallen (Political - Opposition)|Kaelen Lightbringer the Fallen (Political - Opposition)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Baelor Winterborn the Strong", "baelor winterborn the strong", "Baelor Winterborn Strong", "Strong the Winterborn Baelortags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
@@ -30,7 +51,7 @@ Towering and lanky, with Wild and unkempt bald hair and Violet eyes. Scarred ski
 - **Dream**: Finding inner peace
 
 ## Background
-Seeking vengeance for a murdered mentor An old debt has come due at the worst possible time.
+Seeking vengeance for a murdered mentor An old debt has come due at the worst possible [[Time]].
 
 ## Current Situation
 - **Occupation**: Archaeologist
@@ -147,7 +168,7 @@ Has information about legendary item
 - Special moves
 
 ## Combat Stats
-Base: **Mage** (MM p.347)
+Base: **Mage** (BC p.347)
 Modifications:
 - HP: 43
 - AC: 10
@@ -158,24 +179,36 @@ Modifications:
 > Notable saying or prophecy
 
 ## See Also
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00259_Delara_Proudmore]]
+- [[Faction_Guide.md]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Player_Comfort_Check]]
+- [[Character_Journals]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Volo's Guide to Monsters (VGM) p.1
+- Volo's Creature Catalog to Monsters (VCC) p.1
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -183,9 +216,9 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -195,21 +228,21 @@ Following magic item guidelines (DMG p.135-136):
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -241,7 +274,7 @@ Following magic item guidelines (DMG p.135-136):
 - Parallels [[step_037]]
 - See also: [[QUEST00110_Side_Quest_111]]
 - Influences [[ENC00007_Environmental_Encounter_8]]
-- Influences [[Tymora 2]]
+- Influences [[[[Tymora]] 2]]
 - Affected by [[step_003 (phase_086)]]
 - Affected by [[ENC00468_Combat_Encounter_469]]
 - Requires [[step_054 (phase_004)]]
@@ -249,7 +282,7 @@ Following magic item guidelines (DMG p.135-136):
 - Leads to [[Provincial Administrative Centers]]
 - Parallels [[Baroness Seraphina Moonweaver (D&D_References)]]
 - See also: [[Symbol Heraldry Ambassador Marina Tidecaller Ambassador Marina Tidecaller.svg]]
-- Related: [[Location City Geometric Tidepools V1 Geometric Tidepools.svg]]
+- Related: [[Location City [[Geometric Tidepools]] V1 Geometric Tidepools.svg]]
 - Requires [[potion-of-frost-giant-strength-xdmg (items)]]
 - Compare with [[elven-fenmarel-mestarine-mtf (deities)]]
 - Originates from [[The Unnamed Watcher 2]]
@@ -290,7 +323,7 @@ Following magic item guidelines (DMG p.135-136):
 - Connects to [[step_045 (phase_100)]]
 - Originates from [[Harvester Keth Reefrender]]
 - Affected by [[Gith Tables Githyanki Ideals Mtf]]
-- Influences [[Location City Diplomatic Deepcurrent Diplomatic Deepcurrent.svg]]
+- Influences [[Location City [[Diplomatic Deepcurrent]] Diplomatic Deepcurrent.svg]]
 - Related: [[The Bloodline Carrier (D&D_Statblocks)]]
 - Requires [[step_078]]
 - Affected by [[Crystal Singers (D&D_References)]]
@@ -313,3 +346,14 @@ Following magic item guidelines (DMG p.135-136):
 - Parallels [[Full Official Name]]
 - Affected by [[step_048 (phase_024)]]
 - Requires [[NPC01635_Vesper_Ironforge_the_Cunning]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

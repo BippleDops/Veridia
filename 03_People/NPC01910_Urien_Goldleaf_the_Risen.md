@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Urien Goldleaf the Risen
 
 *Half-Elf Cultist (Villains), Age 74, Male*

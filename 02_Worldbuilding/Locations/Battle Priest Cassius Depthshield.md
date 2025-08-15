@@ -236,3 +236,7 @@ Ongoing situations affecting Battle Priest Cassius Depthshield:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]

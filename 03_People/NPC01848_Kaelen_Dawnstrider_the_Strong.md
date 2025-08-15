@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Kaelen Dawnstrider the Strong
 
 *Dragonborn Crime Boss (Villains), Age 27, Male*

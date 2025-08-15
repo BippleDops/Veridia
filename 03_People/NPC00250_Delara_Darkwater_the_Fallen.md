@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.165708
+modified: 2025-08-15T16:41:42.165712
+aliases: [NPC00250 Delara Darkwater the Fallen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Baelor Goldleaf the Fallen (Family - Spouse)|Baelor Goldleaf the Fallen (Family - Spouse)]]
+- [[#Lyanna Voidwalker the Scholar (Professional - Employee)|Lyanna Voidwalker the Scholar (Professional - Employee)]]
+- [[#Delara Underhill the Mystic (Professional - Employer)|Delara Underhill the Mystic (Professional - Employer)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Delara Darkwater the Fallen", "delara darkwater the fallen", "Delara Darkwater Fallen", "Fallen the Darkwater Delara"]
 tags: [npc, character]
@@ -143,6 +164,21 @@ Seeks bodyguards for dangerous journey
 - Special moves
 
 ## See Also
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
 - [[Related_Content]]
 
 
@@ -152,9 +188,9 @@ Seeks bodyguards for dangerous journey
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -264,3 +300,14 @@ Seeks bodyguards for dangerous journey
 - Leads to [[spinel-xdmg (items)]]
 - Connects to [[MON00083_Constructs_Creature_84]]
 - Affected by [[step_070 (phase_095)]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

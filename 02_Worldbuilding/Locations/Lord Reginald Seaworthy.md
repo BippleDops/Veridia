@@ -326,3 +326,8 @@ Ongoing situations affecting Lord Reginald Seaworthy:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]

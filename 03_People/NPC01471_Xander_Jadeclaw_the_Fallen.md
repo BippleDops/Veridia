@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.410311
+modified: 2025-08-15T16:41:44.410316
+aliases: [NPC01471 Xander Jadeclaw the Fallen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Felicia Winterborn the Strong (Personal - Best friend)|Felicia Winterborn the Strong (Personal - Best friend)]]
+- [[#Ysara Brightblade the Swift (Professional - Partner)|Ysara Brightblade the Swift (Professional - Partner)]]
+- [[#Elric Ashford the Redeemed (Family - Cousin)|Elric Ashford the Redeemed (Family - Cousin)]]
+
+
+---
 aliases: ["Xander Jadeclaw the Fallen", "xander jadeclaw the fallen", "Xander Jadeclaw Fallen", "Fallen the Jadeclaw Xander"]
 tags: [npc, character]
 type: npc
@@ -249,3 +270,14 @@ Forming expedition to dangerous location
 - Originates from [[Depth Guard Sanctuary]]
 - Parallels [[ENC00352_Combat_Encounter_353]]
 - Related: [[MON00165_Undead_Creature_166]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

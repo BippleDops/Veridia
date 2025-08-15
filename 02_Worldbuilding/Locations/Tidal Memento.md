@@ -245,3 +245,8 @@ Ongoing situations affecting Tidal Memento:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]

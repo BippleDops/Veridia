@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aldric Ironwood the Swift
 
 *Tiefling Assassin (Villains), Age 73, Female*

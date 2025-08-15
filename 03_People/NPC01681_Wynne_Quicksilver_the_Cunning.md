@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Wynne Quicksilver the Cunning
 
 *Elf Crime Boss (Villains), Age 52, Female*

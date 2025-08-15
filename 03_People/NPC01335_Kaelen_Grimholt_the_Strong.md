@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.780957
+modified: 2025-08-15T16:41:43.780962
+aliases: [NPC01335 Kaelen Grimholt the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ewan Proudmore the Wanderer (Professional - Partner)|Ewan Proudmore the Wanderer (Professional - Partner)]]
+- [[#Ewan Xendar the Swift (Family - Parent)|Ewan Xendar the Swift (Family - Parent)]]
+- [[#Drusilla Jadeclaw the Mystic (Personal - Nemesis)|Drusilla Jadeclaw the Mystic (Personal - Nemesis)]]
+
+
+---
 aliases: ["Kaelen Grimholt the Strong", "kaelen grimholt the strong", "Kaelen Grimholt Strong", "Strong the Grimholt Kaelen"]
 tags: [npc, character]
 type: npc
@@ -244,3 +265,14 @@ Has information about legendary item
 - Leads to [[Portrait NPC Captain Valeria V1 Captain Valeria.svg]]
 - Requires [[04_Resources_Assets_Symbols_symbol-heraldry-the-deepwater-trading-consortium-the-deepwater-trading-consortium.svg]]
 - Affected by [[Prince Thalassic]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

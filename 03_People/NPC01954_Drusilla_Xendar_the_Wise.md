@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Drusilla Xendar the Wise
 
 *Genasi Assassin (Villains), Age 52, Male*

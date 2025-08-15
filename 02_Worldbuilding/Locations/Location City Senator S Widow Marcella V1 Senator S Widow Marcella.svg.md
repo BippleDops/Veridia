@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Senator S Widow 
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]

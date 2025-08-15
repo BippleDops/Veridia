@@ -248,3 +248,7 @@ Mentioned in The First Prophecy of Shadows
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01841_Malakai_Nightfall_the_Wise]]

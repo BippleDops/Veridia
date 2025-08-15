@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Aeliana Keenblade the Bold
 
 *Dragonborn Ambassador (Nobles), Age 56, Female*

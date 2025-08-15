@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.815442
+modified: 2025-08-15T16:41:46.815447
+aliases: [NPC00343 Ysara Thornweave the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Vesper Darkwater the Guardian (Criminal - Accomplice)|Vesper Darkwater the Guardian (Criminal - Accomplice)]]
+- [[#Jorah Hawthorne the Seeker (Family - Parent)|Jorah Hawthorne the Seeker (Family - Parent)]]
+- [[#Rhiannon Ironforge the Bold (Personal - Best friend)|Rhiannon Ironforge the Bold (Personal - Best friend)]]
+
+
+---
 aliases: ["Ysara Thornweave the Bold", "ysara thornweave the bold", "Ysara Thornweave Bold", "Bold the Thornweave Ysara"]
 tags: [npc, character]
 type: npc
@@ -254,3 +275,14 @@ Needs discrete help with family scandal
 - Requires [[Coral Lifeshaper (D&D_References)]]
 - Leads to [[Assets Locations Location City Temporal Navigation V1 Temporal Navigation.svg]]
 - Compare with [[step_097 (phase_090)]]
+
+## Visual References
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

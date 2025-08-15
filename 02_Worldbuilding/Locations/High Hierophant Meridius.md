@@ -250,3 +250,9 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]

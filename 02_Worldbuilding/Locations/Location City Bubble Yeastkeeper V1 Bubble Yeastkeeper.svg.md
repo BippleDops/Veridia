@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Bubble Yeastkeep
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]

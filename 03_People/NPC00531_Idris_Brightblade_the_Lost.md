@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Brightblade the Lost
 
 *Half-Orc Blacksmith (Commoners), Age 56, Male*

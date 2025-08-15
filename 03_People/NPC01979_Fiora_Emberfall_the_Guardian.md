@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.880218
+modified: 2025-08-15T16:41:41.880222
+aliases: [NPC01979 Fiora Emberfall the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Voidwalker the Cunning (Professional - Employer)|Corvus Voidwalker the Cunning (Professional - Employer)]]
+- [[#Gareth Ironforge the Scholar (Political - Ally)|Gareth Ironforge the Scholar (Political - Ally)]]
+- [[#Qadim Voidwalker the Swift (Criminal - Target)|Qadim Voidwalker the Swift (Criminal - Target)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Fiora Emberfall the Guardian", "fiora emberfall the guardian", "Fiora Emberfall Guardian", "Guardian the Emberfall Fiora"]
 tags: [npc, character]
@@ -151,25 +172,48 @@ Offers deal too good to refuse
 - Special moves
 
 ## See Also
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[Propaganda_Broadsheet_Syndicate.md]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[Player_Feedback_Form.md]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[16 Credits]]
+- [[11 Rules Glossary]]
+- [[Master_Narrative_Web.md]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Xanathar's Guide to Everything (XGE) p.42
-- Volo's Guide to Monsters (VGM) p.63
+- Xanathar's Secrets Revealed to Everything (XSR) p.42
+- Volo's Creature Catalog to Monsters (VCC) p.63
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -177,10 +221,10 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -290,3 +334,14 @@ Following magic item guidelines (DMG p.135-136):
 - Leads to [[ring-of-warmth-xdmg (items)]]
 - Requires [[Ancient Historian Memento]]
 - Originates from [[step_057 (phase_076)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
+![[03_People/portrait_the_crimson_shard_guardian.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

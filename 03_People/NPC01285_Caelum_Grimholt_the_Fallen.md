@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Caelum Grimholt the Fallen
 
 *Dragonborn Fighter (Adventurers), Age 42, Female*

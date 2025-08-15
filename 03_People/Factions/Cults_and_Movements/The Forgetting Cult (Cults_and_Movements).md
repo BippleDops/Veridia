@@ -23,6 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![The Forgetting Cult](../../../04_Resources/Assets/Misc/the_forgetting_cult.png)
 
 ## 🔧 Deep Evaluation Improvements

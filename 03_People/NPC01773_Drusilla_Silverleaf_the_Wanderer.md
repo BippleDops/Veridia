@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.924575
+modified: 2025-08-15T16:41:45.924578
+aliases: [NPC01773 Drusilla Silverleaf the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Drusilla Quicksilver the Mystic (Professional - Mentor)|Drusilla Quicksilver the Mystic (Professional - Mentor)]]
+- [[#Wynne Proudmore the Bold (Political - Patron)|Wynne Proudmore the Bold (Political - Patron)]]
+- [[#Orion Frostwhisper the Strong (Personal - Ex-lover)|Orion Frostwhisper the Strong (Personal - Ex-lover)]]
+
+
+---
 aliases: ["Drusilla Silverleaf the Wanderer", "drusilla silverleaf the wanderer", "Drusilla Silverleaf Wanderer", "Wanderer the Silverleaf Drusilla"]
 tags: [npc, character]
 type: npc
@@ -242,3 +263,14 @@ Is secretly testing the party
 - Parallels [[strixhaven-initiate-scc (feats)]]
 - Originates from [[LOC00280_Wilderness_Location_281]]
 - Related: [[step_026 (phase_054)]]
+
+## Visual References
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

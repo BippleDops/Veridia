@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Underhill the Scholar
 
 *Tabaxi Carpenter (Commoners), Age 38, Female*

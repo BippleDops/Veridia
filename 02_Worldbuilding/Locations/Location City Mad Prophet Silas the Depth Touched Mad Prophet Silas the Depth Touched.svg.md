@@ -83,3 +83,8 @@ Recent developments have brought new attention to Location City Mad Prophet Sila
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC00351_Corvus_Ironwood]]

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.596423
+modified: 2025-08-15T16:41:42.596426
+aliases: [NPC00108 Aeliana Ironforge the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Drusilla Frostwhisper (Personal - Nemesis)|Drusilla Frostwhisper (Personal - Nemesis)]]
+- [[#Zephyr Crystalbrook (Criminal - Target)|Zephyr Crystalbrook (Criminal - Target)]]
+- [[#Ysara Ashford (Professional - Employee)|Ysara Ashford (Professional - Employee)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Aeliana Ironforge the Wanderer", "aeliana ironforge the wanderer", "Aeliana Ironforge Wanderer", "Wanderer the Ironforge Aeliana"]
 tags: [npc, character]
@@ -149,9 +170,9 @@ Wants rivals investigated
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -261,3 +282,14 @@ Wants rivals investigated
 - Leads to [[Arcane-Depth Void]]
 - Parallels [[ITEM00044_Venomous_Bow_of_Accuracy]]
 - Leads to [[MON00007_Aberrations_Creature_8]]
+
+## Visual References
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

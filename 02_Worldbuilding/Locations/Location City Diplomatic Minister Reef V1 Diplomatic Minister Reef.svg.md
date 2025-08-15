@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Diplomatic Minis
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01360_Ewan_Blackstone_the_Strong]]

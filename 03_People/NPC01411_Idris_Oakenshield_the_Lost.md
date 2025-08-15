@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.562915
+modified: 2025-08-15T16:41:45.562919
+aliases: [NPC01411 Idris Oakenshield the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hestara Ashford the Seeker (Professional - Mentor)|Hestara Ashford the Seeker (Professional - Mentor)]]
+- [[#Thalia Keenblade the Lost (Criminal - Informant)|Thalia Keenblade the Lost (Criminal - Informant)]]
+- [[#Delara Youngblood the Bold (Family - Child)|Delara Youngblood the Bold (Family - Child)]]
+
+
+---
 aliases: ["Idris Oakenshield the Lost", "idris oakenshield the lost", "Idris Oakenshield Lost", "Lost the Oakenshield Idris"]
 tags: [npc, character]
 type: npc
@@ -239,3 +260,14 @@ Forming expedition to dangerous location
 - See also: [[Quest - The Merged Reality]]
 - Parallels [[04_Resources_Assets_Locations_location-city-scout-captain-vera-deepwatch-scout-captain-vera-deepwatch.svg]]
 - Influences [[step_046 (phase_069)]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

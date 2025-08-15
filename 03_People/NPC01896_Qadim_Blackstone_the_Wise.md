@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Qadim Blackstone the Wise
 
 *Elf Crime Boss (Villains), Age 46, Male*

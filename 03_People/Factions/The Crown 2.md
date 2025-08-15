@@ -27,6 +27,10 @@ wealth: Immense
 world: Aethermoor
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 
 
 

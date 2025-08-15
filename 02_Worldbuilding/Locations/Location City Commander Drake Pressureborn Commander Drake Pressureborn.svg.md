@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Commander Drake 
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Ambassador Nerida Deepcurrent]]

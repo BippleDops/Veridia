@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.084555
+modified: 2025-08-15T16:41:44.084556
+aliases: [Captain Storm]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_captain_storm_tideguard_friendly.png]]
+
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Abilities|Abilities]]
+- [[#Relationships|Relationships]]
+- [[#Current Activities|Current Activities]]
+- [[#Plot Hooks|Plot Hooks]]
+- [[#DM Notes|DM Notes]]
+- [[#Voice & Mannerisms|Voice & Mannerisms]]
+
+
+---
 title: Captain Storm
 type: npc
 tags:

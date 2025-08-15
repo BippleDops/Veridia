@@ -221,3 +221,10 @@ Ongoing situations affecting Keeper Temporal Safehaven:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]

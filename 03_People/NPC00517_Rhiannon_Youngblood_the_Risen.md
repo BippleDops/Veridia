@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.734684
+modified: 2025-08-15T16:41:46.734687
+aliases: [NPC00517 Rhiannon Youngblood the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Faelyn Dawnstrider the Lost (Family - Parent)|Faelyn Dawnstrider the Lost (Family - Parent)]]
+- [[#Ewan Xendar the Seeker (Personal - Best friend)|Ewan Xendar the Seeker (Personal - Best friend)]]
+- [[#Delara Goldleaf the Wanderer (Political - Ally)|Delara Goldleaf the Wanderer (Political - Ally)]]
+
+
+---
 aliases: ["Rhiannon Youngblood the Risen", "rhiannon youngblood the risen", "Rhiannon Youngblood Risen", "Risen the Youngblood Rhiannon"]
 tags: [npc, character]
 type: npc
@@ -245,3 +270,8 @@ Being extorted by criminals
 - Originates from [[Portrait NPC Madame Nightwhisper Madame Nightwhisper.svg_1 (Portraits)]]
 - Influences [[Jeeves 2]]
 - Affected by [[Location City Wise Tide Truthseeker Wise Tide Truthseeker.svg]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -249,3 +249,7 @@ Mentioned in The Second Prophecy of Shadows
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Corvus Ashford the Cunning
 
 *Dragonborn Shopkeeper (Merchants), Age 22, Male*

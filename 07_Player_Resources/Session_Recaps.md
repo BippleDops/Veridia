@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:38.122352
+modified: 2025-08-15T16:41:38.122358
+aliases: [Session Recaps]
+---
+
+## Table of Contents
+- [[#Recent Sessions|Recent Sessions]]
+- [[#Session 10 - The Haunted Manor|Session 10 - The Haunted Manor]]
+- [[#Session 9 - Market Day Mayhem|Session 9 - Market Day Mayhem]]
+- [[#Session 8 - Into the Sewers|Session 8 - Into the Sewers]]
+- [[#See Also|See Also]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+- [[#Visual References|Visual References]]
+
+
 -tags: [generated, linked, combat]ed]
 created: 2025-08-15T12:34:11.169218
 ---
@@ -25,21 +45,38 @@ Following rumors of cult activity, the party descended...
 > This character is not who they seem
 
 ## See Also
+- [[Player_Comfort_Check]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[Sanity_Quick_Reference.md]]
+- [[Quiet_Chapel_Oath_Scrol]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[Faction_Guide.md]]
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
+- [[MOC_Items]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[Character_Journal_Template]]
+- [[11 Spellcasting]]
 - [[Related_Content]]
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
 
 ## Connections
 
@@ -143,3 +180,8 @@ Following rumors of cult activity, the party descended...
 - Connects to [[npc-bonds (tables)]]
 - Related: [[Assets Locations Location City Pearl Sharpedge V1 Pearl Sharpedge.svg]]
 - Related: [[Consequence Chain 3 Reality Merger Diplomatic Crisis (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_session_4_people_dramatic.png]]
+![[03_People/portrait_session_4_people_standard.png]]
+![[03_People/portrait_captain_repossession_standard.png]]

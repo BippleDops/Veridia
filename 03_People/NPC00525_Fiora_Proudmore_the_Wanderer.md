@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.550745
+modified: 2025-08-15T16:41:40.550749
+aliases: [NPC00525 Fiora Proudmore the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hestara Winterborn the Seeker (Criminal - Fence)|Hestara Winterborn the Seeker (Criminal - Fence)]]
+- [[#Alaric Voidwalker (Personal - Love interest)|Alaric Voidwalker (Personal - Love interest)]]
+- [[#Idris Voidwalker the Lost (Personal - Nemesis)|Idris Voidwalker the Lost (Personal - Nemesis)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Fiora Proudmore the Wanderer", "fiora proudmore the wanderer", "Fiora Proudmore Wanderer", "Wanderer the Proudmore Fioratags: [npc, character, combat, lore]er]
 type: npc
@@ -11,7 +32,7 @@ type: npc
 **ID**: NPC00525
 
 ## Quick Reference
-- **Location**: The Gilded Serpent tavern in the merchant quarter
+- **Location**: [[The Gilded Serpent]] [[Tavern]] in the [[[[Merchant]] Quarter]]
 - **Occupation**: Fisher
 - **Disposition**: Always hungry and eating something
 
@@ -145,7 +166,7 @@ Witnessed a crime
 - Special moves
 
 ## Combat Stats
-Base: **Mage** (MM p.347)
+Base: **Mage** (BC p.347)
 Modifications:
 - HP: 33
 - AC: 14
@@ -156,6 +177,60 @@ Modifications:
 > Useful information for players
 
 ## See Also
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01286_Xander_Proudmore_the_Bold]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00820_Thalia_Nightfall_the_Risen]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC00644_Nerys_Dawnstrider_the_Wanderer]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC00453_Idris_Grimholt]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[Marcus Shardbreaker Grimm_1]]
+- [[Assets Portraits Portrait NPC the Waking Prophets the Waking Prophets.svg]]
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC00407_Hestara_Dawnstrider]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[Depth_Adapted_Background.md]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[Dockworker_Union_Flyer.md]]
+- [[Reference.md]]
+- [[Reputation_Tracker]]
+- [[13 Conditions]]
+- [[03 Races]]
+- [[01 Introduction Welcome to Adventure]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[The_Corroded_Crown.png]]
 - [[Related_Content]]
 
 
@@ -165,9 +240,9 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -177,15 +252,15 @@ Modifications:
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
 
 ## Connections
 
@@ -200,20 +275,20 @@ Modifications:
 - Influences [[LORE00119_Legends_Entry_120]]
 - Connects to [[Reality Protection]]
 - Affected by [[swarm-of-larvae-xmm (fiend)]]
-- Originates from [[Parliament of Echoes - Public Gallery 2]]
+- Originates from [[[[Parliament of Echoes - Public Gallery]] 2]]
 - Compare with [[Dr Jasper Memorymend]]
 - Influences [[Deputy Archmerchant Scroll Deepmind (D&D_References)]]
 - Affected by [[Gambling Results Xge]]
 - Compare with [[ITEM00488_Fortified_Boots_of_Resistance]]
-- Parallels [[Assets Art Martha Hillbrook.png]]
-- Affected by [[Location City Crimson Velocity V1 Crimson Velocity.svg]]
+- Parallels [[Assets Art [[Martha Hillbrook]].png]]
+- Affected by [[Location City [[Crimson Velocity]] V1 Crimson Velocity.svg]]
 - Originates from [[Valley of Eternal Mourning]]
 - Parallels [[step_083]]
-- Requires [[Assets Locations Location City Memory Parasite Infection Memory Parasite Infection.svg]]
+- Requires [[Assets Locations [[Location City [[Memory Parasite Infection]] Memory Parasite Infection.svg]]]]
 - Related: [[Theater of Impossible Dreams]]
 - Related: [[LOC0116_Marshshire]]
 - Requires [[ITEM00724_Divine_Crown_of_Destiny]]
-- Parallels [[Temple Coalition 2]]
+- Parallels [[[[Temple Coalition]] 2]]
 - Parallels [[step_012 (phase_007)]]
 - Leads to [[Abyssal Cartel]]
 - Related: [[Deep Mother Protocol (D&D_References)]]
@@ -233,7 +308,7 @@ Modifications:
 - Compare with [[step_040 (phase_021)]]
 - Requires [[step_089 (phase_038)]]
 - Requires [[LORE00162_History_Entry_163]]
-- Leads to [[Harbor Patrol 2]]
+- Leads to [[[[Harbor Patrol]] 2]]
 - Influences [[Plot Points]]
 - Compare with [[The Depth Reapers 2]]
 - Leads to [[step_037 (phase_074)]]
@@ -246,7 +321,7 @@ Modifications:
 - Requires [[Assets Portraits Portrait NPC Senator Cordelia Deepcurrent Senator Cordelia Deepcurrent.svg]]
 - Requires [[lucky-xphb (feats)]]
 - Affected by [[The Current Maps 2]]
-- Parallels [[Assets Locations Location City Observatory Network Nodes V1 Observatory Network Nodes.svg]]
+- Parallels [[Assets Locations Location City [[Observatory Network Nodes]] V1 Observatory Network Nodes.svg]]
 - Originates from [[Resonance Roses]]
 - See also: [[step_088 (phase_067)]]
 - Compare with [[The Archcrystal]]
@@ -259,8 +334,8 @@ Modifications:
 - Related: [[NPC00779_Lyanna_Lightbringer_the_Redeemed]]
 - Influences [[step_036 (phase_005)]]
 - See also: [[LOC00025_Cities_Location_26]]
-- See also: [[Maritime Security Chief Reef (D&D_References)]]
-- Requires [[Location City Navigator Abyssal Truthseeker Navigator Abyssal Truthseeker.svg]]
+- See also: [[[[Mari[[Time]] Security Chief Reef]] (D&D_References)]]
+- Requires [[Location City [[Navigator Abyssal Truthseeker]] Navigator Abyssal Truthseeker.svg]]
 - Leads to [[The Crown of Consciousness]]
 - Compare with [[Quest - Parliament Corruption]]
 - Parallels [[step_080 (phase_030)]]
@@ -279,7 +354,7 @@ Modifications:
 - Affected by [[step_013 (phase_039)]]
 - Requires [[sack-xphb (items)]]
 - Parallels [[location-city-grand-harbor-v1-grand-harbor.svg]]
-- Originates from [[Queen Seraphina Lumengarde]]
+- Originates from [[Queen Seraphina [[Lumengarde]]]]
 - Affected by [[half-elf (races)]]
 - See also: [[The Amnesia Rehabilitation Centers (D&D_References)]]
 - Originates from [[star-rose-quartz-xdmg (items)]]
@@ -289,3 +364,14 @@ Modifications:
 - Connects to [[LOC0009_PortHaven]]
 - Influences [[#Relationships]]
 - Connects to [[Symbol Heraldry Doctor Harmony Whisperfall V1 Doctor Harmony Whisperfall.svg]]
+
+## Visual References
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

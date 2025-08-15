@@ -351,3 +351,9 @@ Ongoing situations affecting Pressure Suit Malfunction:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]

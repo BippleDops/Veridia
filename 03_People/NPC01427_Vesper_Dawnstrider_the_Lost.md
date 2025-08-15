@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.231789
+modified: 2025-08-15T16:41:44.231791
+aliases: [NPC01427 Vesper Dawnstrider the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Qadim Moonshadow the Broken (Family - Spouse)|Qadim Moonshadow the Broken (Family - Spouse)]]
+- [[#Jorah Jadeclaw the Broken (Criminal - Target)|Jorah Jadeclaw the Broken (Criminal - Target)]]
+- [[#Urien Keenblade the Wanderer (Family - Spouse)|Urien Keenblade the Wanderer (Family - Spouse)]]
+
+
+---
 aliases: ["Vesper Dawnstrider the Lost", "vesper dawnstrider the lost", "Vesper Dawnstrider Lost", "Lost the Dawnstrider Vesper"]
 tags: [npc, character]
 type: npc
@@ -241,3 +262,14 @@ Has information about legendary item
 - Influences [[ENC00124_Combat_Encounter_125]]
 - Connects to [[step_061 (phase_069)]]
 - Leads to [[location-city-aquabyssos-v1-aquabyssos.svg]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

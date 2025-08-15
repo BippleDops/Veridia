@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Hilda Hawthorne the Fallen
 
 *Elf Dark Wizard (Villains), Age 65, Female*

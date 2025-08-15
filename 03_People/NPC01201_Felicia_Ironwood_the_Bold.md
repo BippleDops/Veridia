@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.803780
+modified: 2025-08-15T16:41:40.803783
+aliases: [NPC01201 Felicia Ironwood the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Baelor Frostwhisper the Broken (Professional - Partner)|Baelor Frostwhisper the Broken (Professional - Partner)]]
+- [[#Ysara Darkwater the Lost (Professional - Employee)|Ysara Darkwater the Lost (Professional - Employee)]]
+- [[#Qadim Silverleaf the Scholar (Professional - Rival)|Qadim Silverleaf the Scholar (Professional - Rival)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Felicia Ironwood the Bold", "felicia ironwood the bold", "Felicia Ironwood Bold", "Bold the Ironwood Feliciatags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
@@ -140,31 +161,65 @@ Forming expedition to dangerous location
 - Special moves
 
 ## Combat Stats
-Base: **Bandit** (MM p.343)
+Base: **Bandit** (BC p.343)
 Modifications:
 - HP: 32
 - AC: 11
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC01594_Fiora_Proudmore_the_Seeker]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC00129_Gareth_Jadeclaw]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01276_Erasmus_Keenblade_the_Wanderer]]
+- [[Depth_Adapted_Background]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[Party_Inventory]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[Reputation_Tracker]]
+- [[12 Spells]]
+- [[08 Using Ability Scores]]
+- [[Character_Journal_Template]]
+- [[MOC_Rules]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Mordenkainen's Tome of Foes (MTF) p.237
+- Mordenkainen's Forbidden Knowledge of Foes (MFK) p.237
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -172,8 +227,8 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -218,7 +273,7 @@ Following magic item guidelines (DMG p.135-136):
 - Originates from [[QUEST00208_Side_Quest_209]]
 - Parallels [[Resonance Peaks (Lore)]]
 - See also: [[Electoral Strategist Marcus Votepower]]
-- Related: [[The Memory Palace (D&D_References)]]
+- Related: [[[[The Memory Palace]] (D&D_References)]]
 - See also: [[Symbols - Faction_Heraldry (D&D_References)]]
 - Influences [[step_072 (phase_045)]]
 - See also: [[Order of the Silver Anchor]]
@@ -230,7 +285,7 @@ Following magic item guidelines (DMG p.135-136):
 - Affected by [[gold-bar-5-pound-xdmg (items)]]
 - See also: [[step_009 (phase_082)]]
 - Originates from [[ITEM00794_Divine_Amulet_of_Truth]]
-- Related: [[Young Merchant Guild]]
+- Related: [[Young [[Merchant]] Guild]]
 - Parallels [[Silence Seekers]]
 - Influences [[step_029]]
 - Leads to [[step_008]]
@@ -240,7 +295,7 @@ Following magic item guidelines (DMG p.135-136):
 - Related: [[Parry Xphb]]
 - See also: [[NPC01882_Cedric_Ironforge_the_Swift]]
 - Requires [[Scene Scene Cloud Citadel Duel Cloud Citadel Duel.svg]]
-- Compare with [[Location City Miranda Hopekeeper Miranda Hopekeeper.svg]]
+- Compare with [[Location City [[Miranda Hopekeeper]] Miranda Hopekeeper.svg]]
 - Leads to [[List Spells Classes Shadow Magic Xge]]
 - Parallels [[The Information Exchange]]
 - Influences [[staff-of-the-magi-xdmg (items)]]
@@ -261,7 +316,7 @@ Following magic item guidelines (DMG p.135-136):
 - Compare with [[02_Worldbuilding_Procedures_Shadow_Resoce_Scanning]]
 - Related: [[step_095 (phase_013)]]
 - Influences [[Map Map Sunken Crown Crypt V1 Sunken Crown Crypt.svg]]
-- Connects to [[Location City Arts Communities Arts Communities.svg]]
+- Connects to [[Location City [[Arts Communities]] Arts Communities.svg]]
 - Connects to [[Cleaning Fish]]
 - Related: [[The Divine Reunion]]
 - Compare with [[Marina-Red-Tide-Coralheart (People)]]
@@ -278,8 +333,19 @@ Following magic item guidelines (DMG p.135-136):
 - Requires [[step_031 (phase_079)]]
 - Affected by [[NPC00498_Fiora_Ironwood_the_Guardian]]
 - Influences [[Doctor_Silas_Voidtouch.png]]
-- Originates from [[Religious Leaders (D&D_References)]]
+- Originates from [[[[Religious Leaders]] (D&D_References)]]
 - Originates from [[Portrait NPC Corrupted Clients V1 Corrupted Clients.svg_1 (Portraits)]]
 - Leads to [[step_076]]
 - Affected by [[Event_Log]]
 - Requires [[step_028 (phase_056)]]
+
+## Visual References
+![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
+![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
+![[03_People/portrait_commander_thrace_ironwood.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

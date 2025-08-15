@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Qadim Silverleaf the Swift
 
 *Tiefling Fisher (Commoners), Age 74, Non-binary*

@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Regional Courts 
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:34.194709
+modified: 2025-08-15T16:41:34.194715
+aliases: [Currency Guide Scrip and Shard]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+- [[#Sensory Improvements|Sensory Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Visual_Handouts/Currency_Guide_Scrip_and_Shard
 type: lore
@@ -143,6 +164,47 @@ tags: [combat, magic, exploration, lore]
 > Ancient magic still lingers here
 
 ## See Also
+- [[Pilgrim_Pass_Prayer_Sli]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC01831_Alaric_Frostwhisper_the_Scholar]]
+- [[NPC00615_Lyanna_Moonshadow_the_Lost]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[Shared_Lore]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC01602_Dara_Ashford_the_Seeker]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[Faction_Relationship_Web]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[Combat_Encounter_Analysis]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[Ancient_Prophecy_Fragment_Verdan]]
+- [[Reference.md]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Reputation_Tracker]]
+- [[15 the Planes of Existence]]
+- [[09 Adventuring]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[03 Races]]
+- [[07 Customization Options]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[Propaganda_Broadsheet_Syndicate.md]]
+- [[06 Equipment]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
 - [[Related_Content]]
 
 
@@ -152,21 +214,21 @@ tags: [combat, magic, exploration, lore]
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -270,3 +332,8 @@ tags: [combat, magic, exploration, lore]
 - Parallels [[The Void Touched Oracle (D&D_References)]]
 - Influences [[The Schism Bridges]]
 - Connects to [[Greyhawk Beory Xdmg]]
+
+## Visual References
+![[03_People/portrait_gallery_guide_captain_marina_civicvoice_standard.png]]
+![[03_People/portrait_assets_locations_location_city_pilgrimage_master_depth_guide_melancholy_v1_pilgrimage_master_depth_guide_melancholy_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_pilgrimage_master_depth_guide_melancholy_v1_pilgrimage_master_depth_guide_melancholy_svg_standard.png]]

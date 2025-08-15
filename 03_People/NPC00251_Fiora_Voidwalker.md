@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.572011
+modified: 2025-08-15T16:41:42.572015
+aliases: [NPC00251 Fiora Voidwalker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aldric Emberfall the Wanderer (Criminal - Accomplice)|Aldric Emberfall the Wanderer (Criminal - Accomplice)]]
+- [[#Fiora Zephyrblade (Personal - Childhood friend)|Fiora Zephyrblade (Personal - Childhood friend)]]
+- [[#Caelum Hawthorne the Seeker (Criminal - Informant)|Caelum Hawthorne the Seeker (Criminal - Informant)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Fiora Voidwalker", "fiora voidwalker", "Voidwalker Fiora"]
 tags: [npc, character]
@@ -161,11 +182,11 @@ Needs discrete help with family scandal
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -275,3 +296,14 @@ Needs discrete help with family scandal
 - See also: [[Portrait NPC the Deepmind Conspiracy V1 the Deepmind Conspiracy.svg]]
 - Related: [[Unite the Recursions]]
 - Originates from [[investiture-of-wind-xge (spells)]]
+
+## Visual References
+![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
+![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
+![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

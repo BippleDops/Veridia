@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Quest Portal Con
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]

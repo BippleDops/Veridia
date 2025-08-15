@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Kaelen Xendar the Redeemed
 
 *Half-Orc Carpenter (Commoners), Age 50, Non-binary*

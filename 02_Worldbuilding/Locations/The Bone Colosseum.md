@@ -301,3 +301,11 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00494_Lyanna_Hawthorne_the_Guardian]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]

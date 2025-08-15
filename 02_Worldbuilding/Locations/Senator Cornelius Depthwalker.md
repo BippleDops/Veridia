@@ -236,3 +236,7 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01177_Thalia_Underhill_the_Fallen]]

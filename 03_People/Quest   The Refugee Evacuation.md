@@ -5,6 +5,10 @@ race: Human
 occupation: Commoner
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-refugee-evacuation-quest-the-refugee-evacuation.svg]]
+
+
 # Quest   The Refugee Evacuation
 
 *Human Commoner*

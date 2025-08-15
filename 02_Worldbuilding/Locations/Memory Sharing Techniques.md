@@ -290,3 +290,10 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]

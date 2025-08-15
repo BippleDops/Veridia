@@ -228,3 +228,7 @@ Ongoing situations affecting Quartermaster Sterling Suppystone:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01012_Solas_Darkwater_the_Strong]]

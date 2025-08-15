@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:39.600113
+modified: 2025-08-15T16:41:39.600118
+aliases: [Party Quests]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#Connection Improvements|Connection Improvements]]
+- [[#Enhancement Improvements|Enhancement Improvements]]
+- [[#Main Quest|Main Quest]]
+- [[#Related|Related]]
+- [[#DM Notes|DM Notes]]
+- [[#Plot Hooks|Plot Hooks]]
+- [[#07_Player_Resources Specific Content|07_Player_Resources Specific Content]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+
+
+---
 title: Party_Quests
 type: quest
 tags:
@@ -86,18 +107,25 @@ Contextual improvement based on 07_Player_Resources
 > How this works in play
 
 ## See Also
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[Combat_Encounter_Analysis]]
+- [[11 Spellcasting]]
+- [[11 Rules Glossary]]
 - [[Related_Content]]
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -201,3 +229,8 @@ Contextual improvement based on 07_Player_Resources
 - Parallels [[step_059 (phase_031)]]
 - See also: [[LORE00303_Prophecies_Entry_304]]
 - Compare with [[ITEM00846_Infernal_Ring_of_the_Gods]]
+
+## Visual References
+![[03_People/portrait_the_party.png]]
+![[02_Worldbuilding/locations/location_inverted_ballroom_wing_party_quarters_interior.png]]
+![[02_Worldbuilding/locations/location_inverted_ballroom_wing_party_quarters_rain.png]]

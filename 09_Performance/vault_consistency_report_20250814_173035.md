@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:25.214318
+modified: 2025-08-15T16:41:25.214322
+aliases: [vault consistency report 20250814 173035]
+---
+
+## Table of Contents
+- [[#Visual References|Visual References]]
+- [[#See Also|See Also]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
+---
 enhanced: trtags: [enhanced, 13_performance, combat, exploration, lore]ce]
 created: 2025-08-15T12:24:41.076621
 modified: 2025-08-15T12:24:41.076623
@@ -28,6 +45,7 @@ modified: '2025-08-14'
 - -- # vault_consistency_report_20250814_173035 ## Overview This document contains important information regarding vault_consistency_report_20250814_173035 and its role within the greater narrative. ## Description
 
 **Details**: Rich sensory elements bring this to life. vault_consistency_report_20250814_173035 represents a significant element within the campaign world, offering various opportunities for engagem
+*The air carries the scent of [appropriate smell].*
 *The air carries the scent of [appropriate smell].*ent and development. ## Key Information - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details ### Background Historical context and development over time. ### Current State Present circumstances and ongoing relevance. Moreover, ### Future Potential Possible developments and plot directions. ## Relationships - Connected to various other elements within the vault
@@ -65,20 +83,20 @@ modified: '2025-08-14'
 - [[ULTIMATE_ASSET_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

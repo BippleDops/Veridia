@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Thalia Ravenheart the Risen
 
 *Dwarf Trader (Merchants), Age 32, Non-binary*

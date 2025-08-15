@@ -13,6 +13,10 @@ updated: '2025-08-13T12:34:17.294040+00:00'
 world: Both
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-diplomatic-intelligence-diplomatic-intelligence.svg)

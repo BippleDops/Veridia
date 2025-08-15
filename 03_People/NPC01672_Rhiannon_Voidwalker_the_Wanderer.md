@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.092593
+modified: 2025-08-15T16:41:48.092595
+aliases: [NPC01672 Rhiannon Voidwalker the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Elric Frostwhisper the Wanderer (Professional - Partner)|Elric Frostwhisper the Wanderer (Professional - Partner)]]
+- [[#Xander Grimholt the Lost (Professional - Employee)|Xander Grimholt the Lost (Professional - Employee)]]
+- [[#Caelum Brightblade the Mystic (Personal - Love interest)|Caelum Brightblade the Mystic (Personal - Love interest)]]
+
+
+---
 aliases: ["Rhiannon Voidwalker the Wanderer", "rhiannon voidwalker the wanderer", "Rhiannon Voidwalker Wanderer", "Wanderer the Voidwalker Rhiannon"]
 tags: [npc, character]
 type: npc
@@ -146,3 +167,15 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
+![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
+![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

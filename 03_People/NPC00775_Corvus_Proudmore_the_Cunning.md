@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Corvus Proudmore the Cunning
 
 *Goliath Fisher (Commoners), Age 44, Female*

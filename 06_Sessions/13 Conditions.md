@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T16:41:33.883806
+modified: 2025-08-15T16:41:33.883810
+aliases: [13 Conditions]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Prep Checklist|Prep Checklist]]
+- [[#Npcs Needed|Npcs Needed]]
+- [[#Locations|Locations]]
+- [[#Encounters|Encounters]]
+- [[#Props|Props]]
+- [[#Rules|Rules]]
+- [[#See Also|See Also]]
+- [[#Related Content|Related Content]]
+
+
+---
 
 title: 13 Conditions
 type: note
@@ -28,7 +49,8 @@ tags:
 - note
 - status/in-progress
 
-created: 2025-07-23
+crea
+*The air carries the scent of [appropriate smell].*ted: 2025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
@@ -38,10 +60,10 @@ world: Both
 
 --- # Conditions
 
-*Source: Player's Handbook (2014), p. 289* Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monster's attack, or other effect. Most conditions, such as [[conditions#Blinded|blinded]], are impairments, but a few, such as [[conditions#Invisible|invisible]], can be advantageous. A condition lasts either until it is countered (the [[conditions#prone|prone]] condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition. If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't. For a full list of the conditions, see the conditions page. The conditions are:- [[conditions#Blinded|blinded]] - [[conditions#Charmed|charmed]] - [[conditions#Deafened|deafened]] - [[conditions#Exhaustion|exhaustion]] - [[conditions#frightened|frightened]] - [[conditions#Grappled|grappled]] - [[conditions#Incapacitated|incapacitated]] - [[conditions#Invisible|invisible]] - [[conditions#Paralyzed|paralyzed]] - [[conditions#Petrified|petrified]] - [[conditions#Poisoned|poisoned]] - [[conditions#prone|prone]] - [[conditions#Restrained|restrained]] - [[conditions#Stunned|stunned]] - [[conditions#Unconscious|unconscious]] ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary 13 conditions is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 13 conditions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 13 conditions. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality ## Plot Hooks - A prisoner has gone missing and evil awakens
+*Source: Adventurer's Codex (2014), p. 289* Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monster's attack, or other effect. Most conditions, such as [[conditions#Blinded|blinded]], are impairments, but a few, such as [[conditions#Invisible|invisible]], can be advantageous. A condition lasts either until it is countered (the [[conditions#prone|prone]] condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition. If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't. For a full list of the conditions, see the conditions page. The conditions are:- [[conditions#Blinded|blinded]] - [[conditions#Charmed|charmed]] - [[conditions#Deafened|deafened]] - [[conditions#Exhaustion|exhaustion]] - [[conditions#frightened|frightened]] - [[conditions#Grappled|grappled]] - [[conditions#Incapacitated|incapacitated]] - [[conditions#Invisible|invisible]] - [[conditions#Paralyzed|paralyzed]] - [[conditions#Petrified|petrified]] - [[conditions#Poisoned|poisoned]] - [[conditions#prone|prone]] - [[conditions#Restrained|restrained]] - [[conditions#Stunned|stunned]] - [[conditions#Unconscious|unconscious]] ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary 13 conditions is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 13 conditions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 13 conditions. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality ## Plot Hooks - A prisoner has gone missing and evil awakens
 
 - A shipment has gone missing and chaos spreads
-- A letter reveals the truth about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## Conditions Reference (PHB p.290-292) ### Common Conditions
+- A letter reveals the truth about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## Conditions Reference (ACX p.290-292) ### Common Conditions
 
 - **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
 - **Charmed**: Can't attack charmer, charmer has advantage on social checks
@@ -55,7 +77,7 @@ world: Both
 - **Prone**: Disadvantage on attacks, melee against has advantage
 - **Restrained**: Speed 0, disadvantage on attacks/DEX saves
 - **Stunned**: Incapacitated, can't move, can barely speak
-- **Unconscious**: Incapacitated, prone, drops everything ### Exhaustion (PHB p.291)
+- **Unconscious**: Incapacitated, prone, drops everything ### Exhaustion (ACX p.291)
 
 1. Disadvantage on ability checks
 2. Speed halved
@@ -97,6 +119,25 @@ world: Both
 - [ ] Prepare quick reference
 
 ## See Also
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[Combat_Encounter_Analysis]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[Character_Journals]]
+- [[World_Primer.md]]
+- [[Reputation_Tracker]]
+- [[11 Rules Glossary]]
 - [[Related_Content]]
 
 
@@ -106,27 +147,27 @@ world: Both
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Death Saves**: See PHB p.197
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

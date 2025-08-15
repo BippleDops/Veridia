@@ -257,3 +257,7 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]

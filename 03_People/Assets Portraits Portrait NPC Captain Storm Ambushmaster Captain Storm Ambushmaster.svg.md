@@ -18,6 +18,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_portraits_portrait_npc_captain_storm_ambushmaster_captain_storm_ambushmaster_svg_friendly.png]]
+
+
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*

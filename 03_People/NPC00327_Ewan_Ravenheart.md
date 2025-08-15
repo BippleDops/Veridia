@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.122127
+modified: 2025-08-15T16:41:44.122130
+aliases: [NPC00327 Ewan Ravenheart]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Urien Winterborn the Guardian (Personal - Love interest)|Urien Winterborn the Guardian (Personal - Love interest)]]
+- [[#Lyanna Brightblade the Guardian (Family - Cousin)|Lyanna Brightblade the Guardian (Family - Cousin)]]
+- [[#Aldric Keenblade (Criminal - Fence)|Aldric Keenblade (Criminal - Fence)]]
+
+
+---
 aliases: ["Ewan Ravenheart", "ewan ravenheart", "Ravenheart Ewan"]
 tags: [npc, character]
 type: npc
@@ -174,7 +199,7 @@ Wants rivals investigated
 - Connects to [[Fate Weavers 2]]
 - Related: [[step_009]]
 - Originates from [[step_008 (phase_081)]]
-- Compare with [[COMPLETE_SYSTEM_SUMMARY]]
+- Compare with [[COMPLETE_SYSTEM_SUBCARY]]
 - Compare with [[Clerics of Thalassa]]
 - Compare with [[step_068]]
 - Originates from [[NPC00680_Nerys_Keenblade_the_Wanderer]]
@@ -252,3 +277,8 @@ Wants rivals investigated
 - Originates from [[Assets Art Taverner Bubbles Mcgill.png]]
 - Parallels [[LORE00312_Legends_Entry_313]]
 - Leads to [[SHOP00041_Magical_Shop_42]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

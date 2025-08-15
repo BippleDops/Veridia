@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Drusilla Crystalbrook the Guardian
 
 *Genasi Bard (Adventurers), Age 31, Male*

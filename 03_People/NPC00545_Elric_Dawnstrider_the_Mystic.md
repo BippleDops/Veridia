@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Elric Dawnstrider the Mystic
 
 *Dragonborn Farmer (Commoners), Age 50, Non-binary*

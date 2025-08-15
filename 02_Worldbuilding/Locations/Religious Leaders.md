@@ -280,3 +280,9 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]

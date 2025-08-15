@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Erasmus Jadeclaw
 
 *Half-Elf Heir (Nobles), Age 48, Male*

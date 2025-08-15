@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Ewan Ravenheart the Broken
 
 *Aasimar Wizard (Adventurers), Age 43, Female*

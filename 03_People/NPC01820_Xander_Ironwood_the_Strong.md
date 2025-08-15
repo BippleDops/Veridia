@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.472302
+modified: 2025-08-15T16:41:46.472306
+aliases: [NPC01820 Xander Ironwood the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Drusilla Hawthorne the Cunning (Family - Parent)|Drusilla Hawthorne the Cunning (Family - Parent)]]
+- [[#Urien Proudmore the Seeker (Criminal - Fence)|Urien Proudmore the Seeker (Criminal - Fence)]]
+- [[#Erasmus Darkwater the Lost (Political - Ally)|Erasmus Darkwater the Lost (Political - Ally)]]
+
+
+---
 aliases: ["Xander Ironwood the Strong", "xander ironwood the strong", "Xander Ironwood Strong", "Strong the Ironwood Xander"]
 tags: [npc, character]
 type: npc
@@ -258,3 +279,14 @@ Blackmails party into service
 - Parallels [[SPELL00138_Nature_Spell_139]]
 - Influences [[04_Resources_Assets_Locations_location-city-cathedral-of-light-cathedral-of-light.png]]
 - Connects to [[step_044 (phase_010)]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

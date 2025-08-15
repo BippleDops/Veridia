@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Felicia Xendar the Scholar
 
 *Gnome Farmer (Commoners), Age 28, Non-binary*

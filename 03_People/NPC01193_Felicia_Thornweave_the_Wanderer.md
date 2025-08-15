@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Felicia Thornweave the Wanderer
 
 *Half-Orc Caravan Master (Merchants), Age 49, Male*

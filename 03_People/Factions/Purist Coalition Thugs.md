@@ -35,6 +35,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_symbols_symbol_heraldry_purist_coalition_thugs_purist_coalition_thugs_svg_dramatic.png]]
+
+
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-purist-coalition-thugs-purist-coalition-thugs.svg)
 

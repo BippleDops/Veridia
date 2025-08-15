@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Fiora Silverleaf the Fallen
 
 *Human Carpenter (Commoners), Age 66, Female*

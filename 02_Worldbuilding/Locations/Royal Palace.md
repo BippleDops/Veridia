@@ -949,3 +949,11 @@ Ongoing situations affecting Royal Palace:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[The Coral Throne 2]]

@@ -242,3 +242,7 @@ Mentioned in The Hidden Prophecy of Shadows
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00739_Gavril_Ashford_the_Bold]]

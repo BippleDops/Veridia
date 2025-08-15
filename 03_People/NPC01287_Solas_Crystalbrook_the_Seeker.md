@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Crystalbrook the Seeker
 
 *Firbolg Cleric (Adventurers), Age 24, Non-binary*

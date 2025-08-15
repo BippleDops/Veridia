@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, _indexes]
+created: 2025-08-15T16:41:29.256557
+modified: 2025-08-15T16:41:29.256562
+aliases: [Item Catalog Complete.md]
+---
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Properties|Properties]]
+- [[#History|History]]
+- [[#Origin|Origin]]
+- [[#Previous Owners|Previous Owners]]
+- [[#Mechanics|Mechanics]]
+- [[#Value|Value]]
+- [[#Current Location|Current Location]]
+- [[#Adventure Hooks|Adventure Hooks]]
+
+
+---
 aliases:
 - Item Catalog Completemd
 created: 2025-08-14
@@ -27,7 +48,8 @@ Item_Catalog_Complete.md is a notable item with both practical use and historica
 
 *Further details to be discovered.*
 **Rarity**: Uncommon
-**Appearance**: Distinctive craftsmanship sets this item apart from common goods.
+**Appearance**: Distinctive craftsmanship s
+*The air carries the scent of [appropriate smell].*ets this item apart from common goods.
 
 ## Properties
 - **Primary Function**: Provides utility in specific situations
@@ -147,6 +169,45 @@ FROM "02_Worldbuilding"
 WHERE contains(file.name, "Location") OR contains(tags, "location")
 ```
 ## See Also
+- [[Item_Catalog_Complete.md (Indexes)]]
+- [[16 Credits]]
+- [[Quick_Start_Guide]]
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[Session_Recaps]]
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[MOC_Sessions]]
+- [[NPC00615_Lyanna_Moonshadow_the_Lost]]
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[15 the Planes of Existence]]
+- [[13 Conditions]]
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[MASTER_MOC]]
+- [[09 Appendix a the Multiverse]]
+- [[12 Spells]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[Reference.md]]
+- [[MOC_Items]]
+- [[14 Gods of the Multiverse]]
+- [[Basic_Rules]]
+- [[11 Spellcasting]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[Letter_From_the_Pearl_Guard_Captai]]
+- [[NPC00453_Idris_Grimholt]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[Sanity Quick Reference]]
+- [[City_District_Map_Port_Meridian_Harbo]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
 - [[Related_Content]]
 
 
@@ -156,21 +217,21 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - [[FINAL_ASSET_SYSTEM_COMPLETE]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -274,3 +335,8 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Requires [[Painters Supplies Xphb]]
 - Affected by [[Figurine of Wondrous Power Xdmg]]
 - Parallels [[The Noble Compact (D&D_References)]]
+
+## Visual References
+![[04_Resources/Assets/Placeholder Images/DefaultItem.png]]
+![[04_Resources/Assets/Placeholder Images/WeaponsArmorItemsTitleBar.png]]
+![[04_Resources/Assets/Items/item-artifact-warhammer-xphb-v3-warhammer-xphb.png]]

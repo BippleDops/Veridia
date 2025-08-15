@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.785694
+modified: 2025-08-15T16:41:41.785698
+aliases: [NPC00612 Thalia Jadeclaw the Fallen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Qadim Youngblood the Seeker (Professional - Employer)|Qadim Youngblood the Seeker (Professional - Employer)]]
+- [[#Solas Quicksilver the Redeemed (Criminal - Handler)|Solas Quicksilver the Redeemed (Criminal - Handler)]]
+- [[#Drusilla Zephyrblade the Wise (Family - Parent)|Drusilla Zephyrblade the Wise (Family - Parent)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Thalia Jadeclaw the Fallen", "thalia jadeclaw the fallen", "Thalia Jadeclaw Fallen", "Fallen the Jadeclaw Thalia"]
 tags: [npc, character]
@@ -146,6 +167,23 @@ Witnessed a crime
 - Special moves
 
 ## See Also
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[Archdruid Thornweaver]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Combat_Encounter_Analysis]]
+- [[Reference.md]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[11 Rules Glossary]]
+- [[MOC_Lore]]
+- [[MOC_Items]]
+- [[NPC00058_Elric_Nightfall]]
 - [[Related_Content]]
 
 
@@ -155,8 +193,8 @@ Witnessed a crime
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -266,3 +304,14 @@ Witnessed a crime
 - Requires [[Portrait NPC Captain Threshold V1 Captain Threshold.svg]]
 - Originates from [[#Cross-Campaign Locations]]
 - Influences [[ITEM00726_Primordial_Mirror_of_Destiny]]
+
+## Visual References
+![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

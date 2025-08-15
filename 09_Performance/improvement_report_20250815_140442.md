@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:22.163563
+modified: 2025-08-15T16:41:22.163568
+aliases: [improvement report 20250815 140442]
+---
+
+## Table of Contents
+- [[#Current State|Current State]]
+- [[#Issues Found|Issues Found]]
+- [[#Improvements Made|Improvements Made]]
+- [[#Specific Improvements|Specific Improvements]]
+- [[#Next Steps|Next Steps]]
+- [[#See Also|See Also]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
 -tags: [misc, combat]sc]
 type: misc
 aliases: ["improvement report 20250815 140442"]
@@ -65,17 +86,17 @@ Generated: 2025-08-15T14:04:42.879770
 - [[fifty_improvements_20250815_155453]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
 
 ## Connections
 
@@ -179,3 +200,8 @@ Generated: 2025-08-15T14:04:42.879770
 - Related: [[The Sunken Cathedral of Stars]]
 - Requires [[step_004]]
 - Requires [[Portrait NPC Lady Catherine Mourning V1 Lady Catherine Mourning.svg]]
+
+## Visual References
+![[04_Resources/maps/world_reports_bidirectional_links_gm.png]]
+![[04_Resources/maps/world_reports_bidirectional_links_player.png]]
+![[04_Resources/maps/world_witness_reports_gm.png]]

@@ -241,3 +241,8 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[yuan-ti-pit-master-mpmm]]

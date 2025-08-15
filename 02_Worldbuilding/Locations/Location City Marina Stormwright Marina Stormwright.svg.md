@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Marina Stormwrig
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]

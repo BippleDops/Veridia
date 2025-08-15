@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Caelum Silverleaf the Swift
 
 *Halfling Blacksmith (Commoners), Age 46, Non-binary*

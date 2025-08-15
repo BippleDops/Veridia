@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.245433
+modified: 2025-08-15T16:41:41.245437
+aliases: [NPC01805 Faelyn Goldleaf the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Fiora Ashford the Strong (Professional - Employer)|Fiora Ashford the Strong (Professional - Employer)]]
+- [[#Hilda Dawnstrider the Wanderer (Professional - Mentor)|Hilda Dawnstrider the Wanderer (Professional - Mentor)]]
+- [[#Drusilla Ravenheart the Mystic (Criminal - Accomplice)|Drusilla Ravenheart the Mystic (Criminal - Accomplice)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Faelyn Goldleaf the Wanderer", "faelyn goldleaf the wanderer", "Faelyn Goldleaf Wanderer", "Wanderer the Goldleaf Faelyntags: [npc, character, combat, magic, social, lore]er]
 type: npc
@@ -12,7 +33,7 @@ type: npc
 
 ## Quick Reference
 - **Location**: Temple steps at dawn prayers
-- **Occupation**: Black market dealer
+- **Occupation**: [[Black Market Deal]]er
 - **Disposition**: Extremely superstitious about everything
 
 ## Appearance
@@ -145,13 +166,44 @@ Is secretly testing the party
 - Special moves
 
 ## Combat Stats
-Base: **Mage** (MM p.347)
+Base: **Mage** (BC p.347)
 Modifications:
 - HP: 46
 - AC: 15
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC01730_Faelyn_Emberfall_the_Broken]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[Letter_From_the_Pearl_Guard_Captai]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[Propaganda_Broadsheet_Syndicate.md]]
+- [[NPC00080_Branwen_Proudmore]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[07 Customization Options]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[Character_Journal_Template]]
+- [[MOC_Combat]]
+- [[MOC_Rules]]
 - [[Related_Content]]
 
 
@@ -161,10 +213,10 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -188,11 +240,11 @@ Modifications:
 - Parallels [[step_002]]
 - Related: [[Quest_Template]]
 - Requires [[step_053 (phase_025)]]
-- Related: [[Quartermaster Shadow Supply (D&D_References)]]
+- Related: [[[[Quartermaster Shadow Supply]] (D&D_References)]]
 - Related: [[step_050 (phase_031)]]
 - Parallels [[Summon Fiend Xphb]]
 - Leads to [[step_038 (phase_053)]]
-- Compare with [[Portrait NPC Merchant Lord Cornelius Generous V2 Merchant Lord Cornelius Generous.svg]]
+- Compare with [[Portrait NPC [[Merchant]] Lord Cornelius Generous V2 Merchant Lord Cornelius Generous.svg]]
 - Influences [[Order of the Drowned Star (Orders)]]
 - See also: [[NPC01793_Lyanna_Youngblood_the_Seeker]]
 - Connects to [[step_044 (phase_066)]]
@@ -219,10 +271,10 @@ Modifications:
 - Related: [[conjure-minor-elementals-xphb (spells)]]
 - Connects to [[location-city-withered-court-v1-withered-court.svg]]
 - Connects to [[LOC00187_Dungeons_Location_188]]
-- Influences [[Assets Locations Location City Keeper Luminous Crystalbeam Keeper Luminous Crystalbeam.svg]]
+- Influences [[Assets Locations Location City [[Keeper Luminous Crystalbeam]] Keeper Luminous Crystalbeam.svg]]
 - Influences [[Character_Advancement]]
-- Compare with [[Assets Locations Location City Reality Breach Locations V1 Reality Breach Locations.svg]]
-- Related: [[Portrait NPC Weaponsmith Captain Marcus Sharpedge V2 Weaponsmith Captain Marcus Sharpedge.svg]]
+- Compare with [[Assets Locations Location City [[Reality Breach Locations]] V1 Reality Breach Locations.svg]]
+- Related: [[Portrait NPC Weaponsmith [[Captain Marcus]] Sharpedge V2 Weaponsmith Captain Marcus Sharpedge.svg]]
 - See also: [[step_067]]
 - Originates from [[chunk-of-meat (items)]]
 - Originates from [[ENC00163_Environmental_Encounter_164]]
@@ -252,15 +304,15 @@ Modifications:
 - See also: [[LORE00329_History_Entry_330]]
 - Related: [[ENC00083_Social_Encounter_84]]
 - Parallels [[step_060 (phase_018)]]
-- Connects to [[Assets Locations Location City Sacred Historian Coral Deepscribe Sacred Historian Coral Deepscribe.svg]]
+- Connects to [[Assets Locations Location City [[Sacred Historian Coral Deepscribe]] Sacred Historian Coral Deepscribe.svg]]
 - Parallels [[LORE00292_Prophecies_Entry_293]]
-- Compare with [[The Free Current 2]]
+- Compare with [[The [[Free Current]] 2]]
 - Affected by [[Paladin Xphb Oath of Vengeance Xphb]]
 - Compare with [[Quest - The Shadow Fleet_1 (01_Adventures)]]
 - Compare with [[Silvery Barbs Scc]]
 - See also: [[Assets Vehicles Vehicle Ship Sky Cutter Interceptor V2 Sky Cutter Interceptor.svg]]
 - Originates from [[step_098]]
-- Requires [[Assets Locations Location City Observatory District Observatory District.svg]]
+- Requires [[Assets Locations [[Location City [[Observatory District]] Observatory District.svg]]]]
 - Affected by [[step_007]]
 - Leads to [[step_020 (phase_091)]]
 - Compare with [[List Spells Classes Circle of the Stars Xphb]]
@@ -271,6 +323,17 @@ Modifications:
 - Related: [[portrait-npc-syndicate-war-syndicate-war.svg]]
 - Parallels [[step_005 (phase_032)]]
 - Related: [[SHOP00002_General_Shop_3]]
-- See also: [[Port Meridian - Market Square (D&D_References)]]
+- See also: [[[[Port Meridian]] - Market Square (D&D_References)]]
 - Influences [[LORE00321_History_Entry_322]]
 - Parallels [[step_069]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_dramatic.png]]
+![[03_People/portrait_lady_seraphina_goldleaf_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

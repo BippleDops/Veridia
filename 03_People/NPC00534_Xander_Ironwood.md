@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.345230
+modified: 2025-08-15T16:41:45.345233
+aliases: [NPC00534 Xander Ironwood]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aldric Goldleaf (Political - Opposition)|Aldric Goldleaf (Political - Opposition)]]
+- [[#Caelum Youngblood the Broken (Professional - Employer)|Caelum Youngblood the Broken (Professional - Employer)]]
+- [[#Kaelen Ironforge the Wanderer (Personal - Best friend)|Kaelen Ironforge the Wanderer (Personal - Best friend)]]
+
+
+---
 aliases: ["Xander Ironwood", "xander ironwood", "Ironwood Xander"]
 tags: [npc, character]
 type: npc
@@ -246,3 +267,14 @@ Discovered something valuable
 - Compare with [[gnoll-warrior-xmm]]
 - Connects to [[step_006 (phase_021)]]
 - Compare with [[downtime-activity-research-xge (variant-rules)]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

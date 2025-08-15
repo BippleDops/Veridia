@@ -200,3 +200,8 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[The Silent Watcher 2]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Lyanna Emberfall the Redeemed
 
 *Goliath Shopkeeper (Merchants), Age 46, Non-binary*

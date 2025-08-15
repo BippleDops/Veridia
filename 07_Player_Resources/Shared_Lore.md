@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:38.181046
+modified: 2025-08-15T16:41:38.181052
+aliases: [Shared Lore]
+---
+
+## Table of Contents
+- [[#The World|The World]]
+- [[#The Realms|The Realms]]
+- [[#The Prophecy|The Prophecy]]
+- [[#Known Factions|Known Factions]]
+- [[#See Also|See Also]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+- [[#Visual References|Visual References]]
+
+
 -tags: [generated, linked, combat]ed]
 created: 2025-08-15T12:34:11.169015
 ---
@@ -24,6 +45,48 @@ created: 2025-08-15T12:34:11.169015
 > Useful information for players
 
 ## See Also
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00644_Nerys_Dawnstrider_the_Wanderer]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
+- [[Portal_Home]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[Party_Inventory]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[Pilgrim_Pass_Prayer_Sli]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC00945_Wynne_Voidwalker_the_Seeker]]
+- [[What You Know - Abyssos Prime.md]]
+- [[Parliamentary_Voting_Guide]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[Sanity_Quick_Reference.md]]
+- [[Downtime_Activities]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[15 the Planes of Existence]]
+- [[03 Races]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC00407_Hestara_Dawnstrider]]
+- [[16 Credits]]
+- [[11 Rules Glossary]]
+- [[MOC_Items]]
 - [[Related_Content]]
 
 
@@ -36,20 +99,20 @@ created: 2025-08-15T12:34:11.169015
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
 
 ## Connections
 
@@ -153,3 +216,8 @@ created: 2025-08-15T12:34:11.169015
 - Originates from [[step_005 (phase_063)]]
 - Affected by [[step_002 (phase_077)]]
 - Affected by [[interception-xphb (feats)]]
+
+## Visual References
+![[04_Resources/maps/world_shared_dreaming_player.png]]
+![[04_Resources/maps/world_shared_dreaming_physical.png]]
+![[04_Resources/maps/world_shared_dreaming_gm.png]]

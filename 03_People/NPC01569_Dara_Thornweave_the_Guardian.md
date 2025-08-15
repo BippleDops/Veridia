@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.973849
+modified: 2025-08-15T16:41:43.973850
+aliases: [NPC01569 Dara Thornweave the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Voidwalker the Seeker (Criminal - Fence)|Corvus Voidwalker the Seeker (Criminal - Fence)]]
+- [[#Zephyr Underhill the Seeker (Family - Child)|Zephyr Underhill the Seeker (Family - Child)]]
+- [[#Zephyr Nightfall the Guardian (Professional - Partner)|Zephyr Nightfall the Guardian (Professional - Partner)]]
+
+
+---
 aliases: ["Dara Thornweave the Guardian", "dara thornweave the guardian", "Dara Thornweave Guardian", "Guardian the Thornweave Dara"]
 tags: [npc, character]
 type: npc
@@ -243,3 +264,14 @@ Needs help with personal quest
 - See also: [[Vehicle Ship Arc Engine Prototype Arc Engine Prototype.svg]]
 - Originates from [[step_068 (phase_009)]]
 - Requires [[LOC00181_Cities_Location_182]]
+
+## Visual References
+![[03_People/portrait_captain_dara_ironwill_friendly.png]]
+![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
+![[03_People/portrait_captain_dara_ironwill_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

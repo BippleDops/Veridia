@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Faelyn Frostwhisper the Seeker
 
 *Elf Appraiser (Merchants), Age 74, Male*

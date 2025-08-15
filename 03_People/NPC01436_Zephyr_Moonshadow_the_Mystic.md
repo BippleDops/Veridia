@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Zephyr Moonshadow the Mystic
 
 *Half-Orc Rogue (Adventurers), Age 40, Male*

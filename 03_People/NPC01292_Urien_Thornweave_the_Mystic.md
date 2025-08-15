@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Urien Thornweave the Mystic
 
 *Tabaxi Fighter (Adventurers), Age 63, Female*

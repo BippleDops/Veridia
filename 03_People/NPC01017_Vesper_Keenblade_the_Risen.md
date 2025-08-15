@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.204192
+modified: 2025-08-15T16:41:41.204197
+aliases: [NPC01017 Vesper Keenblade the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Vesper Thornweave the Mystic (Professional - Employee)|Vesper Thornweave the Mystic (Professional - Employee)]]
+- [[#Aeliana Thornweave the Cunning (Family - Child)|Aeliana Thornweave the Cunning (Family - Child)]]
+- [[#Dara Quicksilver the Cunning (Political - Puppet)|Dara Quicksilver the Cunning (Political - Puppet)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Vesper Keenblade the Risen", "vesper keenblade the risen", "Vesper Keenblade Risen", "Risen the Keenblade Vespertags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
@@ -6,7 +31,7 @@ type: npc
 
 # Vesper Keenblade the Risen
 
-*Tabaxi Appraiser (Merchants), Age 41, Female*
+*Tabaxi Appraiser ([[Merchant]]s), Age 41, Female*
 
 **ID**: NPC01017
 
@@ -31,7 +56,7 @@ Very short and imposing, with Tied back unusual color hair and Heterochromic eye
 - **Dream**: Opening their own shop
 
 ## Background
-Built their business from nothing through cunning and hard work An old debt has come due at the worst possible time.
+Built their business from nothing through cunning and hard work An old debt has come due at the worst possible [[Time]].
 
 ## Current Situation
 - **Occupation**: Jeweler
@@ -136,13 +161,47 @@ Competitor sabotaging business
 - Special moves
 
 ## Combat Stats
-Base: **Priest** (MM p.348)
+Base: **Priest** (BC p.348)
 Modifications:
 - HP: 19
 - AC: 15
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[Depth_Adapted_Background]]
+- [[Ship_Schematic_The_Seahawk.md]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[11 Spellcasting]]
+- [[05 Personality and Background]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC00407_Hestara_Dawnstrider]]
+- [[Concept_Map]]
 - [[Related_Content]]
 
 
@@ -152,9 +211,9 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -165,15 +224,15 @@ Modifications:
 ## Connections
 
 - Influences [[Arcanaloth Xmm]]
-- Related: [[Location City Elder Matthias Stoneward V1 Elder Matthias Stoneward.svg]]
+- Related: [[Location City [[Elder Matthias Stoneward]] V1 Elder Matthias Stoneward.svg]]
 - Related: [[step_055 (phase_048)]]
 - Influences [[step_043 (phase_005)]]
 - Influences [[Established Family Communities 2]]
 - Related: [[fiendish-cults-cult-goals-mtf (tables)]]
-- Originates from [[Assets Locations Location City Memoriam Keeper Marcus Remembrance V1 Memoriam Keeper Marcus Remembrance.svg]]
+- Originates from [[Assets Locations [[Location City [[[[Memoriam]] Keeper Marcus Remembrance]] V1 Memoriam Keeper Marcus Remembrance.svg]]]]
 - Leads to [[ITEM01123_Concentrated_Oil_of_Swiftness]]
 - Leads to [[step_082 (phase_083)]]
-- Originates from [[Location City the Neutral Current Tavern the Neutral Current Tavern.svg]]
+- Originates from [[Location City the Neutral Current [[Tavern]] [[The Neutral Current Tavern]].svg]]
 - Compare with [[portrait-npc-captain-rescue-v1-captain-rescue.svg]]
 - See also: [[physical-variations-yuan-ti-snake-body-type-vgm]]
 - Connects to [[LORE00175_Prophecies_Entry_176]]
@@ -189,12 +248,12 @@ Modifications:
 - Leads to [[step_042 (phase_033)]]
 - Influences [[armaments-very-rare-xdmg (tables)]]
 - Influences [[step_036 (phase_097)]]
-- Originates from [[Chief Engineer Vera Steamheart (D&D_References)]]
+- Originates from [[[[Chief Engineer Vera Steamheart]] (D&D_References)]]
 - Related: [[giant-owl-xmm]]
 - Related: [[step_008 (phase_039)]]
 - Leads to [[MON00026_Aberrations_Creature_27]]
 - See also: [[Lieutenant Shadow Truthseeker]]
-- Compare with [[Assets Locations Location City Council of Faiths Council of Faiths.svg]]
+- Compare with [[Assets Locations [[Location City [[Council of Faiths]] Council of Faiths.svg]]]]
 - Requires [[goblin-boss-xmm (fey)]]
 - Connects to [[step_098 (phase_026)]]
 - Leads to [[World Overview]]
@@ -202,9 +261,9 @@ Modifications:
 - Connects to [[ITEM00287_Radiant_Staff_of_the_Ancients]]
 - Related: [[step_053]]
 - Influences [[" + join(map(slice(rows, 0, 3), (row) => row.file.name), "]]
-- Requires [[Location City Calm Soothingwave Calm Soothingwave.svg]]
+- Requires [[Location City [[Calm Soothingwave]] Calm Soothingwave.svg]]
 - Parallels [[Progressive Research Institutions (D&D_References)]]
-- Influences [[Assets Locations Location City Golden Coral Golden Coral.svg]]
+- Influences [[Assets Locations Location City [[Golden Coral]] Golden Coral.svg]]
 - Related: [[step_039 (phase_084)]]
 - See also: [[NPC00431_Caelum_Dawnstrider_the_Cunning]]
 - Connects to [[Icon of Ravenloft Cos]]
@@ -218,10 +277,10 @@ Modifications:
 - Related: [[dust-of-disappearance-xdmg (items)]]
 - Compare with [[Human Names Indian Male Xge]]
 - Requires [[Symbol Heraldry Magical Component Manufacturers Guil V1 Magical Component Manufacturers Guil.svg]]
-- Parallels [[location-city-warforged-v1-warforged.svg]]
+- Parallels [[location-city-[[Warforged]]-v1-warforged.svg]]
 - Leads to [[04_Resources_Assets_Symbols_symbol-heraldry-border-fortresses-border-fortresses.svg]]
 - Influences [[step_007 (phase_032)]]
-- Leads to [[Location City Hadrian Depthbridge Hadrian Depthbridge.svg]]
+- Leads to [[Location City [[Hadrian Depthbridge]] Hadrian Depthbridge.svg]]
 - Connects to [[Symbol Heraldry Quest the Family Reunion Quest the Family Reunion.svg]]
 - Requires [[Character Creation Guide (D&D_References)]]
 - See also: [[The Divine Revelation 2]]
@@ -230,7 +289,7 @@ Modifications:
 - See also: [[Enspelled Weapon Level 6 Xdmg]]
 - Compare with [[step_005]]
 - Influences [[The Deep Mother Cult]]
-- Influences [[Aquabyssos - Session 07 - The Resonance Revelation]]
+- Influences [[[[Aquabyssos]] - Session 07 - The Resonance Revelation]]
 - Compare with [[step_037 (phase_079)]]
 - Connects to [[step_099 (phase_015)]]
 - Leads to [[Voices from Below]]
@@ -238,7 +297,7 @@ Modifications:
 - Connects to [[LORE00296_Prophecies_Entry_297]]
 - Connects to [[ITEM00796_Time-worn_Crown_of_Truth]]
 - See also: [[LORE00257_History_Entry_258]]
-- Influences [[Navigator Sage Driftwood 2]]
+- Influences [[[[Navigator Sage Driftwood]] 2]]
 - Requires [[ENC00098_Combat_Encounter_99]]
 - Compare with [[Frequency Weapons]]
 - Affected by [[step_001 (phase_017)]]
@@ -259,8 +318,13 @@ Modifications:
 - Originates from [[Multiverse (D&D_References)]]
 - Requires [[step_028 (phase_063)]]
 - Related: [[SPELL00064_Nature_Spell_65]]
-- Compare with [[Harbor Facilities 2]]
+- Compare with [[[[Harbor Facilities]] 2]]
 - Influences [[Diplomatic Corps]]
 - Affected by [[Portrait NPC Captain Swift Cloudracer V1 Captain Swift Cloudracer.svg]]
 - See also: [[young-green-dragon-xmm]]
 - Affected by [[The Sky Knight Orders (Orders)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

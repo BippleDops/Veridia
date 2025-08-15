@@ -309,3 +309,8 @@ Ongoing situations affecting Royal Palace of Meridian:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]

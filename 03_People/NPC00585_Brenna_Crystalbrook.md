@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Brenna Crystalbrook
 
 *Halfling Baker (Commoners), Age 23, Female*

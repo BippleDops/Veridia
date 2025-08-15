@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ewan Goldleaf the Scholar
 
 *Elf Fisher (Commoners), Age 30, Male*

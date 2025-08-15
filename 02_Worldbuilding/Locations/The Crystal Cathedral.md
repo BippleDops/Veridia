@@ -246,3 +246,8 @@ Ongoing situations affecting The Crystal Cathedral:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]

@@ -1,4 +1,5 @@
 ---
+enhanced: true
 enhanced: trtags: [enhanced, 13_performance, combat, lore]ce]
 created: 2025-08-15T12:24:41.032530
 modified: 2025-08-15T12:24:41.032535
@@ -36,6 +37,7 @@ modified: '2025-08-14'
 - **Cross-References Added**: 141
 - **Content Enrichments**: 3416
 - **Total Connections**: 13846 #
+*The [texture] surface feels [description] to the touch.*
 *Sounds of [relevant sounds] echo in the distance.*# 🔗 Connections Created - **NPCs Connected**: 937 - **Places Connected**: 3417
 - **Organizations Connected**: 388 ## ✨ Enhancements Applied ### NPCs - Added location connections
 - Created organization affiliations
@@ -81,14 +83,14 @@ modified: '2025-08-14'
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*

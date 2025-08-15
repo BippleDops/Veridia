@@ -1,4 +1,23 @@
 ---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T16:41:33.935189
+modified: 2025-08-15T16:41:33.935193
+aliases: [11 Spellcasting]
+---
+
+## Table of Contents
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#See Also|See Also]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#Thematic Connections|Thematic Connections]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
+---
 
 title: 11 Spellcasting
 type: note
@@ -15,7 +34,8 @@ This document contains important information regarding 11 Spellcasting and its r
 
 11 Spellcasting represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
 
-- **Primary Purpose**: Serves specific function within the world
+- **Primary Purpose**: Serves specific 
+*The [texture] surface feels [description] to the touch.*function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details
 
@@ -49,6 +69,16 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 > This NPC knows more than they let on
 
 ## See Also
+- [[Smuggler_Route_Tally_Shee]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[11 Rules Glossary]]
+- [[06 Equipment]]
+- [[04 Classes]]
+- [[MOC_NPCs]]
+- [[03 Races]]
+- [[Item_Catalog_Complete.md]]
+- [[Character_Journal_Template]]
 - [[Related_Content]]
 
 
@@ -58,8 +88,8 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - [[NEXT_LEVEL_IMPROVEMENTS]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -69,12 +99,12 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
 
 ## Connections
 

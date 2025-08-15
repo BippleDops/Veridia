@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Zephyr Xendar the Lost
 
 *Dragonborn Trader (Merchants), Age 33, Female*

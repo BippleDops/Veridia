@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Alaric Frostwhisper the Fallen
 
 *Dwarf Wizard (Adventurers), Age 64, Female*

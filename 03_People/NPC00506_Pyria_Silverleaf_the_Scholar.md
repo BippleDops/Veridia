@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.165219
+modified: 2025-08-15T16:41:48.165224
+aliases: [NPC00506 Pyria Silverleaf the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Pyria Ravenheart the Wanderer (Political - Ally)|Pyria Ravenheart the Wanderer (Political - Ally)]]
+- [[#Hilda Voidwalker (Professional - Partner)|Hilda Voidwalker (Professional - Partner)]]
+- [[#Branwen Silverleaf the Cunning (Professional - Employee)|Branwen Silverleaf the Cunning (Professional - Employee)]]
+
+
+---
 aliases: ["Pyria Silverleaf the Scholar", "pyria silverleaf the scholar", "Pyria Silverleaf Scholar", "Scholar the Silverleaf Pyria"]
 tags: [npc, character]
 type: npc
@@ -131,3 +152,15 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

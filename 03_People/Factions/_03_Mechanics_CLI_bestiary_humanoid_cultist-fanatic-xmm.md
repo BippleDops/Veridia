@@ -2,6 +2,10 @@
 tags: ['faction']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # /03 Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm
 
 ## Organization Overview

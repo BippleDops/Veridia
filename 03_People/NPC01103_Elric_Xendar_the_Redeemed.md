@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Elric Xendar the Redeemed
 
 *Aasimar Trader (Merchants), Age 36, Non-binary*

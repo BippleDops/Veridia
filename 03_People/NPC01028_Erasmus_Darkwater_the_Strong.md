@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.370472
+modified: 2025-08-15T16:41:41.370476
+aliases: [NPC01028 Erasmus Darkwater the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Malakai Xendar the Mystic (Political - Patron)|Malakai Xendar the Mystic (Political - Patron)]]
+- [[#Cedric Ashford the Seeker (Political - Patron)|Cedric Ashford the Seeker (Political - Patron)]]
+- [[#Felicia Zephyrblade the Fallen (Criminal - Target)|Felicia Zephyrblade the Fallen (Criminal - Target)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Erasmus Darkwater the Strong", "erasmus darkwater the strong", "Erasmus Darkwater Strong", "Strong the Darkwater Erasmustags: [npc, character, combat, magic, social, lore]er]
 type: npc
@@ -6,7 +27,7 @@ type: npc
 
 # Erasmus Darkwater the Strong
 
-*Half-Elf Trader (Merchants), Age 46, Non-binary*
+*Half-Elf Trader ([[Merchant]]s), Age 46, Non-binary*
 
 **ID**: NPC01028
 
@@ -139,6 +160,42 @@ Seeks rare merchandise
 - Special moves
 
 ## See Also
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00844_Cedric_Blackstone_the_Fallen]]
+- [[NPC00080_Branwen_Proudmore]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC01113_Solas_Ravenheart_the_Cunning]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC01276_Erasmus_Keenblade_the_Wanderer]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC00494_Lyanna_Hawthorne_the_Guardian]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[Player_Portal.md]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[What You Know - Abyssos Prime.md]]
+- [[09 Adventuring]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[MASTER_NAVIGATION]]
 - [[Related_Content]]
 
 
@@ -148,9 +205,9 @@ Seeks rare merchandise
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -178,15 +235,15 @@ Seeks rare merchandise
 - Leads to [[Location City Pressure Weighted Representation Pressure Weighted Representation.svg]]
 - Related: [[Portrait NPC the Seven Seals V1 the Seven Seals.svg]]
 - Connects to [[step_020 (phase_078)]]
-- Leads to [[Assets Locations Location City Crystal Storm Barriers Crystal Storm Barriers.svg]]
+- Leads to [[Assets Locations Location City [[Crystal Storm Barriers]] Crystal Storm Barriers.svg]]
 - Compare with [[step_084]]
 - See also: [[step_032 (phase_007)]]
 - Originates from [[Call Lightning Xphb]]
-- Influences [[The Abyssal Tavern (D&D_References)]]
+- Influences [[The Abyssal [[Tavern]] (D&D_References)]]
 - Connects to [[Pressure Damage]]
 - Affected by [[The Bleeding Chambers (D&D_References)]]
 - Connects to [[ITEM00576_Enchanted_Plate_of_Protection]]
-- Requires [[Artisan Glow-Finger Nerida (D&D_References)]]
+- Requires [[[[Artisan Glow-Finger Nerida]] (D&D_References)]]
 - Connects to [[Cheese Wedge Xphb]]
 - Originates from [[actions#Tumble]]
 - Originates from [[The Whispering Peaks]]
@@ -203,7 +260,7 @@ Seeks rare merchandise
 - Compare with [[DUN00162_Dungeon_163]]
 - Originates from [[QUEST00143_Main_Quest_144]]
 - Parallels [[step_033]]
-- Compare with [[Assets Locations Location City Seeds of the Past Seeds of the Past.svg]]
+- Compare with [[Assets Locations [[Location City [[Seeds of the Past]] Seeds of the Past.svg]]]]
 - Affected by [[Memory Crystals 2]]
 - Parallels [[LORE00267_Prophecies_Entry_268]]
 - Connects to [[step_067]]
@@ -211,25 +268,25 @@ Seeks rare merchandise
 - Affected by [[shapechange-xphb (spells)]]
 - See also: [[NPC01090_Orion_Youngblood_the_Guardian]]
 - Leads to [[step_009]]
-- Parallels [[Bubble District (D&D_References)]]
-- Requires [[Assets Locations Location City International Trade Routes V1 International Trade Routes.svg]]
+- Parallels [[[[Bubble District]] (D&D_References)]]
+- Requires [[Assets Locations Location City [[[[International Trade]] Routes]] V1 International Trade Routes.svg]]
 - Compare with [[LORE00171_History_Entry_172]]
 - Connects to [[step_042 (phase_089)]]
-- Compare with [[Progressive Tide Movement (D&D_References)]]
+- Compare with [[[[Progressive Tide Movement]] (D&D_References)]]
 - See also: [[NPC01956_Zephyr_Thornweave_the_Guardian]]
 - Influences [[step_083]]
 - Leads to [[Galley Xphb]]
 - Originates from [[Eastern Kingdom (D&D_References)]]
 - Compare with [[step_039 (phase_085)]]
 - Influences [[SHOP00006_Magical_Shop_7]]
-- Parallels [[Guardian Captain Marcus Shieldwall]]
+- Parallels [[Guardian [[Captain Marcus]] Shieldwall]]
 - See also: [[Manticore Xmm]]
 - See also: [[Chicken Xdmg]]
 - Requires [[Portrait NPC Senator Glaucus V2 Senator Glaucus.svg]]
 - Related: [[The Windcatchers Guild]]
-- Requires [[Assets Locations Location City Memory Sharing Techniques V1 Memory Sharing Techniques.svg]]
+- Requires [[Assets Locations Location City [[Memory Sharing Techniques]] V1 Memory Sharing Techniques.svg]]
 - Connects to [[Quest - The Cure for Madness]]
-- Connects to [[Surface Trade Ports (D&D_References)]]
+- Connects to [[[[Surface Trade Ports]] (D&D_References)]]
 - Requires [[LOC00118_Dungeons_Location_119]]
 - Affected by [[step_077 (phase_033)]]
 - See also: [[Planar Entities (D&D_References)]]
@@ -242,13 +299,13 @@ Seeks rare merchandise
 - Leads to [[NPC01840_Aldric_Nightfall_the_Risen]]
 - Compare with [[The Pressure King (D&D_References)]]
 - Originates from [[Opposition Intelligence Center 2]]
-- Compare with [[Secondary Education (D&D_References)]]
+- Compare with [[[[Secondary Education]] (D&D_References)]]
 - Connects to [[QUEST00392_Side_Quest_393]]
-- Connects to [[The Cleaner (D&D_References)]]
-- Originates from [[Assets Locations Location City Tide Welcomeheart Tide Welcomeheart.svg]]
+- Connects to [[[[The Cleaner]] (D&D_References)]]
+- Originates from [[Assets Locations Location City [[Tide Welcomeheart]] Tide Welcomeheart.svg]]
 - Affected by [[step_084]]
 - Leads to [[Coral Craftsman]]
-- Requires [[The Void Touched Depths 2]]
+- Requires [[[[The Void Touched Depths]] 2]]
 - Requires [[preparing-spells-spell-preparation-by-class-xphb]]
 - Parallels [[step_006]]
 - Parallels [[step_018]]
@@ -260,3 +317,14 @@ Seeks rare merchandise
 - Related: [[Giant Spider Xmm]]
 - Influences [[Treasure Hoard Challenge 1116 (tables)]]
 - Requires [[Symbol Heraldry Chaplain Abyssos the Deepseeke V1 Chaplain Abyssos the Deepseeke.svg]]
+
+## Visual References
+![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
+![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
+![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

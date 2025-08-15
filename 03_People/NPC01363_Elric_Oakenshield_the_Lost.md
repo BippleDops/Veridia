@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Elric Oakenshield the Lost
 
 *Tiefling Bard (Adventurers), Age 22, Female*

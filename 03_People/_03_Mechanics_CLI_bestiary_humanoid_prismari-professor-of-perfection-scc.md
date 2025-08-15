@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_03_mechanics_cli_bestiary_humanoid_prismari_professor_of_perfection_scc_friendly.png]]
+
+
 # /03 Mechanics/CLI/bestiary/humanoid/prismari-professor-of-perfection-scc
 
 ## Basic Information

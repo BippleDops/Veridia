@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.542147
+modified: 2025-08-15T16:41:40.542150
+aliases: [NPC00515 Baelor Crystalbrook the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Brenna Youngblood the Risen (Criminal - Informant)|Brenna Youngblood the Risen (Criminal - Informant)]]
+- [[#Kaelen Hawthorne the Cunning (Professional - Partner)|Kaelen Hawthorne the Cunning (Professional - Partner)]]
+- [[#Elric Jadeclaw the Fallen (Criminal - Informant)|Elric Jadeclaw the Fallen (Criminal - Informant)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Baelor Crystalbrook the Seeker", "baelor crystalbrook the seeker", "Baelor Crystalbrook Seeker", "Seeker the Crystalbrook Baelortags: [npc, character, combat, magic, lore]er]
 type: npc
@@ -143,7 +164,7 @@ Witnessed a crime
 - Special moves
 
 ## Combat Stats
-Base: **Commoner** (MM p.345)
+Base: **Commoner** (BC p.345)
 Modifications:
 - HP: 34
 - AC: 14
@@ -154,6 +175,12 @@ Modifications:
 > Important safety or rule information
 
 ## See Also
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
 - [[Related_Content]]
 
 
@@ -163,8 +190,8 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -174,31 +201,31 @@ Modifications:
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
 
 ## Connections
 
-- Connects to [[Assets Locations Location City Artisan Felix Reefwright Artisan Felix Reefwright.svg]]
+- Connects to [[Assets Locations Location City [[Artisan Felix Reefwright]] Artisan Felix Reefwright.svg]]
 - Connects to [[Caravan Master Dolrim]]
 - Influences [[step_065 (phase_052)]]
 - Leads to [[Field Engineer Stone Installwrigh]]
 - Requires [[The Deep Mother's Garden (D&D_References)]]
 - Compare with [[Demon Customization Tables Demon Bonds Mtf]]
-- Affected by [[Location City Court Herald Titus V1 Court Herald Titus.svg]]
+- Affected by [[Location City [[Court Herald Titus]] V1 Court Herald Titus.svg]]
 - Compare with [[step_052 (phase_078)]]
 - Affected by [[step_054 (phase_037)]]
-- See also: [[The Aether Works (D&D_References)]]
+- See also: [[[[The Aether Works]] (D&D_References)]]
 - Influences [[step_096 (phase_100)]]
 - Requires [[step_033 (phase_004)]]
 - Influences [[The Breathing Stone (D&D_References)]]
@@ -208,7 +235,7 @@ Modifications:
 - Influences [[LOC00072_Planes_Location_73]]
 - Compare with [[Faction_Tracker.bas]]
 - Influences [[Portrait NPC Memory Harvester Kythara V2 Memory Harvester Kythara.svg_1 (Portraits)]]
-- Leads to [[Wave Soothingtouch 2]]
+- Leads to [[[[Wave Soothingtouch]] 2]]
 - Connects to [[star-sapphire-xdmg (items)]]
 - Parallels [[NPC01399_Orion_Ashford_the_Bold]]
 - Connects to [[ITEM00732_Infernal_Tome_of_Truth]]
@@ -216,17 +243,17 @@ Modifications:
 - Leads to [[Creating a Gnoll War Band Shared Physical Trait Vgm]]
 - Originates from [[baboon-xmm (beast)]]
 - Leads to [[step_039]]
-- Related: [[Assets Locations Location City Captain Echo V1 Captain Echo.svg]]
+- Related: [[Assets Locations Location City [[Captain Echo]] V1 Captain Echo.svg]]
 - Compare with [[step_034]]
 - Parallels [[step_059]]
 - Affected by [[Temple of Sacred Dreams]]
-- Originates from [[Downtime Activity Carousing]]
-- Parallels [[Assets Locations Location City Education Department V1 Education Department.svg]]
+- Originates from [[Down[[Time]] Activity Carousing]]
+- Parallels [[Assets Locations [[Location City [[Education Department]] V1 Education Department.svg]]]]
 - Influences [[NPC01513_Vesper_Silverleaf_the_Wise]]
 - Affected by [[cloak-of-flies-xge (optional-features)]]
 - Parallels [[random-urban-encounters (tables)]]
 - Affected by [[Layers of Carceri Xdmg]]
-- Related: [[Keeper Temporal Safehaven (D&D_References)]]
+- Related: [[[[Keeper Temporal Safehaven]] (D&D_References)]]
 - Related: [[NPC01458_Aldric_Silverleaf_the_Scholar]]
 - Connects to [[Professor Thane Voidwalker]]
 - Parallels [[ITEM00041_Thunder_Dagger_of_Speed]]
@@ -237,11 +264,11 @@ Modifications:
 - Requires [[step_048 (phase_027)]]
 - Originates from [[The Void Walkers]]
 - Affected by [[step_052 (phase_020)]]
-- Influences [[Forge of War (D&D_Statblocks)]]
+- Influences [[[[Forge of War]] (D&D_Statblocks)]]
 - Parallels [[step_021 (phase_038)]]
 - Originates from [[step_052 (phase_095)]]
-- Leads to [[Noble Houses 2]]
-- Requires [[Assets Locations Location City Marine Druids V1 Marine Druids.svg]]
+- Leads to [[[[Noble House]]s 2]]
+- Requires [[Assets Locations Location City [[Marine Druids]] V1 Marine Druids.svg]]
 - Related: [[Item Artifact Ioun Stone Greater Absorption Xdmg V2 Ioun Stone Greater Absorption Xdmg.png]]
 - Requires [[LOC00116_Cities_Location_117]]
 - Compare with [[NPC00962_Zephyr_Xendar_the_Lost]]
@@ -249,7 +276,7 @@ Modifications:
 - See also: [[NPC01147_Vesper_Blackstone_the_Risen]]
 - Parallels [[GM Resources (Lore)]]
 - Affected by [[Portrait NPC Captain Thalia Stormguard V2 Captain Thalia Stormguard.svg]]
-- Connects to [[Location City the Free Current V1 the Free Current.svg]]
+- Connects to [[Location City the [[Free Current]] V1 [[The Free Current]].svg]]
 - Leads to [[The Pearl Divers Guild (Guilds)]]
 - Parallels [[LOC00082_Wilderness_Location_83]]
 - Leads to [[step_090]]
@@ -270,7 +297,7 @@ Modifications:
 - Related: [[step_059]]
 - Influences [[step_005 (phase_084)]]
 - Leads to [[ability-checks-typical-difficulty-classes-phb (tables)]]
-- See also: [[The Free Current 2]]
+- See also: [[The [[Free Current 2]]]]
 - See also: [[paladin-xphb-oath-of-devotion-xphb (classes)]]
 - Related: [[location-city-marina-swiftfin-marina-swiftfin.svg]]
 - Parallels [[kraken-priest-mpmm (monstrosity)]]
@@ -289,3 +316,14 @@ Modifications:
 - Parallels [[ITEM01170_Greater_Salve_of_Fortune]]
 - Related: [[NPC00439_Thalia_Silverleaf]]
 - See also: [[Location City Master Goldwin Ledgerkeeper V1 Master Goldwin Ledgerkeeper.svg]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

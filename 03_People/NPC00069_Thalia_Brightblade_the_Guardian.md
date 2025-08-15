@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.741287
+modified: 2025-08-15T16:41:40.741289
+aliases: [NPC00069 Thalia Brightblade the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Felicia Emberfall the Wise (Political - Patron)|Felicia Emberfall the Wise (Political - Patron)]]
+- [[#Zephyr Voidwalker (Personal - Nemesis)|Zephyr Voidwalker (Personal - Nemesis)]]
+- [[#Rhiannon Jadeclaw (Criminal - Target)|Rhiannon Jadeclaw (Criminal - Target)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Thalia Brightblade the Guardian", "thalia brightblade the guardian", "Thalia Brightblade Guardian", "Guardian the Brightblade Thaliatags: [npc, character, combat, magic, lore]er]
 type: npc
@@ -12,7 +33,7 @@ type: npc
 
 ## Quick Reference
 - **Location**: Rooftops overlooking the palace
-- **Occupation**: Military commander
+- **Occupation**: [[Military Command]]er
 - **Disposition**: Flirts with everyone regardless of interest
 
 ## Appearance
@@ -87,7 +108,7 @@ Perception, History
 ### Special Abilities
 - Noble Bearing: Immunity to being frightened
 - Rally: Grant allies temporary hit points
-- Diplomatic Immunity: Cannot be arrested without evidence
+- [[Diplomatic Immunity]]: Cannot be arrested without evidence
 
 ## Possessions
 - 621 gold pieces
@@ -103,12 +124,12 @@ Perception, History
 
 ### Catchphrases
 - "That's what they all say."
-- "Time will tell."
+- "[[Time]] will tell."
 
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- Political alliances
+- [[Political Alliances]]
 - Upcoming social events
 
 ## Plot Hook
@@ -139,13 +160,14 @@ Wants rivals investigated
 - Special moves
 
 ## Combat Stats
-Base: **Mage** (MM p.347)
+Base: **Mage** (BC p.347)
 Modifications:
 - HP: 50
 - AC: 12
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01951_Gavril_Xendar_the_Swift]]
 - [[Related_Content]]
 
 
@@ -155,8 +177,8 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -178,7 +200,7 @@ Modifications:
 - Influences [[#Planets]]
 - Parallels [[ITEM00155_Shadow_Crossbow_of_Power]]
 - See also: [[The Scribes' Covenant (D&D_References)]]
-- Originates from [[Assets Locations Location City Religious Leaders V1 Religious Leaders.svg]]
+- Originates from [[Assets Locations Location City [[Religious Leaders]] V1 Religious Leaders.svg]]
 - Influences [[ITEM01212_Pure_Herb_of_Clarity]]
 - Affected by [[step_074]]
 - Affected by [[scholars-of-witherbloom-witherbloom-scholars-scc]]
@@ -196,7 +218,7 @@ Modifications:
 - Influences [[Academy of Crystalline Art]]
 - Parallels [[step_032]]
 - See also: [[Depth Adaptation Therapy]]
-- Requires [[Cultural Districts (D&D_References)]]
+- Requires [[[[Cultural Districts]] (D&D_References)]]
 - See also: [[step_066 (phase_058)]]
 - Requires [[ITEM00427_Enchanted_Gauntlets_of_Resistance]]
 - Requires [[Symbol Heraldry Ambassador Blacktrade Ambassador Blacktrade.svg]]
@@ -209,11 +231,11 @@ Modifications:
 - Affected by [[step_087 (phase_043)]]
 - Originates from [[step_053 (phase_082)]]
 - Influences [[step_075]]
-- Leads to [[Assets Locations Location City Marina Deepcurrent V1 Marina Deepcurrent.svg]]
+- Leads to [[Assets Locations Location City [[Marina Deepcurrent]] V1 Marina Deepcurrent.svg]]
 - Parallels [[location-city-sister-morwyn-sister-morwyn.svg]]
 - See also: [[geas-xphb (spells)]]
 - Requires [[step_007]]
-- Requires [[Assets Locations Location City Observatory District Observatory District.svg]]
+- Requires [[Assets Locations [[Location City [[Observatory District]] Observatory District.svg]]]]
 - Influences [[The Pearl Guard (D&D_References)]]
 - Related: [[Assets Handouts Handout Handout Docking Permit V2 Docking Permit.png]]
 - Originates from [[QUEST00036_Personal_Quest_37]]
@@ -222,7 +244,7 @@ Modifications:
 - Related: [[suffocation-xphb (traps-hazards)]]
 - Originates from [[Downtime Activity Buying a Magic Item Xge]]
 - Connects to [[Portrait NPC Sister Thalassa the Depth Touched V2 Sister Thalassa the Depth Touched.svg]]
-- Leads to [[Location City Elder Matthias Stoneward V1 Elder Matthias Stoneward.svg]]
+- Leads to [[Location City [[Elder Matthias Stoneward]] V1 Elder Matthias Stoneward.svg]]
 - Leads to [[LORE00035_Prophecies_Entry_36]]
 - Leads to [[step_076 (phase_087)]]
 - Compare with [[Interrogation Techniques (D&D_References)]]
@@ -231,7 +253,7 @@ Modifications:
 - Compare with [[step_041 (phase_035)]]
 - Affected by [[step_009 (phase_090)]]
 - Leads to [[Artist Voidbrush 2]]
-- Related: [[Location City Education Department Education Department.svg]]
+- Related: [[Location City [[Education Department]] Education Department.svg]]
 - Parallels [[Dawn War Torog Dmg]]
 - Parallels [[step_003]]
 - Leads to [[Citizens' Budget Review]]
@@ -251,18 +273,29 @@ Modifications:
 - Leads to [[Investigation Mechanics]]
 - Connects to [[Continental War 3 (D&D_References)]]
 - Related: [[pale-tincture-xdmg (items)]]
-- Related: [[Archivist Elena Sorrowkeeper 2]]
+- Related: [[[[Archivist Elena Sorrowkeeper]] 2]]
 - Leads to [[List Spells Optional Features Bewitching]]
 - Influences [[step_002 (phase_078)]]
 - See also: [[step_067]]
 - Leads to [[step_069 (phase_035)]]
-- See also: [[Expedition to the Sunless Depths 2]]
+- See also: [[[[Expedition to the Sunless Depths]] 2]]
 - Related: [[The Final Forgetting (D&D_References)]]
 - Related: [[Crystal_Corruption (03_Mechanics)]]
 - Parallels [[The Crystal Integration Festival 2]]
 - Leads to [[step_090 (phase_099)]]
 - Leads to [[Student Researcher Brightwater (D&D_References)]]
-- Leads to [[Assets Locations Location City Pressure Brewing Technology V1 Pressure Brewing Technology.svg]]
+- Leads to [[Assets Locations [[Location City [[Pressure Brewing Technology]] V1 Pressure Brewing Technology.svg]]]]
 - Leads to [[Major Surgeon Nightfall]]
 - See also: [[step_065 (phase_049)]]
 - Related: [[vine-blight-xmm]]
+
+## Visual References
+![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.707692
+modified: 2025-08-15T16:41:45.707696
+aliases: [NPC00900 Zephyr Ironwood the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Caelum Crystalbrook the Guardian (Professional - Employee)|Caelum Crystalbrook the Guardian (Professional - Employee)]]
+- [[#Aeliana Grimholt the Guardian (Family - Child)|Aeliana Grimholt the Guardian (Family - Child)]]
+- [[#Drusilla Grimholt the Seeker (Family - Parent)|Drusilla Grimholt the Seeker (Family - Parent)]]
+
+
+---
 aliases: ["Zephyr Ironwood the Lost", "zephyr ironwood the lost", "Zephyr Ironwood Lost", "Lost the Ironwood Zephyr"]
 tags: [npc, character]
 type: npc
@@ -237,3 +258,14 @@ Has map to lost treasure
 - Affected by [[Unseen Servant Xphb]]
 - Compare with [[ENC00457_Combat_Encounter_458]]
 - Affected by [[EVENT00068_Natural_Event_69]]
+
+## Visual References
+![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
+![[03_People/portrait_zephyr_goldwhisper_standard.png]]
+![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

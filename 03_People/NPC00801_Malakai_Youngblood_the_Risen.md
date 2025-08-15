@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Malakai Youngblood the Risen
 
 *Human Broker (Merchants), Age 27, Non-binary*

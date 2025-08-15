@@ -254,3 +254,8 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]

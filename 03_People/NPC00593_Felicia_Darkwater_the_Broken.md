@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.646010
+modified: 2025-08-15T16:41:45.646014
+aliases: [NPC00593 Felicia Darkwater the Broken]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Jorah Xendar the Bold (Criminal - Fence)|Jorah Xendar the Bold (Criminal - Fence)]]
+- [[#Felicia Proudmore the Mystic (Personal - Best friend)|Felicia Proudmore the Mystic (Personal - Best friend)]]
+- [[#Vesper Blackstone the Seeker (Family - Spouse)|Vesper Blackstone the Seeker (Family - Spouse)]]
+
+
+---
 aliases: ["Felicia Darkwater the Broken", "felicia darkwater the broken", "Felicia Darkwater Broken", "Broken the Darkwater Felicia"]
 tags: [npc, character]
 type: npc
@@ -253,3 +274,14 @@ Being extorted by criminals
 - Connects to [[NPC00486_Caelum_Stormwind_the_Scholar]]
 - Affected by [[Sacred Texts of Transformation 2]]
 - Related: [[NPC0093_Nora_Goldleaf]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

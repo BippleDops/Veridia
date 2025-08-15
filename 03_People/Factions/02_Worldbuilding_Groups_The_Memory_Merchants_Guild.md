@@ -2,6 +2,10 @@
 tags: ['faction']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_memory_merchants_dramatic.png]]
+
+
 # 02 Worldbuilding/Groups/The Memory Merchants Guild
 
 ## Organization Overview

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Nerys Stormwind the Scholar
 
 *Gnome Courtier (Nobles), Age 76, Male*

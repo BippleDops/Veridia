@@ -83,3 +83,7 @@ Recent developments have brought new attention to Location City Chief Philosophe
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00945_Wynne_Voidwalker_the_Seeker]]

@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Coral Lifeshaper
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]

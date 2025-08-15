@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.331961
+modified: 2025-08-15T16:41:45.331964
+aliases: [NPC00231 Hilda Quicksilver the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Vesper Grimholt the Redeemed (Political - Spy)|Vesper Grimholt the Redeemed (Political - Spy)]]
+- [[#Nerys Youngblood the Seeker (Family - Child)|Nerys Youngblood the Seeker (Family - Child)]]
+- [[#Fiora Blackstone (Criminal - Target)|Fiora Blackstone (Criminal - Target)]]
+
+
+---
 aliases: ["Hilda Quicksilver the Scholar", "hilda quicksilver the scholar", "Hilda Quicksilver Scholar", "Scholar the Quicksilver Hilda"]
 tags: [npc, character]
 type: npc
@@ -246,3 +267,14 @@ Wants rivals investigated
 - Affected by [[ITEM01473_Ornate_Journal_of_Reliability]]
 - See also: [[Counterspell Xphb]]
 - See also: [[Fiendish Cults Cult Goals Mtf]]
+
+## Visual References
+![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

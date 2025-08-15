@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Fiora Moonshadow the Wise
 
 *Dragonborn Baker (Commoners), Age 61, Non-binary*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.267963
+modified: 2025-08-15T16:41:48.267965
+aliases: [NPC01121 Malakai Thornweave the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Lyanna Nightfall the Scholar (Professional - Partner)|Lyanna Nightfall the Scholar (Professional - Partner)]]
+- [[#Fiora Nightfall the Mystic (Personal - Childhood friend)|Fiora Nightfall the Mystic (Personal - Childhood friend)]]
+- [[#Orion Quicksilver the Cunning (Political - Patron)|Orion Quicksilver the Cunning (Political - Patron)]]
+
+
+---
 aliases: ["Malakai Thornweave the Scholar", "malakai thornweave the scholar", "Malakai Thornweave Scholar", "Scholar the Thornweave Malakai"]
 tags: [npc, character]
 type: npc
@@ -142,3 +163,15 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

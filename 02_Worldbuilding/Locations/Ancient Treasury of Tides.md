@@ -227,3 +227,12 @@ Mentioned in The First Prophecy of Winds
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]

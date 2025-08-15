@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.851006
+modified: 2025-08-15T16:41:46.851010
+aliases: [NPC01074 Felicia Nightfall the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Orion Ironforge the Redeemed (Professional - Rival)|Orion Ironforge the Redeemed (Professional - Rival)]]
+- [[#Delara Grimholt the Strong (Personal - Ex-lover)|Delara Grimholt the Strong (Personal - Ex-lover)]]
+- [[#Kaelen Jadeclaw the Fallen (Criminal - Handler)|Kaelen Jadeclaw the Fallen (Criminal - Handler)]]
+
+
+---
 aliases: ["Felicia Nightfall the Fallen", "felicia nightfall the fallen", "Felicia Nightfall Fallen", "Fallen the Nightfall Felicia"]
 tags: [npc, character]
 type: npc
@@ -251,3 +276,8 @@ Seeks rare merchandise
 - Affected by [[Deep Expeditions (D&D_References)]]
 - Leads to [[hand-crossbow-xphb (items)]]
 - Related: [[MON00015_Undead_Creature_16]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

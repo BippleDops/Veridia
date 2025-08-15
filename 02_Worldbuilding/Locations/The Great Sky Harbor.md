@@ -205,3 +205,8 @@ Ongoing situations affecting The Great Sky Harbor:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]

@@ -14,6 +14,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![02_Worldbuilding/Factions/The Prismatic Order](../../04_Resources/Assets/Misc/02_worldbuilding_factions_the_prismatic_order.png)
 
 ## 🔧 Deep Evaluation Improvements

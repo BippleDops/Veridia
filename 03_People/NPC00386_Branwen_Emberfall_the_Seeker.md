@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Branwen Emberfall the Seeker
 
 *Goliath Ambassador (Nobles), Age 19, Female*

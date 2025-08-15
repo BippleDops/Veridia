@@ -13,6 +13,10 @@ updated: '2025-08-13T12:34:17.314848+00:00'
 world: Both
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-cipher-current-the-cipher-current.svg)

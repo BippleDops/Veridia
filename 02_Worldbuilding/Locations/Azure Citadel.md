@@ -638,3 +638,8 @@ Ongoing situations affecting Azure Citadel:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]

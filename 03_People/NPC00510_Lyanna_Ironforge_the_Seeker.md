@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.235986
+modified: 2025-08-15T16:41:43.235988
+aliases: [NPC00510 Lyanna Ironforge the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Erasmus Blackstone (Criminal - Accomplice)|Erasmus Blackstone (Criminal - Accomplice)]]
+- [[#Wynne Ashford the Mystic (Family - Parent)|Wynne Ashford the Mystic (Family - Parent)]]
+- [[#Hestara Xendar (Political - Patron)|Hestara Xendar (Political - Patron)]]
+
+
+---
 aliases: ["Lyanna Ironforge the Seeker", "lyanna ironforge the seeker", "Lyanna Ironforge Seeker", "Seeker the Ironforge Lyanna"]
 tags: [npc, character]
 type: npc
@@ -238,3 +259,14 @@ Being extorted by criminals
 - Compare with [[step_049 (phase_017)]]
 - Influences [[The Original Target (D&D_References)]]
 - Related: [[step_007 (phase_052)]]
+
+## Visual References
+![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
+![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
+![[03_People/portrait_captain_lyanna_brightshield.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

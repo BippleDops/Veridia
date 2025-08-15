@@ -224,3 +224,7 @@ Ongoing situations affecting University System:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00395_Aeliana_Thornweave]]

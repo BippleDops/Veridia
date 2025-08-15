@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Fiora Xendar the Strong
 
 *Firbolg Carpenter (Commoners), Age 64, Female*

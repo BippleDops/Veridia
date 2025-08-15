@@ -219,3 +219,8 @@ Mentioned in The First Prophecy of Shadows
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]

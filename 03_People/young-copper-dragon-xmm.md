@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_young_copper_dragon_xmm_dramatic.png]]
+
+
 # young-copper-dragon-xmm
 
 ## Basic Information

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.078876
+modified: 2025-08-15T16:41:42.078881
+aliases: [NPC01013 Corvus Ravenheart the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Vesper Zephyrblade the Lost (Family - Cousin)|Vesper Zephyrblade the Lost (Family - Cousin)]]
+- [[#Fiora Thornweave the Redeemed (Personal - Childhood friend)|Fiora Thornweave the Redeemed (Personal - Childhood friend)]]
+- [[#Cedric Hawthorne the Mystic (Political - Patron)|Cedric Hawthorne the Mystic (Political - Patron)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Corvus Ravenheart the Bold", "corvus ravenheart the bold", "Corvus Ravenheart Bold", "Bold the Ravenheart Corvus"]
 tags: [npc, character]
@@ -140,6 +161,26 @@ Has map to lost treasure
 - Special moves
 
 ## See Also
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC01939_Orion_Nightfall_the_Bold]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01625_Qadim_Lightbringer_the_Swift]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[Complete_NPC_Matrix.md]]
 - [[Related_Content]]
 
 
@@ -149,9 +190,9 @@ Has map to lost treasure
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -261,3 +302,14 @@ Has map to lost treasure
 - Leads to [[step_010 (phase_013)]]
 - Compare with [[ITEM00114_Thunder_Staff_of_Accuracy]]
 - See also: [[maneuvering-attack-xphb (optional-features)]]
+
+## Visual References
+![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Department of Underwater Transit Authority](../../../04_Resources/Assets/Misc/department_of_underwater_transit_authority.png)
 
 ## 🔧 Deep Evaluation Improvements

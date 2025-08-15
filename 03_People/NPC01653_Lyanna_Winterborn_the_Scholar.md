@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Lyanna Winterborn the Scholar
 
 *Gnome Corrupt Noble (Villains), Age 38, Male*

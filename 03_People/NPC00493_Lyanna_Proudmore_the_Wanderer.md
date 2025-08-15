@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.507855
+modified: 2025-08-15T16:41:42.507859
+aliases: [NPC00493 Lyanna Proudmore the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Emberfall the Strong (Political - Spy)|Alaric Emberfall the Strong (Political - Spy)]]
+- [[#Jorah Ironwood (Professional - Partner)|Jorah Ironwood (Professional - Partner)]]
+- [[#Xander Darkwater the Scholar (Personal - Childhood friend)|Xander Darkwater the Scholar (Personal - Childhood friend)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Lyanna Proudmore the Wanderer", "lyanna proudmore the wanderer", "Lyanna Proudmore Wanderer", "Wanderer the Proudmore Lyanna"]
 tags: [npc, character]
@@ -146,9 +167,9 @@ Witnessed a crime
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -258,3 +279,14 @@ Witnessed a crime
 - Requires [[Scufflecup Teacup Scc]]
 - Related: [[The Convergent Seven]]
 - Connects to [[step_062]]
+
+## Visual References
+![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
+![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
+![[03_People/portrait_captain_lyanna_brightshield.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

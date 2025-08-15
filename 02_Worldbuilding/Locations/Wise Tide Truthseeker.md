@@ -220,3 +220,8 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]

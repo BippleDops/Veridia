@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.912197
+modified: 2025-08-15T16:41:47.912201
+aliases: [NPC01032 Urien Voidwalker the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Solas Blackstone the Strong (Professional - Mentor)|Solas Blackstone the Strong (Professional - Mentor)]]
+- [[#Faelyn Thornweave the Wise (Criminal - Fence)|Faelyn Thornweave the Wise (Criminal - Fence)]]
+- [[#Brenna Winterborn the Seeker (Family - Sibling)|Brenna Winterborn the Seeker (Family - Sibling)]]
+
+
+---
 aliases: ["Urien Voidwalker the Bold", "urien voidwalker the bold", "Urien Voidwalker Bold", "Bold the Voidwalker Urien"]
 tags: [npc, character]
 type: npc
@@ -136,3 +157,15 @@ Caravan needs guards
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
+![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
+![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

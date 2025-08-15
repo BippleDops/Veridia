@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ysara Lightbringer the Broken
 
 *Tabaxi Carpenter (Commoners), Age 75, Female*

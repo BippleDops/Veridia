@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:38.131287
+modified: 2025-08-15T16:41:38.131295
+aliases: [Propaganda Broadsheet Syndicate.md]
+---
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Key Information|Key Information]]
+- [[#Details|Details]]
+- [[#Background|Background]]
+- [[#Current State|Current State]]
+- [[#Future Potential|Future Potential]]
+- [[#Relationships|Relationships]]
+- [[#Usage Notes|Usage Notes]]
+- [[#Plot Hooks|Plot Hooks]]
+
+
+---
 aliases:
 - Propaganda Broadsheet Syndicatemd
 created: 2025-08-14
@@ -22,7 +43,8 @@ This document contains important information regarding Propaganda_Broadsheet_Syn
 Propaganda_Broadsheet_Syndicate.md represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
 ## Key Information
-- **Primary Purpose**: Serves specific function within the world
+- **Primary Purpose**
+*Sounds of [relevant sounds] echo in the distance.*: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context
 
@@ -57,6 +79,32 @@ This content can be adapted and expanded based on specific campaign needs.
 > Important safety or rule information
 
 ## See Also
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[13 Conditions]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[07 Customization Options]]
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]
+- [[MASTER_MOC]]
+- [[Master_Narrative_Web.md]]
+- [[Wanted_Poster_Syndicate_Fenc]]
 - [[Related_Content]]
 
 
@@ -69,14 +117,14 @@ This content can be adapted and expanded based on specific campaign needs.
 - [[ULTIMATE_ASSET_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 

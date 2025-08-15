@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.067898
+modified: 2025-08-15T16:41:42.067902
+aliases: [NPC00129 Gareth Jadeclaw]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Xander Dawnstrider (Family - Cousin)|Xander Dawnstrider (Family - Cousin)]]
+- [[#Branwen Underhill (Personal - Childhood friend)|Branwen Underhill (Personal - Childhood friend)]]
+- [[#Malakai Stormwind (Personal - Love interest)|Malakai Stormwind (Personal - Love interest)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Gareth Jadeclaw", "gareth jadeclaw", "Jadeclaw Gareth"]
 tags: [npc, character]
@@ -148,6 +169,39 @@ Seeks bodyguards for dangerous journey
 - Special moves
 
 ## See Also
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC00820_Thalia_Nightfall_the_Risen]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01113_Solas_Ravenheart_the_Cunning]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[Faction_Guide.md]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[Sanity Quick Reference]]
+- [[Combat_Encounter_Analysis]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[09 Adventuring]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[08 Using Ability Scores]]
+- [[Count_Strahd_von_Zarovich]]
+- [[Complete_NPC_Matrix.md]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
 - [[Related_Content]]
 
 
@@ -157,8 +211,8 @@ Seeks bodyguards for dangerous journey
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -268,3 +322,14 @@ Seeks bodyguards for dangerous journey
 - Influences [[Doctor Emma Herbalist]]
 - Related: [[dwarven-fortitude-xge (feats)]]
 - Compare with [[step_050 (phase_034)]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
+![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

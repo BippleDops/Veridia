@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Wynne Stormwind the Wise
 
 *Elf Wizard (Adventurers), Age 73, Female*

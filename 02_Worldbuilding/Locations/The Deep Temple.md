@@ -238,3 +238,9 @@ Mentioned in The Second Prophecy of Depths
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00407_Hestara_Dawnstrider]]

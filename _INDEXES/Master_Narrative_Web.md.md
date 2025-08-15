@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, _indexes]
+created: 2025-08-15T16:41:29.249518
+modified: 2025-08-15T16:41:29.249519
+aliases: [Master Narrative Web.md]
+---
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Key Information|Key Information]]
+- [[#Details|Details]]
+- [[#Background|Background]]
+- [[#Current State|Current State]]
+- [[#Future Potential|Future Potential]]
+- [[#Relationships|Relationships]]
+- [[#Usage Notes|Usage Notes]]
+- [[#Plot Hooks|Plot Hooks]]
+
+
+---
 aliases:
 - Master Narrative Webmd
 created: 2025-08-14
@@ -20,7 +41,8 @@ This document contains important information regarding Master_Narrative_Web.md a
 Master_Narrative_Web.md represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
 ## Key Information
-- **Primary Purpose**: Serves specific function within the world
+- **Primary Purpose**: Serves sp
+*The air carries the scent of [appropriate smell].*ecific function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context
 
@@ -87,6 +109,42 @@ FROM "02_Worldbuilding"
 WHERE contains(file.name, "Location") OR contains(tags, "location")
 ```
 ## See Also
+- [[Count_Strahd_von_Zarovich]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[11 Rules Glossary]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[Combat_Encounter_Analysis]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[Depth_Adapted_Background]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[Session_Recaps]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[Quest - The Merged Reality_1 (01_Adventures)]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[11 Spellcasting]]
+- [[Item_Catalog_Complete.md]]
+- [[MASTER_NAVIGATION]]
+- [[MOC_Locations]]
+- [[MASTER_MOC]]
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC00259_Delara_Proudmore]]
 - [[Related_Content]]
 
 
@@ -99,14 +157,14 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - [[ULTIMATE_ASSET_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -210,3 +268,8 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Affected by [[Intelligence Services (People)]]
 - Originates from [[Burning Xphb]]
 - Leads to [[Scene Scene Merged Zone Reality Fracture V2 Merged Zone Reality Fracture.png]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_quartermaster_sterling_suppystone_quartermaster_sterling_suppystone_svg_friendly.png]]
+![[03_People/token_00_indexes_master_index_medium_normal.png]]
+![[03_People/portrait_assets_locations_location_city_deep_current_flowmaster_deep_current_flowmaster_svg_standard.png]]

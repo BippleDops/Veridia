@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Kaelen Jadeclaw the Risen
 
 *Elf Corrupt Noble (Villains), Age 50, Female*

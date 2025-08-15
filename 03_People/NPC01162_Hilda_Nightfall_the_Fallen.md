@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Hilda Nightfall the Fallen
 
 *Gnome Broker (Merchants), Age 57, Male*

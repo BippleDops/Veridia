@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.487167
+modified: 2025-08-15T16:41:45.487169
+aliases: [NPC01128 Vesper Jadeclaw the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Kaelen Ashford the Swift (Criminal - Target)|Kaelen Ashford the Swift (Criminal - Target)]]
+- [[#Delara Silverleaf the Swift (Professional - Partner)|Delara Silverleaf the Swift (Professional - Partner)]]
+- [[#Delara Brightblade the Bold (Professional - Employee)|Delara Brightblade the Bold (Professional - Employee)]]
+
+
+---
 aliases: ["Vesper Jadeclaw the Swift", "vesper jadeclaw the swift", "Vesper Jadeclaw Swift", "Swift the Jadeclaw Vesper"]
 tags: [npc, character]
 type: npc
@@ -250,3 +271,14 @@ Competitor sabotaging business
 - Affected by [[step_030]]
 - Originates from [[step_005 (phase_080)]]
 - See also: [[QUEST00014_Side_Quest_15]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

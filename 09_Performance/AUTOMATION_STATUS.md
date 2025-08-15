@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:27.656402
+modified: 2025-08-15T16:41:27.656404
+aliases: [AUTOMATION STATUS]
+---
+
+## Table of Contents
+- [[#Active Agents|Active Agents]]
+- [[#Link Resolver|Link Resolver]]
+- [[#Content Enhancer|Content Enhancer]]
+- [[#Asset Generator|Asset Generator]]
+- [[#Metadata Optimizer|Metadata Optimizer]]
+- [[#Git Synchronizer|Git Synchronizer]]
+- [[#Index Builder|Index Builder]]
+- [[#Quality Monitor|Quality Monitor]]
+- [[#Backup Manager|Backup Manager]]
+- [[#Logs|Logs]]
+
+
 -tags: [note, combat, puzzle]te]
 created: 2025-08-15
 modified: 2025-08-15
@@ -80,14 +101,14 @@ Check `09_Performance/continuous_logs/` for detailed logs.
 - [[ULTIMATE_ASSET_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -191,3 +212,8 @@ Check `09_Performance/continuous_logs/` for detailed logs.
 - Parallels [[step_044 (phase_066)]]
 - Originates from [[step_053 (phase_091)]]
 - Originates from [[gong-of-the-summit (optional-features)]]
+
+## Visual References
+![[04_Resources/Assets/Digital/ui-ui-vehicle-status-panel-vehicle-status-panel.png]]
+![[04_Resources/Assets/Digital/ui-ui-vehicle-status-panel-v1-vehicle-status-panel.png]]
+![[04_Resources/Assets/Digital/ui-ui-vehicle-status-panel-v2-vehicle-status-panel.png]]

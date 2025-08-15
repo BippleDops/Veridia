@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Xander Moonshadow the Lost
 
 *Genasi Ranger (Adventurers), Age 19, Non-binary*

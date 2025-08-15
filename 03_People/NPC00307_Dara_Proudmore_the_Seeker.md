@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.708421
+modified: 2025-08-15T16:41:41.708424
+aliases: [NPC00307 Dara Proudmore the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Cedric Ironwood the Broken (Criminal - Target)|Cedric Ironwood the Broken (Criminal - Target)]]
+- [[#Drusilla Silverleaf the Guardian (Professional - Partner)|Drusilla Silverleaf the Guardian (Professional - Partner)]]
+- [[#Thalia Goldleaf the Bold (Family - Child)|Thalia Goldleaf the Bold (Family - Child)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Dara Proudmore the Seeker", "dara proudmore the seeker", "Dara Proudmore Seeker", "Seeker the Proudmore Dara"]
 tags: [npc, character]
@@ -146,6 +167,11 @@ Seeks bodyguards for dangerous journey
 - Special moves
 
 ## See Also
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[Combat_Encounter_Analysis]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC01594_Fiora_Proudmore_the_Seeker]]
 - [[Related_Content]]
 
 
@@ -155,11 +181,11 @@ Seeks bodyguards for dangerous journey
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -269,3 +295,14 @@ Seeks bodyguards for dangerous journey
 - Parallels [[Victoria Harbormane (D&D_References)]]
 - Leads to [[step_063]]
 - Compare with [[Bag of Beans Xdmg]]
+
+## Visual References
+![[03_People/portrait_captain_dara_ironwill_friendly.png]]
+![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
+![[03_People/portrait_captain_dara_ironwill_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

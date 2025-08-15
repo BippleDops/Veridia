@@ -219,3 +219,8 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC00407_Hestara_Dawnstrider]]

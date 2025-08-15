@@ -261,3 +261,8 @@ Ongoing situations affecting Comparative Religion Experts:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00945_Wynne_Voidwalker_the_Seeker]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]

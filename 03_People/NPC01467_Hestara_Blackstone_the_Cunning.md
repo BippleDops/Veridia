@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hestara Blackstone the Cunning
 
 *Tiefling Bard (Adventurers), Age 32, Non-binary*

@@ -249,3 +249,7 @@ Ongoing situations affecting Brother Ossian:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]

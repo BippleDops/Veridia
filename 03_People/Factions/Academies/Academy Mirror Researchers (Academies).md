@@ -24,6 +24,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Academy Mirror Researchers](../../../04_Resources/Assets/Misc/academy_mirror_researchers.png)
 
 ## 🔧 Deep Evaluation Improvements

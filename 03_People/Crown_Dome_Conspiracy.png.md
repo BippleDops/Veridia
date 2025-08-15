@@ -15,6 +15,10 @@ type: npc
 updated: 2025-08-14
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_crown_dome_conspiracy_friendly.png]]
+
+
 # Crown_Dome_Conspiracy.png
 
 ## Overview

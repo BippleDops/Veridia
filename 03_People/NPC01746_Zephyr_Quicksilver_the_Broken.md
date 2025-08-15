@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Zephyr Quicksilver the Broken
 
 *Aasimar Crime Boss (Villains), Age 68, Female*

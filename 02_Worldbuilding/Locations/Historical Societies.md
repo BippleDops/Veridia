@@ -231,3 +231,7 @@ Ongoing situations affecting Historical Societies:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]

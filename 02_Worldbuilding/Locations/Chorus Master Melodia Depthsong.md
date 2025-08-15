@@ -257,3 +257,7 @@ Ongoing situations affecting Chorus Master Melodia Depthsong:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]

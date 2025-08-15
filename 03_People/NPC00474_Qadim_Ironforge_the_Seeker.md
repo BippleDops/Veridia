@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Qadim Ironforge the Seeker
 
 *Gnome Blacksmith (Commoners), Age 73, Female*

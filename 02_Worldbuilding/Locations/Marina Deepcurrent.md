@@ -235,3 +235,11 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC00287_Ysara_Underhill_the_Wise]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]

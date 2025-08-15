@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Whisper Isla
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]

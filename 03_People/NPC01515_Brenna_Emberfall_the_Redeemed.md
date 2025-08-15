@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.364766
+modified: 2025-08-15T16:41:44.364773
+aliases: [NPC01515 Brenna Emberfall the Redeemed]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Faelyn Ashford the Bold (Political - Spy)|Faelyn Ashford the Bold (Political - Spy)]]
+- [[#Qadim Jadeclaw the Mystic (Criminal - Informant)|Qadim Jadeclaw the Mystic (Criminal - Informant)]]
+- [[#Aeliana Ironwood the Mystic (Personal - Childhood friend)|Aeliana Ironwood the Mystic (Personal - Childhood friend)]]
+
+
+---
 aliases: ["Brenna Emberfall the Redeemed", "brenna emberfall the redeemed", "Brenna Emberfall Redeemed", "Redeemed the Emberfall Brenna"]
 tags: [npc, character]
 type: npc
@@ -248,3 +273,8 @@ Has information about legendary item
 - Related: [[Cordelia Truthkeeper]]
 - Requires [[step_025 (phase_083)]]
 - Affected by [[Senator Economic Shadow 2]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

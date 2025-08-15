@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Thalia Youngblood the Cunning
 
 *Dragonborn Ranger (Adventurers), Age 39, Male*

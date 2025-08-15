@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Delara Crystalbrook the Risen
 
 *Dwarf Rogue (Adventurers), Age 58, Male*

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.691830
+modified: 2025-08-15T16:41:45.691835
+aliases: [The Deep Mother]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-deep-mother-s-truth-v2-quest-the-deep-mother-s-truth.svg]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Description|Description]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Stats (D&D 5e)|Stats (D&D 5e)]]
+- [[#Abilities|Abilities]]
+- [[#Skills|Skills]]
+- [[#Actions|Actions]]
+- [[#Relationships|Relationships]]
+- [[#Plot Hooks|Plot Hooks]]
+
+
+---
 tags: [npc, character]
 type: npc
 ---
@@ -19,7 +44,8 @@ The Deep Mother is a character encountered in the campaign world.
 - **Build**: Average
 - **Distinguishing Features**: Notable characteristics
 
-## Personality
+## Per
+*The air carries the scent of [appropriate smell].*sonality
 - **Traits**: Defining personality traits
 - **Ideals**: What they believe in
 - **Bonds**: What matters to them

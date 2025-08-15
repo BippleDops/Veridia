@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Dara Zephyrblade
 
 *Half-Elf Courtier (Nobles), Age 33, Female*

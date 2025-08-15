@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Malakai Ironforge the Redeemed
 
 *Half-Elf Baker (Commoners), Age 53, Female*

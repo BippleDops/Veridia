@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Lyanna Xendar
 
 *Dwarf Courtier (Nobles), Age 69, Non-binary*

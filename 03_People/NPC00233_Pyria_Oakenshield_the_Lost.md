@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Pyria Oakenshield the Lost
 
 *Half-Elf Aristocrat (Nobles), Age 65, Non-binary*

@@ -217,3 +217,8 @@ Ongoing situations affecting Electric Eel:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gavril Voidwalker the Wise
 
 *Tabaxi Corrupt Noble (Villains), Age 52, Non-binary*

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.979474
+modified: 2025-08-15T16:41:41.979477
+aliases: [NPC00281 Hestara Nightfall the Cunning]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Drusilla Ironwood (Political - Ally)|Drusilla Ironwood (Political - Ally)]]
+- [[#Felicia Lightbringer (Professional - Employee)|Felicia Lightbringer (Professional - Employee)]]
+- [[#Dara Brightblade the Seeker (Professional - Employer)|Dara Brightblade the Seeker (Professional - Employer)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Hestara Nightfall the Cunning", "hestara nightfall the cunning", "Hestara Nightfall Cunning", "Cunning the Nightfall Hestara"]
 tags: [npc, character]
@@ -142,6 +167,26 @@ Needs discrete help with family scandal
 - Special moves
 
 ## See Also
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[Marcus Shardbreaker Grimm_1]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[Keeper Elara Mindwell]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Party_Quests]]
+- [[Player_Comfort_Check]]
+- [[Player_Feedback_Form.md]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[Session_Recaps]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[Reputation_Tracker]]
 - [[Related_Content]]
 
 
@@ -151,8 +196,8 @@ Needs discrete help with family scandal
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -262,3 +307,8 @@ Needs discrete help with family scandal
 - Parallels [[step_001]]
 - Compare with [[Mage Hand Xphb]]
 - Originates from [[Aquabyssos Government (D&D_References)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

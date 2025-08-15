@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.674616
+modified: 2025-08-15T16:41:46.674619
+aliases: [NPC01603 Branwen Oakenshield the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Voidwalker the Scholar (Family - Parent)|Ysara Voidwalker the Scholar (Family - Parent)]]
+- [[#Zephyr Lightbringer the Risen (Professional - Partner)|Zephyr Lightbringer the Risen (Professional - Partner)]]
+- [[#Alaric Youngblood the Mystic (Family - Child)|Alaric Youngblood the Mystic (Family - Child)]]
+
+
+---
 aliases: ["Branwen Oakenshield the Wanderer", "branwen oakenshield the wanderer", "Branwen Oakenshield Wanderer", "Wanderer the Oakenshield Branwen"]
 tags: [npc, character]
 type: npc
@@ -254,3 +275,14 @@ Provides information for a price
 - See also: [[S-201 Eclipse Raid Window Player (Encounters)]]
 - Compare with [[Spell Gem Obsidian Oota]]
 - Originates from [[dwarven-tharmekhul-mtf (deities)]]
+
+## Visual References
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

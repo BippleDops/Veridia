@@ -226,3 +226,8 @@ Ongoing situations affecting Wandering Prophet Coral Stormrider:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]

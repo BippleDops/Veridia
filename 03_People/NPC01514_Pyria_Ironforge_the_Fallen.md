@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Pyria Ironforge the Fallen
 
 *Tabaxi Fighter (Adventurers), Age 38, Male*

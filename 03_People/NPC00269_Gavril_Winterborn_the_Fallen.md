@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.279546
+modified: 2025-08-15T16:41:46.279550
+aliases: [NPC00269 Gavril Winterborn the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Brenna Jadeclaw the Scholar (Professional - Employer)|Brenna Jadeclaw the Scholar (Professional - Employer)]]
+- [[#Orion Thornweave (Personal - Nemesis)|Orion Thornweave (Personal - Nemesis)]]
+- [[#Hilda Lightbringer (Criminal - Handler)|Hilda Lightbringer (Criminal - Handler)]]
+
+
+---
 aliases: ["Gavril Winterborn the Fallen", "gavril winterborn the fallen", "Gavril Winterborn Fallen", "Fallen the Winterborn Gavril"]
 tags: [npc, character]
 type: npc
@@ -236,3 +261,8 @@ Requires champions for trial by combat
 - Leads to [[summer-eladrin-mpmm (fey)]]
 - Connects to [[Crab Xmm]]
 - Influences [[ENC0006_Random_Encounter_7]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

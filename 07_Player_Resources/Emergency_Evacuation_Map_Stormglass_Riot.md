@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:38.153207
+modified: 2025-08-15T16:41:38.153210
+aliases: [Emergency Evacuation Map Stormglass Riot]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Sensory Improvements|Sensory Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+- [[#Material_Culture Improvements|Material_Culture Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Visual_Handouts/Emergency_Evacuation_Map_Stormglass_Riot
 type: lore
@@ -106,6 +127,8 @@ tags: [combat, exploration, lore]
 > Notable saying or prophecy
 
 ## See Also
+- [[Parliamentary_Voting_Guide]]
+- [[Combat_Encounter_Analysis]]
 - [[Related_Content]]
 
 
@@ -115,18 +138,18 @@ tags: [combat, exploration, lore]
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -230,3 +253,8 @@ tags: [combat, exploration, lore]
 - Affected by [[Nonhuman Yondalla]]
 - Leads to [[FAC00096_Cults_97]]
 - Influences [[QUEST00275_Side_Quest_276]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_emergency_response_center_interior.png]]
+![[02_Worldbuilding/locations/location_the_emergency_response_center_rain.png]]
+![[02_Worldbuilding/locations/location_emergency_protocols_2_establishing.png]]

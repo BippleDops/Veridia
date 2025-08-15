@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Zephyr Xendar the Seeker
 
 *Goliath Fisher (Commoners), Age 27, Non-binary*

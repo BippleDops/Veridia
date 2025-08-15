@@ -250,3 +250,8 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]

@@ -241,3 +241,7 @@ Mentioned in The Hidden Prophecy of Winds
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]

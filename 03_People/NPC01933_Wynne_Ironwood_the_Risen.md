@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Wynne Ironwood the Risen
 
 *Goliath Assassin (Villains), Age 75, Non-binary*

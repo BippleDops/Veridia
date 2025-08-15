@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Malakai Dawnstrider the Strong
 
 *Half-Orc Bard (Adventurers), Age 66, Female*

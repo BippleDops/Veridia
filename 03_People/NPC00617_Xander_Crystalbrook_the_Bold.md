@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Xander Crystalbrook the Bold
 
 *Genasi Farmer (Commoners), Age 38, Non-binary*

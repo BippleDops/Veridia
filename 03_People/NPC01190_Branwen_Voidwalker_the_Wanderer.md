@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.630316
+modified: 2025-08-15T16:41:46.630319
+aliases: [NPC01190 Branwen Voidwalker the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Darkwater the Mystic (Personal - Ex-lover)|Thalia Darkwater the Mystic (Personal - Ex-lover)]]
+- [[#Erasmus Brightblade the Guardian (Criminal - Fence)|Erasmus Brightblade the Guardian (Criminal - Fence)]]
+- [[#Corvus Lightbringer the Swift (Political - Puppet)|Corvus Lightbringer the Swift (Political - Puppet)]]
+
+
+---
 aliases: ["Branwen Voidwalker the Wanderer", "branwen voidwalker the wanderer", "Branwen Voidwalker Wanderer", "Wanderer the Voidwalker Branwen"]
 tags: [npc, character]
 type: npc
@@ -245,3 +266,14 @@ Seeks rare merchandise
 - Compare with [[Shadow_Separation_Syndrome]]
 - Originates from [[Portrait NPC Lord Magnus Goldspire V1 Lord Magnus Goldspire.svg]]
 - Affected by [[step_016 (phase_009)]]
+
+## Visual References
+![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
+![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
+![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Jorah Proudmore the Cunning
 
 *Firbolg Rogue (Adventurers), Age 28, Female*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.837830
+modified: 2025-08-15T16:41:40.837834
+aliases: [NPC01312 Alaric Darkwater the Fallen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Orion Youngblood the Broken (Criminal - Accomplice)|Orion Youngblood the Broken (Criminal - Accomplice)]]
+- [[#Solas Hawthorne the Guardian (Professional - Partner)|Solas Hawthorne the Guardian (Professional - Partner)]]
+- [[#Branwen Xendar the Mystic (Personal - Nemesis)|Branwen Xendar the Mystic (Personal - Nemesis)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Alaric Darkwater the Fallen", "alaric darkwater the fallen", "Alaric Darkwater Fallen", "Fallen the Darkwater Alarictags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
@@ -18,7 +39,7 @@ type: npc
 ## Appearance
 Tall and compact, with Mohawk gray hair and Violet eyes. Dark skin. Crooked nose from multiple breaks.
 
-**Clothing**: Merchant's outfit with many hidden pockets
+**Clothing**: [[Merchant]]'s outfit with many hidden pockets
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Sees doom and gloom everywhere; Extremely superstitious about everything
@@ -143,13 +164,27 @@ Needs help with personal quest
 - Special moves
 
 ## Combat Stats
-Base: **Veteran** (MM p.350)
+Base: **Veteran** (BC p.350)
 Modifications:
 - HP: 26
 - AC: 14
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[Archdruid Thornweaver]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[Parliamentary_Voting_Guide]]
+- [[Reference.md]]
+- [[10 Combat]]
+- [[11 Rules Glossary]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[MOC_Rules]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[Combat_Encounter_Analysis]]
 - [[Related_Content]]
 
 
@@ -159,8 +194,8 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -175,8 +210,8 @@ Modifications:
 - Compare with [[The Final Forgetting 2]]
 - See also: [[step_045 (phase_099)]]
 - Connects to [[Crystal Plague Mechanics (D&D_References)]]
-- Compare with [[The Deepwater Current (D&D_References)]]
-- Originates from [[The Last Dance 2]]
+- Compare with [[[[The Deepwater Current]] (D&D_References)]]
+- Originates from [[[[The Last Dance]] 2]]
 - Compare with [[step_058 (phase_031)]]
 - Connects to [[Common Wine Bottle Xphb]]
 - Originates from [[ITEM00544_Ethereal_Shield_of_Grace]]
@@ -194,7 +229,7 @@ Modifications:
 - Compare with [[step_025]]
 - Requires [[Merchant Lord Cornelius Generous (D&D_References)]]
 - Connects to [[step_028 (phase_039)]]
-- Influences [[Assets Locations Location City Pressure Tube System Pressure Tube System.svg]]
+- Influences [[Assets Locations [[Location City Pressure Tube System Pressure Tube System.svg]]]]
 - Connects to [[World_Map_Layers 2 (D&D_References)]]
 - Requires [[step_044]]
 - Originates from [[Quick_NPC (02_Worldbuilding)]]
@@ -213,10 +248,10 @@ Modifications:
 - Originates from [[ITEM00518_Mithril_Helm_of_Resistance]]
 - See also: [[EVENT00010_Natural_Event_11]]
 - Influences [[Crystal Architecture Philosophy]]
-- Related: [[Innkeeper Marcus Thorne (D&D_References)]]
+- Related: [[[[Innkeeper Marcus Thorne]] (D&D_References)]]
 - Connects to [[LOC00228_Wilderness_Location_229]]
 - See also: [[NPC01715_Kaelen_Stormwind_the_Redeemed]]
-- See also: [[Aethermoor Social Customs]]
+- See also: [[[[Aethermoor]] Social Customs]]
 - Parallels [[step_096 (phase_095)]]
 - Compare with [[roleplaying-a-beholder-beholder-bonds-vgm (tables)]]
 - Parallels [[Variant Spell Points Spell Points by Level]]
@@ -230,12 +265,12 @@ Modifications:
 - Leads to [[QUEST00195_Personal_Quest_196]]
 - Influences [[flour-xdmg (items)]]
 - Requires [[Master Cartographer Current Deepmap]]
-- Connects to [[Retired Captain Bron Saltbeard 2]]
+- Connects to [[[[Retired Captain Bron Saltbeard]] 2]]
 - See also: [[step_004]]
 - See also: [[step_059]]
-- Leads to [[Determine Aquabyssos (Lore)]]
+- Leads to [[Determine [[Aquabyssos]] (Lore)]]
 - See also: [[README]]
-- Related: [[Location City Reality Anchoring Technology V1 Reality Anchoring Technology.svg]]
+- Related: [[Location City [[Reality Anchoring Technology]] V1 Reality Anchoring Technology.svg]]
 - Connects to [[step_046 (phase_036)]]
 - Originates from [[DUN00145_Dungeon_146]]
 - See also: [[giant-eagle-xmm]]
@@ -263,10 +298,21 @@ Modifications:
 - Compare with [[forgotten-realms-loviatar (deities)]]
 - Affected by [[QUEST00163_Side_Quest_164]]
 - Leads to [[Marcus Shardbreaker Grimm]]
-- Related: [[Assets Locations Location City Ancient Echo Truthfinder Ancient Echo Truthfinder.svg]]
+- Related: [[Assets Locations Location City [[Ancient Echo Truthfinder]] Ancient Echo Truthfinder.svg]]
 - Connects to [[step_085 (phase_012)]]
 - See also: [[Quest - The Great Census 2]]
 - Leads to [[gray-ooze-xmm]]
 - Compare with [[list-spells-classes-oath-of-vengeance-xphb (lists)]]
 - Connects to [[Methane Forests]]
 - Originates from [[NPC01303_Aldric_Zephyrblade_the_Guardian]]
+
+## Visual References
+![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

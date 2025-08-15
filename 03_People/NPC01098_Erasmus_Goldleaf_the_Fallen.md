@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Erasmus Goldleaf the Fallen
 
 *Half-Elf Appraiser (Merchants), Age 50, Male*

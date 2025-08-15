@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Wynne Blackstone the Wise
 
 *Dwarf Crime Boss (Villains), Age 22, Female*

@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.395397
+modified: 2025-08-15T16:41:41.395399
+aliases: [NPC2]
+---
+
+## Table of Contents
+- [[#DM Guidance|DM Guidance]]
+- [[#Session Prep|Session Prep]]
+- [[#Visual References|Visual References]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#Thematic Connections|Thematic Connections]]
+
+
+---
 enhanced: trtags: [enhanced, 03_people, combat, exploration, lore]le]
 created: 2025-08-15T12:24:41.182434
 modified: 2025-08-15T12:24:41.182437
@@ -27,6 +44,7 @@ tags:
 - -- # NPC2 ## Portrait![[Npc|Npc]] * Portrait reference for NPC2* ## Overview This topic is referenced in [[Npc|Npc]] and other parts of the campaign. ## Description
 
 **Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. An important element of the campaign world that connects to various other aspects of the adventure.
+*The air carries the scent of [appropriate smell].*
 *Sounds of [relevant sounds] echo in the distance.* ## Connections - Referenced by: [[Npc|Npc]]
 - Related topics in the same category ## Details Further information about this topic will be developed as the campaign progresses. ## Plot Hooks - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
@@ -38,11 +56,12 @@ tags:
 - **Saving Throws**: *[Proficient saves]*
 - **Skills**: *[Skill proficiencies]* ## Relationships ### Family - *[Family members and relationships]* ### Friends - *[Close personal relationships]* ### Colleagues - *[Professional relationships]* ### Rivals - *[Competitive relationships]* ### Enemies - *[Hostile relationships]* ### Romantic - *[Romantic interests]* ### Party Relationship - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
-- **Key Interactions**: *[Important encounters]* ## See Also - Related content
+- **Key Interactions**: *[Important encounters]* ## See Also
+- [[Quest - The Smuggler's Run]] - Related content
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects ## Player Tips > 🎮 **Strategy**: How to approach this content > Work together and communicate ## References - [[Assets Locations Location City the Null Cathedral V1 the Null Cathedral.svg|Assets Locations Location City The Null Cathedral V1 The Null Cathedral.Svg]] - [[NPC2_Quick_Ref|Npc2 Quick Ref]]
+- **Hidden Details**: Secret aspects ## Player Tips > 🎮 **Strategy**: How to approach this content > Work together and communicate ## References - [[Assets Locations Location City [[The Null Cathedral]] V1 the Null Cathedral.svg|Assets Locations [[Location City the Null Cathedral V1 the Null Cathedral.svg]]]] - [[NPC2_Quick_Ref|Npc2 Quick Ref]]
 - [[Location_Template_1 (09_Templates)|Location Template 1 (09 Templates)]]
 - [[NPC_Template_1 (09_Templates)|Npc Template 1 (09 Templates)]] ## Notes {#notes} *Additional notes* #mechanics/combat
 #story/plot
@@ -77,7 +96,7 @@ tags:
 - **Read Aloud Text**: Prepared descriptions for key moments
 - **Key NPCs**: Important characters for this content
 - **Props Needed**: Physical or digital aids to enhance play
-- **Estimated Time**: How long this typically takes to run
+- **Estimated [[Time]]**: How long this typically takes to run
 
 
 *The dice will decide the fate.*
@@ -94,11 +113,11 @@ tags:
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Movement**: See PHB p.190-192
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Movement**: See ACX p.190-192
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections

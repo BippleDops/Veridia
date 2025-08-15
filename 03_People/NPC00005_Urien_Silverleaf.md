@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Urien Silverleaf
 
 *Half-Orc Heir (Nobles), Age 46, Non-binary*

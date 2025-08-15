@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.484615
+modified: 2025-08-15T16:41:43.484618
+aliases: [NPC01273 Alaric Ironwood the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Felicia Ravenheart the Swift (Political - Patron)|Felicia Ravenheart the Swift (Political - Patron)]]
+- [[#Cedric Quicksilver the Broken (Criminal - Target)|Cedric Quicksilver the Broken (Criminal - Target)]]
+- [[#Rhiannon Dawnstrider the Swift (Personal - Nemesis)|Rhiannon Dawnstrider the Swift (Personal - Nemesis)]]
+
+
+---
 aliases: ["Alaric Ironwood the Guardian", "alaric ironwood the guardian", "Alaric Ironwood Guardian", "Guardian the Ironwood Alaric"]
 tags: [npc, character]
 type: npc
@@ -250,3 +271,14 @@ Has information about legendary item
 - Originates from [[Dr. Thaddeus Vain]]
 - Compare with [[step_074 (phase_062)]]
 - Compare with [[Map World Layer Magical Phenomena and Storm Tracks Magical Phenomena and Storm Tracks.svg]]
+
+## Visual References
+![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
+![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
+![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

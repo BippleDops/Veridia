@@ -213,3 +213,9 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]

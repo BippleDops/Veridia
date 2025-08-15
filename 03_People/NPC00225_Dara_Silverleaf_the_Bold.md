@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Dara Silverleaf the Bold
 
 *Aasimar Noble (Nobles), Age 21, Non-binary*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.285801
+modified: 2025-08-15T16:41:44.285806
+aliases: [NPC00944 Felicia Silverleaf the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Frostwhisper the Wanderer (Professional - Partner)|Alaric Frostwhisper the Wanderer (Professional - Partner)]]
+- [[#Vesper Blackstone the Lost (Professional - Employee)|Vesper Blackstone the Lost (Professional - Employee)]]
+- [[#Brenna Nightfall the Mystic (Family - Spouse)|Brenna Nightfall the Mystic (Family - Spouse)]]
+
+
+---
 aliases: ["Felicia Silverleaf the Scholar", "felicia silverleaf the scholar", "Felicia Silverleaf Scholar", "Scholar the Silverleaf Felicia"]
 tags: [npc, character]
 type: npc
@@ -241,3 +262,14 @@ Competitor sabotaging business
 - Leads to [[step_059 (phase_024)]]
 - See also: [[Widow's Rest 2]]
 - Compare with [[Clara Truthscale]]
+
+## Visual References
+![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

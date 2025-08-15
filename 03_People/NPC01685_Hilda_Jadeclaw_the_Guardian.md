@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Hilda Jadeclaw the Guardian
 
 *Human Crime Boss (Villains), Age 61, Male*

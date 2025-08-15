@@ -153,3 +153,7 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01555_Branwen_Xendar_the_Seeker]]

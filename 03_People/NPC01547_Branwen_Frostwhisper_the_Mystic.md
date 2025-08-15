@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.357134
+modified: 2025-08-15T16:41:44.357137
+aliases: [NPC01547 Branwen Frostwhisper the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Caelum Crystalbrook the Seeker (Criminal - Fence)|Caelum Crystalbrook the Seeker (Criminal - Fence)]]
+- [[#Kaelen Brightblade the Bold (Personal - Nemesis)|Kaelen Brightblade the Bold (Personal - Nemesis)]]
+- [[#Urien Nightfall the Wanderer (Political - Opposition)|Urien Nightfall the Wanderer (Political - Opposition)]]
+
+
+---
 aliases: ["Branwen Frostwhisper the Mystic", "branwen frostwhisper the mystic", "Branwen Frostwhisper Mystic", "Mystic the Frostwhisper Branwen"]
 tags: [npc, character]
 type: npc
@@ -257,3 +278,14 @@ Needs help with personal quest
 - Influences [[SPELL00136_Divine_Spell_137]]
 - Related: [[NPC01562_Rhiannon_Proudmore_the_Scholar]]
 - Parallels [[step_094]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

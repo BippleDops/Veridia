@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Delara Hawthorne the Swift
 
 *Tabaxi Noble (Nobles), Age 24, Male*

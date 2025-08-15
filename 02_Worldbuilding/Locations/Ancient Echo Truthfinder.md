@@ -246,3 +246,8 @@ Ongoing situations affecting Ancient Echo Truthfinder:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]

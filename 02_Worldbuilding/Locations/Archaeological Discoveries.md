@@ -234,3 +234,10 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]

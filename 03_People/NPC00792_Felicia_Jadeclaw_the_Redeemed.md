@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.686020
+modified: 2025-08-15T16:41:42.686025
+aliases: [NPC00792 Felicia Jadeclaw the Redeemed]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Caelum Silverleaf the Wanderer (Professional - Employee)|Caelum Silverleaf the Wanderer (Professional - Employee)]]
+- [[#Solas Ravenheart the Wanderer (Political - Patron)|Solas Ravenheart the Wanderer (Political - Patron)]]
+- [[#Hilda Goldleaf the Scholar (Family - Sibling)|Hilda Goldleaf the Scholar (Family - Sibling)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Felicia Jadeclaw the Redeemed", "felicia jadeclaw the redeemed", "Felicia Jadeclaw Redeemed", "Redeemed the Jadeclaw Felicia"]
 tags: [npc, character]
@@ -154,10 +179,10 @@ Being extorted by criminals
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -267,3 +292,8 @@ Being extorted by criminals
 - Affected by [[Portrait NPC Lady Catherine Mourning V2 Lady Catherine Mourning.svg]]
 - Related: [[Religious Leader Father Ocean Breeze 2]]
 - Originates from [[Quality Inspector Reef Perfectwright]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

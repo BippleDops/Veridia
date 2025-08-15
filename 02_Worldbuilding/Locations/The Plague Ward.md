@@ -234,3 +234,7 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01466_Urien_Nightfall_the_Guardian]]

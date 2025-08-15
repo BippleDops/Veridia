@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.326442
+modified: 2025-08-15T16:41:41.326445
+aliases: [NPC00237 Vesper Ashford the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Faelyn Zephyrblade (Professional - Employer)|Faelyn Zephyrblade (Professional - Employer)]]
+- [[#Ysara Moonshadow the Mystic (Family - Spouse)|Ysara Moonshadow the Mystic (Family - Spouse)]]
+- [[#Brenna Keenblade the Scholar (Criminal - Handler)|Brenna Keenblade the Scholar (Criminal - Handler)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Vesper Ashford the Bold", "vesper ashford the bold", "Vesper Ashford Bold", "Bold the Ashford Vespertags: [npc, character, combat, magic, social, puzzle, lore]er]
 type: npc
@@ -104,7 +125,7 @@ Deception, History, Athletics
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- Political alliances
+- [[Political Alliances]]
 - Upcoming social events
 
 ## Plot Hook
@@ -135,6 +156,32 @@ Wants rivals investigated
 - Special moves
 
 ## See Also
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC00820_Thalia_Nightfall_the_Risen]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[Player_Portal.md]]
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
+- [[Parliamentary_Voting_Guide]]
+- [[Sanity_Quick_Reference.md]]
+- [[Reference.md]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[Reputation_Tracker]]
+- [[Session_Recaps]]
+- [[05 Personality and Background]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[08 Using Ability Scores]]
+- [[16 Credits]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[11 Rules Glossary]]
 - [[Related_Content]]
 
 
@@ -144,10 +191,10 @@ Wants rivals investigated
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -159,7 +206,7 @@ Wants rivals investigated
 
 - See also: [[step_063 (phase_040)]]
 - Requires [[LOC00110_Dungeons_Location_111]]
-- Originates from [[Location City Surface Loyalist Safe Houses Surface Loyalist Safe Houses.svg]]
+- Originates from [[Location City [[Surface Loyalist Safe Houses]] Surface Loyalist Safe Houses.svg]]
 - Parallels [[step_044 (phase_017)]]
 - Parallels [[step_043 (phase_013)]]
 - Related: [[step_084 (phase_080)]]
@@ -190,14 +237,14 @@ Wants rivals investigated
 - See also: [[QUEST0028_The_Haunted_Manor_Uprising]]
 - Originates from [[Adult Red Dragon Xmm]]
 - Leads to [[step_076 (phase_013)]]
-- Connects to [[Pressure Terminal (D&D_Statblocks)]]
+- Connects to [[[[Pressure Terminal]] (D&D_Statblocks)]]
 - Connects to [[step_012]]
 - Compare with [[life-events-xge (tables)]]
 - Compare with [[NPC00620_Gavril_Ironforge_the_Strong]]
 - Affected by [[step_032 (phase_082)]]
 - Requires [[Culture Builder (D&D_References)]]
 - Compare with [[Sundered Steel (D&D_References)]]
-- Affected by [[Captain Echo (D&D_References)]]
+- Affected by [[[[Captain Echo]] (D&D_References)]]
 - Parallels [[step_026]]
 - Leads to [[step_063 (phase_098)]]
 - Related: [[The Counting House]]
@@ -206,7 +253,7 @@ Wants rivals investigated
 - Requires [[Assets Symbols Symbol Heraldry Void Echo Silence Deafmake V1 Void Echo Silence Deafmake.svg]]
 - Originates from [[Quest   The Failing Magic]]
 - See also: [[wand-of-web-xdmg (items)]]
-- Originates from [[Assets Locations Location City Fire Crystals V1 Fire Crystals.svg]]
+- Originates from [[Assets Locations Location City [[Fire Crystal]]s V1 [[Fire Crystals]].svg]]
 - See also: [[Cross-Cultural Adaptation Technique]]
 - Requires [[step_082]]
 - Leads to [[step_025 (phase_023)]]
@@ -215,19 +262,19 @@ Wants rivals investigated
 - Compare with [[Kuo Toa Whip Xmm]]
 - Parallels [[City of Screams (D&D_References)]]
 - Affected by [[step_087 (phase_014)]]
-- Related: [[Merchants Guild.md]]
-- Compare with [[Shadow Corruption Timeline]]
+- Related: [[[[Merchant]]s Guild.md]]
+- Compare with [[Shadow Corruption [[Time]]line]]
 - Requires [[carved-ivory-statuette-xdmg (items)]]
 - See also: [[step_033 (phase_053)]]
 - Requires [[Truth Reflection]]
 - Compare with [[Implements Legendary Xdmg]]
 - Originates from [[step_058]]
 - Originates from [[step_013 (phase_096)]]
-- Parallels [[Assets Locations Location City the Slave Markets of Tethys the Slave Markets of Tethys.svg]]
+- Parallels [[Assets Locations Location City [[The Slave Markets of Tethys]] the Slave Markets of Tethys.svg]]
 - Affected by [[step_033 (phase_024)]]
-- See also: [[Assets Locations Location City Innkeeper Marcus Thorne Innkeeper Marcus Thorne.svg]]
+- See also: [[Assets Locations Location City [[Innkeeper Marcus Thorne]] Innkeeper Marcus Thorne.svg]]
 - Leads to [[Prophetic Weather Charts (D&D_References)]]
-- Related: [[Assets Locations Location City Withered Court Withered Court.svg]]
+- Related: [[Assets Locations Location City [[Withered Court]] Withered Court.svg]]
 - Parallels [[alter-self-xphb (spells)]]
 - Originates from [[NPC00266_Urien_Stormwind_the_Fallen]]
 - Related: [[step_006]]
@@ -238,7 +285,7 @@ Wants rivals investigated
 - Originates from [[Oil of Slipperiness Xdmg]]
 - Influences [[NPC01957_Urien_Darkwater_the_Bold]]
 - Connects to [[ENC00147_Social_Encounter_148]]
-- Connects to [[Assets Locations Location City Syncretist Mediators Syncretist Mediators.svg]]
+- Connects to [[Assets Locations Location City [[Syncretist Mediators]] Syncretist Mediators.svg]]
 - Connects to [[step_006]]
 - Compare with [[QUEST00014_Main_Quest_15]]
 - Leads to [[SPELL00162_Arcane_Spell_163]]
@@ -257,3 +304,14 @@ Wants rivals investigated
 - Related: [[step_069 (phase_046)]]
 - Compare with [[step_015 (phase_022)]]
 - See also: [[EVENT00080_Political_Event_81]]
+
+## Visual References
+![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

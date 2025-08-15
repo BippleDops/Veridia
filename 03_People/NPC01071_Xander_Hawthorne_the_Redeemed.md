@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Xander Hawthorne the Redeemed
 
 *Halfling Trader (Merchants), Age 36, Female*

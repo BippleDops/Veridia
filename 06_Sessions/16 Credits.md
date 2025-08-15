@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T16:41:32.760962
+modified: 2025-08-15T16:41:32.760965
+aliases: [16 Credits]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Prep Checklist|Prep Checklist]]
+- [[#Npcs Needed|Npcs Needed]]
+- [[#Locations|Locations]]
+- [[#Encounters|Encounters]]
+- [[#Props|Props]]
+- [[#Rules|Rules]]
+- [[#Campaign Connection|Campaign Connection]]
+- [[#See Also|See Also]]
+
+
+---
 
 title: 16 Credits
 type: note
@@ -28,7 +49,8 @@ tags:
 - note
 - status/in-progress
 
-created: 2025-07-23
+created: 2
+*Sounds of [relevant sounds] echo in the distance.*025-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
@@ -38,7 +60,7 @@ world: Both
 
 --- # Credits
 
-*Source: Player's Handbook (2014)* - **D&D Lead Designers.** Mike Mearls, Jeremy Crawford - **Player's Handbook Lead.** Jeremy Crawford - **Rules Development.** Rodney Thompson, Peter Lee - **Writing.** James Wyatt, Robert J. Schwalb, Bruce R. Cordell - **Editing.** Michele Carter, Chris Sims, Scott Fitzgerald Gray, Christopher Perkins - **Producer.** Greg Bilsland - **Art Directors.** Kate Irwin, Dan Gelon, Jon Schindehette, Mari Kolkowsky, Melissa Rapier, Shauna Narciso - **Graphic Designers.** Bree Heiss, Emi Tanji, Barry Craig - **Cover Illustrator.** Tyler Jacobson - **Interior Illustrators.** Steve Argyle, Tom Babbey, Daren Bader, Drew Baker, Mark Behm, Eric Belisle, Christopher Bradley, Noah Bradley, Sam Burley, Clint Cearley, Milivoj ´Ceran, Sidharth Chaturvedi, Jedd Chevrier, j D, Allen Douglas, Jesper Ejsing, Craig Elliott, Wayne England, Scott M. Fischer, Randy Gallegos, Justin Gerard, Florian De Gesincourt, Lars Grant-West, Jon Hodgson, Ralph Horsley, Lake Hurwitz, Tyler Jacobson, Kekai Kotaki, Olly Lawson, Raphael Lübke, Titus Lunter, Slawomir Maniak, Brynn Metheney, Aaron Miller, Christopher Moeller, Mark Molnar, Scott Murphy, William O'Connor, Hector Ortiz, David Palumbo, Alessandra Pisano, Claudio Pozas, Rob Rey, Wayne Reynolds, Aaron J. Riley, Chris Seaman, Cynthia Sheppard, Craig J Spearing, John Stanko, Matt Stawicki, Alex Stone, Thom Tenery, Cory Trego-Erdner, Beth Trott, Autumn Rain Turkel, Jose Vega, Tyler Walpole, Julian Kok Joon Wen, Richard Whitters, Eva Widermann, Ben Wootten, Kieran Yanner - **Additional Contributors.** Kim Mohan, Matt Sernett, Chris Dupuis, Tom La Pille, Richard Baker, Miranda Horner, Jennifer Clarke Wilkes, Steve Winter, Nina Hess, Steve Townshend, Chris Youngs, Ben Petrisor, Tom Olsen - **Project Management.** Neil Shinkle, Kim Graham, John Hay - **Production Services.** Cynda Callaway, Brian Dumas, Jefferson Dunlap, David Gershman, Anita Williams - **Brand and Marketing.** Nathan Stewart, Liz Schuh, Chris Lindsay, Shelly Mazzanoble, Hilary Ross, Laura Tommervik, Kim Lundstrom, Trevor Kidd - **Based on the original game created by.** E. Gary Gygax and Dave Arneson, with Brian Blume, Rob Kuntz, James Ward, and Don Kaye - **Drawing from further development by.** J. Eric Holmes, Tom Moldvay, Frank Mentzer, Aaron Allston, Harold Johnson, Roger E. Moore, David "Zeb" Cook, Ed Greenwood, Tracy Hickman, Margaret Weis, Douglas Niles, Jeff Grubb, Jonathan Tweet, Monte Cook, Skip Williams, Richard Baker, Peter Adkison, Keith Baker, Bill Slavicsek, Andy Collins, and Rob Heinsoo - **Playtesting provided by.** over 175,000 fans of D&D. Thank you! !] ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary 16 credits is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 16 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 16 credits. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange sightings suggest a conspiracy
+*Source: Adventurer's Codex (2014)* - **D&D Lead Designers.** Mike Mearls, Jeremy Crawford - **Adventurer's Codex Lead.** Jeremy Crawford - **Rules Development.** Rodney Thompson, Peter Lee - **Writing.** James Wyatt, Robert J. Schwalb, Bruce R. Cordell - **Editing.** Michele Carter, Chris Sims, Scott Fitzgerald Gray, Christopher Perkins - **Producer.** Greg Bilsland - **Art Directors.** Kate Irwin, Dan Gelon, Jon Schindehette, Mari Kolkowsky, Melissa Rapier, Shauna Narciso - **Graphic Designers.** Bree Heiss, Emi Tanji, Barry Craig - **Cover Illustrator.** Tyler Jacobson - **Interior Illustrators.** Steve Argyle, Tom Babbey, Daren Bader, Drew Baker, Mark Behm, Eric Belisle, Christopher Bradley, Noah Bradley, Sam Burley, Clint Cearley, Milivoj ´Ceran, Sidharth Chaturvedi, Jedd Chevrier, j D, Allen Douglas, Jesper Ejsing, Craig Elliott, Wayne England, Scott M. Fischer, Randy Gallegos, Justin Gerard, Florian De Gesincourt, Lars Grant-West, Jon Hodgson, Ralph Horsley, Lake Hurwitz, Tyler Jacobson, Kekai Kotaki, Olly Lawson, Raphael Lübke, Titus Lunter, Slawomir Maniak, Brynn Metheney, Aaron Miller, Christopher Moeller, Mark Molnar, Scott Murphy, William O'Connor, Hector Ortiz, David Palumbo, Alessandra Pisano, Claudio Pozas, Rob Rey, Wayne Reynolds, Aaron J. Riley, Chris Seaman, Cynthia Sheppard, Craig J Spearing, John Stanko, Matt Stawicki, Alex Stone, Thom Tenery, Cory Trego-Erdner, Beth Trott, Autumn Rain Turkel, Jose Vega, Tyler Walpole, Julian Kok Joon Wen, Richard Whitters, Eva Widermann, Ben Wootten, Kieran Yanner - **Additional Contributors.** Kim Mohan, Matt Sernett, Chris Dupuis, Tom La Pille, Richard Baker, Miranda Horner, Jennifer Clarke Wilkes, Steve Winter, Nina Hess, Steve Townshend, Chris Youngs, Ben Petrisor, Tom Olsen - **Project Management.** Neil Shinkle, Kim Graham, John Hay - **Production Services.** Cynda Callaway, Brian Dumas, Jefferson Dunlap, David Gershman, Anita Williams - **Brand and Marketing.** Nathan Stewart, Liz Schuh, Chris Lindsay, Shelly Mazzanoble, Hilary Ross, Laura Tommervik, Kim Lundstrom, Trevor Kidd - **Based on the original game created by.** E. Gary Gygax and Dave Arneson, with Brian Blume, Rob Kuntz, James Ward, and Don Kaye - **Drawing from further development by.** J. Eric Holmes, Tom Moldvay, Frank Mentzer, Aaron Allston, Harold Johnson, Roger E. Moore, David "Zeb" Cook, Ed Greenwood, Tracy Hickman, Margaret Weis, Douglas Niles, Jeff Grubb, Jonathan Tweet, Monte Cook, Skip Williams, Richard Baker, Peter Adkison, Keith Baker, Bill Slavicsek, Andy Collins, and Rob Heinsoo - **Playtesting provided by.** over 175,000 fans of D&D. Thank you! !] ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary 16 credits is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 16 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 16 credits. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange sightings suggest a conspiracy
 
 - An heirloom has gone missing and truth emerges
 - Strange accidents suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research
@@ -78,6 +100,26 @@ world: Both
 Former associate of the party's patron
 
 ## See Also
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[08 Using Ability Scores]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00058_Elric_Nightfall]]
+- [[09 Adventuring]]
+- [[10 Combat]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[11 Rules Glossary]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
 - [[Related_Content]]
 
 
@@ -87,17 +129,17 @@ Former associate of the party's patron
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

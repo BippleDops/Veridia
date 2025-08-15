@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.559039
+modified: 2025-08-15T16:41:46.559043
+aliases: [NPC4 (People)]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc_people_standard.png]]
+
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Overview|Overview]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Abilities|Abilities]]
+- [[#Relationships|Relationships]]
+- [[#Motivations|Motivations]]
+- [[#Secrets|Secrets]]
+- [[#Current Activities|Current Activities]]
+
+
+---
 class: Unknown
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -147,7 +172,7 @@ ___
 - Retreats when below 25% health
 
 ## Sourcebook Reference
-> Based on **Commoner** (MM p.345) with modifications
+> Based on **Commoner** (BC p.345) with modifications
 
 ## Connections
 

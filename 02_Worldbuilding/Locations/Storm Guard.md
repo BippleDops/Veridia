@@ -216,3 +216,8 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]

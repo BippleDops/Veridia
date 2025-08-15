@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.973108
+modified: 2025-08-15T16:41:45.973112
+aliases: [NPC01809 Caelum Stormwind the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Brenna Silverleaf the Risen (Personal - Love interest)|Brenna Silverleaf the Risen (Personal - Love interest)]]
+- [[#Baelor Emberfall the Cunning (Criminal - Fence)|Baelor Emberfall the Cunning (Criminal - Fence)]]
+- [[#Urien Youngblood the Bold (Political - Patron)|Urien Youngblood the Bold (Political - Patron)]]
+
+
+---
 aliases: ["Caelum Stormwind the Wanderer", "caelum stormwind the wanderer", "Caelum Stormwind Wanderer", "Wanderer the Stormwind Caelum"]
 tags: [npc, character]
 type: npc
@@ -247,3 +268,29 @@ Is secretly testing the party
 - Requires [[The Memory Wellspring]]
 - Parallels [[The Professional Guilds Council]]
 - Originates from [[Pressure Terminal]]
+
+## Visual References
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
+
+
+## Realm Connections
+
+### Connection to Aethermoor
+This connects to the sky realm of Sky realm of eternal winds and floating islands.
+
+- **Ruling Power**: The Windlord Council
+- **Capital**: [[Skylance Citadel]]
+- **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
+- **Current Conflict**: The Void Incursion, Elemental Convergence
+- **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
+
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+navigate floating islands connected by bridges of solidified cloud.
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

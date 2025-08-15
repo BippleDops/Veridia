@@ -344,3 +344,8 @@ Ongoing situations affecting Navigator Sage Driftwood:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]

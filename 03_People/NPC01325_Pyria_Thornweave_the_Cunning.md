@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Pyria Thornweave the Cunning
 
 *Human Bard (Adventurers), Age 41, Male*

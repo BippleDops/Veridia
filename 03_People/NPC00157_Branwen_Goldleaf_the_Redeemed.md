@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Branwen Goldleaf the Redeemed
 
 *Firbolg Heir (Nobles), Age 74, Male*

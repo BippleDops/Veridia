@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.101844
+modified: 2025-08-15T16:41:46.101851
+aliases: [NPC01251 Gavril Ironforge the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Lightbringer the Cunning (Criminal - Target)|Alaric Lightbringer the Cunning (Criminal - Target)]]
+- [[#Baelor Moonshadow the Cunning (Personal - Best friend)|Baelor Moonshadow the Cunning (Personal - Best friend)]]
+- [[#Idris Silverleaf the Mystic (Professional - Employer)|Idris Silverleaf the Mystic (Professional - Employer)]]
+
+
+---
 aliases: ["Gavril Ironforge the Scholar", "gavril ironforge the scholar", "Gavril Ironforge Scholar", "Scholar the Ironforge Gavril"]
 tags: [npc, character]
 type: npc
@@ -239,3 +260,14 @@ Needs help with personal quest
 - Compare with [[ITEM01466_Decorated_Compass_of_Reliability]]
 - See also: [[Location City Grief Overwhelming Syndrome Grief Overwhelming Syndrome.svg]]
 - Connects to [[step_018 (phase_082)]]
+
+## Visual References
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

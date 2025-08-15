@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.138694
+modified: 2025-08-15T16:41:44.138697
+aliases: [NPC01394 Brenna Darkwater the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Malakai Blackstone the Cunning (Political - Patron)|Malakai Blackstone the Cunning (Political - Patron)]]
+- [[#Aldric Grimholt the Strong (Professional - Partner)|Aldric Grimholt the Strong (Professional - Partner)]]
+- [[#Brenna Frostwhisper the Fallen (Family - Spouse)|Brenna Frostwhisper the Fallen (Family - Spouse)]]
+
+
+---
 aliases: ["Brenna Darkwater the Mystic", "brenna darkwater the mystic", "Brenna Darkwater Mystic", "Mystic the Darkwater Brenna"]
 tags: [npc, character]
 type: npc
@@ -254,3 +275,14 @@ Needs help with personal quest
 - Parallels [[Cultural Districts (D&D_References)]]
 - Requires [[QUEST00301_Side_Quest_302]]
 - Influences [[The Growth Gardens (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

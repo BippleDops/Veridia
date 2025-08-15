@@ -245,3 +245,8 @@ Ongoing situations affecting Luminar the Builder:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]

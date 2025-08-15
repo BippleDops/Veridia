@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:39.613857
+modified: 2025-08-15T16:41:39.613861
+aliases: [Ceasefire Accord Draft.md]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Evolution Improvements|Evolution Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+- [[#Diaspora Improvements|Diaspora Improvements]]
+- [[#Material_Culture Improvements|Material_Culture Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Visual_Handouts/Ceasefire_Accord_Draft.md
 type: lore
@@ -105,6 +126,10 @@ tags: [combat, lore]
 > Useful information for players
 
 ## See Also
+- [[Combat_Encounter_Analysis]]
+- [[Player_Feedback_Form.md]]
+- [[Reference.md]]
+- [[10 Appendix B Creature Stat Blocks]]
 - [[Related_Content]]
 
 
@@ -114,15 +139,15 @@ tags: [combat, lore]
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -226,3 +251,8 @@ tags: [combat, lore]
 - Leads to [[step_008 (phase_090)]]
 - Originates from [[immolation-xge (spells)]]
 - Influences [[Assets Locations Location City Master Chef Coral Seasweaver V1 Master Chef Coral Seasweaver.svg]]
+
+## Visual References
+![[03_People/portrait_the_verdant_accord.png]]
+![[04_Resources/maps/world_the_boundary_accords_political.png]]
+![[04_Resources/maps/world_the_boundary_accords_physical.png]]

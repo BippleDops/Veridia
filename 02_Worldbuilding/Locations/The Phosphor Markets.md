@@ -591,3 +591,8 @@ The Phosphor Markets was established in the distant past, growing from humble be
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]

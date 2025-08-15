@@ -232,3 +232,7 @@ Ongoing situations affecting Pelagic Cup:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]

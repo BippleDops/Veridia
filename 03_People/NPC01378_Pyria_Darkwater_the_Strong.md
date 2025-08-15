@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Pyria Darkwater the Strong
 
 *Half-Orc Bard (Adventurers), Age 37, Non-binary*

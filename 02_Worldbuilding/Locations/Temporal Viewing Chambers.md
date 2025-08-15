@@ -236,3 +236,11 @@ Ongoing situations affecting Temporal Viewing Chambers:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01286_Xander_Proudmore_the_Bold]]
+- [[NPC00763_Urien_Brightblade_the_Broken]]
+- [[The Silent Watcher 2]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Fiora Dawnstrider
 
 *Firbolg Heir (Nobles), Age 50, Female*

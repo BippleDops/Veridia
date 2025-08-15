@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Qadim Winterborn
 
 *Half-Orc Heir (Nobles), Age 47, Non-binary*

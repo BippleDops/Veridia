@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.882740
+modified: 2025-08-15T16:41:42.882744
+aliases: [NPC01811 Dara Grimholt the Fallen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Pyria Zephyrblade the Risen (Professional - Employer)|Pyria Zephyrblade the Risen (Professional - Employer)]]
+- [[#Hestara Stormwind the Redeemed (Professional - Employer)|Hestara Stormwind the Redeemed (Professional - Employer)]]
+- [[#Solas Ironwood the Swift (Family - Spouse)|Solas Ironwood the Swift (Family - Spouse)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Dara Grimholt the Fallen", "dara grimholt the fallen", "Dara Grimholt Fallen", "Fallen the Grimholt Dara"]
 tags: [npc, character]
@@ -143,21 +164,21 @@ Provides information for a price
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Xanathar's Guide to Everything (XGE) p.212
-- Tasha's Cauldron of Everything (TCE) p.111
-- Volo's Guide to Monsters (VGM) p.181
+- Xanathar's Secrets Revealed to Everything (XSR) p.212
+- Tasha's Mystical Formulae of Everything (TMF) p.111
+- Volo's Creature Catalog to Monsters (VCC) p.181
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -165,10 +186,10 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -278,3 +299,14 @@ Following magic item guidelines (DMG p.135-136):
 - Affected by [[Aboleth]]
 - See also: [[ENC00065_Social_Encounter_66]]
 - Leads to [[Reszur Pota]]
+
+## Visual References
+![[03_People/portrait_captain_dara_ironwill_friendly.png]]
+![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
+![[03_People/portrait_captain_dara_ironwill_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

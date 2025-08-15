@@ -293,3 +293,7 @@ Ongoing situations affecting The Iron Pits of Malachar:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]

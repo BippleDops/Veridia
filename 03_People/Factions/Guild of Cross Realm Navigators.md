@@ -15,6 +15,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![02_Worldbuilding/Lore/Guild of Cross-Realm Navigators](../../04_Resources/Assets/Misc/02_worldbuilding_lore_guild_of_cross_realm_navigators.png)
 
 ## 🔧 Deep Evaluation Improvements

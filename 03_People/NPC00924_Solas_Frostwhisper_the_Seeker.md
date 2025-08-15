@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Frostwhisper the Seeker
 
 *Dwarf Broker (Merchants), Age 45, Female*

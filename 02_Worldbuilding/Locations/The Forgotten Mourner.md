@@ -220,3 +220,8 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]

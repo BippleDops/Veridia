@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.994901
+modified: 2025-08-15T16:41:43.994904
+aliases: [NPC01576 Erasmus Jadeclaw the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Zephyrblade the Lost (Personal - Ex-lover)|Wynne Zephyrblade the Lost (Personal - Ex-lover)]]
+- [[#Pyria Darkwater the Seeker (Criminal - Target)|Pyria Darkwater the Seeker (Criminal - Target)]]
+- [[#Aldric Frostwhisper the Wanderer (Political - Puppet)|Aldric Frostwhisper the Wanderer (Political - Puppet)]]
+
+
+---
 aliases: ["Erasmus Jadeclaw the Lost", "erasmus jadeclaw the lost", "Erasmus Jadeclaw Lost", "Lost the Jadeclaw Erasmus"]
 tags: [npc, character]
 type: npc
@@ -250,3 +271,14 @@ Has information about legendary item
 - Originates from [[ITEM00196_Blazing_Sword_of_Accuracy]]
 - Affected by [[Veterans Organizations]]
 - Connects to [[Hidden Sanctuary]]
+
+## Visual References
+![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
+![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
+![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

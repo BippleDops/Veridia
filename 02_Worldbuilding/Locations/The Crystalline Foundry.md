@@ -554,3 +554,7 @@ Ongoing situations affecting The Crystalline Foundry:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]

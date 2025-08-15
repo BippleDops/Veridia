@@ -648,3 +648,8 @@ Mentioned in The First Prophecy of Winds
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00287_Ysara_Underhill_the_Wise]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]

@@ -204,3 +204,8 @@ Ongoing situations affecting The Grove Keepers:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]

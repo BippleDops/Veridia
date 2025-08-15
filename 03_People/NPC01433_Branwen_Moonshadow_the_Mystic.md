@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Branwen Moonshadow the Mystic
 
 *Gnome Fighter (Adventurers), Age 43, Male*

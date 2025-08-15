@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Branwen Thornweave the Lost
 
 *Dragonborn Corrupt Noble (Villains), Age 36, Female*

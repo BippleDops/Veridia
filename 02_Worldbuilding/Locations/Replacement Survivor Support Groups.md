@@ -218,3 +218,7 @@ Ongoing situations affecting Replacement Survivor Support Groups:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]

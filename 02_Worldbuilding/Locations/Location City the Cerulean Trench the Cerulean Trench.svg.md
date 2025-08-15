@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Cerulean Tre
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]

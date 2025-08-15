@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.005090
+modified: 2025-08-15T16:41:47.005092
+aliases: [NPC00823 Caelum Zephyrblade the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Zephyr Ashford the Risen (Criminal - Informant)|Zephyr Ashford the Risen (Criminal - Informant)]]
+- [[#Hilda Goldleaf the Swift (Political - Puppet)|Hilda Goldleaf the Swift (Political - Puppet)]]
+- [[#Felicia Underhill the Swift (Criminal - Informant)|Felicia Underhill the Swift (Criminal - Informant)]]
+
+
+---
 aliases: ["Caelum Zephyrblade the Strong", "caelum zephyrblade the strong", "Caelum Zephyrblade Strong", "Strong the Zephyrblade Caelum"]
 tags: [npc, character]
 type: npc
@@ -252,3 +273,14 @@ Competitor sabotaging business
 - Compare with [[Portrait NPC Captain Steelhart V2 Captain Steelhart.svg]]
 - Leads to [[Assets Vehicles Vehicle Ship Depth Piercer Research Sub V1 Depth Piercer Research Sub.svg]]
 - Related: [[#Regional Organization]]
+
+## Visual References
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

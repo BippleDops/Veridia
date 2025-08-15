@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 ![Cultural Mediator Coral Windweave](../../../04_Resources/Assets/Misc/cultural_mediator_coral_windweave.png)
 
 ## 🔧 Deep Evaluation Improvements

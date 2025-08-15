@@ -236,3 +236,7 @@ Ongoing situations affecting Depth Raider:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01989_Erasmus_Xendar_the_Strong]]

@@ -244,3 +244,7 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01951_Gavril_Xendar_the_Swift]]

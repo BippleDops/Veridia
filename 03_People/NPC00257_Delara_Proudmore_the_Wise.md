@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Delara Proudmore the Wise
 
 *Aasimar Ambassador (Nobles), Age 19, Male*

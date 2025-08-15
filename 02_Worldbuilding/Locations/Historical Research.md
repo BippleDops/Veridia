@@ -279,3 +279,11 @@ Ongoing situations affecting Historical Research:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]
+- [[Quest - The Missing Fleet]]
+- [[The Silent Watcher 2]]

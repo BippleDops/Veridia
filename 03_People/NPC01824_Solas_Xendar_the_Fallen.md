@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.371485
+modified: 2025-08-15T16:41:42.371490
+aliases: [NPC01824 Solas Xendar the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Orion Keenblade the Lost (Family - Spouse)|Orion Keenblade the Lost (Family - Spouse)]]
+- [[#Malakai Crystalbrook the Strong (Personal - Childhood friend)|Malakai Crystalbrook the Strong (Personal - Childhood friend)]]
+- [[#Nerys Voidwalker the Seeker (Political - Puppet)|Nerys Voidwalker the Seeker (Political - Puppet)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Solas Xendar the Fallen", "solas xendar the fallen", "Solas Xendar Fallen", "Fallen the Xendar Solas"]
 tags: [npc, character]
@@ -165,10 +190,10 @@ Is secretly testing the party
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -278,3 +303,8 @@ Is secretly testing the party
 - See also: [[Portrait NPC House of Lords Secret Chamber House of Lords Secret Chamber.svg]]
 - Related: [[step_034]]
 - Requires [[Assets Art Botanist Rose Sundrinker.png]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

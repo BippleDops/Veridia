@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.386117
+modified: 2025-08-15T16:41:44.386120
+aliases: [NPC00139 Pyria Proudmore]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aeliana Thornweave the Wanderer (Personal - Best friend)|Aeliana Thornweave the Wanderer (Personal - Best friend)]]
+- [[#Rhiannon Ashford (Criminal - Handler)|Rhiannon Ashford (Criminal - Handler)]]
+- [[#Thalia Silverleaf the Scholar (Criminal - Target)|Thalia Silverleaf the Scholar (Criminal - Target)]]
+
+
+---
 aliases: ["Pyria Proudmore", "pyria proudmore", "Proudmore Pyria"]
 tags: [npc, character]
 type: npc
@@ -242,3 +267,8 @@ Needs discrete help with family scandal
 - Influences [[Undead Rights Organization HQ (D&D_References)]]
 - Originates from [[berserker-axe-xdmg (items)]]
 - Influences [[High Priest Nereon (D&D_References)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

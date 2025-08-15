@@ -806,3 +806,9 @@ Ongoing situations affecting Pressure Terminal:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00237_Vesper_Ashford_the_Bold]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Alaric Grimholt the Seeker
 
 *Dwarf Farmer (Commoners), Age 41, Male*

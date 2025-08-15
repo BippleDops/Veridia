@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Gavril Underhill
 
 *Half-Orc Heir (Nobles), Age 70, Non-binary*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Jorah Thornweave the Scholar
 
 *Aasimar Wizard (Adventurers), Age 75, Non-binary*

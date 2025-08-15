@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.380587
+modified: 2025-08-15T16:41:44.380593
+aliases: [NPC00937 Dara Darkwater the Redeemed]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hestara Dawnstrider the Wise (Political - Opposition)|Hestara Dawnstrider the Wise (Political - Opposition)]]
+- [[#Baelor Zephyrblade the Seeker (Professional - Rival)|Baelor Zephyrblade the Seeker (Professional - Rival)]]
+- [[#Erasmus Brightblade the Seeker (Family - Child)|Erasmus Brightblade the Seeker (Family - Child)]]
+
+
+---
 aliases: ["Dara Darkwater the Redeemed", "dara darkwater the redeemed", "Dara Darkwater Redeemed", "Redeemed the Darkwater Dara"]
 tags: [npc, character]
 type: npc
@@ -246,3 +267,14 @@ Has map to lost treasure
 - Originates from [[step_038 (phase_090)]]
 - Requires [[Session_10_New_Horizons]]
 - Affected by [[Assets Handouts Handout Handout Wanted Poster with Reward V1 Wanted Poster with Reward.png]]
+
+## Visual References
+![[03_People/portrait_captain_dara_ironwill_friendly.png]]
+![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
+![[03_People/portrait_captain_dara_ironwill_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

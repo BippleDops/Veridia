@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:38.137363
+modified: 2025-08-15T16:41:38.137367
+aliases: [Depth Adapted Background.md]
+---
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Abilities|Abilities]]
+- [[#Relationships|Relationships]]
+- [[#Current Activities|Current Activities]]
+- [[#Plot Hooks|Plot Hooks]]
+- [[#DM Notes|DM Notes]]
+- [[#Voice & Mannerisms|Voice & Mannerisms]]
+
+
+---
 aliases:
 - Depth Adapted Backgroundmd
 class: Unknown
@@ -87,6 +108,49 @@ Actively involved in current events, pursuing their own agenda while maintaining
 > Useful information for players
 
 ## See Also
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[Propaganda_Broadsheet_Syndicate.md]]
+- [[Quiet_Chapel_Oath_Scrol]]
+- [[Sanity Quick Reference]]
+- [[Quick_Start_Guide.md]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[Dockworker_Union_Flyer.md]]
+- [[Reputation_Tracker]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00207_Ysara_Ravenheart]]
+- [[05 Personality and Background]]
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
+- [[Character_Journal_Template]]
+- [[MOC_Items]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00058_Elric_Nightfall]]
+- [[MOC_NPCs]]
+- [[MOC_Rules]]
+- [[MASTER_MOC]]
+- [[Count_Strahd_von_Zarovich]]
 - [[Related_Content]]
 
 
@@ -99,18 +163,18 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - [[ULTIMATE_ASSET_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
 
 ## Connections
 
@@ -214,3 +278,8 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Compare with [[step_087 (phase_091)]]
 - Parallels [[NPC01531_Pyria_Goldleaf_the_Wise]]
 - Compare with [[LORE00332_History_Entry_333]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_master_hadrian_depthbridge_v1_terminal_master_hadrian_depthbridge_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_hadrian_depthbridge_v1_hadrian_depthbridge_svg_standard.png]]
+![[03_People/portrait_the_depth_lords_dramatic.png]]

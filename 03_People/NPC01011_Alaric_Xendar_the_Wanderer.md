@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.789124
+modified: 2025-08-15T16:41:43.789128
+aliases: [NPC01011 Alaric Xendar the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aldric Ravenheart the Wanderer (Professional - Employer)|Aldric Ravenheart the Wanderer (Professional - Employer)]]
+- [[#Brenna Proudmore the Seeker (Personal - Childhood friend)|Brenna Proudmore the Seeker (Personal - Childhood friend)]]
+- [[#Caelum Jadeclaw the Redeemed (Criminal - Target)|Caelum Jadeclaw the Redeemed (Criminal - Target)]]
+
+
+---
 aliases: ["Alaric Xendar the Wanderer", "alaric xendar the wanderer", "Alaric Xendar Wanderer", "Wanderer the Xendar Alaric"]
 tags: [npc, character]
 type: npc
@@ -247,3 +268,14 @@ Caravan needs guards
 - Compare with [[LOC00266_Cities_Location_267]]
 - Requires [[step_080 (phase_024)]]
 - Originates from [[creature-creature-griffon-xmm-griffon-xmm.png]]
+
+## Visual References
+![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

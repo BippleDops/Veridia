@@ -262,3 +262,8 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[NPC00407_Hestara_Dawnstrider]]

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.880555
+modified: 2025-08-15T16:41:40.880558
+aliases: [NPC01989 Erasmus Xendar the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Xendar the Guardian (Political - Opposition)|Corvus Xendar the Guardian (Political - Opposition)]]
+- [[#Aldric Grimholt the Fallen (Family - Cousin)|Aldric Grimholt the Fallen (Family - Cousin)]]
+- [[#Xander Ironforge the Guardian (Personal - Ex-lover)|Xander Ironforge the Guardian (Personal - Ex-lover)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Erasmus Xendar the Strong", "erasmus xendar the strong", "Erasmus Xendar Strong", "Strong the Xendar Erasmustags: [npc, character, combat, magic, social, lore]er]
 type: npc
@@ -18,7 +39,7 @@ type: npc
 ## Appearance
 Short and wiry, with Long and flowing white hair and Violet eyes. Fair skin. Crooked nose from multiple breaks.
 
-**Clothing**: Merchant's outfit with many hidden pockets
+**Clothing**: [[Merchant]]'s outfit with many hidden pockets
 **Accessories**: Silk handkerchief
 
 ## Personality
@@ -147,7 +168,7 @@ Is secretly testing the party
 - Special moves
 
 ## Combat Stats
-Base: **Bandit** (MM p.343)
+Base: **Bandit** (BC p.343)
 Modifications:
 - HP: 44
 - AC: 14
@@ -163,10 +184,10 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -187,24 +208,24 @@ Modifications:
 - Affected by [[Magic Items Awarded by Rarity Major Xge]]
 - Affected by [[step_002 (phase_046)]]
 - See also: [[Quest   The Corruption Cure]]
-- Originates from [[Depth Raider (D&D_References)]]
+- Originates from [[[[Depth Raider]] (D&D_References)]]
 - See also: [[Sister Astara the Ever-Watching 2]]
-- Requires [[Portrait NPC Weaponsmith Captain Marcus Sharpedge V2 Weaponsmith Captain Marcus Sharpedge.svg]]
-- See also: [[Palace Courtyard - Crystal Garden (D&D_References)]]
+- Requires [[Portrait NPC Weaponsmith [[Captain Marcus]] Sharpedge V2 Weaponsmith Captain Marcus Sharpedge.svg]]
+- See also: [[[[Palace Courtyard - Crystal Garden]] (D&D_References)]]
 - Influences [[step_083]]
 - Originates from [[step_071]]
 - Affected by [[Diamond Xdmg]]
-- Originates from [[Assets Locations Location City Cathedral of Light Cathedral of Light.png]]
+- Originates from [[Assets Locations [[Location City [[Cathedral of Light]] Cathedral of Light.png]]]]
 - Affected by [[Ω_System-CLI-spells-school-conjuration]]
 - Connects to [[Portrait NPC Defense Captain Ironguard V2 Defense Captain Ironguard.svg]]
 - Related: [[step_071 (phase_081)]]
-- Originates from [[Master_Quest_Index]]
+- Originates from [[Master_Quest_[[INDEX]]]]
 - Compare with [[Portrait NPC Mili... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Compare with [[step_052 (phase_013)]]
 - Requires [[NPC01488_Orion_Keenblade_the_Wise]]
 - Compare with [[step_072 (phase_084)]]
 - Parallels [[Map Map Sky Whale Back Hunt V2 Sky Whale Back Hunt.svg]]
-- Connects to [[Location City Grief Harvester Melancholy Grief Harvester Melancholy.svg]]
+- Connects to [[Location City [[Grief Harvester Melancholy]] Grief Harvester Melancholy.svg]]
 - Compare with [[step_090 (phase_062)]]
 - See also: [[step_004]]
 - Originates from [[Secondary Tables War Xge]]
@@ -220,11 +241,11 @@ Modifications:
 - See also: [[LORE00261_Prophecies_Entry_262]]
 - See also: [[step_007]]
 - Leads to [[step_070]]
-- Parallels [[Location City Council of Currents V1 Council of Currents.svg]]
+- Parallels [[Location City [[Council of Currents]] V1 Council of Currents.svg]]
 - Related: [[step_065 (phase_091)]]
 - Parallels [[step_003 (phase_055)]]
 - Originates from [[step_087]]
-- Related: [[Triton (D&D_References)]]
+- Related: [[[[Triton]] (D&D_References)]]
 - Affected by [[step_017 (phase_035)]]
 - See also: [[Kobold Dmg]]
 - Affected by [[02-chapter-1-playing-the-game#Conditions]]
@@ -232,23 +253,23 @@ Modifications:
 - Parallels [[step_046 (phase_068)]]
 - Related: [[Portrait NPC Ice ... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Connects to [[Potion of Necrotic Resistance Xdmg]]
-- Parallels [[Location City Master Trader Abyss Currentbinder V1 Master Trader Abyss Currentbinder.svg]]
+- Parallels [[Location City Master Trader [[Abyss Currentbinder]] V1 Master Trader Abyss Currentbinder.svg]]
 - See also: [[step_015 (phase_076)]]
 - Requires [[LORE00082_Prophecies_Entry_83]]
 - Parallels [[Flameskull Xmm]]
-- Influences [[Assets Locations Location City the Trencher Folk the Trencher Folk.svg]]
+- Influences [[Assets Locations Location City [[The Trencher Folk]] the Trencher Folk.svg]]
 - Affected by [[Map World Layer Faction Territories and Influence V2 Faction Territories and Influence.svg]]
 - Requires [[Korred Mpmm]]
 - Requires [[QUEST0003_The_Haunted_Manor_War]]
 - Affected by [[NPC00824_Malakai_Lightbringer_the_Lost]]
 - See also: [[portrait-npc-senator-marius-v1-senator-marius.svg_1 (Portraits)]]
 - Originates from [[Institute of Recursive Reality Studies (D&D_References)]]
-- Leads to [[The Noble Quarter Market 2]]
+- Leads to [[[[The [[Noble Quarter]] Market]] 2]]
 - Affected by [[The Floating Market]]
 - Affected by [[step_061 (phase_096)]]
 - Influences [[location-city-sage-nereon-sage-nereon.svg]]
 - Affected by [[Scene Scene Trench Fire Battlefield Aftermath V2 Trench Fire Battlefield Aftermath.svg]]
-- Connects to [[Location City Amnesia Gallery V1 Amnesia Gallery.svg]]
+- Connects to [[Location City [[Amnesia Gallery]] V1 Amnesia Gallery.svg]]
 - Compare with [[The Mirror Merchants Guild]]
 - Parallels [[Shadow Binding Sanctum (D&D_References)]]
 - Requires [[elf-deities-the-seldarine-mtf (tables)]]
@@ -259,7 +280,7 @@ Modifications:
 - Requires [[step_094]]
 - Influences [[NPC00038_Kaelen_Nightfall]]
 - Connects to [[Underwater_Combat]]
-- Affected by [[The Embassy Quarter_1]]
+- Affected by [[The [[Embassy Quarter]]_1]]
 - Connects to [[Paladins of Light]]
 - Related: [[step_057 (phase_058)]]
 - Affected by [[monster-relationships-xge (tables)]]
@@ -268,7 +289,7 @@ Modifications:
 - Related: [[Portrait NPC Sea Spirit Priests V1 Sea Spirit Priests.svg]]
 - Compare with [[Mass_Combat_Evolution (D&D_References)]]
 - Originates from [[Work Wages Xge]]
-- Connects to [[Assets Locations Location City Transformation Medicine Techniques Transformation Medicine Techniques.svg]]
+- Connects to [[Assets Locations Location City [[Transformation Medicine Techniques]] Transformation Medicine Techniques.svg]]
 - Influences [[LOC00019_Planes_Location_20]]
 - Related: [[ENC00488_Combat_Encounter_489]]
 - Originates from [[step_066 (phase_093)]]
@@ -276,3 +297,14 @@ Modifications:
 - Requires [[ENC00013_Social_Encounter_14]]
 - See also: [[mantle-of-spell-resistance-xdmg (items)]]
 - Influences [[Location City Quest the Blackmail Papers Quest the Blackmail Papers.svg]]
+
+## Visual References
+![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
+![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
+![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

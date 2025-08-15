@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.021494
+modified: 2025-08-15T16:41:47.021496
+aliases: [NPC01182 Jorah Emberfall the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ewan Xendar the Mystic (Personal - Childhood friend)|Ewan Xendar the Mystic (Personal - Childhood friend)]]
+- [[#Faelyn Hawthorne the Lost (Family - Cousin)|Faelyn Hawthorne the Lost (Family - Cousin)]]
+- [[#Brenna Quicksilver the Lost (Professional - Partner)|Brenna Quicksilver the Lost (Professional - Partner)]]
+
+
+---
 aliases: ["Jorah Emberfall the Lost", "jorah emberfall the lost", "Jorah Emberfall Lost", "Lost the Emberfall Jorah"]
 tags: [npc, character]
 type: npc
@@ -239,3 +260,14 @@ Seeks rare merchandise
 - Requires [[Professor Darklight 2]]
 - Requires [[NPC00299_Aeliana_Keenblade_the_Bold]]
 - Influences [[step_038 (phase_004)]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

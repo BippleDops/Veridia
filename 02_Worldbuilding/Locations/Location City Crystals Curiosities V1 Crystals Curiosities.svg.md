@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Crystals Curiosi
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]

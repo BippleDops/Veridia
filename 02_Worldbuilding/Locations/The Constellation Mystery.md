@@ -314,3 +314,9 @@ Ongoing situations affecting The Constellation Mystery:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]

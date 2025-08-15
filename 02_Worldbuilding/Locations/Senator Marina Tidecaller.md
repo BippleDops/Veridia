@@ -254,3 +254,9 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01286_Xander_Proudmore_the_Bold]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00395_Aeliana_Thornweave]]

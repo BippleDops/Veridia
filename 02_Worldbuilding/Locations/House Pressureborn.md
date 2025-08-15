@@ -218,3 +218,7 @@ Ongoing situations affecting House Pressureborn:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00362_Pyria_Stormwind_the_Wise]]

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.334894
+modified: 2025-08-15T16:41:48.334899
+aliases: [NPC00390 Hestara Youngblood the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Solas Grimholt the Wanderer (Personal - Childhood friend)|Solas Grimholt the Wanderer (Personal - Childhood friend)]]
+- [[#Delara Stormwind the Redeemed (Professional - Employee)|Delara Stormwind the Redeemed (Professional - Employee)]]
+- [[#Hestara Youngblood the Wise (Criminal - Fence)|Hestara Youngblood the Wise (Criminal - Fence)]]
+
+
+---
 aliases: ["Hestara Youngblood the Guardian", "hestara youngblood the guardian", "Hestara Youngblood Guardian", "Guardian the Youngblood Hestara"]
 tags: [npc, character]
 type: npc
@@ -141,3 +162,15 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
+![[03_People/portrait_the_crimson_shard_guardian.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

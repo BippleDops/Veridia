@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.713738
+modified: 2025-08-15T16:41:43.713740
+aliases: [NPC00527 Kaelen Lightbringer the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Elric Lightbringer (Personal - Childhood friend)|Elric Lightbringer (Personal - Childhood friend)]]
+- [[#Xander Hawthorne the Cunning (Personal - Ex-lover)|Xander Hawthorne the Cunning (Personal - Ex-lover)]]
+- [[#Baelor Proudmore the Swift (Personal - Best friend)|Baelor Proudmore the Swift (Personal - Best friend)]]
+
+
+---
 aliases: ["Kaelen Lightbringer the Mystic", "kaelen lightbringer the mystic", "Kaelen Lightbringer Mystic", "Mystic the Lightbringer Kaelen"]
 tags: [npc, character]
 type: npc
@@ -243,3 +264,14 @@ Family member has gone missing
 - Compare with [[step_054 (phase_053)]]
 - Parallels [[Symbol Heraldry Economic Intelligence V1 Economic Intelligence.svg]]
 - Originates from [[step_049 (phase_054)]]
+
+## Visual References
+![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Jorah Thornweave the Guardian
 
 *Tabaxi Trader (Merchants), Age 21, Male*

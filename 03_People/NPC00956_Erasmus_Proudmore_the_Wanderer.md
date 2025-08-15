@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Erasmus Proudmore the Wanderer
 
 *Genasi Trader (Merchants), Age 62, Non-binary*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.269767
+modified: 2025-08-15T16:41:44.269770
+aliases: [NPC01156 Hestara Silverleaf the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gareth Moonshadow the Broken (Family - Child)|Gareth Moonshadow the Broken (Family - Child)]]
+- [[#Cedric Dawnstrider the Broken (Political - Patron)|Cedric Dawnstrider the Broken (Political - Patron)]]
+- [[#Alaric Darkwater the Strong (Family - Parent)|Alaric Darkwater the Strong (Family - Parent)]]
+
+
+---
 aliases: ["Hestara Silverleaf the Lost", "hestara silverleaf the lost", "Hestara Silverleaf Lost", "Lost the Silverleaf Hestara"]
 tags: [npc, character]
 type: npc
@@ -245,3 +266,14 @@ Seeks rare merchandise
 - Parallels [[step_047 (phase_085)]]
 - Requires [[step_020 (phase_011)]]
 - Affected by [[step_057 (phase_056)]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

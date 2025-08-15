@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Wynne Keenblade the Wanderer
 
 *Elf Cleric (Adventurers), Age 49, Male*

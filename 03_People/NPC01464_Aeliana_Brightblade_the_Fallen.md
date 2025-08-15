@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Aeliana Brightblade the Fallen
 
 *Firbolg Fighter (Adventurers), Age 77, Female*

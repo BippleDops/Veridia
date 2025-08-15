@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:34.137515
+modified: 2025-08-15T16:41:34.137522
+aliases: [Combat Encounter Analysis]
+---
+
+## Table of Contents
+- [[#Encounter Overview|Encounter Overview]]
+- [[#Difficulty Assessment|Difficulty Assessment]]
+- [[#Character Performance|Character Performance]]
+- [[#Environmental Factors|Environmental Factors]]
+- [[#Pacing & Flow|Pacing & Flow]]
+- [[#Improvements|Improvements]]
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#Connection Improvements|Connection Improvements]]
+- [[#Enhancement Improvements|Enhancement Improvements]]
+- [[#Related|Related]]
+
+
+---
 title: Combat_Encounter_Analysis
 type: note
 tags:
@@ -203,12 +224,16 @@ Contextual improvement based on 07_Player_Resources
 > This location connects to the main plot
 
 ## See Also
+- [[Basic_Rules]]
+- [[Reference.md]]
+- [[10 Combat]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
 - [[Related_Content]]
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Resting**: See PHB p.186
+- **Combat**: See ACX p.189-198
+- **Resting**: See ACX p.186
 
 
 ## Thematic Connections
@@ -218,15 +243,15 @@ Contextual improvement based on 07_Player_Resources
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
 
 ## Connections
 
@@ -330,3 +355,8 @@ Contextual improvement based on 07_Player_Resources
 - Compare with [[Dock Worker Tomás]]
 - Originates from [[Master Cartographer Current Deepmap]]
 - Leads to [[12_Research_D&D_Statblocks_The_Emerald_Sage_Willowbark]]
+
+## Visual References
+![[03_People/portrait_10_combat_dropping_to_0_hit_points_death_saving_throws_standard.png]]
+![[03_People/portrait_10_combat_dropping_to_0_hit_points_death_saving_throws_dramatic.png]]
+![[03_People/portrait_10_combat_dropping_to_0_hit_points_stabilizing_a_creature_standard.png]]

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.924776
+modified: 2025-08-15T16:41:42.924778
+aliases: [NPC01022 Faelyn Darkwater the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Pyria Silverleaf the Bold (Family - Parent)|Pyria Silverleaf the Bold (Family - Parent)]]
+- [[#Corvus Oakenshield the Guardian (Professional - Partner)|Corvus Oakenshield the Guardian (Professional - Partner)]]
+- [[#Elric Crystalbrook the Wise (Family - Child)|Elric Crystalbrook the Wise (Family - Child)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Faelyn Darkwater the Mystic", "faelyn darkwater the mystic", "Faelyn Darkwater Mystic", "Mystic the Darkwater Faelyn"]
 tags: [npc, character]
@@ -155,11 +176,11 @@ Caravan needs guards
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -269,3 +290,14 @@ Caravan needs guards
 - Related: [[Skeleton Xmm]]
 - Related: [[step_086 (phase_080)]]
 - Affected by [[Session_Template]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

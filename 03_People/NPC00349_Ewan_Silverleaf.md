@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.737238
+modified: 2025-08-15T16:41:45.737240
+aliases: [NPC00349 Ewan Silverleaf]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hilda Brightblade the Mystic (Family - Child)|Hilda Brightblade the Mystic (Family - Child)]]
+- [[#Malakai Lightbringer the Scholar (Professional - Partner)|Malakai Lightbringer the Scholar (Professional - Partner)]]
+- [[#Pyria Youngblood (Professional - Rival)|Pyria Youngblood (Professional - Rival)]]
+
+
+---
 aliases: ["Ewan Silverleaf", "ewan silverleaf", "Silverleaf Ewan"]
 tags: [npc, character]
 type: npc
@@ -245,3 +270,8 @@ Requires champions for trial by combat
 - Parallels [[NPC01972_Idris_Darkwater_the_Redeemed]]
 - Related: [[LOC0146_Marshhollow]]
 - See also: [[Assets Locations Location City Adventure Boldexplorer Adventure Boldexplorer.svg]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

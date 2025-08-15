@@ -220,3 +220,10 @@ Mentioned in The Second Prophecy of Depths
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]

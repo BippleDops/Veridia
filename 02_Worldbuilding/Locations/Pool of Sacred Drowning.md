@@ -238,3 +238,7 @@ Ongoing situations affecting Pool of Sacred Drowning:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01466_Urien_Nightfall_the_Guardian]]

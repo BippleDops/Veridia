@@ -224,3 +224,7 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]

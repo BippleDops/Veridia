@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, _indexes]
+created: 2025-08-15T16:41:29.330730
+modified: 2025-08-15T16:41:29.330734
+aliases: [MOC Lore]
+---
+
+## Table of Contents
+- [[#Quick Links|Quick Links]]
+- [[#Content|Content]]
+- [[#Recent NPCs|Recent NPCs]]
+- [[#Active Quests|Active Quests]]
+- [[#Session Log|Session Log]]
+- [[#Location Network|Location Network]]
+- [[#See Also|See Also]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
 -tags: [moc, index, combat]ex]
 created: 2025-08-15
 ---
@@ -47,18 +68,42 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 > Important safety or rule information
 
 ## See Also
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[World_Primer.md]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[Party_Inventory]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[MOC_Items]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[Session Planning Toolkit_1 (06_Sessions)]]
+- [[Session 0 - Aquabyssos]]
+- [[README]]
+- [[MOC_Sessions]]
+- [[MOC_Locations]]
 - [[Related_Content]]
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -162,3 +207,8 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Influences [[The_Verdant_Accord.png]]
 - Originates from [[ITEM01138_Lesser_Salve_of_Healing]]
 - Related: [[LOC00223_Dungeons_Location_224]]
+
+## Visual References
+![[03_People/portrait_deep_sea_explorer_captain_abyss_friendly.png]]
+![[03_People/token_02_worldbuilding_lore_the_dream_shard_medium_normal.png]]
+![[03_People/portrait_02_worldbuilding_lore_the_dream_shard_standard.png]]

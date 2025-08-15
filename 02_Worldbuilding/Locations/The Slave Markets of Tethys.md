@@ -233,3 +233,8 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC00237_Vesper_Ashford_the_Bold]]

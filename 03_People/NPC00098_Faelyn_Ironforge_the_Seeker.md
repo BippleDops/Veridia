@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Faelyn Ironforge the Seeker
 
 *Half-Orc Ambassador (Nobles), Age 66, Non-binary*

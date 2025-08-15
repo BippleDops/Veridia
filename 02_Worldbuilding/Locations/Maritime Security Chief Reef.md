@@ -230,3 +230,13 @@ Ongoing situations affecting Maritime Security Chief Reef:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC00494_Lyanna_Hawthorne_the_Guardian]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]

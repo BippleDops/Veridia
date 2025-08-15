@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Crystal Corruption Cultists](../../../04_Resources/Assets/Misc/crystal_corruption_cultists.png)
 
 ## 🔧 Deep Evaluation Improvements

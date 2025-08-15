@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.760013
+modified: 2025-08-15T16:41:46.760017
+aliases: [NPC0046 Gareth Ironforge the Cunning]
+---
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Secrets|Secrets]]
+- [[#Relationships|Relationships]]
+- [[#Roleplaying|Roleplaying]]
+
+
+---
 aliases: ["Gareth Ironforge the Cunning", "gareth ironforge the cunning", "Gareth Ironforge Cunning", "Cunning the Ironforge Gareth"]
 tags: [, generated]
   - npc
@@ -229,3 +250,8 @@ Arcana, Deception, Athletics, Persuasion
 - Parallels [[step_021 (phase_060)]]
 - Influences [[ITEM00543_Enchanted_Helm_of_Resistance]]
 - Connects to [[Quest - Missing Shipments 2]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
+![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]

@@ -218,3 +218,7 @@ Ongoing situations affecting The Living Quarters:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]

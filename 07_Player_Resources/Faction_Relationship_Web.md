@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:40.447269
+modified: 2025-08-15T16:41:40.447276
+aliases: [Faction Relationship Web]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#Connection Improvements|Connection Improvements]]
+- [[#Enhancement Improvements|Enhancement Improvements]]
+- [[#Political Alliance & Conflict Map|Political Alliance & Conflict Map]]
+- [[#Relationship Legend|Relationship Legend]]
+- [[#Faction Power Levels|Faction Power Levels]]
+- [[#Trust & Hostility Meter|Trust & Hostility Meter]]
+- [[#Recent Developments|Recent Developments]]
+- [[#Faction Goals & Methods|Faction Goals & Methods]]
+- [[#Player Action Consequences|Player Action Consequences]]
+
+
+---
 title: Faction_Relationship_Web
 type: note
 tags:
@@ -198,6 +219,18 @@ Contextual improvement based on 07_Player_Resources
 > Additional context or lore
 
 ## See Also
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Faction_Guide.md]]
+- [[Combat_Encounter_Analysis]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[Party_Inventory]]
+- [[Player_Comfort_Check]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[Character_Journal_Template]]
 - [[Related_Content]]
 
 
@@ -207,25 +240,25 @@ Contextual improvement based on 07_Player_Resources
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -329,3 +362,8 @@ Contextual improvement based on 07_Player_Resources
 - Influences [[NPC01365_Vesper_Zephyrblade_the_Redeemed]]
 - Originates from [[actions#Magic]]
 - Compare with [[ITEM01103_Lesser_Crystal_of_Vigor]]
+
+## Visual References
+![[03_People/portrait_uniting_the_factions_friendly.png]]
+![[03_People/portrait_character_faction_relationship_matrix_standard.png]]
+![[03_People/portrait_character_faction_relationship_matrix_dramatic.png]]

@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_03_mechanics_cli_bestiary_humanoid_quandrix_apprentice_scc_dramatic.png]]
+
+
 # /03 Mechanics/CLI/bestiary/humanoid/quandrix-apprentice-scc
 
 ## Basic Information

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hestara Hawthorne the Seeker
 
 *Half-Elf Assassin (Villains), Age 64, Non-binary*

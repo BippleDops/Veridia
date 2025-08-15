@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.407480
+modified: 2025-08-15T16:41:43.407484
+aliases: [NPC01282 Qadim Lightbringer the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Cedric Youngblood the Lost (Family - Child)|Cedric Youngblood the Lost (Family - Child)]]
+- [[#Nerys Ironwood the Broken (Personal - Best friend)|Nerys Ironwood the Broken (Personal - Best friend)]]
+- [[#Aeliana Youngblood the Bold (Personal - Nemesis)|Aeliana Youngblood the Bold (Personal - Nemesis)]]
+
+
+---
 aliases: ["Qadim Lightbringer the Mystic", "qadim lightbringer the mystic", "Qadim Lightbringer Mystic", "Mystic the Lightbringer Qadim"]
 tags: [npc, character]
 type: npc
@@ -251,3 +272,14 @@ Forming expedition to dangerous location
 - Affected by [[Pressure Magic]]
 - Influences [[Creature Creature Thorny Vegepygmy Mpmm V3 Thorny Vegepygmy Mpmm.png]]
 - Parallels [[Portrait NPC Free Captains Alliance V2 Free Captains Alliance.svg]]
+
+## Visual References
+![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

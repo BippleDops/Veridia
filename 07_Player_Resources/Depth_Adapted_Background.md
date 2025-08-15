@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:40.453034
+modified: 2025-08-15T16:41:40.453036
+aliases: [Depth Adapted Background]
+---
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Abilities|Abilities]]
+- [[#Relationships|Relationships]]
+- [[#Current Activities|Current Activities]]
+- [[#Plot Hooks|Plot Hooks]]
+- [[#DM Notes|DM Notes]]
+- [[#Voice & Mannerisms|Voice & Mannerisms]]
+
+
+---
 class: Unknown
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -85,6 +106,21 @@ Actively involved in current events, pursuing their own agenda while maintaining
 > Important safety or rule information
 
 ## See Also
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[World_Primer.md]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[12 Spells]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[05 Personality and Background]]
+- [[MOC_Lore]]
+- [[Count_Strahd_von_Zarovich]]
 - [[Related_Content]]
 
 
@@ -97,18 +133,18 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - [[ULTIMATE_ASSET_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
 
 ## Connections
 
@@ -212,3 +248,8 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Requires [[step_077 (phase_043)]]
 - Compare with [[step_027 (phase_059)]]
 - See also: [[step_030]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_master_hadrian_depthbridge_v1_terminal_master_hadrian_depthbridge_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_hadrian_depthbridge_v1_hadrian_depthbridge_svg_standard.png]]
+![[03_People/portrait_the_depth_lords_dramatic.png]]

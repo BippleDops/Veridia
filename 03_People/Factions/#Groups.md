@@ -12,6 +12,10 @@ type: faction
 updated: 2025-08-14
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-military-families-support-groups-military-families-support-groups.png)
 

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.692263
+modified: 2025-08-15T16:41:41.692267
+aliases: [NPC00046 Urien Ironwood the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Vesper Winterborn (Political - Patron)|Vesper Winterborn (Political - Patron)]]
+- [[#Lyanna Nightfall (Personal - Love interest)|Lyanna Nightfall (Personal - Love interest)]]
+- [[#Hestara Crystalbrook (Professional - Employee)|Hestara Crystalbrook (Professional - Employee)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Urien Ironwood the Wise", "urien ironwood the wise", "Urien Ironwood Wise", "Wise the Ironwood Urien"]
 tags: [npc, character]
@@ -139,6 +160,25 @@ Requires champions for trial by combat
 - Special moves
 
 ## See Also
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[Depth_Adapted_Background]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[MOC_Items]]
 - [[Related_Content]]
 
 
@@ -148,10 +188,10 @@ Requires champions for trial by combat
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -261,3 +301,14 @@ Requires champions for trial by combat
 - Compare with [[step_086 (phase_087)]]
 - Leads to [[The Shadow Labs (D&D_References)]]
 - Influences [[LOC00005_Planes_Location_6]]
+
+## Visual References
+![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
+![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
+![[03_People/portrait_commander_thrace_ironwood.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

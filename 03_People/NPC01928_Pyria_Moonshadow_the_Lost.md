@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.300379
+modified: 2025-08-15T16:41:45.300383
+aliases: [NPC01928 Pyria Moonshadow the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Frostwhisper the Bold (Personal - Ex-lover)|Corvus Frostwhisper the Bold (Personal - Ex-lover)]]
+- [[#Xander Ashford the Guardian (Professional - Rival)|Xander Ashford the Guardian (Professional - Rival)]]
+- [[#Xander Ironwood the Mystic (Family - Child)|Xander Ironwood the Mystic (Family - Child)]]
+
+
+---
 aliases: ["Pyria Moonshadow the Lost", "pyria moonshadow the lost", "Pyria Moonshadow Lost", "Lost the Moonshadow Pyria"]
 tags: [npc, character]
 type: npc
@@ -243,3 +264,14 @@ Blackmails party into service
 - See also: [[Troglodyte Dmg]]
 - Leads to [[Temple of the Sunken Cathedral 2]]
 - Connects to [[Roleplaying a Hag Hag Personality Traits Vgm]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

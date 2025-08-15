@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.323866
+modified: 2025-08-15T16:41:45.323869
+aliases: [NPC00066 Drusilla Lightbringer the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Lyanna Blackstone the Redeemed (Political - Opposition)|Lyanna Blackstone the Redeemed (Political - Opposition)]]
+- [[#Fiora Goldleaf (Political - Patron)|Fiora Goldleaf (Political - Patron)]]
+- [[#Cedric Brightblade (Family - Sibling)|Cedric Brightblade (Family - Sibling)]]
+
+
+---
 aliases: ["Drusilla Lightbringer the Wanderer", "drusilla lightbringer the wanderer", "Drusilla Lightbringer Wanderer", "Wanderer the Lightbringer Drusilla"]
 tags: [npc, character]
 type: npc
@@ -252,3 +273,14 @@ Requires champions for trial by combat
 - Compare with [[Marina the Unifier]]
 - Connects to [[NPC00557_Elric_Ironforge_the_Fallen]]
 - Compare with [[Storm_Caller_Druid]]
+
+## Visual References
+![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

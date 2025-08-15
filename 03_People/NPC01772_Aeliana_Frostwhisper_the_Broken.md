@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aeliana Frostwhisper the Broken
 
 *Tiefling Assassin (Villains), Age 44, Male*

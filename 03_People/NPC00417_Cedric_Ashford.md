@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Cedric Ashford
 
 *Dragonborn Farmer (Commoners), Age 55, Female*

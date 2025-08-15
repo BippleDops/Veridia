@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.647914
+modified: 2025-08-15T16:41:41.647919
+aliases: [NPC00324 Idris Hawthorne the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Darkwater (Political - Opposition)|Alaric Darkwater (Political - Opposition)]]
+- [[#Caelum Frostwhisper the Guardian (Political - Puppet)|Caelum Frostwhisper the Guardian (Political - Puppet)]]
+- [[#Solas Underhill (Political - Patron)|Solas Underhill (Political - Patron)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Idris Hawthorne the Strong", "idris hawthorne the strong", "Idris Hawthorne Strong", "Strong the Hawthorne Idris"]
 tags: [npc, character]
@@ -142,6 +163,18 @@ Needs discrete help with family scandal
 - Special moves
 
 ## See Also
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[World_Primer.md]]
+- [[Reference.md]]
+- [[Session_Recaps]]
 - [[Related_Content]]
 
 
@@ -151,8 +184,8 @@ Needs discrete help with family scandal
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -262,3 +295,14 @@ Needs discrete help with family scandal
 - Affected by [[standard-languages-phb (tables)]]
 - Related: [[physical-characteristics-beholder-eye-size-vgm]]
 - Affected by [[step_100 (phase_023)]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

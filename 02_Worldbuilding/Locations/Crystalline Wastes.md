@@ -218,3 +218,9 @@ Ongoing situations affecting Crystalline Wastes:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC01625_Qadim_Lightbringer_the_Swift]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]

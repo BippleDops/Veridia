@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Cultural Integration Trade Associatio](../../../04_Resources/Assets/Misc/cultural_integration_trade_associatio.png)
 
 ## 🔧 Deep Evaluation Improvements

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hestara Ironforge the Seeker
 
 *Halfling Crime Boss (Villains), Age 57, Non-binary*

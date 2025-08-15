@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aldric Quicksilver the Scholar
 
 *Aasimar Dark Wizard (Villains), Age 68, Female*

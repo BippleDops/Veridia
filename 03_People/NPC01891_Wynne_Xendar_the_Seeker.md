@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Wynne Xendar the Seeker
 
 *Half-Orc Crime Boss (Villains), Age 55, Male*

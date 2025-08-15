@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Delara Voidwalker the Strong
 
 *Genasi Farmer (Commoners), Age 44, Male*

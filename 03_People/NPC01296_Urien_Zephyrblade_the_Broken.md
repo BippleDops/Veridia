@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Urien Zephyrblade the Broken
 
 *Tiefling Cleric (Adventurers), Age 32, Non-binary*

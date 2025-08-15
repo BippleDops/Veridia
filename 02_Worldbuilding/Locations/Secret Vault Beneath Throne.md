@@ -171,3 +171,7 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[The Silent Watcher 2]]

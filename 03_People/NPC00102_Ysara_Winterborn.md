@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.786701
+modified: 2025-08-15T16:41:45.786703
+aliases: [NPC00102 Ysara Winterborn]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Jorah Hawthorne the Risen (Family - Child)|Jorah Hawthorne the Risen (Family - Child)]]
+- [[#Fiora Oakenshield (Personal - Ex-lover)|Fiora Oakenshield (Personal - Ex-lover)]]
+- [[#Xander Proudmore the Broken (Criminal - Informant)|Xander Proudmore the Broken (Criminal - Informant)]]
+
+
+---
 aliases: ["Ysara Winterborn", "ysara winterborn", "Winterborn Ysara"]
 tags: [npc, character]
 type: npc
@@ -242,3 +263,14 @@ Seeks bodyguards for dangerous journey
 - Affected by [[Deep Mother Subsystem]]
 - Parallels [[Sea Witches Coven 2]]
 - Influences [[#Threads]]
+
+## Visual References
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

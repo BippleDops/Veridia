@@ -233,3 +233,7 @@ Ongoing situations affecting Crimson Reef:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00351_Corvus_Ironwood]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Malakai Crystalbrook the Risen
 
 *Half-Orc Appraiser (Merchants), Age 59, Female*

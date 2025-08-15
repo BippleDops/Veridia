@@ -19,6 +19,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_locations_location_city_scribe_master_elena_truthkeeper_v1_scribe_master_elena_truthkeeper_svg_standard.png]]
+
+
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*

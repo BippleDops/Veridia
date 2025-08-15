@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Dara Dawnstrider the Mystic
 
 *Genasi Crime Boss (Villains), Age 55, Non-binary*

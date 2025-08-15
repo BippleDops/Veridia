@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Jorah Quicksilver the Broken
 
 *Half-Elf Aristocrat (Nobles), Age 30, Non-binary*

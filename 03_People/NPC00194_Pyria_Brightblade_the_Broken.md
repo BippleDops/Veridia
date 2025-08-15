@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.349144
+modified: 2025-08-15T16:41:44.349147
+aliases: [NPC00194 Pyria Brightblade the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Voidwalker the Mystic (Political - Opposition)|Wynne Voidwalker the Mystic (Political - Opposition)]]
+- [[#Brenna Grimholt (Criminal - Fence)|Brenna Grimholt (Criminal - Fence)]]
+- [[#Faelyn Voidwalker (Political - Opposition)|Faelyn Voidwalker (Political - Opposition)]]
+
+
+---
 aliases: ["Pyria Brightblade the Broken", "pyria brightblade the broken", "Pyria Brightblade Broken", "Broken the Brightblade Pyria"]
 tags: [npc, character]
 type: npc
@@ -248,3 +273,8 @@ Seeks bodyguards for dangerous journey
 - Connects to [[Crystal Wardens (D&D_Statblocks)]]
 - Parallels [[step_060 (phase_007)]]
 - Connects to [[supplemental-tables-childhood-home-xge (tables)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

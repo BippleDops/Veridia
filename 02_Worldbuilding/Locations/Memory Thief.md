@@ -488,3 +488,8 @@ Ongoing situations affecting Memory Thief:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]

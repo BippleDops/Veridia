@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Elric Darkwater the Lost
 
 *Half-Elf Fighter (Adventurers), Age 76, Female*

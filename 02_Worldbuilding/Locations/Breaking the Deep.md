@@ -224,3 +224,7 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]

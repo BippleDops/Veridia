@@ -23,6 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![The Academy of Resoce](../../../04_Resources/Assets/Misc/the_academy_of_resoce.png)
 
 ## 🔧 Deep Evaluation Improvements

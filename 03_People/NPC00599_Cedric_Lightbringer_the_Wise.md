@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.262497
+modified: 2025-08-15T16:41:41.262501
+aliases: [NPC00599 Cedric Lightbringer the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Baelor Lightbringer the Lost (Criminal - Fence)|Baelor Lightbringer the Lost (Criminal - Fence)]]
+- [[#Xander Ravenheart the Redeemed (Professional - Mentor)|Xander Ravenheart the Redeemed (Professional - Mentor)]]
+- [[#Delara Nightfall the Cunning (Family - Sibling)|Delara Nightfall the Cunning (Family - Sibling)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Cedric Lightbringer the Wise", "cedric lightbringer the wise", "Cedric Lightbringer Wise", "Wise the Lightbringer Cedrictags: [npc, character, combat, puzzle, lore]er]
 type: npc
@@ -144,13 +165,33 @@ Family member has gone missing
 - Special moves
 
 ## Combat Stats
-Base: **Commoner** (MM p.345)
+Base: **Commoner** (BC p.345)
 Modifications:
 - HP: 45
 - AC: 11
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[Faction_Relationship_Web]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[Faction_Guide.md]]
+- [[11 Rules Glossary]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]
+- [[NPC00300_Urien_Zephyrblade]]
 - [[Related_Content]]
 
 
@@ -160,10 +201,10 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -174,20 +215,20 @@ Modifications:
 ## Connections
 
 - Connects to [[dwarven-sharindlar-mtf (deities)]]
-- Influences [[Assets Locations Location City Archivist Stone Memorykeeper V1 Archivist Stone Memorykeeper.svg]]
+- Influences [[Assets Locations Location City [[Archivist Stone Memorykeeper]] V1 Archivist Stone Memorykeeper.svg]]
 - See also: [[NPC01530_Cedric_Oakenshield_the_Lost]]
-- Affected by [[The Threshold Chambers 2]]
-- Affected by [[Shadow Wells (D&D_References)]]
+- Affected by [[[[The Threshold Chambers]] 2]]
+- Affected by [[[[Shadow Wells]] (D&D_References)]]
 - Related: [[FAC00088_Cults_89]]
 - Connects to [[Portrait NPC Brother Marcus Steelbane V1 Brother Marcus Steelbane.svg_1 (Portraits)]]
 - Affected by [[step_060]]
-- Compare with [[The Depth Plague]]
-- Originates from [[Location City Inverted Ballroom Wing Inverted Ballroom Wing.svg]]
+- Compare with [[The [[Depth Plague]]]]
+- Originates from [[Location City [[Inverted Ballroom Wing]] Inverted Ballroom Wing.svg]]
 - Compare with [[Victoria Harbormane]]
 - Connects to [[step_016 (phase_051)]]
-- Affected by [[Breaking the Deep (D&D_References)]]
+- Affected by [[[[Breaking the Deep]] (D&D_References)]]
 - Compare with [[Seven_Shards_Epic_Conclusion]]
-- Leads to [[downtime-activity-scribing-a-spell-scroll-xge (variant-rules)]]
+- Leads to [[down[[Time]]-activity-scribing-a-spell-scroll-xge (variant-rules)]]
 - Affected by [[QUEST00096_Main_Quest_97]]
 - Leads to [[ENC00255_Social_Encounter_256]]
 - Connects to [[Silverscale Emergency Bunker 3 (D&D_References)]]
@@ -214,16 +255,16 @@ Modifications:
 - Parallels [[step_078]]
 - Connects to [[DUN00099_Dungeon_100]]
 - Related: [[step_084]]
-- Connects to [[Comparative Religion (D&D_References)]]
+- Connects to [[[[Comparative Religion]] (D&D_References)]]
 - Parallels [[Portrait NPC the Shadow Singer Naia V1 the Shadow Singer Naia.svg]]
-- Affected by [[Assets Locations Location City Pressure Responsive Fabrics Pressure Responsive Fabrics.svg]]
+- Affected by [[Assets Locations [[Location City Pressure Responsive Fabrics Pressure Responsive Fabrics.svg]]]]
 - Affected by [[EVENT00076_Political_Event_77]]
-- Related: [[Location City House Depthguard V1 House Depthguard.svg]]
+- Related: [[Location City [[House Depthguard]] V1 House Depthguard.svg]]
 - Requires [[Jumping Xphb]]
 - Related: [[step_087 (phase_018)]]
 - Connects to [[step_076]]
 - Parallels [[ENC00401_Combat_Encounter_402]]
-- Requires [[Aquabyssos Contact Agent Coral]]
+- Requires [[[[Aquabyssos]] Contact Agent Coral]]
 - Connects to [[step_049]]
 - See also: [[step_033]]
 - Influences [[Scholar Dr. Vera Theological]]
@@ -245,7 +286,7 @@ Modifications:
 - Affected by [[Psychic Wind Location Effects Xdmg]]
 - Leads to [[step_008 (phase_020)]]
 - Originates from [[step_077]]
-- Connects to [[The Diplomatic Quarter (D&D_References)]]
+- Connects to [[[[The Diplomatic Quarter]] (D&D_References)]]
 - Influences [[step_077]]
 - Leads to [[ixitxachitl-oota (aberration)]]
 - Leads to [[pact-of-the-blade-xphb (optional-features)]]
@@ -273,3 +314,14 @@ Modifications:
 - Compare with [[step_016 (phase_097)]]
 - Related: [[ITEM00917_Superior_Powder_of_Vigor]]
 - Requires [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+
+## Visual References
+![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

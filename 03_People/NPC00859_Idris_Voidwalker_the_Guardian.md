@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.275522
+modified: 2025-08-15T16:41:45.275529
+aliases: [NPC00859 Idris Voidwalker the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Kaelen Youngblood the Guardian (Political - Ally)|Kaelen Youngblood the Guardian (Political - Ally)]]
+- [[#Nerys Zephyrblade the Seeker (Personal - Best friend)|Nerys Zephyrblade the Seeker (Personal - Best friend)]]
+- [[#Brenna Crystalbrook the Wanderer (Political - Opposition)|Brenna Crystalbrook the Wanderer (Political - Opposition)]]
+
+
+---
 aliases: ["Idris Voidwalker the Guardian", "idris voidwalker the guardian", "Idris Voidwalker Guardian", "Guardian the Voidwalker Idris"]
 tags: [npc, character]
 type: npc
@@ -246,3 +267,14 @@ Competitor sabotaging business
 - Requires [[Archshadow Mortis Voidcut]]
 - Affected by [[Trade Escort Player]]
 - Affected by [[Geometric Tidepools (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
+![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
+![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

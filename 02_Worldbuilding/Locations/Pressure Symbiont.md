@@ -239,3 +239,8 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]

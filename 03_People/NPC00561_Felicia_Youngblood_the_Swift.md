@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.918852
+modified: 2025-08-15T16:41:47.918855
+aliases: [NPC00561 Felicia Youngblood the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Kaelen Emberfall the Wanderer (Family - Spouse)|Kaelen Emberfall the Wanderer (Family - Spouse)]]
+- [[#Pyria Thornweave the Risen (Family - Cousin)|Pyria Thornweave the Risen (Family - Cousin)]]
+- [[#Zephyr Emberfall the Redeemed (Family - Parent)|Zephyr Emberfall the Redeemed (Family - Parent)]]
+
+
+---
 aliases: ["Felicia Youngblood the Swift", "felicia youngblood the swift", "Felicia Youngblood Swift", "Swift the Youngblood Felicia"]
 tags: [npc, character]
 type: npc
@@ -142,3 +163,15 @@ Being extorted by criminals
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

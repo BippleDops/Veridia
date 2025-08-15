@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Dara Frostwhisper the Lost
 
 *Genasi Bard (Adventurers), Age 52, Male*

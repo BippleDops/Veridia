@@ -8,7 +8,11 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
---- # aljanor-keenblade-oota ---
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+ # aljanor-keenblade-oota ---
 
 ## Description
 

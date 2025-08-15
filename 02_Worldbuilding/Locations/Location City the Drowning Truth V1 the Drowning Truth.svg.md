@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Drowning Tru
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01761_Idris_Moonshadow_the_Broken]]

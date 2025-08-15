@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.950103
+modified: 2025-08-15T16:41:43.950106
+aliases: [NPC00418 Ysara Zephyrblade the Redeemed]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Drusilla Oakenshield the Guardian (Criminal - Fence)|Drusilla Oakenshield the Guardian (Criminal - Fence)]]
+- [[#Urien Jadeclaw the Guardian (Criminal - Informant)|Urien Jadeclaw the Guardian (Criminal - Informant)]]
+- [[#Wynne Goldleaf the Mystic (Family - Spouse)|Wynne Goldleaf the Mystic (Family - Spouse)]]
+
+
+---
 aliases: ["Ysara Zephyrblade the Redeemed", "ysara zephyrblade the redeemed", "Ysara Zephyrblade Redeemed", "Redeemed the Zephyrblade Ysara"]
 tags: [npc, character]
 type: npc
@@ -249,3 +270,14 @@ Discovered something valuable
 - Influences [[location-city-depth-raiders-v1-depth-raiders.svg]]
 - Influences [[Combat_Reference]]
 - Related: [[Phantom Archivist Silent Catalogue 2]]
+
+## Visual References
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

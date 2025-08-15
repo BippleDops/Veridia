@@ -260,3 +260,8 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]

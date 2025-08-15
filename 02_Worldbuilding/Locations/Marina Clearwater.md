@@ -225,3 +225,8 @@ Ongoing situations affecting Marina Clearwater:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]

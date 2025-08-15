@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.949473
+modified: 2025-08-15T16:41:41.949479
+aliases: [NPC01594 Fiora Proudmore the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Orion Goldleaf the Scholar (Personal - Childhood friend)|Orion Goldleaf the Scholar (Personal - Childhood friend)]]
+- [[#Baelor Zephyrblade the Cunning (Personal - Childhood friend)|Baelor Zephyrblade the Cunning (Personal - Childhood friend)]]
+- [[#Jorah Proudmore the Strong (Personal - Ex-lover)|Jorah Proudmore the Strong (Personal - Ex-lover)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Fiora Proudmore the Seeker", "fiora proudmore the seeker", "Fiora Proudmore Seeker", "Seeker the Proudmore Fiora"]
 tags: [npc, character]
@@ -148,6 +169,48 @@ Knows secret about major threat
 - Special moves
 
 ## See Also
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC01113_Solas_Ravenheart_the_Cunning]]
+- [[NPC01831_Alaric_Frostwhisper_the_Scholar]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[Character_Journals]]
+- [[Faction_Relationship_Web]]
+- [[Player_Portal.md]]
+- [[Depth_Adapted_Background.md]]
+- [[Wanted_Poster_Syndicate_Fenc]]
+- [[Welcome to Aquabyssos]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[13 Conditions]]
+- [[World_Primer.md]]
+- [[07 Customization Options]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[12 Spells]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[Depth_Adapted_Background]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[05 Personality and Background]]
+- [[NPC00259_Delara_Proudmore]]
+- [[MASTER_MOC]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[Parliament of Shadows Player Guide.md]]
 - [[Related_Content]]
 
 
@@ -157,9 +220,9 @@ Knows secret about major threat
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -269,3 +332,14 @@ Knows secret about major threat
 - Leads to [[SPELL00130_Arcane_Spell_131]]
 - Connects to [[Portrait NPC Captain Torren Stormwright Captain Torren Stormwright.svg]]
 - Influences [[Antitoxin Xphb]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

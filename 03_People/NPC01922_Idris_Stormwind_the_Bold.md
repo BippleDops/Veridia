@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Stormwind the Bold
 
 *Human Corrupt Noble (Villains), Age 63, Female*

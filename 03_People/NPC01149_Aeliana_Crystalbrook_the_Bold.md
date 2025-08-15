@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.174984
+modified: 2025-08-15T16:41:43.174989
+aliases: [NPC01149 Aeliana Crystalbrook the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Youngblood the Redeemed (Family - Spouse)|Wynne Youngblood the Redeemed (Family - Spouse)]]
+- [[#Brenna Jadeclaw the Seeker (Professional - Partner)|Brenna Jadeclaw the Seeker (Professional - Partner)]]
+- [[#Erasmus Crystalbrook the Guardian (Professional - Employee)|Erasmus Crystalbrook the Guardian (Professional - Employee)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Aeliana Crystalbrook the Bold", "aeliana crystalbrook the bold", "Aeliana Crystalbrook Bold", "Bold the Crystalbrook Aeliana"]
 tags: [npc, character]
@@ -155,9 +176,9 @@ Competitor sabotaging business
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -267,3 +288,14 @@ Competitor sabotaging business
 - Influences [[otyugh-xmm (aberration)]]
 - Compare with [[step_026 (phase_092)]]
 - Connects to [[Memory Eternal Keeper]]
+
+## Visual References
+![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

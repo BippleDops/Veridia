@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Zephyr Nightfall the Redeemed
 
 *Aasimar Blacksmith (Commoners), Age 68, Female*

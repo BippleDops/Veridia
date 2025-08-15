@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.958183
+modified: 2025-08-15T16:41:43.958186
+aliases: [NPC01470 Qadim Ashford the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Elric Blackstone the Lost (Professional - Mentor)|Elric Blackstone the Lost (Professional - Mentor)]]
+- [[#Vesper Underhill the Fallen (Professional - Partner)|Vesper Underhill the Fallen (Professional - Partner)]]
+- [[#Aldric Thornweave the Lost (Criminal - Accomplice)|Aldric Thornweave the Lost (Criminal - Accomplice)]]
+
+
+---
 aliases: ["Qadim Ashford the Swift", "qadim ashford the swift", "Qadim Ashford Swift", "Swift the Ashford Qadim"]
 tags: [npc, character]
 type: npc
@@ -250,3 +271,14 @@ Forming expedition to dangerous location
 - See also: [[LORE00329_Legends_Entry_330]]
 - Compare with [[MON00038_Undead_Creature_39]]
 - Parallels [[NPC01049_Jorah_Moonshadow_the_Scholar]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

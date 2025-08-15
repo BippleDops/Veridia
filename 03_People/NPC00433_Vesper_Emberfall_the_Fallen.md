@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Emberfall the Fallen
 
 *Dwarf Carpenter (Commoners), Age 47, Male*

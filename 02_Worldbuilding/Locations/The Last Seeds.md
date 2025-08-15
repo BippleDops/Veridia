@@ -288,3 +288,8 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]

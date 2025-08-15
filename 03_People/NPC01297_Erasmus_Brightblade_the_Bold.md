@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.754413
+modified: 2025-08-15T16:41:42.754417
+aliases: [NPC01297 Erasmus Brightblade the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Lyanna Proudmore the Swift (Political - Patron)|Lyanna Proudmore the Swift (Political - Patron)]]
+- [[#Solas Xendar the Seeker (Political - Opposition)|Solas Xendar the Seeker (Political - Opposition)]]
+- [[#Caelum Thornweave the Cunning (Professional - Partner)|Caelum Thornweave the Cunning (Professional - Partner)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Erasmus Brightblade the Bold", "erasmus brightblade the bold", "Erasmus Brightblade Bold", "Bold the Brightblade Erasmus"]
 tags: [npc, character]
@@ -143,20 +164,20 @@ Needs help with personal quest
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Player's Handbook (PHB) p.35
-- Monster Manual (MM) p.265
+- Adventurer's Codex (ACX) p.35
+- Bestiary Compendium (BC) p.265
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -164,8 +185,8 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -275,3 +296,14 @@ Following magic item guidelines (DMG p.135-136):
 - Originates from [[Diplomatic Tides]]
 - Influences [[cyclops-oracle-xmm (giant)]]
 - Related: [[Viscount Deeper-Still (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
+![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
+![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

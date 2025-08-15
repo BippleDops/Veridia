@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Rhiannon Voidwalker the Mystic
 
 *Half-Orc Appraiser (Merchants), Age 40, Female*

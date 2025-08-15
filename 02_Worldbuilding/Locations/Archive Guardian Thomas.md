@@ -161,3 +161,7 @@ Ongoing situations affecting Archive Guardian Thomas:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[The Silent Watcher 2]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Lyanna Thornweave the Wanderer
 
 *Halfling Carpenter (Commoners), Age 53, Non-binary*

@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Pressure Point S
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]

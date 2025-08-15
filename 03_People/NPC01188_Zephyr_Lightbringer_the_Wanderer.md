@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Zephyr Lightbringer the Wanderer
 
 *Aasimar Broker (Merchants), Age 49, Male*

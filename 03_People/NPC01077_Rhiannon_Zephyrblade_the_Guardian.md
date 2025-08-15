@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Rhiannon Zephyrblade the Guardian
 
 *Halfling Trader (Merchants), Age 25, Non-binary*

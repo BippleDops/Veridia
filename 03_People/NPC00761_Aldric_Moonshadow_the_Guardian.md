@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.008694
+modified: 2025-08-15T16:41:42.008697
+aliases: [NPC00761 Aldric Moonshadow the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Pyria Silverleaf the Guardian (Political - Ally)|Pyria Silverleaf the Guardian (Political - Ally)]]
+- [[#Felicia Brightblade the Mystic (Personal - Love interest)|Felicia Brightblade the Mystic (Personal - Love interest)]]
+- [[#Elric Ironforge the Guardian (Family - Sibling)|Elric Ironforge the Guardian (Family - Sibling)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Aldric Moonshadow the Guardian", "aldric moonshadow the guardian", "Aldric Moonshadow Guardian", "Guardian the Moonshadow Aldric"]
 tags: [npc, character]
@@ -140,6 +161,19 @@ Discovered something valuable
 - Special moves
 
 ## See Also
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[World_Primer.md]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[MOC_Lore]]
+- [[MOC_Items]]
+- [[09 Appendix a the Multiverse]]
 - [[Related_Content]]
 
 
@@ -149,8 +183,8 @@ Discovered something valuable
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -260,3 +294,14 @@ Discovered something valuable
 - Connects to [[step_091]]
 - Requires [[step_093]]
 - Requires [[step_069 (phase_045)]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
+![[03_People/portrait_duke_aldric_blackwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

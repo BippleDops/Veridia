@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Reality Anchorin
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00415_Gareth_Winterborn_the_Bold]]

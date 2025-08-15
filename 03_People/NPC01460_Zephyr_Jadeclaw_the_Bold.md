@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.311427
+modified: 2025-08-15T16:41:46.311431
+aliases: [NPC01460 Zephyr Jadeclaw the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Xander Underhill the Strong (Family - Sibling)|Xander Underhill the Strong (Family - Sibling)]]
+- [[#Hilda Frostwhisper the Swift (Professional - Partner)|Hilda Frostwhisper the Swift (Professional - Partner)]]
+- [[#Thalia Ironforge the Lost (Professional - Partner)|Thalia Ironforge the Lost (Professional - Partner)]]
+
+
+---
 aliases: ["Zephyr Jadeclaw the Bold", "zephyr jadeclaw the bold", "Zephyr Jadeclaw Bold", "Bold the Jadeclaw Zephyr"]
 tags: [npc, character]
 type: npc
@@ -251,3 +272,14 @@ Forming expedition to dangerous location
 - Influences [[Portrait NPC the Resonance Prophet V1 the Resonance Prophet.svg_1 (Portraits)]]
 - Related: [[Assets Locations Location City Inverse Palace Inverse Palace.svg]]
 - Parallels [[Map Map Pressure Maelstrom Edge Pressure Maelstrom Edge.svg]]
+
+## Visual References
+![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
+![[03_People/portrait_zephyr_goldwhisper_standard.png]]
+![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

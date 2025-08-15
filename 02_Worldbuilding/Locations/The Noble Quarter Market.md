@@ -210,3 +210,10 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]

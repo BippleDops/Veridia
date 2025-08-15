@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Alaric Grimholt the Scholar
 
 *Tiefling Appraiser (Merchants), Age 28, Non-binary*

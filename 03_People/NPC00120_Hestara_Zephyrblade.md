@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.358789
+modified: 2025-08-15T16:41:43.358792
+aliases: [NPC00120 Hestara Zephyrblade]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Idris Keenblade the Broken (Political - Opposition)|Idris Keenblade the Broken (Political - Opposition)]]
+- [[#Urien Nightfall the Fallen (Criminal - Handler)|Urien Nightfall the Fallen (Criminal - Handler)]]
+- [[#Cedric Emberfall (Criminal - Handler)|Cedric Emberfall (Criminal - Handler)]]
+
+
+---
 aliases: ["Hestara Zephyrblade", "hestara zephyrblade", "Zephyrblade Hestara"]
 tags: [npc, character]
 type: npc
@@ -247,3 +272,8 @@ Requires champions for trial by combat
 - Requires [[Fort Nautilus 2]]
 - Leads to [[Location City Registrar Cornelius Scrollkeeper V1 Registrar Cornelius Scrollkeeper.svg]]
 - Affected by [[QUEST0055_The_Forbidden_Artifact]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.379796
+modified: 2025-08-15T16:41:42.379799
+aliases: [NPC00543 Orion Ironwood the Risen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Caelum Winterborn the Swift (Political - Ally)|Caelum Winterborn the Swift (Political - Ally)]]
+- [[#Faelyn Keenblade the Cunning (Personal - Childhood friend)|Faelyn Keenblade the Cunning (Personal - Childhood friend)]]
+- [[#Gareth Silverleaf the Seeker (Family - Cousin)|Gareth Silverleaf the Seeker (Family - Cousin)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Orion Ironwood the Risen", "orion ironwood the risen", "Orion Ironwood Risen", "Risen the Ironwood Orion"]
 tags: [npc, character]
@@ -147,8 +168,8 @@ Witnessed a crime
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -258,3 +279,14 @@ Witnessed a crime
 - Parallels [[Assets Locations Location City Temple Clergy Temple Clergy.svg]]
 - See also: [[QUEST00005_Main_Quest_6]]
 - Influences [[The Cipher Current]]
+
+## Visual References
+![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
+![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
+![[03_People/portrait_commander_thrace_ironwood.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

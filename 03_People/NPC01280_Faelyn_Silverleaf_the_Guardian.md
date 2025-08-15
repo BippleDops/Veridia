@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Faelyn Silverleaf the Guardian
 
 *Firbolg Rogue (Adventurers), Age 49, Female*

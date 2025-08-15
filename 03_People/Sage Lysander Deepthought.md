@@ -24,6 +24,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_sage_lysander_deepthought_friendly.png]]
+
+
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Aldric Zephyrblade the Guardian
 
 *Firbolg Fighter (Adventurers), Age 40, Non-binary*

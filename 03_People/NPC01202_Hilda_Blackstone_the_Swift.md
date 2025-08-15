@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hilda Blackstone the Swift
 
 *Dwarf Fighter (Adventurers), Age 45, Female*

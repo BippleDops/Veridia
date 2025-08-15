@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.830720
+modified: 2025-08-15T16:41:43.830723
+aliases: [NPC01857 Wynne Crystalbrook the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Brenna Frostwhisper the Redeemed (Family - Spouse)|Brenna Frostwhisper the Redeemed (Family - Spouse)]]
+- [[#Kaelen Blackstone the Cunning (Personal - Best friend)|Kaelen Blackstone the Cunning (Personal - Best friend)]]
+- [[#Gavril Youngblood the Guardian (Professional - Rival)|Gavril Youngblood the Guardian (Professional - Rival)]]
+
+
+---
 aliases: ["Wynne Crystalbrook the Mystic", "wynne crystalbrook the mystic", "Wynne Crystalbrook Mystic", "Mystic the Crystalbrook Wynne"]
 tags: [npc, character]
 type: npc
@@ -248,3 +269,14 @@ Is secretly testing the party
 - Requires [[step_036 (phase_018)]]
 - Parallels [[Boon of Planar Travel]]
 - Originates from [[LOC00291_Dungeons_Location_292]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

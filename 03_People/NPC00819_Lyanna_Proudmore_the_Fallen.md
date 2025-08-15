@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.317020
+modified: 2025-08-15T16:41:44.317022
+aliases: [NPC00819 Lyanna Proudmore the Fallen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Delara Silverleaf the Fallen (Professional - Employer)|Delara Silverleaf the Fallen (Professional - Employer)]]
+- [[#Urien Goldleaf the Swift (Family - Spouse)|Urien Goldleaf the Swift (Family - Spouse)]]
+- [[#Pyria Grimholt the Wise (Family - Parent)|Pyria Grimholt the Wise (Family - Parent)]]
+
+
+---
 aliases: ["Lyanna Proudmore the Fallen", "lyanna proudmore the fallen", "Lyanna Proudmore Fallen", "Fallen the Proudmore Lyanna"]
 tags: [npc, character]
 type: npc
@@ -252,3 +273,14 @@ Caravan needs guards
 - Requires [[step_032 (phase_075)]]
 - Requires [[Elven Alobal Lorfiril Mtf]]
 - Originates from [[LORE00105_History_Entry_106]]
+
+## Visual References
+![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
+![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
+![[03_People/portrait_captain_lyanna_brightshield.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -340,3 +340,7 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]

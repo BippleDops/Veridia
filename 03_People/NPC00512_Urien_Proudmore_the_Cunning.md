@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Urien Proudmore the Cunning
 
 *Tabaxi Baker (Commoners), Age 63, Male*

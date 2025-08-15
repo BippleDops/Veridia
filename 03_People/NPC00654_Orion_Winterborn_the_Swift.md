@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Orion Winterborn the Swift
 
 *Aasimar Blacksmith (Commoners), Age 43, Non-binary*

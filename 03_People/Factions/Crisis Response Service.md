@@ -24,6 +24,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_symbols_symbol_heraldry_crisis_response_service_crisis_response_service_svg_friendly.png]]
+
+
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-crisis-response-service-crisis-response-service.svg)
 

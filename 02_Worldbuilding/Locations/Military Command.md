@@ -285,3 +285,15 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00393_Kaelen_Grimholt]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]

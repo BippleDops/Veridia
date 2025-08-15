@@ -19,6 +19,10 @@ updated: '2025-08-13T12:34:17.309668+00:00'
 world: Both
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 
 
 

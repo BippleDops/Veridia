@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.995124
+modified: 2025-08-15T16:41:41.995128
+aliases: [NPC00451 Malakai Ravenheart the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Proudmore the Wise (Personal - Ex-lover)|Ysara Proudmore the Wise (Personal - Ex-lover)]]
+- [[#Alaric Proudmore the Risen (Family - Spouse)|Alaric Proudmore the Risen (Family - Spouse)]]
+- [[#Xander Stormwind (Personal - Ex-lover)|Xander Stormwind (Personal - Ex-lover)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Malakai Ravenheart the Broken", "malakai ravenheart the broken", "Malakai Ravenheart Broken", "Broken the Ravenheart Malakai"]
 tags: [npc, character]
@@ -143,6 +168,22 @@ Being extorted by criminals
 - Special moves
 
 ## See Also
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[MOC_Items]]
+- [[09 Adventuring]]
 - [[Related_Content]]
 
 
@@ -152,8 +193,8 @@ Being extorted by criminals
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -263,3 +304,8 @@ Being extorted by criminals
 - Affected by [[ENC00133_Environmental_Encounter_134]]
 - Related: [[Customs House (Lore)]]
 - Influences [[step_016 (phase_022)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

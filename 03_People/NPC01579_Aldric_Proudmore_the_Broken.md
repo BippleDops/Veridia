@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Aldric Proudmore the Broken
 
 *Half-Orc Rogue (Adventurers), Age 77, Non-binary*

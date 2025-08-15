@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Brenna Ironwood the Broken
 
 *Firbolg Caravan Master (Merchants), Age 47, Non-binary*

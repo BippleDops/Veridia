@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.254116
+modified: 2025-08-15T16:41:43.254120
+aliases: [NPC01395 Cedric Hawthorne the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Brightblade the Lost (Professional - Rival)|Ysara Brightblade the Lost (Professional - Rival)]]
+- [[#Baelor Nightfall the Broken (Personal - Love interest)|Baelor Nightfall the Broken (Personal - Love interest)]]
+- [[#Fiora Emberfall the Swift (Professional - Partner)|Fiora Emberfall the Swift (Professional - Partner)]]
+
+
+---
 aliases: ["Cedric Hawthorne the Fallen", "cedric hawthorne the fallen", "Cedric Hawthorne Fallen", "Fallen the Hawthorne Cedric"]
 tags: [npc, character]
 type: npc
@@ -248,3 +273,8 @@ Has information about legendary item
 - Influences [[Ioun Stone Protection Xdmg]]
 - Related: [[NPC00746_Gavril_Winterborn_the_Risen]]
 - Influences [[Void Suits]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

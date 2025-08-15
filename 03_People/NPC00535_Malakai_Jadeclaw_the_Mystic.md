@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.822934
+modified: 2025-08-15T16:41:43.822937
+aliases: [NPC00535 Malakai Jadeclaw the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Elric Stormwind the Wise (Family - Sibling)|Elric Stormwind the Wise (Family - Sibling)]]
+- [[#Fiora Lightbringer the Guardian (Professional - Partner)|Fiora Lightbringer the Guardian (Professional - Partner)]]
+- [[#Felicia Darkwater the Fallen (Political - Opposition)|Felicia Darkwater the Fallen (Political - Opposition)]]
+
+
+---
 aliases: ["Malakai Jadeclaw the Mystic", "malakai jadeclaw the mystic", "Malakai Jadeclaw Mystic", "Mystic the Jadeclaw Malakai"]
 tags: [npc, character]
 type: npc
@@ -250,3 +271,14 @@ Family member has gone missing
 - Originates from [[Aquabyssos_Content (02_Worldbuilding)]]
 - Influences [[Location City Pearl Sharpedge V1 Pearl Sharpedge.svg]]
 - Originates from [[Norse Tyr]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

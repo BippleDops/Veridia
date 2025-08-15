@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Coral Throne Syn
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]

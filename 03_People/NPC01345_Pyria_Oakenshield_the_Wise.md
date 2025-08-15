@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.195352
+modified: 2025-08-15T16:41:43.195356
+aliases: [NPC01345 Pyria Oakenshield the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Lyanna Proudmore the Lost (Political - Spy)|Lyanna Proudmore the Lost (Political - Spy)]]
+- [[#Delara Ironforge the Swift (Personal - Nemesis)|Delara Ironforge the Swift (Personal - Nemesis)]]
+- [[#Pyria Darkwater the Risen (Political - Ally)|Pyria Darkwater the Risen (Political - Ally)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Pyria Oakenshield the Wise", "pyria oakenshield the wise", "Pyria Oakenshield Wise", "Wise the Oakenshield Pyria"]
 tags: [npc, character]
@@ -144,22 +165,22 @@ Forming expedition to dangerous location
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Player's Handbook (PHB) p.169
-- Dungeon Master's Guide (DMG) p.114
-- Tasha's Cauldron of Everything (TCE) p.202
-- Mordenkainen's Tome of Foes (MTF) p.98
+- Adventurer's Codex (ACX) p.169
+- Worldweaver's Tome (WWT) p.114
+- Tasha's Mystical Formulae of Everything (TMF) p.202
+- Mordenkainen's Forbidden Knowledge of Foes (MFK) p.98
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -167,8 +188,8 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -278,3 +299,14 @@ Following magic item guidelines (DMG p.135-136):
 - Related: [[step_002 (phase_078)]]
 - Leads to [[LOC00027_Dungeons_Location_28]]
 - Influences [[ITEM01269_Pure_Crystal_of_Fortune]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Malakai Jadeclaw the Fallen
 
 *Half-Elf Farmer (Commoners), Age 75, Non-binary*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aeliana Ashford the Fallen
 
 *Dragonborn Trader (Merchants), Age 20, Male*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.874526
+modified: 2025-08-15T16:41:42.874530
+aliases: [NPC00710 Corvus Quicksilver the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ewan Oakenshield the Scholar (Political - Opposition)|Ewan Oakenshield the Scholar (Political - Opposition)]]
+- [[#Baelor Voidwalker the Redeemed (Professional - Mentor)|Baelor Voidwalker the Redeemed (Professional - Mentor)]]
+- [[#Qadim Proudmore the Swift (Criminal - Informant)|Qadim Proudmore the Swift (Criminal - Informant)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Corvus Quicksilver the Scholar", "corvus quicksilver the scholar", "Corvus Quicksilver Scholar", "Scholar the Quicksilver Corvus"]
 tags: [npc, character]
@@ -155,10 +176,10 @@ Being extorted by criminals
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -268,3 +289,14 @@ Being extorted by criminals
 - Affected by [[School of Magic Schools of Magic Xphb]]
 - Originates from [[antimagic-field-xphb (spells)]]
 - Leads to [[Location City Crystal Singers V1 Crystal Singers.svg]]
+
+## Visual References
+![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

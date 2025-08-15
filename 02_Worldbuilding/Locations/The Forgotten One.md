@@ -592,3 +592,8 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]

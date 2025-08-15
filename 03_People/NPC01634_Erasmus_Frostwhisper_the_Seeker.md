@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Erasmus Frostwhisper the Seeker
 
 *Tiefling Assassin (Villains), Age 34, Female*

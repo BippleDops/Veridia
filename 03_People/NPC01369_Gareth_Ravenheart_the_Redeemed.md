@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Gareth Ravenheart the Redeemed
 
 *Half-Orc Fighter (Adventurers), Age 21, Female*

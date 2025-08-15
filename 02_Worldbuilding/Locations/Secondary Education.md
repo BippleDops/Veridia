@@ -243,3 +243,9 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00922_Wynne_Youngblood_the_Fallen]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]

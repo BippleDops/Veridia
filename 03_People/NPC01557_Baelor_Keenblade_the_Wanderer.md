@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Baelor Keenblade the Wanderer
 
 *Aasimar Ranger (Adventurers), Age 69, Non-binary*

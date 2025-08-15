@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.164114
+modified: 2025-08-15T16:41:46.164117
+aliases: [NPC01747 Zephyr Goldleaf the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Jorah Moonshadow the Cunning (Political - Opposition)|Jorah Moonshadow the Cunning (Political - Opposition)]]
+- [[#Nerys Oakenshield the Wise (Political - Opposition)|Nerys Oakenshield the Wise (Political - Opposition)]]
+- [[#Orion Brightblade the Fallen (Family - Cousin)|Orion Brightblade the Fallen (Family - Cousin)]]
+
+
+---
 aliases: ["Zephyr Goldleaf the Swift", "zephyr goldleaf the swift", "Zephyr Goldleaf Swift", "Swift the Goldleaf Zephyr"]
 tags: [npc, character]
 type: npc
@@ -251,3 +272,14 @@ Blackmails party into service
 - Connects to [[Location City Supplier Erikson Tidecaller V1 Supplier Erikson Tidecaller.svg]]
 - Influences [[Portrait NPC Fence Queen Sticky Fingers Sal Fence Queen Sticky Fingers Sal.svg_1 (Portraits)]]
 - See also: [[Portrait NPC High Priestess Nerida Soulcurrent V1 High Priestess Nerida Soulcurrent.svg]]
+
+## Visual References
+![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
+![[03_People/portrait_zephyr_goldwhisper_standard.png]]
+![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

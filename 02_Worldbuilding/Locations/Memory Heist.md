@@ -169,3 +169,8 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Archdruid Thornweaver]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]

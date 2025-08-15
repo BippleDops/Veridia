@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Temporal Con
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00272_Rhiannon_Brightblade]]

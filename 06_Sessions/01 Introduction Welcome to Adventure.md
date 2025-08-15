@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T16:41:31.877808
+modified: 2025-08-15T16:41:31.877812
+aliases: [01 Introduction Welcome to Adventure]
+---
+
+## Table of Contents
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Timeline|Timeline]]
+- [[#NPCs Involved|NPCs Involved]]
+- [[#Locations|Locations]]
+- [[#Complications|Complications]]
+- [[#Alternative Solutions|Alternative Solutions]]
+- [[#Prep Checklist|Prep Checklist]]
+- [[#Npcs Needed|Npcs Needed]]
+- [[#Locations|Locations]]
+
+
+---
 
 title: 01 Introduction Welcome to Adventure
 type: note
@@ -15,7 +36,8 @@ This document contains important information regarding 01 Introduction Welcome t
 
 01 Introduction Welcome to Adventure represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
 
-- **Primary Purpose**: Serves specific function within the world
+- **Primary Purpos
+*The air carries the scent of [appropriate smell].*e**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details
 
@@ -99,6 +121,41 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 Holds a clue about the ancient prophecy
 
 ## See Also
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[Player_Feedback_Form.md]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[Character_Journals]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[Downtime_Activities]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[11 Spellcasting]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[Faction_Guide.md]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[Quest - The Royal Treatment_1 (01_Adventures)]]
+- [[Party_Quests]]
+- [[MASTER_NAVIGATION]]
+- [[MOC_Rules]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[MASTER_MOC]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
 - [[Related_Content]]
 
 
@@ -111,17 +168,17 @@ Holds a clue about the ancient prophecy
 - [[ULTIMATE_ASSET_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

@@ -259,3 +259,9 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC00763_Urien_Brightblade_the_Broken]]

@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:18.606786
+modified: 2025-08-15T16:41:18.606788
+aliases: [optimization report 20250814 180706]
+---
+
+## Table of Contents
+- [[#Session Prep|Session Prep]]
+- [[#Visual References|Visual References]]
+- [[#See Also|See Also]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+
+
+---
 enhanced: trtags: [enhanced, 13_performance, combat, exploration, lore]ce]
 created: 2025-08-15T12:24:41.009515
 modified: 2025-08-15T12:24:41.009519
@@ -38,6 +55,7 @@ modified: '2025-01-15'
 - **Added ## Relationships**: 2,020 times - **Added ## Plot Hooks**: 1,988 times - **Added ## Appearance**: 1,977 times - **Added ## Background**: 1,947 times - **Added ## Abilities**: 1,820 times - **Added ## Current Activities**: 1,820 times - **Added overview**: 1,695 times
 - **Added ## Personality**: 1,528 times - **Added ## DM Notes**: 1,392 times - **Added ## Description**: 1,241 times - **Enhanced personality**: 713 times
 - **Added ## Operations**: 521 times - **Added ## Members**: 509 times - **Added ## Resources**: 503 times - **Added ## Goals**: 350 times - **Add
+*The air carries the scent of [appropriate smell].*
 *The air carries the scent of [appropriate smell].*ed ## Overview**: 318 times - **Added ## Structure**: 297 times - **Added mechanics**: 163 times
 - **Added ## Locations**: 141 times - **Added ## Encounters**: 141 times - **Added ## Treasures**: 141 times - **Added ## Scaling Notes**: 141 times - **Added ## Synopsis**: 140 times - **Added properties**: 139 times
 - **Added usage guide**: 58 times
@@ -116,17 +134,17 @@ modified: '2025-01-15'
 - [[ULTIMATE_ASSET_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*

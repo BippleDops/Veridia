@@ -587,3 +587,10 @@ Ironhold was established in the distant past, growing from humble beginnings to 
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]

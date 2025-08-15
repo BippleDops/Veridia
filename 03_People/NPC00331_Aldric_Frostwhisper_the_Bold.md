@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.981697
+modified: 2025-08-15T16:41:47.981699
+aliases: [NPC00331 Aldric Frostwhisper the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Delara Voidwalker the Swift (Family - Child)|Delara Voidwalker the Swift (Family - Child)]]
+- [[#Branwen Oakenshield the Guardian (Political - Opposition)|Branwen Oakenshield the Guardian (Political - Opposition)]]
+- [[#Caelum Voidwalker (Political - Ally)|Caelum Voidwalker (Political - Ally)]]
+
+
+---
 aliases: ["Aldric Frostwhisper the Bold", "aldric frostwhisper the bold", "Aldric Frostwhisper Bold", "Bold the Frostwhisper Aldric"]
 tags: [npc, character]
 type: npc
@@ -144,3 +165,15 @@ Seeks bodyguards for dangerous journey
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
+![[03_People/portrait_duke_aldric_blackwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

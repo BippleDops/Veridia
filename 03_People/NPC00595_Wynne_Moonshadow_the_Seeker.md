@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.707885
+modified: 2025-08-15T16:41:42.707888
+aliases: [NPC00595 Wynne Moonshadow the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Rhiannon Ashford the Seeker (Criminal - Informant)|Rhiannon Ashford the Seeker (Criminal - Informant)]]
+- [[#Ewan Nightfall the Fallen (Professional - Partner)|Ewan Nightfall the Fallen (Professional - Partner)]]
+- [[#Jorah Grimholt the Swift (Personal - Childhood friend)|Jorah Grimholt the Swift (Personal - Childhood friend)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Wynne Moonshadow the Seeker", "wynne moonshadow the seeker", "Wynne Moonshadow Seeker", "Seeker the Moonshadow Wynne"]
 tags: [npc, character]
@@ -143,10 +164,10 @@ Family member has gone missing
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -256,3 +277,14 @@ Family member has gone missing
 - Compare with [[bullseye-lantern-xphb (items)]]
 - Originates from [[Commander Darkwater 2]]
 - Requires [[ITEM01299_Distilled_Potion_of_Swiftness]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

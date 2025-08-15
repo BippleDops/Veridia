@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Hilda Brightblade the Wanderer
 
 *Aasimar Caravan Master (Merchants), Age 65, Non-binary*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.588330
+modified: 2025-08-15T16:41:42.588334
+aliases: [NPC00706 Ewan Voidwalker the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Cedric Blackstone the Wanderer (Criminal - Target)|Cedric Blackstone the Wanderer (Criminal - Target)]]
+- [[#Dara Lightbringer the Fallen (Family - Cousin)|Dara Lightbringer the Fallen (Family - Cousin)]]
+- [[#Pyria Emberfall the Mystic (Political - Patron)|Pyria Emberfall the Mystic (Political - Patron)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Ewan Voidwalker the Wise", "ewan voidwalker the wise", "Ewan Voidwalker Wise", "Wise the Voidwalker Ewan"]
 tags: [npc, character]
@@ -149,8 +170,8 @@ Witnessed a crime
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -260,3 +281,14 @@ Witnessed a crime
 - Influences [[step_005 (phase_089)]]
 - Parallels [[NPC0123_Dara_Darkwater]]
 - Compare with [[step_009]]
+
+## Visual References
+![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
+![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
+![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

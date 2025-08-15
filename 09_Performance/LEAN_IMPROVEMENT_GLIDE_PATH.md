@@ -1,4 +1,22 @@
 ---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:26.087477
+modified: 2025-08-15T16:41:26.087484
+aliases: [LEAN IMPROVEMENT GLIDE PATH]
+---
+
+## Table of Contents
+- [[#Thematic Elements|Thematic Elements]]
+- [[#Visual References|Visual References]]
+- [[#See Also|See Also]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
+---
 enhanced: trtags: [enhanced, 09_performance, combat, exploration, puzzle, lore]ce]
 created: 2025-08-15T12:24:36.151422
 modified: 2025-08-15T12:24:36.151424
@@ -25,6 +43,7 @@ publish: false --- # 1000 Lean Improvements Glide Path Generated: ${new Date().t
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 - ✅ Fix broken wiki links by creating stub placeholders
 - ✅ Create bidirectional links with backli
+*The [texture] surface feels [description] to the touch.*
 *Sounds of [relevant sounds] echo in the distance.*nk sections
 - ✅ Link related content (NPCs to locations, etc.)
 - ✅ Add link preview sections to hub pages **Status**: In Progress - Creating stub placeholders for missing links ### Phase 2: Metadata Enhancement (200 improvements) - 🔄 Add missing tags to all content files
@@ -84,28 +103,28 @@ This content explores themes of loyalty, adding narrative depth to your campaign
 
 
 ## Related Content
-- [[FINAL_1000_IMPROVEMENTS_SUMMARY]]
+- [[FINAL_1000_IMPROVEMENTS_SUBCARY]]
 - [[frontmatter_fix_20250814_175706]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Combat**: See PHB p.189-198
+- **Ability Checks**: See ACX p.174
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

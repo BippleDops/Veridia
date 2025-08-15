@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.143293
+modified: 2025-08-15T16:41:48.143296
+aliases: [The Great Trade Routes]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_the_great_trade_routes_friendly.png]]
+
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Relationships|Relationships]]
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Sensory Improvements|Sensory Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+
+
+---
 
 title: The Great Trade Routes
 type: Npc
@@ -268,4 +293,4 @@ ___
 - Retreats when below 25% health
 
 ## Sourcebook Reference
-> Based on **Commoner** (MM p.345) with modifications
+> Based on **Commoner** (BC p.345) with modifications

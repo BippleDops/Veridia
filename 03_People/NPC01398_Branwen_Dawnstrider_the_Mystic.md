@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.447330
+modified: 2025-08-15T16:41:45.447335
+aliases: [NPC01398 Branwen Dawnstrider the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Jadeclaw the Wise (Family - Parent)|Thalia Jadeclaw the Wise (Family - Parent)]]
+- [[#Corvus Grimholt the Wanderer (Family - Sibling)|Corvus Grimholt the Wanderer (Family - Sibling)]]
+- [[#Felicia Ashford the Scholar (Political - Patron)|Felicia Ashford the Scholar (Political - Patron)]]
+
+
+---
 aliases: ["Branwen Dawnstrider the Mystic", "branwen dawnstrider the mystic", "Branwen Dawnstrider Mystic", "Mystic the Dawnstrider Branwen"]
 tags: [npc, character]
 type: npc
@@ -251,3 +272,14 @@ Forming expedition to dangerous location
 - Leads to [[step_034]]
 - Compare with [[Teacher-Administrator Shadowlearn 2]]
 - Compare with [[step_080]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

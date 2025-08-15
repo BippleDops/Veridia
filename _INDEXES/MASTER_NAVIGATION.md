@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, _indexes]
+created: 2025-08-15T16:41:31.834082
+modified: 2025-08-15T16:41:31.834089
+aliases: [MASTER NAVIGATION]
+---
+
+## Table of Contents
+- [[#✅ Reorganization Complete|✅ Reorganization Complete]]
+- [[#📊 Statistics|📊 Statistics]]
+- [[#📁 Directory Structure|📁 Directory Structure]]
+- [[#🎮 [[Adventures]]|🎮 [[Adventures]]]]
+- [[#🌍 [[World]]|🌍 [[World]]]]
+- [[#📖 [[Rules]]|📖 [[Rules]]]]
+- [[#🎨 [[Resources]]|🎨 [[Resources]]]]
+- [[#👥 [[Characters]]|👥 [[Characters]]]]
+- [[#⚙️ [[System]]|⚙️ [[System]]]]
+- [[#📦 [[Archive]]|📦 [[Archive]]]]
+
+
 -tags: [index, navigation, master, flattened, combat, magic, exploration, lore]ed]
 created: 2025-08-15
 ---
@@ -201,24 +222,50 @@ FROM "02_Worldbuilding"
 WHERE contains(file.name, "Location") OR contains(tags, "location")
 ```
 ## See Also
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[Archdruid Thornweaver]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC00129_Gareth_Jadeclaw]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[11 Spellcasting]]
+- [[NPC00162_Xander_Thornweave]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[MASTER_MOC]]
+- [[Master_Narrative_Web.md]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Player's Handbook (PHB) p.76
+- Adventurer's Codex (ACX) p.76
 
 ## Related Content
 - [[10K_GENERATION_REPORT]]
@@ -226,23 +273,23 @@ Following magic item guidelines (DMG p.135-136):
 - [[NEXT_LEVEL_IMPROVEMENTS]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -346,3 +393,8 @@ Following magic item guidelines (DMG p.135-136):
 - Originates from [[MON00023_Aberrations_Creature_24]]
 - Affected by [[ENC00384_Combat_Encounter_385]]
 - Parallels [[QUEST00043_Side_Quest_44]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_quartermaster_sterling_suppystone_quartermaster_sterling_suppystone_svg_friendly.png]]
+![[03_People/token_00_indexes_master_index_medium_normal.png]]
+![[03_People/portrait_assets_locations_location_city_deep_current_flowmaster_deep_current_flowmaster_svg_standard.png]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Pyria Xendar the Seeker
 
 *Dragonborn Aristocrat (Nobles), Age 26, Female*

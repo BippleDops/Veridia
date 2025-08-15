@@ -269,3 +269,7 @@ Ongoing situations affecting The Pearl Markets:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00351_Corvus_Ironwood]]

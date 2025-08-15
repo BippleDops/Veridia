@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Rhiannon Proudmore the Scholar
 
 *Halfling Bard (Adventurers), Age 46, Non-binary*

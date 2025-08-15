@@ -239,3 +239,8 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC01286_Xander_Proudmore_the_Bold]]

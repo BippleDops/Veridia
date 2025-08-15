@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ewan Grimholt the Lost
 
 *Tiefling Baker (Commoners), Age 27, Female*

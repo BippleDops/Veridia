@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Corvus Underhill the Lost
 
 *Halfling Crime Boss (Villains), Age 30, Male*

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.327002
+modified: 2025-08-15T16:41:42.327006
+aliases: [NPC01702 Vesper Winterborn the Cunning]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Rhiannon Stormwind the Wanderer (Family - Child)|Rhiannon Stormwind the Wanderer (Family - Child)]]
+- [[#Idris Keenblade the Bold (Criminal - Target)|Idris Keenblade the Bold (Criminal - Target)]]
+- [[#Idris Ravenheart the Scholar (Personal - Best friend)|Idris Ravenheart the Scholar (Personal - Best friend)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Vesper Winterborn the Cunning", "vesper winterborn the cunning", "Vesper Winterborn Cunning", "Cunning the Winterborn Vesper"]
 tags: [npc, character]
@@ -148,9 +173,9 @@ Provides information for a price
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -260,3 +285,8 @@ Provides information for a price
 - Requires [[step_044 (phase_073)]]
 - Affected by [[The Cleaner (D&D_References)]]
 - Parallels [[Campaign_Tracker]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

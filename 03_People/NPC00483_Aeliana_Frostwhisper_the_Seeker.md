@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aeliana Frostwhisper the Seeker
 
 *Tabaxi Blacksmith (Commoners), Age 59, Non-binary*

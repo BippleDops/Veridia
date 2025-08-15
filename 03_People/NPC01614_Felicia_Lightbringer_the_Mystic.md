@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Felicia Lightbringer the Mystic
 
 *Tiefling Assassin (Villains), Age 42, Female*

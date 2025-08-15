@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Gavril Voidwalker
 
 *Aasimar Courtier (Nobles), Age 38, Non-binary*

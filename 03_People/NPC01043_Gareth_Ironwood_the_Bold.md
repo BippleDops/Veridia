@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.850517
+modified: 2025-08-15T16:41:42.850521
+aliases: [NPC01043 Gareth Ironwood the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hilda Ironwood the Risen (Personal - Childhood friend)|Hilda Ironwood the Risen (Personal - Childhood friend)]]
+- [[#Ysara Silverleaf the Strong (Political - Spy)|Ysara Silverleaf the Strong (Political - Spy)]]
+- [[#Wynne Stormwind the Broken (Political - Opposition)|Wynne Stormwind the Broken (Political - Opposition)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Gareth Ironwood the Bold", "gareth ironwood the bold", "Gareth Ironwood Bold", "Bold the Ironwood Gareth"]
 tags: [npc, character]
@@ -149,9 +170,9 @@ Caravan needs guards
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -261,3 +282,14 @@ Caravan needs guards
 - Influences [[step_013 (phase_051)]]
 - Affected by [[ITEM01170_Greater_Salve_of_Fortune]]
 - Originates from [[step_087 (phase_084)]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
+![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

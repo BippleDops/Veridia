@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.118403
+modified: 2025-08-15T16:41:46.118408
+aliases: [NPC00326 Qadim Lightbringer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Elric Goldleaf (Political - Puppet)|Elric Goldleaf (Political - Puppet)]]
+- [[#Caelum Voidwalker the Fallen (Professional - Rival)|Caelum Voidwalker the Fallen (Professional - Rival)]]
+- [[#Aldric Youngblood (Family - Parent)|Aldric Youngblood (Family - Parent)]]
+
+
+---
 aliases: ["Qadim Lightbringer", "qadim lightbringer", "Lightbringer Qadim"]
 tags: [npc, character]
 type: npc
@@ -248,3 +269,14 @@ Needs discrete help with family scandal
 - Connects to [[step_019 (phase_007)]]
 - See also: [[Crisis Response Service (D&D_References)]]
 - Requires [[Memory Verification Devices]]
+
+## Visual References
+![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

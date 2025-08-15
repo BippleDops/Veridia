@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hestara Zephyrblade the Wanderer
 
 *Tiefling Fisher (Commoners), Age 70, Male*

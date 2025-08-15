@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.990798
+modified: 2025-08-15T16:41:47.990799
+aliases: [Assets Art Brother Matthias Inkdrinker.png]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_art_brother_matthias_inkdrinker_png_standard.png]]
+
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Diaspora Improvements|Diaspora Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+- [[#Sensory Improvements|Sensory Improvements]]
+
+
+---
 
 title: Assets Art Brother Matthias Inkdrinker.png
 aliases:

@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:34.171107
+modified: 2025-08-15T16:41:34.171115
+aliases: [Faction Guide.md 1 (07 Player Resources)]
+---
+
+## Table of Contents
+- [[#Session Prep|Session Prep]]
+- [[#Visual References|Visual References]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
+---
 enhanced: trtags: [enhanced, 07_player_resources, combat, magic, exploration, lore]es]
 created: 2025-08-15T12:24:41.139490
 modified: 2025-08-15T12:24:41.139495
@@ -25,6 +42,7 @@ improvements: 20
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections 
+*The [texture] surface feels [description] to the touch.*
 *The [texture] surface feels [description] to the touch.*to overarching campaign themes ## Plot Hooks - A shipment has gone missing and chaos spreads - Someone is searching for a witness for love ## Historical Timeline ### The Age of Founding (1000 years ago) - The First Settlement
 - Discovery of magical crystals
 - War with indigenous peoples ### The Golden Era (500 years ago) - Economic prosperity
@@ -43,7 +61,46 @@ improvements: 20
 - 6am: Begin labor
 - Noon: Simple meal
 - 6pm: Return home
-- 8pm: Sleep ## See Also - Related content
+- 8pm: Sleep ## See Also
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC00649_Corvus_Zephyrblade_the_Broken]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[Faction_Relationship_Web]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[Archdruid Thornweaver]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC00046_Urien_Ironwood_the_Wise]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC01625_Qadim_Lightbringer_the_Swift]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[Sage Elara]]
+- [[NPC01831_Alaric_Frostwhisper_the_Scholar]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[Character_Journals]]
+- [[Reference.md]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[Reputation_Tracker]]
+- [[03 Races]]
+- [[Combat_Encounter_Analysis]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[07 Customization Options]]
+- [[Session_Recaps]]
+- [[08 Using Ability Scores]]
+- [[11 Rules Glossary]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC00058_Elric_Nightfall]]
+- [[MOC_Items]] - Related content
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
@@ -92,24 +149,24 @@ publish: false --- -|--------|
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

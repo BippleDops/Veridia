@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aeliana Voidwalker the Seeker
 
 *Half-Elf Baker (Commoners), Age 49, Non-binary*

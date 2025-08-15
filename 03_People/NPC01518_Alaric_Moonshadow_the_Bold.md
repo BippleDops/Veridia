@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Alaric Moonshadow the Bold
 
 *Dragonborn Rogue (Adventurers), Age 56, Male*

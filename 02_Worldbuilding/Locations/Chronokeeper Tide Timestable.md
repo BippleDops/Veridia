@@ -227,3 +227,7 @@ Ongoing situations affecting Chronokeeper Tide Timestable:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00388_Ysara_Goldleaf]]

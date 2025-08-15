@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.282831
+modified: 2025-08-15T16:41:43.282837
+aliases: [NPC00273 Gavril Youngblood the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ewan Brightblade (Criminal - Target)|Ewan Brightblade (Criminal - Target)]]
+- [[#Fiora Darkwater the Lost (Political - Patron)|Fiora Darkwater the Lost (Political - Patron)]]
+- [[#Gareth Blackstone the Mystic (Political - Patron)|Gareth Blackstone the Mystic (Political - Patron)]]
+
+
+---
 aliases: ["Gavril Youngblood the Bold", "gavril youngblood the bold", "Gavril Youngblood Bold", "Bold the Youngblood Gavril"]
 tags: [npc, character]
 type: npc
@@ -251,3 +272,14 @@ Seeks bodyguards for dangerous journey
 - Affected by [[04_Resources_Assets_Locations_location-city-master-chef-coral-seasweaver-master-chef-coral-seasweaver.svg]]
 - Parallels [[The Final Choice (D&D_References)]]
 - Originates from [[step_067 (phase_081)]]
+
+## Visual References
+![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

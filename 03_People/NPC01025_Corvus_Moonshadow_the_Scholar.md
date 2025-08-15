@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Corvus Moonshadow the Scholar
 
 *Dragonborn Appraiser (Merchants), Age 49, Non-binary*

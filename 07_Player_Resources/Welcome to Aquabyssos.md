@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:33.957419
+modified: 2025-08-15T16:41:33.957424
+aliases: [Welcome to Aquabyssos]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Material_Culture Improvements|Material_Culture Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+- [[#Diaspora Improvements|Diaspora Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Handouts/Welcome to Aquabyssos
 type: lore
@@ -111,6 +132,54 @@ tags: [combat, lore]
 > This location connects to the main plot
 
 ## See Also
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[Wanted_Poster_Syndicate_Fenc]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[Character_Journals]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01625_Qadim_Lightbringer_the_Swift]]
+- [[NPC00129_Gareth_Jadeclaw]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC00820_Thalia_Nightfall_the_Risen]]
+- [[NPC00207_Ysara_Ravenheart]]
+- [[Faction_Guide.md]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[Sanity_Quick_Reference.md]]
+- [[Sanity Quick Reference]]
+- [[Ancient_Prophecy_Fragment_Verdan]]
+- [[Currency_Guide_Scrip_and_Shard]]
+- [[Pilgrim_Pass_Prayer_Sli]]
+- [[Quiet_Chapel_Oath_Scrol]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Letter_From_the_Pearl_Guard_Captai]]
+- [[Dockworker_Union_Flyer.md]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[What You Know - Abyssos Prime.md]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[09 Adventuring]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[World_Primer.md]]
+- [[Player_Portal.md]]
+- [[Character_Journal_Template]]
 - [[Related_Content]]
 
 
@@ -120,14 +189,14 @@ tags: [combat, lore]
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 

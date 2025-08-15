@@ -23,6 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 ![Regulatory Authority Directo](../../../04_Resources/Assets/Misc/regulatory_authority_directo.png)
 
 ## 🔧 Deep Evaluation Improvements

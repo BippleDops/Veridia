@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Brenna Ashford the Lost
 
 *Human Trader (Merchants), Age 35, Female*

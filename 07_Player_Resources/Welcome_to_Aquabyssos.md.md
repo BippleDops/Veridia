@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:33.950010
+modified: 2025-08-15T16:41:33.950012
+aliases: [Welcome to Aquabyssos.md]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+- [[#Oral_Tradition Improvements|Oral_Tradition Improvements]]
+- [[#Sensory Improvements|Sensory Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Handouts/Welcome_to_Aquabyssos.md
 type: lore
@@ -97,6 +118,24 @@ tags: [combat, lore]
 > This location connects to the main plot
 
 ## See Also
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[Player_Feedback_Form.md]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[Parliamentary_Voting_Guide]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[World_Primer.md]]
+- [[Currency_Guide_Scrip_and_Shard]]
+- [[Sanity_Quick_Reference.md]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[Session_Recaps]]
+- [[11 Rules Glossary]]
 - [[Related_Content]]
 
 
@@ -106,15 +145,15 @@ tags: [combat, lore]
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -218,3 +257,8 @@ tags: [combat, lore]
 - Connects to [[NPC01941_Cedric_Blackstone_the_Redeemed]]
 - Affected by [[ITEM00784_Divine_Scepter_of_Destiny]]
 - Related: [[Assets Locations Location City the Constellation Mystery V1 the Constellation Mystery.png]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_master_host_torrent_welcomeall_v1_master_host_torrent_welcomeall_svg_standard.png]]
+![[03_People/portrait_assets_locations_location_city_master_host_torrent_welcomeall_v1_master_host_torrent_welcomeall_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_master_host_torrent_welcomeall_v1_master_host_torrent_welcomeall_svg_friendly.png]]

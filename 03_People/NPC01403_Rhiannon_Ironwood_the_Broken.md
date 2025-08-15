@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.862240
+modified: 2025-08-15T16:41:43.862243
+aliases: [NPC01403 Rhiannon Ironwood the Broken]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Baelor Stormwind the Seeker (Criminal - Handler)|Baelor Stormwind the Seeker (Criminal - Handler)]]
+- [[#Aeliana Crystalbrook the Broken (Criminal - Handler)|Aeliana Crystalbrook the Broken (Criminal - Handler)]]
+- [[#Wynne Hawthorne the Cunning (Criminal - Accomplice)|Wynne Hawthorne the Cunning (Criminal - Accomplice)]]
+
+
+---
 aliases: ["Rhiannon Ironwood the Broken", "rhiannon ironwood the broken", "Rhiannon Ironwood Broken", "Broken the Ironwood Rhiannon"]
 tags: [npc, character]
 type: npc
@@ -243,3 +264,14 @@ Has information about legendary item
 - Influences [[EVENT00046_Political_Event_47]]
 - See also: [[Wave Healingbringer 2]]
 - Related: [[step_036 (phase_063)]]
+
+## Visual References
+![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
+![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
+![[03_People/portrait_commander_thrace_ironwood.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

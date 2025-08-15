@@ -344,3 +344,38 @@ Recommended tracks:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[Session 3 the Skyship Heist_1 (06_Sessions)]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[Quest - The Missing Fleet]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[The Silent Watcher 2]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC00407_Hestara_Dawnstrider]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]

@@ -211,3 +211,9 @@ Ongoing situations affecting The Coral Palace Complex:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]

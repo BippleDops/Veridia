@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.287983
+modified: 2025-08-15T16:41:42.287987
+aliases: [NPC01426 Nerys Stormwind the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Nerys Emberfall the Swift (Professional - Mentor)|Nerys Emberfall the Swift (Professional - Mentor)]]
+- [[#Orion Dawnstrider the Swift (Criminal - Target)|Orion Dawnstrider the Swift (Criminal - Target)]]
+- [[#Ewan Thornweave the Fallen (Professional - Mentor)|Ewan Thornweave the Fallen (Professional - Mentor)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Nerys Stormwind the Lost", "nerys stormwind the lost", "Nerys Stormwind Lost", "Lost the Stormwind Nerys"]
 tags: [npc, character]
@@ -160,9 +181,9 @@ Knows secret about major threat
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -272,3 +293,29 @@ Knows secret about major threat
 - Connects to [[Assets Locations Location City the Infinite Garden V1 the Infinite Garden.svg]]
 - Requires [[Vehicle Ship Arc Engine Prototype V1 Arc Engine Prototype.svg]]
 - Leads to [[Portrait NPC Marcus Shardbreaker Grimm V1 Marcus Shardbreaker Grimm.svg]]
+
+## Visual References
+![[03_People/portrait_merchant_captain_tobias_stormwind_dramatic.png]]
+![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
+
+
+## Realm Connections
+
+### Connection to Aethermoor
+This connects to the sky realm of Sky realm of eternal winds and floating islands.
+
+- **Ruling Power**: The Windlord Council
+- **Capital**: [[Skylance Citadel]]
+- **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
+- **Current Conflict**: The Void Incursion, Elemental Convergence
+- **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
+
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+navigate floating islands connected by bridges of solidified cloud.
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

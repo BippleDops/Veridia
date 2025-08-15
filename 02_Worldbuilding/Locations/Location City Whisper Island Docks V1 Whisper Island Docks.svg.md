@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Whisper Island D
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]

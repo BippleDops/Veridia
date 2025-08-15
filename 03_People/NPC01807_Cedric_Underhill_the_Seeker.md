@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.917825
+modified: 2025-08-15T16:41:43.917830
+aliases: [NPC01807 Cedric Underhill the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aeliana Blackstone the Fallen (Professional - Mentor)|Aeliana Blackstone the Fallen (Professional - Mentor)]]
+- [[#Lyanna Ironwood the Broken (Family - Spouse)|Lyanna Ironwood the Broken (Family - Spouse)]]
+- [[#Delara Ravenheart the Cunning (Professional - Mentor)|Delara Ravenheart the Cunning (Professional - Mentor)]]
+
+
+---
 aliases: ["Cedric Underhill the Seeker", "cedric underhill the seeker", "Cedric Underhill Seeker", "Seeker the Underhill Cedric"]
 tags: [npc, character]
 type: npc
@@ -254,3 +275,14 @@ Offers deal too good to refuse
 - Affected by [[Portrait NPC High Inquisitor Maltheos V2 High Inquisitor Maltheos.svg]]
 - Parallels [[Silk Merchant Chen]]
 - Parallels [[location-city-harbor-patrol-harbor-patrol.svg]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.216548
+modified: 2025-08-15T16:41:48.216551
+aliases: [NPC01306 Lyanna Grimholt the Redeemed]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Baelor Goldleaf the Redeemed (Criminal - Handler)|Baelor Goldleaf the Redeemed (Criminal - Handler)]]
+- [[#Vesper Youngblood the Broken (Personal - Ex-lover)|Vesper Youngblood the Broken (Personal - Ex-lover)]]
+- [[#Idris Darkwater the Swift (Personal - Childhood friend)|Idris Darkwater the Swift (Personal - Childhood friend)]]
+
+
+---
 aliases: ["Lyanna Grimholt the Redeemed", "lyanna grimholt the redeemed", "Lyanna Grimholt Redeemed", "Redeemed the Grimholt Lyanna"]
 tags: [npc, character]
 type: npc
@@ -148,3 +169,15 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
+![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
+![[03_People/portrait_captain_lyanna_brightshield.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

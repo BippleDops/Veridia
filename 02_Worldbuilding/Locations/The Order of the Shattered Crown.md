@@ -354,3 +354,8 @@ Ongoing situations affecting The Order of the Shattered Crown:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00095_Fiora_Nightfall]]

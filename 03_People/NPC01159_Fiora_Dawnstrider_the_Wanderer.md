@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Fiora Dawnstrider the Wanderer
 
 *Dragonborn Appraiser (Merchants), Age 23, Female*

@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:39.627435
+modified: 2025-08-15T16:41:39.627437
+aliases: [World Primer.md]
+---
+
+## Table of Contents
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Visual References|Visual References]]
+- [[#Item Rarity & Balance|Item Rarity & Balance]]
+- [[#Comparable Official Items|Comparable Official Items]]
+- [[#Source References|Source References]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
+---
 enhanced: trtags: [enhanced, 07_player_resources, combat, exploration, lore]es]
 created: 2025-08-15T12:24:41.156506
 modified: 2025-08-15T12:24:41.156507
@@ -35,10 +55,27 @@ improvements: 20
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multip
+*The air carries the scent of [appropriate smell].*
 *The air carries the scent of [appropriate smell].*le entry points for different play styles
 - Connections to overarching campaign themes ## Plot Hooks - A shipment has gone missing and war looms - Someone is hunting a artifact for love
 - A document has gone missing and evil awakens
-- A map reveals the truth about the cult ## See Also - Related content
+- A map reveals the truth about the cult ## See Also
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[Parliamentary_Voting_Guide]]
+- [[NPC01970_Brenna_Dawnstrider_the_Wise]]
+- [[Player_Dashboard]]
+- [[Faction_Guide.md]]
+- [[Quest Name]]
+- [[Quest - The Merged Reality_1 (01_Adventures)]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[Count_Strahd_von_Zarovich]]
+- [[Character_Journals]]
+- [[README]] - Related content
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
@@ -69,16 +106,16 @@ improvements: 20
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
 
@@ -88,21 +125,21 @@ Following magic item guidelines (DMG p.135-136):
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

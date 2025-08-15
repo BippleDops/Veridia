@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.614442
+modified: 2025-08-15T16:41:41.614445
+aliases: [NPC00945 Wynne Voidwalker the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Pyria Ravenheart the Scholar (Political - Opposition)|Pyria Ravenheart the Scholar (Political - Opposition)]]
+- [[#Dara Proudmore the Strong (Criminal - Fence)|Dara Proudmore the Strong (Criminal - Fence)]]
+- [[#Gareth Blackstone the Scholar (Criminal - Informant)|Gareth Blackstone the Scholar (Criminal - Informant)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Wynne Voidwalker the Seeker", "wynne voidwalker the seeker", "Wynne Voidwalker Seeker", "Seeker the Voidwalker Wynne"]
 tags: [npc, character]
@@ -7,12 +28,12 @@ type: npc
 
 # Wynne Voidwalker the Seeker
 
-*Genasi Trader (Merchants), Age 61, Non-binary*
+*Genasi Trader ([[Merchant]]s), Age 61, Non-binary*
 
 **ID**: NPC00945
 
 ## Quick Reference
-- **Location**: The Gilded Serpent tavern in the merchant quarter
+- **Location**: [[The Gilded Serpent]] [[Tavern]] in the [[Merchant Quarter]]
 - **Occupation**: Spice trader
 - **Disposition**: Believes in every conspiracy theory
 
@@ -142,6 +163,55 @@ Seeks rare merchandise
 - Special moves
 
 ## See Also
+- [[NPC00820_Thalia_Nightfall_the_Risen]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC00670_Xander_Goldleaf_the_Scholar]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00237_Vesper_Ashford_the_Bold]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[Assets Portraits Portrait NPC the Waking Prophets the Waking Prophets.svg]]
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[Depth_Adapted_Background]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[What You Know - Abyssos Prime.md]]
+- [[Faction_Guide.md_1 (07_Player_Resources)]]
+- [[Propaganda_Broadsheet_Syndicate.md]]
+- [[Quiet_Chapel_Oath_Scrol]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[Welcome to Aquabyssos]]
+- [[Sanity_Quick_Reference.md]]
+- [[09 Appendix a the Multiverse]]
+- [[13 Conditions]]
+- [[Reputation_Tracker]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[NPC00644_Nerys_Dawnstrider_the_Wanderer]]
+- [[03 Races]]
+- [[05 Personality and Background]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[MOC_Lore]]
+- [[Player_Portal.md]]
+- [[MASTER_MOC]]
 - [[Related_Content]]
 
 
@@ -151,11 +221,11 @@ Seeks rare merchandise
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -169,9 +239,9 @@ Seeks rare merchandise
 - Leads to [[step_008 (phase_064)]]
 - Leads to [[NPC01766_Urien_Moonshadow_the_Wise]]
 - Affected by [[water-whip (optional-features)]]
-- Related: [[Location City International Trade International Trade.svg]]
+- Related: [[Location City [[International Trade]] International Trade.svg]]
 - Affected by [[step_019 (phase_023)]]
-- See also: [[Location City Comparative Religion Experts Comparative Religion Experts.svg]]
+- See also: [[Location City [[[[Comparative Religion]] Experts]] Comparative Religion Experts.svg]]
 - Related: [[NPC01976_Wynne_Silverleaf_the_Seeker]]
 - Compare with [[Sea Spawn Mpmm]]
 - Leads to [[Symbol Heraldry Vex Shadowthorn Boss Fight V1 Vex Shadowthorn Boss Fight.png]]
@@ -199,9 +269,9 @@ Seeks rare merchandise
 - Affected by [[Scimitar of Speed Xdmg]]
 - Influences [[step_013 (phase_061)]]
 - Originates from [[step_032]]
-- Compare with [[Royal Court (D&D_References)]]
+- Compare with [[[[Royal Court]] (D&D_References)]]
 - Requires [[elven-labelas-enoreth-mtf (deities)]]
-- See also: [[Assets Locations Location City Chief Philosopher Marina Clearpool V1 Chief Philosopher Marina Clearpool.svg]]
+- See also: [[Assets Locations [[Location City [[Chief Philosopher Marina Clearpool]] V1 Chief Philosopher Marina Clearpool.svg]]]]
 - Connects to [[Wizard Xphb Evoker Xphb]]
 - Related: [[step_061 (phase_049)]]
 - Leads to [[step_009 (phase_079)]]
@@ -212,7 +282,7 @@ Seeks rare merchandise
 - Affected by [[step_037 (phase_083)]]
 - Connects to [[List Spells Optional Features Fiendish Vigor]]
 - Originates from [[step_028 (phase_037)]]
-- Requires [[Memorial Wall of Names (D&D_References)]]
+- Requires [[[[Memorial Wall of Names]] (D&D_References)]]
 - Affected by [[step_057 (phase_024)]]
 - Connects to [[Ranger Xphb Beast Master Xphb]]
 - Affected by [[NPC01270_Qadim_Emberfall_the_Strong]]
@@ -223,7 +293,7 @@ Seeks rare merchandise
 - Parallels [[Count Erasmus Shadowmere]]
 - Leads to [[Silver Bar 2 Pound Xdmg]]
 - Affected by [[artifact-properties-major-detrimental-properties]]
-- See also: [[Social Clubs (D&D_References)]]
+- See also: [[[[Social Clubs]] (D&D_References)]]
 - Related: [[Hobgoblin Captain Xmm]]
 - Affected by [[ersatz-eye-xdmg (items)]]
 - Influences [[SPELL00126_Nature_Spell_127]]
@@ -232,10 +302,10 @@ Seeks rare merchandise
 - Originates from [[step_016 (phase_040)]]
 - Affected by [[step_076 (phase_050)]]
 - See also: [[ixitxachitl-oota (aberration)]]
-- Compare with [[Location City Memory Sanctity Laws V1 Memory Sanctity Laws.svg]]
+- Compare with [[Location City [[Memory Sanctity Laws]] V1 Memory Sanctity Laws.svg]]
 - Parallels [[NPC00593_Felicia_Darkwater_the_Broken]]
 - Related: [[The Memory Weapon Vault (D&D_References)]]
-- Connects to [[Maintenance Tech Reef Fixwright 2]]
+- Connects to [[[[Maintenance Tech Reef Fixwright]] 2]]
 - Connects to [[SPELL00010_Divine_Spell_11]]
 - Connects to [[Crystal Garden (D&D_References)]]
 - Affected by [[Clerk Supreme Marcus Filekeeper]]
@@ -264,4 +334,15 @@ Seeks rare merchandise
 - Influences [[LORE00298_History_Entry_299]]
 - Compare with [[Harbor Master Tideshade]]
 - Parallels [[step_083]]
-- Connects to [[Wave Friendlyserve 2]]
+- Connects to [[[[Wave Friendlyserve]] 2]]
+
+## Visual References
+![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
+![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
+![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

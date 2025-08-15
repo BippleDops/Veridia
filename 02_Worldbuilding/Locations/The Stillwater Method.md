@@ -224,3 +224,7 @@ Ongoing situations affecting The Stillwater Method:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00453_Idris_Grimholt]]

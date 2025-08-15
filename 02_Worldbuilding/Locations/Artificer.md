@@ -325,3 +325,18 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC00922_Wynne_Youngblood_the_Fallen]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC00407_Hestara_Dawnstrider]]

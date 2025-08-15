@@ -245,3 +245,9 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
+- [[NPC00395_Aeliana_Thornweave]]

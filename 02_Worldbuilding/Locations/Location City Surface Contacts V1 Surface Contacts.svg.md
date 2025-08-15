@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Surface Contacts
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]

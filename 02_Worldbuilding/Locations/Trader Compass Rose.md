@@ -232,3 +232,10 @@ Ongoing situations affecting Trader Compass Rose:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00351_Corvus_Ironwood]]

@@ -234,3 +234,10 @@ Ongoing situations affecting The Aether Works:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Brenna Blackstone the Guardian
 
 *Dragonborn Fighter (Adventurers), Age 71, Non-binary*

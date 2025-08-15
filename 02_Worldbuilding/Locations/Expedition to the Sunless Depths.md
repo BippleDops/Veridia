@@ -237,3 +237,8 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]

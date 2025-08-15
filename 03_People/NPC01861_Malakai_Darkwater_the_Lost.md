@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Malakai Darkwater the Lost
 
 *Half-Elf Assassin (Villains), Age 76, Non-binary*

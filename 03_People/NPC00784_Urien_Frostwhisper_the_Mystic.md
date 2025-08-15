@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.463341
+modified: 2025-08-15T16:41:45.463343
+aliases: [NPC00784 Urien Frostwhisper the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Cedric Proudmore the Lost (Political - Opposition)|Cedric Proudmore the Lost (Political - Opposition)]]
+- [[#Ewan Grimholt the Guardian (Professional - Employer)|Ewan Grimholt the Guardian (Professional - Employer)]]
+- [[#Delara Ironwood the Fallen (Political - Ally)|Delara Ironwood the Fallen (Political - Ally)]]
+
+
+---
 aliases: ["Urien Frostwhisper the Mystic", "urien frostwhisper the mystic", "Urien Frostwhisper Mystic", "Mystic the Frostwhisper Urien"]
 tags: [npc, character]
 type: npc
@@ -243,3 +264,14 @@ Being extorted by criminals
 - Influences [[kraken-xmm (legendary-group)]]
 - Connects to [[list-spells-feats-wood-elf-magic-xge (lists)]]
 - Related: [[QUEST00077_Side_Quest_78]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

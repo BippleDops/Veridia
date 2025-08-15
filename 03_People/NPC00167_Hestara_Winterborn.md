@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.413041
+modified: 2025-08-15T16:41:43.413044
+aliases: [NPC00167 Hestara Winterborn]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Goldleaf the Redeemed (Professional - Rival)|Ysara Goldleaf the Redeemed (Professional - Rival)]]
+- [[#Lyanna Quicksilver (Criminal - Accomplice)|Lyanna Quicksilver (Criminal - Accomplice)]]
+- [[#Solas Keenblade (Personal - Childhood friend)|Solas Keenblade (Personal - Childhood friend)]]
+
+
+---
 aliases: ["Hestara Winterborn", "hestara winterborn", "Winterborn Hestara"]
 tags: [npc, character]
 type: npc
@@ -250,3 +275,8 @@ Requires champions for trial by combat
 - Parallels [[step_088 (phase_049)]]
 - Parallels [[step_098 (phase_089)]]
 - Parallels [[A Day in Aquabyssos (D&D_References)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

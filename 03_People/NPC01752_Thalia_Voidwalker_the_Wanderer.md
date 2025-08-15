@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Thalia Voidwalker the Wanderer
 
 *Elf Corrupt Noble (Villains), Age 38, Female*

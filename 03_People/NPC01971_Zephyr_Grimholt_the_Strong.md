@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Zephyr Grimholt the Strong
 
 *Dragonborn Dark Wizard (Villains), Age 40, Female*

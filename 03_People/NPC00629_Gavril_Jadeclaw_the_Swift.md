@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gavril Jadeclaw the Swift
 
 *Elf Blacksmith (Commoners), Age 44, Female*

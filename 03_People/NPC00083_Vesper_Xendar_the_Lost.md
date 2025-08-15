@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.981558
+modified: 2025-08-15T16:41:40.981562
+aliases: [NPC00083 Vesper Xendar the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Orion Jadeclaw (Criminal - Accomplice)|Orion Jadeclaw (Criminal - Accomplice)]]
+- [[#Elric Jadeclaw the Risen (Criminal - Informant)|Elric Jadeclaw the Risen (Criminal - Informant)]]
+- [[#Faelyn Winterborn (Professional - Mentor)|Faelyn Winterborn (Professional - Mentor)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Vesper Xendar the Lost", "vesper xendar the lost", "Vesper Xendar Lost", "Lost the Xendar Vespertags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
@@ -116,7 +137,7 @@ Deception, History
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- Political alliances
+- [[Political Alliances]]
 - Upcoming social events
 
 ## Plot Hook
@@ -147,13 +168,54 @@ Seeks bodyguards for dangerous journey
 - Special moves
 
 ## Combat Stats
-Base: **Priest** (MM p.348)
+Base: **Priest** (BC p.348)
 Modifications:
 - HP: 34
 - AC: 14
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC00644_Nerys_Dawnstrider_the_Wanderer]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC01276_Erasmus_Keenblade_the_Wanderer]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
+- [[NPC00378_Malakai_Moonshadow_the_Broken]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC01283_Corvus_Hawthorne_the_Fallen]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC00844_Cedric_Blackstone_the_Fallen]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[Depth_Adapted_Background]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[Faction_Guide.md]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[05 Personality and Background]]
+- [[16 Credits]]
+- [[Count_Strahd_von_Zarovich]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[MASTER_MOC]]
 - [[Related_Content]]
 
 
@@ -163,11 +225,11 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -184,7 +246,7 @@ Modifications:
 - Related: [[step_028]]
 - Related: [[Portrait NPC Jasper Three Eyes Flint Jasper Three Eyes Flint.png_1 (Portraits)]]
 - Requires [[FAC00096_Guilds_97]]
-- Affected by [[Assets Locations Location City Brother Thaddeus the Rememberer V1 Brother Thaddeus the Rememberer.svg]]
+- Affected by [[Assets Locations [[Location City [[Brother Thaddeus the Rememberer]] V1 Brother Thaddeus the Rememberer.svg]]]]
 - Connects to [[step_077 (phase_039)]]
 - Requires [[step_019 (phase_089)]]
 - Influences [[The Windswept Heights]]
@@ -193,12 +255,12 @@ Modifications:
 - Influences [[step_069 (phase_042)]]
 - See also: [[Portrait NPC Lord Blackwater V2 Lord Blackwater.svg]]
 - Parallels [[Vex Shadowthorn]]
-- Related: [[Assets Locations Location City Elder Matthias Stoneward V1 Elder Matthias Stoneward.svg]]
+- Related: [[Assets Locations Location City [[Elder Matthias Stoneward]] V1 Elder Matthias Stoneward.svg]]
 - Compare with [[step_071 (phase_004)]]
 - Related: [[Potion of Resistance Xdmg]]
 - Requires [[step_029 (phase_034)]]
 - Parallels [[dwarves-in-the-clan-clan-vocations-mtf (tables)]]
-- See also: [[Historical Research Institute 2]]
+- See also: [[[[Historical Research]] Institute 2]]
 - Connects to [[Future Gardeners]]
 - Originates from [[wind-fan-xdmg (items)]]
 - Requires [[step_021 (phase_079)]]
@@ -211,9 +273,9 @@ Modifications:
 - Influences [[NPC00066_Drusilla_Lightbringer_the_Wanderer]]
 - Affected by [[step_084]]
 - Compare with [[Portrait NPC High King Aurelius Skyborn V1 High King Aurelius Skyborn.svg_1 (Portraits)]]
-- Compare with [[Old Valdris (D&D_References)]]
+- Compare with [[[[Old Valdris]] (D&D_References)]]
 - Originates from [[celtic-belenus (deities)]]
-- Requires [[Assets Locations Location City Public Libraries Public Libraries.svg]]
+- Requires [[Assets Locations Location City [[Public [[Libraries]]]] Public Libraries.svg]]
 - Compare with [[Portrait NPC Prince Caspian Duskwater V1 Prince Caspian Duskwater.svg]]
 - See also: [[step_099 (phase_070)]]
 - Influences [[step_084 (phase_058)]]
@@ -223,7 +285,7 @@ Modifications:
 - Leads to [[step_036]]
 - Connects to [[Chrysoprase Xdmg]]
 - Requires [[ITEM00854_Void-touched_Crown_of_Dominion]]
-- Related: [[Assets Locations Location City the Probability Merchant V1 the Probability Merchant.svg]]
+- Related: [[Assets Locations Location City [[The Probability [[Merchant]]]] V1 the Probability Merchant.svg]]
 - Related: [[step_051 (phase_045)]]
 - Originates from [[step_006 (phase_080)]]
 - Influences [[ENC00287_Social_Encounter_288]]
@@ -231,13 +293,13 @@ Modifications:
 - Leads to [[supplemental-tables-absent-parent-xge (tables)]]
 - Parallels [[Future Gardeners (Lore)]]
 - Affected by [[The Circle of Depths 2]]
-- Requires [[Location City Freedrift Network V1 Freedrift Network.svg]]
+- Requires [[Location City [[Freedrift Network]] V1 Freedrift Network.svg]]
 - Parallels [[The Shadow War Coalition]]
 - Connects to [[SHOP00051_General_Shop_52]]
 - Compare with [[step_059 (phase_093)]]
 - Compare with [[step_081]]
 - Influences [[ITEM00929_Superior_Crystal_of_Clarity]]
-- Originates from [[Location City Keeper Stormheart V1 Keeper Stormheart.svg]]
+- Originates from [[Location City [[Keeper Stormheart]] V1 Keeper Stormheart.svg]]
 - Requires [[step_090 (phase_092)]]
 - Parallels [[#lore Location Connection Matrix]]
 - Compare with [[Elemental Weapon Xphb]]
@@ -253,8 +315,8 @@ Modifications:
 - Leads to [[Egyptian Bast]]
 - Connects to [[Maze Xphb]]
 - See also: [[Captain Cornelius Deepwater (D&D_References)]]
-- Affected by [[Palace Security Chief 2]]
-- Leads to [[The Crystal Stock Exchange 2]]
+- Affected by [[[[Palace Security Chief]] 2]]
+- Leads to [[[[The Crystal Stock Exchange]] 2]]
 - Connects to [[ENC00125_Combat_Encounter_126]]
 - Related: [[step_003 (phase_073)]]
 - Originates from [[Abyss Currentbinder]]
@@ -267,7 +329,7 @@ Modifications:
 - Affected by [[step_071 (phase_098)]]
 - Compare with [[Finn Deepmarket]]
 - Influences [[young-black-dragon-xmm (dragon)]]
-- Influences [[Location City Harbor Pilot Guild V1 Harbor Pilot Guild.svg]]
+- Influences [[Location City [[Harbor Pilot Guild]] V1 Harbor Pilot Guild.svg]]
 - See also: [[Location City Master Smith Coral Hammer V1 Master Smith Coral Hammer.svg]]
 - Parallels [[color-spray-xphb (spells)]]
 - Parallels [[step_025 (phase_009)]]
@@ -277,3 +339,14 @@ Modifications:
 - Originates from [[NPC01529_Brenna_Darkwater_the_Scholar]]
 - Leads to [[Creature Creature Undead Spirit Xphb V4 Undead Spirit Xphb.png]]
 - See also: [[Establish New World Order]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

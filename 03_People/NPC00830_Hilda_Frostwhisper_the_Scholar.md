@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.081783
+modified: 2025-08-15T16:41:48.081786
+aliases: [NPC00830 Hilda Frostwhisper the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aeliana Ironforge the Broken (Political - Spy)|Aeliana Ironforge the Broken (Political - Spy)]]
+- [[#Kaelen Ravenheart the Seeker (Criminal - Target)|Kaelen Ravenheart the Seeker (Criminal - Target)]]
+- [[#Lyanna Dawnstrider the Guardian (Family - Child)|Lyanna Dawnstrider the Guardian (Family - Child)]]
+
+
+---
 aliases: ["Hilda Frostwhisper the Scholar", "hilda frostwhisper the scholar", "Hilda Frostwhisper Scholar", "Scholar the Frostwhisper Hilda"]
 tags: [npc, character]
 type: npc
@@ -140,3 +161,15 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

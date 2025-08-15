@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Shadow Academy Training Grounds](../../../04_Resources/Assets/Misc/shadow_academy_training_grounds.png)
 
 ## 🔧 Deep Evaluation Improvements

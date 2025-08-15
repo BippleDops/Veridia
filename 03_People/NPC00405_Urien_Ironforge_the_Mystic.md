@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Urien Ironforge the Mystic
 
 *Dwarf Farmer (Commoners), Age 77, Non-binary*

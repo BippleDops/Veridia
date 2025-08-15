@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.238047
+modified: 2025-08-15T16:41:42.238049
+aliases: [NPC00652 Ysara Zephyrblade the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Proudmore the Wise (Criminal - Accomplice)|Wynne Proudmore the Wise (Criminal - Accomplice)]]
+- [[#Gareth Grimholt the Guardian (Personal - Childhood friend)|Gareth Grimholt the Guardian (Personal - Childhood friend)]]
+- [[#Elric Frostwhisper the Strong (Political - Spy)|Elric Frostwhisper the Strong (Political - Spy)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Ysara Zephyrblade the Strong", "ysara zephyrblade the strong", "Ysara Zephyrblade Strong", "Strong the Zephyrblade Ysara"]
 tags: [npc, character]
@@ -147,8 +168,8 @@ Witnessed a crime
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -258,3 +279,14 @@ Witnessed a crime
 - Connects to [[step_044]]
 - Influences [[step_032]]
 - Compare with [[Portrait NPC Lord Aurelius Goldwave Lord Aurelius Goldwave.svg]]
+
+## Visual References
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

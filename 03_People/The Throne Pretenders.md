@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.961058
+modified: 2025-08-15T16:41:46.961060
+aliases: [The Throne Pretenders]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_the_throne_pretenders_friendly.png]]
+
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Relationships|Relationships]]
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+- [[#Diaspora Improvements|Diaspora Improvements]]
+
+
+---
 
 title: The Throne Pretenders
 type: Npc
@@ -241,7 +266,7 @@ ___
 - Retreats when below 25% health
 
 ## Sourcebook Reference
-> Based on **Commoner** (MM p.345) with modifications
+> Based on **Commoner** (BC p.345) with modifications
 
 ## Connections
 

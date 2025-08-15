@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.575837
+modified: 2025-08-15T16:41:46.575839
+aliases: [NPC01415 Pyria Moonshadow the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Stormwind the Scholar (Criminal - Informant)|Alaric Stormwind the Scholar (Criminal - Informant)]]
+- [[#Dara Oakenshield the Broken (Political - Spy)|Dara Oakenshield the Broken (Political - Spy)]]
+- [[#Xander Underhill the Mystic (Personal - Best friend)|Xander Underhill the Mystic (Personal - Best friend)]]
+
+
+---
 aliases: ["Pyria Moonshadow the Wise", "pyria moonshadow the wise", "Pyria Moonshadow Wise", "Wise the Moonshadow Pyria"]
 tags: [npc, character]
 type: npc
@@ -239,3 +260,14 @@ Needs help with personal quest
 - Influences [[United Councils of Both Worlds 2]]
 - Connects to [[SPELL00159_Divine_Spell_160]]
 - Leads to [[Crafting Transcendence]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

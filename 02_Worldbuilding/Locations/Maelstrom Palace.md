@@ -992,3 +992,7 @@ Mentioned in The Hidden Prophecy of Winds
 ## Dangers
 - Environmental hazards
 - Hostile creatures
+
+
+## NPCs
+- [[NPC01555_Branwen_Xendar_the_Seeker]]

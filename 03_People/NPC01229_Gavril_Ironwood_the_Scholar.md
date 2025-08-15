@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.157291
+modified: 2025-08-15T16:41:42.157297
+aliases: [NPC01229 Gavril Ironwood the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hestara Nightfall the Seeker (Professional - Employer)|Hestara Nightfall the Seeker (Professional - Employer)]]
+- [[#Ysara Goldleaf the Fallen (Professional - Rival)|Ysara Goldleaf the Fallen (Professional - Rival)]]
+- [[#Pyria Keenblade the Risen (Family - Spouse)|Pyria Keenblade the Risen (Family - Spouse)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Gavril Ironwood the Scholar", "gavril ironwood the scholar", "Gavril Ironwood Scholar", "Scholar the Ironwood Gavril"]
 tags: [npc, character]
@@ -144,6 +165,38 @@ Forming expedition to dangerous location
 - Special moves
 
 ## See Also
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[Marcus Shardbreaker Grimm_1]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC00820_Thalia_Nightfall_the_Risen]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[Depth_Adapted_Background]]
+- [[Party_Quests]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[Faction_Guide.md]]
+- [[Reference.md]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]
+- [[Basic_Rules]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[Calendar_Conversions_Realm_Window]]
 - [[Related_Content]]
 
 
@@ -153,8 +206,8 @@ Forming expedition to dangerous location
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -264,3 +317,14 @@ Forming expedition to dangerous location
 - Originates from [[QUEST00168_Side_Quest_169]]
 - Affected by [[LORE00227_Prophecies_Entry_228]]
 - Leads to [[NPC01868_Urien_Emberfall_the_Seeker]]
+
+## Visual References
+![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
+![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
+![[03_People/portrait_commander_thrace_ironwood.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

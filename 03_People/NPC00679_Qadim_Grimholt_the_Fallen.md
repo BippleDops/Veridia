@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.838247
+modified: 2025-08-15T16:41:47.838249
+aliases: [NPC00679 Qadim Grimholt the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hilda Nightfall the Wise (Political - Patron)|Hilda Nightfall the Wise (Political - Patron)]]
+- [[#Branwen Thornweave the Guardian (Family - Parent)|Branwen Thornweave the Guardian (Family - Parent)]]
+- [[#Xander Nightfall the Guardian (Personal - Love interest)|Xander Nightfall the Guardian (Personal - Love interest)]]
+
+
+---
 aliases: ["Qadim Grimholt the Fallen", "qadim grimholt the fallen", "Qadim Grimholt Fallen", "Fallen the Grimholt Qadim"]
 tags: [npc, character]
 type: npc
@@ -141,3 +166,9 @@ Witnessed a crime
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

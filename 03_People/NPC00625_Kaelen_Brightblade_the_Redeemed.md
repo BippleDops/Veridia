@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.700211
+modified: 2025-08-15T16:41:41.700215
+aliases: [NPC00625 Kaelen Brightblade the Redeemed]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Zephyr Blackstone the Swift (Criminal - Accomplice)|Zephyr Blackstone the Swift (Criminal - Accomplice)]]
+- [[#Gavril Blackstone the Mystic (Political - Opposition)|Gavril Blackstone the Mystic (Political - Opposition)]]
+- [[#Nerys Brightblade the Cunning (Family - Child)|Nerys Brightblade the Cunning (Family - Child)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Kaelen Brightblade the Redeemed", "kaelen brightblade the redeemed", "Kaelen Brightblade Redeemed", "Redeemed the Brightblade Kaelen"]
 tags: [npc, character]
@@ -145,6 +170,55 @@ Discovered something valuable
 - Special moves
 
 ## See Also
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[Pip Goldleaf]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[World_Primer.md]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[Wanted_Poster_Syndicate_Fenc]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[Downtime_Activities]]
+- [[Parliamentary_Voting_Guide]]
+- [[11 Spellcasting]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[14 Gods of the Multiverse]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[16 Credits]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[04 Classes]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[MOC_NPCs]]
+- [[Reference.md]]
+- [[MOC_Items]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC00259_Delara_Proudmore]]
+- [[Master_Narrative_Web.md]]
 - [[Related_Content]]
 
 
@@ -154,9 +228,9 @@ Discovered something valuable
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -266,3 +340,8 @@ Discovered something valuable
 - Compare with [[step_054]]
 - Related: [[Aerisi Kalinoth Pota]]
 - Compare with [[step_003 (phase_053)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

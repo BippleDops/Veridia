@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Qadim Winterborn the Redeemed
 
 *Elf Rogue (Adventurers), Age 22, Non-binary*

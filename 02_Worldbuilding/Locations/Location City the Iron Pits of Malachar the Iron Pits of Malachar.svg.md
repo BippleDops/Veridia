@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Iron Pits of
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]

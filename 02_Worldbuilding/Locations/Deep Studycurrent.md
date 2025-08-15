@@ -250,3 +250,10 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]

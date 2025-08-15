@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Caelum Brightblade the Cunning
 
 *Half-Elf Carpenter (Commoners), Age 35, Male*

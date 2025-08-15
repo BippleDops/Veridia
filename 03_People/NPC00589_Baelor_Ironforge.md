@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Baelor Ironforge
 
 *Genasi Blacksmith (Commoners), Age 75, Non-binary*

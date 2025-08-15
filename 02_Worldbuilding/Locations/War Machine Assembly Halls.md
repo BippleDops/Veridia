@@ -209,3 +209,7 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]

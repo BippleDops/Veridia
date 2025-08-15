@@ -238,3 +238,8 @@ Ongoing situations affecting Wave Healingbringer:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]

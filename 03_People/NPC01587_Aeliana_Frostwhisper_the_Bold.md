@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aeliana Frostwhisper the Bold
 
 *Firbolg Rogue (Adventurers), Age 30, Female*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.363179
+modified: 2025-08-15T16:41:42.363182
+aliases: [NPC01099 Felicia Proudmore the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Lyanna Ashford the Risen (Personal - Best friend)|Lyanna Ashford the Risen (Personal - Best friend)]]
+- [[#Rhiannon Oakenshield the Redeemed (Family - Cousin)|Rhiannon Oakenshield the Redeemed (Family - Cousin)]]
+- [[#Brenna Hawthorne the Strong (Personal - Love interest)|Brenna Hawthorne the Strong (Personal - Love interest)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Felicia Proudmore the Seeker", "felicia proudmore the seeker", "Felicia Proudmore Seeker", "Seeker the Proudmore Felicia"]
 tags: [npc, character]
@@ -158,11 +179,11 @@ Caravan needs guards
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Death Saves**: See PHB p.197
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Death Saves**: See ACX p.197
 
 
 ## Thematic Connections
@@ -272,3 +293,14 @@ Caravan needs guards
 - Parallels [[The Twin Prophets]]
 - Compare with [[rogue-xphb-thief-xphb (classes)]]
 - Compare with [[step_053]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

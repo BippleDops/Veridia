@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:34.219657
+modified: 2025-08-15T16:41:34.219661
+aliases: [Quick Start Guide]
+---
+
+## Table of Contents
+- [[#Session Prep|Session Prep]]
+- [[#Visual References|Visual References]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
+---
 enhanced: trtags: [enhanced, 07_player_resources, combat, magic, exploration, lore]es]
 created: 2025-08-15T12:24:41.145260
 modified: 2025-08-15T12:24:41.145265
@@ -25,13 +42,88 @@ improvements: 20
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections 
+*The [texture] surface feels [description] to the touch.*
 *Sounds of [relevant sounds] echo in the distance.*to overarching campaign themes ## Plot Hooks - Someone is protecting a witness for love - Someone is searching for a witness for power ## Historical Timeline ### The Age of Founding (1000 years ago) - The First Settlement
 - Discovery of magical crystals
 - War with indigenous peoples ### The Golden Era (500 years ago) - Economic prosperity
 - Cultural renaissance
 - Expansion of territory ### The Time of Troubles (100 years ago) - Civil war
 - Natural disasters
-- Current power structures established ## See Also - Related content
+- Current power structures established ## See Also
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC00615_Lyanna_Moonshadow_the_Lost]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[Marcus Shardbreaker Grimm_1]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[Letter_From_the_Pearl_Guard_Captai]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC00922_Wynne_Youngblood_the_Fallen]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC01286_Xander_Proudmore_the_Bold]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[Archdruid Thornweaver]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[Depth_Adapted_Background]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[NPC00046_Urien_Ironwood_the_Wise]]
+- [[NPC00101_Caelum_Hawthorne]]
+- [[Faction_Guide.md_1 (07_Player_Resources)]]
+- [[Basic_Rules]]
+- [[Sanity_Quick_Reference.md]]
+- [[Quick_Start_Guide.md]]
+- [[Quest - The Smuggler's Run]]
+- [[NPC2]]
+- [[Quest - The Shadow Constitution]]
+- [[Quest - Redemption's Price]]
+- [[Player_Feedback_Form.md]]
+- [[Reference.md]]
+- [[NPC00670_Xander_Goldleaf_the_Scholar]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
+- [[Character_Journals]]
+- [[13 Conditions]]
+- [[Party_Inventory]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[MOC_Lore]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[MOC_Items]]
+- [[Downtime_Activities]]
+- [[README]]
+- [[World_Primer.md]]
+- [[Reputation_Tracker]]
+- [[16 Credits]]
+- [[City_District_Map_Port_Meridian_Harbo]]
+- [[Master_Narrative_Web.md]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Sage Elara]]
+- [[The_Corroded_Crown.png]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[Item_Catalog_Complete.md]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[11 Spellcasting]]
+- [[Session_Recaps]]
+- [[Character_Journal_Template]] - Related content
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
@@ -80,24 +172,24 @@ publish: false --- -|--------|
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

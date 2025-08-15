@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.989085
+modified: 2025-08-15T16:41:46.989088
+aliases: [Ancient King Pelagios]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_ancient_king_pelagios_standard.png]]
+
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Relationships|Relationships]]
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Oral_Tradition Improvements|Oral_Tradition Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+
+
+---
 
 title: Ancient King Pelagios
 type: Npc
@@ -265,7 +290,7 @@ ___
 - Retreats when below 25% health
 
 ## Sourcebook Reference
-> Based on **Commoner** (MM p.345) with modifications
+> Based on **Commoner** (BC p.345) with modifications
 
 ## References
 

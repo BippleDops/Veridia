@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.015770
+modified: 2025-08-15T16:41:48.015772
+aliases: [NPC0092 Magnus Goldleaf]
+---
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Secrets|Secrets]]
+- [[#Relationships|Relationships]]
+- [[#Roleplaying|Roleplaying]]
+
+
+---
 aliases: ["Magnus Goldleaf", "magnus goldleaf", "Goldleaf Magnus"]
 tags: [, generated]
   - npc
@@ -127,3 +148,8 @@ Deception, Arcana
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## Visual References
+![[03_People/portrait_lord_magnus_goldspire_standard.png]]
+![[03_People/portrait_lord_magnus_goldspire_dramatic.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lord_magnus_goldspire_lord_magnus_goldspire_svg_standard.png]]

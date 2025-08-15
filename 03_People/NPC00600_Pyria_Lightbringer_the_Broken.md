@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.965051
+modified: 2025-08-15T16:41:45.965054
+aliases: [NPC00600 Pyria Lightbringer the Broken]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Felicia Oakenshield the Risen (Criminal - Accomplice)|Felicia Oakenshield the Risen (Criminal - Accomplice)]]
+- [[#Caelum Proudmore the Strong (Professional - Partner)|Caelum Proudmore the Strong (Professional - Partner)]]
+- [[#Caelum Quicksilver (Professional - Mentor)|Caelum Quicksilver (Professional - Mentor)]]
+
+
+---
 aliases: ["Pyria Lightbringer the Broken", "pyria lightbringer the broken", "Pyria Lightbringer Broken", "Broken the Lightbringer Pyria"]
 tags: [npc, character]
 type: npc
@@ -249,3 +270,14 @@ Discovered something valuable
 - Leads to [[step_068]]
 - Compare with [[ENC0078_Random_Encounter_79]]
 - Connects to [[Portrait NPC Lord Aldric Blackwater V1 Lord Aldric Blackwater.svg]]
+
+## Visual References
+![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.140188
+modified: 2025-08-15T16:41:48.140189
+aliases: [NPC00150 Nerys Proudmore the Redeemed]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Rhiannon Youngblood (Family - Sibling)|Rhiannon Youngblood (Family - Sibling)]]
+- [[#Nerys Goldleaf (Professional - Employer)|Nerys Goldleaf (Professional - Employer)]]
+- [[#Urien Ravenheart (Political - Spy)|Urien Ravenheart (Political - Spy)]]
+
+
+---
 aliases: ["Nerys Proudmore the Redeemed", "nerys proudmore the redeemed", "Nerys Proudmore Redeemed", "Redeemed the Proudmore Nerys"]
 tags: [npc, character]
 type: npc
@@ -135,3 +160,9 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

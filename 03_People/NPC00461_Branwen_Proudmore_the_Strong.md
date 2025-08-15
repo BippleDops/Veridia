@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.971165
+modified: 2025-08-15T16:41:40.971169
+aliases: [NPC00461 Branwen Proudmore the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Winterborn the Scholar (Professional - Partner)|Wynne Winterborn the Scholar (Professional - Partner)]]
+- [[#Xander Proudmore the Swift (Family - Child)|Xander Proudmore the Swift (Family - Child)]]
+- [[#Baelor Underhill the Broken (Professional - Employer)|Baelor Underhill the Broken (Professional - Employer)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Branwen Proudmore the Strong", "branwen proudmore the strong", "Branwen Proudmore Strong", "Strong the Proudmore Branwentags: [npc, character, combat, magic, social, exploration, puzzle, lore]er]
 type: npc
@@ -22,7 +43,7 @@ Short and wiry, with Mohawk bald hair and Red eyes. Unusual hue skin. Piercing g
 **Accessories**: Multiple earrings, Silk handkerchief
 
 ## Personality
-- **Traits**: Incredibly optimistic despite evidence; Laughs at the most inappropriate times; Always speaks in metaphors and riddles
+- **Traits**: Incredibly optimistic despite evidence; Laughs at the most inappropriate [[Time]]s; Always speaks in metaphors and riddles
 - **Ideal**: Honor: My word is my bond, and I never break an oath
 - **Bond**: My hometown is the most important thing
 - **Flaw**: I judge people by their appearance first
@@ -146,13 +167,23 @@ Being extorted by criminals
 - Special moves
 
 ## Combat Stats
-Base: **Noble** (MM p.348)
+Base: **Noble** (BC p.348)
 Modifications:
 - HP: 39
 - AC: 16
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[09 Adventuring]]
 - [[Related_Content]]
 
 
@@ -162,8 +193,8 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -173,7 +204,7 @@ Modifications:
 
 ## Connections
 
-- Parallels [[The Deepmost Current 2]]
+- Parallels [[[[The Deepmost Current]] 2]]
 - Originates from [[NPC00163_Jorah_Ravenheart]]
 - Connects to [[step_100 (phase_021)]]
 - Influences [[step_044]]
@@ -184,8 +215,8 @@ Modifications:
 - Requires [[The Shattering of the Crown]]
 - Leads to [[ENC00066_Environmental_Encounter_67]]
 - Affected by [[step_012]]
-- Leads to [[Rival Merchant Prince Gold]]
-- Connects to [[Parliament of Echoes - Public Gallery (D&D_References)]]
+- Leads to [[Rival [[Merchant]] Prince Gold]]
+- Connects to [[[[Parliament of Echoes - Public Gallery]] (D&D_References)]]
 - Leads to [[Marid Xmm]]
 - Leads to [[step_026 (phase_030)]]
 - Affected by [[LOC00235_Wilderness_Location_236]]
@@ -197,8 +228,8 @@ Modifications:
 - Compare with [[MON00081_Constructs_Creature_82]]
 - Influences [[step_007]]
 - Requires [[Translator Polyglot Petra]]
-- Influences [[Location City Harbor District Customs House V1 Harbor District Customs House.svg]]
-- Connects to [[Artificer's Row (D&D_References)]]
+- Influences [[Location City [[[[Harbor District]] Customs House]] V1 Harbor District Customs House.svg]]
+- Connects to [[[[Artificer]]'s Row (D&D_References)]]
 - Related: [[NPC01466_Urien_Nightfall_the_Guardian]]
 - Parallels [[step_061 (phase_055)]]
 - Influences [[step_003]]
@@ -215,8 +246,8 @@ Modifications:
 - See also: [[step_066]]
 - Parallels [[improvised-damage-xdmg (traps-hazards)]]
 - Requires [[Location City Echo Scribe Matthias Echo Scribe Matthias.svg]]
-- Connects to [[Location City Constitutional Monarchy Constitutional Monarchy.svg]]
-- See also: [[Assets Locations Location City Council of Currents V1 Council of Currents.svg]]
+- Connects to [[Location City [[Constitutional Monarchy]] Constitutional Monarchy.svg]]
+- See also: [[Assets Locations [[Location City [[Council of Currents]] V1 Council of Currents.svg]]]]
 - Requires [[step_059 (phase_077)]]
 - See also: [[Counter-Surveillance]]
 - Affected by [[portrait-npc-mayor-thompson-v1-mayor-thompson.svg]]
@@ -239,24 +270,24 @@ Modifications:
 - See also: [[Crystal Technology (D&D_References)]]
 - Compare with [[Stop the Crystal Festival Ritual]]
 - Connects to [[Handout Handout Embassy Invitation Embassy Invitation.png]]
-- Leads to [[Location City Deep Watchfulrest Deep Watchfulrest.svg]]
+- Leads to [[Location City [[Deep Watchfulrest]] Deep Watchfulrest.svg]]
 - Connects to [[step_026 (phase_085)]]
 - Affected by [[Engineering Chief Master Wrench Pressureborn]]
 - Requires [[fighter-xphb-champion-xphb (classes)]]
 - Leads to [[theater]]
-- See also: [[Location City Whisper Island Docks Whisper Island Docks.svg]]
+- See also: [[Location City [[Whisper Island]] Docks [[Whisper Island Docks]].svg]]
 - Connects to [[SPELL00144_Arcane_Spell_145]]
 - Requires [[Commercial Navigation Services]]
 - Related: [[Portrait NPC Archbishop Mordecai Stormwright V1 Archbishop Mordecai Stormwright.svg_1 (Portraits)]]
 - Compare with [[Calendar_Conversions_Realm_Window]]
 - Originates from [[NPC01109_Rhiannon_Winterborn_the_Mystic]]
 - Compare with [[Magic User 2]]
-- Connects to [[Assets Locations Location City the Diplomatic Quarter V1 the Diplomatic Quarter.svg]]
+- Connects to [[Assets Locations [[Location City [[The Diplomatic Quarter]] V1 the Diplomatic Quarter.svg]]]]
 - Affected by [[step_098]]
 - Leads to [[Celtic Belenus]]
 - Compare with [[step_062]]
 - Compare with [[step_021]]
-- Requires [[Public Safety Complex]]
+- Requires [[[[Public Safety]] Complex]]
 - Affected by [[Falling Net Xdmg]]
 - Requires [[step_008 (phase_066)]]
 - Related: [[Scholar-Merchant Remembrance Tidekeep]]
@@ -264,7 +295,7 @@ Modifications:
 - See also: [[step_090 (phase_009)]]
 - Compare with [[Flying Snake Xmm]]
 - Compare with [[The Memory Anchor (D&D_References)]]
-- Originates from [[Embassy Quarter 2]]
+- Originates from [[[[Embassy Quarter]] 2]]
 - Parallels [[NPC00782_Ewan_Underhill_the_Fallen]]
 - Leads to [[step_079 (phase_037)]]
 - Affected by [[Credit Networks]]
@@ -273,3 +304,14 @@ Modifications:
 - Compare with [[step_046 (phase_008)]]
 - See also: [[step_073 (phase_058)]]
 - Affected by [[Portrait NPC Quest the Seventh Song V1 Quest the Seventh Song.svg]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

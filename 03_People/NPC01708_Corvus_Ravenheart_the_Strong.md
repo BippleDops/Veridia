@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Corvus Ravenheart the Strong
 
 *Firbolg Dark Wizard (Villains), Age 36, Male*

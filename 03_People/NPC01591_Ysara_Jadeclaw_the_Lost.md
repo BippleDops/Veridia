@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ysara Jadeclaw the Lost
 
 *Tiefling Wizard (Adventurers), Age 73, Non-binary*

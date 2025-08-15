@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Qadim Thornweave the Seeker
 
 *Tiefling Cleric (Adventurers), Age 77, Male*

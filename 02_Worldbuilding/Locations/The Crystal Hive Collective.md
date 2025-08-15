@@ -255,3 +255,9 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]

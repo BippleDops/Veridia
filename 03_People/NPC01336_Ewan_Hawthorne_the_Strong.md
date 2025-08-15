@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ewan Hawthorne the Strong
 
 *Halfling Fighter (Adventurers), Age 66, Male*

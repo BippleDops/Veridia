@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Xander Lightbringer the Wanderer
 
 *Half-Elf Crime Boss (Villains), Age 74, Male*

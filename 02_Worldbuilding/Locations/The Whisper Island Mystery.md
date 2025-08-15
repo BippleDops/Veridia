@@ -133,7 +133,9 @@ Centuries ago, Whisper Island was the site of a brutal massacre where refugees w
 **Magical Containment**: Creating barriers to limit the supernatural effects
 **Historical Justice**: Exposing the truth and honoring the victims
 
-## NPCs on the Island
+## NPCs
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC00975_Lyanna_Winterborn_the_Wise]] on the Island
 **The Witness**: Spirit who can reveal the truth if properly approached
 **The Guardian**: Hostile spirit protecting others from disturbance
 **The Child**: Innocent victim whose spirit can be easily befriended

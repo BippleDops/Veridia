@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:34.177030
+modified: 2025-08-15T16:41:34.177035
+aliases: [Sanity Quick Reference.md]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Death_Customs Improvements|Death_Customs Improvements]]
+- [[#Oral_Tradition Improvements|Oral_Tradition Improvements]]
+- [[#Sensory Improvements|Sensory Improvements]]
+- [[#Evolution Improvements|Evolution Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Handouts/Sanity_Quick_Reference.md
 type: lore
@@ -98,6 +119,32 @@ tags: [combat, lore]
 > This character is not who they seem
 
 ## See Also
+- [[Archdruid Thornweaver]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC00080_Branwen_Proudmore]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[Faction_Relationship_Web]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[Faction_Guide.md]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[16 Credits]]
+- [[MOC_Lore]]
+- [[Complete_NPC_Matrix.md]]
 - [[Related_Content]]
 
 
@@ -107,18 +154,18 @@ tags: [combat, lore]
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
 
 ## Connections
 
@@ -222,3 +269,8 @@ tags: [combat, lore]
 - Affected by [[step_059]]
 - Parallels [[step_097 (phase_067)]]
 - See also: [[FAC00050_Guilds_51]]
+
+## Visual References
+![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-v1-quick-reference-overlay.png]]
+![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-v2-quick-reference-overlay.png]]
+![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-quick-reference-overlay.png]]

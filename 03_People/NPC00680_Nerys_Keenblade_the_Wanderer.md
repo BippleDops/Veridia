@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Nerys Keenblade the Wanderer
 
 *Firbolg Baker (Commoners), Age 50, Male*

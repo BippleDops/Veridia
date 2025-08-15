@@ -221,3 +221,9 @@ Ongoing situations affecting Undead Services Bureau:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]

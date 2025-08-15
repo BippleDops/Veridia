@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Rhiannon Nightfall the Bold
 
 *Tiefling Appraiser (Merchants), Age 30, Male*

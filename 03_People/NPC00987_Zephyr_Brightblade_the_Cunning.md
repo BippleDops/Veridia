@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Zephyr Brightblade the Cunning
 
 *Half-Elf Shopkeeper (Merchants), Age 37, Male*

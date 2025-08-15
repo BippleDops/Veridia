@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Dawnstrider the Redeemed
 
 *Half-Elf Appraiser (Merchants), Age 31, Non-binary*

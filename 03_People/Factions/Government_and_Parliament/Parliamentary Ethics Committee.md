@@ -24,6 +24,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Parliamentary Ethics Committee](../../../[[04_Resources|04_Resources]]/[[Assets|Assets]]/Generated/Misc/parliamentary_ethics_committee.png)
 
 ## 🔧 Deep Evaluation Improvements

@@ -157,3 +157,7 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01841_Malakai_Nightfall_the_Wise]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Urien Crystalbrook the Bold
 
 *Half-Elf Corrupt Noble (Villains), Age 39, Male*

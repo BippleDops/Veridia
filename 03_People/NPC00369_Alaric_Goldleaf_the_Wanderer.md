@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Alaric Goldleaf the Wanderer
 
 *Tiefling Courtier (Nobles), Age 32, Male*

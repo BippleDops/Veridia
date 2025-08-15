@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Nerys Hawthorne the Risen
 
 *Firbolg Corrupt Noble (Villains), Age 25, Non-binary*

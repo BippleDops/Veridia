@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.070762
+modified: 2025-08-15T16:41:48.070765
+aliases: [NPC00288 Branwen Ashford the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hestara Stormwind the Swift (Criminal - Handler)|Hestara Stormwind the Swift (Criminal - Handler)]]
+- [[#Drusilla Goldleaf the Fallen (Political - Spy)|Drusilla Goldleaf the Fallen (Political - Spy)]]
+- [[#Fiora Ironforge (Political - Ally)|Fiora Ironforge (Political - Ally)]]
+
+
+---
 aliases: ["Branwen Ashford the Seeker", "branwen ashford the seeker", "Branwen Ashford Seeker", "Seeker the Ashford Branwen"]
 tags: [npc, character]
 type: npc
@@ -136,3 +157,15 @@ Seeks bodyguards for dangerous journey
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -82,3 +82,7 @@ Recent developments have brought new attention to Captain_Trawl_Netcaster.png, c
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00550_Xander_Stormwind_the_Cunning]]

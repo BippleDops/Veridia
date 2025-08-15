@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_faerie_dragon_youth_xmm_standard.png]]
+
+
 # faerie-dragon-youth-xmm
 
 ## Basic Information

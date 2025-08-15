@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, _indexes]
+created: 2025-08-15T16:41:29.299343
+modified: 2025-08-15T16:41:29.299346
+aliases: [README]
+---
+
+## Table of Contents
+- [[#Recent NPCs|Recent NPCs]]
+- [[#Active Quests|Active Quests]]
+- [[#Session Log|Session Log]]
+- [[#Location Network|Location Network]]
+- [[#See Also|See Also]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+- [[#Visual References|Visual References]]
+
+
 -tags: ['type/note', 'status/active', combat]e']
 created: 2025-08-15
 modified: 2025-08-15
@@ -42,18 +62,56 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 > Important safety or rule information
 
 ## See Also
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[Dockworker_Union_Flyer.md]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC01970_Brenna_Dawnstrider_the_Wise]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[Currency_Guide_Scrip_and_Shard]]
+- [[Reference.md]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[MOC_Combat]]
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01286_Xander_Proudmore_the_Bold]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[NPC00129_Gareth_Jadeclaw]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00838_Drusilla_Proudmore_the_Risen]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[01 Introduction Welcome to Adventure]]
+- [[Session_Recaps]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[05 Personality and Background]]
+- [[12 Spells]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[Basic_Rules]]
+- [[Downtime_Activities]]
+- [[Quick_Start_Guide]]
+- [[Player_Feedback_Form.md]]
+- [[MASTER_MOC]]
+- [[MOC_Locations]]
 - [[Related_Content]]
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -157,3 +215,8 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Connects to [[Ancestor Memorial Spaces 2]]
 - Influences [[02_Worldbuilding_Factions_The_Tide_Singers]]
 - Influences [[Temple of Perpetual Tides (D&D_References)]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_nautilus_threadmender_v1_nautilus_threadmender_svg_gm.png]]
+![[04_Resources/maps/world_nautilus_threadmender_gm.png]]
+![[04_Resources/maps/world_assets_locations_location_city_nautilus_threadmender_nautilus_threadmender_svg_player.png]]

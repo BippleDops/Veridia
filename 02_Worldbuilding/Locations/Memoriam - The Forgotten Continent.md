@@ -391,3 +391,7 @@ Ongoing situations affecting Memoriam - The Forgotten Continent:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]

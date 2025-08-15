@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, _indexes]
+created: 2025-08-15T16:41:29.291954
+modified: 2025-08-15T16:41:29.291958
+aliases: [MOC Rules]
+---
+
+## Table of Contents
+- [[#Quick Links|Quick Links]]
+- [[#Content|Content]]
+- [[#Recent NPCs|Recent NPCs]]
+- [[#Active Quests|Active Quests]]
+- [[#Session Log|Session Log]]
+- [[#Location Network|Location Network]]
+- [[#See Also|See Also]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
 -tags: [moc, index, combat]ex]
 created: 2025-08-15
 ---
@@ -47,18 +68,22 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 > Useful information for players
 
 ## See Also
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
 - [[Related_Content]]
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -162,3 +187,8 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - See also: [[Session 07 (06_Sessions)]]
 - Leads to [[NPC01715_Kaelen_Stormwind_the_Redeemed]]
 - Connects to [[greatsword-xphb (items)]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_scream_saturation_rules_night.png]]
+![[02_Worldbuilding/locations/location_scream_saturation_rules_rain.png]]
+![[02_Worldbuilding/locations/location_scream_saturation_rules_establishing.png]]

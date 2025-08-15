@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Baelor Dawnstrider the Scholar
 
 *Aasimar Baker (Commoners), Age 69, Non-binary*

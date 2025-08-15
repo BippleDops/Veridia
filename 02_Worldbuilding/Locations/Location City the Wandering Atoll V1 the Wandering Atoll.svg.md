@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Wandering At
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]

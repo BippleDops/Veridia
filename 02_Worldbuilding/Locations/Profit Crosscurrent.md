@@ -221,3 +221,7 @@ Ongoing situations affecting Profit Crosscurrent:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]

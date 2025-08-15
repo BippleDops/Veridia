@@ -238,3 +238,8 @@ Ongoing situations affecting Palace Guardians:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01283_Corvus_Hawthorne_the_Fallen]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gareth Ashford the Fallen
 
 *Gnome Dark Wizard (Villains), Age 19, Male*

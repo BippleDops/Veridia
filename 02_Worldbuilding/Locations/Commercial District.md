@@ -239,3 +239,16 @@ Ongoing situations affecting Commercial District:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Assets Portraits Portrait NPC Blood in the Water Blood in the Water.svg]]
+- [[Assets Portraits Portrait NPC Emperor Abyssal the Deep Sighted Emperor Abyssal the Deep Sighted.svg]]
+- [[Assets Portraits Portrait NPC Shadow Guard Units Shadow Guard Units.svg]]
+- [[Assets Portraits Portrait NPC Neutral Zone Neutral Zone.svg]]
+- [[Assets Portraits Portrait NPC Quest the Failing Magic Quest the Failing Magic.svg]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[Quest - The Missing Fleet]]
+- [[Assets Portraits Portrait NPC the Speaking Stones the Speaking Stones.svg]]
+- [[Assets Portraits Portrait NPC Duke Blackwater S Estate Duke Blackwater S Estate.svg]]
+- [[Assets Portraits Portrait NPC the Waking Prophets the Waking Prophets.svg]]

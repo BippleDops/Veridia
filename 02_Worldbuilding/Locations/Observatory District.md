@@ -207,3 +207,8 @@ Ongoing situations affecting Observatory District:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]

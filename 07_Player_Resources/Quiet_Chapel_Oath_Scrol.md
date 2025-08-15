@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:34.161980
+modified: 2025-08-15T16:41:34.161986
+aliases: [Quiet Chapel Oath Scrol]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Death_Customs Improvements|Death_Customs Improvements]]
+- [[#Diaspora Improvements|Diaspora Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+- [[#Evolution Improvements|Evolution Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Visual_Handouts/Quiet_Chapel_Oath_Scrol
 type: lore
@@ -128,6 +149,42 @@ tags: [combat, magic, exploration, lore]
 > This NPC knows more than they let on
 
 ## See Also
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC00046_Urien_Ironwood_the_Wise]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[Party_Quests]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[Faction_Relationship_Web]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[Propaganda_Broadsheet_Syndicate.md]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC01113_Solas_Ravenheart_the_Cunning]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[Assets Portraits Portrait NPC Elder Whisper in the Dark Elder Whisper in the Dark.svg]]
+- [[Basic_Rules]]
+- [[Sanity Quick Reference]]
+- [[Combat_Encounter_Analysis]]
+- [[Player_Feedback_Form.md]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[Pilgrim_Pass_Prayer_Sli]]
+- [[11 Spellcasting]]
+- [[09 Adventuring]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[07 Customization Options]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[Sanity_Quick_Reference.md]]
+- [[08 Using Ability Scores]]
+- [[11 Rules Glossary]]
+- [[MOC_Quests]]
 - [[Related_Content]]
 
 
@@ -137,21 +194,21 @@ tags: [combat, magic, exploration, lore]
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -255,3 +312,8 @@ tags: [combat, magic, exploration, lore]
 - Requires [[Location City Tavern Keep Lucky Jack Goldpouch Tavern Keep Lucky Jack Goldpouch.svg]]
 - See also: [[Crystal Refineries]]
 - See also: [[Mid-Echo Shriek Nerveshatter]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_quieting_the_depths_rain.png]]
+![[02_Worldbuilding/locations/location_quieting_the_depths_establishing.png]]
+![[02_Worldbuilding/locations/location_quieting_the_depths_night.png]]

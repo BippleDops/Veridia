@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Delara Ravenheart the Fallen
 
 *Human Caravan Master (Merchants), Age 18, Non-binary*

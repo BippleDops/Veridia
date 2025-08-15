@@ -18,6 +18,10 @@ updated: '2025-08-13T12:34:17.343766+00:00'
 world: Aquabyssos
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-political-parties-of-aquabyssos-political-parties-of-aquabyssos.svg)

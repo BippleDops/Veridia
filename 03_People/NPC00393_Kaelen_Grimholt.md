@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.356563
+modified: 2025-08-15T16:41:41.356566
+aliases: [NPC00393 Kaelen Grimholt]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Lyanna Ironwood the Wanderer (Family - Parent)|Lyanna Ironwood the Wanderer (Family - Parent)]]
+- [[#Nerys Stormwind (Professional - Employer)|Nerys Stormwind (Professional - Employer)]]
+- [[#Malakai Blackstone the Guardian (Political - Ally)|Malakai Blackstone the Guardian (Political - Ally)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Kaelen Grimholt", "kaelen grimholt", "Grimholt Kaelentags: [npc, character, combat, social, exploration, puzzle, lore]er]
 type: npc
@@ -12,13 +37,13 @@ type: npc
 
 ## Quick Reference
 - **Location**: Noble's manor in the upper district
-- **Occupation**: Military commander
+- **Occupation**: [[Military Command]]er
 - **Disposition**: Compulsive liar about minor things
 
 ## Appearance
 Very short and muscular, with Shaved black hair and Red eyes. Pale skin. Ethereal beauty that seems otherworldly.
 
-**Clothing**: Merchant's outfit with many hidden pockets
+**Clothing**: [[Merchant]]'s outfit with many hidden pockets
 **Accessories**: Ornate walking stick
 
 ## Personality
@@ -106,7 +131,7 @@ Deception, History, Insight
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- Political alliances
+- [[Political Alliances]]
 - Upcoming social events
 
 ## Plot Hook
@@ -137,6 +162,43 @@ Seeks bodyguards for dangerous journey
 - Special moves
 
 ## See Also
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC00649_Corvus_Zephyrblade_the_Broken]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
+- [[Madame Rosalind Goldleaf]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[Archdruid Thornweaver]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[Letter_From_the_Pearl_Guard_Captai]]
+- [[Faction_Guide.md]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[Propaganda_Broadsheet_Syndicate.md]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[Player_Feedback_Form.md]]
+- [[11 Spellcasting]]
+- [[NPC00719_Orion_Hawthorne_the_Cunning]]
+- [[09 Appendix a the Multiverse]]
+- [[11 Rules Glossary]]
+- [[NPC00058_Elric_Nightfall]]
+- [[MOC_NPCs]]
+- [[MASTER_MOC]]
 - [[Related_Content]]
 
 
@@ -146,8 +208,8 @@ Seeks bodyguards for dangerous journey
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -158,7 +220,7 @@ Seeks bodyguards for dangerous journey
 ## Connections
 
 - Related: [[Witness Protection Protocols 2]]
-- Originates from [[Noble District 2]]
+- Originates from [[[[Noble District]] 2]]
 - Requires [[step_059]]
 - Influences [[step_039]]
 - Influences [[step_003 (phase_038)]]
@@ -171,13 +233,13 @@ Seeks bodyguards for dangerous journey
 - Requires [[Count_Strahd_von_Zarovich]]
 - Requires [[Faction Action]]
 - Influences [[step_007 (phase_027)]]
-- Influences [[Choir Master Celestine Hymnsinger 2]]
+- Influences [[[[Choir Master Celestine Hymnsinger]] 2]]
 - Influences [[INV-002 2]]
 - Affected by [[Reality Breach Event Compiler]]
 - Compare with [[step_075 (phase_097)]]
 - Influences [[step_070]]
 - Requires [[NPC01651_Cedric_Winterborn_the_Seeker]]
-- Influences [[Assets Locations Location City the Lighthouse Keepers the Lighthouse Keepers.svg]]
+- Influences [[Assets Locations [[Location City [[The Lighthouse Keepers]] the Lighthouse Keepers.svg]]]]
 - Leads to [[step_043]]
 - Leads to [[Determine Numbers and Challenge Ratings Solo Monster Challenge Rating Xge]]
 - Originates from [[QUEST00033_Side_Quest_34]]
@@ -188,7 +250,7 @@ Seeks bodyguards for dangerous journey
 - Affected by [[Armor Xphb]]
 - Originates from [[Quest - The Merged Reality]]
 - Related: [[The Memory Wars]]
-- Originates from [[Location City the Temple of Eternal Tides the Temple of Eternal Tides.svg]]
+- Originates from [[Location City [[The Temple of Eternal Tides]] the Temple of Eternal Tides.svg]]
 - Connects to [[step_020]]
 - Parallels [[LOC00296_Towns_Location_297]]
 - Originates from [[Cultural Advisor Coral Bridgebuilde]]
@@ -198,7 +260,7 @@ Seeks bodyguards for dangerous journey
 - Leads to [[ITEM0070_Glorious_Blade_of_the_Dawn]]
 - Affected by [[Reality Anchor Monitoring]]
 - Affected by [[step_051]]
-- Affected by [[The Shadow Markets (D&D_References)]]
+- Affected by [[[[The Shadow Markets]] (D&D_References)]]
 - Compare with [[giant-centipede-xmm]]
 - Connects to [[ITEM00571_Dragon_Scale_Helm_of_Protection]]
 - Influences [[Dungeon Dressing Air]]
@@ -209,7 +271,7 @@ Seeks bodyguards for dangerous journey
 - Originates from [[step_022 (phase_004)]]
 - Affected by [[step_082]]
 - Compare with [[Otherworldly Pacts (D&D_References)]]
-- Originates from [[Great Crystal Lens 2]]
+- Originates from [[[[Great Crystal Lens]] 2]]
 - See also: [[step_047]]
 - Affected by [[Location City Quest the Blackmail Papers Quest the Blackmail Papers.svg]]
 - Requires [[Session 10 - New Horizons]]
@@ -226,7 +288,7 @@ Seeks bodyguards for dangerous journey
 - Compare with [[step_053]]
 - Parallels [[LORE00176_Legends_Entry_177]]
 - Influences [[Whelm Xdmg]]
-- Requires [[Assets Locations Location City Experimental Medical Ethics Experimental Medical Ethics.svg]]
+- Requires [[Assets Locations Location City [[Experimental Medical Ethics]] Experimental Medical Ethics.svg]]
 - Requires [[Entities Void Touched Crystals]]
 - Requires [[step_076 (phase_031)]]
 - Compare with [[LORE00290_Legends_Entry_291]]
@@ -247,13 +309,18 @@ Seeks bodyguards for dangerous journey
 - See also: [[Portrait NPC the First Queen S Shade V1 the First Queen S Shade.svg]]
 - Influences [[list-spells-school-enchantment (lists)]]
 - Originates from [[Reality Anchor Points 2]]
-- See also: [[The Time Keeper]]
+- See also: [[The [[Time]] Keeper]]
 - Influences [[Downtime Activity Sowing Rumors]]
 - Parallels [[step_077]]
 - Originates from [[LORE00269_Legends_Entry_270]]
 - Requires [[Crystal Engineering Guild]]
 - See also: [[Royal Academy of Arcane Arts]]
 - Connects to [[University System]]
-- Influences [[Assets Locations Location City Wave Merchant V1 Wave Merchant.svg]]
+- Influences [[Assets Locations Location City [[Wave Merchant]] V1 Wave Merchant.svg]]
 - Requires [[ENC00207_Social_Encounter_208]]
 - Connects to [[QUEST00040_Main_Quest_41]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

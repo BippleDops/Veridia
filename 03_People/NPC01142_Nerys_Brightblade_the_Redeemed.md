@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Nerys Brightblade the Redeemed
 
 *Dwarf Shopkeeper (Merchants), Age 63, Non-binary*

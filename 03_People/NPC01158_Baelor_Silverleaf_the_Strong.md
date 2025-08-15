@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Baelor Silverleaf the Strong
 
 *Firbolg Broker (Merchants), Age 58, Female*

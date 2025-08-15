@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_food_drink_and_lodging_xphb_friendly.png]]
+
+
 # food-drink-and-lodging-xphb
 
 ## Basic Information

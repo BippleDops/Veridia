@@ -15,6 +15,10 @@ type: npc
 updated: 2025-08-14
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_the_party_friendly.png]]
+
+
 # The_Party.png
 
 ## Overview

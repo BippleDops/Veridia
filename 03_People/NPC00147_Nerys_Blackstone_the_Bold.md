@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Nerys Blackstone the Bold
 
 *Halfling Aristocrat (Nobles), Age 65, Female*

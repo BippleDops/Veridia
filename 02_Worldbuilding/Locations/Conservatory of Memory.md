@@ -223,3 +223,9 @@ Ongoing situations affecting Conservatory of Memory:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]

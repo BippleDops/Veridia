@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_03_mechanics_cli_bestiary_humanoid_silverquill_professor_of_radiance_scc_friendly.png]]
+
+
 # /03 Mechanics/CLI/bestiary/humanoid/silverquill-professor-of-radiance-scc
 
 ## Basic Information

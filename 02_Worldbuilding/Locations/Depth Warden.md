@@ -242,3 +242,11 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]

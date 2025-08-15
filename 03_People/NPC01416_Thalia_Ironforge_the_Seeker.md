@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Thalia Ironforge the Seeker
 
 *Half-Elf Ranger (Adventurers), Age 41, Non-binary*

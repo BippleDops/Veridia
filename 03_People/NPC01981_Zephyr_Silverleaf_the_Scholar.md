@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Zephyr Silverleaf the Scholar
 
 *Dragonborn Corrupt Noble (Villains), Age 67, Male*

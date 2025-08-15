@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T16:41:32.739176
+modified: 2025-08-15T16:41:32.739182
+aliases: [10 Combat]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Prep Checklist|Prep Checklist]]
+- [[#Npcs Needed|Npcs Needed]]
+- [[#Locations|Locations]]
+- [[#Encounters|Encounters]]
+- [[#Props|Props]]
+- [[#Rules|Rules]]
+- [[#Campaign Connection|Campaign Connection]]
+- [[#See Also|See Also]]
+
+
+---
 
 title: 10 Combat
 type: note
@@ -28,7 +49,8 @@ tags:
 - note
 - status/in-progress
 
-created: 2025-07-23
+created: 202
+*The air carries the scent of [appropriate smell].*5-07-23
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-note
@@ -38,7 +60,7 @@ world: Both
 
 --- # Combat
 
-*Source: Player's Handbook (2014), p. 189* The clatter of a sword striking against a shield. The terrible rending sound as monstrous claws tear through armor. A brilliant flash of light as a ball of flame blossoms from a wizard's spell. The sharp tang of blood in the air, cutting through the stench of vile monsters. Roars of fury, shouts of triumph, cries of pain. Combat in D&D can be chaotic, deadly, and thrilling. This chapter provides the rules you need for your characters and monsters to engage in combat, whether it is a brief skirmish or an extended conflict in a dungeon or on a field of battle. Throughout this chapter, the rules address you, the player or Dungeon Master. The Dungeon Master controls all the monsters and nonplayer characters involved in combat, and each other player controls an adventurer. "You" can also mean the character or monster that you control. ![](/03_Mechanics/CLI/books/players-handbook-2014/img/ch9.webp#center) > [!note] Combat Step by Step
+*Source: Adventurer's Codex (2014), p. 189* The clatter of a sword striking against a shield. The terrible rending sound as monstrous claws tear through armor. A brilliant flash of light as a ball of flame blossoms from a wizard's spell. The sharp tang of blood in the air, cutting through the stench of vile monsters. Roars of fury, shouts of triumph, cries of pain. Combat in D&D can be chaotic, deadly, and thrilling. This chapter provides the rules you need for your characters and monsters to engage in combat, whether it is a brief skirmish or an extended conflict in a dungeon or on a field of battle. Throughout this chapter, the rules address you, the player or Dungeon Master. The Dungeon Master controls all the monsters and nonplayer characters involved in combat, and each other player controls an adventurer. "You" can also mean the character or monster that you control. ![](/03_Mechanics/CLI/books/players-handbook-2014/img/ch9.webp#center) > [!note] Combat Step by Step
 
 > > - **1. Determine surprise.** The DM determines whether anyone involved in the combat encounter is [[conditions#Surprised|surprised]]. > - **2. Establish positions.** The DM decides where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the DM figures out where the adversaries are—how far away and in what direction. > - **3. Roll initiative.** Everyone involved in the combat encounter rolls initiative, determining the order of combatants' turns. > - **4. Take turns.** Each participant in the battle takes a turn in initiative order. > - **5. Begin the next round.** When everyone involved in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops. ^combat-step-by-step ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## The Order of Combat A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting. The game organizes the chaos of combat into a cycle of rounds and turns. A round represents about 6 seconds in the game world. During a round, each participant in a battle takes a turn. The order of turns is determined at the beginning of a combat encounter, when everyone rolls initiative. Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other. ### Surprise A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them. A gelatinous cube glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other. The DM determines who might be [[conditions#Surprised|surprised]]. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the DM compares the Dexterity ([[skills#Stealth|Stealth]]) checks of anyone hiding with the passive Wisdom ([[skills#Perception|Perception]]) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is [[conditions#Surprised|surprised]] at the start of the encounter. If you're [[conditions#Surprised|surprised]], you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends. A member of a group can be [[conditions#Surprised|surprised]] even if the other members aren't. ### Initiative Initiative determines the order of turns during combat. When combat starts, every participant makes a Dexterity check to determine their place in the initiative order. The DM makes one roll for an entire group of identical creatures, so each member of the group acts at the same time. The DM ranks the combatants in order from the one with the highest Dexterity check total to the one with the lowest. This is the order (called the initiative order) in which they act during each round. The initiative order remains the same from round to round. If a tie occurs, the DM decides the order among tied DM-controlled creatures, and the players decide the order among their tied characters. The DM can decide the order if the tie is between a monster and a player character. Optionally, the DM can have the tied characters and monsters each roll a d20 to determine the order, highest roll going first. ### Your Turn On your turn, you can **move** a distance up to your speed and **take one action**. You decide whether to move first or take your action first. Your speed—sometimes called your walking speed—is noted on your character sheet. The most common actions you can take are described in the "Actions in Combat" section later in this chapter. Many class features and other abilities provide additional options for your action. The "Movement and Position" section later in this chapter gives the rules for your move. You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do on your turn, consider taking the [[actions#Dodge|Dodge]] or [[actions#Ready|Ready]] action, as described in "Actions in Combat." #### Bonus Actions Various class features, spells, and other abilities let you take an additional action on your turn called a bonus action. The Cunning Action feature, for example, allows a rogue to take a bonus action. You can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action. You otherwise don't have a bonus action to take. You can take only one bonus action on your turn, so you must choose which bonus action to use when you have more than one available. You choose when to take a bonus action during your turn, unless the bonus action's timing is specified, and anything that deprives you of your ability to take actions also prevents you from taking a bonus action. #### Other Activity on Your Turn Your turn can include a variety of flourishes that require neither your action nor your move. You can communicate however you are able, through brief utterances and gestures, as you take your turn. You can also interact with one object or feature of the environment for free, during either your move or your action. For example, you could open a door during your move as you stride toward a foe, or you could draw your weapon as part of the same action you use to attack. If you want to interact with a second object, you need to use your action. Some magic items and other special objects always require an action to use, as stated in their descriptions. The DM might require you to use an action for any of these activities when it needs special care or when it presents an unusual obstacle. For instance, the DM could reasonably expect you to use an action to open a stuck door or turn a crank to lower a drawbridge. > [!note] Interacting with Objects Around You
 
@@ -51,7 +73,7 @@ world: Both
 > **Squares.** Each square on the grid represents 5 feet.
 > **Speed.** Rather than moving foot by foot, move square by square on the grid. This means you use your speed in 5-foot segments. This is particularly easy if you translate your speed into squares by dividing the speed by 5. For example, a speed of 30 feet translates into a speed of 6 squares.
 > If you use a grid often, consider writing your speed in squares on your character sheet.
-> **Entering a Square.** To enter a square, you must have at least 1 square of movement left, even if the square is diagonally adjacent to the square you're in. (The rule for diagonal movement sacrifices realism for the sake of smooth play. The Dungeon Master's Guide provides guidance on using a more realistic approach.)
+> **Entering a Square.** To enter a square, you must have at least 1 square of movement left, even if the square is diagonally adjacent to the square you're in. (The rule for diagonal movement sacrifices realism for the sake of smooth play. The Worldweaver's Tome provides guidance on using a more realistic approach.)
 > If a square costs extra movement, as a square of difficult terrain does, you must have enough movement left to pay for entering it. For example, you must have at least 2 squares of movement left to enter a square of difficult terrain.
 > **Corners.** Diagonal movement can't cross the corner of a wall, large tree, or other terrain feature that fills its space.
 > **Ranges.** To determine the range on a grid between two things—whether creatures or objects—start counting squares from a square adjacent to one of them and stop counting in the space of the other one. Count by the shortest route.
@@ -112,25 +134,29 @@ world: Both
 Holds a clue about the ancient prophecy
 
 ## See Also
+- [[11 Rules Glossary]]
+- [[NPC01970_Brenna_Dawnstrider_the_Wise]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Xanathar's Guide to Everything (XGE) p.271
-- Tasha's Cauldron of Everything (TCE) p.97
+- Xanathar's Secrets Revealed to Everything (XSR) p.271
+- Tasha's Mystical Formulae of Everything (TMF) p.97
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -138,11 +164,11 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Death Saves**: See PHB p.197
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Death Saves**: See ACX p.197
 
 
 ## Thematic Connections
@@ -152,21 +178,21 @@ Following magic item guidelines (DMG p.135-136):
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

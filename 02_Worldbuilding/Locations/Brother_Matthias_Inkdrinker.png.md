@@ -82,3 +82,7 @@ Recent developments have brought new attention to Brother_Matthias_Inkdrinker.pn
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]

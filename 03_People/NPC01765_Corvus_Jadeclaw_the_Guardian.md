@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.793077
+modified: 2025-08-15T16:41:46.793080
+aliases: [NPC01765 Corvus Jadeclaw the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Delara Xendar the Guardian (Personal - Best friend)|Delara Xendar the Guardian (Personal - Best friend)]]
+- [[#Caelum Winterborn the Cunning (Professional - Employer)|Caelum Winterborn the Cunning (Professional - Employer)]]
+- [[#Felicia Keenblade the Wise (Personal - Best friend)|Felicia Keenblade the Wise (Personal - Best friend)]]
+
+
+---
 aliases: ["Corvus Jadeclaw the Guardian", "corvus jadeclaw the guardian", "Corvus Jadeclaw Guardian", "Guardian the Jadeclaw Corvus"]
 tags: [npc, character]
 type: npc
@@ -241,3 +262,14 @@ Offers deal too good to refuse
 - Connects to [[02_Worldbuilding_Factions_The_Resoce_Keepers]]
 - See also: [[step_048 (phase_093)]]
 - See also: [[Player_Absence]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
+![[03_People/portrait_the_crimson_shard_guardian.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

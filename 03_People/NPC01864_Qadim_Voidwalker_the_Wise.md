@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Qadim Voidwalker the Wise
 
 *Gnome Dark Wizard (Villains), Age 54, Non-binary*

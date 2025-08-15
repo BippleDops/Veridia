@@ -219,3 +219,8 @@ Ongoing situations affecting Keeper of Contracts Minerva Bindingword:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]

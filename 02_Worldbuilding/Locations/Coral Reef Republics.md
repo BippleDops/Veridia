@@ -226,3 +226,7 @@ Ongoing situations affecting Coral Reef Republics:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Archdruid Thornweaver]]

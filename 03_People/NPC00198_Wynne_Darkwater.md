@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.169568
+modified: 2025-08-15T16:41:46.169571
+aliases: [NPC00198 Wynne Darkwater]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Underhill the Lost (Professional - Employer)|Wynne Underhill the Lost (Professional - Employer)]]
+- [[#Erasmus Frostwhisper the Wise (Political - Spy)|Erasmus Frostwhisper the Wise (Political - Spy)]]
+- [[#Hilda Underhill (Criminal - Accomplice)|Hilda Underhill (Criminal - Accomplice)]]
+
+
+---
 aliases: ["Wynne Darkwater", "wynne darkwater", "Darkwater Wynne"]
 tags: [npc, character]
 type: npc
@@ -235,3 +256,14 @@ Needs discrete help with family scandal
 - Affected by [[Interfaith Cooperation (D&D_References)]]
 - Leads to [[Aquabyssos Medical University (D&D_References)]]
 - See also: [[step_085 (phase_087)]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

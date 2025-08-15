@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Ashford the Wanderer
 
 *Dragonborn Cleric (Adventurers), Age 43, Female*

@@ -233,3 +233,9 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]

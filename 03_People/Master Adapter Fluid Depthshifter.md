@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.338252
+modified: 2025-08-15T16:41:42.338254
+aliases: [Master Adapter Fluid Depthshifter]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Abilities|Abilities]]
+- [[#Relationships|Relationships]]
+- [[#Current Activities|Current Activities]]
+- [[#Plot Hooks|Plot Hooks]]
+- [[#DM Notes|DM Notes]]
+- [[#References|References]]
+
+
+---
 aliases: [Master_Adapter_Fluid_Depthshifter, Master-Adapter-Fluid-Depthshifter]
 title: Master Adapter Fluid Depthshifter
 type: npc
@@ -96,8 +121,8 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - [[NEXT_LEVEL_IMPROVEMENTS]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Connections

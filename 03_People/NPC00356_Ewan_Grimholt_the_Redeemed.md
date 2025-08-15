@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Ewan Grimholt the Redeemed
 
 *Tiefling Courtier (Nobles), Age 59, Female*

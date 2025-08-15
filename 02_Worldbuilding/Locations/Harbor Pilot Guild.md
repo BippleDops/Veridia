@@ -216,3 +216,9 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]
+- [[NPC01625_Qadim_Lightbringer_the_Swift]]

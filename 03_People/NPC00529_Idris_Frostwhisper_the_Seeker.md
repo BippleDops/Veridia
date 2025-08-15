@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Frostwhisper the Seeker
 
 *Halfling Baker (Commoners), Age 58, Non-binary*

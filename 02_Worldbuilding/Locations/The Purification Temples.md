@@ -239,3 +239,8 @@ Ongoing situations affecting The Purification Temples:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]

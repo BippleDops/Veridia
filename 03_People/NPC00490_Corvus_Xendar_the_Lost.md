@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.421103
+modified: 2025-08-15T16:41:43.421106
+aliases: [NPC00490 Corvus Xendar the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Brenna Ashford the Guardian (Family - Sibling)|Brenna Ashford the Guardian (Family - Sibling)]]
+- [[#Brenna Winterborn the Fallen (Professional - Rival)|Brenna Winterborn the Fallen (Professional - Rival)]]
+- [[#Corvus Frostwhisper (Criminal - Handler)|Corvus Frostwhisper (Criminal - Handler)]]
+
+
+---
 aliases: ["Corvus Xendar the Lost", "corvus xendar the lost", "Corvus Xendar Lost", "Lost the Xendar Corvus"]
 tags: [npc, character]
 type: npc
@@ -236,3 +257,14 @@ Discovered something valuable
 - Related: [[Abyssal Courts]]
 - See also: [[Currency Exchanger Goldshift]]
 - Related: [[Location City the Harbor Guild V1 the Harbor Guild.svg]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

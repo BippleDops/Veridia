@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.971449
+modified: 2025-08-15T16:41:41.971454
+aliases: [Marcus Shardbreaker Grimm 1]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_marcus_shardbreaker_grimm_friendly.png]]
+
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Relationships|Relationships]]
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Superstitions Improvements|Superstitions Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+
+
+---
 aliases: [Marcus_Shardbreaker_Grimm_1, Marcus-Shardbreaker-Grimm_1]
 
 title: Marcus Shardbreaker Grimm
@@ -289,6 +314,44 @@ Legends speak of Marcus Shardbreaker Grimm as a nexus where past and present con
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
 ## See Also
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[Faction_Guide.md]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[Quick_Start_Guide.md]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[Letter_From_the_Pearl_Guard_Captai]]
+- [[Dockworker_Union_Flyer.md]]
+- [[Ancient_Prophecy_Fragment_Verdan]]
+- [[Currency_Guide_Scrip_and_Shard]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Welcome to Aquabyssos]]
+- [[13 Conditions]]
+- [[09 Adventuring]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[05 Personality and Background]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[Count_Strahd_von_Zarovich]]
+- [[Depth_Adapted_Background.md]]
+- [[Sage Elara]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[The_Corroded_Crown.png]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
 - [[Related_Content]]
 
 
@@ -301,10 +364,10 @@ Legends speak of Marcus Shardbreaker Grimm as a nexus where past and present con
 - [[ULTIMATE_ASSET_REPORT]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Vision**: See PHB p.183
+- **Ability Checks**: See ACX p.174
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Vision**: See ACX p.183
 
 
 ## Connections

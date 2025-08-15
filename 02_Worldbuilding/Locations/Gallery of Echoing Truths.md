@@ -218,3 +218,7 @@ Ongoing situations affecting Gallery of Echoing Truths:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00739_Gavril_Ashford_the_Bold]]

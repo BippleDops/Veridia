@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.843894
+modified: 2025-08-15T16:41:47.843899
+aliases: [Head of Memory Integration Dr. Nautilus Depthcaller (People)]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc_people_standard.png]]
+
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Relationships|Relationships]]
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Superstitions Improvements|Superstitions Improvements]]
+- [[#Evolution Improvements|Evolution Improvements]]
+
+
+---
 
 title: Head of Memory Integration Dr. Nautilus Depthcaller
 aliases:

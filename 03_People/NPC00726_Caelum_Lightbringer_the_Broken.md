@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Caelum Lightbringer the Broken
 
 *Aasimar Blacksmith (Commoners), Age 70, Female*

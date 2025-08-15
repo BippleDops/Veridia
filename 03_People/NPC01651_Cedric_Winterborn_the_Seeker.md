@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Cedric Winterborn the Seeker
 
 *Aasimar Crime Boss (Villains), Age 62, Male*

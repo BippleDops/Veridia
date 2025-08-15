@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Winterborn the Fallen
 
 *Half-Elf Rogue (Adventurers), Age 38, Female*

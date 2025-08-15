@@ -238,3 +238,8 @@ Ongoing situations affecting Portal Network:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]

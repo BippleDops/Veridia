@@ -318,3 +318,7 @@ Mentioned in The Second Prophecy of Shadows
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00095_Fiora_Nightfall]]

@@ -212,3 +212,10 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]

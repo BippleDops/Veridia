@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.213483
+modified: 2025-08-15T16:41:42.213487
+aliases: [NPC01575 Xander Silverleaf the Cunning]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Emberfall the Wanderer (Political - Ally)|Alaric Emberfall the Wanderer (Political - Ally)]]
+- [[#Drusilla Youngblood the Wanderer (Personal - Childhood friend)|Drusilla Youngblood the Wanderer (Personal - Childhood friend)]]
+- [[#Gavril Frostwhisper the Guardian (Political - Spy)|Gavril Frostwhisper the Guardian (Political - Spy)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Xander Silverleaf the Cunning", "xander silverleaf the cunning", "Xander Silverleaf Cunning", "Cunning the Silverleaf Xander"]
 tags: [npc, character]
@@ -156,8 +177,8 @@ Knows secret about major threat
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -267,3 +288,14 @@ Knows secret about major threat
 - Connects to [[ITEM00287_Radiant_Staff_of_the_Ancients]]
 - Originates from [[step_072]]
 - Originates from [[Physical Characteristics Beholder Eyestalk Shape Vgm]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

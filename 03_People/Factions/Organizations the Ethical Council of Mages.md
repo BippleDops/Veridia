@@ -14,6 +14,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![02_Worldbuilding/Organizations/The Ethical Council of Mages](../../04_Resources/Assets/Misc/02_worldbuilding_organizations_the_ethical_council_of_mages.png)
 
 ## 🔧 Deep Evaluation Improvements

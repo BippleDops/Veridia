@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_ancient_green_dragon_xmm_friendly.png]]
+
+
 # ancient-green-dragon-xmm
 
 ## Basic Information

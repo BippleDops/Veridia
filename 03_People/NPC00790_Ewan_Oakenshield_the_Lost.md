@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ewan Oakenshield the Lost
 
 *Dragonborn Baker (Commoners), Age 74, Male*

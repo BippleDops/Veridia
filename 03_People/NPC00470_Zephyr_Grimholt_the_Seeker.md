@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.708508
+modified: 2025-08-15T16:41:46.708513
+aliases: [NPC00470 Zephyr Grimholt the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Pyria Darkwater the Swift (Criminal - Informant)|Pyria Darkwater the Swift (Criminal - Informant)]]
+- [[#Solas Hawthorne the Scholar (Family - Spouse)|Solas Hawthorne the Scholar (Family - Spouse)]]
+- [[#Drusilla Dawnstrider the Scholar (Personal - Childhood friend)|Drusilla Dawnstrider the Scholar (Personal - Childhood friend)]]
+
+
+---
 aliases: ["Zephyr Grimholt the Seeker", "zephyr grimholt the seeker", "Zephyr Grimholt Seeker", "Seeker the Grimholt Zephyr"]
 tags: [npc, character]
 type: npc
@@ -250,3 +271,14 @@ Family member has gone missing
 - Connects to [[Property Markets]]
 - Leads to [[SHOP00049_Magical_Shop_50]]
 - Originates from [[Assets Locations Location City Spy Games Spy Games.svg]]
+
+## Visual References
+![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
+![[03_People/portrait_zephyr_goldwhisper_standard.png]]
+![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

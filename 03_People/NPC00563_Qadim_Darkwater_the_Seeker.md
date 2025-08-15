@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.307088
+modified: 2025-08-15T16:41:43.307091
+aliases: [NPC00563 Qadim Darkwater the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ewan Brightblade the Seeker (Personal - Ex-lover)|Ewan Brightblade the Seeker (Personal - Ex-lover)]]
+- [[#Urien Zephyrblade the Fallen (Political - Spy)|Urien Zephyrblade the Fallen (Political - Spy)]]
+- [[#Erasmus Goldleaf the Mystic (Political - Puppet)|Erasmus Goldleaf the Mystic (Political - Puppet)]]
+
+
+---
 aliases: ["Qadim Darkwater the Seeker", "qadim darkwater the seeker", "Qadim Darkwater Seeker", "Seeker the Darkwater Qadim"]
 tags: [npc, character]
 type: npc
@@ -234,3 +255,14 @@ Witnessed a crime
 - Connects to [[step_094 (phase_036)]]
 - Originates from [[step_032 (phase_052)]]
 - Related: [[Portrait NPC Captain Torrent Freewater V1 Captain Torrent Freewater.svg]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

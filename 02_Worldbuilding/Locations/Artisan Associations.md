@@ -205,3 +205,8 @@ Ongoing situations affecting Artisan Associations:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]

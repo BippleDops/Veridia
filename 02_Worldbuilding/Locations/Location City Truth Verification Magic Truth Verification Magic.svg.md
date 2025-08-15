@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Truth Verificati
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00501_Orion_Nightfall_the_Broken]]

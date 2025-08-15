@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.383106
+modified: 2025-08-15T16:41:43.383110
+aliases: [NPC01582 Solas Crystalbrook the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Felicia Frostwhisper the Cunning (Family - Child)|Felicia Frostwhisper the Cunning (Family - Child)]]
+- [[#Alaric Keenblade the Bold (Political - Ally)|Alaric Keenblade the Bold (Political - Ally)]]
+- [[#Lyanna Blackstone the Risen (Family - Spouse)|Lyanna Blackstone the Risen (Family - Spouse)]]
+
+
+---
 aliases: ["Solas Crystalbrook the Fallen", "solas crystalbrook the fallen", "Solas Crystalbrook Fallen", "Fallen the Crystalbrook Solas"]
 tags: [npc, character]
 type: npc
@@ -252,3 +277,8 @@ Has information about legendary item
 - Affected by [[Duergar in the Clan Clans Notable Trait Mtf]]
 - Affected by [[step_014]]
 - Affected by [[step_057 (phase_099)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

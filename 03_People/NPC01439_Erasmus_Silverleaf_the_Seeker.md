@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Erasmus Silverleaf the Seeker
 
 *Gnome Fighter (Adventurers), Age 44, Non-binary*

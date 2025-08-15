@@ -211,3 +211,10 @@ Mentioned in The Hidden Prophecy of Winds
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[Archdruid Thornweaver]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]

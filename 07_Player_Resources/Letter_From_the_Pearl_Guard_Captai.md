@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:39.648684
+modified: 2025-08-15T16:41:39.648690
+aliases: [Letter From the Pearl Guard Captai]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Diaspora Improvements|Diaspora Improvements]]
+- [[#Material_Culture Improvements|Material_Culture Improvements]]
+- [[#Superstitions Improvements|Superstitions Improvements]]
+- [[#Sensory Improvements|Sensory Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Visual_Handouts/Letter_From_the_Pearl_Guard_Captai
 type: lore
@@ -127,6 +148,48 @@ tags: [combat, lore]
 > Important safety or rule information
 
 ## See Also
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[Depth_Adapted_Background]]
+- [[NPC00649_Corvus_Zephyrblade_the_Broken]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[Sage Elara]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[Pip Goldleaf]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[Character_Journals]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[Party_Inventory]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[Faction_Guide.md]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[Ancient_Prophecy_Fragment_Verdan]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[Pilgrim_Pass_Prayer_Sli]]
+- [[Quiet_Chapel_Oath_Scrol]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[What You Know - Abyssos Prime.md]]
+- [[Currency_Guide_Scrip_and_Shard]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[MOC_NPCs]]
+- [[09 Appendix a the Multiverse]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[MOC_Sessions]]
+- [[Master_Narrative_Web.md]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
 - [[Related_Content]]
 
 
@@ -136,15 +199,15 @@ tags: [combat, lore]
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -248,3 +311,8 @@ tags: [combat, lore]
 - See also: [[step_092 (phase_029)]]
 - Parallels [[NPC00568_Thalia_Brightblade_the_Fallen]]
 - Parallels [[Downtime Activity Researching Phb]]
+
+## Visual References
+![[04_Resources/Assets/Handouts/handout-handout-privateer-letter-of-marque-privateer-letter-of-marque.png]]
+![[04_Resources/Assets/Handouts/handout-handout-love-letter-with-hidden-message-love-letter-with-hidden-message.png]]
+![[04_Resources/Assets/Handouts/handout-handout-love-letter-with-hidden-message-v3-love-letter-with-hidden-message.png]]

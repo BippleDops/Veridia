@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Aldric Proudmore the Redeemed
 
 *Half-Elf Blacksmith (Commoners), Age 20, Non-binary*

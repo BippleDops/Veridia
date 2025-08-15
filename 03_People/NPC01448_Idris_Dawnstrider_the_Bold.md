@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.488610
+modified: 2025-08-15T16:41:46.488613
+aliases: [NPC01448 Idris Dawnstrider the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Nightfall the Wise (Personal - Best friend)|Corvus Nightfall the Wise (Personal - Best friend)]]
+- [[#Brenna Darkwater the Strong (Political - Ally)|Brenna Darkwater the Strong (Political - Ally)]]
+- [[#Erasmus Nightfall the Lost (Personal - Ex-lover)|Erasmus Nightfall the Lost (Personal - Ex-lover)]]
+
+
+---
 aliases: ["Idris Dawnstrider the Bold", "idris dawnstrider the bold", "Idris Dawnstrider Bold", "Bold the Dawnstrider Idris"]
 tags: [npc, character]
 type: npc
@@ -253,3 +274,14 @@ Has information about legendary item
 - Originates from [[step_025 (phase_020)]]
 - Compare with [[hellfire-engine-mpmm (construct)]]
 - Related: [[Dark Shard Amulet Xdmg]]
+
+## Visual References
+![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Qadim Frostwhisper the Bold
 
 *Firbolg Corrupt Noble (Villains), Age 31, Male*

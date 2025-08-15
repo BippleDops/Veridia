@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Erasmus Dawnstrider the Lost
 
 *Aasimar Bard (Adventurers), Age 40, Non-binary*

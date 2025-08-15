@@ -258,3 +258,8 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC01286_Xander_Proudmore_the_Bold]]

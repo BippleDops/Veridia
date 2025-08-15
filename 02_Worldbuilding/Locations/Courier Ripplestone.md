@@ -253,3 +253,8 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]

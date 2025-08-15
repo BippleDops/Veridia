@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.846797
+modified: 2025-08-15T16:41:43.846802
+aliases: [NPC00488 Zephyr Ravenheart the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aldric Youngblood the Lost (Political - Puppet)|Aldric Youngblood the Lost (Political - Puppet)]]
+- [[#Dara Hawthorne the Scholar (Professional - Mentor)|Dara Hawthorne the Scholar (Professional - Mentor)]]
+- [[#Thalia Blackstone the Broken (Family - Parent)|Thalia Blackstone the Broken (Family - Parent)]]
+
+
+---
 aliases: ["Zephyr Ravenheart the Guardian", "zephyr ravenheart the guardian", "Zephyr Ravenheart Guardian", "Guardian the Ravenheart Zephyr"]
 tags: [npc, character]
 type: npc
@@ -238,3 +259,14 @@ Being extorted by criminals
 - Requires [[Assets Locations Location City the Hopekeeper Academy V1 the Hopekeeper Academy.svg]]
 - Connects to [[Guild Seal Document Silverscale Consortiu]]
 - Compare with [[ITEM00363_Venomous_Sword_of_Accuracy]]
+
+## Visual References
+![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
+![[03_People/portrait_zephyr_goldwhisper_standard.png]]
+![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

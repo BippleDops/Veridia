@@ -23,6 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Master Cultivator Polyp Growe](../../../04_Resources/Assets/Misc/master_cultivator_polyp_growe.png)
 
 ## 🔧 Deep Evaluation Improvements

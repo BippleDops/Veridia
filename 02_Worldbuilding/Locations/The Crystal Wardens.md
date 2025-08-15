@@ -747,3 +747,7 @@ Ongoing situations affecting The Crystal Wardens:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Sage Elara]]

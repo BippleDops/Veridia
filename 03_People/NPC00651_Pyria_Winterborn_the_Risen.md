@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.181121
+modified: 2025-08-15T16:41:48.181124
+aliases: [NPC00651 Pyria Winterborn the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Baelor Keenblade the Cunning (Professional - Mentor)|Baelor Keenblade the Cunning (Professional - Mentor)]]
+- [[#Zephyr Moonshadow the Redeemed (Professional - Mentor)|Zephyr Moonshadow the Redeemed (Professional - Mentor)]]
+- [[#Baelor Oakenshield the Wanderer (Criminal - Target)|Baelor Oakenshield the Wanderer (Criminal - Target)]]
+
+
+---
 aliases: ["Pyria Winterborn the Risen", "pyria winterborn the risen", "Pyria Winterborn Risen", "Risen the Winterborn Pyria"]
 tags: [npc, character]
 type: npc
@@ -134,3 +159,9 @@ Being extorted by criminals
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_03_mechanics_cli_bestiary_npc_beledros_witherbloom_scc_dramatic.png]]
+
+
 # /03 Mechanics/CLI/bestiary/npc/beledros-witherbloom-scc
 
 ## Basic Information

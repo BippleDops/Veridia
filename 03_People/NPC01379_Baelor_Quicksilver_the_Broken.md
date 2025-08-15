@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Baelor Quicksilver the Broken
 
 *Half-Orc Bard (Adventurers), Age 53, Male*

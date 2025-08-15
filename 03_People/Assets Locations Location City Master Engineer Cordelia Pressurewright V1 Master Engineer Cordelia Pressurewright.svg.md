@@ -21,6 +21,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_locations_location_city_master_engineer_cordelia_pressurewright_v1_master_engineer_cordelia_pressurewright_svg_standard.png]]
+
+
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*

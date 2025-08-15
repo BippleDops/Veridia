@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.664040
+modified: 2025-08-15T16:41:41.664044
+aliases: [NPC00200 Faelyn Winterborn the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Idris Voidwalker the Risen (Professional - Rival)|Idris Voidwalker the Risen (Professional - Rival)]]
+- [[#Pyria Silverleaf the Risen (Personal - Ex-lover)|Pyria Silverleaf the Risen (Personal - Ex-lover)]]
+- [[#Qadim Keenblade (Professional - Employer)|Qadim Keenblade (Professional - Employer)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Faelyn Winterborn the Guardian", "faelyn winterborn the guardian", "Faelyn Winterborn Guardian", "Guardian the Winterborn Faelyn"]
 tags: [npc, character]
@@ -137,6 +158,48 @@ Needs discrete help with family scandal
 - Special moves
 
 ## See Also
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC00649_Corvus_Zephyrblade_the_Broken]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[Faction_Relationship_Web]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[Faction_Guide.md]]
+- [[Propaganda_Broadsheet_Syndicate.md]]
+- [[Pilgrim_Pass_Prayer_Sli]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[Ancient_Prophecy_Fragment_Verdan]]
+- [[Reference.md]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[09 Adventuring]]
+- [[07 Customization Options]]
+- [[11 Rules Glossary]]
+- [[Keeper Elara Mindwell]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[Complete_NPC_Matrix.md]]
+- [[World_Primer.md]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
 - [[Related_Content]]
 
 
@@ -146,10 +209,10 @@ Needs discrete help with family scandal
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -259,3 +322,14 @@ Needs discrete help with family scandal
 - Influences [[Saint Meridia the Unifier 2]]
 - Parallels [[human-names-french-male-xge (tables)]]
 - Parallels [[15 Chapter 15 the City of Spiders]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
+![[03_People/portrait_the_crimson_shard_guardian.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

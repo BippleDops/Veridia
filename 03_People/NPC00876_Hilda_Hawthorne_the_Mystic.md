@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.471569
+modified: 2025-08-15T16:41:45.471571
+aliases: [NPC00876 Hilda Hawthorne the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Rhiannon Brightblade the Swift (Family - Cousin)|Rhiannon Brightblade the Swift (Family - Cousin)]]
+- [[#Orion Ashford the Mystic (Personal - Childhood friend)|Orion Ashford the Mystic (Personal - Childhood friend)]]
+- [[#Hestara Zephyrblade the Swift (Family - Cousin)|Hestara Zephyrblade the Swift (Family - Cousin)]]
+
+
+---
 aliases: ["Hilda Hawthorne the Mystic", "hilda hawthorne the mystic", "Hilda Hawthorne Mystic", "Mystic the Hawthorne Hilda"]
 tags: [npc, character]
 type: npc
@@ -242,3 +263,14 @@ Seeks rare merchandise
 - Influences [[List Spells Classes Path of the Wild Heart]]
 - See also: [[ITEM00560_Fortified_Shield_of_Protection]]
 - Originates from [[Assets Handouts Handout Handout Merchant Contract with Fine Print V3 Merchant Contract with Fine Print.png]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

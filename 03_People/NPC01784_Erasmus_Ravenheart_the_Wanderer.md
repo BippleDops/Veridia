@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.185676
+modified: 2025-08-15T16:41:46.185679
+aliases: [NPC01784 Erasmus Ravenheart the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hestara Goldleaf the Seeker (Political - Patron)|Hestara Goldleaf the Seeker (Political - Patron)]]
+- [[#Jorah Lightbringer the Bold (Professional - Rival)|Jorah Lightbringer the Bold (Professional - Rival)]]
+- [[#Drusilla Moonshadow the Broken (Political - Patron)|Drusilla Moonshadow the Broken (Political - Patron)]]
+
+
+---
 aliases: ["Erasmus Ravenheart the Wanderer", "erasmus ravenheart the wanderer", "Erasmus Ravenheart Wanderer", "Wanderer the Ravenheart Erasmus"]
 tags: [npc, character]
 type: npc
@@ -243,3 +264,14 @@ Offers deal too good to refuse
 - Compare with [[Customs House]]
 - Affected by [[The Deepmind (D&D_Statblocks)]]
 - See also: [[Royal Ports (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
+![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
+![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

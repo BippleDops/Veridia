@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.284078
+modified: 2025-08-15T16:41:45.284083
+aliases: [NPC00541 Baelor Oakenshield the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Silverleaf (Political - Patron)|Corvus Silverleaf (Political - Patron)]]
+- [[#Hestara Voidwalker the Bold (Criminal - Target)|Hestara Voidwalker the Bold (Criminal - Target)]]
+- [[#Idris Brightblade the Broken (Political - Spy)|Idris Brightblade the Broken (Political - Spy)]]
+
+
+---
 aliases: ["Baelor Oakenshield the Strong", "baelor oakenshield the strong", "Baelor Oakenshield Strong", "Strong the Oakenshield Baelor"]
 tags: [npc, character]
 type: npc
@@ -239,3 +260,14 @@ Being extorted by criminals
 - Leads to [[DUN00138_Dungeon_139]]
 - Requires [[LORE00065_Prophecies_Entry_66]]
 - Compare with [[Marina Dreamwhisper]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

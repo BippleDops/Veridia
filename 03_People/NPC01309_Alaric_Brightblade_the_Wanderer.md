@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.765234
+modified: 2025-08-15T16:41:45.765237
+aliases: [NPC01309 Alaric Brightblade the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aldric Zephyrblade the Lost (Criminal - Handler)|Aldric Zephyrblade the Lost (Criminal - Handler)]]
+- [[#Erasmus Dawnstrider the Risen (Criminal - Handler)|Erasmus Dawnstrider the Risen (Criminal - Handler)]]
+- [[#Xander Youngblood the Cunning (Political - Ally)|Xander Youngblood the Cunning (Political - Ally)]]
+
+
+---
 aliases: ["Alaric Brightblade the Wanderer", "alaric brightblade the wanderer", "Alaric Brightblade Wanderer", "Wanderer the Brightblade Alaric"]
 tags: [npc, character]
 type: npc
@@ -244,3 +265,14 @@ Forming expedition to dangerous location
 - Influences [[The_Conductor.png]]
 - Related: [[ENC00079_Social_Encounter_80]]
 - Originates from [[Assets Locations Location City Ancient Treasury of Tides Ancient Treasury of Tides.svg]]
+
+## Visual References
+![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Gareth Nightfall the Broken
 
 *Dwarf Caravan Master (Merchants), Age 19, Non-binary*

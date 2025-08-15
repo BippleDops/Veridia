@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Dawnstrider the Guardian
 
 *Aasimar Carpenter (Commoners), Age 45, Male*

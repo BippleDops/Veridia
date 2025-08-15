@@ -543,3 +543,7 @@ The Lock was established in the distant past, growing from humble beginnings to 
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00407_Hestara_Dawnstrider]]

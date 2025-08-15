@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Brenna Blackstone the Bold
 
 *Goliath Fisher (Commoners), Age 19, Non-binary*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.925832
+modified: 2025-08-15T16:41:43.925836
+aliases: [NPC01044 Lyanna Ravenheart the Broken]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Faelyn Jadeclaw the Lost (Personal - Best friend)|Faelyn Jadeclaw the Lost (Personal - Best friend)]]
+- [[#Nerys Grimholt the Wanderer (Political - Patron)|Nerys Grimholt the Wanderer (Political - Patron)]]
+- [[#Caelum Hawthorne the Risen (Personal - Best friend)|Caelum Hawthorne the Risen (Personal - Best friend)]]
+
+
+---
 aliases: ["Lyanna Ravenheart the Broken", "lyanna ravenheart the broken", "Lyanna Ravenheart Broken", "Broken the Ravenheart Lyanna"]
 tags: [npc, character]
 type: npc
@@ -240,3 +261,14 @@ Has map to lost treasure
 - Influences [[step_083 (phase_021)]]
 - Leads to [[LORE00082_Prophecies_Entry_83]]
 - Leads to [[SHOP00061_General_Shop_62]]
+
+## Visual References
+![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
+![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
+![[03_People/portrait_captain_lyanna_brightshield.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

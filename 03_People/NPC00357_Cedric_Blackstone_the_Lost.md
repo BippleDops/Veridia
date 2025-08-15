@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Cedric Blackstone the Lost
 
 *Halfling Noble (Nobles), Age 61, Non-binary*

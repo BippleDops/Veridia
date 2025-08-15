@@ -259,3 +259,8 @@ Ongoing situations affecting Liberty Coalition:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
+- [[NPC00162_Xander_Thornweave]]

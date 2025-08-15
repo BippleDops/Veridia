@@ -159,3 +159,8 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01625_Qadim_Lightbringer_the_Swift]]
+- [[NPC00395_Aeliana_Thornweave]]

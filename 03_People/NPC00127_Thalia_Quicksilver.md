@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.160004
+modified: 2025-08-15T16:41:44.160006
+aliases: [NPC00127 Thalia Quicksilver]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Delara Frostwhisper the Scholar (Professional - Partner)|Delara Frostwhisper the Scholar (Professional - Partner)]]
+- [[#Lyanna Hawthorne (Professional - Employer)|Lyanna Hawthorne (Professional - Employer)]]
+- [[#Erasmus Xendar (Criminal - Target)|Erasmus Xendar (Criminal - Target)]]
+
+
+---
 aliases: ["Thalia Quicksilver", "thalia quicksilver", "Quicksilver Thalia"]
 tags: [npc, character]
 type: npc
@@ -243,3 +264,14 @@ Wants rivals investigated
 - Requires [[NPC00717_Drusilla_Ironforge_the_Risen]]
 - Parallels [[Gill-Men]]
 - Connects to [[step_073 (phase_100)]]
+
+## Visual References
+![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

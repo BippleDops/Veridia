@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gareth Proudmore the Risen
 
 *Elf Noble (Nobles), Age 24, Non-binary*

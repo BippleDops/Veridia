@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hestara Zephyrblade the Lost
 
 *Goliath Caravan Master (Merchants), Age 38, Non-binary*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.321026
+modified: 2025-08-15T16:41:43.321029
+aliases: [NPC00572 Zephyr Thornweave the Risen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Goldleaf the Lost (Professional - Rival)|Alaric Goldleaf the Lost (Professional - Rival)]]
+- [[#Ysara Underhill the Seeker (Personal - Love interest)|Ysara Underhill the Seeker (Personal - Love interest)]]
+- [[#Kaelen Darkwater the Fallen (Criminal - Accomplice)|Kaelen Darkwater the Fallen (Criminal - Accomplice)]]
+
+
+---
 aliases: ["Zephyr Thornweave the Risen", "zephyr thornweave the risen", "Zephyr Thornweave Risen", "Risen the Thornweave Zephyr"]
 tags: [npc, character]
 type: npc
@@ -244,3 +265,14 @@ Discovered something valuable
 - Related: [[QUEST00357_Side_Quest_358]]
 - See also: [[location-city-fire-crystal-v1-fire-crystal.svg]]
 - Compare with [[FAC00071_Cults_72]]
+
+## Visual References
+![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
+![[03_People/portrait_zephyr_goldwhisper_standard.png]]
+![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

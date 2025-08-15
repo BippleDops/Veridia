@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gareth Voidwalker the Wise
 
 *Aasimar Noble (Nobles), Age 39, Non-binary*

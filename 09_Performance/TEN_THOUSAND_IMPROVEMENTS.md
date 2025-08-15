@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:22.084585
+modified: 2025-08-15T16:41:22.084592
+aliases: [TEN THOUSAND IMPROVEMENTS]
+---
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#See Also|See Also]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
+---
 enhanced: trtags: [enhanced, 09_performance, combat, magic, lore]ce]
 created: 2025-08-15T12:24:36.101769
 modified: 2025-08-15T12:24:36.101771
@@ -29,6 +46,7 @@ cssclass: standard
 publish: false --- # 🚀 10,000 Improvements Report ## Executive Summary ## Description
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending. Targeted **30,056** improvements across **2839** files. ## Statistics by Category | Category | Cou
+*The air carries the scent of [appropriate smell].*
 *The air carries the scent of [appropriate smell].*nt | |----------|-------|
 | NPCs Enhanced | 807 |
 | Locations Enhanced | 1562 |
@@ -96,20 +114,20 @@ young-white-dragon-xmm: added reputation Militant-Priest Abyssal: added daily ro
 - [[NEXT_LEVEL_IMPROVEMENTS]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
 
 ## Connections
 

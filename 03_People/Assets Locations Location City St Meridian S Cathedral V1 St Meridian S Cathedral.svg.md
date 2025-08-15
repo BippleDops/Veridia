@@ -20,6 +20,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_locations_location_city_st_meridian_s_cathedral_v1_st_meridian_s_cathedral_svg_friendly.png]]
+
+
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*

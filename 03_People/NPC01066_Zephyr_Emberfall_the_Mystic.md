@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Zephyr Emberfall the Mystic
 
 *Dragonborn Shopkeeper (Merchants), Age 36, Female*

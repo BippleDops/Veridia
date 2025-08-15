@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Cedric Voidwalker the Cunning
 
 *Gnome Blacksmith (Commoners), Age 77, Non-binary*

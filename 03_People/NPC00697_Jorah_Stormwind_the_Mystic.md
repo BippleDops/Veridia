@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Jorah Stormwind the Mystic
 
 *Tiefling Blacksmith (Commoners), Age 29, Non-binary*

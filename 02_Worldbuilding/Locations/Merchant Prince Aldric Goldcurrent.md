@@ -217,3 +217,7 @@ Ongoing situations affecting Merchant Prince Aldric Goldcurrent:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]

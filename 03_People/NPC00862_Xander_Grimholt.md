@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Xander Grimholt
 
 *Half-Orc Broker (Merchants), Age 54, Non-binary*

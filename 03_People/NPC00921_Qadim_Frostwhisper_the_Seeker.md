@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Qadim Frostwhisper the Seeker
 
 *Genasi Caravan Master (Merchants), Age 25, Male*

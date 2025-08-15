@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Urien Ashford the Wanderer
 
 *Aasimar Shopkeeper (Merchants), Age 27, Female*

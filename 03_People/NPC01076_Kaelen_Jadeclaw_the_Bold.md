@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Kaelen Jadeclaw the Bold
 
 *Dragonborn Trader (Merchants), Age 32, Female*

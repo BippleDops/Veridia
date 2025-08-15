@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_03_mechanics_cli_bestiary_humanoid_quandrix_professor_of_theory_scc_dramatic.png]]
+
+
 # /03 Mechanics/CLI/bestiary/humanoid/quandrix-professor-of-theory-scc
 
 ## Basic Information

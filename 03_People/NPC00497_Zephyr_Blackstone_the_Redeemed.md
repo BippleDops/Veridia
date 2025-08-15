@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Zephyr Blackstone the Redeemed
 
 *Tabaxi Blacksmith (Commoners), Age 75, Female*

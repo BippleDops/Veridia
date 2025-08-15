@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.295910
+modified: 2025-08-15T16:41:41.295913
+aliases: [NPC00815 Baelor Thornweave the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Kaelen Oakenshield the Swift (Political - Ally)|Kaelen Oakenshield the Swift (Political - Ally)]]
+- [[#Dara Dawnstrider the Cunning (Criminal - Handler)|Dara Dawnstrider the Cunning (Criminal - Handler)]]
+- [[#Rhiannon Blackstone the Wise (Political - Patron)|Rhiannon Blackstone the Wise (Political - Patron)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Baelor Thornweave the Swift", "baelor thornweave the swift", "Baelor Thornweave Swift", "Swift the Thornweave Baelortags: [npc, character, combat, magic, social, lore]er]
 type: npc
@@ -6,7 +27,7 @@ type: npc
 
 # Baelor Thornweave the Swift
 
-*Aasimar Shopkeeper (Merchants), Age 28, Female*
+*Aasimar Shopkeeper ([[Merchant]]s), Age 28, Female*
 
 **ID**: NPC00815
 
@@ -31,7 +52,7 @@ Average height and stocky, with Dreadlocks brown hair and Brown eyes. Tan skin. 
 - **Dream**: Finding true love
 
 ## Background
-Built their business from nothing through cunning and hard work An old debt has come due at the worst possible time.
+Built their business from nothing through cunning and hard work An old debt has come due at the worst possible [[Time]].
 
 ## Current Situation
 - **Occupation**: Weapons dealer
@@ -134,13 +155,38 @@ Competitor sabotaging business
 - Special moves
 
 ## Combat Stats
-Base: **Veteran** (MM p.350)
+Base: **Veteran** (BC p.350)
 Modifications:
 - HP: 12
 - AC: 15
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[Party_Quests]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[11 Spellcasting]]
+- [[13 Conditions]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
 - [[Related_Content]]
 
 
@@ -150,9 +196,9 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -165,11 +211,11 @@ Modifications:
 - Parallels [[ITEM00854_Void-touched_Crown_of_Dominion]]
 - Leads to [[Business Coalitions]]
 - Requires [[Archcrystallographer Clarity]]
-- Leads to [[Assets Locations Location City Shadow Market Canals Shadow Market Canals.svg]]
+- Leads to [[Assets Locations [[Location City [[Shadow Market Canals]] Shadow Market Canals.svg]]]]
 - Related: [[QUEST00211_Personal_Quest_212]]
-- Parallels [[Location City the Spectral Gallery V1 the Spectral Gallery.svg]]
+- Parallels [[Location City [[The Spectral Gallery]] V1 the Spectral Gallery.svg]]
 - Requires [[Druid Xphb Circle of the Shepherd Xge]]
-- Related: [[Aquabyssos Technical University (D&D_References)]]
+- Related: [[[[Aquabyssos]] Technical University (D&D_References)]]
 - Parallels [[Data Analyst Current Patternweave 2]]
 - Influences [[08-using-ability-scores#Dexterity]]
 - Parallels [[ENC00080_Environmental_Encounter_81]]
@@ -199,10 +245,10 @@ Modifications:
 - Related: [[EVENT00021_Magical_Event_22]]
 - Connects to [[step_057]]
 - See also: [[step_088]]
-- Compare with [[Location City Keeper Finn Goodtide V1 Keeper Finn Goodtide.svg]]
+- Compare with [[Location City [[Keeper [[Finn Goodtide]]]] V1 Keeper Finn Goodtide.svg]]
 - Parallels [[step_062 (phase_038)]]
 - Influences [[step_010 (phase_049)]]
-- Compare with [[Deep Current Flowmaster (D&D_References)]]
+- Compare with [[[[Deep Current Flowmaster]] (D&D_References)]]
 - See also: [[step_089 (phase_046)]]
 - Originates from [[step_065 (phase_083)]]
 - Affected by [[Economic Development Director Carmen Commerc 2]]
@@ -211,16 +257,16 @@ Modifications:
 - Leads to [[Coastal Encounters Levels 510 Xge]]
 - Connects to [[burnt-othur-fumes-xdmg (items)]]
 - Leads to [[step_007 (phase_048)]]
-- Originates from [[Gatekeeper Iron-Lung Boris 2]]
+- Originates from [[[[Gatekeeper Iron-Lung Boris]] 2]]
 - Related: [[step_012 (phase_014)]]
 - Compare with [[step_091 (phase_066)]]
 - Requires [[lamp-xphb (items)]]
 - Compare with [[step_014 (phase_097)]]
-- Leads to [[Location City Memorial Mason Kane V1 Memorial Mason Kane.svg]]
+- Leads to [[Location City [[Memorial Mason Kane]] V1 Memorial Mason Kane.svg]]
 - Related: [[Quaals Feather Token Tree Xdmg]]
 - Related: [[LOC0124_Hillford]]
 - Influences [[Master Resonants 2]]
-- Parallels [[Assets Locations Location City the Lost Shipment V1 the Lost Shipment.svg]]
+- Parallels [[Assets Locations Location City [[The Lost Shipment]] V1 the Lost Shipment.svg]]
 - Connects to [[Prep Note 2]]
 - Influences [[LORE00169_Prophecies_Entry_170]]
 - Related: [[EVENT00023_Political_Event_24]]
@@ -230,11 +276,11 @@ Modifications:
 - Connects to [[SPELL00034_Arcane_Spell_35]]
 - Requires [[LOC00033_Cities_Location_34]]
 - Affected by [[Quest - The Debt Crown]]
-- Compare with [[Assets Locations Location City Port Crystalfall V1 Port Crystalfall.svg]]
+- Compare with [[Assets Locations [[Location City [[Port Crystalfall]] V1 Port Crystalfall.svg]]]]
 - Requires [[step_019 (phase_075)]]
 - Parallels [[heavy-armor-master-xphb (feats)]]
 - Compare with [[Quest - Succession Crisis]]
-- Requires [[Innkeeper Marina Dreamwhisper (D&D_References)]]
+- Requires [[Innkeeper [[Marina Dreamwhisper]] (D&D_References)]]
 - Originates from [[07-chapter-7-treasure (dungeon-masters-guide-2024)]]
 - Originates from [[Talking Doll Xdmg]]
 - Requires [[step_089 (phase_076)]]
@@ -245,9 +291,9 @@ Modifications:
 - Related: [[Cross-Dimensional Transit Authority]]
 - Related: [[red-dragon-wyrmling-xmm (dragon)]]
 - Originates from [[Time Stream Disruptions]]
-- Compare with [[Assets Locations Location City Diplomatic Service Diplomatic Service.svg]]
+- Compare with [[Assets Locations Location City [[Diplomatic Service]] Diplomatic Service.svg]]
 - Originates from [[Master Cultivators Guild]]
-- Connects to [[Prophetic Studies Institute (D&D_References)]]
+- Connects to [[[[Prophetic Studies]] Institute (D&D_References)]]
 - Compare with [[Defense Captain Ironguard]]
 - Connects to [[step_097 (phase_035)]]
 - Requires [[sending-xphb (spells)]]
@@ -262,3 +308,14 @@ Modifications:
 - Parallels [[LORE00049_History_Entry_50]]
 - Requires [[The Depth Herald]]
 - Requires [[QUEST00142_Personal_Quest_143]]
+
+## Visual References
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:34.226056
+modified: 2025-08-15T16:41:34.226058
+aliases: [Parliamentary Voting Guide]
+---
+
+## Table of Contents
+- [[#Voting Eligibility|Voting Eligibility]]
+- [[#Proposition A-7: Crystal Mining Expansion|Proposition A-7: Crystal Mining Expansion]]
+- [[#Proposition B-3: Shadow Conspiracy Investigation|Proposition B-3: Shadow Conspiracy Investigation]]
+- [[#Proposition C-1: Cross-Realm Alliance|Proposition C-1: Cross-Realm Alliance]]
+- [[#Voting Process|Voting Process]]
+- [[#Your Representatives|Your Representatives]]
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#Connection Improvements|Connection Improvements]]
+- [[#Enhancement Improvements|Enhancement Improvements]]
+- [[#Related|Related]]
+
+
+---
 title: Parliamentary_Voting_Guide
 type: note
 tags:
@@ -137,6 +158,7 @@ Contextual improvement based on 07_Player_Resources
 > Hidden treasure can be found here with a DC 15 Investigation check
 
 ## See Also
+- [[10 Appendix B Creature Stat Blocks]]
 - [[Related_Content]]
 
 
@@ -146,18 +168,18 @@ Contextual improvement based on 07_Player_Resources
 - [[10 Combat]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Combat**: See PHB p.189-198
+- **Ability Checks**: See ACX p.174
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
 
 ## Connections
 
@@ -261,3 +283,8 @@ Contextual improvement based on 07_Player_Resources
 - Leads to [[step_010 (phase_089)]]
 - Related: [[LOC0082_Watchwick]]
 - Originates from [[Dracolich Xmm]]
+
+## Visual References
+![[04_Resources/Assets/Misc/quest___parliamentary_corruptio.png]]
+![[04_Resources/Assets/Misc/parliamentary_archives.png]]
+![[04_Resources/Assets/Misc/parliamentary_speakers.png]]

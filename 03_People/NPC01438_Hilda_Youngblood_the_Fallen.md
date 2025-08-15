@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.447319
+modified: 2025-08-15T16:41:41.447322
+aliases: [NPC01438 Hilda Youngblood the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Brenna Thornweave the Swift (Family - Parent)|Brenna Thornweave the Swift (Family - Parent)]]
+- [[#Wynne Proudmore the Cunning (Criminal - Target)|Wynne Proudmore the Cunning (Criminal - Target)]]
+- [[#Ewan Dawnstrider the Wise (Criminal - Fence)|Ewan Dawnstrider the Wise (Criminal - Fence)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Hilda Youngblood the Fallen", "hilda youngblood the fallen", "Hilda Youngblood Fallen", "Fallen the Youngblood Hildatags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
@@ -31,7 +56,7 @@ Very tall and compact, with Wild and unkempt blonde hair and Violet eyes. Dark s
 - **Dream**: Building an empire
 
 ## Background
-Seeking vengeance for a murdered mentor An old debt has come due at the worst possible time.
+Seeking vengeance for a murdered mentor An old debt has come due at the worst possible [[Time]].
 
 ## Current Situation
 - **Occupation**: Bodyguard
@@ -149,6 +174,38 @@ Needs help with personal quest
 - Special moves
 
 ## See Also
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00080_Branwen_Proudmore]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[Keeper Elara Mindwell]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[Depth_Adapted_Background]]
+- [[What You Know - Abyssos Prime.md]]
+- [[Player_Feedback_Form.md]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[Reference.md]]
+- [[11 Spellcasting]]
+- [[03 Races]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[11 Rules Glossary]]
+- [[Party_Quests]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[NPC00820_Thalia_Nightfall_the_Risen]]
+- [[The_Corroded_Crown.png]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[MOC_Lore]]
+- [[MOC_Rules]]
 - [[Related_Content]]
 
 
@@ -158,9 +215,9 @@ Needs help with personal quest
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -178,7 +235,7 @@ Needs help with personal quest
 - Compare with [[Master Resonant]]
 - Related: [[step_020 (phase_029)]]
 - Compare with [[Greek Hera]]
-- Parallels [[Location City Antiquarian Eliza Tidecaller V1 Antiquarian Eliza Tidecaller.svg]]
+- Parallels [[Location City [[Antiquarian Eliza Tidecaller]] V1 Antiquarian Eliza Tidecaller.svg]]
 - Requires [[step_090 (phase_054)]]
 - Requires [[step_089 (phase_082)]]
 - See also: [[Monsters by Habitat Mountain Monsters Xmm]]
@@ -189,7 +246,7 @@ Needs help with personal quest
 - Compare with [[Trade Minister Gale Goldwind]]
 - Originates from [[Discover Shadow Market Location]]
 - Requires [[step_053]]
-- Compare with [[Assets Locations Location City Crystal Cult Temples Crystal Cult Temples.svg]]
+- Compare with [[Assets Locations [[Location City [[Crystal Cult Temples]] Crystal Cult Temples.svg]]]]
 - Related: [[weather]]
 - Leads to [[location-city-fresh-cleanwave-fresh-cleanwave.svg]]
 - Originates from [[Location City Crystals Curiosities Crystals Curiosities.svg]]
@@ -203,15 +260,15 @@ Needs help with personal quest
 - Compare with [[Marina Mindwell]]
 - Influences [[step_020 (phase_083)]]
 - Requires [[The Coral Architecture Philosophy 2]]
-- See also: [[Merchant Quarter Guildhalls 2]]
-- See also: [[Assets Locations Location City Duchess Seraphina Crimsontide V1 Duchess Seraphina Crimsontide.svg]]
+- See also: [[[[[[[[Merchant]] Quarter]] Guildhalls]] 2]]
+- See also: [[Assets Locations [[Location City [[Duchess Seraphina Crimsontide]] V1 Duchess Seraphina Crimsontide.svg]]]]
 - Connects to [[MON00134_Aberrations_Creature_135]]
 - Requires [[Symbol Heraldry Mas... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[Initiative Xphb]]
 - Requires [[The Original Target]]
 - Related: [[NPC01804_Xander_Ravenheart_the_Scholar]]
 - Influences [[step_016 (phase_027)]]
-- Influences [[Assets Locations Location City the Deepwater Current the Deepwater Current.svg]]
+- Influences [[Assets Locations [[Location City [[The Deepwater Current]] the Deepwater Current.svg]]]]
 - Related: [[step_032 (phase_012)]]
 - Leads to [[Portrait NPC Quest the Corruption Cure Quest the Corruption Cure.svg]]
 - Parallels [[The Memory Keepers]]
@@ -220,7 +277,7 @@ Needs help with personal quest
 - See also: [[Portrait NPC Tenebrarum Ambassadors V1 Tenebrarum Ambassadors.svg_1 (Portraits)]]
 - Related: [[step_033]]
 - Requires [[Shadow Reflection Sage (D&D_References)]]
-- See also: [[The Phosphor Markets (D&D_References)]]
+- See also: [[[[The Phosphor Markets]] (D&D_References)]]
 - Compare with [[data]]
 - Requires [[step_064 (phase_049)]]
 - Connects to [[Melfs Acid Arrow Xphb]]
@@ -234,7 +291,7 @@ Needs help with personal quest
 - Influences [[step_031]]
 - Compare with [[step_048 (phase_063)]]
 - Connects to [[brass-dragon-xmm (legendary-group)]]
-- Leads to [[Symbol Heraldry Aquabyssos Faction Web V1 Aquabyssos Faction Web.svg_1 (Symbols)]]
+- Leads to [[Symbol Heraldry [[Aquabyssos]] Faction Web V1 Aquabyssos Faction Web.svg_1 (Symbols)]]
 - Requires [[Quest - War of Tides_1 (01_Adventures)]]
 - See also: [[The Anonymous Inquisitor (D&D_References)]]
 - See also: [[armor-class-xphb (variant-rules)]]
@@ -253,13 +310,13 @@ Needs help with personal quest
 - Leads to [[mordenkainens-magnificent-mansion-xphb (spells)]]
 - Originates from [[FAC00055_Cults_56]]
 - Requires [[Cultural Ministry]]
-- Requires [[Azure Citadel (D&D_References)]]
+- Requires [[[[Azure Citadel]] (D&D_References)]]
 - Requires [[The Convergence Crisis (D&D_References)]]
-- Requires [[Assets Locations Location City the Deep Patrol V1 the Deep Patrol.svg]]
-- Influences [[Location City the Bone Colosseum V1 the Bone Colosseum.svg]]
+- Requires [[Assets Locations [[Location City [[The Deep Patrol]] V1 the Deep Patrol.svg]]]]
+- Influences [[Location City [[The Bone Colosseum]] V1 the Bone Colosseum.svg]]
 - Connects to [[Symbol Heraldry the Great Recognition V1 the Great Recognition.svg]]
 - Leads to [[Figurine of Wondrous Power Xdmg]]
-- Affected by [[Fresh Cleanwave 2]]
+- Affected by [[[[Fresh Cleanwave]] 2]]
 - Requires [[step_042 (phase_057)]]
 - See also: [[step_006]]
 - Affected by [[NPC00843_Vesper_Thornweave_the_Redeemed]]
@@ -269,4 +326,9 @@ Needs help with personal quest
 - Parallels [[NPC00427_Urien_Xendar]]
 - Affected by [[giant-centipede-xmm (beast)]]
 - Connects to [[step_072 (phase_094)]]
-- Leads to [[Assets Locations Location City the Grove Keepers V1 the Grove Keepers.svg]]
+- Leads to [[Assets Locations [[Location City [[The Grove Keepers]] V1 the Grove Keepers.svg]]]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

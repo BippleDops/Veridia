@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 ![Cultural Patron](../../../04_Resources/Assets/Misc/cultural_patron.png)
 
 ## 🔧 Deep Evaluation Improvements

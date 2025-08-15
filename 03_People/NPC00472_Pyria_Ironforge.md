@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.842523
+modified: 2025-08-15T16:41:42.842527
+aliases: [NPC00472 Pyria Ironforge]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Delara Goldleaf the Broken (Personal - Love interest)|Delara Goldleaf the Broken (Personal - Love interest)]]
+- [[#Erasmus Crystalbrook the Mystic (Political - Ally)|Erasmus Crystalbrook the Mystic (Political - Ally)]]
+- [[#Xander Moonshadow (Personal - Nemesis)|Xander Moonshadow (Personal - Nemesis)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Pyria Ironforge", "pyria ironforge", "Ironforge Pyria"]
 tags: [npc, character]
@@ -148,10 +169,10 @@ Witnessed a crime
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -261,3 +282,14 @@ Witnessed a crime
 - Affected by [[step_088 (phase_042)]]
 - Requires [[Historical Research (D&D_References)]]
 - See also: [[tinderbox-xphb (items)]]
+
+## Visual References
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

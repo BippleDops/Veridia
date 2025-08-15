@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.422881
+modified: 2025-08-15T16:41:45.422884
+aliases: [NPC00700 Corvus Hawthorne the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Winterborn the Lost (Family - Parent)|Corvus Winterborn the Lost (Family - Parent)]]
+- [[#Delara Emberfall the Cunning (Personal - Love interest)|Delara Emberfall the Cunning (Personal - Love interest)]]
+- [[#Kaelen Ashford the Broken (Political - Patron)|Kaelen Ashford the Broken (Political - Patron)]]
+
+
+---
 aliases: ["Corvus Hawthorne the Broken", "corvus hawthorne the broken", "Corvus Hawthorne Broken", "Broken the Hawthorne Corvus"]
 tags: [npc, character]
 type: npc
@@ -240,3 +265,8 @@ Discovered something valuable
 - Connects to [[step_065 (phase_091)]]
 - Parallels [[step_092 (phase_020)]]
 - Leads to [[Prism Truthweight]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

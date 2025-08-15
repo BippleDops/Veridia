@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aeliana Zephyrblade the Swift
 
 *Dragonborn Cleric (Adventurers), Age 26, Female*

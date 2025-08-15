@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Orion Hawthorne the Bold
 
 *Tabaxi Aristocrat (Nobles), Age 47, Male*

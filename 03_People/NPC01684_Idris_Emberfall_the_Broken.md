@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.307619
+modified: 2025-08-15T16:41:48.307623
+aliases: [NPC01684 Idris Emberfall the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Baelor Quicksilver the Swift (Political - Puppet)|Baelor Quicksilver the Swift (Political - Puppet)]]
+- [[#Hilda Ravenheart the Wanderer (Professional - Partner)|Hilda Ravenheart the Wanderer (Professional - Partner)]]
+- [[#Alaric Jadeclaw the Bold (Political - Opposition)|Alaric Jadeclaw the Bold (Political - Opposition)]]
+
+
+---
 aliases: ["Idris Emberfall the Broken", "idris emberfall the broken", "Idris Emberfall Broken", "Broken the Emberfall Idris"]
 tags: [npc, character]
 type: npc
@@ -144,3 +169,9 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

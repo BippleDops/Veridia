@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.301480
+modified: 2025-08-15T16:41:44.301484
+aliases: [NPC00799 Faelyn Grimholt the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hilda Frostwhisper the Strong (Professional - Partner)|Hilda Frostwhisper the Strong (Professional - Partner)]]
+- [[#Caelum Nightfall the Cunning (Professional - Mentor)|Caelum Nightfall the Cunning (Professional - Mentor)]]
+- [[#Idris Stormwind the Mystic (Family - Cousin)|Idris Stormwind the Mystic (Family - Cousin)]]
+
+
+---
 aliases: ["Faelyn Grimholt the Risen", "faelyn grimholt the risen", "Faelyn Grimholt Risen", "Risen the Grimholt Faelyn"]
 tags: [npc, character]
 type: npc
@@ -234,3 +259,8 @@ Witnessed a crime
 - See also: [[Scene Scene Sky Whale Migration at Sunset Sky Whale Migration at Sunset.png]]
 - See also: [[Dawn War Kord Dmg]]
 - Originates from [[NPC00145_Wynne_Underhill_the_Risen]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

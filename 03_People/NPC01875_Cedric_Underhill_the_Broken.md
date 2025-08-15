@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Cedric Underhill the Broken
 
 *Firbolg Dark Wizard (Villains), Age 74, Male*

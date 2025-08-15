@@ -241,3 +241,9 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]

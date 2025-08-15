@@ -252,3 +252,11 @@ Ongoing situations affecting Tidal Stormcrest:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00922_Wynne_Youngblood_the_Fallen]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC00407_Hestara_Dawnstrider]]

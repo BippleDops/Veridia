@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.187901
+modified: 2025-08-15T16:41:41.187904
+aliases: [NPC01429 Zephyr Keenblade the Cunning]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gareth Thornweave the Fallen (Political - Ally)|Gareth Thornweave the Fallen (Political - Ally)]]
+- [[#Kaelen Hawthorne the Wise (Professional - Rival)|Kaelen Hawthorne the Wise (Professional - Rival)]]
+- [[#Baelor Youngblood the Wanderer (Political - Ally)|Baelor Youngblood the Wanderer (Political - Ally)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Zephyr Keenblade the Cunning", "zephyr keenblade the cunning", "Zephyr Keenblade Cunning", "Cunning the Keenblade Zephyrtags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
@@ -18,7 +39,7 @@ type: npc
 ## Appearance
 Very short and imposing, with Mohawk red hair and Blue eyes. Fair skin. Missing ear from old battle.
 
-**Clothing**: Merchant's outfit with many hidden pockets
+**Clothing**: [[Merchant]]'s outfit with many hidden pockets
 **Accessories**: Pocket watch
 
 ## Personality
@@ -148,31 +169,59 @@ Forming expedition to dangerous location
 - Special moves
 
 ## Combat Stats
-Base: **Veteran** (MM p.350)
+Base: **Veteran** (BC p.350)
 Modifications:
 - HP: 29
 - AC: 11
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[Sage Elara]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[Reference.md]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[07 Customization Options]]
+- [[08 Using Ability Scores]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[MOC_Lore]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[MOC_Rules]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Monster Manual (MM) p.131
+- Bestiary Compendium (BC) p.131
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -180,8 +229,8 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -212,8 +261,8 @@ Following magic item guidelines (DMG p.135-136):
 - Requires [[step_028 (phase_016)]]
 - Originates from [[04_Resources_Assets_Locations_location-city-the--cathedral-v1-the--cathedral.svg]]
 - Influences [[portrait-npc-the-siren-v2-the-siren.svg_1 (Portraits)]]
-- Influences [[Assets Locations Location City Harbor Facilities V1 Harbor Facilities.svg]]
-- Compare with [[The Lighthouse Keeper's Ghost 2]]
+- Influences [[Assets Locations [[Location City [[Harbor Facilities]] V1 Harbor Facilities.svg]]]]
+- Compare with [[[[The Lighthouse Keeper's Ghost]] 2]]
 - Related: [[List Spells Classes Warlock]]
 - Requires [[NPC00576_Kaelen_Emberfall_the_Redeemed]]
 - Affected by [[Item Template]]
@@ -222,18 +271,18 @@ Following magic item guidelines (DMG p.135-136):
 - Requires [[Investigative Chronicler Darius Truthseeker]]
 - Parallels [[step_047]]
 - Affected by [[04-classes (players-handbook-2014)]]
-- See also: [[Location City the Recursion Cult the Recursion Cult.png]]
-- Compare with [[Location City Guildmaster Harwick V1 Guildmaster Harwick.png]]
+- See also: [[Location City [[The Recursion Cult]] the Recursion Cult.png]]
+- Compare with [[Location City [[Guildmaster Harwick]] V1 Guildmaster Harwick.png]]
 - Connects to [[step_090 (phase_070)]]
-- Parallels [[Professional Training 2]]
+- Parallels [[[[Professional Training]] 2]]
 - Compare with [[FAC00074_Orders_75]]
 - See also: [[Portrait NPC Memory Harvester Kythara V2 Memory Harvester Kythara.svg]]
-- Influences [[Portrait NPC King Marcus Lumengarde V2 King Marcus Lumengarde.svg]]
+- Influences [[Portrait NPC King Marcus [[Lumengarde]] V2 King Marcus Lumengarde.svg]]
 - Parallels [[step_094]]
-- Leads to [[Location City Port Crystalfall Port Crystalfall.svg]]
+- Leads to [[Location City [[Port Crystalfall]] Port Crystalfall.svg]]
 - Parallels [[Layers of the Abyss Xdmg]]
 - Requires [[step_012 (phase_010)]]
-- Leads to [[Location City Surface Contacts Surface Contacts.svg]]
+- Leads to [[Location City [[Surface Contacts]] Surface Contacts.svg]]
 - Leads to [[Template-Quest]]
 - Leads to [[step_046 (phase_037)]]
 - Parallels [[Veterans Organizations]]
@@ -242,7 +291,7 @@ Following magic item guidelines (DMG p.135-136):
 - Parallels [[step_049 (phase_043)]]
 - Parallels [[ITEM00987_Distilled_Salve_of_Fortune]]
 - Affected by [[Mariners Armor Xdmg]]
-- Requires [[Location City Doctor Silas Voidtouch V1 Doctor Silas Voidtouch.svg]]
+- Requires [[Location City [[Doctor Silas Voidtouch]] V1 Doctor Silas Voidtouch.svg]]
 - Connects to [[NPC01274_Idris_Lightbringer_the_Cunning]]
 - Compare with [[Coastal Communities 2]]
 - Connects to [[Homunculus Xmm]]
@@ -270,9 +319,9 @@ Following magic item guidelines (DMG p.135-136):
 - Related: [[Great Dying (D&D_References)]]
 - See also: [[step_071]]
 - Affected by [[MON00116_Undead_Creature_117]]
-- Connects to [[Assets Locations Location City Brother Matthias Inkdrinker Brother Matthias Inkdrinker.svg]]
+- Connects to [[Assets Locations [[Location City [[Brother Matthias Inkdrinker]] Brother Matthias Inkdrinker.svg]]]]
 - Connects to [[The Midnight Trench]]
-- Influences [[Aquabyssos_Character_Creation]]
+- Influences [[[[Aquabyssos]]_Character_Creation]]
 - Requires [[garden]]
 - Affected by [[Portrait NPC Lord Erasmus Voidheart V1 Lord Erasmus Voidheart.svg]]
 - Compare with [[Portrait NPC Character Relationship Web Core Npcs V1 Character Relationship Web Core Npcs.svg_1 (Portraits)]]
@@ -282,7 +331,7 @@ Following magic item guidelines (DMG p.135-136):
 - Affected by [[The Balance Keeper]]
 - Originates from [[Quest - The Family Reunio_1 (01_Adventures)]]
 - Influences [[MON0046_Bone_Wraith]]
-- Requires [[Assets Locations Location City Temple Coalition V1 Temple Coalition.svg]]
+- Requires [[Assets Locations Location City [[Temple Coalition]] V1 Temple Coalition.svg]]
 - See also: [[Physical Variations Yuan Ti Snake Body Type]]
 - Affected by [[ITEM01225_Pure_Herb_of_Swiftness]]
 - Leads to [[session_preparation_optimization]]
@@ -290,4 +339,15 @@ Following magic item guidelines (DMG p.135-136):
 - Leads to [[Werebear Xmm]]
 - Requires [[Portrait NPC King Torrhen Lumengarde King Torrhen Lumengarde.svg]]
 - Parallels [[LOC00053_Cities_Location_54]]
-- Connects to [[Assets Locations Location City Finn Goodtide Finn Goodtide.svg]]
+- Connects to [[Assets Locations Location City [[Finn Goodtide]] Finn Goodtide.svg]]
+
+## Visual References
+![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
+![[03_People/portrait_zephyr_goldwhisper_standard.png]]
+![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

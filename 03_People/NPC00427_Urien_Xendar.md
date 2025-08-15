@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.965068
+modified: 2025-08-15T16:41:47.965071
+aliases: [NPC00427 Urien Xendar]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Qadim Ironforge (Personal - Ex-lover)|Qadim Ironforge (Personal - Ex-lover)]]
+- [[#Aldric Thornweave the Cunning (Personal - Love interest)|Aldric Thornweave the Cunning (Personal - Love interest)]]
+- [[#Felicia Youngblood the Redeemed (Family - Sibling)|Felicia Youngblood the Redeemed (Family - Sibling)]]
+
+
+---
 aliases: ["Urien Xendar", "urien xendar", "Xendar Urien"]
 tags: [npc, character]
 type: npc
@@ -139,3 +164,9 @@ Witnessed a crime
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

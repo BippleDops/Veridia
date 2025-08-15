@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Malakai Quicksilver the Wanderer
 
 *Gnome Ranger (Adventurers), Age 60, Male*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Baelor Grimholt the Bold
 
 *Half-Orc Bard (Adventurers), Age 25, Female*

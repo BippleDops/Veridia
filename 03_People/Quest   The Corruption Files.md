@@ -5,6 +5,10 @@ race: Human
 occupation: Priest
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-corruption-files-quest-the-corruption-files.svg]]
+
+
 # Quest   The Corruption Files
 
 *Human Priest*

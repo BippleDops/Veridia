@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T16:41:33.736968
+modified: 2025-08-15T16:41:33.736969
+aliases: [09 Adventuring]
+---
+
+## Table of Contents
+- [[#Background|Background]]
+- [[#Notes|Notes]]
+- [[#Prep Checklist|Prep Checklist]]
+- [[#Npcs Needed|Npcs Needed]]
+- [[#Locations|Locations]]
+- [[#Encounters|Encounters]]
+- [[#Props|Props]]
+- [[#Rules|Rules]]
+- [[#See Also|See Also]]
+- [[#Related Content|Related Content]]
+
+
+---
 
 title: 09 Adventuring
 type: note
@@ -15,7 +36,8 @@ This document contains important information regarding 09 Adventuring and its ro
 
 09 Adventuring represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
 
-- **Primary Purpose**: Serves specific function within the world
+- **Primary Purpose**: Serves specific f
+*The [texture] surface feels [description] to the touch.*unction within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details
 
@@ -77,6 +99,14 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - [ ] Prepare quick reference
 
 ## See Also
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC01283_Corvus_Hawthorne_the_Fallen]]
+- [[Character_Journal_Template]]
+- [[MOC_Items]]
+- [[MOC_Rules]]
 - [[Related_Content]]
 
 
@@ -89,21 +119,21 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - [[ULTIMATE_ASSET_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Movement**: See PHB p.190-192
+- **Combat**: See ACX p.189-198
+- **Movement**: See ACX p.190-192
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

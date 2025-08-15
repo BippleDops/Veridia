@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.940808
+modified: 2025-08-15T16:41:41.940811
+aliases: [NPC00372 Alaric Grimholt]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Jorah Ashford the Cunning (Political - Patron)|Jorah Ashford the Cunning (Political - Patron)]]
+- [[#Xander Stormwind the Bold (Family - Sibling)|Xander Stormwind the Bold (Family - Sibling)]]
+- [[#Aeliana Darkwater the Risen (Professional - Mentor)|Aeliana Darkwater the Risen (Professional - Mentor)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Alaric Grimholt", "alaric grimholt", "Grimholt Alaric"]
 tags: [npc, character]
@@ -141,6 +162,23 @@ Needs discrete help with family scandal
 - Special moves
 
 ## See Also
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[Faction_Relationship_Web]]
+- [[Party_Quests]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[Player_Comfort_Check]]
+- [[Reference.md]]
+- [[08 Using Ability Scores]]
+- [[16 Credits]]
+- [[NPC00649_Corvus_Zephyrblade_the_Broken]]
+- [[11 Rules Glossary]]
+- [[MOC_Rules]]
 - [[Related_Content]]
 
 
@@ -150,8 +188,8 @@ Needs discrete help with family scandal
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -261,3 +299,12 @@ Needs discrete help with family scandal
 - Parallels [[ITEM00769_Time-worn_Ring_of_Eternity]]
 - Affected by [[Antitoxin Xphb]]
 - Requires [[Platinum Bracelet Set With an Emerald Xdmg]]
+
+## Visual References
+![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

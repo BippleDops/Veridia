@@ -1,4 +1,5 @@
 ---
+enhanced: true
 enhanced: trtags: [enhanced, 09_performance, combat, exploration, puzzle, lore]ce]
 created: 2025-08-15T12:24:36.107709
 modified: 2025-08-15T12:24:36.107710
@@ -239,18 +240,18 @@ This content explores themes of power and corruption, adding narrative depth to 
 
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Combat**: See PHB p.189-198
+- **Ability Checks**: See ACX p.174
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

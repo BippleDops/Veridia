@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.957830
+modified: 2025-08-15T16:41:41.957835
+aliases: [NPC01911 Alaric Oakenshield the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Delara Proudmore the Swift (Criminal - Target)|Delara Proudmore the Swift (Criminal - Target)]]
+- [[#Dara Blackstone the Wise (Personal - Nemesis)|Dara Blackstone the Wise (Personal - Nemesis)]]
+- [[#Solas Goldleaf the Seeker (Family - Child)|Solas Goldleaf the Seeker (Family - Child)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Alaric Oakenshield the Mystic", "alaric oakenshield the mystic", "Alaric Oakenshield Mystic", "Mystic the Oakenshield Alaric"]
 tags: [npc, character]
@@ -153,6 +174,31 @@ Is secretly testing the party
 - Special moves
 
 ## See Also
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[Archdruid Thornweaver]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
+- [[World_Primer.md]]
+- [[Propaganda_Broadsheet_Syndicate.md]]
+- [[Player_Feedback_Form.md]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[11 Rules Glossary]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[Complete_NPC_Matrix.md]]
 - [[Related_Content]]
 
 
@@ -162,10 +208,10 @@ Is secretly testing the party
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -275,3 +321,14 @@ Is secretly testing the party
 - Leads to [[NPC01668_Elric_Keenblade_the_Strong]]
 - Affected by [[step_054 (phase_038)]]
 - Originates from [[fey-touched-xphb (feats)]]
+
+## Visual References
+![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

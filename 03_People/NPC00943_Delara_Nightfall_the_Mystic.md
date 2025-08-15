@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Delara Nightfall the Mystic
 
 *Tiefling Caravan Master (Merchants), Age 58, Male*

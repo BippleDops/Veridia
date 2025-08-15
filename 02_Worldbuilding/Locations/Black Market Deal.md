@@ -321,3 +321,9 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- [[NPC01283_Corvus_Hawthorne_the_Fallen]]

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.121866
+modified: 2025-08-15T16:41:43.121868
+aliases: [NPC00605 Solas Goldleaf the Redeemed]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Ironwood the Wise (Family - Spouse)|Thalia Ironwood the Wise (Family - Spouse)]]
+- [[#Jorah Ironforge the Scholar (Political - Puppet)|Jorah Ironforge the Scholar (Political - Puppet)]]
+- [[#Rhiannon Keenblade the Wise (Political - Opposition)|Rhiannon Keenblade the Wise (Political - Opposition)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Solas Goldleaf the Redeemed", "solas goldleaf the redeemed", "Solas Goldleaf Redeemed", "Redeemed the Goldleaf Solas"]
 tags: [npc, character]
@@ -146,10 +167,10 @@ Discovered something valuable
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -259,3 +280,14 @@ Discovered something valuable
 - Leads to [[Armor and Shields Armor Phb]]
 - Related: [[diamond-xdmg (items)]]
 - See also: [[Underwater Breathing (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_dramatic.png]]
+![[03_People/portrait_lady_seraphina_goldleaf_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

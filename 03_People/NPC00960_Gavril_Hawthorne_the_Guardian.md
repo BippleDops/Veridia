@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Gavril Hawthorne the Guardian
 
 *Firbolg Appraiser (Merchants), Age 64, Male*

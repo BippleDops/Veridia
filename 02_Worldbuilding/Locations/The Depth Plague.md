@@ -349,3 +349,8 @@ Ongoing situations affecting The Depth Plague:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
+- [[NPC00351_Corvus_Ironwood]]

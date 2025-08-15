@@ -548,3 +548,8 @@ Ongoing situations affecting The Umbral Nexus:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC01286_Xander_Proudmore_the_Bold]]

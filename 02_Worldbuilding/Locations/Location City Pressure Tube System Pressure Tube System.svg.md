@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Pressure Tube Sy
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]

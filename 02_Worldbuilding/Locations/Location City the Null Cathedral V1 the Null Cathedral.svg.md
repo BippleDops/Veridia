@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Null Cathedr
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC2]]

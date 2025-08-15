@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Ewan Zephyrblade the Wanderer
 
 *Human Caravan Master (Merchants), Age 57, Female*

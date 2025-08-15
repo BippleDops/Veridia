@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.984403
+modified: 2025-08-15T16:41:46.984406
+aliases: [NPC01107 Kaelen Lightbringer the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Lyanna Xendar the Strong (Professional - Rival)|Lyanna Xendar the Strong (Professional - Rival)]]
+- [[#Drusilla Ironwood the Scholar (Family - Parent)|Drusilla Ironwood the Scholar (Family - Parent)]]
+- [[#Faelyn Zephyrblade the Mystic (Criminal - Accomplice)|Faelyn Zephyrblade the Mystic (Criminal - Accomplice)]]
+
+
+---
 aliases: ["Kaelen Lightbringer the Swift", "kaelen lightbringer the swift", "Kaelen Lightbringer Swift", "Swift the Lightbringer Kaelen"]
 tags: [npc, character]
 type: npc
@@ -242,3 +263,14 @@ Has map to lost treasure
 - Parallels [[Deep Harbor 2]]
 - Requires [[Assets Art Npcs the Verdant Accord.png]]
 - Connects to [[step_040]]
+
+## Visual References
+![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

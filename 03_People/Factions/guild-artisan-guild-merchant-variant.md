@@ -2,6 +2,10 @@
 tags: ['faction']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # guild-artisan-guild-merchant-variant
 
 ## Organization Overview

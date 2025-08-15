@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Silverleaf the Bold
 
 *Goliath Fighter (Adventurers), Age 61, Non-binary*

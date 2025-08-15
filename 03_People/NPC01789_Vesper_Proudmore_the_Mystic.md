@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.123642
+modified: 2025-08-15T16:41:42.123648
+aliases: [NPC01789 Vesper Proudmore the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aldric Ironforge the Fallen (Personal - Ex-lover)|Aldric Ironforge the Fallen (Personal - Ex-lover)]]
+- [[#Dara Youngblood the Lost (Criminal - Informant)|Dara Youngblood the Lost (Criminal - Informant)]]
+- [[#Faelyn Silverleaf the Strong (Political - Ally)|Faelyn Silverleaf the Strong (Political - Ally)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Vesper Proudmore the Mystic", "vesper proudmore the mystic", "Vesper Proudmore Mystic", "Mystic the Proudmore Vesper"]
 tags: [npc, character]
@@ -145,6 +166,38 @@ Is secretly testing the party
 - Special moves
 
 ## See Also
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[World_Primer.md]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[11 Spellcasting]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[Item_Catalog_Complete.md]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
 - [[Related_Content]]
 
 
@@ -154,9 +207,9 @@ Is secretly testing the party
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -266,3 +319,14 @@ Is secretly testing the party
 - Compare with [[step_092]]
 - Compare with [[roleplaying-a-giant-giant-personality-traits-vgm]]
 - Connects to [[NPC01657_Dara_Dawnstrider_the_Mystic]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

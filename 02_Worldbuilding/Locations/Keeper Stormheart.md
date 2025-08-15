@@ -212,3 +212,7 @@ Ongoing situations affecting Keeper Stormheart:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00083_Vesper_Xendar_the_Lost]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Branwen Brightblade the Wise
 
 *Dwarf Dark Wizard (Villains), Age 35, Male*

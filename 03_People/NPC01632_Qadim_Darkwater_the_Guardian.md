@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.871963
+modified: 2025-08-15T16:41:41.871966
+aliases: [NPC01632 Qadim Darkwater the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Rhiannon Keenblade the Risen (Family - Cousin)|Rhiannon Keenblade the Risen (Family - Cousin)]]
+- [[#Branwen Frostwhisper the Strong (Political - Ally)|Branwen Frostwhisper the Strong (Political - Ally)]]
+- [[#Hestara Goldleaf the Wise (Family - Sibling)|Hestara Goldleaf the Wise (Family - Sibling)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Qadim Darkwater the Guardian", "qadim darkwater the guardian", "Qadim Darkwater Guardian", "Guardian the Darkwater Qadim"]
 tags: [npc, character]
@@ -138,6 +159,37 @@ Is secretly testing the party
 - Special moves
 
 ## See Also
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC01602_Dara_Ashford_the_Seeker]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[Depth_Adapted_Background]]
+- [[World_Primer.md]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[Ship_Schematic_The_Seahawk.md]]
+- [[Archdruid Thornweaver]]
+- [[Reference.md]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[Reputation_Tracker]]
+- [[09 Adventuring]]
+- [[Session_Recaps]]
+- [[10 Combat]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[Character_Journal_Template]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[MOC_Lore]]
+- [[09 Appendix a the Multiverse]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
 - [[Related_Content]]
 
 
@@ -147,8 +199,8 @@ Is secretly testing the party
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -258,3 +310,14 @@ Is secretly testing the party
 - Influences [[Captain Mistwalker]]
 - Parallels [[Portrait NPC Shadow Parliament Shadow Parliament.svg_1 (Portraits)]]
 - Compare with [[list-spells-feats-drow-high-magic-xge (lists)]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -226,3 +226,7 @@ Ongoing situations affecting Kelp Forest Constituencies:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]

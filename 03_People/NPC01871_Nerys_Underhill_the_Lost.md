@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.034584
+modified: 2025-08-15T16:41:46.034587
+aliases: [NPC01871 Nerys Underhill the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Silverleaf the Broken (Personal - Best friend)|Thalia Silverleaf the Broken (Personal - Best friend)]]
+- [[#Pyria Ashford the Wanderer (Criminal - Fence)|Pyria Ashford the Wanderer (Criminal - Fence)]]
+- [[#Corvus Quicksilver the Seeker (Family - Spouse)|Corvus Quicksilver the Seeker (Family - Spouse)]]
+
+
+---
 aliases: ["Nerys Underhill the Lost", "nerys underhill the lost", "Nerys Underhill Lost", "Lost the Underhill Nerys"]
 tags: [npc, character]
 type: npc
@@ -239,3 +260,14 @@ Offers deal too good to refuse
 - Related: [[Creature Creature Aerisi Kalinoth Pota Aerisi Kalinoth Pota.png]]
 - Influences [[step_069]]
 - Originates from [[step_065]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

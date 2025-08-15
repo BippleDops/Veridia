@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, _indexes]
+created: 2025-08-15T16:41:29.233422
+modified: 2025-08-15T16:41:29.233428
+aliases: [MOC Locations]
+---
+
+## Table of Contents
+- [[#Quick Links|Quick Links]]
+- [[#Content|Content]]
+- [[#Recent NPCs|Recent NPCs]]
+- [[#Active Quests|Active Quests]]
+- [[#Session Log|Session Log]]
+- [[#Location Network|Location Network]]
+- [[#See Also|See Also]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
 -tags: [moc, index, combat]ex]
 created: 2025-08-15
 ---
@@ -47,18 +68,57 @@ FROM "02_Worldbuilding"
 WHERE contains(file.name, "Location") OR contains(tags, "location")
 ```
 ## See Also
+- [[MASTER_NAVIGATION]]
+- [[City_District_Map_Port_Meridian_Harbo]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[06 Equipment]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[Player_Portal.md]]
+- [[09 Adventuring]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC00080_Branwen_Proudmore]]
+- [[NPC00844_Cedric_Blackstone_the_Fallen]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00207_Ysara_Ravenheart]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[11 Spellcasting]]
+- [[NPC01286_Xander_Proudmore_the_Bold]]
+- [[10 Combat]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[Concept_Map]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC00101_Caelum_Hawthorne]]
+- [[README]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00058_Elric_Nightfall]]
+- [[MOC_Sessions]]
 - [[Related_Content]]
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -162,3 +222,14 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Connects to [[The Hammer Squad]]
 - Leads to [[swarm-of-bats-xmm (beast)]]
 - Related: [[Portrait NPC the Shadow Warren V2 the Shadow Warren.svg]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_marina_reefbuilder_professor_marina_reefbuilder_svg_standard.png]]
+![[03_People/portrait_assets_locations_location_city_quartermaster_sterling_suppystone_quartermaster_sterling_suppystone_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_reef_guard_captain_torrent_shellborn_v1_reef_guard_captain_torrent_shellborn_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

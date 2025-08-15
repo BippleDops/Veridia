@@ -227,3 +227,7 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00287_Ysara_Underhill_the_Wise]]

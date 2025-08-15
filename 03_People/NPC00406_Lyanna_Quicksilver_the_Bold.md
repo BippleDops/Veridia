@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Lyanna Quicksilver the Bold
 
 *Aasimar Farmer (Commoners), Age 49, Male*

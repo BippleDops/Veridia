@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.255649
+modified: 2025-08-15T16:41:46.255652
+aliases: [NPC00374 Rhiannon Lightbringer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Grimholt the Broken (Family - Sibling)|Alaric Grimholt the Broken (Family - Sibling)]]
+- [[#Vesper Goldleaf (Political - Puppet)|Vesper Goldleaf (Political - Puppet)]]
+- [[#Malakai Frostwhisper the Bold (Criminal - Target)|Malakai Frostwhisper the Bold (Criminal - Target)]]
+
+
+---
 aliases: ["Rhiannon Lightbringer", "rhiannon lightbringer", "Lightbringer Rhiannon"]
 tags: [npc, character]
 type: npc
@@ -252,3 +273,14 @@ Wants rivals investigated
 - Parallels [[dwarven-valkauna-mtf (deities)]]
 - Influences [[Assets Portraits Portrait NPC High Tide Environmental Effects High Tide Environmental Effects.svg]]
 - Leads to [[Cross-Cultural Legal Association (02_Worldbuilding)]]
+
+## Visual References
+![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Corvus Brightblade the Lost
 
 *Gnome Cleric (Adventurers), Age 19, Non-binary*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Fiora Moonshadow the Scholar
 
 *Elf Caravan Master (Merchants), Age 72, Female*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.166933
+modified: 2025-08-15T16:41:43.166938
+aliases: [NPC00580 Fiora Ravenheart the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Elric Winterborn the Cunning (Political - Ally)|Elric Winterborn the Cunning (Political - Ally)]]
+- [[#Brenna Brightblade the Wise (Political - Ally)|Brenna Brightblade the Wise (Political - Ally)]]
+- [[#Baelor Voidwalker the Risen (Political - Opposition)|Baelor Voidwalker the Risen (Political - Opposition)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Fiora Ravenheart the Seeker", "fiora ravenheart the seeker", "Fiora Ravenheart Seeker", "Seeker the Ravenheart Fiora"]
 tags: [npc, character]
@@ -152,8 +173,8 @@ Being extorted by criminals
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -263,3 +284,14 @@ Being extorted by criminals
 - Influences [[step_031 (phase_005)]]
 - Leads to [[sleep-of-ages-trap-xge (traps-hazards)]]
 - Leads to [[step_068]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

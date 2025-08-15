@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:33.984447
+modified: 2025-08-15T16:41:33.984449
+aliases: [Character Journal Template]
+---
+
+## Table of Contents
+- [[#Session Notes|Session Notes]]
+- [[#Session [Number] - [Date]|Session [Number] - [Date]]]
+- [[#Personal Goals|Personal Goals]]
+- [[#Relationships|Relationships]]
+- [[#Notes & Theories|Notes & Theories]]
+- [[#See Also|See Also]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#Thematic Connections|Thematic Connections]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
 -tags: [template, player, journal, combat]al]
 created: 2025-08-15T14:13:16.708776
 character_name: 
@@ -35,11 +56,44 @@ player_name:
 > Hidden treasure can be found here with a DC 15 Investigation check
 
 ## See Also
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC00080_Branwen_Proudmore]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[Party_Inventory]]
+- [[Reputation_Tracker]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[MOC_NPCs]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[Master_Narrative_Web.md]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[Character_Journal_Template]]
+- [[11 Spellcasting]]
+- [[Session_Recaps]]
 - [[Related_Content]]
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## Thematic Connections
@@ -49,12 +103,12 @@ player_name:
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
 
 ## Connections
 
@@ -158,3 +212,14 @@ player_name:
 - Compare with [[Lysandra Tidecaller 2]]
 - Leads to [[LOC00152_Dungeons_Location_153]]
 - Requires [[ITEM01115_Greater_Herb_of_Swiftness]]
+
+## Visual References
+![[03_People/portrait_character_sheet.png]]
+![[03_People/portrait_cross_campaign_characters_dramatic.png]]
+![[03_People/token_character_name_medium_bloodied.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

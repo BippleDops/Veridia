@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.897407
+modified: 2025-08-15T16:41:45.897413
+aliases: [NPC01368 Corvus Crystalbrook the Cunning]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Faelyn Underhill the Mystic (Professional - Rival)|Faelyn Underhill the Mystic (Professional - Rival)]]
+- [[#Dara Ironforge the Bold (Criminal - Fence)|Dara Ironforge the Bold (Criminal - Fence)]]
+- [[#Jorah Stormwind the Swift (Criminal - Target)|Jorah Stormwind the Swift (Criminal - Target)]]
+
+
+---
 aliases: ["Corvus Crystalbrook the Cunning", "corvus crystalbrook the cunning", "Corvus Crystalbrook Cunning", "Cunning the Crystalbrook Corvus"]
 tags: [npc, character]
 type: npc
@@ -246,3 +271,8 @@ Needs help with personal quest
 - Influences [[Sergeant Major Deep Veteranstrike (D&D_References)]]
 - Originates from [[ITEM00236_Cursed_Axe_of_Accuracy]]
 - Requires [[step_064 (phase_025)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

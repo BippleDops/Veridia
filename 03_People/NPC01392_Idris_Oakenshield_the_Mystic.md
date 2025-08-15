@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Oakenshield the Mystic
 
 *Tiefling Fighter (Adventurers), Age 21, Non-binary*

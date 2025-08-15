@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hilda Ironwood the Swift
 
 *Firbolg Blacksmith (Commoners), Age 62, Male*

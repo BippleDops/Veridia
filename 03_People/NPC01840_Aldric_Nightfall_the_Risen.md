@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.943369
+modified: 2025-08-15T16:41:47.943373
+aliases: [NPC01840 Aldric Nightfall the Risen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Faelyn Brightblade the Guardian (Family - Spouse)|Faelyn Brightblade the Guardian (Family - Spouse)]]
+- [[#Gareth Xendar the Redeemed (Family - Sibling)|Gareth Xendar the Redeemed (Family - Sibling)]]
+- [[#Malakai Xendar the Wise (Political - Ally)|Malakai Xendar the Wise (Political - Ally)]]
+
+
+---
 aliases: ["Aldric Nightfall the Risen", "aldric nightfall the risen", "Aldric Nightfall Risen", "Risen the Nightfall Aldric"]
 tags: [npc, character]
 type: npc
@@ -136,3 +157,15 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
+![[03_People/portrait_duke_aldric_blackwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

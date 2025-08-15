@@ -218,3 +218,8 @@ Mentioned in The Second Prophecy of Winds
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]

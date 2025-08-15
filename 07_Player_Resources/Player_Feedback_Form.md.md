@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:34.125837
+modified: 2025-08-15T16:41:34.125844
+aliases: [Player Feedback Form.md]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Superstitions Improvements|Superstitions Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+- [[#Sensory Improvements|Sensory Improvements]]
+- [[#Material_Culture Improvements|Material_Culture Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Feedback/Player_Feedback_Form.md
 type: lore
@@ -124,6 +145,7 @@ Mentioned in The First Prophecy of Depths
 > This NPC knows more than they let on
 
 ## See Also
+- [[11 Spellcasting]]
 - [[Related_Content]]
 
 
@@ -133,21 +155,21 @@ Mentioned in The First Prophecy of Depths
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -168,7 +190,7 @@ Mentioned in The First Prophecy of Depths
 - Connects to [[Portrait NPC Bank... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Leads to [[Mirror-Breaking Crystals (D&D_References)]]
 - Leads to [[ENC0007_Random_Encounter_8]]
-- Related: [[Quest - The Failing Magic_1 (01_Adventures)]]
+- Related: [[Quest - The Failing [[Quest - The Failing Magic_1 (01_Adventures)|Magic_1]] (01_Adventures)]]
 - Requires [[step_020 (phase_083)]]
 - Related: [[step_039 (phase_021)]]
 - Requires [[NPC01825_Solas_Dawnstrider_the_Strong]]
@@ -251,3 +273,8 @@ Mentioned in The First Prophecy of Depths
 - Related: [[Fragment Territories]]
 - See also: [[LOC00224_Cities_Location_225]]
 - Originates from [[NPC00228_Pyria_Ironwood_the_Wise]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_the_sunken_library_of_thalassius_the_sunken_library_of_thalassius_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_kelp_maze_v1_kelp_maze_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_port_crystalfall_port_crystalfall_svg_player.png]]

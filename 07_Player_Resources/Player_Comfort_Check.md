@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:34.212893
+modified: 2025-08-15T16:41:34.212898
+aliases: [Player Comfort Check]
+---
+
+## Table of Contents
+- [[#Basic Comfort Assessment|Basic Comfort Assessment]]
+- [[#Content Boundaries|Content Boundaries]]
+- [[#Social Dynamics|Social Dynamics]]
+- [[#Safety Tools Effectiveness|Safety Tools Effectiveness]]
+- [[#Overall Wellbeing|Overall Wellbeing]]
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#Connection Improvements|Connection Improvements]]
+- [[#Enhancement Improvements|Enhancement Improvements]]
+- [[#Related|Related]]
+- [[#DM Notes|DM Notes]]
+
+
+---
 title: Player_Comfort_Check
 type: note
 tags:
@@ -175,24 +196,52 @@ Contextual improvement based on 07_Player_Resources
 > Ancient magic still lingers here
 
 ## See Also
+- [[Basic_Rules]]
+- [[Combat_Encounter_Analysis]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[Party_Inventory]]
+- [[Player_Feedback_Form.md]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
+- [[NPC00207_Ysara_Ravenheart]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[11 Rules Glossary]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[Master_Narrative_Web.md]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[Character_Journal_Template]]
+- [[Depth_Adapted_Background.md]]
 - [[Related_Content]]
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
 
 ## Connections
 
@@ -296,3 +345,8 @@ Contextual improvement based on 07_Player_Resources
 - Leads to [[step_094 (phase_087)]]
 - Connects to [[Portrait NPC Emperor Abyssal the Deep Sighted V2 Emperor Abyssal the Deep Sighted.svg_1 (Portraits)]]
 - Requires [[Dwarven Hanseath Mtf]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_the_sunken_library_of_thalassius_the_sunken_library_of_thalassius_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_kelp_maze_v1_kelp_maze_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_port_crystalfall_port_crystalfall_svg_player.png]]

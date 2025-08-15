@@ -24,6 +24,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Cross-Realm Cooperation Authority](../../../04_Resources/Assets/Misc/cross_realm_cooperation_authority.png)
 
 ## 🔧 Deep Evaluation Improvements

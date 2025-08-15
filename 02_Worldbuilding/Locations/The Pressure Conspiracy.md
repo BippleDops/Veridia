@@ -611,3 +611,8 @@ Mentioned in The Hidden Prophecy of Depths
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]

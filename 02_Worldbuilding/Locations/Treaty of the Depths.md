@@ -481,3 +481,8 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]

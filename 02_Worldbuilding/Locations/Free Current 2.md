@@ -581,3 +581,7 @@ Legends speak of Free Current as a nexus where past and present converge. Locals
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]

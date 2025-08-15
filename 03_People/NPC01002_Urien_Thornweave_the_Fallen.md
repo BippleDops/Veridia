@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Urien Thornweave the Fallen
 
 *Tabaxi Trader (Merchants), Age 31, Male*

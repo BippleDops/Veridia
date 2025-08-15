@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Lyanna Goldleaf the Strong
 
 *Half-Orc Wizard (Adventurers), Age 65, Female*

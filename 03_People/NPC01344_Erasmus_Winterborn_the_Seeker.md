@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Erasmus Winterborn the Seeker
 
 *Dragonborn Wizard (Adventurers), Age 65, Non-binary*

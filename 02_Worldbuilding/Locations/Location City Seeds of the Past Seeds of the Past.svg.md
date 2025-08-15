@@ -82,3 +82,8 @@ Recent developments have brought new attention to Location City Seeds of the Pas
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]

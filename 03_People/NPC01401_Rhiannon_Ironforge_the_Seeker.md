@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Rhiannon Ironforge the Seeker
 
 *Goliath Wizard (Adventurers), Age 75, Male*

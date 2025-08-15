@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Pyria Dawnstrider the Fallen
 
 *Tabaxi Dark Wizard (Villains), Age 29, Non-binary*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.308500
+modified: 2025-08-15T16:41:45.308503
+aliases: [NPC01094 Fiora Silverleaf the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Erasmus Ironforge the Scholar (Family - Sibling)|Erasmus Ironforge the Scholar (Family - Sibling)]]
+- [[#Rhiannon Silverleaf the Wise (Political - Puppet)|Rhiannon Silverleaf the Wise (Political - Puppet)]]
+- [[#Hilda Voidwalker the Wanderer (Criminal - Accomplice)|Hilda Voidwalker the Wanderer (Criminal - Accomplice)]]
+
+
+---
 aliases: ["Fiora Silverleaf the Swift", "fiora silverleaf the swift", "Fiora Silverleaf Swift", "Swift the Silverleaf Fiora"]
 tags: [npc, character]
 type: npc
@@ -249,3 +270,14 @@ Competitor sabotaging business
 - Requires [[Campaign World]]
 - Requires [[step_093]]
 - Connects to [[Merchant Family Tidewalker 2]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -611,3 +611,8 @@ Ongoing situations affecting Antiquarian Eliza Tidecaller:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]

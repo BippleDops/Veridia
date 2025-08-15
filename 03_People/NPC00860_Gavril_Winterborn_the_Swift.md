@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.801361
+modified: 2025-08-15T16:41:41.801365
+aliases: [NPC00860 Gavril Winterborn the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Zephyr Zephyrblade the Lost (Professional - Employee)|Zephyr Zephyrblade the Lost (Professional - Employee)]]
+- [[#Nerys Stormwind the Wanderer (Criminal - Target)|Nerys Stormwind the Wanderer (Criminal - Target)]]
+- [[#Jorah Ravenheart the Bold (Criminal - Fence)|Jorah Ravenheart the Bold (Criminal - Fence)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Gavril Winterborn the Swift", "gavril winterborn the swift", "Gavril Winterborn Swift", "Swift the Winterborn Gavril"]
 tags: [npc, character]
@@ -146,6 +167,22 @@ Has map to lost treasure
 - Special moves
 
 ## See Also
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[11 Spellcasting]]
+- [[NPC00670_Xander_Goldleaf_the_Scholar]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[11 Rules Glossary]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]
+- [[NPC00259_Delara_Proudmore]]
+- [[MOC_Rules]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
 - [[Related_Content]]
 
 
@@ -155,11 +192,11 @@ Has map to lost treasure
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -269,3 +306,14 @@ Has map to lost treasure
 - Parallels [[action-xphb (variant-rules)]]
 - Compare with [[Archivist Reef Bookkeeper (D&D_References)]]
 - Originates from [[step_029 (phase_050)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -233,3 +233,8 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]

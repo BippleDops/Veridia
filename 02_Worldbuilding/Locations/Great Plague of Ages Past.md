@@ -235,3 +235,8 @@ Ongoing situations affecting Great Plague of Ages Past:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]

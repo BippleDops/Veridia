@@ -529,3 +529,7 @@ Ongoing situations affecting The Great Drowning:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[The Silent Watcher 2]]

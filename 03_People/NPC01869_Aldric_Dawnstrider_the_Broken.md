@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aldric Dawnstrider the Broken
 
 *Half-Orc Assassin (Villains), Age 55, Female*

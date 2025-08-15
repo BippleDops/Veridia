@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Nerys Silverleaf the Wanderer
 
 *Tiefling Broker (Merchants), Age 19, Male*

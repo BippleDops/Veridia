@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Pyria Zephyrblade the Fallen
 
 *Half-Elf Appraiser (Merchants), Age 34, Female*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hestara Voidwalker the Wise
 
 *Halfling Trader (Merchants), Age 33, Non-binary*

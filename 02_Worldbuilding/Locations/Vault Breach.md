@@ -230,3 +230,7 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Archdruid Thornweaver]]

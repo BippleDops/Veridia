@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.682875
+modified: 2025-08-15T16:41:46.682878
+aliases: [NPC00420 Gavril Stormwind the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Silverleaf the Strong (Family - Child)|Alaric Silverleaf the Strong (Family - Child)]]
+- [[#Fiora Keenblade the Wanderer (Family - Sibling)|Fiora Keenblade the Wanderer (Family - Sibling)]]
+- [[#Ewan Proudmore (Personal - Nemesis)|Ewan Proudmore (Personal - Nemesis)]]
+
+
+---
 aliases: ["Gavril Stormwind the Lost", "gavril stormwind the lost", "Gavril Stormwind Lost", "Lost the Stormwind Gavril"]
 tags: [npc, character]
 type: npc
@@ -247,3 +268,29 @@ Discovered something valuable
 - Affected by [[NPC00517_Rhiannon_Youngblood_the_Risen]]
 - Related: [[The Free Cities (D&D_References)]]
 - Requires [[04_Resources_Assets_Symbols_symbol-heraldry-faction-intelligence-faction-intelligence.svg]]
+
+## Visual References
+![[03_People/portrait_merchant_captain_tobias_stormwind_dramatic.png]]
+![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
+
+
+## Realm Connections
+
+### Connection to Aethermoor
+This connects to the sky realm of Sky realm of eternal winds and floating islands.
+
+- **Ruling Power**: The Windlord Council
+- **Capital**: [[Skylance Citadel]]
+- **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
+- **Current Conflict**: The Void Incursion, Elemental Convergence
+- **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
+
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+navigate floating islands connected by bridges of solidified cloud.
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.952829
+modified: 2025-08-15T16:41:47.952830
+aliases: [Assets Locations Location City the Null Cathedral V1 the Null Cathedral.svg]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_locations_location_city_the_null_cathedral_v1_the_null_cathedral_svg_dramatic.png]]
+
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Material_Culture Improvements|Material_Culture Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+- [[#Death_Customs Improvements|Death_Customs Improvements]]
+- [[#Superstitions Improvements|Superstitions Improvements]]
+
+
+---
 
 title: Assets Locations Location City the  Cathedral V1 the  Cathedral.svg
 aliases:

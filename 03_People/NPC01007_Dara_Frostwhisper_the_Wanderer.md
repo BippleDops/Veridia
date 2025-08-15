@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Dara Frostwhisper the Wanderer
 
 *Firbolg Broker (Merchants), Age 30, Female*

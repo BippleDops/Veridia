@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:39.617673
+modified: 2025-08-15T16:41:39.617674
+aliases: [Parliament of Shadows Player Guide.md]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Sensory Improvements|Sensory Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+- [[#Diaspora Improvements|Diaspora Improvements]]
+- [[#Superstitions Improvements|Superstitions Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Handouts/Parliament of Shadows Player Guide.md
 type: lore
@@ -135,6 +156,21 @@ Mentioned in The Second Prophecy of Shadows
 > Notable saying or prophecy
 
 ## See Also
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[World_Primer.md]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[11 Spellcasting]]
+- [[13 Conditions]]
+- [[11 Rules Glossary]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[Master_Narrative_Web.md]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
 - [[Related_Content]]
 
 
@@ -144,21 +180,21 @@ Mentioned in The Second Prophecy of Shadows
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

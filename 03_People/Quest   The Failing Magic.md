@@ -5,6 +5,10 @@ race: Human
 occupation: Commoner
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-failing-magic-quest-the-failing-magic.svg]]
+
+
 # Quest   The Failing Magic
 
 *Human Commoner*

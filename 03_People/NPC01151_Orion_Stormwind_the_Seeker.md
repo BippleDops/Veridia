@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.693533
+modified: 2025-08-15T16:41:40.693535
+aliases: [NPC01151 Orion Stormwind the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Crystalbrook the Fallen (Family - Cousin)|Wynne Crystalbrook the Fallen (Family - Cousin)]]
+- [[#Elric Zephyrblade the Wise (Personal - Nemesis)|Elric Zephyrblade the Wise (Personal - Nemesis)]]
+- [[#Erasmus Ashford the Wise (Professional - Rival)|Erasmus Ashford the Wise (Professional - Rival)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Orion Stormwind the Seeker", "orion stormwind the seeker", "Orion Stormwind Seeker", "Seeker the Stormwind Oriontags: [npc, character, combat, magic, social, lore]er]
 type: npc
@@ -6,7 +27,7 @@ type: npc
 
 # Orion Stormwind the Seeker
 
-*Elf Broker (Merchants), Age 53, Non-binary*
+*Elf Broker ([[Merchant]]s), Age 53, Non-binary*
 
 **ID**: NPC01151
 
@@ -30,7 +51,7 @@ Above average and imposing, with Mohawk gray hair and Green eyes. Scarred skin. 
 - **Dream**: Becoming famous
 
 ## Background
-Built their business from nothing through cunning and hard work An old debt has come due at the worst possible time.
+Built their business from nothing through cunning and hard work An old debt has come due at the worst possible [[Time]].
 
 ## Current Situation
 - **Occupation**: Spice trader
@@ -135,7 +156,7 @@ Seeks rare merchandise
 - Special moves
 
 ## Combat Stats
-Base: **Mage** (MM p.347)
+Base: **Mage** (BC p.347)
 Modifications:
 - HP: 28
 - AC: 16
@@ -146,6 +167,51 @@ Modifications:
 > Notable saying or prophecy
 
 ## See Also
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]
+- [[NPC00844_Cedric_Blackstone_the_Fallen]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC00407_Hestara_Dawnstrider]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[Faction_Relationship_Web]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[Depth_Adapted_Background]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
+- [[Wanted_Poster_Syndicate_Fenc]]
+- [[09 Adventuring]]
+- [[Player_Comfort_Check]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[05 Personality and Background]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[11 Rules Glossary]]
+- [[Count_Strahd_von_Zarovich]]
+- [[03 Races]]
+- [[11 Spellcasting]]
+- [[MASTER_MOC]]
 - [[Related_Content]]
 
 
@@ -155,11 +221,11 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -171,7 +237,7 @@ Modifications:
 
 - Related: [[step_035 (phase_041)]]
 - Compare with [[Entertainers Pack Xphb]]
-- Related: [[Assets Locations Location City Whisper Touched William Whisper Touched William.svg]]
+- Related: [[Assets Locations [[Location City Whisper Touched William Whisper Touched William.svg]]]]
 - Affected by [[LOC00131_Planes_Location_132]]
 - Influences [[norse-thrym (deities)]]
 - Parallels [[unoccupied-space-xphb (variant-rules)]]
@@ -192,7 +258,7 @@ Modifications:
 - Affected by [[SPELL00162_Nature_Spell_163]]
 - Influences [[LORE00313_Legends_Entry_314]]
 - Parallels [[modron-monodrone-xmm (construct)]]
-- Originates from [[Assets Locations Location City the Depth Market the Depth Market.svg]]
+- Originates from [[Assets Locations Location City [[The Depth Market]] the Depth Market.svg]]
 - Connects to [[step_073]]
 - Requires [[EVENT00072_Political_Event_73]]
 - Parallels [[ITEM01019_Concentrated_Oil_of_Clarity]]
@@ -207,7 +273,7 @@ Modifications:
 - Related: [[step_077 (phase_044)]]
 - Leads to [[The Convergence Point]]
 - Related: [[step_063]]
-- Compare with [[Location City Surgeon Coral Seamender Surgeon Coral Seamender.svg]]
+- Compare with [[Location City [[Surgeon Coral Seamender]] Surgeon Coral Seamender.svg]]
 - Influences [[ENC00373_Combat_Encounter_374]]
 - Requires [[step_037 (phase_014)]]
 - Influences [[ITEM01310_Practical_Map_Case_of_Convenience]]
@@ -215,10 +281,10 @@ Modifications:
 - See also: [[Luck Spirits Allianc]]
 - Connects to [[QUEST00035_Personal_Quest_36]]
 - Leads to [[step_030]]
-- Connects to [[Assets Locations Location City the Kelp Highway V1 the Kelp Highway.svg]]
+- Connects to [[Assets Locations Location City [[The Kelp Highway]] V1 the Kelp Highway.svg]]
 - Leads to [[NPC00763_Urien_Brightblade_the_Broken]]
-- Influences [[War Machine Engineers (D&D_References)]]
-- Leads to [[Senator Abyssos Traditionkeeper 2]]
+- Influences [[[[War Machine Engineers]] (D&D_References)]]
+- Leads to [[[[Senator Abyssos Traditionkeeper]] 2]]
 - See also: [[Necklace String of Small Pink Pearls Xdmg]]
 - Influences [[step_064 (phase_072)]]
 - Originates from [[step_019 (phase_094)]]
@@ -228,25 +294,25 @@ Modifications:
 - Leads to [[step_044]]
 - Affected by [[step_049 (phase_083)]]
 - Related: [[Deep Mother Resistance Traits]]
-- See also: [[Location City Elena Prismweaver Elena Prismweaver.svg]]
+- See also: [[Location City [[Elena Prismweaver]] Elena Prismweaver.svg]]
 - Leads to [[EVENT00020_Political_Event_21]]
 - Requires [[Celtic Oghma]]
-- Connects to [[Aethermoor Wind Rider Traditions (Lore)]]
+- Connects to [[[[Aethermoor]] Wind Rider Traditions (Lore)]]
 - Originates from [[Temple of the Deep Waters]]
 - Influences [[delayed-blast-fireball-xphb (spells)]]
 - Affected by [[LOC00021_Wilderness_Location_22]]
 - Affected by [[Multiverse 2]]
 - See also: [[bard-xphb (classes)]]
-- Compare with [[Scholar Thomas Precedent (D&D_References)]]
+- Compare with [[[[Scholar Thomas Precedent]] (D&D_References)]]
 - Compare with [[Police Chief Sarah Lawkeeper]]
 - See also: [[step_059]]
-- Compare with [[Assets Locations Location City the Crystal Cathedral of Pure Light the Crystal Cathedral of Pure Light.svg]]
+- Compare with [[Assets Locations Location City [[The Crystal Cathedral]] of Pure Light [[The Crystal Cathedral of Pure Light]].svg]]
 - Affected by [[10K_GENERATION_REPORT]]
 - Leads to [[step_045 (phase_015)]]
 - Influences [[step_073 (phase_072)]]
 - Compare with [[LOC00052_Planes_Location_53]]
 - Requires [[GM Resource]]
-- Related: [[Crystal Cult Temples (D&D_References)]]
+- Related: [[[[Crystal Cult Temples]] (D&D_References)]]
 - See also: [[Green Slime Xdmg]]
 - Leads to [[The Reunification Faction (D&D_References)]]
 - Leads to [[step_047 (phase_021)]]
@@ -267,5 +333,16 @@ Modifications:
 - Requires [[step_071]]
 - Compare with [[Archmage Deflector Windturner 2]]
 - Requires [[Previous Session]]
-- Leads to [[Assets Locations Location City Tide Welcomeheart V1 Tide Welcomeheart.svg]]
-- Leads to [[Pressure Symbiont (D&D_References)]]
+- Leads to [[Assets Locations [[Location City [[Tide Welcomeheart]] V1 Tide Welcomeheart.svg]]]]
+- Leads to [[[[Pressure Symbiont]] (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_merchant_captain_tobias_stormwind_dramatic.png]]
+![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

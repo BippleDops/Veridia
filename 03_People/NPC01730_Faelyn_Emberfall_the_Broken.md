@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.835248
+modified: 2025-08-15T16:41:41.835254
+aliases: [NPC01730 Faelyn Emberfall the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Blackstone the Wanderer (Personal - Childhood friend)|Corvus Blackstone the Wanderer (Personal - Childhood friend)]]
+- [[#Lyanna Winterborn the Bold (Family - Child)|Lyanna Winterborn the Bold (Family - Child)]]
+- [[#Brenna Zephyrblade the Fallen (Political - Patron)|Brenna Zephyrblade the Fallen (Political - Patron)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Faelyn Emberfall the Broken", "faelyn emberfall the broken", "Faelyn Emberfall Broken", "Broken the Emberfall Faelyn"]
 tags: [npc, character]
@@ -149,24 +174,66 @@ Provides information for a price
 - Special moves
 
 ## See Also
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[Player_Portal.md]]
+- [[What You Know - Abyssos Prime.md]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[Player_Comfort_Check]]
+- [[Sanity Quick Reference]]
+- [[Reference.md]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[15 the Planes of Existence]]
+- [[Session_Recaps]]
+- [[10 Combat]]
+- [[Count_Strahd_von_Zarovich]]
+- [[MOC_Items]]
+- [[03 Races]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Monster Manual (MM) p.109
+- Bestiary Compendium (BC) p.109
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -174,10 +241,10 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -287,3 +354,8 @@ Following magic item guidelines (DMG p.135-136):
 - Originates from [[The Crystal Shard]]
 - Affected by [[step_014 (phase_066)]]
 - Related: [[step_047 (phase_090)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

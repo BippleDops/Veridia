@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.247984
+modified: 2025-08-15T16:41:44.247990
+aliases: [NPC01539 Drusilla Ravenheart the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Solas Goldleaf the Wanderer (Political - Ally)|Solas Goldleaf the Wanderer (Political - Ally)]]
+- [[#Gavril Thornweave the Swift (Professional - Employer)|Gavril Thornweave the Swift (Professional - Employer)]]
+- [[#Hestara Quicksilver the Redeemed (Family - Child)|Hestara Quicksilver the Redeemed (Family - Child)]]
+
+
+---
 aliases: ["Drusilla Ravenheart the Swift", "drusilla ravenheart the swift", "Drusilla Ravenheart Swift", "Swift the Ravenheart Drusilla"]
 tags: [npc, character]
 type: npc
@@ -256,3 +277,14 @@ Knows secret about major threat
 - Compare with [[step_037 (phase_062)]]
 - Related: [[step_088]]
 - Requires [[Scroll of Titan Summoning Empyrean Xdmg]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.830589
+modified: 2025-08-15T16:41:45.830591
+aliases: [NPC01683 Erasmus Xendar the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Elric Stormwind the Mystic (Criminal - Accomplice)|Elric Stormwind the Mystic (Criminal - Accomplice)]]
+- [[#Kaelen Xendar the Wanderer (Professional - Employer)|Kaelen Xendar the Wanderer (Professional - Employer)]]
+- [[#Pyria Emberfall the Risen (Personal - Best friend)|Pyria Emberfall the Risen (Personal - Best friend)]]
+
+
+---
 aliases: ["Erasmus Xendar the Wise", "erasmus xendar the wise", "Erasmus Xendar Wise", "Wise the Xendar Erasmus"]
 tags: [npc, character]
 type: npc
@@ -245,3 +266,14 @@ Is secretly testing the party
 - Compare with [[Riding Horse Xmm]]
 - Originates from [[QUEST00101_Side_Quest_102]]
 - Related: [[step_019 (phase_086)]]
+
+## Visual References
+![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
+![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
+![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

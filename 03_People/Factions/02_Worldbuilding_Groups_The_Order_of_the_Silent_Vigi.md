@@ -2,6 +2,10 @@
 tags: ['faction']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # 02 Worldbuilding/Groups/The Order of the Silent Vigi
 
 ## Organization Overview

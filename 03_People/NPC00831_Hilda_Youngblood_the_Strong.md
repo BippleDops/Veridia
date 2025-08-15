@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hilda Youngblood the Strong
 
 *Human Caravan Master (Merchants), Age 45, Female*

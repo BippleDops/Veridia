@@ -1,11 +1,29 @@
 ---
-enhanced: trtags: [enhanced, 09_performance, combat, exploration, lore]ce]
-created: 2025-08-15T12:24:36.132963
-modified: 2025-08-15T12:24:36.132964
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:26.026323
+modified: 2025-08-15T16:41:26.026327
 aliases: [LEAN IMPROVEMENTS SUMMARY]
 ---
 
-# [[LEAN_IMPROVEMENTS_SUMMARY|Lean Improvements Summary]]
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Related Content|Related Content]]
+- [[#Visual References|Visual References]]
+- [[#See Also|See Also]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
+---
+enhanced: trtags: [enhanced, 09_performance, combat, exploration, lore]ce]
+created: 2025-08-15T12:24:36.132963
+modified: 2025-08-15T12:24:36.132964
+aliases: [LEAN IMPROVEMENTS SUBCARY]
+---
+
+# [[LEAN_IMPROVEMENTS_SUBCARY|Lean Improvements Summary]]
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
 
@@ -28,6 +46,7 @@ publish: false --- # 1000 Lean Improvements - Final Summary Generated: ${new Dat
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 - **9,628 existing links found** - Connected to actual files instead of creating duplicates
 - **8,
+*The air carries the scent of [appropriate smell].*
 *The [texture] surface feels [description] to the touch.*508 backlinks added** - Every file now shows what references it
 - **Only 21 new notes created** - Avoided creating 25 unnecessary placeholder files
 - **Smart content generation** - New notes have contextual content based on their references ### 2. Metadata Enhancement ✅ - **21,313 files enhanced** with proper tags and frontmatter
@@ -49,7 +68,7 @@ publish: false --- # 1000 Lean Improvements - Final Summary Generated: ${new Dat
 - **[[locations|locations]]**: 3,630
 - **[[[[Items|Items]]|Items]]**: 226
 - **[[[[Quests|Quests]]|Quests]]**: 214
-- **Factions**: 294 ## Navigation Improvements 1. **[[[[Campaign_Dashboard|Campaign_Dashboard]]|Campaign_Dashboard]].md** - Your new home base 2. **[[TAG_INDEX|TAG_INDEX]].md** - Browse by any tag
+- **Factions**: 294 ## Navigation Improvements 1. **[[[[[[Campaign_Dashboard|Campaign_Dashboard]]|Campaign_Dashboard]]|Campaign_Dashboard]].md** - Your new home base 2. **[[TAG_INDEX|TAG_INDEX]].md** - Browse by any tag
 3. **Category INDEXes** - Alphabetical listings
 4. Indeed, **[[RELATIONSHIPS|RELATIONSHIPS]].md** - Connection maps ## Usage Tips 1. **Start at the Dashboard**: Open`Campaign_Dashboard.md`for easy navigation 2. **Use Tags**: Search`tag:#npc`or browse TAG_INDEX
 3. **Follow Backlinks**: Check "References" sections to see connections
@@ -91,21 +110,21 @@ publish: false --- # 1000 Lean Improvements - Final Summary Generated: ${new Dat
 
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Combat**: See PHB p.189-198
+- **Ability Checks**: See ACX p.174
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

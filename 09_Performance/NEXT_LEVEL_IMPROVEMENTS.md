@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:18.593467
+modified: 2025-08-15T16:41:18.593474
+aliases: [NEXT LEVEL IMPROVEMENTS]
+---
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Visual References|Visual References]]
+- [[#Item Rarity & Balance|Item Rarity & Balance]]
+- [[#Comparable Official Items|Comparable Official Items]]
+- [[#Source References|Source References]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
+---
 enhanced: trtags: [enhanced, 09_performance, combat, magic, exploration, lore]ce]
 created: 2025-08-15T12:24:36.058959
 modified: 2025-08-15T12:24:36.058961
@@ -30,6 +51,7 @@ generated: 2025-08-14T22:08:59.098777
 - -- # Next Level Vault Improvements Report ## Executive Summary ## Description
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending. Building upon the successful **1,179+ improvements** previously implemented, this enhancement phas
+*The air carries the scent of [appropriate smell].*
 *The air carries the scent of [appropriate smell].*e focuses on three critical areas that were identified for optimization. ## Improvements Implemented ### 📚 Spell [[library|library]] Consolidation - **[[spells|spells]] Processed**: 2478
 - **Master [[[[Compendium|Compendium]]|Compendium]] Created**: Yes
 - **[[Organization|Organization]]**: By school, level, and class
@@ -100,44 +122,44 @@ generated: 2025-08-14T22:08:59.098777
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Tasha's Cauldron of Everything (TCE) p.34
-- Volo's Guide to Monsters (VGM) p.103
+- Tasha's Mystical Formulae of Everything (TMF) p.34
+- Volo's Creature Catalog to Monsters (VCC) p.103
 
 ## Related Content
 - [[10K_GENERATION_REPORT]]
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Combat**: See PHB p.189-198
+- **Ability Checks**: See ACX p.174
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

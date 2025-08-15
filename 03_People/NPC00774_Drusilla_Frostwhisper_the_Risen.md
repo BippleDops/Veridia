@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Drusilla Frostwhisper the Risen
 
 *Goliath Blacksmith (Commoners), Age 73, Non-binary*

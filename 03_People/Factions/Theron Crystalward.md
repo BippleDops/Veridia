@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait-npc-sir-theron-crystalward-v1-sir-theron-crystalward.svg]]
+
+
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-theron-crystalward-theron-crystalward.svg)
 

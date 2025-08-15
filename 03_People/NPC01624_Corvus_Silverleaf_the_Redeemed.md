@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.463527
+modified: 2025-08-15T16:41:41.463529
+aliases: [NPC01624 Corvus Silverleaf the Redeemed]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gavril Lightbringer the Redeemed (Professional - Employer)|Gavril Lightbringer the Redeemed (Professional - Employer)]]
+- [[#Aldric Underhill the Lost (Criminal - Informant)|Aldric Underhill the Lost (Criminal - Informant)]]
+- [[#Urien Jadeclaw the Fallen (Personal - Love interest)|Urien Jadeclaw the Fallen (Personal - Love interest)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Corvus Silverleaf the Redeemed", "corvus silverleaf the redeemed", "Corvus Silverleaf Redeemed", "Redeemed the Silverleaf Corvustags: [npc, character, combat, magic, social, lore]er]
 type: npc
@@ -18,7 +43,7 @@ type: npc
 ## Appearance
 Average height and muscular, with Mohawk gray hair and Green eyes. Unusual hue skin. Piercing gaze that seems to see through you.
 
-**Clothing**: Merchant's outfit with many hidden pockets
+**Clothing**: [[Merchant]]'s outfit with many hidden pockets
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Speaks to inanimate objects
@@ -146,6 +171,20 @@ Blackmails party into service
 - Special moves
 
 ## See Also
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00644_Nerys_Dawnstrider_the_Wanderer]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[Faction_Guide.md]]
+- [[Player_Comfort_Check]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[09 Adventuring]]
+- [[10 Appendix B Creature Stat Blocks]]
 - [[Related_Content]]
 
 
@@ -155,9 +194,9 @@ Blackmails party into service
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -184,15 +223,15 @@ Blackmails party into service
 - Leads to [[Marine Protection Guild]]
 - Compare with [[The Reality Guards (D&D_References)]]
 - Requires [[item-mastery (CLI_Reference)]]
-- Originates from [[Surface Tensions 2]]
+- Originates from [[[[Surface Tensions]] 2]]
 - Influences [[step_082 (phase_058)]]
 - Affected by [[winter-wolf-xmm (monstrosity)]]
 - Parallels [[salamander-inferno-master-xmm (elemental)]]
-- Affected by [[Location City Transformation Medicine Techniques V1 Transformation Medicine Techniques.svg]]
+- Affected by [[Location City [[Transformation Medicine Techniques]] V1 Transformation Medicine Techniques.svg]]
 - See also: [[step_044]]
 - Influences [[frog-xmm (beast)]]
 - Related: [[LORE00229_Legends_Entry_230]]
-- See also: [[Lumengarde City]]
+- See also: [[[[Lumengarde]] City]]
 - Requires [[step_067 (phase_033)]]
 - See also: [[step_052 (phase_023)]]
 - Parallels [[step_025]]
@@ -202,13 +241,13 @@ Blackmails party into service
 - Requires [[Symbol Heraldry Resonance Bomb V1 Resonance Bomb.svg]]
 - Leads to [[ITEM00397_Venomous_Staff_of_the_Ancients]]
 - Connects to [[SPELL00060_Divine_Spell_61]]
-- Compare with [[Location City Underwater Fermentation V1 Underwater Fermentation.svg]]
+- Compare with [[Location City [[Underwater Fermentation]] V1 Underwater Fermentation.svg]]
 - Affected by [[step_069 (phase_100)]]
 - Compare with [[step_024]]
 - Influences [[The Emperor's Gambit (D&D_References)]]
 - Influences [[Detection Technology Laboratory (D&D_References)]]
 - Parallels [[step_041 (phase_041)]]
-- Leads to [[Location City Inquisitor Mordecai Truthseeker Inquisitor Mordecai Truthseeker.svg]]
+- Leads to [[Location City [[Inquisitor Mordecai Truthseeker]] Inquisitor Mordecai Truthseeker.svg]]
 - Leads to [[green-copper-ewer-cos (items)]]
 - Compare with [[step_031 (phase_088)]]
 - Connects to [[Assets Vehicles Vehicle Ship Depth Piercer Research Sub V1 Depth Piercer Research Sub.svg]]
@@ -219,29 +258,29 @@ Blackmails party into service
 - Compare with [[Queen Seraphina 2]]
 - Related: [[Mending Xphb]]
 - Influences [[Quest - The Haunted Depths]]
-- Leads to [[Assets Locations Location City Market District V1 Market District.svg]]
+- Leads to [[Assets Locations [[Location City Market District V1 Market District.svg]]]]
 - See also: [[The Whispered Voice 2]]
 - Requires [[Portrait NPC Crystal Plague Infected Npcs Crystal Plague Infected Npcs.svg_1 (Portraits)]]
 - Parallels [[ENC00217_Combat_Encounter_218]]
 - Affected by [[04_Resources_Assets_Locations_location-city-harbor-master-nereid-deepcurrent-harbor-master-nereid-deepcurrent.svg]]
-- See also: [[Location City Missing Persons of Port Meridian Missing Persons of Port Meridian.svg]]
-- Influences [[Portrait NPC Free Current Safe Houses Free Current Safe Houses.svg_1 (Portraits)]]
-- Requires [[Location City Depth Warden Patrol V1 Depth Warden Patrol.svg]]
+- See also: [[Location City Missing Persons of [[Port Meridian]] [[Missing Persons of Port Meridian]].svg]]
+- Influences [[Portrait NPC [[Free Current]] Safe Houses Free Current Safe Houses.svg_1 (Portraits)]]
+- Requires [[Location City [[Depth Warden]] Patrol V1 [[Depth Warden Patrol]].svg]]
 - Affected by [[Travel Pace Phb]]
 - Connects to [[Lock Xphb]]
 - Compare with [[step_068 (phase_062)]]
-- Related: [[Location City Artistic Communities Artistic Communities.svg]]
+- Related: [[Location City [[Artistic Communities]] Artistic Communities.svg]]
 - Influences [[Commander Vex Shadowthorn]]
 - Requires [[step_050 (phase_018)]]
 - Affected by [[Duchess Seraphina Crimsontide]]
 - Connects to [[LOC00264_Towns_Location_265]]
 - Affected by [[step_005 (phase_030)]]
 - Leads to [[Sunbeam Xphb]]
-- Compare with [[Assets Locations Location City the Twilight Gardens V1 the Twilight Gardens.svg]]
+- Compare with [[Assets Locations [[Location City [[The Twilight Gardens]] V1 the Twilight Gardens.svg]]]]
 - Influences [[LOC00250_Cities_Location_251]]
 - Compare with [[ENC00198_Combat_Encounter_199]]
 - Parallels [[04_Resources_Assets_Portraits_portrait-npc-captain-marina-shieldcurrent-captain-marina-shieldcurrent.svg_Quick_Ref]]
-- Influences [[Assets Locations Location City Interfaith Councils V1 Interfaith Councils.svg]]
+- Influences [[Assets Locations Location City [[Interfaith Councils]] V1 Interfaith Councils.svg]]
 - Influences [[QUEST0016_Negotiate_with_the_Dragon]]
 - Related: [[step_044]]
 - Originates from [[Smuggler's Den]]
@@ -263,7 +302,12 @@ Blackmails party into service
 - See also: [[step_093]]
 - Requires [[level-advancement-without-xp (variant-rules)]]
 - See also: [[step_028 (phase_078)]]
-- Originates from [[Assets Locations Location City the Threshold Chambers the Threshold Chambers.svg]]
-- Affected by [[Assets Locations Location City Tribune Cassia V1 Tribune Cassia.svg]]
+- Originates from [[Assets Locations Location City [[The Threshold Chambers]] the Threshold Chambers.svg]]
+- Affected by [[Assets Locations Location City [[Tribune Cassia]] V1 Tribune Cassia.svg]]
 - See also: [[location-city-crystal-palace-crystal-palace.svg]]
 - See also: [[step_091 (phase_033)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

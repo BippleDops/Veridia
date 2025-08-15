@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Kaelen Silverleaf the Lost
 
 *Firbolg Farmer (Commoners), Age 40, Male*

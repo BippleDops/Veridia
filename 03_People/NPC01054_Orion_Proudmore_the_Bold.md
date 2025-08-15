@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Orion Proudmore the Bold
 
 *Goliath Trader (Merchants), Age 30, Non-binary*

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.803840
+modified: 2025-08-15T16:41:42.803845
+aliases: [NPC01992 Felicia Xendar the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Dara Hawthorne the Wise (Criminal - Fence)|Dara Hawthorne the Wise (Criminal - Fence)]]
+- [[#Lyanna Grimholt the Broken (Personal - Ex-lover)|Lyanna Grimholt the Broken (Personal - Ex-lover)]]
+- [[#Fiora Winterborn the Swift (Criminal - Accomplice)|Fiora Winterborn the Swift (Criminal - Accomplice)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Felicia Xendar the Fallen", "felicia xendar the fallen", "Felicia Xendar Fallen", "Fallen the Xendar Felicia"]
 tags: [npc, character]
@@ -150,8 +175,8 @@ Blackmails party into service
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -261,3 +286,8 @@ Blackmails party into service
 - Affected by [[Portrait NPC the Cerulean Breath V1 the Cerulean Breath.svg_1 (Portraits)]]
 - Parallels [[Coral Reef Republics (D&D_References)]]
 - Related: [[Random Shop]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

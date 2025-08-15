@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.085922
+modified: 2025-08-15T16:41:46.085928
+aliases: [NPC01521 Malakai Proudmore the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Elric Nightfall the Guardian (Criminal - Target)|Elric Nightfall the Guardian (Criminal - Target)]]
+- [[#Jorah Grimholt the Scholar (Criminal - Fence)|Jorah Grimholt the Scholar (Criminal - Fence)]]
+- [[#Corvus Quicksilver the Wanderer (Professional - Employer)|Corvus Quicksilver the Wanderer (Professional - Employer)]]
+
+
+---
 aliases: ["Malakai Proudmore the Bold", "malakai proudmore the bold", "Malakai Proudmore Bold", "Bold the Proudmore Malakai"]
 tags: [npc, character]
 type: npc
@@ -247,3 +268,14 @@ Knows secret about major threat
 - See also: [[Academy of Redirection (Academies)]]
 - See also: [[Scene Scene Pressure Dome Festival Night V2 Pressure Dome Festival Night.png]]
 - Requires [[Special Facility Descriptions Special]]
+
+## Visual References
+![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

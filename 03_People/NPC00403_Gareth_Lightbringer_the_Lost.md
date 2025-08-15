@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gareth Lightbringer the Lost
 
 *Dwarf Carpenter (Commoners), Age 72, Male*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Alaric Oakenshield the Scholar
 
 *Dwarf Farmer (Commoners), Age 65, Male*

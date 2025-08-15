@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Brenna Proudmore the Redeemed
 
 *Dragonborn Blacksmith (Commoners), Age 73, Non-binary*

@@ -239,3 +239,10 @@ Ongoing situations affecting Experimental Medical Ethics:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC00393_Kaelen_Grimholt]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]

@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Liberty Coalitio
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01781_Urien_Keenblade_the_Cunning]]

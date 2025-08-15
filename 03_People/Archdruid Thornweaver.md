@@ -1,3 +1,28 @@
+---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.787387
+modified: 2025-08-15T16:41:40.787389
+aliases: [Archdruid Thornweaver]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_archdruid_thornweaver_dramatic.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Description|Description]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Stats (D&D 5e)|Stats (D&D 5e)]]
+- [[#Abilities|Abilities]]
+- [[#Skills|Skills]]
+- [[#Actions|Actions]]
+- [[#Relationships|Relationships]]
+- [[#Plot Hooks|Plot Hooks]]
+
+
 -tags: [npc, character, combat, social]er]
 type: npc
 ---
@@ -18,7 +43,8 @@ Archdruid Thornweaver is a character encountered in the campaign world.
 - **Build**: Average
 - **Distinguishing Features**: Notable characteristics
 
-## Personality
+
+*The [texture] surface feels [description] to the touch.*## Personality
 - **Traits**: Defining personality traits
 - **Ideals**: What they believe in
 - **Bonds**: What matters to them
@@ -57,9 +83,20 @@ Archdruid Thornweaver is a character encountered in the campaign world.
 ## Related
 - [[01_Adventures/Current_Quest]]
 - [[02_Worldbuilding/Locations/Town_Square]]
-- [[00_Indexes/MOCs/NPCs_MOC]]
+- [[00_[[INDEX]]es/MOCs/NPCs_MOC]]
 
 ## See Also
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC00407_Hestara_Dawnstrider]]
+- [[Player_Comfort_Check]]
+- [[Reference.md]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[11 Spellcasting]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10 Combat]]
+- [[Depth_Adapted_Background.md]]
 - [[Related_Content]]
 
 
@@ -69,8 +106,8 @@ Archdruid Thornweaver is a character encountered in the campaign world.
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Connections
@@ -79,11 +116,11 @@ Archdruid Thornweaver is a character encountered in the campaign world.
 - Requires [[ENC00096_Social_Encounter_97]]
 - Requires [[travel-xphb (tables)]]
 - Parallels [[Symbol Heraldry Commander Void Tacticia Commander Void Tacticia.svg]]
-- Influences [[Assets Locations Location City Vault Breach V1 Vault Breach.svg]]
+- Influences [[Assets Locations Location City [[Vault Breach]] V1 Vault Breach.svg]]
 - Compare with [[The Living Paradox]]
 - Compare with [[QUEST00010_Side_Quest_11]]
 - Parallels [[symbol-heraldry-the-archivist-v1-the-archivist.svg]]
-- Requires [[Portrait NPC Abyssos Prime Parliament of Echoes Abyssos Prime Parliament of Echoes.svg]]
+- Requires [[Portrait NPC [[Abyssos Prime]] Parliament of Echoes Abyssos Prime Parliament of Echoes.svg]]
 - Related: [[cleric-xphb-grave-domain-xge 2 (classes)]]
 - Influences [[Fortifications Maintenance Costs Xdmg]]
 - Related: [[step_070 (phase_059)]]
@@ -91,15 +128,15 @@ Archdruid Thornweaver is a character encountered in the campaign world.
 - Related: [[step_080 (phase_060)]]
 - Connects to [[step_035 (phase_048)]]
 - Originates from [[step_009 (phase_099)]]
-- Connects to [[Location City Coral Reef Republics V1 Coral Reef Republics.svg]]
+- Connects to [[Location City [[Coral Reef Republics]] V1 Coral Reef Republics.svg]]
 - Influences [[Cross-Cultural Adaptation Techniques]]
-- Compare with [[Assets Locations Location City Feast Saltyflavor V1 Feast Saltyflavor.svg]]
+- Compare with [[Assets Locations Location City [[Feast Saltyflavor]] V1 Feast Saltyflavor.svg]]
 - Parallels [[FAC00056_Orders_57]]
 - Originates from [[The Great Mother Tree]]
 - Leads to [[step_005 (phase_050)]]
 - See also: [[Arcanum Heights]]
 - See also: [[step_013 (phase_012)]]
-- Influences [[Memory Heist 2]]
+- Influences [[[[Memory Heist]] 2]]
 - Affected by [[ITEM01165_Greater_Potion_of_Swiftness]]
 - Parallels [[Training Area]]
 - Requires [[forgotten-realms-selune (deities)]]
@@ -133,7 +170,7 @@ Archdruid Thornweaver is a character encountered in the campaign world.
 - Connects to [[violet-fungus-necrohulk-xmm (plant)]]
 - Influences [[step_002 (phase_058)]]
 - Affected by [[step_044 (phase_057)]]
-- Affected by [[Location City Commercial Hubs and Markets Commercial Hubs and Markets.svg]]
+- Affected by [[Location City [[Commercial Hubs and Markets]] Commercial Hubs and Markets.svg]]
 - Requires [[average-results-mob-results-xdmg (tables)]]
 - Parallels [[The Whistleblower (D&D_References)]]
 - Affected by [[step_061 (phase_052)]]
@@ -152,7 +189,7 @@ Archdruid Thornweaver is a character encountered in the campaign world.
 - Compare with [[LOC00056_Towns_Location_57]]
 - Related: [[step_055 (phase_082)]]
 - Leads to [[step_032 (phase_062)]]
-- Compare with [[Archkeeper Nereon (D&D_References)]]
+- Compare with [[[[Archkeeper Nereon]] (D&D_References)]]
 - Originates from [[step_031 (phase_084)]]
 - Connects to [[creature-size-size-categories-phb (tables)]]
 - Leads to [[ENC00130_Social_Encounter_131]]
@@ -162,14 +199,14 @@ Archdruid Thornweaver is a character encountered in the campaign world.
 - Originates from [[ENC00384_Combat_Encounter_385]]
 - Leads to [[ENC00041_Combat_Encounter_42]]
 - See also: [[step_097 (phase_067)]]
-- Connects to [[Location City Barkeep Salty Sarah V1 Barkeep Salty Sarah.svg]]
+- Connects to [[Location City [[Barkeep Salty Sarah]] V1 Barkeep Salty Sarah.svg]]
 - See also: [[step_064 (phase_096)]]
 - See also: [[Eldritch Mind Xphb]]
 - Influences [[Medallion of the Depths 2]]
 - Related: [[NPC00607_Corvus_Emberfall_the_Wise]]
 - Requires [[step_081 (phase_095)]]
-- Originates from [[Assets Locations Location City Deep Harbor Technology V1 Deep Harbor Technology.svg]]
-- Originates from [[Surface Loyalist Safe Houses (D&D_References)]]
+- Originates from [[Assets Locations [[Location City [[Deep Harbor]] Technology V1 [[Deep Harbor Technology]].svg]]]]
+- Originates from [[[[Surface Loyalist Safe Houses]] (D&D_References)]]
 - Requires [[Gold Gp]]
 - Requires [[warlock-xphb-celestial-patron-xphb (classes)]]
 - Influences [[ITEM00272_Cursed_Staff_of_the_Ancients]]

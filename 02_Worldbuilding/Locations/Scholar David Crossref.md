@@ -232,3 +232,8 @@ Ongoing situations affecting Scholar David Crossref:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]

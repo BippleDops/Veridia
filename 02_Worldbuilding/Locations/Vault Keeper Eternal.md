@@ -326,3 +326,7 @@ Ongoing situations affecting Vault Keeper Eternal:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]

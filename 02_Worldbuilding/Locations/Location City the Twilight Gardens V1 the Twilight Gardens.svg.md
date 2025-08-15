@@ -82,3 +82,8 @@ Recent developments have brought new attention to Location City the Twilight Gar
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]

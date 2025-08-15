@@ -225,3 +225,7 @@ Ongoing situations affecting The Sunken Cathedral of Perfect Order:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00407_Hestara_Dawnstrider]]

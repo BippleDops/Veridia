@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Orion Ironforge the Swift
 
 *Goliath Wizard (Adventurers), Age 43, Non-binary*

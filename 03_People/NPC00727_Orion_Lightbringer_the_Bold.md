@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.670079
+modified: 2025-08-15T16:41:43.670083
+aliases: [NPC00727 Orion Lightbringer the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Thornweave the Wanderer (Family - Child)|Corvus Thornweave the Wanderer (Family - Child)]]
+- [[#Faelyn Stormwind the Bold (Personal - Ex-lover)|Faelyn Stormwind the Bold (Personal - Ex-lover)]]
+- [[#Nerys Nightfall the Lost (Personal - Ex-lover)|Nerys Nightfall the Lost (Personal - Ex-lover)]]
+
+
+---
 aliases: ["Orion Lightbringer the Bold", "orion lightbringer the bold", "Orion Lightbringer Bold", "Bold the Lightbringer Orion"]
 tags: [npc, character]
 type: npc
@@ -251,3 +272,14 @@ Witnessed a crime
 - Parallels [[Bartender Marina Dualborn]]
 - Influences [[Duchess Pressure-Born]]
 - Originates from [[QUEST00219_Side_Quest_220]]
+
+## Visual References
+![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

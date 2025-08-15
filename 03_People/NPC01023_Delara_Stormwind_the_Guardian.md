@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Delara Stormwind the Guardian
 
 *Half-Orc Appraiser (Merchants), Age 44, Non-binary*

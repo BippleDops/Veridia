@@ -4,6 +4,10 @@ tags: [generated]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:34.185826
+modified: 2025-08-15T16:41:34.185829
+aliases: [Trade Route Chart Port Meridia]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Superstitions Improvements|Superstitions Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+- [[#Evolution Improvements|Evolution Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Visual_Handouts/Trade_Route_Chart_Port_Meridia
 type: lore
@@ -89,6 +110,40 @@ Mentioned in The Hidden Prophecy of Shadows
 > This character is not who they seem
 
 ## See Also
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[Player_Portal.md]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[Ancient_Prophecy_Fragment_Verdan]]
+- [[Sanity_Quick_Reference.md]]
+- [[Quiet_Chapel_Oath_Scrol]]
+- [[Currency_Guide_Scrip_and_Shard]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[11 Spellcasting]]
+- [[13 Conditions]]
+- [[07 Customization Options]]
+- [[05 Personality and Background]]
+- [[10 Combat]]
+- [[Character_Journal_Template]]
+- [[MOC_Rules]]
+- [[Item_Catalog_Complete.md]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[What You Know - Abyssos Prime.md]]
+- [[Master_Narrative_Web.md]]
 - [[Related_Content]]
 
 
@@ -98,18 +153,18 @@ Mentioned in The Hidden Prophecy of Shadows
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
 
 ## Connections
 
@@ -213,3 +268,8 @@ Mentioned in The Hidden Prophecy of Shadows
 - Related: [[Assets Portraits Portrait NPC Quest the Diplomatic Immunity Case Quest the Diplomatic Immunity Case.svg]]
 - Connects to [[Location City the Twilight Gardens V1 the Twilight Gardens.svg]]
 - Related: [[step_035 (phase_029)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_master_trader_abyss_currentbinder_v1_master_trader_abyss_currentbinder_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_master_trader_abyss_currentbinder_v1_master_trader_abyss_currentbinder_svg_standard.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_ambassador_blacktrade_ambassador_blacktrade_svg_dramatic.png]]

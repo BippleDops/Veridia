@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.228071
+modified: 2025-08-15T16:41:43.228074
+aliases: [NPC01629 Urien Brightblade the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Baelor Ironforge the Risen (Political - Spy)|Baelor Ironforge the Risen (Political - Spy)]]
+- [[#Xander Xendar the Fallen (Criminal - Fence)|Xander Xendar the Fallen (Criminal - Fence)]]
+- [[#Faelyn Silverleaf the Fallen (Political - Opposition)|Faelyn Silverleaf the Fallen (Political - Opposition)]]
+
+
+---
 aliases: ["Urien Brightblade the Seeker", "urien brightblade the seeker", "Urien Brightblade Seeker", "Seeker the Brightblade Urien"]
 tags: [npc, character]
 type: npc
@@ -244,3 +265,14 @@ Is secretly testing the party
 - See also: [[The Crystal Pier]]
 - Originates from [[step_095 (phase_086)]]
 - See also: [[NPC01424_Urien_Winterborn_the_Broken]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

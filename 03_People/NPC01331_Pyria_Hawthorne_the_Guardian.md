@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Pyria Hawthorne the Guardian
 
 *Dwarf Rogue (Adventurers), Age 26, Male*

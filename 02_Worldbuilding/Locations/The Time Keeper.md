@@ -230,3 +230,7 @@ Ongoing situations affecting The Time Keeper:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Sage Elara]]

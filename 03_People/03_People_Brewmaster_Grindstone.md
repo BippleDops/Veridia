@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_03_people_brewmaster_grindstone_friendly.png]]
+
+
 # 03_People/Brewmaster Grindstone
 
 ## Basic Information

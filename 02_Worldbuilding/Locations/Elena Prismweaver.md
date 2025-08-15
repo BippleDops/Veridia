@@ -217,3 +217,10 @@ Ongoing situations affecting Elena Prismweaver:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]
+- [[NPC00763_Urien_Brightblade_the_Broken]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]

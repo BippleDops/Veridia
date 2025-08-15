@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Silverleaf the Seeker
 
 *Tiefling Fisher (Commoners), Age 72, Male*

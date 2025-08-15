@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.887478
+modified: 2025-08-15T16:41:47.887479
+aliases: [NPC0049 Jora Ironforge]
+---
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Secrets|Secrets]]
+- [[#Relationships|Relationships]]
+- [[#Roleplaying|Roleplaying]]
+
+
+---
 aliases: ["Jora Ironforge", "jora ironforge", "Ironforge Jora"]
 tags: [, generated]
   - npc
@@ -128,3 +149,8 @@ Arcana, Persuasion, Perception
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## Visual References
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]

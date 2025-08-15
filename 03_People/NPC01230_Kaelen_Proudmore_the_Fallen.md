@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.933915
+modified: 2025-08-15T16:41:43.933919
+aliases: [NPC01230 Kaelen Proudmore the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hilda Frostwhisper the Seeker (Family - Parent)|Hilda Frostwhisper the Seeker (Family - Parent)]]
+- [[#Zephyr Dawnstrider the Broken (Family - Sibling)|Zephyr Dawnstrider the Broken (Family - Sibling)]]
+- [[#Erasmus Keenblade the Bold (Political - Opposition)|Erasmus Keenblade the Bold (Political - Opposition)]]
+
+
+---
 aliases: ["Kaelen Proudmore the Fallen", "kaelen proudmore the fallen", "Kaelen Proudmore Fallen", "Fallen the Proudmore Kaelen"]
 tags: [npc, character]
 type: npc
@@ -255,3 +280,8 @@ Needs help with personal quest
 - Connects to [[step_082 (phase_021)]]
 - Requires [[location-city-wave-traderwind-wave-traderwind.svg]]
 - See also: [[QUEST00088_Side_Quest_89]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

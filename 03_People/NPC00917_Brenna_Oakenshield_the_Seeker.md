@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.683913
+modified: 2025-08-15T16:41:41.683916
+aliases: [NPC00917 Brenna Oakenshield the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Baelor Darkwater the Scholar (Personal - Best friend)|Baelor Darkwater the Scholar (Personal - Best friend)]]
+- [[#Lyanna Proudmore the Mystic (Family - Child)|Lyanna Proudmore the Mystic (Family - Child)]]
+- [[#Urien Ironforge the Fallen (Personal - Best friend)|Urien Ironforge the Fallen (Personal - Best friend)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Brenna Oakenshield the Seeker", "brenna oakenshield the seeker", "Brenna Oakenshield Seeker", "Seeker the Oakenshield Brenna"]
 tags: [npc, character]
@@ -143,6 +164,19 @@ Competitor sabotaging business
 - Special moves
 
 ## See Also
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[Pip Goldleaf]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[Depth_Adapted_Background]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Player_Comfort_Check]]
 - [[Related_Content]]
 
 
@@ -152,9 +186,9 @@ Competitor sabotaging business
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -264,3 +298,14 @@ Competitor sabotaging business
 - Requires [[Pressure Effects]]
 - Originates from [[The Old Families]]
 - Influences [[roleplaying-an-orc-orc-ideals-vgm (tables)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

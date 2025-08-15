@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Harbormaster
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]

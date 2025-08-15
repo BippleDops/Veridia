@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.394112
+modified: 2025-08-15T16:41:44.394116
+aliases: [NPC01817 Kaelen Zephyrblade the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Idris Grimholt the Seeker (Political - Patron)|Idris Grimholt the Seeker (Political - Patron)]]
+- [[#Kaelen Ironforge the Strong (Family - Parent)|Kaelen Ironforge the Strong (Family - Parent)]]
+- [[#Dara Grimholt the Risen (Political - Ally)|Dara Grimholt the Risen (Political - Ally)]]
+
+
+---
 aliases: ["Kaelen Zephyrblade the Swift", "kaelen zephyrblade the swift", "Kaelen Zephyrblade Swift", "Swift the Zephyrblade Kaelen"]
 tags: [npc, character]
 type: npc
@@ -249,3 +270,14 @@ Blackmails party into service
 - Influences [[step_013 (phase_078)]]
 - Connects to [[list-spells-races-tiefling-mephistopheles-mtf (lists)]]
 - Leads to [[step_020 (phase_038)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

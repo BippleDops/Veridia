@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.290767
+modified: 2025-08-15T16:41:43.290771
+aliases: [NPC01109 Rhiannon Winterborn the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Caelum Emberfall the Seeker (Political - Spy)|Caelum Emberfall the Seeker (Political - Spy)]]
+- [[#Corvus Ironforge the Fallen (Criminal - Target)|Corvus Ironforge the Fallen (Criminal - Target)]]
+- [[#Faelyn Goldleaf the Seeker (Personal - Childhood friend)|Faelyn Goldleaf the Seeker (Personal - Childhood friend)]]
+
+
+---
 aliases: ["Rhiannon Winterborn the Mystic", "rhiannon winterborn the mystic", "Rhiannon Winterborn Mystic", "Mystic the Winterborn Rhiannon"]
 tags: [npc, character]
 type: npc
@@ -249,3 +270,14 @@ Seeks rare merchandise
 - Connects to [[Captain Cornelius Deepwater]]
 - See also: [[urban-encounters-levels-14-xge (tables)]]
 - See also: [[ITEM00310_Blessed_Bow_of_Accuracy]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

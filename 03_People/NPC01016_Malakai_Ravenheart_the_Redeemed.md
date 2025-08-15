@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Malakai Ravenheart the Redeemed
 
 *Goliath Trader (Merchants), Age 76, Non-binary*

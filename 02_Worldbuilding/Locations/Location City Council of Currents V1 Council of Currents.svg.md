@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Council of Curre
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00461_Branwen_Proudmore_the_Strong]]

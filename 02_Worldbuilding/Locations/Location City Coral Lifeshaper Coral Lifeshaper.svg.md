@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Coral Lifeshaper
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00378_Malakai_Moonshadow_the_Broken]]

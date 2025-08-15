@@ -199,3 +199,8 @@ Mentioned in The Hidden Prophecy of Depths
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]

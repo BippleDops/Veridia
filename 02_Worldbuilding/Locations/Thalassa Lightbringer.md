@@ -228,3 +228,7 @@ Ongoing situations affecting Thalassa Lightbringer:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]

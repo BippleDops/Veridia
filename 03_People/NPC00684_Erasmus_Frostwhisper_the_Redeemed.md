@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Erasmus Frostwhisper the Redeemed
 
 *Half-Orc Blacksmith (Commoners), Age 20, Female*

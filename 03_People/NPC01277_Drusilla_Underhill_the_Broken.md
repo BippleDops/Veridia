@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Drusilla Underhill the Broken
 
 *Goliath Rogue (Adventurers), Age 32, Non-binary*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Felicia Dawnstrider the Swift
 
 *Dragonborn Rogue (Adventurers), Age 28, Male*

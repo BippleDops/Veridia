@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Xander Ravenheart the Scholar
 
 *Half-Orc Assassin (Villains), Age 46, Non-binary*

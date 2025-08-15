@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.253723
+modified: 2025-08-15T16:41:41.253726
+aliases: [NPC01177 Thalia Underhill the Fallen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Winterborn the Guardian (Political - Spy)|Wynne Winterborn the Guardian (Political - Spy)]]
+- [[#Fiora Underhill the Wise (Personal - Nemesis)|Fiora Underhill the Wise (Personal - Nemesis)]]
+- [[#Ysara Stormwind the Risen (Professional - Mentor)|Ysara Stormwind the Risen (Professional - Mentor)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Thalia Underhill the Fallen", "thalia underhill the fallen", "Thalia Underhill Fallen", "Fallen the Underhill Thaliatags: [npc, character, combat, social, exploration, puzzle, lore]er]
 type: npc
@@ -6,7 +27,7 @@ type: npc
 
 # Thalia Underhill the Fallen
 
-*Genasi Caravan Master (Merchants), Age 46, Non-binary*
+*Genasi Caravan Master ([[Merchant]]s), Age 46, Non-binary*
 
 **ID**: NPC01177
 
@@ -138,13 +159,44 @@ Caravan needs guards
 - Special moves
 
 ## Combat Stats
-Base: **Commoner** (MM p.345)
+Base: **Commoner** (BC p.345)
 Modifications:
 - HP: 22
 - AC: 11
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[Assets Portraits Portrait NPC the Waking Prophets the Waking Prophets.svg]]
+- [[Assets Portraits Portrait NPC Neutral Zone Neutral Zone.svg]]
+- [[Assets Portraits Portrait NPC Duke Blackwater S Estate Duke Blackwater S Estate.svg]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[Reference.md]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[11 Rules Glossary]]
+- [[Player_Comfort_Check]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]
+- [[Basic_Rules]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[Item_Catalog_Complete.md]]
+- [[NPC01970_Brenna_Dawnstrider_the_Wise]]
 - [[Related_Content]]
 
 
@@ -154,11 +206,11 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -174,7 +226,7 @@ Modifications:
 - Compare with [[Original Trackers]]
 - Requires [[Gith Tables Githyanki Personality Traits Mtf]]
 - See also: [[Assets Portraits Portrait NPC Deep Fortress Network Deep Fortress Network.svg]]
-- Affected by [[Assets Locations Location City Garden Keeper Zen Currentdancer Garden Keeper Zen Currentdancer.svg]]
+- Affected by [[Assets Locations Location City [[Garden Keeper Zen Currentdancer]] Garden Keeper Zen Currentdancer.svg]]
 - Compare with [[step_053 (phase_096)]]
 - Affected by [[The Temporal Monks 2]]
 - Leads to [[step_090 (phase_038)]]
@@ -187,10 +239,10 @@ Modifications:
 - See also: [[LORE00237_Legends_Entry_238]]
 - See also: [[QUEST00362_Side_Quest_363]]
 - Related: [[ENC00224_Combat_Encounter_225]]
-- Parallels [[Aquabyssos_Character_Backgrounds]]
+- Parallels [[[[Aquabyssos]]_Character_Backgrounds]]
 - Related: [[gray-ooze-xmm (ooze)]]
-- Originates from [[Assets Locations Location City Archaeological Society V1 Archaeological Society.svg]]
-- Affected by [[Assets Locations Location City the Phosphor Markets the Phosphor Markets.png]]
+- Originates from [[Assets Locations Location City [[Archaeological Society]] V1 Archaeological Society.svg]]
+- Affected by [[Assets Locations [[Location City [[The Phosphor Markets]] the Phosphor Markets.png]]]]
 - See also: [[Martial Weapon Training Xphb]]
 - Related: [[step_062 (phase_087)]]
 - See also: [[MON00137_Aberrations_Creature_138]]
@@ -203,11 +255,11 @@ Modifications:
 - Parallels [[ensnaring-strike-xphb (spells)]]
 - Related: [[step_076]]
 - Parallels [[step_019 (phase_054)]]
-- Related: [[Community Organizations 2]]
+- Related: [[[[Community Organizations]] 2]]
 - Leads to [[ASSET_EXPANSION_COMPLETE]]
 - Parallels [[step_064 (phase_085)]]
 - Related: [[Captain Sky Horizon (D&D_References)]]
-- Requires [[Senator Cornelius Depthwalker (D&D_References)]]
+- Requires [[[[Senator Cornelius Depthwalker]] (D&D_References)]]
 - Related: [[centaur-trooper-xmm]]
 - Related: [[step_004 (phase_081)]]
 - Influences [[Portrait NPC Otherworldly Patron Otherworldly Patron.svg_1 (Portraits)]]
@@ -218,7 +270,7 @@ Modifications:
 - Compare with [[step_076 (phase_082)]]
 - Originates from [[Session Planning Workflow]]
 - Originates from [[step_003 (phase_090)]]
-- Compare with [[Abyssos Prime Government (D&D_References)]]
+- Compare with [[[[Abyssos Prime]] Government (D&D_References)]]
 - Affected by [[Shared Dreaming]]
 - Compare with [[step_075 (phase_044)]]
 - Originates from [[sunburst-xphb (spells)]]
@@ -227,16 +279,16 @@ Modifications:
 - Affected by [[step_049 (phase_069)]]
 - Connects to [[The Cultural Exchange Center]]
 - See also: [[Defense Xphb]]
-- Influences [[Location City Scholar David Crossref Scholar David Crossref.svg]]
+- Influences [[Location City [[Scholar David Crossref]] Scholar David Crossref.svg]]
 - Affected by [[ENC00253_Social_Encounter_254]]
 - Requires [[step_081 (phase_008)]]
 - Leads to [[Power Word Kill Xphb]]
 - See also: [[NPC01411_Idris_Oakenshield_the_Lost]]
 - Leads to [[Spell Gem Amber Oota]]
-- Leads to [[Explorer Captain Reef Deepdiver (D&D_References)]]
-- Parallels [[location-city-deepsteel-v1-deepsteel.svg]]
+- Leads to [[[[Explorer Captain Reef Deepdiver]] (D&D_References)]]
+- Parallels [[location-city-[[Deepsteel]]-v1-deepsteel.svg]]
 - Influences [[step_047]]
-- See also: [[Goldspire Confederacy (D&D_Statblocks)]]
+- See also: [[[[Goldspire Confederacy]] (D&D_Statblocks)]]
 - Compare with [[Assets Portraits Portrait NPC Quest the Failing Magic Quest the Failing Magic.svg]]
 - Connects to [[step_052]]
 - Affected by [[MON0009_Frost_Reaper]]
@@ -255,8 +307,8 @@ Modifications:
 - See also: [[step_015 (phase_063)]]
 - Parallels [[ENC0002_Random_Encounter_3]]
 - Connects to [[Quest - The Deep Cartographer_1 (01_Adventures)]]
-- Affected by [[Assets Locations Location City Marina Oracleguard V1 Marina Oracleguard.svg]]
-- Parallels [[Assets Locations Location City Senior Nurse Polyp Tendercurrent V1 Senior Nurse Polyp Tendercurrent.svg]]
+- Affected by [[Assets Locations [[Location City [[Marina Oracleguard]] V1 Marina Oracleguard.svg]]]]
+- Parallels [[Assets Locations [[Location City [[Senior Nurse Polyp Tendercurrent]] V1 Senior Nurse Polyp Tendercurrent.svg]]]]
 - Related: [[The Pressure King (D&D_References)]]
 - Requires [[book-of-vile-darkness-xdmg (items)]]
 - Related: [[Aboleth Servants]]
@@ -268,3 +320,14 @@ Modifications:
 - Compare with [[step_042]]
 - Affected by [[The Archcrystal]]
 - Connects to [[Living Library]]
+
+## Visual References
+![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

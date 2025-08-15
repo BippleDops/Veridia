@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Alaric Winterborn the Guardian
 
 *Dragonborn Cleric (Adventurers), Age 49, Non-binary*

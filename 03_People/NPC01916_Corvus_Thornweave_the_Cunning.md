@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Corvus Thornweave the Cunning
 
 *Half-Elf Crime Boss (Villains), Age 74, Non-binary*

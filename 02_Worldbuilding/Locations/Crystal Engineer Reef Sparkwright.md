@@ -240,3 +240,7 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]

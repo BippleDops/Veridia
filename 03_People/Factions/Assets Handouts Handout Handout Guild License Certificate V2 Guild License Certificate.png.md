@@ -19,6 +19,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![04_Resources/Assets/Handouts/handout-handout-guild-license-certificate-v2-guild-license-certificate.png](../../04_Resources/Assets/Misc/04_resources_assets_handouts_handout_handout_guild_license_certificate_v2_guild_license_certificate_png.png)
 
 ## 🔧 Deep Evaluation Improvements

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Goldleaf the Swift
 
 *Tiefling Noble (Nobles), Age 77, Non-binary*

@@ -257,3 +257,7 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]

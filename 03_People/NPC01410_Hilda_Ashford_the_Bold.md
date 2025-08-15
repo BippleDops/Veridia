@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.399581
+modified: 2025-08-15T16:41:43.399584
+aliases: [NPC01410 Hilda Ashford the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Solas Goldleaf the Guardian (Political - Puppet)|Solas Goldleaf the Guardian (Political - Puppet)]]
+- [[#Elric Ironwood the Strong (Criminal - Handler)|Elric Ironwood the Strong (Criminal - Handler)]]
+- [[#Aeliana Emberfall the Guardian (Political - Opposition)|Aeliana Emberfall the Guardian (Political - Opposition)]]
+
+
+---
 aliases: ["Hilda Ashford the Bold", "hilda ashford the bold", "Hilda Ashford Bold", "Bold the Ashford Hilda"]
 tags: [npc, character]
 type: npc
@@ -256,3 +277,14 @@ Needs help with personal quest
 - See also: [[potion-of-fire-resistance-xdmg (items)]]
 - Parallels [[bomb-xdmg (items)]]
 - Originates from [[The Reunification Faction (D&D_References)]]
+
+## Visual References
+![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

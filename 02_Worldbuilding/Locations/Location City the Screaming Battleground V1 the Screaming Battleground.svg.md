@@ -14,6 +14,10 @@ type: location
 updated: 2025-08-14
 ---
 
+## Map
+![[04_Resources/Assets/Maps/location_the_screaming_battleground_rain.png]]
+
+
 # Location City the Screaming Battleground V1 the Screaming Battleground.svg
 
 ## Overview

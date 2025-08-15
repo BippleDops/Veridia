@@ -326,3 +326,8 @@ Mentioned in The Second Prophecy of Shadows
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]

@@ -28,6 +28,10 @@ wealth: Corporate funded - unlimited budget
 world: Aethermoor
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 
 
 

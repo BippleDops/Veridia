@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Jorah Lightbringer the Risen
 
 *Tiefling Appraiser (Merchants), Age 24, Non-binary*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.496870
+modified: 2025-08-15T16:41:46.496873
+aliases: [NPC01186 Urien Oakenshield the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Drusilla Brightblade the Guardian (Political - Spy)|Drusilla Brightblade the Guardian (Political - Spy)]]
+- [[#Thalia Voidwalker the Seeker (Political - Spy)|Thalia Voidwalker the Seeker (Political - Spy)]]
+- [[#Pyria Lightbringer the Mystic (Personal - Love interest)|Pyria Lightbringer the Mystic (Personal - Love interest)]]
+
+
+---
 aliases: ["Urien Oakenshield the Wise", "urien oakenshield the wise", "Urien Oakenshield Wise", "Wise the Oakenshield Urien"]
 tags: [npc, character]
 type: npc
@@ -243,3 +264,14 @@ Seeks rare merchandise
 - Compare with [[silver-dragon (legendary-group)]]
 - See also: [[step_072 (phase_075)]]
 - See also: [[NPC01096_Lyanna_Proudmore_the_Redeemed]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -20,6 +20,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/token_assets_portraits_portrait_npc_banking_lord_cornelius_coinwright_banking_lord_cornelius_coinwright_svg_bloodied.png]]
+
+
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*

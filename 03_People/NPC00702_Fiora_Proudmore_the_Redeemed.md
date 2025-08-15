@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Fiora Proudmore the Redeemed
 
 *Firbolg Blacksmith (Commoners), Age 30, Non-binary*

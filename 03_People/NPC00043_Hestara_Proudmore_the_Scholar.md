@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hestara Proudmore the Scholar
 
 *Tiefling Ambassador (Nobles), Age 75, Non-binary*

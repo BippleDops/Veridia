@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_mounts_and_vehicles_tack_harness_and_drawn_vehicles_xphb_standard.png]]
+
+
 # mounts-and-vehicles-tack-harness-and-drawn-vehicles-xphb
 
 ## Basic Information

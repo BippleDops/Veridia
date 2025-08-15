@@ -147,3 +147,8 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]

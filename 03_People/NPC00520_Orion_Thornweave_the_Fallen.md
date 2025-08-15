@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Orion Thornweave the Fallen
 
 *Elf Baker (Commoners), Age 73, Non-binary*

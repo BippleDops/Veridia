@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.158594
+modified: 2025-08-15T16:41:43.158599
+aliases: [NPC00457 Corvus Ashford the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Lyanna Lightbringer the Wise (Professional - Employer)|Lyanna Lightbringer the Wise (Professional - Employer)]]
+- [[#Orion Goldleaf the Mystic (Criminal - Target)|Orion Goldleaf the Mystic (Criminal - Target)]]
+- [[#Zephyr Emberfall the Swift (Professional - Rival)|Zephyr Emberfall the Swift (Professional - Rival)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Corvus Ashford the Bold", "corvus ashford the bold", "Corvus Ashford Bold", "Bold the Ashford Corvus"]
 tags: [npc, character]
@@ -160,8 +181,8 @@ Discovered something valuable
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -271,3 +292,14 @@ Discovered something valuable
 - Compare with [[Corruption Gardens]]
 - Parallels [[step_075 (phase_028)]]
 - Compare with [[Illyana Glowstream]]
+
+## Visual References
+![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

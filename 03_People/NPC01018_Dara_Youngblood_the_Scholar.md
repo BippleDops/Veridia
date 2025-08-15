@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Dara Youngblood the Scholar
 
 *Half-Orc Broker (Merchants), Age 77, Male*

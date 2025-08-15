@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.544953
+modified: 2025-08-15T16:41:41.544956
+aliases: [NPC01785 Aldric Brightblade the Redeemed]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Baelor Moonshadow the Redeemed (Family - Child)|Baelor Moonshadow the Redeemed (Family - Child)]]
+- [[#Gavril Emberfall the Wanderer (Criminal - Target)|Gavril Emberfall the Wanderer (Criminal - Target)]]
+- [[#Felicia Keenblade the Scholar (Professional - Rival)|Felicia Keenblade the Scholar (Professional - Rival)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Aldric Brightblade the Redeemed", "aldric brightblade the redeemed", "Aldric Brightblade Redeemed", "Redeemed the Brightblade Aldric"]
 tags: [npc, character]
@@ -12,7 +33,7 @@ type: npc
 **ID**: NPC01785
 
 ## Quick Reference
-- **Location**: The Gilded Serpent tavern in the merchant quarter
+- **Location**: [[The Gilded Serpent]] [[Tavern]] in the [[[[Merchant]] Quarter]]
 - **Occupation**: Cult leader
 - **Disposition**: Flirts with everyone regardless of interest
 
@@ -31,7 +52,7 @@ Below average and compact, with Braided elaborately white hair and Blue eyes. Fa
 - **Dream**: Mastering magic
 
 ## Background
-Corrupted by an artifact or dark magic An old debt has come due at the worst possible time.
+Corrupted by an artifact or dark magic An old debt has come due at the worst possible [[Time]].
 
 ## Current Situation
 - **Occupation**: Cult leader
@@ -147,24 +168,47 @@ Offers deal too good to refuse
 - Special moves
 
 ## See Also
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[Marcus Shardbreaker Grimm_1]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[Party_Inventory]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[08 Using Ability Scores]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Tasha's Cauldron of Everything (TCE) p.137
+- Tasha's Mystical Formulae of Everything (TMF) p.137
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -172,10 +216,10 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -185,24 +229,24 @@ Following magic item guidelines (DMG p.135-136):
 
 ## Connections
 
-- Related: [[Assets Locations Location City Port Meridian Port Meridian.svg]]
+- Related: [[Assets Locations Location City [[Port Meridian]] Port Meridian.svg]]
 - Compare with [[The Resonance Crater (D&D_References)]]
 - Connects to [[step_026 (phase_023)]]
-- Affected by [[Pressure Specialist Dr Marina Deepcurrent]]
-- Originates from [[Location City Master Elena Preserver Master Elena Preserver.svg]]
+- Affected by [[Pressure Specialist Dr [[Marina Deepcurrent]]]]
+- Originates from [[Location City [[Master Elena Preserver]] Master Elena Preserver.svg]]
 - Compare with [[Item Artifact Spell Gem Lapis Lazuli Oota Spell Gem Lapis Lazuli Oota.png]]
 - Parallels [[QUEST00063_Main_Quest_64]]
 - Related: [[step_037 (phase_024)]]
 - Compare with [[Established Family Communitie (D&D_References)]]
 - Originates from [[derro-mpmm (aberration)]]
-- See also: [[Location City Councilor Tidal Balancekeeper Councilor Tidal Balancekeeper.svg]]
+- See also: [[Location City [[Councilor Tidal Balancekeeper]] Councilor Tidal Balancekeeper.svg]]
 - Connects to [[Memory Trader]]
 - Influences [[adult-copper-dragon-xmm (dragon)]]
 - Influences [[Weather 2 Xdmg]]
 - Requires [[Conjure Woodland Beings Xphb]]
-- Related: [[Aquabyssos Trade Seal (Lore)]]
+- Related: [[[[Aquabyssos]] Trade Seal (Lore)]]
 - Parallels [[step_029]]
-- Compare with [[Location City the First Failure the First Failure.svg]]
+- Compare with [[Location City [[The First Failure]] the First Failure.svg]]
 - Originates from [[New Location]]
 - Parallels [[step_016 (phase_074)]]
 - Requires [[dungeoneers-pack-xphb (items)]]
@@ -211,16 +255,16 @@ Following magic item guidelines (DMG p.135-136):
 - Connects to [[step_091]]
 - Originates from [[Fear Farms (D&D_References)]]
 - Compare with [[witherbloom-student-scc (backgrounds)]]
-- Compare with [[Location City Ambassador Lysandra Silvertonge V1 Ambassador Lysandra Silvertonge.svg]]
+- Compare with [[Location City [[Ambassador Lysandra Silvertonge]] V1 Ambassador Lysandra Silvertonge.svg]]
 - Related: [[ITEM01143_Distilled_Powder_of_Healing]]
 - Influences [[Aquabyssos - Session 04 - High Tide Horror]]
 - Leads to [[step_002 (phase_064)]]
 - Influences [[yuan-ti-merrshaulk-vgm (deities)]]
-- Compare with [[Keeper Aquaeous Depth-Scholar 2]]
-- Affected by [[Royal Palace (D&D_References)]]
+- Compare with [[[[Keeper Aquaeous Depth-Scholar]] 2]]
+- Affected by [[[[Royal Palace]] (D&D_References)]]
 - Influences [[Surface Ambassador Lord Seaworthy]]
 - See also: [[Home Embeds Vault Graph]]
-- Originates from [[Port Meridian Harbor District (Places)]]
+- Originates from [[[[Port Meridian Harbor]] District (Places)]]
 - Affected by [[Surface Signals]]
 - Connects to [[NPC00816_Thalia_Ravenheart_the_Risen]]
 - Originates from [[LORE00002_History_Entry_3]]
@@ -228,13 +272,13 @@ Following magic item guidelines (DMG p.135-136):
 - Parallels [[Map Map Bioluminescent Forest Ambush V2 Bioluminescent Forest Ambush.png]]
 - Influences [[exploring-the-mine-xdmg (tables)]]
 - Requires [[poison-spray-xphb (spells)]]
-- Compare with [[Sister Mourne 2]]
+- Compare with [[[[Sister Mourne]] 2]]
 - Parallels [[ENC00141_Combat_Encounter_142]]
 - Connects to [[QUEST00451_Side_Quest_452]]
 - Originates from [[Mobile Command Platforms]]
 - Connects to [[Portrait NPC Quest the Dying Forest V1 Quest the Dying Forest.svg]]
 - Parallels [[step_042]]
-- Influences [[Cultural Districts (D&D_References)]]
+- Influences [[[[Cultural Districts]] (D&D_References)]]
 - Influences [[ITEM00540_Enchanted_Chain_Mail_of_the_Guardian]]
 - Connects to [[Chief Marine Engineer Coral Seaforge 2]]
 - Connects to [[Symbol Heraldry the Crimson Fleet the Crimson Fleet.svg]]
@@ -253,7 +297,7 @@ Following magic item guidelines (DMG p.135-136):
 - Originates from [[LOC00115_Dungeons_Location_116]]
 - Parallels [[The Progenitors 2]]
 - Related: [[step_065 (phase_072)]]
-- Leads to [[Navigator Flux 2]]
+- Leads to [[[[Navigator Flux]] 2]]
 - Affected by [[Aquabyssos Trade Seal (D&D_References)]]
 - Influences [[treant-xmm (plant)]]
 - Compare with [[NPC01347_Xander_Jadeclaw_the_Wise]]
@@ -262,15 +306,15 @@ Following magic item guidelines (DMG p.135-136):
 - Requires [[LOC00215_Planes_Location_216]]
 - Requires [[step_059]]
 - See also: [[QUEST00007_Main_Quest_8]]
-- Affected by [[Assets Locations Location City Brother Ossian Brother Ossian.svg]]
-- Leads to [[location-city-warforged-warforged.svg]]
+- Affected by [[Assets Locations Location City [[Brother Ossian]] Brother Ossian.svg]]
+- Leads to [[location-city-[[Warforged]]-warforged.svg]]
 - Requires [[04_Resources_Assets_Locations_location-city-quartermaster-sterling-suppystone-v1-quartermaster-sterling-suppystone.svg]]
 - Related: [[FAC00011_Cults_12]]
 - Compare with [[MON00031_Aberrations_Creature_32]]
-- Connects to [[Location City Security Chief Wade Peacekeep Security Chief Wade Peacekeep.svg]]
+- Connects to [[Location City [[Security Chief Wade Peacekeep]] Security Chief Wade Peacekeep.svg]]
 - Related: [[Chronomancer_Paradox.png]]
 - Originates from [[Astral Color Pools Xdmg]]
-- Connects to [[Assets Locations Location City Archkeeper Nereon Archkeeper Nereon.svg]]
+- Connects to [[Assets Locations Location City [[Archkeeper Nereon]] Archkeeper Nereon.svg]]
 - Compare with [[Portrait NPC Lighthouse Keeper V2 Lighthouse Keeper.svg]]
 - Affected by [[step_016 (phase_070)]]
 - Related: [[spell-scroll-level-2-xdmg (items)]]
@@ -285,3 +329,14 @@ Following magic item guidelines (DMG p.135-136):
 - Requires [[step_089 (phase_070)]]
 - See also: [[Lesser Restoration Xphb]]
 - Related: [[Crystal_Plague (Hazards)]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
+![[03_People/portrait_duke_aldric_blackwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

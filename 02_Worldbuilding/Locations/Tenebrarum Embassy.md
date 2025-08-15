@@ -384,3 +384,9 @@ Ongoing situations affecting Tenebrarum Embassy:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Sage Elara]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]

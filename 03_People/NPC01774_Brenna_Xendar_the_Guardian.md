@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.112636
+modified: 2025-08-15T16:41:46.112641
+aliases: [NPC01774 Brenna Xendar the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Kaelen Winterborn the Bold (Personal - Best friend)|Kaelen Winterborn the Bold (Personal - Best friend)]]
+- [[#Faelyn Ironforge the Bold (Political - Spy)|Faelyn Ironforge the Bold (Political - Spy)]]
+- [[#Pyria Youngblood the Mystic (Professional - Employer)|Pyria Youngblood the Mystic (Professional - Employer)]]
+
+
+---
 aliases: ["Brenna Xendar the Guardian", "brenna xendar the guardian", "Brenna Xendar Guardian", "Guardian the Xendar Brenna"]
 tags: [npc, character]
 type: npc
@@ -237,3 +258,14 @@ Offers deal too good to refuse
 - See also: [[QUEST0089_Princess's_Request]]
 - Compare with [[Portrait NPC Surface Supremacists V2 Surface Supremacists.svg]]
 - Leads to [[maelstrom-xge (spells)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
+![[03_People/portrait_the_crimson_shard_guardian.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

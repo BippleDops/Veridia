@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Wynne Lightbringer the Broken
 
 *Aasimar Shopkeeper (Merchants), Age 70, Male*

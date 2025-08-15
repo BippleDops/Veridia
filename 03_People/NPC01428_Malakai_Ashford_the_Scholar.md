@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Malakai Ashford the Scholar
 
 *Aasimar Cleric (Adventurers), Age 72, Male*

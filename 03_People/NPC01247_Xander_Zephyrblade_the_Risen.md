@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.589654
+modified: 2025-08-15T16:41:41.589657
+aliases: [NPC01247 Xander Zephyrblade the Risen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Caelum Youngblood the Redeemed (Family - Child)|Caelum Youngblood the Redeemed (Family - Child)]]
+- [[#Qadim Ironwood the Cunning (Family - Parent)|Qadim Ironwood the Cunning (Family - Parent)]]
+- [[#Malakai Stormwind the Risen (Criminal - Target)|Malakai Stormwind the Risen (Criminal - Target)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Xander Zephyrblade the Risen", "xander zephyrblade the risen", "Xander Zephyrblade Risen", "Risen the Zephyrblade Xander"]
 tags: [npc, character]
@@ -22,7 +43,7 @@ Tall and compact, with Tied back white hair and Amber eyes. Brown skin. Piercing
 **Clothing**: Simple peasant clothes, patched but clean
 
 ## Personality
-- **Traits**: Believes in every conspiracy theory; Never uses people's real names; Laughs at the most inappropriate times
+- **Traits**: Believes in every conspiracy theory; Never uses people's real names; Laughs at the most inappropriate [[Time]]s
 - **Ideal**: Justice: The guilty must be punished, no matter their station
 - **Bond**: My guild is my true family
 - **Flaw**: I have a terrible and obvious gambling problem
@@ -157,19 +178,19 @@ Has information about legendary item
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Xanathar's Guide to Everything (XGE) p.121
+- Xanathar's Secrets Revealed to Everything (XSR) p.121
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -177,9 +198,9 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -194,14 +215,14 @@ Following magic item guidelines (DMG p.135-136):
 - Affected by [[Military Moral Quandaries]]
 - Compare with [[Portrait NPC the Pressure King V1 the Pressure King.svg]]
 - Affected by [[People_1 (02_Worldbuilding)]]
-- Requires [[Medical Ethics in Plague Crisis]]
+- Requires [[Medical Ethics in [[Plague Crisis]]]]
 - See also: [[experience-points-xphb (variant-rules)]]
 - Connects to [[The Void Watchers 2]]
-- Related: [[Symbol Heraldry Aquabyssos Faction Web V1 Aquabyssos Faction Web.svg]]
+- Related: [[Symbol Heraldry [[Aquabyssos]] Faction Web V1 Aquabyssos Faction Web.svg]]
 - Leads to [[ITEM01336_Ornate_Rope_of_Durability]]
 - Affected by [[QUEST0028_The_Haunted_Manor_Conspiracy]]
-- Connects to [[Assets Locations Location City Dockworkers Union V1 Dockworkers Union.svg]]
-- Leads to [[Temple Coalition (D&D_References)]]
+- Connects to [[Assets Locations [[Location City Dockworkers Union V1 Dockworkers Union.svg]]]]
+- Leads to [[[[Temple Coalition]] (D&D_References)]]
 - Originates from [[Elena Prismweaver]]
 - Parallels [[The Slave Markets of Tethys]]
 - Parallels [[step_026 (phase_015)]]
@@ -209,7 +230,7 @@ Following magic item guidelines (DMG p.135-136):
 - Originates from [[Modron Duodrone Xmm]]
 - Requires [[Quest - The Moderate Path]]
 - Connects to [[The Siren (People)]]
-- Affected by [[Assets Locations Location City Screaming Gardens Songwood Grove V1 Screaming Gardens Songwood Grove.svg]]
+- Affected by [[Assets Locations [[Location City [[Screaming Gardens]] Songwood Grove V1 Screaming Gardens Songwood Grove.svg]]]]
 - See also: [[Multi-Dimensional Perception]]
 - Affected by [[step_045]]
 - Leads to [[step_096]]
@@ -234,8 +255,8 @@ Following magic item guidelines (DMG p.135-136):
 - See also: [[List Spells Optional Features Rush of the Gale Spirits]]
 - Requires [[LOC00270_Cities_Location_271]]
 - Compare with [[The Tide Rises]]
-- Requires [[Location City Chef Amara Tastecurrent V1 Chef Amara Tastecurrent.svg]]
-- Influences [[Temple of the Dawn (D&D_References)]]
+- Requires [[Location City [[Chef Amara Tastecurrent]] V1 Chef Amara Tastecurrent.svg]]
+- Influences [[[[Temple of the Dawn]] (D&D_References)]]
 - Compare with [[master-of-myriad-forms-xphb (optional-features)]]
 - Parallels [[warship-xphb (items)]]
 - Requires [[LOC00068_Cities_Location_69]]
@@ -248,7 +269,7 @@ Following magic item guidelines (DMG p.135-136):
 - Originates from [[The_Pressure_Maelstroms (D&D_References)]]
 - Leads to [[step_019 (phase_086)]]
 - Requires [[EVENT00082_Natural_Event_83]]
-- Affected by [[Assets Locations Location City Keeper Finn Goodtide V1 Keeper Finn Goodtide.svg]]
+- Affected by [[Assets Locations Location City [[Keeper [[Finn Goodtide]]]] V1 Keeper Finn Goodtide.svg]]
 - Leads to [[System Cli Spells School Divination]]
 - Connects to [[NPC01311_Zephyr_Xendar_the_Wanderer]]
 - Leads to [[step_021]]
@@ -272,7 +293,7 @@ Following magic item guidelines (DMG p.135-136):
 - Originates from [[magic-item-table-g (tables)]]
 - Affected by [[EVENT00071_Natural_Event_72]]
 - See also: [[step_017 (phase_023)]]
-- Parallels [[Assets Locations Location City Maze Heart Crystal Maze Heart Crystal.svg]]
+- Parallels [[Assets Locations [[Location City Maze Heart Crystal Maze Heart Crystal.svg]]]]
 - Affected by [[Corporate Justice Codex]]
 - Affected by [[QUEST00424_Side_Quest_425]]
 - See also: [[LOC00191_Dungeons_Location_192]]
@@ -289,3 +310,14 @@ Following magic item guidelines (DMG p.135-136):
 - Parallels [[step_096 (phase_081)]]
 - Originates from [[Memory Extraction Center]]
 - Parallels [[Memory_Trader_Kellian.png]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

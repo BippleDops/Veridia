@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.012924
+modified: 2025-08-15T16:41:46.012927
+aliases: [NPC00424 Gareth Jadeclaw the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aeliana Jadeclaw (Professional - Partner)|Aeliana Jadeclaw (Professional - Partner)]]
+- [[#Erasmus Hawthorne the Guardian (Professional - Employee)|Erasmus Hawthorne the Guardian (Professional - Employee)]]
+- [[#Gavril Youngblood the Lost (Professional - Partner)|Gavril Youngblood the Lost (Professional - Partner)]]
+
+
+---
 aliases: ["Gareth Jadeclaw the Bold", "gareth jadeclaw the bold", "Gareth Jadeclaw Bold", "Bold the Jadeclaw Gareth"]
 tags: [npc, character]
 type: npc
@@ -238,3 +259,14 @@ Witnessed a crime
 - Originates from [[step_092]]
 - Related: [[The Shadow Merchant Prim (Groups)]]
 - Compare with [[Location City Wave Friendlyserve V1 Wave Friendlyserve.svg]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
+![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

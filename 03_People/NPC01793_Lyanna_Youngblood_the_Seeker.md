@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.026066
+modified: 2025-08-15T16:41:46.026070
+aliases: [NPC01793 Lyanna Youngblood the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Zephyrblade the Swift (Family - Parent)|Wynne Zephyrblade the Swift (Family - Parent)]]
+- [[#Nerys Lightbringer the Guardian (Political - Spy)|Nerys Lightbringer the Guardian (Political - Spy)]]
+- [[#Aldric Ironwood the Wise (Political - Ally)|Aldric Ironwood the Wise (Political - Ally)]]
+
+
+---
 aliases: ["Lyanna Youngblood the Seeker", "lyanna youngblood the seeker", "Lyanna Youngblood Seeker", "Seeker the Youngblood Lyanna"]
 tags: [npc, character]
 type: npc
@@ -241,3 +262,14 @@ Blackmails party into service
 - Related: [[spawn-of-kyuss-mpmm (undead)]]
 - Leads to [[Storm's End Citadel]]
 - Affected by [[step_078 (phase_094)]]
+
+## Visual References
+![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
+![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
+![[03_People/portrait_captain_lyanna_brightshield.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.883182
+modified: 2025-08-15T16:41:47.883184
+aliases: [NPC01759 Felicia Emberfall the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Idris Ironwood the Cunning (Personal - Best friend)|Idris Ironwood the Cunning (Personal - Best friend)]]
+- [[#Hilda Dawnstrider the Risen (Political - Ally)|Hilda Dawnstrider the Risen (Political - Ally)]]
+- [[#Brenna Ironwood the Seeker (Family - Parent)|Brenna Ironwood the Seeker (Family - Parent)]]
+
+
+---
 aliases: ["Felicia Emberfall the Bold", "felicia emberfall the bold", "Felicia Emberfall Bold", "Bold the Emberfall Felicia"]
 tags: [npc, character]
 type: npc
@@ -141,3 +162,15 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

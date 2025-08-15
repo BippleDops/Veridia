@@ -254,3 +254,8 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]

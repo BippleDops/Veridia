@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Warehouse Distri
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]

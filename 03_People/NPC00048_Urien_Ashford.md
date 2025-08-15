@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.541549
+modified: 2025-08-15T16:41:46.541551
+aliases: [NPC00048 Urien Ashford]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Erasmus Dawnstrider (Personal - Ex-lover)|Erasmus Dawnstrider (Personal - Ex-lover)]]
+- [[#Gareth Ashford (Personal - Childhood friend)|Gareth Ashford (Personal - Childhood friend)]]
+- [[#Jorah Stormwind (Criminal - Informant)|Jorah Stormwind (Criminal - Informant)]]
+
+
+---
 aliases: ["Urien Ashford", "urien ashford", "Ashford Urien"]
 tags: [npc, character]
 type: npc
@@ -238,3 +263,8 @@ Wants rivals investigated
 - Requires [[step_036 (phase_013)]]
 - Influences [[LOC0135_LowerGate]]
 - Parallels [[step_082 (phase_072)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

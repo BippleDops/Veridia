@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Wynne Zephyrblade the Redeemed
 
 *Gnome Courtier (Nobles), Age 42, Male*

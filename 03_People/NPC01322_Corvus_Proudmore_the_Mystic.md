@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.866801
+modified: 2025-08-15T16:41:46.866804
+aliases: [NPC01322 Corvus Proudmore the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Zephyrblade the Risen (Professional - Rival)|Ysara Zephyrblade the Risen (Professional - Rival)]]
+- [[#Baelor Quicksilver the Seeker (Criminal - Target)|Baelor Quicksilver the Seeker (Criminal - Target)]]
+- [[#Faelyn Jadeclaw the Seeker (Personal - Best friend)|Faelyn Jadeclaw the Seeker (Personal - Best friend)]]
+
+
+---
 aliases: ["Corvus Proudmore the Mystic", "corvus proudmore the mystic", "Corvus Proudmore Mystic", "Mystic the Proudmore Corvus"]
 tags: [npc, character]
 type: npc
@@ -250,3 +271,14 @@ Knows secret about major threat
 - Parallels [[Create New Location]]
 - Influences [[portrait-npc-shadow-brokers-v2-shadow-brokers.svg]]
 - See also: [[step_084]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

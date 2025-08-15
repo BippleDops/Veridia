@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aldric Oakenshield the Lost
 
 *Aasimar Trader (Merchants), Age 72, Non-binary*

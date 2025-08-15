@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Cedric Ironforge the Swift
 
 *Elf Corrupt Noble (Villains), Age 22, Male*

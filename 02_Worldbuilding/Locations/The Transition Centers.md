@@ -251,3 +251,9 @@ Ongoing situations affecting The Transition Centers:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]

@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:38.194220
+modified: 2025-08-15T16:41:38.194226
+aliases: [Faction Guide.md]
+---
+
+## Table of Contents
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Visual References|Visual References]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
+---
 enhanced: trtags: [enhanced, 07_player_resources, combat, exploration, lore]es]
 created: 2025-08-15T12:24:41.152969
 modified: 2025-08-15T12:24:41.152971
@@ -23,13 +40,22 @@ updated: 2025-08-14
 - -- # Faction_Guide.md ## Overview This document contains important information regarding Faction_Guide.md and its role within the greater narrative. ## Description
 
 **Details**: Rich sensory elements bring this to life. Faction_Guide.md represents a significant element within the campaign world, offering various opportunities for engagement and development. ## 
+*Sounds of [relevant sounds] echo in the distance.*
 *Sounds of [relevant sounds] echo in the distance.*Key Information - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details ### Background Historical context and development over time. ### Current State Present circumstances and ongoing relevance. ### Future Potential Possible developments and plot directions. Nevertheless, ## Relationships - Connected to various other elements within the vault
 - Part of larger narrative structures
 - Influences and is influenced by surrounding content ## Usage Notes This content can be adapted and expanded based on specific campaign needs. ## Plot Hooks - Can serve as starting point for investigations
 - May provide crucial information at key moments
-- Offers opportunities for player engagement ## DM Notes * Customize as needed for your specific campaign requirements.* ## See Also - Related content
+- Offers opportunities for player engagement ## DM Notes * Customize as needed for your specific campaign requirements.* ## See Also
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[Player_Dashboard]]
+- [[11 Spellcasting]]
+- [[10 Combat]]
+- [[MOC_Rules]] - Related content
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
@@ -79,17 +105,17 @@ publish: false --- -|--------|
 - [[ULTIMATE_ASSET_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

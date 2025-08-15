@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Aldric Darkwater the Broken
 
 *Dragonborn Assassin (Villains), Age 42, Male*

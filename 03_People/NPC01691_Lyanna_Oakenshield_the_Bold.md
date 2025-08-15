@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Lyanna Oakenshield the Bold
 
 *Genasi Dark Wizard (Villains), Age 61, Female*

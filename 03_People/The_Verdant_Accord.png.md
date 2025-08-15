@@ -1,4 +1,5 @@
 ---
+enhanced: true
 aliases:
 - The Verdant Accordpng
 class: Unknown
@@ -80,3 +81,9 @@ Actively involved in current events, pursuing their own agenda while maintaining
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
+
+
+## Visual References
+![[03_People/portrait_verdant_shard_dramatic.png]]
+![[03_People/portrait_verdant_shard.png]]
+![[03_People/portrait_verdant_shard_standard.png]]

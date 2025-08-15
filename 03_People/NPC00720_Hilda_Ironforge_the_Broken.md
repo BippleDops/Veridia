@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Hilda Ironforge the Broken
 
 *Firbolg Carpenter (Commoners), Age 22, Male*

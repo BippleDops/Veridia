@@ -263,3 +263,8 @@ Ongoing situations affecting Transportation Guild:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]

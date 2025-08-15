@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Moonshadow the Wanderer
 
 *Elf Rogue (Adventurers), Age 50, Non-binary*

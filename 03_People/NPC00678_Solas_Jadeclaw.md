@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Jadeclaw
 
 *Tiefling Blacksmith (Commoners), Age 20, Female*

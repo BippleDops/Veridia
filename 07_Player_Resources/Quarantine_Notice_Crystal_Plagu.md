@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:38.117409
+modified: 2025-08-15T16:41:38.117415
+aliases: [Quarantine Notice Crystal Plagu]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Death_Customs Improvements|Death_Customs Improvements]]
+- [[#Diaspora Improvements|Diaspora Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+- [[#Oral_Tradition Improvements|Oral_Tradition Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Visual_Handouts/Quarantine_Notice_Crystal_Plagu
 type: lore
@@ -100,6 +121,53 @@ tags: [combat, lore]
 > This location connects to the main plot
 
 ## See Also
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[Faction_Guide.md]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[Sanity Quick Reference]]
+- [[Downtime_Activities]]
+- [[Ancient_Prophecy_Fragment_Verdan]]
+- [[Currency_Guide_Scrip_and_Shard]]
+- [[Pilgrim_Pass_Prayer_Sli]]
+- [[Quiet_Chapel_Oath_Scrol]]
+- [[Letter_From_the_Pearl_Guard_Captai]]
+- [[Sanity_Quick_Reference.md]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[What You Know - Abyssos Prime.md]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[Player_Comfort_Check]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[09 Adventuring]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[02 Step by Step Characters]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00719_Orion_Hawthorne_the_Cunning]]
+- [[11 Rules Glossary]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[MOC_Lore]]
+- [[MOC_Items]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[Master_Narrative_Web.md]]
+- [[NPC00582_Cedric_Dawnstrider]]
 - [[Related_Content]]
 
 
@@ -109,15 +177,15 @@ tags: [combat, lore]
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -221,3 +289,8 @@ tags: [combat, lore]
 - Originates from [[Vulture Xmm]]
 - See also: [[LOC00267_Towns_Location_268]]
 - Originates from [[Memory Recording Chambers]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_quarantine_zones_night.png]]
+![[02_Worldbuilding/locations/location_the_quarantine_zones_establishing.png]]
+![[02_Worldbuilding/locations/location_the_quarantine_zones_rain.png]]

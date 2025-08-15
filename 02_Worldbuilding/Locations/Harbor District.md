@@ -424,3 +424,11 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]

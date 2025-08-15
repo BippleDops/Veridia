@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Orion Oakenshield the Cunning
 
 *Gnome Ranger (Adventurers), Age 19, Non-binary*

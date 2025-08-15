@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.192497
+modified: 2025-08-15T16:41:44.192501
+aliases: [NPC01217 Xander Xendar the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Orion Zephyrblade the Swift (Political - Puppet)|Orion Zephyrblade the Swift (Political - Puppet)]]
+- [[#Dara Brightblade the Lost (Criminal - Accomplice)|Dara Brightblade the Lost (Criminal - Accomplice)]]
+- [[#Idris Goldleaf the Guardian (Family - Parent)|Idris Goldleaf the Guardian (Family - Parent)]]
+
+
+---
 aliases: ["Xander Xendar the Wise", "xander xendar the wise", "Xander Xendar Wise", "Wise the Xendar Xander"]
 tags: [npc, character]
 type: npc
@@ -244,3 +265,14 @@ Knows secret about major threat
 - Connects to [[Portrait NPC Captain Dimensional V1 Captain Dimensional.svg]]
 - Connects to [[LOC00191_Wilderness_Location_192]]
 - Influences [[Chief Surgeon Nerissa Tideheart]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

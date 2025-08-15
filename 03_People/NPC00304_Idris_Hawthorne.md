@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Hawthorne
 
 *Firbolg Courtier (Nobles), Age 25, Non-binary*

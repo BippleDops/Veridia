@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.771830
+modified: 2025-08-15T16:41:46.771832
+aliases: [Assets Locations Location City Master Gardener Sage Harmony Bloomtender Master Gardener Sage Harmony Bloomtender.svg]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_locations_location_city_master_gardener_sage_harmony_bloomtender_master_gardener_sage_harmony_bloomtender_svg_friendly.png]]
+
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+- [[#Evolution Improvements|Evolution Improvements]]
+- [[#Oral_Tradition Improvements|Oral_Tradition Improvements]]
+
+
+---
 
 title: Assets Locations Location City Master Gardener Sage Harmony Bloomtender Master
   Gardener Sage Harmony Bloomtender.svg

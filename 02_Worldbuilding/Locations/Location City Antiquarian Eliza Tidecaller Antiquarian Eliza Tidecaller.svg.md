@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Antiquarian Eliz
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00661_Corvus_Darkwater_the_Broken]]

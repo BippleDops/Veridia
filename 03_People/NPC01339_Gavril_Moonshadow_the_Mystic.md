@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gavril Moonshadow the Mystic
 
 *Half-Orc Cleric (Adventurers), Age 34, Female*

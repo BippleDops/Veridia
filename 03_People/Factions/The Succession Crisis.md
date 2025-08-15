@@ -23,6 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-succession-crisis-v2-quest-the-succession-crisis.svg]]
+
+
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-succession-crisis-the-succession-crisis.svg)
 

@@ -12,6 +12,10 @@ type: faction
 updated: 2025-08-14
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc_name.png]]
+
+
 # Faction Name
 
 ## Overview

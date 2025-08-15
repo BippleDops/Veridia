@@ -1,4 +1,5 @@
 ---
+enhanced: true
 title: 13_Performance/Indexes/Seven_Shards_Tracker.md
 type: lore
 tags:
@@ -76,14 +77,19 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+
+## Visual References
+![[03_People/portrait_seventh_shard_friendly.png]]
+![[03_People/portrait_the_seven_seals.png]]
+![[03_People/portrait_seventh_shard_standard.png]]

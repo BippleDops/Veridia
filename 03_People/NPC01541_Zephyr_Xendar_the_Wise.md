@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.369304
+modified: 2025-08-15T16:41:45.369309
+aliases: [NPC01541 Zephyr Xendar the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Erasmus Ashford the Wanderer (Criminal - Handler)|Erasmus Ashford the Wanderer (Criminal - Handler)]]
+- [[#Dara Thornweave the Wanderer (Criminal - Target)|Dara Thornweave the Wanderer (Criminal - Target)]]
+- [[#Aeliana Moonshadow the Guardian (Family - Child)|Aeliana Moonshadow the Guardian (Family - Child)]]
+
+
+---
 aliases: ["Zephyr Xendar the Wise", "zephyr xendar the wise", "Zephyr Xendar Wise", "Wise the Xendar Zephyr"]
 tags: [npc, character]
 type: npc
@@ -250,3 +271,14 @@ Has information about legendary item
 - Compare with [[Award XP]]
 - Parallels [[The Spire of Courage (D&D_References)]]
 - Compare with [[The Listener's Code (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
+![[03_People/portrait_zephyr_goldwhisper_standard.png]]
+![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -12,6 +12,10 @@ type: faction
 updated: 2025-08-14
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_02_worldbuilding_people_guildmaster_victoria_silvertongue_dramatic.png]]
+
+
 # Guildmaster Victoria Silvertongue
 
 ## Overview

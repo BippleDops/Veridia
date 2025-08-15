@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.718638
+modified: 2025-08-15T16:41:46.718641
+aliases: [Assets Symbols Symbol Heraldry Thalassa the Pathfinder Thalassa the Pathfinder.svg]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_symbols_symbol_heraldry_thalassa_the_pathfinder_thalassa_the_pathfinder_svg_standard.png]]
+
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+- [[#Oral_Tradition Improvements|Oral_Tradition Improvements]]
+- [[#Diaspora Improvements|Diaspora Improvements]]
+- [[#Superstitions Improvements|Superstitions Improvements]]
+
+
+---
 
 title: Assets Symbols Symbol Heraldry Thalassa the Pathfinder Thalassa the Pathfinder.svg
 aliases:

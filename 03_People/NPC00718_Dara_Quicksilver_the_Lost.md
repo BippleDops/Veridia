@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Dara Quicksilver the Lost
 
 *Firbolg Carpenter (Commoners), Age 58, Female*

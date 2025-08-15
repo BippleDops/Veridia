@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aldric Silverleaf the Scholar
 
 *Aasimar Rogue (Adventurers), Age 69, Female*

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.438948
+modified: 2025-08-15T16:41:45.438952
+aliases: [NPC01477 Solas Crystalbrook the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ewan Lightbringer the Broken (Family - Cousin)|Ewan Lightbringer the Broken (Family - Cousin)]]
+- [[#Delara Keenblade the Cunning (Personal - Ex-lover)|Delara Keenblade the Cunning (Personal - Ex-lover)]]
+- [[#Thalia Zephyrblade the Scholar (Personal - Love interest)|Thalia Zephyrblade the Scholar (Personal - Love interest)]]
+
+
+---
 aliases: ["Solas Crystalbrook the Risen", "solas crystalbrook the risen", "Solas Crystalbrook Risen", "Risen the Crystalbrook Solas"]
 tags: [npc, character]
 type: npc
@@ -244,3 +269,8 @@ Needs help with personal quest
 - Leads to [[Crystal Caves of Aethermoor]]
 - Compare with [[urban-encounters-levels-1720-xge (tables)]]
 - Originates from [[step_016]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

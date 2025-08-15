@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Kaelen Hawthorne the Seeker
 
 *Half-Elf Crime Boss (Villains), Age 25, Male*

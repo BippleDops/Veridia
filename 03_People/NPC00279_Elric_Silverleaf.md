@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Elric Silverleaf
 
 *Genasi Aristocrat (Nobles), Age 71, Non-binary*

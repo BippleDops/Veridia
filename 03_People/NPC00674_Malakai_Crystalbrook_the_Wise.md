@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.831333
+modified: 2025-08-15T16:41:46.831336
+aliases: [NPC00674 Malakai Crystalbrook the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Faelyn Hawthorne the Redeemed (Family - Cousin)|Faelyn Hawthorne the Redeemed (Family - Cousin)]]
+- [[#Jorah Thornweave the Lost (Personal - Childhood friend)|Jorah Thornweave the Lost (Personal - Childhood friend)]]
+- [[#Rhiannon Quicksilver the Lost (Professional - Mentor)|Rhiannon Quicksilver the Lost (Professional - Mentor)]]
+
+
+---
 aliases: ["Malakai Crystalbrook the Wise", "malakai crystalbrook the wise", "Malakai Crystalbrook Wise", "Wise the Crystalbrook Malakai"]
 tags: [npc, character]
 type: npc
@@ -251,3 +272,14 @@ Discovered something valuable
 - Leads to [[step_087 (phase_084)]]
 - Compare with [[Random Encounters]]
 - Influences [[The Whisper Core]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

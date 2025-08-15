@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hestara Crystalbrook the Guardian
 
 *Gnome Fisher (Commoners), Age 56, Non-binary*

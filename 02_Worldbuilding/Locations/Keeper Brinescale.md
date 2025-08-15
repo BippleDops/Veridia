@@ -252,3 +252,7 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01841_Malakai_Nightfall_the_Wise]]

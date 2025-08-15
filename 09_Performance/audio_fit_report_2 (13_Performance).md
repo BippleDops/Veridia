@@ -1,4 +1,22 @@
 ---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:22.114789
+modified: 2025-08-15T16:41:22.114796
+aliases: [audio fit report 2 (13 Performance)]
+---
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Visual References|Visual References]]
+- [[#See Also|See Also]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
+---
 enhanced: trtags: [enhanced, 13_performance, combat, exploration, lore]ce]
 created: 2025-08-15T12:24:41.025414
 modified: 2025-08-15T12:24:41.025416
@@ -25,6 +43,7 @@ modified: '2025-01-15'
 status: active
 priority: normal
 category: 13 Pe
+*Sounds of [relevant sounds] echo in the distance.*
 *Sounds of [relevant sounds] echo in the distance.*rformance
 subcategory: Audio Fit Report 2 (13 Performance).Md
 related: []
@@ -296,17 +315,17 @@ publish: false --- |---|---:|:---:|---|
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

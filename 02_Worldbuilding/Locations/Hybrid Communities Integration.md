@@ -150,3 +150,8 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]

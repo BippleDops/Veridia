@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:39.595491
+modified: 2025-08-15T16:41:39.595498
+aliases: [Portal Home]
+---
+
+## Table of Contents
+- [[#Welcome Heroes!|Welcome Heroes!]]
+- [[#Next Session|Next Session]]
+- [[#Quick Links|Quick Links]]
+- [[#See Also|See Also]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+- [[#Related Content|Related Content]]
+- [[#Visual References|Visual References]]
+
+
 -tags: [generated, linked, combat, exploration]ed]
 created: 2025-08-15T12:34:11.168898
 ---
@@ -15,26 +35,64 @@ created: 2025-08-15T12:34:11.168898
 - [[Players/Shared_Lore|Shared Lore]]
 - [[Players/Character_Journals|Character Journals]]
 - [[Players/Known_NPCs|Known NPCs]]
-- [[Players/Maps/Region_Map|Maps]]
+- [[Players/Maps/[[Region_Map|Region_Map]]|Maps]]
 ## See Also
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC01113_Solas_Ravenheart_the_Cunning]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[Depth_Adapted_Background]]
+- [[NPC00393_Kaelen_Grimholt]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC00719_Orion_Hawthorne_the_Cunning]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[Sage Elara]]
+- [[NPC00287_Ysara_Underhill_the_Wise]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[Archdruid Thornweaver]]
+- [[Faction_Guide.md_1 (07_Player_Resources)]]
+- [[Combat_Encounter_Analysis]]
+- [[Ancient_Prophecy_Fragment_Verdan]]
+- [[Downtime_Activities]]
+- [[08 Using Ability Scores]]
+- [[NPC01276_Erasmus_Keenblade_the_Wanderer]]
+- [[01 Introduction Welcome to Adventure]]
+- [[06 Equipment]]
+- [[The_Corroded_Crown.png]]
+- [[MASTER_MOC]]
 - [[Related_Content]]
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -138,3 +196,12 @@ created: 2025-08-15T12:34:11.168898
 - Leads to [[Quest - The Lost Expedition_1 (01_Adventures)]]
 - Compare with [[step_087 (phase_062)]]
 - Leads to [[Location City the Living Weapon the Living Weapon.svg]]
+
+## Related Content
+*Enhanced with 1 new connections*
+
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_portal_commander_marina_bridgewright_portal_commander_marina_bridgewright_png_standard.png]]
+![[03_People/portrait_assets_locations_location_city_portal_commander_marina_bridgewright_portal_commander_marina_bridgewright_png_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_portal_commander_marina_bridgewright_v1_portal_commander_marina_bridgewright_png_friendly.png]]

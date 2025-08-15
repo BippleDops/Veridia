@@ -562,3 +562,8 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC00162_Xander_Thornweave]]

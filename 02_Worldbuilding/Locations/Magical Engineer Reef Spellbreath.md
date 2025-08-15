@@ -234,3 +234,8 @@ Ongoing situations affecting Magical Engineer Reef Spellbreath:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.205993
+modified: 2025-08-15T16:41:48.205995
+aliases: [NPC01291 Xander Thornweave the Risen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Malakai Ashford the Wise (Political - Patron)|Malakai Ashford the Wise (Political - Patron)]]
+- [[#Erasmus Lightbringer the Fallen (Personal - Ex-lover)|Erasmus Lightbringer the Fallen (Personal - Ex-lover)]]
+- [[#Nerys Voidwalker the Strong (Professional - Employer)|Nerys Voidwalker the Strong (Professional - Employer)]]
+
+
+---
 aliases: ["Xander Thornweave the Risen", "xander thornweave the risen", "Xander Thornweave Risen", "Risen the Thornweave Xander"]
 tags: [npc, character]
 type: npc
@@ -147,3 +168,15 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

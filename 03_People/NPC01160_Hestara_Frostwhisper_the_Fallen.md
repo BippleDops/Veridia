@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hestara Frostwhisper the Fallen
 
 *Human Appraiser (Merchants), Age 19, Male*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.532234
+modified: 2025-08-15T16:41:46.532237
+aliases: [NPC00875 Zephyr Proudmore the Fallen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Malakai Keenblade the Seeker (Personal - Nemesis)|Malakai Keenblade the Seeker (Personal - Nemesis)]]
+- [[#Ewan Voidwalker the Seeker (Professional - Employer)|Ewan Voidwalker the Seeker (Professional - Employer)]]
+- [[#Brenna Emberfall the Swift (Family - Cousin)|Brenna Emberfall the Swift (Family - Cousin)]]
+
+
+---
 aliases: ["Zephyr Proudmore the Fallen", "zephyr proudmore the fallen", "Zephyr Proudmore Fallen", "Fallen the Proudmore Zephyr"]
 tags: [npc, character]
 type: npc
@@ -248,3 +269,14 @@ Caravan needs guards
 - Affected by [[step_005 (phase_080)]]
 - Influences [[Bronze Dragon Scale Mail Xdmg]]
 - See also: [[Portrait NPC Mayo... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+
+## Visual References
+![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
+![[03_People/portrait_zephyr_goldwhisper_standard.png]]
+![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

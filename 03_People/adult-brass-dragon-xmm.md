@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_adult_brass_dragon_xmm.png]]
+
+
 # adult-brass-dragon-xmm
 
 ## Basic Information

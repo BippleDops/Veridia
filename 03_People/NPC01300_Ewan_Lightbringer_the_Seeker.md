@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.176471
+modified: 2025-08-15T16:41:44.176474
+aliases: [NPC01300 Ewan Lightbringer the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Grimholt the Broken (Professional - Employer)|Ysara Grimholt the Broken (Professional - Employer)]]
+- [[#Dara Winterborn the Swift (Family - Child)|Dara Winterborn the Swift (Family - Child)]]
+- [[#Kaelen Underhill the Wise (Criminal - Accomplice)|Kaelen Underhill the Wise (Criminal - Accomplice)]]
+
+
+---
 aliases: ["Ewan Lightbringer the Seeker", "ewan lightbringer the seeker", "Ewan Lightbringer Seeker", "Seeker the Lightbringer Ewan"]
 tags: [npc, character]
 type: npc
@@ -245,3 +266,14 @@ Knows secret about major threat
 - Connects to [[step_028 (phase_058)]]
 - Parallels [[Factions the Resonance Keepers]]
 - Compare with [[NPC01239_Thalia_Ironwood_the_Mystic]]
+
+## Visual References
+![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

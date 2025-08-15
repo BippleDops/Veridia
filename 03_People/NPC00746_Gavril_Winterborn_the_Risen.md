@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.965960
+modified: 2025-08-15T16:41:43.965963
+aliases: [NPC00746 Gavril Winterborn the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Baelor Darkwater the Swift (Personal - Best friend)|Baelor Darkwater the Swift (Personal - Best friend)]]
+- [[#Vesper Hawthorne the Cunning (Personal - Childhood friend)|Vesper Hawthorne the Cunning (Personal - Childhood friend)]]
+- [[#Faelyn Thornweave the Broken (Professional - Employer)|Faelyn Thornweave the Broken (Professional - Employer)]]
+
+
+---
 aliases: ["Gavril Winterborn the Risen", "gavril winterborn the risen", "Gavril Winterborn Risen", "Risen the Winterborn Gavril"]
 tags: [npc, character]
 type: npc
@@ -234,3 +259,8 @@ Witnessed a crime
 - See also: [[Sword of Answering Scather]]
 - Originates from [[Shadow_Surgery]]
 - Leads to [[MON00126_Constructs_Creature_127]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

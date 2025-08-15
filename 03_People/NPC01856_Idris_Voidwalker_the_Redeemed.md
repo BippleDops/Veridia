@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Voidwalker the Redeemed
 
 *Half-Elf Assassin (Villains), Age 29, Non-binary*

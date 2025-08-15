@@ -209,3 +209,8 @@ Ongoing situations affecting Port Authority:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]

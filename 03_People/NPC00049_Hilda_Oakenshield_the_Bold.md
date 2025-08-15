@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hilda Oakenshield the Bold
 
 *Elf Aristocrat (Nobles), Age 28, Female*

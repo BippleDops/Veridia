@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Thornweave the Cunning
 
 *Halfling Ambassador (Nobles), Age 68, Non-binary*

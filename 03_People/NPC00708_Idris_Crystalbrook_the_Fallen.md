@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Crystalbrook the Fallen
 
 *Aasimar Farmer (Commoners), Age 60, Non-binary*

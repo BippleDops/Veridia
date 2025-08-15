@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.611206
+modified: 2025-08-15T16:41:43.611211
+aliases: [NPC01546 Delara Thornweave the Fallen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Urien Emberfall the Scholar (Family - Cousin)|Urien Emberfall the Scholar (Family - Cousin)]]
+- [[#Qadim Stormwind the Strong (Criminal - Fence)|Qadim Stormwind the Strong (Criminal - Fence)]]
+- [[#Jorah Dawnstrider the Fallen (Professional - Employee)|Jorah Dawnstrider the Fallen (Professional - Employee)]]
+
+
+---
 aliases: ["Delara Thornweave the Fallen", "delara thornweave the fallen", "Delara Thornweave Fallen", "Fallen the Thornweave Delara"]
 tags: [npc, character]
 type: npc
@@ -169,7 +190,7 @@ Forming expedition to dangerous location
 - Requires [[MON00037_Aberrations_Creature_38]]
 - See also: [[LOC0006_OldHaven]]
 - Related: [[Navigation & Geograph (D&D_References)]]
-- Affected by [[Quest - The Failing Magic_1 (01_Adventures)]]
+- Affected by [[Quest - The Failing [[Quest - The Failing Magic_1 (01_Adventures)|Magic_1]] (01_Adventures)]]
 - Compare with [[MON00110_Aberrations_Creature_111]]
 - Requires [[Crystal Vein Settlements]]
 - Parallels [[ENC0022_Random_Encounter_23]]
@@ -241,3 +262,18 @@ Forming expedition to dangerous location
 - Related: [[Update Portal]]
 - Connects to [[step_039]]
 - See also: [[Fashion Guild]]
+
+## Related Content
+*Enhanced with 1 new connections*
+
+
+## Visual References
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

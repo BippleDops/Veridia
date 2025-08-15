@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.506664
+modified: 2025-08-15T16:41:40.506670
+aliases: [NPC01792 Rhiannon Ironwood the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aldric Crystalbrook the Wise (Personal - Nemesis)|Aldric Crystalbrook the Wise (Personal - Nemesis)]]
+- [[#Urien Lightbringer the Risen (Personal - Best friend)|Urien Lightbringer the Risen (Personal - Best friend)]]
+- [[#Aeliana Ironwood the Swift (Personal - Best friend)|Aeliana Ironwood the Swift (Personal - Best friend)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Rhiannon Ironwood the Scholar", "rhiannon ironwood the scholar", "Rhiannon Ironwood Scholar", "Scholar the Ironwood Rhiannontags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
@@ -153,7 +174,7 @@ Blackmails party into service
 - Special moves
 
 ## Combat Stats
-Base: **Veteran** (MM p.350)
+Base: **Veteran** (BC p.350)
 Modifications:
 - HP: 38
 - AC: 14
@@ -164,24 +185,57 @@ Modifications:
 > Additional context or lore
 
 ## See Also
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC00207_Ysara_Ravenheart]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[Player_Portal.md]]
+- [[Parliamentary_Voting_Guide]]
+- [[Player_Feedback_Form.md]]
+- [[NPC00670_Xander_Goldleaf_the_Scholar]]
+- [[MOC_Items]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Monster Manual (MM) p.258
+- Bestiary Compendium (BC) p.258
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -189,10 +243,10 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -202,21 +256,21 @@ Following magic item guidelines (DMG p.135-136):
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -236,7 +290,7 @@ Following magic item guidelines (DMG p.135-136):
 - Originates from [[14-appendix-d-dungeon-master-inspiration (dungeon-masters-guide-2014)]]
 - Parallels [[skill-list-skills-xphb (tables)]]
 - Influences [[DUN00022_Dungeon_23]]
-- Related: [[Location City Rare Ingredient Network Rare Ingredient Network.svg]]
+- Related: [[Location City [[Rare Ingredient Network]] Rare Ingredient Network.svg]]
 - Affected by [[Portrait NPC Vex Shadowthorn V2 Vex Shadowthorn.svg]]
 - Influences [[magic-item-rarity (tables)]]
 - See also: [[step_022 (phase_044)]]
@@ -273,7 +327,7 @@ Following magic item guidelines (DMG p.135-136):
 - Related: [[NPC01015_Gareth_Brightblade_the_Guardian]]
 - Influences [[step_091 (phase_015)]]
 - Compare with [[The Ghost Walker]]
-- Influences [[Assets Locations Location City Archaeological Discoveries Archaeological Discoveries.svg]]
+- Influences [[Assets Locations [[Location City [[Archaeological Discoveries]] Archaeological Discoveries.svg]]]]
 - Originates from [[potion-of-cloud-giant-strength-xdmg (items)]]
 - Related: [[ITEM00323_Blazing_Spear_of_the_Ancients]]
 - Leads to [[step_078]]
@@ -290,9 +344,9 @@ Following magic item guidelines (DMG p.135-136):
 - Affected by [[The People's Movement 2]]
 - Related: [[step_094 (phase_032)]]
 - Compare with [[step_008 (phase_039)]]
-- Compare with [[Location City the Coral Palace Complex V1 the Coral Palace Complex.svg]]
+- Compare with [[Location City [[The Coral Palace Complex]] V1 the Coral Palace Complex.svg]]
 - Parallels [[ITEM00368_Shadow_Bow_of_Speed]]
-- Influences [[Assets Locations Location City Shadow Noble Districts Shadow Noble Districts.svg]]
+- Influences [[Assets Locations Location City [[Shadow [[Noble District]]s]] Shadow Noble Districts.svg]]
 - Leads to [[Judge-Militant Adamant Truestone 2]]
 - Leads to [[04_Resources_Assets_Portraits_portrait-npc-captain-marina-saltborn-captain-marina-saltborn.svg_Quick_Ref]]
 - See also: [[step_086 (phase_051)]]
@@ -301,22 +355,33 @@ Following magic item guidelines (DMG p.135-136):
 - Originates from [[NPC01742_Cedric_Youngblood_the_Guardian]]
 - Connects to [[step_026 (phase_029)]]
 - Related: [[step_067 (phase_100)]]
-- Requires [[Surface Trade Ports (D&D_References)]]
+- Requires [[[[Surface Trade Ports]] (D&D_References)]]
 - Parallels [[QUEST00072_Main_Quest_73]]
 - Affected by [[Scene Scene Crystal Trench Aurora V2 Crystal Trench Aurora.png]]
 - See also: [[README]]
 - Requires [[annis-hag-vgm (legendary-group)]]
 - Requires [[INV-002 2]]
 - Influences [[step_004]]
-- Influences [[Location City Palace Guard Captain Neutralis Palace Guard Captain Neutralis.png]]
+- Influences [[Location City [[Palace Guard Captain Neutralis]] Palace Guard Captain Neutralis.png]]
 - Originates from [[LORE00094_Prophecies_Entry_95]]
 - Influences [[SPELL00159_Arcane_Spell_160]]
 - Originates from [[Thalassius the Wise 2]]
 - Affected by [[QUEST00315_Side_Quest_316]]
-- Influences [[Location City Kelp Forest Constituencies Kelp Forest Constituencies.svg]]
-- Compare with [[Keeper Finn Goodtide 2]]
+- Influences [[Location City [[[[Kelp Forest]] Constituencies]] Kelp Forest Constituencies.svg]]
+- Compare with [[[[Keeper [[Finn Goodtide]]]] 2]]
 - See also: [[NPC01033_Rhiannon_Voidwalker_the_Seeker]]
 - Related: [[Shadow Independence Levels]]
 - Parallels [[step_063 (phase_051)]]
 - Leads to [[step_075]]
-- Related: [[Quest - The Lost Expedition_1 (01_Adventures)]]
+- Related: [[Quest - [[The Lost Expedition]]_1 (01_Adventures)]]
+
+## Visual References
+![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
+![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
+![[03_People/portrait_commander_thrace_ironwood.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

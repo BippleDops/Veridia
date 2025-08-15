@@ -256,3 +256,7 @@ Mentioned in The Hidden Prophecy of Shadows
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00162_Xander_Thornweave]]

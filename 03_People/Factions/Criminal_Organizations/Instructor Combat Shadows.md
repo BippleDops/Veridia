@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Instructor Combat Shadows](../../../04_Resources/Assets/Misc/instructor_combat_shadows.png)
 
 ## 🔧 Deep Evaluation Improvements

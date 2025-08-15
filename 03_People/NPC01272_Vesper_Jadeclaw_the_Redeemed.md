@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Jadeclaw the Redeemed
 
 *Half-Orc Ranger (Adventurers), Age 21, Female*

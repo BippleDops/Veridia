@@ -229,3 +229,7 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01994_Orion_Brightblade_the_Risen]]

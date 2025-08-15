@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Branwen Jadeclaw the Lost
 
 *Genasi Fighter (Adventurers), Age 75, Male*

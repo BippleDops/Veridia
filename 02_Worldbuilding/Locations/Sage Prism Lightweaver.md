@@ -234,3 +234,7 @@ Ongoing situations affecting Sage Prism Lightweaver:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00872_Thalia_Ironwood_the_Broken]]

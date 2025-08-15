@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.271004
+modified: 2025-08-15T16:41:42.271011
+aliases: [NPC00456 Cedric Hawthorne the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Keenblade the Mystic (Criminal - Informant)|Alaric Keenblade the Mystic (Criminal - Informant)]]
+- [[#Thalia Ironforge the Bold (Political - Patron)|Thalia Ironforge the Bold (Political - Patron)]]
+- [[#Ewan Stormwind the Fallen (Professional - Employer)|Ewan Stormwind the Fallen (Professional - Employer)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Cedric Hawthorne the Risen", "cedric hawthorne the risen", "Cedric Hawthorne Risen", "Risen the Hawthorne Cedric"]
 tags: [npc, character]
@@ -149,10 +174,10 @@ Family member has gone missing
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -262,3 +287,8 @@ Family member has gone missing
 - Influences [[Shadow Resonance Medical Scanner]]
 - Parallels [[peryton-xmm (monstrosity)]]
 - Originates from [[Director Prism Reformheart (Lore)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

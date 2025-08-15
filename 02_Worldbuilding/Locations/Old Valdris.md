@@ -329,3 +329,7 @@ Ongoing situations affecting Old Valdris:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00083_Vesper_Xendar_the_Lost]]

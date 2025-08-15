@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aeliana Frostwhisper the Strong
 
 *Goliath Cultist (Villains), Age 24, Non-binary*

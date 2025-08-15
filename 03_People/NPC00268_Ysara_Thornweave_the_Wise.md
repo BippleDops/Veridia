@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ysara Thornweave the Wise
 
 *Half-Orc Courtier (Nobles), Age 61, Female*

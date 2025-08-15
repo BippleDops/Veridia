@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.243704
+modified: 2025-08-15T16:41:43.243709
+aliases: [NPC00656 Vesper Winterborn the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gavril Ironwood the Broken (Family - Spouse)|Gavril Ironwood the Broken (Family - Spouse)]]
+- [[#Xander Dawnstrider the Broken (Family - Spouse)|Xander Dawnstrider the Broken (Family - Spouse)]]
+- [[#Lyanna Jadeclaw the Seeker (Family - Spouse)|Lyanna Jadeclaw the Seeker (Family - Spouse)]]
+
+
+---
 aliases: ["Vesper Winterborn the Wanderer", "vesper winterborn the wanderer", "Vesper Winterborn Wanderer", "Wanderer the Winterborn Vesper"]
 tags: [npc, character]
 type: npc
@@ -248,3 +269,14 @@ Witnessed a crime
 - Requires [[Assets Locations Location City Pressure Terminal Pressure Terminal.svg]]
 - Compare with [[step_017 (phase_058)]]
 - Leads to [[step_035 (phase_097)]]
+
+## Visual References
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -251,3 +251,7 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]

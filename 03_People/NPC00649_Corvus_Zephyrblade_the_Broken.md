@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.140333
+modified: 2025-08-15T16:41:42.140339
+aliases: [NPC00649 Corvus Zephyrblade the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Jorah Ashford the Swift (Family - Spouse)|Jorah Ashford the Swift (Family - Spouse)]]
+- [[#Branwen Voidwalker the Fallen (Professional - Partner)|Branwen Voidwalker the Fallen (Professional - Partner)]]
+- [[#Caelum Thornweave the Guardian (Professional - Rival)|Caelum Thornweave the Guardian (Professional - Rival)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Corvus Zephyrblade the Broken", "corvus zephyrblade the broken", "Corvus Zephyrblade Broken", "Broken the Zephyrblade Corvus"]
 tags: [npc, character]
@@ -146,6 +171,30 @@ Discovered something valuable
 - Special moves
 
 ## See Also
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC00844_Cedric_Blackstone_the_Fallen]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC00287_Ysara_Underhill_the_Wise]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[Faction_Guide.md]]
+- [[Shared_Lore]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Party_Inventory]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Ancient_Prophecy_Fragment_Verdan]]
+- [[Reputation_Tracker]]
+- [[08 Using Ability Scores]]
+- [[16 Credits]]
+- [[MASTER_MOC]]
 - [[Related_Content]]
 
 
@@ -155,8 +204,8 @@ Discovered something valuable
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -266,3 +315,8 @@ Discovered something valuable
 - Compare with [[The Drowning 3 (D&D_References)]]
 - Leads to [[step_075]]
 - Affected by [[5-halflings-and-gnomes (mordenkainens-tome-of-foes)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Aldric Lightbringer the Guardian
 
 *Firbolg Trader (Merchants), Age 40, Female*

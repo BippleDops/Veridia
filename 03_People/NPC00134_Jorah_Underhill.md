@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Jorah Underhill
 
 *Gnome Noble (Nobles), Age 52, Non-binary*

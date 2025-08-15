@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Jorah Crystalbrook the Broken
 
 *Half-Orc Ambassador (Nobles), Age 70, Non-binary*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.050974
+modified: 2025-08-15T16:41:48.050978
+aliases: [NPC01390 Aeliana Ironwood the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Crystalbrook the Bold (Personal - Love interest)|Wynne Crystalbrook the Bold (Personal - Love interest)]]
+- [[#Xander Ravenheart the Bold (Criminal - Target)|Xander Ravenheart the Bold (Criminal - Target)]]
+- [[#Drusilla Emberfall the Wise (Family - Spouse)|Drusilla Emberfall the Wise (Family - Spouse)]]
+
+
+---
 aliases: ["Aeliana Ironwood the Bold", "aeliana ironwood the bold", "Aeliana Ironwood Bold", "Bold the Ironwood Aeliana"]
 tags: [npc, character]
 type: npc
@@ -148,3 +169,15 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
+![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
+![[03_People/portrait_commander_thrace_ironwood.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

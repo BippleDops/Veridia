@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.192608
+modified: 2025-08-15T16:41:48.192611
+aliases: [NPC00138 Nerys Ravenheart the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Jorah Oakenshield (Professional - Employee)|Jorah Oakenshield (Professional - Employee)]]
+- [[#Delara Keenblade (Professional - Employer)|Delara Keenblade (Professional - Employer)]]
+- [[#Erasmus Moonshadow (Criminal - Target)|Erasmus Moonshadow (Criminal - Target)]]
+
+
+---
 aliases: ["Nerys Ravenheart the Risen", "nerys ravenheart the risen", "Nerys Ravenheart Risen", "Risen the Ravenheart Nerys"]
 tags: [npc, character]
 type: npc
@@ -146,3 +171,9 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

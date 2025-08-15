@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Branwen Ironwood the Guardian
 
 *Tabaxi Baker (Commoners), Age 51, Non-binary*

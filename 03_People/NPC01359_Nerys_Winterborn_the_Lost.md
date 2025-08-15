@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.426707
+modified: 2025-08-15T16:41:44.426710
+aliases: [NPC01359 Nerys Winterborn the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Felicia Keenblade the Swift (Political - Spy)|Felicia Keenblade the Swift (Political - Spy)]]
+- [[#Felicia Zephyrblade the Lost (Political - Opposition)|Felicia Zephyrblade the Lost (Political - Opposition)]]
+- [[#Wynne Brightblade the Strong (Political - Spy)|Wynne Brightblade the Strong (Political - Spy)]]
+
+
+---
 aliases: ["Nerys Winterborn the Lost", "nerys winterborn the lost", "Nerys Winterborn Lost", "Lost the Winterborn Nerys"]
 tags: [npc, character]
 type: npc
@@ -240,3 +261,14 @@ Has information about legendary item
 - Originates from [[NPC0116_Leopold_Goldleaf_the_Cunning]]
 - Related: [[QUEST0020_The_Ancient_Treasure]]
 - Compare with [[Great Dyin]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

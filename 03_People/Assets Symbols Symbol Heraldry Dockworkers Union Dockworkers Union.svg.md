@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.700491
+modified: 2025-08-15T16:41:46.700494
+aliases: [Assets Symbols Symbol Heraldry Dockworkers Union Dockworkers Union.svg]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_symbols_symbol_heraldry_dockworkers_union_dockworkers_union_svg_standard.png]]
+
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+- [[#Sensory Improvements|Sensory Improvements]]
+- [[#Death_Customs Improvements|Death_Customs Improvements]]
+- [[#Oral_Tradition Improvements|Oral_Tradition Improvements]]
+
+
+---
 
 title: Assets Symbols Symbol Heraldry Dockworkers Union Dockworkers Union.svg
 aliases:

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.321288
+modified: 2025-08-15T16:41:48.321290
+aliases: [NPC00125 Fiora Oakenshield the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Branwen Darkwater (Criminal - Fence)|Branwen Darkwater (Criminal - Fence)]]
+- [[#Dara Proudmore the Swift (Political - Opposition)|Dara Proudmore the Swift (Political - Opposition)]]
+- [[#Ewan Hawthorne (Personal - Ex-lover)|Ewan Hawthorne (Personal - Ex-lover)]]
+
+
+---
 aliases: ["Fiora Oakenshield the Bold", "fiora oakenshield the bold", "Fiora Oakenshield Bold", "Bold the Oakenshield Fiora"]
 tags: [npc, character]
 type: npc
@@ -151,3 +172,15 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

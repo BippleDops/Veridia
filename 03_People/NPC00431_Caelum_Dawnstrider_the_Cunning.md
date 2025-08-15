@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Caelum Dawnstrider the Cunning
 
 *Aasimar Carpenter (Commoners), Age 41, Non-binary*

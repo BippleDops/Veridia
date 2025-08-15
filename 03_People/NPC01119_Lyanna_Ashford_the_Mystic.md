@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Lyanna Ashford the Mystic
 
 *Human Caravan Master (Merchants), Age 55, Non-binary*

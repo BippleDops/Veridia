@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Branwen Quicksilver the Swift
 
 *Halfling Dark Wizard (Villains), Age 27, Female*

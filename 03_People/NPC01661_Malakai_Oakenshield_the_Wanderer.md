@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.762243
+modified: 2025-08-15T16:41:42.762245
+aliases: [NPC01661 Malakai Oakenshield the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aldric Brightblade the Mystic (Family - Parent)|Aldric Brightblade the Mystic (Family - Parent)]]
+- [[#Lyanna Xendar the Seeker (Political - Patron)|Lyanna Xendar the Seeker (Political - Patron)]]
+- [[#Urien Winterborn the Lost (Family - Child)|Urien Winterborn the Lost (Family - Child)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Malakai Oakenshield the Wanderer", "malakai oakenshield the wanderer", "Malakai Oakenshield Wanderer", "Wanderer the Oakenshield Malakai"]
 tags: [npc, character]
@@ -155,10 +176,10 @@ Provides information for a price
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -268,3 +289,14 @@ Provides information for a price
 - Originates from [[Assets Locations Location City Harbor Pilot Guild Harbor Pilot Guild.svg]]
 - See also: [[chamber-purpose-dungeon-tomb (tables)]]
 - Influences [[Assets Locations Location City the Infinite Garden the Infinite Garden.svg]]
+
+## Visual References
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

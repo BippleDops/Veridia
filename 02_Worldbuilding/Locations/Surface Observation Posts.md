@@ -273,3 +273,9 @@ Ongoing situations affecting Surface Observation Posts:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[The Silent Watcher 2]]

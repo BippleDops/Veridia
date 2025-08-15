@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.319264
+modified: 2025-08-15T16:41:46.319267
+aliases: [NPC01060 Faelyn Winterborn the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gareth Emberfall the Fallen (Political - Ally)|Gareth Emberfall the Fallen (Political - Ally)]]
+- [[#Wynne Ironwood the Swift (Family - Parent)|Wynne Ironwood the Swift (Family - Parent)]]
+- [[#Malakai Keenblade the Redeemed (Personal - Ex-lover)|Malakai Keenblade the Redeemed (Personal - Ex-lover)]]
+
+
+---
 aliases: ["Faelyn Winterborn the Wanderer", "faelyn winterborn the wanderer", "Faelyn Winterborn Wanderer", "Wanderer the Winterborn Faelyn"]
 tags: [npc, character]
 type: npc
@@ -238,3 +259,14 @@ Has map to lost treasure
 - Related: [[LOC00009_Cities_Location_10]]
 - Leads to [[MON00005_Aberrations_Creature_6]]
 - See also: [[step_080 (phase_099)]]
+
+## Visual References
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

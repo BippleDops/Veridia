@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.148117
+modified: 2025-08-15T16:41:46.148122
+aliases: [NPC01826 Drusilla Zephyrblade the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Vesper Oakenshield the Bold (Personal - Ex-lover)|Vesper Oakenshield the Bold (Personal - Ex-lover)]]
+- [[#Hilda Dawnstrider the Lost (Political - Spy)|Hilda Dawnstrider the Lost (Political - Spy)]]
+- [[#Qadim Xendar the Redeemed (Family - Cousin)|Qadim Xendar the Redeemed (Family - Cousin)]]
+
+
+---
 aliases: ["Drusilla Zephyrblade the Lost", "drusilla zephyrblade the lost", "Drusilla Zephyrblade Lost", "Lost the Zephyrblade Drusilla"]
 tags: [npc, character]
 type: npc
@@ -235,3 +256,14 @@ Offers deal too good to refuse
 - Connects to [[SHOP00017_General_Shop_18]]
 - Originates from [[step_051 (phase_077)]]
 - Requires [[step_042]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

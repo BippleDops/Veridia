@@ -82,3 +82,8 @@ Recent developments have brought new attention to Location City Tide Welcomehear
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]

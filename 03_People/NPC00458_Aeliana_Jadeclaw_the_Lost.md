@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aeliana Jadeclaw the Lost
 
 *Half-Orc Blacksmith (Commoners), Age 68, Female*

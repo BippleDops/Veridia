@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Jorah Winterborn the Wanderer
 
 *Dwarf Noble (Nobles), Age 37, Female*

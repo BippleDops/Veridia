@@ -201,3 +201,8 @@ Mentioned in The Second Prophecy of Stars
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]

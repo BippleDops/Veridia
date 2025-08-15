@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.536108
+modified: 2025-08-15T16:41:46.536110
+aliases: [Professor Aldric Crystalweaver]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_professor_aldric_crystalweaver_dramatic.png]]
+
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Statistics|Statistics]]
+- [[#Actions|Actions]]
+- [[#Reactions|Reactions]]
+- [[#Combat Tactics|Combat Tactics]]
+- [[#Stats|Stats]]
+- [[#Key Information|Key Information]]
+- [[#Details|Details]]
+- [[#Background|Background]]
+
+
+---
 title: Professor Aldric Crystalweaver
 type: Npc
 tags:
@@ -36,7 +61,8 @@ Professor Aldric Crystalweaver represents a significant element within the campa
 
 ## Statistics
 ___
-- **Armor Class** 10 (natural armor)
+- **Armor Class** 10 (natu
+*The [texture] surface feels [description] to the touch.*ral armor)
 - **Hit Points** 11 (3d8)
 - **Speed** 30 ft.
 ___
@@ -158,7 +184,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
 ## Sourcebook Reference
-> Based on **Commoner** (MM p.345) with modifications
+> Based on **Commoner** (BC p.345) with modifications
 
 ## References
 

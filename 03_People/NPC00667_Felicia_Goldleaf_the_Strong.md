@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.932663
+modified: 2025-08-15T16:41:45.932667
+aliases: [NPC00667 Felicia Goldleaf the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Grimholt the Risen (Criminal - Accomplice)|Wynne Grimholt the Risen (Criminal - Accomplice)]]
+- [[#Aldric Quicksilver the Mystic (Political - Opposition)|Aldric Quicksilver the Mystic (Political - Opposition)]]
+- [[#Jorah Grimholt the Risen (Political - Opposition)|Jorah Grimholt the Risen (Political - Opposition)]]
+
+
+---
 aliases: ["Felicia Goldleaf the Strong", "felicia goldleaf the strong", "Felicia Goldleaf Strong", "Strong the Goldleaf Felicia"]
 tags: [npc, character]
 type: npc
@@ -250,3 +271,14 @@ Witnessed a crime
 - Compare with [[step_036 (phase_011)]]
 - Originates from [[step_090 (phase_024)]]
 - Parallels [[04_Resources_Assets_Locations_location-city-pool-of-sacred-drowning-v1-pool-of-sacred-drowning.svg]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_dramatic.png]]
+![[03_People/portrait_lady_seraphina_goldleaf_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

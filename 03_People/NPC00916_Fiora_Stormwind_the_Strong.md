@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Fiora Stormwind the Strong
 
 *Firbolg Appraiser (Merchants), Age 71, Non-binary*

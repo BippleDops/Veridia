@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.653963
+modified: 2025-08-15T16:41:45.653967
+aliases: [NPC01146 Orion Zephyrblade the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Xander Frostwhisper the Lost (Political - Opposition)|Xander Frostwhisper the Lost (Political - Opposition)]]
+- [[#Thalia Ironwood the Swift (Professional - Rival)|Thalia Ironwood the Swift (Professional - Rival)]]
+- [[#Pyria Grimholt the Cunning (Political - Puppet)|Pyria Grimholt the Cunning (Political - Puppet)]]
+
+
+---
 aliases: ["Orion Zephyrblade the Wise", "orion zephyrblade the wise", "Orion Zephyrblade Wise", "Wise the Zephyrblade Orion"]
 tags: [npc, character]
 type: npc
@@ -238,3 +259,14 @@ Competitor sabotaging business
 - Originates from [[Dimensional Researchers]]
 - Originates from [[Evidence Item Descriptions]]
 - See also: [[step_041]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -213,3 +213,9 @@ Ongoing situations affecting Council of Currents:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]

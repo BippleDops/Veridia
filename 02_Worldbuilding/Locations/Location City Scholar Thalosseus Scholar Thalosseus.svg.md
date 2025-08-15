@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Scholar Thalosse
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[yuan-ti-pit-master-mpmm]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Caelum Brightblade the Strong
 
 *Dwarf Carpenter (Commoners), Age 66, Male*

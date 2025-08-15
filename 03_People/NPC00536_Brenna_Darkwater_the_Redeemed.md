@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Brenna Darkwater the Redeemed
 
 *Elf Blacksmith (Commoners), Age 28, Male*

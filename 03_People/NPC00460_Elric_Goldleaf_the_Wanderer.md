@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.721650
+modified: 2025-08-15T16:41:43.721652
+aliases: [NPC00460 Elric Goldleaf the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gareth Lightbringer the Redeemed (Political - Opposition)|Gareth Lightbringer the Redeemed (Political - Opposition)]]
+- [[#Pyria Zephyrblade the Redeemed (Criminal - Accomplice)|Pyria Zephyrblade the Redeemed (Criminal - Accomplice)]]
+- [[#Aldric Ravenheart the Redeemed (Political - Ally)|Aldric Ravenheart the Redeemed (Political - Ally)]]
+
+
+---
 aliases: ["Elric Goldleaf the Wanderer", "elric goldleaf the wanderer", "Elric Goldleaf Wanderer", "Wanderer the Goldleaf Elric"]
 tags: [npc, character]
 type: npc
@@ -252,3 +273,14 @@ Being extorted by criminals
 - Compare with [[Assets Locations Location City Archdeacon Felix Faithkeeper V1 Archdeacon Felix Faithkeeper.svg]]
 - Related: [[Portrait NPC Duke Aldric Blackwater V2 Duke Aldric Blackwater.svg]]
 - See also: [[Portrait NPC Captain Dimensional V1 Captain Dimensional.svg]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_dramatic.png]]
+![[03_People/portrait_lady_seraphina_goldleaf_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

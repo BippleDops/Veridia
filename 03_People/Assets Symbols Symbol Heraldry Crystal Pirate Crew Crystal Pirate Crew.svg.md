@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.658648
+modified: 2025-08-15T16:41:46.658651
+aliases: [Assets Symbols Symbol Heraldry Crystal Pirate Crew Crystal Pirate Crew.svg]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_symbols_symbol_heraldry_crystal_pirate_crew_crystal_pirate_crew_svg_friendly.png]]
+
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Diaspora Improvements|Diaspora Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+- [[#Sensory Improvements|Sensory Improvements]]
+- [[#Superstitions Improvements|Superstitions Improvements]]
+
+
+---
 
 title: Assets Symbols Symbol Heraldry Crystal Pirate Crew Crystal Pirate Crew.svg
 aliases:

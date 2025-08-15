@@ -243,3 +243,9 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
+- [[NPC00393_Kaelen_Grimholt]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]

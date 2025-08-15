@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gavril Stormwind the Cunning
 
 *Dragonborn Noble (Nobles), Age 43, Female*

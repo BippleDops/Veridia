@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Phosphor Mar
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01177_Thalia_Underhill_the_Fallen]]

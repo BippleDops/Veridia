@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![The Shadowhawk Syndicate](../../../04_Resources/Assets/Misc/the_shadowhawk_syndicate.png)
 
 ## 🔧 Deep Evaluation Improvements

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.160477
+modified: 2025-08-15T16:41:41.160482
+aliases: [NPC00300 Urien Zephyrblade]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Pyria Ravenheart the Lost (Personal - Love interest)|Pyria Ravenheart the Lost (Personal - Love interest)]]
+- [[#Ewan Blackstone (Criminal - Accomplice)|Ewan Blackstone (Criminal - Accomplice)]]
+- [[#Thalia Goldleaf (Political - Spy)|Thalia Goldleaf (Political - Spy)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Urien Zephyrblade", "urien zephyrblade", "Zephyrblade Urientags: [npc, character, combat, social, puzzle, lore]er]
 type: npc
@@ -11,7 +36,7 @@ type: npc
 **ID**: NPC00300
 
 ## Quick Reference
-- **Location**: The Gilded Serpent tavern in the merchant quarter
+- **Location**: [[The Gilded Serpent]] [[Tavern]] in the [[[[Merchant]] Quarter]]
 - **Occupation**: Diplomat
 - **Disposition**: Always speaks in metaphors and riddles
 
@@ -96,7 +121,7 @@ Deception, Persuasion, Intimidation, Animal Handling
 
 ### Special Abilities
 - Rally: Grant allies temporary hit points
-- Diplomatic Immunity: Cannot be arrested without evidence
+- [[Diplomatic Immunity]]: Cannot be arrested without evidence
 
 ## Possessions
 - 716 gold pieces
@@ -117,7 +142,7 @@ Deception, Persuasion, Intimidation, Animal Handling
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- Political alliances
+- [[Political Alliances]]
 - Upcoming social events
 
 ## Plot Hook
@@ -148,13 +173,25 @@ Wants rivals investigated
 - Special moves
 
 ## Combat Stats
-Base: **Mage** (MM p.347)
+Base: **Mage** (BC p.347)
 Modifications:
 - HP: 46
 - AC: 13
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[Assets Portraits Portrait NPC the Waking Prophets the Waking Prophets.svg]]
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]
+- [[Parliamentary_Voting_Guide]]
+- [[Quick_Start_Guide.md]]
+- [[MOC_Sessions]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]
 - [[Related_Content]]
 
 
@@ -164,8 +201,8 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -178,7 +215,7 @@ Modifications:
 - Parallels [[steel-wind-strike-xphb (spells)]]
 - Related: [[step_065 (phase_093)]]
 - Influences [[NPC01374_Ewan_Nightfall_the_Broken]]
-- Affected by [[Assets Locations Location City the Phantom Current the Phantom Current.svg]]
+- Affected by [[Assets Locations [[Location City [[The Phantom Current]] the Phantom Current.svg]]]]
 - See also: [[Wind Songs 2]]
 - Affected by [[mounts-and-vehicles-waterborne-vehicles-phb (tables)]]
 - Connects to [[Archive of Depths (D&D_References)]]
@@ -204,17 +241,17 @@ Modifications:
 - Parallels [[step_018]]
 - Originates from [[step_019 (phase_092)]]
 - Related: [[step_013]]
-- Compare with [[Diplomat Supreme International (D&D_References)]]
+- Compare with [[[[Diplomat Supreme International]] (D&D_References)]]
 - Related: [[step_096 (phase_069)]]
 - Compare with [[Conditions_Reference]]
 - Parallels [[ENC00014_Social_Encounter_15]]
-- Originates from [[02_Worldbuilding_Places_Alternative-Path-Fled-City]]
+- Originates from [[02_Worldbuilding_Places_[[Alternative-Path-Fled-City]]]]
 - Related: [[Art Brief Database]]
 - Connects to [[step_024 (phase_100)]]
 - Requires [[LOC00196_Cities_Location_197]]
 - Originates from [[step_021]]
 - Related: [[LORE00210_Prophecies_Entry_211]]
-- Leads to [[Assets Locations Location City Political Alliances Political Alliances.svg]]
+- Leads to [[Assets Locations [[Location City Political Alliances Political Alliances.svg]]]]
 - Requires [[List Spells Classes Oath of Redemption Xge]]
 - Parallels [[Royal Academy of Magical Science]]
 - Compare with [[Create Bonfire Xge]]
@@ -228,12 +265,12 @@ Modifications:
 - Affected by [[item-artifact-whelm-xdmg-v4-whelm-xdmg.png]]
 - Requires [[NPC0166_Gareth_Brightblade]]
 - Requires [[#Hubs]]
-- Influences [[Location City Master Chef Coral Seasweaver V1 Master Chef Coral Seasweaver.svg]]
+- Influences [[Location City [[Master Chef [[Coral Seasweaver]]]] V1 Master Chef Coral Seasweaver.svg]]
 - Related: [[step_010]]
 - Originates from [[gith-tables-githzerai-personality-traits-mtf (tables)]]
 - Compare with [[Shadow Energy Processing Facilities]]
-- Originates from [[Location City Archkeeper Nereon Archkeeper Nereon.svg]]
-- See also: [[Location City the Bone Colosseum V1 the Bone Colosseum.svg]]
+- Originates from [[Location City [[Archkeeper Nereon]] Archkeeper Nereon.svg]]
+- See also: [[Location City [[The Bone Colosseum]] V1 the Bone Colosseum.svg]]
 - Leads to [[step_056 (phase_097)]]
 - Originates from [[Paladin Xphb Oath of Vengeance Xphb]]
 - See also: [[step_088 (phase_090)]]
@@ -261,7 +298,7 @@ Modifications:
 - Requires [[Random Tricks Trick Objects]]
 - Leads to [[step_055 (phase_010)]]
 - Requires [[step_099 (phase_055)]]
-- Connects to [[Location City Wave Soothingtouch Wave Soothingtouch.svg]]
+- Connects to [[Location City [[Wave Soothingtouch]] Wave Soothingtouch.svg]]
 - Connects to [[step_019 (phase_082)]]
 - See also: [[ITEM00319_Shadow_Dagger_of_Speed]]
 - Influences [[Faction-Quick-Reference]]
@@ -275,3 +312,8 @@ Modifications:
 - Originates from [[Roleplaying a Beholder Beholder Personality]]
 - Originates from [[step_002 (phase_092)]]
 - See also: [[step_055 (phase_039)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

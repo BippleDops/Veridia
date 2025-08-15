@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.820521
+modified: 2025-08-15T16:41:42.820524
+aliases: [NPC01234 Nerys Dawnstrider the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gavril Brightblade the Strong (Personal - Childhood friend)|Gavril Brightblade the Strong (Personal - Childhood friend)]]
+- [[#Qadim Thornweave the Redeemed (Family - Cousin)|Qadim Thornweave the Redeemed (Family - Cousin)]]
+- [[#Urien Ironwood the Cunning (Political - Ally)|Urien Ironwood the Cunning (Political - Ally)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Nerys Dawnstrider the Strong", "nerys dawnstrider the strong", "Nerys Dawnstrider Strong", "Strong the Dawnstrider Nerys"]
 tags: [npc, character]
@@ -153,19 +174,19 @@ Has information about legendary item
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Monster Manual (MM) p.32
+- Bestiary Compendium (BC) p.32
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -173,8 +194,8 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -284,3 +305,14 @@ Following magic item guidelines (DMG p.135-136):
 - Requires [[Location City Crimson Velocity Crimson Velocity.svg]]
 - See also: [[Phantom Warrior Archer Cos]]
 - Affected by [[location-city-marine-druids-marine-druids.svg]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

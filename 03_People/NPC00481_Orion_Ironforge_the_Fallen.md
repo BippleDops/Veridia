@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Orion Ironforge the Fallen
 
 *Goliath Farmer (Commoners), Age 44, Non-binary*

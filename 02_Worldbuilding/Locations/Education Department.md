@@ -251,3 +251,9 @@ Ongoing situations affecting Education Department:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]

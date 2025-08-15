@@ -155,3 +155,8 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00287_Ysara_Underhill_the_Wise]]
+- [[NPC00407_Hestara_Dawnstrider]]

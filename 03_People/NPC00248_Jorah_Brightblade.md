@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.148921
+modified: 2025-08-15T16:41:43.148925
+aliases: [NPC00248 Jorah Brightblade]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Delara Stormwind (Professional - Partner)|Delara Stormwind (Professional - Partner)]]
+- [[#Rhiannon Proudmore (Family - Sibling)|Rhiannon Proudmore (Family - Sibling)]]
+- [[#Ysara Thornweave (Criminal - Informant)|Ysara Thornweave (Criminal - Informant)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Jorah Brightblade", "jorah brightblade", "Brightblade Jorah"]
 tags: [npc, character]
@@ -155,8 +180,8 @@ Needs discrete help with family scandal
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -266,3 +291,8 @@ Needs discrete help with family scandal
 - Parallels [[Environmental Monitor Reef Ecowatch]]
 - Related: [[step_047 (phase_053)]]
 - Requires [[LORE00068_History_Entry_69]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

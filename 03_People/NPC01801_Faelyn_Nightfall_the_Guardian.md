@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.345042
+modified: 2025-08-15T16:41:43.345046
+aliases: [NPC01801 Faelyn Nightfall the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Branwen Youngblood the Scholar (Political - Patron)|Branwen Youngblood the Scholar (Political - Patron)]]
+- [[#Nerys Quicksilver the Cunning (Criminal - Informant)|Nerys Quicksilver the Cunning (Criminal - Informant)]]
+- [[#Faelyn Hawthorne the Bold (Professional - Employer)|Faelyn Hawthorne the Bold (Professional - Employer)]]
+
+
+---
 aliases: ["Faelyn Nightfall the Guardian", "faelyn nightfall the guardian", "Faelyn Nightfall Guardian", "Guardian the Nightfall Faelyn"]
 tags: [npc, character]
 type: npc
@@ -246,3 +267,14 @@ Offers deal too good to refuse
 - Influences [[Portrait NPC Throne of Bubbles V2 Throne of Bubbles.svg_1 (Portraits)]]
 - Compare with [[Assets Locations Location City Surface Tensions Surface Tensions.svg]]
 - Leads to [[Emergency Response Teams]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
+![[03_People/portrait_the_crimson_shard_guardian.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

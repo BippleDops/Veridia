@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:20.187574
+modified: 2025-08-15T16:41:20.187579
+aliases: [fifty improvements 20250815 155453]
+---
+
+## Table of Contents
+- [[#Implemented Improvements|Implemented Improvements]]
+- [[#Combat & Mechanics (10)|Combat & Mechanics (10)]]
+- [[#NPCs & Social (10)|NPCs & Social (10)]]
+- [[#Exploration & Travel (10)|Exploration & Travel (10)]]
+- [[#Magic & Items (10)|Magic & Items (10)]]
+- [[#Session Management (10)|Session Management (10)]]
+- [[#Summary|Summary]]
+- [[#Item Rarity & Balance|Item Rarity & Balance]]
+- [[#Comparable Official Items|Comparable Official Items]]
+- [[#Source References|Source References]]
+
+
 # 50 Improvements Implementation Report
 
 **Date**: 2025-08-15 15:54
@@ -72,22 +93,22 @@ No structural changes made to vault organization.
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Dungeon Master's Guide (DMG) p.226
-- Monster Manual (MM) p.209
-- Xanathar's Guide to Everything (XGE) p.216
-- Mordenkainen's Tome of Foes (MTF) p.256
+- Worldweaver's Tome (WWT) p.226
+- Bestiary Compendium (BC) p.209
+- Xanathar's Secrets Revealed to Everything (XSR) p.216
+- Mordenkainen's Forbidden Knowledge of Foes (MFK) p.256
 
 ## Related Content
 - [[10K_GENERATION_REPORT]]
@@ -95,22 +116,22 @@ Following magic item guidelines (DMG p.135-136):
 - [[NEXT_LEVEL_IMPROVEMENTS]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Exhaustion**: See PHB p.291
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Exhaustion**: See ACX p.291
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

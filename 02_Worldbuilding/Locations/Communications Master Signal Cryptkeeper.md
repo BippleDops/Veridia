@@ -222,3 +222,7 @@ Ongoing situations affecting Communications Master Signal Cryptkeeper:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]

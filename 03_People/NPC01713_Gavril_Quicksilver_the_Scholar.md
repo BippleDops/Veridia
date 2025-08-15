@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gavril Quicksilver the Scholar
 
 *Gnome Corrupt Noble (Villains), Age 31, Non-binary*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.076344
+modified: 2025-08-15T16:41:41.076348
+aliases: [NPC00057 Malakai Stormwind the Cunning]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Baelor Goldleaf (Professional - Rival)|Baelor Goldleaf (Professional - Rival)]]
+- [[#Urien Goldleaf (Family - Child)|Urien Goldleaf (Family - Child)]]
+- [[#Lyanna Ravenheart the Redeemed (Family - Spouse)|Lyanna Ravenheart the Redeemed (Family - Spouse)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Malakai Stormwind the Cunning", "malakai stormwind the cunning", "Malakai Stormwind Cunning", "Cunning the Stormwind Malakaitags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
@@ -12,7 +33,7 @@ type: npc
 
 ## Quick Reference
 - **Location**: Wizard's tower study
-- **Occupation**: Military commander
+- **Occupation**: [[Military Command]]er
 - **Disposition**: Incredibly optimistic despite evidence
 
 ## Appearance
@@ -96,7 +117,7 @@ Deception, Insight, Survival, Stealth
 - Dagger: +6 to hit, 1d4+1 damage
 
 ### Special Abilities
-- Diplomatic Immunity: Cannot be arrested without evidence
+- [[Diplomatic Immunity]]: Cannot be arrested without evidence
 
 ## Possessions
 - 736 gold pieces
@@ -117,7 +138,7 @@ Deception, Insight, Survival, Stealth
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- Political alliances
+- [[Political Alliances]]
 - Upcoming social events
 
 ## Plot Hook
@@ -148,13 +169,61 @@ Seeks bodyguards for dangerous journey
 - Special moves
 
 ## Combat Stats
-Base: **Commoner** (MM p.345)
+Base: **Commoner** (BC p.345)
 Modifications:
 - HP: 32
 - AC: 15
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC00080_Branwen_Proudmore]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00378_Malakai_Moonshadow_the_Broken]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[Party_Quests]]
+- [[Madame Rosalind Goldleaf]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[07 Customization Options]]
+- [[02 Step by Step Characters]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[Sage Elara]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
 - [[Related_Content]]
 
 
@@ -164,9 +233,9 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -176,7 +245,7 @@ Modifications:
 
 ## Connections
 
-- Leads to [[Assets Locations Location City the Constellation Mystery V1 the Constellation Mystery.png]]
+- Leads to [[Assets Locations [[Location City [[The Constellation Mystery]] V1 the Constellation Mystery.png]]]]
 - Parallels [[The Festival of Rising Tides (Lore)]]
 - See also: [[NPC01894_Aldric_Lightbringer_the_Bold]]
 - Parallels [[Shadow Duchess Nyx (D&D_References)]]
@@ -187,7 +256,7 @@ Modifications:
 - See also: [[step_016 (phase_055)]]
 - Requires [[step_071 (phase_006)]]
 - Requires [[thri-kreen-marauder-xmm]]
-- Originates from [[Reef Guard Captain Torrent Shellborn (D&D_References)]]
+- Originates from [[[[Reef Guard Captain Torrent Shellborn]] (D&D_References)]]
 - Related: [[NPC00465_Idris_Blackstone_the_Redeemed]]
 - Related: [[ITEM01402_Practical_Spyglass_of_Durability]]
 - Affected by [[Portrait NPC Quest the Void Conspiracy V1 Quest the Void Conspiracy.png]]
@@ -197,7 +266,7 @@ Modifications:
 - Connects to [[Map World Layer Faction Territories and Influence Faction Territories and Influence.svg]]
 - Leads to [[ENC00009_Social_Encounter_10]]
 - Connects to [[Prince Abyssos]]
-- Influences [[Location City Religious Leaders V1 Religious Leaders.svg]]
+- Influences [[Location City [[Religious Leaders]] V1 Religious Leaders.svg]]
 - Connects to [[treasure-hoard-challenge-04 (tables)]]
 - Affected by [[step_082 (phase_097)]]
 - Influences [[NPC01667_Jorah_Jadeclaw_the_Mystic]]
@@ -209,21 +278,21 @@ Modifications:
 - Originates from [[step_047 (phase_100)]]
 - Originates from [[ENC00259_Social_Encounter_260]]
 - Leads to [[Master Adapter Fluid Depthshifter]]
-- Affected by [[04_Resources_Assets_Locations_location-city-the-siren-s-rest-tavern-the-siren-s-rest-tavern.svg]]
+- Affected by [[04_Resources_Assets_Locations_location-city-the-siren-s-rest-[[Tavern]]-the-siren-s-rest-tavern.svg]]
 - Originates from [[longstrider-xphb (spells)]]
 - Influences [[04_Resources_Assets_Locations_location-city-the--cathedral-v1-the--cathedral.svg]]
 - Influences [[step_037]]
 - Parallels [[step_099 (phase_053)]]
 - Affected by [[Sanctuary Safeharbor]]
 - See also: [[TAG_TAXONOMY]]
-- Affected by [[Assets Locations Location City Syndicate Enforcers V1 Syndicate Enforcers.svg]]
+- Affected by [[Assets Locations Location City [[Syndicate Enforcers]] V1 Syndicate Enforcers.svg]]
 - Compare with [[ITEM01011_Pure_Oil_of_Vigor]]
 - Influences [[portrait-npc-the-wake-v2-the-wake.svg]]
 - Requires [[Githzerai Psion Xmm]]
-- Originates from [[Geometric Tidepools (D&D_References)]]
+- Originates from [[[[Geometric Tidepools]] (D&D_References)]]
 - Compare with [[wind-wall-xphb (spells)]]
 - Originates from [[step_043]]
-- Related: [[Handouts Ships Player Handout Aquabyssos Submarines]]
+- Related: [[Handouts Ships Player Handout [[Aquabyssos]] Submarines]]
 - Connects to [[ITEM00110_Blessed_Staff_of_Slaying]]
 - Originates from [[lightning-arrow-xphb (spells)]]
 - Leads to [[Artifacts Shard of Empathy]]
@@ -244,15 +313,15 @@ Modifications:
 - Parallels [[eastern-flanaess-locations-xdmg (tables)]]
 - Influences [[Quest - The Corruption Choice]]
 - See also: [[Quest - The Final Performance 2]]
-- Influences [[Artificer Magnus Weightless (D&D_References)]]
+- Influences [[[[[[Artificer]] Magnus Weightless]] (D&D_References)]]
 - Leads to [[Identify Xphb]]
 - Parallels [[Lieutenant Crystal-Spear Marcu]]
 - Connects to [[Blade Ward Xphb]]
 - Related: [[ENC00213_Social_Encounter_214]]
 - See also: [[ITEM00261_Cursed_Dagger_of_Power]]
 - Affected by [[Deep Threat Assessment Bureau]]
-- Influences [[Assets Locations Location City Sage Currentknow V1 Sage Currentknow.svg]]
-- Connects to [[Location City Shadow Noble Districts Shadow Noble Districts.svg]]
+- Influences [[Assets Locations [[Location City [[Sage Currentknow]] V1 Sage Currentknow.svg]]]]
+- Connects to [[Location City [[Shadow [[Noble District]]s]] Shadow Noble Districts.svg]]
 - Parallels [[figurine-of-wondrous-power-golden-lions-xdmg (items)]]
 - Related: [[location-city-reef-shark-v1-reef-shark.svg]]
 - Originates from [[Portrait NPC Underground Testing Facility Underground Testing Facility.svg]]
@@ -261,18 +330,44 @@ Modifications:
 - Compare with [[LOC00296_Wilderness_Location_297]]
 - Leads to [[step_031 (phase_080)]]
 - Connects to [[Crystal Garden (D&D_References)]]
-- See also: [[Undead Rights Organization HQ (D&D_References)]]
+- See also: [[[[Undead Rights Organization HQ]] (D&D_References)]]
 - Influences [[Sword of Wounding Xdmg]]
 - Affected by [[step_034]]
 - Influences [[Banshee Xmm]]
 - Compare with [[step_028]]
 - Affected by [[rot-grub-vgm (traps-hazards)]]
-- Leads to [[Assets Locations Location City Bridge Currentcrosser Bridge Currentcrosser.svg]]
+- Leads to [[Assets Locations [[Location City [[Bridge Currentcrosser]] Bridge Currentcrosser.svg]]]]
 - See also: [[Ring of Resistance Xdmg]]
 - See also: [[Multiverse 2]]
 - Connects to [[mixing-potions (variant-rules)]]
-- Parallels [[Assets Locations Location City Crystals Curiosities Crystals Curiosities.svg]]
+- Parallels [[Assets Locations [[Location City Crystals Curiosities Crystals Curiosities.svg]]]]
 - See also: [[ear-horn-of-hearing-xdmg (items)]]
 - Parallels [[ENC00124_Social_Encounter_125]]
 - Requires [[Feedback_Form]]
 - Parallels [[step_077 (phase_094)]]
+
+## Visual References
+![[03_People/portrait_[[Merchant]]_captain_tobias_stormwind_dramatic.png]]
+![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
+
+
+## Realm Connections
+
+### Connection to [[Aethermoor]]
+This connects to the sky realm of Sky realm of eternal winds and floating islands.
+
+- **Ruling Power**: The Windlord Council
+- **Capital**: [[Skylance Citadel]]
+- **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
+- **Current Conflict**: The Void Incursion, Elemental Convergence
+- **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
+
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+navigate floating islands connected by bridges of solidified cloud.
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

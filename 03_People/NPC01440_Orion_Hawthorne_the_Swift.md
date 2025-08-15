@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.098254
+modified: 2025-08-15T16:41:43.098258
+aliases: [NPC01440 Orion Hawthorne the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Faelyn Frostwhisper the Wise (Criminal - Accomplice)|Faelyn Frostwhisper the Wise (Criminal - Accomplice)]]
+- [[#Urien Brightblade the Wanderer (Professional - Employer)|Urien Brightblade the Wanderer (Professional - Employer)]]
+- [[#Urien Quicksilver the Lost (Criminal - Target)|Urien Quicksilver the Lost (Criminal - Target)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Orion Hawthorne the Swift", "orion hawthorne the swift", "Orion Hawthorne Swift", "Swift the Hawthorne Orion"]
 tags: [npc, character]
@@ -151,9 +172,9 @@ Has information about legendary item
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -263,3 +284,14 @@ Has information about legendary item
 - Compare with [[enhance-ability-xphb (spells)]]
 - Influences [[step_020 (phase_055)]]
 - Connects to [[step_054]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -897,3 +897,9 @@ Ongoing situations affecting Surface Tensions:
 ## Dangers
 - Environmental hazards
 - Hostile creatures
+
+
+## NPCs
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]

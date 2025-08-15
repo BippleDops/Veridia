@@ -247,3 +247,7 @@ Ongoing situations affecting Clerk Supreme Marcus Filekeeper:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00162_Xander_Thornweave]]

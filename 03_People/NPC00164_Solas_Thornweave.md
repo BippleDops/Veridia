@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.807035
+modified: 2025-08-15T16:41:46.807037
+aliases: [NPC00164 Solas Thornweave]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Kaelen Youngblood the Cunning (Professional - Mentor)|Kaelen Youngblood the Cunning (Professional - Mentor)]]
+- [[#Idris Hawthorne the Scholar (Professional - Mentor)|Idris Hawthorne the Scholar (Professional - Mentor)]]
+- [[#Felicia Dawnstrider (Family - Parent)|Felicia Dawnstrider (Family - Parent)]]
+
+
+---
 aliases: ["Solas Thornweave", "solas thornweave", "Thornweave Solas"]
 tags: [npc, character]
 type: npc
@@ -246,3 +267,14 @@ Requires champions for trial by combat
 - Originates from [[SPELL00105_Divine_Spell_106]]
 - Affected by [[step_091]]
 - See also: [[step_023 (phase_033)]]
+
+## Visual References
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

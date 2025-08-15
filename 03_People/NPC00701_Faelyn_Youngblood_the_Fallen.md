@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.316156
+modified: 2025-08-15T16:41:45.316159
+aliases: [NPC00701 Faelyn Youngblood the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Erasmus Frostwhisper the Wanderer (Professional - Mentor)|Erasmus Frostwhisper the Wanderer (Professional - Mentor)]]
+- [[#Xander Brightblade the Strong (Professional - Employee)|Xander Brightblade the Strong (Professional - Employee)]]
+- [[#Idris Zephyrblade the Mystic (Family - Child)|Idris Zephyrblade the Mystic (Family - Child)]]
+
+
+---
 aliases: ["Faelyn Youngblood the Fallen", "faelyn youngblood the fallen", "Faelyn Youngblood Fallen", "Fallen the Youngblood Faelyn"]
 tags: [npc, character]
 type: npc
@@ -242,3 +267,8 @@ Family member has gone missing
 - Leads to [[QUEST00207_Personal_Quest_208]]
 - Affected by [[Portrait NPC the Smuggler S Den V1 the Smuggler S Den.svg_1 (Portraits)]]
 - Originates from [[Captain Threshold]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

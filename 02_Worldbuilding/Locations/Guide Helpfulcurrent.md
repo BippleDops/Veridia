@@ -252,3 +252,8 @@ Ongoing situations affecting Guide Helpfulcurrent:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]

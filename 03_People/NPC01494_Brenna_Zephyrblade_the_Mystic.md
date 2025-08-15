@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.375089
+modified: 2025-08-15T16:41:43.375092
+aliases: [NPC01494 Brenna Zephyrblade the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Felicia Goldleaf the Seeker (Political - Ally)|Felicia Goldleaf the Seeker (Political - Ally)]]
+- [[#Elric Xendar the Cunning (Criminal - Informant)|Elric Xendar the Cunning (Criminal - Informant)]]
+- [[#Lyanna Crystalbrook the Lost (Political - Opposition)|Lyanna Crystalbrook the Lost (Political - Opposition)]]
+
+
+---
 aliases: ["Brenna Zephyrblade the Mystic", "brenna zephyrblade the mystic", "Brenna Zephyrblade Mystic", "Mystic the Zephyrblade Brenna"]
 tags: [npc, character]
 type: npc
@@ -241,3 +262,14 @@ Forming expedition to dangerous location
 - Leads to [[step_097 (phase_083)]]
 - Parallels [[Temple of Sacred Dreams]]
 - Leads to [[step_078 (phase_016)]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

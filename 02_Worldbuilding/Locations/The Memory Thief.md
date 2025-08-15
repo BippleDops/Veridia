@@ -352,3 +352,7 @@ Ongoing situations affecting The Memory Thief:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]

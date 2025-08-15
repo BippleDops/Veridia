@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.040634
+modified: 2025-08-15T16:41:44.040636
+aliases: [NPC01749 Delara Dawnstrider the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Malakai Quicksilver the Strong (Criminal - Fence)|Malakai Quicksilver the Strong (Criminal - Fence)]]
+- [[#Aeliana Frostwhisper the Lost (Family - Sibling)|Aeliana Frostwhisper the Lost (Family - Sibling)]]
+- [[#Cedric Hawthorne the Broken (Political - Puppet)|Cedric Hawthorne the Broken (Political - Puppet)]]
+
+
+---
 aliases: ["Delara Dawnstrider the Lost", "delara dawnstrider the lost", "Delara Dawnstrider Lost", "Lost the Dawnstrider Delara"]
 tags: [npc, character]
 type: npc
@@ -244,3 +265,14 @@ Is secretly testing the party
 - Influences [[Eyebite Xphb]]
 - Connects to [[LOC0054_UpperVale]]
 - Parallels [[Beacon of Hope Xphb]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

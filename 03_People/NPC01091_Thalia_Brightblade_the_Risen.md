@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.859845
+modified: 2025-08-15T16:41:45.859847
+aliases: [NPC01091 Thalia Brightblade the Risen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gareth Ashford the Cunning (Political - Ally)|Gareth Ashford the Cunning (Political - Ally)]]
+- [[#Vesper Grimholt the Strong (Criminal - Accomplice)|Vesper Grimholt the Strong (Criminal - Accomplice)]]
+- [[#Ewan Stormwind the Broken (Personal - Best friend)|Ewan Stormwind the Broken (Personal - Best friend)]]
+
+
+---
 aliases: ["Thalia Brightblade the Risen", "thalia brightblade the risen", "Thalia Brightblade Risen", "Risen the Brightblade Thalia"]
 tags: [npc, character]
 type: npc
@@ -242,3 +263,14 @@ Has map to lost treasure
 - Connects to [[step_085 (phase_059)]]
 - Requires [[step_070 (phase_057)]]
 - See also: [[The Unnatural Legion (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

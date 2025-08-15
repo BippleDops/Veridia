@@ -12,6 +12,10 @@ type: faction
 updated: 2025-08-14
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_memory_merchants_dramatic.png]]
+
+
 # Memory Merchants Guild
 
 ## Overview

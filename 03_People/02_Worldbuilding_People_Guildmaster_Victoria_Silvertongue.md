@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.049636
+modified: 2025-08-15T16:41:47.049640
+aliases: [02 Worldbuilding People Guildmaster Victoria Silvertongue]
+---
+
+## Table of Contents
+- [[#Basic Information|Basic Information]]
+- [[#Description|Description]]
+- [[#Statistics|Statistics]]
+- [[#Actions|Actions]]
+- [[#Reactions|Reactions]]
+- [[#Combat Tactics|Combat Tactics]]
+- [[#Physical Appearance|Physical Appearance]]
+- [[#Personality|Personality]]
+- [[#Stats|Stats]]
+- [[#Background|Background]]
+
+
+---
 tags: ['npc']
 ---
 
@@ -24,7 +45,8 @@ ___
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 10 (+0) | 12 (+1) | 11 (+0) | 10 (+0) | 13 (+1) | 14 (+2) |
+| 10 (+0) | 12 (+
+*The [texture] surface feels [description] to the touch.*1) | 11 (+0) | 10 (+0) | 13 (+1) | 14 (+2) |
 
 ___
 - **Skills** Deception +4, Insight +3, Persuasion +4
@@ -190,7 +212,7 @@ This NPC can serve multiple roles:
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
 ## Sourcebook Reference
-> Based on **Commoner** (MM p.345) with modifications
+> Based on **Commoner** (BC p.345) with modifications
 
 ## Connections
 
@@ -294,3 +316,8 @@ This NPC can serve multiple roles:
 - See also: [[step_009 (phase_010)]]
 - Compare with [[Lady Vivienne the Unfrozen]]
 - Influences [[LOC00124_Dungeons_Location_125]]
+
+## Visual References
+![[03_People/token_02_worldbuilding_lore_the_dream_shard_medium_normal.png]]
+![[03_People/portrait_02_worldbuilding_lore_the_dream_shard_standard.png]]
+![[03_People/portrait_02_worldbuilding_lore_the_dream_shard_dramatic.png]]

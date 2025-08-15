@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Faelyn Blackstone the Bold
 
 *Goliath Farmer (Commoners), Age 42, Female*

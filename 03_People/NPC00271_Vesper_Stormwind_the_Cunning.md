@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Stormwind the Cunning
 
 *Tabaxi Heir (Nobles), Age 21, Female*

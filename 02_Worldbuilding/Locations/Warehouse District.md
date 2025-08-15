@@ -255,3 +255,8 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC00351_Corvus_Ironwood]]

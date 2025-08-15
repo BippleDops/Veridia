@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.729457
+modified: 2025-08-15T16:41:43.729459
+aliases: [NPC01333 Gavril Underhill the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aldric Winterborn the Scholar (Political - Patron)|Aldric Winterborn the Scholar (Political - Patron)]]
+- [[#Alaric Proudmore the Mystic (Criminal - Target)|Alaric Proudmore the Mystic (Criminal - Target)]]
+- [[#Drusilla Winterborn the Strong (Family - Spouse)|Drusilla Winterborn the Strong (Family - Spouse)]]
+
+
+---
 aliases: ["Gavril Underhill the Broken", "gavril underhill the broken", "Gavril Underhill Broken", "Broken the Underhill Gavril"]
 tags: [npc, character]
 type: npc
@@ -252,3 +277,8 @@ Has information about legendary item
 - Connects to [[step_098 (phase_019)]]
 - Affected by [[Tidal Council (D&D_References)]]
 - Requires [[step_073]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

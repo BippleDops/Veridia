@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Pressure For
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00259_Delara_Proudmore]]

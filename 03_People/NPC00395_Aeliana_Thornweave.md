@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.560457
+modified: 2025-08-15T16:41:40.560459
+aliases: [NPC00395 Aeliana Thornweave]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Pyria Jadeclaw the Lost (Professional - Employee)|Pyria Jadeclaw the Lost (Professional - Employee)]]
+- [[#Gareth Ironwood the Swift (Personal - Childhood friend)|Gareth Ironwood the Swift (Personal - Childhood friend)]]
+- [[#Aeliana Stormwind the Mystic (Criminal - Target)|Aeliana Stormwind the Mystic (Criminal - Target)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Aeliana Thornweave", "aeliana thornweave", "Thornweave Aelianatags: [npc, character, combat, magic, social, lore]er]
 type: npc
@@ -93,7 +114,7 @@ Deception, History, Persuasion, Arcana
 
 ### Special Abilities
 - Noble Bearing: Immunity to being frightened
-- Diplomatic Immunity: Cannot be arrested without evidence
+- [[Diplomatic Immunity]]: Cannot be arrested without evidence
 - Commanding Presence: Advantage on Persuasion checks
 
 ## Possessions
@@ -116,7 +137,7 @@ Deception, History, Persuasion, Arcana
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- Political alliances
+- [[Political Alliances]]
 - Upcoming social events
 
 ## Plot Hook
@@ -147,7 +168,7 @@ Requires champions for trial by combat
 - Special moves
 
 ## Combat Stats
-Base: **Bandit** (MM p.343)
+Base: **Bandit** (BC p.343)
 Modifications:
 - HP: 40
 - AC: 10
@@ -158,6 +179,12 @@ Modifications:
 > Important safety or rule information
 
 ## See Also
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Parliamentary_Voting_Guide]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[11 Rules Glossary]]
 - [[Related_Content]]
 
 
@@ -167,10 +194,10 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -180,18 +207,18 @@ Modifications:
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
 
 ## Connections
 
@@ -200,18 +227,18 @@ Modifications:
 - See also: [[Gnome Callarduran Smoothhands Mtf]]
 - See also: [[LOC00230_Wilderness_Location_231]]
 - Parallels [[step_035]]
-- Influences [[Dock Boss Marina Irongrip (D&D_References)]]
+- Influences [[[[Dock Boss Marina Irongrip]] (D&D_References)]]
 - See also: [[Session 08 (Shadow_Conspiracy)]]
-- Requires [[Settlement Tables and Tracker Tavern Names]]
+- Requires [[Settlement Tables and Tracker [[Tavern]] Names]]
 - Originates from [[DUN00001_Dungeon_2]]
-- Leads to [[Diplomatic Protocol Center (D&D_References)]]
+- Leads to [[[[Diplomatic Protocol Center]] (D&D_References)]]
 - See also: [[Ability Score and Modifier Xphb]]
 - See also: [[Manacles Xphb]]
 - Compare with [[FAC00098_Orders_99]]
 - Requires [[broom-of-animated-attack-cos (construct)]]
 - Requires [[Brown Bear Xmm]]
-- Affected by [[Port Quarter 2]]
-- Compare with [[Senator Marina Tidecaller 2]]
+- Affected by [[[[Port Quarter]] 2]]
+- Compare with [[[[Senator Marina Tidecaller]] 2]]
 - Affected by [[Seismic Activity]]
 - Parallels [[Enspelled Armor Level 5 Xdmg]]
 - See also: [[step_047 (phase_027)]]
@@ -231,10 +258,10 @@ Modifications:
 - Connects to [[step_014]]
 - Influences [[Navigation Master Course (D&D_References)]]
 - Connects to [[step_043 (phase_045)]]
-- Influences [[Banker Cornelius Goldflow (D&D_References)]]
+- Influences [[[[Banker Cornelius Goldflow]] (D&D_References)]]
 - Originates from [[npc-appearance-xdmg (tables)]]
 - Influences [[step_087 (phase_065)]]
-- Compare with [[Pressure Crystals 2]]
+- Compare with [[[[Pressure Crystals]] 2]]
 - Originates from [[eberron-onatar (deities)]]
 - Influences [[platinum-bracelet-set-with-an-emerald-xdmg (items)]]
 - Requires [[Krake 2]]
@@ -242,10 +269,10 @@ Modifications:
 - Influences [[Ending a Chase Escape Factors Xdmg]]
 - Originates from [[LORE00225_Legends_Entry_226]]
 - Connects to [[Void-Touched]]
-- Related: [[Location City Security Services Security Services.svg]]
+- Related: [[Location City [[Security Services]] Security Services.svg]]
 - Connects to [[NPC01386_Brenna_Thornweave_the_Lost]]
 - Parallels [[Rogue Xphb Mastermind Xge]]
-- Affected by [[Location City Coral Lifeshaper V1 Coral Lifeshaper.svg]]
+- Affected by [[Location City [[Coral Lifeshaper]] V1 Coral Lifeshaper.svg]]
 - See also: [[Roleplaying a Mind Flayer Mind Flayer Flaws]]
 - Originates from [[DUN00059_Dungeon_60]]
 - See also: [[step_018 (phase_005)]]
@@ -266,10 +293,10 @@ Modifications:
 - Requires [[Far Realms (D&D_References)]]
 - See also: [[The Deep Dreamers]]
 - Influences [[step_005 (phase_093)]]
-- Leads to [[Assets Art Retired Captain Bron Saltbeard.png]]
+- Leads to [[Assets Art [[Retired Captain Bron Saltbeard]].png]]
 - Parallels [[cleric-xphb-knowledge-domain 2 (classes)]]
 - Affected by [[step_021 (phase_085)]]
-- Influences [[Mirror Merchant Marina (D&D_References)]]
+- Influences [[Mirror [[Merchant]] Marina (D&D_References)]]
 - Connects to [[8 Credits]]
 - Requires [[Jeeve (D&D_References)]]
 - Compare with [[step_003 (phase_041)]]
@@ -285,13 +312,24 @@ Modifications:
 - See also: [[step_100]]
 - Connects to [[10 Dungeon Masters Workshop]]
 - Parallels [[Trapper Mpmm]]
-- See also: [[Location City Harvester Keth Reefrender V1 Harvester Keth Reefrender.svg]]
-- Parallels [[Location City University System V1 University System.svg]]
+- See also: [[Location City [[Harvester Keth Reefrender]] V1 Harvester Keth Reefrender.svg]]
+- Parallels [[Location City [[University System]] V1 University System.svg]]
 - Leads to [[Map Map Airship Deck Melee V2 Airship Deck Melee.svg]]
-- Connects to [[location-city-umberlee-umberlee.svg]]
+- Connects to [[location-city-[[Umberlee]]-umberlee.svg]]
 - Parallels [[step_062 (phase_016)]]
 - Compare with [[Deep Mother Lore]]
 - See also: [[Deep Sciences Research Institute]]
 - Connects to [[step_090 (phase_055)]]
-- Related: [[The Boundary Accords (D&D_References)]]
+- Related: [[[[The Boundary Accords]] (D&D_References)]]
 - Parallels [[step_094]]
+
+## Visual References
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

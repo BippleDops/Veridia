@@ -366,3 +366,7 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00885_Kaelen_Xendar_the_Lost]]

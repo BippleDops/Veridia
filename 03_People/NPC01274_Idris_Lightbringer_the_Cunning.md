@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Lightbringer the Cunning
 
 *Tabaxi Wizard (Adventurers), Age 37, Non-binary*

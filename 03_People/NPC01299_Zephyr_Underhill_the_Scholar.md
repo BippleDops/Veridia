@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Zephyr Underhill the Scholar
 
 *Goliath Cleric (Adventurers), Age 59, Non-binary*

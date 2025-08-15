@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Silverleaf the Cunning
 
 *Firbolg Caravan Master (Merchants), Age 33, Non-binary*

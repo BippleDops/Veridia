@@ -4,6 +4,10 @@ type: location
 status: active
 ---
 
+## Map
+![[04_Resources/Assets/Maps/location_map_placeholder_rain.png]]
+
+
 # map placeholder
 
 ## Overview

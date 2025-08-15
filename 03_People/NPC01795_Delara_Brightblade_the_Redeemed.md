@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.287195
+modified: 2025-08-15T16:41:46.287202
+aliases: [NPC01795 Delara Brightblade the Redeemed]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Blackstone the Scholar (Family - Child)|Thalia Blackstone the Scholar (Family - Child)]]
+- [[#Jorah Emberfall the Fallen (Political - Puppet)|Jorah Emberfall the Fallen (Political - Puppet)]]
+- [[#Elric Stormwind the Guardian (Political - Opposition)|Elric Stormwind the Guardian (Political - Opposition)]]
+
+
+---
 aliases: ["Delara Brightblade the Redeemed", "delara brightblade the redeemed", "Delara Brightblade Redeemed", "Redeemed the Brightblade Delara"]
 tags: [npc, character]
 type: npc
@@ -244,3 +269,8 @@ Is secretly testing the party
 - Requires [[QUEST00129_Side_Quest_130]]
 - Related: [[Assets Portraits Portrait NPC Quest the Prophecy Fulfilled Quest the Prophecy Fulfilled.svg]]
 - Influences [[Chalcedony Xdmg]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

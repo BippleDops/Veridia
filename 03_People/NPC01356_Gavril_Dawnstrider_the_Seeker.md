@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gavril Dawnstrider the Seeker
 
 *Human Cleric (Adventurers), Age 59, Male*

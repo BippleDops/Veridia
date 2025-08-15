@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Xander Keenblade the Bold
 
 *Dwarf Broker (Merchants), Age 18, Non-binary*

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.513301
+modified: 2025-08-15T16:41:46.513304
+aliases: [NPC01700 Pyria Xendar the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gareth Ironwood the Redeemed (Family - Sibling)|Gareth Ironwood the Redeemed (Family - Sibling)]]
+- [[#Vesper Voidwalker the Guardian (Political - Ally)|Vesper Voidwalker the Guardian (Political - Ally)]]
+- [[#Kaelen Crystalbrook the Lost (Political - Opposition)|Kaelen Crystalbrook the Lost (Political - Opposition)]]
+
+
+---
 aliases: ["Pyria Xendar the Fallen", "pyria xendar the fallen", "Pyria Xendar Fallen", "Fallen the Xendar Pyria"]
 tags: [npc, character]
 type: npc
@@ -243,3 +268,8 @@ Provides information for a price
 - See also: [[Skyfall Observatory 2]]
 - Influences [[Scene Scene Airship Docks Riot Airship Docks Riot.svg]]
 - Leads to [[arcane-study-charm-xdmg (rewards)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

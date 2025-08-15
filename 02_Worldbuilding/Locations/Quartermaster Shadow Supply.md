@@ -257,3 +257,8 @@ Ongoing situations affecting Quartermaster Shadow Supply:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]

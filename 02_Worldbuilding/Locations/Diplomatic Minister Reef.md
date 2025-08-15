@@ -241,3 +241,7 @@ Ongoing situations affecting Diplomatic Minister Reef:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01360_Ewan_Blackstone_the_Strong]]

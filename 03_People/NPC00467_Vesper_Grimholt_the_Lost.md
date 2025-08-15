@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Grimholt the Lost
 
 *Gnome Baker (Commoners), Age 21, Non-binary*

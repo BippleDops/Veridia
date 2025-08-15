@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.896938
+modified: 2025-08-15T16:41:41.896941
+aliases: [NPC01943 Xander Proudmore the Fallen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Malakai Underhill the Strong (Criminal - Target)|Malakai Underhill the Strong (Criminal - Target)]]
+- [[#Aldric Xendar the Fallen (Political - Puppet)|Aldric Xendar the Fallen (Political - Puppet)]]
+- [[#Wynne Blackstone the Bold (Criminal - Accomplice)|Wynne Blackstone the Bold (Criminal - Accomplice)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Xander Proudmore the Fallen", "xander proudmore the fallen", "Xander Proudmore Fallen", "Fallen the Proudmore Xander"]
 tags: [npc, character]
@@ -154,6 +175,11 @@ Is secretly testing the party
 - Special moves
 
 ## See Also
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[07 Customization Options]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
 - [[Related_Content]]
 
 
@@ -163,10 +189,10 @@ Is secretly testing the party
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -276,3 +302,14 @@ Is secretly testing the party
 - Compare with [[ENC00277_Combat_Encounter_278]]
 - Affected by [[The Shadow Merchant Prime]]
 - Leads to [[step_045 (phase_092)]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

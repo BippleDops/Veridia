@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Fiora Jadeclaw the Mystic
 
 *Human Caravan Master (Merchants), Age 38, Non-binary*

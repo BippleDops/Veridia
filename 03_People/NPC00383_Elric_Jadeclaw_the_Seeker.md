@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.138573
+modified: 2025-08-15T16:41:43.138577
+aliases: [NPC00383 Elric Jadeclaw the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Thornweave the Mystic (Political - Spy)|Alaric Thornweave the Mystic (Political - Spy)]]
+- [[#Nerys Darkwater the Strong (Criminal - Target)|Nerys Darkwater the Strong (Criminal - Target)]]
+- [[#Hestara Blackstone the Wanderer (Family - Cousin)|Hestara Blackstone the Wanderer (Family - Cousin)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Elric Jadeclaw the Seeker", "elric jadeclaw the seeker", "Elric Jadeclaw Seeker", "Seeker the Jadeclaw Elric"]
 tags: [npc, character]
@@ -152,10 +173,10 @@ Seeks bodyguards for dangerous journey
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -265,3 +286,14 @@ Seeks bodyguards for dangerous journey
 - Leads to [[step_001 (phase_012)]]
 - Compare with [[step_013 (phase_095)]]
 - Related: [[step_032]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

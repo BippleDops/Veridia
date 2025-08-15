@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Medical Research
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]

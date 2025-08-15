@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Malakai Lightbringer the Strong
 
 *Halfling Appraiser (Merchants), Age 72, Female*

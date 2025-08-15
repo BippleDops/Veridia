@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Wave Soothingtou
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]

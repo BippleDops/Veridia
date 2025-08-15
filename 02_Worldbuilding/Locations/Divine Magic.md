@@ -243,3 +243,8 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC00162_Xander_Thornweave]]

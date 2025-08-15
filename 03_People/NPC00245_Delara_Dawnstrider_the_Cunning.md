@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.600465
+modified: 2025-08-15T16:41:46.600471
+aliases: [NPC00245 Delara Dawnstrider the Cunning]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Orion Blackstone (Family - Spouse)|Orion Blackstone (Family - Spouse)]]
+- [[#Gareth Crystalbrook (Political - Patron)|Gareth Crystalbrook (Political - Patron)]]
+- [[#Jorah Quicksilver (Criminal - Informant)|Jorah Quicksilver (Criminal - Informant)]]
+
+
+---
 aliases: ["Delara Dawnstrider the Cunning", "delara dawnstrider the cunning", "Delara Dawnstrider Cunning", "Cunning the Dawnstrider Delara"]
 tags: [npc, character]
 type: npc
@@ -246,3 +271,8 @@ Seeks bodyguards for dangerous journey
 - Parallels [[location-city-spymaster-crow-spymaster-crow.svg]]
 - Originates from [[Assets Art the Vote Vault Mystery.png]]
 - Affected by [[step_073 (phase_056)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.840867
+modified: 2025-08-15T16:41:47.840870
+aliases: [Assets Locations Location City Noble Palatemaster V1 Noble Palatemaster.png]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_locations_location_city_noble_palatemaster_v1_noble_palatemaster_png_friendly.png]]
+
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+- [[#Material_Culture Improvements|Material_Culture Improvements]]
+- [[#Death_Customs Improvements|Death_Customs Improvements]]
+- [[#Superstitions Improvements|Superstitions Improvements]]
+
+
+---
 
 title: Assets Locations Location City Noble Palatemaster V1 Noble Palatemaster.png
 aliases:

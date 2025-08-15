@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.081360
+modified: 2025-08-15T16:41:44.081363
+aliases: [NPC01346 Hilda Xendar the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Orion Darkwater the Swift (Family - Sibling)|Orion Darkwater the Swift (Family - Sibling)]]
+- [[#Idris Lightbringer the Swift (Political - Ally)|Idris Lightbringer the Swift (Political - Ally)]]
+- [[#Cedric Proudmore the Bold (Personal - Love interest)|Cedric Proudmore the Bold (Personal - Love interest)]]
+
+
+---
 aliases: ["Hilda Xendar the Broken", "hilda xendar the broken", "Hilda Xendar Broken", "Broken the Xendar Hilda"]
 tags: [npc, character]
 type: npc
@@ -244,3 +269,8 @@ Needs help with personal quest
 - Originates from [[The_Island_of_Screams.jpg (02_Worldbuilding)]]
 - Leads to [[Location City Phantom Harbor Charter V1 Phantom Harbor Charter.svg]]
 - Influences [[Assets Locations Location City Surgeon Coral Seamender V1 Surgeon Coral Seamender.svg]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

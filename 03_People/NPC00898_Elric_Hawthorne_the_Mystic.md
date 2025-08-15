@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.327382
+modified: 2025-08-15T16:41:46.327386
+aliases: [NPC00898 Elric Hawthorne the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Rhiannon Ravenheart the Fallen (Family - Parent)|Rhiannon Ravenheart the Fallen (Family - Parent)]]
+- [[#Orion Oakenshield the Lost (Personal - Best friend)|Orion Oakenshield the Lost (Personal - Best friend)]]
+- [[#Branwen Goldleaf the Lost (Family - Child)|Branwen Goldleaf the Lost (Family - Child)]]
+
+
+---
 aliases: ["Elric Hawthorne the Mystic", "elric hawthorne the mystic", "Elric Hawthorne Mystic", "Mystic the Hawthorne Elric"]
 tags: [npc, character]
 type: npc
@@ -246,3 +267,14 @@ Has map to lost treasure
 - Parallels [[Experimental Medical Ethics 2]]
 - Compare with [[NPC00949_Nerys_Underhill_the_Wise]]
 - Leads to [[Tethys the Sea-Walker]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

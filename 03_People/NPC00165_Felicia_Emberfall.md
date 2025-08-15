@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.804931
+modified: 2025-08-15T16:41:43.804936
+aliases: [NPC00165 Felicia Emberfall]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Cedric Winterborn the Cunning (Personal - Nemesis)|Cedric Winterborn the Cunning (Personal - Nemesis)]]
+- [[#Urien Underhill (Personal - Love interest)|Urien Underhill (Personal - Love interest)]]
+- [[#Nerys Frostwhisper (Family - Parent)|Nerys Frostwhisper (Family - Parent)]]
+
+
+---
 aliases: ["Felicia Emberfall", "felicia emberfall", "Emberfall Felicia"]
 tags: [npc, character]
 type: npc
@@ -244,3 +269,8 @@ Requires champions for trial by combat
 - Compare with [[step_092 (phase_031)]]
 - Parallels [[step_001 (phase_044)]]
 - Originates from [[Faction2 (02_Worldbuilding)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

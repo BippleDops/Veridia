@@ -240,3 +240,9 @@ Mentioned in The First Prophecy of Shadows
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Orion Brightblade the Bold
 
 *Gnome Assassin (Villains), Age 26, Non-binary*

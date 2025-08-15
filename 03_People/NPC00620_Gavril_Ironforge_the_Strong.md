@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gavril Ironforge the Strong
 
 *Halfling Blacksmith (Commoners), Age 62, Non-binary*

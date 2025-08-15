@@ -263,3 +263,10 @@ Ongoing situations affecting Builder Coral Architect:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01286_Xander_Proudmore_the_Bold]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]

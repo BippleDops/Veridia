@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.616471
+modified: 2025-08-15T16:41:46.616475
+aliases: [NPC01263 Drusilla Nightfall the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Caelum Blackstone the Lost (Family - Sibling)|Caelum Blackstone the Lost (Family - Sibling)]]
+- [[#Cedric Zephyrblade the Wanderer (Political - Ally)|Cedric Zephyrblade the Wanderer (Political - Ally)]]
+- [[#Aldric Darkwater the Cunning (Family - Sibling)|Aldric Darkwater the Cunning (Family - Sibling)]]
+
+
+---
 aliases: ["Drusilla Nightfall the Strong", "drusilla nightfall the strong", "Drusilla Nightfall Strong", "Strong the Nightfall Drusilla"]
 tags: [npc, character]
 type: npc
@@ -255,3 +276,14 @@ Has information about legendary item
 - See also: [[deck-of-many-things-xdmg (items)]]
 - Related: [[ENC0037_Random_Encounter_38]]
 - Related: [[step_031 (phase_024)]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

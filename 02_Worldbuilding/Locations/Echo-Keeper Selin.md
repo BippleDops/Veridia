@@ -236,3 +236,7 @@ Ongoing situations affecting Echo-Keeper Selin:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]

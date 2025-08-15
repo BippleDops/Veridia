@@ -82,3 +82,8 @@ Recent developments have brought new attention to Location City Harbor Facilitie
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]

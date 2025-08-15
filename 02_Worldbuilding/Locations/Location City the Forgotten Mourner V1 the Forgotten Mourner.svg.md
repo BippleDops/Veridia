@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Forgotten Mo
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]

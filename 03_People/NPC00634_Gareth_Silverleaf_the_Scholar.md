@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.726838
+modified: 2025-08-15T16:41:46.726842
+aliases: [NPC00634 Gareth Silverleaf the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gavril Stormwind the Strong (Professional - Mentor)|Gavril Stormwind the Strong (Professional - Mentor)]]
+- [[#Idris Emberfall the Fallen (Family - Spouse)|Idris Emberfall the Fallen (Family - Spouse)]]
+- [[#Felicia Jadeclaw the Broken (Professional - Employee)|Felicia Jadeclaw the Broken (Professional - Employee)]]
+
+
+---
 aliases: ["Gareth Silverleaf the Scholar", "gareth silverleaf the scholar", "Gareth Silverleaf Scholar", "Scholar the Silverleaf Gareth"]
 tags: [npc, character]
 type: npc
@@ -248,3 +269,14 @@ Being extorted by criminals
 - See also: [[Portrait NPC High Techno Priest Lumina Skyweaver High Techno Priest Lumina Skyweaver.svg_1 (Portraits)]]
 - Originates from [[Portrait NPC Quest the Deep Alliance Quest the Deep Alliance.svg]]
 - Influences [[Assets Locations Location City Historical Societies Historical Societies.svg]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
+![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

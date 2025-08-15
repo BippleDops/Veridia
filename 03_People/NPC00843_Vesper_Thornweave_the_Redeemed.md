@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Thornweave the Redeemed
 
 *Human Caravan Master (Merchants), Age 36, Female*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.212460
+modified: 2025-08-15T16:41:41.212463
+aliases: [NPC00373 Wynne Frostwhisper the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Erasmus Youngblood the Guardian (Political - Puppet)|Erasmus Youngblood the Guardian (Political - Puppet)]]
+- [[#Faelyn Thornweave the Wanderer (Criminal - Fence)|Faelyn Thornweave the Wanderer (Criminal - Fence)]]
+- [[#Branwen Hawthorne (Criminal - Fence)|Branwen Hawthorne (Criminal - Fence)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Wynne Frostwhisper the Strong", "wynne frostwhisper the strong", "Wynne Frostwhisper Strong", "Strong the Frostwhisper Wynnetags: [npc, character, combat, magic, social, exploration, puzzle, lore]er]
 type: npc
@@ -115,7 +136,7 @@ History, Insight, Perception
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- Political alliances
+- [[Political Alliances]]
 - Upcoming social events
 
 ## Plot Hook
@@ -146,13 +167,36 @@ Seeks bodyguards for dangerous journey
 - Special moves
 
 ## Combat Stats
-Base: **Commoner** (MM p.345)
+Base: **Commoner** (BC p.345)
 Modifications:
 - HP: 34
 - AC: 13
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[Sage Elara]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC_Name_Generator.png]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[Depth_Adapted_Background]]
+- [[Faction_Relationship_Web]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[13 Conditions]]
+- [[08 Using Ability Scores]]
+- [[11 Rules Glossary]]
+- [[MOC_Lore]]
+- [[NPC00058_Elric_Nightfall]]
 - [[Related_Content]]
 
 
@@ -162,10 +206,10 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -177,7 +221,7 @@ Modifications:
 
 - Compare with [[LOC00052_Cities_Location_53]]
 - See also: [[location-city-trade-union-trade-union.svg]]
-- Requires [[Harbor Pilot Captain Storm Skyreacher 2]]
+- Requires [[[[Harbor Pilot Captain Storm Skyreacher]] 2]]
 - Influences [[step_019 (phase_046)]]
 - Influences [[The Prophecy of Tides]]
 - Connects to [[step_040 (phase_048)]]
@@ -201,7 +245,7 @@ Modifications:
 - Compare with [[step_028 (phase_014)]]
 - Leads to [[Assets Symbols Symbol Heraldry Border Checkpoints Border Checkpoints.svg]]
 - Originates from [[step_086 (phase_015)]]
-- Affected by [[Assets Locations Location City Historical Societies Historical Societies.svg]]
+- Affected by [[Assets Locations [[Location City [[Historical Societies]] Historical Societies.svg]]]]
 - Originates from [[EVENT00017_Natural_Event_18]]
 - Affected by [[Deep Adaptation Processes]]
 - Compare with [[Nonhuman Grolantor]]
@@ -209,7 +253,7 @@ Modifications:
 - Related: [[Duke Blackwater's Estate]]
 - Related: [[S-004_Cloud_Canyon]]
 - Requires [[Interfaith Dialogue]]
-- Requires [[Tide Risktaker (D&D_References)]]
+- Requires [[[[Tide Risktaker]] (D&D_References)]]
 - Parallels [[Communication_Systems]]
 - Originates from [[Master_Resots]]
 - Related: [[SHOP00044_General_Shop_45]]
@@ -217,7 +261,7 @@ Modifications:
 - Related: [[Smuggler Captain Marina Darkwater]]
 - See also: [[ENC00216_Social_Encounter_217]]
 - Leads to [[Wizard Xphb School of Necromancy]]
-- Compare with [[Assets Locations Location City Memoriam the Forgotten Continent Memoriam the Forgotten Continent.svg]]
+- Compare with [[Assets Locations [[Location City [[Memoriam]] the Forgotten Continent Memoriam the Forgotten Continent.svg]]]]
 - Originates from [[step_007 (phase_089)]]
 - Connects to [[step_021 (phase_080)]]
 - Connects to [[ITEM00934_Pure_Herb_of_Swiftness]]
@@ -231,7 +275,7 @@ Modifications:
 - Originates from [[step_056 (phase_014)]]
 - Affected by [[Information Exchanges 2]]
 - Requires [[step_099]]
-- Related: [[Assets Locations Location City Sage Currentknow V1 Sage Currentknow.svg]]
+- Related: [[Assets Locations [[Location City [[Sage Currentknow]] V1 Sage Currentknow.svg]]]]
 - See also: [[step_025 (phase_031)]]
 - Requires [[LORE00150_History_Entry_151]]
 - Related: [[Light Gardener]]
@@ -240,21 +284,21 @@ Modifications:
 - Leads to [[LORE00111_Prophecies_Entry_112]]
 - Requires [[List Spells Races Tiefling Mammon Mtf]]
 - Affected by [[NPC01196_Brenna_Underhill_the_Wise]]
-- Connects to [[The Depth Plague (D&D_References)]]
+- Connects to [[The [[Depth Plague]] (D&D_References)]]
 - Influences [[Advanced Combat Training Methods (D&D_References)]]
-- Connects to [[Portrait NPC Queen Seraphina Lumengarde Queen Seraphina Lumengarde.svg_1 (Portraits)]]
+- Connects to [[Portrait NPC Queen Seraphina [[Lumengarde]] Queen Seraphina Lumengarde.svg_1 (Portraits)]]
 - Related: [[step_030 (phase_088)]]
-- Requires [[Assets Locations Location City Fresh Cleanwave V1 Fresh Cleanwave.svg]]
+- Requires [[Assets Locations Location City [[Fresh Cleanwave]] V1 Fresh Cleanwave.svg]]
 - Leads to [[sacred-flame-xphb (spells)]]
-- Requires [[Feywild Time Warp Xdmg]]
-- Related: [[Location City Bartender Marina Dualborn Bartender Marina Dualborn.svg]]
+- Requires [[Feywild [[Time]] Warp Xdmg]]
+- Related: [[Location City [[Bartender Marina Dualborn]] Bartender Marina Dualborn.svg]]
 - Related: [[04_Resources_Assets_Symbols_symbol-heraldry-acoustic-infection-acoustic-infection.svg]]
 - Requires [[Queen Seraphina Lumengarde (D&D_References)]]
 - Requires [[bullseye-lantern-xphb (items)]]
 - Related: [[List Spells Optional Features Gift of the]]
 - Affected by [[potions-of-healing-xdmg (items)]]
-- Originates from [[Assets Locations Location City Constitutional Monarchy Constitutional Monarchy.svg]]
-- Connects to [[Assets Locations Location City Religious Religious Groups.svg]]
+- Originates from [[Assets Locations Location City [[Constitutional Monarchy]] Constitutional Monarchy.svg]]
+- Connects to [[Assets Locations Location City Religious [[Religious Groups]].svg]]
 - See also: [[locations]]
 - Related: [[LOC0040_NorthHill]]
 - Affected by [[SPELL00118_Arcane_Spell_119]]
@@ -275,3 +319,14 @@ Modifications:
 - Originates from [[The Maritime Alliance]]
 - Affected by [[step_068 (phase_029)]]
 - See also: [[step_009 (phase_007)]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

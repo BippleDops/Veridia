@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.745344
+modified: 2025-08-15T16:41:43.745346
+aliases: [NPC01228 Brenna Crystalbrook the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gavril Quicksilver the Guardian (Family - Cousin)|Gavril Quicksilver the Guardian (Family - Cousin)]]
+- [[#Dara Frostwhisper the Wise (Family - Parent)|Dara Frostwhisper the Wise (Family - Parent)]]
+- [[#Vesper Darkwater the Wanderer (Personal - Ex-lover)|Vesper Darkwater the Wanderer (Personal - Ex-lover)]]
+
+
+---
 aliases: ["Brenna Crystalbrook the Scholar", "brenna crystalbrook the scholar", "Brenna Crystalbrook Scholar", "Scholar the Crystalbrook Brenna"]
 tags: [npc, character]
 type: npc
@@ -248,3 +269,14 @@ Knows secret about major threat
 - Originates from [[step_003 (phase_065)]]
 - Affected by [[step_088 (phase_084)]]
 - Connects to [[The Observatory of Whispers]]
+
+## Visual References
+![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.037082
+modified: 2025-08-15T16:41:48.037084
+aliases: [NPC01709 Elric Thornweave the Fallen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Urien Zephyrblade the Wise (Personal - Ex-lover)|Urien Zephyrblade the Wise (Personal - Ex-lover)]]
+- [[#Hilda Hawthorne the Wanderer (Criminal - Informant)|Hilda Hawthorne the Wanderer (Criminal - Informant)]]
+- [[#Ewan Grimholt the Wanderer (Criminal - Informant)|Ewan Grimholt the Wanderer (Criminal - Informant)]]
+
+
+---
 aliases: ["Elric Thornweave the Fallen", "elric thornweave the fallen", "Elric Thornweave Fallen", "Fallen the Thornweave Elric"]
 tags: [npc, character]
 type: npc
@@ -149,3 +170,15 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

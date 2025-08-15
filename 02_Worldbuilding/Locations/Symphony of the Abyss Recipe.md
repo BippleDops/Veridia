@@ -234,3 +234,8 @@ Ongoing situations affecting Symphony of the Abyss Recipe:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Hawthorne the Lost
 
 *Genasi Assassin (Villains), Age 45, Non-binary*

@@ -353,3 +353,7 @@ Ongoing situations affecting Temporal Rescue:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.637773
+modified: 2025-08-15T16:41:45.637777
+aliases: [NPC00977 Zephyr Emberfall the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Cedric Silverleaf the Risen (Criminal - Target)|Cedric Silverleaf the Risen (Criminal - Target)]]
+- [[#Qadim Proudmore the Risen (Personal - Nemesis)|Qadim Proudmore the Risen (Personal - Nemesis)]]
+- [[#Hilda Ironforge the Redeemed (Family - Cousin)|Hilda Ironforge the Redeemed (Family - Cousin)]]
+
+
+---
 aliases: ["Zephyr Emberfall the Seeker", "zephyr emberfall the seeker", "Zephyr Emberfall Seeker", "Seeker the Emberfall Zephyr"]
 tags: [npc, character]
 type: npc
@@ -250,3 +271,14 @@ Caravan needs guards
 - Requires [[Retired Captain Bron Saltbeard (D&D_References)]]
 - Requires [[Memory Plague]]
 - Parallels [[step_072]]
+
+## Visual References
+![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
+![[03_People/portrait_zephyr_goldwhisper_standard.png]]
+![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

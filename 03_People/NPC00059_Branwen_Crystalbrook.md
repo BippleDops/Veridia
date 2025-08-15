@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.426530
+modified: 2025-08-15T16:41:43.426532
+aliases: [NPC00059 Branwen Crystalbrook]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Branwen Keenblade the Fallen (Family - Spouse)|Branwen Keenblade the Fallen (Family - Spouse)]]
+- [[#Jorah Emberfall (Criminal - Fence)|Jorah Emberfall (Criminal - Fence)]]
+- [[#Hilda Ravenheart (Professional - Employer)|Hilda Ravenheart (Professional - Employer)]]
+
+
+---
 aliases: ["Branwen Crystalbrook", "branwen crystalbrook", "Crystalbrook Branwen"]
 tags: [npc, character]
 type: npc
@@ -244,3 +269,8 @@ Wants rivals investigated
 - Influences [[LOC00283_Wilderness_Location_284]]
 - Originates from [[step_030]]
 - Originates from [[Map Map Gloom Gardens Paths V2 Gloom Gardens Paths.svg]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

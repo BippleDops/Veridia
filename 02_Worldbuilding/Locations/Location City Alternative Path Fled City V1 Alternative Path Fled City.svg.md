@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Alternative Path
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01625_Qadim_Lightbringer_the_Swift]]

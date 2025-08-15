@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Thalia Jadeclaw the Wanderer
 
 *Goliath Trader (Merchants), Age 51, Male*

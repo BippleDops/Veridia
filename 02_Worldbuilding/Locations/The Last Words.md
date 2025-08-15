@@ -383,3 +383,7 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00388_Ysara_Goldleaf]]

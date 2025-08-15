@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Faelyn Stormwind the Broken
 
 *Dwarf Fisher (Commoners), Age 18, Non-binary*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Orion Underhill the Fallen
 
 *Goliath Corrupt Noble (Villains), Age 67, Non-binary*

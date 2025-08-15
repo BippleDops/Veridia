@@ -247,3 +247,9 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]

@@ -251,3 +251,10 @@ Ongoing situations affecting Doctor Silas Voidtouch:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Voidwalker the Wanderer
 
 *Half-Orc Corrupt Noble (Villains), Age 18, Non-binary*

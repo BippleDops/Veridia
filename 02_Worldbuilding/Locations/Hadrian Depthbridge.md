@@ -239,3 +239,9 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]

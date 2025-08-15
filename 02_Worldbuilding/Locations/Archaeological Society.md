@@ -237,3 +237,8 @@ Ongoing situations affecting Archaeological Society:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00276_Ysara_Youngblood]]

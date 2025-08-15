@@ -270,3 +270,8 @@ Ongoing situations affecting Pressure Crystals:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[NPC00395_Aeliana_Thornweave]]

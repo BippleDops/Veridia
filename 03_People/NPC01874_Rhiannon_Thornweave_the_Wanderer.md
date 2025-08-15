@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.990055
+modified: 2025-08-15T16:41:42.990058
+aliases: [NPC01874 Rhiannon Thornweave the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Zephyr Thornweave the Wanderer (Political - Opposition)|Zephyr Thornweave the Wanderer (Political - Opposition)]]
+- [[#Alaric Ashford the Mystic (Political - Ally)|Alaric Ashford the Mystic (Political - Ally)]]
+- [[#Pyria Brightblade the Wanderer (Criminal - Accomplice)|Pyria Brightblade the Wanderer (Criminal - Accomplice)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Rhiannon Thornweave the Wanderer", "rhiannon thornweave the wanderer", "Rhiannon Thornweave Wanderer", "Wanderer the Thornweave Rhiannon"]
 tags: [npc, character]
@@ -151,10 +172,10 @@ Is secretly testing the party
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -264,3 +285,14 @@ Is secretly testing the party
 - Compare with [[Template-Character 2]]
 - Affected by [[The Inverse Palace (D&D_References)]]
 - Compare with [[Temple Coalition]]
+
+## Visual References
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

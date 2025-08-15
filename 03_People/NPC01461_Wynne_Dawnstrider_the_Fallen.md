@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Wynne Dawnstrider the Fallen
 
 *Half-Elf Fighter (Adventurers), Age 44, Male*

@@ -817,3 +817,9 @@ Ongoing situations affecting The Free Current:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]

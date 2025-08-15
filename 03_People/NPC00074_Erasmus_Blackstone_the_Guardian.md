@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Erasmus Blackstone the Guardian
 
 *Aasimar Ambassador (Nobles), Age 38, Female*

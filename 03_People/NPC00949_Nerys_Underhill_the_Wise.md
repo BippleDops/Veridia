@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.810257
+modified: 2025-08-15T16:41:41.810261
+aliases: [NPC00949 Nerys Underhill the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Rhiannon Lightbringer the Swift (Personal - Ex-lover)|Rhiannon Lightbringer the Swift (Personal - Ex-lover)]]
+- [[#Cedric Lightbringer the Scholar (Political - Spy)|Cedric Lightbringer the Scholar (Political - Spy)]]
+- [[#Rhiannon Ironforge the Risen (Criminal - Accomplice)|Rhiannon Ironforge the Risen (Criminal - Accomplice)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Nerys Underhill the Wise", "nerys underhill the wise", "Nerys Underhill Wise", "Wise the Underhill Nerys"]
 tags: [npc, character]
@@ -150,6 +171,15 @@ Has map to lost treasure
 - Special moves
 
 ## See Also
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Faction_Guide.md]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[10 Appendix B Creature Stat Blocks]]
 - [[Related_Content]]
 
 
@@ -159,9 +189,9 @@ Has map to lost treasure
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -271,3 +301,14 @@ Has map to lost treasure
 - Compare with [[step_095 (phase_084)]]
 - Requires [[Assets Locations Location City Lumengarde V1 Lumengarde.svg]]
 - Influences [[NPC00188_Hilda_Grimholt]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

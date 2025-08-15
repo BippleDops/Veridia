@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aeliana Hawthorne the Seeker
 
 *Dragonborn Carpenter (Commoners), Age 41, Female*

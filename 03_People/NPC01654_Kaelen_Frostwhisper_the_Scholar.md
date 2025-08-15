@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Kaelen Frostwhisper the Scholar
 
 *Human Crime Boss (Villains), Age 33, Female*

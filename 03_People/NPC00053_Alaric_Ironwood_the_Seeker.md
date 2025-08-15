@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Alaric Ironwood the Seeker
 
 *Elf Aristocrat (Nobles), Age 77, Male*

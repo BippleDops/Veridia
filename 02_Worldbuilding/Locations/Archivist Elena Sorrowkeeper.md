@@ -249,3 +249,7 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]

@@ -268,3 +268,10 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC2]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC01286_Xander_Proudmore_the_Bold]]

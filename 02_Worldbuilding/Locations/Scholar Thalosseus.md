@@ -228,3 +228,8 @@ Ongoing situations affecting Scholar Thalosseus:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[yuan-ti-pit-master-mpmm]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]

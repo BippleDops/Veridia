@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Fiora Grimholt the Fallen
 
 *Tiefling Cleric (Adventurers), Age 39, Non-binary*

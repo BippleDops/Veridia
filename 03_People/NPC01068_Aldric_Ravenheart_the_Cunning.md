@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.854462
+modified: 2025-08-15T16:41:43.854465
+aliases: [NPC01068 Aldric Ravenheart the Cunning]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Branwen Goldleaf the Seeker (Family - Parent)|Branwen Goldleaf the Seeker (Family - Parent)]]
+- [[#Elric Youngblood the Scholar (Criminal - Fence)|Elric Youngblood the Scholar (Criminal - Fence)]]
+- [[#Aeliana Winterborn the Strong (Political - Spy)|Aeliana Winterborn the Strong (Political - Spy)]]
+
+
+---
 aliases: ["Aldric Ravenheart the Cunning", "aldric ravenheart the cunning", "Aldric Ravenheart Cunning", "Cunning the Ravenheart Aldric"]
 tags: [npc, character]
 type: npc
@@ -238,3 +259,14 @@ Seeks rare merchandise
 - Connects to [[LORE00194_Legends_Entry_195]]
 - Leads to [[Coral Empress Scarletina (D&D_References)]]
 - Leads to [[dungeon-dressing-general-features (tables)]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
+![[03_People/portrait_duke_aldric_blackwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

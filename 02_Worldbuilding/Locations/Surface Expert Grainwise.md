@@ -223,3 +223,8 @@ Ongoing situations affecting Surface Expert Grainwise:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01286_Xander_Proudmore_the_Bold]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]

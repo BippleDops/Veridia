@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.099414
+modified: 2025-08-15T16:41:48.099417
+aliases: [NPC01799 Orion Quicksilver the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Xendar the Redeemed (Professional - Employer)|Thalia Xendar the Redeemed (Professional - Employer)]]
+- [[#Aeliana Nightfall the Wanderer (Personal - Love interest)|Aeliana Nightfall the Wanderer (Personal - Love interest)]]
+- [[#Pyria Ironforge the Lost (Personal - Best friend)|Pyria Ironforge the Lost (Personal - Best friend)]]
+
+
+---
 aliases: ["Orion Quicksilver the Strong", "orion quicksilver the strong", "Orion Quicksilver Strong", "Strong the Quicksilver Orion"]
 tags: [npc, character]
 type: npc
@@ -149,3 +170,15 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

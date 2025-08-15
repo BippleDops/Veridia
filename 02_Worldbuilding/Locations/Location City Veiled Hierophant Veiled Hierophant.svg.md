@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Veiled Hierophan
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00162_Xander_Thornweave]]

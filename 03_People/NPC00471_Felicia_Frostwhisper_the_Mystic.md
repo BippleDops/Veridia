@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Felicia Frostwhisper the Mystic
 
 *Half-Elf Fisher (Commoners), Age 38, Male*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Jorah Zephyrblade the Wanderer
 
 *Half-Elf Bard (Adventurers), Age 30, Male*

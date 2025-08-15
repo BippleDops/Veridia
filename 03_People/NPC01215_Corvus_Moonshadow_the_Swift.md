@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.634868
+modified: 2025-08-15T16:41:42.634872
+aliases: [NPC01215 Corvus Moonshadow the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Rhiannon Moonshadow the Bold (Family - Cousin)|Rhiannon Moonshadow the Bold (Family - Cousin)]]
+- [[#Idris Zephyrblade the Guardian (Family - Spouse)|Idris Zephyrblade the Guardian (Family - Spouse)]]
+- [[#Delara Xendar the Fallen (Family - Parent)|Delara Xendar the Fallen (Family - Parent)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Corvus Moonshadow the Swift", "corvus moonshadow the swift", "Corvus Moonshadow Swift", "Swift the Moonshadow Corvus"]
 tags: [npc, character]
@@ -140,16 +161,16 @@ Needs help with personal quest
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
 
@@ -159,8 +180,8 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -270,3 +291,14 @@ Following magic item guidelines (DMG p.135-136):
 - Affected by [[step_066]]
 - Requires [[Moderate Depth Coalition (D&D_References)]]
 - Influences [[Portrait NPC Abyssal Cathedral Abyssal Cathedral.svg_1 (Portraits)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

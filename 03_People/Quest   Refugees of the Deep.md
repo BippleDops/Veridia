@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.583230
+modified: 2025-08-15T16:41:46.583235
+aliases: [Quest   Refugees of the Deep]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Relationships|Relationships]]
+- [[#Plot Hooks|Plot Hooks]]
+- [[#Notes|Notes]]
+- [[#References|References]]
+- [[#Timeline|Timeline]]
+
+
+---
 tags: [npc, character]
 type: npc
 race: Human
@@ -16,7 +41,8 @@ Quest   Refugees of the Deep is a commoner who operates in the area. They are kn
 *Description needed*
 
 ## Personality
-- **Traits**: Professional, cautious
+- **Traits**: Professio
+*Sounds of [relevant sounds] echo in the distance.*nal, cautious
 - **Ideal**: Maintaining order and stability
 - **Bond**: Loyalty to their community
 - **Flaw**: Can be overly suspicious

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.064219
+modified: 2025-08-15T16:41:48.064223
+aliases: [NPC01876 Malakai Darkwater the Risen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aeliana Oakenshield the Wise (Criminal - Target)|Aeliana Oakenshield the Wise (Criminal - Target)]]
+- [[#Aeliana Ashford the Strong (Political - Puppet)|Aeliana Ashford the Strong (Political - Puppet)]]
+- [[#Alaric Emberfall the Wise (Family - Parent)|Alaric Emberfall the Wise (Family - Parent)]]
+
+
+---
 aliases: ["Malakai Darkwater the Risen", "malakai darkwater the risen", "Malakai Darkwater Risen", "Risen the Darkwater Malakai"]
 tags: [npc, character]
 type: npc
@@ -134,3 +155,15 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

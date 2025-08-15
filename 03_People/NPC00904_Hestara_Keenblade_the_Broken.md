@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.773156
+modified: 2025-08-15T16:41:45.773160
+aliases: [NPC00904 Hestara Keenblade the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Felicia Ironwood the Broken (Personal - Ex-lover)|Felicia Ironwood the Broken (Personal - Ex-lover)]]
+- [[#Orion Brightblade the Cunning (Criminal - Accomplice)|Orion Brightblade the Cunning (Criminal - Accomplice)]]
+- [[#Branwen Stormwind the Redeemed (Family - Parent)|Branwen Stormwind the Redeemed (Family - Parent)]]
+
+
+---
 aliases: ["Hestara Keenblade the Broken", "hestara keenblade the broken", "Hestara Keenblade Broken", "Broken the Keenblade Hestara"]
 tags: [npc, character]
 type: npc
@@ -241,3 +266,8 @@ Has map to lost treasure
 - Originates from [[QUEST00484_Side_Quest_485]]
 - Connects to [[Quest - The Currency War]]
 - Requires [[LORE00110_Prophecies_Entry_111]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

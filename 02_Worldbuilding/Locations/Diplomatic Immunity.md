@@ -269,3 +269,20 @@ Ongoing situations affecting Diplomatic Immunity:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00378_Malakai_Moonshadow_the_Broken]]
+- [[Session 3 the Skyship Heist_1 (06_Sessions)]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00395_Aeliana_Thornweave]]

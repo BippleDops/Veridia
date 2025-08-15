@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Depth Merchant S
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]

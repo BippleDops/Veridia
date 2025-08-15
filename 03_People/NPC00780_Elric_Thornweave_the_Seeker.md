@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Elric Thornweave the Seeker
 
 *Tabaxi Blacksmith (Commoners), Age 23, Male*

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.974939
+modified: 2025-08-15T16:41:47.974943
+aliases: [Pilgrim Guide Samuel Walkingfaith]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_pilgrim_guide_samuel_walkingfaith_standard.png]]
+
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Relationships|Relationships]]
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+- [[#Diaspora Improvements|Diaspora Improvements]]
+
+
+---
 
 title: Pilgrim Guide Samuel Walkingfaith
 type: Npc
@@ -264,7 +289,7 @@ ___
 - Retreats when below 25% health
 
 ## Sourcebook Reference
-> Based on **Commoner** (MM p.345) with modifications
+> Based on **Commoner** (BC p.345) with modifications
 
 ## References
 

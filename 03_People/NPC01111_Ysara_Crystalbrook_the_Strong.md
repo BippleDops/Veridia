@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ysara Crystalbrook the Strong
 
 *Dragonborn Broker (Merchants), Age 28, Male*

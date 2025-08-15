@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.843835
+modified: 2025-08-15T16:41:45.843837
+aliases: [NPC00093 Branwen Thornweave]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Baelor Crystalbrook (Professional - Mentor)|Baelor Crystalbrook (Professional - Mentor)]]
+- [[#Dara Xendar (Criminal - Informant)|Dara Xendar (Criminal - Informant)]]
+- [[#Zephyr Ravenheart (Personal - Best friend)|Zephyr Ravenheart (Personal - Best friend)]]
+
+
+---
 aliases: ["Branwen Thornweave", "branwen thornweave", "Thornweave Branwen"]
 tags: [npc, character]
 type: npc
@@ -239,3 +260,14 @@ Wants rivals investigated
 - Originates from [[step_098 (phase_005)]]
 - Originates from [[The Void Sculptors]]
 - Compare with [[step_025 (phase_042)]]
+
+## Visual References
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

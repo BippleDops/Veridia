@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Branwen Ashford the Mystic
 
 *Dwarf Carpenter (Commoners), Age 61, Male*

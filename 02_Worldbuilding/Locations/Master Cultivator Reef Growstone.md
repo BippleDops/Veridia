@@ -246,3 +246,8 @@ Ongoing situations affecting Master Cultivator Reef Growstone:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]

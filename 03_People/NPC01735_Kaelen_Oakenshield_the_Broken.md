@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Kaelen Oakenshield the Broken
 
 *Half-Elf Assassin (Villains), Age 44, Male*

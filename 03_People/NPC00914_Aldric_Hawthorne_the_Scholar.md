@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aldric Hawthorne the Scholar
 
 *Tabaxi Appraiser (Merchants), Age 67, Non-binary*

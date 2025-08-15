@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ewan Ironforge the Mystic
 
 *Half-Orc Wizard (Adventurers), Age 28, Male*

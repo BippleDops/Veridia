@@ -256,3 +256,9 @@ Ongoing situations affecting Poseidon:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Sage Elara]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00763_Urien_Brightblade_the_Broken]]

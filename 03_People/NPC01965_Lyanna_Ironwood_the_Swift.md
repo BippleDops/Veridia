@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Lyanna Ironwood the Swift
 
 *Firbolg Dark Wizard (Villains), Age 35, Female*

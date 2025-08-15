@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_shadow_parliament_standard.png]]
+
+
 ![The Shadow Parliament](../../../04_Resources/Assets/Misc/the_shadow_parliament.png)
 
 ## 🔧 Deep Evaluation Improvements

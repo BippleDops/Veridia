@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Jorah Ironforge the Lost
 
 *Tabaxi Fighter (Adventurers), Age 37, Male*

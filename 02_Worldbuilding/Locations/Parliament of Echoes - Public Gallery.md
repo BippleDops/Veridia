@@ -171,3 +171,8 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]

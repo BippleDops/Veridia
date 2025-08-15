@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.890688
+modified: 2025-08-15T16:41:47.890690
+aliases: [Captain Twin-Reality Marsh]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_captain_twin_reality_marsh_dramatic.png]]
+
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Relationships|Relationships]]
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Diaspora Improvements|Diaspora Improvements]]
+- [[#Evolution Improvements|Evolution Improvements]]
+
+
+---
 
 title: Captain Twin Reality Marsh
 type: Npc
@@ -268,4 +293,4 @@ ___
 - Retreats when below 25% health
 
 ## Sourcebook Reference
-> Based on **Commoner** (MM p.345) with modifications
+> Based on **Commoner** (BC p.345) with modifications

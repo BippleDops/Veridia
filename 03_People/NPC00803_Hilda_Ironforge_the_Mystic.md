@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.092528
+modified: 2025-08-15T16:41:44.092531
+aliases: [NPC00803 Hilda Ironforge the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aeliana Silverleaf the Lost (Personal - Nemesis)|Aeliana Silverleaf the Lost (Personal - Nemesis)]]
+- [[#Lyanna Goldleaf the Risen (Criminal - Target)|Lyanna Goldleaf the Risen (Criminal - Target)]]
+- [[#Fiora Goldleaf the Lost (Criminal - Informant)|Fiora Goldleaf the Lost (Criminal - Informant)]]
+
+
+---
 aliases: ["Hilda Ironforge the Mystic", "hilda ironforge the mystic", "Hilda Ironforge Mystic", "Mystic the Ironforge Hilda"]
 tags: [npc, character]
 type: npc
@@ -245,3 +266,14 @@ Has map to lost treasure
 - Related: [[Jackalwere Xmm]]
 - Originates from [[ENC00094_Environmental_Encounter_95]]
 - Affected by [[Rumor Mill Networ]]
+
+## Visual References
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

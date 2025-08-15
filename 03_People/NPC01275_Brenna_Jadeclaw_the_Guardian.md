@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Brenna Jadeclaw the Guardian
 
 *Dragonborn Cleric (Adventurers), Age 31, Male*

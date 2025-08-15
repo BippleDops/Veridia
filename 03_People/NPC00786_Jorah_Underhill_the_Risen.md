@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.608369
+modified: 2025-08-15T16:41:46.608374
+aliases: [NPC00786 Jorah Underhill the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Orion Dawnstrider the Broken (Professional - Rival)|Orion Dawnstrider the Broken (Professional - Rival)]]
+- [[#Hestara Ironforge the Broken (Personal - Best friend)|Hestara Ironforge the Broken (Personal - Best friend)]]
+- [[#Baelor Brightblade the Broken (Family - Spouse)|Baelor Brightblade the Broken (Family - Spouse)]]
+
+
+---
 aliases: ["Jorah Underhill the Risen", "jorah underhill the risen", "Jorah Underhill Risen", "Risen the Underhill Jorah"]
 tags: [npc, character]
 type: npc
@@ -246,3 +271,8 @@ Discovered something valuable
 - Influences [[Wand of Fireballs Xdmg]]
 - Requires [[step_037]]
 - Related: [[Portrait NPC the ... Related To: Local Political Structure Connected Plots: to Be Developed]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

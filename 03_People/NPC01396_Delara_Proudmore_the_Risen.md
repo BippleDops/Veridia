@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Delara Proudmore the Risen
 
 *Aasimar Wizard (Adventurers), Age 41, Non-binary*

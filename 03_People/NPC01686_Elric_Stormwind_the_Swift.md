@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Elric Stormwind the Swift
 
 *Elf Dark Wizard (Villains), Age 39, Female*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Fiora Ironwood the Guardian
 
 *Aasimar Fisher (Commoners), Age 46, Non-binary*

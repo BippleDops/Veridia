@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Malakai Proudmore the Swift
 
 *Gnome Ambassador (Nobles), Age 26, Non-binary*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Delara Proudmore the Cunning
 
 *Dwarf Bard (Adventurers), Age 58, Male*

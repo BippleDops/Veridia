@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Malakai Youngblood the Broken
 
 *Tabaxi Blacksmith (Commoners), Age 70, Female*

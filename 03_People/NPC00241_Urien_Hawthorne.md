@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.980173
+modified: 2025-08-15T16:41:45.980180
+aliases: [NPC00241 Urien Hawthorne]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Emberfall (Political - Opposition)|Wynne Emberfall (Political - Opposition)]]
+- [[#Aldric Ravenheart the Bold (Family - Spouse)|Aldric Ravenheart the Bold (Family - Spouse)]]
+- [[#Malakai Ironforge (Political - Ally)|Malakai Ironforge (Political - Ally)]]
+
+
+---
 aliases: ["Urien Hawthorne", "urien hawthorne", "Hawthorne Urien"]
 tags: [npc, character]
 type: npc
@@ -238,3 +263,8 @@ Needs discrete help with family scandal
 - See also: [[step_056 (phase_006)]]
 - Parallels [[NPC01722_Branwen_Oakenshield_the_Mystic]]
 - Leads to [[dwarven-abbathor-mtf (deities)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

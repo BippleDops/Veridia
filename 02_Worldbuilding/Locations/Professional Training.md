@@ -264,3 +264,8 @@ Ongoing situations affecting Professional Training:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Sage Elara]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]

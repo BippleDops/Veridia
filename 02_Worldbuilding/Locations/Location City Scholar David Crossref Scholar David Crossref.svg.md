@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Scholar David Cr
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01466_Urien_Nightfall_the_Guardian]]

@@ -1,4 +1,23 @@
 ---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:22.076772
+modified: 2025-08-15T16:41:22.076777
+aliases: [FINAL LEAN IMPROVEMENTS COMPLETE]
+---
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Secrets & Mysteries|Secrets & Mysteries]]
+- [[#Related Content|Related Content]]
+- [[#Visual References|Visual References]]
+- [[#See Also|See Also]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
+---
 enhanced: trtags: [enhanced, 09_performance, combat, exploration, lore]ce]
 created: 2025-08-15T12:24:36.095709
 modified: 2025-08-15T12:24:36.095710
@@ -28,6 +47,7 @@ publish: false --- # 🎉 Complete Lean Improvements Report Generated: ${new Dat
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 - **310,125** links analyzed across the vault
 - **9,628** existing link targets found (avoiding du
+*The air carries the scent of [appropriate smell].*
 *Sounds of [relevant sounds] echo in the distance.*plicates)
 - **8,508** backlinks added for better navigation
 - **Only 21** new notes created (saved from 25+ unnecessary files) ### Phase 2: Content Enhancement ✅ - **120** stub files expanded with meaningful content
@@ -44,7 +64,7 @@ publish: false --- # 🎉 Complete Lean Improvements Report Generated: ${new Dat
 - ✅ Appropriate structure for its type
 - ✅ Contextual information from references
 - ✅ Proper categorization and tags
-- ✅ Helpful sections ready for gameplay ### 3. **Enhanced Navigation** - ✅ Start at`[[[[Campaign_Dashboard|Campaign_Dashboard]]|Campaign_Dashboard]].md`for easy access
+- ✅ Helpful sections ready for gameplay ### 3. **Enhanced Navigation** - ✅ Start at`[[[[[[Campaign_Dashboard|Campaign_Dashboard]]|Campaign_Dashboard]]|Campaign_Dashboard]].md`for easy access
 - ✅ Browse by tags with`TAG_INDEX.md`- ✅ Category indexes for alphabetical browsing
 - ✅ Every file shows what references it ### 4. Moreover, **Preserved Vault Integrity** - ✅ No duplicate content created
 - ✅ Existing organization respected
@@ -110,21 +130,21 @@ publish: false --- # 🎉 Complete Lean Improvements Report Generated: ${new Dat
 
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Combat**: See PHB p.189-198
+- **Ability Checks**: See ACX p.174
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

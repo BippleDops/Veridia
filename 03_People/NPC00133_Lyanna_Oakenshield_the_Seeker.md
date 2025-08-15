@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.716344
+modified: 2025-08-15T16:41:41.716347
+aliases: [NPC00133 Lyanna Oakenshield the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Fiora Lightbringer (Criminal - Handler)|Fiora Lightbringer (Criminal - Handler)]]
+- [[#Elric Keenblade (Professional - Partner)|Elric Keenblade (Professional - Partner)]]
+- [[#Faelyn Frostwhisper (Professional - Partner)|Faelyn Frostwhisper (Professional - Partner)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Lyanna Oakenshield the Seeker", "lyanna oakenshield the seeker", "Lyanna Oakenshield Seeker", "Seeker the Oakenshield Lyanna"]
 tags: [npc, character]
@@ -146,6 +167,21 @@ Requires champions for trial by combat
 - Special moves
 
 ## See Also
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Parliamentary_Voting_Guide]]
+- [[Combat_Encounter_Analysis]]
+- [[Character_Journals]]
+- [[Reference.md]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[10 Combat]]
+- [[Measurement_Guide_Depth_and_Pressur]]
 - [[Related_Content]]
 
 
@@ -155,10 +191,10 @@ Requires champions for trial by combat
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -268,3 +304,14 @@ Requires champions for trial by combat
 - Influences [[Portrait NPC the Seven Seals V2 the Seven Seals.svg_1 (Portraits)]]
 - Originates from [[Crimson Velocity]]
 - Compare with [[The Anonymous Protocol]]
+
+## Visual References
+![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
+![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
+![[03_People/portrait_captain_lyanna_brightshield.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -82,3 +82,8 @@ Recent developments have brought new attention to Location City Sage Currentknow
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]

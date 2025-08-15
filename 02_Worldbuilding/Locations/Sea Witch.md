@@ -250,3 +250,8 @@ Ongoing situations affecting Sea Witch:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00453_Idris_Grimholt]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]

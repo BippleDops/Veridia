@@ -246,3 +246,8 @@ Ongoing situations affecting Warrior Thane Visionward:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]

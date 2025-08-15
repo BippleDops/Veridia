@@ -246,3 +246,8 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]

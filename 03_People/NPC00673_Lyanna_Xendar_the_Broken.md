@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.889593
+modified: 2025-08-15T16:41:45.889598
+aliases: [NPC00673 Lyanna Xendar the Broken]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Solas Ashford the Risen (Criminal - Fence)|Solas Ashford the Risen (Criminal - Fence)]]
+- [[#Gareth Ravenheart the Guardian (Political - Opposition)|Gareth Ravenheart the Guardian (Political - Opposition)]]
+- [[#Faelyn Nightfall the Scholar (Family - Spouse)|Faelyn Nightfall the Scholar (Family - Spouse)]]
+
+
+---
 aliases: ["Lyanna Xendar the Broken", "lyanna xendar the broken", "Lyanna Xendar Broken", "Broken the Xendar Lyanna"]
 tags: [npc, character]
 type: npc
@@ -242,3 +263,14 @@ Discovered something valuable
 - Compare with [[centaur-trooper-xmm]]
 - Compare with [[step_024 (phase_049)]]
 - Requires [[Illumination Crysta 2]]
+
+## Visual References
+![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
+![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
+![[03_People/portrait_captain_lyanna_brightshield.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

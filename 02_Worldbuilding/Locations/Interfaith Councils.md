@@ -246,3 +246,7 @@ Ongoing situations affecting Interfaith Councils:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]

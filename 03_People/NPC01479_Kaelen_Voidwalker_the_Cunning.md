@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.296413
+modified: 2025-08-15T16:41:42.296416
+aliases: [NPC01479 Kaelen Voidwalker the Cunning]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Branwen Goldleaf the Risen (Criminal - Fence)|Branwen Goldleaf the Risen (Criminal - Fence)]]
+- [[#Aeliana Ravenheart the Wise (Political - Patron)|Aeliana Ravenheart the Wise (Political - Patron)]]
+- [[#Nerys Stormwind the Broken (Personal - Nemesis)|Nerys Stormwind the Broken (Personal - Nemesis)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Kaelen Voidwalker the Cunning", "kaelen voidwalker the cunning", "Kaelen Voidwalker Cunning", "Cunning the Voidwalker Kaelen"]
 tags: [npc, character]
@@ -154,21 +175,21 @@ Knows secret about major threat
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Player's Handbook (PHB) p.251
-- Xanathar's Guide to Everything (XGE) p.281
-- Volo's Guide to Monsters (VGM) p.1
+- Adventurer's Codex (ACX) p.251
+- Xanathar's Secrets Revealed to Everything (XSR) p.281
+- Volo's Creature Catalog to Monsters (VCC) p.1
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -176,9 +197,9 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -288,3 +309,14 @@ Following magic item guidelines (DMG p.135-136):
 - Connects to [[False Breather 2]]
 - Influences [[step_068 (phase_048)]]
 - Connects to [[step_069 (phase_020)]]
+
+## Visual References
+![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
+![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
+![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

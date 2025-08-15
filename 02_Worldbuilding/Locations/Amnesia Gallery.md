@@ -167,3 +167,9 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]

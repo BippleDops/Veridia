@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.802788
+modified: 2025-08-15T16:41:45.802791
+aliases: [NPC00063 Aeliana Goldleaf the Broken]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Baelor Lightbringer (Personal - Nemesis)|Baelor Lightbringer (Personal - Nemesis)]]
+- [[#Kaelen Silverleaf (Professional - Mentor)|Kaelen Silverleaf (Professional - Mentor)]]
+- [[#Gareth Blackstone (Political - Opposition)|Gareth Blackstone (Political - Opposition)]]
+
+
+---
 aliases: ["Aeliana Goldleaf the Broken", "aeliana goldleaf the broken", "Aeliana Goldleaf Broken", "Broken the Goldleaf Aeliana"]
 tags: [npc, character]
 type: npc
@@ -249,3 +270,14 @@ Wants rivals investigated
 - Requires [[Assets Symbols Symbol Heraldry Consortium Security Constructs Consortium Security Constructs.svg]]
 - Requires [[MON00001_Aberrations_Creature_2]]
 - Influences [[NPC01648_Delara_Ashford_the_Redeemed]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_dramatic.png]]
+![[03_People/portrait_lady_seraphina_goldleaf_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

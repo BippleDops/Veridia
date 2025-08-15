@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.936513
+modified: 2025-08-15T16:41:47.936516
+aliases: [NPC00641 Vesper Zephyrblade the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ewan Oakenshield the Fallen (Professional - Employer)|Ewan Oakenshield the Fallen (Professional - Employer)]]
+- [[#Zephyr Silverleaf the Lost (Professional - Rival)|Zephyr Silverleaf the Lost (Professional - Rival)]]
+- [[#Erasmus Ironwood the Wanderer (Family - Sibling)|Erasmus Ironwood the Wanderer (Family - Sibling)]]
+
+
+---
 aliases: ["Vesper Zephyrblade the Guardian", "vesper zephyrblade the guardian", "Vesper Zephyrblade Guardian", "Guardian the Zephyrblade Vesper"]
 tags: [npc, character]
 type: npc
@@ -143,3 +164,15 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
+![[03_People/portrait_the_crimson_shard_guardian.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

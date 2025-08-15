@@ -133,3 +133,8 @@ Recent developments have brought new attention to The Silent Watcher, creating o
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[The Silent Watcher 2]]

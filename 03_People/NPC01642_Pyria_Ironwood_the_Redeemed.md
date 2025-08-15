@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Pyria Ironwood the Redeemed
 
 *Firbolg Dark Wizard (Villains), Age 24, Female*

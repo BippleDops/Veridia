@@ -226,3 +226,8 @@ Ongoing situations affecting Tidal Runner Nerissa:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00378_Malakai_Moonshadow_the_Broken]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]

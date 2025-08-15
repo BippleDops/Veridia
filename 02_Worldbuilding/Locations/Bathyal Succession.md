@@ -285,3 +285,7 @@ Ongoing situations affecting Bathyal Succession:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00872_Thalia_Ironwood_the_Broken]]

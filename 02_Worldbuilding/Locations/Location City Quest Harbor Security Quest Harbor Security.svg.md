@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Quest Harbor Sec
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01812_Xander_Lightbringer_the_Swift]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Faelyn Jadeclaw the Cunning
 
 *Half-Elf Farmer (Commoners), Age 22, Male*

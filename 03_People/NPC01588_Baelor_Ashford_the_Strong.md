@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.400821
+modified: 2025-08-15T16:41:45.400827
+aliases: [NPC01588 Baelor Ashford the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Grimholt the Guardian (Political - Ally)|Ysara Grimholt the Guardian (Political - Ally)]]
+- [[#Rhiannon Jadeclaw the Strong (Political - Ally)|Rhiannon Jadeclaw the Strong (Political - Ally)]]
+- [[#Vesper Hawthorne the Strong (Political - Spy)|Vesper Hawthorne the Strong (Political - Spy)]]
+
+
+---
 aliases: ["Baelor Ashford the Strong", "baelor ashford the strong", "Baelor Ashford Strong", "Strong the Ashford Baelor"]
 tags: [npc, character]
 type: npc
@@ -240,3 +261,14 @@ Knows secret about major threat
 - Parallels [[NPC00831_Hilda_Youngblood_the_Strong]]
 - Requires [[Purist Coalition 2]]
 - Related: [[step_018 (phase_071)]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_00_indexes_master_index_standard.png]]
+
+
 # 00_Indexes/Master_Index
 
 ## Basic Information

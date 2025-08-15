@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hestara Underhill the Wanderer
 
 *Aasimar Noble (Nobles), Age 62, Non-binary*

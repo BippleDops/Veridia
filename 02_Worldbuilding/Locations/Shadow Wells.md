@@ -342,3 +342,8 @@ Ongoing situations affecting Shadow Wells:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]

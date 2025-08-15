@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Jorah Ironwood the Cunning
 
 *Elf Ranger (Adventurers), Age 47, Female*

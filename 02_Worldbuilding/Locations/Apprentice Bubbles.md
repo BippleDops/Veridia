@@ -223,3 +223,7 @@ Ongoing situations affecting Apprentice Bubbles:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00415_Gareth_Winterborn_the_Bold]]

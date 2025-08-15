@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Zephyr Thornweave the Guardian
 
 *Half-Orc Corrupt Noble (Villains), Age 67, Female*

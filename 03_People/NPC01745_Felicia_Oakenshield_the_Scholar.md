@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.631036
+modified: 2025-08-15T16:41:41.631039
+aliases: [NPC01745 Felicia Oakenshield the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Rhiannon Emberfall the Mystic (Professional - Employer)|Rhiannon Emberfall the Mystic (Professional - Employer)]]
+- [[#Solas Ashford the Scholar (Criminal - Informant)|Solas Ashford the Scholar (Criminal - Informant)]]
+- [[#Caelum Quicksilver the Fallen (Personal - Childhood friend)|Caelum Quicksilver the Fallen (Personal - Childhood friend)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Felicia Oakenshield the Scholar", "felicia oakenshield the scholar", "Felicia Oakenshield Scholar", "Scholar the Oakenshield Felicia"]
 tags: [npc, character]
@@ -151,6 +172,32 @@ Blackmails party into service
 - Special moves
 
 ## See Also
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01113_Solas_Ravenheart_the_Cunning]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[Party_Inventory]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[Combat_Encounter_Analysis]]
+- [[07 Customization Options]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[11 Rules Glossary]]
+- [[MOC_Items]]
+- [[MASTER_MOC]]
 - [[Related_Content]]
 
 
@@ -160,9 +207,9 @@ Blackmails party into service
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -272,3 +319,14 @@ Blackmails party into service
 - Leads to [[step_053 (phase_076)]]
 - Connects to [[The Informant 2]]
 - Requires [[step_068 (phase_020)]]
+
+## Visual References
+![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.235416
+modified: 2025-08-15T16:41:48.235418
+aliases: [NPC00172 Urien Zephyrblade the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Xander Winterborn the Cunning (Political - Patron)|Xander Winterborn the Cunning (Political - Patron)]]
+- [[#Faelyn Xendar the Cunning (Personal - Ex-lover)|Faelyn Xendar the Cunning (Personal - Ex-lover)]]
+- [[#Faelyn Ashford (Political - Patron)|Faelyn Ashford (Political - Patron)]]
+
+
+---
 aliases: ["Urien Zephyrblade the Lost", "urien zephyrblade the lost", "Urien Zephyrblade Lost", "Lost the Zephyrblade Urien"]
 tags: [npc, character]
 type: npc
@@ -147,3 +168,15 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

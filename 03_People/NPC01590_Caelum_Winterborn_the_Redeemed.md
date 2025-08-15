@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.346569
+modified: 2025-08-15T16:41:42.346572
+aliases: [NPC01590 Caelum Winterborn the Redeemed]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Vesper Crystalbrook the Cunning (Family - Child)|Vesper Crystalbrook the Cunning (Family - Child)]]
+- [[#Baelor Emberfall the Bold (Criminal - Accomplice)|Baelor Emberfall the Bold (Criminal - Accomplice)]]
+- [[#Branwen Emberfall the Swift (Political - Spy)|Branwen Emberfall the Swift (Political - Spy)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Caelum Winterborn the Redeemed", "caelum winterborn the redeemed", "Caelum Winterborn Redeemed", "Redeemed the Winterborn Caelum"]
 tags: [npc, character]
@@ -161,19 +182,19 @@ Knows secret about major threat
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Xanathar's Guide to Everything (XGE) p.222
+- Xanathar's Secrets Revealed to Everything (XSR) p.222
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -181,9 +202,9 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -293,3 +314,14 @@ Following magic item guidelines (DMG p.135-136):
 - Related: [[step_074 (phase_093)]]
 - Affected by [[The Progressive Coalition]]
 - Related: [[step_086]]
+
+## Visual References
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

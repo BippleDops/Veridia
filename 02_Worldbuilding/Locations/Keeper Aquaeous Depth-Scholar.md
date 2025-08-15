@@ -220,3 +220,8 @@ Mentioned in The Hidden Prophecy of Shadows
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]

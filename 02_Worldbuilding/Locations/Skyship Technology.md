@@ -246,3 +246,7 @@ Ongoing situations affecting Skyship Technology:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]

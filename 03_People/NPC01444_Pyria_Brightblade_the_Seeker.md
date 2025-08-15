@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Pyria Brightblade the Seeker
 
 *Tabaxi Fighter (Adventurers), Age 48, Female*

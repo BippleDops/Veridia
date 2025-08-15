@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Dara Dawnstrider the Broken
 
 *Gnome Cleric (Adventurers), Age 42, Male*

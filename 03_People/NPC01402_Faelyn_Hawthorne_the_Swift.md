@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.394747
+modified: 2025-08-15T16:41:46.394750
+aliases: [NPC01402 Faelyn Hawthorne the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Dara Frostwhisper the Broken (Political - Opposition)|Dara Frostwhisper the Broken (Political - Opposition)]]
+- [[#Lyanna Quicksilver the Redeemed (Political - Puppet)|Lyanna Quicksilver the Redeemed (Political - Puppet)]]
+- [[#Xander Moonshadow the Seeker (Family - Cousin)|Xander Moonshadow the Seeker (Family - Cousin)]]
+
+
+---
 aliases: ["Faelyn Hawthorne the Swift", "faelyn hawthorne the swift", "Faelyn Hawthorne Swift", "Swift the Hawthorne Faelyn"]
 tags: [npc, character]
 type: npc
@@ -244,3 +265,14 @@ Forming expedition to dangerous location
 - Parallels [[blessing-of-magic-resistance-xdmg (rewards)]]
 - Related: [[ENC00466_Combat_Encounter_467]]
 - Parallels [[step_025 (phase_023)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

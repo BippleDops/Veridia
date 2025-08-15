@@ -23,6 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 ![Cultural Mediatio](../../../04_Resources/Assets/Misc/cultural_mediatio.png)
 
 ## 🔧 Deep Evaluation Improvements

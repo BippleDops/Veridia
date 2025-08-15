@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.956457
+modified: 2025-08-15T16:41:46.956461
+aliases: [Memory Merchant Valeria Siltweave]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_memory_merchant_valeria_siltweave.png]]
+
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Relationships|Relationships]]
+- [[#Motivations|Motivations]]
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+
+
+---
 
 title: Memory Merchant Valeria Siltweave
 type: Npc

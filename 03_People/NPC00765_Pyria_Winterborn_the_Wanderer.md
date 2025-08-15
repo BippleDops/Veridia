@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.737330
+modified: 2025-08-15T16:41:43.737332
+aliases: [NPC00765 Pyria Winterborn the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Qadim Dawnstrider the Wise (Personal - Nemesis)|Qadim Dawnstrider the Wise (Personal - Nemesis)]]
+- [[#Qadim Darkwater the Strong (Professional - Rival)|Qadim Darkwater the Strong (Professional - Rival)]]
+- [[#Lyanna Ashford the Broken (Professional - Employee)|Lyanna Ashford the Broken (Professional - Employee)]]
+
+
+---
 aliases: ["Pyria Winterborn the Wanderer", "pyria winterborn the wanderer", "Pyria Winterborn Wanderer", "Wanderer the Winterborn Pyria"]
 tags: [npc, character]
 type: npc
@@ -239,3 +260,14 @@ Discovered something valuable
 - Requires [[Labor Organization (Operations)]]
 - See also: [[Assets Locations Location City Navigator Flux Timewalker V1 Navigator Flux Timewalker.svg]]
 - See also: [[step_041]]
+
+## Visual References
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

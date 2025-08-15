@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Elric Goldleaf the Redeemed
 
 *Human Cultist (Villains), Age 55, Female*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.592698
+modified: 2025-08-15T16:41:46.592701
+aliases: [NPC00964 Hilda Darkwater the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Orion Crystalbrook the Bold (Professional - Employee)|Orion Crystalbrook the Bold (Professional - Employee)]]
+- [[#Baelor Brightblade the Mystic (Family - Spouse)|Baelor Brightblade the Mystic (Family - Spouse)]]
+- [[#Gareth Blackstone the Fallen (Professional - Employer)|Gareth Blackstone the Fallen (Professional - Employer)]]
+
+
+---
 aliases: ["Hilda Darkwater the Lost", "hilda darkwater the lost", "Hilda Darkwater Lost", "Lost the Darkwater Hilda"]
 tags: [npc, character]
 type: npc
@@ -245,3 +266,14 @@ Has map to lost treasure
 - Leads to [[tiger-eye-xdmg (items)]]
 - Requires [[Mystery_Framework]]
 - Connects to [[Throne of Bubbles (People)]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

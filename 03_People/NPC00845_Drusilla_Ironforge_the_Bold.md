@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Drusilla Ironforge the Bold
 
 *Gnome Caravan Master (Merchants), Age 25, Male*

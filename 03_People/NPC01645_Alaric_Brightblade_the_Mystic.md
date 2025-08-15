@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Alaric Brightblade the Mystic
 
 *Half-Elf Dark Wizard (Villains), Age 69, Non-binary*

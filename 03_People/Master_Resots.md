@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_master_resots_friendly.png]]
+
+
 # Master Resots
 
 ## Basic Information

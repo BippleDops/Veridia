@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.903828
+modified: 2025-08-15T16:41:47.903831
+aliases: [NPC00156 Gareth Winterborn the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Ironwood (Family - Parent)|Wynne Ironwood (Family - Parent)]]
+- [[#Aldric Crystalbrook (Personal - Love interest)|Aldric Crystalbrook (Personal - Love interest)]]
+- [[#Fiora Hawthorne (Family - Cousin)|Fiora Hawthorne (Family - Cousin)]]
+
+
+---
 aliases: ["Gareth Winterborn the Guardian", "gareth winterborn the guardian", "Gareth Winterborn Guardian", "Guardian the Winterborn Gareth"]
 tags: [npc, character]
 type: npc
@@ -140,3 +161,15 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
+![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

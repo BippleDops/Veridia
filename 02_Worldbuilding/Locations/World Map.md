@@ -26,6 +26,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Map
+![[04_Resources/Assets/Maps/location_world_map_rain.png]]
+
+
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-world-map-v1-world-map.svg)
 
@@ -250,3 +254,8 @@ Ongoing situations affecting World Map:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]

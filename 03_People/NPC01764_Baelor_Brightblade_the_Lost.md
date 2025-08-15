@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.219997
+modified: 2025-08-15T16:41:43.220001
+aliases: [NPC01764 Baelor Brightblade the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aldric Proudmore the Wanderer (Criminal - Handler)|Aldric Proudmore the Wanderer (Criminal - Handler)]]
+- [[#Ysara Xendar the Wanderer (Criminal - Fence)|Ysara Xendar the Wanderer (Criminal - Fence)]]
+- [[#Kaelen Emberfall the Scholar (Family - Spouse)|Kaelen Emberfall the Scholar (Family - Spouse)]]
+
+
+---
 aliases: ["Baelor Brightblade the Lost", "baelor brightblade the lost", "Baelor Brightblade Lost", "Lost the Brightblade Baelor"]
 tags: [npc, character]
 type: npc
@@ -241,3 +262,14 @@ Provides information for a price
 - See also: [[step_073 (phase_067)]]
 - Originates from [[elven-melira-taralen-mtf (deities)]]
 - Influences [[Location City Void Touched Pilgrims V1 Void Touched Pilgrims.svg]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

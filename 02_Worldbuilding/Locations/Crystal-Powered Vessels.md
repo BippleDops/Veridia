@@ -237,3 +237,8 @@ Ongoing situations affecting Crystal-Powered Vessels:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]

@@ -247,3 +247,8 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]

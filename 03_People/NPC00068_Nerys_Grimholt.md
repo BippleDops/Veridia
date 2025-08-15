@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.104058
+modified: 2025-08-15T16:41:43.104060
+aliases: [NPC00068 Nerys Grimholt]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Jorah Winterborn (Political - Patron)|Jorah Winterborn (Political - Patron)]]
+- [[#Rhiannon Brightblade the Wanderer (Criminal - Handler)|Rhiannon Brightblade the Wanderer (Criminal - Handler)]]
+- [[#Aeliana Ashford (Political - Puppet)|Aeliana Ashford (Political - Puppet)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Nerys Grimholt", "nerys grimholt", "Grimholt Nerys"]
 tags: [npc, character]
@@ -152,8 +177,8 @@ Requires champions for trial by combat
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -263,3 +288,8 @@ Requires champions for trial by combat
 - Compare with [[Quasit Xmm]]
 - Leads to [[Broom of Flying Xdmg]]
 - Originates from [[Assets Locations Location City Concierge Phillip Gracewater V1 Concierge Phillip Gracewater.svg]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

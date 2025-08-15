@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Thalia Dawnstrider the Guardian
 
 *Genasi Appraiser (Merchants), Age 39, Non-binary*

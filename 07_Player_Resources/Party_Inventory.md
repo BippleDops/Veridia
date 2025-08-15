@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:39.622302
+modified: 2025-08-15T16:41:39.622308
+aliases: [Party Inventory]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#Connection Improvements|Connection Improvements]]
+- [[#Enhancement Improvements|Enhancement Improvements]]
+- [[#Shared Items|Shared Items]]
+- [[#Related|Related]]
+- [[#DM Notes|DM Notes]]
+- [[#Secret Connections|Secret Connections]]
+- [[#See Also|See Also]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+
+
+---
 title: Party_Inventory
 type: note
 tags:
@@ -58,18 +79,46 @@ modified: '2025-08-14'
 > Additional context or lore
 
 ## See Also
+- [[Sage Elara]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[Party_Quests]]
+- [[Shared_Lore]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Basic_Rules]]
+- [[Combat_Encounter_Analysis]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[Reputation_Tracker]]
+- [[13 Conditions]]
+- [[09 Adventuring]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[05 Personality and Background]]
+- [[10 Combat]]
+- [[Character_Journal_Template]]
 - [[Related_Content]]
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -173,3 +222,8 @@ modified: '2025-08-14'
 - Affected by [[step_062]]
 - See also: [[Realm Authorities]]
 - Related: [[LORE00266_History_Entry_267]]
+
+## Visual References
+![[03_People/portrait_the_party.png]]
+![[02_Worldbuilding/locations/location_inverted_ballroom_wing_party_quarters_interior.png]]
+![[02_Worldbuilding/locations/location_inverted_ballroom_wing_party_quarters_rain.png]]

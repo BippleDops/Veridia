@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.942257
+modified: 2025-08-15T16:41:43.942259
+aliases: [NPC01957 Urien Darkwater the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Baelor Darkwater the Redeemed (Family - Child)|Baelor Darkwater the Redeemed (Family - Child)]]
+- [[#Qadim Thornweave the Bold (Professional - Rival)|Qadim Thornweave the Bold (Professional - Rival)]]
+- [[#Corvus Underhill the Broken (Personal - Best friend)|Corvus Underhill the Broken (Personal - Best friend)]]
+
+
+---
 aliases: ["Urien Darkwater the Bold", "urien darkwater the bold", "Urien Darkwater Bold", "Bold the Darkwater Urien"]
 tags: [npc, character]
 type: npc
@@ -251,3 +272,14 @@ Blackmails party into service
 - Originates from [[Marilith Xmm]]
 - Compare with [[SPELL00164_Nature_Spell_165]]
 - Parallels [[LOC00029_Cities_Location_30]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

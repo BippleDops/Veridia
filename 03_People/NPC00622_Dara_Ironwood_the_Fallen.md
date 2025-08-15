@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.312953
+modified: 2025-08-15T16:41:42.312958
+aliases: [NPC00622 Dara Ironwood the Fallen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aeliana Crystalbrook the Wanderer (Personal - Nemesis)|Aeliana Crystalbrook the Wanderer (Personal - Nemesis)]]
+- [[#Thalia Jadeclaw the Bold (Family - Spouse)|Thalia Jadeclaw the Bold (Family - Spouse)]]
+- [[#Orion Voidwalker the Bold (Family - Sibling)|Orion Voidwalker the Bold (Family - Sibling)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Dara Ironwood the Fallen", "dara ironwood the fallen", "Dara Ironwood Fallen", "Fallen the Ironwood Dara"]
 tags: [npc, character]
@@ -153,9 +174,9 @@ Being extorted by criminals
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -265,3 +286,14 @@ Being extorted by criminals
 - Requires [[ITEM00635_Fortified_Cloak_of_Resistance]]
 - Related: [[QUEST00355_Side_Quest_356]]
 - Influences [[Senior Temporal Engineer Chronos Fieldwright 2]]
+
+## Visual References
+![[03_People/portrait_captain_dara_ironwill_friendly.png]]
+![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
+![[03_People/portrait_captain_dara_ironwill_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

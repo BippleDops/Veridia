@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Qadim Winterborn the Bold
 
 *Gnome Fisher (Commoners), Age 66, Non-binary*

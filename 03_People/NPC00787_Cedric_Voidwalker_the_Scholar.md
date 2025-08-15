@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Cedric Voidwalker the Scholar
 
 *Halfling Fisher (Commoners), Age 68, Non-binary*

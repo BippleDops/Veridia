@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aeliana Ironwood the Wise
 
 *Tabaxi Noble (Nobles), Age 64, Non-binary*

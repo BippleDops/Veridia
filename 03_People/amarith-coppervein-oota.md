@@ -8,7 +8,11 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
---- # amarith-coppervein-oota ---
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+ # amarith-coppervein-oota ---
 
 ## Description
 

@@ -243,3 +243,7 @@ Ongoing situations affecting Grief Counseling:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01283_Corvus_Hawthorne_the_Fallen]]

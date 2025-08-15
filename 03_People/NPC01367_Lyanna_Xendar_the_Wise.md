@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.516083
+modified: 2025-08-15T16:41:40.516088
+aliases: [NPC01367 Lyanna Xendar the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gareth Moonshadow the Guardian (Political - Ally)|Gareth Moonshadow the Guardian (Political - Ally)]]
+- [[#Ysara Brightblade the Broken (Political - Puppet)|Ysara Brightblade the Broken (Political - Puppet)]]
+- [[#Gavril Ashford the Guardian (Family - Cousin)|Gavril Ashford the Guardian (Family - Cousin)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Lyanna Xendar the Wise", "lyanna xendar the wise", "Lyanna Xendar Wise", "Wise the Xendar Lyannatags: [npc, character, combat, magic, exploration, puzzle, lore]er]
 type: npc
@@ -149,7 +170,7 @@ Needs help with personal quest
 - Special moves
 
 ## Combat Stats
-Base: **Priest** (MM p.348)
+Base: **Priest** (BC p.348)
 Modifications:
 - HP: 26
 - AC: 15
@@ -160,6 +181,34 @@ Modifications:
 > Important safety or rule information
 
 ## See Also
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[Marcus Shardbreaker Grimm_1]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[Party_Quests]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Parliamentary_Voting_Guide]]
+- [[Sanity Quick Reference]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[09 Appendix a the Multiverse]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[10 Combat]]
+- [[11 Rules Glossary]]
 - [[Related_Content]]
 
 
@@ -169,10 +218,10 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -182,21 +231,21 @@ Modifications:
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -208,7 +257,7 @@ Modifications:
 - Influences [[step_061 (phase_093)]]
 - Compare with [[04_Resources_Assets_Locations_location-city-futures-master-economic-sense-futures-master-economic-sense.svg]]
 - Parallels [[step_071 (phase_047)]]
-- Leads to [[Location City Interfaith Cooperation V1 Interfaith Cooperation.svg]]
+- Leads to [[Location City [[Interfaith Cooperation]] V1 Interfaith Cooperation.svg]]
 - Leads to [[EVENT00044_Natural_Event_45]]
 - Originates from [[Blood Spear Cos]]
 - Requires [[damage-roll-xphb (variant-rules)]]
@@ -216,12 +265,12 @@ Modifications:
 - Requires [[Vehicle Ship Trench Lantern Surveyor V1 Trench Lantern Surveyor.svg]]
 - Related: [[Sorcerer Xphb Aberrant Sorcery Xphb]]
 - Affected by [[step_045 (phase_043)]]
-- See also: [[Assets Locations Location City Shadow Market Canals Shadow Market Canals.svg]]
+- See also: [[Assets Locations [[Location City [[Shadow Market Canals]] Shadow Market Canals.svg]]]]
 - Influences [[Playing Cards Xphb]]
-- Requires [[Assets Locations Location City Chief Engineer Vera Steamheart V1 Chief Engineer Vera Steamheart.svg]]
-- Requires [[Assets Locations Location City Ancient Crystal Technology Ancient Crystal Technology.svg]]
+- Requires [[Assets Locations Location City [[Chief Engineer Vera Steamheart]] V1 Chief Engineer Vera Steamheart.svg]]
+- Requires [[Assets Locations Location City [[Ancient Crystal Technology]] Ancient Crystal Technology.svg]]
 - Related: [[location-city-the-eel-keepers-the-eel-keepers.svg]]
-- Connects to [[Assets Locations Location City Deep Mother Zealots Deep Mother Zealots.svg]]
+- Connects to [[Assets Locations [[Location City [[Deep Mother Zealots]] Deep Mother Zealots.svg]]]]
 - Originates from [[The Current Readers]]
 - Originates from [[Giant Seahorse Xmm]]
 - Leads to [[List Spells School Abjuration]]
@@ -231,11 +280,11 @@ Modifications:
 - Connects to [[NPC01077_Rhiannon_Zephyrblade_the_Guardian]]
 - Requires [[step_049 (phase_023)]]
 - Compare with [[Location City Futures Master Economic Sense V1 Futures Master Economic Sense.svg]]
-- Affected by [[Location City the Neutral Current Tavern the Neutral Current Tavern.svg]]
+- Affected by [[Location City the Neutral Current [[Tavern]] [[The Neutral Current Tavern]].svg]]
 - Affected by [[LORE0059_Secret_of_the_Lost_City]]
 - Affected by [[Wizard Xphb School of Enchantment]]
 - Requires [[Rush of the Gale Spirits]]
-- Originates from [[Golden Coral (D&D_References)]]
+- Originates from [[[[Golden Coral]] (D&D_References)]]
 - Connects to [[Red Dragon Scale Mail Xdmg]]
 - Connects to [[portrait-npc-the-wake-v2-the-wake.svg_1 (Portraits)]]
 - Leads to [[step_019 (phase_005)]]
@@ -255,8 +304,8 @@ Modifications:
 - Related: [[Session 2 - The Crystal Fever]]
 - Influences [[step_042]]
 - Parallels [[QUEST00107_Personal_Quest_108]]
-- Influences [[Assets Locations Location City Plague Crisis V1 Plague Crisis.png]]
-- Affected by [[Assets Locations Location City Keeper Aquaeous Depth Scholar V1 Keeper Aquaeous Depth Scholar.svg]]
+- Influences [[Assets Locations Location City [[Plague Crisis]] V1 Plague Crisis.png]]
+- Affected by [[Assets Locations [[Location City Keeper Aquaeous Depth Scholar V1 Keeper Aquaeous Depth Scholar.svg]]]]
 - Compare with [[step_092 (phase_070)]]
 - Influences [[ITEM01014_Superior_Incense_of_Clarity]]
 - Compare with [[step_018_create_audio_recommendations]]
@@ -271,7 +320,7 @@ Modifications:
 - Related: [[pushing-attack-xphb]]
 - Connects to [[Portrait NPC Quest the Pretender Quest the Pretender.svg]]
 - Requires [[Shadow Resonance Scanning]]
-- Influences [[Location City the Coral Palace Complex V1 the Coral Palace Complex.svg]]
+- Influences [[Location City [[The Coral Palace Complex]] V1 the Coral Palace Complex.svg]]
 - Originates from [[Ancient Crystal Technology (D&D_References)]]
 - Influences [[Speedy Xphb]]
 - Related: [[Lieutenant Marcu (D&D_References)]]
@@ -280,12 +329,12 @@ Modifications:
 - Parallels [[step_017]]
 - Connects to [[ITEM00395_Frost_Dagger_of_Speed]]
 - Affected by [[Infiltrate Surgical Facilities (Lore)]]
-- Compare with [[Assets Locations Location City Finn Deepmarket V1 Finn Deepmarket.svg]]
+- Compare with [[Assets Locations Location City [[Finn Deepmarket]] V1 Finn Deepmarket.svg]]
 - See also: [[Item Mastery]]
 - Originates from [[Session 4 Smuggler Base_1 (06_Sessions)]]
 - Related: [[Nonhuman Laogzed]]
 - Requires [[step_011 (phase_098)]]
-- Parallels [[Assets Locations Location City Chef Gastropod Chef Gastropod.svg]]
+- Parallels [[Assets Locations Location City [[Chef Gastropod]] Chef Gastropod.svg]]
 - See also: [[chain-shirt-xphb (items)]]
 - Originates from [[Masque Charm Scc]]
 - Requires [[LORE00034_History_Entry_35]]
@@ -294,9 +343,20 @@ Modifications:
 - Parallels [[traps-hazards (traps-hazards)]]
 - Requires [[The Love Token]]
 - Related: [[LOC00095_Dungeons_Location_96]]
-- Influences [[Assets Locations Location City Pressure Responsive Fabrics V1 Pressure Responsive Fabrics.svg]]
-- See also: [[Location City Doctor Silas Voidtouch V1 Doctor Silas Voidtouch.svg]]
+- Influences [[Assets Locations [[Location City Pressure Responsive Fabrics V1 Pressure Responsive Fabrics.svg]]]]
+- See also: [[Location City [[Doctor Silas Voidtouch]] V1 Doctor Silas Voidtouch.svg]]
 - Connects to [[The Paradox Constitution (D&D_References)]]
 - Connects to [[Ethics Review Board Chairman]]
 - Connects to [[giant-wasp-xmm (beast)]]
 - See also: [[step_087 (phase_034)]]
+
+## Visual References
+![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
+![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
+![[03_People/portrait_captain_lyanna_brightshield.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

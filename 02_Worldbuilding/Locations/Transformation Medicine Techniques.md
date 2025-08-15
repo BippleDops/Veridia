@@ -259,3 +259,9 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]

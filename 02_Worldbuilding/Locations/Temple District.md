@@ -250,3 +250,7 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]

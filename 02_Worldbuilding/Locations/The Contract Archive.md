@@ -163,3 +163,7 @@ Ongoing situations affecting The Contract Archive:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00259_Delara_Proudmore]]

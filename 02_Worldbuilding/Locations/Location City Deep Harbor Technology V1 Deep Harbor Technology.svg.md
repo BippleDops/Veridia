@@ -82,3 +82,8 @@ Recent developments have brought new attention to Location City Deep Harbor Tech
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Archdruid Thornweaver]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]

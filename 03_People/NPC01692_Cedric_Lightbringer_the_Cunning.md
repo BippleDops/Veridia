@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.263559
+modified: 2025-08-15T16:41:46.263561
+aliases: [NPC01692 Cedric Lightbringer the Cunning]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Drusilla Ironforge the Broken (Personal - Nemesis)|Drusilla Ironforge the Broken (Personal - Nemesis)]]
+- [[#Hestara Quicksilver the Wise (Family - Parent)|Hestara Quicksilver the Wise (Family - Parent)]]
+- [[#Fiora Oakenshield the Scholar (Professional - Mentor)|Fiora Oakenshield the Scholar (Professional - Mentor)]]
+
+
+---
 aliases: ["Cedric Lightbringer the Cunning", "cedric lightbringer the cunning", "Cedric Lightbringer Cunning", "Cunning the Lightbringer Cedric"]
 tags: [npc, character]
 type: npc
@@ -243,3 +264,14 @@ Provides information for a price
 - Related: [[Creature Creature Violet Fungus Xmm V3 Violet Fungus Xmm.png]]
 - Affected by [[step_057 (phase_021)]]
 - Connects to [[Minister Nightpolicy (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

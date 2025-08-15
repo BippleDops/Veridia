@@ -212,3 +212,9 @@ Ongoing situations affecting Artistic Communities:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]

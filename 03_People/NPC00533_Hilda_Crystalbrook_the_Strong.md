@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.132185
+modified: 2025-08-15T16:41:46.132189
+aliases: [NPC00533 Hilda Crystalbrook the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hestara Xendar the Seeker (Political - Opposition)|Hestara Xendar the Seeker (Political - Opposition)]]
+- [[#Branwen Ironforge the Guardian (Professional - Rival)|Branwen Ironforge the Guardian (Professional - Rival)]]
+- [[#Orion Youngblood the Lost (Family - Cousin)|Orion Youngblood the Lost (Family - Cousin)]]
+
+
+---
 aliases: ["Hilda Crystalbrook the Strong", "hilda crystalbrook the strong", "Hilda Crystalbrook Strong", "Strong the Crystalbrook Hilda"]
 tags: [npc, character]
 type: npc
@@ -167,7 +188,7 @@ Discovered something valuable
 - Influences [[step_092 (phase_012)]]
 - Parallels [[Assets Locations Location City Whisper Touched William Whisper Touched William.svg]]
 - Requires [[step_098 (phase_029)]]
-- Related: [[COMPLETE_SYSTEM_SUMMARY]]
+- Related: [[COMPLETE_SYSTEM_SUBCARY]]
 - Connects to [[Duke Lysander Crystalvein]]
 - Influences [[Scarlet Torrent 2]]
 - Influences [[Magical_Mishaps]]
@@ -247,3 +268,14 @@ Discovered something valuable
 - Influences [[step_012 (phase_066)]]
 - Leads to [[Dr. Marina Truthsight]]
 - See also: [[Legal Scholar Professor Depth Lawkeeper 2]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Cathedral of Lig
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01989_Erasmus_Xendar_the_Strong]]

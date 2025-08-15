@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.010773
+modified: 2025-08-15T16:41:44.010776
+aliases: [NPC00311 Erasmus Winterborn the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Urien Hawthorne the Swift (Family - Parent)|Urien Hawthorne the Swift (Family - Parent)]]
+- [[#Baelor Silverleaf (Family - Parent)|Baelor Silverleaf (Family - Parent)]]
+- [[#Erasmus Ironforge the Wise (Personal - Ex-lover)|Erasmus Ironforge the Wise (Personal - Ex-lover)]]
+
+
+---
 aliases: ["Erasmus Winterborn the Strong", "erasmus winterborn the strong", "Erasmus Winterborn Strong", "Strong the Winterborn Erasmus"]
 tags: [npc, character]
 type: npc
@@ -249,3 +270,14 @@ Needs discrete help with family scandal
 - See also: [[Assets Vehicles Vehicle Ship Crown Council Flagship Crown Council Flagship.svg]]
 - See also: [[Symbol Heraldry Minister Truth Darknes Minister Truth Darknes.svg]]
 - Compare with [[Comprehend Languages Xphb]]
+
+## Visual References
+![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
+![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
+![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

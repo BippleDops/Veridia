@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.822398
+modified: 2025-08-15T16:41:47.822401
+aliases: [NPC01586 Kaelen Proudmore the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Ironforge the Wise (Political - Spy)|Alaric Ironforge the Wise (Political - Spy)]]
+- [[#Kaelen Grimholt the Scholar (Criminal - Target)|Kaelen Grimholt the Scholar (Criminal - Target)]]
+- [[#Erasmus Stormwind the Mystic (Personal - Nemesis)|Erasmus Stormwind the Mystic (Personal - Nemesis)]]
+
+
+---
 aliases: ["Kaelen Proudmore the Lost", "kaelen proudmore the lost", "Kaelen Proudmore Lost", "Lost the Proudmore Kaelen"]
 tags: [npc, character]
 type: npc
@@ -135,3 +156,15 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

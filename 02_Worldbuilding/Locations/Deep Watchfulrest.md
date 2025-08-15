@@ -248,3 +248,10 @@ Ongoing situations affecting Deep Watchfulrest:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]

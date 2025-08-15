@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Ironforge the Cunning
 
 *Gnome Dark Wizard (Villains), Age 49, Male*

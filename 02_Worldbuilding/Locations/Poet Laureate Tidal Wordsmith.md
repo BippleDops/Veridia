@@ -244,3 +244,9 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00494_Lyanna_Hawthorne_the_Guardian]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]

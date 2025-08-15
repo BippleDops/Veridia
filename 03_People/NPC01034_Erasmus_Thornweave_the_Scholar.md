@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Erasmus Thornweave the Scholar
 
 *Gnome Caravan Master (Merchants), Age 49, Male*

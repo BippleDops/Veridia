@@ -253,3 +253,7 @@ Ongoing situations affecting Palace Artificers:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00922_Wynne_Youngblood_the_Fallen]]

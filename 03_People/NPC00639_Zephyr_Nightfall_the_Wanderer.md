@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Zephyr Nightfall the Wanderer
 
 *Half-Elf Carpenter (Commoners), Age 69, Non-binary*

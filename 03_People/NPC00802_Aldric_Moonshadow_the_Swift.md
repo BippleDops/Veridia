@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aldric Moonshadow the Swift
 
 *Human Shopkeeper (Merchants), Age 73, Female*

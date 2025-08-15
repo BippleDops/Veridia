@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.455952
+modified: 2025-08-15T16:41:46.455958
+aliases: [NPC00547 Branwen Jadeclaw the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Rhiannon Jadeclaw the Mystic (Personal - Love interest)|Rhiannon Jadeclaw the Mystic (Personal - Love interest)]]
+- [[#Drusilla Darkwater the Cunning (Political - Ally)|Drusilla Darkwater the Cunning (Political - Ally)]]
+- [[#Faelyn Underhill the Fallen (Professional - Employer)|Faelyn Underhill the Fallen (Professional - Employer)]]
+
+
+---
 aliases: ["Branwen Jadeclaw the Guardian", "branwen jadeclaw the guardian", "Branwen Jadeclaw Guardian", "Guardian the Jadeclaw Branwen"]
 tags: [npc, character]
 type: npc
@@ -252,3 +273,14 @@ Family member has gone missing
 - Affected by [[magic-item-table-b (tables)]]
 - Requires [[Quest - The Crystal Festival_1 (01_Adventures)]]
 - Influences [[Erinyes Xmm]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
+![[03_People/portrait_the_crimson_shard_guardian.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

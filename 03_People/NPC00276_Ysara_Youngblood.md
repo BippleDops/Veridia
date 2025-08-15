@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.886242
+modified: 2025-08-15T16:41:40.886245
+aliases: [NPC00276 Ysara Youngblood]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Jorah Goldleaf the Wise (Political - Spy)|Jorah Goldleaf the Wise (Political - Spy)]]
+- [[#Orion Thornweave the Seeker (Professional - Employer)|Orion Thornweave the Seeker (Professional - Employer)]]
+- [[#Wynne Hawthorne (Criminal - Handler)|Wynne Hawthorne (Criminal - Handler)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Ysara Youngblood", "ysara youngblood", "Youngblood Ysaratags: [npc, character, combat, magic, social, puzzle, lore]er]
 type: npc
@@ -18,7 +39,7 @@ type: npc
 ## Appearance
 Very tall and delicate, with Mohawk white hair and Gray eyes. Scarred skin. Constantly changing hair color.
 
-**Clothing**: Merchant's outfit with many hidden pockets
+**Clothing**: [[Merchant]]'s outfit with many hidden pockets
 **Accessories**: Decorated dagger
 
 ## Personality
@@ -96,7 +117,7 @@ Deception, History, Insight
 - Dagger: +6 to hit, 1d4+1 damage
 
 ### Special Abilities
-- Diplomatic Immunity: Cannot be arrested without evidence
+- [[Diplomatic Immunity]]: Cannot be arrested without evidence
 - Diplomatic Immunity: Cannot be arrested without evidence
 
 ## Possessions
@@ -119,7 +140,7 @@ Deception, History, Insight
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- Political alliances
+- [[Political Alliances]]
 - Upcoming social events
 
 ## Plot Hook
@@ -150,13 +171,33 @@ Wants rivals investigated
 - Special moves
 
 ## Combat Stats
-Base: **Commoner** (MM p.345)
+Base: **Commoner** (BC p.345)
 Modifications:
 - HP: 34
 - AC: 14
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00287_Ysara_Underhill_the_Wise]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[World_Primer.md]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[11 Spellcasting]]
+- [[11 Rules Glossary]]
+- [[MOC_Items]]
+- [[NPC00046_Urien_Ironwood_the_Wise]]
 - [[Related_Content]]
 
 
@@ -166,8 +207,8 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -203,10 +244,10 @@ Modifications:
 - Affected by [[Existence Erosion]]
 - Affected by [[Finn Worldwalker (D&D_References)]]
 - Compare with [[Terrestrial Coalition (D&D_References)]]
-- Originates from [[INDEX (Waterdeep_Dragon_Heist)]]
+- Originates from [[[[INDEX]] (Waterdeep_Dragon_Heist)]]
 - Requires [[Young Diver Coral Swiftcurrent (D&D_References)]]
 - Leads to [[step_073 (phase_046)]]
-- Related: [[Memory Sanctity Laws 2]]
+- Related: [[[[Memory Sanctity Laws]] 2]]
 - See also: [[Expedition to the Sunless Depths]]
 - Related: [[The Crystal Express 2]]
 - Affected by [[vicious-mockery-xphb (spells)]]
@@ -229,25 +270,25 @@ Modifications:
 - Connects to [[Enlarge Reduce Xphb]]
 - Connects to [[Community Resource Sharing (D&D_References)]]
 - Leads to [[step_098 (phase_030)]]
-- Influences [[Assets Locations Location City Diplomatic Dining Protocol V1 Diplomatic Dining Protocol.svg]]
+- Influences [[Assets Locations Location City [[Diplomatic Dining Protocol]] V1 Diplomatic Dining Protocol.svg]]
 - Requires [[MON00070_Aberrations_Creature_71]]
 - Connects to [[step_090 (phase_075)]]
 - See also: [[LOC00063_Towns_Location_64]]
 - Requires [[The Memory Weapon Vault (D&D_References)]]
 - See also: [[NPC00130_Aldric_Oakenshield]]
-- Connects to [[Assets Locations Location City the Threshold Chambers the Threshold Chambers.svg]]
+- Connects to [[Assets Locations Location City [[The Threshold Chambers]] the Threshold Chambers.svg]]
 - Compare with [[supplemental-tables-alignment-xge (tables)]]
 - Influences [[Quantum Compromise Protocols (D&D_References)]]
 - Originates from [[Island of Screams]]
 - Leads to [[SHOP00040_General_Shop_41]]
-- Originates from [[Assets Locations Location City Harbor Pilot Captain Storm Skyreacher Harbor Pilot Captain Storm Skyreacher.svg]]
+- Originates from [[Assets Locations Location City [[Harbor Pilot Captain Storm Skyreacher]] Harbor Pilot Captain Storm Skyreacher.svg]]
 - Related: [[MON00072_Constructs_Creature_73]]
 - Parallels [[level-based-renown-xdmg (tables)]]
-- Compare with [[Assets Locations Location City Archaeological Society V1 Archaeological Society.svg]]
+- Compare with [[Assets Locations Location City [[Archaeological Society]] V1 Archaeological Society.svg]]
 - Affected by [[erupting-earth-xge (spells)]]
 - Originates from [[Memory Farmers]]
 - Requires [[forgotten-realms-ilmater (deities)]]
-- Requires [[Assets Locations Location City Chancellor Octavius Chancellor Octavius.svg]]
+- Requires [[Assets Locations [[Location City [[Chancellor Octavius]] Chancellor Octavius.svg]]]]
 - Parallels [[ITEM00935_Pure_Potion_of_Vigor]]
 - Requires [[step_047 (phase_058)]]
 - Parallels [[step_055]]
@@ -259,14 +300,14 @@ Modifications:
 - Influences [[Student Researcher Brightwater (D&D_References)]]
 - Requires [[Symbol Heraldry the Echo Succession V1 the Echo Succession.svg]]
 - See also: [[Portrait NPC Ice Kingdom Spirits V1 Ice Kingdom Spirits.svg_1 (Portraits)]]
-- Originates from [[Downtime Activity Crafting an Item Xge]]
+- Originates from [[Down[[Time]] Activity Crafting an Item Xge]]
 - Compare with [[step_074 (phase_022)]]
 - Leads to [[Symbol Heraldry Sis... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Related: [[step_005 (phase_081)]]
 - Originates from [[Lady Nexus Goldstream]]
 - Leads to [[NPC00169_Aldric_Zephyrblade_the_Wise]]
 - Leads to [[Location City Quest Portal Conspiracy V1 Quest Portal Conspiracy.svg]]
-- Related: [[Memorial Current 2]]
+- Related: [[[[Memorial Current]] 2]]
 - Parallels [[step_057]]
 - Affected by [[location-city-sea-sprite-sea-sprite.svg]]
 - Connects to [[Convergence Crisis Scenarios Index]]
@@ -277,3 +318,14 @@ Modifications:
 - Related: [[aspect-of-the-moon-xge (optional-features)]]
 - Connects to [[guard-drake-black-mpmm (dragon)]]
 - Affected by [[step_030 (phase_014)]]
+
+## Visual References
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

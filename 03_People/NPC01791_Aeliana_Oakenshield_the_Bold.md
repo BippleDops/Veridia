@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aeliana Oakenshield the Bold
 
 *Elf Corrupt Noble (Villains), Age 31, Female*

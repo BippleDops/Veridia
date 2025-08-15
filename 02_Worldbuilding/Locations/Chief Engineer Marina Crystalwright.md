@@ -244,3 +244,8 @@ Ongoing situations affecting Chief Engineer Marina Crystalwright:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]

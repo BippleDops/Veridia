@@ -248,3 +248,7 @@ Ongoing situations affecting Veiled Hierophant:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00162_Xander_Thornweave]]

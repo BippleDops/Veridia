@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Alaric Dawnstrider the Redeemed
 
 *Dwarf Baker (Commoners), Age 70, Female*

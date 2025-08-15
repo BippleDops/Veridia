@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Ewan Hawthorne the Wanderer
 
 *Goliath Wizard (Adventurers), Age 66, Non-binary*

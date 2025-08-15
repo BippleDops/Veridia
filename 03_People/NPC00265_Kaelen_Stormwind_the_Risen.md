@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Kaelen Stormwind the Risen
 
 *Tabaxi Ambassador (Nobles), Age 41, Male*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ewan Voidwalker the Swift
 
 *Tiefling Ranger (Adventurers), Age 73, Female*

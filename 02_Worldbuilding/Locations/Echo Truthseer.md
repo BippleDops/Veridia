@@ -264,3 +264,7 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[yuan-ti-pit-master-mpmm]]

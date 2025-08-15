@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.849779
+modified: 2025-08-15T16:41:41.849785
+aliases: [NPC01602 Dara Ashford the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Solas Ashford the Fallen (Professional - Mentor)|Solas Ashford the Fallen (Professional - Mentor)]]
+- [[#Jorah Nightfall the Swift (Personal - Best friend)|Jorah Nightfall the Swift (Personal - Best friend)]]
+- [[#Qadim Crystalbrook the Risen (Family - Cousin)|Qadim Crystalbrook the Risen (Family - Cousin)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Dara Ashford the Seeker", "dara ashford the seeker", "Dara Ashford Seeker", "Seeker the Ashford Dara"]
 tags: [npc, character]
@@ -151,6 +172,46 @@ Blackmails party into service
 - Special moves
 
 ## See Also
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00080_Branwen_Proudmore]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[NPC01276_Erasmus_Keenblade_the_Wanderer]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[NPC01939_Orion_Nightfall_the_Bold]]
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
+- [[Pilgrim_Pass_Prayer_Sli]]
+- [[Depth_Adapted_Background]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Quick_Start_Guide.md]]
+- [[Wanted_Poster_Syndicate_Fenc]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[MOC_Lore]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
+- [[11 Rules Glossary]]
 - [[Related_Content]]
 
 
@@ -160,10 +221,10 @@ Blackmails party into service
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -273,3 +334,14 @@ Blackmails party into service
 - Parallels [[LOC00278_Planes_Location_279]]
 - Parallels [[step_020 (phase_091)]]
 - Leads to [[LORE00124_History_Entry_125]]
+
+## Visual References
+![[03_People/portrait_captain_dara_ironwill_friendly.png]]
+![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
+![[03_People/portrait_captain_dara_ironwill_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

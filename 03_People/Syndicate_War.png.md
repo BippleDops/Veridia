@@ -15,6 +15,10 @@ type: npc
 updated: 2025-08-14
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_syndicate_war_dramatic.png]]
+
+
 # Syndicate_War.png
 
 ## Overview

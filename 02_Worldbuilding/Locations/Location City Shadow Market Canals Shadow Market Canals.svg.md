@@ -82,3 +82,8 @@ Recent developments have brought new attention to Location City Shadow Market Ca
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]

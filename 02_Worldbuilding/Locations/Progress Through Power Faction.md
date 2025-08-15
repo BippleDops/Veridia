@@ -240,3 +240,7 @@ Ongoing situations affecting Progress Through Power Faction:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01286_Xander_Proudmore_the_Bold]]

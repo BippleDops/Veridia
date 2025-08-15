@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Independent Shadow Cell](../../../04_Resources/Assets/Misc/independent_shadow_cell.png)
 
 ## 🔧 Deep Evaluation Improvements

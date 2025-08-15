@@ -487,3 +487,7 @@ Crystal Caverns was established in the distant past, growing from humble beginni
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[yuan-ti-pit-master-mpmm]]

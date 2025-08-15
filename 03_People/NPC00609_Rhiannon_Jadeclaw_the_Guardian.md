@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Rhiannon Jadeclaw the Guardian
 
 *Human Baker (Commoners), Age 22, Non-binary*

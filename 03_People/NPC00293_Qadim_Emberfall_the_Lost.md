@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.940212
+modified: 2025-08-15T16:41:46.940216
+aliases: [NPC00293 Qadim Emberfall the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Qadim Brightblade the Scholar (Criminal - Accomplice)|Qadim Brightblade the Scholar (Criminal - Accomplice)]]
+- [[#Xander Goldleaf (Political - Puppet)|Xander Goldleaf (Political - Puppet)]]
+- [[#Gavril Oakenshield the Strong (Personal - Nemesis)|Gavril Oakenshield the Strong (Personal - Nemesis)]]
+
+
+---
 aliases: ["Qadim Emberfall the Lost", "qadim emberfall the lost", "Qadim Emberfall Lost", "Lost the Emberfall Qadim"]
 tags: [npc, character]
 type: npc
@@ -242,3 +263,14 @@ Requires champions for trial by combat
 - See also: [[creature-creature-bat-xmm-v1-bat-xmm.png]]
 - Originates from [[otherworldly-steed-fey-xphb (fey)]]
 - Influences [[location-city-royal-quarters-v1-royal-quarters.svg]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

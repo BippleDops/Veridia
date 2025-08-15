@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.761536
+modified: 2025-08-15T16:41:43.761541
+aliases: [NPC01863 Caelum Ironwood the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Brightblade the Wanderer (Political - Opposition)|Corvus Brightblade the Wanderer (Political - Opposition)]]
+- [[#Urien Frostwhisper the Strong (Political - Ally)|Urien Frostwhisper the Strong (Political - Ally)]]
+- [[#Drusilla Goldleaf the Mystic (Criminal - Fence)|Drusilla Goldleaf the Mystic (Criminal - Fence)]]
+
+
+---
 aliases: ["Caelum Ironwood the Strong", "caelum ironwood the strong", "Caelum Ironwood Strong", "Strong the Ironwood Caelum"]
 tags: [npc, character]
 type: npc
@@ -248,3 +269,14 @@ Is secretly testing the party
 - Affected by [[Session 4 Battle Above Clouds]]
 - Parallels [[step_011 (phase_038)]]
 - Leads to [[portrait-npc-tenebrarum-v2-tenebrarum.svg_1 (Portraits)]]
+
+## Visual References
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

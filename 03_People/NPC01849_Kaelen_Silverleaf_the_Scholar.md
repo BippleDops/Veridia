@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.826819
+modified: 2025-08-15T16:41:41.826823
+aliases: [NPC01849 Kaelen Silverleaf the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Xander Nightfall the Fallen (Political - Patron)|Xander Nightfall the Fallen (Political - Patron)]]
+- [[#Aldric Darkwater the Lost (Professional - Employer)|Aldric Darkwater the Lost (Professional - Employer)]]
+- [[#Rhiannon Proudmore the Seeker (Personal - Nemesis)|Rhiannon Proudmore the Seeker (Personal - Nemesis)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Kaelen Silverleaf the Scholar", "kaelen silverleaf the scholar", "Kaelen Silverleaf Scholar", "Scholar the Silverleaf Kaelen"]
 tags: [npc, character]
@@ -154,6 +175,38 @@ Is secretly testing the party
 - Special moves
 
 ## See Also
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC00207_Ysara_Ravenheart]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC00237_Vesper_Ashford_the_Bold]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[Depth_Adapted_Background]]
+- [[Player_Portal.md]]
+- [[Ancient_Prophecy_Fragment_Verdan]]
+- [[Downtime_Activities]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[07 Customization Options]]
+- [[Session_Recaps]]
+- [[05 Personality and Background]]
+- [[08 Using Ability Scores]]
+- [[16 Credits]]
+- [[10 Combat]]
+- [[Character_Journal_Template]]
+- [[13 Conditions]]
 - [[Related_Content]]
 
 
@@ -163,10 +216,10 @@ Is secretly testing the party
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -276,3 +329,14 @@ Is secretly testing the party
 - Leads to [[ITEM00968_Superior_Incense_of_Vigor]]
 - Related: [[step_011]]
 - Related: [[10-combat#Being Prone]]
+
+## Visual References
+![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

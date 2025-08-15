@@ -261,3 +261,7 @@ Ongoing situations affecting Blood Coral:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00287_Ysara_Underhill_the_Wise]]

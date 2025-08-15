@@ -211,3 +211,8 @@ Ongoing situations affecting Palace Security Chief:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]

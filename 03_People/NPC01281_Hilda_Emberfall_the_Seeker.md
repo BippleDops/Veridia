@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hilda Emberfall the Seeker
 
 *Dragonborn Rogue (Adventurers), Age 45, Male*

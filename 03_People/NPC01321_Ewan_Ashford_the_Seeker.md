@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.130419
+modified: 2025-08-15T16:41:44.130422
+aliases: [NPC01321 Ewan Ashford the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Caelum Thornweave the Broken (Political - Puppet)|Caelum Thornweave the Broken (Political - Puppet)]]
+- [[#Ysara Jadeclaw the Broken (Personal - Love interest)|Ysara Jadeclaw the Broken (Personal - Love interest)]]
+- [[#Zephyr Brightblade the Bold (Personal - Nemesis)|Zephyr Brightblade the Bold (Personal - Nemesis)]]
+
+
+---
 aliases: ["Ewan Ashford the Seeker", "ewan ashford the seeker", "Ewan Ashford Seeker", "Seeker the Ashford Ewan"]
 tags: [npc, character]
 type: npc
@@ -215,7 +236,7 @@ Forming expedition to dangerous location
 - See also: [[ITEM00919_Superior_Salve_of_Vigor]]
 - Originates from [[Assets Vehicles Vehicle Ship Hybrid Rift Runner Sloop Hybrid Rift Runner Sloop.png]]
 - Compare with [[spell-gem-lapis-lazuli-oota (items)]]
-- See also: [[Monster Manual Reference (Lore)]]
+- See also: [[Bestiary Compendium Reference (Lore)]]
 - Requires [[Deepwater Banking Consortium (D&D_References)]]
 - Parallels [[QUEST0096_Investigate_the_Cult]]
 - Requires [[SHOP00027_Specialty_Shop_28]]
@@ -242,3 +263,14 @@ Forming expedition to dangerous location
 - Parallels [[Nonhuman Bahamut]]
 - Influences [[psychic-blade-xphb (items)]]
 - Compare with [[Portrait NPC Pilgrim Guide Samuel Walkingfaith V1 Pilgrim Guide Samuel Walkingfaith.svg_1 (Portraits)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

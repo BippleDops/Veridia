@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.655838
+modified: 2025-08-15T16:41:41.655841
+aliases: [NPC00927 Aldric Ironwood the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Brenna Moonshadow the Fallen (Family - Child)|Brenna Moonshadow the Fallen (Family - Child)]]
+- [[#Xander Proudmore the Seeker (Criminal - Target)|Xander Proudmore the Seeker (Criminal - Target)]]
+- [[#Jorah Voidwalker the Lost (Criminal - Informant)|Jorah Voidwalker the Lost (Criminal - Informant)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Aldric Ironwood the Wanderer", "aldric ironwood the wanderer", "Aldric Ironwood Wanderer", "Wanderer the Ironwood Aldric"]
 tags: [npc, character]
@@ -135,6 +156,14 @@ Competitor sabotaging business
 - Special moves
 
 ## See Also
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[10 Combat]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
 - [[Related_Content]]
 
 
@@ -144,9 +173,9 @@ Competitor sabotaging business
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -256,3 +285,14 @@ Competitor sabotaging business
 - Leads to [[step_040]]
 - Influences [[Assets Locations Location City the Screaming Battleground V1 the Screaming Battleground.svg]]
 - Requires [[step_046 (phase_046)]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
+![[03_People/portrait_duke_aldric_blackwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.770358
+modified: 2025-08-15T16:41:42.770361
+aliases: [NPC00692 Thalia Emberfall the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ewan Darkwater the Redeemed (Personal - Childhood friend)|Ewan Darkwater the Redeemed (Personal - Childhood friend)]]
+- [[#Idris Keenblade the Wanderer (Family - Sibling)|Idris Keenblade the Wanderer (Family - Sibling)]]
+- [[#Fiora Jadeclaw the Strong (Professional - Partner)|Fiora Jadeclaw the Strong (Professional - Partner)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Thalia Emberfall the Seeker", "thalia emberfall the seeker", "Thalia Emberfall Seeker", "Seeker the Emberfall Thalia"]
 tags: [npc, character]
@@ -156,8 +177,8 @@ Family member has gone missing
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -267,3 +288,14 @@ Family member has gone missing
 - Requires [[2d6]]
 - Compare with [[step_019]]
 - Leads to [[step_078 (phase_084)]]
+
+## Visual References
+![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

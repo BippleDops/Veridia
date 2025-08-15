@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.011484
+modified: 2025-08-15T16:41:48.011486
+aliases: [NPC01525 Rhiannon Emberfall the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Jorah Voidwalker the Strong (Political - Opposition)|Jorah Voidwalker the Strong (Political - Opposition)]]
+- [[#Idris Stormwind the Redeemed (Personal - Love interest)|Idris Stormwind the Redeemed (Personal - Love interest)]]
+- [[#Kaelen Proudmore the Redeemed (Criminal - Handler)|Kaelen Proudmore the Redeemed (Criminal - Handler)]]
+
+
+---
 aliases: ["Rhiannon Emberfall the Scholar", "rhiannon emberfall the scholar", "Rhiannon Emberfall Scholar", "Scholar the Emberfall Rhiannon"]
 tags: [npc, character]
 type: npc
@@ -133,3 +154,15 @@ Knows secret about major threat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

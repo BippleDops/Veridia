@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.843001
+modified: 2025-08-15T16:41:46.843004
+aliases: [NPC00565 Qadim Blackstone the Redeemed]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Rhiannon Silverleaf the Swift (Personal - Best friend)|Rhiannon Silverleaf the Swift (Personal - Best friend)]]
+- [[#Qadim Emberfall the Scholar (Political - Ally)|Qadim Emberfall the Scholar (Political - Ally)]]
+- [[#Erasmus Emberfall the Broken (Criminal - Target)|Erasmus Emberfall the Broken (Criminal - Target)]]
+
+
+---
 aliases: ["Qadim Blackstone the Redeemed", "qadim blackstone the redeemed", "Qadim Blackstone Redeemed", "Redeemed the Blackstone Qadim"]
 tags: [npc, character]
 type: npc
@@ -242,3 +267,8 @@ Being extorted by criminals
 - Originates from [[Shard Powers and Effects]]
 - Related: [[Trade Networks 2]]
 - See also: [[step_058]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.998322
+modified: 2025-08-15T16:41:42.998326
+aliases: [NPC00409 Solas Underhill the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Urien Blackstone the Risen (Personal - Childhood friend)|Urien Blackstone the Risen (Personal - Childhood friend)]]
+- [[#Gareth Zephyrblade (Personal - Childhood friend)|Gareth Zephyrblade (Personal - Childhood friend)]]
+- [[#Delara Underhill (Political - Puppet)|Delara Underhill (Political - Puppet)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Solas Underhill the Lost", "solas underhill the lost", "Solas Underhill Lost", "Lost the Underhill Solas"]
 tags: [npc, character]
@@ -143,8 +164,8 @@ Family member has gone missing
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -254,3 +275,14 @@ Family member has gone missing
 - Leads to [[Location City Diplomatic Deepcurrent Diplomatic Deepcurrent.svg]]
 - Influences [[Anti-Religious Philosophical Arguments]]
 - Originates from [[Location City Harbormaster Creedence Tidereader Harbormaster Creedence Tidereader.svg]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

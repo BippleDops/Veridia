@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.386447
+modified: 2025-08-15T16:41:46.386451
+aliases: [NPC01798 Idris Thornweave the Redeemed]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Branwen Silverleaf the Strong (Personal - Ex-lover)|Branwen Silverleaf the Strong (Personal - Ex-lover)]]
+- [[#Brenna Grimholt the Wise (Personal - Love interest)|Brenna Grimholt the Wise (Personal - Love interest)]]
+- [[#Cedric Oakenshield the Strong (Political - Ally)|Cedric Oakenshield the Strong (Political - Ally)]]
+
+
+---
 aliases: ["Idris Thornweave the Redeemed", "idris thornweave the redeemed", "Idris Thornweave Redeemed", "Redeemed the Thornweave Idris"]
 tags: [npc, character]
 type: npc
@@ -251,3 +272,14 @@ Provides information for a price
 - Requires [[step_035]]
 - Originates from [[step_002 (phase_042)]]
 - Parallels [[Captain Harmony Tidereader (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

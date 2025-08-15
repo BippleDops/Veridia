@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Bone Colosse
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]

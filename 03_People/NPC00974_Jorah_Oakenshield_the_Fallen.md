@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.337109
+modified: 2025-08-15T16:41:43.337112
+aliases: [NPC00974 Jorah Oakenshield the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Urien Silverleaf the Wise (Criminal - Target)|Urien Silverleaf the Wise (Criminal - Target)]]
+- [[#Gareth Youngblood the Bold (Political - Opposition)|Gareth Youngblood the Bold (Political - Opposition)]]
+- [[#Delara Frostwhisper the Broken (Political - Opposition)|Delara Frostwhisper the Broken (Political - Opposition)]]
+
+
+---
 aliases: ["Jorah Oakenshield the Fallen", "jorah oakenshield the fallen", "Jorah Oakenshield Fallen", "Fallen the Oakenshield Jorah"]
 tags: [npc, character]
 type: npc
@@ -241,3 +266,8 @@ Seeks rare merchandise
 - Requires [[NPC00884_Idris_Grimholt_the_Redeemed]]
 - See also: [[Portrait NPC the Void Watchers Shrines V2 the Void Watchers Shrines.svg]]
 - Related: [[NPC01048_Delara_Underhill_the_Risen]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

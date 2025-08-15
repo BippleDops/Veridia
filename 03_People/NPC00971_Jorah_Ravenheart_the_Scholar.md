@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Jorah Ravenheart the Scholar
 
 *Dwarf Shopkeeper (Merchants), Age 76, Non-binary*

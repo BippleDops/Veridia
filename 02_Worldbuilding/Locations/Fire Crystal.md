@@ -220,3 +220,8 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00237_Vesper_Ashford_the_Bold]]
+- [[NPC00453_Idris_Grimholt]]

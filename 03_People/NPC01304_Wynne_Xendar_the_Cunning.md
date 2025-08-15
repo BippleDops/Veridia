@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Wynne Xendar the Cunning
 
 *Tiefling Fighter (Adventurers), Age 29, Non-binary*

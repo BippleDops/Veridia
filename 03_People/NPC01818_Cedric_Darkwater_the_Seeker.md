@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.587918
+modified: 2025-08-15T16:41:45.587921
+aliases: [NPC01818 Cedric Darkwater the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Zephyr Frostwhisper the Wise (Personal - Best friend)|Zephyr Frostwhisper the Wise (Personal - Best friend)]]
+- [[#Vesper Ravenheart the Scholar (Professional - Partner)|Vesper Ravenheart the Scholar (Professional - Partner)]]
+- [[#Hestara Zephyrblade the Guardian (Professional - Partner)|Hestara Zephyrblade the Guardian (Professional - Partner)]]
+
+
+---
 aliases: ["Cedric Darkwater the Seeker", "cedric darkwater the seeker", "Cedric Darkwater Seeker", "Seeker the Darkwater Cedric"]
 tags: [npc, character]
 type: npc
@@ -252,3 +273,14 @@ Is secretly testing the party
 - Influences [[LOC00175_Dungeons_Location_176]]
 - Related: [[Assets Vehicles Vehicle Ship Kelp Weave Patrol Boat Kelp Weave Patrol Boat.svg]]
 - Influences [[Living Corridors]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

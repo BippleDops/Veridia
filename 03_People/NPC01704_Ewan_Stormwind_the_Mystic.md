@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.251254
+modified: 2025-08-15T16:41:48.251256
+aliases: [NPC01704 Ewan Stormwind the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Branwen Winterborn the Mystic (Family - Parent)|Branwen Winterborn the Mystic (Family - Parent)]]
+- [[#Hilda Hawthorne the Redeemed (Criminal - Informant)|Hilda Hawthorne the Redeemed (Criminal - Informant)]]
+- [[#Dara Underhill the Bold (Family - Parent)|Dara Underhill the Bold (Family - Parent)]]
+
+
+---
 aliases: ["Ewan Stormwind the Mystic", "ewan stormwind the mystic", "Ewan Stormwind Mystic", "Mystic the Stormwind Ewan"]
 tags: [npc, character]
 type: npc
@@ -144,3 +165,30 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_merchant_captain_tobias_stormwind_dramatic.png]]
+![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
+
+
+## Realm Connections
+
+### Connection to Aethermoor
+This connects to the sky realm of Sky realm of eternal winds and floating islands.
+
+- **Ruling Power**: The Windlord Council
+- **Capital**: [[Skylance Citadel]]
+- **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
+- **Current Conflict**: The Void Incursion, Elemental Convergence
+- **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
+
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+navigate floating islands connected by bridges of solidified cloud.
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

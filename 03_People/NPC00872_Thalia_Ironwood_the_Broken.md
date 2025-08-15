@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.455634
+modified: 2025-08-15T16:41:41.455636
+aliases: [NPC00872 Thalia Ironwood the Broken]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ewan Youngblood the Bold (Political - Opposition)|Ewan Youngblood the Bold (Political - Opposition)]]
+- [[#Rhiannon Ashford the Redeemed (Personal - Best friend)|Rhiannon Ashford the Redeemed (Personal - Best friend)]]
+- [[#Vesper Stormwind the Scholar (Family - Child)|Vesper Stormwind the Scholar (Family - Child)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Thalia Ironwood the Broken", "thalia ironwood the broken", "Thalia Ironwood Broken", "Broken the Ironwood Thaliatags: [npc, character, combat, social, exploration, lore]er]
 type: npc
@@ -6,14 +27,14 @@ type: npc
 
 # Thalia Ironwood the Broken
 
-*Human Caravan Master (Merchants), Age 62, Female*
+*Human Caravan Master ([[Merchant]]s), Age 62, Female*
 
 **ID**: NPC00872
 
 ## Quick Reference
 - **Location**: The docks at midnight
 - **Occupation**: Weapons dealer
-- **Disposition**: Laughs at the most inappropriate times
+- **Disposition**: Laughs at the most inappropriate [[Time]]s
 
 ## Appearance
 Towering and lanky, with Tied back silver hair and Violet eyes. Unusual hue skin. Weather-beaten face showing hard life.
@@ -142,6 +163,34 @@ Competitor sabotaging business
 - Special moves
 
 ## See Also
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[Faction_Relationship_Web]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[12 Spells]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]
+- [[Session_Recaps]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[08 Using Ability Scores]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[Character_Journal_Template]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
 - [[Related_Content]]
 
 
@@ -151,11 +200,11 @@ Competitor sabotaging business
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Death Saves**: See PHB p.197
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Death Saves**: See ACX p.197
 
 
 ## Thematic Connections
@@ -180,10 +229,10 @@ Competitor sabotaging business
 - Influences [[LORE00063_Prophecies_Entry_64]]
 - Requires [[Egyptian Nephthys]]
 - See also: [[Portrait NPC Queen Lyralei Stormheart Queen Lyralei Stormheart.svg_1 (Portraits)]]
-- Originates from [[Guardian Captain Marcus Shieldwall (D&D_References)]]
+- Originates from [[Guardian [[Captain Marcus]] Shieldwall (D&D_References)]]
 - Parallels [[Treasurer Elena Goldflow]]
 - See also: [[Information Systems Alliance (D&D_References)]]
-- Related: [[Location City Sage Prism Lightweaver Sage Prism Lightweaver.svg]]
+- Related: [[Location City [[Sage Prism Lightweaver]] Sage Prism Lightweaver.svg]]
 - Leads to [[step_055 (phase_041)]]
 - Requires [[The Spiral Sanctum]]
 - Connects to [[step_097 (phase_041)]]
@@ -191,9 +240,9 @@ Competitor sabotaging business
 - Leads to [[step_051 (phase_047)]]
 - See also: [[dwarven-haela-brightaxe-mtf (deities)]]
 - Requires [[step_048 (phase_039)]]
-- Originates from [[Location City Experimental Medical Ethics Experimental Medical Ethics.svg]]
+- Originates from [[Location City [[Experimental Medical Ethics]] Experimental Medical Ethics.svg]]
 - Parallels [[LORE00004_History_Entry_5]]
-- Compare with [[Bathyal Succession (D&D_References)]]
+- Compare with [[[[Bathyal Succession]] (D&D_References)]]
 - Parallels [[clockwork-iron-cobra-mpmm (construct)]]
 - See also: [[step_031]]
 - Leads to [[step_040 (phase_063)]]
@@ -201,8 +250,8 @@ Competitor sabotaging business
 - Influences [[Portrait NPC Deep Fortress Network V1 Deep Fortress Network.svg_1 (Portraits)]]
 - Related: [[SPELL00141_Arcane_Spell_142]]
 - Originates from [[red-dragon-xmm (legendary-group)]]
-- Parallels [[Crystals & Curiosities 2]]
-- Originates from [[Location City the Memory Storm Fields V1 the Memory Storm Fields.svg]]
+- Parallels [[[[Crystals & Curiosities]] 2]]
+- Originates from [[Location City [[The Memory Storm Fields]] V1 the Memory Storm Fields.svg]]
 - Leads to [[Sage Analytical Mindweaver (D&D_References)]]
 - Originates from [[ITEM00025_Frost_Bow_of_Slaying]]
 - Compare with [[ENC00070_Combat_Encounter_71]]
@@ -212,9 +261,9 @@ Competitor sabotaging business
 - Compare with [[Paper Whirlwind Rot]]
 - Influences [[Marcus Ledgerbor 2]]
 - Originates from [[The Seven Shards Mystery]]
-- Parallels [[Location City Keeper of Contracts Minerva Bindingword V1 Keeper of Contracts Minerva Bindingword.svg]]
+- Parallels [[Location City [[Keeper of Contracts Minerva Bindingword]] V1 Keeper of Contracts Minerva Bindingword.svg]]
 - Connects to [[11-chapter-11-gravenhollow (out-of-the-abyss)]]
-- Compare with [[Forge Master Korax Hammerdeep 2]]
+- Compare with [[[[Forge Master Korax Hammerdeep]] 2]]
 - Compare with [[Size Categories Mm]]
 - Connects to [[step_068 (phase_072)]]
 - Connects to [[dragonlance-zeboim-phb (deities)]]
@@ -224,11 +273,11 @@ Competitor sabotaging business
 - Compare with [[location-city-middle-harbor-middle-harbor.svg]]
 - Compare with [[ITEM00197_Thunder_Axe_of_Speed]]
 - Requires [[dretch-xmm (fiend)]]
-- Requires [[Portrait NPC Lord General Harrison Ironhold V1 Lord General Harrison Ironhold.svg]]
+- Requires [[Portrait NPC Lord General Harrison [[Ironhold]] V1 Lord General Harrison Ironhold.svg]]
 - Influences [[Githzerai Groups Githzerai Group Leader Mtf]]
 - Compare with [[Master Cultivators Guild (Groups)]]
-- Requires [[Deep Mother Spawning Pools (D&D_References)]]
-- See also: [[The First Failure 2]]
+- Requires [[[[Deep Mother Spawning Pools]] (D&D_References)]]
+- See also: [[[[The First Failure]] 2]]
 - Originates from [[step_012 (phase_021)]]
 - Connects to [[Public Works Director Boris Bridgewright (D&D_References)]]
 - Affected by [[step_082 (phase_077)]]
@@ -238,10 +287,10 @@ Competitor sabotaging business
 - Leads to [[Groundling (D&D_References)]]
 - Originates from [[ITEM01094_Distilled_Herb_of_Clarity]]
 - Influences [[chaos-bolt-xge (spells)]]
-- Parallels [[Port Meridian Council Chamber 2]]
+- Parallels [[[[[[Port Meridian]] Council Chamber]] 2]]
 - Parallels [[The Great Circuit 2]]
 - Leads to [[step_005]]
-- Requires [[Assets Locations Location City Captain Trawl Netcaster V1 Captain Trawl Netcaster.svg]]
+- Requires [[Assets Locations Location City [[Captain Trawl Netcaster]] V1 Captain Trawl Netcaster.svg]]
 - Compare with [[Blue Dragon Wyrmling Xmm]]
 - Connects to [[step_083]]
 - Connects to [[ITEM0103_Hidden_Tome_of_the_Dawn]]
@@ -265,3 +314,14 @@ Competitor sabotaging business
 - See also: [[step_024]]
 - Affected by [[Keeper Luminous Truehart]]
 - Parallels [[step_061 (phase_062)]]
+
+## Visual References
+![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

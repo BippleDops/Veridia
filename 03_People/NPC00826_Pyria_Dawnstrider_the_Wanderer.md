@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.434596
+modified: 2025-08-15T16:41:46.434599
+aliases: [NPC00826 Pyria Dawnstrider the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aeliana Jadeclaw the Bold (Family - Spouse)|Aeliana Jadeclaw the Bold (Family - Spouse)]]
+- [[#Dara Ironforge the Lost (Personal - Nemesis)|Dara Ironforge the Lost (Personal - Nemesis)]]
+- [[#Rhiannon Ravenheart the Strong (Political - Spy)|Rhiannon Ravenheart the Strong (Political - Spy)]]
+
+
+---
 aliases: ["Pyria Dawnstrider the Wanderer", "pyria dawnstrider the wanderer", "Pyria Dawnstrider Wanderer", "Wanderer the Dawnstrider Pyria"]
 tags: [npc, character]
 type: npc
@@ -249,3 +270,14 @@ Has map to lost treasure
 - Requires [[The Resonance Cathedral (D&D_References)]]
 - Connects to [[08-chapter-8-bastions (dungeon-masters-guide-2024)]]
 - Connects to [[portrait-npc-the-wake-v2-the-wake.svg]]
+
+## Visual References
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

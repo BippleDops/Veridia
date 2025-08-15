@@ -228,3 +228,7 @@ Ongoing situations affecting Merchant Quarter Guildhalls:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]

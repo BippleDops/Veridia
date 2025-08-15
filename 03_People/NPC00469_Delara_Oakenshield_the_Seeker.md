@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.287483
+modified: 2025-08-15T16:41:41.287486
+aliases: [NPC00469 Delara Oakenshield the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Elric Keenblade the Broken (Professional - Partner)|Elric Keenblade the Broken (Professional - Partner)]]
+- [[#Caelum Ironforge the Guardian (Personal - Childhood friend)|Caelum Ironforge the Guardian (Personal - Childhood friend)]]
+- [[#Baelor Nightfall the Swift (Criminal - Accomplice)|Baelor Nightfall the Swift (Criminal - Accomplice)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Delara Oakenshield the Seeker", "delara oakenshield the seeker", "Delara Oakenshield Seeker", "Seeker the Oakenshield Delaratags: [npc, character, combat, magic, lore]er]
 type: npc
@@ -143,13 +164,45 @@ Family member has gone missing
 - Special moves
 
 ## Combat Stats
-Base: **Commoner** (MM p.345)
+Base: **Commoner** (BC p.345)
 Modifications:
 - HP: 31
 - AC: 14
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[Archdruid Thornweaver]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[Player_Comfort_Check]]
+- [[Reference.md]]
+- [[07 Customization Options]]
+- [[11 Rules Glossary]]
+- [[Character_Journal_Template]]
+- [[MOC_Items]]
 - [[Related_Content]]
 
 
@@ -159,9 +212,9 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -171,7 +224,7 @@ Modifications:
 
 ## Connections
 
-- Connects to [[The Shrinking Sanctuary 2]]
+- Connects to [[[[The Shrinking Sanctuary]] 2]]
 - See also: [[potion-of-invisibility-xdmg (items)]]
 - Affected by [[Describe Appearance and Personality Wisdom]]
 - Compare with [[MON00008_Constructs_Creature_9]]
@@ -179,7 +232,7 @@ Modifications:
 - Related: [[step_093 (phase_031)]]
 - See also: [[City Watch]]
 - Originates from [[Crystal Resonance Networks]]
-- Affected by [[Location City Infrastructure Development V1 Infrastructure Development.svg]]
+- Affected by [[Location City [[Infrastructure Development]] V1 Infrastructure Development.svg]]
 - Connects to [[QUEST00070_Personal_Quest_71]]
 - Influences [[Chamber Purpose Dungeon Planar Gate]]
 - Originates from [[Symbol Heraldry Aco... Related To: Local Political Structure Connected Plots: to Be Developed]]
@@ -192,7 +245,7 @@ Modifications:
 - Parallels [[ENC00215_Social_Encounter_216]]
 - Compare with [[Veterans Organizations]]
 - Compare with [[step_044 (phase_092)]]
-- Parallels [[Dream Scholar Memoriam 2]]
+- Parallels [[Dream Scholar [[Memoriam]] 2]]
 - Connects to [[brass-dragon-xmm (legendary-group)]]
 - Leads to [[step_025]]
 - Parallels [[step_071 (phase_035)]]
@@ -205,10 +258,10 @@ Modifications:
 - Requires [[Item Artifact Weird Tank Pota V3 Weird Tank Pota.png]]
 - Connects to [[Gnome Gods Gnome Deities Mtf]]
 - Compare with [[The Resistance Network 2]]
-- Parallels [[Screaming Gardens - Songwood Grove 2]]
+- Parallels [[[[Screaming Gardens]] - Songwood Grove 2]]
 - Influences [[step_010]]
 - Affected by [[friendly-attitude-xphb (variant-rules)]]
-- Affected by [[Aquabyssos World Overview#The Preservation Current]]
+- Affected by [[[[Aquabyssos]] World Overview#The Preservation Current]]
 - See also: [[Shadow Replacements]]
 - Affected by [[spell-points (variant-rules)]]
 - Requires [[skill-expert-xphb (feats)]]
@@ -218,7 +271,7 @@ Modifications:
 - Parallels [[Manual of Bodily Health Xdmg]]
 - Parallels [[Planar Breaches of Aquabyssos]]
 - Connects to [[The Deep Mother Rises (D&D_References)]]
-- Connects to [[Assets Locations Location City Storm Guard V1 Storm Guard.svg]]
+- Connects to [[Assets Locations Location City [[Storm Guard]] V1 Storm Guard.svg]]
 - Parallels [[NPC Voices (02_Worldbuilding)]]
 - Affected by [[Alpha-Prime]]
 - Related: [[Deep-Root Caretaker Nereon]]
@@ -233,7 +286,7 @@ Modifications:
 - Compare with [[step_061 (phase_068)]]
 - Parallels [[monsters-by-habitat-any-habitat-monsters-xmm (tables)]]
 - Influences [[step_086]]
-- Leads to [[Location City Magical Engineer Reef Spellbreath Magical Engineer Reef Spellbreath.svg]]
+- Leads to [[Location City [[Magical Engineer Reef Spellbreath]] Magical Engineer Reef Spellbreath.svg]]
 - Leads to [[Travel_and_Navigation_Reference]]
 - Leads to [[cleric-xphb-grave-domain-xge 2 (classes)]]
 - Affected by [[NPC01399_Orion_Ashford_the_Bold]]
@@ -250,7 +303,7 @@ Modifications:
 - Compare with [[LOC00149_Towns_Location_150]]
 - See also: [[LORE00268_Legends_Entry_269]]
 - Influences [[Symbol Heraldry the Liminal Trading Company the Liminal Trading Company.svg]]
-- Compare with [[Location City the Synthesis Gardens the Synthesis Gardens.svg]]
+- Compare with [[Location City [[The Synthesis Gardens]] the Synthesis Gardens.svg]]
 - Requires [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
 - Affected by [[MON00129_Aberrations_Creature_130]]
 - See also: [[LOC0130_NorthGate]]
@@ -264,10 +317,21 @@ Modifications:
 - Compare with [[The Sundered Vaults]]
 - Compare with [[step_079]]
 - Influences [[Truth Verification Serum]]
-- See also: [[Assets Locations Location City Crisis Management V1 Crisis Management.svg]]
+- See also: [[Assets Locations [[Location City [[Crisis Management]] V1 Crisis Management.svg]]]]
 - Leads to [[step_086 (phase_013)]]
 - Requires [[Infant Hook Horror Oota]]
 - Originates from [[New Item]]
 - Requires [[Assets Item Artifact Weird Tank Pota V7 Weird Tank Pota.png]]
 - Leads to [[step_038 (phase_019)]]
-- Originates from [[Location City Sage Currentknow Sage Currentknow.svg]]
+- Originates from [[Location City [[Sage Currentknow]] Sage Currentknow.svg]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

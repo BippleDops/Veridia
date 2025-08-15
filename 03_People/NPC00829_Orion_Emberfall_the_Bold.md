@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Orion Emberfall the Bold
 
 *Halfling Appraiser (Merchants), Age 73, Female*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Felicia Quicksilver the Swift
 
 *Aasimar Shopkeeper (Merchants), Age 58, Male*

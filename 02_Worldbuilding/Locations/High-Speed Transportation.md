@@ -221,3 +221,7 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01699_Orion_Oakenshield_the_Broken]]

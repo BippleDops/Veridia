@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.918712
+modified: 2025-08-15T16:41:41.918714
+aliases: [NPC00749 Xander Quicksilver]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Ironwood the Bold (Political - Spy)|Corvus Ironwood the Bold (Political - Spy)]]
+- [[#Drusilla Jadeclaw the Lost (Criminal - Handler)|Drusilla Jadeclaw the Lost (Criminal - Handler)]]
+- [[#Rhiannon Crystalbrook the Guardian (Criminal - Fence)|Rhiannon Crystalbrook the Guardian (Criminal - Fence)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Xander Quicksilver", "xander quicksilver", "Quicksilver Xander"]
 tags: [npc, character]
@@ -146,6 +167,18 @@ Witnessed a crime
 - Special moves
 
 ## See Also
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[Archdruid Thornweaver]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[Parliamentary_Voting_Guide]]
 - [[Related_Content]]
 
 
@@ -155,10 +188,10 @@ Witnessed a crime
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -268,3 +301,14 @@ Witnessed a crime
 - Compare with [[list-spells-races-gith-githyanki-mtf (lists)]]
 - Originates from [[step_100]]
 - Connects to [[Location City Keeper Luminous Crystalbeam V1 Keeper Luminous Crystalbeam.svg]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

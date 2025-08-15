@@ -249,3 +249,7 @@ Ongoing situations affecting Merchant Prince Goldwind Crysalborn:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00550_Xander_Stormwind_the_Cunning]]

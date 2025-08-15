@@ -26,6 +26,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Map
+![[04_Resources/Assets/Maps/location_the_screaming_battleground_rain.png]]
+
+
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-screaming-battleground-the-screaming-battleground.svg)
 

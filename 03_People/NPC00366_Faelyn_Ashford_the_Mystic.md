@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.480395
+modified: 2025-08-15T16:41:46.480398
+aliases: [NPC00366 Faelyn Ashford the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Rhiannon Crystalbrook (Personal - Nemesis)|Rhiannon Crystalbrook (Personal - Nemesis)]]
+- [[#Baelor Jadeclaw the Broken (Family - Spouse)|Baelor Jadeclaw the Broken (Family - Spouse)]]
+- [[#Solas Ravenheart (Criminal - Target)|Solas Ravenheart (Criminal - Target)]]
+
+
+---
 aliases: ["Faelyn Ashford the Mystic", "faelyn ashford the mystic", "Faelyn Ashford Mystic", "Mystic the Ashford Faelyn"]
 tags: [npc, character]
 type: npc
@@ -240,3 +261,14 @@ Wants rivals investigated
 - Affected by [[Assault or Invasion Invading Forces]]
 - Requires [[step_012]]
 - Related: [[SHOP00020_General_Shop_21]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

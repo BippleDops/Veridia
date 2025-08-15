@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Dara Lightbringer the Strong
 
 *Half-Elf Farmer (Commoners), Age 65, Male*

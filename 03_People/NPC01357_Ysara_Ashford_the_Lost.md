@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.346381
+modified: 2025-08-15T16:41:48.346384
+aliases: [NPC01357 Ysara Ashford the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Lyanna Darkwater the Cunning (Personal - Nemesis)|Lyanna Darkwater the Cunning (Personal - Nemesis)]]
+- [[#Zephyr Dawnstrider the Cunning (Professional - Employee)|Zephyr Dawnstrider the Cunning (Professional - Employee)]]
+- [[#Wynne Grimholt the Fallen (Professional - Employee)|Wynne Grimholt the Fallen (Professional - Employee)]]
+
+
+---
 aliases: ["Ysara Ashford the Lost", "ysara ashford the lost", "Ysara Ashford Lost", "Lost the Ashford Ysara"]
 tags: [npc, character]
 type: npc
@@ -149,3 +170,15 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

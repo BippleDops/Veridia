@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.888564
+modified: 2025-08-15T16:41:41.888568
+aliases: [NPC00670 Xander Goldleaf the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Jorah Ashford the Seeker (Political - Opposition)|Jorah Ashford the Seeker (Political - Opposition)]]
+- [[#Hilda Voidwalker the Broken (Professional - Mentor)|Hilda Voidwalker the Broken (Professional - Mentor)]]
+- [[#Hilda Thornweave the Bold (Personal - Love interest)|Hilda Thornweave the Bold (Personal - Love interest)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Xander Goldleaf the Scholar", "xander goldleaf the scholar", "Xander Goldleaf Scholar", "Scholar the Goldleaf Xander"]
 tags: [npc, character]
@@ -152,6 +173,61 @@ Being extorted by criminals
 - Special moves
 
 ## See Also
+- [[NPC_Name_Generator.png]]
+- [[NPC00644_Nerys_Dawnstrider_the_Wanderer]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[NPC01113_Solas_Ravenheart_the_Cunning]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[Faction_Relationship_Web]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[World_Primer.md]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC01939_Orion_Nightfall_the_Bold]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[Quick_Start_Guide.md]]
+- [[NPC01594_Fiora_Proudmore_the_Seeker]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[Session_Recaps]]
+- [[01 Introduction Welcome to Adventure]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[MOC_Rules]]
+- [[11 Rules Glossary]]
+- [[NPC01602_Dara_Ashford_the_Seeker]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
+- [[Dockworker_Union_Flyer.md]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[Concept_Map]]
 - [[Related_Content]]
 
 
@@ -161,9 +237,9 @@ Being extorted by criminals
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -273,3 +349,14 @@ Being extorted by criminals
 - Connects to [[Singing Coral 2]]
 - Related: [[LOC0149_PortHill]]
 - Leads to [[step_069 (phase_030)]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

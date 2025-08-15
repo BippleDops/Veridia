@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Dara Darkwater
 
 *Half-Orc Ambassador (Nobles), Age 75, Female*

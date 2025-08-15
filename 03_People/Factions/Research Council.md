@@ -14,6 +14,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![02_Worldbuilding/Groups/Research Council](../../04_Resources/Assets/Misc/02_worldbuilding_groups_research_council.png)
 
 ## 🔧 Deep Evaluation Improvements

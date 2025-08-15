@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Time Keeper 
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Sage Elara]]

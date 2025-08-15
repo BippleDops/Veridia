@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.815071
+modified: 2025-08-15T16:41:43.815074
+aliases: [NPC00078 Qadim Goldleaf]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Branwen Winterborn the Bold (Personal - Best friend)|Branwen Winterborn the Bold (Personal - Best friend)]]
+- [[#Erasmus Crystalbrook (Professional - Employer)|Erasmus Crystalbrook (Professional - Employer)]]
+- [[#Pyria Grimholt (Personal - Best friend)|Pyria Grimholt (Personal - Best friend)]]
+
+
+---
 aliases: ["Qadim Goldleaf", "qadim goldleaf", "Goldleaf Qadim"]
 tags: [npc, character]
 type: npc
@@ -241,3 +262,14 @@ Needs discrete help with family scandal
 - Originates from [[step_012 (phase_020)]]
 - Requires [[Roleplaying a Beholder Beholder Bonds Vgm]]
 - Leads to [[Identity Weaver False-Self]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_dramatic.png]]
+![[03_People/portrait_lady_seraphina_goldleaf_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

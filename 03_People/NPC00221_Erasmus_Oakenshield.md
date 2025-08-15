@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.876386
+modified: 2025-08-15T16:41:47.876388
+aliases: [NPC00221 Erasmus Oakenshield]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Orion Frostwhisper the Broken (Criminal - Handler)|Orion Frostwhisper the Broken (Criminal - Handler)]]
+- [[#Fiora Keenblade the Redeemed (Professional - Mentor)|Fiora Keenblade the Redeemed (Professional - Mentor)]]
+- [[#Dara Proudmore (Family - Parent)|Dara Proudmore (Family - Parent)]]
+
+
+---
 aliases: ["Erasmus Oakenshield", "erasmus oakenshield", "Oakenshield Erasmus"]
 tags: [npc, character]
 type: npc
@@ -135,3 +156,15 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
+![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
+![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

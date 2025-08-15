@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Memory Parasite 
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]

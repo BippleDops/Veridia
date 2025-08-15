@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.580046
+modified: 2025-08-15T16:41:45.580049
+aliases: [NPC01884 Ysara Crystalbrook the Risen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Zephyrblade the Redeemed (Family - Child)|Corvus Zephyrblade the Redeemed (Family - Child)]]
+- [[#Corvus Proudmore the Swift (Political - Spy)|Corvus Proudmore the Swift (Political - Spy)]]
+- [[#Drusilla Dawnstrider the Wanderer (Political - Ally)|Drusilla Dawnstrider the Wanderer (Political - Ally)]]
+
+
+---
 aliases: ["Ysara Crystalbrook the Risen", "ysara crystalbrook the risen", "Ysara Crystalbrook Risen", "Risen the Crystalbrook Ysara"]
 tags: [npc, character]
 type: npc
@@ -248,3 +269,14 @@ Offers deal too good to refuse
 - Connects to [[portrait-npc-sirens-sirens.svg_1 (Portraits)]]
 - Requires [[Assets Locations Location City Dolphin V1 Dolphin.svg]]
 - Affected by [[potion-of-supreme-healing-xdmg (items)]]
+
+## Visual References
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

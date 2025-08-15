@@ -233,3 +233,7 @@ Ongoing situations affecting Adventure Boldexplorer:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01625_Qadim_Lightbringer_the_Swift]]

@@ -388,3 +388,14 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC01625_Qadim_Lightbringer_the_Swift]]

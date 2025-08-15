@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.076313
+modified: 2025-08-15T16:41:43.076318
+aliases: [NPC01422 Hilda Emberfall the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Drusilla Dawnstrider the Redeemed (Political - Opposition)|Drusilla Dawnstrider the Redeemed (Political - Opposition)]]
+- [[#Delara Grimholt the Guardian (Professional - Mentor)|Delara Grimholt the Guardian (Professional - Mentor)]]
+- [[#Elric Ironforge the Redeemed (Family - Child)|Elric Ironforge the Redeemed (Family - Child)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Hilda Emberfall the Guardian", "hilda emberfall the guardian", "Hilda Emberfall Guardian", "Guardian the Emberfall Hilda"]
 tags: [npc, character]
@@ -159,19 +180,19 @@ Forming expedition to dangerous location
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Mordenkainen's Tome of Foes (MTF) p.108
+- Mordenkainen's Forbidden Knowledge of Foes (MFK) p.108
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -179,9 +200,9 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -291,3 +312,14 @@ Following magic item guidelines (DMG p.135-136):
 - Influences [[NPC00206_Hestara_Frostwhisper_the_Wanderer]]
 - Affected by [[step_059 (phase_038)]]
 - Affected by [[Quest - International Crisis]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
+![[03_People/portrait_the_crimson_shard_guardian.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

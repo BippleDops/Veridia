@@ -238,3 +238,7 @@ Ongoing situations affecting Artificer Magnus Weightless:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]

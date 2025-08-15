@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T16:41:33.674303
+modified: 2025-08-15T16:41:33.674306
+aliases: [10 Appendix B Creature Stat Blocks]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Prep Checklist|Prep Checklist]]
+- [[#Npcs Needed|Npcs Needed]]
+- [[#Locations|Locations]]
+- [[#Encounters|Encounters]]
+- [[#Props|Props]]
+- [[#Rules|Rules]]
+- [[#Campaign Connection|Campaign Connection]]
+- [[#See Also|See Also]]
+
+
+---
 
 title: 10 Appendix B Creature Stat Blocks
 type: note
@@ -25,7 +46,8 @@ tags:
 - world/both
 - active
 - note
-- status/in-progress
+- status/in-progr
+*The [texture] surface feels [description] to the touch.*ess
 - ttrpg-cli/compendium/src/5e/xphb
 
 created: 2025-07-23
@@ -38,7 +60,7 @@ world: Both
 
 --- # Appendix B: Creature Stat Blocks
 
-*Source: Player's Handbook (2024), p. 346* This appendix provides stat blocks for creatures mentioned elsewhere in the book, particularly in the class, equipment, and spell chapters. See the "rules glossary" for how to read a [[stat-block-xphb (variant-rules)]], and see the *Monster Manual* for even more creatures. The following stat blocks are presented in alphabetical order. When the Dungeon Master uses a stat block, the DM may change details in it. - [[Giant Ape Xmm]] - [[giant-badger-xmm (beast)]] - [[Giant Bat Xmm]] - [[black-bear-xmm]] - [[giant-boar-xmm]] - [[brown-bear-xmm (beast)]] - [[Camel Xmm]] - [[cat-xmm (beast)]] - [[giant-constrictor-snake-xmm (beast)]] - [[giant-crab-xmm (beast)]] - [[Crocodile Xmm]] - [[dire-wolf-xmm]] - [[draft-horse-xmm (beast)]] - [[elephant-xmm (beast)]] - [[elk-xmm (beast)]] - [[frog-xmm (beast)]] - [[giant]] - [[giant]] - [[Goat Xmm]] - [[giant]] - [[giant-spider-xmm (beast)]] - [[giant]] - [[Goat Xmm]] - [[Blood Hawk Xmm]] - [[Imp Xmm]] - [[lion-xmm (beast)]] - [[lizard-xmm (beast)]] - [[Mastiff Xmm]] - [[mule-xmm (beast)]] - [[Giant Octopus Xmm]] - [[Giant Owl Xmm]] - [[Panther Xmm]] - [[pony-xmm (beast)]] - [[pseudodragon-xmm (dragon)]] - [[quasit-xmm (fiend)]] - [[Wererat Xmm]] - [[Raven Xmm]] - [[Reef Shark Xmm]] - [[riding-horse-xmm]] - [[Giant Scorpion Xmm]] - [[flaming-skeleton-xmm (undead)]] - [[slaad-tadpole-xmm (aberration)]] - [[sphinx]] - [[phase-spider-xmm (monstrosity)]] - [[sprite-xmm (fey)]] - [[Weretiger Xmm]] - [[venomous-snake-xmm]] - [[warhorse-xmm (beast)]] - [[giant-weasel-xmm (beast)]] - [[werewolf-xmm (monstrosity)]] - [[Zombie Xmm]] ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary 10 appendix b creature stat blocks is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 10 appendix b creature stat blocks as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 10 appendix b creature stat blocks. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession ## Plot Hooks - A noble needs help delivering before the new moon
+*Source: Adventurer's Codex (2024), p. 346* This appendix provides stat blocks for creatures mentioned elsewhere in the book, particularly in the class, equipment, and spell chapters. See the "rules glossary" for how to read a [[stat-block-xphb (variant-rules)]], and see the *Bestiary Compendium* for even more creatures. The following stat blocks are presented in alphabetical order. When the Dungeon Master uses a stat block, the DM may change details in it. - [[Giant Ape Xmm]] - [[giant-badger-xmm (beast)]] - [[Giant Bat Xmm]] - [[black-bear-xmm]] - [[giant-boar-xmm]] - [[brown-bear-xmm (beast)]] - [[Camel Xmm]] - [[cat-xmm (beast)]] - [[giant-constrictor-snake-xmm (beast)]] - [[giant-crab-xmm (beast)]] - [[Crocodile Xmm]] - [[dire-wolf-xmm]] - [[draft-horse-xmm (beast)]] - [[elephant-xmm (beast)]] - [[elk-xmm (beast)]] - [[frog-xmm (beast)]] - [[giant]] - [[giant]] - [[Goat Xmm]] - [[giant]] - [[giant-spider-xmm (beast)]] - [[giant]] - [[Goat Xmm]] - [[Blood Hawk Xmm]] - [[Imp Xmm]] - [[lion-xmm (beast)]] - [[lizard-xmm (beast)]] - [[Mastiff Xmm]] - [[mule-xmm (beast)]] - [[Giant Octopus Xmm]] - [[Giant Owl Xmm]] - [[Panther Xmm]] - [[pony-xmm (beast)]] - [[pseudodragon-xmm (dragon)]] - [[quasit-xmm (fiend)]] - [[Wererat Xmm]] - [[Raven Xmm]] - [[Reef Shark Xmm]] - [[riding-horse-xmm]] - [[Giant Scorpion Xmm]] - [[flaming-skeleton-xmm (undead)]] - [[slaad-tadpole-xmm (aberration)]] - [[sphinx]] - [[phase-spider-xmm (monstrosity)]] - [[sprite-xmm (fey)]] - [[Weretiger Xmm]] - [[venomous-snake-xmm]] - [[warhorse-xmm (beast)]] - [[giant-weasel-xmm (beast)]] - [[werewolf-xmm (monstrosity)]] - [[Zombie Xmm]] ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary 10 appendix b creature stat blocks is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 10 appendix b creature stat blocks as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 10 appendix b creature stat blocks. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession ## Plot Hooks - A noble needs help delivering before the new moon
 
 - Someone is protecting information for power
 - A stranger needs help delivering before winter ## Related Notes - [[Similar Topic 1]]
@@ -82,6 +104,22 @@ world: Both
 Former associate of the party's patron
 
 ## See Also
+- [[Character_Journals]]
+- [[11 Rules Glossary]]
+- [[12 Spells]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[What You Know - Abyssos Prime.md]]
+- [[MOC_Items]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[Possession Mechanics]]
+- [[03 Races]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[Item_Catalog_Complete.md]]
+- [[11 Spellcasting]]
+- [[MASTER_MOC]]
+- [[02 Step by Step Characters]]
 - [[Related_Content]]
 
 
@@ -91,23 +129,23 @@ Former associate of the party's patron
 - [[NEXT_LEVEL_IMPROVEMENTS]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -211,3 +249,21 @@ Former associate of the party's patron
 - Requires [[Gith Random Height and Weight Mtf]]
 - See also: [[Depth Safety Authorit 2]]
 - Compare with [[step_095 (phase_099)]]
+
+## Statistics
+**Challenge Rating**: TBD
+**Armor Class**: 10 + modifier
+**Hit Points**: Based on size and constitution
+**Speed**: 30 ft.
+
+### Abilities
+- **STR**: 10 (+0)
+- **DEX**: 10 (+0)
+- **CON**: 10 (+0)
+- **INT**: 10 (+0)
+- **WIS**: 10 (+0)
+- **CHA**: 10 (+0)
+
+### Actions
+- **Attack**: Melee or Ranged attack description
+- **Special Ability**: Unique creature ability

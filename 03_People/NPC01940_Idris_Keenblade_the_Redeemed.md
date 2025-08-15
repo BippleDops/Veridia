@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.002735
+modified: 2025-08-15T16:41:44.002738
+aliases: [NPC01940 Idris Keenblade the Redeemed]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gareth Thornweave the Swift (Personal - Best friend)|Gareth Thornweave the Swift (Personal - Best friend)]]
+- [[#Brenna Ironwood the Guardian (Professional - Partner)|Brenna Ironwood the Guardian (Professional - Partner)]]
+- [[#Aeliana Ravenheart the Mystic (Family - Sibling)|Aeliana Ravenheart the Mystic (Family - Sibling)]]
+
+
+---
 aliases: ["Idris Keenblade the Redeemed", "idris keenblade the redeemed", "Idris Keenblade Redeemed", "Redeemed the Keenblade Idris"]
 tags: [npc, character]
 type: npc
@@ -251,3 +276,8 @@ Is secretly testing the party
 - Leads to [[step_087 (phase_078)]]
 - See also: [[Master_Item_Catalog]]
 - Leads to [[Kelp Forest Monasteries]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

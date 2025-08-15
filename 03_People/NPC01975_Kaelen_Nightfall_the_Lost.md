@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.109512
+modified: 2025-08-15T16:41:48.109513
+aliases: [NPC01975 Kaelen Nightfall the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Dawnstrider the Cunning (Political - Spy)|Ysara Dawnstrider the Cunning (Political - Spy)]]
+- [[#Idris Dawnstrider the Wise (Criminal - Handler)|Idris Dawnstrider the Wise (Criminal - Handler)]]
+- [[#Erasmus Ravenheart the Guardian (Political - Patron)|Erasmus Ravenheart the Guardian (Political - Patron)]]
+
+
+---
 aliases: ["Kaelen Nightfall the Lost", "kaelen nightfall the lost", "Kaelen Nightfall Lost", "Lost the Nightfall Kaelen"]
 tags: [npc, character]
 type: npc
@@ -137,3 +158,15 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.948416
+modified: 2025-08-15T16:41:46.948419
+aliases: [NPC0197 Minerva Brightblade the Strong]
+---
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Secrets|Secrets]]
+- [[#Relationships|Relationships]]
+- [[#Roleplaying|Roleplaying]]
+
+
+---
 aliases: ["Minerva Brightblade the Strong", "minerva brightblade the strong", "Minerva Brightblade Strong", "Strong the Brightblade Minerva"]
 tags: [, generated]
   - npc
@@ -226,3 +247,8 @@ Insight, Perception, Arcana
 - Related: [[step_004]]
 - Affected by [[XP Calculator]]
 - Parallels [[ITEM0082_Cursed_Crown_of_the_Dawn]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_keeper_of_contracts_minerva_bindingword_v1_keeper_of_contracts_minerva_bindingword_svg_political.png]]
+![[04_Resources/maps/world_keeper_of_contracts_minerva_bindingword_gm.png]]
+![[04_Resources/maps/world_keeper_of_contracts_minerva_bindingword_physical.png]]

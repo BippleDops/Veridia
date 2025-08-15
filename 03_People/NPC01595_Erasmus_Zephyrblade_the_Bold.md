@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Erasmus Zephyrblade the Bold
 
 *Gnome Wizard (Adventurers), Age 22, Non-binary*

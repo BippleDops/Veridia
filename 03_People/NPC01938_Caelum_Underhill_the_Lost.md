@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Caelum Underhill the Lost
 
 *Firbolg Corrupt Noble (Villains), Age 43, Male*

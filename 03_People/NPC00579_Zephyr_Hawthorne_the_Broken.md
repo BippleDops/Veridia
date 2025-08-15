@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Zephyr Hawthorne the Broken
 
 *Firbolg Farmer (Commoners), Age 27, Female*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ewan Ravenheart the Scholar
 
 *Firbolg Trader (Merchants), Age 60, Non-binary*

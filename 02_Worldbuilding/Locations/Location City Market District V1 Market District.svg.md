@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Market District 
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]

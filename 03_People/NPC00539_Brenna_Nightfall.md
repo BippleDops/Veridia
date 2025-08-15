@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Brenna Nightfall
 
 *Tabaxi Carpenter (Commoners), Age 40, Non-binary*

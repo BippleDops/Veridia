@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Senior Nurse Pol
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01177_Thalia_Underhill_the_Fallen]]

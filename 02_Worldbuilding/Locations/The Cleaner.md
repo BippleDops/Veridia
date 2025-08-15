@@ -243,3 +243,8 @@ Ongoing situations affecting The Cleaner:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]

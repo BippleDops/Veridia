@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.605443
+modified: 2025-08-15T16:41:40.605448
+aliases: [NPC00260 Wynne Underhill the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Cedric Oakenshield the Scholar (Criminal - Fence)|Cedric Oakenshield the Scholar (Criminal - Fence)]]
+- [[#Idris Youngblood (Personal - Best friend)|Idris Youngblood (Personal - Best friend)]]
+- [[#Thalia Brightblade (Personal - Nemesis)|Thalia Brightblade (Personal - Nemesis)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Wynne Underhill the Fallen", "wynne underhill the fallen", "Wynne Underhill Fallen", "Fallen the Underhill Wynnetags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
@@ -31,7 +56,7 @@ Below average and muscular, with Braided elaborately black hair and Heterochromi
 - **Dream**: Mastering magic
 
 ## Background
-Last survivor of a fallen house, seeking to restore family honor An old debt has come due at the worst possible time.
+Last survivor of a fallen house, seeking to restore family honor An old debt has come due at the worst possible [[Time]].
 
 ## Current Situation
 - **Occupation**: Estate manager
@@ -115,7 +140,7 @@ Deception, History
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- Political alliances
+- [[Political Alliances]]
 - Upcoming social events
 
 ## Plot Hook
@@ -146,7 +171,7 @@ Seeks bodyguards for dangerous journey
 - Special moves
 
 ## Combat Stats
-Base: **Bandit** (MM p.343)
+Base: **Bandit** (BC p.343)
 Modifications:
 - HP: 33
 - AC: 15
@@ -157,6 +182,41 @@ Modifications:
 > Notable saying or prophecy
 
 ## See Also
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC01113_Solas_Ravenheart_the_Cunning]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC00601_Vesper_Ironwood_the_Guardian]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC01730_Faelyn_Emberfall_the_Broken]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]
+- [[Party_Inventory]]
+- [[Faction_Guide.md]]
+- [[Ship_Schematic_The_Seahawk.md]]
+- [[Basic_Rules]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[15 the Planes of Existence]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[16 Credits]]
+- [[10 Combat]]
+- [[NPC00838_Drusilla_Proudmore_the_Risen]]
+- [[MASTER_MOC]]
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
 - [[Related_Content]]
 
 
@@ -166,11 +226,11 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -180,21 +240,21 @@ Modifications:
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -211,7 +271,7 @@ Modifications:
 - Originates from [[step_067]]
 - See also: [[Inverted Ballroom Wing]]
 - See also: [[iron-golem-xmm (construct)]]
-- Leads to [[Campaign Index 2]]
+- Leads to [[Campaign [[INDEX]] 2]]
 - Connects to [[Young Diver Coral Swiftcurrent 2]]
 - Compare with [[Embroidered Silk and Velvet Mantle Set with Numerous Moonstones Xdmg]]
 - Connects to [[Arcane Destroyer Tidal Stormcaller]]
@@ -220,7 +280,7 @@ Modifications:
 - See also: [[step_057 (phase_015)]]
 - Compare with [[web-xphb (spells)]]
 - Compare with [[step_091 (phase_039)]]
-- Leads to [[Location City the Neutral Current Tavern the Neutral Current Tavern.svg]]
+- Leads to [[Location City the Neutral Current [[Tavern]] [[The Neutral Current Tavern]].svg]]
 - Influences [[Consequence Chain 5 - Marina Identity Revelation]]
 - Leads to [[step_017]]
 - Affected by [[Eldritch Smite Xphb]]
@@ -234,11 +294,11 @@ Modifications:
 - Compare with [[crystal-ball-of-true-seeing-xdmg (items)]]
 - Compare with [[step_014 (phase_033)]]
 - Affected by [[step_019]]
-- Related: [[Portrait NPC Aria Lumengarde V1 Aria Lumengarde.svg]]
+- Related: [[Portrait NPC Aria [[Lumengarde]] V1 Aria Lumengarde.svg]]
 - Originates from [[SPELL0038_Infernal_Storm]]
 - Connects to [[Location City Harbor Master S License Harbor Master S License.svg]]
 - Influences [[ITEM00812_Ancient_Scepter_of_Dominion]]
-- Parallels [[Assets Locations Location City the Observatory the Observatory.svg]]
+- Parallels [[Assets Locations Location City [[The Observatory]] the Observatory.svg]]
 - Parallels [[step_074 (phase_055)]]
 - Parallels [[DUN00007_Dungeon_8]]
 - Parallels [[step_086]]
@@ -253,7 +313,7 @@ Modifications:
 - Compare with [[NPC00534_Xander_Ironwood]]
 - Influences [[Crisis Command Center]]
 - Related: [[Whispers & Memories Emporium]]
-- Requires [[Assets Locations Location City the Kelp Highway V1 the Kelp Highway.svg]]
+- Requires [[Assets Locations Location City [[The Kelp Highway]] V1 the Kelp Highway.svg]]
 - See also: [[Deep Current Society (D&D_References)]]
 - Requires [[Portrait NPC Quest the Deep Mother S Truth V1 Quest the Deep Mother S Truth.svg]]
 - See also: [[02-chapter-1-playing-the-game#Ability Checks]]
@@ -276,7 +336,7 @@ Modifications:
 - See also: [[The Final Vault]]
 - Originates from [[dhergoloth-mpmm (fiend)]]
 - Connects to [[Symbol Heraldry Political Corruption Political Corruption.svg]]
-- Related: [[Assets Locations Location City Portal Network V1 Portal Network.svg]]
+- Related: [[Assets Locations Location City [[Portal Network]] V1 Portal Network.svg]]
 - Related: [[Construct Spirit Xphb]]
 - Compare with [[Handout Handout Ancient Prophecy Fragment V2 Ancient Prophecy Fragment.png]]
 - Connects to [[The Crimson Sage_1]]
@@ -288,7 +348,7 @@ Modifications:
 - Parallels [[Deep Sciences Research Institute]]
 - Compare with [[The Crystal Influence 3 (D&D_References)]]
 - Affected by [[NPC00597_Ysara_Ravenheart_the_Redeemed]]
-- Compare with [[Location City Warrior Thane Visionward V1 Warrior Thane Visionward.svg]]
+- Compare with [[Location City [[Warrior Thane Visionward]] V1 Warrior Thane Visionward.svg]]
 - Connects to [[Quest_-_The_Filter_Exchange]]
 - Connects to [[Quandrix Student Scc]]
 - Compare with [[NPC00316_Caelum_Frostwhisper]]
@@ -298,3 +358,8 @@ Modifications:
 - Related: [[sword-of-vengeance-xdmg (items)]]
 - Compare with [[list-spells-feats-druidic-warrior-xphb (lists)]]
 - Requires [[Cinnamon Xdmg]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

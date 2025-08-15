@@ -250,3 +250,8 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]

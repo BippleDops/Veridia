@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Felicia Dawnstrider the Cunning
 
 *Human Dark Wizard (Villains), Age 26, Non-binary*

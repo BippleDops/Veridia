@@ -239,3 +239,8 @@ Ongoing situations affecting Whisper Island Docks:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]

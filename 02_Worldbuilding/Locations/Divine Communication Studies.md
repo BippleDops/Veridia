@@ -242,3 +242,7 @@ Mentioned in The Hidden Prophecy of Depths
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]

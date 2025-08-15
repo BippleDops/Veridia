@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Brenna Oakenshield the Risen
 
 *Aasimar Caravan Master (Merchants), Age 40, Female*

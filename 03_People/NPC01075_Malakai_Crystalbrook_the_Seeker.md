@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.823216
+modified: 2025-08-15T16:41:46.823219
+aliases: [NPC01075 Malakai Crystalbrook the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Cedric Keenblade the Broken (Political - Patron)|Cedric Keenblade the Broken (Political - Patron)]]
+- [[#Dara Voidwalker the Lost (Personal - Nemesis)|Dara Voidwalker the Lost (Personal - Nemesis)]]
+- [[#Delara Quicksilver the Wanderer (Criminal - Target)|Delara Quicksilver the Wanderer (Criminal - Target)]]
+
+
+---
 aliases: ["Malakai Crystalbrook the Seeker", "malakai crystalbrook the seeker", "Malakai Crystalbrook Seeker", "Seeker the Crystalbrook Malakai"]
 tags: [npc, character]
 type: npc
@@ -242,3 +263,14 @@ Caravan needs guards
 - Compare with [[step_082 (phase_022)]]
 - Connects to [[boggle-mpmm (fey)]]
 - Parallels [[salamander-inferno-master-xmm (elemental)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

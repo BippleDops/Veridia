@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Felicia Silverleaf the Strong
 
 *Genasi Carpenter (Commoners), Age 36, Male*

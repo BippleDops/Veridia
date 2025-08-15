@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Wynne Keenblade the Seeker
 
 *Goliath Dark Wizard (Villains), Age 24, Female*

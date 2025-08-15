@@ -261,3 +261,8 @@ Mentioned in The Second Prophecy of Shadows
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]

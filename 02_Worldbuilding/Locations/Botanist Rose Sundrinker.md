@@ -295,3 +295,7 @@ Mentioned in The First Prophecy of Depths
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]

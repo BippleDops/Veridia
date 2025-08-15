@@ -13,6 +13,10 @@ updated: '2025-08-13T12:34:17.306961+00:00'
 world: Both
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-mobile-terror-platform-mobile-terror-platform.svg)

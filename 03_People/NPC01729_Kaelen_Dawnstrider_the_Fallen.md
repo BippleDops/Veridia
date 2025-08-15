@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.836871
+modified: 2025-08-15T16:41:42.836874
+aliases: [NPC01729 Kaelen Dawnstrider the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Drusilla Moonshadow the Redeemed (Family - Spouse)|Drusilla Moonshadow the Redeemed (Family - Spouse)]]
+- [[#Cedric Ironforge the Wise (Criminal - Target)|Cedric Ironforge the Wise (Criminal - Target)]]
+- [[#Nerys Emberfall the Wise (Personal - Love interest)|Nerys Emberfall the Wise (Personal - Love interest)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Kaelen Dawnstrider the Fallen", "kaelen dawnstrider the fallen", "Kaelen Dawnstrider Fallen", "Fallen the Dawnstrider Kaelen"]
 tags: [npc, character]
@@ -152,21 +177,21 @@ Blackmails party into service
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Dungeon Master's Guide (DMG) p.59
-- Monster Manual (MM) p.101
-- Mordenkainen's Tome of Foes (MTF) p.127
+- Worldweaver's Tome (WWT) p.59
+- Bestiary Compendium (BC) p.101
+- Mordenkainen's Forbidden Knowledge of Foes (MFK) p.127
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -174,10 +199,10 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -287,3 +312,8 @@ Following magic item guidelines (DMG p.135-136):
 - Related: [[Artificers' Consortium (D&D_References)]]
 - Requires [[step_079 (phase_041)]]
 - Connects to [[ENC00015_Combat_Encounter_16]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

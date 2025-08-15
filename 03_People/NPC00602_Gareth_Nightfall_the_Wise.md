@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gareth Nightfall the Wise
 
 *Halfling Baker (Commoners), Age 72, Male*

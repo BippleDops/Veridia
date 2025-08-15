@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Rhiannon Xendar the Redeemed
 
 *Tiefling Crime Boss (Villains), Age 76, Female*

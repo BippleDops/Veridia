@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T16:41:33.724497
+modified: 2025-08-15T16:41:33.724499
+aliases: [07 Customization Options]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Prep Checklist|Prep Checklist]]
+- [[#Npcs Needed|Npcs Needed]]
+- [[#Locations|Locations]]
+- [[#Encounters|Encounters]]
+- [[#Props|Props]]
+- [[#Rules|Rules]]
+- [[#Campaign Connection|Campaign Connection]]
+- [[#See Also|See Also]]
+
+
+---
 
 title: 07 Customization Options
 type: note
@@ -25,7 +46,8 @@ tags:
 
 created: 2025-08-11
 modified: '2025-08-14'
-status: active
+status: ac
+*Sounds of [relevant sounds] echo in the distance.*tive
 updated: '2025-08-13T12:34:05.215065+00:00'
 world: Both
 
@@ -66,21 +88,70 @@ world: Both
 Witnessed important events in the past
 
 ## See Also
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[Depth_Adapted_Background.md]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[Reference.md]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[Parliamentary_Voting_Guide]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[Party_Quests]]
+- [[World_Primer.md]]
+- [[Combat_Encounter_Analysis]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
+- [[12 Spells]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[11 Rules Glossary]]
+- [[13 Conditions]]
+- [[06 Equipment]]
+- [[04 Classes]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC00162_Xander_Thornweave]]
+- [[Quest - The Merged Reality_1 (01_Adventures)]]
+- [[Master_Narrative_Web.md]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[02 Step by Step Characters]]
+- [[Concept_Map]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[11 Spellcasting]]
+- [[Session_Recaps]]
+- [[Character_Journal_Template]]
 - [[Related_Content]]
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

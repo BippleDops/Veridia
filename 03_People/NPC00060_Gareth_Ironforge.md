@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.043070
+modified: 2025-08-15T16:41:43.043073
+aliases: [NPC00060 Gareth Ironforge]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gareth Goldleaf (Political - Puppet)|Gareth Goldleaf (Political - Puppet)]]
+- [[#Solas Crystalbrook (Political - Spy)|Solas Crystalbrook (Political - Spy)]]
+- [[#Elric Voidwalker (Criminal - Fence)|Elric Voidwalker (Criminal - Fence)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Gareth Ironforge", "gareth ironforge", "Ironforge Gareth"]
 tags: [npc, character]
@@ -161,8 +182,8 @@ Needs discrete help with family scandal
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -272,3 +293,14 @@ Needs discrete help with family scandal
 - Connects to [[Figurine of Wondrous Power Ebony Fly Xdmg]]
 - Leads to [[Chancellor's Advisory Council]]
 - Connects to [[belt-of-giant-strength-xdmg (items)]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
+![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

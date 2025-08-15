@@ -301,3 +301,11 @@ Ongoing situations affecting Scarlet Torrent:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]

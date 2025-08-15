@@ -221,3 +221,9 @@ Ongoing situations affecting Sommelier Bacchus Deepbottle:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]

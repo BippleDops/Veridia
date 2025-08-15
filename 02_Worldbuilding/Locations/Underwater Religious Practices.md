@@ -256,3 +256,7 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]

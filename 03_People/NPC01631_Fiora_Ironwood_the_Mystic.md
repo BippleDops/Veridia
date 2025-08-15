@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Fiora Ironwood the Mystic
 
 *Genasi Dark Wizard (Villains), Age 71, Male*

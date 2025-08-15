@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Faelyn Proudmore the Lost
 
 *Tiefling Dark Wizard (Villains), Age 72, Non-binary*

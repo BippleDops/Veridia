@@ -82,3 +82,7 @@ Recent developments have brought new attention to location-city-pip-goldleaf-pip
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Pip Goldleaf]]

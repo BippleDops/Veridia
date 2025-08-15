@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Gavril Thornweave the Wanderer
 
 *Dragonborn Shopkeeper (Merchants), Age 28, Non-binary*

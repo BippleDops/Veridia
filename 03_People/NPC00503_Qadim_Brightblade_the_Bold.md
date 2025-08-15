@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.580008
+modified: 2025-08-15T16:41:42.580013
+aliases: [NPC00503 Qadim Brightblade the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Jadeclaw the Broken (Political - Ally)|Wynne Jadeclaw the Broken (Political - Ally)]]
+- [[#Hilda Lightbringer the Guardian (Professional - Employer)|Hilda Lightbringer the Guardian (Professional - Employer)]]
+- [[#Ewan Underhill the Guardian (Personal - Ex-lover)|Ewan Underhill the Guardian (Personal - Ex-lover)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Qadim Brightblade the Bold", "qadim brightblade the bold", "Qadim Brightblade Bold", "Bold the Brightblade Qadim"]
 tags: [npc, character]
@@ -151,10 +172,10 @@ Family member has gone missing
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -264,3 +285,14 @@ Family member has gone missing
 - Requires [[SHOP00049_Specialty_Shop_50]]
 - Affected by [[Hereditary House 2]]
 - Influences [[Goristro Xmm]]
+
+## Visual References
+![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

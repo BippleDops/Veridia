@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Corvus Youngblood the Swift
 
 *Dwarf Assassin (Villains), Age 77, Non-binary*

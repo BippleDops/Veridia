@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.339797
+modified: 2025-08-15T16:41:45.339803
+aliases: [NPC01522 Aldric Ravenheart the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Jadeclaw the Bold (Family - Sibling)|Corvus Jadeclaw the Bold (Family - Sibling)]]
+- [[#Lyanna Xendar the Lost (Family - Sibling)|Lyanna Xendar the Lost (Family - Sibling)]]
+- [[#Erasmus Ashford the Mystic (Professional - Employer)|Erasmus Ashford the Mystic (Professional - Employer)]]
+
+
+---
 aliases: ["Aldric Ravenheart the Guardian", "aldric ravenheart the guardian", "Aldric Ravenheart Guardian", "Guardian the Ravenheart Aldric"]
 tags: [npc, character]
 type: npc
@@ -237,3 +258,14 @@ Forming expedition to dangerous location
 - Influences [[Assets Locations Location City the Archive Keepers V1 the Archive Keepers.svg]]
 - Parallels [[Assets Locations Location City Depth Merchant S Consortium V1 Depth Merchant S Consortium.svg]]
 - Connects to [[step_003 (phase_073)]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
+![[03_People/portrait_duke_aldric_blackwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

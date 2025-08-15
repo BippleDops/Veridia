@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.332643
+modified: 2025-08-15T16:41:46.332645
+aliases: [NPC00008 Gavril Quicksilver]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Rhiannon Xendar (Criminal - Handler)|Rhiannon Xendar (Criminal - Handler)]]
+- [[#Hilda Ironwood (Personal - Childhood friend)|Hilda Ironwood (Personal - Childhood friend)]]
+- [[#Xander Ironforge (Personal - Nemesis)|Xander Ironforge (Personal - Nemesis)]]
+
+
+---
 aliases: ["Gavril Quicksilver", "gavril quicksilver", "Quicksilver Gavril"]
 tags: [npc, character]
 type: npc
@@ -248,3 +273,8 @@ Needs discrete help with family scandal
 - Originates from [[Assets Portraits Portrait NPC Blood in the Water Blood in the Water.svg]]
 - Leads to [[enspelled-weapon-level-7-xdmg (items)]]
 - Leads to [[ENC00401_Combat_Encounter_402]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

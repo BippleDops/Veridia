@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:40.465026
+modified: 2025-08-15T16:41:40.465029
+aliases: [Pilgrim Pass Prayer Sli]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Diaspora Improvements|Diaspora Improvements]]
+- [[#Material_Culture Improvements|Material_Culture Improvements]]
+- [[#Sensory Improvements|Sensory Improvements]]
+- [[#Oral_Tradition Improvements|Oral_Tradition Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Visual_Handouts/Pilgrim_Pass_Prayer_Sli
 type: lore
@@ -120,6 +141,30 @@ tags: [combat, lore]
 > Useful information for players
 
 ## See Also
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[Party_Quests]]
+- [[Propaganda_Broadsheet_Syndicate.md]]
+- [[NPC00644_Nerys_Dawnstrider_the_Wanderer]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[09 Adventuring]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[Parliamentary_Voting_Guide]]
+- [[07 Customization Options]]
 - [[Related_Content]]
 
 
@@ -129,14 +174,14 @@ tags: [combat, lore]
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -240,3 +285,8 @@ tags: [combat, lore]
 - Originates from [[item-artifact-mess-kit-v3-mess-kit.png]]
 - See also: [[step_075]]
 - Originates from [[LOC00009_Planes_Location_10]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_pilgrimage_master_depth_guide_melancholy_v1_pilgrimage_master_depth_guide_melancholy_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_pilgrimage_master_depth_guide_melancholy_v1_pilgrimage_master_depth_guide_melancholy_svg_standard.png]]
+![[03_People/portrait_pilgrim_guide_samuel_walkingfaith_friendly.png]]

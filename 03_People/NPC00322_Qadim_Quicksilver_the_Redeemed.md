@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Qadim Quicksilver the Redeemed
 
 *Half-Orc Noble (Nobles), Age 28, Female*

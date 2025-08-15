@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.149024
+modified: 2025-08-15T16:41:42.149029
+aliases: [NPC01831 Alaric Frostwhisper the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Rhiannon Keenblade the Strong (Political - Puppet)|Rhiannon Keenblade the Strong (Political - Puppet)]]
+- [[#Caelum Dawnstrider the Strong (Criminal - Target)|Caelum Dawnstrider the Strong (Criminal - Target)]]
+- [[#Zephyr Lightbringer the Mystic (Family - Parent)|Zephyr Lightbringer the Mystic (Family - Parent)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Alaric Frostwhisper the Scholar", "alaric frostwhisper the scholar", "Alaric Frostwhisper Scholar", "Scholar the Frostwhisper Alaric"]
 tags: [npc, character]
@@ -152,24 +173,57 @@ Is secretly testing the party
 - Special moves
 
 ## See Also
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC00287_Ysara_Underhill_the_Wise]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[Depth_Adapted_Background]]
+- [[Faction_Guide.md]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[Downtime_Activities]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[16 Credits]]
+- [[MOC_Lore]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[MOC_Items]]
+- [[Master_Narrative_Web.md]]
+- [[Party_Inventory]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Tasha's Cauldron of Everything (TCE) p.190
+- Tasha's Mystical Formulae of Everything (TMF) p.190
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -177,10 +231,10 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -290,3 +344,14 @@ Following magic item guidelines (DMG p.135-136):
 - Compare with [[step_050 (phase_058)]]
 - Connects to [[step_091 (phase_011)]]
 - See also: [[yuan-ti-broodguard-mpmm]]
+
+## Visual References
+![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
+![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

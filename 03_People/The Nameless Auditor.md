@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.873684
+modified: 2025-08-15T16:41:46.873687
+aliases: [The Nameless Auditor]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_the_nameless_auditor.png]]
+
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Relationships|Relationships]]
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Death_Customs Improvements|Death_Customs Improvements]]
+- [[#Material_Culture Improvements|Material_Culture Improvements]]
+
+
+---
 
 title: The Nameless Auditor
 type: Npc

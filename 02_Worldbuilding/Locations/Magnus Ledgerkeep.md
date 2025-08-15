@@ -233,3 +233,10 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[yuan-ti-pit-master-mpmm]]

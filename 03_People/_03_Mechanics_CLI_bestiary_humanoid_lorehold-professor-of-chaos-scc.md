@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_03_mechanics_cli_bestiary_humanoid_lorehold_professor_of_chaos_scc_friendly.png]]
+
+
 # /03 Mechanics/CLI/bestiary/humanoid/lorehold-professor-of-chaos-scc
 
 ## Basic Information

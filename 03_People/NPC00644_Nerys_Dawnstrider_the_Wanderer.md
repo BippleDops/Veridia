@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.912915
+modified: 2025-08-15T16:41:41.912919
+aliases: [NPC00644 Nerys Dawnstrider the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Nightfall the Strong (Family - Spouse)|Ysara Nightfall the Strong (Family - Spouse)]]
+- [[#Hilda Jadeclaw the Fallen (Political - Opposition)|Hilda Jadeclaw the Fallen (Political - Opposition)]]
+- [[#Corvus Thornweave the Risen (Family - Sibling)|Corvus Thornweave the Risen (Family - Sibling)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Nerys Dawnstrider the Wanderer", "nerys dawnstrider the wanderer", "Nerys Dawnstrider Wanderer", "Wanderer the Dawnstrider Nerys"]
 tags: [npc, character]
@@ -136,6 +157,47 @@ Discovered something valuable
 - Special moves
 
 ## See Also
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[NPC_Name_Generator.png]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[Sage Elara]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[Faction_Guide.md_1 (07_Player_Resources)]]
+- [[Welcome to Aquabyssos]]
+- [[13 Conditions]]
+- [[Reputation_Tracker]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[11 Rules Glossary]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
+- [[NPC00719_Orion_Hawthorne_the_Cunning]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[Player_Portal.md]]
 - [[Related_Content]]
 
 
@@ -145,8 +207,8 @@ Discovered something valuable
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -256,3 +318,14 @@ Discovered something valuable
 - Compare with [[step_091]]
 - Affected by [[QUEST00048_Personal_Quest_49]]
 - Parallels [[Location City Cultural Districts V1 Cultural Districts.svg]]
+
+## Visual References
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

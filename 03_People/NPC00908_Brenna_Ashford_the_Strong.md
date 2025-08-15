@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.250081
+modified: 2025-08-15T16:41:46.250085
+aliases: [NPC00908 Brenna Ashford the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Delara Proudmore the Scholar (Criminal - Target)|Delara Proudmore the Scholar (Criminal - Target)]]
+- [[#Corvus Emberfall the Cunning (Professional - Mentor)|Corvus Emberfall the Cunning (Professional - Mentor)]]
+- [[#Erasmus Crystalbrook the Fallen (Personal - Love interest)|Erasmus Crystalbrook the Fallen (Personal - Love interest)]]
+
+
+---
 aliases: ["Brenna Ashford the Strong", "brenna ashford the strong", "Brenna Ashford Strong", "Strong the Ashford Brenna"]
 tags: [npc, character]
 type: npc
@@ -237,3 +258,14 @@ Has map to lost treasure
 - Influences [[step_058]]
 - Affected by [[step_011 (phase_074)]]
 - Affected by [[tiger-eye-xdmg (items)]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

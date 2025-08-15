@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.988281
+modified: 2025-08-15T16:41:47.988284
+aliases: [NPC00558 Malakai Frostwhisper the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Idris Jadeclaw the Redeemed (Professional - Mentor)|Idris Jadeclaw the Redeemed (Professional - Mentor)]]
+- [[#Erasmus Jadeclaw the Risen (Political - Puppet)|Erasmus Jadeclaw the Risen (Political - Puppet)]]
+- [[#Nerys Zephyrblade the Wise (Personal - Nemesis)|Nerys Zephyrblade the Wise (Personal - Nemesis)]]
+
+
+---
 aliases: ["Malakai Frostwhisper the Mystic", "malakai frostwhisper the mystic", "Malakai Frostwhisper Mystic", "Mystic the Frostwhisper Malakai"]
 tags: [npc, character]
 type: npc
@@ -141,3 +162,15 @@ Being extorted by criminals
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -239,3 +239,8 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]

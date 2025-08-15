@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Orion Voidwalker the Risen
 
 *Tabaxi Bard (Adventurers), Age 69, Non-binary*

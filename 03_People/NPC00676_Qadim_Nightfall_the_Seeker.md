@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.538506
+modified: 2025-08-15T16:41:45.538511
+aliases: [NPC00676 Qadim Nightfall the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Urien Lightbringer the Cunning (Political - Opposition)|Urien Lightbringer the Cunning (Political - Opposition)]]
+- [[#Orion Nightfall the Wanderer (Criminal - Handler)|Orion Nightfall the Wanderer (Criminal - Handler)]]
+- [[#Thalia Underhill the Swift (Personal - Nemesis)|Thalia Underhill the Swift (Personal - Nemesis)]]
+
+
+---
 aliases: ["Qadim Nightfall the Seeker", "qadim nightfall the seeker", "Qadim Nightfall Seeker", "Seeker the Nightfall Qadim"]
 tags: [npc, character]
 type: npc
@@ -247,3 +268,14 @@ Discovered something valuable
 - Compare with [[Assets Symbols Symbol Heraldry Welfare Director Caretake V1 Welfare Director Caretake.svg]]
 - See also: [[Orc Ilneval Vgm]]
 - Requires [[Professor Darklight (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

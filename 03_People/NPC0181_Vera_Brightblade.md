@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.622491
+modified: 2025-08-15T16:41:46.622494
+aliases: [NPC0181 Vera Brightblade]
+---
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Secrets|Secrets]]
+- [[#Relationships|Relationships]]
+- [[#Roleplaying|Roleplaying]]
+
+
+---
 aliases: ["Vera Brightblade", "vera brightblade", "Brightblade Vera"]
 tags: [, generated]
   - npc
@@ -228,3 +249,8 @@ Athletics, Persuasion, Stealth
 - Influences [[step_018 (phase_091)]]
 - Compare with [[Master of Currents Poseidon]]
 - Affected by [[potion-of-stone-giant-strength-xdmg (items)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_dr_vera_spectrumseeker_svg_friendly.png]]

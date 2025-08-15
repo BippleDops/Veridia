@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Ancient Treasury
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]

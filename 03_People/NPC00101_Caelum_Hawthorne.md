@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.841120
+modified: 2025-08-15T16:41:41.841122
+aliases: [NPC00101 Caelum Hawthorne]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Erasmus Ironforge the Wanderer (Political - Puppet)|Erasmus Ironforge the Wanderer (Political - Puppet)]]
+- [[#Wynne Darkwater the Swift (Political - Spy)|Wynne Darkwater the Swift (Political - Spy)]]
+- [[#Delara Blackstone (Political - Ally)|Delara Blackstone (Political - Ally)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Caelum Hawthorne", "caelum hawthorne", "Hawthorne Caelum"]
 tags: [npc, character]
@@ -139,6 +160,44 @@ Wants rivals investigated
 - Special moves
 
 ## See Also
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00287_Ysara_Underhill_the_Wise]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC01276_Erasmus_Keenblade_the_Wanderer]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[Faction_Relationship_Web]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[Archdruid Thornweaver]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[Player_Comfort_Check]]
+- [[Depth_Adapted_Background]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[NPC00046_Urien_Ironwood_the_Wise]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[Downtime_Activities]]
+- [[MOC_Quests]]
 - [[Related_Content]]
 
 
@@ -148,8 +207,8 @@ Wants rivals investigated
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -259,3 +318,14 @@ Wants rivals investigated
 - Connects to [[Flame Blade Xphb]]
 - Compare with [[step_004 (phase_085)]]
 - See also: [[NPC01999_Gavril_Voidwalker_the_Wise]]
+
+## Visual References
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

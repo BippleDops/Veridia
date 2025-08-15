@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:34.144828
+modified: 2025-08-15T16:41:34.144835
+aliases: [Quick Start Guide.md]
+---
+
+## Table of Contents
+- [[#Session Prep|Session Prep]]
+- [[#Visual References|Visual References]]
+- [[#Item Rarity & Balance|Item Rarity & Balance]]
+- [[#Comparable Official Items|Comparable Official Items]]
+- [[#Source References|Source References]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
+---
 enhanced: trtags: [enhanced, 07_player_resources, combat, lore]es]
 created: 2025-08-15T12:24:41.131420
 modified: 2025-08-15T12:24:41.131421
@@ -24,10 +44,48 @@ improvements: 20
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multip
+*The air carries the scent of [appropriate smell].*
 *The air carries the scent of [appropriate smell].*le entry points for different play styles
 - Connections to overarching campaign themes ## Plot Hooks - Someone is searching for a artifact for money - A shipment has gone missing and war looms
 - Someone is hunting a artifact for power
-- Someone is hunting an heir for love ## See Also - Related content
+- Someone is hunting an heir for love ## See Also
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00080_Branwen_Proudmore]]
+- [[Sanity Quick Reference]]
+- [[Player_Comfort_Check]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[Character_Journals]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[Faction_Guide.md_1 (07_Player_Resources)]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC01831_Alaric_Frostwhisper_the_Scholar]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[Sanity_Quick_Reference.md]]
+- [[World_Primer.md]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[Ship_Schematic_The_Seahawk.md]]
+- [[Wanted_Poster_Syndicate_Fenc]]
+- [[Downtime_Activities]]
+- [[15 the Planes of Existence]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[Session_Recaps]]
+- [[MOC_Items]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[MASTER_MOC]]
+- [[Master_Narrative_Web.md]] - Related content
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
@@ -72,20 +130,20 @@ publish: false --- -|--------|
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Player's Handbook (PHB) p.108
-- Dungeon Master's Guide (DMG) p.77
+- Adventurer's Codex (ACX) p.108
+- Worldweaver's Tome (WWT) p.77
 
 ## Related Content
 - [[audio_fit_report]]
@@ -93,20 +151,20 @@ Following magic item guidelines (DMG p.135-136):
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
 
 ## Connections
 

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.335024
+modified: 2025-08-15T16:41:42.335027
+aliases: [NPC01010 Ysara Frostwhisper the Redeemed]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Jorah Ironwood the Seeker (Professional - Rival)|Jorah Ironwood the Seeker (Professional - Rival)]]
+- [[#Dara Youngblood the Wise (Personal - Nemesis)|Dara Youngblood the Wise (Personal - Nemesis)]]
+- [[#Dara Stormwind the Fallen (Political - Ally)|Dara Stormwind the Fallen (Political - Ally)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Ysara Frostwhisper the Redeemed", "ysara frostwhisper the redeemed", "Ysara Frostwhisper Redeemed", "Redeemed the Frostwhisper Ysara"]
 tags: [npc, character]
@@ -153,9 +174,9 @@ Seeks rare merchandise
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -265,3 +286,14 @@ Seeks rare merchandise
 - See also: [[Silver Chalice Set With Moonstones Xdmg]]
 - Affected by [[step_098 (phase_029)]]
 - Originates from [[Duergar Raiding Parties Duergar Special]]
+
+## Visual References
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

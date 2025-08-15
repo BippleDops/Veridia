@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.929757
+modified: 2025-08-15T16:41:47.929761
+aliases: [NPC00611 Thalia Keenblade the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Zephyr Darkwater the Risen (Professional - Partner)|Zephyr Darkwater the Risen (Professional - Partner)]]
+- [[#Idris Ravenheart the Risen (Political - Puppet)|Idris Ravenheart the Risen (Political - Puppet)]]
+- [[#Lyanna Blackstone the Broken (Personal - Childhood friend)|Lyanna Blackstone the Broken (Personal - Childhood friend)]]
+
+
+---
 aliases: ["Thalia Keenblade the Mystic", "thalia keenblade the mystic", "Thalia Keenblade Mystic", "Mystic the Keenblade Thalia"]
 tags: [npc, character]
 type: npc
@@ -146,3 +167,15 @@ Being extorted by criminals
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

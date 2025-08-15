@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.850681
+modified: 2025-08-15T16:41:47.850687
+aliases: [NPC01909 Hilda Quicksilver the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Underhill the Redeemed (Political - Patron)|Wynne Underhill the Redeemed (Political - Patron)]]
+- [[#Qadim Ravenheart the Guardian (Political - Ally)|Qadim Ravenheart the Guardian (Political - Ally)]]
+- [[#Orion Thornweave the Broken (Personal - Love interest)|Orion Thornweave the Broken (Personal - Love interest)]]
+
+
+---
 aliases: ["Hilda Quicksilver the Mystic", "hilda quicksilver the mystic", "Hilda Quicksilver Mystic", "Mystic the Quicksilver Hilda"]
 tags: [npc, character]
 type: npc
@@ -137,3 +158,15 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

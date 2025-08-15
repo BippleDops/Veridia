@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Branwen Goldleaf the Swift
 
 *Gnome Cleric (Adventurers), Age 61, Male*

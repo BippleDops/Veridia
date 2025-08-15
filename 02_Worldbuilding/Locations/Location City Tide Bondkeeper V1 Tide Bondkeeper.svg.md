@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Tide Bondkeeper 
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01599_Gavril_Keenblade_the_Strong]]

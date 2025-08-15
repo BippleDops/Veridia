@@ -221,3 +221,7 @@ Ongoing situations affecting The Harbor Guild:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]

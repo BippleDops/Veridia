@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Alaric Zephyrblade the Scholar
 
 *Elf Rogue (Adventurers), Age 42, Male*

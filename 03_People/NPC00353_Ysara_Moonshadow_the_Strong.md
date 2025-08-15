@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.897272
+modified: 2025-08-15T16:41:47.897274
+aliases: [NPC00353 Ysara Moonshadow the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Zephyr Blackstone the Broken (Political - Patron)|Zephyr Blackstone the Broken (Political - Patron)]]
+- [[#Faelyn Zephyrblade the Strong (Professional - Rival)|Faelyn Zephyrblade the Strong (Professional - Rival)]]
+- [[#Alaric Brightblade (Criminal - Informant)|Alaric Brightblade (Criminal - Informant)]]
+
+
+---
 aliases: ["Ysara Moonshadow the Strong", "ysara moonshadow the strong", "Ysara Moonshadow Strong", "Strong the Moonshadow Ysara"]
 tags: [npc, character]
 type: npc
@@ -147,3 +168,15 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -342,3 +342,8 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]

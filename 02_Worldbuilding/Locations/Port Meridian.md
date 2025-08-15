@@ -159,3 +159,22 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC01286_Xander_Proudmore_the_Bold]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]
+- [[NPC00763_Urien_Brightblade_the_Broken]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]

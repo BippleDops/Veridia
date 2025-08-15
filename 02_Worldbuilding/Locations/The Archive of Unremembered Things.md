@@ -163,3 +163,9 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[The Silent Watcher 2]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]

@@ -266,3 +266,7 @@ Ongoing situations affecting Trade War:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]

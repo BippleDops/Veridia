@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Oakenshield the Mystic
 
 *Firbolg Shopkeeper (Merchants), Age 71, Female*

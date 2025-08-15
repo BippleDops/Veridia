@@ -27,6 +27,10 @@ wealth: Exceptional (luxury goods monopoly)
 world: Aethermoor
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 
 
 

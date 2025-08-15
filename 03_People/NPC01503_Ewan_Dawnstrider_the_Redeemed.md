@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.653593
+modified: 2025-08-15T16:41:40.653597
+aliases: [NPC01503 Ewan Dawnstrider the Redeemed]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Cedric Dawnstrider the Redeemed (Family - Child)|Cedric Dawnstrider the Redeemed (Family - Child)]]
+- [[#Kaelen Keenblade the Wanderer (Political - Puppet)|Kaelen Keenblade the Wanderer (Political - Puppet)]]
+- [[#Thalia Winterborn the Swift (Criminal - Handler)|Thalia Winterborn the Swift (Criminal - Handler)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Ewan Dawnstrider the Redeemed", "ewan dawnstrider the redeemed", "Ewan Dawnstrider Redeemed", "Redeemed the Dawnstrider Ewantags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
@@ -148,7 +173,7 @@ Forming expedition to dangerous location
 - Special moves
 
 ## Combat Stats
-Base: **Bandit** (MM p.343)
+Base: **Bandit** (BC p.343)
 Modifications:
 - HP: 15
 - AC: 10
@@ -159,6 +184,23 @@ Modifications:
 > Additional context or lore
 
 ## See Also
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[World_Primer.md]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[Player_Portal.md]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Combat_Encounter_Analysis]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[Character_Journal_Template]]
 - [[Related_Content]]
 
 
@@ -168,10 +210,10 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -181,21 +223,21 @@ Modifications:
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -211,7 +253,7 @@ Modifications:
 - Compare with [[step_063 (phase_076)]]
 - Influences [[step_002]]
 - Parallels [[step_011 (phase_058)]]
-- Connects to [[Assets Locations Location City Wave Healingbringer Wave Healingbringer.svg]]
+- Connects to [[Assets Locations Location City [[Wave Healingbringer]] Wave Healingbringer.svg]]
 - Connects to [[Captain Steelhart (D&D_References)]]
 - Leads to [[FAC00005_Cults_6]]
 - Related: [[step_025 (phase_039)]]
@@ -239,26 +281,26 @@ Modifications:
 - Affected by [[step_075]]
 - Connects to [[Map Map Storm Torn Lighthouse Storm Torn Lighthouse.svg]]
 - Requires [[ITEM00726_Primordial_Mirror_of_Destiny]]
-- Compare with [[Location City Port Meridian Harbor District Port Meridian Harbor District.svg]]
+- Compare with [[Location City [[Port Meridian]] [[Harbor District]] [[Port Meridian Harbor]] District.svg]]
 - Connects to [[NPC01362_Alaric_Ashford_the_Wanderer]]
 - Affected by [[step_045]]
 - Parallels [[Dual-State Armor (Items)]]
 - Influences [[step_048]]
-- Parallels [[Tavern_Keeper_Finn_Splitlung.png]]
+- Parallels [[[[Tavern]]_Keeper_Finn_Splitlung.png]]
 - Compare with [[step_040]]
 - Affected by [[Woodcarvers Tools Xphb]]
 - Influences [[spell-scrolls-spell-scroll (tables)]]
-- Affected by [[Assets Locations Location City Memorial Current Memorial Current.png]]
+- Affected by [[Assets Locations [[Location City [[Memorial Current]] Memorial Current.png]]]]
 - Compare with [[Reality Integration Rules]]
-- Originates from [[Assets Locations Location City Surgeon Coral Seamender V1 Surgeon Coral Seamender.svg]]
-- Connects to [[Assets Locations Location City the Great Sky Harbor V1 the Great Sky Harbor.svg]]
+- Originates from [[Assets Locations [[Location City [[Surgeon Coral Seamender]] V1 Surgeon Coral Seamender.svg]]]]
+- Connects to [[Assets Locations [[Location City [[The Great Sky Harbor]] V1 the Great Sky Harbor.svg]]]]
 - Influences [[The Last Dance]]
 - Influences [[step_026 (phase_067)]]
 - Connects to [[step_050 (phase_048)]]
 - See also: [[Marina Deepcurrent]]
 - Affected by [[step_073]]
 - Compare with [[Artisan Guild Master]]
-- Influences [[Archivist Supreme Indexa]]
+- Influences [[Archivist Supreme [[INDEX]]a]]
 - Related: [[LOC00031_Planes_Location_32]]
 - Leads to [[NPC_Relationship_Web.png]]
 - See also: [[Portrait NPC Sir Marcus Dawnforge V2 Sir Marcus Dawnforge.svg_1 (Portraits)]]
@@ -268,15 +310,15 @@ Modifications:
 - Connects to [[step_080 (phase_016)]]
 - Influences [[Lost Archives (D&D_References)]]
 - See also: [[underwater-encounter-distance (tables)]]
-- Leads to [[Assets Locations Location City Noble House V1 Noble House.svg]]
+- Leads to [[Assets Locations Location City [[Noble House]] V1 Noble House.svg]]
 - Related: [[LOC00228_Towns_Location_229]]
 - Compare with [[step_048 (phase_032)]]
-- Originates from [[Location City University Philosophy Departments University Philosophy Departments.svg]]
-- Connects to [[Assets Locations Location City Port Meridian Medical Institute V1 Port Meridian Medical Institute.svg]]
+- Originates from [[Location City [[University Philosophy Departments]] University Philosophy Departments.svg]]
+- Connects to [[Assets Locations Location City [[Port Meridian Medical Institute]] V1 Port Meridian Medical Institute.svg]]
 - See also: [[ENC00198_Social_Encounter_199]]
 - Requires [[Captain Mistwalker (D&D_References)]]
 - Leads to [[Identify Important Npcs Adventure Allies]]
-- Requires [[Location City Terminal Master Hadrian Depthbridge Terminal Master Hadrian Depthbridge.svg]]
+- Requires [[Location City Terminal Master [[Hadrian Depthbridge]] [[Terminal Master Hadrian Depthbridge]].svg]]
 - See also: [[greyhawk-olidammara-xdmg (deities)]]
 - Affected by [[Augury Xphb]]
 - Influences [[ITEM01425_Sturdy_Lock_of_Durability]]
@@ -299,3 +341,8 @@ Modifications:
 - Originates from [[D L-11 the Last Anchor Player (Encounters)]]
 - Related: [[Aetheric Wind Songs (D&D_References)]]
 - Compare with [[bard-xphb-college-of-swords-xge (classes)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

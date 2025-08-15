@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.287602
+modified: 2025-08-15T16:41:48.287604
+aliases: [NPC00528 Gavril Lightbringer the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aldric Proudmore the Strong (Professional - Rival)|Aldric Proudmore the Strong (Professional - Rival)]]
+- [[#Thalia Thornweave the Scholar (Personal - Nemesis)|Thalia Thornweave the Scholar (Personal - Nemesis)]]
+- [[#Aeliana Underhill the Cunning (Political - Ally)|Aeliana Underhill the Cunning (Political - Ally)]]
+
+
+---
 aliases: ["Gavril Lightbringer the Strong", "gavril lightbringer the strong", "Gavril Lightbringer Strong", "Strong the Lightbringer Gavril"]
 tags: [npc, character]
 type: npc
@@ -135,3 +156,15 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

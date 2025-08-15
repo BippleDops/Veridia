@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.464121
+modified: 2025-08-15T16:41:46.464125
+aliases: [NPC00778 Hilda Hawthorne the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Lyanna Zephyrblade the Risen (Professional - Rival)|Lyanna Zephyrblade the Risen (Professional - Rival)]]
+- [[#Solas Blackstone the Wanderer (Family - Child)|Solas Blackstone the Wanderer (Family - Child)]]
+- [[#Hestara Darkwater the Guardian (Family - Sibling)|Hestara Darkwater the Guardian (Family - Sibling)]]
+
+
+---
 aliases: ["Hilda Hawthorne the Risen", "hilda hawthorne the risen", "Hilda Hawthorne Risen", "Risen the Hawthorne Hilda"]
 tags: [npc, character]
 type: npc
@@ -243,3 +268,8 @@ Discovered something valuable
 - See also: [[step_024 (phase_016)]]
 - Related: [[step_038 (phase_040)]]
 - Influences [[step_028 (phase_072)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

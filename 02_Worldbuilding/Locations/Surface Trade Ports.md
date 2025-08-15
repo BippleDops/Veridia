@@ -230,3 +230,8 @@ Ongoing situations affecting Surface Trade Ports:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]

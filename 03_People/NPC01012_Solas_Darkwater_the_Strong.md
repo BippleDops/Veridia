@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.767220
+modified: 2025-08-15T16:41:40.767225
+aliases: [NPC01012 Solas Darkwater the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Qadim Brightblade the Seeker (Personal - Love interest)|Qadim Brightblade the Seeker (Personal - Love interest)]]
+- [[#Elric Zephyrblade the Wanderer (Personal - Ex-lover)|Elric Zephyrblade the Wanderer (Personal - Ex-lover)]]
+- [[#Wynne Ashford the Fallen (Family - Parent)|Wynne Ashford the Fallen (Family - Parent)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Solas Darkwater the Strong", "solas darkwater the strong", "Solas Darkwater Strong", "Strong the Darkwater Solastags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
@@ -6,7 +27,7 @@ type: npc
 
 # Solas Darkwater the Strong
 
-*Dragonborn Shopkeeper (Merchants), Age 22, Male*
+*Dragonborn Shopkeeper ([[Merchant]]s), Age 22, Male*
 
 **ID**: NPC01012
 
@@ -21,7 +42,7 @@ Below average and athletic, with Long and flowing red hair and Violet eyes. Frec
 **Clothing**: Courtier's elaborate outfit
 
 ## Personality
-- **Traits**: Believes in every conspiracy theory; Laughs at the most inappropriate times; Never uses people's real names; Always hungry and eating something
+- **Traits**: Believes in every conspiracy theory; Laughs at the most inappropriate [[Time]]s; Never uses people's real names; Always hungry and eating something
 - **Ideal**: Honor: My word is my bond, and I never break an oath
 - **Bond**: My weapon has been passed down for generations
 - **Flaw**: I drink too much and say things I shouldn't
@@ -145,13 +166,30 @@ Competitor sabotaging business
 - Special moves
 
 ## Combat Stats
-Base: **Noble** (MM p.348)
+Base: **Noble** (BC p.348)
 Modifications:
 - HP: 27
 - AC: 14
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[Keeper Elara Mindwell]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00207_Ysara_Ravenheart]]
+- [[Depth_Adapted_Background.md]]
+- [[Player_Comfort_Check]]
+- [[11 Rules Glossary]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
 - [[Related_Content]]
 
 
@@ -161,9 +199,9 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -175,7 +213,7 @@ Modifications:
 
 - Originates from [[darkness-xphb (variant-rules)]]
 - Requires [[QUEST00385_Side_Quest_386]]
-- Parallels [[Pressure Brewing Technology 2]]
+- Parallels [[[[Pressure Brewing Technology]] 2]]
 - Compare with [[NPC00902_Delara_Underhill_the_Seeker]]
 - Requires [[step_023]]
 - Influences [[step_009 (phase_038)]]
@@ -198,20 +236,20 @@ Modifications:
 - Requires [[LOC00130_Towns_Location_131]]
 - Originates from [[NPC00790_Ewan_Oakenshield_the_Lost]]
 - Parallels [[Item Artifact Dagger of Venom Xdmg V3 Dagger of Venom Xdmg.png]]
-- Related: [[Location City Void Prophet Nullus the Erased V1 Void Prophet Nullus the Erased.svg]]
+- Related: [[Location City [[Void Prophet Nullus the Erased]] V1 Void Prophet Nullus the Erased.svg]]
 - Leads to [[Portrait NPC the Scattered Emperor the Scattered Emperor.svg]]
 - Compare with [[Cloak of Many Fashions Xdmg]]
 - Leads to [[Portrait NPC the Harmony Collective V1 the Harmony Collective.svg_1 (Portraits)]]
 - Parallels [[Portrait NPC Sir Theron Crystalward Sir Theron Crystalward.svg_1 (Portraits)]]
-- Compare with [[Memoriam Keeper Marcus Remembrance]]
+- Compare with [[[[Memoriam]] Keeper Marcus Remembrance]]
 - Related: [[The Coral Palace Complex]]
-- Related: [[Coral Silkweaver 2]]
+- Related: [[[[Coral Silkweaver]] 2]]
 - Affected by [[greyhawk-wee-jas-xdmg (deities)]]
 - Related: [[Bartender Marina Dualborn]]
 - Influences [[ability-checks (tables)]]
 - Parallels [[Talking Doll Xdmg]]
 - See also: [[step_035]]
-- See also: [[Map Map Aethermoor Harbor Skirmish V1 Aethermoor Harbor Skirmish.png]]
+- See also: [[Map Map [[Aethermoor]] Harbor Skirmish V1 Aethermoor Harbor Skirmish.png]]
 - Affected by [[Portrait NPC Ethics Coordinator Elena Compassion Ethics Coordinator Elena Compassion.svg_1 (Portraits)]]
 - Compare with [[Light Gardeners]]
 - Influences [[Librarian Scholar Reef Documentcurrent]]
@@ -221,11 +259,11 @@ Modifications:
 - Related: [[NPC00704_Elric_Winterborn_the_Wise]]
 - Leads to [[The Watcher Sanctums]]
 - See also: [[Portrait NPC Captain Finn Crosscurrent V1 Captain Finn Crosscurrent.svg]]
-- Affected by [[Wave Merchant (D&D_References)]]
+- Affected by [[[[Wave Merchant]] (D&D_References)]]
 - Compare with [[Grazzt Mtf]]
 - Influences [[04_Resources_Assets_Locations_location-city-quartermaster-judith-steadfast-quartermaster-judith-steadfast.svg]]
 - Requires [[step_047 (phase_077)]]
-- Originates from [[The Archive of Unremembered Things (D&D_References)]]
+- Originates from [[[[The Archive of Unremembered Things]] (D&D_References)]]
 - Parallels [[NPC00176_Idris_Oakenshield]]
 - Influences [[Symbol Heraldry the Scream Archives the Scream Archives.svg]]
 - Originates from [[list-optfeaturetype-mm#Metamagic]]
@@ -236,12 +274,12 @@ Modifications:
 - Connects to [[step_046]]
 - Compare with [[step_041]]
 - See also: [[location-city-the-tidecaller-the-tidecaller.svg]]
-- Related: [[Location City Pressure Point Settlement V1 Pressure Point Settlement.svg]]
+- Related: [[Location City [[Pressure Point Settlement]] V1 Pressure Point Settlement.svg]]
 - Parallels [[step_030 (phase_071)]]
 - Influences [[step_047]]
 - Parallels [[MON00038_Constructs_Creature_39]]
 - See also: [[step_072]]
-- Requires [[Pressure Symbiont (D&D_References)]]
+- Requires [[[[Pressure Symbiont]] (D&D_References)]]
 - Requires [[QUEST00113_Side_Quest_114]]
 - Compare with [[ITEM00454_Warded_Cloak_of_the_Guardian]]
 - Compare with [[Merchant Guild Headquarters]]
@@ -251,8 +289,8 @@ Modifications:
 - Requires [[Handout Handout Guild License Certificate V3 Guild License Certificate.png]]
 - Originates from [[scroll-of-titan-summoning-kraken-xdmg (items)]]
 - Parallels [[ITEM0098_Cursed_Tome_of_the_Dawn]]
-- Connects to [[Location City Deep Studycurrent Deep Studycurrent.svg]]
-- Affected by [[Quartermaster Sterling Suppystone 2]]
+- Connects to [[Location City [[Deep Studycurrent]] Deep Studycurrent.svg]]
+- Affected by [[[[Quartermaster Sterling Suppystone]] 2]]
 - Originates from [[Void Krakens]]
 - See also: [[ITEM01052_Superior_Oil_of_Fortune]]
 - Requires [[09-adventuring#Resting]]
@@ -271,5 +309,16 @@ Modifications:
 - Compare with [[Dr. Shade Scalpel]]
 - Originates from [[MON00056_Constructs_Creature_57]]
 - See also: [[step_086 (phase_028)]]
-- Requires [[Entertainment Industry (D&D_References)]]
+- Requires [[[[Entertainment Industry]] (D&D_References)]]
 - Connects to [[02_Worldbuilding_People_Veritas_the_Drowned]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

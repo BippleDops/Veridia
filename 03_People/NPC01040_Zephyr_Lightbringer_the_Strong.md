@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.487786
+modified: 2025-08-15T16:41:41.487791
+aliases: [NPC01040 Zephyr Lightbringer the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Jadeclaw the Risen (Personal - Ex-lover)|Thalia Jadeclaw the Risen (Personal - Ex-lover)]]
+- [[#Gareth Goldleaf the Cunning (Professional - Employee)|Gareth Goldleaf the Cunning (Professional - Employee)]]
+- [[#Kaelen Blackstone the Broken (Family - Parent)|Kaelen Blackstone the Broken (Family - Parent)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Zephyr Lightbringer the Strong", "zephyr lightbringer the strong", "Zephyr Lightbringer Strong", "Strong the Lightbringer Zephyrtags: [npc, character, combat, magic, social, exploration, puzzle, lore]er]
 type: npc
@@ -6,7 +27,7 @@ type: npc
 
 # Zephyr Lightbringer the Strong
 
-*Tabaxi Appraiser (Merchants), Age 50, Male*
+*Tabaxi Appraiser ([[Merchant]]s), Age 50, Male*
 
 **ID**: NPC01040
 
@@ -30,7 +51,7 @@ Above average and stocky, with Mohawk white hair and Heterochromic eyes. Olive s
 - **Dream**: Becoming a hero
 
 ## Background
-Former adventurer who retired to open a shop An old debt has come due at the worst possible time.
+Former adventurer who retired to open a shop An old debt has come due at the worst possible [[Time]].
 
 ## Current Situation
 - **Occupation**: Cloth merchant
@@ -144,6 +165,30 @@ Seeks rare merchandise
 - Special moves
 
 ## See Also
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[Combat_Encounter_Analysis]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[04 Classes]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[10 Combat]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[NPC00259_Delara_Proudmore]]
+- [[11 Rules Glossary]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[Concept_Map]]
+- [[NPC00670_Xander_Goldleaf_the_Scholar]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[Marcus Shardbreaker Grimm_1]]
+- [[NPC00378_Malakai_Moonshadow_the_Broken]]
 - [[Related_Content]]
 
 
@@ -153,9 +198,9 @@ Seeks rare merchandise
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -177,16 +222,16 @@ Seeks rare merchandise
 - See also: [[dragon-hide-xge (feats)]]
 - Requires [[The Overflow 2]]
 - Originates from [[NPC00697_Jorah_Stormwind_the_Mystic]]
-- Requires [[Ancient Treasury of Tides 2]]
+- Requires [[[[Ancient Treasury of Tides]] 2]]
 - Originates from [[step_097]]
 - Affected by [[healers-kit-xphb (items)]]
 - Leads to [[Timeline Trackerbase]]
 - Affected by [[step_006 (phase_012)]]
 - Connects to [[step_084 (phase_058)]]
-- Requires [[Location City Noble Quarter Council Chambers V1 Noble Quarter Council Chambers.svg]]
+- Requires [[Location City [[[[Noble Quarter]] Council Chambers]] V1 Noble Quarter Council Chambers.svg]]
 - Connects to [[Blessed Mother Thalassa the Transformed]]
 - Requires [[step_075]]
-- Originates from [[Archivist Reef Bookkeeper 2]]
+- Originates from [[[[Archivist Reef Bookkeeper]] 2]]
 - Leads to [[step_060 (phase_020)]]
 - Originates from [[NPC01444_Pyria_Brightblade_the_Seeker]]
 - Leads to [[step_011]]
@@ -198,11 +243,11 @@ Seeks rare merchandise
 - See also: [[step_059 (phase_062)]]
 - Related: [[NPC01962_Corvus_Underhill_the_Lost]]
 - Parallels [[QUEST00053_Main_Quest_54]]
-- See also: [[Master_Quest_Index]]
+- See also: [[Master_Quest_[[INDEX]]]]
 - Connects to [[step_072]]
 - See also: [[Symbol Heraldry the Silence Experiments the Silence Experiments.svg]]
 - Requires [[location-city-memory-thief-v1-memory-thief.svg]]
-- Related: [[Memory Parasite Infection 2]]
+- Related: [[[[Memory Parasite Infection]] 2]]
 - Originates from [[Void Storm]]
 - Affected by [[04_Resources_Assets_Locations_location-city-transportation-guild-masters-v1-transportation-guild-masters.svg]]
 - Leads to [[NPC00172_Urien_Zephyrblade_the_Lost]]
@@ -215,8 +260,8 @@ Seeks rare merchandise
 - Connects to [[step_022 (phase_049)]]
 - Influences [[LORE00061_Legends_Entry_62]]
 - Originates from [[step_033 (phase_026)]]
-- Leads to [[Assets Locations Location City Twilight Depths V1 Twilight Depths.svg]]
-- Requires [[Assets Locations Location City Stormwind Supplies Stormwind Supplies.png]]
+- Leads to [[Assets Locations Location City [[Twilight Depths]] V1 Twilight Depths.svg]]
+- Requires [[Assets Locations Location City [[Stormwind Supplies]] Stormwind Supplies.png]]
 - Requires [[Kelp Highway (D&D_References)]]
 - Related: [[Master Cultivators Guild]]
 - Compare with [[step_093]]
@@ -231,13 +276,13 @@ Seeks rare merchandise
 - Originates from [[step_033 (phase_066)]]
 - Affected by [[step_067 (phase_009)]]
 - Leads to [[step_094]]
-- Related: [[Location City Lord Reginald Seaworthy V1 Lord Reginald Seaworthy.svg]]
+- Related: [[Location City [[Lord Reginald Seaworthy]] V1 Lord Reginald Seaworthy.svg]]
 - Parallels [[Sarah Chronicler 2]]
 - Connects to [[QUEST00272_Side_Quest_273]]
-- Affected by [[Location City Harbormaster Tidal Stormcrest Harbormaster Tidal Stormcrest.svg]]
+- Affected by [[Location City [[Harbormaster [[Tidal Stormcrest]]]] Harbormaster Tidal Stormcrest.svg]]
 - Requires [[Navigator Slyph Currentwhisper]]
 - See also: [[MON00035_Aberrations_Creature_36]]
-- Related: [[Assets Locations Location City the Missing Diplomat the Missing Diplomat.svg]]
+- Related: [[Assets Locations [[Location City [[The Missing Diplomat]] the Missing Diplomat.svg]]]]
 - Leads to [[conditions#prone]]
 - Influences [[step_008 (phase_069)]]
 - Influences [[Vote Engineer Abyssal Cog (D&D_References)]]
@@ -249,8 +294,8 @@ Seeks rare merchandise
 - Compare with [[Master_Spell_Compendium]]
 - Related: [[City Watch]]
 - See also: [[step_002]]
-- Compare with [[Location City Chief Engineer Vera Steamheart Chief Engineer Vera Steamheart.svg]]
-- Originates from [[Assets Locations Location City Harbor Facilities V1 Harbor Facilities.svg]]
+- Compare with [[Location City [[Chief Engineer Vera Steamheart]] Chief Engineer Vera Steamheart.svg]]
+- Originates from [[Assets Locations [[Location City [[Harbor Facilities]] V1 Harbor Facilities.svg]]]]
 - Compare with [[banshee-xmm (undead)]]
 - Influences [[Assets Portraits Portrait NPC Pirate Lords of the Spiral Depths Pirate Lords of the Spiral Depths.svg]]
 - See also: [[step_076 (phase_096)]]
@@ -265,3 +310,14 @@ Seeks rare merchandise
 - Originates from [[step_089]]
 - Compare with [[QUEST00145_Personal_Quest_146]]
 - Requires [[Shadow Broker Maximian Darkmarket (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
+![[03_People/portrait_zephyr_goldwhisper_standard.png]]
+![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Cedric Youngblood the Mystic
 
 *Dragonborn Heir (Nobles), Age 51, Male*

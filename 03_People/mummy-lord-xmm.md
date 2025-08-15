@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_mummy_lord_xmm_friendly.png]]
+
+
 # mummy-lord-xmm
 
 ## Basic Information

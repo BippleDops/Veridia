@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Baelor Nightfall the Wise
 
 *Gnome Baker (Commoners), Age 71, Non-binary*

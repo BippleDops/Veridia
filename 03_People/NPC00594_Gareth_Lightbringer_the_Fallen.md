@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.666697
+modified: 2025-08-15T16:41:46.666701
+aliases: [NPC00594 Gareth Lightbringer the Fallen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gareth Stormwind the Broken (Political - Ally)|Gareth Stormwind the Broken (Political - Ally)]]
+- [[#Lyanna Nightfall the Lost (Family - Parent)|Lyanna Nightfall the Lost (Family - Parent)]]
+- [[#Urien Grimholt the Swift (Political - Puppet)|Urien Grimholt the Swift (Political - Puppet)]]
+
+
+---
 aliases: ["Gareth Lightbringer the Fallen", "gareth lightbringer the fallen", "Gareth Lightbringer Fallen", "Fallen the Lightbringer Gareth"]
 tags: [npc, character]
 type: npc
@@ -245,3 +266,14 @@ Discovered something valuable
 - Connects to [[NPC01923_Aeliana_Darkwater_the_Cunning]]
 - Leads to [[sample-mental-stress-effects-xdmg (tables)]]
 - Parallels [[FAC00058_Orders_59]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
+![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

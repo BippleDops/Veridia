@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.048818
+modified: 2025-08-15T16:41:44.048821
+aliases: [NPC00394 Fiora Blackstone the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Qadim Quicksilver the Bold (Criminal - Handler)|Qadim Quicksilver the Bold (Criminal - Handler)]]
+- [[#Gavril Blackstone the Wanderer (Professional - Rival)|Gavril Blackstone the Wanderer (Professional - Rival)]]
+- [[#Wynne Dawnstrider (Political - Puppet)|Wynne Dawnstrider (Political - Puppet)]]
+
+
+---
 aliases: ["Fiora Blackstone the Fallen", "fiora blackstone the fallen", "Fiora Blackstone Fallen", "Fallen the Blackstone Fiora"]
 tags: [npc, character]
 type: npc
@@ -256,3 +281,8 @@ Needs discrete help with family scandal
 - Parallels [[LORE00152_History_Entry_153]]
 - Compare with [[LORE00069_Prophecies_Entry_70]]
 - Originates from [[location-city-pelagic-cup-pelagic-cup.svg]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

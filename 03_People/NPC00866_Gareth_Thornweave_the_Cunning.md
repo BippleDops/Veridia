@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.949546
+modified: 2025-08-15T16:41:42.949550
+aliases: [NPC00866 Gareth Thornweave the Cunning]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gavril Thornweave the Cunning (Professional - Mentor)|Gavril Thornweave the Cunning (Professional - Mentor)]]
+- [[#Felicia Ashford the Bold (Family - Cousin)|Felicia Ashford the Bold (Family - Cousin)]]
+- [[#Qadim Xendar the Risen (Criminal - Handler)|Qadim Xendar the Risen (Criminal - Handler)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Gareth Thornweave the Cunning", "gareth thornweave the cunning", "Gareth Thornweave Cunning", "Cunning the Thornweave Gareth"]
 tags: [npc, character]
@@ -146,11 +167,11 @@ Competitor sabotaging business
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -260,3 +281,14 @@ Competitor sabotaging business
 - Originates from [[NPC01998_Solas_Silverleaf_the_Guardian]]
 - Originates from [[step_080]]
 - Related: [[EVENT00090_Magical_Event_91]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
+![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

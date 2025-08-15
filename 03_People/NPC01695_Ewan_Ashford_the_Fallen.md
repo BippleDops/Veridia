@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.334901
+modified: 2025-08-15T16:41:41.334904
+aliases: [NPC01695 Ewan Ashford the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Drusilla Silverleaf the Redeemed (Family - Child)|Drusilla Silverleaf the Redeemed (Family - Child)]]
+- [[#Ysara Stormwind the Guardian (Personal - Best friend)|Ysara Stormwind the Guardian (Personal - Best friend)]]
+- [[#Urien Voidwalker the Broken (Professional - Partner)|Urien Voidwalker the Broken (Professional - Partner)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Ewan Ashford the Fallen", "ewan ashford the fallen", "Ewan Ashford Fallen", "Fallen the Ashford Ewantags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
@@ -11,7 +36,7 @@ type: npc
 **ID**: NPC01695
 
 ## Quick Reference
-- **Location**: The Gilded Serpent tavern in the merchant quarter
+- **Location**: [[The Gilded Serpent]] [[Tavern]] in the [[[[Merchant]] Quarter]]
 - **Occupation**: Cult leader
 - **Disposition**: Compulsive liar about minor things
 
@@ -149,6 +174,33 @@ Offers deal too good to refuse
 - Special moves
 
 ## See Also
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[Pilgrim_Pass_Prayer_Sli]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[Faction_Guide.md]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[12 Spells]]
+- [[11 Rules Glossary]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[MOC_Items]]
 - [[Related_Content]]
 
 
@@ -158,10 +210,10 @@ Offers deal too good to refuse
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -171,33 +223,33 @@ Offers deal too good to refuse
 
 ## Connections
 
-- Originates from [[Time's Mercy 2]]
+- Originates from [[[[Time]]'s Mercy 2]]
 - Originates from [[LOC00114_Dungeons_Location_115]]
 - Influences [[QUEST00239_Personal_Quest_240]]
 - Affected by [[The Abyssal Prophet]]
 - Originates from [[devil-customization-tables (tables)]]
 - Connects to [[ENC00160_Combat_Encounter_161]]
-- Leads to [[Museums 2]]
+- Leads to [[[[Museums]] 2]]
 - Compare with [[02-chapter-1-playing-the-game#Difficult Terrain]]
 - See also: [[step_094 (phase_053)]]
 - Compare with [[LORE00092_Prophecies_Entry_93]]
 - Requires [[step_026 (phase_099)]]
-- Parallels [[Location City the Transition Centers the Transition Centers.svg]]
+- Parallels [[Location City [[The Transition Centers]] the Transition Centers.svg]]
 - Affected by [[Portrait NPC Umbral Crystal Miners V2 Umbral Crystal Miners.svg_1 (Portraits)]]
-- Leads to [[Portrait NPC the Royal Treasury Depths V2 the Royal Treasury Depths.svg_1 (Portraits)]]
+- Leads to [[Portrait NPC the [[Royal Treasury]] Depths V2 the Royal Treasury Depths.svg_1 (Portraits)]]
 - Parallels [[step_069]]
 - Parallels [[The Reality Compass]]
-- Related: [[The Tethyan Hegemony (D&D_References)]]
+- Related: [[The [[Tethyan Hegemony]] (D&D_References)]]
 - Compare with [[Portrait NPC Coral Empress Scarletina V2 Coral Empress Scarletina.svg_1 (Portraits)]]
 - Parallels [[LOC00288_Wilderness_Location_289]]
 - Related: [[LORE00284_History_Entry_285]]
-- Affected by [[Memoriam Keeper Marcus Remembrance (D&D_References)]]
+- Affected by [[[[[[Memoriam]] Keeper Marcus Remembrance]] (D&D_References)]]
 - Parallels [[step_068 (phase_091)]]
 - Originates from [[LOC00285_Towns_Location_286]]
 - Influences [[Cultural Exchange Society (Cultural_Organizations)]]
 - See also: [[Portrait NPC Gallery Guide Captain Marina Civicvoice Gallery Guide Captain Marina Civicvoice.svg]]
 - Leads to [[SHOP00042_General_Shop_43]]
-- See also: [[Quartermaster David Simpleton 2]]
+- See also: [[[[Quartermaster David Simpleton]] 2]]
 - Leads to [[step_098]]
 - Originates from [[step_068 (phase_081)]]
 - Affected by [[The Shadow Operating Theater]]
@@ -211,7 +263,7 @@ Offers deal too good to refuse
 - Connects to [[Marcus Thornwhispe]]
 - Affected by [[LOC00040_Dungeons_Location_41]]
 - Requires [[The Debt Collectors]]
-- Originates from [[Assets Locations Location City Temporal Viewing Chambers V1 Temporal Viewing Chambers.svg]]
+- Originates from [[Assets Locations Location City [[Temporal Viewing Chambers]] V1 Temporal Viewing Chambers.svg]]
 - Parallels [[creature-creature-sphinx-xmm-v2-sphinx-xmm.png]]
 - See also: [[babau-mpmm (fiend)]]
 - Compare with [[Neural Pattern Recognition System]]
@@ -233,7 +285,7 @@ Offers deal too good to refuse
 - Connects to [[step_088 (phase_013)]]
 - Connects to [[step_051]]
 - Parallels [[step_053 (phase_044)]]
-- Affected by [[Port Meridian - Market District 2]]
+- Affected by [[[[Port Meridian]] - Market District 2]]
 - Influences [[Houses_and_Nobility___House_Brightshield]]
 - Related: [[step_070 (phase_084)]]
 - Influences [[step_001 (phase_039)]]
@@ -252,7 +304,7 @@ Offers deal too good to refuse
 - Affected by [[Portrait NPC the Leviathan Prophets V1 the Leviathan Prophets.svg_1 (Portraits)]]
 - Compare with [[Downtime Activity Gaining Renown]]
 - Compare with [[dust-of-sneezing-and-choking-xdmg (items)]]
-- Related: [[Assets Locations Location City the Trencher Folk the Trencher Folk.svg]]
+- Related: [[Assets Locations Location City [[The Trencher Folk]] the Trencher Folk.svg]]
 - Influences [[deck-of-illusions (decks)]]
 - Parallels [[step_028 (phase_088)]]
 - Connects to [[04_Resources_Assets_Symbols_symbol-heraldry-divine-transformation-theolog-divine-transformation-theolog.svg]]
@@ -265,9 +317,14 @@ Offers deal too good to refuse
 - Compare with [[Vargouille Mpmm]]
 - Connects to [[cone-area-of-effect-xphb (variant-rules)]]
 - Originates from [[norse-surtur (deities)]]
-- Requires [[Location City Amnesia Gallery V1 Amnesia Gallery.svg]]
+- Requires [[Location City [[Amnesia Gallery]] V1 Amnesia Gallery.svg]]
 - Related: [[Standard Languages Phb]]
 - See also: [[step_019]]
-- Requires [[The Crystal Cathedral 2]]
+- Requires [[[[The Crystal Cathedral]] 2]]
 - Affected by [[Aetheric Wind Songs (Lore)]]
 - Leads to [[Social Architect Luna Newdawn]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

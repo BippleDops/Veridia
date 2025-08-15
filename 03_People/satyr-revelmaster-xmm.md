@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_satyr_revelmaster_xmm_friendly.png]]
+
+
 # satyr-revelmaster-xmm
 
 ## Basic Information

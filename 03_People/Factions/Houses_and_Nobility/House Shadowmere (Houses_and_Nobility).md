@@ -26,6 +26,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # House Shadowmere
 *"In Darkness, Truth"*
 

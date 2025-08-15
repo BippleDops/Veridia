@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Zephyr Emberfall the Scholar
 
 *Elf Rogue (Adventurers), Age 52, Non-binary*

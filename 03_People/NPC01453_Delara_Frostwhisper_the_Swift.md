@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.029052
+modified: 2025-08-15T16:41:43.029055
+aliases: [NPC01453 Delara Frostwhisper the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Jadeclaw the Lost (Political - Opposition)|Thalia Jadeclaw the Lost (Political - Opposition)]]
+- [[#Lyanna Dawnstrider the Strong (Family - Spouse)|Lyanna Dawnstrider the Strong (Family - Spouse)]]
+- [[#Hilda Ironwood the Seeker (Criminal - Handler)|Hilda Ironwood the Seeker (Criminal - Handler)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Delara Frostwhisper the Swift", "delara frostwhisper the swift", "Delara Frostwhisper Swift", "Swift the Frostwhisper Delara"]
 tags: [npc, character]
@@ -156,20 +177,20 @@ Knows secret about major threat
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Monster Manual (MM) p.299
-- Tasha's Cauldron of Everything (TCE) p.137
+- Bestiary Compendium (BC) p.299
+- Tasha's Mystical Formulae of Everything (TMF) p.137
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -177,9 +198,9 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -289,3 +310,14 @@ Following magic item guidelines (DMG p.135-136):
 - Related: [[ITEM00758_Void-touched_Scepter_of_Truth]]
 - Parallels [[secondary-tables-weird-stuff-xge (tables)]]
 - Originates from [[NPC00868_Aldric_Crystalbrook_the_Strong]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

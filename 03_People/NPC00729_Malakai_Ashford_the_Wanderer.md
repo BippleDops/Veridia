@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Malakai Ashford the Wanderer
 
 *Gnome Fisher (Commoners), Age 51, Non-binary*

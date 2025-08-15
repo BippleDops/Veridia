@@ -244,3 +244,7 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]

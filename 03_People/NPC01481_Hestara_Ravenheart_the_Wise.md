@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.024681
+modified: 2025-08-15T16:41:44.024683
+aliases: [NPC01481 Hestara Ravenheart the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Lyanna Ironwood the Guardian (Family - Child)|Lyanna Ironwood the Guardian (Family - Child)]]
+- [[#Gareth Youngblood the Guardian (Professional - Mentor)|Gareth Youngblood the Guardian (Professional - Mentor)]]
+- [[#Caelum Darkwater the Broken (Family - Spouse)|Caelum Darkwater the Broken (Family - Spouse)]]
+
+
+---
 aliases: ["Hestara Ravenheart the Wise", "hestara ravenheart the wise", "Hestara Ravenheart Wise", "Wise the Ravenheart Hestara"]
 tags: [npc, character]
 type: npc
@@ -239,3 +260,14 @@ Knows secret about major threat
 - Related: [[Assets Locations Location City Throne Room Heart of Palace V1 Throne Room Heart of Palace.svg]]
 - Compare with [[Keeper Elara Mindwell]]
 - See also: [[Monsters by Habitat Forest Monsters Xmm]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

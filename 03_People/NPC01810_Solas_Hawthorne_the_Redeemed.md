@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Hawthorne the Redeemed
 
 *Goliath Cultist (Villains), Age 42, Male*

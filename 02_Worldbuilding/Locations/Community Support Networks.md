@@ -223,3 +223,7 @@ Ongoing situations affecting Community Support Networks:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]

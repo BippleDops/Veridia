@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Malakai Hawthorne the Strong
 
 *Tabaxi Trader (Merchants), Age 62, Non-binary*

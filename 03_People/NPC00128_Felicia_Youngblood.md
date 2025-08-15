@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Felicia Youngblood
 
 *Dwarf Noble (Nobles), Age 62, Female*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Alaric Ironforge
 
 *Half-Orc Ambassador (Nobles), Age 24, Non-binary*

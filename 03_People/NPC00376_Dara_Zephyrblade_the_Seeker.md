@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Dara Zephyrblade the Seeker
 
 *Firbolg Heir (Nobles), Age 32, Non-binary*

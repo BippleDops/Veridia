@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Urien Moonshadow the Wise
 
 *Tiefling Cultist (Villains), Age 37, Non-binary*

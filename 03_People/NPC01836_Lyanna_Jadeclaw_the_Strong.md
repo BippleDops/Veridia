@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.893962
+modified: 2025-08-15T16:41:43.893964
+aliases: [NPC01836 Lyanna Jadeclaw the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Caelum Zephyrblade the Redeemed (Criminal - Fence)|Caelum Zephyrblade the Redeemed (Criminal - Fence)]]
+- [[#Gareth Goldleaf the Broken (Personal - Childhood friend)|Gareth Goldleaf the Broken (Personal - Childhood friend)]]
+- [[#Qadim Crystalbrook the Scholar (Political - Ally)|Qadim Crystalbrook the Scholar (Political - Ally)]]
+
+
+---
 aliases: ["Lyanna Jadeclaw the Strong", "lyanna jadeclaw the strong", "Lyanna Jadeclaw Strong", "Strong the Jadeclaw Lyanna"]
 tags: [npc, character]
 type: npc
@@ -245,3 +266,14 @@ Provides information for a price
 - Requires [[warhorse-xmm (beast)]]
 - Requires [[Conjure Barrage Xphb]]
 - See also: [[adult-bronze-dragon-xmm (dragon)]]
+
+## Visual References
+![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
+![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
+![[03_People/portrait_captain_lyanna_brightshield.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

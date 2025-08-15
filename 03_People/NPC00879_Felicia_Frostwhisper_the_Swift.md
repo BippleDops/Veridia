@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Felicia Frostwhisper the Swift
 
 *Goliath Shopkeeper (Merchants), Age 47, Male*

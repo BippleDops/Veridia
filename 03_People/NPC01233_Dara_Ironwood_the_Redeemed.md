@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.328987
+modified: 2025-08-15T16:41:43.328991
+aliases: [NPC01233 Dara Ironwood the Redeemed]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Vesper Jadeclaw the Risen (Family - Cousin)|Vesper Jadeclaw the Risen (Family - Cousin)]]
+- [[#Alaric Proudmore the Redeemed (Personal - Ex-lover)|Alaric Proudmore the Redeemed (Personal - Ex-lover)]]
+- [[#Thalia Blackstone the Strong (Political - Spy)|Thalia Blackstone the Strong (Political - Spy)]]
+
+
+---
 aliases: ["Dara Ironwood the Redeemed", "dara ironwood the redeemed", "Dara Ironwood Redeemed", "Redeemed the Ironwood Dara"]
 tags: [npc, character]
 type: npc
@@ -243,3 +264,14 @@ Forming expedition to dangerous location
 - See also: [[Coming-of-Age Traditions and Ceremonies]]
 - Connects to [[The Community Sky-Platforms]]
 - Connects to [[step_009 (phase_057)]]
+
+## Visual References
+![[03_People/portrait_captain_dara_ironwill_friendly.png]]
+![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
+![[03_People/portrait_captain_dara_ironwill_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

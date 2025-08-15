@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Faelyn Keenblade the Scholar
 
 *Genasi Corrupt Noble (Villains), Age 56, Non-binary*

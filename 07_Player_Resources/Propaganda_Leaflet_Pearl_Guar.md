@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:39.607764
+modified: 2025-08-15T16:41:39.607770
+aliases: [Propaganda Leaflet Pearl Guar]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+- [[#Sensory Improvements|Sensory Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+- [[#Oral_Tradition Improvements|Oral_Tradition Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Visual_Handouts/Propaganda_Leaflet_Pearl_Guar
 type: lore
@@ -105,6 +126,22 @@ tags: [combat, lore]
 > Notable saying or prophecy
 
 ## See Also
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00259_Delara_Proudmore]]
+- [[Shared_Lore]]
+- [[Character_Journal_Template]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[Basic_Rules]]
+- [[NPC00670_Xander_Goldleaf_the_Scholar]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC00058_Elric_Nightfall]]
+- [[04 Classes]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
 - [[Related_Content]]
 
 
@@ -114,15 +151,15 @@ tags: [combat, lore]
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -226,3 +263,8 @@ tags: [combat, lore]
 - Related: [[Assets Locations Location City Portal Technician Voidwalk V1 Portal Technician Voidwalk.svg]]
 - Compare with [[Internal Affairs Divisio (D&D_References)]]
 - Compare with [[Armor of Psychic Resistance Xdmg]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_master_curator_pearl_artflow_master_curator_pearl_artflow_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_master_curator_pearl_artflow_v1_master_curator_pearl_artflow_svg_friendly.png]]
+![[03_People/portrait_madame_pearl_currentflow_friendly.png]]

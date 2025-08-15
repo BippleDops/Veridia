@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.935035
+modified: 2025-08-15T16:41:41.935039
+aliases: [NPC00601 Vesper Ironwood the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Drusilla Underhill the Lost (Political - Ally)|Drusilla Underhill the Lost (Political - Ally)]]
+- [[#Elric Ravenheart the Seeker (Professional - Employee)|Elric Ravenheart the Seeker (Professional - Employee)]]
+- [[#Dara Quicksilver the Wise (Professional - Employee)|Dara Quicksilver the Wise (Professional - Employee)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Vesper Ironwood the Guardian", "vesper ironwood the guardian", "Vesper Ironwood Guardian", "Guardian the Ironwood Vesper"]
 tags: [npc, character]
@@ -146,6 +167,59 @@ Being extorted by criminals
 - Special moves
 
 ## See Also
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC01113_Solas_Ravenheart_the_Cunning]]
+- [[NPC00615_Lyanna_Moonshadow_the_Lost]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00237_Vesper_Ashford_the_Bold]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01939_Orion_Nightfall_the_Bold]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]
+- [[NPC00046_Urien_Ironwood_the_Wise]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[Pilgrim_Pass_Prayer_Sli]]
+- [[Faction_Relationship_Web]]
+- [[Letter_From_the_Pearl_Guard_Captai]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Quiet_Chapel_Oath_Scrol]]
+- [[Quick_Start_Guide.md]]
+- [[Dockworker_Union_Flyer.md]]
+- [[09 Appendix a the Multiverse]]
+- [[09 Adventuring]]
+- [[Possession Xphb]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[16 Credits]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[02 Step by Step Characters]]
+- [[MOC_Lore]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[Player_Comfort_Check]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[Sage Elara]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[Complete_NPC_Matrix.md]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
 - [[Related_Content]]
 
 
@@ -155,9 +229,9 @@ Being extorted by criminals
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -267,3 +341,14 @@ Being extorted by criminals
 - See also: [[ENC00409_Combat_Encounter_410]]
 - Requires [[Portrait NPC High Priestess Scylla Deepdream High Priestess Scylla Deepdream.svg]]
 - Compare with [[Stormwind's Navigation Crystal 2]]
+
+## Visual References
+![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
+![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
+![[03_People/portrait_commander_thrace_ironwood.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -27,6 +27,10 @@ wealth: Limited (donations and seized assets)
 world: Aethermoor
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 
 
 

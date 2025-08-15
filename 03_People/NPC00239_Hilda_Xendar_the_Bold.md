@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Hilda Xendar the Bold
 
 *Dragonborn Aristocrat (Nobles), Age 28, Male*

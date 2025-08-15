@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.434793
+modified: 2025-08-15T16:41:44.434799
+aliases: [NPC00834 Aldric Winterborn the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Idris Zephyrblade the Redeemed (Personal - Best friend)|Idris Zephyrblade the Redeemed (Personal - Best friend)]]
+- [[#Idris Lightbringer the Strong (Political - Puppet)|Idris Lightbringer the Strong (Political - Puppet)]]
+- [[#Corvus Jadeclaw the Fallen (Professional - Employee)|Corvus Jadeclaw the Fallen (Professional - Employee)]]
+
+
+---
 aliases: ["Aldric Winterborn the Wanderer", "aldric winterborn the wanderer", "Aldric Winterborn Wanderer", "Wanderer the Winterborn Aldric"]
 tags: [npc, character]
 type: npc
@@ -255,3 +276,14 @@ Seeks rare merchandise
 - Connects to [[step_059 (phase_065)]]
 - Parallels [[Will O Wisp Xmm]]
 - See also: [[Disaster Prevention Centers (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
+![[03_People/portrait_duke_aldric_blackwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Gavril Jadeclaw
 
 *Halfling Aristocrat (Nobles), Age 74, Non-binary*

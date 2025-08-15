@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.303447
+modified: 2025-08-15T16:41:46.303451
+aliases: [NPC00244 Idris Goldleaf the Risen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Fiora Quicksilver (Criminal - Target)|Fiora Quicksilver (Criminal - Target)]]
+- [[#Dara Ravenheart the Swift (Political - Spy)|Dara Ravenheart the Swift (Political - Spy)]]
+- [[#Kaelen Ashford (Political - Patron)|Kaelen Ashford (Political - Patron)]]
+
+
+---
 aliases: ["Idris Goldleaf the Risen", "idris goldleaf the risen", "Idris Goldleaf Risen", "Risen the Goldleaf Idris"]
 tags: [npc, character]
 type: npc
@@ -238,3 +259,14 @@ Seeks bodyguards for dangerous journey
 - Parallels [[ENC00286_Social_Encounter_287]]
 - Originates from [[Grief Counseling 2]]
 - Leads to [[LOC00270_Cities_Location_271]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_dramatic.png]]
+![[03_People/portrait_lady_seraphina_goldleaf_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

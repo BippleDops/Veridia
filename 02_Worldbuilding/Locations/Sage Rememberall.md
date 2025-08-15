@@ -232,3 +232,8 @@ Ongoing situations affecting Sage Rememberall:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]

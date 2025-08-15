@@ -27,6 +27,10 @@ updated: '2025-08-13T12:34:17.307686+00:00'
 world: Aquabyssos
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 
 
 

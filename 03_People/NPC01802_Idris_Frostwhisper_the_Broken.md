@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Frostwhisper the Broken
 
 *Dragonborn Assassin (Villains), Age 38, Female*

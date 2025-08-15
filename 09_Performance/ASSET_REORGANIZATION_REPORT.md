@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:25.201985
+modified: 2025-08-15T16:41:25.201989
+aliases: [ASSET REORGANIZATION REPORT]
+---
+
+## Table of Contents
+- [[#Summary|Summary]]
+- [[#Statistics|Statistics]]
+- [[#New Organization|New Organization]]
+- [[#Tagging System|Tagging System]]
+- [[#Tag Categories Applied:|Tag Categories Applied:]]
+- [[#Benefits|Benefits]]
+- [[#Usage|Usage]]
+- [[#Finding Assets by Tag:|Finding Assets by Tag:]]
+- [[#[[TAG_CATALOG|Tag Catalog]]:|[[TAG_CATALOG|Tag Catalog]]:]]
+- [[#See Also|See Also]]
+
+
 -tags: [misc, combat, magic, exploration, puzzle, lore]sc]
 type: misc
 aliases: ["ASSET REORGANIZATION REPORT"]
@@ -84,24 +105,24 @@ See `04_Resources/Assets/TAG_CATALOG.md` for complete tag index
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Combat**: See PHB p.189-198
+- **Ability Checks**: See ACX p.174
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -205,3 +226,8 @@ See `04_Resources/Assets/TAG_CATALOG.md` for complete tag index
 - See also: [[step_018 (phase_024)]]
 - Requires [[step_046 (phase_045)]]
 - Leads to [[NPC00422_Aeliana_Thornweave_the_Wise]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_marina_reefbuilder_professor_marina_reefbuilder_svg_standard.png]]
+![[03_People/portrait_assets_locations_location_city_quartermaster_sterling_suppystone_quartermaster_sterling_suppystone_svg_friendly.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_navigation_geography_navigation_geography_svg_standard.png]]

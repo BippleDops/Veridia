@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hilda Emberfall the Swift
 
 *Human Cleric (Adventurers), Age 31, Non-binary*

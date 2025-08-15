@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Felicia Zephyrblade the Redeemed
 
 *Firbolg Cleric (Adventurers), Age 63, Male*

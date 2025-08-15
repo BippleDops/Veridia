@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Hawthorne the Bold
 
 *Aasimar Crime Boss (Villains), Age 64, Female*

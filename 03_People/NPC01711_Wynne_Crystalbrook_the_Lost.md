@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Wynne Crystalbrook the Lost
 
 *Firbolg Cultist (Villains), Age 58, Female*

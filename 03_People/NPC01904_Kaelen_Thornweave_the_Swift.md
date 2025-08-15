@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Kaelen Thornweave the Swift
 
 *Gnome Corrupt Noble (Villains), Age 66, Male*

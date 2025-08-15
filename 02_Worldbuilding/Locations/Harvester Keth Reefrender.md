@@ -242,3 +242,7 @@ Ongoing situations affecting Harvester Keth Reefrender:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00395_Aeliana_Thornweave]]

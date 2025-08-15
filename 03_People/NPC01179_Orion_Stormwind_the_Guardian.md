@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Orion Stormwind the Guardian
 
 *Dragonborn Caravan Master (Merchants), Age 66, Female*

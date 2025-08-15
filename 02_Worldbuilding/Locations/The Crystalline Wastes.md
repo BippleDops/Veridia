@@ -166,3 +166,8 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01625_Qadim_Lightbringer_the_Swift]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]

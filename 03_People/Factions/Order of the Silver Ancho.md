@@ -16,6 +16,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![02_Worldbuilding/Groups/Order of the Silver Ancho](../../04_Resources/Assets/Misc/02_worldbuilding_groups_order_of_the_silver_ancho.png)
 
 ## 🔧 Deep Evaluation Improvements

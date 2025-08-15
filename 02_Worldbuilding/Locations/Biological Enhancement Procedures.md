@@ -243,3 +243,7 @@ Ongoing situations affecting Biological Enhancement Procedures:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]

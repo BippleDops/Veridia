@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.171589
+modified: 2025-08-15T16:41:42.171593
+aliases: [NPC00190 Cedric Silverleaf]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Erasmus Silverleaf the Strong (Criminal - Target)|Erasmus Silverleaf the Strong (Criminal - Target)]]
+- [[#Corvus Jadeclaw (Criminal - Accomplice)|Corvus Jadeclaw (Criminal - Accomplice)]]
+- [[#Aeliana Xendar (Criminal - Accomplice)|Aeliana Xendar (Criminal - Accomplice)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Cedric Silverleaf", "cedric silverleaf", "Silverleaf Cedric"]
 tags: [npc, character]
@@ -149,6 +174,16 @@ Seeks bodyguards for dangerous journey
 - Special moves
 
 ## See Also
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[Party_Quests]]
+- [[Faction_Guide.md]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[NPC00129_Gareth_Jadeclaw]]
+- [[11 Rules Glossary]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
 - [[Related_Content]]
 
 
@@ -158,8 +193,8 @@ Seeks bodyguards for dangerous journey
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -269,3 +304,8 @@ Seeks bodyguards for dangerous journey
 - Affected by [[location-city-crystal-speak-crystal-speak.png]]
 - Originates from [[Location City Harbor Pilot Guild Harbor Pilot Guild.svg]]
 - Related: [[Port Meridian - Market Square]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

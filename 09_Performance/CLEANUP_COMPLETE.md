@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:25.181058
+modified: 2025-08-15T16:41:25.181062
+aliases: [CLEANUP COMPLETE]
+---
+
+## Table of Contents
+- [[#What Was Fixed|What Was Fixed]]
+- [[#🗑️ Removed Bad Directories|🗑️ Removed Bad Directories]]
+- [[#📁 Cleaned Root Directory|📁 Cleaned Root Directory]]
+- [[#🔧 Final Structure (13 directories)|🔧 Final Structure (13 directories)]]
+- [[#Summary|Summary]]
+- [[#See Also|See Also]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+- [[#Visual References|Visual References]]
+
+
 -tags: [note, combat, magic, exploration, lore]te]
 created: 2025-08-15
 modified: 2025-08-15
@@ -62,23 +83,23 @@ The vault structure is now clean, organized, and ready for use!
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -182,3 +203,6 @@ The vault structure is now clean, organized, and ready for use!
 - Affected by [[stone-cursed-mpmm (construct)]]
 - Parallels [[step_014 (phase_008)]]
 - Leads to [[LORE00047_History_Entry_48]]
+
+## Visual References
+![[04_Resources/Assets/Misc/complete_faction_warfare_system_resource_management.png]]

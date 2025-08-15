@@ -245,3 +245,10 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]

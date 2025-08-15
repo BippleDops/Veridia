@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Corvus Emberfall the Wise
 
 *Half-Elf Blacksmith (Commoners), Age 49, Non-binary*

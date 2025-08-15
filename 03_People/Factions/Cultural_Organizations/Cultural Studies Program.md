@@ -24,6 +24,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Cultural Studies Program](../../../04_Resources/Assets/Misc/cultural_studies_program.png)
 
 ## 🔧 Deep Evaluation Improvements

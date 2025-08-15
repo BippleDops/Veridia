@@ -618,3 +618,7 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01371_Xander_Stormwind_the_Guardian]]

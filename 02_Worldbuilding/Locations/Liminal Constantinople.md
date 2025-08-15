@@ -247,3 +247,9 @@ Ongoing situations affecting Liminal Constantinople:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]

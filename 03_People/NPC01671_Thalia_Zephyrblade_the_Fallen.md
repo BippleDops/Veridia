@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.697151
+modified: 2025-08-15T16:41:43.697157
+aliases: [NPC01671 Thalia Zephyrblade the Fallen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Jorah Winterborn the Broken (Family - Spouse)|Jorah Winterborn the Broken (Family - Spouse)]]
+- [[#Ysara Ironforge the Lost (Criminal - Handler)|Ysara Ironforge the Lost (Criminal - Handler)]]
+- [[#Baelor Ironwood the Swift (Criminal - Accomplice)|Baelor Ironwood the Swift (Criminal - Accomplice)]]
+
+
+---
 aliases: ["Thalia Zephyrblade the Fallen", "thalia zephyrblade the fallen", "Thalia Zephyrblade Fallen", "Fallen the Zephyrblade Thalia"]
 tags: [npc, character]
 type: npc
@@ -249,3 +270,14 @@ Offers deal too good to refuse
 - Influences [[Ring of Elemental Command Fire Xdmg]]
 - Connects to [[Fey Spirit Mirthful Xphb]]
 - Requires [[Location City Theological Seminaries Theological Seminaries.svg]]
+
+## Visual References
+![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

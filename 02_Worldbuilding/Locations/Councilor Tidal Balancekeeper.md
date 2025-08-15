@@ -265,3 +265,9 @@ Mentioned in The Second Prophecy of Shadows
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]

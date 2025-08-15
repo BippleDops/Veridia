@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Kaelen Stormwind the Scholar
 
 *Genasi Dark Wizard (Villains), Age 25, Male*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.016572
+modified: 2025-08-15T16:41:44.016575
+aliases: [NPC00275 Dara Grimholt]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Erasmus Grimholt the Scholar (Political - Patron)|Erasmus Grimholt the Scholar (Political - Patron)]]
+- [[#Kaelen Oakenshield the Cunning (Criminal - Handler)|Kaelen Oakenshield the Cunning (Criminal - Handler)]]
+- [[#Delara Grimholt the Redeemed (Political - Spy)|Delara Grimholt the Redeemed (Political - Spy)]]
+
+
+---
 aliases: ["Dara Grimholt", "dara grimholt", "Grimholt Dara"]
 tags: [npc, character]
 type: npc
@@ -242,3 +263,14 @@ Seeks bodyguards for dangerous journey
 - Originates from [[NPC01166_Gavril_Thornweave_the_Wanderer]]
 - Requires [[The Verdant Reach_1]]
 - Requires [[Poseidon 2]]
+
+## Visual References
+![[03_People/portrait_captain_dara_ironwill_friendly.png]]
+![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
+![[03_People/portrait_captain_dara_ironwill_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

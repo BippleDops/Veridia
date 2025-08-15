@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.409081
+modified: 2025-08-15T16:41:45.409085
+aliases: [NPC01081 Gavril Hawthorne the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Idris Ashford the Risen (Personal - Ex-lover)|Idris Ashford the Risen (Personal - Ex-lover)]]
+- [[#Hestara Moonshadow the Cunning (Political - Patron)|Hestara Moonshadow the Cunning (Political - Patron)]]
+- [[#Kaelen Stormwind the Strong (Political - Spy)|Kaelen Stormwind the Strong (Political - Spy)]]
+
+
+---
 aliases: ["Gavril Hawthorne the Mystic", "gavril hawthorne the mystic", "Gavril Hawthorne Mystic", "Mystic the Hawthorne Gavril"]
 tags: [npc, character]
 type: npc
@@ -245,3 +266,14 @@ Has map to lost treasure
 - Leads to [[step_100]]
 - Requires [[Creature Creature Young Green Dragon Xmm V2 Young Green Dragon Xmm.png]]
 - Related: [[ENC00020_Social_Encounter_21]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -240,3 +240,8 @@ Ongoing situations affecting Tide Risktaker:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]

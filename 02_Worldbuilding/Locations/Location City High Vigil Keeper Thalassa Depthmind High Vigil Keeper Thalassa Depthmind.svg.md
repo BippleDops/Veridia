@@ -83,3 +83,7 @@ Recent developments have brought new attention to Location City High Vigil Keepe
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]

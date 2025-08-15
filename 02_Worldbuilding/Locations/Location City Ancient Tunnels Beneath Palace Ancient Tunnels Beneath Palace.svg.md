@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Ancient Tunnels 
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00407_Hestara_Dawnstrider]]

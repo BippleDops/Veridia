@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.040027
+modified: 2025-08-15T16:41:47.040031
+aliases: [NPC00116 Branwen Silverleaf]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Drusilla Darkwater (Personal - Love interest)|Drusilla Darkwater (Personal - Love interest)]]
+- [[#Ewan Ravenheart the Risen (Political - Ally)|Ewan Ravenheart the Risen (Political - Ally)]]
+- [[#Cedric Moonshadow (Personal - Ex-lover)|Cedric Moonshadow (Personal - Ex-lover)]]
+
+
+---
 aliases: ["Branwen Silverleaf", "branwen silverleaf", "Silverleaf Branwen"]
 tags: [npc, character]
 type: npc
@@ -236,3 +261,8 @@ Needs discrete help with family scandal
 - Influences [[Location City Liberty Coalition V1 Liberty Coalition.svg]]
 - Requires [[LOC00182_Planes_Location_183]]
 - Originates from [[Deepwatch Guard (Lore)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

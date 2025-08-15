@@ -24,6 +24,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_symbols_symbol_heraldry_magical_component_manufacturers_guil_magical_component_manufacturers_guil_svg_standard.png]]
+
+
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-magical-component-manufacturers-guil-magical-component-manufacturers-guil.svg)
 

@@ -24,6 +24,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_symbols_symbol_heraldry_sister_benthos_scrollheart_sister_benthos_scrollheart_svg_standard.png]]
+
+
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-sister-benthos-scrollheart-sister-benthos-scrollheart.svg)
 

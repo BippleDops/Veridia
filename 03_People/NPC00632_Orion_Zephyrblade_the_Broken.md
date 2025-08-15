@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.352863
+modified: 2025-08-15T16:41:45.352867
+aliases: [NPC00632 Orion Zephyrblade the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Elric Moonshadow the Strong (Political - Patron)|Elric Moonshadow the Strong (Political - Patron)]]
+- [[#Delara Voidwalker the Lost (Professional - Employer)|Delara Voidwalker the Lost (Professional - Employer)]]
+- [[#Felicia Proudmore (Family - Child)|Felicia Proudmore (Family - Child)]]
+
+
+---
 aliases: ["Orion Zephyrblade the Broken", "orion zephyrblade the broken", "Orion Zephyrblade Broken", "Broken the Zephyrblade Orion"]
 tags: [npc, character]
 type: npc
@@ -237,3 +262,8 @@ Witnessed a crime
 - Related: [[step_018 (phase_096)]]
 - Affected by [[step_041]]
 - Requires [[Bright Light Xphb]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

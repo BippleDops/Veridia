@@ -129,3 +129,7 @@ Recent developments have brought new attention to Crystal Shadow Storms, creatin
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]

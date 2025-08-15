@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.032759
+modified: 2025-08-15T16:41:44.032762
+aliases: [NPC01264 Ysara Stormwind the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Lyanna Zephyrblade the Strong (Family - Cousin)|Lyanna Zephyrblade the Strong (Family - Cousin)]]
+- [[#Corvus Ravenheart the Broken (Family - Sibling)|Corvus Ravenheart the Broken (Family - Sibling)]]
+- [[#Thalia Keenblade the Seeker (Professional - Mentor)|Thalia Keenblade the Seeker (Professional - Mentor)]]
+
+
+---
 aliases: ["Ysara Stormwind the Scholar", "ysara stormwind the scholar", "Ysara Stormwind Scholar", "Scholar the Stormwind Ysara"]
 tags: [npc, character]
 type: npc
@@ -248,3 +269,29 @@ Forming expedition to dangerous location
 - Originates from [[Gold Dragon Xmm]]
 - Requires [[Post-Revolutionary Society Vision (D&D_References)]]
 - Compare with [[LORE00145_Prophecies_Entry_146]]
+
+## Visual References
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
+
+
+## Realm Connections
+
+### Connection to Aethermoor
+This connects to the sky realm of Sky realm of eternal winds and floating islands.
+
+- **Ruling Power**: The Windlord Council
+- **Capital**: [[Skylance Citadel]]
+- **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
+- **Current Conflict**: The Void Incursion, Elemental Convergence
+- **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
+
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+navigate floating islands connected by bridges of solidified cloud.
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

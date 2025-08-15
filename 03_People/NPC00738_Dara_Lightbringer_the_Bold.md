@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Dara Lightbringer the Bold
 
 *Human Baker (Commoners), Age 64, Male*

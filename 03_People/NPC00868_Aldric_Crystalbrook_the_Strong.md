@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.146152
+modified: 2025-08-15T16:41:44.146157
+aliases: [NPC00868 Aldric Crystalbrook the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hilda Hawthorne the Bold (Criminal - Fence)|Hilda Hawthorne the Bold (Criminal - Fence)]]
+- [[#Fiora Winterborn the Mystic (Personal - Ex-lover)|Fiora Winterborn the Mystic (Personal - Ex-lover)]]
+- [[#Gareth Moonshadow the Scholar (Criminal - Target)|Gareth Moonshadow the Scholar (Criminal - Target)]]
+
+
+---
 aliases: ["Aldric Crystalbrook the Strong", "aldric crystalbrook the strong", "Aldric Crystalbrook Strong", "Strong the Crystalbrook Aldric"]
 tags: [npc, character]
 type: npc
@@ -237,3 +258,14 @@ Caravan needs guards
 - Parallels [[list-spells-classes-circle-of-the-stars-xphb (lists)]]
 - See also: [[Downtime Activity Building a Stronghold]]
 - Requires [[step_054 (phase_067)]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
+![[03_People/portrait_duke_aldric_blackwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

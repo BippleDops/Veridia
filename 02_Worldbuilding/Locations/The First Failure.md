@@ -133,3 +133,10 @@ Recent developments have brought new attention to The First Failure, creating op
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]

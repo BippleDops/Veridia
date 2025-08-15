@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Nerys Lightbringer the Redeemed
 
 *Halfling Caravan Master (Merchants), Age 46, Female*

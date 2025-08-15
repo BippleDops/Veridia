@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.620656
+modified: 2025-08-15T16:41:42.620660
+aliases: [NPC00228 Pyria Ironwood the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Zephyrblade (Professional - Employer)|Alaric Zephyrblade (Professional - Employer)]]
+- [[#Cedric Zephyrblade the Mystic (Criminal - Target)|Cedric Zephyrblade the Mystic (Criminal - Target)]]
+- [[#Jorah Jadeclaw (Personal - Nemesis)|Jorah Jadeclaw (Personal - Nemesis)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Pyria Ironwood the Wise", "pyria ironwood the wise", "Pyria Ironwood Wise", "Wise the Ironwood Pyria"]
 tags: [npc, character]
@@ -161,11 +182,11 @@ Seeks bodyguards for dangerous journey
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -275,3 +296,14 @@ Seeks bodyguards for dangerous journey
 - Influences [[International Trade 2]]
 - Requires [[Artistic Communities 2]]
 - Leads to [[Symbol Heraldry Treasurer Goldenshadow V1 Treasurer Goldenshadow.svg]]
+
+## Visual References
+![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
+![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
+![[03_People/portrait_commander_thrace_ironwood.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Hilda Thornweave the Redeemed
 
 *Firbolg Dark Wizard (Villains), Age 41, Female*

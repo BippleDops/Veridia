@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Orion Xendar the Scholar
 
 *Half-Orc Corrupt Noble (Villains), Age 39, Female*

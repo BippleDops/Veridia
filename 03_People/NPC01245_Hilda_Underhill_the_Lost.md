@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.044130
+modified: 2025-08-15T16:41:46.044133
+aliases: [NPC01245 Hilda Underhill the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Urien Proudmore the Risen (Personal - Love interest)|Urien Proudmore the Risen (Personal - Love interest)]]
+- [[#Dara Voidwalker the Risen (Family - Sibling)|Dara Voidwalker the Risen (Family - Sibling)]]
+- [[#Thalia Frostwhisper the Cunning (Criminal - Fence)|Thalia Frostwhisper the Cunning (Criminal - Fence)]]
+
+
+---
 aliases: ["Hilda Underhill the Lost", "hilda underhill the lost", "Hilda Underhill Lost", "Lost the Underhill Hilda"]
 tags: [npc, character]
 type: npc
@@ -258,3 +279,14 @@ Forming expedition to dangerous location
 - Requires [[LOC00093_Cities_Location_94]]
 - Influences [[step_069]]
 - Leads to [[SPELL00080_Arcane_Spell_81]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

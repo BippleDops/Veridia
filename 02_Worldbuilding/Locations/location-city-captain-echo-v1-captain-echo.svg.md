@@ -82,3 +82,7 @@ Recent developments have brought new attention to location-city-captain-echo-v1-
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01360_Ewan_Blackstone_the_Strong]]

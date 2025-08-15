@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Quest the Blackm
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]

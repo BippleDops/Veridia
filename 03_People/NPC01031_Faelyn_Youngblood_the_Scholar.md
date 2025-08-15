@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Faelyn Youngblood the Scholar
 
 *Gnome Appraiser (Merchants), Age 45, Male*

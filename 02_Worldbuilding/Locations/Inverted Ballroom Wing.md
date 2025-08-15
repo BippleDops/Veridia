@@ -566,3 +566,9 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]

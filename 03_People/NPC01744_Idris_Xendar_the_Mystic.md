@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.932167
+modified: 2025-08-15T16:41:46.932173
+aliases: [NPC01744 Idris Xendar the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Quicksilver the Risen (Criminal - Target)|Thalia Quicksilver the Risen (Criminal - Target)]]
+- [[#Hestara Grimholt the Seeker (Personal - Best friend)|Hestara Grimholt the Seeker (Personal - Best friend)]]
+- [[#Urien Jadeclaw the Broken (Professional - Partner)|Urien Jadeclaw the Broken (Professional - Partner)]]
+
+
+---
 aliases: ["Idris Xendar the Mystic", "idris xendar the mystic", "Idris Xendar Mystic", "Mystic the Xendar Idris"]
 tags: [npc, character]
 type: npc
@@ -246,3 +267,14 @@ Provides information for a price
 - Requires [[Portrait NPC Quest the Prophecy Fulfilled Quest the Prophecy Fulfilled.svg]]
 - See also: [[step_046 (phase_057)]]
 - Parallels [[Memory Meadows (Lore)]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

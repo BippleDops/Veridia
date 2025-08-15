@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.901836
+modified: 2025-08-15T16:41:43.901839
+aliases: [NPC00004 Wynne Moonshadow the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Pyria Ashford the Fallen (Family - Spouse)|Pyria Ashford the Fallen (Family - Spouse)]]
+- [[#Elric Ashford (Professional - Employer)|Elric Ashford (Professional - Employer)]]
+- [[#Corvus Thornweave (Personal - Childhood friend)|Corvus Thornweave (Personal - Childhood friend)]]
+
+
+---
 aliases: ["Wynne Moonshadow the Guardian", "wynne moonshadow the guardian", "Wynne Moonshadow Guardian", "Guardian the Moonshadow Wynne"]
 tags: [npc, character]
 type: npc
@@ -252,3 +273,14 @@ Needs discrete help with family scandal
 - Related: [[LORE00207_Prophecies_Entry_208]]
 - Leads to [[step_066 (phase_025)]]
 - Requires [[step_035 (phase_092)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
+![[03_People/portrait_the_crimson_shard_guardian.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

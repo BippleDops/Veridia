@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.294276
+modified: 2025-08-15T16:41:48.294281
+aliases: [NPC01855 Thalia Grimholt the Redeemed]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Zephyr Underhill the Guardian (Family - Child)|Zephyr Underhill the Guardian (Family - Child)]]
+- [[#Hilda Ashford the Swift (Political - Ally)|Hilda Ashford the Swift (Political - Ally)]]
+- [[#Baelor Blackstone the Lost (Professional - Rival)|Baelor Blackstone the Lost (Professional - Rival)]]
+
+
+---
 aliases: ["Thalia Grimholt the Redeemed", "thalia grimholt the redeemed", "Thalia Grimholt Redeemed", "Redeemed the Grimholt Thalia"]
 tags: [npc, character]
 type: npc
@@ -141,3 +162,15 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_03_mechanics_cli_bestiary_humanoid_druid_xmm_friendly.png]]
+
+
 # /03 Mechanics/CLI/bestiary/humanoid/druid xmm
 
 ## Basic Information

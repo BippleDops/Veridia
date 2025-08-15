@@ -252,3 +252,9 @@ Ongoing situations affecting Pressure Technology:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01286_Xander_Proudmore_the_Bold]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]

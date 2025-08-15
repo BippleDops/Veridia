@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Erasmus Keenblade the Broken
 
 *Firbolg Noble (Nobles), Age 62, Non-binary*

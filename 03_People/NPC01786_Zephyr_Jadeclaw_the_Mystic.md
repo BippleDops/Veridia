@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.829280
+modified: 2025-08-15T16:41:40.829285
+aliases: [NPC01786 Zephyr Jadeclaw the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Emberfall the Bold (Criminal - Target)|Corvus Emberfall the Bold (Criminal - Target)]]
+- [[#Thalia Youngblood the Mystic (Political - Ally)|Thalia Youngblood the Mystic (Political - Ally)]]
+- [[#Delara Quicksilver the Bold (Personal - Nemesis)|Delara Quicksilver the Bold (Personal - Nemesis)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Zephyr Jadeclaw the Mystic", "zephyr jadeclaw the mystic", "Zephyr Jadeclaw Mystic", "Mystic the Jadeclaw Zephyrtags: [npc, character, combat, magic, social, lore]er]
 type: npc
@@ -148,13 +169,58 @@ Blackmails party into service
 - Special moves
 
 ## Combat Stats
-Base: **Guard** (MM p.347)
+Base: **Guard** (BC p.347)
 Modifications:
 - HP: 49
 - AC: 10
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[Depth_Adapted_Background]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[Ship_Schematic_The_Seahawk.md]]
+- [[What You Know - Abyssos Prime.md]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[Sanity_Quick_Reference.md]]
+- [[11 Spellcasting]]
+- [[09 Adventuring]]
+- [[Current Session Notes]]
+- [[05 Personality and Background]]
+- [[MOC_Items]]
+- [[MOC_Quests]]
+- [[11 Rules Glossary]]
+- [[NPC01602_Dara_Ashford_the_Seeker]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC00407_Hestara_Dawnstrider]]
+- [[Concept_Map]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
 - [[Related_Content]]
 
 
@@ -164,10 +230,10 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -197,7 +263,7 @@ Modifications:
 - Compare with [[The Biomancers (D&D_References)]]
 - Originates from [[02_Worldbuilding_Locations_Theater_of_Impossible_Dreams]]
 - Originates from [[bastions]]
-- Leads to [[Location City Temporal Harvest Temporal Harvest.svg]]
+- Leads to [[Location City [[Temporal Harvest]] Temporal Harvest.svg]]
 - Affected by [[portrait-npc-seventh-shard-seventh-shard.svg]]
 - See also: [[step_021]]
 - Parallels [[bronze-dragon (legendary-group)]]
@@ -211,11 +277,11 @@ Modifications:
 - Connects to [[step_063 (phase_013)]]
 - Related: [[LORE00080_Prophecies_Entry_81]]
 - Influences [[The Reality Nexus (D&D_References)]]
-- Requires [[Community Support Networks 2]]
+- Requires [[[[Community Support Networks]] 2]]
 - Affected by [[step_075 (phase_011)]]
-- See also: [[The Crystal Gardens]]
+- See also: [[The [[Crystal Gardens]]]]
 - Affected by [[Pilgrim Guide Samuel Walkingfaith (D&D_References)]]
-- Affected by [[Assets Locations Location City Legal Profession Legal Profession.svg]]
+- Affected by [[Assets Locations Location City [[Legal Profession]] Legal Profession.svg]]
 - Compare with [[LORE00202_Legends_Entry_203]]
 - See also: [[Portrait NPC Lady Jade Clawgrip V1 Lady Jade Clawgrip.svg]]
 - Influences [[SPELL0033_Divine_Storm]]
@@ -226,12 +292,12 @@ Modifications:
 - Compare with [[step_087]]
 - Requires [[NPC01318_Faelyn_Stormwind_the_Strong]]
 - Affected by [[Portrait NPC the Azure Prophet Nerissa V2 the Azure Prophet Nerissa.svg]]
-- Requires [[Portrait NPC Captain Marcus Ironwill Captain Marcus Ironwill.svg]]
+- Requires [[Portrait NPC [[Captain Marcus]] Ironwill Captain Marcus Ironwill.svg]]
 - Affected by [[Shadow-touched Communities]]
 - Related: [[Deep Prophecy]]
 - Parallels [[Marine Protection Guil]]
 - Parallels [[LOC00099_Towns_Location_100]]
-- Parallels [[The Shadow Merchant Prime]]
+- Parallels [[The Shadow [[Merchant]] Prime]]
 - See also: [[Captain Threshold (D&D_References)]]
 - Leads to [[step_070 (phase_042)]]
 - Connects to [[step_004 (phase_038)]]
@@ -249,8 +315,8 @@ Modifications:
 - Requires [[step_049 (phase_025)]]
 - Requires [[Archshadow Whisper Truthseer]]
 - Influences [[step_100 (phase_019)]]
-- See also: [[Assets Locations Location City Banker Cornelius Goldflow V1 Banker Cornelius Goldflow.svg]]
-- Connects to [[The Infinite Garden 2]]
+- See also: [[Assets Locations [[Location City [[Banker Cornelius Goldflow]] V1 Banker Cornelius Goldflow.svg]]]]
+- Connects to [[[[The Infinite Garden]] 2]]
 - Influences [[Symbol Heraldry Transformation Techniques V1 Transformation Techniques.svg]]
 - Requires [[step_083]]
 - Leads to [[Court Herald Titus]]
@@ -265,7 +331,7 @@ Modifications:
 - Requires [[The Tidal Sanctum]]
 - Parallels [[NPC01052_Idris_Brightblade_the_Mystic]]
 - Affected by [[QUEST00458_Side_Quest_459]]
-- Related: [[International Pressure Technology Consortium]]
+- Related: [[International [[Pressure Technology]] Consortium]]
 - See also: [[04_Resources_Assets_Symbols_symbol-heraldry-acoustic-infection-acoustic-infection.svg]]
 - See also: [[Coins Coin Values Xphb]]
 - Leads to [[Map Map Cloud Dock Boarding Action V1 Cloud Dock Boarding Action.svg]]
@@ -276,4 +342,15 @@ Modifications:
 - Requires [[QUEST00205_Personal_Quest_206]]
 - Parallels [[step_065 (phase_094)]]
 - See also: [[npcs]]
-- Leads to [[Portrait NPC Captain Scarlet Torrent V1 Captain Scarlet Torrent.svg]]
+- Leads to [[Portrait NPC Captain [[Scarlet Torrent]] V1 Captain Scarlet Torrent.svg]]
+
+## Visual References
+![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
+![[03_People/portrait_zephyr_goldwhisper_standard.png]]
+![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Aquabyssos Academy](../../../04_Resources/Assets/Misc/aquabyssos_academy.png)
 
 ## 🔧 Deep Evaluation Improvements

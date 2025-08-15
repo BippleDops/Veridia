@@ -211,3 +211,7 @@ Mentioned in The Second Prophecy of Depths
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]

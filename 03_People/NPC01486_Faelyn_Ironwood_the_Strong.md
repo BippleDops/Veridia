@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Faelyn Ironwood the Strong
 
 *Elf Wizard (Adventurers), Age 24, Non-binary*

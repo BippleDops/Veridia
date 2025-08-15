@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.669844
+modified: 2025-08-15T16:41:45.669848
+aliases: [NPC00414 Fiora Jadeclaw the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Dara Crystalbrook the Mystic (Personal - Childhood friend)|Dara Crystalbrook the Mystic (Personal - Childhood friend)]]
+- [[#Nerys Moonshadow the Mystic (Professional - Employer)|Nerys Moonshadow the Mystic (Professional - Employer)]]
+- [[#Dara Quicksilver the Wanderer (Professional - Employee)|Dara Quicksilver the Wanderer (Professional - Employee)]]
+
+
+---
 aliases: ["Fiora Jadeclaw the Risen", "fiora jadeclaw the risen", "Fiora Jadeclaw Risen", "Risen the Jadeclaw Fiora"]
 tags: [npc, character]
 type: npc
@@ -244,3 +269,8 @@ Being extorted by criminals
 - Influences [[Creating a Gnoll War Band Gnoll War Band Composition Vgm]]
 - Requires [[D-005 Shadow Bloom Player (Encounters)]]
 - Originates from [[step_074 (phase_055)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

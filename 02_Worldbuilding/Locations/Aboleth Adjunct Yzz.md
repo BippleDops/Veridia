@@ -689,3 +689,7 @@ Ongoing situations affecting Aboleth Adjunct Yzz:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]

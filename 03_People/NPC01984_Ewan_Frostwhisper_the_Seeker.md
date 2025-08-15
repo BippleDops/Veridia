@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.612565
+modified: 2025-08-15T16:41:45.612568
+aliases: [NPC01984 Ewan Frostwhisper the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Rhiannon Quicksilver the Wise (Personal - Ex-lover)|Rhiannon Quicksilver the Wise (Personal - Ex-lover)]]
+- [[#Erasmus Crystalbrook the Swift (Criminal - Informant)|Erasmus Crystalbrook the Swift (Criminal - Informant)]]
+- [[#Dara Xendar the Seeker (Criminal - Fence)|Dara Xendar the Seeker (Criminal - Fence)]]
+
+
+---
 aliases: ["Ewan Frostwhisper the Seeker", "ewan frostwhisper the seeker", "Ewan Frostwhisper Seeker", "Seeker the Frostwhisper Ewan"]
 tags: [npc, character]
 type: npc
@@ -244,3 +265,14 @@ Blackmails party into service
 - Compare with [[The Counting House (D&D_References)]]
 - Related: [[Merchant Lord Cornelius Generous (D&D_References)]]
 - Affected by [[LORE0051_Legend_of_the_Lost_City]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

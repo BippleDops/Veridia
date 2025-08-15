@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Branwen Jadeclaw the Fallen
 
 *Goliath Cultist (Villains), Age 66, Male*

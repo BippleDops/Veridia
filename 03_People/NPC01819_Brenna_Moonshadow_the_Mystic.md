@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Brenna Moonshadow the Mystic
 
 *Genasi Corrupt Noble (Villains), Age 40, Non-binary*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.228723
+modified: 2025-08-15T16:41:48.228725
+aliases: [NPC01630 Ewan Underhill the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Blackstone the Scholar (Criminal - Informant)|Corvus Blackstone the Scholar (Criminal - Informant)]]
+- [[#Urien Silverleaf the Strong (Criminal - Informant)|Urien Silverleaf the Strong (Criminal - Informant)]]
+- [[#Idris Keenblade the Lost (Criminal - Handler)|Idris Keenblade the Lost (Criminal - Handler)]]
+
+
+---
 aliases: ["Ewan Underhill the Seeker", "ewan underhill the seeker", "Ewan Underhill Seeker", "Seeker the Underhill Ewan"]
 tags: [npc, character]
 type: npc
@@ -149,3 +170,15 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

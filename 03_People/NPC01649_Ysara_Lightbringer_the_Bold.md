@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.778834
+modified: 2025-08-15T16:41:42.778837
+aliases: [NPC01649 Ysara Lightbringer the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hestara Ashford the Scholar (Criminal - Handler)|Hestara Ashford the Scholar (Criminal - Handler)]]
+- [[#Nerys Voidwalker the Scholar (Professional - Partner)|Nerys Voidwalker the Scholar (Professional - Partner)]]
+- [[#Gavril Winterborn the Mystic (Criminal - Target)|Gavril Winterborn the Mystic (Criminal - Target)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Ysara Lightbringer the Bold", "ysara lightbringer the bold", "Ysara Lightbringer Bold", "Bold the Lightbringer Ysara"]
 tags: [npc, character]
@@ -159,9 +180,9 @@ Provides information for a price
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -271,3 +292,14 @@ Provides information for a price
 - Originates from [[step_086 (phase_080)]]
 - Parallels [[Dawn-Echo Sentinel]]
 - Influences [[Purity Shields]]
+
+## Visual References
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

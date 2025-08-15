@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Crystal Cultivation Training Cente](../../../04_Resources/Assets/Misc/crystal_cultivation_training_cente.png)
 
 ## 🔧 Deep Evaluation Improvements

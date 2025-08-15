@@ -235,3 +235,8 @@ Ongoing situations affecting Constitutional Monarchy:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]

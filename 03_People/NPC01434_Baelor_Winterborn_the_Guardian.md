@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Baelor Winterborn the Guardian
 
 *Firbolg Fighter (Adventurers), Age 51, Non-binary*

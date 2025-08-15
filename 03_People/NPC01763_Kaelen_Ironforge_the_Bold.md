@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Kaelen Ironforge the Bold
 
 *Aasimar Dark Wizard (Villains), Age 22, Non-binary*

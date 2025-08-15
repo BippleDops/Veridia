@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.883827
+modified: 2025-08-15T16:41:46.883829
+aliases: [ 03 Mechanics CLI bestiary humanoid witherbloom-professor-of-growth-scc]
+---
+
+## Table of Contents
+- [[#Basic Information|Basic Information]]
+- [[#Description|Description]]
+- [[#Statistics|Statistics]]
+- [[#Actions|Actions]]
+- [[#Reactions|Reactions]]
+- [[#Combat Tactics|Combat Tactics]]
+- [[#Physical Appearance|Physical Appearance]]
+- [[#Personality|Personality]]
+- [[#Stats|Stats]]
+- [[#Background|Background]]
+
+
+---
 tags: ['npc']
 ---
 
@@ -24,7 +45,8 @@ ___
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 10 (+0) | 12 (+1) | 11 (+0) | 10 (+0) | 13 (+1) | 14 (+2) |
+| 10 (+0) | 12 (+
+*The [texture] surface feels [description] to the touch.*1) | 11 (+0) | 10 (+0) | 13 (+1) | 14 (+2) |
 
 ___
 - **Skills** Deception +4, Insight +3, Persuasion +4
@@ -190,7 +212,7 @@ This NPC can serve multiple roles:
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
 ## Sourcebook Reference
-> Based on **Commoner** (MM p.345) with modifications
+> Based on **Commoner** (BC p.345) with modifications
 
 ## Connections
 
@@ -294,3 +316,8 @@ This NPC can serve multiple roles:
 - Connects to [[Assets Locations Location City Reality Stabilization Centers Reality Stabilization Centers.svg]]
 - Compare with [[The Scribes' Covenant 2]]
 - See also: [[ENC00190_Combat_Encounter_191]]
+
+## Visual References
+![[03_People/portrait_03_mechanics_cli_bestiary_humanoid_quandrix_professor_of_theory_scc_friendly.png]]
+![[03_People/portrait_03_mechanics_cli_bestiary_humanoid_quandrix_professor_of_substance_scc_dramatic.png]]
+![[03_People/portrait_03_mechanics_cli_bestiary_humanoid_quandrix_professor_of_substance_scc_angry.png]]

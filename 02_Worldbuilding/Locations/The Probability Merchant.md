@@ -220,3 +220,7 @@ Mentioned in The Second Prophecy of Stars
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00083_Vesper_Xendar_the_Lost]]

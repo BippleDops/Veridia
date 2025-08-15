@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:40.473164
+modified: 2025-08-15T16:41:40.473166
+aliases: [Submersible Schematic Pressure Gate Scou]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Sensory Improvements|Sensory Improvements]]
+- [[#Superstitions Improvements|Superstitions Improvements]]
+- [[#Material_Culture Improvements|Material_Culture Improvements]]
+- [[#Diaspora Improvements|Diaspora Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Visual_Handouts/Submersible_Schematic_Pressure_Gate_Scou
 type: lore
@@ -104,6 +125,40 @@ tags: [combat, lore]
 > Additional context or lore
 
 ## See Also
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[Archdruid Thornweaver]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[World_Primer.md]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[Faction_Guide.md]]
+- [[Marcus Shardbreaker Grimm_1]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Sanity_Quick_Reference.md]]
+- [[Player_Feedback_Form.md]]
+- [[11 Spellcasting]]
+- [[13 Conditions]]
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[Session_Recaps]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[11 Rules Glossary]]
+- [[Party_Inventory]]
 - [[Related_Content]]
 
 
@@ -113,14 +168,14 @@ tags: [combat, lore]
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -224,3 +279,8 @@ tags: [combat, lore]
 - Compare with [[LOC00001_Cities_Location_2]]
 - Connects to [[Foreign Merchants (D&D_References)]]
 - Leads to [[LOC00190_Planes_Location_191]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_commander_drake_pressureborn_v1_commander_drake_pressureborn_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_commander_drake_pressureborn_v1_commander_drake_pressureborn_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_pressure_lords_pressure_lords_svg_friendly.png]]

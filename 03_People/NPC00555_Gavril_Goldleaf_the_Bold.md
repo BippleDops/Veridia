@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Gavril Goldleaf the Bold
 
 *Aasimar Baker (Commoners), Age 77, Male*

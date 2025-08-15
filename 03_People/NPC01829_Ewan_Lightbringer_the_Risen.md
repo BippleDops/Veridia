@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.505173
+modified: 2025-08-15T16:41:46.505176
+aliases: [NPC01829 Ewan Lightbringer the Risen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Cedric Nightfall the Strong (Criminal - Informant)|Cedric Nightfall the Strong (Criminal - Informant)]]
+- [[#Baelor Underhill the Redeemed (Political - Puppet)|Baelor Underhill the Redeemed (Political - Puppet)]]
+- [[#Cedric Blackstone the Broken (Family - Parent)|Cedric Blackstone the Broken (Family - Parent)]]
+
+
+---
 aliases: ["Ewan Lightbringer the Risen", "ewan lightbringer the risen", "Ewan Lightbringer Risen", "Risen the Lightbringer Ewan"]
 tags: [npc, character]
 type: npc
@@ -247,3 +268,14 @@ Offers deal too good to refuse
 - Leads to [[LORE00210_History_Entry_211]]
 - See also: [[#Features]]
 - Affected by [[step_005 (phase_033)]]
+
+## Visual References
+![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

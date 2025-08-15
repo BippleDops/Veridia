@@ -361,3 +361,8 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]

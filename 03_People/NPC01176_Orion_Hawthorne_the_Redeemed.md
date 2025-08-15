@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.781071
+modified: 2025-08-15T16:41:45.781074
+aliases: [NPC01176 Orion Hawthorne the Redeemed]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hestara Ironwood the Strong (Political - Patron)|Hestara Ironwood the Strong (Political - Patron)]]
+- [[#Branwen Nightfall the Mystic (Professional - Partner)|Branwen Nightfall the Mystic (Professional - Partner)]]
+- [[#Drusilla Thornweave the Fallen (Family - Spouse)|Drusilla Thornweave the Fallen (Family - Spouse)]]
+
+
+---
 aliases: ["Orion Hawthorne the Redeemed", "orion hawthorne the redeemed", "Orion Hawthorne Redeemed", "Redeemed the Hawthorne Orion"]
 tags: [npc, character]
 type: npc
@@ -244,3 +269,8 @@ Caravan needs guards
 - Related: [[step_007]]
 - Related: [[step_088 (phase_038)]]
 - Connects to [[ITEM01233_Refined_Oil_of_Clarity]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

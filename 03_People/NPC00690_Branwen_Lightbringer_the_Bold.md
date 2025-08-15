@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.426543
+modified: 2025-08-15T16:41:46.426547
+aliases: [NPC00690 Branwen Lightbringer the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aeliana Blackstone the Redeemed (Personal - Ex-lover)|Aeliana Blackstone the Redeemed (Personal - Ex-lover)]]
+- [[#Alaric Nightfall the Swift (Political - Patron)|Alaric Nightfall the Swift (Political - Patron)]]
+- [[#Wynne Silverleaf the Wise (Criminal - Target)|Wynne Silverleaf the Wise (Criminal - Target)]]
+
+
+---
 aliases: ["Branwen Lightbringer the Bold", "branwen lightbringer the bold", "Branwen Lightbringer Bold", "Bold the Lightbringer Branwen"]
 tags: [npc, character]
 type: npc
@@ -251,3 +272,14 @@ Family member has gone missing
 - Parallels [[step_038 (phase_022)]]
 - Affected by [[List Spells Optional Features Mire the Mind]]
 - Influences [[Template_Galaxy_Placeholder.png_1 (09_Templates)]]
+
+## Visual References
+![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

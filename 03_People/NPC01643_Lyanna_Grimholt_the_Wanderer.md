@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.130231
+modified: 2025-08-15T16:41:43.130234
+aliases: [NPC01643 Lyanna Grimholt the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Lyanna Oakenshield the Lost (Personal - Childhood friend)|Lyanna Oakenshield the Lost (Personal - Childhood friend)]]
+- [[#Jorah Youngblood the Guardian (Criminal - Informant)|Jorah Youngblood the Guardian (Criminal - Informant)]]
+- [[#Malakai Frostwhisper the Swift (Family - Cousin)|Malakai Frostwhisper the Swift (Family - Cousin)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Lyanna Grimholt the Wanderer", "lyanna grimholt the wanderer", "Lyanna Grimholt Wanderer", "Wanderer the Grimholt Lyanna"]
 tags: [npc, character]
@@ -146,20 +167,20 @@ Is secretly testing the party
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Monster Manual (MM) p.255
-- Volo's Guide to Monsters (VGM) p.288
+- Bestiary Compendium (BC) p.255
+- Volo's Creature Catalog to Monsters (VCC) p.288
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -167,9 +188,9 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -279,3 +300,14 @@ Following magic item guidelines (DMG p.135-136):
 - Requires [[Quest - The Deep Mother's Truth]]
 - Connects to [[Location City Artisan Felix Reefwright V1 Artisan Felix Reefwright.svg]]
 - Originates from [[SHOP00033_General_Shop_34]]
+
+## Visual References
+![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
+![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
+![[03_People/portrait_captain_lyanna_brightshield.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

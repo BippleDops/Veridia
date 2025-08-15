@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gareth Goldleaf the Mystic
 
 *Half-Orc Broker (Merchants), Age 35, Male*

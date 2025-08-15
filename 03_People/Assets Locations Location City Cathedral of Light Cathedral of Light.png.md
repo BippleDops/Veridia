@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.328357
+modified: 2025-08-15T16:41:48.328358
+aliases: [Assets Locations Location City Cathedral of Light Cathedral of Light.png]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_locations_location_city_cathedral_of_light_cathedral_of_light_png_dramatic.png]]
+
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Material_Culture Improvements|Material_Culture Improvements]]
+- [[#Evolution Improvements|Evolution Improvements]]
+- [[#Superstitions Improvements|Superstitions Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+
+
+---
 
 title: Assets Locations Location City Cathedral of Light Cathedral of Light.png
 aliases:

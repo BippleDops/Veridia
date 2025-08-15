@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, _indexes]
+created: 2025-08-15T16:41:29.321058
+modified: 2025-08-15T16:41:29.321061
+aliases: [MOC Items]
+---
+
+## Table of Contents
+- [[#Quick Links|Quick Links]]
+- [[#Content|Content]]
+- [[#Recent NPCs|Recent NPCs]]
+- [[#Active Quests|Active Quests]]
+- [[#Session Log|Session Log]]
+- [[#Location Network|Location Network]]
+- [[#See Also|See Also]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
 -tags: [moc, index, combat]ex]
 created: 2025-08-15
 ---
@@ -47,18 +68,27 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 > Important safety or rule information
 
 ## See Also
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[10 Combat]]
+- [[Archdruid Thornweaver]]
+- [[MOC_Rules]]
+- [[Reference.md]]
 - [[Related_Content]]
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -162,3 +192,8 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Requires [[FAC00064_Guilds_65]]
 - Leads to [[ITEM01351_Ornate_Lantern_of_Reliability]]
 - Parallels [[Marcus the Shade Blackwood]]
+
+## Visual References
+![[04_Resources/Assets/Placeholder Images/WeaponsArmorItemsTitleBar.png]]
+![[04_Resources/Assets/Items/items_aquabyssos_1755205562148.png]]
+![[04_Resources/Assets/Items/02_worldbuilding_items_group_conference_mirrors.png]]

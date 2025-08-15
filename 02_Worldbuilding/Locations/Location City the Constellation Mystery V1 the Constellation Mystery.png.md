@@ -82,3 +82,8 @@ Recent developments have brought new attention to Location City the Constellatio
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]

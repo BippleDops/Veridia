@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Elric Keenblade the Risen
 
 *Gnome Carpenter (Commoners), Age 18, Non-binary*

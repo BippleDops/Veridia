@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:33.944036
+modified: 2025-08-15T16:41:33.944040
+aliases: [Reputation Tracker]
+---
+
+## Table of Contents
+- [[#Faction Standing|Faction Standing]]
+- [[#Reputation Levels|Reputation Levels]]
+- [[#Recent Actions|Recent Actions]]
+- [[#See Also|See Also]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+- [[#Visual References|Visual References]]
+
+
 -tags: [reputation, tracker, social, combat]al]
 created: 2025-08-15T14:13:16.708784
 ---
@@ -32,6 +52,38 @@ created: 2025-08-15T14:13:16.708784
 > The villain has agents watching this place
 
 ## See Also
+- [[Faction_Guide.md]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC00407_Hestara_Dawnstrider]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[Downtime_Activities]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01730_Faelyn_Emberfall_the_Broken]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[13 Conditions]]
+- [[Possession Mechanics]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[Home Embeds Dvsession Journal]]
+- [[10 Combat]]
+- [[Character_Journal_Template]]
+- [[Character_Journals]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[README]]
+- [[World_Primer.md]]
 - [[Related_Content]]
 
 
@@ -41,14 +93,14 @@ created: 2025-08-15T14:13:16.708784
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -152,3 +204,8 @@ created: 2025-08-15T14:13:16.708784
 - Parallels [[Cultural Integration]]
 - Affected by [[Crystal Communication Center 2]]
 - Related: [[Quest - Military Innovation 2]]
+
+## Visual References
+![[04_Resources/Assets/Misc/faction_reputation_matrix.png]]
+![[04_Resources/Assets/Digital/ui-ui-faction-reputation-bar-v1-faction-reputation-bar.png]]
+![[04_Resources/Assets/Digital/ui-ui-faction-reputation-bar-v2-faction-reputation-bar.png]]

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.117250
+modified: 2025-08-15T16:41:41.117255
+aliases: [NPC01767 Alaric Ravenheart the Risen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Branwen Voidwalker the Risen (Family - Sibling)|Branwen Voidwalker the Risen (Family - Sibling)]]
+- [[#Hestara Ashford the Bold (Personal - Best friend)|Hestara Ashford the Bold (Personal - Best friend)]]
+- [[#Hilda Proudmore the Lost (Personal - Childhood friend)|Hilda Proudmore the Lost (Personal - Childhood friend)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Alaric Ravenheart the Risen", "alaric ravenheart the risen", "Alaric Ravenheart Risen", "Risen the Ravenheart Alarictags: [npc, character, combat, magic, lore]er]
 type: npc
@@ -139,13 +160,43 @@ Is secretly testing the party
 - Special moves
 
 ## Combat Stats
-Base: **Mage** (MM p.347)
+Base: **Mage** (BC p.347)
 Modifications:
 - HP: 31
 - AC: 12
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[Sage Elara]]
+- [[NPC00237_Vesper_Ashford_the_Bold]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Propaganda_Broadsheet_Syndicate.md]]
+- [[Player_Comfort_Check]]
+- [[Downtime_Activities]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[11 Rules Glossary]]
+- [[MOC_Rules]]
 - [[Related_Content]]
 
 
@@ -155,10 +206,10 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -169,13 +220,13 @@ Modifications:
 ## Connections
 
 - Influences [[Seeds of Tomorrow (D&D_References)]]
-- Requires [[Merchant Thane Goldwhisper]]
-- Related: [[Assets Locations Location City Coral Lifeshaper V1 Coral Lifeshaper.svg]]
+- Requires [[[[Merchant]] Thane Goldwhisper]]
+- Related: [[Assets Locations [[Location City [[Coral Lifeshaper]] V1 Coral Lifeshaper.svg]]]]
 - Affected by [[Portrait NPC Captain Prism Shield Valeria V2 Captain Prism Shield Valeria.svg]]
 - See also: [[step_076 (phase_013)]]
-- See also: [[Location City the First Failure the First Failure.svg]]
+- See also: [[Location City [[The First Failure]] the First Failure.svg]]
 - Related: [[Reflection Pools (D&D_References)]]
-- Originates from [[Aquabyssos Trade Seal (Lore)]]
+- Originates from [[[[Aquabyssos]] Trade Seal (Lore)]]
 - Compare with [[step_031 (phase_068)]]
 - Compare with [[step_007 (phase_006)]]
 - Connects to [[Professor Aldric Crystalweaver (D&D_Statblocks)]]
@@ -185,7 +236,7 @@ Modifications:
 - Compare with [[Portrait NPC the Great Trade Routes the Great Trade Routes.svg_1 (Portraits)]]
 - Leads to [[LOC00299_Cities_Location_300]]
 - Leads to [[step_012]]
-- Affected by [[Temple Districts]]
+- Affected by [[[[Temple District]]s]]
 - Affected by [[list-spells-feats-fey-touched-xphb (lists)]]
 - Requires [[Duke Marcus Brightshield]]
 - Affected by [[step_032 (phase_022)]]
@@ -193,7 +244,7 @@ Modifications:
 - See also: [[LOC00127_Planes_Location_128]]
 - Requires [[Assets Portraits Portrait NPC Mirror Breaking Crystals Mirror Breaking Crystals.svg]]
 - Influences [[step_044 (phase_089)]]
-- Leads to [[Location City Hybrid Communities Integration V1 Hybrid Communities Integration.svg]]
+- Leads to [[Location City [[Hybrid Communities Integration]] V1 Hybrid Communities Integration.svg]]
 - Parallels [[02-chapter-1-playing-the-game#Dropping Prone]]
 - Influences [[potion-of-longevity-xdmg (items)]]
 - Influences [[Master of the Gallery Cornelius Publicvoice 2]]
@@ -205,7 +256,7 @@ Modifications:
 - Connects to [[step_077 (phase_009)]]
 - Parallels [[Bard Xphb]]
 - Parallels [[The Smuggler's Den (D&D_References)]]
-- Connects to [[Assets Locations Location City Trader Compass Rose Trader Compass Rose.svg]]
+- Connects to [[Assets Locations Location City [[Trader Compass Rose]] Trader Compass Rose.svg]]
 - Requires [[potion-of-comprehension-xdmg (items)]]
 - Parallels [[Aquabyssos Culture and Society]]
 - Related: [[step_004 (phase_043)]]
@@ -213,25 +264,25 @@ Modifications:
 - Requires [[step_018 (phase_013)]]
 - Influences [[ITEM01291_Refined_Elixir_of_Fortune]]
 - Affected by [[Wayfarer Xphb]]
-- Requires [[Reality Anchoring Technology (D&D_References)]]
+- Requires [[[[Reality Anchoring Technology]] (D&D_References)]]
 - Related: [[step_023 (phase_034)]]
 - Related: [[step_034 (phase_033)]]
 - Parallels [[step_063 (phase_048)]]
 - Related: [[step_083 (phase_070)]]
 - Affected by [[step_064 (phase_089)]]
-- Leads to [[Location City the Crystal Caves V1 the Crystal Caves.svg]]
+- Leads to [[Location City [[The Crystal Caves]] V1 the Crystal Caves.svg]]
 - Connects to [[food-drink-and-lodging-xphb (tables)]]
-- Originates from [[Liminal Constantinople (D&D_References)]]
+- Originates from [[[[Liminal Constantinople]] (D&D_References)]]
 - Compare with [[Acolyte Sister Tidal Deepfaith]]
 - Originates from [[The_Forgotten_Archive.png]]
 - Influences [[portrait-npc-queen-nerida-v2-queen-nerida.svg_1 (Portraits)]]
 - Influences [[Cultural Exchange Protocols]]
-- Parallels [[Location City Guide Helpfulcurrent Guide Helpfulcurrent.svg]]
+- Parallels [[Location City [[Guide Helpfulcurrent]] Guide Helpfulcurrent.svg]]
 - Related: [[DUN00102_Dungeon_103]]
 - Compare with [[scroll-of-protection-celestials-xdmg (items)]]
 - See also: [[step_071]]
 - Requires [[Portrait NPC Quest the Bio Adaptation Crisis Quest the Bio Adaptation Crisis.svg]]
-- See also: [[Assets Locations Location City Undead Services Bureau Undead Services Bureau.svg]]
+- See also: [[Assets Locations Location City [[Undead Services Bureau]] Undead Services Bureau.svg]]
 - Leads to [[Location City Maze Heart Crystal Maze Heart Crystal.svg]]
 - Originates from [[step_064]]
 - Requires [[step_017_implement_audio_organization]]
@@ -245,7 +296,7 @@ Modifications:
 - Connects to [[supernatural-hooks-xdmg (tables)]]
 - Connects to [[Contingency Xphb]]
 - Related: [[step_015 (phase_034)]]
-- Influences [[Assets Locations Location City Trade War Trade War.svg]]
+- Influences [[Assets Locations Location City [[Trade War]] Trade War.svg]]
 - See also: [[scroll-of-protection-oozes-xdmg (items)]]
 - Related: [[The Coral Estates (D&D_References)]]
 - Parallels [[portrait-npc-senator-marius-v1-senator-marius.svg_1 (Portraits)]]
@@ -268,3 +319,12 @@ Modifications:
 - Originates from [[Rival Merchant Prince Gold]]
 - Influences [[Symbol Heraldry Political Parties of Aquabyssos Political Parties of Aquabyssos.svg]]
 - Influences [[Forgotten Realms Gond]]
+
+## Visual References
+![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Elric Quicksilver the Risen
 
 *Dwarf Assassin (Villains), Age 32, Female*

@@ -17,6 +17,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![04_Resources/Assets/Vehicles/vehicle-ship-crown-council-flagship-v1-crown-council-flagship.svg](../../04_Resources/Assets/Misc/04_resources_assets_vehicles_vehicle_ship_crown_council_flagship_v1_crown_council_flagship_svg.png)
 
 ## 🔧 Deep Evaluation Improvements

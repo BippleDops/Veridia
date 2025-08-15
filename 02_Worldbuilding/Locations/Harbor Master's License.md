@@ -251,3 +251,7 @@ Ongoing situations affecting Harbor Master's License:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00407_Hestara_Dawnstrider]]

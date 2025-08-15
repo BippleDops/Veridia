@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Corvus Dawnstrider the Scholar
 
 *Halfling Corrupt Noble (Villains), Age 25, Non-binary*

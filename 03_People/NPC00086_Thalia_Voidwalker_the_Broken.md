@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.732218
+modified: 2025-08-15T16:41:42.732223
+aliases: [NPC00086 Thalia Voidwalker the Broken]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Brightblade (Professional - Employee)|Wynne Brightblade (Professional - Employee)]]
+- [[#Thalia Ashford (Political - Patron)|Thalia Ashford (Political - Patron)]]
+- [[#Malakai Quicksilver (Criminal - Accomplice)|Malakai Quicksilver (Criminal - Accomplice)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Thalia Voidwalker the Broken", "thalia voidwalker the broken", "Thalia Voidwalker Broken", "Broken the Voidwalker Thalia"]
 tags: [npc, character]
@@ -146,11 +167,11 @@ Seeks bodyguards for dangerous journey
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -260,3 +281,14 @@ Seeks bodyguards for dangerous journey
 - Parallels [[Advanced Shadow Recognition]]
 - Compare with [[Giant Ape Xmm]]
 - Parallels [[Infernal Tack Mtf]]
+
+## Visual References
+![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

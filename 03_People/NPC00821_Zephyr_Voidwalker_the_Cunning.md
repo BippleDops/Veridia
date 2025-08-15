@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.622411
+modified: 2025-08-15T16:41:41.622414
+aliases: [NPC00821 Zephyr Voidwalker the Cunning]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Brenna Ironforge the Seeker (Criminal - Target)|Brenna Ironforge the Seeker (Criminal - Target)]]
+- [[#Alaric Brightblade the Bold (Professional - Partner)|Alaric Brightblade the Bold (Professional - Partner)]]
+- [[#Rhiannon Nightfall the Fallen (Family - Child)|Rhiannon Nightfall the Fallen (Family - Child)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Zephyr Voidwalker the Cunning", "zephyr voidwalker the cunning", "Zephyr Voidwalker Cunning", "Cunning the Voidwalker Zephyr"]
 tags: [npc, character]
@@ -139,6 +160,22 @@ Seeks rare merchandise
 - Special moves
 
 ## See Also
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01286_Xander_Proudmore_the_Bold]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[Faction_Relationship_Web]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[11 Spellcasting]]
+- [[MOC_Lore]]
 - [[Related_Content]]
 
 
@@ -148,11 +185,11 @@ Seeks rare merchandise
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Death Saves**: See PHB p.197
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Death Saves**: See ACX p.197
 
 
 ## Thematic Connections
@@ -262,3 +299,14 @@ Seeks rare merchandise
 - Related: [[step_077 (phase_055)]]
 - Related: [[LOC00183_Cities_Location_184]]
 - Connects to [[Weapons Trader Gareth Steelmerchant 2]]
+
+## Visual References
+![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
+![[03_People/portrait_zephyr_goldwhisper_standard.png]]
+![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Nerys Blackstone the Lost
 
 *Half-Orc Shopkeeper (Merchants), Age 66, Male*

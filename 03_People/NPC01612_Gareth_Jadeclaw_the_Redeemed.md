@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Gareth Jadeclaw the Redeemed
 
 *Firbolg Corrupt Noble (Villains), Age 46, Male*

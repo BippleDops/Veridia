@@ -682,3 +682,9 @@ Ongoing situations affecting Tethyan Hegemony:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]

@@ -5,6 +5,10 @@ race: Human
 occupation: Commoner
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-dying-forest-quest-the-dying-forest.svg]]
+
+
 # Quest   The Dying Forest
 
 *Human Commoner*

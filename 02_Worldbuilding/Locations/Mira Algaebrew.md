@@ -222,3 +222,9 @@ Ongoing situations affecting Mira Algaebrew:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00922_Wynne_Youngblood_the_Fallen]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]

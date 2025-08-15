@@ -224,3 +224,8 @@ Ongoing situations affecting Rare Ingredient Network:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]

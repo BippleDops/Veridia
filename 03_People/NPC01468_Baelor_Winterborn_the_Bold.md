@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Baelor Winterborn the Bold
 
 *Dwarf Wizard (Adventurers), Age 24, Non-binary*

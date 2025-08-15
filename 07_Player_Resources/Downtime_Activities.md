@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:33.972651
+modified: 2025-08-15T16:41:33.972653
+aliases: [Downtime Activities]
+---
+
+## Table of Contents
+- [[#Available Activities|Available Activities]]
+- [[#Crafting|Crafting]]
+- [[#Research|Research]]
+- [[#Training|Training]]
+- [[#Work|Work]]
+- [[#Carousing|Carousing]]
+- [[#See Also|See Also]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
 -tags: [rules, downtime, activities, combat]es]
 created: 2025-08-15T14:13:16.708781
 ---
@@ -38,19 +59,34 @@ created: 2025-08-15T14:13:16.708781
 > Hidden treasure can be found here with a DC 15 Investigation check
 
 ## See Also
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[Player_Comfort_Check]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[Party_Quests]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[World_Primer.md]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[Archdruid Thornweaver]]
+- [[Reference.md]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[11 Spellcasting]]
 - [[Related_Content]]
 
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Combat**: See PHB p.189-198
+- **Ability Checks**: See ACX p.174
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 

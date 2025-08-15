@@ -225,3 +225,10 @@ Ongoing situations affecting The Neutral Current Tavern:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]

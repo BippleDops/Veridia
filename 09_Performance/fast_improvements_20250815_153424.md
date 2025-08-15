@@ -1,3 +1,21 @@
+---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:26.073203
+modified: 2025-08-15T16:41:26.073209
+aliases: [fast improvements 20250815 153424]
+---
+
+## Table of Contents
+- [[#Improvements Made|Improvements Made]]
+- [[#Files Created|Files Created]]
+- [[#Summary|Summary]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#Connections|Connections]]
+- [[#Related Content|Related Content]]
+- [[#Visual References|Visual References]]
+
+
 # Fast 1000 Improvements Report
 
 **Date**: 2025-08-15 15:34
@@ -23,14 +41,14 @@
 - DM_Inspiration_Lists.md
 - Session_Zero_Template.md
 - Random_Encounter_Tables.md
-- NPC_Name_Generator.md
+- [[NPC_Name_Generator.png|NPC_Name_Generator]].md
 
 ## Summary
 Successfully made 2081+ improvements without changing vault structure!
 
 
 ## Game Mechanics
-- **Inspiration**: See PHB p.125
+- **Inspiration**: See ACX p.125
 
 
 ## Connections
@@ -135,3 +153,12 @@ Successfully made 2081+ improvements without changing vault structure!
 - Connects to [[LOC00155_Dungeons_Location_156]]
 - Compare with [[Sacred Flame Xphb]]
 - Compare with [[Portrait NPC Merc... Related To: Local Political Structure Connected Plots: to Be Developed]]
+
+## Related Content
+*Enhanced with 1 new connections*
+
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_dock_master_anchor_holdfast_dock_master_anchor_holdfast_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dock_master_anchor_holdfast_v1_dock_master_anchor_holdfast_svg_standard.png]]
+![[03_People/portrait_assets_locations_location_city_quartermaster_judith_steadfast_v1_quartermaster_judith_steadfast_svg_friendly.png]]

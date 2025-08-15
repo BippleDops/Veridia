@@ -208,3 +208,9 @@ Ongoing situations affecting Archivist Stone Memorykeeper:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]

@@ -233,3 +233,9 @@ Mentioned in The Second Prophecy of Depths
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]

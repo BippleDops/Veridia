@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.965896
+modified: 2025-08-15T16:41:41.965899
+aliases: [NPC00878 Kaelen Ironwood the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Xander Thornweave the Seeker (Professional - Employee)|Xander Thornweave the Seeker (Professional - Employee)]]
+- [[#Wynne Zephyrblade the Cunning (Family - Cousin)|Wynne Zephyrblade the Cunning (Family - Cousin)]]
+- [[#Ewan Nightfall the Risen (Family - Sibling)|Ewan Nightfall the Risen (Family - Sibling)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Kaelen Ironwood the Strong", "kaelen ironwood the strong", "Kaelen Ironwood Strong", "Strong the Ironwood Kaelen"]
 tags: [npc, character]
@@ -144,6 +165,33 @@ Seeks rare merchandise
 - Special moves
 
 ## See Also
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[NPC01113_Solas_Ravenheart_the_Cunning]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC00046_Urien_Ironwood_the_Wise]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC00162_Xander_Thornweave]]
+- [[Faction_Guide.md]]
+- [[Parliamentary_Voting_Guide]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[11 Rules Glossary]]
+- [[MOC_Quests]]
 - [[Related_Content]]
 
 
@@ -153,11 +201,11 @@ Seeks rare merchandise
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -267,3 +315,14 @@ Seeks rare merchandise
 - See also: [[Archbishop Matthias Lightbringer]]
 - See also: [[Conjure Celestial Xphb]]
 - Connects to [[Assets Locations Location City Legal Counsel Derek Lawkeeper V1 Legal Counsel Derek Lawkeeper.svg]]
+
+## Visual References
+![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
+![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
+![[03_People/portrait_commander_thrace_ironwood.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

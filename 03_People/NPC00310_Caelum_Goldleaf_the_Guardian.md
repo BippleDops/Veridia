@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.822323
+modified: 2025-08-15T16:41:45.822326
+aliases: [NPC00310 Caelum Goldleaf the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Thornweave (Professional - Mentor)|Thalia Thornweave (Professional - Mentor)]]
+- [[#Alaric Ashford (Criminal - Accomplice)|Alaric Ashford (Criminal - Accomplice)]]
+- [[#Gavril Lightbringer the Bold (Professional - Rival)|Gavril Lightbringer the Bold (Professional - Rival)]]
+
+
+---
 aliases: ["Caelum Goldleaf the Guardian", "caelum goldleaf the guardian", "Caelum Goldleaf Guardian", "Guardian the Goldleaf Caelum"]
 tags: [npc, character]
 type: npc
@@ -242,3 +263,14 @@ Wants rivals investigated
 - Related: [[Earl Thaddeus Blackthorn (D&D_References)]]
 - Compare with [[step_081 (phase_030)]]
 - Connects to [[Coral Throne Syndicate HQ (D&D_References)]]
+
+## Visual References
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

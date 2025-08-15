@@ -16,6 +16,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![02_Worldbuilding/Groups/Merchants Guild.md](../../04_Resources/Assets/Misc/02_worldbuilding_groups_merchants_guild_md.png)
 
 ## 🔧 Deep Evaluation Improvements

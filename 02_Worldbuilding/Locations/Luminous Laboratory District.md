@@ -232,3 +232,7 @@ Ongoing situations affecting Luminous Laboratory District:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01781_Urien_Keenblade_the_Cunning]]

@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Pressure Con
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]

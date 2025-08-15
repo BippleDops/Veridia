@@ -296,3 +296,7 @@ Ongoing situations affecting The Eel Keepers:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]

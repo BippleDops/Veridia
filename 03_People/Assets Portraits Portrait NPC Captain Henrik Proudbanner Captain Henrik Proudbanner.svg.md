@@ -19,6 +19,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/token_assets_portraits_portrait_npc_captain_henrik_proudbanner_captain_henrik_proudbanner_svg_bloodied.png]]
+
+
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*

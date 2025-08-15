@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.661736
+modified: 2025-08-15T16:41:43.661742
+aliases: [NPC00657 Nerys Crystalbrook the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Brenna Blackstone the Seeker (Criminal - Target)|Brenna Blackstone the Seeker (Criminal - Target)]]
+- [[#Aeliana Crystalbrook the Fallen (Family - Spouse)|Aeliana Crystalbrook the Fallen (Family - Spouse)]]
+- [[#Brenna Ravenheart the Strong (Family - Child)|Brenna Ravenheart the Strong (Family - Child)]]
+
+
+---
 aliases: ["Nerys Crystalbrook the Bold", "nerys crystalbrook the bold", "Nerys Crystalbrook Bold", "Bold the Crystalbrook Nerys"]
 tags: [npc, character]
 type: npc
@@ -251,3 +272,14 @@ Discovered something valuable
 - Affected by [[gnoll-demoniac-xmm (fiend)]]
 - Compare with [[step_079 (phase_010)]]
 - Requires [[QUEST00011_Main_Quest_12]]
+
+## Visual References
+![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Pressure Respons
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01367_Lyanna_Xendar_the_Wise]]

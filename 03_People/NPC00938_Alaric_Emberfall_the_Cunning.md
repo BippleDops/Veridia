@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.650932
+modified: 2025-08-15T16:41:42.650935
+aliases: [NPC00938 Alaric Emberfall the Cunning]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Caelum Voidwalker the Cunning (Professional - Rival)|Caelum Voidwalker the Cunning (Professional - Rival)]]
+- [[#Urien Proudmore the Swift (Political - Opposition)|Urien Proudmore the Swift (Political - Opposition)]]
+- [[#Brenna Ashford the Wanderer (Professional - Employer)|Brenna Ashford the Wanderer (Professional - Employer)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Alaric Emberfall the Cunning", "alaric emberfall the cunning", "Alaric Emberfall Cunning", "Cunning the Emberfall Alaric"]
 tags: [npc, character]
@@ -144,11 +165,11 @@ Seeks rare merchandise
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -258,3 +279,12 @@ Seeks rare merchandise
 - Parallels [[robe-of-useful-items-xdmg (items)]]
 - Compare with [[LOC00140_Planes_Location_141]]
 - See also: [[step_028 (phase_043)]]
+
+## Visual References
+![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

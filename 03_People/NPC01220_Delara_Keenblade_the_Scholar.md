@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Delara Keenblade the Scholar
 
 *Tiefling Fighter (Adventurers), Age 28, Non-binary*

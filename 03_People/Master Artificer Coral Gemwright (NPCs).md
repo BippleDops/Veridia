@@ -15,6 +15,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_master_artificer_coral_gemwright_friendly.png]]
+
+
 # Master Artificer Coral Gemwright
 
 ## Overview

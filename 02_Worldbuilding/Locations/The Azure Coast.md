@@ -498,3 +498,7 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00362_Pyria_Stormwind_the_Wise]]

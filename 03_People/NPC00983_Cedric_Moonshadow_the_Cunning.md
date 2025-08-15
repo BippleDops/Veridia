@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Cedric Moonshadow the Cunning
 
 *Aasimar Shopkeeper (Merchants), Age 71, Male*

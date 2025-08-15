@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Delara Proudmore the Seeker
 
 *Aasimar Cultist (Villains), Age 43, Male*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Qadim Goldleaf the Fallen
 
 *Firbolg Heir (Nobles), Age 63, Female*

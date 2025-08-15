@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.418867
+modified: 2025-08-15T16:41:46.418871
+aliases: [NPC00258 Corvus Youngblood the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Malakai Lightbringer (Criminal - Informant)|Malakai Lightbringer (Criminal - Informant)]]
+- [[#Gavril Ironforge the Swift (Criminal - Target)|Gavril Ironforge the Swift (Criminal - Target)]]
+- [[#Corvus Ironwood the Wanderer (Political - Patron)|Corvus Ironwood the Wanderer (Political - Patron)]]
+
+
+---
 aliases: ["Corvus Youngblood the Seeker", "corvus youngblood the seeker", "Corvus Youngblood Seeker", "Seeker the Youngblood Corvus"]
 tags: [npc, character]
 type: npc
@@ -240,3 +261,14 @@ Needs discrete help with family scandal
 - Parallels [[QUEST00180_Personal_Quest_181]]
 - Parallels [[Character Index]]
 - Leads to [[LOC00157_Planes_Location_158]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

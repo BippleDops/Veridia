@@ -221,3 +221,11 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]

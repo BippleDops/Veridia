@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.864020
+modified: 2025-08-15T16:41:40.864023
+aliases: [NPC01841 Malakai Nightfall the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Urien Proudmore the Wise (Criminal - Handler)|Urien Proudmore the Wise (Criminal - Handler)]]
+- [[#Urien Youngblood the Guardian (Professional - Mentor)|Urien Youngblood the Guardian (Professional - Mentor)]]
+- [[#Fiora Frostwhisper the Strong (Criminal - Handler)|Fiora Frostwhisper the Strong (Criminal - Handler)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Malakai Nightfall the Wise", "malakai nightfall the wise", "Malakai Nightfall Wise", "Wise the Nightfall Malakaitags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
@@ -115,7 +136,7 @@ Intimidation, Nature
 
 ### Catchphrases
 - "If you say so."
-- "Time will tell."
+- "[[Time]] will tell."
 
 ### Knowledge
 - Blackmail material
@@ -151,31 +172,46 @@ Blackmails party into service
 - Special moves
 
 ## Combat Stats
-Base: **Priest** (MM p.348)
+Base: **Priest** (BC p.348)
 Modifications:
 - HP: 16
 - AC: 11
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[Depth_Adapted_Background]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00615_Lyanna_Moonshadow_the_Lost]]
+- [[Reference.md]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[05 Personality and Background]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Dungeon Master's Guide (DMG) p.3
+- Worldweaver's Tome (WWT) p.3
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -183,10 +219,10 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -209,7 +245,7 @@ Following magic item guidelines (DMG p.135-136):
 - Compare with [[LOC0033_WestGate]]
 - Compare with [[NPC00930_Thalia_Darkwater_the_Wanderer]]
 - Compare with [[SPELL00011_Arcane_Spell_12]]
-- Leads to [[Location City Artisan Associations V1 Artisan Associations.svg]]
+- Leads to [[Location City [[Artisan Associations]] V1 Artisan Associations.svg]]
 - Related: [[Biological Authentication]]
 - Originates from [[QUEST00061_Side_Quest_62]]
 - Compare with [[Portrait NPC Captain Torrent Freewater V2 Captain Torrent Freewater.svg]]
@@ -232,18 +268,18 @@ Following magic item guidelines (DMG p.135-136):
 - Connects to [[step_027 (phase_040)]]
 - Requires [[Common People]]
 - Compare with [[Shocking Grasp Xphb]]
-- Related: [[Resonance Roses (D&D_References)]]
+- Related: [[[[Resonance Roses]] (D&D_References)]]
 - See also: [[step_005 (phase_052)]]
 - Requires [[Loot Generator]]
-- Connects to [[Map Map Aethermoor Harbor Skirmish V1 Aethermoor Harbor Skirmish.png]]
+- Connects to [[Map Map [[Aethermoor]] Harbor Skirmish V1 Aethermoor Harbor Skirmish.png]]
 - Related: [[Unified Vault Completion Guide (D&D_References)]]
-- Affected by [[Assets Art Forge Master Petra Hammerdeep.png]]
+- Affected by [[Assets Art [[Forge Master Petra Hammerdeep]].png]]
 - Originates from [[EVENT00025_Political_Event_26]]
-- Requires [[Assets Locations Location City the Coral Throne the Coral Throne.svg]]
+- Requires [[Assets Locations Location City [[The Coral Throne]] the Coral Throne.svg]]
 - Influences [[Reality Distortion Mechanics]]
 - Originates from [[step_008 (phase_030)]]
 - Originates from [[ENC00454_Combat_Encounter_455]]
-- See also: [[Surface Portal Alpha (D&D_References)]]
+- See also: [[[[Surface Portal Alpha]] (D&D_References)]]
 - Leads to [[04_Resources_Assets_Locations_location-city-marina-dreamwhisper-marina-dreamwhisper.svg]]
 - Requires [[step_062]]
 - Affected by [[Skyforge]]
@@ -280,7 +316,7 @@ Following magic item guidelines (DMG p.135-136):
 - Compare with [[Baroness Seraphina Moonweaver (D&D_References)]]
 - Related: [[List Spells Optional Features Mire the Mind]]
 - See also: [[step_079 (phase_091)]]
-- Leads to [[Barkeep Salty Sarah (D&D_References)]]
+- Leads to [[[[Barkeep Salty Sarah]] (D&D_References)]]
 - Affected by [[step_099 (phase_015)]]
 - Requires [[step_088 (phase_044)]]
 - Requires [[High Judge Moira Truthseeke]]
@@ -292,7 +328,18 @@ Following magic item guidelines (DMG p.135-136):
 - Related: [[NPC_Name_Generator]]
 - Affected by [[#At the Table]]
 - Compare with [[Scene Scene Deep Mother S Tentacles Rising Deep Mother S Tentacles Rising.svg]]
-- Leads to [[Location City Keeper Brinescale Keeper Brinescale.svg]]
+- Leads to [[Location City [[Keeper Brinescale]] Keeper Brinescale.svg]]
 - Leads to [[Infant Basilisk Oota]]
-- See also: [[Aquabyssos Shadow Pools]]
+- See also: [[[[Aquabyssos]] Shadow Pools]]
 - Leads to [[Portrait NPC Emperor Pelagic the Last V1 Emperor Pelagic the Last.svg]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

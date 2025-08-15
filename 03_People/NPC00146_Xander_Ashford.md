@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.312909
+modified: 2025-08-15T16:41:43.312912
+aliases: [NPC00146 Xander Ashford]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Xander Dawnstrider the Fallen (Professional - Employee)|Xander Dawnstrider the Fallen (Professional - Employee)]]
+- [[#Pyria Emberfall (Personal - Best friend)|Pyria Emberfall (Personal - Best friend)]]
+- [[#Baelor Stormwind (Family - Cousin)|Baelor Stormwind (Family - Cousin)]]
+
+
+---
 aliases: ["Xander Ashford", "xander ashford", "Ashford Xander"]
 tags: [npc, character]
 type: npc
@@ -250,3 +271,14 @@ Wants rivals investigated
 - Affected by [[Assets Art Screaming Gardens Songwood Grove.png]]
 - Related: [[List Spells Optional Features Flames of the]]
 - Parallels [[item types#Heavy%20Armor]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

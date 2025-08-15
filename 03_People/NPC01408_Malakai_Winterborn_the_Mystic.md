@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.156062
+modified: 2025-08-15T16:41:46.156067
+aliases: [NPC01408 Malakai Winterborn the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Frostwhisper the Strong (Political - Opposition)|Ysara Frostwhisper the Strong (Political - Opposition)]]
+- [[#Thalia Keenblade the Bold (Professional - Employer)|Thalia Keenblade the Bold (Professional - Employer)]]
+- [[#Hestara Darkwater the Strong (Family - Cousin)|Hestara Darkwater the Strong (Family - Cousin)]]
+
+
+---
 aliases: ["Malakai Winterborn the Mystic", "malakai winterborn the mystic", "Malakai Winterborn Mystic", "Mystic the Winterborn Malakai"]
 tags: [npc, character]
 type: npc
@@ -254,3 +275,14 @@ Needs help with personal quest
 - Originates from [[Reality Anchor Points]]
 - Related: [[climbers-kit-xphb (items)]]
 - Compare with [[ITEM00649_Mithril_Helm_of_Resistance]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

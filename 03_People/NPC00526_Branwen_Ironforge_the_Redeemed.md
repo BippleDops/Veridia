@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Branwen Ironforge the Redeemed
 
 *Halfling Farmer (Commoners), Age 36, Male*

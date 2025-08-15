@@ -460,3 +460,32 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00287_Ysara_Underhill_the_Wise]]
+- [[NPC00378_Malakai_Moonshadow_the_Broken]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC00393_Kaelen_Grimholt]]
+- [[NPC00237_Vesper_Ashford_the_Bold]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[NPC00395_Aeliana_Thornweave]]

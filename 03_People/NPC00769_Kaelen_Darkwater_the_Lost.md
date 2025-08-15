@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.052405
+modified: 2025-08-15T16:41:46.052411
+aliases: [NPC00769 Kaelen Darkwater the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Jorah Ironforge the Guardian (Personal - Childhood friend)|Jorah Ironforge the Guardian (Personal - Childhood friend)]]
+- [[#Alaric Lightbringer the Wise (Professional - Employer)|Alaric Lightbringer the Wise (Professional - Employer)]]
+- [[#Elric Youngblood the Guardian (Family - Sibling)|Elric Youngblood the Guardian (Family - Sibling)]]
+
+
+---
 aliases: ["Kaelen Darkwater the Lost", "kaelen darkwater the lost", "Kaelen Darkwater Lost", "Lost the Darkwater Kaelen"]
 tags: [npc, character]
 type: npc
@@ -238,3 +259,14 @@ Witnessed a crime
 - Originates from [[SHOP00013_Magical_Shop_14]]
 - Requires [[The Arterial Highways (D&D_References)]]
 - Parallels [[portrait-npc-assassin-v2-assassin.svg]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

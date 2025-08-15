@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:22.097843
+modified: 2025-08-15T16:41:22.097847
+aliases: [ASSET GENERATION COMPLETE]
+---
+
+## Table of Contents
+- [[#Summary|Summary]]
+- [[#Asset Breakdown|Asset Breakdown]]
+- [[#Coverage|Coverage]]
+- [[#Next Steps|Next Steps]]
+- [[#Asset [[locations|Locations]]|Asset [[locations|Locations]]]]
+- [[#See Also|See Also]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+- [[#Visual References|Visual References]]
+
+
 -tags: [misc, combat, exploration]sc]
 type: misc
 aliases: ["ASSET GENERATION COMPLETE"]
@@ -69,20 +90,20 @@ With subdirectories for each type:
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -186,3 +207,8 @@ With subdirectories for each type:
 - Compare with [[NPC01950_Baelor_Grimholt_the_Broken]]
 - Compare with [[NPC0021_Vera_Stormwind]]
 - See also: [[QUEST00005_Main_Quest_6]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_marina_reefbuilder_professor_marina_reefbuilder_svg_standard.png]]
+![[03_People/portrait_assets_locations_location_city_quartermaster_sterling_suppystone_quartermaster_sterling_suppystone_svg_friendly.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_navigation_geography_navigation_geography_svg_standard.png]]

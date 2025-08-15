@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Corvus Frostwhisper the Wise
 
 *Tiefling Assassin (Villains), Age 52, Non-binary*

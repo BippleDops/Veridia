@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Aethermoor Academy of Mystical Science](../../../04_Resources/Assets/Misc/aethermoor_academy_of_mystical_science.png)
 
 ## 🔧 Deep Evaluation Improvements

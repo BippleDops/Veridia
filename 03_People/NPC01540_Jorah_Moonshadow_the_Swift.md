@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Jorah Moonshadow the Swift
 
 *Firbolg Ranger (Adventurers), Age 72, Non-binary*

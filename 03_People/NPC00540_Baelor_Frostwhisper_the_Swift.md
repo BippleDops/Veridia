@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.069725
+modified: 2025-08-15T16:41:46.069729
+aliases: [NPC00540 Baelor Frostwhisper the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Elric Ironforge the Wise (Criminal - Informant)|Elric Ironforge the Wise (Criminal - Informant)]]
+- [[#Fiora Emberfall (Family - Sibling)|Fiora Emberfall (Family - Sibling)]]
+- [[#Brenna Jadeclaw the Bold (Professional - Employer)|Brenna Jadeclaw the Bold (Professional - Employer)]]
+
+
+---
 aliases: ["Baelor Frostwhisper the Swift", "baelor frostwhisper the swift", "Baelor Frostwhisper Swift", "Swift the Frostwhisper Baelor"]
 tags: [npc, character]
 type: npc
@@ -249,3 +270,14 @@ Being extorted by criminals
 - Requires [[step_097 (phase_069)]]
 - Affected by [[Random Encounter Tables - Aquabyssos]]
 - Compare with [[step_057]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

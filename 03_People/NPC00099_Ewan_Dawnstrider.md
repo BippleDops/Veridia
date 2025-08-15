@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ewan Dawnstrider
 
 *Tabaxi Ambassador (Nobles), Age 50, Non-binary*

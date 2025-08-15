@@ -279,3 +279,9 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]

@@ -220,3 +220,7 @@ Ongoing situations affecting Inquisitor Mordecai Truthseeker:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]

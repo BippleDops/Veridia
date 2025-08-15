@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.580951
+modified: 2025-08-15T16:41:41.580954
+aliases: [Ambassador Nerida Deepcurrent]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_ambassador_nerida_deepcurrent_friendly.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Description|Description]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Stats (D&D 5e)|Stats (D&D 5e)]]
+- [[#Abilities|Abilities]]
+- [[#Skills|Skills]]
+- [[#Actions|Actions]]
+- [[#Relationships|Relationships]]
+- [[#Plot Hooks|Plot Hooks]]
+
+
+---
 aliases: [Ambassador_Nerida_Deepcurrent, Ambassador-Nerida-Deepcurrent]
 created: 2025-08-15
 tags: [npc, character]
@@ -19,7 +44,8 @@ Ambassador Nerida Deepcurrent is a character encountered in the campaign world.
 - **Race**: Human
 - **Age**: Adult
 - **Build**: Average
-- **Distinguishing Features**: Notable characteristics
+- **Distinguishing Features**: Notable character
+*The [texture] surface feels [description] to the touch.*istics
 
 ## Personality
 - **Traits**: Defining personality traits
@@ -60,9 +86,18 @@ Ambassador Nerida Deepcurrent is a character encountered in the campaign world.
 ## Related
 - [[01_Adventures/Current_Quest]]
 - [[02_Worldbuilding/Locations/Town_Square]]
-- [[00_Indexes/MOCs/NPCs_MOC]]
+- [[00_[[INDEX]]es/MOCs/NPCs_MOC]]
 
 ## See Also
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[Archdruid Thornweaver]]
+- [[Parliamentary_Voting_Guide]]
+- [[Player_Feedback_Form.md]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[Seven_Shards_Tracker.md]]
+- [[Item_Catalog_Complete.md (Indexes)]]
 - [[Related_Content]]
 
 
@@ -72,7 +107,7 @@ Ambassador Nerida Deepcurrent is a character encountered in the campaign world.
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Skills**: See PHB p.174-179
+- **Skills**: See ACX p.174-179
 
 
 ## Connections
@@ -82,17 +117,17 @@ Ambassador Nerida Deepcurrent is a character encountered in the campaign world.
 - See also: [[Portrait NPC Quest the Seventh Song Quest the Seventh Song.svg]]
 - See also: [[giant-weasel-xmm (beast)]]
 - Related: [[Supplemental Tables Childhood Home Xge]]
-- Compare with [[Assets Locations Location City Memory Farmer Thane Memory Farmer Thane.svg]]
+- Compare with [[Assets Locations [[Location City [[Memory Farmer Thane]] Memory Farmer Thane.svg]]]]
 - Requires [[step_089 (phase_041)]]
 - Leads to [[Regional Politics]]
-- Related: [[Location City Feast Saltyflavor Feast Saltyflavor.svg]]
+- Related: [[Location City [[Feast Saltyflavor]] Feast Saltyflavor.svg]]
 - Compare with [[Lord Vex]]
-- Parallels [[Location City Guide Helpfulcurrent Guide Helpfulcurrent.svg]]
+- Parallels [[Location City [[Guide Helpfulcurrent]] Guide Helpfulcurrent.svg]]
 - Parallels [[Forgotten Realms Savras]]
 - Affected by [[NPC00867_Felicia_Quicksilver_the_Wanderer]]
 - See also: [[Otilukes Freezing Sphere Xphb]]
 - Connects to [[Market Charter]]
-- Connects to [[Portrait NPC Memory Merchant Valeria Siltweave V1 Memory Merchant Valeria Siltweave.svg]]
+- Connects to [[Portrait NPC Memory [[Merchant]] Valeria Siltweave V1 Memory Merchant Valeria Siltweave.svg]]
 - Compare with [[SPELL00104_Nature_Spell_105]]
 - Leads to [[list-optfeaturetype-mm#Metamagic]]
 - Influences [[step_044 (phase_010)]]
@@ -105,14 +140,14 @@ Ambassador Nerida Deepcurrent is a character encountered in the campaign world.
 - Influences [[ENC00215_Social_Encounter_216]]
 - See also: [[step_088 (phase_050)]]
 - Leads to [[step_065 (phase_100)]]
-- Connects to [[Assets Locations Location City Terminal Director Admiral Current Swiftflow V1 Terminal Director Admiral Current Swiftflow.svg]]
+- Connects to [[Assets Locations Location City [[Terminal Director Admiral Current Swiftflow]] V1 Terminal Director Admiral Current Swiftflow.svg]]
 - Originates from [[Campaign Management Guide 2]]
 - Connects to [[tiefling-parents-xge (tables)]]
 - Influences [[step_063 (phase_048)]]
-- Parallels [[Void-Keeper Null 2]]
+- Parallels [[[[Void-Keeper Null]] 2]]
 - Compare with [[Memory_Trading_Economy (D&D_References)]]
-- See also: [[Navigator Sage Driftwood (D&D_References)]]
-- Leads to [[Aquabyssos Medical Council (D&D_References)]]
+- See also: [[[[Navigator Sage Driftwood]] (D&D_References)]]
+- Leads to [[[[Aquabyssos]] Medical Council (D&D_References)]]
 - Compare with [[Find the Shadow Cure]]
 - Parallels [[Level Advancement Without Xp]]
 - Related: [[ENC00003_Combat_Encounter_4]]
@@ -153,12 +188,12 @@ Ambassador Nerida Deepcurrent is a character encountered in the campaign world.
 - Compare with [[step_057]]
 - Leads to [[ITEM0031_Hidden_Orb_of_Power]]
 - Originates from [[step_080 (phase_089)]]
-- Affected by [[Assets Locations Location City Symphony of the Abyss Recipe Symphony of the Abyss Recipe.svg]]
+- Affected by [[Assets Locations Location City [[Symphony of the Abyss Recipe]] Symphony of the Abyss Recipe.svg]]
 - Affected by [[step_084 (phase_043)]]
 - Requires [[SPELL00008_Nature_Spell_9]]
 - Related: [[eberron-the-silver-flame (deities)]]
 - Compare with [[QUEST0001_Escape_the_Assassins]]
-- See also: [[Assets Locations Location City Commander Drake Pressureborn Commander Drake Pressureborn.svg]]
+- See also: [[Assets Locations [[Location City [[Commander Drake Pressureborn]] Commander Drake Pressureborn.svg]]]]
 - Influences [[dwarven-sharindlar-mtf (deities)]]
 - Connects to [[Portrait NPC the Waking Prophets the Waking Prophets.svg]]
 - Connects to [[NPC00249_Branwen_Blackstone]]
@@ -176,4 +211,4 @@ Ambassador Nerida Deepcurrent is a character encountered in the campaign world.
 - Leads to [[LOC00206_Wilderness_Location_207]]
 - Affected by [[panther-xmm (beast)]]
 - Parallels [[human-names-celtic-male-xge (tables)]]
-- Affected by [[Assets Locations Location City Commander Drake Pressureborn V1 Commander Drake Pressureborn.svg]]
+- Affected by [[Assets Locations [[Location City Commander Drake Pressureborn V1 Commander Drake Pressureborn.svg]]]]

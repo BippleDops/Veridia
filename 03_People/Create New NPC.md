@@ -13,6 +13,10 @@ type: npc
 updated: 2025-08-14
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_create_new_npc.png]]
+
+
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)

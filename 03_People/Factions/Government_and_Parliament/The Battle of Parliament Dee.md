@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 ![The Battle of Parliament Dee](../../../04_Resources/Assets/Misc/the_battle_of_parliament_dee.png)
 
 ## 🔧 Deep Evaluation Improvements

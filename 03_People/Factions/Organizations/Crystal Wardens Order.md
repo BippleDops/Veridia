@@ -12,6 +12,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Crystal Wardens Order
 
 *Notorious Syndicate*

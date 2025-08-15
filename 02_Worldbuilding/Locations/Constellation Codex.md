@@ -366,3 +366,8 @@ Ongoing situations affecting Constellation Codex:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01283_Corvus_Hawthorne_the_Fallen]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Caelum Ironwood the Fallen
 
 *Gnome Cultist (Villains), Age 52, Female*

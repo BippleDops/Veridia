@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.877933
+modified: 2025-08-15T16:41:43.877936
+aliases: [NPC00054 Drusilla Blackstone the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Malakai Frostwhisper the Cunning (Personal - Love interest)|Malakai Frostwhisper the Cunning (Personal - Love interest)]]
+- [[#Aldric Lightbringer (Family - Sibling)|Aldric Lightbringer (Family - Sibling)]]
+- [[#Pyria Grimholt the Bold (Personal - Ex-lover)|Pyria Grimholt the Bold (Personal - Ex-lover)]]
+
+
+---
 aliases: ["Drusilla Blackstone the Swift", "drusilla blackstone the swift", "Drusilla Blackstone Swift", "Swift the Blackstone Drusilla"]
 tags: [npc, character]
 type: npc
@@ -236,3 +257,14 @@ Seeks bodyguards for dangerous journey
 - Originates from [[step_004]]
 - Parallels [[dungeon-location (tables)]]
 - Connects to [[Symbol Heraldry Wit... Related To: Local Political Structure Connected Plots: to Be Developed]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

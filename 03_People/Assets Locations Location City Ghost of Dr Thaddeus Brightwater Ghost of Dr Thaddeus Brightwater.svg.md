@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.831627
+modified: 2025-08-15T16:41:47.831631
+aliases: [Assets Locations Location City Ghost of Dr Thaddeus Brightwater Ghost of Dr Thaddeus Brightwater.svg]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_locations_location_city_ghost_of_dr_thaddeus_brightwater_ghost_of_dr_thaddeus_brightwater_svg_dramatic.png]]
+
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+- [[#Sensory Improvements|Sensory Improvements]]
+
+
+---
 
 title: Assets Locations Location City Ghost of Dr Thaddeus Brightwater Ghost of Dr
   Thaddeus Brightwater.svg

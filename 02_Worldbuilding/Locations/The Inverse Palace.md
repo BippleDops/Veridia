@@ -249,3 +249,8 @@ Ongoing situations affecting The Inverse Palace:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[The Silent Watcher 2]]

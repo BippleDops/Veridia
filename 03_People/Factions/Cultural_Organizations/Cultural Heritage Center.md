@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 ![Cultural Heritage Center](../../../04_Resources/Assets/Misc/cultural_heritage_center.png)
 
 ## 🔧 Deep Evaluation Improvements

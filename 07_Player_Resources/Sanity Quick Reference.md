@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:34.149039
+modified: 2025-08-15T16:41:34.149044
+aliases: [Sanity Quick Reference]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+- [[#Death_Customs Improvements|Death_Customs Improvements]]
+- [[#Superstitions Improvements|Superstitions Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Handouts/Sanity Quick Reference
 type: lore
@@ -144,6 +165,28 @@ tags: [combat, magic, exploration, lore]
 > This location connects to the main plot
 
 ## See Also
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[Parliamentary_Voting_Guide]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[Party_Inventory]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[Sage Elara]]
+- [[Sanity_Quick_Reference.md]]
+- [[Player_Feedback_Form.md]]
+- [[09 Adventuring]]
+- [[What You Know - Abyssos Prime.md]]
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
+- [[MOC_Lore]]
 - [[Related_Content]]
 
 
@@ -153,21 +196,21 @@ tags: [combat, magic, exploration, lore]
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

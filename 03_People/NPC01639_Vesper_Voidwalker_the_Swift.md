@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.004770
+modified: 2025-08-15T16:41:46.004773
+aliases: [NPC01639 Vesper Voidwalker the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Erasmus Frostwhisper the Cunning (Family - Sibling)|Erasmus Frostwhisper the Cunning (Family - Sibling)]]
+- [[#Zephyr Goldleaf the Fallen (Political - Puppet)|Zephyr Goldleaf the Fallen (Political - Puppet)]]
+- [[#Caelum Youngblood the Fallen (Professional - Employer)|Caelum Youngblood the Fallen (Professional - Employer)]]
+
+
+---
 aliases: ["Vesper Voidwalker the Swift", "vesper voidwalker the swift", "Vesper Voidwalker Swift", "Swift the Voidwalker Vesper"]
 tags: [npc, character]
 type: npc
@@ -246,3 +267,14 @@ Blackmails party into service
 - Parallels [[step_084]]
 - Related: [[step_048]]
 - Requires [[LOC00232_Towns_Location_233]]
+
+## Visual References
+![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
+![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
+![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

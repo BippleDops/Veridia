@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.981466
+modified: 2025-08-15T16:41:43.981469
+aliases: [NPC01627 Caelum Jadeclaw the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hilda Frostwhisper the Guardian (Criminal - Handler)|Hilda Frostwhisper the Guardian (Criminal - Handler)]]
+- [[#Cedric Underhill the Mystic (Personal - Childhood friend)|Cedric Underhill the Mystic (Personal - Childhood friend)]]
+- [[#Caelum Quicksilver the Mystic (Family - Sibling)|Caelum Quicksilver the Mystic (Family - Sibling)]]
+
+
+---
 aliases: ["Caelum Jadeclaw the Guardian", "caelum jadeclaw the guardian", "Caelum Jadeclaw Guardian", "Guardian the Jadeclaw Caelum"]
 tags: [npc, character]
 type: npc
@@ -240,3 +261,14 @@ Offers deal too good to refuse
 - See also: [[Biomancer Flux]]
 - Requires [[vampire-spawn-xmm]]
 - Compare with [[08-chapter-8-bastions (dungeon-masters-guide-2024)]]
+
+## Visual References
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

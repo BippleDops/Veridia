@@ -5,6 +5,10 @@ race: Human
 occupation: Priest
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-democratic-balance-quest-the-democratic-balance.svg]]
+
+
 # Quest   The Democratic Balance
 
 *Human Priest*

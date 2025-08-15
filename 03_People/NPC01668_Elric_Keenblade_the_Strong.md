@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Elric Keenblade the Strong
 
 *Half-Orc Dark Wizard (Villains), Age 35, Female*

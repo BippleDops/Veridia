@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.987883
+modified: 2025-08-15T16:41:45.987889
+aliases: [NPC01020 Wynne Oakenshield the Redeemed]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Dara Youngblood the Wanderer (Personal - Nemesis)|Dara Youngblood the Wanderer (Personal - Nemesis)]]
+- [[#Erasmus Brightblade the Risen (Criminal - Accomplice)|Erasmus Brightblade the Risen (Criminal - Accomplice)]]
+- [[#Delara Xendar the Broken (Criminal - Target)|Delara Xendar the Broken (Criminal - Target)]]
+
+
+---
 aliases: ["Wynne Oakenshield the Redeemed", "wynne oakenshield the redeemed", "Wynne Oakenshield Redeemed", "Redeemed the Oakenshield Wynne"]
 tags: [npc, character]
 type: npc
@@ -236,3 +261,8 @@ Competitor sabotaging business
 - Connects to [[ENC00269_Combat_Encounter_270]]
 - Leads to [[step_023 (phase_020)]]
 - Related: [[arcana-rare-xdmg (tables)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

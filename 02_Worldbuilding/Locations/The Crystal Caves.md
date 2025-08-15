@@ -274,3 +274,11 @@ Ongoing situations affecting The Crystal Caves:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC00453_Idris_Grimholt]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]

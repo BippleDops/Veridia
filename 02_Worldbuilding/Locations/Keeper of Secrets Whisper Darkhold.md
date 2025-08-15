@@ -241,3 +241,8 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]

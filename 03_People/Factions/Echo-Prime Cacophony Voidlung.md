@@ -23,6 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_symbols_symbol_heraldry_echo_prime_cacophony_voidlung_echo_prime_cacophony_voidlung_svg_friendly.png]]
+
+
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-echo-prime-cacophony-voidlung-echo-prime-cacophony-voidlung.svg)
 

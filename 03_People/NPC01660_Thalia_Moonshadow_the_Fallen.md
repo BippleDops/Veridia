@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.552906
+modified: 2025-08-15T16:41:41.552912
+aliases: [NPC01660 Thalia Moonshadow the Fallen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Qadim Winterborn the Risen (Political - Puppet)|Qadim Winterborn the Risen (Political - Puppet)]]
+- [[#Faelyn Thornweave the Risen (Criminal - Handler)|Faelyn Thornweave the Risen (Criminal - Handler)]]
+- [[#Corvus Stormwind the Cunning (Professional - Employee)|Corvus Stormwind the Cunning (Professional - Employee)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Thalia Moonshadow the Fallen", "thalia moonshadow the fallen", "Thalia Moonshadow Fallen", "Fallen the Moonshadow Thalia"]
 tags: [npc, character]
@@ -142,6 +163,27 @@ Is secretly testing the party
 - Special moves
 
 ## See Also
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[Party_Quests]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[12 Spells]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
 - [[Related_Content]]
 
 
@@ -151,8 +193,8 @@ Is secretly testing the party
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -167,7 +209,7 @@ Is secretly testing the party
 - Affected by [[step_059 (phase_043)]]
 - Connects to [[FAC00078_Cults_79]]
 - Compare with [[step_049 (phase_091)]]
-- Leads to [[Assets Locations Location City the Whisper Island Mystery the Whisper Island Mystery.png]]
+- Leads to [[Assets Locations [[Location City the [[Whisper Island]] Mystery [[The Whisper Island Mystery]].png]]]]
 - Originates from [[step_056 (phase_096)]]
 - Requires [[Pact of the Blade Xphb]]
 - Requires [[LOC00270_Towns_Location_271]]
@@ -176,11 +218,11 @@ Is secretly testing the party
 - Influences [[step_030]]
 - Requires [[ITEM00542_Ethereal_Cloak_of_Fortitude]]
 - See also: [[step_093]]
-- Affected by [[Update Indexes (D&D_References)]]
+- Affected by [[Update [[INDEX]]es (D&D_References)]]
 - Affected by [[step_054]]
 - Requires [[Navigation & Geography]]
 - See also: [[step_064 (phase_099)]]
-- Originates from [[Assets Locations Location City Abyssos Prime Docks V1 Abyssos Prime Docks.svg]]
+- Originates from [[Assets Locations Location City [[[[Abyssos Prime]] Docks]] V1 Abyssos Prime Docks.svg]]
 - Connects to [[Tide Bondkeeper]]
 - Leads to [[Captain Echo]]
 - Compare with [[step_004 (phase_023)]]
@@ -191,8 +233,8 @@ Is secretly testing the party
 - Originates from [[The Green Apocalypse]]
 - Related: [[The Whispering Tower]]
 - Related: [[step_044]]
-- Related: [[Harbor District Customs House 2]]
-- Connects to [[Location City Military Command Military Command.svg]]
+- Related: [[[[[[Harbor District]] Customs House]] 2]]
+- Connects to [[Location City [[Military Command]] Military Command.svg]]
 - Influences [[human-names-niger-congo-male-xge (tables)]]
 - See also: [[step_046 (phase_064)]]
 - Influences [[Create Undead Xphb]]
@@ -201,7 +243,7 @@ Is secretly testing the party
 - Requires [[step_067]]
 - Related: [[QUEST00290_Side_Quest_291]]
 - Connects to [[step_066 (phase_044)]]
-- Compare with [[Location City the Observatory V1 the Observatory.svg]]
+- Compare with [[Location City [[The Observatory]] V1 the Observatory.svg]]
 - Parallels [[NPC01073_Zephyr_Ironwood_the_Strong]]
 - See also: [[QUEST00418_Side_Quest_419]]
 - Affected by [[Myconid Sprout Xmm]]
@@ -210,15 +252,15 @@ Is secretly testing the party
 - Leads to [[Chief Medic Coral Battlehealer]]
 - See also: [[LOC00041_Cities_Location_42]]
 - Requires [[Consequence_Chain_Name_2 (02_Worldbuilding)]]
-- Leads to [[Echo-Keeper Selin (D&D_References)]]
+- Leads to [[[[Echo-Keeper Selin]] (D&D_References)]]
 - Connects to [[Welfare Director Caretake 2]]
 - Affected by [[The Zone Map Codex 2]]
 - Influences [[step_070 (phase_027)]]
 - Affected by [[list-spells-optional-features-bewitching-whispers]]
-- Leads to [[Assets Locations Location City Expedition to the Sunless Depths Expedition to the Sunless Depths.svg]]
+- Leads to [[Assets Locations Location City [[Expedition to the Sunless Depths]] Expedition to the Sunless Depths.svg]]
 - Related: [[step_087 (phase_093)]]
-- See also: [[Assets Locations Location City the Twilight Gardens V1 the Twilight Gardens.svg]]
-- Requires [[The Divine Trial 2]]
+- See also: [[Assets Locations [[Location City [[The Twilight Gardens]] V1 the Twilight Gardens.svg]]]]
+- Requires [[[[The Divine Trial]] 2]]
 - Leads to [[MON00090_Undead_Creature_91]]
 - Related: [[Aarakocra Dmg]]
 - See also: [[step_061 (phase_060)]]
@@ -242,7 +284,7 @@ Is secretly testing the party
 - Leads to [[step_086]]
 - Affected by [[portrait-npc-the-wake-v2-the-wake.svg_1 (Portraits)]]
 - Compare with [[Community Charter]]
-- Originates from [[Surface-Underwater Trade (D&D_References)]]
+- Originates from [[[[Surface-Underwater Trade]] (D&D_References)]]
 - Requires [[step_059 (phase_096)]]
 - Related: [[step_052 (phase_066)]]
 - Parallels [[step_008]]
@@ -251,10 +293,10 @@ Is secretly testing the party
 - Influences [[QUEST00381_Side_Quest_382]]
 - Related: [[step_003 (phase_070)]]
 - Connects to [[NPC0031_Freya_Stormwind]]
-- Originates from [[The Crystal Stock Exchange 2]]
+- Originates from [[[[The Crystal Stock Exchange]] 2]]
 - Connects to [[ITEM00692_Warded_Helm_of_Fortitude]]
 - Requires [[Deep Oracle Thessaly 2]]
-- Originates from [[Location City Void Prophet Nullus the Erased Void Prophet Nullus the Erased.svg]]
+- Originates from [[Location City [[Void Prophet Nullus the Erased]] Void Prophet Nullus the Erased.svg]]
 - Affected by [[wheat-xdmg (items)]]
 - Related: [[List Spells School Evocation]]
 - Affected by [[Control Winds Xge]]
@@ -262,3 +304,14 @@ Is secretly testing the party
 - See also: [[History the Origin War]]
 - Connects to [[ENC00084_Environmental_Encounter_85]]
 - Originates from [[Secure Communication Crystals]]
+
+## Visual References
+![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

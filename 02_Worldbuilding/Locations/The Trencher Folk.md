@@ -235,3 +235,9 @@ Ongoing situations affecting The Trencher Folk:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]

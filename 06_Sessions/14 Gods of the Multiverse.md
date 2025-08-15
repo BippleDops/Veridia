@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T16:41:33.727905
+modified: 2025-08-15T16:41:33.727908
+aliases: [14 Gods of the Multiverse]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Prep Checklist|Prep Checklist]]
+- [[#Npcs Needed|Npcs Needed]]
+- [[#Locations|Locations]]
+- [[#Encounters|Encounters]]
+- [[#Props|Props]]
+- [[#Rules|Rules]]
+- [[#See Also|See Also]]
+- [[#Game Mechanics|Game Mechanics]]
+
+
+---
 
 title: 14 Gods of the Multiverse
 type: note
@@ -25,7 +46,8 @@ tags:
 
 created: 2025-08-11
 modified: '2025-08-14'
-status: active
+status: a
+*The air carries the scent of [appropriate smell].*ctive
 updated: '2025-08-13T12:34:05.215497+00:00'
 world: Both
 
@@ -63,21 +85,47 @@ world: Both
 - [ ] Prepare quick reference
 
 ## See Also
+- [[NPC00080_Branwen_Proudmore]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[09 Adventuring]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[Downtime_Activities]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[Reference.md]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[16 Credits]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[Count_Strahd_von_Zarovich]]
+- [[11 Rules Glossary]]
+- [[13 Conditions]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC00162_Xander_Thornweave]]
+- [[07 Customization Options]]
+- [[MASTER_MOC]]
 - [[Related_Content]]
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

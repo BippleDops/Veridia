@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Baelor Lightbringer the Mystic
 
 *Firbolg Shopkeeper (Merchants), Age 40, Non-binary*

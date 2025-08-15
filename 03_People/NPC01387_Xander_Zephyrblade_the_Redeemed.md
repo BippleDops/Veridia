@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Xander Zephyrblade the Redeemed
 
 *Dwarf Fighter (Adventurers), Age 63, Male*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Xander Dawnstrider the Wise
 
 *Half-Elf Courtier (Nobles), Age 21, Female*

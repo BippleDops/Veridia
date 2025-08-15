@@ -229,3 +229,9 @@ Ongoing situations affecting Representative Coral Youngcurrent:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]

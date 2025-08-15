@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.199170
+modified: 2025-08-15T16:41:46.199173
+aliases: [NPC00689 Aldric Crystalbrook the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Fiora Keenblade the Cunning (Professional - Employee)|Fiora Keenblade the Cunning (Professional - Employee)]]
+- [[#Wynne Moonshadow the Lost (Professional - Rival)|Wynne Moonshadow the Lost (Professional - Rival)]]
+- [[#Malakai Hawthorne the Broken (Professional - Mentor)|Malakai Hawthorne the Broken (Professional - Mentor)]]
+
+
+---
 aliases: ["Aldric Crystalbrook the Mystic", "aldric crystalbrook the mystic", "Aldric Crystalbrook Mystic", "Mystic the Crystalbrook Aldric"]
 tags: [npc, character]
 type: npc
@@ -247,3 +268,14 @@ Family member has gone missing
 - Originates from [[NPC0108_Cormac_Goldleaf_the_Bold]]
 - Influences [[step_052 (phase_078)]]
 - Compare with [[Ambush Point (D&D_Statblocks)]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
+![[03_People/portrait_duke_aldric_blackwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

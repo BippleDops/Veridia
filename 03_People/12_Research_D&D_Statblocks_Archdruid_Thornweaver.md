@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_archdruid_thornweaver_dramatic.png]]
+
+
 # 12_Research/D&D_Statblocks/Archdruid Thornweaver
 
 ## Basic Information

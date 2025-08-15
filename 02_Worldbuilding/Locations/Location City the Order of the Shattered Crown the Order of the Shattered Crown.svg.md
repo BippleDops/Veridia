@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Order of the
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.067851
+modified: 2025-08-15T16:41:41.067857
+aliases: [NPC01552 Branwen Lightbringer the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Stormwind the Seeker (Political - Puppet)|Ysara Stormwind the Seeker (Political - Puppet)]]
+- [[#Hilda Blackstone the Wise (Political - Ally)|Hilda Blackstone the Wise (Political - Ally)]]
+- [[#Urien Ashford the Seeker (Family - Spouse)|Urien Ashford the Seeker (Family - Spouse)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Branwen Lightbringer the Swift", "branwen lightbringer the swift", "Branwen Lightbringer Swift", "Swift the Lightbringer Branwentags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
@@ -18,7 +39,7 @@ type: npc
 ## Appearance
 Towering and athletic, with Dreadlocks auburn hair and Brown eyes. Brown skin. Intricate tattoos covering arms.
 
-**Clothing**: Merchant's outfit with many hidden pockets
+**Clothing**: [[Merchant]]'s outfit with many hidden pockets
 **Accessories**: Lucky rabbit's foot, Multiple earrings
 
 ## Personality
@@ -144,34 +165,56 @@ Knows secret about major threat
 - Special moves
 
 ## Combat Stats
-Base: **Priest** (MM p.348)
+Base: **Priest** (BC p.348)
 Modifications:
 - HP: 39
 - AC: 14
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[Session_Recaps]]
+- [[10 Combat]]
+- [[11 Rules Glossary]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Dungeon Master's Guide (DMG) p.110
-- Monster Manual (MM) p.143
-- Volo's Guide to Monsters (VGM) p.275
-- Mordenkainen's Tome of Foes (MTF) p.178
+- Worldweaver's Tome (WWT) p.110
+- Bestiary Compendium (BC) p.143
+- Volo's Creature Catalog to Monsters (VCC) p.275
+- Mordenkainen's Forbidden Knowledge of Foes (MFK) p.178
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -179,9 +222,9 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -194,7 +237,7 @@ Following magic item guidelines (DMG p.135-136):
 - Parallels [[The Meridian Amnesia Zone]]
 - See also: [[xvart-mpmm (monstrosity)]]
 - Connects to [[step_069]]
-- Influences [[The Observatory of Depths]]
+- Influences [[[[The Observatory]] of Depths]]
 - Related: [[Submersible_Schematic_Pressure_Gate_Scou]]
 - Related: [[Marquis Storm Tempest]]
 - Leads to [[Arsenal Keeper Thane Ironwill]]
@@ -212,7 +255,7 @@ Following magic item guidelines (DMG p.135-136):
 - Originates from [[QUEST00012_Side_Quest_13]]
 - Affected by [[Quest1 (01_Adventures)]]
 - Connects to [[Location City Crystal Powered Vessels Crystal Powered Vessels.svg]]
-- See also: [[Emergency Response Coordinator Time Guardia]]
+- See also: [[Emergency Response Coordinator [[Time]] Guardia]]
 - Influences [[LORE00198_Prophecies_Entry_199]]
 - Connects to [[step_001 (phase_086)]]
 - Leads to [[Divination_Expanded]]
@@ -223,17 +266,17 @@ Following magic item guidelines (DMG p.135-136):
 - Requires [[step_036 (phase_091)]]
 - Originates from [[Portrait NPC Otherworldly Patron V1 Otherworldly Patron.svg_1 (Portraits)]]
 - Leads to [[NPC00455_Branwen_Nightfall]]
-- Requires [[Assets Locations Location City the Wandering Atoll V1 the Wandering Atoll.svg]]
+- Requires [[Assets Locations [[Location City [[The Wandering Atoll]] V1 the Wandering Atoll.svg]]]]
 - Compare with [[step_083]]
-- See also: [[Random_Encounters - Aquabyssos Encounters]]
+- See also: [[Random_Encounters - [[Aquabyssos]] Encounters]]
 - See also: [[EVENT00090_Magical_Event_91]]
 - Compare with [[step_049 (phase_022)]]
-- Connects to [[Assets Locations Location City Social Clubs V1 Social Clubs.svg]]
+- Connects to [[Assets Locations Location City [[Social Clubs]] V1 Social Clubs.svg]]
 - Requires [[artisans-tools-xphb (items)]]
-- Related: [[Location City the Free Current V1 the Free Current.svg]]
-- Related: [[Ancient Historian Memento (D&D_References)]]
+- Related: [[Location City the [[Free Current]] V1 [[The Free Current]].svg]]
+- Related: [[[[Ancient Historian Memento]] (D&D_References)]]
 - Originates from [[Drow 2 Armor Mm]]
-- Related: [[The Tethyan Hegemony (D&D_References)]]
+- Related: [[The [[Tethyan Hegemony]] (D&D_References)]]
 - Originates from [[Galley Xphb]]
 - Influences [[LOC0056_Marshridge]]
 - Affected by [[Earl Thaddeus Blackthorn 2]]
@@ -244,7 +287,7 @@ Following magic item guidelines (DMG p.135-136):
 - Affected by [[step_038 (phase_034)]]
 - Connects to [[SPELL0010_Eldritch_Shield]]
 - See also: [[wings-of-flying-xdmg (items)]]
-- Originates from [[Location City Memory Sharing Techniques V1 Memory Sharing Techniques.svg]]
+- Originates from [[Location City [[Memory Sharing Techniques]] V1 Memory Sharing Techniques.svg]]
 - Affected by [[step_098 (phase_044)]]
 - Affected by [[Celtic Goibhniu]]
 - Connects to [[animated-rug-of-smothering-xmm (construct)]]
@@ -268,7 +311,7 @@ Following magic item guidelines (DMG p.135-136):
 - Leads to [[unarmed-fighting-xphb (feats)]]
 - Influences [[step_046 (phase_030)]]
 - Related: [[step_059 (phase_010)]]
-- Originates from [[Location City Scholar Thalosseus V1 Scholar Thalosseus.svg]]
+- Originates from [[Location City [[Scholar Thalosseus]] V1 Scholar Thalosseus.svg]]
 - See also: [[step_088 (phase_012)]]
 - See also: [[The Umbral Market Plaza (D&D_References)]]
 - Affected by [[step_070 (phase_069)]]
@@ -285,9 +328,20 @@ Following magic item guidelines (DMG p.135-136):
 - Compare with [[Quest - Seeds of the Deep]]
 - Originates from [[step_057 (phase_004)]]
 - Related: [[The Unity Shard]]
-- Compare with [[Battle Priest Cassius Depthshield 2]]
+- Compare with [[[[Battle Priest Cassius Depthshield]] 2]]
 - Influences [[Spell Scroll Level 2 Xdmg]]
-- Originates from [[Location City Marcus Clausewright V1 Marcus Clausewright.svg]]
+- Originates from [[Location City [[Marcus Clausewright]] V1 Marcus Clausewright.svg]]
 - Influences [[The Sorrowmaster (D&D_Statblocks)]]
 - Requires [[step_056 (phase_024)]]
 - Related: [[short-rest-xphb]]
+
+## Visual References
+![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

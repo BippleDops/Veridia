@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:27.651780
+modified: 2025-08-15T16:41:27.651786
+aliases: [MULTIMEDIA GENERATION COMPLETE]
+---
+
+## Table of Contents
+- [[#Visual References|Visual References]]
+- [[#See Also|See Also]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
+---
 enhanced: trtags: [enhanced, 13_performance, combat, magic, lore]ce]
 created: 2025-08-15T12:24:41.119892
 modified: 2025-08-15T12:24:41.119897
@@ -23,6 +40,7 @@ cssclass: standard
 publish: false --- # MULTIMEDIA GENERATION COMPLETE ## Overview MULTIMEDIA GENERATION COMPLETE represents an important element within the campaign world. ## Description
 
 **Details**: Rich sensory elements bring this to life. This component serves a vital role in the ongoing narrative and world-building efforts. It connects to various other elements and provides dept
+*The air carries the scent of [appropriate smell].*
 *The air carries the scent of [appropriate smell].*h to the campaign setting. Moreover, ## Key Features ### Primary Aspects - **Core Function**: Central purpose and role
 - **Unique Traits**: Distinguishing characteristics
 - **Connections**: Links to other elements ### Secondary Aspects - Supporting details
@@ -76,21 +94,21 @@ publish: false --- # MULTIMEDIA GENERATION COMPLETE ## Overview MULTIMEDIA GENER
 - [[ULTIMATE_ASSET_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Inspiration**: See PHB p.125
+- **Combat**: See ACX p.189-198
+- **Inspiration**: See ACX p.125
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
 
 ## Connections
 

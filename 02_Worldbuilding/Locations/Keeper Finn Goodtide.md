@@ -225,3 +225,11 @@ Ongoing situations affecting Keeper Finn Goodtide:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]

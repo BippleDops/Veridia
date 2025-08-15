@@ -80,3 +80,7 @@ Recent developments have brought new attention to Location City the Contract Arc
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00259_Delara_Proudmore]]

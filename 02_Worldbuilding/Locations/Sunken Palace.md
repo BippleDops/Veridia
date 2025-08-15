@@ -137,3 +137,8 @@ Recent developments have brought new attention to Sunken Palace, creating opport
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC01625_Qadim_Lightbringer_the_Swift]]

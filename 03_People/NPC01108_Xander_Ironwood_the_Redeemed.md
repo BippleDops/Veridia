@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Xander Ironwood the Redeemed
 
 *Elf Shopkeeper (Merchants), Age 58, Non-binary*

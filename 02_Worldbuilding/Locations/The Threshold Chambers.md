@@ -273,3 +273,10 @@ Ongoing situations affecting The Threshold Chambers:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00276_Ysara_Youngblood]]

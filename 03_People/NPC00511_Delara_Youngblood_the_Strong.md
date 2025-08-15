@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Delara Youngblood the Strong
 
 *Tiefling Blacksmith (Commoners), Age 31, Female*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Pyria Winterborn the Broken
 
 *Gnome Courtier (Nobles), Age 23, Non-binary*

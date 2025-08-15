@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Thalia Dawnstrider the Strong
 
 *Half-Orc Dark Wizard (Villains), Age 60, Male*

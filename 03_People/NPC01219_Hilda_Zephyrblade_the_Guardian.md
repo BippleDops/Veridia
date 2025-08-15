@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Hilda Zephyrblade the Guardian
 
 *Tiefling Bard (Adventurers), Age 69, Male*

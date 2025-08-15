@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.738719
+modified: 2025-08-15T16:41:41.738721
+aliases: [NPC00080 Branwen Proudmore]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Baelor Ironwood the Redeemed (Family - Child)|Baelor Ironwood the Redeemed (Family - Child)]]
+- [[#Gavril Dawnstrider (Personal - Love interest)|Gavril Dawnstrider (Personal - Love interest)]]
+- [[#Drusilla Jadeclaw the Seeker (Professional - Employee)|Drusilla Jadeclaw the Seeker (Professional - Employee)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Branwen Proudmore", "branwen proudmore", "Proudmore Branwen"]
 tags: [npc, character]
@@ -151,6 +176,26 @@ Wants rivals investigated
 - Special moves
 
 ## See Also
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[Archdruid Thornweaver]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[Character_Journal_Template]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
 - [[Related_Content]]
 
 
@@ -160,9 +205,9 @@ Wants rivals investigated
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -272,3 +317,8 @@ Wants rivals investigated
 - Requires [[step_038 (phase_047)]]
 - Connects to [[Portrait NPC Queen Lyralei Stormheart Queen Lyralei Stormheart.svg]]
 - See also: [[SHOP00000_Specialty_Shop_1]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

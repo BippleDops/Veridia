@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ewan Crystalbrook the Wanderer
 
 *Dwarf Broker (Merchants), Age 73, Female*

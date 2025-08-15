@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Baelor Ironwood the Lost
 
 *Goliath Blacksmith (Commoners), Age 64, Male*

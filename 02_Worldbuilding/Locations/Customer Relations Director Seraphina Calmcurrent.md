@@ -203,3 +203,7 @@ Ongoing situations affecting Customer Relations Director Seraphina Calmcurrent:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01994_Orion_Brightblade_the_Risen]]

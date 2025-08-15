@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.549484
+modified: 2025-08-15T16:41:42.549486
+aliases: [NPC01354 Xander Ravenheart the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gavril Keenblade the Fallen (Personal - Best friend)|Gavril Keenblade the Fallen (Personal - Best friend)]]
+- [[#Thalia Jadeclaw the Guardian (Criminal - Accomplice)|Thalia Jadeclaw the Guardian (Criminal - Accomplice)]]
+- [[#Drusilla Crystalbrook the Mystic (Criminal - Fence)|Drusilla Crystalbrook the Mystic (Criminal - Fence)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Xander Ravenheart the Mystic", "xander ravenheart the mystic", "Xander Ravenheart Mystic", "Mystic the Ravenheart Xander"]
 tags: [npc, character]
@@ -148,20 +169,20 @@ Forming expedition to dangerous location
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Monster Manual (MM) p.292
-- Xanathar's Guide to Everything (XGE) p.172
+- Bestiary Compendium (BC) p.292
+- Xanathar's Secrets Revealed to Everything (XSR) p.172
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -169,9 +190,9 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -281,3 +302,14 @@ Following magic item guidelines (DMG p.135-136):
 - Compare with [[The First Water]]
 - Originates from [[elixir-of-health-xdmg (items)]]
 - Originates from [[step_003 (phase_035)]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -226,3 +226,8 @@ Ongoing situations affecting Plague Crisis:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Wynne Frostwhisper the Scholar
 
 *Dragonborn Fighter (Adventurers), Age 33, Female*

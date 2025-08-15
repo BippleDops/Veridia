@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.639188
+modified: 2025-08-15T16:41:41.639192
+aliases: [NPC00838 Drusilla Proudmore the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Nerys Quicksilver the Swift (Family - Child)|Nerys Quicksilver the Swift (Family - Child)]]
+- [[#Baelor Dawnstrider the Broken (Family - Parent)|Baelor Dawnstrider the Broken (Family - Parent)]]
+- [[#Lyanna Frostwhisper the Strong (Political - Puppet)|Lyanna Frostwhisper the Strong (Political - Puppet)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Drusilla Proudmore the Risen", "drusilla proudmore the risen", "Drusilla Proudmore Risen", "Risen the Proudmore Drusilla"]
 tags: [npc, character]
@@ -152,6 +177,43 @@ Caravan needs guards
 - Special moves
 
 ## See Also
+- [[NPC00820_Thalia_Nightfall_the_Risen]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC00844_Cedric_Blackstone_the_Fallen]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC00644_Nerys_Dawnstrider_the_Wanderer]]
+- [[NPC01594_Fiora_Proudmore_the_Seeker]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[Archdruid Thornweaver]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[NPC00259_Delara_Proudmore]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[What You Know - Abyssos Prime.md]]
+- [[Reputation_Tracker]]
+- [[09 Adventuring]]
+- [[03 Races]]
+- [[07 Customization Options]]
+- [[01 Introduction Welcome to Adventure]]
+- [[11 Rules Glossary]]
+- [[Count_Strahd_von_Zarovich]]
+- [[MASTER_MOC]]
+- [[Complete_NPC_Matrix.md]]
 - [[Related_Content]]
 
 
@@ -161,9 +223,9 @@ Caravan needs guards
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -273,3 +335,8 @@ Caravan needs guards
 - Related: [[NPC00622_Dara_Ironwood_the_Fallen]]
 - Related: [[Assets Locations Location City Memoriam the Forgotten Continent V1 Memoriam the Forgotten Continent.svg]]
 - Compare with [[Shadow Surgeons Collective]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

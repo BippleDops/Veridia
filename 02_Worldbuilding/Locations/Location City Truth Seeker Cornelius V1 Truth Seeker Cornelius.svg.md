@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Truth Seeker Cor
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00453_Idris_Grimholt]]

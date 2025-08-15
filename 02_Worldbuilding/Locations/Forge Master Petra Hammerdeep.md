@@ -263,3 +263,9 @@ Ongoing situations affecting Forge Master Petra Hammerdeep:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00453_Idris_Grimholt]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Zephyr Frostwhisper the Strong
 
 *Tabaxi Fighter (Adventurers), Age 56, Female*

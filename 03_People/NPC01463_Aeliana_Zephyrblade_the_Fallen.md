@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.041778
+modified: 2025-08-15T16:41:42.041784
+aliases: [NPC01463 Aeliana Zephyrblade the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Delara Darkwater the Seeker (Family - Cousin)|Delara Darkwater the Seeker (Family - Cousin)]]
+- [[#Lyanna Youngblood the Risen (Professional - Rival)|Lyanna Youngblood the Risen (Professional - Rival)]]
+- [[#Faelyn Hawthorne the Wise (Political - Puppet)|Faelyn Hawthorne the Wise (Political - Puppet)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Aeliana Zephyrblade the Fallen", "aeliana zephyrblade the fallen", "Aeliana Zephyrblade Fallen", "Fallen the Zephyrblade Aeliana"]
 tags: [npc, character]
@@ -147,6 +172,22 @@ Needs help with personal quest
 - Special moves
 
 ## See Also
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[World_Primer.md]]
+- [[Parliamentary_Voting_Guide]]
+- [[09 Adventuring]]
+- [[10 Combat]]
+- [[11 Rules Glossary]]
 - [[Related_Content]]
 
 
@@ -156,9 +197,9 @@ Needs help with personal quest
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -268,3 +309,8 @@ Needs help with personal quest
 - Compare with [[ENC00338_Combat_Encounter_339]]
 - Originates from [[Unseen Servant Xphb]]
 - Affected by [[step_030]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

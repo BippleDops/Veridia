@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.921672
+modified: 2025-08-15T16:41:47.921675
+aliases: [Assets Portraits Portrait NPC Captain Echoing Thunder Captain Echoing Thunder.svg]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_portraits_portrait_npc_captain_echoing_thunder_captain_echoing_thunder_svg_dramatic.png]]
+
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Death_Customs Improvements|Death_Customs Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+- [[#Evolution Improvements|Evolution Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+
+
+---
 
 title: Assets Portraits Portrait NPC Captain Echoing Thunder Captain Echoing Thunder.svg
 aliases:

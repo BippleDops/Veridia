@@ -288,3 +288,7 @@ Mentioned in The Hidden Prophecy of Shadows
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Faelyn Oakenshield the Broken
 
 *Half-Elf Broker (Merchants), Age 26, Female*

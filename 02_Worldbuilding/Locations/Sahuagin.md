@@ -220,3 +220,7 @@ Ongoing situations affecting Sahuagin:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]

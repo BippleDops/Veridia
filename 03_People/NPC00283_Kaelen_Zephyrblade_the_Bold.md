@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.528508
+modified: 2025-08-15T16:41:41.528511
+aliases: [NPC00283 Kaelen Zephyrblade the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Brenna Blackstone the Wanderer (Criminal - Informant)|Brenna Blackstone the Wanderer (Criminal - Informant)]]
+- [[#Gareth Emberfall the Lost (Political - Ally)|Gareth Emberfall the Lost (Political - Ally)]]
+- [[#Solas Grimholt the Bold (Professional - Rival)|Solas Grimholt the Bold (Professional - Rival)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Kaelen Zephyrblade the Bold", "kaelen zephyrblade the bold", "Kaelen Zephyrblade Bold", "Bold the Zephyrblade Kaelen"]
 tags: [npc, character]
@@ -13,7 +34,7 @@ type: npc
 
 ## Quick Reference
 - **Location**: Guard barracks courtyard
-- **Occupation**: Military commander
+- **Occupation**: [[Military Command]]er
 - **Disposition**: Extremely superstitious about everything
 
 ## Appearance
@@ -23,7 +44,7 @@ Above average and athletic, with Braided elaborately brown hair and Blue eyes. P
 **Accessories**: Silver ring with family crest, Leather pouch always at hip
 
 ## Personality
-- **Traits**: Extremely superstitious about everything; Flirts with everyone regardless of interest; Laughs at the most inappropriate times
+- **Traits**: Extremely superstitious about everything; Flirts with everyone regardless of interest; Laughs at the most inappropriate [[Time]]s
 - **Ideal**: Honor: My word is my bond, and I never break an oath
 - **Bond**: I owe my life to the priest who took me in
 - **Flaw**: I'll do anything to avoid a real fight
@@ -118,7 +139,7 @@ Deception, History, Persuasion, Intimidation
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- Political alliances
+- [[Political Alliances]]
 - Upcoming social events
 
 ## Plot Hook
@@ -149,6 +170,21 @@ Wants rivals investigated
 - Special moves
 
 ## See Also
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00080_Branwen_Proudmore]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[Party_Quests]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[Parliamentary_Voting_Guide]]
+- [[09 Adventuring]]
+- [[Character_Journal_Template]]
 - [[Related_Content]]
 
 
@@ -158,10 +194,10 @@ Wants rivals investigated
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -171,7 +207,7 @@ Wants rivals investigated
 
 ## Connections
 
-- Leads to [[Senator Bartholomew Bonewright (D&D_References)]]
+- Leads to [[[[Senator Bartholomew Bonewright]] (D&D_References)]]
 - Leads to [[tankard-of-plenty-hotdq (items)]]
 - Originates from [[Quest - Stop the Awakening]]
 - Requires [[spell-gem-star-ruby-oota (items)]]
@@ -222,32 +258,32 @@ Wants rivals investigated
 - Leads to [[Cover Identity Coordinator (D&D_References)]]
 - Affected by [[MON00075_Undead_Creature_76]]
 - Parallels [[Handout Handout Ship Manifests with Stamps V3 Ship Manifests with Stamps.png]]
-- Connects to [[Portrait NPC Aria Lumengarde V2 Aria Lumengarde.svg_1 (Portraits)]]
+- Connects to [[Portrait NPC Aria [[Lumengarde]] V2 Aria Lumengarde.svg_1 (Portraits)]]
 - Requires [[Chief Medic Coral Battlehealer (D&D_References)]]
 - See also: [[The Mothercoral Crisis]]
 - Related: [[green-hag (legendary-group)]]
-- Compare with [[Duchess Seraphina Crimsontide (D&D_References)]]
+- Compare with [[[[Duchess Seraphina Crimsontide]] (D&D_References)]]
 - Related: [[ENC00112_Combat_Encounter_113]]
 - Compare with [[constrictor-snake-xmm]]
-- Parallels [[Assets Locations Location City Medical Research Facilities V1 Medical Research Facilities.svg]]
-- Leads to [[Botanist Rose Sundrinker (D&D_References)]]
+- Parallels [[Assets Locations [[Location City Medical Research Facilities V1 Medical Research Facilities.svg]]]]
+- Leads to [[[[Botanist Rose Sundrinker]] (D&D_References)]]
 - Compare with [[step_042]]
-- Leads to [[Assets Locations Location City the Listener S Code V1 the Listener S Code.svg]]
+- Leads to [[Assets Locations [[Location City the Listener S Code V1 the Listener S Code.svg]]]]
 - Connects to [[Template-Planet]]
 - Influences [[step_093 (phase_074)]]
 - Related: [[step_029 (phase_064)]]
-- Connects to [[Symphony of the Abyss Recipe 2]]
+- Connects to [[[[Symphony of the Abyss Recipe]] 2]]
 - Related: [[step_023 (phase_052)]]
 - Leads to [[FAC00075_Orders_76]]
 - Requires [[Master Respiratory Engineer Marina Gillwright (People)]]
 - Influences [[cleric-xphb-knowledge-domain (classes)]]
-- Parallels [[Black Market Deal (D&D_References)]]
-- Leads to [[Legal Department (D&D_References)]]
+- Parallels [[[[Black Market Deal]] (D&D_References)]]
+- Leads to [[[[Legal Department]] (D&D_References)]]
 - Compare with [[Stormwind Supplies]]
 - Originates from [[step_059]]
 - Affected by [[step_077]]
 - Related: [[step_075 (phase_098)]]
-- Affected by [[Assets Locations Location City the Eel Keepers the Eel Keepers.svg]]
+- Affected by [[Assets Locations Location City [[The Eel Keepers]] the Eel Keepers.svg]]
 - Requires [[step_076 (phase_061)]]
 - Connects to [[QUEST00233_Side_Quest_234]]
 - Compare with [[step_049]]
@@ -269,5 +305,16 @@ Wants rivals investigated
 - Parallels [[step_022]]
 - Originates from [[ancient-gold-dragon-xmm]]
 - Related: [[Bewitching Whispers]]
-- Originates from [[The Memorial Archives 2]]
+- Originates from [[[[The Memorial Archives]] 2]]
 - See also: [[Starry Wisp Xphb]]
+
+## Visual References
+![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

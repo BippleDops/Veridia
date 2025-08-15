@@ -250,3 +250,7 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00922_Wynne_Youngblood_the_Fallen]]

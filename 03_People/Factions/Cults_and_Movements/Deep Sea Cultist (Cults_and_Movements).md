@@ -23,6 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Deep Sea Cultist](../../../04_Resources/Assets/Misc/deep_sea_cultist.png)
 
 ## 🔧 Deep Evaluation Improvements

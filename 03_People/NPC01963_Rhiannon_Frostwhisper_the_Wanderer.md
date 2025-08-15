@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.309249
+modified: 2025-08-15T16:41:44.309252
+aliases: [NPC01963 Rhiannon Frostwhisper the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hilda Thornweave the Broken (Professional - Employer)|Hilda Thornweave the Broken (Professional - Employer)]]
+- [[#Ewan Voidwalker the Bold (Professional - Employer)|Ewan Voidwalker the Bold (Professional - Employer)]]
+- [[#Aldric Voidwalker the Broken (Personal - Best friend)|Aldric Voidwalker the Broken (Personal - Best friend)]]
+
+
+---
 aliases: ["Rhiannon Frostwhisper the Wanderer", "rhiannon frostwhisper the wanderer", "Rhiannon Frostwhisper Wanderer", "Wanderer the Frostwhisper Rhiannon"]
 tags: [npc, character]
 type: npc
@@ -256,3 +277,14 @@ Is secretly testing the party
 - Related: [[Bead of Force Xdmg]]
 - Originates from [[Surface Contact Prohibition]]
 - Originates from [[02_Worldbuilding_Groups_The_Cloud_Shepherd_Guild]]
+
+## Visual References
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

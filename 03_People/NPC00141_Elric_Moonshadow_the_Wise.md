@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.471228
+modified: 2025-08-15T16:41:43.471231
+aliases: [NPC00141 Elric Moonshadow the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Elric Dawnstrider (Criminal - Fence)|Elric Dawnstrider (Criminal - Fence)]]
+- [[#Dara Keenblade (Family - Cousin)|Dara Keenblade (Family - Cousin)]]
+- [[#Jorah Darkwater (Criminal - Fence)|Jorah Darkwater (Criminal - Fence)]]
+
+
+---
 aliases: ["Elric Moonshadow the Wise", "elric moonshadow the wise", "Elric Moonshadow Wise", "Wise the Moonshadow Elric"]
 tags: [npc, character]
 type: npc
@@ -217,7 +238,7 @@ Requires champions for trial by combat
 - Requires [[ENC00387_Combat_Encounter_388]]
 - Compare with [[step_082 (phase_089)]]
 - See also: [[Eye Patch Decorated With Tiny Blue Sapphires]]
-- Parallels [[FINAL_1000_IMPROVEMENTS_SUMMARY]]
+- Parallels [[FINAL_1000_IMPROVEMENTS_SUBCARY]]
 - Connects to [[NPC01297_Erasmus_Brightblade_the_Bold]]
 - Requires [[Sled Dog Rot]]
 - Related: [[Location City Titan Foundationbearer Titan Foundationbearer.svg]]
@@ -248,3 +269,14 @@ Requires champions for trial by combat
 - Affected by [[EVENT00077_Political_Event_78]]
 - Requires [[Freedrift Network 2]]
 - Connects to [[Location City the Twilight Gardens the Twilight Gardens.svg]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

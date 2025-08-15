@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.688806
+modified: 2025-08-15T16:41:45.688809
+aliases: [NPC00122 Gareth Proudmore the Cunning]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Youngblood the Risen (Professional - Mentor)|Alaric Youngblood the Risen (Professional - Mentor)]]
+- [[#Aldric Nightfall (Family - Sibling)|Aldric Nightfall (Family - Sibling)]]
+- [[#Alaric Hawthorne (Professional - Mentor)|Alaric Hawthorne (Professional - Mentor)]]
+
+
+---
 aliases: ["Gareth Proudmore the Cunning", "gareth proudmore the cunning", "Gareth Proudmore Cunning", "Cunning the Proudmore Gareth"]
 tags: [npc, character]
 type: npc
@@ -245,3 +266,14 @@ Seeks bodyguards for dangerous journey
 - Influences [[Seven_Shards_Epic_Conclusion]]
 - Leads to [[step_025]]
 - Leads to [[DUN00003_Dungeon_4]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
+![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

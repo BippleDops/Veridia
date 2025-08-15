@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.476788
+modified: 2025-08-15T16:41:43.476791
+aliases: [NPC00010 Lyanna Grimholt]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Orion Proudmore the Wanderer (Professional - Employer)|Orion Proudmore the Wanderer (Professional - Employer)]]
+- [[#Hilda Youngblood (Criminal - Accomplice)|Hilda Youngblood (Criminal - Accomplice)]]
+- [[#Alaric Ravenheart (Personal - Childhood friend)|Alaric Ravenheart (Personal - Childhood friend)]]
+
+
+---
 aliases: ["Lyanna Grimholt", "lyanna grimholt", "Grimholt Lyanna"]
 tags: [npc, character]
 type: npc
@@ -245,3 +266,14 @@ Needs discrete help with family scandal
 - See also: [[step_089 (phase_028)]]
 - Originates from [[LOC0017_NewBridge]]
 - Requires [[bestow-curse-xphb (spells)]]
+
+## Visual References
+![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
+![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
+![[03_People/portrait_captain_lyanna_brightshield.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

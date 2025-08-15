@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.479835
+modified: 2025-08-15T16:41:41.479840
+aliases: [NPC01504 Erasmus Zephyrblade the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Elric Ironwood the Risen (Criminal - Handler)|Elric Ironwood the Risen (Criminal - Handler)]]
+- [[#Elric Hawthorne the Scholar (Criminal - Fence)|Elric Hawthorne the Scholar (Criminal - Fence)]]
+- [[#Elric Xendar the Wanderer (Criminal - Informant)|Elric Xendar the Wanderer (Criminal - Informant)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Erasmus Zephyrblade the Strong", "erasmus zephyrblade the strong", "Erasmus Zephyrblade Strong", "Strong the Zephyrblade Erasmustags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
@@ -144,6 +165,32 @@ Knows secret about major threat
 - Special moves
 
 ## See Also
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC01276_Erasmus_Keenblade_the_Wanderer]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[Party_Inventory]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[13 Conditions]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[09 Adventuring]]
+- [[11 Rules Glossary]]
+- [[Parliament of Shadows Player Guide.md]]
 - [[Related_Content]]
 
 
@@ -153,8 +200,8 @@ Knows secret about major threat
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -170,15 +217,15 @@ Knows secret about major threat
 - See also: [[Deep Oracle (Lore)]]
 - Related: [[ENC00146_Environmental_Encounter_147]]
 - Requires [[Portrait NPC Captain Marina Saltborn V2 Captain Marina Saltborn.svg]]
-- Requires [[Location City Theological Seminaries V1 Theological Seminaries.svg]]
+- Requires [[Location City [[Theological Seminaries]] V1 Theological Seminaries.svg]]
 - Parallels [[NPC0195_Katarina_Brightblade]]
 - Compare with [[Respiratory Engineering Guild (Groups)]]
 - Affected by [[step_055 (phase_067)]]
 - Requires [[Portrait NPC Lord Aldric Thornwhisper Lord Aldric Thornwhisper.svg]]
 - Connects to [[ITEM00201_Cursed_Staff_of_Accuracy]]
 - Originates from [[Ioun Stone Awareness Xdmg]]
-- Originates from [[Pressure Guard Steelwall 2]]
-- Parallels [[Temporal Rescue 2]]
+- Originates from [[[[Pressure Guard Steelwall]] 2]]
+- Parallels [[[[Temporal Rescue]] 2]]
 - See also: [[step_009 (phase_070)]]
 - Requires [[devourer-mpmm (undead)]]
 - See also: [[The Eternal Senate]]
@@ -188,7 +235,7 @@ Knows secret about major threat
 - Related: [[Shield Xphb (spells)]]
 - Influences [[step_069 (phase_020)]]
 - See also: [[step_002 (phase_096)]]
-- Leads to [[Amnesia Gallery 2]]
+- Leads to [[[[Amnesia Gallery]] 2]]
 - Leads to [[Vehicle_Customization_Progression]]
 - Influences [[step_013 (phase_044)]]
 - Affected by [[NPC00741_Alaric_Dawnstrider_the_Redeemed]]
@@ -213,7 +260,7 @@ Knows secret about major threat
 - See also: [[Justice Shadowing]]
 - Parallels [[Grasp of Hadar Xge]]
 - Affected by [[FAC00066_Cults_67]]
-- See also: [[Assets Locations Location City Marina Stormwright Marina Stormwright.svg]]
+- See also: [[Assets Locations [[Location City [[Marina Stormwright]] Marina Stormwright.svg]]]]
 - Connects to [[Pan Flute Xphb]]
 - Connects to [[four-armed-statue-oota (construct)]]
 - Requires [[Portrait NPC Captain Thaddeus Stormwright V2 Captain Thaddeus Stormwright.svg]]
@@ -227,14 +274,14 @@ Knows secret about major threat
 - Compare with [[Portrait NPC Order of the Shattered Crown V2 Order of the Shattered Crown.svg]]
 - Related: [[The Order of the Silent Vigil]]
 - Originates from [[Count Spark Lightning]]
-- Compare with [[Location City Elder Matthias Stoneward Elder Matthias Stoneward.svg]]
+- Compare with [[Location City [[Elder Matthias Stoneward]] Elder Matthias Stoneward.svg]]
 - Affected by [[step_053 (phase_083)]]
 - Originates from [[step_036 (phase_046)]]
 - Connects to [[step_064 (phase_097)]]
 - Related: [[Infestation Xge]]
 - Influences [[ENC00157_Social_Encounter_158]]
 - Related: [[LORE00102_History_Entry_103]]
-- Connects to [[Assets Locations Location City the Divine Trial V1 the Divine Trial.svg]]
+- Connects to [[Assets Locations Location City [[The Divine Trial]] V1 the Divine Trial.svg]]
 - Parallels [[ixitxachitl-cleric-oota (aberration)]]
 - See also: [[The Grand Trade Routes (Lore)]]
 - Compare with [[step_084]]
@@ -244,17 +291,17 @@ Knows secret about major threat
 - Influences [[Chef Xphb]]
 - Leads to [[step_031 (phase_097)]]
 - See also: [[step_091 (phase_075)]]
-- Affected by [[Wandering Prophet Coral Stormrider (D&D_References)]]
+- Affected by [[[[Wandering Prophet Coral Stormrider]] (D&D_References)]]
 - Related: [[The Contemplation Abyss 2]]
 - Affected by [[FAC00049_Cults_50]]
 - Influences [[step_096 (phase_020)]]
-- Compare with [[Assets Locations Location City Divine Magic Divine Magic.svg]]
+- Compare with [[Assets Locations Location City [[Divine Magic]] Divine Magic.svg]]
 - Leads to [[Colonial Administration 2]]
-- See also: [[Doctor Silas Voidtouch (D&D_References)]]
+- See also: [[[[Doctor Silas Voidtouch]] (D&D_References)]]
 - Requires [[step_037]]
 - Affected by [[step_075 (phase_017)]]
 - Affected by [[LORE00313_History_Entry_314]]
-- Originates from [[Merchant Quarter Guildhalls]]
+- Originates from [[[[[[Merchant]] Quarter]] Guildhalls]]
 - Requires [[step_042 (phase_099)]]
 - Influences [[Defense Captain Ironguard]]
 - Connects to [[step_046]]
@@ -262,5 +309,16 @@ Knows secret about major threat
 - Connects to [[step_002 (phase_023)]]
 - Related: [[04_Resources_Assets_Locations_location-city-grief-overwhelming-syndrome-v1-grief-overwhelming-syndrome.svg]]
 - Influences [[step_075]]
-- Parallels [[02_Worldbuilding_Places_Aquabyssos_Prime]]
+- Parallels [[02_Worldbuilding_Places_[[Aquabyssos]]_Prime]]
 - Influences [[DUN00124_Dungeon_125]]
+
+## Visual References
+![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
+![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
+![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

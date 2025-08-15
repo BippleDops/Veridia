@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.716162
+modified: 2025-08-15T16:41:40.716164
+aliases: [NPC01699 Orion Oakenshield the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Caelum Goldleaf the Seeker (Political - Spy)|Caelum Goldleaf the Seeker (Political - Spy)]]
+- [[#Wynne Keenblade the Wise (Personal - Ex-lover)|Wynne Keenblade the Wise (Personal - Ex-lover)]]
+- [[#Orion Ravenheart the Seeker (Political - Puppet)|Orion Ravenheart the Seeker (Political - Puppet)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Orion Oakenshield the Broken", "orion oakenshield the broken", "Orion Oakenshield Broken", "Broken the Oakenshield Oriontags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
@@ -144,31 +169,76 @@ Is secretly testing the party
 - Special moves
 
 ## Combat Stats
-Base: **Mage** (MM p.347)
+Base: **Mage** (BC p.347)
 Modifications:
 - HP: 46
 - AC: 16
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC00129_Gareth_Jadeclaw]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC00820_Thalia_Nightfall_the_Risen]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[Depth_Adapted_Background]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[Player_Comfort_Check]]
+- [[Combat_Encounter_Analysis]]
+- [[Player_Feedback_Form.md]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[14 Gods of the Multiverse]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[Master_Narrative_Web.md]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Monster Manual (MM) p.81
+- Bestiary Compendium (BC) p.81
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -176,10 +246,10 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -197,7 +267,7 @@ Following magic item guidelines (DMG p.135-136):
 - Influences [[step_098 (phase_050)]]
 - Influences [[step_037 (phase_017)]]
 - Related: [[step_050 (phase_059)]]
-- See also: [[Location City Deputy Harbor Master Marina Stormwright V1 Deputy Harbor Master Marina Stormwright.svg]]
+- See also: [[Location City Deputy Harbor Master [[Marina Stormwright]] V1 [[Deputy Harbor Master Marina Stormwright]].svg]]
 - Connects to [[step_035 (phase_040)]]
 - Affected by [[Portrait NPC Captain Dr Bloodletting V1 Captain Dr Bloodletting.svg]]
 - Leads to [[The Growth Gardens]]
@@ -212,15 +282,15 @@ Following magic item guidelines (DMG p.135-136):
 - Originates from [[Current Peaceweaver]]
 - Parallels [[step_037]]
 - Influences [[NPC01336_Ewan_Hawthorne_the_Strong]]
-- See also: [[High-Speed Transportation (D&D_References)]]
+- See also: [[[[High-Speed Transportation]] (D&D_References)]]
 - See also: [[ring-of-three-wishes-xdmg (items)]]
 - Affected by [[step_014]]
 - Requires [[War Machine Engineers]]
-- Parallels [[Merchant Family Alliances (D&D_References)]]
+- Parallels [[[[Merchant]] Family Alliances (D&D_References)]]
 - See also: [[step_015 (phase_039)]]
 - Influences [[item-mastery (CLI_Reference)]]
 - Parallels [[SPELL00156_Nature_Spell_157]]
-- Originates from [[Location City Memory Sharing Techniques Memory Sharing Techniques.svg]]
+- Originates from [[Location City [[Memory Sharing Techniques]] Memory Sharing Techniques.svg]]
 - Influences [[step_065 (phase_006)]]
 - Leads to [[step_057]]
 - Parallels [[QUEST00092_Main_Quest_93]]
@@ -259,7 +329,7 @@ Following magic item guidelines (DMG p.135-136):
 - Compare with [[Actor Xphb]]
 - See also: [[EVENT00062_Natural_Event_63]]
 - Parallels [[phantom-warrior-archer-cos (undead)]]
-- See also: [[Assets Locations Location City Tidal Runner Nerissa V1 Tidal Runner Nerissa.svg]]
+- See also: [[Assets Locations Location City [[Tidal Runner Nerissa]] V1 Tidal Runner Nerissa.svg]]
 - See also: [[The Great Crystallization 3 (D&D_References)]]
 - See also: [[LORE00268_History_Entry_269]]
 - Requires [[NPC00103_Drusilla_Moonshadow_the_Guardian]]
@@ -276,7 +346,7 @@ Following magic item guidelines (DMG p.135-136):
 - Requires [[The Unity Seekers]]
 - Requires [[ITEM00622_Ethereal_Boots_of_Grace]]
 - Leads to [[Symbiotic Integration Specialists (D&D_References)]]
-- Connects to [[Mad Prophet Silas the Depth-Touched (D&D_References)]]
+- Connects to [[[[Mad Prophet Silas the Depth-Touched]] (D&D_References)]]
 - Connects to [[step_058 (phase_077)]]
 - Parallels [[step_086]]
 - Parallels [[LOC00259_Towns_Location_260]]
@@ -289,3 +359,8 @@ Following magic item guidelines (DMG p.135-136):
 - See also: [[Ship Wright Shadowhull]]
 - See also: [[The Groundling Liberation Movement (D&D_References)]]
 - Compare with [[Harbor Master Nautilus Tideguard 2]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

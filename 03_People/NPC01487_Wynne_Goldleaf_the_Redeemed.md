@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Wynne Goldleaf the Redeemed
 
 *Tabaxi Wizard (Adventurers), Age 57, Non-binary*

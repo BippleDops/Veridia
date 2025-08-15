@@ -2,6 +2,10 @@
 tags: ['faction']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # 02 Worldbuilding/Factions/The Order of the Veil
 
 ## Organization Overview

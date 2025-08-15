@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Felicia Nightfall the Seeker
 
 *Goliath Carpenter (Commoners), Age 33, Female*

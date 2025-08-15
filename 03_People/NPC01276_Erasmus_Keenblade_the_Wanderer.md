@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.050804
+modified: 2025-08-15T16:41:42.050809
+aliases: [NPC01276 Erasmus Keenblade the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Fiora Silverleaf the Cunning (Personal - Best friend)|Fiora Silverleaf the Cunning (Personal - Best friend)]]
+- [[#Cedric Quicksilver the Lost (Criminal - Fence)|Cedric Quicksilver the Lost (Criminal - Fence)]]
+- [[#Hilda Winterborn the Bold (Criminal - Target)|Hilda Winterborn the Bold (Criminal - Target)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Erasmus Keenblade the Wanderer", "erasmus keenblade the wanderer", "Erasmus Keenblade Wanderer", "Wanderer the Keenblade Erasmus"]
 tags: [npc, character]
@@ -140,6 +161,42 @@ Knows secret about major threat
 - Special moves
 
 ## See Also
+- [[NPC00649_Corvus_Zephyrblade_the_Broken]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00058_Elric_Nightfall]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[What You Know - Abyssos Prime.md]]
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[Wanted_Poster_Syndicate_Fenc]]
+- [[Player_Comfort_Check]]
+- [[Downtime_Activities]]
+- [[07 Customization Options]]
+- [[Pilgrim_Pass_Prayer_Sli]]
+- [[08 Using Ability Scores]]
+- [[11 Rules Glossary]]
+- [[Character_Journal_Template]]
+- [[Count_Strahd_von_Zarovich]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[MOC_NPCs]]
 - [[Related_Content]]
 
 
@@ -149,8 +206,8 @@ Knows secret about major threat
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -260,3 +317,14 @@ Knows secret about major threat
 - Influences [[step_017]]
 - Related: [[The Gloom Gardens (D&D_References)]]
 - Connects to [[Location City Keeper of Sorrows Tidal Memento V1 Keeper of Sorrows Tidal Memento.svg]]
+
+## Visual References
+![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
+![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
+![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

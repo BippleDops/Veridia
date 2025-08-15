@@ -2,6 +2,10 @@
 tags: ['faction']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # 02_Worldbuilding/Groups/Climate_Control_Guild
 
 ## Organization Overview

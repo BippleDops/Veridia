@@ -163,3 +163,8 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00237_Vesper_Ashford_the_Bold]]
+- [[NPC00763_Urien_Brightblade_the_Broken]]

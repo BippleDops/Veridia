@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.829226
+modified: 2025-08-15T16:41:47.829231
+aliases: [NPC00709 Urien Youngblood the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Erasmus Dawnstrider the Scholar (Family - Sibling)|Erasmus Dawnstrider the Scholar (Family - Sibling)]]
+- [[#Nerys Grimholt the Wise (Personal - Best friend)|Nerys Grimholt the Wise (Personal - Best friend)]]
+- [[#Caelum Voidwalker the Swift (Political - Patron)|Caelum Voidwalker the Swift (Political - Patron)]]
+
+
+---
 aliases: ["Urien Youngblood the Risen", "urien youngblood the risen", "Urien Youngblood Risen", "Risen the Youngblood Urien"]
 tags: [npc, character]
 type: npc
@@ -145,3 +170,9 @@ Witnessed a crime
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

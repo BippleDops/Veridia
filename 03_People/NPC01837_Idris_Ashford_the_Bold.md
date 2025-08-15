@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Ashford the Bold
 
 *Goliath Dark Wizard (Villains), Age 18, Female*

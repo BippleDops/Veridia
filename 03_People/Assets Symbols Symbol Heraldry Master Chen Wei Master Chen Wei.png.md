@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.835425
+modified: 2025-08-15T16:41:46.835427
+aliases: [Assets Symbols Symbol Heraldry Master Chen Wei Master Chen Wei.png]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_symbols_symbol_heraldry_master_chen_wei_master_chen_wei_png_dramatic.png]]
+
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+- [[#Material_Culture Improvements|Material_Culture Improvements]]
+
+
+---
 
 title: Assets Symbols Symbol Heraldry Master Chen Wei Master Chen Wei.png
 aliases:

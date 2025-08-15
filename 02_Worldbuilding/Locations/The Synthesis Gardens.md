@@ -276,3 +276,8 @@ Mentioned in The Hidden Prophecy of Shadows
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]

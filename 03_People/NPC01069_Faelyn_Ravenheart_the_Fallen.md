@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Faelyn Ravenheart the Fallen
 
 *Dwarf Broker (Merchants), Age 70, Male*

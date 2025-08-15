@@ -14,6 +14,10 @@ type: faction
 updated: 2025-08-14
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Shadowhawk Syndicat.md
 
 ## Overview

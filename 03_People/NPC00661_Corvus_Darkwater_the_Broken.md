@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.270887
+modified: 2025-08-15T16:41:41.270890
+aliases: [NPC00661 Corvus Darkwater the Broken]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Idris Emberfall the Lost (Criminal - Accomplice)|Idris Emberfall the Lost (Criminal - Accomplice)]]
+- [[#Zephyr Underhill the Wanderer (Professional - Partner)|Zephyr Underhill the Wanderer (Professional - Partner)]]
+- [[#Felicia Ironforge the Risen (Political - Spy)|Felicia Ironforge the Risen (Political - Spy)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Corvus Darkwater the Broken", "corvus darkwater the broken", "Corvus Darkwater Broken", "Broken the Darkwater Corvustags: [npc, character, combat, puzzle, lore]er]
 type: npc
@@ -22,7 +43,7 @@ Below average and delicate, with Wild and unkempt blonde hair and Blue eyes. Tan
 **Accessories**: Multiple earrings, Lucky rabbit's foot
 
 ## Personality
-- **Traits**: Always speaks in metaphors and riddles; Flirts with everyone regardless of interest; Laughs at the most inappropriate times
+- **Traits**: Always speaks in metaphors and riddles; Flirts with everyone regardless of interest; Laughs at the most inappropriate [[Time]]s
 - **Ideal**: Tradition: The old ways are the best ways
 - **Bond**: My weapon has been passed down for generations
 - **Flaw**: I have trouble trusting anyone
@@ -145,13 +166,56 @@ Family member has gone missing
 - Special moves
 
 ## Combat Stats
-Base: **Commoner** (MM p.345)
+Base: **Commoner** (BC p.345)
 Modifications:
 - HP: 35
 - AC: 12
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00820_Thalia_Nightfall_the_Risen]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[Party_Inventory]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[Sanity Quick Reference]]
+- [[Player_Feedback_Form.md]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[09 Adventuring]]
+- [[08 Using Ability Scores]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[16 Credits]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[MOC_Lore]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[MOC_Items]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[MOC_Quests]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC00670_Xander_Goldleaf_the_Scholar]]
+- [[MASTER_MOC]]
+- [[Sage Elara]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
 - [[Related_Content]]
 
 
@@ -161,9 +225,9 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -183,7 +247,7 @@ Modifications:
 - Influences [[Museums]]
 - Parallels [[Shard_Locations (D&D_Sourcebooks)]]
 - See also: [[Random Magic Items Implements]]
-- Originates from [[Campaign Index (02_Worldbuilding)]]
+- Originates from [[Campaign [[INDEX]] (02_Worldbuilding)]]
 - See also: [[16 Chapter 16 the Fetid Wedding]]
 - Requires [[step_002 (phase_033)]]
 - Leads to [[Cloak of Flies Xge]]
@@ -191,16 +255,16 @@ Modifications:
 - Affected by [[Pearl Divers 2]]
 - Related: [[step_035]]
 - Requires [[truth-serum-xdmg (items)]]
-- Originates from [[Location City Deep Studycurrent Deep Studycurrent.svg]]
+- Originates from [[Location City [[Deep Studycurrent]] Deep Studycurrent.svg]]
 - See also: [[The Unshadowed (D&D_References)]]
 - Originates from [[QUEST00225_Side_Quest_226]]
-- Compare with [[Location City Archivist Stone Memorykeeper Archivist Stone Memorykeeper.svg]]
-- Compare with [[Wealthy Goldstream 2]]
+- Compare with [[Location City [[Archivist Stone Memorykeeper]] Archivist Stone Memorykeeper.svg]]
+- Compare with [[[[Wealthy Goldstream]] 2]]
 - Related: [[Artifact_Properties]]
 - Connects to [[step_011 (phase_044)]]
 - Affected by [[Symbol Heraldry Deep Sea Agricultural Research Institut V1 Deep Sea Agricultural Research Institut.svg]]
 - See also: [[QUEST00413_Side_Quest_414]]
-- Affected by [[Location City Traditional Elder Wisdom Keeper V1 Traditional Elder Wisdom Keeper.svg]]
+- Affected by [[Location City [[Traditional Elder Wisdom Keeper]] V1 Traditional Elder Wisdom Keeper.svg]]
 - Parallels [[step_086]]
 - See also: [[QUEST0036_Destroy_the_Demons]]
 - Parallels [[Institute of Unified Magic]]
@@ -220,20 +284,20 @@ Modifications:
 - Requires [[archelon-xmm (beast)]]
 - Compare with [[Democratic Architect Prof Consensus Builder]]
 - Related: [[step_075 (phase_006)]]
-- Affected by [[Queen_Seraphina_Lumengarde (People)]]
+- Affected by [[Queen_Seraphina_[[Lumengarde]] (People)]]
 - Leads to [[MON00004_Constructs_Creature_5]]
 - Affected by [[LOC00056_Dungeons_Location_57]]
 - Connects to [[step_017 (phase_056)]]
 - Affected by [[thri-kreen-marauder-xmm]]
-- Originates from [[Assets Locations Location City the Depth Market the Depth Market.svg]]
+- Originates from [[Assets Locations Location City [[The Depth Market]] the Depth Market.svg]]
 - Parallels [[kuo-toa-monitor-xmm (aberration)]]
-- Influences [[Cathedral of Light (D&D_References)]]
+- Influences [[[[Cathedral of Light]] (D&D_References)]]
 - Connects to [[Potion of Resistance Xdmg]]
 - Connects to [[Creature Creature Goblin Hexer Xmm V4 Goblin Hexer Xmm.png]]
 - Requires [[step_074]]
 - Influences [[step_002 (phase_075)]]
 - Compare with [[location-city-the-portal-wars-the-portal-wars.svg]]
-- Originates from [[Location City Aquabyssos Government V1 Aquabyssos Government.svg]]
+- Originates from [[Location City [[Aquabyssos]] Government V1 Aquabyssos Government.svg]]
 - Originates from [[QUEST00066_Side_Quest_67]]
 - See also: [[Portrait NPC Captain Lyanna Brightshield Captain Lyanna Brightshield.svg]]
 - Compare with [[Magical Effect Xphb]]
@@ -255,21 +319,32 @@ Modifications:
 - See also: [[NPC00897_Gareth_Hawthorne_the_Mystic]]
 - Related: [[step_062 (phase_072)]]
 - Parallels [[Verdant Shard]]
-- Influences [[The Iteration Collective (D&D_References)]]
-- See also: [[Korra Mindshield (D&D_References)]]
-- Connects to [[Assets Locations Location City Antiquarian Eliza Tidecaller Antiquarian Eliza Tidecaller.svg]]
+- Influences [[[[The Iteration Collective]] (D&D_References)]]
+- See also: [[[[Korra Mindshield]] (D&D_References)]]
+- Connects to [[Assets Locations [[Location City [[Antiquarian Eliza Tidecaller]] Antiquarian Eliza Tidecaller.svg]]]]
 - Influences [[Sequester Xphb]]
 - Related: [[gray-ooze-xmm]]
-- Parallels [[The Tidal Shard of Memory 2]]
-- Connects to [[Assets Locations Location City Arts Communities Arts Communities.svg]]
+- Parallels [[[[The Tidal Shard of Memory]] 2]]
+- Connects to [[Assets Locations Location City [[Arts Communities]] Arts Communities.svg]]
 - Leads to [[step_071 (phase_024)]]
 - Influences [[erupting-earth-xge (spells)]]
 - Compare with [[step_045]]
 - Originates from [[Alchemists Fire Xphb]]
 - Requires [[Local Informants (Groups)]]
-- Related: [[Administrative Wing (D&D_References)]]
-- Related: [[Merchant Truth Society (D&D_References)]]
+- Related: [[[[Administrative Wing]] (D&D_References)]]
+- Related: [[[[Merchant]] Truth Society (D&D_References)]]
 - Affected by [[step_022 (phase_040)]]
 - Parallels [[LORE00148_History_Entry_149]]
 - See also: [[Field Operations Chief Marcus Ironhear]]
 - Originates from [[The Overflow (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

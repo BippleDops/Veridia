@@ -230,3 +230,9 @@ Ongoing situations affecting Ambassador Silk Bridgewater:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]

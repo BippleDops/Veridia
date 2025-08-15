@@ -244,3 +244,7 @@ Ongoing situations affecting Deputy Harbor Master Marina Stormwright:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01699_Orion_Oakenshield_the_Broken]]

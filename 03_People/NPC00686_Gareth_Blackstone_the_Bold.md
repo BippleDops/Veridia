@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gareth Blackstone the Bold
 
 *Tabaxi Blacksmith (Commoners), Age 25, Male*

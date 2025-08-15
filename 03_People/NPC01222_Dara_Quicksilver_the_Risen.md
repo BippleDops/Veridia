@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.277944
+modified: 2025-08-15T16:41:44.277947
+aliases: [NPC01222 Dara Quicksilver the Risen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Blackstone the Risen (Professional - Employee)|Corvus Blackstone the Risen (Professional - Employee)]]
+- [[#Malakai Blackstone the Redeemed (Professional - Partner)|Malakai Blackstone the Redeemed (Professional - Partner)]]
+- [[#Malakai Ravenheart the Fallen (Political - Patron)|Malakai Ravenheart the Fallen (Political - Patron)]]
+
+
+---
 aliases: ["Dara Quicksilver the Risen", "dara quicksilver the risen", "Dara Quicksilver Risen", "Risen the Quicksilver Dara"]
 tags: [npc, character]
 type: npc
@@ -238,3 +259,14 @@ Has information about legendary item
 - Influences [[Marcus Clausewright (D&D_References)]]
 - Originates from [[Animate Dead Xphb]]
 - Connects to [[item-artifact-whelm-xdmg-v2-whelm-xdmg.png]]
+
+## Visual References
+![[03_People/portrait_captain_dara_ironwill_friendly.png]]
+![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
+![[03_People/portrait_captain_dara_ironwill_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

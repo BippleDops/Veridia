@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.174420
+modified: 2025-08-15T16:41:48.174424
+aliases: [NPC00428 Vesper Stormwind the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Vesper Emberfall the Redeemed (Political - Patron)|Vesper Emberfall the Redeemed (Political - Patron)]]
+- [[#Dara Keenblade the Strong (Criminal - Accomplice)|Dara Keenblade the Strong (Criminal - Accomplice)]]
+- [[#Lyanna Ironforge the Strong (Family - Cousin)|Lyanna Ironforge the Strong (Family - Cousin)]]
+
+
+---
 aliases: ["Vesper Stormwind the Wanderer", "vesper stormwind the wanderer", "Vesper Stormwind Wanderer", "Wanderer the Stormwind Vesper"]
 tags: [npc, character]
 type: npc
@@ -136,3 +157,30 @@ Witnessed a crime
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_merchant_captain_tobias_stormwind_dramatic.png]]
+![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
+
+
+## Realm Connections
+
+### Connection to Aethermoor
+This connects to the sky realm of Sky realm of eternal winds and floating islands.
+
+- **Ruling Power**: The Windlord Council
+- **Capital**: [[Skylance Citadel]]
+- **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
+- **Current Conflict**: The Void Incursion, Elemental Convergence
+- **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
+
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+navigate floating islands connected by bridges of solidified cloud.
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

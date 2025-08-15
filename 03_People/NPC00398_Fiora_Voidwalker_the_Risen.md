@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Fiora Voidwalker the Risen
 
 *Half-Orc Ambassador (Nobles), Age 73, Non-binary*

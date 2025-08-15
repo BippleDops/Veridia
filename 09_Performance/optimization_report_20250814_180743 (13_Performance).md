@@ -1,4 +1,23 @@
 ---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:22.127725
+modified: 2025-08-15T16:41:22.127730
+aliases: [optimization report 20250814 180743 (13 Performance)]
+---
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Session Prep|Session Prep]]
+- [[#Thematic Elements|Thematic Elements]]
+- [[#Visual References|Visual References]]
+- [[#See Also|See Also]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+
+
+---
 enhanced: trtags: [enhanced, 13_performance, combat, exploration, lore]ce]
 created: 2025-08-15T12:24:41.039194
 modified: 2025-08-15T12:24:41.039195
@@ -33,6 +52,7 @@ modified: '2025-01-15'
 - **Notes Optimized**: 6,754
 - **Success Rate**: 17.9%
 - **Errors**: 0 ## ✨ Optimizations Applied - **Enhanced atmosphere**: 4,480 times - **Added relatio
+*The [texture] surface feels [description] to the touch.*
 *The air carries the scent of [appropriate smell].*nship links**: 2,270 times
 - **Enhanced personality**: 713 times ## 📝 Content Enhancements ### NPCs Enhanced With: - Complete personality profiles
 - Stat blocks for D&D 5e
@@ -102,17 +122,17 @@ This content explores themes of identity, adding narrative depth to your campaig
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*

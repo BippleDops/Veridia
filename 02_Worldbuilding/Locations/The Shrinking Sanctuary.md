@@ -667,3 +667,7 @@ Ongoing situations affecting The Shrinking Sanctuary:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]

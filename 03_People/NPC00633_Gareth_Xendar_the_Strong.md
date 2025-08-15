@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gareth Xendar the Strong
 
 *Gnome Carpenter (Commoners), Age 72, Non-binary*

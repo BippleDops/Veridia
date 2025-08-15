@@ -262,3 +262,9 @@ Ongoing situations affecting Captain Echo:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00237_Vesper_Ashford_the_Bold]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]

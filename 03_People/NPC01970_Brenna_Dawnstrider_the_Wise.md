@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.676011
+modified: 2025-08-15T16:41:41.676016
+aliases: [NPC01970 Brenna Dawnstrider the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Idris Stormwind the Fallen (Political - Puppet)|Idris Stormwind the Fallen (Political - Puppet)]]
+- [[#Dara Emberfall the Scholar (Personal - Nemesis)|Dara Emberfall the Scholar (Personal - Nemesis)]]
+- [[#Hilda Xendar the Strong (Political - Ally)|Hilda Xendar the Strong (Political - Ally)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Brenna Dawnstrider the Wise", "brenna dawnstrider the wise", "Brenna Dawnstrider Wise", "Wise the Dawnstrider Brenna"]
 tags: [npc, character]
@@ -153,24 +174,65 @@ Blackmails party into service
 - Special moves
 
 ## See Also
+- [[NPC_Name_Generator.png]]
+- [[Marcus Shardbreaker Grimm_1]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[NPC00080_Branwen_Proudmore]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[NPC01831_Alaric_Frostwhisper_the_Scholar]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[World_Primer.md]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[Player_Feedback_Form.md]]
+- [[Basic_Rules]]
+- [[Reference.md]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[15 the Planes of Existence]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[16 Credits]]
+- [[10 Combat]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[11 Rules Glossary]]
+- [[MOC_Lore]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[Master_Narrative_Web.md]]
+- [[Complete_NPC_Matrix.md]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Mordenkainen's Tome of Foes (MTF) p.115
+- Mordenkainen's Forbidden Knowledge of Foes (MFK) p.115
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -178,10 +240,10 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -291,3 +353,14 @@ Following magic item guidelines (DMG p.135-136):
 - Leads to [[Cultural Specialists]]
 - Leads to [[Stage 2 Xdmg]]
 - Originates from [[LORE00204_Prophecies_Entry_205]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

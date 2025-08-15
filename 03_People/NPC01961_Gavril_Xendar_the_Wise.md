@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gavril Xendar the Wise
 
 *Half-Elf Cultist (Villains), Age 51, Non-binary*

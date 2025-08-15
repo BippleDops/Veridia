@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Clara Truthscale
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]

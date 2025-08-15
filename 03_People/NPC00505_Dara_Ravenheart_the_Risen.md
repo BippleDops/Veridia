@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Dara Ravenheart the Risen
 
 *Genasi Baker (Commoners), Age 67, Non-binary*

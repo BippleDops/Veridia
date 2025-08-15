@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.314467
+modified: 2025-08-15T16:41:48.314469
+aliases: [NPC01087 Orion Winterborn the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Underhill the Redeemed (Political - Opposition)|Thalia Underhill the Redeemed (Political - Opposition)]]
+- [[#Malakai Darkwater the Strong (Criminal - Target)|Malakai Darkwater the Strong (Criminal - Target)]]
+- [[#Brenna Underhill the Lost (Family - Child)|Brenna Underhill the Lost (Family - Child)]]
+
+
+---
 aliases: ["Orion Winterborn the Scholar", "orion winterborn the scholar", "Orion Winterborn Scholar", "Scholar the Winterborn Orion"]
 tags: [npc, character]
 type: npc
@@ -146,3 +167,15 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

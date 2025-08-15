@@ -244,3 +244,9 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]

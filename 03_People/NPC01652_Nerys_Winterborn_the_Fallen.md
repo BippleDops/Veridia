@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.950155
+modified: 2025-08-15T16:41:47.950158
+aliases: [NPC01652 Nerys Winterborn the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Vesper Moonshadow the Strong (Political - Patron)|Vesper Moonshadow the Strong (Political - Patron)]]
+- [[#Wynne Brightblade the Redeemed (Family - Child)|Wynne Brightblade the Redeemed (Family - Child)]]
+- [[#Aldric Nightfall the Redeemed (Criminal - Target)|Aldric Nightfall the Redeemed (Criminal - Target)]]
+
+
+---
 aliases: ["Nerys Winterborn the Fallen", "nerys winterborn the fallen", "Nerys Winterborn Fallen", "Fallen the Winterborn Nerys"]
 tags: [npc, character]
 type: npc
@@ -146,3 +171,9 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

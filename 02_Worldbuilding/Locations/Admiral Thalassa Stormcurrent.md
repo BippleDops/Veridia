@@ -246,3 +246,7 @@ Ongoing situations affecting Admiral Thalassa Stormcurrent:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01994_Orion_Brightblade_the_Risen]]

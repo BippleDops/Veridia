@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Nerys Underhill the Fallen
 
 *Elf Corrupt Noble (Villains), Age 20, Male*

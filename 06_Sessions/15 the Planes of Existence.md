@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T16:41:33.909985
+modified: 2025-08-15T16:41:33.909988
+aliases: [15 the Planes of Existence]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#See Also|See Also]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
+---
 
 title: 15 the Planes of Existence
 type: note
@@ -25,7 +42,8 @@ tags:
 
 created: 2025-08-11
 modified: '2025-08-14'
-status: active
+status: 
+*The [texture] surface feels [description] to the touch.*active
 updated: '2025-08-13T12:34:05.219772+00:00'
 world: Both
 
@@ -44,24 +62,52 @@ world: Both
 > This NPC knows more than they let on
 
 ## See Also
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[Player_Portal.md]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[Sanity Quick Reference]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC00046_Urien_Ironwood_the_Wise]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[Party_Quests]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[11 Spellcasting]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[13 Conditions]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[11 Rules Glossary]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[Reputation_Tracker]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[Master_Narrative_Web.md]]
 - [[Related_Content]]
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

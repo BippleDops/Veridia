@@ -416,3 +416,8 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]

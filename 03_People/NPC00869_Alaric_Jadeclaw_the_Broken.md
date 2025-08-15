@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Alaric Jadeclaw the Broken
 
 *Human Trader (Merchants), Age 66, Non-binary*

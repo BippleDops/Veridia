@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.013568
+modified: 2025-08-15T16:41:47.013572
+aliases: [NPC0137 Rhea Darkwater the Elder]
+---
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Secrets|Secrets]]
+- [[#Relationships|Relationships]]
+- [[#Roleplaying|Roleplaying]]
+
+
+---
 aliases: ["Rhea Darkwater the Elder", "rhea darkwater the elder", "Rhea Darkwater Elder", "Elder the Darkwater Rhea"]
 tags: [, generated]
   - npc
@@ -229,3 +250,8 @@ Perception, Persuasion, Arcana
 - Leads to [[Possessed Noble Coterie 2]]
 - Compare with [[armor-of-necrotic-resistance-xdmg (items)]]
 - Related: [[step_054 (phase_046)]]
+
+## Visual References
+![[03_People/portrait_captain_rhea_blackwater_friendly.png]]
+![[03_People/portrait_captain_rhea_blackwater_dramatic.png]]
+![[03_People/portrait_captain_rhea_blackwater_standard.png]]

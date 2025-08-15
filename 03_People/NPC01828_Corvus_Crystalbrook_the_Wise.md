@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Corvus Crystalbrook the Wise
 
 *Genasi Cultist (Villains), Age 26, Non-binary*

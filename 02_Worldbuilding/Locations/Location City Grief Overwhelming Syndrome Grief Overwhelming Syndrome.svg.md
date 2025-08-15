@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Grief Overwhelmi
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01994_Orion_Brightblade_the_Risen]]

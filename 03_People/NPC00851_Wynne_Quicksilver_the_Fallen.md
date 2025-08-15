@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Wynne Quicksilver the Fallen
 
 *Goliath Shopkeeper (Merchants), Age 25, Male*

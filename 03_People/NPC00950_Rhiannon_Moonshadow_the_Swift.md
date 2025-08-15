@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Rhiannon Moonshadow the Swift
 
 *Tiefling Caravan Master (Merchants), Age 55, Non-binary*

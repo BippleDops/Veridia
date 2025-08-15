@@ -770,3 +770,9 @@ Ongoing situations affecting Shadow Market Canals:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[The Silent Watcher 2]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]

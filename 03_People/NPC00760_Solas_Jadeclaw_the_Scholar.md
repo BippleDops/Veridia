@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.571715
+modified: 2025-08-15T16:41:45.571718
+aliases: [NPC00760 Solas Jadeclaw the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Kaelen Moonshadow the Risen (Political - Spy)|Kaelen Moonshadow the Risen (Political - Spy)]]
+- [[#Kaelen Underhill the Fallen (Political - Spy)|Kaelen Underhill the Fallen (Political - Spy)]]
+- [[#Jorah Stormwind the Seeker (Political - Spy)|Jorah Stormwind the Seeker (Political - Spy)]]
+
+
+---
 aliases: ["Solas Jadeclaw the Scholar", "solas jadeclaw the scholar", "Solas Jadeclaw Scholar", "Scholar the Jadeclaw Solas"]
 tags: [npc, character]
 type: npc
@@ -240,3 +261,14 @@ Witnessed a crime
 - Originates from [[ITEM00782_Infernal_Mirror_of_the_Gods]]
 - Connects to [[LOC00030_Towns_Location_31]]
 - Influences [[shoosuva-mpmm (fiend)]]
+
+## Visual References
+![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

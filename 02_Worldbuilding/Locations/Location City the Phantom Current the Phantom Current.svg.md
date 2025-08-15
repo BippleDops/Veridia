@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Phantom Curr
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00300_Urien_Zephyrblade]]

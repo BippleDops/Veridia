@@ -271,3 +271,7 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01555_Branwen_Xendar_the_Seeker]]

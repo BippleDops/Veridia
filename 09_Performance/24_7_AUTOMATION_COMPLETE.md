@@ -1,4 +1,5 @@
 ---
+enhanced: true
 enhanced: trtags: [enhanced, 09_performance, combat, magic, puzzle, lore]ce]
 created: 2025-08-15T12:24:36.167916
 modified: 2025-08-15T12:24:36.167918
@@ -282,18 +283,18 @@ The system will run indefinitely, making thousands of small improvements daily!
 - [[ULTIMATE_ASSET_REPORT]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Combat**: See PHB p.189-198
+- **Ability Checks**: See ACX p.174
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
 
 ## Connections
 

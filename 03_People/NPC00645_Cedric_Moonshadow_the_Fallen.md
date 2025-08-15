@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Cedric Moonshadow the Fallen
 
 *Tiefling Baker (Commoners), Age 64, Non-binary*

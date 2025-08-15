@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.051155
+modified: 2025-08-15T16:41:43.051158
+aliases: [NPC01037 Baelor Quicksilver the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Kaelen Frostwhisper the Cunning (Criminal - Fence)|Kaelen Frostwhisper the Cunning (Criminal - Fence)]]
+- [[#Gareth Dawnstrider the Guardian (Professional - Rival)|Gareth Dawnstrider the Guardian (Professional - Rival)]]
+- [[#Baelor Oakenshield the Swift (Political - Ally)|Baelor Oakenshield the Swift (Political - Ally)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Baelor Quicksilver the Mystic", "baelor quicksilver the mystic", "Baelor Quicksilver Mystic", "Mystic the Quicksilver Baelor"]
 tags: [npc, character]
@@ -144,10 +165,10 @@ Competitor sabotaging business
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -257,3 +278,14 @@ Competitor sabotaging business
 - Connects to [[Keg Launcher Xdmg]]
 - Parallels [[Relentless Hex Xge]]
 - Parallels [[pale-tincture-xdmg (items)]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

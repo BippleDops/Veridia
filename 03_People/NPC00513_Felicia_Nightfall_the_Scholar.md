@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Felicia Nightfall the Scholar
 
 *Gnome Blacksmith (Commoners), Age 69, Male*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Zephyr Crystalbrook the Bold
 
 *Gnome Corrupt Noble (Villains), Age 71, Non-binary*

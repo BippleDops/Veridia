@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.812645
+modified: 2025-08-15T16:41:40.812647
+aliases: [NPC00362 Pyria Stormwind the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hestara Moonshadow the Bold (Personal - Ex-lover)|Hestara Moonshadow the Bold (Personal - Ex-lover)]]
+- [[#Alaric Oakenshield the Swift (Professional - Employer)|Alaric Oakenshield the Swift (Professional - Employer)]]
+- [[#Elric Brightblade (Personal - Childhood friend)|Elric Brightblade (Personal - Childhood friend)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Pyria Stormwind the Wise", "pyria stormwind the wise", "Pyria Stormwind Wise", "Wise the Stormwind Pyriatags: [npc, character, combat, magic, social, puzzle, lore]er]
 type: npc
@@ -84,7 +105,7 @@ Deception, History, Insight
 
 ### Special Abilities
 - Noble Bearing: Immunity to being frightened
-- Diplomatic Immunity: Cannot be arrested without evidence
+- [[Diplomatic Immunity]]: Cannot be arrested without evidence
 - Rally: Grant allies temporary hit points
 
 ## Possessions
@@ -102,13 +123,13 @@ Deception, History, Insight
 - "State your purpose quickly."
 
 ### Catchphrases
-- "Time will tell."
+- "[[Time]] will tell."
 - "In my experience..."
 
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- Political alliances
+- [[Political Alliances]]
 - Upcoming social events
 
 ## Plot Hook
@@ -139,13 +160,37 @@ Needs discrete help with family scandal
 - Special moves
 
 ## Combat Stats
-Base: **Veteran** (MM p.350)
+Base: **Veteran** (BC p.350)
 Modifications:
 - HP: 19
 - AC: 11
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC00046_Urien_Ironwood_the_Wise]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[Faction_Guide.md]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[Player_Comfort_Check]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[09 Adventuring]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
 - [[Related_Content]]
 
 
@@ -155,8 +200,8 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -201,7 +246,7 @@ Modifications:
 - Affected by [[beast-speech (optional-features)]]
 - Compare with [[ITEM01354_Practical_Journal_of_Quality]]
 - Leads to [[step_100]]
-- Affected by [[Location City Wise Tide Truthseeker V1 Wise Tide Truthseeker.svg]]
+- Affected by [[Location City [[Wise Tide Truthseeker]] V1 Wise Tide Truthseeker.svg]]
 - Requires [[Research D&d Statblocks]]
 - Influences [[step_054]]
 - Connects to [[EVENT00094_Natural_Event_95]]
@@ -220,7 +265,7 @@ Modifications:
 - Compare with [[step_081]]
 - Originates from [[mariners-armor-xdmg (items)]]
 - Requires [[step_074 (phase_054)]]
-- Leads to [[Surface Signals (D&D_Statblocks)]]
+- Leads to [[[[Surface Signals]] (D&D_Statblocks)]]
 - Originates from [[step_020 (phase_072)]]
 - Originates from [[ENC00168_Environmental_Encounter_169]]
 - See also: [[The Great Balance]]
@@ -246,11 +291,11 @@ Modifications:
 - Leads to [[step_052]]
 - Requires [[Portrait NPC Jasper Three Eyes Flint 2 Jasper Three Eyes Flint 2.svg_1 (Portraits)]]
 - Leads to [[scholars-of-lorehold-lorehold-scholars-scc (tables)]]
-- Related: [[The Azure Coast 2]]
+- Related: [[[[The Azure Coast]] 2]]
 - Leads to [[Ranger Skybow]]
 - Parallels [[Physical Variations Type 4 Malison Lower]]
 - Requires [[Aquabyssos]]
-- Requires [[Location City House Pressureborn House Pressureborn.svg]]
+- Requires [[Location City [[House Pressureborn]] House Pressureborn.svg]]
 - Related: [[Complete Reality Merger System]]
 - Originates from [[LORE00155_Prophecies_Entry_156]]
 - Requires [[The First Dreamer]]
@@ -266,3 +311,29 @@ Modifications:
 - Originates from [[M-001 Physics Denial Player]]
 - Leads to [[Investigate Shadow Surgeons (Criminal_Organizations)]]
 - Related: [[step_020 (phase_097)]]
+
+## Visual References
+![[03_People/portrait_[[Merchant]]_captain_tobias_stormwind_dramatic.png]]
+![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
+
+
+## Realm Connections
+
+### Connection to [[Aethermoor]]
+This connects to the sky realm of Sky realm of eternal winds and floating islands.
+
+- **Ruling Power**: The Windlord Council
+- **Capital**: [[Skylance Citadel]]
+- **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
+- **Current Conflict**: The Void Incursion, Elemental Convergence
+- **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
+
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+navigate floating islands connected by bridges of solidified cloud.
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

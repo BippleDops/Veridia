@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.177711
+modified: 2025-08-15T16:41:46.177714
+aliases: [NPC01564 Faelyn Moonshadow the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ewan Quicksilver the Fallen (Professional - Employer)|Ewan Quicksilver the Fallen (Professional - Employer)]]
+- [[#Brenna Brightblade the Lost (Personal - Best friend)|Brenna Brightblade the Lost (Personal - Best friend)]]
+- [[#Lyanna Lightbringer the Broken (Family - Sibling)|Lyanna Lightbringer the Broken (Family - Sibling)]]
+
+
+---
 aliases: ["Faelyn Moonshadow the Wise", "faelyn moonshadow the wise", "Faelyn Moonshadow Wise", "Wise the Moonshadow Faelyn"]
 tags: [npc, character]
 type: npc
@@ -251,3 +272,14 @@ Needs help with personal quest
 - Originates from [[Forbidden Knowledge (D&D_References)]]
 - Related: [[step_012 (phase_008)]]
 - Connects to [[Aquabyssos_Cultural_Codex (02_Worldbuilding)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.253409
+modified: 2025-08-15T16:41:44.253412
+aliases: [NPC00303 Ysara Jadeclaw]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Erasmus Frostwhisper the Swift (Personal - Love interest)|Erasmus Frostwhisper the Swift (Personal - Love interest)]]
+- [[#Idris Emberfall (Family - Sibling)|Idris Emberfall (Family - Sibling)]]
+- [[#Kaelen Quicksilver (Political - Ally)|Kaelen Quicksilver (Political - Ally)]]
+
+
+---
 aliases: ["Ysara Jadeclaw", "ysara jadeclaw", "Jadeclaw Ysara"]
 tags: [npc, character]
 type: npc
@@ -244,3 +265,14 @@ Seeks bodyguards for dangerous journey
 - Compare with [[International Crystal Trade Associatio]]
 - See also: [[QUEST00017_Personal_Quest_18]]
 - Parallels [[Doctor Emma Herbalist (Lore)]]
+
+## Visual References
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

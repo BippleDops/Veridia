@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.442504
+modified: 2025-08-15T16:41:43.442507
+aliases: [NPC00578 Vesper Hawthorne the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Jorah Underhill the Bold (Family - Sibling)|Jorah Underhill the Bold (Family - Sibling)]]
+- [[#Caelum Underhill the Wise (Family - Sibling)|Caelum Underhill the Wise (Family - Sibling)]]
+- [[#Wynne Nightfall (Political - Patron)|Wynne Nightfall (Political - Patron)]]
+
+
+---
 aliases: ["Vesper Hawthorne the Wanderer", "vesper hawthorne the wanderer", "Vesper Hawthorne Wanderer", "Wanderer the Hawthorne Vesper"]
 tags: [npc, character]
 type: npc
@@ -241,3 +262,14 @@ Family member has gone missing
 - Connects to [[Emergency Management Services]]
 - Influences [[Houses_and_Nobility___House_Brightshield]]
 - Parallels [[LOC00176_Wilderness_Location_177]]
+
+## Visual References
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

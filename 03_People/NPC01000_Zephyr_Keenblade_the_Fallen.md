@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Zephyr Keenblade the Fallen
 
 *Tabaxi Shopkeeper (Merchants), Age 28, Female*

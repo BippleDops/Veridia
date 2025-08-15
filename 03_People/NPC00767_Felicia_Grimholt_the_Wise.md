@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.140089
+modified: 2025-08-15T16:41:46.140093
+aliases: [NPC00767 Felicia Grimholt the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aeliana Voidwalker the Strong (Political - Patron)|Aeliana Voidwalker the Strong (Political - Patron)]]
+- [[#Brenna Oakenshield the Lost (Political - Ally)|Brenna Oakenshield the Lost (Political - Ally)]]
+- [[#Hilda Voidwalker the Bold (Professional - Employee)|Hilda Voidwalker the Bold (Professional - Employee)]]
+
+
+---
 aliases: ["Felicia Grimholt the Wise", "felicia grimholt the wise", "Felicia Grimholt Wise", "Wise the Grimholt Felicia"]
 tags: [npc, character]
 type: npc
@@ -234,3 +255,14 @@ Discovered something valuable
 - Affected by [[step_034 (phase_077)]]
 - Leads to [[Character Backstories]]
 - Parallels [[Master Resoce Architect Echo Stonewhisper]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

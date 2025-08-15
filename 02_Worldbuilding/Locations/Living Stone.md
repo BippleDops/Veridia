@@ -244,3 +244,7 @@ Ongoing situations affecting Living Stone:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[The Silent Watcher 2]]

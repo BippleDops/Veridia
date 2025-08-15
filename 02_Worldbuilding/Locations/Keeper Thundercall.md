@@ -229,3 +229,9 @@ Ongoing situations affecting Keeper Thundercall:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00287_Ysara_Underhill_the_Wise]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]

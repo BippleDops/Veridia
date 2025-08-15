@@ -241,3 +241,8 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]

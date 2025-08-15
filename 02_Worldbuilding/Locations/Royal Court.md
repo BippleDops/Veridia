@@ -270,3 +270,7 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00945_Wynne_Voidwalker_the_Seeker]]

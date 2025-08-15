@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.415011
+modified: 2025-08-15T16:41:45.415016
+aliases: [NPC00184 Baelor Hawthorne]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Darkwater (Family - Sibling)|Corvus Darkwater (Family - Sibling)]]
+- [[#Delara Crystalbrook the Redeemed (Family - Parent)|Delara Crystalbrook the Redeemed (Family - Parent)]]
+- [[#Faelyn Stormwind (Personal - Best friend)|Faelyn Stormwind (Personal - Best friend)]]
+
+
+---
 aliases: ["Baelor Hawthorne", "baelor hawthorne", "Hawthorne Baelor"]
 tags: [npc, character]
 type: npc
@@ -242,3 +267,8 @@ Seeks bodyguards for dangerous journey
 - Connects to [[Aquabyssos World Overview#Government The Depth Hierarchy]]
 - Leads to [[step_070]]
 - Requires [[step_032 (phase_026)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

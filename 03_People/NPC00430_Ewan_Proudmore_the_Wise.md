@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ewan Proudmore the Wise
 
 *Tabaxi Blacksmith (Commoners), Age 76, Non-binary*

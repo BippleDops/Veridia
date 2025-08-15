@@ -260,3 +260,9 @@ Ongoing situations affecting Crystal Keepers:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00287_Ysara_Underhill_the_Wise]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]

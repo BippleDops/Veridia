@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.688286
+modified: 2025-08-15T16:41:46.688288
+aliases: [NPC00435 Aldric Silverleaf]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Xendar the Fallen (Family - Sibling)|Wynne Xendar the Fallen (Family - Sibling)]]
+- [[#Elric Blackstone the Wise (Personal - Childhood friend)|Elric Blackstone the Wise (Personal - Childhood friend)]]
+- [[#Urien Grimholt the Redeemed (Personal - Best friend)|Urien Grimholt the Redeemed (Personal - Best friend)]]
+
+
+---
 aliases: ["Aldric Silverleaf", "aldric silverleaf", "Silverleaf Aldric"]
 tags: [npc, character]
 type: npc
@@ -248,3 +269,14 @@ Family member has gone missing
 - Leads to [[Location City the Banker Fish V1 the Banker Fish.svg]]
 - Influences [[bigbys-hand-xphb (spells)]]
 - Originates from [[Abyssal Cour]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
+![[03_People/portrait_duke_aldric_blackwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

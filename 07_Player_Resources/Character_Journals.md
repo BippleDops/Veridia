@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:40.457607
+modified: 2025-08-15T16:41:40.457610
+aliases: [Character Journals]
+---
+
+## Table of Contents
+- [[#Party Member Journals|Party Member Journals]]
+- [[#[[Players/Journals/Thorin_Journal|Thorin's War Journal]]|[[Players/Journals/Thorin_Journal|Thorin's War Journal]]]]
+- [[#[[Players/Journals/Elara_Journal|Elara's Research Notes]]|[[Players/Journals/Elara_Journal|Elara's Research Notes]]]]
+- [[#[[Players/Journals/Shadow_Journal|Shadow's Little Black Book]]|[[Players/Journals/Shadow_Journal|Shadow's Little Black Book]]]]
+- [[#[[Players/Journals/Marcus_Journal|Father Marcus's Prayers]]|[[Players/Journals/Marcus_Journal|Father Marcus's Prayers]]]]
+- [[#See Also|See Also]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#Thematic Connections|Thematic Connections]]
+- [[#D&D 5e References|D&D 5e References]]
+
+
 -tags: [generated, linked, combat, magic]ed]
 created: 2025-08-15T12:34:11.169117
 ---
@@ -22,6 +43,39 @@ Divine guidance and healing records
 > How this works in play
 
 ## See Also
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC01113_Solas_Ravenheart_the_Cunning]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00207_Ysara_Ravenheart]]
+- [[Depth_Adapted_Background]]
+- [[Player_Portal.md]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Player_Comfort_Check]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[13 Conditions]]
+- [[09 Adventuring]]
+- [[07 Customization Options]]
+- [[Parliamentary_Voting_Guide]]
+- [[Possession Xphb]]
+- [[Session_Recaps]]
+- [[Possession Mechanics]]
+- [[MOC_NPCs]]
+- [[11 Spellcasting]]
+- [[Character_Journal_Template]]
 - [[Related_Content]]
 
 
@@ -31,7 +85,7 @@ Divine guidance and healing records
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## Thematic Connections
@@ -41,18 +95,18 @@ Divine guidance and healing records
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
 
 ## Connections
 
@@ -156,3 +210,14 @@ Divine guidance and healing records
 - Related: [[location-city-noble-quarter-v1-noble-quarter.svg]]
 - Influences [[Contrasting Approach]]
 - Related: [[Sommelier Bacchus Deepbottle]]
+
+## Visual References
+![[03_People/portrait_character_sheet.png]]
+![[03_People/portrait_cross_campaign_characters_dramatic.png]]
+![[03_People/token_character_name_medium_bloodied.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

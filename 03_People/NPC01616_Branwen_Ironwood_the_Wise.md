@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Branwen Ironwood the Wise
 
 *Tabaxi Corrupt Noble (Villains), Age 20, Non-binary*

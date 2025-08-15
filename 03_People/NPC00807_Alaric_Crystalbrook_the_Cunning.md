@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Alaric Crystalbrook the Cunning
 
 *Tabaxi Appraiser (Merchants), Age 32, Male*

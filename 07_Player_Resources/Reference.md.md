@@ -1,4 +1,5 @@
 ---
+enhanced: true
 enhanced: trtags: [enhanced, 07_player_resources, combat, magic, lore]es]
 created: 2025-08-15T12:24:41.122130
 modified: 2025-08-15T12:24:41.122131
@@ -34,9 +35,12 @@ improvements: 20
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections 
+*The [texture] surface feels [description] to the touch.*
 *Sounds of [relevant sounds] echo in the distance.*to overarching campaign themes ## Plot Hooks - Strange sightings suggest ancient magic - Someone is hunting an heir for power
 - An heirloom has gone missing and war looms
-- A stranger needs help investigating before winter ## See Also - Related content
+- A stranger needs help investigating before winter ## See Also
+- [[11 Spellcasting]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]] - Related content
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
@@ -61,18 +65,18 @@ improvements: 20
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
 
 ## Connections
 

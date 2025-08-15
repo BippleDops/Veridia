@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Baelor Thornweave the Guardian
 
 *Firbolg Broker (Merchants), Age 48, Male*

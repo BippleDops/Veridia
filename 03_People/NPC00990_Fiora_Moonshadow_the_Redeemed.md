@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Fiora Moonshadow the Redeemed
 
 *Half-Elf Caravan Master (Merchants), Age 32, Male*

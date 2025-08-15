@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.733182
+modified: 2025-08-15T16:41:40.733184
+aliases: [NPC00976 Alaric Quicksilver the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Oakenshield the Wanderer (Personal - Ex-lover)|Ysara Oakenshield the Wanderer (Personal - Ex-lover)]]
+- [[#Cedric Ironforge the Mystic (Political - Spy)|Cedric Ironforge the Mystic (Political - Spy)]]
+- [[#Erasmus Blackstone the Mystic (Family - Cousin)|Erasmus Blackstone the Mystic (Family - Cousin)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Alaric Quicksilver the Strong", "alaric quicksilver the strong", "Alaric Quicksilver Strong", "Strong the Quicksilver Alarictags: [npc, character, combat, magic, lore]er]
 type: npc
@@ -6,7 +27,7 @@ type: npc
 
 # Alaric Quicksilver the Strong
 
-*Elf Broker (Merchants), Age 24, Male*
+*Elf Broker ([[Merchant]]s), Age 24, Male*
 
 **ID**: NPC00976
 
@@ -152,13 +173,50 @@ Seeks rare merchandise
 - Special moves
 
 ## Combat Stats
-Base: **Commoner** (MM p.345)
+Base: **Commoner** (BC p.345)
 Modifications:
 - HP: 15
 - AC: 12
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00046_Urien_Ironwood_the_Wise]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[Depth_Adapted_Background]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[Party_Quests]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[The Forgotten Representative]]
+- [[Propaganda_Broadsheet_Syndicate.md]]
+- [[Combat_Encounter_Analysis]]
+- [[11 Spellcasting]]
+- [[NPC00378_Malakai_Moonshadow_the_Broken]]
+- [[Count_Strahd_von_Zarovich]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[Master_Narrative_Web.md]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
 - [[Related_Content]]
 
 
@@ -168,10 +226,10 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -182,8 +240,8 @@ Modifications:
 ## Connections
 
 - See also: [[The Healer's Persecution]]
-- Influences [[The First Failure 2]]
-- Affected by [[Assets Locations Location City Council of Faiths Council of Faiths.svg]]
+- Influences [[[[The First Failure]] 2]]
+- Affected by [[Assets Locations [[Location City [[Council of Faiths]] Council of Faiths.svg]]]]
 - Influences [[LOC00227_Cities_Location_228]]
 - Requires [[NPC00027_Faelyn_Proudmore]]
 - Originates from [[Goldspire Port]]
@@ -193,12 +251,12 @@ Modifications:
 - Connects to [[Alchemists Doom Scc]]
 - See also: [[step_082]]
 - Leads to [[rope-of-entanglement-xdmg (items)]]
-- See also: [[Location City the Pressure Crown V1 the Pressure Crown.svg]]
-- See also: [[Guardian Captain Marcus Shieldwall (D&D_References)]]
+- See also: [[Location City [[The Pressure Crown]] V1 the Pressure Crown.svg]]
+- See also: [[Guardian [[Captain Marcus]] Shieldwall (D&D_References)]]
 - Influences [[Commander Ironprice 3 (D&D_References)]]
 - See also: [[Elven Araleth Letheranil Mtf]]
 - Influences [[knock-xphb (spells)]]
-- Related: [[Assets Locations Location City Bubble Yeastkeeper V1 Bubble Yeastkeeper.svg]]
+- Related: [[Assets Locations [[Location City [[Bubble Yeastkeeper]] V1 Bubble Yeastkeeper.svg]]]]
 - Originates from [[step_091 (phase_088)]]
 - Leads to [[Greater Invisibility Xphb]]
 - Influences [[Magic Items for Sale Scc]]
@@ -238,7 +296,7 @@ Modifications:
 - Connects to [[Burning Xphb]]
 - Related: [[trapper-mpmm (monstrosity)]]
 - Influences [[step_020]]
-- Affected by [[Aethermoor to Aquabyssos Transition Guide (D&D_References)]]
+- Affected by [[[[Aethermoor]] to [[Aquabyssos]] Transition Guide (D&D_References)]]
 - Originates from [[Administrative Code]]
 - Originates from [[The Wake]]
 - Influences [[ENC00439_Combat_Encounter_440]]
@@ -247,7 +305,7 @@ Modifications:
 - Leads to [[step_092 (phase_050)]]
 - Originates from [[SPELL00134_Arcane_Spell_135]]
 - Compare with [[ENC0065_Random_Encounter_66]]
-- Leads to [[Master Cultivator Reef Growstone (D&D_References)]]
+- Leads to [[[[Master Cultivator Reef Growstone]] (D&D_References)]]
 - Compare with [[Fire Opal Xdmg]]
 - Leads to [[Senior Tidal Engineer Marina Flowmaster (D&D_References)]]
 - Connects to [[ITEM00278_Shadow_Dagger_of_Wounding]]
@@ -277,7 +335,18 @@ Modifications:
 - Affected by [[step_092 (phase_055)]]
 - Originates from [[Gallery Guide Captain Marina Civicvoice (D&D_References)]]
 - Compare with [[Symbol Heraldry the Cipher Current V1 the Cipher Current.svg]]
-- See also: [[Location City Portal Commander Marina Bridgewright Portal Commander Marina Bridgewright.png]]
+- See also: [[Location City [[Portal Commander Marina Bridgewright]] Portal Commander Marina Bridgewright.png]]
 - Parallels [[step_075 (phase_032)]]
 - Compare with [[Aethermoor - Session 09 The Price of Unity]]
 - Connects to [[location-city-the-cleaner-the-cleaner.svg]]
+
+## Visual References
+![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

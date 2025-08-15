@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.911064
+modified: 2025-08-15T16:41:42.911068
+aliases: [NPC01534 Aeliana Hawthorne the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Pyria Keenblade the Mystic (Professional - Mentor)|Pyria Keenblade the Mystic (Professional - Mentor)]]
+- [[#Orion Blackstone the Bold (Criminal - Accomplice)|Orion Blackstone the Bold (Criminal - Accomplice)]]
+- [[#Jorah Darkwater the Bold (Personal - Ex-lover)|Jorah Darkwater the Bold (Personal - Ex-lover)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Aeliana Hawthorne the Broken", "aeliana hawthorne the broken", "Aeliana Hawthorne Broken", "Broken the Hawthorne Aeliana"]
 tags: [npc, character]
@@ -154,19 +179,19 @@ Knows secret about major threat
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Dungeon Master's Guide (DMG) p.264
+- Worldweaver's Tome (WWT) p.264
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -174,9 +199,9 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -286,3 +311,8 @@ Following magic item guidelines (DMG p.135-136):
 - Related: [[enemy-xphb (variant-rules)]]
 - Leads to [[step_069 (phase_040)]]
 - Connects to [[Thalassa the Life-Weaver]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

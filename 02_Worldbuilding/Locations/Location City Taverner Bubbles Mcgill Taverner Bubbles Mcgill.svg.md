@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Taverner Bubbles
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00494_Lyanna_Hawthorne_the_Guardian]]

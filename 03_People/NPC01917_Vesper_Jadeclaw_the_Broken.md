@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.300866
+modified: 2025-08-15T16:41:48.300871
+aliases: [NPC01917 Vesper Jadeclaw the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Xander Youngblood the Guardian (Political - Spy)|Xander Youngblood the Guardian (Political - Spy)]]
+- [[#Faelyn Jadeclaw the Strong (Criminal - Fence)|Faelyn Jadeclaw the Strong (Criminal - Fence)]]
+- [[#Erasmus Keenblade the Mystic (Political - Patron)|Erasmus Keenblade the Mystic (Political - Patron)]]
+
+
+---
 aliases: ["Vesper Jadeclaw the Broken", "vesper jadeclaw the broken", "Vesper Jadeclaw Broken", "Broken the Jadeclaw Vesper"]
 tags: [npc, character]
 type: npc
@@ -153,3 +178,9 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

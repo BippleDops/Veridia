@@ -244,3 +244,8 @@ Ongoing situations affecting Abyssal Crystals:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]

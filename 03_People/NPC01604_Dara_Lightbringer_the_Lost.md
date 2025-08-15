@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Dara Lightbringer the Lost
 
 *Tiefling Assassin (Villains), Age 34, Non-binary*

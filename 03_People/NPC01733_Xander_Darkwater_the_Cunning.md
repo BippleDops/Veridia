@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Xander Darkwater the Cunning
 
 *Aasimar Assassin (Villains), Age 59, Male*

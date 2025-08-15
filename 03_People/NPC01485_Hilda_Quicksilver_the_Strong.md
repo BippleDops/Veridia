@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hilda Quicksilver the Strong
 
 *Aasimar Wizard (Adventurers), Age 63, Female*

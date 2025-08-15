@@ -238,3 +238,7 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00661_Corvus_Darkwater_the_Broken]]

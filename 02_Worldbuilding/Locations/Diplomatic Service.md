@@ -259,3 +259,8 @@ Ongoing situations affecting Diplomatic Service:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC00162_Xander_Thornweave]]

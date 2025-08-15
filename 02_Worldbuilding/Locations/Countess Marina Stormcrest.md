@@ -238,3 +238,7 @@ Ongoing situations affecting Countess Marina Stormcrest:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00501_Orion_Nightfall_the_Broken]]

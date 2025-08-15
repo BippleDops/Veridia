@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Lyanna Thornweave the Mystic
 
 *Tabaxi Aristocrat (Nobles), Age 24, Male*

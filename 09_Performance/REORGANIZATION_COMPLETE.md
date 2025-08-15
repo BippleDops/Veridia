@@ -1,4 +1,24 @@
 ---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:22.053918
+modified: 2025-08-15T16:41:22.053924
+aliases: [REORGANIZATION COMPLETE]
+---
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Session Prep|Session Prep]]
+- [[#Thematic Elements|Thematic Elements]]
+- [[#Visual References|Visual References]]
+- [[#See Also|See Also]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
+---
 enhanced: trtags: [enhanced, 09_performance, combat, magic, exploration, lore]ce]
 created: 2025-08-15T12:24:36.088762
 modified: 2025-08-15T12:24:36.088763
@@ -30,6 +50,7 @@ publish: false --- # Content Reorganization Complete Generated: ${new Date().to 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 2. **Added Tags**: All files now have`tags: [generated]`in frontmatter
 3. **Preserved IDs**: Origi
+*Sounds of [relevant sounds] echo in the distance.*
 *The [texture] surface feels [description] to the touch.*nal asset IDs maintained for cross-referencing
 4. **Cleaned Structure**: Removed empty Generated directories ## New Structure Instead of:```[[02_Worldbuilding|02_Worldbuilding]]/[[[[People|People]]|People]]/Generated/NPC0001.md 02_Worldbuilding/[[[[Items|Items]]|Items]]/Generated/ITEM0001.md```Now:```02_Worldbuilding/People/NPC0001.md (with tags: [generated])
 02_Worldbuilding/Items/ITEM0001.md (with tags: [generated])```## Benefits - **Cleaner hierarchy**: No unnecessary subdirectories - **Better integration**: Generated content sits alongside manual content
@@ -83,23 +104,23 @@ This content explores themes of loyalty, adding narrative depth to your campaign
 - [[NEXT_LEVEL_IMPROVEMENTS]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

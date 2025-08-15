@@ -227,3 +227,9 @@ Ongoing situations affecting Comparative Religion:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00945_Wynne_Voidwalker_the_Seeker]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]

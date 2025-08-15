@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Branwen Grimholt the Seeker
 
 *Half-Orc Blacksmith (Commoners), Age 69, Non-binary*

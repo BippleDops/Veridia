@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.455390
+modified: 2025-08-15T16:41:45.455393
+aliases: [NPC01693 Kaelen Crystalbrook the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hestara Voidwalker the Cunning (Political - Opposition)|Hestara Voidwalker the Cunning (Political - Opposition)]]
+- [[#Orion Hawthorne the Guardian (Criminal - Fence)|Orion Hawthorne the Guardian (Criminal - Fence)]]
+- [[#Fiora Hawthorne the Redeemed (Professional - Mentor)|Fiora Hawthorne the Redeemed (Professional - Mentor)]]
+
+
+---
 aliases: ["Kaelen Crystalbrook the Risen", "kaelen crystalbrook the risen", "Kaelen Crystalbrook Risen", "Risen the Crystalbrook Kaelen"]
 tags: [npc, character]
 type: npc
@@ -248,3 +273,8 @@ Blackmails party into service
 - Originates from [[Old Valdris]]
 - Affected by [[step_100 (phase_012)]]
 - Requires [[step_077 (phase_049)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

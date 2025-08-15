@@ -215,3 +215,10 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]

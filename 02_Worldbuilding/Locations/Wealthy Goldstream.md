@@ -233,3 +233,8 @@ Ongoing situations affecting Wealthy Goldstream:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]

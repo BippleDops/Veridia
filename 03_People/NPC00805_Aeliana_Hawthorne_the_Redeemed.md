@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Aeliana Hawthorne the Redeemed
 
 *Tabaxi Appraiser (Merchants), Age 51, Non-binary*

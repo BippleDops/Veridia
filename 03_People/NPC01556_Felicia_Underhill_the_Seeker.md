@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Felicia Underhill the Seeker
 
 *Genasi Wizard (Adventurers), Age 36, Non-binary*

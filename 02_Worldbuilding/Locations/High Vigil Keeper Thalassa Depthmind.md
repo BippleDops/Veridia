@@ -247,3 +247,9 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01286_Xander_Proudmore_the_Bold]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00407_Hestara_Dawnstrider]]

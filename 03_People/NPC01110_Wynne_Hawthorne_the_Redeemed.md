@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.981981
+modified: 2025-08-15T16:41:42.981983
+aliases: [NPC01110 Wynne Hawthorne the Redeemed]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Fiora Thornweave the Scholar (Family - Child)|Fiora Thornweave the Scholar (Family - Child)]]
+- [[#Faelyn Lightbringer the Redeemed (Criminal - Fence)|Faelyn Lightbringer the Redeemed (Criminal - Fence)]]
+- [[#Erasmus Darkwater the Seeker (Personal - Best friend)|Erasmus Darkwater the Seeker (Personal - Best friend)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Wynne Hawthorne the Redeemed", "wynne hawthorne the redeemed", "Wynne Hawthorne Redeemed", "Redeemed the Hawthorne Wynne"]
 tags: [npc, character]
@@ -149,9 +174,9 @@ Has map to lost treasure
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -261,3 +286,8 @@ Has map to lost treasure
 - Connects to [[Pressure Suit Malfunction]]
 - Related: [[Zaratan Mpmm]]
 - Requires [[Guards and Wards Xphb]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

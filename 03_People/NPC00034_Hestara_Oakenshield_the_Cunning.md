@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hestara Oakenshield the Cunning
 
 *Goliath Aristocrat (Nobles), Age 71, Non-binary*

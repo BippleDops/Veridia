@@ -29,6 +29,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_captain_nautilus_the_deep_wanderer_standard.png]]
+
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-nautilus-the-deep-wanderer-captain-nautilus-the-deep-wanderer.svg)
 

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.964801
+modified: 2025-08-15T16:41:46.964804
+aliases: [Assets Symbols Symbol Heraldry the Brotherhood of the Black Anchor the Brotherhood of the Black Anchor.svg]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_symbols_symbol_heraldry_the_brotherhood_of_the_black_anchor_the_brotherhood_of_the_black_anchor_svg_dramatic.png]]
+
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Death_Customs Improvements|Death_Customs Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+- [[#Evolution Improvements|Evolution Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+
+
+---
 
 title: Assets Symbols Symbol Heraldry the Brotherhood of the Black Anchor the Brotherhood
   of the Black Anchor.svg

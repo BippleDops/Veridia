@@ -151,3 +151,8 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01283_Corvus_Hawthorne_the_Fallen]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]

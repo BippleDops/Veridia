@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Kaelen Emberfall the Redeemed
 
 *Dwarf Fisher (Commoners), Age 44, Female*

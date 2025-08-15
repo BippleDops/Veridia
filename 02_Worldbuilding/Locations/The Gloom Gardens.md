@@ -160,3 +160,8 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]

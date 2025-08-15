@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.217798
+modified: 2025-08-15T16:41:46.217801
+aliases: [NPC01703 Elric Goldleaf the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Branwen Lightbringer the Mystic (Professional - Mentor)|Branwen Lightbringer the Mystic (Professional - Mentor)]]
+- [[#Solas Winterborn the Redeemed (Political - Spy)|Solas Winterborn the Redeemed (Political - Spy)]]
+- [[#Orion Winterborn the Broken (Criminal - Handler)|Orion Winterborn the Broken (Criminal - Handler)]]
+
+
+---
 aliases: ["Elric Goldleaf the Swift", "elric goldleaf the swift", "Elric Goldleaf Swift", "Swift the Goldleaf Elric"]
 tags: [npc, character]
 type: npc
@@ -243,3 +264,14 @@ Blackmails party into service
 - Requires [[Location City Magical Theory Schools Magical Theory Schools.svg]]
 - Leads to [[The Inter-Realm Marriage Guil (Groups)]]
 - Originates from [[step_029 (phase_098)]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_dramatic.png]]
+![[03_People/portrait_lady_seraphina_goldleaf_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

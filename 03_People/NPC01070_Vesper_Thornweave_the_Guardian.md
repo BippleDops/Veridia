@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.885850
+modified: 2025-08-15T16:41:43.885853
+aliases: [NPC01070 Vesper Thornweave the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Lightbringer the Strong (Professional - Employer)|Thalia Lightbringer the Strong (Professional - Employer)]]
+- [[#Malakai Nightfall the Seeker (Professional - Rival)|Malakai Nightfall the Seeker (Professional - Rival)]]
+- [[#Kaelen Goldleaf the Cunning (Criminal - Fence)|Kaelen Goldleaf the Cunning (Criminal - Fence)]]
+
+
+---
 aliases: ["Vesper Thornweave the Guardian", "vesper thornweave the guardian", "Vesper Thornweave Guardian", "Guardian the Thornweave Vesper"]
 tags: [npc, character]
 type: npc
@@ -246,3 +267,14 @@ Competitor sabotaging business
 - Leads to [[Sunset Bay]]
 - Affected by [[Random Magic Item Rarity Magic Item Rarities]]
 - Parallels [[LOC00139_Wilderness_Location_140]]
+
+## Visual References
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.696473
+modified: 2025-08-15T16:41:46.696478
+aliases: [NPC00426 Baelor Ashford the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Zephyr Oakenshield the Wise (Criminal - Fence)|Zephyr Oakenshield the Wise (Criminal - Fence)]]
+- [[#Nerys Ironwood the Strong (Political - Spy)|Nerys Ironwood the Strong (Political - Spy)]]
+- [[#Rhiannon Winterborn (Family - Child)|Rhiannon Winterborn (Family - Child)]]
+
+
+---
 aliases: ["Baelor Ashford the Fallen", "baelor ashford the fallen", "Baelor Ashford Fallen", "Fallen the Ashford Baelor"]
 tags: [npc, character]
 type: npc
@@ -250,3 +275,8 @@ Discovered something valuable
 - Leads to [[NPC01938_Caelum_Underhill_the_Lost]]
 - See also: [[step_065]]
 - Compare with [[Location City Theological Warfare Theological Warfare.svg]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -260,3 +260,11 @@ Ongoing situations affecting The Deepmost Current:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01286_Xander_Proudmore_the_Bold]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00763_Urien_Brightblade_the_Broken]]

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.923646
+modified: 2025-08-15T16:41:46.923653
+aliases: [NPC00992 Branwen Ashford the Cunning]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Fiora Moonshadow the Risen (Criminal - Informant)|Fiora Moonshadow the Risen (Criminal - Informant)]]
+- [[#Delara Stormwind the Risen (Family - Sibling)|Delara Stormwind the Risen (Family - Sibling)]]
+- [[#Felicia Nightfall the Cunning (Criminal - Fence)|Felicia Nightfall the Cunning (Criminal - Fence)]]
+
+
+---
 aliases: ["Branwen Ashford the Cunning", "branwen ashford the cunning", "Branwen Ashford Cunning", "Cunning the Ashford Branwen"]
 tags: [npc, character]
 type: npc
@@ -248,3 +273,8 @@ Caravan needs guards
 - Affected by [[Location City Archaeological Discoveries Archaeological Discoveries.svg]]
 - Originates from [[QUEST00171_Side_Quest_172]]
 - Related: [[Assets Locations Location City Sea Sprite Sea Sprite.svg]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ysara Goldleaf the Seeker
 
 *Dragonborn Farmer (Commoners), Age 22, Female*

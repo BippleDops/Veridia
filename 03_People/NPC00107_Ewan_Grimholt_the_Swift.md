@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.014552
+modified: 2025-08-15T16:41:43.014556
+aliases: [NPC00107 Ewan Grimholt the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Elric Crystalbrook the Fallen (Criminal - Target)|Elric Crystalbrook the Fallen (Criminal - Target)]]
+- [[#Erasmus Ashford (Family - Child)|Erasmus Ashford (Family - Child)]]
+- [[#Aeliana Moonshadow the Wise (Personal - Nemesis)|Aeliana Moonshadow the Wise (Personal - Nemesis)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Ewan Grimholt the Swift", "ewan grimholt the swift", "Ewan Grimholt Swift", "Swift the Grimholt Ewan"]
 tags: [npc, character]
@@ -157,9 +178,9 @@ Wants rivals investigated
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -269,3 +290,14 @@ Wants rivals investigated
 - Affected by [[Assets Locations Location City Family Portrait Family Portrait.svg]]
 - Leads to [[Myconid Spore Servant Xmm]]
 - Affected by [[Planning Director Victor Visionkeeper]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

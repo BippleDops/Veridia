@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_young_brass_dragon_xmm_friendly.png]]
+
+
 # young-brass-dragon-xmm
 
 ## Basic Information

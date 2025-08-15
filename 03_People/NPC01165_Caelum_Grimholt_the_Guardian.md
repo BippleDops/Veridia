@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Caelum Grimholt the Guardian
 
 *Halfling Caravan Master (Merchants), Age 22, Male*

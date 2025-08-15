@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, _indexes]
+created: 2025-08-15T16:41:29.316644
+modified: 2025-08-15T16:41:29.316649
+aliases: [MOC NPCs]
+---
+
+## Table of Contents
+- [[#Quick Links|Quick Links]]
+- [[#Content|Content]]
+- [[#Recent NPCs|Recent NPCs]]
+- [[#Active Quests|Active Quests]]
+- [[#Session Log|Session Log]]
+- [[#Location Network|Location Network]]
+- [[#See Also|See Also]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#Thematic Connections|Thematic Connections]]
+- [[#D&D 5e References|D&D 5e References]]
+
+
 -tags: [moc, index, combat]ex]
 created: 2025-08-15
 ---
@@ -47,11 +68,44 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 > Additional context or lore
 
 ## See Also
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[World_Primer.md]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[Sanity_Quick_Reference.md]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[Faction_Guide.md]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
+- [[Combat_Encounter_Analysis]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00080_Branwen_Proudmore]]
+- [[Ship_Schematic_The_Seahawk.md]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[08 Using Ability Scores]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[Archdruid Thornweaver]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[MOC_Quests]]
+- [[README]]
 - [[Related_Content]]
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## Thematic Connections
@@ -61,12 +115,12 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
 
 ## Connections
 
@@ -170,3 +224,14 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Related: [[step_033 (phase_064)]]
 - Parallels [[Location City Lady Vivienne the Unfrozen Lady Vivienne the Unfrozen.svg]]
 - Influences [[Dwarven Valkauna Mtf]]
+
+## Visual References
+![[03_People/portrait_important_npcs_standard.png]]
+![[03_People/portrait_character_relationship_web_core_npcs.png]]
+![[03_People/portrait_important_npcs_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -26,6 +26,10 @@ wealth: Controls 60% of crystal trade
 world: Aethermoor
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 
 
 

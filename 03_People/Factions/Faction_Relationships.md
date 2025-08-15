@@ -3,6 +3,10 @@ tags: [note]
 type: note
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Faction Relationships Matrix
 
 ## Overview

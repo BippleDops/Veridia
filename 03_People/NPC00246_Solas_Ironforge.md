@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.325797
+modified: 2025-08-15T16:41:48.325799
+aliases: [NPC00246 Solas Ironforge]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hilda Emberfall (Criminal - Fence)|Hilda Emberfall (Criminal - Fence)]]
+- [[#Fiora Oakenshield the Wanderer (Professional - Employer)|Fiora Oakenshield the Wanderer (Professional - Employer)]]
+- [[#Ewan Frostwhisper the Broken (Political - Puppet)|Ewan Frostwhisper the Broken (Political - Puppet)]]
+
+
+---
 aliases: ["Solas Ironforge", "solas ironforge", "Ironforge Solas"]
 tags: [npc, character]
 type: npc
@@ -149,3 +170,15 @@ Seeks bodyguards for dangerous journey
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

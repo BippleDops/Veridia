@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.530555
+modified: 2025-08-15T16:41:45.530559
+aliases: [NPC00234 Solas Blackstone]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Xander Blackstone (Political - Opposition)|Xander Blackstone (Political - Opposition)]]
+- [[#Brenna Ironwood (Personal - Childhood friend)|Brenna Ironwood (Personal - Childhood friend)]]
+- [[#Vesper Jadeclaw the Strong (Personal - Ex-lover)|Vesper Jadeclaw the Strong (Personal - Ex-lover)]]
+
+
+---
 aliases: ["Solas Blackstone", "solas blackstone", "Blackstone Solas"]
 tags: [npc, character]
 type: npc
@@ -244,3 +269,8 @@ Seeks bodyguards for dangerous journey
 - Leads to [[step_096 (phase_038)]]
 - Requires [[step_048 (phase_097)]]
 - Parallels [[Location City Current Bridgewater V1 Current Bridgewater.svg]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

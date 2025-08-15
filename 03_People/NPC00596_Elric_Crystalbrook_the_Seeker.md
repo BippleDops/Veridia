@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Elric Crystalbrook the Seeker
 
 *Elf Baker (Commoners), Age 32, Non-binary*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Urien Winterborn the Strong
 
 *Half-Orc Crime Boss (Villains), Age 41, Non-binary*

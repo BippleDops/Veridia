@@ -24,6 +24,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait-npc-house-of-lords-secret-chamber-house-of-lords-secret-chamber.svg]]
+
+
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)

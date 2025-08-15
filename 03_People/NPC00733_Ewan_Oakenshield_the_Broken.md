@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ewan Oakenshield the Broken
 
 *Aasimar Carpenter (Commoners), Age 25, Non-binary*

@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Stillwater M
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00453_Idris_Grimholt]]

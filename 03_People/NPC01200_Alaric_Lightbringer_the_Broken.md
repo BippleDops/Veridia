@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Alaric Lightbringer the Broken
 
 *Tiefling Ranger (Adventurers), Age 50, Female*

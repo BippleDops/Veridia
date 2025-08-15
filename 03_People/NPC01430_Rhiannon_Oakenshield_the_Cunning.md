@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Rhiannon Oakenshield the Cunning
 
 *Elf Wizard (Adventurers), Age 60, Non-binary*

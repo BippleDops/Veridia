@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.020394
+modified: 2025-08-15T16:41:43.020397
+aliases: [NPC00222 Hestara Thornweave]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Zephyrblade the Wise (Personal - Nemesis)|Corvus Zephyrblade the Wise (Personal - Nemesis)]]
+- [[#Delara Quicksilver (Personal - Ex-lover)|Delara Quicksilver (Personal - Ex-lover)]]
+- [[#Aeliana Underhill (Family - Spouse)|Aeliana Underhill (Family - Spouse)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Hestara Thornweave", "hestara thornweave", "Thornweave Hestara"]
 tags: [npc, character]
@@ -157,10 +178,10 @@ Seeks bodyguards for dangerous journey
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -270,3 +291,14 @@ Seeks bodyguards for dangerous journey
 - See also: [[step_006 (phase_030)]]
 - Related: [[Crystal Architecture Philosophy (Lore)]]
 - Related: [[barbarian-xphb-path-of-the-ancestral-guardian-xge]]
+
+## Visual References
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

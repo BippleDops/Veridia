@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.894734
+modified: 2025-08-15T16:41:42.894736
+aliases: [NPC01237 Dara Winterborn the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Jorah Dawnstrider the Mystic (Political - Ally)|Jorah Dawnstrider the Mystic (Political - Ally)]]
+- [[#Xander Ashford the Broken (Personal - Nemesis)|Xander Ashford the Broken (Personal - Nemesis)]]
+- [[#Aeliana Frostwhisper the Wise (Political - Ally)|Aeliana Frostwhisper the Wise (Political - Ally)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Dara Winterborn the Mystic", "dara winterborn the mystic", "Dara Winterborn Mystic", "Mystic the Winterborn Dara"]
 tags: [npc, character]
@@ -152,21 +173,21 @@ Has information about legendary item
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Player's Handbook (PHB) p.101
-- Monster Manual (MM) p.10
-- Tasha's Cauldron of Everything (TCE) p.46
+- Adventurer's Codex (ACX) p.101
+- Bestiary Compendium (BC) p.10
+- Tasha's Mystical Formulae of Everything (TMF) p.46
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -174,8 +195,8 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -285,3 +306,14 @@ Following magic item guidelines (DMG p.135-136):
 - Leads to [[young-brass-dragon-xmm (dragon)]]
 - See also: [[step_040 (phase_023)]]
 - Originates from [[04_Resources_Assets_Symbols_symbol-heraldry-elara-crystalline-elara-crystalline.svg]]
+
+## Visual References
+![[03_People/portrait_captain_dara_ironwill_friendly.png]]
+![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
+![[03_People/portrait_captain_dara_ironwill_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

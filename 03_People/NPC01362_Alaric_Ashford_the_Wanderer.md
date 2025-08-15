@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Alaric Ashford the Wanderer
 
 *Tiefling Wizard (Adventurers), Age 70, Female*

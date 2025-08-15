@@ -167,3 +167,8 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[The Silent Watcher 2]]

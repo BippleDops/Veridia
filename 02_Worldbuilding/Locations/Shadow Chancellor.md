@@ -243,3 +243,7 @@ Mentioned in The Hidden Prophecy of Winds
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]

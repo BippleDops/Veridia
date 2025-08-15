@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Malakai Goldleaf the Guardian
 
 *Human Cleric (Adventurers), Age 61, Female*

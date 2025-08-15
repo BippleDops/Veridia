@@ -215,3 +215,11 @@ Ongoing situations affecting Victoria Harbormane:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00378_Malakai_Moonshadow_the_Broken]]
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]

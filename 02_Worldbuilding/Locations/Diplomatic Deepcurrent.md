@@ -243,3 +243,8 @@ Ongoing situations affecting Diplomatic Deepcurrent:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]

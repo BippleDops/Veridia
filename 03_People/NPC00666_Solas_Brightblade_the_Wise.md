@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Brightblade the Wise
 
 *Dragonborn Fisher (Commoners), Age 39, Female*

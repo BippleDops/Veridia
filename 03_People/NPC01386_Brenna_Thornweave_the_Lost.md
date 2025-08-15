@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Brenna Thornweave the Lost
 
 *Half-Elf Bard (Adventurers), Age 54, Male*

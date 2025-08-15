@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_ancient_white_dragon_xmm.png]]
+
+
 # ancient-white-dragon-xmm
 
 ## Basic Information

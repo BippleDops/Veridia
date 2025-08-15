@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.858002
+modified: 2025-08-15T16:41:41.858006
+aliases: [NPC00655 Jorah Darkwater the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hestara Underhill the Redeemed (Political - Patron)|Hestara Underhill the Redeemed (Political - Patron)]]
+- [[#Felicia Silverleaf the Seeker (Personal - Ex-lover)|Felicia Silverleaf the Seeker (Personal - Ex-lover)]]
+- [[#Rhiannon Ravenheart the Risen (Personal - Ex-lover)|Rhiannon Ravenheart the Risen (Personal - Ex-lover)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Jorah Darkwater the Seeker", "jorah darkwater the seeker", "Jorah Darkwater Seeker", "Seeker the Darkwater Jorah"]
 tags: [npc, character]
@@ -138,6 +159,47 @@ Witnessed a crime
 - Special moves
 
 ## See Also
+- [[NPC00649_Corvus_Zephyrblade_the_Broken]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC00820_Thalia_Nightfall_the_Risen]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[Marcus Shardbreaker Grimm_1]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[Pip Goldleaf]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01831_Alaric_Frostwhisper_the_Scholar]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[Parliamentary_Voting_Guide]]
+- [[Basic_Rules]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[Session_Recaps]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[05 Personality and Background]]
+- [[11 Rules Glossary]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]
+- [[MASTER_MOC]]
 - [[Related_Content]]
 
 
@@ -147,10 +209,10 @@ Witnessed a crime
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -260,3 +322,14 @@ Witnessed a crime
 - Affected by [[step_037 (phase_082)]]
 - Influences [[Ammunition 2 Xdmg]]
 - Related: [[REORGANIZATION_COMPLETE]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

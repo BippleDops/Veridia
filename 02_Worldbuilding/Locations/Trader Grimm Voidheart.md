@@ -293,3 +293,7 @@ Mentioned in The Hidden Prophecy of Depths
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01082_Fiora_Ashford_the_Fallen]]

@@ -262,3 +262,9 @@ Ongoing situations affecting Harbor Facilities:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.675421
+modified: 2025-08-15T16:41:45.675426
+aliases: [NPC00562 Branwen Voidwalker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Dara Nightfall the Wanderer (Political - Ally)|Dara Nightfall the Wanderer (Political - Ally)]]
+- [[#Drusilla Silverleaf the Bold (Professional - Employer)|Drusilla Silverleaf the Bold (Professional - Employer)]]
+- [[#Thalia Youngblood the Fallen (Criminal - Handler)|Thalia Youngblood the Fallen (Criminal - Handler)]]
+
+
+---
 aliases: ["Branwen Voidwalker", "branwen voidwalker", "Voidwalker Branwen"]
 tags: [npc, character]
 type: npc
@@ -244,3 +265,14 @@ Family member has gone missing
 - Originates from [[Keeper of the Shattered Crown, Marcus Crystalvein]]
 - Affected by [[step_004 (phase_052)]]
 - Originates from [[giant-spider-xmm]]
+
+## Visual References
+![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
+![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
+![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

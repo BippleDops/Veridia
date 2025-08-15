@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Elric Thornweave the Lost
 
 *Dwarf Crime Boss (Villains), Age 36, Male*

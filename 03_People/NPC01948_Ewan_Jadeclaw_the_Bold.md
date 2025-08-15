@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.723745
+modified: 2025-08-15T16:41:45.723748
+aliases: [NPC01948 Ewan Jadeclaw the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Orion Brightblade the Wanderer (Professional - Employer)|Orion Brightblade the Wanderer (Professional - Employer)]]
+- [[#Erasmus Nightfall the Redeemed (Family - Spouse)|Erasmus Nightfall the Redeemed (Family - Spouse)]]
+- [[#Aldric Goldleaf the Wise (Family - Parent)|Aldric Goldleaf the Wise (Family - Parent)]]
+
+
+---
 aliases: ["Ewan Jadeclaw the Bold", "ewan jadeclaw the bold", "Ewan Jadeclaw Bold", "Bold the Jadeclaw Ewan"]
 tags: [npc, character]
 type: npc
@@ -242,3 +263,14 @@ Is secretly testing the party
 - Connects to [[step_009]]
 - Influences [[Crystal Spires]]
 - Related: [[shield-of-the-silver-dragon-cos (items)]]
+
+## Visual References
+![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

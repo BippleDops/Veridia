@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.662045
+modified: 2025-08-15T16:41:40.662051
+aliases: [NPC00552 Malakai Stormwind the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Faelyn Frostwhisper the Redeemed (Political - Opposition)|Faelyn Frostwhisper the Redeemed (Political - Opposition)]]
+- [[#Orion Zephyrblade the Seeker (Political - Patron)|Orion Zephyrblade the Seeker (Political - Patron)]]
+- [[#Fiora Silverleaf the Guardian (Criminal - Accomplice)|Fiora Silverleaf the Guardian (Criminal - Accomplice)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Malakai Stormwind the Seeker", "malakai stormwind the seeker", "Malakai Stormwind Seeker", "Seeker the Stormwind Malakaitags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
@@ -18,7 +39,7 @@ type: npc
 ## Appearance
 Tall and lanky, with Dreadlocks white hair and Blue eyes. Scarred skin. Intricate tattoos covering arms.
 
-**Clothing**: Merchant's outfit with many hidden pockets
+**Clothing**: [[Merchant]]'s outfit with many hidden pockets
 **Accessories**: Leather pouch always at hip, Lucky rabbit's foot
 
 ## Personality
@@ -31,7 +52,7 @@ Tall and lanky, with Dreadlocks white hair and Blue eyes. Scarred skin. Intricat
 - **Dream**: Discovering ancient treasure
 
 ## Background
-Family has worked the same trade for generations, but times are changing A chance encounter last winter changed their perspective on everything.
+Family has worked the same trade for generations, but [[Time]]s are changing A chance encounter last winter changed their perspective on everything.
 
 ## Current Situation
 - **Occupation**: Miller
@@ -141,7 +162,7 @@ Being extorted by criminals
 - Special moves
 
 ## Combat Stats
-Base: **Mage** (MM p.347)
+Base: **Mage** (BC p.347)
 Modifications:
 - HP: 13
 - AC: 11
@@ -152,6 +173,40 @@ Modifications:
 > Important safety or rule information
 
 ## See Also
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00237_Vesper_Ashford_the_Bold]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[Depth_Adapted_Background]]
+- [[Faction_Relationship_Web]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[Party_Quests]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[Reference.md]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[Complete_NPC_Matrix.md]]
 - [[Related_Content]]
 
 
@@ -161,10 +216,10 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -174,29 +229,29 @@ Modifications:
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
-- Leads to [[Location City the First Truth V1 the First Truth.svg]]
+- Leads to [[Location City [[The First Truth]] V1 the First Truth.svg]]
 - Requires [[Monster Lore Vgm]]
 - Influences [[Matre D' Pelagia Smoothcurrent]]
 - See also: [[gaming-set-xphb (items)]]
-- Parallels [[Reef Shark (D&D_References)]]
+- Parallels [[[[Reef Shark]] (D&D_References)]]
 - Originates from [[Crystal-Enhanced Democracy]]
 - Compare with [[ITEM01104_Lesser_Potion_of_Swiftness]]
 - Connects to [[Rural Resistance]]
@@ -213,8 +268,8 @@ Modifications:
 - Leads to [[Portrait NPC Lord Aldric Highwind Lord Aldric Highwind.svg]]
 - Influences [[Community Mediator Balance Wright]]
 - Requires [[step_046]]
-- Originates from [[Steel Depthguard (D&D_References)]]
-- Connects to [[Nautilus Threadmender (D&D_References)]]
+- Originates from [[[[Steel Depthguard]] (D&D_References)]]
+- Connects to [[[[Nautilus Threadmender]] (D&D_References)]]
 - Influences [[The Cold Houses 2]]
 - Originates from [[ITEM00035_Radiant_Hammer_of_Slaying]]
 - Affected by [[step_003 (phase_092)]]
@@ -226,19 +281,19 @@ Modifications:
 - Affected by [[Dr Elena Mirthorn]]
 - Connects to [[NPC01577_Orion_Moonshadow_the_Seeker]]
 - Influences [[Magic_Items (03_Mechanics)_1]]
-- Compare with [[Location City Port Meridian Harbor District V1 Port Meridian Harbor District.svg]]
+- Compare with [[Location City [[Port Meridian]] [[Harbor District]] V1 [[Port Meridian Harbor]] District.svg]]
 - Connects to [[Symbols - Faction_Heraldry (D&D_References)]]
 - Related: [[LORE0055_History_of_the_Ancient_Pact]]
 - Affected by [[Indefinite Madness]]
-- Requires [[Location City Marina Clearwater Marina Clearwater.svg]]
+- Requires [[Location City [[Marina Clearwater]] Marina Clearwater.svg]]
 - Leads to [[step_074 (phase_091)]]
 - Parallels [[NPC01458_Aldric_Silverleaf_the_Scholar]]
 - Leads to [[LOC00210_Dungeons_Location_211]]
 - Parallels [[step_036 (phase_048)]]
 - Influences [[step_033]]
 - See also: [[Mind Spike Xphb]]
-- Affected by [[World Map (D&D_References)]]
-- Connects to [[Assets Locations Location City Liminal Constantinople V1 Liminal Constantinople.svg]]
+- Affected by [[[[World Map]] (D&D_References)]]
+- Connects to [[Assets Locations [[Location City [[Liminal Constantinople]] V1 Liminal Constantinople.svg]]]]
 - Affected by [[Scene Scene Drowned Cathedral Vigil V1 Drowned Cathedral Vigil.png]]
 - Related: [[step_007 (phase_004)]]
 - Related: [[ENC00111_Combat_Encounter_112]]
@@ -253,7 +308,7 @@ Modifications:
 - See also: [[step_029 (phase_069)]]
 - Requires [[Intervention Windows]]
 - Requires [[Underground Railroad Leader]]
-- Related: [[Assets Locations Location City Market Mystery V1 Market Mystery.svg]]
+- Related: [[Assets Locations Location City [[Market Mystery]] V1 Market Mystery.svg]]
 - Connects to [[step_044]]
 - Requires [[step_011 (phase_080)]]
 - Affected by [[Cloud of Daggers Xphb]]
@@ -261,7 +316,7 @@ Modifications:
 - Leads to [[step_016 (phase_047)]]
 - Compare with [[step_037 (phase_018)]]
 - Related: [[trident-xphb (items)]]
-- Connects to [[Assets Locations Location City Seeds of the Past Seeds of the Past.svg]]
+- Connects to [[Assets Locations [[Location City [[Seeds of the Past]] Seeds of the Past.svg]]]]
 - See also: [[High Administrator Cornelius Protocols (D&D_References)]]
 - Compare with [[location-city-sister-morwyn-sister-morwyn.svg]]
 - See also: [[INV 006]]
@@ -291,4 +346,30 @@ Modifications:
 - Requires [[Mechanics Custom Classes]]
 - Affected by [[Symbol Heraldry Dep... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Influences [[step_061 (phase_050)]]
-- Connects to [[Assets Locations Location City Beast Master Krell Chainbreaker Beast Master Krell Chainbreaker.svg]]
+- Connects to [[Assets Locations [[Location City [[Beast Master Krell Chainbreaker]] Beast Master Krell Chainbreaker.svg]]]]
+
+## Visual References
+![[03_People/portrait_merchant_captain_tobias_stormwind_dramatic.png]]
+![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
+
+
+## Realm Connections
+
+### Connection to [[Aethermoor]]
+This connects to the sky realm of Sky realm of eternal winds and floating islands.
+
+- **Ruling Power**: The Windlord Council
+- **Capital**: [[Skylance Citadel]]
+- **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
+- **Current Conflict**: The Void Incursion, Elemental Convergence
+- **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
+
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+navigate floating islands connected by bridges of solidified cloud.
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

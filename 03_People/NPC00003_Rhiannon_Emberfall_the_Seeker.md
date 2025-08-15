@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Rhiannon Emberfall the Seeker
 
 *Dragonborn Heir (Nobles), Age 57, Non-binary*

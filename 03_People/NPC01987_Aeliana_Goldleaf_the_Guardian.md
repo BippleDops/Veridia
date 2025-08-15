@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.241746
+modified: 2025-08-15T16:41:48.241748
+aliases: [NPC01987 Aeliana Goldleaf the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Erasmus Blackstone the Seeker (Political - Patron)|Erasmus Blackstone the Seeker (Political - Patron)]]
+- [[#Erasmus Proudmore the Strong (Political - Ally)|Erasmus Proudmore the Strong (Political - Ally)]]
+- [[#Qadim Ironwood the Lost (Personal - Best friend)|Qadim Ironwood the Lost (Personal - Best friend)]]
+
+
+---
 aliases: ["Aeliana Goldleaf the Guardian", "aeliana goldleaf the guardian", "Aeliana Goldleaf Guardian", "Guardian the Goldleaf Aeliana"]
 tags: [npc, character]
 type: npc
@@ -147,3 +168,15 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_dramatic.png]]
+![[03_People/portrait_lady_seraphina_goldleaf_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

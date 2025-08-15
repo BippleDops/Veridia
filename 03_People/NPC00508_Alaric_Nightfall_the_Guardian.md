@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Alaric Nightfall the Guardian
 
 *Dragonborn Farmer (Commoners), Age 21, Female*

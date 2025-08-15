@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gavril Goldleaf the Risen
 
 *Dwarf Shopkeeper (Merchants), Age 56, Female*

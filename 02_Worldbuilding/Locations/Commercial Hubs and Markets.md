@@ -732,3 +732,9 @@ Mentioned in The Second Prophecy of Depths
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[Archdruid Thornweaver]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]

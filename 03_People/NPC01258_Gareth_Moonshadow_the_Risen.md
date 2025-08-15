@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gareth Moonshadow the Risen
 
 *Goliath Ranger (Adventurers), Age 32, Female*

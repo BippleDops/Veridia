@@ -215,3 +215,8 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00945_Wynne_Voidwalker_the_Seeker]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]

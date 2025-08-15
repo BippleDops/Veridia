@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.828809
+modified: 2025-08-15T16:41:42.828812
+aliases: [NPC00404 Rhiannon Proudmore the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gavril Grimholt the Risen (Personal - Nemesis)|Gavril Grimholt the Risen (Personal - Nemesis)]]
+- [[#Urien Ashford the Swift (Political - Patron)|Urien Ashford the Swift (Political - Patron)]]
+- [[#Solas Voidwalker the Mystic (Political - Ally)|Solas Voidwalker the Mystic (Political - Ally)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Rhiannon Proudmore the Lost", "rhiannon proudmore the lost", "Rhiannon Proudmore Lost", "Lost the Proudmore Rhiannon"]
 tags: [npc, character]
@@ -158,8 +179,8 @@ Witnessed a crime
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -269,3 +290,14 @@ Witnessed a crime
 - Parallels [[Implements Legendary Xdmg]]
 - Affected by [[The Healing of Mermaid's Rest]]
 - Requires [[The Parliament of Shadows Campaign]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

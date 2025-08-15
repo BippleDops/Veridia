@@ -241,3 +241,7 @@ Ongoing situations affecting Kelp-Silk:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]

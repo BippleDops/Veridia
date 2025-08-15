@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.795645
+modified: 2025-08-15T16:41:42.795648
+aliases: [NPC01980 Zephyr Darkwater the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Nerys Darkwater the Swift (Personal - Nemesis)|Nerys Darkwater the Swift (Personal - Nemesis)]]
+- [[#Branwen Jadeclaw the Swift (Personal - Childhood friend)|Branwen Jadeclaw the Swift (Personal - Childhood friend)]]
+- [[#Caelum Oakenshield the Mystic (Personal - Ex-lover)|Caelum Oakenshield the Mystic (Personal - Ex-lover)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Zephyr Darkwater the Scholar", "zephyr darkwater the scholar", "Zephyr Darkwater Scholar", "Scholar the Darkwater Zephyr"]
 tags: [npc, character]
@@ -144,20 +165,20 @@ Provides information for a price
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Player's Handbook (PHB) p.134
-- Mordenkainen's Tome of Foes (MTF) p.14
+- Adventurer's Codex (ACX) p.134
+- Mordenkainen's Forbidden Knowledge of Foes (MFK) p.14
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -165,10 +186,10 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -278,3 +299,14 @@ Following magic item guidelines (DMG p.135-136):
 - Affected by [[Deep Chemical Works]]
 - Influences [[Assets Locations Location City Constitutional Monarchy Constitutional Monarchy.svg]]
 - Affected by [[mirror-of-life-trapping-xdmg (items)]]
+
+## Visual References
+![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
+![[03_People/portrait_zephyr_goldwhisper_standard.png]]
+![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

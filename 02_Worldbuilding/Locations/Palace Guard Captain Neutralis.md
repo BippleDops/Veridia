@@ -251,3 +251,7 @@ Ongoing situations affecting Palace Guard Captain Neutralis:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]

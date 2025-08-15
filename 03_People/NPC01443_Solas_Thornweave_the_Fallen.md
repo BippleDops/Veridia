@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Thornweave the Fallen
 
 *Elf Fighter (Adventurers), Age 72, Male*

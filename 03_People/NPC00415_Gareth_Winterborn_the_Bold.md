@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.533711
+modified: 2025-08-15T16:41:40.533716
+aliases: [NPC00415 Gareth Winterborn the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Lyanna Lightbringer the Swift (Professional - Mentor)|Lyanna Lightbringer the Swift (Professional - Mentor)]]
+- [[#Aeliana Underhill the Lost (Criminal - Target)|Aeliana Underhill the Lost (Criminal - Target)]]
+- [[#Nerys Ravenheart the Wanderer (Political - Spy)|Nerys Ravenheart the Wanderer (Political - Spy)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Gareth Winterborn the Bold", "gareth winterborn the bold", "Gareth Winterborn Bold", "Bold the Winterborn Garethtags: [npc, character, combat, magic, social, lore]er]
 type: npc
@@ -140,7 +161,7 @@ Family member has gone missing
 - Special moves
 
 ## Combat Stats
-Base: **Noble** (MM p.348)
+Base: **Noble** (BC p.348)
 Modifications:
 - HP: 23
 - AC: 16
@@ -151,6 +172,37 @@ Modifications:
 > Useful information for players
 
 ## See Also
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC00129_Gareth_Jadeclaw]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC01276_Erasmus_Keenblade_the_Wanderer]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00407_Hestara_Dawnstrider]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[Madame Rosalind Goldleaf]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[Combat_Encounter_Analysis]]
+- [[Downtime_Activities]]
+- [[Reference.md]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[09 Adventuring]]
+- [[05 Personality and Background]]
+- [[11 Rules Glossary]]
+- [[NPC01594_Fiora_Proudmore_the_Seeker]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[Complete_NPC_Matrix.md]]
 - [[Related_Content]]
 
 
@@ -160,9 +212,9 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -172,24 +224,24 @@ Modifications:
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
 
 ## Connections
 
 - Connects to [[QUEST00098_Side_Quest_99]]
 - Influences [[dwarven-thrower-xdmg (items)]]
-- See also: [[Assets Locations Location City High Chancellor Nerissa Deepcurrent V1 High Chancellor Nerissa Deepcurrent.svg]]
+- See also: [[Assets Locations Location City [[High Chancellor Nerissa Deepcurrent]] V1 High Chancellor Nerissa Deepcurrent.svg]]
 - See also: [[step_039 (phase_055)]]
 - Leads to [[LORE00130_Legends_Entry_131]]
 - See also: [[step_060]]
@@ -205,22 +257,22 @@ Modifications:
 - Leads to [[chitine-mpmm (monstrosity)]]
 - Parallels [[ITEM01204_Lesser_Oil_of_Swiftness]]
 - Related: [[balloon-pack-pota (items)]]
-- Affected by [[Location City Apprentice Bubbles Apprentice Bubbles.svg]]
+- Affected by [[Location City [[Apprentice Bubbles]] Apprentice Bubbles.svg]]
 - Affected by [[Emergency Technology Development Foundation]]
 - See also: [[step_038 (phase_038)]]
 - Connects to [[LOC00185_Planes_Location_186]]
 - Affected by [[Compulsion Xphb]]
-- Leads to [[Assets Locations Location City Deep Studycurrent Deep Studycurrent.svg]]
+- Leads to [[Assets Locations [[Location City [[Deep Studycurrent]] Deep Studycurrent.svg]]]]
 - Originates from [[dungeoneers-pack-xphb]]
 - Leads to [[step_003]]
 - Leads to [[QUEST00120_Main_Quest_121]]
-- Leads to [[Aquabyssos-Aethermoor Treaties (D&D_References)]]
+- Leads to [[[[Aquabyssos]]-[[Aethermoor]] Treaties (D&D_References)]]
 - Related: [[Lord Vexton Shadowmere]]
 - Leads to [[step_004 (phase_092)]]
-- Requires [[Assets Locations Location City the Whispering Peaks the Whispering Peaks.svg]]
+- Requires [[Assets Locations [[Location City [[The Whispering Peaks]] the Whispering Peaks.svg]]]]
 - See also: [[Manifestation Chambers 2]]
 - Originates from [[vampire]]
-- Requires [[Location City the Seven Shards Mystery V1 the Seven Shards Mystery.svg]]
+- Requires [[Location City [[The Seven Shards Mystery]] V1 the Seven Shards Mystery.svg]]
 - Originates from [[Sergeant Crystal-Heart Elena]]
 - Compare with [[Dockworkers Union]]
 - Influences [[Portrait NPC the Crimson Pearl the Crimson Pearl.svg_1 (Portraits)]]
@@ -248,19 +300,19 @@ Modifications:
 - Connects to [[step_100 (phase_012)]]
 - Related: [[step_092]]
 - Leads to [[Player Notes (02_Worldbuilding)]]
-- Connects to [[Assets Locations Location City the Frozen Throne V1 the Frozen Throne.svg]]
+- Connects to [[Assets Locations Location City [[The Frozen Throne]] V1 the Frozen Throne.svg]]
 - Compare with [[step_056 (phase_060)]]
 - Related: [[QUEST00074_Personal_Quest_75]]
 - Affected by [[step_017 (phase_049)]]
 - Influences [[eberron-aureon (deities)]]
 - Requires [[Princess Celestia 2]]
 - Parallels [[Wizard Xphb School of Transmutation]]
-- Connects to [[Location City the Constellation Mystery V1 the Constellation Mystery.png]]
+- Connects to [[Location City [[The Constellation Mystery]] V1 the Constellation Mystery.png]]
 - See also: [[riding-horse-xphb (items)]]
 - Connects to [[portrait-npc-neutral-zone-neutral-zone.svg_1 (Portraits)]]
 - Influences [[SHOP00012_Magical_Shop_13]]
 - Compare with [[manticore-xmm (monstrosity)]]
-- Parallels [[Assets Locations Location City Maritime Security Chief Reef V1 Maritime Security Chief Reef.svg]]
+- Parallels [[Assets Locations Location City [[Mari[[Time]] Security Chief Reef]] V1 Maritime Security Chief Reef.svg]]
 - Influences [[The Unity Seekers]]
 - Originates from [[LORE00320_Legends_Entry_321]]
 - Parallels [[step_046 (phase_011)]]
@@ -283,7 +335,18 @@ Modifications:
 - See also: [[The Great Forgetting]]
 - Connects to [[step_097]]
 - See also: [[Private Arbitration]]
-- Originates from [[The Archive of Unremembered Things (D&D_References)]]
+- Originates from [[[[The Archive of Unremembered Things]] (D&D_References)]]
 - See also: [[ENC00162_Social_Encounter_163]]
 - Connects to [[Economic Planning]]
-- Connects to [[Assets Locations Location City Reality Anchoring Technology V1 Reality Anchoring Technology.svg]]
+- Connects to [[Assets Locations [[Location City [[Reality Anchoring Technology]] V1 Reality Anchoring Technology.svg]]]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
+![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

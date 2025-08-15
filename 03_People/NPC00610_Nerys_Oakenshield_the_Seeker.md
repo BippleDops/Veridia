@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.997220
+modified: 2025-08-15T16:41:46.997223
+aliases: [NPC00610 Nerys Oakenshield the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Orion Ashford the Guardian (Criminal - Handler)|Orion Ashford the Guardian (Criminal - Handler)]]
+- [[#Elric Underhill the Wise (Family - Child)|Elric Underhill the Wise (Family - Child)]]
+- [[#Pyria Thornweave the Redeemed (Professional - Rival)|Pyria Thornweave the Redeemed (Professional - Rival)]]
+
+
+---
 aliases: ["Nerys Oakenshield the Seeker", "nerys oakenshield the seeker", "Nerys Oakenshield Seeker", "Seeker the Oakenshield Nerys"]
 tags: [npc, character]
 type: npc
@@ -252,3 +273,14 @@ Being extorted by criminals
 - Leads to [[LOC00054_Towns_Location_55]]
 - Originates from [[Armaments Legendary Xdmg]]
 - Parallels [[Animated Object Medium or Smaller Xphb]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

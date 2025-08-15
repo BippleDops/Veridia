@@ -84,3 +84,7 @@ Recent developments have brought new attention to Location City High Vigil Keepe
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01286_Xander_Proudmore_the_Bold]]

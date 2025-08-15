@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Alaric Xendar the Swift
 
 *Tiefling Dark Wizard (Villains), Age 76, Female*

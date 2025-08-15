@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.769465
+modified: 2025-08-15T16:41:41.769471
+aliases: [NPC00058 Elric Nightfall]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gavril Ravenheart the Risen (Professional - Rival)|Gavril Ravenheart the Risen (Professional - Rival)]]
+- [[#Rhiannon Zephyrblade (Political - Puppet)|Rhiannon Zephyrblade (Political - Puppet)]]
+- [[#Aldric Ravenheart (Professional - Rival)|Aldric Ravenheart (Professional - Rival)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Elric Nightfall", "elric nightfall", "Nightfall Elric"]
 tags: [npc, character]
@@ -139,6 +164,22 @@ Needs discrete help with family scandal
 - Special moves
 
 ## See Also
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Combat_Encounter_Analysis]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[Reference.md]]
+- [[11 Spellcasting]]
+- [[11 Rules Glossary]]
+- [[MOC_Items]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
 - [[Related_Content]]
 
 
@@ -148,11 +189,11 @@ Needs discrete help with family scandal
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -262,3 +303,8 @@ Needs discrete help with family scandal
 - Compare with [[Banker Titus Goldcurrent (D&D_References)]]
 - See also: [[QUEST00165_Side_Quest_166]]
 - Affected by [[Implements Uncommon Xdmg]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

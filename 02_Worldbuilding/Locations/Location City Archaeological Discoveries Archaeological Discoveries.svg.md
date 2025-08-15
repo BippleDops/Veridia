@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Archaeological D
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]

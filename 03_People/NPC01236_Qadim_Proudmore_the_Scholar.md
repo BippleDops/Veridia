@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.665368
+modified: 2025-08-15T16:41:42.665374
+aliases: [NPC01236 Qadim Proudmore the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Xander Quicksilver the Lost (Political - Opposition)|Xander Quicksilver the Lost (Political - Opposition)]]
+- [[#Caelum Moonshadow the Mystic (Criminal - Informant)|Caelum Moonshadow the Mystic (Criminal - Informant)]]
+- [[#Hestara Frostwhisper the Cunning (Family - Cousin)|Hestara Frostwhisper the Cunning (Family - Cousin)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Qadim Proudmore the Scholar", "qadim proudmore the scholar", "Qadim Proudmore Scholar", "Scholar the Proudmore Qadim"]
 tags: [npc, character]
@@ -158,19 +179,19 @@ Has information about legendary item
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Xanathar's Guide to Everything (XGE) p.140
+- Xanathar's Secrets Revealed to Everything (XSR) p.140
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -178,9 +199,9 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -290,3 +311,14 @@ Following magic item guidelines (DMG p.135-136):
 - Leads to [[Potion of Frost Giant Strength Xdmg]]
 - Connects to [[step_026]]
 - Affected by [[The Great Unraveling 2]]
+
+## Visual References
+![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

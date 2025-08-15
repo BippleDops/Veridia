@@ -270,3 +270,11 @@ Ongoing situations affecting Coral Lifeshaper:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00378_Malakai_Moonshadow_the_Broken]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC00407_Hestara_Dawnstrider]]

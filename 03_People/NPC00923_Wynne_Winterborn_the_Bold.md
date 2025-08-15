@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.196765
+modified: 2025-08-15T16:41:42.196769
+aliases: [NPC00923 Wynne Winterborn the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Pyria Blackstone the Mystic (Personal - Best friend)|Pyria Blackstone the Mystic (Personal - Best friend)]]
+- [[#Caelum Ironwood the Cunning (Political - Spy)|Caelum Ironwood the Cunning (Political - Spy)]]
+- [[#Corvus Silverleaf the Bold (Criminal - Informant)|Corvus Silverleaf the Bold (Criminal - Informant)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Wynne Winterborn the Bold", "wynne winterborn the bold", "Wynne Winterborn Bold", "Bold the Winterborn Wynne"]
 tags: [npc, character]
@@ -158,9 +179,9 @@ Competitor sabotaging business
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -270,3 +291,14 @@ Competitor sabotaging business
 - Originates from [[Location City Diplomatic Protocol Center V1 Diplomatic Protocol Center.svg]]
 - See also: [[Mira Algaebrew (D&D_References)]]
 - Connects to [[Shotgun Xdmg]]
+
+## Visual References
+![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -28,6 +28,10 @@ wealth: Modest (Donations and training fees)
 world: Aethermoor
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 
 
 > [!figure] Heraldry

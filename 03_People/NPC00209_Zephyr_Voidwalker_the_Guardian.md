@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Zephyr Voidwalker the Guardian
 
 *Genasi Ambassador (Nobles), Age 55, Non-binary*

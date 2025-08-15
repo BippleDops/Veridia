@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.751928
+modified: 2025-08-15T16:41:46.751932
+aliases: [NPC00115 Malakai Ironwood]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Oakenshield (Political - Patron)|Wynne Oakenshield (Political - Patron)]]
+- [[#Qadim Stormwind the Bold (Criminal - Informant)|Qadim Stormwind the Bold (Criminal - Informant)]]
+- [[#Wynne Moonshadow (Criminal - Accomplice)|Wynne Moonshadow (Criminal - Accomplice)]]
+
+
+---
 aliases: ["Malakai Ironwood", "malakai ironwood", "Ironwood Malakai"]
 tags: [npc, character]
 type: npc
@@ -245,3 +266,14 @@ Requires champions for trial by combat
 - Affected by [[Portrait NPC Shadow Broker Mist V1 Shadow Broker Mist.svg_1 (Portraits)]]
 - Requires [[step_058 (phase_059)]]
 - Connects to [[MON00116_Constructs_Creature_117]]
+
+## Visual References
+![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
+![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
+![[03_People/portrait_commander_thrace_ironwood.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

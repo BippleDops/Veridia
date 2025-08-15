@@ -308,3 +308,10 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00453_Idris_Grimholt]]
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]

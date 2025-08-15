@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Nerys Darkwater the Fallen
 
 *Dwarf Noble (Nobles), Age 30, Non-binary*

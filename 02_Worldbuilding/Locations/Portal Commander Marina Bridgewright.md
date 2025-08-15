@@ -248,3 +248,8 @@ Ongoing situations affecting Portal Commander Marina Bridgewright:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]

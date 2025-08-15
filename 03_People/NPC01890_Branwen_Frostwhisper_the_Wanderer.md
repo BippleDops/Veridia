@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Branwen Frostwhisper the Wanderer
 
 *Dragonborn Crime Boss (Villains), Age 69, Female*

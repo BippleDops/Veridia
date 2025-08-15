@@ -23,6 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Royal Academy of Arcane Art](../../../04_Resources/Assets/Misc/royal_academy_of_arcane_art.png)
 
 ## 🔧 Deep Evaluation Improvements

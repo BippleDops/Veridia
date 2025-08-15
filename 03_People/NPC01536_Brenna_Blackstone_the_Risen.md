@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Brenna Blackstone the Risen
 
 *Tabaxi Ranger (Adventurers), Age 37, Female*

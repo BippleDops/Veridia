@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Pilgrimage Coord
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Qadim Ironwood the Wise
 
 *Aasimar Assassin (Villains), Age 60, Non-binary*

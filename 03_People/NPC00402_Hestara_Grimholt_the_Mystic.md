@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.056869
+modified: 2025-08-15T16:41:44.056874
+aliases: [NPC00402 Hestara Grimholt the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Caelum Ashford the Scholar (Personal - Best friend)|Caelum Ashford the Scholar (Personal - Best friend)]]
+- [[#Felicia Goldleaf the Redeemed (Political - Puppet)|Felicia Goldleaf the Redeemed (Political - Puppet)]]
+- [[#Pyria Jadeclaw (Personal - Love interest)|Pyria Jadeclaw (Personal - Love interest)]]
+
+
+---
 aliases: ["Hestara Grimholt the Mystic", "hestara grimholt the mystic", "Hestara Grimholt Mystic", "Mystic the Grimholt Hestara"]
 tags: [npc, character]
 type: npc
@@ -237,3 +258,14 @@ Being extorted by criminals
 - Parallels [[step_031 (phase_056)]]
 - Connects to [[step_022]]
 - Affected by [[Random Settlements Current Calamity]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

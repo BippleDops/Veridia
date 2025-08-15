@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.418262
+modified: 2025-08-15T16:41:44.418266
+aliases: [NPC01449 Drusilla Ashford the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Oakenshield the Cunning (Family - Cousin)|Alaric Oakenshield the Cunning (Family - Cousin)]]
+- [[#Thalia Thornweave the Mystic (Professional - Partner)|Thalia Thornweave the Mystic (Professional - Partner)]]
+- [[#Ysara Jadeclaw the Fallen (Family - Child)|Ysara Jadeclaw the Fallen (Family - Child)]]
+
+
+---
 aliases: ["Drusilla Ashford the Wanderer", "drusilla ashford the wanderer", "Drusilla Ashford Wanderer", "Wanderer the Ashford Drusilla"]
 tags: [npc, character]
 type: npc
@@ -241,3 +262,14 @@ Knows secret about major threat
 - Influences [[LORE00021_Prophecies_Entry_22]]
 - Originates from [[Portrait NPC Bank... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[step_009 (phase_095)]]
+
+## Visual References
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

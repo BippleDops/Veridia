@@ -235,3 +235,8 @@ Ongoing situations affecting The Sundered Vaults:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]

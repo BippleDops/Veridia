@@ -219,3 +219,10 @@ Ongoing situations affecting Temple Coalition:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00378_Malakai_Moonshadow_the_Broken]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]

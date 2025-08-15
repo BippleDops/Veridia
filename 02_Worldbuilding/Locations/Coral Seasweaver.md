@@ -238,3 +238,7 @@ Ongoing situations affecting Coral Seasweaver:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00300_Urien_Zephyrblade]]

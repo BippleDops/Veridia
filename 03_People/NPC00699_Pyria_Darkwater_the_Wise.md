@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.044053
+modified: 2025-08-15T16:41:48.044059
+aliases: [NPC00699 Pyria Darkwater the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Orion Emberfall the Redeemed (Criminal - Fence)|Orion Emberfall the Redeemed (Criminal - Fence)]]
+- [[#Pyria Youngblood the Risen (Family - Sibling)|Pyria Youngblood the Risen (Family - Sibling)]]
+- [[#Malakai Stormwind the Broken (Family - Sibling)|Malakai Stormwind the Broken (Family - Sibling)]]
+
+
+---
 aliases: ["Pyria Darkwater the Wise", "pyria darkwater the wise", "Pyria Darkwater Wise", "Wise the Darkwater Pyria"]
 tags: [npc, character]
 type: npc
@@ -145,3 +166,15 @@ Being extorted by criminals
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

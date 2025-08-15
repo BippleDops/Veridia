@@ -18,6 +18,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/token_assets_portraits_portrait_npc_captain_swift_cloudracer_captain_swift_cloudracer_svg_bloodied.png]]
+
+
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*

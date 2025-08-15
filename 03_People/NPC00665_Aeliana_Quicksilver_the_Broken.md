@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aeliana Quicksilver the Broken
 
 *Halfling Carpenter (Commoners), Age 53, Female*

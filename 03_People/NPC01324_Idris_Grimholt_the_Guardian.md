@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Grimholt the Guardian
 
 *Goliath Bard (Adventurers), Age 53, Male*

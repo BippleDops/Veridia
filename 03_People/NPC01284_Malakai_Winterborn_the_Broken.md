@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Malakai Winterborn the Broken
 
 *Goliath Rogue (Adventurers), Age 34, Male*

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.206910
+modified: 2025-08-15T16:41:46.206913
+aliases: [NPC00465 Idris Blackstone the Redeemed]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Xander Keenblade the Risen (Family - Parent)|Xander Keenblade the Risen (Family - Parent)]]
+- [[#Drusilla Brightblade the Bold (Professional - Employee)|Drusilla Brightblade the Bold (Professional - Employee)]]
+- [[#Alaric Blackstone the Cunning (Criminal - Handler)|Alaric Blackstone the Cunning (Criminal - Handler)]]
+
+
+---
 aliases: ["Idris Blackstone the Redeemed", "idris blackstone the redeemed", "Idris Blackstone Redeemed", "Redeemed the Blackstone Idris"]
 tags: [npc, character]
 type: npc
@@ -241,3 +266,8 @@ Being extorted by criminals
 - Leads to [[step_054 (phase_082)]]
 - Leads to [[Paladin Xphb Oath of Redemption Xge]]
 - Compare with [[QUEST00493_Side_Quest_494]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

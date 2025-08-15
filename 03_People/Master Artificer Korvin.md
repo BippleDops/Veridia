@@ -3,6 +3,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_master_artificer_korvin_gearwright_friendly.png]]
+
+
 # Master Artificer Korvin
 
 ## Quick Reference

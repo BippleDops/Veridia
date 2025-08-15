@@ -273,3 +273,7 @@ Ongoing situations affecting Mad Prophet Silas the Depth-Touched:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01699_Orion_Oakenshield_the_Broken]]

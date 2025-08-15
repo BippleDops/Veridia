@@ -254,3 +254,7 @@ Ongoing situations affecting The Dreamwhisper Inn:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]

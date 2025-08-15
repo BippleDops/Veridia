@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.209836
+modified: 2025-08-15T16:41:46.209837
+aliases: [Captain Lyanna Brightshield]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_captain_lyanna_brightshield_friendly.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Description|Description]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Stats (D&D 5e)|Stats (D&D 5e)]]
+- [[#Abilities|Abilities]]
+- [[#Skills|Skills]]
+- [[#Actions|Actions]]
+- [[#Relationships|Relationships]]
+- [[#Plot Hooks|Plot Hooks]]
+
+
+---
 tags: [npc, character]
 type: npc
 ---
@@ -17,7 +42,8 @@ Captain Lyanna Brightshield is a character encountered in the campaign world.
 - **Race**: Human
 - **Age**: Adult
 - **Build**: Average
-- **Distinguishing Features**: Notable characteristics
+- **Distinguishing Features**: Notable characteris
+*The air carries the scent of [appropriate smell].*tics
 
 ## Personality
 - **Traits**: Defining personality traits

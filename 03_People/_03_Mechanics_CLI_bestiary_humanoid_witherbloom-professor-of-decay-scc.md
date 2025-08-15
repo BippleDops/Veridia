@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_03_mechanics_cli_bestiary_humanoid_witherbloom_professor_of_decay_scc_standard.png]]
+
+
 # /03 Mechanics/CLI/bestiary/humanoid/witherbloom-professor-of-decay-scc
 
 ## Basic Information

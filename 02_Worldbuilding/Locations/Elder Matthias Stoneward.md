@@ -355,3 +355,11 @@ Ongoing situations affecting Elder Matthias Stoneward:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]

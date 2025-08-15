@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.037230
+modified: 2025-08-15T16:41:43.037236
+aliases: [NPC00290 Aldric Underhill the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Drusilla Oakenshield (Criminal - Target)|Drusilla Oakenshield (Criminal - Target)]]
+- [[#Dara Ravenheart (Personal - Love interest)|Dara Ravenheart (Personal - Love interest)]]
+- [[#Aeliana Hawthorne (Professional - Mentor)|Aeliana Hawthorne (Professional - Mentor)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Aldric Underhill the Seeker", "aldric underhill the seeker", "Aldric Underhill Seeker", "Seeker the Underhill Aldric"]
 tags: [npc, character]
@@ -148,10 +169,10 @@ Wants rivals investigated
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -261,3 +282,14 @@ Wants rivals investigated
 - See also: [[Void Touch]]
 - Requires [[Aquabyssos Prime (Places)]]
 - Related: [[Bejeweled Ivory Drinking Horn With Gold]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
+![[03_People/portrait_duke_aldric_blackwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

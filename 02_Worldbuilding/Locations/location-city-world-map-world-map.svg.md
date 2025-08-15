@@ -14,6 +14,10 @@ type: location
 updated: 2025-08-14
 ---
 
+## Map
+![[04_Resources/Assets/Maps/location_world_map_rain.png]]
+
+
 # location-city-world-map-world-map.svg
 
 ## Overview

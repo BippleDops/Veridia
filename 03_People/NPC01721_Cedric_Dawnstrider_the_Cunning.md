@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Cedric Dawnstrider the Cunning
 
 *Goliath Cultist (Villains), Age 46, Female*

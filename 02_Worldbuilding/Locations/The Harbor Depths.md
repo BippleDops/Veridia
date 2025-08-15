@@ -311,3 +311,7 @@ Ongoing situations affecting The Harbor Depths:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01599_Gavril_Keenblade_the_Strong]]

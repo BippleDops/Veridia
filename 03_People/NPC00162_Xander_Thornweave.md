@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.179365
+modified: 2025-08-15T16:41:41.179367
+aliases: [NPC00162 Xander Thornweave]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Cedric Thornweave (Criminal - Informant)|Cedric Thornweave (Criminal - Informant)]]
+- [[#Aeliana Emberfall the Wise (Criminal - Target)|Aeliana Emberfall the Wise (Criminal - Target)]]
+- [[#Ysara Blackstone (Political - Puppet)|Ysara Blackstone (Political - Puppet)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Xander Thornweave", "xander thornweave", "Thornweave Xandertags: [npc, character, combat, magic, social, lore]er]
 type: npc
@@ -110,7 +131,7 @@ Deception, History, Persuasion, Performance
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- Political alliances
+- [[Political Alliances]]
 - Upcoming social events
 
 ## Plot Hook
@@ -141,13 +162,31 @@ Needs discrete help with family scandal
 - Special moves
 
 ## Combat Stats
-Base: **Guard** (MM p.347)
+Base: **Guard** (BC p.347)
 Modifications:
 - HP: 12
 - AC: 11
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[Party_Quests]]
+- [[Combat_Encounter_Analysis]]
+- [[13 Conditions]]
+- [[16 Credits]]
+- [[10 Combat]]
+- [[Master_Narrative_Web.md]]
 - [[Related_Content]]
 
 
@@ -157,9 +196,9 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -173,17 +212,17 @@ Modifications:
 - Requires [[monsters-by-habitat-mountain-monsters-xmm (tables)]]
 - Requires [[NPC01255_Fiora_Jadeclaw_the_Broken]]
 - Requires [[tiefling-fierna-mtf (races)]]
-- Connects to [[Diplomatic Service (D&D_References)]]
+- Connects to [[[[Diplomatic Service]] (D&D_References)]]
 - Originates from [[Campaign_Calendar]]
-- Related: [[Assets Locations Location City Barkeep Mira Algaebrew Barkeep Mira Algaebrew.svg]]
-- Leads to [[Assets Locations Location City the Depth Market the Depth Market.svg]]
-- Requires [[Assets Locations Location City Commander Drake Pressureborn V1 Commander Drake Pressureborn.svg]]
+- Related: [[Assets Locations [[Location City [[Barkeep [[Mira Algaebrew]]]] Barkeep Mira Algaebrew.svg]]]]
+- Leads to [[Assets Locations Location City [[The Depth Market]] the Depth Market.svg]]
+- Requires [[Assets Locations [[Location City [[Commander Drake Pressureborn]] V1 Commander Drake Pressureborn.svg]]]]
 - Originates from [[Assets Portraits Portrait NPC High Priestess Celeste Dawnbringer High Priestess Celeste Dawnbringer.svg]]
-- Parallels [[Assets Locations Location City Divine Magic V1 Divine Magic.svg]]
+- Parallels [[Assets Locations Location City [[Divine Magic]] V1 Divine Magic.svg]]
 - Connects to [[Embassy Conference Chamber]]
 - See also: [[step_004]]
 - Leads to [[entangle-xphb (spells)]]
-- Requires [[Court Herald Titus (D&D_References)]]
+- Requires [[[[Court Herald Titus]] (D&D_References)]]
 - Related: [[QUEST00087_Personal_Quest_88]]
 - Parallels [[Commander Darkwater 2]]
 - Influences [[step_077 (phase_092)]]
@@ -198,16 +237,16 @@ Modifications:
 - Related: [[Assets Symbols Symbol Heraldry Dockworkers Union Dockworkers Union.svg]]
 - Connects to [[The Gilded Anchor 2]]
 - Connects to [[Emergency Response Procedures 2]]
-- Parallels [[Memory Keeper Ancient Nerida (D&D_References)]]
-- Parallels [[Location City Harbor District V1 Harbor District.svg]]
+- Parallels [[[[Memory Keeper Ancient Nerida]] (D&D_References)]]
+- Parallels [[Location City [[Harbor District]] V1 Harbor District.svg]]
 - See also: [[LORE00308_History_Entry_309]]
 - Connects to [[step_043]]
-- Originates from [[Crisis Management Bunker]]
+- Originates from [[[[Crisis Management]] Bunker]]
 - Leads to [[step_061 (phase_083)]]
 - Connects to [[ENC0009_Random_Encounter_10]]
 - Connects to [[Crystal Academy Networks]]
 - See also: [[step_015 (phase_048)]]
-- Compare with [[Location City Representative Coral Youngcurrent Representative Coral Youngcurrent.svg]]
+- Compare with [[Location City [[Representative Coral Youngcurrent]] Representative Coral Youngcurrent.svg]]
 - Compare with [[step_090 (phase_006)]]
 - Related: [[step_052 (phase_044)]]
 - Connects to [[Truth Verification Serum]]
@@ -230,23 +269,23 @@ Modifications:
 - Influences [[step_056 (phase_094)]]
 - Influences [[vampiric-ixitxachitl-cleric-oota (aberration)]]
 - Requires [[falling-net-xdmg (traps-hazards)]]
-- See also: [[Royal Vault 2]]
+- See also: [[[[Royal Vault]] 2]]
 - See also: [[Dark Gift of Tarakamedes the Grave Wyrm Cos]]
 - Originates from [[step_001 (phase_064)]]
 - Influences [[Assets Portraits Portrait NPC Underground Testing Facility Underground Testing Facility.svg]]
-- Affected by [[Assets Locations Location City Veiled Hierophant Veiled Hierophant.svg]]
+- Affected by [[Assets Locations [[Location City [[Veiled Hierophant]] Veiled Hierophant.svg]]]]
 - Influences [[step_069]]
 - Influences [[step_008 (phase_093)]]
-- Leads to [[Interfaith Dialogue (D&D_References)]]
+- Leads to [[[[Interfaith Dialogue]] (D&D_References)]]
 - Connects to [[The Deep Prophets]]
 - Affected by [[ENC00035_Combat_Encounter_36]]
-- Connects to [[Magical Theory (D&D_References)]]
+- Connects to [[[[Magical Theory]] (D&D_References)]]
 - Leads to [[Counter-Mirror Task Force]]
 - Compare with [[Emergency_Navigation_Coordinator_Storm_Guidewright (02_Worldbuilding)]]
-- Related: [[Depth Plague 2]]
+- Related: [[[[Depth Plague]] 2]]
 - Related: [[kuo-toa-monitor-xmm (aberration)]]
 - See also: [[step_036 (phase_062)]]
-- Parallels [[Assets Locations Location City Pressure Guard Steelwall V1 Pressure Guard Steelwall.svg]]
+- Parallels [[Assets Locations Location City [[Pressure Guard Steelwall]] V1 Pressure Guard Steelwall.svg]]
 - Parallels [[step_064 (phase_056)]]
 - Compare with [[step_068]]
 - Compare with [[LORE00285_History_Entry_286]]
@@ -256,9 +295,9 @@ Modifications:
 - See also: [[LORE00114_History_Entry_115]]
 - Leads to [[Quest - The Memory Bridge]]
 - Requires [[project-image-xphb (spells)]]
-- Connects to [[Liberty Coalition 2]]
+- Connects to [[[[Liberty Coalition]] 2]]
 - Leads to [[Reality Bridge Construction]]
-- Affected by [[Clerk Supreme Marcus Filekeeper (D&D_References)]]
+- Affected by [[[[Clerk Supreme Marcus Filekeeper]] (D&D_References)]]
 - See also: [[Portrait NPC Ques... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Parallels [[Mask of the Dragon Queen Rot]]
 - See also: [[LOC00291_Dungeons_Location_292]]
@@ -269,3 +308,14 @@ Modifications:
 - Compare with [[step_038]]
 - Connects to [[MON00074_Aberrations_Creature_75]]
 - Leads to [[step_027 (phase_034)]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

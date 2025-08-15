@@ -243,3 +243,8 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]

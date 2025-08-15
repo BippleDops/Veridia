@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.442575
+modified: 2025-08-15T16:41:46.442578
+aliases: [NPC01753 Gavril Frostwhisper the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Felicia Ironforge the Wise (Family - Child)|Felicia Ironforge the Wise (Family - Child)]]
+- [[#Hestara Lightbringer the Cunning (Criminal - Informant)|Hestara Lightbringer the Cunning (Criminal - Informant)]]
+- [[#Zephyr Ravenheart the Broken (Family - Child)|Zephyr Ravenheart the Broken (Family - Child)]]
+
+
+---
 aliases: ["Gavril Frostwhisper the Mystic", "gavril frostwhisper the mystic", "Gavril Frostwhisper Mystic", "Mystic the Frostwhisper Gavril"]
 tags: [npc, character]
 type: npc
@@ -253,3 +274,14 @@ Provides information for a price
 - Originates from [[Parliamentary Infiltration Methods (D&D_References)]]
 - See also: [[Surgery Master Dr Marcus Deptblade]]
 - Influences [[Wall of Force Xphb]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.566101
+modified: 2025-08-15T16:41:42.566103
+aliases: [NPC01445 Jorah Proudmore the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Frostwhisper the Seeker (Professional - Rival)|Thalia Frostwhisper the Seeker (Professional - Rival)]]
+- [[#Wynne Keenblade the Cunning (Family - Spouse)|Wynne Keenblade the Cunning (Family - Spouse)]]
+- [[#Lyanna Emberfall the Strong (Personal - Best friend)|Lyanna Emberfall the Strong (Personal - Best friend)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Jorah Proudmore the Wanderer", "jorah proudmore the wanderer", "Jorah Proudmore Wanderer", "Wanderer the Proudmore Jorah"]
 tags: [npc, character]
@@ -153,21 +174,21 @@ Has information about legendary item
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Xanathar's Guide to Everything (XGE) p.13
-- Tasha's Cauldron of Everything (TCE) p.231
-- Mordenkainen's Tome of Foes (MTF) p.262
+- Xanathar's Secrets Revealed to Everything (XSR) p.13
+- Tasha's Mystical Formulae of Everything (TMF) p.231
+- Mordenkainen's Forbidden Knowledge of Foes (MFK) p.262
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -175,9 +196,9 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -287,3 +308,14 @@ Following magic item guidelines (DMG p.135-136):
 - Parallels [[step_038]]
 - Connects to [[NPC Reaction Matrix]]
 - Leads to [[Sylvan Talon Xdmg]]
+
+## Visual References
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

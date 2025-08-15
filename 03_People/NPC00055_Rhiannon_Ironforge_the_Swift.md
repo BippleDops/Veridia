@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.516933
+modified: 2025-08-15T16:41:45.516936
+aliases: [NPC00055 Rhiannon Ironforge the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Lyanna Brightblade (Criminal - Target)|Lyanna Brightblade (Criminal - Target)]]
+- [[#Delara Ravenheart the Seeker (Criminal - Informant)|Delara Ravenheart the Seeker (Criminal - Informant)]]
+- [[#Rhiannon Quicksilver (Family - Spouse)|Rhiannon Quicksilver (Family - Spouse)]]
+
+
+---
 aliases: ["Rhiannon Ironforge the Swift", "rhiannon ironforge the swift", "Rhiannon Ironforge Swift", "Swift the Ironforge Rhiannon"]
 tags: [npc, character]
 type: npc
@@ -248,3 +269,14 @@ Wants rivals investigated
 - Related: [[step_093 (phase_058)]]
 - Related: [[Location City the Gloom Gardens V1 the Gloom Gardens.svg]]
 - Connects to [[NPC0018_Soren_Stormwind]]
+
+## Visual References
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

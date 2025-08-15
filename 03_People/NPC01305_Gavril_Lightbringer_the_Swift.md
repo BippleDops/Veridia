@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gavril Lightbringer the Swift
 
 *Dwarf Fighter (Adventurers), Age 27, Non-binary*

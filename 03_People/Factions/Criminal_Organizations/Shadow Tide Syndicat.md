@@ -23,6 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Shadow Tide Syndicat](../../../04_Resources/Assets/Misc/shadow_tide_syndicat.png)
 
 ## 🔧 Deep Evaluation Improvements

@@ -219,3 +219,10 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.065174
+modified: 2025-08-15T16:41:44.065177
+aliases: [NPC00984 Hilda Xendar the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Pyria Emberfall the Scholar (Family - Spouse)|Pyria Emberfall the Scholar (Family - Spouse)]]
+- [[#Aldric Underhill the Risen (Political - Opposition)|Aldric Underhill the Risen (Political - Opposition)]]
+- [[#Alaric Thornweave the Bold (Criminal - Target)|Alaric Thornweave the Bold (Criminal - Target)]]
+
+
+---
 aliases: ["Hilda Xendar the Wise", "hilda xendar the wise", "Hilda Xendar Wise", "Wise the Xendar Hilda"]
 tags: [npc, character]
 type: npc
@@ -239,3 +260,14 @@ Has map to lost treasure
 - Parallels [[Assets Art Inv 002.png]]
 - Compare with [[Scene Scene Deep Mother S Tentacles Rising V1 Deep Mother S Tentacles Rising.png]]
 - Parallels [[LOC00027_Dungeons_Location_28]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

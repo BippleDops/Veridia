@@ -232,3 +232,9 @@ Ongoing situations affecting Martha Hillbrook:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]

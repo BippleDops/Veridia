@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Rhiannon Oakenshield the Wise
 
 *Half-Orc Carpenter (Commoners), Age 52, Non-binary*

@@ -25,6 +25,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_oracle_dramatic.png]]
+
+
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-high-oracle-serenity-deepcall-high-oracle-serenity-deepcall.svg)
 

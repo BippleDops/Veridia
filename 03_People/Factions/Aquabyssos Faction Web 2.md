@@ -13,6 +13,10 @@ updated: '2025-08-13T12:34:17.314040+00:00'
 world: Aquabyssos
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 
 
 > [!figure] Heraldry

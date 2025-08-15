@@ -129,3 +129,7 @@ Recent developments have brought new attention to The Temporal Scars, creating o
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]

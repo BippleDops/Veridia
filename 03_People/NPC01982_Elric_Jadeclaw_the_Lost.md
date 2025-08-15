@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Elric Jadeclaw the Lost
 
 *Elf Crime Boss (Villains), Age 58, Male*

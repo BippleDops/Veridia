@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Felicia Ravenheart the Fallen
 
 *Firbolg Blacksmith (Commoners), Age 21, Male*

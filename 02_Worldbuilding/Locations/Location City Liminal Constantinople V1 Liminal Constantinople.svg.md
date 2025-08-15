@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Liminal Constant
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]

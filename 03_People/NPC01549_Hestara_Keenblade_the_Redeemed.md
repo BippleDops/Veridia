@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.120223
+modified: 2025-08-15T16:41:48.120224
+aliases: [NPC01549 Hestara Keenblade the Redeemed]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Drusilla Blackstone the Redeemed (Family - Child)|Drusilla Blackstone the Redeemed (Family - Child)]]
+- [[#Corvus Nightfall the Scholar (Personal - Childhood friend)|Corvus Nightfall the Scholar (Personal - Childhood friend)]]
+- [[#Dara Ashford the Broken (Personal - Love interest)|Dara Ashford the Broken (Personal - Love interest)]]
+
+
+---
 aliases: ["Hestara Keenblade the Redeemed", "hestara keenblade the redeemed", "Hestara Keenblade Redeemed", "Redeemed the Keenblade Hestara"]
 tags: [npc, character]
 type: npc
@@ -148,3 +173,9 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

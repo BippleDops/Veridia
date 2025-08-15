@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.863857
+modified: 2025-08-15T16:41:41.863860
+aliases: [NPC00207 Ysara Ravenheart]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Nightfall the Redeemed (Political - Patron)|Ysara Nightfall the Redeemed (Political - Patron)]]
+- [[#Zephyr Moonshadow (Political - Patron)|Zephyr Moonshadow (Political - Patron)]]
+- [[#Malakai Goldleaf the Scholar (Criminal - Accomplice)|Malakai Goldleaf the Scholar (Criminal - Accomplice)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Ysara Ravenheart", "ysara ravenheart", "Ravenheart Ysara"]
 tags: [npc, character]
@@ -143,6 +164,42 @@ Requires champions for trial by combat
 - Special moves
 
 ## See Also
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[NPC00844_Cedric_Blackstone_the_Fallen]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
+- [[NPC00494_Lyanna_Hawthorne_the_Guardian]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00287_Ysara_Underhill_the_Wise]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[Pilgrim_Pass_Prayer_Sli]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[World_Primer.md]]
+- [[Sage Elara]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Sanity_Quick_Reference.md]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[Wanted_Poster_Syndicate_Fenc]]
+- [[Downtime_Activities]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[08 Using Ability Scores]]
+- [[Quiet_Chapel_Oath_Scrol]]
+- [[MASTER_NAVIGATION]]
+- [[Complete_NPC_Matrix.md]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
 - [[Related_Content]]
 
 
@@ -152,8 +209,8 @@ Requires champions for trial by combat
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -263,3 +320,14 @@ Requires champions for trial by combat
 - Connects to [[Grand Master Tempest Windvoic]]
 - Requires [[creature-creature-allip-mpmm-v1-allip-mpmm.png]]
 - Compare with [[Assets Locations Location City Theological Seminaries V1 Theological Seminaries.svg]]
+
+## Visual References
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.116369
+modified: 2025-08-15T16:41:44.116372
+aliases: [NPC00993 Faelyn Silverleaf the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Faelyn Oakenshield the Wise (Family - Sibling)|Faelyn Oakenshield the Wise (Family - Sibling)]]
+- [[#Faelyn Ashford the Strong (Personal - Nemesis)|Faelyn Ashford the Strong (Personal - Nemesis)]]
+- [[#Erasmus Emberfall the Seeker (Family - Spouse)|Erasmus Emberfall the Seeker (Family - Spouse)]]
+
+
+---
 aliases: ["Faelyn Silverleaf the Seeker", "faelyn silverleaf the seeker", "Faelyn Silverleaf Seeker", "Seeker the Silverleaf Faelyn"]
 tags: [npc, character]
 type: npc
@@ -253,3 +274,14 @@ Caravan needs guards
 - Affected by [[Assets Locations Location City Pressure Guard Steelwall V1 Pressure Guard Steelwall.svg]]
 - See also: [[war-room (bastions)]]
 - Related: [[SPELL00103_Divine_Spell_104]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

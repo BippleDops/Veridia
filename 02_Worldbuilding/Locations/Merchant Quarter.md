@@ -259,3 +259,19 @@ Ongoing situations affecting Merchant Quarter:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00945_Wynne_Voidwalker_the_Seeker]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC00922_Wynne_Youngblood_the_Fallen]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]

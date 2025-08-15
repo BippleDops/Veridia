@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.104365
+modified: 2025-08-15T16:41:42.104369
+aliases: [NPC01894 Aldric Lightbringer the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Qadim Silverleaf the Guardian (Political - Ally)|Qadim Silverleaf the Guardian (Political - Ally)]]
+- [[#Corvus Proudmore the Guardian (Criminal - Accomplice)|Corvus Proudmore the Guardian (Criminal - Accomplice)]]
+- [[#Drusilla Voidwalker the Fallen (Family - Cousin)|Drusilla Voidwalker the Fallen (Family - Cousin)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Aldric Lightbringer the Bold", "aldric lightbringer the bold", "Aldric Lightbringer Bold", "Bold the Lightbringer Aldric"]
 tags: [npc, character]
@@ -144,6 +165,65 @@ Offers deal too good to refuse
 - Special moves
 
 ## See Also
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC01276_Erasmus_Keenblade_the_Wanderer]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
+- [[NPC00820_Thalia_Nightfall_the_Risen]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[Sage Elara]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01625_Qadim_Lightbringer_the_Swift]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[Player_Portal.md]]
+- [[Propaganda_Broadsheet_Syndicate.md]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[Player_Comfort_Check]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
+- [[Player_Feedback_Form.md]]
+- [[Player_Dashboard]]
+- [[Faction_Relationship_Web]]
+- [[Dockworker_Union_Flyer.md]]
+- [[Reference.md]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[11 Spellcasting]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
+- [[09 Appendix a the Multiverse]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]
+- [[14 Gods of the Multiverse]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[04 Classes]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[MASTER_MOC]]
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]
 - [[Related_Content]]
 
 
@@ -153,8 +233,8 @@ Offers deal too good to refuse
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -264,3 +344,14 @@ Offers deal too good to refuse
 - Parallels [[Random Encounters 2]]
 - See also: [[Infected Experiments (Lore)]]
 - Originates from [[Portrait NPC Tribune Cassia Deepcurrent Tribune Cassia Deepcurrent.svg_1 (Portraits)]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
+![[03_People/portrait_duke_aldric_blackwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

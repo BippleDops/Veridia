@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Gareth Darkwater the Redeemed
 
 *Elf Bard (Adventurers), Age 61, Female*

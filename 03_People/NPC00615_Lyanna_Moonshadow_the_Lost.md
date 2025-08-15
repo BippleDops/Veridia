@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.112590
+modified: 2025-08-15T16:41:42.112595
+aliases: [NPC00615 Lyanna Moonshadow the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Urien Hawthorne the Redeemed (Criminal - Informant)|Urien Hawthorne the Redeemed (Criminal - Informant)]]
+- [[#Brenna Moonshadow the Cunning (Criminal - Informant)|Brenna Moonshadow the Cunning (Criminal - Informant)]]
+- [[#Ewan Darkwater the Swift (Criminal - Target)|Ewan Darkwater the Swift (Criminal - Target)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Lyanna Moonshadow the Lost", "lyanna moonshadow the lost", "Lyanna Moonshadow Lost", "Lost the Moonshadow Lyanna"]
 tags: [npc, character]
@@ -143,6 +164,36 @@ Being extorted by criminals
 - Special moves
 
 ## See Also
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC00844_Cedric_Blackstone_the_Fallen]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[Faction_Guide.md]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[Ship_Schematic_The_Seahawk.md]]
+- [[Propaganda_Broadsheet_Syndicate.md]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Sanity Quick Reference]]
+- [[Downtime_Activities]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[09 Adventuring]]
+- [[07 Customization Options]]
+- [[11 Rules Glossary]]
+- [[Count_Strahd_von_Zarovich]]
+- [[MOC_Rules]]
 - [[Related_Content]]
 
 
@@ -152,8 +203,8 @@ Being extorted by criminals
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -263,3 +314,14 @@ Being extorted by criminals
 - Influences [[step_093 (phase_053)]]
 - Connects to [[step_054 (phase_025)]]
 - Influences [[QUEST0088_The_Sunken_Temple_Disappearances]]
+
+## Visual References
+![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
+![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
+![[03_People/portrait_captain_lyanna_brightshield.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

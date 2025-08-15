@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.905457
+modified: 2025-08-15T16:41:45.905461
+aliases: [NPC00865 Jorah Emberfall the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Drusilla Jadeclaw the Wise (Personal - Nemesis)|Drusilla Jadeclaw the Wise (Personal - Nemesis)]]
+- [[#Rhiannon Grimholt the Fallen (Family - Parent)|Rhiannon Grimholt the Fallen (Family - Parent)]]
+- [[#Branwen Ironwood the Lost (Political - Puppet)|Branwen Ironwood the Lost (Political - Puppet)]]
+
+
+---
 aliases: ["Jorah Emberfall the Swift", "jorah emberfall the swift", "Jorah Emberfall Swift", "Swift the Emberfall Jorah"]
 tags: [npc, character]
 type: npc
@@ -245,3 +266,14 @@ Caravan needs guards
 - Leads to [[Location City Shadow Merchant Riptide Shadow Merchant Riptide.svg]]
 - Originates from [[Exhaustion]]
 - Parallels [[Potion of Thunder Resistance Xdmg]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

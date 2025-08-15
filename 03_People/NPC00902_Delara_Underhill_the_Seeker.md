@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.997238
+modified: 2025-08-15T16:41:47.997240
+aliases: [NPC00902 Delara Underhill the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Jorah Stormwind the Wanderer (Personal - Ex-lover)|Jorah Stormwind the Wanderer (Personal - Ex-lover)]]
+- [[#Qadim Thornweave the Strong (Professional - Rival)|Qadim Thornweave the Strong (Professional - Rival)]]
+- [[#Jorah Quicksilver the Seeker (Personal - Childhood friend)|Jorah Quicksilver the Seeker (Personal - Childhood friend)]]
+
+
+---
 aliases: ["Delara Underhill the Seeker", "delara underhill the seeker", "Delara Underhill Seeker", "Seeker the Underhill Delara"]
 tags: [npc, character]
 type: npc
@@ -135,3 +156,15 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

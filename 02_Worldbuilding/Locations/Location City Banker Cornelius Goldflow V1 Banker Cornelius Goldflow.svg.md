@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Banker Cornelius
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]

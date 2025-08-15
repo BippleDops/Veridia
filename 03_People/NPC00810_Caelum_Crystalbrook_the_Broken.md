@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.731519
+modified: 2025-08-15T16:41:45.731522
+aliases: [NPC00810 Caelum Crystalbrook the Broken]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Vesper Darkwater the Wise (Criminal - Handler)|Vesper Darkwater the Wise (Criminal - Handler)]]
+- [[#Qadim Crystalbrook the Mystic (Criminal - Informant)|Qadim Crystalbrook the Mystic (Criminal - Informant)]]
+- [[#Vesper Ravenheart the Wanderer (Professional - Partner)|Vesper Ravenheart the Wanderer (Professional - Partner)]]
+
+
+---
 aliases: ["Caelum Crystalbrook the Broken", "caelum crystalbrook the broken", "Caelum Crystalbrook Broken", "Broken the Crystalbrook Caelum"]
 tags: [npc, character]
 type: npc
@@ -240,3 +261,14 @@ Caravan needs guards
 - Influences [[Portrait NPC Sir Theron Crystalward V2 Sir Theron Crystalward.svg_1 (Portraits)]]
 - Requires [[LOC00223_Dungeons_Location_224]]
 - Leads to [[step_057 (phase_082)]]
+
+## Visual References
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

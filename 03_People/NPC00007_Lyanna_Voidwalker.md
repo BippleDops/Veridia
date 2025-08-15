@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.113731
+modified: 2025-08-15T16:41:48.113733
+aliases: [NPC00007 Lyanna Voidwalker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Youngblood the Swift (Professional - Partner)|Alaric Youngblood the Swift (Professional - Partner)]]
+- [[#Wynne Ravenheart (Political - Opposition)|Wynne Ravenheart (Political - Opposition)]]
+- [[#Ysara Silverleaf (Criminal - Informant)|Ysara Silverleaf (Criminal - Informant)]]
+
+
+---
 aliases: ["Lyanna Voidwalker", "lyanna voidwalker", "Voidwalker Lyanna"]
 tags: [npc, character]
 type: npc
@@ -147,3 +168,15 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
+![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
+![[03_People/portrait_captain_lyanna_brightshield.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

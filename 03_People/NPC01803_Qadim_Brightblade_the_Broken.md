@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Qadim Brightblade the Broken
 
 *Tabaxi Corrupt Noble (Villains), Age 73, Non-binary*

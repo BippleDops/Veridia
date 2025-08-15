@@ -214,3 +214,8 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]

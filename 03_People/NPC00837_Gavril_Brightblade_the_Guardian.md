@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Gavril Brightblade the Guardian
 
 *Firbolg Shopkeeper (Merchants), Age 55, Female*

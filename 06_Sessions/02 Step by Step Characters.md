@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T16:41:33.753243
+modified: 2025-08-15T16:41:33.753248
+aliases: [02 Step by Step Characters]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Voice & Mannerisms|Voice & Mannerisms]]
+- [[#Daily Routine|Daily Routine]]
+- [[#Possessions|Possessions]]
+- [[#Combat Tactics|Combat Tactics]]
+- [[#Secrets|Secrets]]
+- [[#Prep Checklist|Prep Checklist]]
+- [[#Npcs Needed|Npcs Needed]]
+- [[#Locations|Locations]]
+
+
+---
 
 title: 02 Step by Step Characters
 type: note
@@ -25,7 +46,8 @@ tags:
 
 created: 2025-08-11
 modified: '2025-08-14'
-status: active
+status: 
+*The [texture] surface feels [description] to the touch.*active
 updated: '2025-08-13T12:34:05.218542+00:00'
 world: Both
 
@@ -90,24 +112,94 @@ world: Both
 - [ ] Prepare quick reference
 
 ## See Also
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[NPC01594_Fiora_Proudmore_the_Seeker]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[NPC00237_Vesper_Ashford_the_Bold]]
+- [[Ancient_Prophecy_Fragment_Verdan]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]
+- [[Combat_Encounter_Analysis]]
+- [[Propaganda_Broadsheet_Syndicate.md]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01730_Faelyn_Emberfall_the_Broken]]
+- [[NPC00494_Lyanna_Hawthorne_the_Guardian]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[Portal_Home]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC01831_Alaric_Frostwhisper_the_Scholar]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[City_District_Map_Port_Meridian_Harbo]]
+- [[Quick_Start_Guide]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[14 Gods of the Multiverse]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[11 Rules Glossary]]
+- [[06 Equipment]]
+- [[04 Classes]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[Item_Catalog_Complete.md (Indexes)]]
+- [[NPC_Name_Generator.png]]
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
+- [[Session_Recaps]]
+- [[MOC_Quests]]
+- [[Item_Catalog_Complete.md]]
+- [[11 Spellcasting]]
+- [[MASTER_MOC]]
+- [[Quest - The Merged Reality_1 (01_Adventures)]]
+- [[Master_Narrative_Web.md]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[Reference.md]]
+- [[MOC_Items]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[Count_Strahd_von_Zarovich]]
+- [[Depth_Adapted_Background.md]]
+- [[World_Primer.md]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Volo's Guide to Monsters (VGM) p.42
+- Volo's Creature Catalog to Monsters (VCC) p.42
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -115,7 +207,7 @@ Following magic item guidelines (DMG p.135-136):
 - [[fifty_improvements_20250815_155453]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## Thematic Connections
@@ -125,18 +217,18 @@ Following magic item guidelines (DMG p.135-136):
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

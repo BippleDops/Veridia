@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Alternative Path
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01371_Xander_Stormwind_the_Guardian]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Felicia Grimholt the Guardian
 
 *Firbolg Carpenter (Commoners), Age 70, Non-binary*

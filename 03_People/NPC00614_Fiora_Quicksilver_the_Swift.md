@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.996331
+modified: 2025-08-15T16:41:45.996335
+aliases: [NPC00614 Fiora Quicksilver the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Caelum Zephyrblade (Criminal - Handler)|Caelum Zephyrblade (Criminal - Handler)]]
+- [[#Alaric Darkwater the Wanderer (Professional - Employee)|Alaric Darkwater the Wanderer (Professional - Employee)]]
+- [[#Kaelen Proudmore the Bold (Personal - Love interest)|Kaelen Proudmore the Bold (Personal - Love interest)]]
+
+
+---
 aliases: ["Fiora Quicksilver the Swift", "fiora quicksilver the swift", "Fiora Quicksilver Swift", "Swift the Quicksilver Fiora"]
 tags: [npc, character]
 type: npc
@@ -243,3 +264,14 @@ Family member has gone missing
 - Requires [[Location City Maritime Commerce Maritime Commerce.svg]]
 - Connects to [[amber-golem-cos (construct)]]
 - Leads to [[step_050 (phase_051)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

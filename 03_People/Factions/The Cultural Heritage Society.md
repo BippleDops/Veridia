@@ -15,6 +15,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![02_Worldbuilding/Groups/The Cultural Heritage Society](../../04_Resources/Assets/Misc/02_worldbuilding_groups_the_cultural_heritage_society.png)
 
 ## 🔧 Deep Evaluation Improvements

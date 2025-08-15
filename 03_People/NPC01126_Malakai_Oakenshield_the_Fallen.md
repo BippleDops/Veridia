@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.795600
+modified: 2025-08-15T16:41:40.795602
+aliases: [NPC01126 Malakai Oakenshield the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Grimholt the Bold (Political - Patron)|Thalia Grimholt the Bold (Political - Patron)]]
+- [[#Xander Underhill the Cunning (Criminal - Accomplice)|Xander Underhill the Cunning (Criminal - Accomplice)]]
+- [[#Urien Blackstone the Fallen (Criminal - Handler)|Urien Blackstone the Fallen (Criminal - Handler)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Malakai Oakenshield the Fallen", "malakai oakenshield the fallen", "Malakai Oakenshield Fallen", "Fallen the Oakenshield Malakaitags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
@@ -6,7 +31,7 @@ type: npc
 
 # Malakai Oakenshield the Fallen
 
-*Genasi Appraiser (Merchants), Age 36, Female*
+*Genasi Appraiser ([[Merchant]]s), Age 36, Female*
 
 **ID**: NPC01126
 
@@ -143,13 +168,36 @@ Competitor sabotaging business
 - Special moves
 
 ## Combat Stats
-Base: **Commoner** (MM p.345)
+Base: **Commoner** (BC p.345)
 Modifications:
 - HP: 44
 - AC: 13
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[Faction_Guide.md]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Combat_Encounter_Analysis]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[05 Personality and Background]]
+- [[11 Rules Glossary]]
 - [[Related_Content]]
 
 
@@ -159,9 +207,9 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -171,8 +219,8 @@ Modifications:
 
 ## Connections
 
-- Originates from [[Location City the Memory Storm Fields the Memory Storm Fields.svg]]
-- Originates from [[Assets Locations Location City the Cerulean Trench the Cerulean Trench.svg]]
+- Originates from [[Location City [[The Memory Storm Fields]] the Memory Storm Fields.svg]]
+- Originates from [[Assets Locations [[Location City [[The Cerulean Trench]] the Cerulean Trench.svg]]]]
 - Originates from [[QUEST00135_Personal_Quest_136]]
 - Related: [[step_055 (phase_061)]]
 - Affected by [[Community Education]]
@@ -188,7 +236,7 @@ Modifications:
 - Requires [[Monster Xphb]]
 - Related: [[step_019 (phase_059)]]
 - See also: [[Deep Guard (D&D_References)]]
-- See also: [[location-city-umberlee-v1-umberlee.svg]]
+- See also: [[location-city-[[Umberlee]]-v1-umberlee.svg]]
 - Compare with [[step_076 (phase_051)]]
 - Parallels [[cloud-giant-smiling-one-mpmm (giant)]]
 - Requires [[Portrait NPC Lady Resistance Brightshield V1 Lady Resistance Brightshield.svg]]
@@ -213,20 +261,20 @@ Modifications:
 - See also: [[Portrait NPC Embassy of Eternal Shadows V2 Embassy of Eternal Shadows.svg]]
 - See also: [[LORE00147_Legends_Entry_148]]
 - Affected by [[step_073 (phase_063)]]
-- Requires [[The Reflection Pools 2]]
+- Requires [[[[The Reflection Pools]] 2]]
 - Compare with [[ITEM00282_Blessed_Staff_of_Slaying]]
-- Leads to [[Deep Compressmaster (D&D_References)]]
+- Leads to [[[[Deep Compressmaster]] (D&D_References)]]
 - Compare with [[step_036 (phase_041)]]
 - Originates from [[step_013 (phase_083)]]
 - Related: [[Ring of Spell Turning Xdmg]]
 - Originates from [[Items - Artifact Visuals]]
 - Leads to [[NPC00809_Caelum_Xendar_the_Wanderer]]
 - Influences [[Describe Appearance and Personality]]
-- Connects to [[Artistic Communities 2]]
+- Connects to [[[[Artistic Communities]] 2]]
 - Parallels [[DUN00061_Dungeon_62]]
-- Connects to [[Void Krakens (D&D_References)]]
+- Connects to [[[[Void Krakens]] (D&D_References)]]
 - Parallels [[step_012 (phase_060)]]
-- Related: [[Assets Locations Location City Chronomancer Paradox V1 Chronomancer Paradox.svg]]
+- Related: [[Assets Locations Location City [[Chronomancer Paradox]] V1 Chronomancer Paradox.svg]]
 - Influences [[ENC00130_Environmental_Encounter_131]]
 - Compare with [[step_014 (phase_038)]]
 - Influences [[Convergence Maze]]
@@ -239,7 +287,7 @@ Modifications:
 - Connects to [[NPC00101_Caelum_Hawthorne]]
 - Affected by [[Symbol Heraldry Witness Protection Network V1 Witness Protection Network.svg]]
 - Connects to [[Lady Vivienne Thornwhisper (D&D_References)]]
-- Compare with [[Port Meridian - Market Square]]
+- Compare with [[[[Port Meridian]] - Market Square]]
 - Influences [[Marina''s Identity Crisis]]
 - Parallels [[hat-of-disguise-xdmg (items)]]
 - Leads to [[Harmonic Defense Grid]]
@@ -257,7 +305,7 @@ Modifications:
 - Originates from [[step_086 (phase_083)]]
 - Related: [[ITEM00434_Enchanted_Shield_of_Protection]]
 - Compare with [[step_005]]
-- Influences [[Assets Locations Location City Chronicle Keeper Sage Deepmemory V1 Chronicle Keeper Sage Deepmemory.svg]]
+- Influences [[Assets Locations Location City [[Chronicle Keeper Sage Deepmemory]] V1 Chronicle Keeper Sage Deepmemory.svg]]
 - Requires [[step_091 (phase_036)]]
 - Leads to [[step_038 (phase_023)]]
 - Parallels [[step_058 (phase_026)]]
@@ -271,3 +319,8 @@ Modifications:
 - Compare with [[deities-of-eberron (tables)]]
 - Influences [[DUN00021_Dungeon_22]]
 - Leads to [[Deepwater Trading Consortium]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

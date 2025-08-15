@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.784107
+modified: 2025-08-15T16:41:40.784113
+aliases: [NPC01502 Urien Underhill the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Nerys Thornweave the Scholar (Professional - Employer)|Nerys Thornweave the Scholar (Professional - Employer)]]
+- [[#Hestara Emberfall the Mystic (Criminal - Target)|Hestara Emberfall the Mystic (Criminal - Target)]]
+- [[#Xander Stormwind the Lost (Criminal - Handler)|Xander Stormwind the Lost (Criminal - Handler)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Urien Underhill the Scholar", "urien underhill the scholar", "Urien Underhill Scholar", "Scholar the Underhill Urientags: [npc, character, combat, magic, exploration, puzzle, lore]er]
 type: npc
@@ -22,7 +43,7 @@ Very short and delicate, with Braided elaborately unusual color hair and Brown e
 **Accessories**: Spectacles on chain
 
 ## Personality
-- **Traits**: Always speaks in metaphors and riddles; Never backs down from any challenge; Extremely superstitious about everything; Laughs at the most inappropriate times
+- **Traits**: Always speaks in metaphors and riddles; Never backs down from any challenge; Extremely superstitious about everything; Laughs at the most inappropriate [[Time]]s
 - **Ideal**: Faith: The gods guide my every action
 - **Bond**: My hometown is the most important thing
 - **Flaw**: I drink too much and say things I shouldn't
@@ -149,32 +170,76 @@ Knows secret about major threat
 - Special moves
 
 ## Combat Stats
-Base: **Mage** (MM p.347)
+Base: **Mage** (BC p.347)
 Modifications:
 - HP: 37
 - AC: 10
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00129_Gareth_Jadeclaw]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC01970_Brenna_Dawnstrider_the_Wise]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[NPC01831_Alaric_Frostwhisper_the_Scholar]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[Depth_Adapted_Background]]
+- [[Party_Inventory]]
+- [[Player_Portal.md]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[Basic_Rules]]
+- [[13 Conditions]]
+- [[World_Primer.md]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[11 Rules Glossary]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[MOC_Lore]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[MOC_Quests]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Dungeon Master's Guide (DMG) p.149
-- Tasha's Cauldron of Everything (TCE) p.139
+- Worldweaver's Tome (WWT) p.149
+- Tasha's Mystical Formulae of Everything (TMF) p.139
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -182,8 +247,8 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -199,16 +264,16 @@ Following magic item guidelines (DMG p.135-136):
 - Leads to [[step_015 (phase_078)]]
 - Related: [[SHOP00026_General_Shop_27]]
 - Affected by [[LORE00041_Legends_Entry_42]]
-- Requires [[Location City the Bone Palace of Sorrows the Bone Palace of Sorrows.png]]
+- Requires [[Location City [[The Bone Palace of Sorrows]] the Bone Palace of Sorrows.png]]
 - Originates from [[FAC00057_Guilds_58]]
 - Influences [[Wight Xmm]]
-- Affected by [[Assets Locations Location City the Crystal Caves V1 the Crystal Caves.svg]]
+- Affected by [[Assets Locations Location City [[The Crystal Caves]] V1 the Crystal Caves.svg]]
 - Leads to [[step_079 (phase_026)]]
 - Connects to [[step_098 (phase_058)]]
 - Leads to [[Corrupt Guards 2]]
 - Compare with [[Disadvantage Xphb]]
 - See also: [[Gith Tables Githyanki Personality Traits Mtf]]
-- See also: [[Assets Art Random Encounter Tables Aethermoor.png]]
+- See also: [[Assets Art Random Encounter Tables [[Aethermoor]].png]]
 - Related: [[Entertainers Pack Xphb]]
 - See also: [[LOC00060_Wilderness_Location_61]]
 - Parallels [[gauntlets-of-ogre-power-xdmg (items)]]
@@ -226,11 +291,11 @@ Following magic item guidelines (DMG p.135-136):
 - Leads to [[NPC01010_Ysara_Frostwhisper_the_Redeemed]]
 - Connects to [[step_046]]
 - See also: [[Crystal_Singer_Bard]]
-- Compare with [[Location City the Pressure Crown V1 the Pressure Crown.svg]]
+- Compare with [[Location City [[The Pressure Crown]] V1 the Pressure Crown.svg]]
 - Originates from [[step_050 (phase_042)]]
 - Affected by [[NPC0085_Fiora_Goldleaf_the_Merciful]]
 - Connects to [[arcane-focus-xphb (items)]]
-- Leads to [[Location City Crown of Eternal Ice Crown of Eternal Ice.svg]]
+- Leads to [[Location City [[Crown of Eternal Ice]] Crown of Eternal Ice.svg]]
 - Connects to [[FAC00090_Guilds_91]]
 - Requires [[step_046 (phase_032)]]
 - Parallels [[Cult_and_Religious_Guide]]
@@ -240,7 +305,7 @@ Following magic item guidelines (DMG p.135-136):
 - Influences [[step_012 (phase_038)]]
 - Compare with [[NPC01773_Drusilla_Silverleaf_the_Wanderer]]
 - Compare with [[Trade Union]]
-- Influences [[Assets Locations Location City Seeds of the Past V1 Seeds of the Past.svg]]
+- Influences [[Assets Locations Location City [[Seeds of the Past]] V1 Seeds of the Past.svg]]
 - Parallels [[step_061]]
 - Leads to [[Portrait NPC Marcus Shardbreaker Grimm Marcus Shardbreaker Grimm.svg]]
 - See also: [[Ring of Elemental Command Water Xdmg]]
@@ -251,7 +316,7 @@ Following magic item guidelines (DMG p.135-136):
 - Originates from [[Corallion (D&D_References)]]
 - Related: [[Professor Euclid Mindmaze]]
 - Affected by [[figurine-of-wondrous-power-ivory-goats-xdmg (items)]]
-- Compare with [[Poet Laureate Tidal Wordsmith 2]]
+- Compare with [[[[Poet Laureate Tidal Wordsmith]] 2]]
 - Originates from [[The Scholar's Guild]]
 - Leads to [[Difficult Terrain Xphb]]
 - Leads to [[Portrait NPC Free Captains Alliance V1 Free Captains Alliance.svg]]
@@ -262,7 +327,7 @@ Following magic item guidelines (DMG p.135-136):
 - Related: [[step_040]]
 - Compare with [[The Forgotten Archive]]
 - Parallels [[sling-bullets-20-xphb (items)]]
-- Related: [[Location City the Sundered Vaults V1 the Sundered Vaults.svg]]
+- Related: [[Location City [[The Sundered Vaults]] V1 the Sundered Vaults.svg]]
 - Connects to [[step_079 (phase_044)]]
 - Influences [[SPELL00107_Divine_Spell_108]]
 - Parallels [[Strahd Von Zarovich Cos]]
@@ -273,7 +338,7 @@ Following magic item guidelines (DMG p.135-136):
 - Influences [[LORE00048_Legends_Entry_49]]
 - Originates from [[Campaign_Timeline_Tracker]]
 - Influences [[step_018 (phase_028)]]
-- Requires [[Quill Precisequote (D&D_References)]]
+- Requires [[[[Quill Precisequote]] (D&D_References)]]
 - Connects to [[NPC00697_Jorah_Stormwind_the_Mystic]]
 - Leads to [[Art_Brief_Database (Assets)]]
 - Originates from [[carpet-of-flying-3-ft-5-ft-xdmg (items)]]
@@ -284,12 +349,23 @@ Following magic item guidelines (DMG p.135-136):
 - Originates from [[List Spells Races Tiefling Asmodeus Mtf]]
 - Affected by [[ENC00159_Social_Encounter_160]]
 - Related: [[step_020 (phase_009)]]
-- Affected by [[Assets Locations Location City Heritage Keeper Memoryshade V1 Heritage Keeper Memoryshade.svg]]
+- Affected by [[Assets Locations [[Location City [[Heritage Keeper Memoryshade]] V1 Heritage Keeper Memoryshade.svg]]]]
 - See also: [[Symbol Heraldry Chaplain Abyssos the Deepseeke Chaplain Abyssos the Deepseeke.svg]]
 - Influences [[NPC00010_Lyanna_Grimholt]]
 - See also: [[step_077 (phase_018)]]
 - Affected by [[step_024]]
-- Leads to [[Assets Locations Location City Crystal Master Prism Lightweaver V1 Crystal Master Prism Lightweaver.svg]]
+- Leads to [[Assets Locations Location City [[Crystal Master Prism Lightweaver]] V1 Crystal Master Prism Lightweaver.svg]]
 - Parallels [[step_072 (phase_060)]]
 - Parallels [[step_048]]
-- Originates from [[Locations the Probability Engine]]
+- Originates from [[Locations [[The Probability Engine]]]]
+
+## Visual References
+![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

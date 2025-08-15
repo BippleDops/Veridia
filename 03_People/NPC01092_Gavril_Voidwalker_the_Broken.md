@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.627872
+modified: 2025-08-15T16:41:43.627875
+aliases: [NPC01092 Gavril Voidwalker the Broken]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aeliana Youngblood the Cunning (Personal - Best friend)|Aeliana Youngblood the Cunning (Personal - Best friend)]]
+- [[#Fiora Dawnstrider the Wise (Family - Parent)|Fiora Dawnstrider the Wise (Family - Parent)]]
+- [[#Branwen Keenblade the Strong (Professional - Rival)|Branwen Keenblade the Strong (Professional - Rival)]]
+
+
+---
 aliases: ["Gavril Voidwalker the Broken", "gavril voidwalker the broken", "Gavril Voidwalker Broken", "Broken the Voidwalker Gavril"]
 tags: [npc, character]
 type: npc
@@ -241,3 +262,14 @@ Seeks rare merchandise
 - Related: [[LORE00087_Prophecies_Entry_88]]
 - Connects to [[Session 14 - Shadow Market]]
 - Compare with [[NPC0142_Willem_Darkwater_the_Mad]]
+
+## Visual References
+![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
+![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
+![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

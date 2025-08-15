@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:33.979295
+modified: 2025-08-15T16:41:33.979299
+aliases: [Ancient Prophecy Fragment Verdan]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+- [[#Superstitions Improvements|Superstitions Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Visual_Handouts/Ancient_Prophecy_Fragment_Verdan
 type: lore
@@ -130,6 +151,29 @@ tags: [combat, lore]
 > Hidden treasure can be found here with a DC 15 Investigation check
 
 ## See Also
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC01113_Solas_Ravenheart_the_Cunning]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[Party_Quests]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC00237_Vesper_Ashford_the_Bold]]
+- [[05 Personality and Background]]
+- [[MOC_Lore]]
 - [[Related_Content]]
 
 
@@ -139,14 +183,14 @@ tags: [combat, lore]
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -250,3 +294,8 @@ tags: [combat, lore]
 - Compare with [[LOC00238_Dungeons_Location_239]]
 - Connects to [[ring-of-resistance-xdmg (items)]]
 - Parallels [[Assets Locations Location City Expedition to the Sunless Depths Expedition to the Sunless Depths.svg]]
+
+## Visual References
+![[03_People/portrait_ancient_brass_dragon_xmm_standard.png]]
+![[03_People/portrait_ancient_green_dragon_xmm_standard.png]]
+![[03_People/portrait_ancient_green_dragon_xmm_dramatic.png]]

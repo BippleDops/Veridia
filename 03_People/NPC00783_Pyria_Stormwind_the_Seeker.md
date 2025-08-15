@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.061421
+modified: 2025-08-15T16:41:46.061426
+aliases: [NPC00783 Pyria Stormwind the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Silverleaf the Cunning (Family - Child)|Ysara Silverleaf the Cunning (Family - Child)]]
+- [[#Urien Nightfall the Wise (Professional - Partner)|Urien Nightfall the Wise (Professional - Partner)]]
+- [[#Ysara Darkwater the Seeker (Political - Ally)|Ysara Darkwater the Seeker (Political - Ally)]]
+
+
+---
 aliases: ["Pyria Stormwind the Seeker", "pyria stormwind the seeker", "Pyria Stormwind Seeker", "Seeker the Stormwind Pyria"]
 tags: [npc, character]
 type: npc
@@ -245,3 +266,29 @@ Being extorted by criminals
 - Parallels [[Transformation Specialist Anemone Flowshift 2]]
 - Influences [[step_058]]
 - Compare with [[Oracle Mistweaver (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_merchant_captain_tobias_stormwind_dramatic.png]]
+![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
+
+
+## Realm Connections
+
+### Connection to Aethermoor
+This connects to the sky realm of Sky realm of eternal winds and floating islands.
+
+- **Ruling Power**: The Windlord Council
+- **Capital**: [[Skylance Citadel]]
+- **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
+- **Current Conflict**: The Void Incursion, Elemental Convergence
+- **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
+
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+navigate floating islands connected by bridges of solidified cloud.
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

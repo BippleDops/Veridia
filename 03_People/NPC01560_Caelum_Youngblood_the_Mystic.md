@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Caelum Youngblood the Mystic
 
 *Tabaxi Ranger (Adventurers), Age 32, Male*

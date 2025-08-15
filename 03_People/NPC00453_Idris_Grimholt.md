@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.057449
+modified: 2025-08-15T16:41:41.057452
+aliases: [NPC00453 Idris Grimholt]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Cedric Nightfall the Swift (Professional - Rival)|Cedric Nightfall the Swift (Professional - Rival)]]
+- [[#Pyria Crystalbrook (Criminal - Accomplice)|Pyria Crystalbrook (Criminal - Accomplice)]]
+- [[#Corvus Grimholt (Political - Puppet)|Corvus Grimholt (Political - Puppet)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Idris Grimholt", "idris grimholt", "Grimholt Idristags: [npc, character, combat, exploration, lore]er]
 type: npc
@@ -99,7 +124,7 @@ Animal Handling, Athletics
 
 ### Catchphrases
 - "In my experience..."
-- "Time will tell."
+- "[[Time]] will tell."
 
 ### Knowledge
 - Local rumors and news
@@ -135,13 +160,49 @@ Discovered something valuable
 - Special moves
 
 ## Combat Stats
-Base: **Veteran** (MM p.350)
+Base: **Veteran** (BC p.350)
 Modifications:
 - HP: 48
 - AC: 15
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00207_Ysara_Ravenheart]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00287_Ysara_Underhill_the_Wise]]
+- [[NPC00237_Vesper_Ashford_the_Bold]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC00494_Lyanna_Hawthorne_the_Guardian]]
+- [[Archdruid Thornweaver]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[NPC01625_Qadim_Lightbringer_the_Swift]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[Pilgrim_Pass_Prayer_Sli]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Sanity Quick Reference]]
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[03 Races]]
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[10 Combat]]
+- [[11 Rules Glossary]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[MOC_NPCs]]
 - [[Related_Content]]
 
 
@@ -151,10 +212,10 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -165,7 +226,7 @@ Modifications:
 ## Connections
 
 - Leads to [[FAC00036_Cults_37]]
-- Leads to [[The Crystal Caves 2]]
+- Leads to [[[[The Crystal Caves]] 2]]
 - Affected by [[LOC00215_Planes_Location_216]]
 - Connects to [[Portrait NPC Captain Voidguard V1 Captain Voidguard.svg]]
 - See also: [[step_049 (phase_085)]]
@@ -174,7 +235,7 @@ Modifications:
 - Compare with [[skills#Acrobatics]]
 - Connects to [[portrait-npc-shadow-embassy-shadow-embassy.svg]]
 - Related: [[Lord Commander Gareth (D&D_References)]]
-- Related: [[Location City Forge Master Petra Hammerdeep V1 Forge Master Petra Hammerdeep.svg]]
+- Related: [[Location City [[Forge Master Petra Hammerdeep]] V1 Forge Master Petra Hammerdeep.svg]]
 - Requires [[step_083]]
 - Related: [[Unknown Contact]]
 - Related: [[QUEST00294_Personal_Quest_295]]
@@ -185,7 +246,7 @@ Modifications:
 - Influences [[Crystal Research Facilities (D&D_References)]]
 - See also: [[ENC00155_Combat_Encounter_156]]
 - Requires [[Size Xphb]]
-- Affected by [[Location City Living Coral Architecture V1 Living Coral Architecture.svg]]
+- Affected by [[Location City [[Living Coral Architecture]] V1 Living Coral Architecture.svg]]
 - Related: [[Lord Magistrate Aldrich Thornwick (D&D_References)]]
 - Influences [[step_072 (phase_008)]]
 - Requires [[Order of the Shattered Crown (D&D_Statblocks)]]
@@ -202,30 +263,30 @@ Modifications:
 - Leads to [[ITEM01358_Simple_Rope_of_Reliability]]
 - Connects to [[NPC00108_Aeliana_Ironforge_the_Wanderer]]
 - Affected by [[FAC00037_Cults_38]]
-- Related: [[Location City Emergency Life Support Research Foundation Emergency Life Support Research Foundation.svg]]
+- Related: [[Location City [[Emergency Life Support Research Foundation]] Emergency Life Support Research Foundation.svg]]
 - Affected by [[norse-freya (deities)]]
 - Affected by [[Foreign Governments]]
 - Affected by [[The Parasite Priests (People)]]
-- See also: [[Assets Locations Location City Fire Crystal Fire Crystal.svg]]
+- See also: [[Assets Locations Location City [[Fire Crystal]] Fire Crystal.svg]]
 - Affected by [[step_060 (phase_074)]]
 - Related: [[Symbol Heraldry Financial Crime Investigatio Financial Crime Investigatio.svg]]
 - See also: [[World_Map_Layers 2 (D&D_References)]]
 - Requires [[chasme-xmm (fiend)]]
 - Parallels [[ruby-xdmg (items)]]
-- Originates from [[Assets Locations Location City the Forgotten Representative the Forgotten Representative.svg]]
+- Originates from [[Assets Locations [[Location City the Forgotten Representative the Forgotten Representative.svg]]]]
 - Originates from [[ITEM00507_Fortified_Helm_of_Protection]]
-- Compare with [[Sea Witch (D&D_References)]]
+- Compare with [[[[Sea Witch]] (D&D_References)]]
 - Requires [[NPC01514_Pyria_Ironforge_the_Fallen]]
 - Related: [[step_062 (phase_013)]]
 - Connects to [[ITEM00195_Frost_Staff_of_Accuracy]]
 - Influences [[step_096 (phase_084)]]
 - Compare with [[LOC00271_Dungeons_Location_272]]
-- Related: [[Assets Locations Location City the Stillwater Method V1 the Stillwater Method.svg]]
+- Related: [[Assets Locations [[Location City [[The Stillwater Method]] V1 the Stillwater Method.svg]]]]
 - Parallels [[LORE00134_Prophecies_Entry_135]]
 - Connects to [[step_096]]
 - Originates from [[Deep Oracle (D&D_References)]]
-- Leads to [[Assets Locations Location City Truth Seeker Cornelius V1 Truth Seeker Cornelius.svg]]
-- Connects to [[Memory Parasite Infection (D&D_References)]]
+- Leads to [[Assets Locations [[Location City Truth Seeker Cornelius V1 Truth Seeker Cornelius.svg]]]]
+- Connects to [[[[Memory Parasite Infection]] (D&D_References)]]
 - Requires [[Diplomatic Minister Reef]]
 - Parallels [[step_080 (phase_061)]]
 - Related: [[Smokescale the Smuggler]]
@@ -234,7 +295,7 @@ Modifications:
 - See also: [[step_063 (phase_076)]]
 - Related: [[step_088]]
 - Leads to [[step_066 (phase_092)]]
-- Affected by [[Location City Entertainment Industry V1 Entertainment Industry.svg]]
+- Affected by [[Location City [[Entertainment Industry]] V1 Entertainment Industry.svg]]
 - Compare with [[QUEST00275_Side_Quest_276]]
 - See also: [[LOC00093_Towns_Location_94]]
 - Compare with [[step_014 (phase_031)]]
@@ -251,7 +312,7 @@ Modifications:
 - Influences [[Spell Sniper Xphb]]
 - Requires [[Blackwater Estate (D&D_References)]]
 - Requires [[step_081]]
-- Originates from [[Warrior Scarredheart 2]]
+- Originates from [[[[Warrior Scarredheart]] 2]]
 - Related: [[step_095 (phase_046)]]
 - Leads to [[step_001 (phase_100)]]
 - Influences [[QUEST00392_Side_Quest_393]]
@@ -264,3 +325,8 @@ Modifications:
 - See also: [[step_063 (phase_091)]]
 - Influences [[Hallow Xphb]]
 - Affected by [[Diplomatic Enclave (D&D_References)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

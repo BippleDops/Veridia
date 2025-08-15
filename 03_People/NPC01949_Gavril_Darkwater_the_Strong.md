@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.325019
+modified: 2025-08-15T16:41:44.325023
+aliases: [NPC01949 Gavril Darkwater the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Pyria Dawnstrider the Scholar (Political - Patron)|Pyria Dawnstrider the Scholar (Political - Patron)]]
+- [[#Dara Emberfall the Broken (Family - Parent)|Dara Emberfall the Broken (Family - Parent)]]
+- [[#Aldric Keenblade the Risen (Criminal - Informant)|Aldric Keenblade the Risen (Criminal - Informant)]]
+
+
+---
 aliases: ["Gavril Darkwater the Strong", "gavril darkwater the strong", "Gavril Darkwater Strong", "Strong the Darkwater Gavril"]
 tags: [npc, character]
 type: npc
@@ -247,3 +268,14 @@ Offers deal too good to refuse
 - See also: [[Walloping Ammunition Xdmg]]
 - See also: [[04_Resources_Assets_Locations_location-city-the-resoce-cathedral-the-resoce-cathedral.svg]]
 - See also: [[Assets Locations Location City Keeper Luminous Crystalbeam Keeper Luminous Crystalbeam.svg]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Kaelen Youngblood the Fallen
 
 *Gnome Ranger (Adventurers), Age 28, Male*

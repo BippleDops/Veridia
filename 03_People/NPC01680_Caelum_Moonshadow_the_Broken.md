@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Caelum Moonshadow the Broken
 
 *Elf Corrupt Noble (Villains), Age 39, Non-binary*

@@ -15,6 +15,10 @@ type: npc
 updated: 2025-08-14
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_the_coral_throne_syndicate_dramatic.png]]
+
+
 # The_Coral_Throne_Syndicate.png
 
 ## Overview

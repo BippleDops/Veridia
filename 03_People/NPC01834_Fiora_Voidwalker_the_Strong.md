@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.384925
+modified: 2025-08-15T16:41:45.384930
+aliases: [NPC01834 Fiora Voidwalker the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Caelum Zephyrblade the Wise (Criminal - Accomplice)|Caelum Zephyrblade the Wise (Criminal - Accomplice)]]
+- [[#Gareth Jadeclaw the Risen (Personal - Childhood friend)|Gareth Jadeclaw the Risen (Personal - Childhood friend)]]
+- [[#Zephyr Youngblood the Scholar (Criminal - Accomplice)|Zephyr Youngblood the Scholar (Criminal - Accomplice)]]
+
+
+---
 aliases: ["Fiora Voidwalker the Strong", "fiora voidwalker the strong", "Fiora Voidwalker Strong", "Strong the Voidwalker Fiora"]
 tags: [npc, character]
 type: npc
@@ -239,3 +260,14 @@ Is secretly testing the party
 - See also: [[NPC01964_Zephyr_Oakenshield_the_Fallen]]
 - Originates from [[step_087 (phase_021)]]
 - Leads to [[SPELL00107_Arcane_Spell_108]]
+
+## Visual References
+![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
+![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
+![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.567339
+modified: 2025-08-15T16:41:46.567342
+aliases: [NPC01420 Lyanna Blackstone the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Pyria Ravenheart the Mystic (Family - Child)|Pyria Ravenheart the Mystic (Family - Child)]]
+- [[#Jorah Moonshadow the Mystic (Professional - Employee)|Jorah Moonshadow the Mystic (Professional - Employee)]]
+- [[#Baelor Nightfall the Lost (Professional - Rival)|Baelor Nightfall the Lost (Professional - Rival)]]
+
+
+---
 aliases: ["Lyanna Blackstone the Guardian", "lyanna blackstone the guardian", "Lyanna Blackstone Guardian", "Guardian the Blackstone Lyanna"]
 tags: [npc, character]
 type: npc
@@ -252,3 +273,14 @@ Has information about legendary item
 - Leads to [[step_046 (phase_019)]]
 - Affected by [[Illithilich Vgm]]
 - Originates from [[Player Handbook]]
+
+## Visual References
+![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
+![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
+![[03_People/portrait_captain_lyanna_brightshield.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

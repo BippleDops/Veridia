@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.271798
+modified: 2025-08-15T16:41:46.271800
+aliases: [NPC00354 Caelum Dawnstrider the Risen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Zephyr Moonshadow the Cunning (Professional - Employee)|Zephyr Moonshadow the Cunning (Professional - Employee)]]
+- [[#Fiora Xendar (Family - Child)|Fiora Xendar (Family - Child)]]
+- [[#Xander Xendar (Personal - Childhood friend)|Xander Xendar (Personal - Childhood friend)]]
+
+
+---
 aliases: ["Caelum Dawnstrider the Risen", "caelum dawnstrider the risen", "Caelum Dawnstrider Risen", "Risen the Dawnstrider Caelum"]
 tags: [npc, character]
 type: npc
@@ -244,3 +265,14 @@ Wants rivals investigated
 - Originates from [[keoghtoms-ointment-xdmg (items)]]
 - Influences [[Pressure Suit Malfunction]]
 - Related: [[The Temporal War Battlefields]]
+
+## Visual References
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Kaelen Zephyrblade the Broken
 
 *Dwarf Trader (Merchants), Age 41, Male*

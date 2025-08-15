@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.858869
+modified: 2025-08-15T16:41:46.858872
+aliases: [Admiral Cassandra Stormwind]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_admiral_cassandra_stormwind.png]]
+
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Relationships|Relationships]]
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Diaspora Improvements|Diaspora Improvements]]
+- [[#Sensory Improvements|Sensory Improvements]]
+
+
+---
 
 title: Admiral Cassandra Stormwind
 type: Npc

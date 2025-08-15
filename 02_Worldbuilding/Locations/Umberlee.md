@@ -237,3 +237,9 @@ Ongoing situations affecting Umberlee:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01286_Xander_Proudmore_the_Bold]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC00395_Aeliana_Thornweave]]

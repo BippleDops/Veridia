@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Drusilla Ironwood the Risen
 
 *Genasi Crime Boss (Villains), Age 31, Non-binary*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Thalia Ironforge the Wise
 
 *Aasimar Rogue (Adventurers), Age 60, Female*

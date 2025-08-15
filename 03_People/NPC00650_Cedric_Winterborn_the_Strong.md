@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Cedric Winterborn the Strong
 
 *Dragonborn Baker (Commoners), Age 48, Non-binary*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.779926
+modified: 2025-08-15T16:41:46.779928
+aliases: [NPC00827 Wynne Underhill the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Orion Voidwalker the Wise (Professional - Employer)|Orion Voidwalker the Wise (Professional - Employer)]]
+- [[#Dara Jadeclaw the Seeker (Political - Patron)|Dara Jadeclaw the Seeker (Political - Patron)]]
+- [[#Felicia Silverleaf the Swift (Family - Child)|Felicia Silverleaf the Swift (Family - Child)]]
+
+
+---
 aliases: ["Wynne Underhill the Strong", "wynne underhill the strong", "Wynne Underhill Strong", "Strong the Underhill Wynne"]
 tags: [npc, character]
 type: npc
@@ -247,3 +268,14 @@ Competitor sabotaging business
 - See also: [[LORE00319_Legends_Entry_320]]
 - Requires [[The Recursion Cult 2]]
 - Related: [[step_071]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

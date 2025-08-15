@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Orion Ashford the Broken
 
 *Dwarf Dark Wizard (Villains), Age 51, Male*

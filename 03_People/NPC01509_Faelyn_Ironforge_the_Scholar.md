@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Faelyn Ironforge the Scholar
 
 *Tabaxi Cleric (Adventurers), Age 41, Male*

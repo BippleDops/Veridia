@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Aeliana Voidwalker the Bold
 
 *Goliath Shopkeeper (Merchants), Age 68, Male*

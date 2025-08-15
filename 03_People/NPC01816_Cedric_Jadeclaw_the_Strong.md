@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Cedric Jadeclaw the Strong
 
 *Dragonborn Crime Boss (Villains), Age 19, Female*

@@ -722,3 +722,13 @@ Ongoing situations affecting Noble Quarter:
 ## Dangers
 - Environmental hazards
 - Hostile creatures
+
+
+## NPCs
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC01283_Corvus_Hawthorne_the_Fallen]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]

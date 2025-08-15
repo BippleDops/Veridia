@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.812175
+modified: 2025-08-15T16:41:42.812179
+aliases: [NPC01663 Pyria Grimholt the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Nerys Silverleaf the Seeker (Criminal - Informant)|Nerys Silverleaf the Seeker (Criminal - Informant)]]
+- [[#Ewan Keenblade the Mystic (Criminal - Accomplice)|Ewan Keenblade the Mystic (Criminal - Accomplice)]]
+- [[#Fiora Keenblade the Risen (Professional - Mentor)|Fiora Keenblade the Risen (Professional - Mentor)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Pyria Grimholt the Wanderer", "pyria grimholt the wanderer", "Pyria Grimholt Wanderer", "Wanderer the Grimholt Pyria"]
 tags: [npc, character]
@@ -153,9 +174,9 @@ Blackmails party into service
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -265,3 +286,14 @@ Blackmails party into service
 - Related: [[LOC00084_Towns_Location_85]]
 - Originates from [[step_090 (phase_048)]]
 - Leads to [[LORE00023_History_Entry_24]]
+
+## Visual References
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

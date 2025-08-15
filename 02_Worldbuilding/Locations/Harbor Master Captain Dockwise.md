@@ -215,3 +215,7 @@ Ongoing situations affecting Harbor Master Captain Dockwise:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]

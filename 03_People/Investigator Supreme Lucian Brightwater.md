@@ -23,6 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_investigator_supreme_lucian_brightwater.png]]
+
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-investigator-supreme-lucian-brightwater-investigator-supreme-lucian-brightwater.svg)
 

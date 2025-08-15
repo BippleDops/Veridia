@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_the_cathedral_dramatic.png]]
+
+
 # The  Cathedral
 
 ## Basic Information

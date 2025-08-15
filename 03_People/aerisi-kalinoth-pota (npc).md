@@ -1,4 +1,26 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.278381
+modified: 2025-08-15T16:41:48.278382
+aliases: [aerisi-kalinoth-pota (npc)]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Voice & Mannerisms|Voice & Mannerisms]]
+- [[#Daily Routine|Daily Routine]]
+- [[#Possessions|Possessions]]
+- [[#Combat Tactics|Combat Tactics]]
+- [[#Secrets|Secrets]]
+
+
+---
 
 title: aerisi-kalinoth-pota (npc)
 type: npc
@@ -22,7 +44,8 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/cr/7
 - ttrpg-cli/monster/type/humanoid/elf
-- alive
+-
+*Sounds of [relevant sounds] echo in the distance.* alive
 - research
 - world/both
 - content/npc

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.087100
+modified: 2025-08-15T16:41:42.087104
+aliases: [NPC00317 Pyria Blackstone the Redeemed]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Fiora Darkwater the Wise (Family - Spouse)|Fiora Darkwater the Wise (Family - Spouse)]]
+- [[#Urien Crystalbrook the Guardian (Family - Spouse)|Urien Crystalbrook the Guardian (Family - Spouse)]]
+- [[#Orion Xendar the Wanderer (Professional - Mentor)|Orion Xendar the Wanderer (Professional - Mentor)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Pyria Blackstone the Redeemed", "pyria blackstone the redeemed", "Pyria Blackstone Redeemed", "Redeemed the Blackstone Pyria"]
 tags: [npc, character]
@@ -140,6 +165,18 @@ Seeks bodyguards for dangerous journey
 - Special moves
 
 ## See Also
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[Pilgrim_Pass_Prayer_Sli]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[11 Rules Glossary]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[MOC_Rules]]
 - [[Related_Content]]
 
 
@@ -149,10 +186,10 @@ Seeks bodyguards for dangerous journey
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -262,3 +299,8 @@ Seeks bodyguards for dangerous journey
 - Parallels [[step_022 (phase_025)]]
 - Influences [[step_002 (phase_050)]]
 - See also: [[Potion of Acid Resistance Xdmg]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

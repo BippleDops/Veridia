@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Temple of Et
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]

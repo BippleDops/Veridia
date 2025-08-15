@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Wynne Ashford the Wise
 
 *Half-Elf Carpenter (Commoners), Age 50, Female*

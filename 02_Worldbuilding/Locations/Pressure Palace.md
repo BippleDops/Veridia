@@ -246,3 +246,8 @@ Ongoing situations affecting Pressure Palace:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]

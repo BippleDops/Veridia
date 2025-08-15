@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.716123
+modified: 2025-08-15T16:41:42.716125
+aliases: [NPC01197 Fiora Lightbringer the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Xander Goldleaf the Guardian (Criminal - Accomplice)|Xander Goldleaf the Guardian (Criminal - Accomplice)]]
+- [[#Fiora Silverleaf the Lost (Criminal - Informant)|Fiora Silverleaf the Lost (Criminal - Informant)]]
+- [[#Caelum Jadeclaw the Bold (Family - Spouse)|Caelum Jadeclaw the Bold (Family - Spouse)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Fiora Lightbringer the Lost", "fiora lightbringer the lost", "Fiora Lightbringer Lost", "Lost the Lightbringer Fiora"]
 tags: [npc, character]
@@ -157,9 +178,9 @@ Has map to lost treasure
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -269,3 +290,14 @@ Has map to lost treasure
 - Compare with [[Antiquarian Eliza Tidecaller (D&D_References)]]
 - Related: [[NPC00236_Dara_Brightblade]]
 - Leads to [[NPC00554_Hestara_Zephyrblade_the_Wanderer]]
+
+## Visual References
+![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

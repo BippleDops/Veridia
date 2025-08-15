@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Thalia Proudmore the Swift
 
 *Tiefling Fighter (Adventurers), Age 24, Female*

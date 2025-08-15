@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Silverleaf the Wise
 
 *Gnome Cleric (Adventurers), Age 64, Non-binary*

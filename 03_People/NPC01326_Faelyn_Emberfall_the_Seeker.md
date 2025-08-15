@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Faelyn Emberfall the Seeker
 
 *Goliath Rogue (Adventurers), Age 39, Male*

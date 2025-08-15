@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Baelor Dawnstrider the Mystic
 
 *Firbolg Wizard (Adventurers), Age 31, Female*

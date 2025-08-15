@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.000871
+modified: 2025-08-15T16:41:42.000874
+aliases: [NPC00582 Cedric Dawnstrider]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Faelyn Ironforge the Redeemed (Personal - Best friend)|Faelyn Ironforge the Redeemed (Personal - Best friend)]]
+- [[#Wynne Xendar the Bold (Criminal - Target)|Wynne Xendar the Bold (Criminal - Target)]]
+- [[#Gavril Oakenshield the Redeemed (Personal - Nemesis)|Gavril Oakenshield the Redeemed (Personal - Nemesis)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Cedric Dawnstrider", "cedric dawnstrider", "Dawnstrider Cedric"]
 tags: [npc, character]
@@ -137,6 +162,35 @@ Being extorted by criminals
 - Special moves
 
 ## See Also
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[Session 3 the Duplicate Crisis]]
+- [[QUEST00258_Side_Quest_259]]
+- [[QUEST00441_Side_Quest_442]]
+- [[Faction_Guide.md]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[NPC00129_Gareth_Jadeclaw]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[The Forgotten Representative]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[Parliamentary_Voting_Guide]]
+- [[Combat_Encounter_Analysis]]
+- [[Player_Feedback_Form.md]]
+- [[Reference.md]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC01594_Fiora_Proudmore_the_Seeker]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
+- [[02 Step by Step Characters]]
+- [[04 Classes]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
 - [[Related_Content]]
 
 
@@ -146,10 +200,10 @@ Being extorted by criminals
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -259,3 +313,8 @@ Being extorted by criminals
 - Affected by [[NPC0160_Aldric_Brightblade]]
 - Compare with [[Temporal Magic Research]]
 - Compare with [[step_003 (phase_079)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

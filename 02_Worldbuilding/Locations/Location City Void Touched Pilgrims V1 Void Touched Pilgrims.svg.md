@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Void Touched Pil
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00763_Urien_Brightblade_the_Broken]]

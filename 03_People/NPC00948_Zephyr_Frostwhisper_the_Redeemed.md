@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Zephyr Frostwhisper the Redeemed
 
 *Dwarf Shopkeeper (Merchants), Age 45, Male*

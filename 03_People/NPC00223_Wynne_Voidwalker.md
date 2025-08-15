@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Wynne Voidwalker
 
 *Tabaxi Ambassador (Nobles), Age 22, Non-binary*

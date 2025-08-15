@@ -208,3 +208,8 @@ Ongoing situations affecting Professional Organizations:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Elric Youngblood the Wanderer
 
 *Dwarf Appraiser (Merchants), Age 59, Non-binary*

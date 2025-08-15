@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.403153
+modified: 2025-08-15T16:41:41.403158
+aliases: [NPC00378 Malakai Moonshadow the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Orion Proudmore (Criminal - Informant)|Orion Proudmore (Criminal - Informant)]]
+- [[#Gavril Zephyrblade the Mystic (Criminal - Fence)|Gavril Zephyrblade the Mystic (Criminal - Fence)]]
+- [[#Aldric Keenblade the Lost (Political - Spy)|Aldric Keenblade the Lost (Political - Spy)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Malakai Moonshadow the Broken", "malakai moonshadow the broken", "Malakai Moonshadow Broken", "Broken the Moonshadow Malakaitags: [npc, character, combat, magic, social, exploration, puzzle, lore]er]
 type: npc
@@ -31,7 +56,7 @@ Below average and imposing, with Shaved unusual color hair and Brown eyes. Unusu
 - **Dream**: Overthrowing the government
 
 ## Background
-Exiled from their homeland, trying to rebuild their power base An old debt has come due at the worst possible time.
+Exiled from their homeland, trying to rebuild their power base An old debt has come due at the worst possible [[Time]].
 
 ## Current Situation
 - **Occupation**: Estate manager
@@ -98,7 +123,7 @@ Deception, History
 
 ### Special Abilities
 - Rally: Grant allies temporary hit points
-- Diplomatic Immunity: Cannot be arrested without evidence
+- [[Diplomatic Immunity]]: Cannot be arrested without evidence
 
 ## Possessions
 - 883 gold pieces
@@ -121,7 +146,7 @@ Deception, History
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- Political alliances
+- [[Political Alliances]]
 - Upcoming social events
 
 ## Plot Hook
@@ -152,6 +177,43 @@ Seeks bodyguards for dangerous journey
 - Special moves
 
 ## See Also
+- [[NPC00644_Nerys_Dawnstrider_the_Wanderer]]
+- [[Sage Elara]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01113_Solas_Ravenheart_the_Cunning]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[Depth_Adapted_Background]]
+- [[Party_Quests]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[08 Using Ability Scores]]
+- [[11 Rules Glossary]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[Count_Strahd_von_Zarovich]]
+- [[14 Gods of the Multiverse]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[Marcus Shardbreaker Grimm_1]]
 - [[Related_Content]]
 
 
@@ -161,8 +223,8 @@ Seeks bodyguards for dangerous journey
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -174,8 +236,8 @@ Seeks bodyguards for dangerous journey
 
 - Connects to [[step_050 (phase_097)]]
 - Requires [[Crystal-Enhanced Democracy]]
-- Originates from [[Assets Locations Location City Coral Lifeshaper Coral Lifeshaper.svg]]
-- Connects to [[Location Index]]
+- Originates from [[Assets Locations [[Location City [[Coral Lifeshaper]] Coral Lifeshaper.svg]]]]
+- Connects to [[Location [[INDEX]]]]
 - Leads to [[LORE00312_History_Entry_313]]
 - Affected by [[step_024]]
 - Affected by [[LOC00069_Planes_Location_70]]
@@ -184,7 +246,7 @@ Seeks bodyguards for dangerous journey
 - Requires [[LOC00068_Dungeons_Location_69]]
 - Leads to [[Crystal Cleansing Brotherhood 2]]
 - Affected by [[Geryon Mtf]]
-- Influences [[Assets Locations Location City Victoria Harbormane V1 Victoria Harbormane.svg]]
+- Influences [[Assets Locations Location City [[Victoria Harbormane]] V1 Victoria Harbormane.svg]]
 - Originates from [[step_015 (phase_082)]]
 - Originates from [[Hag Vgm]]
 - Affected by [[The Depth-Mad Priest, Curator Deep-Voice Thren]]
@@ -209,12 +271,12 @@ Seeks bodyguards for dangerous journey
 - Compare with [[Manufacturing Chief Gearwright]]
 - Connects to [[step_081 (phase_051)]]
 - Compare with [[detect-evil-and-good-xphb (spells)]]
-- Leads to [[Tidal Runner Nerissa (D&D_References)]]
+- Leads to [[[[Tidal Runner Nerissa]] (D&D_References)]]
 - Influences [[ghast-gravecaller-xmm (undead)]]
 - Requires [[Noble Leisure Schedules]]
 - Originates from [[ITEM01313_Practical_Tool_Kit_of_Reliability]]
 - See also: [[SPELL00074_Nature_Spell_75]]
-- Originates from [[Bestiary - Aquabyssos Creature Compendium]]
+- Originates from [[Bestiary - [[Aquabyssos]] Creature Compendium]]
 - Compare with [[bard-xphb-college-of-whispers-xge 2 (classes)]]
 - Originates from [[Layers of Bytopia Xdmg]]
 - Connects to [[Minotaur of Baphomet Xmm]]
@@ -245,7 +307,7 @@ Seeks bodyguards for dangerous journey
 - Parallels [[List Spells Optional Features Eldritch Sight]]
 - Related: [[location-city-new-tethys-new-tethys.svg]]
 - Leads to [[step_050 (phase_051)]]
-- Originates from [[Location City Temple Coalition V1 Temple Coalition.svg]]
+- Originates from [[Location City [[Temple Coalition]] V1 Temple Coalition.svg]]
 - Leads to [[ENC00200_Combat_Encounter_201]]
 - Originates from [[Barrel Xphb]]
 - Affected by [[whip-xphb (items)]]
@@ -263,12 +325,17 @@ Seeks bodyguards for dangerous journey
 - Connects to [[QUEST00386_Side_Quest_387]]
 - Affected by [[Sinking Phenomenon Research 2]]
 - Compare with [[Assets Symbols Symbol Heraldry Aquabyssos Faction Web Aquabyssos Faction Web.svg]]
-- Compare with [[The Balance Keeper (D&D_References)]]
+- Compare with [[[[The Balance Keeper]] (D&D_References)]]
 - Requires [[Rod of Alertness Xdmg]]
 - Originates from [[ITEM01461_Sturdy_Map_Case_of_Quality]]
 - Influences [[Philosopher-Noble Depth-Crown]]
 - Affected by [[ITEM00148_Blessed_Spear_of_Speed]]
 - Originates from [[Inverted Ballroom Wing]]
-- Compare with [[Location City Beast Master Krell Chainbreaker Beast Master Krell Chainbreaker.svg]]
+- Compare with [[Location City [[Beast Master Krell Chainbreaker]] Beast Master Krell Chainbreaker.svg]]
 - Originates from [[Monk Xphb Way of the Sun Soul Xge]]
 - Originates from [[step_062 (phase_008)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

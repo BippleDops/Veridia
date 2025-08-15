@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.972576
+modified: 2025-08-15T16:41:46.972578
+aliases: [NPC01332 Drusilla Emberfall the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Vesper Goldleaf the Guardian (Political - Spy)|Vesper Goldleaf the Guardian (Political - Spy)]]
+- [[#Gareth Moonshadow the Cunning (Political - Spy)|Gareth Moonshadow the Cunning (Political - Spy)]]
+- [[#Faelyn Keenblade the Lost (Professional - Mentor)|Faelyn Keenblade the Lost (Professional - Mentor)]]
+
+
+---
 aliases: ["Drusilla Emberfall the Guardian", "drusilla emberfall the guardian", "Drusilla Emberfall Guardian", "Guardian the Emberfall Drusilla"]
 tags: [npc, character]
 type: npc
@@ -248,3 +269,14 @@ Forming expedition to dangerous location
 - Requires [[Symbol Heraldry the Great Cataloguing V1 the Great Cataloguing.svg]]
 - Influences [[Eberron Aureon]]
 - Compare with [[Amber Xdmg]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
+![[03_People/portrait_the_crimson_shard_guardian.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

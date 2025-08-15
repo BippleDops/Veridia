@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Fiora Ironforge the Mystic
 
 *Tiefling Cleric (Adventurers), Age 63, Female*

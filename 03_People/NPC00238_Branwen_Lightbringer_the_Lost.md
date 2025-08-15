@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Branwen Lightbringer the Lost
 
 *Half-Orc Heir (Nobles), Age 34, Female*

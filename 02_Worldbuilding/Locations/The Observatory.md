@@ -246,3 +246,13 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[The Silent Watcher 2]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[NPC00407_Hestara_Dawnstrider]]

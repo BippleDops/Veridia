@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.794849
+modified: 2025-08-15T16:41:45.794854
+aliases: [NPC01419 Ewan Moonshadow the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Brenna Thornweave the Mystic (Personal - Nemesis)|Brenna Thornweave the Mystic (Personal - Nemesis)]]
+- [[#Gavril Frostwhisper the Seeker (Family - Parent)|Gavril Frostwhisper the Seeker (Family - Parent)]]
+- [[#Ewan Oakenshield the Risen (Professional - Partner)|Ewan Oakenshield the Risen (Professional - Partner)]]
+
+
+---
 aliases: ["Ewan Moonshadow the Strong", "ewan moonshadow the strong", "Ewan Moonshadow Strong", "Strong the Moonshadow Ewan"]
 tags: [npc, character]
 type: npc
@@ -243,3 +264,14 @@ Forming expedition to dangerous location
 - See also: [[step_091]]
 - See also: [[step_096 (phase_056)]]
 - Compare with [[step_020 (phase_069)]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

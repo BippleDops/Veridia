@@ -263,3 +263,7 @@ Ongoing situations affecting Memory Coral Reefs:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]

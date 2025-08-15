@@ -256,3 +256,10 @@ Ongoing situations affecting The Coral Throne:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01283_Corvus_Hawthorne_the_Fallen]]
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[The Coral Throne 2]]

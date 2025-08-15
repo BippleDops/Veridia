@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Aldric Youngblood the Guardian
 
 *Halfling Ranger (Adventurers), Age 25, Non-binary*

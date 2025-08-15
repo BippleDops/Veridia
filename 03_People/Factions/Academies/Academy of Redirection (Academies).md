@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Academy of Redirection](../../../04_Resources/Assets/Misc/academy_of_redirection.png)
 
 ## 🔧 Deep Evaluation Improvements

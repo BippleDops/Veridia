@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Brenna Oakenshield the Mystic
 
 *Goliath Shopkeeper (Merchants), Age 65, Female*

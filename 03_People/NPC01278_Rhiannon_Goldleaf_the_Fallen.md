@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Rhiannon Goldleaf the Fallen
 
 *Gnome Fighter (Adventurers), Age 21, Male*

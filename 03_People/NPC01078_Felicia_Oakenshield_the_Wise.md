@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.881511
+modified: 2025-08-15T16:41:45.881516
+aliases: [NPC01078 Felicia Oakenshield the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Xander Winterborn the Wanderer (Professional - Mentor)|Xander Winterborn the Wanderer (Professional - Mentor)]]
+- [[#Kaelen Moonshadow the Swift (Personal - Nemesis)|Kaelen Moonshadow the Swift (Personal - Nemesis)]]
+- [[#Delara Blackstone the Cunning (Family - Cousin)|Delara Blackstone the Cunning (Family - Cousin)]]
+
+
+---
 aliases: ["Felicia Oakenshield the Wise", "felicia oakenshield the wise", "Felicia Oakenshield Wise", "Wise the Oakenshield Felicia"]
 tags: [npc, character]
 type: npc
@@ -250,3 +271,14 @@ Has map to lost treasure
 - Influences [[The Crystalline Foundry (D&D_Statblocks)]]
 - Requires [[Assets Locations Location City Liminal Constantinople Liminal Constantinople.svg]]
 - Connects to [[step_025 (phase_067)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

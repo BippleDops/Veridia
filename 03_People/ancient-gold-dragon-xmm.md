@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_ancient_gold_dragon_xmm_dramatic.png]]
+
+
 # ancient-gold-dragon-xmm
 
 ## Basic Information

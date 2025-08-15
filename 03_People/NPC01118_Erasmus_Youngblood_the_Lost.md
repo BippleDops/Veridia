@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.533010
+modified: 2025-08-15T16:41:42.533013
+aliases: [NPC01118 Erasmus Youngblood the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Qadim Ashford the Guardian (Criminal - Accomplice)|Qadim Ashford the Guardian (Criminal - Accomplice)]]
+- [[#Corvus Ironwood the Seeker (Family - Cousin)|Corvus Ironwood the Seeker (Family - Cousin)]]
+- [[#Alaric Jadeclaw the Wise (Political - Puppet)|Alaric Jadeclaw the Wise (Political - Puppet)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Erasmus Youngblood the Lost", "erasmus youngblood the lost", "Erasmus Youngblood Lost", "Lost the Youngblood Erasmus"]
 tags: [npc, character]
@@ -158,11 +179,11 @@ Competitor sabotaging business
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -272,3 +293,14 @@ Competitor sabotaging business
 - Compare with [[step_075 (phase_030)]]
 - See also: [[Timeline of Crimes]]
 - Parallels [[step_029]]
+
+## Visual References
+![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
+![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
+![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

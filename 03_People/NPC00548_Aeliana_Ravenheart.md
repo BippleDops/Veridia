@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Aeliana Ravenheart
 
 *Genasi Farmer (Commoners), Age 35, Male*

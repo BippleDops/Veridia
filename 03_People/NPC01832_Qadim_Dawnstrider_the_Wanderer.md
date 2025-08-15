@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Qadim Dawnstrider the Wanderer
 
 *Half-Elf Corrupt Noble (Villains), Age 42, Non-binary*

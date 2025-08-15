@@ -279,3 +279,8 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00378_Malakai_Moonshadow_the_Broken]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]

@@ -237,3 +237,8 @@ Ongoing situations affecting Pressure Brewing Technology:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]

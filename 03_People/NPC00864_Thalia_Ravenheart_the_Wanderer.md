@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.867767
+modified: 2025-08-15T16:41:45.867769
+aliases: [NPC00864 Thalia Ravenheart the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Felicia Grimholt the Mystic (Criminal - Accomplice)|Felicia Grimholt the Mystic (Criminal - Accomplice)]]
+- [[#Faelyn Thornweave the Strong (Professional - Rival)|Faelyn Thornweave the Strong (Professional - Rival)]]
+- [[#Felicia Jadeclaw the Wanderer (Family - Sibling)|Felicia Jadeclaw the Wanderer (Family - Sibling)]]
+
+
+---
 aliases: ["Thalia Ravenheart the Wanderer", "thalia ravenheart the wanderer", "Thalia Ravenheart Wanderer", "Wanderer the Ravenheart Thalia"]
 tags: [npc, character]
 type: npc
@@ -246,3 +267,14 @@ Has map to lost treasure
 - Affected by [[SPELL00088_Divine_Spell_89]]
 - Originates from [[Portrait NPC Crown Dome Conspiracy V1 Crown Dome Conspiracy.svg_1 (Portraits)]]
 - Originates from [[step_031 (phase_044)]]
+
+## Visual References
+![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

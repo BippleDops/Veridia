@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.199228
+modified: 2025-08-15T16:41:48.199230
+aliases: [NPC01157 Urien Ravenheart the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Delara Frostwhisper the Lost (Professional - Rival)|Delara Frostwhisper the Lost (Professional - Rival)]]
+- [[#Idris Hawthorne the Cunning (Criminal - Informant)|Idris Hawthorne the Cunning (Criminal - Informant)]]
+- [[#Aldric Keenblade the Seeker (Family - Parent)|Aldric Keenblade the Seeker (Family - Parent)]]
+
+
+---
 aliases: ["Urien Ravenheart the Scholar", "urien ravenheart the scholar", "Urien Ravenheart Scholar", "Scholar the Ravenheart Urien"]
 tags: [npc, character]
 type: npc
@@ -138,3 +159,15 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -5,6 +5,10 @@ race: Human
 occupation: Priest
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait-npc-quest-faith-and-doubt-quest-faith-and-doubt.svg]]
+
+
 # Quest   Faith and Doubt
 
 *Human Priest*

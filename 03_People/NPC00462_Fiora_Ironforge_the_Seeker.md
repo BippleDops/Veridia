@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.894530
+modified: 2025-08-15T16:41:40.894534
+aliases: [NPC00462 Fiora Ironforge the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Vesper Underhill the Risen (Political - Opposition)|Vesper Underhill the Risen (Political - Opposition)]]
+- [[#Malakai Thornweave (Political - Ally)|Malakai Thornweave (Political - Ally)]]
+- [[#Ewan Ironwood (Political - Opposition)|Ewan Ironwood (Political - Opposition)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Fiora Ironforge the Seeker", "fiora ironforge the seeker", "Fiora Ironforge Seeker", "Seeker the Ironforge Fioratags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
@@ -133,13 +154,31 @@ Witnessed a crime
 - Special moves
 
 ## Combat Stats
-Base: **Commoner** (MM p.345)
+Base: **Commoner** (BC p.345)
 Modifications:
 - HP: 29
 - AC: 11
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC00080_Branwen_Proudmore]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC00259_Delara_Proudmore]]
+- [[MOC_Items]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]
 - [[Related_Content]]
 
 
@@ -149,8 +188,8 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -166,7 +205,7 @@ Modifications:
 - Influences [[skill-list-skills-xphb (tables)]]
 - Originates from [[step_077]]
 - Compare with [[Portcullises Xdmg]]
-- Affected by [[Assets Locations Location City Quieting the Depths V1 Quieting the Depths.svg]]
+- Affected by [[Assets Locations [[Location City [[Quieting the Depths]] V1 Quieting the Depths.svg]]]]
 - Influences [[NPC01922_Idris_Stormwind_the_Bold]]
 - Connects to [[step_055 (phase_067)]]
 - Parallels [[Portrait NPC Brother Matthias the Amber Bearer V2 Brother Matthias the Amber Bearer.svg_1 (Portraits)]]
@@ -175,9 +214,9 @@ Modifications:
 - Connects to [[Poverty Survival Strategies]]
 - Requires [[kuo-toa-whip-xmm]]
 - Related: [[QUEST00060_Personal_Quest_61]]
-- See also: [[location-city-aquabyssos-v1-aquabyssos.svg]]
+- See also: [[location-city-[[Aquabyssos]]-v1-aquabyssos.svg]]
 - Related: [[Assets Symbols Symbol Heraldry Border Fortresses Border Fortresses.svg]]
-- Originates from [[Specimen Careful Lifeguard (D&D_References)]]
+- Originates from [[[[Specimen Careful Lifeguard]] (D&D_References)]]
 - Compare with [[SPELL00041_Nature_Spell_42]]
 - Leads to [[step_098 (phase_068)]]
 - Parallels [[Portrait NPC High Inquisitor Maltheos V1 High Inquisitor Maltheos.svg_1 (Portraits)]]
@@ -186,7 +225,7 @@ Modifications:
 - Requires [[step_041 (phase_069)]]
 - Affected by [[Assets Symbols Symbol Heraldry Purist Coalition Thugs Purist Coalition Thugs.svg]]
 - Requires [[Portrait NPC Harbor Master Luna Freedrift V2 Harbor Master Luna Freedrift.svg]]
-- Related: [[Assets Locations Location City St Meridian S Cathedral V1 St Meridian S Cathedral.svg]]
+- Related: [[Assets Locations [[Location City St Meridian S Cathedral V1 St Meridian S Cathedral.svg]]]]
 - Related: [[LOC00297_Dungeons_Location_298]]
 - Related: [[NPC01654_Kaelen_Frostwhisper_the_Scholar]]
 - Influences [[New Tethys]]
@@ -195,7 +234,7 @@ Modifications:
 - Influences [[red-slaad-xmm (aberration)]]
 - Leads to [[Dimension Door Xphb]]
 - Related: [[improvising-damage (tables)]]
-- Compare with [[Tavern Brawler Xphb]]
+- Compare with [[[[Tavern]] Brawler Xphb]]
 - Originates from [[Lich Xmm (undead)]]
 - Influences [[Deer Xmm]]
 - Leads to [[figurine-of-wondrous-power-marble-elephant-xdmg]]
@@ -207,7 +246,7 @@ Modifications:
 - Affected by [[step_021 (phase_075)]]
 - Compare with [[ENC00019_Combat_Encounter_20]]
 - Related: [[step_036]]
-- Requires [[Pearlshell (D&D_References)]]
+- Requires [[[[Pearlshell]] (D&D_References)]]
 - Requires [[step_026 (phase_053)]]
 - Related: [[step_082]]
 - Affected by [[cast-off-armor-xdmg (items)]]
@@ -226,31 +265,31 @@ Modifications:
 - Affected by [[ENC00259_Combat_Encounter_260]]
 - Influences [[ITEM01320_Simple_Spyglass_of_Reliability]]
 - Parallels [[portrait-npc-duke-gale-vortex-duke-gale-vortex.svg]]
-- Compare with [[Kelp-Silk 2]]
+- Compare with [[[[Kelp-Silk]] 2]]
 - Requires [[step_048 (phase_023)]]
-- Affected by [[Portrait NPC Memory Merchants V1 Memory Merchants.svg]]
+- Affected by [[Portrait NPC Memory [[Merchant]]s V1 Memory Merchants.svg]]
 - Connects to [[Deep-Priest Covenant]]
 - See also: [[Dr. Siphon Gillwater (D&D_Statblocks)]]
 - Connects to [[step_007]]
 - Influences [[Healer Sage Bondseer]]
 - Requires [[Lady Catherine Mourning (D&D_References)]]
 - Originates from [[divine-smite-xphb (spells)]]
-- Influences [[Quartermaster Shadow Supply 2]]
+- Influences [[[[Quartermaster Shadow Supply]] 2]]
 - Connects to [[step_096]]
 - Originates from [[LORE00052_Legends_Entry_53]]
 - Originates from [[step_097 (phase_049)]]
 - Affected by [[Using a Published Setting D D Settings Xdmg]]
 - Connects to [[step_076]]
 - Connects to [[ENC00001_Social_Encounter_2]]
-- Connects to [[The Perfect Symbiosis 2]]
+- Connects to [[[[The Perfect Symbiosis]] 2]]
 - Related: [[step_017]]
 - Affected by [[Political Parties of Aquabyssos 2]]
 - Influences [[Pressure Suit Malfunction]]
 - Connects to [[location-city-seal-keepers-v1-seal-keepers.svg]]
 - Affected by [[draakhorn-rot (items)]]
 - Compare with [[step_009 (phase_039)]]
-- Compare with [[Location City Crystal Palace Complex V1 Crystal Palace Complex.svg]]
-- Affected by [[Timeline of the Drowning (Lore)]]
+- Compare with [[Location City [[Crystal Palace]] Complex V1 [[Crystal Palace Complex]].svg]]
+- Affected by [[[[Time]]line of the Drowning (Lore)]]
 - Compare with [[Cow Vgm]]
 - Compare with [[The Leviathan Prophets (D&D_References)]]
 - Affected by [[SPELL00158_Arcane_Spell_159]]
@@ -259,4 +298,15 @@ Modifications:
 - Leads to [[The Scrying Master]]
 - Related: [[QUEST0029_Captain's_Request]]
 - Leads to [[Scroll of Protection Fey Xdmg]]
-- Parallels [[Location City High Hierophant Meridius High Hierophant Meridius.svg]]
+- Parallels [[Location City [[High Hierophant Meridius]] High Hierophant Meridius.svg]]
+
+## Visual References
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

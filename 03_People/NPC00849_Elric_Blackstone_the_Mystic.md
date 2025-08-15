@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Elric Blackstone the Mystic
 
 *Dwarf Trader (Merchants), Age 75, Non-binary*

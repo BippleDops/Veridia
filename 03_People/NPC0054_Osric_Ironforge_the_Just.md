@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.801303
+modified: 2025-08-15T16:41:46.801306
+aliases: [NPC0054 Osric Ironforge the Just]
+---
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Secrets|Secrets]]
+- [[#Relationships|Relationships]]
+- [[#Roleplaying|Roleplaying]]
+
+
+---
 aliases: ["Osric Ironforge the Just", "osric ironforge the just", "Osric Ironforge Just", "Just the Ironforge Osric"]
 tags: [, generated]
   - npc
@@ -230,3 +251,8 @@ Insight, Arcana, Deception, Persuasion
 - Leads to [[The Null Cathedral (D&D_References)]]
 - Compare with [[LOC00253_Cities_Location_254]]
 - Influences [[Garden of Shadows 2]]
+
+## Visual References
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]

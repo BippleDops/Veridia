@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.085223
+modified: 2025-08-15T16:41:41.085226
+aliases: [NPC01262 Ysara Dawnstrider the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Fiora Youngblood the Wanderer (Professional - Employee)|Fiora Youngblood the Wanderer (Professional - Employee)]]
+- [[#Vesper Silverleaf the Risen (Political - Patron)|Vesper Silverleaf the Risen (Political - Patron)]]
+- [[#Rhiannon Emberfall the Guardian (Political - Puppet)|Rhiannon Emberfall the Guardian (Political - Puppet)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Ysara Dawnstrider the Swift", "ysara dawnstrider the swift", "Ysara Dawnstrider Swift", "Swift the Dawnstrider Ysaratags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
@@ -18,7 +39,7 @@ type: npc
 ## Appearance
 Very tall and imposing, with Mohawk white hair and Black eyes. Fair skin. Crooked nose from multiple breaks.
 
-**Clothing**: Merchant's outfit with many hidden pockets
+**Clothing**: [[Merchant]]'s outfit with many hidden pockets
 **Accessories**: Lucky rabbit's foot, Leather pouch always at hip
 
 ## Personality
@@ -138,32 +159,66 @@ Forming expedition to dangerous location
 - Special moves
 
 ## Combat Stats
-Base: **Noble** (MM p.348)
+Base: **Noble** (BC p.348)
 Modifications:
 - HP: 41
 - AC: 10
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00287_Ysara_Underhill_the_Wise]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC00207_Ysara_Ravenheart]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[Faction_Guide.md]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[07 Customization Options]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[08 Using Ability Scores]]
+- [[NPC01594_Fiora_Proudmore_the_Seeker]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[MOC_Lore]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Volo's Guide to Monsters (VGM) p.21
-- Mordenkainen's Tome of Foes (MTF) p.74
+- Volo's Creature Catalog to Monsters (VCC) p.21
+- Mordenkainen's Forbidden Knowledge of Foes (MFK) p.74
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -171,10 +226,10 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -218,9 +273,9 @@ Following magic item guidelines (DMG p.135-136):
 - Influences [[step_033 (phase_093)]]
 - Related: [[step_081]]
 - Affected by [[LOC00082_Towns_Location_83]]
-- Requires [[The Shadowmere (D&D_References)]]
+- Requires [[[[The Shadowmere]] (D&D_References)]]
 - Compare with [[SPELL00162_Divine_Spell_163]]
-- Requires [[Assets Locations Location City Warehouse District V1 Warehouse District.svg]]
+- Requires [[Assets Locations [[Location City [[Warehouse District]] V1 Warehouse District.svg]]]]
 - See also: [[step_095 (phase_099)]]
 - Affected by [[Portrait NPC Captain Morgrim Lastvessel V1 Captain Morgrim Lastvessel.svg]]
 - Requires [[Complete_Reality_Merger_System (D&D_References)]]
@@ -233,7 +288,7 @@ Following magic item guidelines (DMG p.135-136):
 - Leads to [[portrait-npc-session-4-v2-session-4.svg]]
 - Connects to [[Melody Crystalsong]]
 - Connects to [[Quest - Corruption in the Temple]]
-- Originates from [[Dr. Marina Deepcurrent]]
+- Originates from [[Dr. [[Marina Deepcurrent]]]]
 - Connects to [[Assets Portraits Portrait NPC Senator Cordelia Deepcurrent Senator Cordelia Deepcurrent.svg]]
 - Compare with [[Student Engineer Bronze]]
 - Influences [[Crocodile Xmm]]
@@ -250,7 +305,7 @@ Following magic item guidelines (DMG p.135-136):
 - Leads to [[step_050 (phase_071)]]
 - Affected by [[step_076 (phase_007)]]
 - Requires [[SPELL00049_Nature_Spell_50]]
-- Related: [[Portrait NPC Queen Morwyn Lumengarde V1 Queen Morwyn Lumengarde.svg]]
+- Related: [[Portrait NPC Queen Morwyn [[Lumengarde]] V1 Queen Morwyn Lumengarde.svg]]
 - Requires [[vegepygmy-chief-mpmm (plant)]]
 - Leads to [[Creative Visionweaver]]
 - Influences [[Coastal Encounters Levels 14 Xge]]
@@ -261,13 +316,13 @@ Following magic item guidelines (DMG p.135-136):
 - See also: [[The Crimson Foundries]]
 - Related: [[NPC00682_Nerys_Ashford_the_Broken]]
 - Compare with [[Portrait NPC Lord Admiral Gaius Windcutter V1 Lord Admiral Gaius Windcutter.svg]]
-- Requires [[Assets Locations Location City Quest the Missing Fleet Quest the Missing Fleet.svg]]
-- Originates from [[Location City Divine Communication Studies V1 Divine Communication Studies.svg]]
+- Requires [[Assets Locations [[Location City Quest the Missing Fleet Quest the Missing Fleet.svg]]]]
+- Originates from [[Location City [[Divine Communication Studies]] V1 Divine Communication Studies.svg]]
 - See also: [[Transformation Assistance]]
 - Connects to [[The Healer's Persecution (D&D_References)]]
 - See also: [[Memory_Pearls (02_Worldbuilding)]]
 - See also: [[LORE00239_Legends_Entry_240]]
-- Parallels [[Location City Pressure Guard Steelwall V1 Pressure Guard Steelwall.svg]]
+- Parallels [[Location City [[Pressure Guard Steelwall]] V1 Pressure Guard Steelwall.svg]]
 - Leads to [[02_Worldbuilding_Locations_Archive_of_Echoes]]
 - Connects to [[step_088 (phase_051)]]
 - Connects to [[The Deep Markets]]
@@ -279,8 +334,19 @@ Following magic item guidelines (DMG p.135-136):
 - Compare with [[step_037 (phase_029)]]
 - Originates from [[location-city-depth-merchants-depth-merchants.svg]]
 - Compare with [[Deepcaster]]
-- Connects to [[Location City Memory Coral Reefs Memory Coral Reefs.svg]]
+- Connects to [[Location City [[Memory Coral Reefs]] Memory Coral Reefs.svg]]
 - Parallels [[SPELL00035_Arcane_Spell_36]]
 - Affected by [[ITEM00610_Enchanted_Gauntlets_of_Fortitude]]
 - Influences [[step_049 (phase_040)]]
 - Compare with [[Transmute Rock Xge]]
+
+## Visual References
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

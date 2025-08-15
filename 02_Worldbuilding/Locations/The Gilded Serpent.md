@@ -136,3 +136,13 @@ Recent developments have brought new attention to The Gilded Serpent, creating o
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00945_Wynne_Voidwalker_the_Seeker]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]

@@ -208,3 +208,8 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]

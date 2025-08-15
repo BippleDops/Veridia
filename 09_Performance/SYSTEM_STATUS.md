@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:26.042285
+modified: 2025-08-15T16:41:26.042289
+aliases: [SYSTEM STATUS]
+---
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Conditions Reference (ACX p.290-292) ### Common Conditions {#conditions-reference-(phb-p.290-292)-###-common-conditions} - **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks|Conditions Reference (ACX p.290-292) ### Common Conditions {#conditions-reference-(phb-p.290-292)-###-common-conditions} - **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks]]
+- [[#Session Prep|Session Prep]]
+- [[#Thematic Elements|Thematic Elements]]
+- [[#Visual References|Visual References]]
+- [[#See Also|See Also]]
+- [[#Item Rarity & Balance|Item Rarity & Balance]]
+- [[#Comparable Official Items|Comparable Official Items]]
+- [[#Source References|Source References]]
+- [[#Related Content|Related Content]]
+
+
+---
 enhanced: trtags: [enhanced, 13_performance, combat, magic, exploration, lore]ce]
 created: 2025-08-15T12:24:41.087817
 modified: 2025-08-15T12:24:41.087819
@@ -41,6 +62,7 @@ tags:
 - active
 - note created: '2025-08-14'
 modified: '2025-08-14'
+*The air carries the scent of [appropriate smell].*
 *Sounds of [relevant sounds] echo in the distance.*
 - -- # TTRPG Vault Asset Generation System Status ## 🚀 System Overview **Status:** FULLY OPERATIONAL
 **Last Updated:** August 14, 2025 ## ✅ Active Services ### 1. **API Integrations** - **Open AI (GPT-4 + DALL-E 3):** ✅ Connected and generating - Organization: org-2RQvi6x SEda Tm DXO2Brvi99T - Project: proj_b6VDmk RDhaa7Zl Yv Ox Etz Jvv - Status: Working with rate limiting - **Stability AI (SDXL):** ✅ Connected and generating - Engine: stable-diffusion-xl-1024-v1-0 - Status: Primary image generation service - **Unsplash:** ⚠️ Key issue (non-critical) - Used for inspiration only - **Spotify:** ℹ️ Configured (OAuth required for full access) ### 2. **Running Processes** - **Orchestrator:** Continuous asset generation loop
@@ -152,52 +174,52 @@ This content explores themes of redemption, adding narrative depth to your campa
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Player's Handbook (PHB) p.114
-- Dungeon Master's Guide (DMG) p.205
-- Monster Manual (MM) p.269
-- Volo's Guide to Monsters (VGM) p.183
+- Adventurer's Codex (ACX) p.114
+- Worldweaver's Tome (WWT) p.205
+- Bestiary Compendium (BC) p.269
+- Volo's Creature Catalog to Monsters (VCC) p.183
 
 ## Related Content
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Death Saves**: See PHB p.197
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

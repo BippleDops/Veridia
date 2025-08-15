@@ -215,3 +215,9 @@ Ongoing situations affecting Gateway Keeper Riftwalk:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]

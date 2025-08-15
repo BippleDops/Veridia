@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.518738
+modified: 2025-08-15T16:41:46.518742
+aliases: [NPC00187 Qadim Ashford]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Brenna Goldleaf (Professional - Employee)|Brenna Goldleaf (Professional - Employee)]]
+- [[#Rhiannon Moonshadow (Criminal - Accomplice)|Rhiannon Moonshadow (Criminal - Accomplice)]]
+- [[#Ewan Emberfall the Seeker (Personal - Childhood friend)|Ewan Emberfall the Seeker (Personal - Childhood friend)]]
+
+
+---
 aliases: ["Qadim Ashford", "qadim ashford", "Ashford Qadim"]
 tags: [npc, character]
 type: npc
@@ -246,3 +271,8 @@ Seeks bodyguards for dangerous journey
 - Originates from [[Commander Thrace Ironwood]]
 - Connects to [[Hold Person Xphb]]
 - Related: [[step_069 (phase_078)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.595926
+modified: 2025-08-15T16:41:45.595929
+aliases: [NPC01334 Faelyn Ironwood the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Malakai Xendar the Scholar (Criminal - Accomplice)|Malakai Xendar the Scholar (Criminal - Accomplice)]]
+- [[#Fiora Underhill the Wanderer (Personal - Childhood friend)|Fiora Underhill the Wanderer (Personal - Childhood friend)]]
+- [[#Lyanna Underhill the Guardian (Political - Patron)|Lyanna Underhill the Guardian (Political - Patron)]]
+
+
+---
 aliases: ["Faelyn Ironwood the Seeker", "faelyn ironwood the seeker", "Faelyn Ironwood Seeker", "Seeker the Ironwood Faelyn"]
 tags: [npc, character]
 type: npc
@@ -248,3 +269,14 @@ Knows secret about major threat
 - Affected by [[Handout Handout Merchant Contract with Fine Print V1 Merchant Contract with Fine Print.png]]
 - See also: [[NPC01632_Qadim_Darkwater_the_Guardian]]
 - Connects to [[step_050 (phase_061)]]
+
+## Visual References
+![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
+![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
+![[03_People/portrait_commander_thrace_ironwood.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -214,3 +214,7 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00083_Vesper_Xendar_the_Lost]]

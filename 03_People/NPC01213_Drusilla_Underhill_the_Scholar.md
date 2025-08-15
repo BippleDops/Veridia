@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Drusilla Underhill the Scholar
 
 *Tabaxi Rogue (Adventurers), Age 60, Male*

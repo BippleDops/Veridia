@@ -972,3 +972,8 @@ Ongoing situations affecting Mourning Depths:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[NPC00763_Urien_Brightblade_the_Broken]]

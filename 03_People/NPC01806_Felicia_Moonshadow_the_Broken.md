@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.861819
+modified: 2025-08-15T16:41:47.861822
+aliases: [NPC01806 Felicia Moonshadow the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Ironforge the Wise (Family - Child)|Ysara Ironforge the Wise (Family - Child)]]
+- [[#Alaric Ironwood the Redeemed (Professional - Employee)|Alaric Ironwood the Redeemed (Professional - Employee)]]
+- [[#Delara Lightbringer the Risen (Family - Sibling)|Delara Lightbringer the Risen (Family - Sibling)]]
+
+
+---
 aliases: ["Felicia Moonshadow the Broken", "felicia moonshadow the broken", "Felicia Moonshadow Broken", "Broken the Moonshadow Felicia"]
 tags: [npc, character]
 type: npc
@@ -150,3 +175,9 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

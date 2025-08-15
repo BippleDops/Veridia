@@ -313,3 +313,16 @@ Ongoing situations affecting Captain Marcus:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]

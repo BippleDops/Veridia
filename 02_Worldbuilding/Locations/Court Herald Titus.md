@@ -615,3 +615,8 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]

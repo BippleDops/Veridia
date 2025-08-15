@@ -225,3 +225,7 @@ Ongoing situations affecting Observation Tender Clara:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[The Silent Watcher 2]]

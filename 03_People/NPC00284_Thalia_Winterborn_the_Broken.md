@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Thalia Winterborn the Broken
 
 *Genasi Aristocrat (Nobles), Age 61, Male*

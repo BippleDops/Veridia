@@ -259,3 +259,7 @@ Ongoing situations affecting Archivist Reef Bookkeeper:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]

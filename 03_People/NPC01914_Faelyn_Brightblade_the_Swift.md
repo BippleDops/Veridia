@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Faelyn Brightblade the Swift
 
 *Tabaxi Crime Boss (Villains), Age 44, Non-binary*

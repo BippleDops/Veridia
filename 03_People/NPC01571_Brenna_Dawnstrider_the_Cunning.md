@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Brenna Dawnstrider the Cunning
 
 *Dragonborn Fighter (Adventurers), Age 57, Female*

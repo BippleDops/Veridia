@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Urien Blackstone the Bold
 
 *Dragonborn Baker (Commoners), Age 52, Male*

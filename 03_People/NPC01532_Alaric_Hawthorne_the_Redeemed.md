@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Alaric Hawthorne the Redeemed
 
 *Halfling Fighter (Adventurers), Age 27, Non-binary*

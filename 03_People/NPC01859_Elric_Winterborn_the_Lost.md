@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Elric Winterborn the Lost
 
 *Goliath Assassin (Villains), Age 22, Non-binary*

@@ -271,3 +271,8 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]

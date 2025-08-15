@@ -254,3 +254,7 @@ Ongoing situations affecting Bubble Yeastkeeper:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]

@@ -223,3 +223,8 @@ Ongoing situations affecting Tymora:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]

@@ -246,3 +246,7 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]

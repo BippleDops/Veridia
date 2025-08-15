@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Drusilla Ravenheart the Wise
 
 *Tabaxi Rogue (Adventurers), Age 68, Female*

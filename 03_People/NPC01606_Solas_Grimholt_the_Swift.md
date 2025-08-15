@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Grimholt the Swift
 
 *Dragonborn Crime Boss (Villains), Age 49, Male*

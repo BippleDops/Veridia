@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Jorah Keenblade the Mystic
 
 *Gnome Trader (Merchants), Age 33, Non-binary*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Elric Frostwhisper the Redeemed
 
 *Genasi Crime Boss (Villains), Age 49, Female*

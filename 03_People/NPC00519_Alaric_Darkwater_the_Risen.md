@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Alaric Darkwater the Risen
 
 *Tabaxi Blacksmith (Commoners), Age 54, Non-binary*

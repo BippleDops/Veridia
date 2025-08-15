@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.699933
+modified: 2025-08-15T16:41:42.699936
+aliases: [NPC00730 Idris Quicksilver the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Fiora Keenblade the Guardian (Personal - Love interest)|Fiora Keenblade the Guardian (Personal - Love interest)]]
+- [[#Nerys Ashford the Cunning (Political - Opposition)|Nerys Ashford the Cunning (Political - Opposition)]]
+- [[#Corvus Dawnstrider the Wise (Criminal - Fence)|Corvus Dawnstrider the Wise (Criminal - Fence)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Idris Quicksilver the Wanderer", "idris quicksilver the wanderer", "Idris Quicksilver Wanderer", "Wanderer the Quicksilver Idris"]
 tags: [npc, character]
@@ -159,9 +180,9 @@ Being extorted by criminals
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -271,3 +292,14 @@ Being extorted by criminals
 - Originates from [[NPC01250_Rhiannon_Brightblade_the_Redeemed]]
 - Related: [[LOC00061_Cities_Location_62]]
 - Leads to [[Marcus Depthwar (D&D_References)]]
+
+## Visual References
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

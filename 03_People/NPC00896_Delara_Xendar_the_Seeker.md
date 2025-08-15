@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Delara Xendar the Seeker
 
 *Tiefling Shopkeeper (Merchants), Age 36, Non-binary*

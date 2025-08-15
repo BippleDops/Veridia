@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Malakai Voidwalker the Bold
 
 *Half-Orc Rogue (Adventurers), Age 31, Non-binary*

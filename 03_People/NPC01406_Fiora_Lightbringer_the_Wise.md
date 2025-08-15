@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Fiora Lightbringer the Wise
 
 *Gnome Wizard (Adventurers), Age 31, Female*

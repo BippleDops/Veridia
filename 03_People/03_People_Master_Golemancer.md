@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_03_people_master_golemancer_friendly.png]]
+
+
 # 03_People/Master_Golemancer
 
 ## Basic Information

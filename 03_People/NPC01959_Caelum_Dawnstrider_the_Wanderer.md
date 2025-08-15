@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.956856
+modified: 2025-08-15T16:41:45.956860
+aliases: [NPC01959 Caelum Dawnstrider the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Thornweave the Cunning (Political - Ally)|Wynne Thornweave the Cunning (Political - Ally)]]
+- [[#Pyria Nightfall the Wise (Professional - Rival)|Pyria Nightfall the Wise (Professional - Rival)]]
+- [[#Nerys Youngblood the Strong (Personal - Nemesis)|Nerys Youngblood the Strong (Personal - Nemesis)]]
+
+
+---
 aliases: ["Caelum Dawnstrider the Wanderer", "caelum dawnstrider the wanderer", "Caelum Dawnstrider Wanderer", "Wanderer the Dawnstrider Caelum"]
 tags: [npc, character]
 type: npc
@@ -246,3 +267,14 @@ Provides information for a price
 - Influences [[step_091]]
 - See also: [[meld-into-stone-xphb (spells)]]
 - Affected by [[Portrait NPC High Techno Priest Lumina Skyweaver V2 High Techno Priest Lumina Skyweaver.svg]]
+
+## Visual References
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

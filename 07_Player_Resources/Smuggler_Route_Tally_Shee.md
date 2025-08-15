@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:33.998234
+modified: 2025-08-15T16:41:33.998237
+aliases: [Smuggler Route Tally Shee]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+- [[#Superstitions Improvements|Superstitions Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Visual_Handouts/Smuggler_Route_Tally_Shee
 type: lore
@@ -112,6 +133,28 @@ tags: [combat, lore]
 > Hidden treasure can be found here with a DC 15 Investigation check
 
 ## See Also
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[Basic_Rules]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00080_Branwen_Proudmore]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]
+- [[05 Personality and Background]]
+- [[16 Credits]]
+- [[Character_Journal_Template]]
+- [[11 Rules Glossary]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[MOC_Rules]]
 - [[Related_Content]]
 
 
@@ -121,15 +164,15 @@ tags: [combat, lore]
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -233,3 +276,8 @@ tags: [combat, lore]
 - Originates from [[step_037 (phase_094)]]
 - Related: [[Chief Engineer Marina Crystalwright]]
 - Connects to [[step_066 (phase_027)]]
+
+## Visual References
+![[03_People/portrait_the_smuggler_s_den_dramatic.png]]
+![[03_People/portrait_the_smuggler_s_den_standard.png]]
+![[03_People/portrait_the_smuggler_s_den_friendly.png]]

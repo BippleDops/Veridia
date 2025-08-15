@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:34.232855
+modified: 2025-08-15T16:41:34.232857
+aliases: [Calendar Conversions Realm Window]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Oral_Tradition Improvements|Oral_Tradition Improvements]]
+- [[#Sensory Improvements|Sensory Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+- [[#Material_Culture Improvements|Material_Culture Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Visual_Handouts/Calendar_Conversions_Realm_Window
 type: lore
@@ -96,6 +117,26 @@ tags: [combat, magic, lore]
 > This location connects to the main plot
 
 ## See Also
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[Combat_Encounter_Analysis]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[07 Customization Options]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[Master_Narrative_Web.md]]
 - [[Related_Content]]
 
 
@@ -105,18 +146,18 @@ tags: [combat, magic, lore]
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
 
 ## Connections
 
@@ -220,3 +261,23 @@ tags: [combat, magic, lore]
 - Connects to [[step_047 (phase_038)]]
 - Requires [[Voidwhisper Diplomat Seraphina Darkgrace 2]]
 - Leads to [[Medical Cover Operations Center 2]]
+
+## Visual References
+![[04_Resources/maps/world_services_inter_realm_transportation_political.png]]
+![[04_Resources/maps/world_assets_locations_location_city_inter_realm_relations_inter_realm_relations_svg_gm.png]]
+![[04_Resources/maps/world_inter_realm_relations_physical.png]]
+
+
+## Realm Connections
+
+### Connection to Aethermoor
+This connects to the sky realm of Sky realm of eternal winds and floating islands.
+
+- **Ruling Power**: The Windlord Council
+- **Capital**: [[Skylance Citadel]]
+- **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
+- **Current Conflict**: The Void Incursion, Elemental Convergence
+- **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
+
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+navigate floating islands connected by bridges of solidified cloud.

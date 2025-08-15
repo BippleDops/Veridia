@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Kaelen Silverleaf the Guardian
 
 *Dragonborn Blacksmith (Commoners), Age 72, Female*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ysara Crystalbrook the Broken
 
 *Tiefling Noble (Nobles), Age 39, Non-binary*

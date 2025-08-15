@@ -213,3 +213,7 @@ Ongoing situations affecting Duchess Cordelia Pearlheart:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00287_Ysara_Underhill_the_Wise]]

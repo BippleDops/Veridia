@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Emberfall the Risen
 
 *Dwarf Aristocrat (Nobles), Age 48, Male*

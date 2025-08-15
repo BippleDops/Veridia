@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Dawnstrider the Strong
 
 *Aasimar Crime Boss (Villains), Age 30, Female*

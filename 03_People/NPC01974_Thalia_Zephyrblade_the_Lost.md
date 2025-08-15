@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.524791
+modified: 2025-08-15T16:41:40.524797
+aliases: [NPC01974 Thalia Zephyrblade the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Vesper Nightfall the Broken (Personal - Childhood friend)|Vesper Nightfall the Broken (Personal - Childhood friend)]]
+- [[#Aldric Crystalbrook the Lost (Political - Patron)|Aldric Crystalbrook the Lost (Political - Patron)]]
+- [[#Cedric Voidwalker the Lost (Criminal - Accomplice)|Cedric Voidwalker the Lost (Criminal - Accomplice)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Thalia Zephyrblade the Lost", "thalia zephyrblade the lost", "Thalia Zephyrblade Lost", "Lost the Zephyrblade Thaliatags: [npc, character, combat, magic, social, lore]er]
 type: npc
@@ -136,7 +157,7 @@ Blackmails party into service
 - Special moves
 
 ## Combat Stats
-Base: **Mage** (MM p.347)
+Base: **Mage** (BC p.347)
 Modifications:
 - HP: 42
 - AC: 14
@@ -147,6 +168,16 @@ Modifications:
 > Important safety or rule information
 
 ## See Also
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
+- [[MOC_Rules]]
 - [[Related_Content]]
 
 
@@ -156,9 +187,9 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -168,18 +199,18 @@ Modifications:
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
 
 ## Connections
 
@@ -199,9 +230,9 @@ Modifications:
 - Originates from [[SPELL0035_Mystic_Storm]]
 - Leads to [[step_014 (phase_052)]]
 - Parallels [[NPC0052_Magnus_Ironforge]]
-- Parallels [[Miranda Hopekeeper (D&D_References)]]
+- Parallels [[[[Miranda Hopekeeper]] (D&D_References)]]
 - Related: [[step_097]]
-- See also: [[Medical College of Aquabyssos]]
+- See also: [[Medical College of [[Aquabyssos]]]]
 - Requires [[Create Homunculus Xge]]
 - Compare with [[carved-bone-statuette-xdmg (items)]]
 - See also: [[NPC01195_Gareth_Keenblade_the_Guardian]]
@@ -209,20 +240,20 @@ Modifications:
 - Related: [[LOC0039_PortGate]]
 - Parallels [[Quest Name]]
 - Originates from [[MON00037_Aberrations_Creature_38]]
-- Connects to [[Location City Calm Soothingwave V1 Calm Soothingwave.svg]]
+- Connects to [[Location City [[Calm Soothingwave]] V1 Calm Soothingwave.svg]]
 - Parallels [[myconid-sovereign-xmm (plant)]]
 - Related: [[Initiative_Tracker]]
 - Related: [[step_028 (phase_012)]]
 - Leads to [[Temporal Anomaly Resolution (D&D_References)]]
 - Requires [[step_002 (phase_006)]]
 - Connects to [[Location City Quest the Truth Unveiled Quest the Truth Unveiled.svg]]
-- Requires [[Assets Locations Location City the Bone Colosseum V1 the Bone Colosseum.svg]]
+- Requires [[Assets Locations [[Location City [[The Bone Colosseum]] V1 the Bone Colosseum.svg]]]]
 - Influences [[Potion of Speed Xdmg]]
-- Affected by [[Assets Locations Location City Marquis Aldwin Goldcurrent V1 Marquis Aldwin Goldcurrent.svg]]
+- Affected by [[Assets Locations Location City [[Marquis Aldwin Goldcurrent]] V1 Marquis Aldwin Goldcurrent.svg]]
 - Connects to [[step_069 (phase_011)]]
 - Requires [[LORE00130_Prophecies_Entry_131]]
 - Influences [[Quest - The Surgical Assassin 2]]
-- Leads to [[Assets Locations Location City Replacement Survivor Support V1 Replacement Survivor Support Groups.svg]]
+- Leads to [[Assets Locations Location City Replacement Survivor Support V1 [[Replacement Survivor Support Groups]].svg]]
 - See also: [[Sahuagin]]
 - Leads to [[step_022 (phase_017)]]
 - Requires [[README_Handouts_Export]]
@@ -241,26 +272,26 @@ Modifications:
 - Originates from [[Symbol Heraldry Chaplain Abyssos the Deepseeke V1 Chaplain Abyssos the Deepseeke.svg]]
 - Affected by [[Investiture of Ice Xge]]
 - Connects to [[ITEM00307_Shadow_Dagger_of_Speed]]
-- Leads to [[Assets Locations Location City Memory Heist V1 Memory Heist.svg]]
+- Leads to [[Assets Locations Location City [[Memory Heist]] V1 Memory Heist.svg]]
 - Leads to [[step_065 (phase_085)]]
 - Leads to [[giant-ape-xmm (beast)]]
 - Influences [[QUEST0096_Investigate_the_Cult]]
 - Parallels [[LORE00182_Prophecies_Entry_183]]
-- Connects to [[Location City Representative Coral Youngcurrent Representative Coral Youngcurrent.svg]]
+- Connects to [[Location City [[Representative Coral Youngcurrent]] Representative Coral Youngcurrent.svg]]
 - See also: [[LORE00106_Prophecies_Entry_107]]
 - Leads to [[NPC00922_Wynne_Youngblood_the_Fallen]]
 - Parallels [[ENC00204_Social_Encounter_205]]
-- Requires [[Location City Feast Saltyflavor V1 Feast Saltyflavor.svg]]
+- Requires [[Location City [[Feast Saltyflavor]] V1 Feast Saltyflavor.svg]]
 - Requires [[step_056 (phase_004)]]
 - Compare with [[step_026 (phase_072)]]
 - Requires [[Session Feedback Form]]
 - Leads to [[Crafting_Transcendence (D&D_References)]]
-- Related: [[Location City Education Department V1 Education Department.svg]]
+- Related: [[Location City [[Education Department]] V1 Education Department.svg]]
 - Requires [[LOC0071_SouthPeak]]
 - See also: [[greataxe-xphb (items)]]
-- Influences [[Assets Locations Location City the Evolution District V1 the Evolution District.svg]]
+- Influences [[Assets Locations [[Location City [[The Evolution District]] V1 the Evolution District.svg]]]]
 - See also: [[Kobold Dragonshield Mpmm]]
-- Requires [[Assets Locations Location City Gem Deepseeker V1 Gem Deepseeker.svg]]
+- Requires [[Assets Locations Location City [[Gem Deepseeker]] V1 Gem Deepseeker.svg]]
 - Requires [[LORE00036_Prophecies_Entry_37]]
 - Leads to [[step_004]]
 - Leads to [[step_056 (phase_007)]]
@@ -279,7 +310,18 @@ Modifications:
 - Leads to [[Scroll of Protection Constructs Xdmg]]
 - See also: [[step_064 (phase_074)]]
 - Originates from [[The River Spirits (D&D_References)]]
-- Leads to [[Mira Algaebrew (D&D_References)]]
+- Leads to [[[[Mira Algaebrew]] (D&D_References)]]
 - Related: [[The Anonymous Protocol 2]]
 - Requires [[step_027 (phase_040)]]
 - Originates from [[step_067]]
+
+## Visual References
+![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Rhiannon Brightblade the Redeemed
 
 *Aasimar Ranger (Adventurers), Age 50, Female*

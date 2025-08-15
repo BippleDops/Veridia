@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.524380
+modified: 2025-08-15T16:41:46.524382
+aliases: [NPC00337 Aeliana Dawnstrider]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Felicia Stormwind the Redeemed (Personal - Best friend)|Felicia Stormwind the Redeemed (Personal - Best friend)]]
+- [[#Thalia Brightblade the Scholar (Personal - Love interest)|Thalia Brightblade the Scholar (Personal - Love interest)]]
+- [[#Lyanna Moonshadow the Wise (Professional - Employer)|Lyanna Moonshadow the Wise (Professional - Employer)]]
+
+
+---
 aliases: ["Aeliana Dawnstrider", "aeliana dawnstrider", "Dawnstrider Aeliana"]
 tags: [npc, character]
 type: npc
@@ -252,3 +277,8 @@ Needs discrete help with family scandal
 - Connects to [[The Senator's Office 2]]
 - Leads to [[Cover Identity Coordinator]]
 - See also: [[Faction Reputation (D&D_References)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

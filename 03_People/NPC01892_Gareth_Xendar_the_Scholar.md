@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.707635
+modified: 2025-08-15T16:41:40.707638
+aliases: [NPC01892 Gareth Xendar the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ewan Stormwind the Lost (Professional - Rival)|Ewan Stormwind the Lost (Professional - Rival)]]
+- [[#Lyanna Voidwalker the Redeemed (Political - Spy)|Lyanna Voidwalker the Redeemed (Political - Spy)]]
+- [[#Wynne Hawthorne the Seeker (Criminal - Informant)|Wynne Hawthorne the Seeker (Criminal - Informant)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Gareth Xendar the Scholar", "gareth xendar the scholar", "Gareth Xendar Scholar", "Scholar the Xendar Garethtags: [npc, character, combat, magic, social, puzzle, lore]er]
 type: npc
@@ -142,13 +163,51 @@ Offers deal too good to refuse
 - Special moves
 
 ## Combat Stats
-Base: **Noble** (MM p.348)
+Base: **Noble** (BC p.348)
 Modifications:
 - HP: 31
 - AC: 11
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[Sage Elara]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC00046_Urien_Ironwood_the_Wise]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[Marcus Shardbreaker Grimm_1]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[Pilgrim_Pass_Prayer_Sli]]
+- [[Faction_Relationship_Web]]
+- [[Ship_Schematic_The_Seahawk.md]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[Propaganda_Broadsheet_Syndicate.md]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[07 Customization Options]]
+- [[04 Classes]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[11 Rules Glossary]]
+- [[Character_Journal_Template]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC00259_Delara_Proudmore]]
+- [[Session_Recaps]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
 - [[Related_Content]]
 
 
@@ -158,10 +217,10 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -176,9 +235,9 @@ Modifications:
 - Originates from [[step_095]]
 - Related: [[Lost Archive]]
 - Parallels [[LOC00009_Planes_Location_10]]
-- Connects to [[Assets Locations Location City Emergency Protocols Emergency Protocols.svg]]
-- Originates from [[Location City Hadrian Depthbridge V1 Hadrian Depthbridge.svg]]
-- Affected by [[The Aether Works (D&D_References)]]
+- Connects to [[Assets Locations Location City [[Emergency Protocols]] Emergency Protocols.svg]]
+- Originates from [[Location City [[Hadrian Depthbridge]] V1 Hadrian Depthbridge.svg]]
+- Affected by [[[[The Aether Works]] (D&D_References)]]
 - Parallels [[ITEM01409_Practical_Lock_of_Convenience]]
 - Connects to [[Temporal Magic Research]]
 - See also: [[ITEM0131_Divine_Blade_of_Shadows]]
@@ -186,7 +245,7 @@ Modifications:
 - Affected by [[NPCs (Portrait_Prompts)]]
 - Leads to [[portrait-npc-emperor-v2-emperor.svg_1 (Portraits)]]
 - Parallels [[Assets Handouts Handout Handout Council Summons Notice V3 Council Summons Notice.png]]
-- Leads to [[Assets Locations Location City Garden of Shadows V1 Garden of Shadows.svg]]
+- Leads to [[Assets Locations Location City [[Garden of Shadows]] V1 Garden of Shadows.svg]]
 - Influences [[rogue-xphb-scout-xge (classes)]]
 - Requires [[Market Squar 2]]
 - Related: [[step_093]]
@@ -197,8 +256,8 @@ Modifications:
 - Influences [[Current Manipulation]]
 - Parallels [[step_051 (phase_035)]]
 - Leads to [[QUEST0021_Destroy_the_Pirates]]
-- Leads to [[FINAL_1000_IMPROVEMENTS_SUMMARY]]
-- Parallels [[Electric Eel (D&D_References)]]
+- Leads to [[FINAL_1000_IMPROVEMENTS_SUBCARY]]
+- Parallels [[[[Electric Eel]] (D&D_References)]]
 - See also: [[step_060]]
 - Compare with [[step_029 (phase_017)]]
 - Requires [[12 Appendix B Monster Lists]]
@@ -214,7 +273,7 @@ Modifications:
 - Affected by [[ENC00199_Social_Encounter_200]]
 - Affected by [[Information Exchange]]
 - Affected by [[QUEST0007_In_Search_of_Justice]]
-- See also: [[Portrait NPC Abyssos Prime Throne of Bubbles Abyssos Prime Throne of Bubbles.svg]]
+- See also: [[Portrait NPC [[Abyssos Prime]] Throne of Bubbles Abyssos Prime Throne of Bubbles.svg]]
 - Compare with [[Valley of Eternal Mourning]]
 - Related: [[UNIFIED_VAULT_COMPLETION_GUIDE]]
 - Compare with [[Regional Coordinator Crystal Truthseer]]
@@ -226,7 +285,7 @@ Modifications:
 - Related: [[step_059 (phase_016)]]
 - Influences [[step_081 (phase_019)]]
 - Affected by [[portrait-npc-the-crimson-sage-the-crimson-sage.svg]]
-- Compare with [[Location City Ancient Historian Memento Ancient Historian Memento.svg]]
+- Compare with [[Location City [[Ancient Historian Memento]] Ancient Historian Memento.svg]]
 - Influences [[NPC00738_Dara_Lightbringer_the_Bold]]
 - Originates from [[The Oracle]]
 - See also: [[adult-gold-dragon-xmm]]
@@ -271,3 +330,14 @@ Modifications:
 - Influences [[step_051 (phase_055)]]
 - Connects to [[location-city-depth-wardens-depth-wardens.svg]]
 - Compare with [[step_010 (phase_086)]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
+![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

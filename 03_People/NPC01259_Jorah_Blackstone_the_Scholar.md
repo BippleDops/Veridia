@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.557913
+modified: 2025-08-15T16:41:42.557917
+aliases: [NPC01259 Jorah Blackstone the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Drusilla Ironwood the Cunning (Professional - Employer)|Drusilla Ironwood the Cunning (Professional - Employer)]]
+- [[#Cedric Zephyrblade the Risen (Professional - Mentor)|Cedric Zephyrblade the Risen (Professional - Mentor)]]
+- [[#Rhiannon Xendar the Mystic (Professional - Rival)|Rhiannon Xendar the Mystic (Professional - Rival)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Jorah Blackstone the Scholar", "jorah blackstone the scholar", "Jorah Blackstone Scholar", "Scholar the Blackstone Jorah"]
 tags: [npc, character]
@@ -149,9 +170,9 @@ Forming expedition to dangerous location
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -261,3 +282,14 @@ Forming expedition to dangerous location
 - Leads to [[VAULT_100_PERCENT_ACHIEVED]]
 - Originates from [[Chamber Purpose Dungeon Planar Gate]]
 - Originates from [[Anesthesiologist Void]]
+
+## Visual References
+![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Zephyr Lightbringer the Scholar
 
 *Human Dark Wizard (Villains), Age 49, Male*

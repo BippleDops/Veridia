@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.263044
+modified: 2025-08-15T16:41:43.263050
+aliases: [NPC00839 Brenna Silverleaf the Cunning]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Faelyn Nightfall the Lost (Criminal - Target)|Faelyn Nightfall the Lost (Criminal - Target)]]
+- [[#Cedric Ironwood the Risen (Criminal - Target)|Cedric Ironwood the Risen (Criminal - Target)]]
+- [[#Faelyn Keenblade the Swift (Personal - Love interest)|Faelyn Keenblade the Swift (Personal - Love interest)]]
+
+
+---
 aliases: ["Brenna Silverleaf the Cunning", "brenna silverleaf the cunning", "Brenna Silverleaf Cunning", "Cunning the Silverleaf Brenna"]
 tags: [npc, character]
 type: npc
@@ -248,3 +273,8 @@ Has map to lost treasure
 - Originates from [[Party Shadows]]
 - Related: [[NPC01989_Erasmus_Xendar_the_Strong]]
 - Influences [[Memory Extraction Laboratory]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

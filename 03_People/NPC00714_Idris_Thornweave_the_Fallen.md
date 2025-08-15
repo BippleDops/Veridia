@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Thornweave the Fallen
 
 *Aasimar Farmer (Commoners), Age 19, Non-binary*

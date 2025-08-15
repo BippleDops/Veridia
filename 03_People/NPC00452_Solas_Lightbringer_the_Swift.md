@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Lightbringer the Swift
 
 *Dragonborn Baker (Commoners), Age 56, Male*

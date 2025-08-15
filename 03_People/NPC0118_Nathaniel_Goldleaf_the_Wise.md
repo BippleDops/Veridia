@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.034634
+modified: 2025-08-15T16:41:47.034637
+aliases: [NPC0118 Nathaniel Goldleaf the Wise]
+---
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Secrets|Secrets]]
+- [[#Relationships|Relationships]]
+- [[#Roleplaying|Roleplaying]]
+
+
+---
 aliases: ["Nathaniel Goldleaf the Wise", "nathaniel goldleaf the wise", "Nathaniel Goldleaf Wise", "Wise the Goldleaf Nathaniel"]
 tags: [, generated]
   - npc
@@ -226,3 +247,8 @@ Arcana, Persuasion
 - Originates from [[Portrait NPC Vespara Nightwhisper Thorne V1 Vespara Nightwhisper Thorne.svg]]
 - Parallels [[Royal Academy of Arcane Arts - Ruins]]
 - Requires [[Zone of Truth Xphb]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_dramatic.png]]
+![[03_People/portrait_lady_seraphina_goldleaf_friendly.png]]

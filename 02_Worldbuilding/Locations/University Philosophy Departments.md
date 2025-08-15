@@ -238,3 +238,8 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]

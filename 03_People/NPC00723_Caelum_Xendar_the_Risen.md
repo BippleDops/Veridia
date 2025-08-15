@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.360905
+modified: 2025-08-15T16:41:45.360908
+aliases: [NPC00723 Caelum Xendar the Risen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Qadim Underhill the Redeemed (Family - Sibling)|Qadim Underhill the Redeemed (Family - Sibling)]]
+- [[#Urien Underhill the Wanderer (Political - Spy)|Urien Underhill the Wanderer (Political - Spy)]]
+- [[#Ewan Ashford the Redeemed (Personal - Childhood friend)|Ewan Ashford the Redeemed (Personal - Childhood friend)]]
+
+
+---
 aliases: ["Caelum Xendar the Risen", "caelum xendar the risen", "Caelum Xendar Risen", "Risen the Xendar Caelum"]
 tags: [npc, character]
 type: npc
@@ -250,3 +271,14 @@ Discovered something valuable
 - Parallels [[List Spells Races Aasimar Xphb]]
 - Connects to [[Mass Cure Wounds Xphb]]
 - Influences [[item-artifact-ruby-xdmg-ruby-xdmg.png]]
+
+## Visual References
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
+![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

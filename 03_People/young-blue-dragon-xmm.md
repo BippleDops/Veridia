@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_young_blue_dragon_xmm_standard.png]]
+
+
 # young-blue-dragon-xmm
 
 ## Basic Information

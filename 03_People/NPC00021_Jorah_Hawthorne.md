@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.916617
+modified: 2025-08-15T16:41:42.916620
+aliases: [NPC00021 Jorah Hawthorne]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Malakai Goldleaf (Family - Sibling)|Malakai Goldleaf (Family - Sibling)]]
+- [[#Aldric Zephyrblade (Personal - Nemesis)|Aldric Zephyrblade (Personal - Nemesis)]]
+- [[#Dara Moonshadow (Political - Puppet)|Dara Moonshadow (Political - Puppet)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Jorah Hawthorne", "jorah hawthorne", "Hawthorne Jorah"]
 tags: [npc, character]
@@ -153,9 +178,9 @@ Needs discrete help with family scandal
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -265,3 +290,8 @@ Needs discrete help with family scandal
 - Requires [[Noble Titles and Ranks]]
 - Connects to [[Shadow Surgeon Strike Team (Criminal_Organizations)]]
 - Compare with [[bestial-spirit-land-xphb (beast)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

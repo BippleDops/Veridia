@@ -334,3 +334,7 @@ Mentioned in The Hidden Prophecy of Stars
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]

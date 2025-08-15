@@ -212,3 +212,7 @@ Ongoing situations affecting Terminal Master Hadrian Depthbridge:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]

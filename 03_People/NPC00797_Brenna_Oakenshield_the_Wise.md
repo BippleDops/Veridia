@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Brenna Oakenshield the Wise
 
 *Gnome Farmer (Commoners), Age 56, Non-binary*

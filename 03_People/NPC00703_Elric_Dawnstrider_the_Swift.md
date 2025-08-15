@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.310114
+modified: 2025-08-15T16:41:41.310117
+aliases: [NPC00703 Elric Dawnstrider the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Faelyn Youngblood the Guardian (Professional - Employer)|Faelyn Youngblood the Guardian (Professional - Employer)]]
+- [[#Qadim Ironforge the Cunning (Personal - Best friend)|Qadim Ironforge the Cunning (Personal - Best friend)]]
+- [[#Alaric Silverleaf the Wanderer (Professional - Rival)|Alaric Silverleaf the Wanderer (Professional - Rival)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Elric Dawnstrider the Swift", "elric dawnstrider the swift", "Elric Dawnstrider Swift", "Swift the Dawnstrider Elrictags: [npc, character, combat, exploration, lore]er]
 type: npc
@@ -22,7 +43,7 @@ Below average and delicate, with Braided elaborately white hair and Black eyes. 
 **Accessories**: Spectacles on chain
 
 ## Personality
-- **Traits**: Never backs down from any challenge; Extremely superstitious about everything; Laughs at the most inappropriate times
+- **Traits**: Never backs down from any challenge; Extremely superstitious about everything; Laughs at the most inappropriate [[Time]]s
 - **Ideal**: Justice: The guilty must be punished, no matter their station
 - **Bond**: My hometown is the most important thing
 - **Flaw**: I'm too proud to admit when I'm wrong
@@ -147,13 +168,23 @@ Family member has gone missing
 - Special moves
 
 ## Combat Stats
-Base: **Guard** (MM p.347)
+Base: **Guard** (BC p.347)
 Modifications:
 - HP: 30
 - AC: 13
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[Calendar_Conversions_Realm_Window]]
 - [[Related_Content]]
 
 
@@ -163,10 +194,10 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -182,7 +213,7 @@ Modifications:
 - Originates from [[step_008]]
 - Affected by [[step_023]]
 - Compare with [[step_058 (phase_027)]]
-- Influences [[Transformation Medicine Techniques 2]]
+- Influences [[[[Transformation Medicine Techniques]] 2]]
 - Connects to [[The Succession Crisis 2]]
 - Related: [[Portrait NPC Captain Steelhart V1 Captain Steelhart.svg]]
 - Compare with [[Painters Supplies Xphb]]
@@ -192,8 +223,8 @@ Modifications:
 - Affected by [[Merrenoloth Mtf]]
 - Affected by [[step_038]]
 - Parallels [[Cross-Realm Navigation Cooperation]]
-- Compare with [[Depth Cardinal Justice Currentkeeper (D&D_References)]]
-- Influences [[Assets Locations Location City Silence Keeper Mute V1 Silence Keeper Mute.svg]]
+- Compare with [[[[Depth Cardinal Justice Currentkeeper]] (D&D_References)]]
+- Influences [[Assets Locations [[Location City Silence Keeper Mute V1 Silence Keeper Mute.svg]]]]
 - Parallels [[LOC00090_Dungeons_Location_91]]
 - Parallels [[location-city-port-authority-v1-port-authority.svg]]
 - Related: [[ITEM01142_Superior_Elixir_of_Fortune]]
@@ -213,13 +244,13 @@ Modifications:
 - Parallels [[LORE00329_Legends_Entry_330]]
 - Related: [[Portrait NPC the Resonance Prophet V2 the Resonance Prophet.svg]]
 - Affected by [[LORE00136_Prophecies_Entry_137]]
-- Originates from [[Vehicles - Aquabyssos Submarines]]
+- Originates from [[Vehicles - [[Aquabyssos]] Submarines]]
 - Affected by [[TEN_THOUSAND_IMPROVEMENTS]]
 - Parallels [[Identity Preservation Crystal 2]]
 - Related: [[step_095]]
 - Related: [[swarm-of-insects-xmm]]
 - Compare with [[step_073 (phase_094)]]
-- Influences [[The Crystal Gardens_1 (02_Worldbuilding)]]
+- Influences [[The [[Crystal Gardens]]_1 (02_Worldbuilding)]]
 - Compare with [[Antipathy Sympathy Xphb]]
 - Connects to [[ITEM00334_Thunder_Crossbow_of_Slaying]]
 - Influences [[Pact of the Tome Xphb]]
@@ -236,12 +267,12 @@ Modifications:
 - Requires [[step_001 (phase_012)]]
 - Originates from [[step_058 (phase_047)]]
 - Originates from [[ITEM00147_Frost_Dagger_of_Wounding]]
-- Leads to [[Biological Enhancement Procedures (D&D_References)]]
+- Leads to [[[[Biological Enhancement Procedures]] (D&D_References)]]
 - Influences [[Classical_Era_Timeline]]
-- Originates from [[Location City Wise Tide Truthseeker V1 Wise Tide Truthseeker.svg]]
+- Originates from [[Location City [[Wise Tide Truthseeker]] V1 Wise Tide Truthseeker.svg]]
 - See also: [[Sterling Goldbalance 2]]
 - Influences [[Sister Catherine 2]]
-- Parallels [[Location City Tidal Stormcrest V1 Tidal Stormcrest.svg]]
+- Parallels [[Location City [[Tidal Stormcrest]] V1 Tidal Stormcrest.svg]]
 - Influences [[step_025 (phase_080)]]
 - Influences [[Dr Victoria Truescan]]
 - Leads to [[Portrait NPC Captain Marina Truewater V1 Captain Marina Truewater.svg]]
@@ -252,7 +283,7 @@ Modifications:
 - Influences [[step_002 (phase_082)]]
 - Related: [[step_003 (phase_051)]]
 - Leads to [[location-city-the-shadowmere-v1-the-shadowmere.png]]
-- Influences [[Location City Wave Friendlyserve V1 Wave Friendlyserve.svg]]
+- Influences [[Location City [[Wave Friendlyserve]] V1 Wave Friendlyserve.svg]]
 - Affected by [[Dragonlance Lunitari Phb]]
 - Affected by [[step_086 (phase_024)]]
 - Affected by [[NPC01009_Jorah_Ravenheart_the_Mystic]]
@@ -267,7 +298,7 @@ Modifications:
 - Compare with [[The Groundling Liberation Movement]]
 - Parallels [[List Spells Races Yuan Ti Pureblood Vgm]]
 - See also: [[Ancient Echo Truthfinder]]
-- Leads to [[Assets Locations Location City Elder Matthias Stoneward V1 Elder Matthias Stoneward.svg]]
+- Leads to [[Assets Locations Location City [[Elder Matthias Stoneward]] V1 Elder Matthias Stoneward.svg]]
 - Connects to [[step_072 (phase_016)]]
 - Originates from [[step_003 (phase_022)]]
 - Requires [[step_047]]
@@ -276,3 +307,14 @@ Modifications:
 - Connects to [[The Crown of Stars (D&D_References)]]
 - Leads to [[step_074 (phase_023)]]
 - See also: [[ITEM01082_Greater_Herb_of_Fortune]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

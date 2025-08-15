@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Delara Jadeclaw the Redeemed
 
 *Dragonborn Heir (Nobles), Age 64, Female*

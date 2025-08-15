@@ -396,3 +396,8 @@ Ongoing situations affecting Coral Throne Syndicate:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]

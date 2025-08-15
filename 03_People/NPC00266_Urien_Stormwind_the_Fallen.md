@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Urien Stormwind the Fallen
 
 *Half-Orc Courtier (Nobles), Age 18, Non-binary*

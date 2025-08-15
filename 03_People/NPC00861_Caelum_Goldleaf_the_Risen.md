@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Caelum Goldleaf the Risen
 
 *Genasi Shopkeeper (Merchants), Age 44, Non-binary*

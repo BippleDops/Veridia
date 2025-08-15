@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T16:41:33.903841
+modified: 2025-08-15T16:41:33.903843
+aliases: [09 Appendix a the Multiverse]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Prep Checklist|Prep Checklist]]
+- [[#Npcs Needed|Npcs Needed]]
+- [[#Locations|Locations]]
+- [[#Encounters|Encounters]]
+- [[#Props|Props]]
+- [[#Rules|Rules]]
+- [[#See Also|See Also]]
+- [[#Game Mechanics|Game Mechanics]]
+
+
+---
 
 title: 09 Appendix a the Multiverse
 type: note
@@ -25,7 +46,8 @@ tags:
 
 created: 2025-08-11
 modified: '2025-08-14'
-status: active
+status
+*The [texture] surface feels [description] to the touch.*: active
 updated: '2025-08-13T12:34:05.208522+00:00'
 world: Both
 
@@ -64,21 +86,40 @@ world: Both
 - [ ] Prepare quick reference
 
 ## See Also
+- [[Sage Elara]]
+- [[Sanity_Quick_Reference.md]]
+- [[15 the Planes of Existence]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC00719_Orion_Hawthorne_the_Cunning]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[Depth_Adapted_Background]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC00058_Elric_Nightfall]]
+- [[Player_Portal.md]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[MOC_Rules]]
+- [[MASTER_MOC]]
 - [[Related_Content]]
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

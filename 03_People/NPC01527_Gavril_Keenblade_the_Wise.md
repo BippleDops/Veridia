@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.233985
+modified: 2025-08-15T16:41:46.233988
+aliases: [NPC01527 Gavril Keenblade the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Erasmus Xendar the Scholar (Professional - Mentor)|Erasmus Xendar the Scholar (Professional - Mentor)]]
+- [[#Idris Jadeclaw the Risen (Family - Parent)|Idris Jadeclaw the Risen (Family - Parent)]]
+- [[#Lyanna Zephyrblade the Cunning (Family - Cousin)|Lyanna Zephyrblade the Cunning (Family - Cousin)]]
+
+
+---
 aliases: ["Gavril Keenblade the Wise", "gavril keenblade the wise", "Gavril Keenblade Wise", "Wise the Keenblade Gavril"]
 tags: [npc, character]
 type: npc
@@ -241,3 +262,14 @@ Needs help with personal quest
 - Influences [[step_059 (phase_051)]]
 - Parallels [[Location City Rare Ingredient Network V1 Rare Ingredient Network.svg]]
 - Influences [[NPC00575_Erasmus_Quicksilver_the_Fallen]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

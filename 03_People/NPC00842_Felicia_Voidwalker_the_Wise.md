@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.745558
+modified: 2025-08-15T16:41:45.745562
+aliases: [NPC00842 Felicia Voidwalker the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Solas Proudmore the Bold (Political - Ally)|Solas Proudmore the Bold (Political - Ally)]]
+- [[#Erasmus Lightbringer the Risen (Political - Puppet)|Erasmus Lightbringer the Risen (Political - Puppet)]]
+- [[#Corvus Jadeclaw the Lost (Professional - Employer)|Corvus Jadeclaw the Lost (Professional - Employer)]]
+
+
+---
 aliases: ["Felicia Voidwalker the Wise", "felicia voidwalker the wise", "Felicia Voidwalker Wise", "Wise the Voidwalker Felicia"]
 tags: [npc, character]
 type: npc
@@ -246,3 +267,14 @@ Has map to lost treasure
 - Compare with [[step_009 (phase_070)]]
 - Compare with [[LORE00105_Legends_Entry_106]]
 - See also: [[step_063 (phase_065)]]
+
+## Visual References
+![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
+![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
+![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

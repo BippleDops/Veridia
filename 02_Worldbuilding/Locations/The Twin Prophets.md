@@ -229,3 +229,7 @@ Mentioned in The First Prophecy of Shadows
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]

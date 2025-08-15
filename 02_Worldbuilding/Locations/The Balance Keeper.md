@@ -210,3 +210,7 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00378_Malakai_Moonshadow_the_Broken]]

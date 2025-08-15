@@ -212,3 +212,7 @@ Ongoing situations affecting Pressure-Responsive Fabrics:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]

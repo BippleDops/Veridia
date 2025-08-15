@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.645954
+modified: 2025-08-15T16:41:46.645957
+aliases: [NPC00463 Urien Thornweave]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hestara Blackstone (Professional - Partner)|Hestara Blackstone (Professional - Partner)]]
+- [[#Vesper Emberfall the Seeker (Personal - Childhood friend)|Vesper Emberfall the Seeker (Personal - Childhood friend)]]
+- [[#Thalia Thornweave the Redeemed (Political - Puppet)|Thalia Thornweave the Redeemed (Political - Puppet)]]
+
+
+---
 aliases: ["Urien Thornweave", "urien thornweave", "Thornweave Urien"]
 tags: [npc, character]
 type: npc
@@ -247,3 +268,14 @@ Family member has gone missing
 - Leads to [[step_009]]
 - Affected by [[step_020]]
 - Connects to [[Initiate Shadow-Walker]]
+
+## Visual References
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

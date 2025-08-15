@@ -342,3 +342,9 @@ Ongoing situations affecting The Memory Storm Fields:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]

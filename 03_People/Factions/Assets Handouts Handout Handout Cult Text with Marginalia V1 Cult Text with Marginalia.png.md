@@ -19,6 +19,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![04_Resources/Assets/Handouts/handout-handout-cult-text-with-marginalia-v1-cult-text-with-marginalia.png](../../04_Resources/Assets/Misc/04_resources_assets_handouts_handout_handout_cult_text_with_marginalia_v1_cult_text_with_marginalia_png.png)
 
 ## 🔧 Deep Evaluation Improvements

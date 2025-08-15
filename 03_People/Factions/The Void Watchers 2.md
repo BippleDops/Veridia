@@ -26,6 +26,10 @@ updated: '2025-08-13T12:34:17.327916+00:00'
 world: Both Aethermoor & Aquabyssos
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 
 
 

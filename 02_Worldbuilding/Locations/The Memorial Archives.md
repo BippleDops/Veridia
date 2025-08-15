@@ -156,3 +156,8 @@ Ongoing situations affecting The Memorial Archives:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]

@@ -212,3 +212,7 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]

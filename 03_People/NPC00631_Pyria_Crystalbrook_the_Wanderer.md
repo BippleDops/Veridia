@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.006183
+modified: 2025-08-15T16:41:43.006186
+aliases: [NPC00631 Pyria Crystalbrook the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Ravenheart the Wise (Political - Opposition)|Corvus Ravenheart the Wise (Political - Opposition)]]
+- [[#Zephyr Dawnstrider the Wanderer (Family - Spouse)|Zephyr Dawnstrider the Wanderer (Family - Spouse)]]
+- [[#Corvus Youngblood the Wanderer (Professional - Employee)|Corvus Youngblood the Wanderer (Professional - Employee)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Pyria Crystalbrook the Wanderer", "pyria crystalbrook the wanderer", "Pyria Crystalbrook Wanderer", "Wanderer the Crystalbrook Pyria"]
 tags: [npc, character]
@@ -142,8 +163,8 @@ Being extorted by criminals
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -253,3 +274,14 @@ Being extorted by criminals
 - Connects to [[pets-beholder-lesser-minions-vgm (tables)]]
 - Originates from [[Harbormaster Erik Saltbeard (D&D_Statblocks)]]
 - See also: [[08-chapter-8-bastions (dungeon-masters-guide-2024)]]
+
+## Visual References
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

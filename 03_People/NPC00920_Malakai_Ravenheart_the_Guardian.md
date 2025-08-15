@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.606271
+modified: 2025-08-15T16:41:41.606275
+aliases: [NPC00920 Malakai Ravenheart the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Ravenheart the Guardian (Family - Child)|Thalia Ravenheart the Guardian (Family - Child)]]
+- [[#Gavril Ravenheart the Cunning (Family - Parent)|Gavril Ravenheart the Cunning (Family - Parent)]]
+- [[#Vesper Silverleaf the Fallen (Professional - Employee)|Vesper Silverleaf the Fallen (Professional - Employee)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Malakai Ravenheart the Guardian", "malakai ravenheart the guardian", "Malakai Ravenheart Guardian", "Guardian the Ravenheart Malakai"]
 tags: [npc, character]
@@ -7,7 +28,7 @@ type: npc
 
 # Malakai Ravenheart the Guardian
 
-*Firbolg Trader (Merchants), Age 39, Non-binary*
+*Firbolg Trader ([[Merchant]]s), Age 39, Non-binary*
 
 **ID**: NPC00920
 
@@ -22,7 +43,7 @@ Tall and muscular, with Dreadlocks brown hair and Black eyes. Fair skin. Gold to
 **Clothing**: Priest's vestments with holy symbol prominent
 
 ## Personality
-- **Traits**: Always speaks in metaphors and riddles; Laughs at the most inappropriate times; Never backs down from any challenge
+- **Traits**: Always speaks in metaphors and riddles; Laughs at the most inappropriate [[Time]]s; Never backs down from any challenge
 - **Ideal**: Redemption: Everyone deserves a second chance
 - **Bond**: My hometown is the most important thing
 - **Flaw**: I have trouble keeping any secrets
@@ -149,6 +170,20 @@ Seeks rare merchandise
 - Special moves
 
 ## See Also
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[Archdruid Thornweaver]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[Faction_Relationship_Web]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[Player_Feedback_Form.md]]
+- [[Reference.md]]
+- [[11 Rules Glossary]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[Reputation_Tracker]]
 - [[Related_Content]]
 
 
@@ -158,9 +193,9 @@ Seeks rare merchandise
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -170,16 +205,16 @@ Seeks rare merchandise
 
 ## Connections
 
-- Related: [[00_Indexes_Quick_Start_Guide]]
+- Related: [[00_[[INDEX]]es_Quick_Start_Guide]]
 - Requires [[Map Map Gloom Gardens Paths Gloom Gardens Paths.svg]]
-- Leads to [[Location City Master Cultivator Reef Growstone V1 Master Cultivator Reef Growstone.svg]]
+- Leads to [[Location City [[Master Cultivator Reef Growstone]] V1 Master Cultivator Reef Growstone.svg]]
 - See also: [[SHOP00047_Magical_Shop_48]]
 - Connects to [[step_066]]
 - Influences [[Phase Transition Special Effects]]
 - Compare with [[step_049 (phase_005)]]
 - Originates from [[ITEM00629_Fortified_Helm_of_Resistance]]
-- Connects to [[Assets Locations Location City Pelagic Cup Pelagic Cup.svg]]
-- See also: [[Doctor Silas Voidtouch (D&D_References)]]
+- Connects to [[Assets Locations Location City [[Pelagic Cup]] Pelagic Cup.svg]]
+- See also: [[[[Doctor Silas Voidtouch]] (D&D_References)]]
 - Parallels [[step_029]]
 - Connects to [[ENC0061_Random_Encounter_62]]
 - Originates from [[step_069 (phase_036)]]
@@ -198,7 +233,7 @@ Seeks rare merchandise
 - Influences [[Dwarf Names Clan Xge]]
 - Leads to [[ITEM00621_Mithril_Cloak_of_Fortitude]]
 - Requires [[step_088 (phase_024)]]
-- Influences [[Market Mystery 2]]
+- Influences [[[[Market Mystery]] 2]]
 - See also: [[SPELL00069_Nature_Spell_70]]
 - Leads to [[step_079]]
 - Parallels [[Portrait NPC Duke Theron Depthguard Duke Theron Depthguard.svg_1 (Portraits)]]
@@ -206,7 +241,7 @@ Seeks rare merchandise
 - Parallels [[Harm Xphb]]
 - Influences [[duergar-in-the-world-duergar-quirks-mtf (tables)]]
 - Affected by [[step_011 (phase_010)]]
-- Influences [[Location City International Trade International Trade.svg]]
+- Influences [[Location City [[International Trade]] International Trade.svg]]
 - Requires [[Introduction 2]]
 - Requires [[Aberrant Spirit Beholderkin Xphb]]
 - Originates from [[hit-points-hit-dice-by-size-mm (tables)]]
@@ -220,19 +255,19 @@ Seeks rare merchandise
 - Affected by [[4 Assorted Beasts]]
 - Affected by [[The Dimensional Bridge (D&D_References)]]
 - Connects to [[The Corrupted Admiralty]]
-- Originates from [[Aquabyssos World Overview#The Deep Dreamers]]
+- Originates from [[[[Aquabyssos]] World Overview#The Deep Dreamers]]
 - Parallels [[step_014 (phase_063)]]
 - See also: [[location-city-manta-ray-manta-ray.svg]]
 - Connects to [[step_039 (phase_071)]]
 - Influences [[step_084 (phase_059)]]
 - Related: [[The Herald's Hall (D&D_References)]]
-- Originates from [[Location City Memoriam Keeper Marcus Remembrance V1 Memoriam Keeper Marcus Remembrance.svg]]
+- Originates from [[Location City [[[[Memoriam]] Keeper Marcus Remembrance]] V1 Memoriam Keeper Marcus Remembrance.svg]]
 - Influences [[Hobgoblin Captain Xmm]]
 - Parallels [[step_012 (phase_090)]]
 - Leads to [[step_034 (phase_020)]]
 - Parallels [[step_045 (phase_016)]]
 - Influences [[yester-hill-axe-cos (items)]]
-- Influences [[Conservatory of Memory (D&D_References)]]
+- Influences [[[[Conservatory of Memory]] (D&D_References)]]
 - Compare with [[Portrait NPC Emperor Thalassius the Wise V1 Emperor Thalassius the Wise.svg_1 (Portraits)]]
 - Leads to [[ENC00040_Environmental_Encounter_41]]
 - Requires [[step_059 (phase_079)]]
@@ -241,7 +276,7 @@ Seeks rare merchandise
 - Requires [[step_045]]
 - Affected by [[step_100 (phase_051)]]
 - Requires [[Portrait NPC Shadow Citizenship Act V1 Shadow Citizenship Act.svg]]
-- Influences [[Theological Seminaries 2]]
+- Influences [[[[Theological Seminaries]] 2]]
 - Influences [[step_075 (phase_008)]]
 - Influences [[step_097 (phase_076)]]
 - Leads to [[NPC00697_Jorah_Stormwind_the_Mystic]]
@@ -254,7 +289,7 @@ Seeks rare merchandise
 - Originates from [[Master Resoce Architect Echo Stonewhisper]]
 - Influences [[NPC00204_Drusilla_Jadeclaw]]
 - Leads to [[Deep Water Rescue Service (D&D_References)]]
-- Affected by [[Sorceress Luna Prismatic 2]]
+- Affected by [[[[Sorceress Luna Prismatic]] 2]]
 - Affected by [[LOC00050_Planes_Location_51]]
 - See also: [[LOC00259_Dungeons_Location_260]]
 - Influences [[Mobile Terror Platform]]
@@ -264,9 +299,20 @@ Seeks rare merchandise
 - Leads to [[step_004 (phase_071)]]
 - Leads to [[ITEM0059_Divine_Circlet_of_Power]]
 - Connects to [[SHOP00058_General_Shop_59]]
-- Affected by [[Location City Iron Rapids Fleetcurrent V1 Iron Rapids Fleetcurrent.svg]]
+- Affected by [[Location City [[Iron Rapids Fleetcurrent]] V1 Iron Rapids Fleetcurrent.svg]]
 - Originates from [[Portrait NPC High Priestess Celeste Dawnbringer V1 High Priestess Celeste Dawnbringer.svg]]
 - Affected by [[Portrait NPC Doctor Helena Voidwalker V2 Doctor Helena Voidwalker.svg_1 (Portraits)]]
 - Originates from [[peryton-xmm (monstrosity)]]
 - Affected by [[Memory Coherence Testing]]
 - Influences [[General Shadowmarch]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
+![[03_People/portrait_the_crimson_shard_guardian.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

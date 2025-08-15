@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ysara Ravenheart the Cunning
 
 *Half-Elf Trader (Merchants), Age 23, Male*

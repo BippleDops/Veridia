@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:39.639031
+modified: 2025-08-15T16:41:39.639036
+aliases: [Guild Seal Document Silverscale Consortiu]
+---
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Description|Description]]
+- [[#Key Information|Key Information]]
+- [[#Details|Details]]
+- [[#Background|Background]]
+- [[#Current State|Current State]]
+- [[#Future Potential|Future Potential]]
+- [[#Relationships|Relationships]]
+- [[#Usage Notes|Usage Notes]]
+- [[#Plot Hooks|Plot Hooks]]
+
+
+---
 created: 2025-08-14
 evaluated: '2025-08-14'
 headquarters: Unknown
@@ -22,7 +43,8 @@ This document contains important information regarding Guild Seal Document Silve
 Guild Seal Document Silverscale Consortiu represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
 ## Key Information
-- **Primary Purpose**: Serves specific function within the world
+- **Primary Pu
+*Sounds of [relevant sounds] echo in the distance.*rpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context
 
@@ -57,6 +79,29 @@ This content can be adapted and expanded based on specific campaign needs.
 > Important safety or rule information
 
 ## See Also
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[Archdruid Thornweaver]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[09 Adventuring]]
+- [[Character_Journal_Template]]
+- [[Count_Strahd_von_Zarovich]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[Complete_NPC_Matrix.md]]
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
 - [[Related_Content]]
 
 
@@ -69,14 +114,14 @@ This content can be adapted and expanded based on specific campaign needs.
 - [[ULTIMATE_ASSET_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 

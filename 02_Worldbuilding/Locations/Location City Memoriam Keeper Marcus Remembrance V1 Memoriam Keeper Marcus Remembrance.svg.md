@@ -83,3 +83,7 @@ Recent developments have brought new attention to Location City Memoriam Keeper 
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01017_Vesper_Keenblade_the_Risen]]

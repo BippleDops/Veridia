@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Qadim Crystalbrook the Guardian
 
 *Gnome Assassin (Villains), Age 26, Female*

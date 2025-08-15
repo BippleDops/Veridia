@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.768005
+modified: 2025-08-15T16:41:46.768008
+aliases: [NPC01164 Rhiannon Underhill the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Solas Xendar the Mystic (Criminal - Handler)|Solas Xendar the Mystic (Criminal - Handler)]]
+- [[#Alaric Blackstone the Broken (Personal - Ex-lover)|Alaric Blackstone the Broken (Personal - Ex-lover)]]
+- [[#Kaelen Voidwalker the Broken (Political - Spy)|Kaelen Voidwalker the Broken (Political - Spy)]]
+
+
+---
 aliases: ["Rhiannon Underhill the Swift", "rhiannon underhill the swift", "Rhiannon Underhill Swift", "Swift the Underhill Rhiannon"]
 tags: [npc, character]
 type: npc
@@ -245,3 +266,14 @@ Seeks rare merchandise
 - Compare with [[Assets Locations Location City Exotic Imports Market Exotic Imports Market.svg]]
 - Originates from [[The Seven Breathing Stones]]
 - See also: [[step_074]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

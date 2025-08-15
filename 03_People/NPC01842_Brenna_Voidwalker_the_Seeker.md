@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Brenna Voidwalker the Seeker
 
 *Goliath Cultist (Villains), Age 37, Non-binary*

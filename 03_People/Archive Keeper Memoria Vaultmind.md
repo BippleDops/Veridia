@@ -13,6 +13,10 @@ alignment: Lawful Neutral
 status: Alive
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Archive Keeper Memoria Vaultmind
 
 ## Overview

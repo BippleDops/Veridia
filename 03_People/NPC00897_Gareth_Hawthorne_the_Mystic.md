@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gareth Hawthorne the Mystic
 
 *Genasi Appraiser (Merchants), Age 21, Non-binary*

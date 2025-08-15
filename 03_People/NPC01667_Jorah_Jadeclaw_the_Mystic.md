@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.715535
+modified: 2025-08-15T16:41:45.715538
+aliases: [NPC01667 Jorah Jadeclaw the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hestara Hawthorne the Guardian (Political - Spy)|Hestara Hawthorne the Guardian (Political - Spy)]]
+- [[#Gavril Silverleaf the Risen (Political - Puppet)|Gavril Silverleaf the Risen (Political - Puppet)]]
+- [[#Caelum Ravenheart the Risen (Personal - Nemesis)|Caelum Ravenheart the Risen (Personal - Nemesis)]]
+
+
+---
 aliases: ["Jorah Jadeclaw the Mystic", "jorah jadeclaw the mystic", "Jorah Jadeclaw Mystic", "Mystic the Jadeclaw Jorah"]
 tags: [npc, character]
 type: npc
@@ -247,3 +268,14 @@ Blackmails party into service
 - Related: [[NPC00089_Solas_Goldleaf]]
 - Influences [[White Dragon Scale Mail Xdmg]]
 - Leads to [[mess-kit (items)]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

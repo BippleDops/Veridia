@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.957919
+modified: 2025-08-15T16:41:42.957922
+aliases: [NPC00870 Xander Winterborn the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Brenna Lightbringer the Lost (Personal - Childhood friend)|Brenna Lightbringer the Lost (Personal - Childhood friend)]]
+- [[#Lyanna Emberfall the Swift (Personal - Ex-lover)|Lyanna Emberfall the Swift (Personal - Ex-lover)]]
+- [[#Aldric Winterborn the Fallen (Professional - Employer)|Aldric Winterborn the Fallen (Professional - Employer)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Xander Winterborn the Bold", "xander winterborn the bold", "Xander Winterborn Bold", "Bold the Winterborn Xander"]
 tags: [npc, character]
@@ -151,9 +172,9 @@ Seeks rare merchandise
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -263,3 +284,14 @@ Seeks rare merchandise
 - Influences [[Four Armed Statue Oota]]
 - Influences [[Merfolk Wavebender Xmm]]
 - Related: [[The Crimson Docks (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

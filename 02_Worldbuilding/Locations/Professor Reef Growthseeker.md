@@ -235,3 +235,9 @@ Ongoing situations affecting Professor Reef Growthseeker:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]

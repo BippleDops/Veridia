@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.578848
+modified: 2025-08-15T16:41:46.578851
+aliases: [Shadow touched Communities]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_shadow_touched_communities_standard.png]]
+
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Relationships|Relationships]]
+- [[#Plot Hooks|Plot Hooks]]
+- [[#Notes|Notes]]
+- [[#References|References]]
+- [[#Connections|Connections]]
+
+
+---
 tags: [npc, character]
 type: npc
 race: Human
@@ -16,7 +41,8 @@ Shadow touched Communities is a priest who operates in the area. They are known 
 *Description needed*
 
 ## Personality
-- **Traits**: Professional, cautious
+- **Traits**: Professional,
+*Sounds of [relevant sounds] echo in the distance.* cautious
 - **Ideal**: Maintaining order and stability
 - **Bond**: Loyalty to their community
 - **Flaw**: Can be overly suspicious

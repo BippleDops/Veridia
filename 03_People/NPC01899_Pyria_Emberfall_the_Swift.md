@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.705707
+modified: 2025-08-15T16:41:43.705712
+aliases: [NPC01899 Pyria Emberfall the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Winterborn the Guardian (Family - Child)|Ysara Winterborn the Guardian (Family - Child)]]
+- [[#Vesper Nightfall the Guardian (Family - Sibling)|Vesper Nightfall the Guardian (Family - Sibling)]]
+- [[#Zephyr Crystalbrook the Swift (Criminal - Target)|Zephyr Crystalbrook the Swift (Criminal - Target)]]
+
+
+---
 aliases: ["Pyria Emberfall the Swift", "pyria emberfall the swift", "Pyria Emberfall Swift", "Swift the Emberfall Pyria"]
 tags: [npc, character]
 type: npc
@@ -240,3 +261,14 @@ Is secretly testing the party
 - Related: [[step_062 (phase_034)]]
 - Requires [[SHOP00003_Magical_Shop_4]]
 - Leads to [[step_019]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

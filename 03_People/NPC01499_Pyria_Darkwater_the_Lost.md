@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Pyria Darkwater the Lost
 
 *Firbolg Wizard (Adventurers), Age 38, Female*

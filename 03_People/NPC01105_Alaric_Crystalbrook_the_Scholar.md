@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Alaric Crystalbrook the Scholar
 
 *Genasi Trader (Merchants), Age 64, Male*

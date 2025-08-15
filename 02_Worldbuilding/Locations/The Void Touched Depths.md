@@ -525,3 +525,7 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]

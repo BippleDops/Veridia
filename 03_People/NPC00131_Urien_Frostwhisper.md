@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.018270
+modified: 2025-08-15T16:41:46.018273
+aliases: [NPC00131 Urien Frostwhisper]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aeliana Voidwalker (Political - Opposition)|Aeliana Voidwalker (Political - Opposition)]]
+- [[#Urien Silverleaf the Guardian (Political - Opposition)|Urien Silverleaf the Guardian (Political - Opposition)]]
+- [[#Kaelen Keenblade (Family - Spouse)|Kaelen Keenblade (Family - Spouse)]]
+
+
+---
 aliases: ["Urien Frostwhisper", "urien frostwhisper", "Frostwhisper Urien"]
 tags: [npc, character]
 type: npc
@@ -246,3 +271,8 @@ Seeks bodyguards for dangerous journey
 - Affected by [[LOC00092_Wilderness_Location_93]]
 - Compare with [[City Development Plan 2]]
 - See also: [[Quest - Shadow Citizenship Act]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

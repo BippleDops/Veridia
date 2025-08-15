@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.908101
+modified: 2025-08-15T16:41:46.908104
+aliases: [NPC01516 Aeliana Thornweave the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Malakai Brightblade the Fallen (Family - Cousin)|Malakai Brightblade the Fallen (Family - Cousin)]]
+- [[#Faelyn Frostwhisper the Broken (Professional - Rival)|Faelyn Frostwhisper the Broken (Professional - Rival)]]
+- [[#Qadim Thornweave the Lost (Family - Parent)|Qadim Thornweave the Lost (Family - Parent)]]
+
+
+---
 aliases: ["Aeliana Thornweave the Scholar", "aeliana thornweave the scholar", "Aeliana Thornweave Scholar", "Scholar the Thornweave Aeliana"]
 tags: [npc, character]
 type: npc
@@ -256,3 +277,14 @@ Knows secret about major threat
 - Compare with [[Random Shop]]
 - Influences [[Divine Communication Specialists 2]]
 - Leads to [[Sage Lyralei Starweaver (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
+![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

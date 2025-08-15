@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.211349
+modified: 2025-08-15T16:41:43.211354
+aliases: [NPC00206 Hestara Frostwhisper the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Erasmus Darkwater (Professional - Employer)|Erasmus Darkwater (Professional - Employer)]]
+- [[#Gavril Proudmore the Strong (Professional - Rival)|Gavril Proudmore the Strong (Professional - Rival)]]
+- [[#Kaelen Crystalbrook the Wanderer (Family - Child)|Kaelen Crystalbrook the Wanderer (Family - Child)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Hestara Frostwhisper the Wanderer", "hestara frostwhisper the wanderer", "Hestara Frostwhisper Wanderer", "Wanderer the Frostwhisper Hestara"]
 tags: [npc, character]
@@ -246,3 +267,14 @@ Requires champions for trial by combat
 - Influences [[step_032 (phase_039)]]
 - Related: [[Coral Silkweaver (D&D_References)]]
 - Influences [[bones-of-the-earth-xge (spells)]]
+
+## Visual References
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

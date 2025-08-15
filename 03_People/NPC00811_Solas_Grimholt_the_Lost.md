@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Grimholt the Lost
 
 *Half-Orc Trader (Merchants), Age 26, Male*

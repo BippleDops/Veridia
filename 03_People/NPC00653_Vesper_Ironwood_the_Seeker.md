@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Ironwood the Seeker
 
 *Firbolg Blacksmith (Commoners), Age 26, Female*

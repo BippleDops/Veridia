@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Fiora Youngblood
 
 *Tiefling Courtier (Nobles), Age 21, Non-binary*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.757193
+modified: 2025-08-15T16:41:45.757197
+aliases: [NPC01141 Felicia Xendar the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aeliana Stormwind the Wanderer (Family - Sibling)|Aeliana Stormwind the Wanderer (Family - Sibling)]]
+- [[#Ysara Thornweave the Broken (Criminal - Handler)|Ysara Thornweave the Broken (Criminal - Handler)]]
+- [[#Elric Crystalbrook the Broken (Family - Child)|Elric Crystalbrook the Broken (Family - Child)]]
+
+
+---
 aliases: ["Felicia Xendar the Wise", "felicia xendar the wise", "Felicia Xendar Wise", "Wise the Xendar Felicia"]
 tags: [npc, character]
 type: npc
@@ -246,3 +267,14 @@ Competitor sabotaging business
 - Compare with [[Chronokeeper Tide Timestable]]
 - Related: [[dwarven-berronar-truesilver-mtf (deities)]]
 - Influences [[octopus-xmm (beast)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

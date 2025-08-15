@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Kaelen Voidwalker the Lost
 
 *Dragonborn Fisher (Commoners), Age 38, Male*

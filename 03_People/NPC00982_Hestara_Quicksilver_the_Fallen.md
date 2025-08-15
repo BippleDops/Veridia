@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.891830
+modified: 2025-08-15T16:41:46.891834
+aliases: [NPC00982 Hestara Quicksilver the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Moonshadow the Fallen (Personal - Love interest)|Corvus Moonshadow the Fallen (Personal - Love interest)]]
+- [[#Alaric Xendar the Guardian (Personal - Nemesis)|Alaric Xendar the Guardian (Personal - Nemesis)]]
+- [[#Zephyr Jadeclaw the Scholar (Professional - Employee)|Zephyr Jadeclaw the Scholar (Professional - Employee)]]
+
+
+---
 aliases: ["Hestara Quicksilver the Fallen", "hestara quicksilver the fallen", "Hestara Quicksilver Fallen", "Fallen the Quicksilver Hestara"]
 tags: [npc, character]
 type: npc
@@ -238,3 +263,8 @@ Seeks rare merchandise
 - Leads to [[step_079]]
 - Requires [[Captain Marrow Drinker (D&D_References)]]
 - Originates from [[List Spells Classes Gloom Stalker Xphb]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

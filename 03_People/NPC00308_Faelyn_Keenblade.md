@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.492705
+modified: 2025-08-15T16:41:45.492708
+aliases: [NPC00308 Faelyn Keenblade]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Qadim Nightfall (Criminal - Accomplice)|Qadim Nightfall (Criminal - Accomplice)]]
+- [[#Caelum Voidwalker the Strong (Criminal - Fence)|Caelum Voidwalker the Strong (Criminal - Fence)]]
+- [[#Aldric Jadeclaw the Broken (Political - Spy)|Aldric Jadeclaw the Broken (Political - Spy)]]
+
+
+---
 aliases: ["Faelyn Keenblade", "faelyn keenblade", "Keenblade Faelyn"]
 tags: [npc, character]
 type: npc
@@ -240,3 +265,8 @@ Needs discrete help with family scandal
 - Originates from [[step_058 (phase_037)]]
 - Affected by [[portrait-npc-oracle-v2-oracle.svg_1 (Portraits)]]
 - Requires [[Coral Vortextrader]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

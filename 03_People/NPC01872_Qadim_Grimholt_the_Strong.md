@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.724212
+modified: 2025-08-15T16:41:42.724214
+aliases: [NPC01872 Qadim Grimholt the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Stormwind the Wise (Professional - Mentor)|Ysara Stormwind the Wise (Professional - Mentor)]]
+- [[#Solas Zephyrblade the Lost (Personal - Childhood friend)|Solas Zephyrblade the Lost (Personal - Childhood friend)]]
+- [[#Branwen Dawnstrider the Cunning (Political - Spy)|Branwen Dawnstrider the Cunning (Political - Spy)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Qadim Grimholt the Strong", "qadim grimholt the strong", "Qadim Grimholt Strong", "Strong the Grimholt Qadim"]
 tags: [npc, character]
@@ -157,9 +178,9 @@ Is secretly testing the party
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -269,3 +290,14 @@ Is secretly testing the party
 - Influences [[Portrait NPC the Northern Kingdoms V2 the Northern Kingdoms.svg_1 (Portraits)]]
 - Related: [[NPC01066_Zephyr_Emberfall_the_Mystic]]
 - Originates from [[step_064]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

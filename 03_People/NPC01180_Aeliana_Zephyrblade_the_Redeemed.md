@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.450009
+modified: 2025-08-15T16:41:43.450012
+aliases: [NPC01180 Aeliana Zephyrblade the Redeemed]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Jorah Moonshadow the Wise (Criminal - Fence)|Jorah Moonshadow the Wise (Criminal - Fence)]]
+- [[#Qadim Blackstone the Bold (Personal - Ex-lover)|Qadim Blackstone the Bold (Personal - Ex-lover)]]
+- [[#Delara Dawnstrider the Redeemed (Personal - Love interest)|Delara Dawnstrider the Redeemed (Personal - Love interest)]]
+
+
+---
 aliases: ["Aeliana Zephyrblade the Redeemed", "aeliana zephyrblade the redeemed", "Aeliana Zephyrblade Redeemed", "Redeemed the Zephyrblade Aeliana"]
 tags: [npc, character]
 type: npc
@@ -240,3 +265,8 @@ Has map to lost treasure
 - Parallels [[Assets Locations Location City Court Herald Titus Court Herald Titus.svg]]
 - Compare with [[step_019]]
 - Related: [[step_058]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

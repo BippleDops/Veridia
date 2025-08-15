@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Elric Winterborn the Wise
 
 *Aasimar Farmer (Commoners), Age 26, Male*

@@ -228,3 +228,7 @@ Ongoing situations affecting The Hidden Cove of Whispers:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00259_Delara_Proudmore]]

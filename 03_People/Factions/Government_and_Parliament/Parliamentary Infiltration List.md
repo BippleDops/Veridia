@@ -23,6 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Parliamentary Infiltration List](../../../04_Resources/Assets/Misc/parliamentary_infiltration_list.png)
 
 ## 🔧 Deep Evaluation Improvements

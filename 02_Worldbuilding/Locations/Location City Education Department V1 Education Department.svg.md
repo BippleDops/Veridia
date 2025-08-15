@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Education Depart
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]

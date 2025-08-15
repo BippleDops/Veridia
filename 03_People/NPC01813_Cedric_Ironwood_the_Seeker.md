@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Cedric Ironwood the Seeker
 
 *Firbolg Dark Wizard (Villains), Age 27, Non-binary*

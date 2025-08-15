@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Caelum Moonshadow the Seeker
 
 *Halfling Ranger (Adventurers), Age 65, Male*

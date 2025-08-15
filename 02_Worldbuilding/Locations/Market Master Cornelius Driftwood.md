@@ -263,3 +263,7 @@ Ongoing situations affecting Market Master Cornelius Driftwood:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]

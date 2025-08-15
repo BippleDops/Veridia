@@ -2,6 +2,10 @@
 tags: ['npc']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_02_worldbuilding_people_high_theologian_commander_aurelius_standard.png]]
+
+
 # 02 Worldbuilding/People/High Theologian Commander Aurelius
 
 ## Basic Information

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.448092
+modified: 2025-08-15T16:41:46.448095
+aliases: [NPC00106 Gareth Winterborn]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Voidwalker (Professional - Rival)|Corvus Voidwalker (Professional - Rival)]]
+- [[#Pyria Moonshadow (Personal - Best friend)|Pyria Moonshadow (Personal - Best friend)]]
+- [[#Drusilla Darkwater the Seeker (Criminal - Informant)|Drusilla Darkwater the Seeker (Criminal - Informant)]]
+
+
+---
 aliases: ["Gareth Winterborn", "gareth winterborn", "Winterborn Gareth"]
 tags: [npc, character]
 type: npc
@@ -239,3 +260,14 @@ Seeks bodyguards for dangerous journey
 - See also: [[step_082]]
 - Related: [[Resonance Equipment]]
 - Affected by [[Tashas Hideous Laughter Xphb]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
+![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

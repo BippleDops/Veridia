@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.378589
+modified: 2025-08-15T16:41:46.378594
+aliases: [NPC00782 Ewan Underhill the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Xander Ironwood the Wanderer (Professional - Mentor)|Xander Ironwood the Wanderer (Professional - Mentor)]]
+- [[#Orion Oakenshield the Wanderer (Criminal - Target)|Orion Oakenshield the Wanderer (Criminal - Target)]]
+- [[#Wynne Ironforge the Broken (Political - Opposition)|Wynne Ironforge the Broken (Political - Opposition)]]
+
+
+---
 aliases: ["Ewan Underhill the Fallen", "ewan underhill the fallen", "Ewan Underhill Fallen", "Fallen the Underhill Ewan"]
 tags: [npc, character]
 type: npc
@@ -248,3 +273,8 @@ Discovered something valuable
 - Originates from [[Crusaders Shortsword Cos]]
 - See also: [[shrieker-fungus-xmm]]
 - Leads to [[List Spells Classes Arcane Trickster Xphb]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

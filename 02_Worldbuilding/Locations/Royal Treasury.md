@@ -233,3 +233,9 @@ Mentioned in The Hidden Prophecy of Shadows
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00922_Wynne_Youngblood_the_Fallen]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]

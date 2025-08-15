@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Cedric Youngblood the Guardian
 
 *Tabaxi Dark Wizard (Villains), Age 36, Female*

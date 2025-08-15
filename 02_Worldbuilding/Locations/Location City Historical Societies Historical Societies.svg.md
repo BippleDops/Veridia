@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Historical Socie
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]

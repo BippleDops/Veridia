@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.677996
+modified: 2025-08-15T16:41:43.677998
+aliases: [NPC01665 Malakai Ravenheart the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Baelor Ironforge the Wise (Political - Puppet)|Baelor Ironforge the Wise (Political - Puppet)]]
+- [[#Gavril Crystalbrook the Mystic (Political - Ally)|Gavril Crystalbrook the Mystic (Political - Ally)]]
+- [[#Malakai Youngblood the Strong (Criminal - Informant)|Malakai Youngblood the Strong (Criminal - Informant)]]
+
+
+---
 aliases: ["Malakai Ravenheart the Strong", "malakai ravenheart the strong", "Malakai Ravenheart Strong", "Strong the Ravenheart Malakai"]
 tags: [npc, character]
 type: npc
@@ -251,3 +272,14 @@ Offers deal too good to refuse
 - See also: [[Session 25 Diplomacy Example]]
 - Originates from [[LOC00201_Wilderness_Location_202]]
 - Affected by [[shield-of-the-silver-dragon-cos (items)]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

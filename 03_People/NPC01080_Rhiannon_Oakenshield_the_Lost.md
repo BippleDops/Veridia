@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.108484
+modified: 2025-08-15T16:41:44.108486
+aliases: [NPC01080 Rhiannon Oakenshield the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Malakai Thornweave the Bold (Criminal - Informant)|Malakai Thornweave the Bold (Criminal - Informant)]]
+- [[#Branwen Keenblade the Wanderer (Criminal - Handler)|Branwen Keenblade the Wanderer (Criminal - Handler)]]
+- [[#Faelyn Lightbringer the Risen (Criminal - Handler)|Faelyn Lightbringer the Risen (Criminal - Handler)]]
+
+
+---
 aliases: ["Rhiannon Oakenshield the Lost", "rhiannon oakenshield the lost", "Rhiannon Oakenshield Lost", "Lost the Oakenshield Rhiannon"]
 tags: [npc, character]
 type: npc
@@ -253,3 +274,14 @@ Competitor sabotaging business
 - Connects to [[molten-magma-roper-pota (monstrosity)]]
 - Parallels [[darkness-xphb (spells)]]
 - Compare with [[LOC00007_Wilderness_Location_8]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

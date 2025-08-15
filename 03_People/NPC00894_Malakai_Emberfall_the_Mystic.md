@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.340504
+modified: 2025-08-15T16:41:46.340510
+aliases: [NPC00894 Malakai Emberfall the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Dara Lightbringer the Swift (Family - Cousin)|Dara Lightbringer the Swift (Family - Cousin)]]
+- [[#Delara Grimholt the Seeker (Criminal - Informant)|Delara Grimholt the Seeker (Criminal - Informant)]]
+- [[#Gavril Xendar the Fallen (Professional - Mentor)|Gavril Xendar the Fallen (Professional - Mentor)]]
+
+
+---
 aliases: ["Malakai Emberfall the Mystic", "malakai emberfall the mystic", "Malakai Emberfall Mystic", "Mystic the Emberfall Malakai"]
 tags: [npc, character]
 type: npc
@@ -237,3 +258,14 @@ Seeks rare merchandise
 - Leads to [[step_035 (phase_053)]]
 - See also: [[Symbol Heraldry the Liminal Trading Company V1 the Liminal Trading Company.svg]]
 - Affected by [[The Thornfield District]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

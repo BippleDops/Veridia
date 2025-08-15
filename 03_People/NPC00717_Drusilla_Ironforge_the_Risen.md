@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Drusilla Ironforge the Risen
 
 *Genasi Blacksmith (Commoners), Age 38, Non-binary*

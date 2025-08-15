@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.351142
+modified: 2025-08-15T16:41:41.351144
+aliases: [NPC01761 Idris Moonshadow the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Goldleaf the Broken (Political - Opposition)|Corvus Goldleaf the Broken (Political - Opposition)]]
+- [[#Solas Youngblood the Seeker (Professional - Rival)|Solas Youngblood the Seeker (Professional - Rival)]]
+- [[#Rhiannon Stormwind the Bold (Political - Opposition)|Rhiannon Stormwind the Bold (Political - Opposition)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Idris Moonshadow the Broken", "idris moonshadow the broken", "Idris Moonshadow Broken", "Broken the Moonshadow Idristags: [npc, character, combat, magic, social, lore]er]
 type: npc
@@ -100,7 +125,7 @@ Deception, Intimidation, Stealth, Sleight of Hand
 - "This is a dangerous place to wander."
 
 ### Catchphrases
-- "Time will tell."
+- "[[Time]] will tell."
 - "In my experience..."
 
 ### Knowledge
@@ -137,6 +162,27 @@ Offers deal too good to refuse
 - Special moves
 
 ## See Also
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[MOC_Lore]]
+- [[MOC_Rules]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[NPC01594_Fiora_Proudmore_the_Seeker]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
 - [[Related_Content]]
 
 
@@ -146,10 +192,10 @@ Offers deal too good to refuse
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -160,7 +206,7 @@ Offers deal too good to refuse
 ## Connections
 
 - Originates from [[step_037]]
-- Affected by [[Wandering Prophet Coral Stormrider (D&D_References)]]
+- Affected by [[[[Wandering Prophet Coral Stormrider]] (D&D_References)]]
 - Leads to [[SPELL00136_Nature_Spell_137]]
 - Leads to [[step_031 (phase_079)]]
 - Influences [[Doctor_Silas_Voidtouch.png]]
@@ -170,7 +216,7 @@ Offers deal too good to refuse
 - Affected by [[Faerunian Kelemvor Scag]]
 - Parallels [[remove-curse-xphb (spells)]]
 - Influences [[step_025 (phase_089)]]
-- See also: [[Assets Locations Location City the Drowning Truth V1 the Drowning Truth.svg]]
+- See also: [[Assets Locations [[Location City [[The Drowning Truth]] V1 the Drowning Truth.svg]]]]
 - Originates from [[step_028 (phase_024)]]
 - Compare with [[step_033]]
 - Connects to [[Shadow Energy Processing Facilities 2]]
@@ -184,10 +230,10 @@ Offers deal too good to refuse
 - Connects to [[step_051 (phase_089)]]
 - Connects to [[Boots of Elvenkind Xdmg]]
 - Leads to [[Void Shepherds]]
-- Originates from [[The Forgotten Mourner (D&D_References)]]
+- Originates from [[[[The Forgotten Mourner]] (D&D_References)]]
 - See also: [[Spiritual Healing]]
-- Influences [[Harbor Master's Tower 2]]
-- Parallels [[Location City Sommelier Bacchus Deepbottle Sommelier Bacchus Deepbottle.svg]]
+- Influences [[[[Harbor Master's Tower]] 2]]
+- Parallels [[Location City [[Sommelier Bacchus Deepbottle]] Sommelier Bacchus Deepbottle.svg]]
 - Leads to [[step_079 (phase_081)]]
 - Connects to [[NPC01052_Idris_Brightblade_the_Mystic]]
 - Influences [[step_018 (phase_086)]]
@@ -202,7 +248,7 @@ Offers deal too good to refuse
 - Originates from [[step_080]]
 - Connects to [[Minister Nightpolicy]]
 - Connects to [[MON00073_Constructs_Creature_74]]
-- Compare with [[Lord Reginald Seaworthy (D&D_References)]]
+- Compare with [[[[Lord Reginald Seaworthy]] (D&D_References)]]
 - Related: [[step_037 (phase_033)]]
 - Compare with [[LOC0135_LowerGate]]
 - Influences [[NPC00931_Erasmus_Winterborn_the_Swift]]
@@ -210,7 +256,7 @@ Offers deal too good to refuse
 - Influences [[LOC0011_SouthBridge]]
 - Influences [[Elder Kythara]]
 - Compare with [[MON00143_Aberrations_Creature_144]]
-- See also: [[The Forgotten One 2]]
+- See also: [[[[The Forgotten One]] 2]]
 - Parallels [[QUEST00145_Personal_Quest_146]]
 - Influences [[Master Smith-Priest Vulcan Depthforge (D&D_References)]]
 - Related: [[Wind Songs (D&D_References)]]
@@ -236,11 +282,11 @@ Offers deal too good to refuse
 - Requires [[NPC00287_Ysara_Underhill_the_Wise]]
 - Parallels [[step_032 (phase_012)]]
 - Influences [[The Mediator 2]]
-- Requires [[Location_Prompts - Cities (Assets)]]
-- Influences [[Location City Pressure Guard Steelwall V1 Pressure Guard Steelwall.svg]]
+- Requires [[[[Location_Prompts]] - Cities (Assets)]]
+- Influences [[Location City [[Pressure Guard Steelwall]] V1 Pressure Guard Steelwall.svg]]
 - Requires [[List Spells Classes Monk]]
 - Influences [[Enspelled Weapon Level 7 Xdmg]]
-- See also: [[The Observatory of Celestial Wisdom]]
+- See also: [[[[The Observatory]] of Celestial Wisdom]]
 - Leads to [[Regenerating Black Pudding Oota]]
 - Related: [[step_006 (phase_019)]]
 - Affected by [[Medical Director Healing Tidecurrent]]
@@ -250,12 +296,17 @@ Offers deal too good to refuse
 - Influences [[12_Research_D&D_Statblocks_High_Priestess_Celeste_Dawnbringer]]
 - See also: [[step_092 (phase_042)]]
 - Compare with [[LORE00268_History_Entry_269]]
-- Parallels [[location-city-artificer-s-row-artificer-s-row.svg]]
+- Parallels [[location-city-[[Artificer]]-s-row-artificer-s-row.svg]]
 - Compare with [[Portrait NPC the Lady S Garden Society V1 the Lady S Garden Society.svg]]
 - Related: [[step_070 (phase_035)]]
 - Affected by [[brass-mug-with-jade-inlay-xdmg (items)]]
 - Leads to [[step_088 (phase_038)]]
-- Compare with [[Location City the Original Palace V1 the Original Palace.svg]]
+- Compare with [[Location City [[The Original Palace]] V1 the Original Palace.svg]]
 - Related: [[Portrait NPC Tenebrarum Ambassadors V2 Tenebrarum Ambassadors.svg_1 (Portraits)]]
 - Compare with [[location-city-pressure-tubes-v1-pressure-tubes.svg]]
 - Affected by [[Creature Creature Nightwalker Mpmm V4 Nightwalker Mpmm.png]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

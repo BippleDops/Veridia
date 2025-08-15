@@ -250,3 +250,10 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]

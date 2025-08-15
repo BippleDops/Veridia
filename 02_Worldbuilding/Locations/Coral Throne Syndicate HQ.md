@@ -786,3 +786,7 @@ Ongoing situations affecting Coral Throne Syndicate HQ:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]

@@ -264,3 +264,7 @@ Mentioned in The Second Prophecy of Winds
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00237_Vesper_Ashford_the_Bold]]

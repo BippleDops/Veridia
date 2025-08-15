@@ -235,3 +235,9 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]

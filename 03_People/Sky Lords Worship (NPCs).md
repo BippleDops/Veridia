@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.885852
+modified: 2025-08-15T16:41:42.885854
+aliases: [Sky Lords Worship (NPCs)]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_sky_lords_worship_friendly.png]]
+
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Abilities|Abilities]]
+- [[#Relationships|Relationships]]
+- [[#Current Activities|Current Activities]]
+- [[#Plot Hooks|Plot Hooks]]
+- [[#DM Notes|DM Notes]]
+- [[#Voice & Mannerisms|Voice & Mannerisms]]
+
+
+---
 aliases: [Sky_Lords_Worship_(NPCs), Sky-Lords-Worship-(NPCs)]
 title: Sky Lords Worship
 type: npc
@@ -93,8 +118,8 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - [[10 Combat]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -204,3 +229,17 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Affected by [[The Schism Bridges]]
 - Related: [[Location Prompts (Assets)]]
 - Influences [[step_082 (phase_091)]]
+
+## Realm Connections
+
+### Connection to Aethermoor
+This connects to the sky realm of Sky realm of eternal winds and floating islands.
+
+- **Ruling Power**: The Windlord Council
+- **Capital**: [[Skylance Citadel]]
+- **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
+- **Current Conflict**: The Void Incursion, Elemental Convergence
+- **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
+
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+navigate floating islands connected by bridges of solidified cloud.

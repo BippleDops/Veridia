@@ -252,3 +252,10 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00763_Urien_Brightblade_the_Broken]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]

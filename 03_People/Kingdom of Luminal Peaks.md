@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.640121
+modified: 2025-08-15T16:41:46.640126
+aliases: [Kingdom of Luminal Peaks]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_kingdom_of_luminal_peaks_friendly.png]]
+
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Relationships|Relationships]]
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Evolution Improvements|Evolution Improvements]]
+- [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
+
+
+---
 
 title: Kingdom of Luminal Peaks
 type: Npc
@@ -274,7 +299,7 @@ ___
 - Retreats when below 25% health
 
 ## Sourcebook Reference
-> Based on **Commoner** (MM p.345) with modifications
+> Based on **Commoner** (BC p.345) with modifications
 
 ## References
 

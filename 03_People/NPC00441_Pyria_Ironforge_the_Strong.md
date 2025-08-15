@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Pyria Ironforge the Strong
 
 *Dragonborn Fisher (Commoners), Age 67, Non-binary*

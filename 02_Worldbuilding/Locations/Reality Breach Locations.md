@@ -358,3 +358,7 @@ Ongoing situations affecting Reality Breach Locations:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]

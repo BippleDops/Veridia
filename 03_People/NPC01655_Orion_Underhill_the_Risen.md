@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.629438
+modified: 2025-08-15T16:41:45.629444
+aliases: [NPC01655 Orion Underhill the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Lyanna Xendar the Wanderer (Personal - Nemesis)|Lyanna Xendar the Wanderer (Personal - Nemesis)]]
+- [[#Malakai Ironwood the Lost (Criminal - Informant)|Malakai Ironwood the Lost (Criminal - Informant)]]
+- [[#Alaric Hawthorne the Scholar (Professional - Rival)|Alaric Hawthorne the Scholar (Professional - Rival)]]
+
+
+---
 aliases: ["Orion Underhill the Risen", "orion underhill the risen", "Orion Underhill Risen", "Risen the Underhill Orion"]
 tags: [npc, character]
 type: npc
@@ -255,3 +280,8 @@ Blackmails party into service
 - Compare with [[The Surgical Sanctum]]
 - Leads to [[step_021 (phase_046)]]
 - Related: [[Merchant Truth Society (D&D_References)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

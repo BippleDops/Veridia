@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.902678
+modified: 2025-08-15T16:41:40.902680
+aliases: [NPC00385 Qadim Darkwater the Cunning]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Kaelen Stormwind the Cunning (Political - Ally)|Kaelen Stormwind the Cunning (Political - Ally)]]
+- [[#Nerys Dawnstrider the Seeker (Criminal - Handler)|Nerys Dawnstrider the Seeker (Criminal - Handler)]]
+- [[#Faelyn Proudmore the Wanderer (Criminal - Informant)|Faelyn Proudmore the Wanderer (Criminal - Informant)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Qadim Darkwater the Cunning", "qadim darkwater the cunning", "Qadim Darkwater Cunning", "Cunning the Darkwater Qadimtags: [npc, character, combat, magic, social, lore]er]
 type: npc
@@ -12,7 +33,7 @@ type: npc
 
 ## Quick Reference
 - **Location**: Forest clearing outside town
-- **Occupation**: Military commander
+- **Occupation**: [[Military Command]]er
 - **Disposition**: Sees doom and gloom everywhere
 
 ## Appearance
@@ -86,7 +107,7 @@ Deception, History
 - Dagger: +6 to hit, 1d4+2 damage
 
 ### Special Abilities
-- Diplomatic Immunity: Cannot be arrested without evidence
+- [[Diplomatic Immunity]]: Cannot be arrested without evidence
 - Diplomatic Immunity: Cannot be arrested without evidence
 
 ## Possessions
@@ -107,7 +128,7 @@ Deception, History
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- Political alliances
+- [[Political Alliances]]
 - Upcoming social events
 
 ## Plot Hook
@@ -138,13 +159,34 @@ Wants rivals investigated
 - Special moves
 
 ## Combat Stats
-Base: **Guard** (MM p.347)
+Base: **Guard** (BC p.347)
 Modifications:
 - HP: 40
 - AC: 11
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[Depth_Adapted_Background]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[11 Spellcasting]]
+- [[07 Customization Options]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[MOC_Items]]
 - [[Related_Content]]
 
 
@@ -154,8 +196,8 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -172,7 +214,7 @@ Modifications:
 - Related: [[Ambassador Marina Tidecaller 2]]
 - Affected by [[elemental-spirit-xphb (elemental)]]
 - Compare with [[Duergar in the World Duergar Adventurer Story Hooks Mtf]]
-- Connects to [[Assets Locations Location City High Vigil Keeper Thalassa Depthmind High Vigil Keeper Thalassa Depthmind.svg]]
+- Connects to [[Assets Locations [[Location City [[High Vigil Keeper Thalassa Depthmind]] High Vigil Keeper Thalassa Depthmind.svg]]]]
 - Related: [[ENC0040_Random_Encounter_41]]
 - Affected by [[step_044]]
 - See also: [[NPC01055_Cedric_Voidwalker_the_Wanderer]]
@@ -192,11 +234,11 @@ Modifications:
 - Compare with [[inferno-xdmg (traps-hazards)]]
 - Parallels [[SPELL00067_Divine_Spell_68]]
 - Leads to [[MON00025_Undead_Creature_26]]
-- Influences [[Council of Faiths 2]]
+- Influences [[[[Council of Faiths]] 2]]
 - Connects to [[NPC01052_Idris_Brightblade_the_Mystic]]
-- Affected by [[Assets Locations Location City the Forgotten Mourner V1 the Forgotten Mourner.svg]]
+- Affected by [[Assets Locations [[Location City [[The Forgotten Mourner]] V1 the Forgotten Mourner.svg]]]]
 - Leads to [[04_Resources_Assets_Locations_location-city-the-drowning-truth-v1-the-drowning-truth.svg]]
-- See also: [[Coral Reef Sanctuaries (D&D_References)]]
+- See also: [[[[Coral Reef Sanctuaries]] (D&D_References)]]
 - Leads to [[Portrait NPC the Nameless Auditor the Nameless Auditor.svg_1 (Portraits)]]
 - Originates from [[Resting]]
 - Parallels [[step_044 (phase_028)]]
@@ -209,8 +251,8 @@ Modifications:
 - Influences [[step_087 (phase_059)]]
 - Compare with [[step_018]]
 - Compare with [[step_066 (phase_069)]]
-- Compare with [[Assets Locations Location City Trader Compass Rose Trader Compass Rose.svg]]
-- Compare with [[The Sinking Atoll 2]]
+- Compare with [[Assets Locations Location City [[Trader Compass Rose]] Trader Compass Rose.svg]]
+- Compare with [[[[The Sinking Atoll]] 2]]
 - Related: [[NPC0077_Minerva_Ironforge_the_Clever]]
 - Parallels [[LOC00295_Wilderness_Location_296]]
 - Connects to [[Tides of Destiny Introduction]]
@@ -221,7 +263,7 @@ Modifications:
 - Connects to [[ENC0093_Random_Encounter_94]]
 - Requires [[LOC00203_Dungeons_Location_204]]
 - See also: [[Portrait NPC Duke Alexander Tidecrest V2 Duke Alexander Tidecrest.svg]]
-- Affected by [[Tide Risktaker (D&D_References)]]
+- Affected by [[[[Tide Risktaker]] (D&D_References)]]
 - Originates from [[Social Navigator Coral Diplomacy]]
 - Leads to [[LOC00188_Dungeons_Location_189]]
 - Compare with [[adult-black-dragon-xmm (dragon)]]
@@ -246,22 +288,33 @@ Modifications:
 - See also: [[Far Realm Incursions]]
 - See also: [[step_007 (phase_058)]]
 - Parallels [[DUN00135_Dungeon_136]]
-- Affected by [[The Bone Colosseum 2]]
+- Affected by [[[[The Bone Colosseum]] 2]]
 - Related: [[Celestial Gardens]]
 - Leads to [[Shadow Saints (D&D_References)]]
 - Related: [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
 - Related: [[Half Orc Parents Xge]]
 - Influences [[ITEM00178_Shadow_Bow_of_Slaying]]
 - Originates from [[step_012 (phase_048)]]
-- Related: [[Location City the Whispering Caverns V1 the Whispering Caverns.svg]]
+- Related: [[Location City [[The Whispering Caverns]] V1 the Whispering Caverns.svg]]
 - Compare with [[Implements Rare Xdmg]]
 - Affected by [[SPELL00154_Arcane_Spell_155]]
-- Influences [[Leviathan Shrines (D&D_References)]]
-- See also: [[Artist Wave Creator (D&D_References)]]
+- Influences [[[[Leviathan Shrines]] (D&D_References)]]
+- See also: [[[[Artist Wave Creator]] (D&D_References)]]
 - Affected by [[Vex Shadowthorn (People)]]
-- Parallels [[Location City Merchant Prince Aldric Goldcurrent Merchant Prince Aldric Goldcurrent.svg]]
+- Parallels [[Location City [[[[Merchant]] Prince Aldric Goldcurrent]] Merchant Prince Aldric Goldcurrent.svg]]
 - Connects to [[step_096 (phase_010)]]
 - Requires [[Dock Master Voidpilings]]
 - Leads to [[Chaos Bolt Xge]]
 - Connects to [[Bullywug Warrior Xmm]]
 - Related: [[step_044 (phase_010)]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

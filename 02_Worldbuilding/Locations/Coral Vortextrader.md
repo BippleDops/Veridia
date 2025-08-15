@@ -240,3 +240,7 @@ Ongoing situations affecting Coral Vortextrader:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]

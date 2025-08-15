@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 ![Enforcement Authority Charte](../../../04_Resources/Assets/Misc/enforcement_authority_charte.png)
 
 ## 🔧 Deep Evaluation Improvements

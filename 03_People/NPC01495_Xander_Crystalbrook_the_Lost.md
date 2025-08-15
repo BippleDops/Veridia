@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Xander Crystalbrook the Lost
 
 *Human Ranger (Adventurers), Age 62, Male*

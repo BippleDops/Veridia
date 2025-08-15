@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.131990
+modified: 2025-08-15T16:41:42.131994
+aliases: [NPC00804 Xander Frostwhisper the Cunning]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Brenna Hawthorne the Guardian (Criminal - Target)|Brenna Hawthorne the Guardian (Criminal - Target)]]
+- [[#Malakai Xendar the Strong (Criminal - Target)|Malakai Xendar the Strong (Criminal - Target)]]
+- [[#Fiora Ironforge the Wanderer (Personal - Childhood friend)|Fiora Ironforge the Wanderer (Personal - Childhood friend)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Xander Frostwhisper the Cunning", "xander frostwhisper the cunning", "Xander Frostwhisper Cunning", "Cunning the Frostwhisper Xander"]
 tags: [npc, character]
@@ -146,6 +167,42 @@ Seeks rare merchandise
 - Special moves
 
 ## See Also
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[Sage Elara]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[NPC00046_Urien_Ironwood_the_Wise]]
+- [[Party_Inventory]]
+- [[Player_Portal.md]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[Sanity_Quick_Reference.md]]
+- [[Reputation_Tracker]]
+- [[03 Races]]
+- [[14 Gods of the Multiverse]]
+- [[08 Using Ability Scores]]
+- [[16 Credits]]
+- [[11 Rules Glossary]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[MOC_Lore]]
+- [[Concept_Map]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[07 Customization Options]]
 - [[Related_Content]]
 
 
@@ -155,11 +212,11 @@ Seeks rare merchandise
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -269,3 +326,14 @@ Seeks rare merchandise
 - Compare with [[QUEST00032_Side_Quest_33]]
 - Related: [[step_060]]
 - Compare with [[LORE00263_History_Entry_264]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

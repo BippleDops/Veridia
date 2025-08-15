@@ -654,3 +654,8 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]

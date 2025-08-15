@@ -7,6 +7,10 @@ tags:
 created: '2025-01-15'
 ---
 
+## Map
+![[04_Resources/Assets/Maps/handout_map_sketch_3.png]]
+
+
 # Location3
 
 ## Overview

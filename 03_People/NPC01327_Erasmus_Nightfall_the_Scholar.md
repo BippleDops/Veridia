@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.261367
+modified: 2025-08-15T16:41:44.261371
+aliases: [NPC01327 Erasmus Nightfall the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gavril Nightfall the Scholar (Criminal - Target)|Gavril Nightfall the Scholar (Criminal - Target)]]
+- [[#Hestara Grimholt the Redeemed (Professional - Employee)|Hestara Grimholt the Redeemed (Professional - Employee)]]
+- [[#Drusilla Ironforge the Strong (Professional - Employer)|Drusilla Ironforge the Strong (Professional - Employer)]]
+
+
+---
 aliases: ["Erasmus Nightfall the Scholar", "erasmus nightfall the scholar", "Erasmus Nightfall Scholar", "Scholar the Nightfall Erasmus"]
 tags: [npc, character]
 type: npc
@@ -258,3 +279,14 @@ Needs help with personal quest
 - Originates from [[MON00010_Aberrations_Creature_11]]
 - Influences [[step_036 (phase_044)]]
 - Affected by [[Forgotten Realms Chauntea]]
+
+## Visual References
+![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
+![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
+![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

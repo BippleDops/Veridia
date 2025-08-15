@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.095825
+modified: 2025-08-15T16:41:42.095830
+aliases: [NPC01483 Gavril Zephyrblade the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Zephyr Darkwater the Mystic (Family - Child)|Zephyr Darkwater the Mystic (Family - Child)]]
+- [[#Delara Xendar the Wanderer (Family - Child)|Delara Xendar the Wanderer (Family - Child)]]
+- [[#Thalia Ironwood the Seeker (Professional - Mentor)|Thalia Ironwood the Seeker (Professional - Mentor)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Gavril Zephyrblade the Fallen", "gavril zephyrblade the fallen", "Gavril Zephyrblade Fallen", "Fallen the Zephyrblade Gavril"]
 tags: [npc, character]
@@ -143,26 +168,41 @@ Forming expedition to dangerous location
 - Special moves
 
 ## See Also
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[10 Combat]]
+- [[Archdruid Thornweaver]]
+- [[11 Rules Glossary]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[Count_Strahd_von_Zarovich]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Player's Handbook (PHB) p.175
-- Monster Manual (MM) p.163
-- Volo's Guide to Monsters (VGM) p.71
+- Adventurer's Codex (ACX) p.175
+- Bestiary Compendium (BC) p.163
+- Volo's Creature Catalog to Monsters (VCC) p.71
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -170,8 +210,8 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -281,3 +321,8 @@ Following magic item guidelines (DMG p.135-136):
 - Connects to [[npc-low-abilities (tables)]]
 - Requires [[PROGRESS_REPORT_2025-08-10_SESSION3]]
 - See also: [[Medallion of the Depths (D&D_References)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

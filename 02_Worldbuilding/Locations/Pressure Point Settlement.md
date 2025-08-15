@@ -365,3 +365,8 @@ Ongoing situations affecting Pressure Point Settlement:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]

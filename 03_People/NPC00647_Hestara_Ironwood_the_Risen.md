@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hestara Ironwood the Risen
 
 *Genasi Fisher (Commoners), Age 33, Non-binary*

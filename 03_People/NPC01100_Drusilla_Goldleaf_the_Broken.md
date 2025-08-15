@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Drusilla Goldleaf the Broken
 
 *Tabaxi Broker (Merchants), Age 19, Non-binary*

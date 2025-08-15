@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.184252
+modified: 2025-08-15T16:41:44.184258
+aliases: [NPC00140 Brenna Youngblood the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Malakai Thornweave the Strong (Family - Cousin)|Malakai Thornweave the Strong (Family - Cousin)]]
+- [[#Zephyr Voidwalker the Seeker (Personal - Nemesis)|Zephyr Voidwalker the Seeker (Personal - Nemesis)]]
+- [[#Branwen Youngblood the Fallen (Professional - Employee)|Branwen Youngblood the Fallen (Professional - Employee)]]
+
+
+---
 aliases: ["Brenna Youngblood the Scholar", "brenna youngblood the scholar", "Brenna Youngblood Scholar", "Scholar the Youngblood Brenna"]
 tags: [npc, character]
 type: npc
@@ -241,3 +262,14 @@ Wants rivals investigated
 - Compare with [[NPC2]]
 - Originates from [[nagpa-mpmm (monstrosity)]]
 - Connects to [[MON00140_Constructs_Creature_141]]
+
+## Visual References
+![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

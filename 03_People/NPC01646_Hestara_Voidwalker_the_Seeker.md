@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hestara Voidwalker the Seeker
 
 *Human Corrupt Noble (Villains), Age 58, Female*

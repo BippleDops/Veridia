@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.366672
+modified: 2025-08-15T16:41:43.366676
+aliases: [NPC00696 Qadim Ironwood the Broken]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Ashford the Wise (Family - Sibling)|Ysara Ashford the Wise (Family - Sibling)]]
+- [[#Vesper Darkwater the Fallen (Family - Child)|Vesper Darkwater the Fallen (Family - Child)]]
+- [[#Erasmus Goldleaf the Bold (Personal - Childhood friend)|Erasmus Goldleaf the Bold (Personal - Childhood friend)]]
+
+
+---
 aliases: ["Qadim Ironwood the Broken", "qadim ironwood the broken", "Qadim Ironwood Broken", "Broken the Ironwood Qadim"]
 tags: [npc, character]
 type: npc
@@ -239,3 +260,14 @@ Being extorted by criminals
 - Leads to [[The Threshold (D&D_References)]]
 - Leads to [[Professional Terminology]]
 - Originates from [[Master of Whispers Shade-Tongue Aldric]]
+
+## Visual References
+![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
+![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
+![[03_People/portrait_commander_thrace_ironwood.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

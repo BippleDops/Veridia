@@ -211,3 +211,8 @@ Ongoing situations affecting Surgeon Coral Seamender:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]

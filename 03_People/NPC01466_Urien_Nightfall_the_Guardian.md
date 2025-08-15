@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.758362
+modified: 2025-08-15T16:41:40.758367
+aliases: [NPC01466 Urien Nightfall the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Silverleaf the Scholar (Personal - Ex-lover)|Alaric Silverleaf the Scholar (Personal - Ex-lover)]]
+- [[#Felicia Dawnstrider the Broken (Political - Opposition)|Felicia Dawnstrider the Broken (Political - Opposition)]]
+- [[#Hestara Winterborn the Lost (Personal - Ex-lover)|Hestara Winterborn the Lost (Personal - Ex-lover)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Urien Nightfall the Guardian", "urien nightfall the guardian", "Urien Nightfall Guardian", "Guardian the Nightfall Urientags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
@@ -21,7 +42,7 @@ Above average and delicate, with Long and flowing blonde hair and Blue eyes. Fre
 **Clothing**: Barbarian furs and leather
 
 ## Personality
-- **Traits**: Believes in every conspiracy theory; Never uses people's real names; Laughs at the most inappropriate times
+- **Traits**: Believes in every conspiracy theory; Never uses people's real names; Laughs at the most inappropriate [[Time]]s
 - **Ideal**: Charity: I always help those in need, no matter the cost
 - **Bond**: My loyalty to my sovereign is absolute
 - **Flaw**: I drink too much and say things I shouldn't
@@ -151,13 +172,41 @@ Has information about legendary item
 - Special moves
 
 ## Combat Stats
-Base: **Guard** (MM p.347)
+Base: **Guard** (BC p.347)
 Modifications:
 - HP: 25
 - AC: 10
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[Archdruid Thornweaver]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[World_Primer.md]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[Depth_Adapted_Background.md]]
+- [[Player_Comfort_Check]]
+- [[Player_Feedback_Form.md]]
+- [[Downtime_Activities]]
+- [[11 Rules Glossary]]
+- [[Parliamentary_Voting_Guide]]
 - [[Related_Content]]
 
 
@@ -167,9 +216,9 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -179,7 +228,7 @@ Modifications:
 
 ## Connections
 
-- See also: [[Assets Locations Location City the Depth Market the Depth Market.svg]]
+- See also: [[Assets Locations Location City [[The Depth Market]] the Depth Market.svg]]
 - Affected by [[step_098]]
 - Compare with [[Portrait NPC Duke Theron Depthguard Duke Theron Depthguard.svg_1 (Portraits)]]
 - See also: [[ULTIMATE_SYSTEM_REPORT]]
@@ -193,7 +242,7 @@ Modifications:
 - Influences [[03 Chapter 3 Dms Toolbox]]
 - Requires [[Quest - The Kingpin's Fall_1 (01_Adventures)]]
 - Related: [[step_007]]
-- See also: [[Location City Pool of Sacred Drowning V1 Pool of Sacred Drowning.svg]]
+- See also: [[Location City [[Pool of Sacred Drowning]] V1 Pool of Sacred Drowning.svg]]
 - Parallels [[step_002 (phase_045)]]
 - Influences [[step_019 (phase_009)]]
 - Affected by [[The Opposition Leader (D&D_References)]]
@@ -204,15 +253,15 @@ Modifications:
 - Related: [[The Dimensional Hospital (D&D_References)]]
 - Affected by [[step_082]]
 - See also: [[LOC0139_Grovestead]]
-- Parallels [[Surface Observation Posts (D&D_References)]]
+- Parallels [[[[Surface Observation Posts]] (D&D_References)]]
 - Influences [[Scene Scene Merged Zone Reality Fracture V2 Merged Zone Reality Fracture.svg]]
 - Parallels [[teleportation-xphb (variant-rules)]]
 - Compare with [[Quest - The Bio-Adaptation Crisis_1 (01_Adventures)]]
 - Affected by [[Shadow Currency]]
 - Leads to [[Portrait NPC Quest the Successor S Burden Quest the Successor S Burden.svg]]
-- Originates from [[Assets Locations Location City Sacred Healing Springs Sacred Healing Springs.svg]]
+- Originates from [[Assets Locations Location City [[Sacred Healing Springs]] Sacred Healing Springs.svg]]
 - Requires [[step_024 (phase_004)]]
-- Influences [[The Neutral Current Tavern 2]]
+- Influences [[The Neutral Current [[Tavern]] 2]]
 - Affected by [[Marina the Unifie (D&D_References)]]
 - Connects to [[step_049 (phase_005)]]
 - Compare with [[LOC00276_Towns_Location_277]]
@@ -221,16 +270,16 @@ Modifications:
 - Affected by [[item-artifact-ruby-xdmg-v5-ruby-xdmg.png]]
 - Influences [[step_051 (phase_028)]]
 - Affected by [[Military Coordinator Strong]]
-- Related: [[Democratic Technology Development (D&D_References)]]
+- Related: [[[[Democratic Technology Development]] (D&D_References)]]
 - Related: [[The Scribes' Sanctuary]]
 - Connects to [[Combat_Actions]]
 - Parallels [[step_011 (phase_088)]]
 - Compare with [[Party_Quests]]
 - Requires [[LOC00267_Wilderness_Location_268]]
 - Parallels [[LOC00203_Cities_Location_204]]
-- Affected by [[The Shadow Merchant Prime (Criminal_Organizations)]]
-- Leads to [[Assets Locations Location City Inter Realm Diplomacy Inter Realm Diplomacy.svg]]
-- Connects to [[Assets Locations Location City Deep Harbor Technology V1 Deep Harbor Technology.svg]]
+- Affected by [[The Shadow [[Merchant]] Prime (Criminal_Organizations)]]
+- Leads to [[Assets Locations [[Location City Inter Realm Diplomacy Inter Realm Diplomacy.svg]]]]
+- Connects to [[Assets Locations [[Location City [[Deep Harbor]] Technology V1 [[Deep Harbor Technology]].svg]]]]
 - Affected by [[Quest Two Minds One Body]]
 - Originates from [[Information_Trading_System (02_Worldbuilding)]]
 - Affected by [[The Original Target (D&D_References)]]
@@ -238,19 +287,19 @@ Modifications:
 - Related: [[Session 5 Conspiracy Revealed]]
 - Leads to [[devils-sight-xphb (optional-features)]]
 - Parallels [[NPC01785_Aldric_Brightblade_the_Redeemed]]
-- Compare with [[Location City Crystalline Wastes Crystalline Wastes.svg]]
+- Compare with [[Location City [[Crystalline Wastes]] Crystalline Wastes.svg]]
 - Requires [[LOC00252_Dungeons_Location_253]]
 - Connects to [[Damage Roll Xphb]]
-- Compare with [[Assets Locations Location City Scholar David Crossref Scholar David Crossref.svg]]
+- Compare with [[Assets Locations [[Location City [[Scholar David Crossref]] Scholar David Crossref.svg]]]]
 - Leads to [[step_083]]
 - See also: [[step_098 (phase_098)]]
-- Parallels [[Assets Locations Location City the Plague Ward the Plague Ward.svg]]
+- Parallels [[Assets Locations Location City [[The Plague Ward]] the Plague Ward.svg]]
 - Leads to [[Pier 7 (D&D_References)]]
 - Leads to [[The Unnamed Chronicler]]
 - Requires [[step_054]]
-- Affected by [[Location City Depth Merchants V1 Depth Merchants.svg]]
+- Affected by [[Location City [[Depth Merchants]] V1 Depth Merchants.svg]]
 - Compare with [[Crystal Mines (Places)]]
-- Related: [[Emergency Protocols Cente 2]]
+- Related: [[[[Emergency Protocols]] Cente 2]]
 - Originates from [[Symbol Heraldry Agricultural Provinces V1 Agricultural Provinces.svg]]
 - See also: [[Bracers of Defense Xdmg]]
 - Leads to [[Secret Society Membership Rolls]]
@@ -258,13 +307,13 @@ Modifications:
 - See also: [[step_021 (phase_013)]]
 - Leads to [[ITEM00445_Enchanted_Plate_of_Fortitude]]
 - Connects to [[Spell Compendium]]
-- Parallels [[Location City Maritime Security Chief Reef V1 Maritime Security Chief Reef.svg]]
+- Parallels [[Location City [[Maritime Security Chief Reef]] V1 Maritime Security Chief Reef.svg]]
 - Related: [[LOC0082_Watchwick]]
 - Related: [[QUEST0046_Infiltrate_the_Tyrant]]
 - See also: [[step_033 (phase_006)]]
 - Influences [[Assets Item Artifact Explorers Pack Xphb V4 Explorers Pack Xphb.png]]
 - Parallels [[QUEST00453_Side_Quest_454]]
-- Leads to [[Aethermoor Wind Rider Traditions (D&D_References)]]
+- Leads to [[[[Aethermoor]] Wind Rider Traditions (D&D_References)]]
 - Leads to [[Bone Princes]]
 - Affected by [[LOC0104_UpperHaven]]
 - Parallels [[step_043 (phase_060)]]
@@ -272,10 +321,21 @@ Modifications:
 - Connects to [[ITEM00237_Cursed_Spear_of_Wounding]]
 - Compare with [[ENC00291_Social_Encounter_292]]
 - Connects to [[Magic Item Table G]]
-- Related: [[location-city-deepsteel-deepsteel.svg]]
+- Related: [[location-city-[[Deepsteel]]-deepsteel.svg]]
 - Leads to [[step_081 (phase_055)]]
 - Compare with [[Warden Marcus Stonehand]]
 - Originates from [[International Law Enforcement]]
-- Parallels [[Marine Druids (D&D_References)]]
+- Parallels [[[[Marine Druids]] (D&D_References)]]
 - Requires [[step_087]]
 - Leads to [[05 Chapter 5 Creating Campaigns]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
+![[03_People/portrait_the_crimson_shard_guardian.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

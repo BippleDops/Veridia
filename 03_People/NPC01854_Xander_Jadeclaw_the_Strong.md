@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Xander Jadeclaw the Strong
 
 *Dragonborn Corrupt Noble (Villains), Age 60, Female*

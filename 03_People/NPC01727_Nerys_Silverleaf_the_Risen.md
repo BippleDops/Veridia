@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Nerys Silverleaf the Risen
 
 *Gnome Cultist (Villains), Age 33, Non-binary*

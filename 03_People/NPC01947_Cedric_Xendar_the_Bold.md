@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Cedric Xendar the Bold
 
 *Genasi Dark Wizard (Villains), Age 28, Female*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Rhiannon Xendar the Lost
 
 *Goliath Appraiser (Merchants), Age 31, Non-binary*

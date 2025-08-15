@@ -694,3 +694,7 @@ Ongoing situations affecting The Floating Market:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]

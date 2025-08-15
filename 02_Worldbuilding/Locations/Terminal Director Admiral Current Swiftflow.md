@@ -242,3 +242,8 @@ Ongoing situations affecting Terminal Director Admiral Current Swiftflow:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC00922_Wynne_Youngblood_the_Fallen]]

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.343079
+modified: 2025-08-15T16:41:41.343083
+aliases: [NPC00707 Fiora Oakenshield the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Felicia Brightblade the Strong (Family - Child)|Felicia Brightblade the Strong (Family - Child)]]
+- [[#Rhiannon Moonshadow the Wise (Criminal - Target)|Rhiannon Moonshadow the Wise (Criminal - Target)]]
+- [[#Zephyr Lightbringer the Wise (Family - Parent)|Zephyr Lightbringer the Wise (Family - Parent)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Fiora Oakenshield the Seeker", "fiora oakenshield the seeker", "Fiora Oakenshield Seeker", "Seeker the Oakenshield Fioratags: [npc, character, combat, puzzle, lore]er]
 type: npc
@@ -31,7 +52,7 @@ Short and wiry, with Short and neat bald hair and Brown eyes. Dark skin. Etherea
 - **Dream**: Exploring the world
 
 ## Background
-Family has worked the same trade for generations, but times are changing A family member's death has left them with unexpected responsibilities.
+Family has worked the same trade for generations, but [[Time]]s are changing A family member's death has left them with unexpected responsibilities.
 
 ## Current Situation
 - **Occupation**: Laborer
@@ -141,6 +162,31 @@ Family member has gone missing
 - Special moves
 
 ## See Also
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[Archdruid Thornweaver]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[Depth_Adapted_Background]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[Party_Quests]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[Propaganda_Broadsheet_Syndicate.md]]
+- [[Parliamentary_Voting_Guide]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[08 Using Ability Scores]]
+- [[11 Rules Glossary]]
+- [[MOC_Lore]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
 - [[Related_Content]]
 
 
@@ -150,10 +196,10 @@ Family member has gone missing
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -167,22 +213,22 @@ Family member has gone missing
 - Affected by [[LOC00182_Cities_Location_183]]
 - Requires [[step_040 (phase_030)]]
 - Parallels [[step_086 (phase_033)]]
-- Leads to [[Pearlshell 2]]
+- Leads to [[[[Pearlshell]] 2]]
 - Compare with [[step_062 (phase_071)]]
 - See also: [[step_085 (phase_014)]]
 - Leads to [[step_051 (phase_006)]]
-- Compare with [[Deepsteel (D&D_References)]]
+- Compare with [[[[Deepsteel]] (D&D_References)]]
 - Parallels [[ITEM01257_Lesser_Incense_of_Vigor]]
 - Connects to [[Clues by Location 2]]
 - Influences [[LOC00209_Planes_Location_210]]
-- Requires [[The Null Cathedral (D&D_References)]]
+- Requires [[[[The Null Cathedral]] (D&D_References)]]
 - Connects to [[Portrait NPC Quest the Failing Magic Quest the Failing Magic.svg]]
 - Requires [[Icon of Ravenloft Cos]]
 - Connects to [[potion-of-climbing-xdmg (items)]]
 - Influences [[step_024 (phase_066)]]
 - Influences [[The Resonant Hermit]]
 - Influences [[NPC0077_Minerva_Ironforge]]
-- Connects to [[Aethermoor_Royal_Navy (02_Worldbuilding)]]
+- Connects to [[[[Aethermoor]]_Royal_Navy (02_Worldbuilding)]]
 - Parallels [[Map World Layer World Political Boundaries World Political Boundaries.svg]]
 - Connects to [[SPELL00002_Nature_Spell_3]]
 - Influences [[Shadow Protocol Facility 2]]
@@ -196,11 +242,11 @@ Family member has gone missing
 - Parallels [[destructive-wave-xphb (spells)]]
 - Connects to [[step_094 (phase_092)]]
 - Originates from [[The Banshee Caverns]]
-- Influences [[Assets Locations Location City Feast Saltyflavor Feast Saltyflavor.svg]]
+- Influences [[Assets Locations Location City [[Feast Saltyflavor]] Feast Saltyflavor.svg]]
 - Affected by [[ITEM00979_Pure_Elixir_of_Healing]]
 - Influences [[step_055 (phase_027)]]
 - Parallels [[Phantom Orchestras]]
-- Connects to [[The Aether Works 2]]
+- Connects to [[[[The Aether Works]] 2]]
 - Related: [[linen-1-sq-yd-xdmg (items)]]
 - Leads to [[Foreign Crime Syndicate]]
 - Compare with [[step_099 (phase_088)]]
@@ -217,7 +263,7 @@ Family member has gone missing
 - Requires [[step_032 (phase_066)]]
 - Compare with [[LOC0136_Marshstead]]
 - Originates from [[LORE00232_Prophecies_Entry_233]]
-- Related: [[Location City Experimental Medical Ethics Experimental Medical Ethics.svg]]
+- Related: [[Location City [[Experimental Medical Ethics]] Experimental Medical Ethics.svg]]
 - Affected by [[Falling Xphb]]
 - Connects to [[ITEM01485_Elegant_Tool_Kit_of_Convenience]]
 - Compare with [[Planning Director Strategy Deepthink]]
@@ -251,7 +297,7 @@ Family member has gone missing
 - Leads to [[NPC00667_Felicia_Goldleaf_the_Strong]]
 - Compare with [[step_075 (phase_064)]]
 - Requires [[Dame Rosanna Truthseeker]]
-- Parallels [[Palace Security Chief (D&D_References)]]
+- Parallels [[[[Palace Security Chief]] (D&D_References)]]
 - Originates from [[jeweled-platinum-ring-xdmg (items)]]
 - Leads to [[step_010]]
 - Influences [[female-steeder-mpmm (monstrosity)]]
@@ -263,3 +309,14 @@ Family member has gone missing
 - Affected by [[step_050]]
 - Affected by [[QUEST00032_Personal_Quest_33]]
 - Requires [[step_084 (phase_048)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

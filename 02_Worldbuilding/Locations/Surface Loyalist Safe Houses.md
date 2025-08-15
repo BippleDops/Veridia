@@ -249,3 +249,9 @@ Ongoing situations affecting Surface Loyalist Safe Houses:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00237_Vesper_Ashford_the_Bold]]
+- [[NPC01283_Corvus_Hawthorne_the_Fallen]]
+- [[Archdruid Thornweaver]]

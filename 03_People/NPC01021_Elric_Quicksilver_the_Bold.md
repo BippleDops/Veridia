@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Elric Quicksilver the Bold
 
 *Genasi Trader (Merchants), Age 21, Non-binary*

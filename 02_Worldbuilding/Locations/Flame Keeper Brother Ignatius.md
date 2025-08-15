@@ -236,3 +236,8 @@ Ongoing situations affecting Flame Keeper Brother Ignatius:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC00407_Hestara_Dawnstrider]]

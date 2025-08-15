@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Missing Dipl
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]

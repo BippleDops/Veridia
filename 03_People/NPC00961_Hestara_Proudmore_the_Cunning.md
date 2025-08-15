@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hestara Proudmore the Cunning
 
 *Dwarf Trader (Merchants), Age 35, Non-binary*

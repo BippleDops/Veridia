@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.661868
+modified: 2025-08-15T16:41:45.661873
+aliases: [NPC01728 Ewan Jadeclaw the Redeemed]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Faelyn Lightbringer the Cunning (Family - Child)|Faelyn Lightbringer the Cunning (Family - Child)]]
+- [[#Vesper Proudmore the Broken (Family - Sibling)|Vesper Proudmore the Broken (Family - Sibling)]]
+- [[#Hilda Jadeclaw the Seeker (Professional - Partner)|Hilda Jadeclaw the Seeker (Professional - Partner)]]
+
+
+---
 aliases: ["Ewan Jadeclaw the Redeemed", "ewan jadeclaw the redeemed", "Ewan Jadeclaw Redeemed", "Redeemed the Jadeclaw Ewan"]
 tags: [npc, character]
 type: npc
@@ -251,3 +276,8 @@ Is secretly testing the party
 - Related: [[gunpowder-powder-horn-xdmg (items)]]
 - Parallels [[step_056]]
 - Compare with [[10 combat#Dropping_to_0_Hit_Points#Monsters_and_Death]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Corvus Zephyrblade the Bold
 
 *Elf Corrupt Noble (Villains), Age 74, Non-binary*

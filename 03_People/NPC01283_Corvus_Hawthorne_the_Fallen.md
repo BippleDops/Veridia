@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.142945
+modified: 2025-08-15T16:41:41.142949
+aliases: [NPC01283 Corvus Hawthorne the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Kaelen Jadeclaw the Strong (Criminal - Handler)|Kaelen Jadeclaw the Strong (Criminal - Handler)]]
+- [[#Zephyr Zephyrblade the Guardian (Criminal - Accomplice)|Zephyr Zephyrblade the Guardian (Criminal - Accomplice)]]
+- [[#Pyria Crystalbrook the Risen (Criminal - Fence)|Pyria Crystalbrook the Risen (Criminal - Fence)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Corvus Hawthorne the Fallen", "corvus hawthorne the fallen", "Corvus Hawthorne Fallen", "Fallen the Hawthorne Corvustags: [npc, character, combat, exploration, lore]er]
 type: npc
@@ -13,7 +38,7 @@ type: npc
 ## Quick Reference
 - **Location**: Sewers beneath the old quarter
 - **Occupation**: Archaeologist
-- **Disposition**: Laughs at the most inappropriate times
+- **Disposition**: Laughs at the most inappropriate [[Time]]s
 
 ## Appearance
 Above average and delicate, with Mohawk silver hair and Blue eyes. Pale skin. Birthmark shaped like a constellation.
@@ -137,13 +162,51 @@ Forming expedition to dangerous location
 - Special moves
 
 ## Combat Stats
-Base: **Priest** (MM p.348)
+Base: **Priest** (BC p.348)
 Modifications:
 - HP: 33
 - AC: 11
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00838_Drusilla_Proudmore_the_Risen]]
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC00601_Vesper_Ironwood_the_Guardian]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC00237_Vesper_Ashford_the_Bold]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[Propaganda_Broadsheet_Syndicate.md]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC01939_Orion_Nightfall_the_Bold]]
+- [[13 Conditions]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[16 Credits]]
+- [[01 Introduction Welcome to Adventure]]
+- [[Character_Journal_Template]]
+- [[MOC_Lore]]
+- [[Player_Comfort_Check]]
+- [[MASTER_MOC]]
 - [[Related_Content]]
 
 
@@ -153,9 +216,9 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -172,22 +235,22 @@ Modifications:
 - Connects to [[sentient-special-purpose (tables)]]
 - Compare with [[Tiefling Dispater Mtf]]
 - Originates from [[step_089 (phase_024)]]
-- Leads to [[Temporal Anomaly Zones 2]]
+- Leads to [[[[Temporal Anomaly Zones]] 2]]
 - See also: [[step_079 (phase_079)]]
 - Related: [[bucket-xphb (items)]]
 - Leads to [[LOC00171_Cities_Location_172]]
 - See also: [[SPELL00025_Nature_Spell_26]]
 - Leads to [[step_089 (phase_076)]]
 - Affected by [[Time Stream Analyzers]]
-- Related: [[Location City Twilight Depths V1 Twilight Depths.svg]]
+- Related: [[Location City [[Twilight Depths]] V1 Twilight Depths.svg]]
 - See also: [[Witherbloom Primer Scc]]
 - Leads to [[Scroll of Titan Summoning Colossus Xdmg]]
 - Originates from [[Conditions_Reference]]
 - Originates from [[Trade Union]]
 - Connects to [[Professor Euclid Mindmaze 2]]
 - Compare with [[The Tide Turners]]
-- Leads to [[Grief Counseling 2]]
-- Requires [[Location City Surface Loyalist Safe Houses Surface Loyalist Safe Houses.svg]]
+- Leads to [[[[Grief Counseling]] 2]]
+- Requires [[Location City [[Surface Loyalist Safe Houses]] Surface Loyalist Safe Houses.svg]]
 - Affected by [[step_083 (phase_027)]]
 - Parallels [[step_081]]
 - Requires [[step_041 (phase_056)]]
@@ -195,10 +258,10 @@ Modifications:
 - Affected by [[The Purification Order]]
 - Leads to [[animated-broom-xmm (construct)]]
 - Compare with [[Shadow Essences]]
-- Parallels [[Constellation Codex (D&D_References)]]
+- Parallels [[[[Constellation Codex]] (D&D_References)]]
 - Requires [[Pressure Angel Benthia (D&D_Statblocks)]]
 - Leads to [[ioun-stone-intellect-xdmg (items)]]
-- See also: [[Depth Merchants]]
+- See also: [[Depth [[Merchant]]s]]
 - Connects to [[giant]]
 - Leads to [[Keeper Elara Mindwell 2]]
 - Originates from [[step_047 (phase_007)]]
@@ -216,7 +279,7 @@ Modifications:
 - Connects to [[ENC00042_Combat_Encounter_43]]
 - Compare with [[ENC00070_Environmental_Encounter_71]]
 - Parallels [[Parliament-of-Shadows-Campaign]]
-- Compare with [[Aquabyssos World Guide (D&D_References)]]
+- Compare with [[[[Aquabyssos]] World Guide (D&D_References)]]
 - Related: [[step_010 (phase_059)]]
 - Leads to [[SHOP00042_Magical_Shop_43]]
 - Affected by [[ENC00044_Combat_Encounter_45]]
@@ -226,11 +289,11 @@ Modifications:
 - Leads to [[ITEM00489_Adamantine_Helm_of_Protection]]
 - Affected by [[stone-shape-xphb (spells)]]
 - Influences [[Memory Web Constructor]]
-- Affected by [[Location City Thomas Deepanchor Thomas Deepanchor.svg]]
-- Parallels [[Location City Black Market Deal Black Market Deal.svg]]
+- Affected by [[Location City [[Thomas Deepanchor]] Thomas Deepanchor.svg]]
+- Parallels [[Location City [[Black Market Deal]] Black Market Deal.svg]]
 - Connects to [[step_034]]
 - Parallels [[The Crystal Influence 3 (D&D_References)]]
-- Requires [[Assets Locations Location City Shadowport V1 Shadowport.svg]]
+- Requires [[Assets Locations Location City [[Shadowport]] V1 Shadowport.svg]]
 - Connects to [[Eberron Dol Dorn]]
 - Influences [[location-city-pressure-tubes-v1-pressure-tubes.svg]]
 - Compare with [[Garden of Whispered Names]]
@@ -239,29 +302,34 @@ Modifications:
 - Related: [[step_087 (phase_094)]]
 - Requires [[Item Artifact Ioun Stone Greater Absorption Xdmg Ioun Stone Greater Absorption Xdmg.png]]
 - Requires [[Cone of Cold Xphb]]
-- Leads to [[Assets Locations Location City the Coral Throne the Coral Throne.svg]]
+- Leads to [[Assets Locations Location City [[The Coral Throne]] the Coral Throne.svg]]
 - Parallels [[QUEST00074_Main_Quest_75]]
-- Originates from [[Princess Celestine Lumengarde]]
+- Originates from [[Princess Celestine [[Lumengarde]]]]
 - Parallels [[Magic Missile]]
 - See also: [[step_071 (phase_023)]]
 - Affected by [[location-city-crystal-speak-crystal-speak.png]]
 - Influences [[The Mediator (D&D_References)]]
 - Affected by [[ITEM00194_Thunder_Dagger_of_Wounding]]
 - Related: [[Royal Regalia 2]]
-- Connects to [[Assets Locations Location City Noble Quarter Noble Quarter.svg]]
+- Connects to [[Assets Locations Location City [[Noble Quarter]] Noble Quarter.svg]]
 - Originates from [[02_Worldbuilding_Locations_Abyssal_Spires]]
 - See also: [[step_025 (phase_088)]]
-- Originates from [[Assets Locations Location City Palace Guardians Palace Guardians.svg]]
+- Originates from [[Assets Locations [[Location City [[Palace Guardians]] Palace Guardians.svg]]]]
 - Connects to [[The Phantom Tide]]
 - Connects to [[Portrait NPC the Azure Prophet Nerissa V2 the Azure Prophet Nerissa.svg_1 (Portraits)]]
 - Parallels [[step_089]]
 - See also: [[02-chapter-1-playing-the-game#Skill List]]
 - Originates from [[step_024]]
-- Requires [[Assets Locations Location City the Frozen Throne V1 the Frozen Throne.svg]]
+- Requires [[Assets Locations Location City [[The Frozen Throne]] V1 the Frozen Throne.svg]]
 - Affected by [[The Seven Shard Guardians 2]]
 - Compare with [[supplemental-tables-absent-parent-xge (tables)]]
-- Compare with [[Location City Restorative Justice Restorative Justice.svg]]
+- Compare with [[Location City [[Restorative Justice]] Restorative Justice.svg]]
 - Originates from [[NPC00523_Branwen_Brightblade_the_Seeker]]
 - Parallels [[step_078]]
 - Compare with [[step_094 (phase_065)]]
 - Compare with [[step_096]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

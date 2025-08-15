@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.909916
+modified: 2025-08-15T16:41:43.909919
+aliases: [NPC00905 Qadim Darkwater the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hilda Youngblood the Redeemed (Personal - Childhood friend)|Hilda Youngblood the Redeemed (Personal - Childhood friend)]]
+- [[#Aeliana Nightfall the Seeker (Political - Spy)|Aeliana Nightfall the Seeker (Political - Spy)]]
+- [[#Hestara Grimholt the Lost (Political - Spy)|Hestara Grimholt the Lost (Political - Spy)]]
+
+
+---
 aliases: ["Qadim Darkwater the Lost", "qadim darkwater the lost", "Qadim Darkwater Lost", "Lost the Darkwater Qadim"]
 tags: [npc, character]
 type: npc
@@ -249,3 +270,14 @@ Seeks rare merchandise
 - See also: [[Disguise Kit Xphb]]
 - Affected by [[Veiled Hierophant (D&D_References)]]
 - Affected by [[Enspelled Staff Level 7 Xdmg]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -23,6 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![Academy of War Science](../../../04_Resources/Assets/Misc/academy_of_war_science.png)
 
 ## 🔧 Deep Evaluation Improvements

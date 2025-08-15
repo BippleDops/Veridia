@@ -226,3 +226,7 @@ Ongoing situations affecting House Deepforge:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]

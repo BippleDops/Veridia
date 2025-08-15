@@ -153,3 +153,9 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]

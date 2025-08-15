@@ -16,6 +16,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_vault_backup_20250813_073007_06_gm_travel_encounter_sheets_m_l_05_the_dream_sovereign_people_friendly.png]]
+
+
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.274473
+modified: 2025-08-15T16:41:48.274475
+aliases: [NPC01033 Rhiannon Voidwalker the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Pyria Youngblood the Lost (Family - Cousin)|Pyria Youngblood the Lost (Family - Cousin)]]
+- [[#Orion Emberfall the Lost (Political - Spy)|Orion Emberfall the Lost (Political - Spy)]]
+- [[#Erasmus Thornweave the Guardian (Political - Puppet)|Erasmus Thornweave the Guardian (Political - Puppet)]]
+
+
+---
 aliases: ["Rhiannon Voidwalker the Seeker", "rhiannon voidwalker the seeker", "Rhiannon Voidwalker Seeker", "Seeker the Voidwalker Rhiannon"]
 tags: [npc, character]
 type: npc
@@ -139,3 +160,15 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
+![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
+![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

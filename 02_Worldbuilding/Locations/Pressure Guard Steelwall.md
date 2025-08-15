@@ -250,3 +250,10 @@ Ongoing situations affecting Pressure Guard Steelwall:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]

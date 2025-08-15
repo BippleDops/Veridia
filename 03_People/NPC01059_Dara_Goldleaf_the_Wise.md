@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Dara Goldleaf the Wise
 
 *Aasimar Appraiser (Merchants), Age 21, Female*

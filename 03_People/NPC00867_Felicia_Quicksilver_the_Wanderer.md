@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.479084
+modified: 2025-08-15T16:41:45.479086
+aliases: [NPC00867 Felicia Quicksilver the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Orion Frostwhisper the Scholar (Political - Ally)|Orion Frostwhisper the Scholar (Political - Ally)]]
+- [[#Orion Winterborn the Mystic (Criminal - Informant)|Orion Winterborn the Mystic (Criminal - Informant)]]
+- [[#Gavril Emberfall the Seeker (Criminal - Accomplice)|Gavril Emberfall the Seeker (Criminal - Accomplice)]]
+
+
+---
 aliases: ["Felicia Quicksilver the Wanderer", "felicia quicksilver the wanderer", "Felicia Quicksilver Wanderer", "Wanderer the Quicksilver Felicia"]
 tags: [npc, character]
 type: npc
@@ -243,3 +264,14 @@ Has map to lost treasure
 - Leads to [[Duke Blackwater's Estate (D&D_References)]]
 - Affected by [[Location City Whisper Translation Whisper Translation.svg]]
 - Affected by [[Nine Lives Stealer Xdmg]]
+
+## Visual References
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

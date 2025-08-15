@@ -231,3 +231,8 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[The Silent Watcher 2]]
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]

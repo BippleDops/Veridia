@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Jorah Proudmore the Mystic
 
 *Half-Orc Dark Wizard (Villains), Age 72, Male*

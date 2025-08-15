@@ -261,3 +261,8 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]

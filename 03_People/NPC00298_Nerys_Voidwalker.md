@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Nerys Voidwalker
 
 *Tiefling Ambassador (Nobles), Age 69, Non-binary*

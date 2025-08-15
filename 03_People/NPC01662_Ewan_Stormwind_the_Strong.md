@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.057986
+modified: 2025-08-15T16:41:47.057991
+aliases: [NPC01662 Ewan Stormwind the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Pyria Proudmore the Wanderer (Family - Spouse)|Pyria Proudmore the Wanderer (Family - Spouse)]]
+- [[#Aldric Brightblade the Guardian (Personal - Best friend)|Aldric Brightblade the Guardian (Personal - Best friend)]]
+- [[#Aeliana Nightfall the Scholar (Criminal - Accomplice)|Aeliana Nightfall the Scholar (Criminal - Accomplice)]]
+
+
+---
 aliases: ["Ewan Stormwind the Strong", "ewan stormwind the strong", "Ewan Stormwind Strong", "Strong the Stormwind Ewan"]
 tags: [npc, character]
 type: npc
@@ -252,3 +273,14 @@ Is secretly testing the party
 - Originates from [[Assets Item Artifact Whelm Xdmg V4 Whelm Xdmg.png]]
 - Affected by [[ITEM01045_Superior_Salve_of_Vigor]]
 - Compare with [[step_076 (phase_048)]]
+
+## Visual References
+![[03_People/portrait_merchant_captain_tobias_stormwind_dramatic.png]]
+![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

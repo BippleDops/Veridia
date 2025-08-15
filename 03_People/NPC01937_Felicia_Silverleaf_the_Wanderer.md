@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.195904
+modified: 2025-08-15T16:41:41.195908
+aliases: [NPC01937 Felicia Silverleaf the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Idris Silverleaf the Redeemed (Criminal - Handler)|Idris Silverleaf the Redeemed (Criminal - Handler)]]
+- [[#Fiora Blackstone the Guardian (Criminal - Informant)|Fiora Blackstone the Guardian (Criminal - Informant)]]
+- [[#Wynne Emberfall the Guardian (Criminal - Target)|Wynne Emberfall the Guardian (Criminal - Target)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Felicia Silverleaf the Wanderer", "felicia silverleaf the wanderer", "Felicia Silverleaf Wanderer", "Wanderer the Silverleaf Feliciatags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
@@ -139,13 +160,31 @@ Blackmails party into service
 - Special moves
 
 ## Combat Stats
-Base: **Noble** (MM p.348)
+Base: **Noble** (BC p.348)
 Modifications:
 - HP: 29
 - AC: 15
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[Archdruid Thornweaver]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00644_Nerys_Dawnstrider_the_Wanderer]]
+- [[Player_Comfort_Check]]
+- [[Combat_Encounter_Analysis]]
+- [[05 Personality and Background]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
 - [[Related_Content]]
 
 
@@ -155,9 +194,9 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -189,17 +228,17 @@ Modifications:
 - Parallels [[step_006]]
 - Related: [[step_080]]
 - Requires [[step_043 (phase_054)]]
-- Compare with [[Harbor Patrol (D&D_References)]]
+- Compare with [[[[Harbor Patrol]] (D&D_References)]]
 - Requires [[step_002 (phase_073)]]
 - Affected by [[Assets Portraits Portrait NPC Elder Whisper in the Dark Elder Whisper in the Dark.svg]]
 - Related: [[location-city-smuggler-s-cove-smuggler-s-cove.svg]]
-- Parallels [[Portrait NPC Merchant Captain Trade V1 Merchant Captain Trade.svg]]
+- Parallels [[Portrait NPC [[Merchant]] Captain Trade V1 Merchant Captain Trade.svg]]
 - Leads to [[step_023]]
 - Connects to [[NPC00542_Corvus_Oakenshield_the_Strong]]
 - Compare with [[Portrait NPC Duke Theron Depthguard V1 Duke Theron Depthguard.svg]]
-- Compare with [[Assets Locations Location City Experimental Medical Ethics V1 Experimental Medical Ethics.svg]]
+- Compare with [[Assets Locations Location City [[Experimental Medical Ethics]] V1 Experimental Medical Ethics.svg]]
 - See also: [[Portrait NPC Emperor Thalassius V2 Emperor Thalassius.svg]]
-- See also: [[Assets Locations Location City Whisper Translation V1 Whisper Translation.svg]]
+- See also: [[Assets Locations Location City [[Whisper Translation]] V1 Whisper Translation.svg]]
 - Affected by [[shrieker-fungus-xmm]]
 - Leads to [[Relics Common Xdmg]]
 - Related: [[Symbol Heraldry Tha... Related To: Local Political Structure Connected Plots: to Be Developed]]
@@ -229,7 +268,7 @@ Modifications:
 - Connects to [[Commercial Navigation Services]]
 - Influences [[step_092]]
 - Parallels [[List Spells Races Gnome Deep Dmg]]
-- See also: [[Location City Temporal Viewing Chambers Temporal Viewing Chambers.svg]]
+- See also: [[Location City [[Temporal Viewing Chambers]] Temporal Viewing Chambers.svg]]
 - Parallels [[step_063 (phase_096)]]
 - Leads to [[SPELL00102_Divine_Spell_103]]
 - Leads to [[Dangerous Waters]]
@@ -246,7 +285,7 @@ Modifications:
 - Originates from [[LOC00220_Towns_Location_221]]
 - Related: [[step_094]]
 - See also: [[step_029 (phase_009)]]
-- Affected by [[Location City Deep Watchfulrest Deep Watchfulrest.svg]]
+- Affected by [[Location City [[Deep Watchfulrest]] Deep Watchfulrest.svg]]
 - Related: [[Physical Variations Yuan Ti Eye Color Vgm]]
 - Parallels [[Border Patrol Unit]]
 - Influences [[Quest_Tree_System]]
@@ -258,12 +297,23 @@ Modifications:
 - Requires [[step_090]]
 - Originates from [[dawn-war-moradin-dmg (deities)]]
 - Leads to [[step_097 (phase_011)]]
-- Connects to [[Location City Goldspire Confederacy Goldspire Confederacy.svg]]
+- Connects to [[Location City [[Goldspire Confederacy]] Goldspire Confederacy.svg]]
 - See also: [[cape-of-the-mountebank-xdmg (items)]]
 - Requires [[The Void Conspiracy (D&D_References)]]
 - Parallels [[celestial]]
 - Influences [[LOC00235_Cities_Location_236]]
 - Requires [[step_040]]
-- Parallels [[Portrait NPC Weaponsmith Captain Marcus Sharpedge V1 Weaponsmith Captain Marcus Sharpedge.svg]]
+- Parallels [[Portrait NPC Weaponsmith [[Captain Marcus]] Sharpedge V1 Weaponsmith Captain Marcus Sharpedge.svg]]
 - Requires [[LOC00205_Wilderness_Location_206]]
 - See also: [[Brass Dragon Xmm]]
+
+## Visual References
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
+![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

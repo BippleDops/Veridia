@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.257188
+modified: 2025-08-15T16:41:48.257190
+aliases: [The Crimson Sage 1]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_the_crimson_sage.png]]
+
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Relationships|Relationships]]
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Evolution Improvements|Evolution Improvements]]
+- [[#Diaspora Improvements|Diaspora Improvements]]
+
+
+---
 
 title: The Crimson Sage
 type: Npc

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.941263
+modified: 2025-08-15T16:41:42.941266
+aliases: [NPC00235 Idris Grimholt the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Lyanna Darkwater (Family - Sibling)|Lyanna Darkwater (Family - Sibling)]]
+- [[#Malakai Oakenshield the Mystic (Family - Child)|Malakai Oakenshield the Mystic (Family - Child)]]
+- [[#Erasmus Ironforge the Cunning (Criminal - Fence)|Erasmus Ironforge the Cunning (Criminal - Fence)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Idris Grimholt the Lost", "idris grimholt the lost", "Idris Grimholt Lost", "Lost the Grimholt Idris"]
 tags: [npc, character]
@@ -155,10 +176,10 @@ Requires champions for trial by combat
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -268,3 +289,14 @@ Requires champions for trial by combat
 - Originates from [[NPC00080_Branwen_Proudmore]]
 - Parallels [[step_002 (phase_070)]]
 - Parallels [[NPC01834_Fiora_Voidwalker_the_Strong]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
+![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

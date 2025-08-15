@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Thalia Thornweave the Risen
 
 *Human Wizard (Adventurers), Age 44, Non-binary*

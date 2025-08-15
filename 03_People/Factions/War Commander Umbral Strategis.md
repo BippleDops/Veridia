@@ -24,6 +24,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_symbols_symbol_heraldry_war_commander_umbral_strategis_v1_war_commander_umbral_strategis_svg_friendly.png]]
+
+
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-war-commander-umbral-strategis-v1-war-commander-umbral-strategis.svg)
 

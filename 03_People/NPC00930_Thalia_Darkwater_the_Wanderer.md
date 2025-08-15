@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Thalia Darkwater the Wanderer
 
 *Aasimar Appraiser (Merchants), Age 27, Female*

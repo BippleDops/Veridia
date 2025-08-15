@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.516366
+modified: 2025-08-15T16:41:42.516372
+aliases: [NPC01846 Lyanna Brightblade the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Pyria Brightblade the Bold (Personal - Nemesis)|Pyria Brightblade the Bold (Personal - Nemesis)]]
+- [[#Wynne Hawthorne the Broken (Personal - Nemesis)|Wynne Hawthorne the Broken (Personal - Nemesis)]]
+- [[#Baelor Dawnstrider the Fallen (Criminal - Informant)|Baelor Dawnstrider the Fallen (Criminal - Informant)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Lyanna Brightblade the Scholar", "lyanna brightblade the scholar", "Lyanna Brightblade Scholar", "Scholar the Brightblade Lyanna"]
 tags: [npc, character]
@@ -157,20 +178,20 @@ Blackmails party into service
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Monster Manual (MM) p.77
-- Mordenkainen's Tome of Foes (MTF) p.141
+- Bestiary Compendium (BC) p.77
+- Mordenkainen's Forbidden Knowledge of Foes (MFK) p.141
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -178,10 +199,10 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -291,3 +312,14 @@ Following magic item guidelines (DMG p.135-136):
 - Affected by [[ITEM01482_Ornate_Rope_of_Quality]]
 - Parallels [[Downtime Activity Carousing Xge]]
 - Compare with [[ITEM00770_Time-worn_Ring_of_Dominion]]
+
+## Visual References
+![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
+![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
+![[03_People/portrait_captain_lyanna_brightshield.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

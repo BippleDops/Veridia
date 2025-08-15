@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Aldric Stormwind the Redeemed
 
 *Half-Orc Carpenter (Commoners), Age 30, Female*

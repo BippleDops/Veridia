@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Corvus Voidwalker the Fallen
 
 *Half-Orc Cultist (Villains), Age 28, Female*

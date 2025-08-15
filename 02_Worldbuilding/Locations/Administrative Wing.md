@@ -260,3 +260,8 @@ Mentioned in The Second Prophecy of Winds
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]

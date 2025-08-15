@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.787306
+modified: 2025-08-15T16:41:42.787318
+aliases: [NPC01065 Wynne Hawthorne the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hestara Ravenheart the Lost (Personal - Ex-lover)|Hestara Ravenheart the Lost (Personal - Ex-lover)]]
+- [[#Jorah Grimholt the Wanderer (Professional - Partner)|Jorah Grimholt the Wanderer (Professional - Partner)]]
+- [[#Baelor Xendar the Mystic (Family - Cousin)|Baelor Xendar the Mystic (Family - Cousin)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Wynne Hawthorne the Swift", "wynne hawthorne the swift", "Wynne Hawthorne Swift", "Swift the Hawthorne Wynne"]
 tags: [npc, character]
@@ -151,11 +172,11 @@ Seeks rare merchandise
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -265,3 +286,14 @@ Seeks rare merchandise
 - Parallels [[Reality Distortion]]
 - Leads to [[step_067 (phase_095)]]
 - Parallels [[step_045]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

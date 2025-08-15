@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Caelum Silverleaf the Scholar
 
 *Dragonborn Fisher (Commoners), Age 48, Male*

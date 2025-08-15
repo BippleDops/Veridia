@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Elric Ashford the Seeker
 
 *Goliath Aristocrat (Nobles), Age 41, Female*

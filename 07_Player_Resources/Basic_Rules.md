@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:34.154073
+modified: 2025-08-15T16:41:34.154077
+aliases: [Basic Rules]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#Connection Improvements|Connection Improvements]]
+- [[#Enhancement Improvements|Enhancement Improvements]]
+- [[#Related|Related]]
+- [[#DM Notes|DM Notes]]
+- [[#Plot Hooks|Plot Hooks]]
+- [[#07_Player_Resources Specific Content|07_Player_Resources Specific Content]]
+- [[#07_Player_Resources Specific Content|07_Player_Resources Specific Content]]
+- [[#References|References]]
+- [[#See Also|See Also]]
+
+
+---
 title: Basic_Rules
 type: note
 tags:
@@ -66,18 +87,45 @@ Contextual improvement based on 07_Player_Resources
 > The villain has agents watching this place
 
 ## See Also
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[Sanity_Quick_Reference.md]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[Sage Elara]]
+- [[Party_Quests]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[Player_Feedback_Form.md]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[MOC_Rules]]
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]
 - [[Related_Content]]
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 
@@ -181,3 +229,8 @@ Contextual improvement based on 07_Player_Resources
 - Affected by [[QUEST00247_Personal_Quest_248]]
 - Influences [[ITEM00484_Fortified_Boots_of_Protection]]
 - Related: [[Location City Interfaith Councils V1 Interfaith Councils.svg]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_scream_saturation_rules_night.png]]
+![[02_Worldbuilding/locations/location_scream_saturation_rules_rain.png]]
+![[02_Worldbuilding/locations/location_scream_saturation_rules_establishing.png]]

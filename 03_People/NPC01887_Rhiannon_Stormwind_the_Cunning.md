@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Rhiannon Stormwind the Cunning
 
 *Aasimar Crime Boss (Villains), Age 59, Non-binary*

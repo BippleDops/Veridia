@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Lyanna Silverleaf the Seeker
 
 *Half-Orc Fisher (Commoners), Age 73, Non-binary*

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.604022
+modified: 2025-08-15T16:41:45.604025
+aliases: [NPC01030 Erasmus Nightfall the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Zephyr Underhill the Broken (Family - Sibling)|Zephyr Underhill the Broken (Family - Sibling)]]
+- [[#Rhiannon Voidwalker the Scholar (Personal - Ex-lover)|Rhiannon Voidwalker the Scholar (Personal - Ex-lover)]]
+- [[#Wynne Xendar the Scholar (Personal - Childhood friend)|Wynne Xendar the Scholar (Personal - Childhood friend)]]
+
+
+---
 aliases: ["Erasmus Nightfall the Strong", "erasmus nightfall the strong", "Erasmus Nightfall Strong", "Strong the Nightfall Erasmus"]
 tags: [npc, character]
 type: npc
@@ -239,3 +260,14 @@ Seeks rare merchandise
 - Compare with [[Living Allianc 2]]
 - Affected by [[The Crystal Shepherds (People)]]
 - Parallels [[Portrait NPC Professor Aldric Crystalweaver V1 Professor Aldric Crystalweaver.svg_1 (Portraits)]]
+
+## Visual References
+![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
+![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
+![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

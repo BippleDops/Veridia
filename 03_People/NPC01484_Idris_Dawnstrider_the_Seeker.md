@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Dawnstrider the Seeker
 
 *Tabaxi Ranger (Adventurers), Age 33, Female*

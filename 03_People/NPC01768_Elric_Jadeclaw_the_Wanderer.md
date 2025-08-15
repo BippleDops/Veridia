@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Elric Jadeclaw the Wanderer
 
 *Elf Dark Wizard (Villains), Age 32, Female*

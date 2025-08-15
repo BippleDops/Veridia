@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.858349
+modified: 2025-08-15T16:41:42.858352
+aliases: [NPC00504 Qadim Darkwater the Redeemed]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Felicia Crystalbrook the Fallen (Professional - Mentor)|Felicia Crystalbrook the Fallen (Professional - Mentor)]]
+- [[#Elric Hawthorne the Fallen (Personal - Childhood friend)|Elric Hawthorne the Fallen (Personal - Childhood friend)]]
+- [[#Caelum Thornweave the Mystic (Personal - Best friend)|Caelum Thornweave the Mystic (Personal - Best friend)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Qadim Darkwater the Redeemed", "qadim darkwater the redeemed", "Qadim Darkwater Redeemed", "Redeemed the Darkwater Qadim"]
 tags: [npc, character]
@@ -145,9 +166,9 @@ Discovered something valuable
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -257,3 +278,14 @@ Discovered something valuable
 - Requires [[Assets Locations Location City the Progressive Coalition Headquarters V1 the Progressive Coalition Headquarters.svg]]
 - Requires [[The Deepwater Terminal]]
 - Influences [[Quest - Hostage Rescue 2]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.772939
+modified: 2025-08-15T16:41:43.772943
+aliases: [NPC00882 Alaric Dawnstrider the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gareth Ashford the Wanderer (Professional - Partner)|Gareth Ashford the Wanderer (Professional - Partner)]]
+- [[#Drusilla Goldleaf the Lost (Political - Ally)|Drusilla Goldleaf the Lost (Political - Ally)]]
+- [[#Qadim Oakenshield the Broken (Criminal - Accomplice)|Qadim Oakenshield the Broken (Criminal - Accomplice)]]
+
+
+---
 aliases: ["Alaric Dawnstrider the Scholar", "alaric dawnstrider the scholar", "Alaric Dawnstrider Scholar", "Scholar the Dawnstrider Alaric"]
 tags: [npc, character]
 type: npc
@@ -249,3 +270,14 @@ Seeks rare merchandise
 - Related: [[Location City Bubble Yeastkeeper Bubble Yeastkeeper.svg]]
 - Influences [[The Current Master]]
 - Related: [[Magic Item Table H]]
+
+## Visual References
+![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
+![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

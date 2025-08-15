@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.246050
+modified: 2025-08-15T16:41:42.246053
+aliases: [NPC00913 Branwen Youngblood the Bold]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Branwen Moonshadow the Seeker (Criminal - Fence)|Branwen Moonshadow the Seeker (Criminal - Fence)]]
+- [[#Rhiannon Stormwind the Swift (Criminal - Accomplice)|Rhiannon Stormwind the Swift (Criminal - Accomplice)]]
+- [[#Hestara Nightfall the Scholar (Family - Sibling)|Hestara Nightfall the Scholar (Family - Sibling)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Branwen Youngblood the Bold", "branwen youngblood the bold", "Branwen Youngblood Bold", "Bold the Youngblood Branwen"]
 tags: [npc, character]
@@ -146,9 +167,9 @@ Competitor sabotaging business
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -258,3 +279,14 @@ Competitor sabotaging business
 - Compare with [[QUEST00248_Side_Quest_249]]
 - Compare with [[fighter-xphb-cavalier-xge (classes)]]
 - Related: [[Assets Locations Location City Secondary Education V1 Secondary Education.svg]]
+
+## Visual References
+![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

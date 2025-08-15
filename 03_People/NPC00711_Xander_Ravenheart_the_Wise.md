@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Xander Ravenheart the Wise
 
 *Human Blacksmith (Commoners), Age 74, Female*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Jorah Grimholt the Guardian
 
 *Half-Elf Assassin (Villains), Age 52, Male*

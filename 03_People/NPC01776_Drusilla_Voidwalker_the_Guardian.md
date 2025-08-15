@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Drusilla Voidwalker the Guardian
 
 *Tabaxi Crime Boss (Villains), Age 47, Male*

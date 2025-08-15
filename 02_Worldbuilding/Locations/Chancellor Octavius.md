@@ -267,3 +267,8 @@ Ongoing situations affecting Chancellor Octavius:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]
+- [[NPC00276_Ysara_Youngblood]]

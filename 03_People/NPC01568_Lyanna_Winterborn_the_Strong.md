@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.676772
+modified: 2025-08-15T16:41:40.676776
+aliases: [NPC01568 Lyanna Winterborn the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Faelyn Darkwater the Strong (Professional - Partner)|Faelyn Darkwater the Strong (Professional - Partner)]]
+- [[#Kaelen Brightblade the Lost (Family - Child)|Kaelen Brightblade the Lost (Family - Child)]]
+- [[#Corvus Ironforge the Mystic (Personal - Childhood friend)|Corvus Ironforge the Mystic (Personal - Childhood friend)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Lyanna Winterborn the Strong", "lyanna winterborn the strong", "Lyanna Winterborn Strong", "Strong the Winterborn Lyannatags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
@@ -146,7 +167,7 @@ Forming expedition to dangerous location
 - Special moves
 
 ## Combat Stats
-Base: **Guard** (MM p.347)
+Base: **Guard** (BC p.347)
 Modifications:
 - HP: 16
 - AC: 13
@@ -157,6 +178,12 @@ Modifications:
 > Useful information for players
 
 ## See Also
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]
+- [[Reference.md]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[12 Spells]]
 - [[Related_Content]]
 
 
@@ -166,8 +193,8 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -177,34 +204,34 @@ Modifications:
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
 - Affected by [[ENC00180_Social_Encounter_181]]
 - Compare with [[Portrait NPC Prophet Nerida Voidgazer Prophet Nerida Voidgazer.svg]]
-- See also: [[Location City Luminar the Builder Luminar the Builder.svg]]
+- See also: [[Location City [[Luminar the Builder]] Luminar the Builder.svg]]
 - Influences [[FAC00037_Orders_38]]
-- Leads to [[Location City Scarlet Torrent V1 Scarlet Torrent.svg]]
+- Leads to [[Location City [[Scarlet Torrent]] V1 Scarlet Torrent.svg]]
 - Connects to [[SPELL00138_Arcane_Spell_139]]
 - Connects to [[The Paradox Constitution 2]]
 - Requires [[step_004 (phase_035)]]
 - Related: [[maximilians-earthen-grasp-xge (spells)]]
-- See also: [[Portrait NPC Abyssos Prime Government Abyssos Prime Government.svg]]
+- See also: [[Portrait NPC [[Abyssos Prime]] Government Abyssos Prime Government.svg]]
 - Originates from [[portrait-npc-mayor-thompson-v1-mayor-thompson.svg_1 (Portraits)]]
 - Influences [[The Memory Garden 2]]
 - Affected by [[ENC00048_Social_Encounter_49]]
@@ -226,14 +253,14 @@ Modifications:
 - Originates from [[NPC01224_Idris_Winterborn_the_Fallen]]
 - Compare with [[ENC00275_Social_Encounter_276]]
 - Parallels [[QUEST00008_Personal_Quest_9]]
-- Originates from [[Victoria Harbormane (D&D_References)]]
+- Originates from [[[[Victoria Harbormane]] (D&D_References)]]
 - Connects to [[Portrait NPC Watch Captain Roderick Shieldbreaker V1 Watch Captain Roderick Shieldbreaker.svg]]
 - Requires [[step_098]]
 - Affected by [[SPELL00150_Arcane_Spell_151]]
 - See also: [[step_091 (phase_005)]]
 - Influences [[Anti-Corruption Task Force (D&D_References)]]
 - Requires [[The Tidal Sanctum]]
-- Leads to [[Location City Palace Staff Guild V1 Palace Staff Guild.svg]]
+- Leads to [[Location City [[Palace Staff Guild]] V1 Palace Staff Guild.svg]]
 - Requires [[maurezhi-mpmm (fiend)]]
 - Parallels [[Planning Director Strategy Deepthink]]
 - Affected by [[The Cerulean Trench]]
@@ -248,20 +275,20 @@ Modifications:
 - Requires [[Assets Item Artifact Enspelled Armor Level 7 Xdmg V5 Enspelled Armor Level 7 Xdmg.png]]
 - Parallels [[crusaders-shortsword-cos (items)]]
 - Compare with [[Symbol Heraldry Tem... Related To: Local Political Structure Connected Plots: to Be Developed]]
-- Requires [[Assets Locations Location City Legal Education Legal Education.svg]]
+- Requires [[Assets Locations Location City [[Legal Education]] Legal Education.svg]]
 - Compare with [[LOC0036_OldGate]]
 - Influences [[LORE00065_Prophecies_Entry_66]]
-- Parallels [[Assets Locations Location City Inverted Ballroom Wing V1 Inverted Ballroom Wing.svg]]
+- Parallels [[Assets Locations Location City [[Inverted Ballroom Wing]] V1 Inverted Ballroom Wing.svg]]
 - Leads to [[Sky Marshal Windstrider]]
-- Leads to [[Location City Courier Ripplestone V1 Courier Ripplestone.svg]]
-- Related: [[Assets Locations Location City Tribune Cassia V1 Tribune Cassia.svg]]
-- Parallels [[The Neutral Current Tavern 2]]
+- Leads to [[Location City [[Courier Ripplestone]] V1 Courier Ripplestone.svg]]
+- Related: [[Assets Locations Location City [[Tribune Cassia]] V1 Tribune Cassia.svg]]
+- Parallels [[The Neutral Current [[Tavern]] 2]]
 - Parallels [[step_045]]
 - Originates from [[NPC01357_Ysara_Ashford_the_Lost]]
 - Leads to [[Sacred Memory Gardens]]
 - Compare with [[NPC_Reactions_Quick_Ref]]
 - Parallels [[Crystal Singers (D&D_References)]]
-- Originates from [[Assets Locations Location City Crystals Curiosities V1 Crystals Curiosities.svg]]
+- Originates from [[Assets Locations [[Location City Crystals Curiosities V1 Crystals Curiosities.svg]]]]
 - Leads to [[step_059]]
 - Parallels [[step_049 (phase_040)]]
 - Related: [[NPC01790_Zephyr_Lightbringer_the_Scholar]]
@@ -270,12 +297,12 @@ Modifications:
 - Connects to [[NPC00776_Ysara_Goldleaf_the_Seeker]]
 - Leads to [[02_Worldbuilding_Lore_GM_Resources]]
 - Connects to [[Border Fortresses 2]]
-- See also: [[MULTIMEDIA_GENERATION_COMPLETE]]
+- See also: [[MUL[[Time]]DIA_GENERATION_COMPLETE]]
 - See also: [[purple-worm-xmm]]
 - Compare with [[orcish-fury-xge (feats)]]
 - Originates from [[LORE00032_History_Entry_33]]
 - Leads to [[step_043 (phase_017)]]
-- Originates from [[Location City Artist Wave Creator Artist Wave Creator.svg]]
+- Originates from [[Location City [[Artist Wave Creator]] Artist Wave Creator.svg]]
 - Compare with [[step_074 (phase_054)]]
 - Parallels [[Property Markets]]
 - Leads to [[ITEM00886_Divine_Amulet_of_Truth]]
@@ -287,7 +314,7 @@ Modifications:
 - Requires [[Reality Merge Zones (D&D_References)]]
 - See also: [[knocking-out-a-creature-xphb (variant-rules)]]
 - See also: [[QUEST00186_Main_Quest_187]]
-- Leads to [[The Twin Prophets 2]]
+- Leads to [[[[The Twin Prophets]] 2]]
 - Leads to [[House Mercurial]]
 - Requires [[Truth and Reconciliation Depths Commission]]
 - Originates from [[elemental-adept-xphb (feats)]]
@@ -295,3 +322,14 @@ Modifications:
 - Affected by [[Shadow Community Political Power]]
 - Leads to [[SPELL00140_Divine_Spell_141]]
 - Requires [[Truth Serum Xdmg]]
+
+## Visual References
+![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
+![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
+![[03_People/portrait_captain_lyanna_brightshield.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

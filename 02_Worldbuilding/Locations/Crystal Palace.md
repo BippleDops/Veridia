@@ -327,3 +327,10 @@ Ongoing situations affecting Crystal Palace:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]

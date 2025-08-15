@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:33.963018
+modified: 2025-08-15T16:41:33.963021
+aliases: [Dockworker Union Flyer.md]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Evolution Improvements|Evolution Improvements]]
+- [[#Material_Culture Improvements|Material_Culture Improvements]]
+- [[#Superstitions Improvements|Superstitions Improvements]]
+- [[#Sensory Improvements|Sensory Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Visual_Handouts/Dockworker_Union_Flyer.md
 type: lore
@@ -112,6 +133,55 @@ tags: [combat, exploration, lore]
 > This character is not who they seem
 
 ## See Also
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[Marcus Shardbreaker Grimm_1]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[Parliamentary_Voting_Guide]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
+- [[Combat_Encounter_Analysis]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[Faction_Relationship_Web]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[World_Primer.md]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[Ancient_Prophecy_Fragment_Verdan]]
+- [[Sanity_Quick_Reference.md]]
+- [[Quiet_Chapel_Oath_Scrol]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[What You Know - Abyssos Prime.md]]
+- [[Currency_Guide_Scrip_and_Shard]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[Letter_From_the_Pearl_Guard_Captai]]
+- [[Reputation_Tracker]]
+- [[09 Appendix a the Multiverse]]
+- [[13 Conditions]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[15 the Planes of Existence]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[MOC_Lore]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[11 Rules Glossary]]
+- [[NPC01602_Dara_Ashford_the_Seeker]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
+- [[Master_Narrative_Web.md]]
+- [[Sage Elara]]
 - [[Related_Content]]
 
 
@@ -121,21 +191,21 @@ tags: [combat, exploration, lore]
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -239,3 +309,8 @@ tags: [combat, exploration, lore]
 - Originates from [[Guerrilla Fighters]]
 - Leads to [[kobold-warrior-xmm]]
 - Influences [[step_024 (phase_082)]]
+
+## Visual References
+![[03_People/portrait_assets_symbols_symbol_heraldry_dockworkers_union_dockworkers_union_svg_friendly.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_dockworkers_union_dockworkers_union_svg_dramatic.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_dockworkers_union_dockworkers_union_svg_standard.png]]

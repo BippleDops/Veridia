@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Delara Goldleaf the Cunning
 
 *Human Appraiser (Merchants), Age 36, Female*

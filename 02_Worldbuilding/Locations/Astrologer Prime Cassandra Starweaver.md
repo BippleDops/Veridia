@@ -265,3 +265,7 @@ Ongoing situations affecting Astrologer Prime Cassandra Starweaver:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01360_Ewan_Blackstone_the_Strong]]

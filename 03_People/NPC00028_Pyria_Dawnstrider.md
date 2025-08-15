@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.873284
+modified: 2025-08-15T16:41:45.873290
+aliases: [NPC00028 Pyria Dawnstrider]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Xander Keenblade the Guardian (Family - Child)|Xander Keenblade the Guardian (Family - Child)]]
+- [[#Corvus Ironforge (Criminal - Accomplice)|Corvus Ironforge (Criminal - Accomplice)]]
+- [[#Fiora Crystalbrook (Family - Sibling)|Fiora Crystalbrook (Family - Sibling)]]
+
+
+---
 aliases: ["Pyria Dawnstrider", "pyria dawnstrider", "Dawnstrider Pyria"]
 tags: [npc, character]
 type: npc
@@ -239,3 +264,8 @@ Wants rivals investigated
 - Connects to [[Goblin Boss Xmm]]
 - Requires [[NPC01906_Alaric_Darkwater_the_Redeemed]]
 - Leads to [[ITEM00006_Radiant_Axe_of_Speed]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

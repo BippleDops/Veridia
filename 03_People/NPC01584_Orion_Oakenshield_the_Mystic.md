@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Orion Oakenshield the Mystic
 
 *Elf Cleric (Adventurers), Age 74, Non-binary*

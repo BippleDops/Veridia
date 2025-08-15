@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Vault Keeper Ete
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]

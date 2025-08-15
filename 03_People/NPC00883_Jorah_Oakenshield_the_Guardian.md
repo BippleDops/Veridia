@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Jorah Oakenshield the Guardian
 
 *Half-Elf Caravan Master (Merchants), Age 60, Non-binary*

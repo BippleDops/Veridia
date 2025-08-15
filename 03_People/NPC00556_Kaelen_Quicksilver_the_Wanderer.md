@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Kaelen Quicksilver the Wanderer
 
 *Halfling Blacksmith (Commoners), Age 77, Female*

@@ -236,3 +236,9 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]

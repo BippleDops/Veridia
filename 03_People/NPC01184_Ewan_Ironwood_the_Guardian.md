@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Ewan Ironwood the Guardian
 
 *Halfling Appraiser (Merchants), Age 63, Non-binary*

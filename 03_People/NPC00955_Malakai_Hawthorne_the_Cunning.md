@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.200085
+modified: 2025-08-15T16:41:44.200089
+aliases: [NPC00955 Malakai Hawthorne the Cunning]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hestara Thornweave the Cunning (Professional - Mentor)|Hestara Thornweave the Cunning (Professional - Mentor)]]
+- [[#Gavril Keenblade the Seeker (Political - Patron)|Gavril Keenblade the Seeker (Political - Patron)]]
+- [[#Baelor Darkwater the Mystic (Political - Opposition)|Baelor Darkwater the Mystic (Political - Opposition)]]
+
+
+---
 aliases: ["Malakai Hawthorne the Cunning", "malakai hawthorne the cunning", "Malakai Hawthorne Cunning", "Cunning the Hawthorne Malakai"]
 tags: [npc, character]
 type: npc
@@ -238,3 +263,8 @@ Competitor sabotaging business
 - Related: [[Frequency Weapons 2]]
 - Originates from [[Armor of Gleaming Xdmg]]
 - Related: [[actions#Hide]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

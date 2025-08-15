@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.125855
+modified: 2025-08-15T16:41:41.125860
+aliases: [NPC00550 Xander Stormwind the Cunning]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Fiora Underhill the Fallen (Professional - Employee)|Fiora Underhill the Fallen (Professional - Employee)]]
+- [[#Solas Emberfall the Mystic (Political - Puppet)|Solas Emberfall the Mystic (Political - Puppet)]]
+- [[#Zephyr Zephyrblade the Mystic (Professional - Employer)|Zephyr Zephyrblade the Mystic (Professional - Employer)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Xander Stormwind the Cunning", "xander stormwind the cunning", "Xander Stormwind Cunning", "Cunning the Stormwind Xandertags: [npc, character, combat, magic, lore]er]
 type: npc
@@ -13,7 +34,7 @@ type: npc
 ## Quick Reference
 - **Location**: Forest clearing outside town
 - **Occupation**: Farmer
-- **Disposition**: Laughs at the most inappropriate times
+- **Disposition**: Laughs at the most inappropriate [[Time]]s
 
 ## Appearance
 Above average and stocky, with Dreadlocks red hair and Black eyes. Unusual hue skin. Birthmark shaped like a constellation.
@@ -142,13 +163,35 @@ Family member has gone missing
 - Special moves
 
 ## Combat Stats
-Base: **Commoner** (MM p.345)
+Base: **Commoner** (BC p.345)
 Modifications:
 - HP: 16
 - AC: 11
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC00080_Branwen_Proudmore]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC00649_Corvus_Zephyrblade_the_Broken]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[Session_Recaps]]
+- [[11 Rules Glossary]]
+- [[Quick_Start_Guide.md]]
+- [[MOC_Sessions]]
+- [[NPC00300_Urien_Zephyrblade]]
 - [[Related_Content]]
 
 
@@ -158,10 +201,10 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -171,11 +214,11 @@ Modifications:
 
 ## Connections
 
-- Leads to [[International Scholars (D&D_References)]]
+- Leads to [[[[International Scholars]] (D&D_References)]]
 - Requires [[Map of the Whispering Expanse (Lore)]]
 - See also: [[Portrait NPC House Guard Captains House Guard Captains.svg]]
 - Connects to [[Portrait NPC Mast... Related To: Local Political Structure Connected Plots: to Be Developed]]
-- Leads to [[Assets Locations Location City the Deepmost Current the Deepmost Current.svg]]
+- Leads to [[Assets Locations Location City [[The Deepmost Current]] the Deepmost Current.svg]]
 - Influences [[elven-chain-xdmg (items)]]
 - Influences [[Sustainable Commerce Guidelines]]
 - Influences [[Map World Layer Trade Routes and Corridors V1 Trade Routes and Corridors.svg]]
@@ -188,11 +231,11 @@ Modifications:
 - Parallels [[LOC00195_Wilderness_Location_196]]
 - Compare with [[Quest - Civic Engagement_1 (01_Adventures)]]
 - Related: [[The Memory Coral Crown]]
-- See also: [[Assets Locations Location City Scarlet Torrent Scarlet Torrent.svg]]
+- See also: [[Assets Locations Location City [[Scarlet Torrent]] Scarlet Torrent.svg]]
 - Leads to [[Vespara "Nightwhisper" Thorne]]
 - See also: [[Control Systems Engineer Flow Processwright 2]]
 - Affected by [[step_046 (phase_063)]]
-- Affected by [[Shadow Wells (D&D_References)]]
+- Affected by [[[[Shadow Wells]] (D&D_References)]]
 - Compare with [[The Rationing Authority]]
 - Parallels [[Noble Culture and Etiquette]]
 - See also: [[step_038 (phase_061)]]
@@ -203,7 +246,7 @@ Modifications:
 - Influences [[Mezzoloth Xmm]]
 - Influences [[LOC00278_Wilderness_Location_279]]
 - Compare with [[Elder Brain Vgm]]
-- See also: [[Community Coordinator Kelp Bondweaver (D&D_References)]]
+- See also: [[[[Community Coordinator Kelp Bondweaver]] (D&D_References)]]
 - Affected by [[step_010 (phase_035)]]
 - Parallels [[halberd-xphb (items)]]
 - Compare with [[step_020 (phase_018)]]
@@ -219,14 +262,14 @@ Modifications:
 - Connects to [[barbarian-xphb-path-of-the-storm-herald-xge 2 (classes)]]
 - Related: [[The Deep Prophets (D&D_References)]]
 - Leads to [[Cow Vgm]]
-- Compare with [[Location City Fresh Cleanwave V1 Fresh Cleanwave.svg]]
-- Related: [[Assets Locations Location City the Transition Centers the Transition Centers.svg]]
+- Compare with [[Location City [[Fresh Cleanwave]] V1 Fresh Cleanwave.svg]]
+- Related: [[Assets Locations [[Location City [[The Transition Centers]] the Transition Centers.svg]]]]
 - Originates from [[step_033 (phase_004)]]
 - Related: [[step_085 (phase_094)]]
-- Leads to [[04_Resources_Assets_Art_Places_Captain_Trawl_Netcaster.png]]
+- Leads to [[04_Resources_Assets_Art_Places_[[Captain_Trawl_Netcaster.png]]]]
 - Influences [[ring-of-necrotic-resistance-xdmg (items)]]
 - Related: [[step_033]]
-- Requires [[Location City Administrative Wing V1 Administrative Wing.svg]]
+- Requires [[Location City [[Administrative Wing]] V1 Administrative Wing.svg]]
 - Influences [[QUEST00048_Main_Quest_49]]
 - Connects to [[step_023]]
 - Originates from [[Fiendish Giant Spider Oota]]
@@ -236,7 +279,7 @@ Modifications:
 - Influences [[wands-that-dont-recharge (variant-rules)]]
 - Related: [[instrument-of-the-bards-xdmg (items)]]
 - Connects to [[barding]]
-- Related: [[Warforged (D&D_References)]]
+- Related: [[[[Warforged]] (D&D_References)]]
 - Leads to [[magic-item-table-g (tables)]]
 - Originates from [[step_044 (phase_058)]]
 - Leads to [[Emperor Abyssal the Deep-Sighted]]
@@ -245,29 +288,40 @@ Modifications:
 - Requires [[list-spells-classes-forge-domain-xge (lists)]]
 - Compare with [[antimatter-rifle-xdmg (items)]]
 - Leads to [[Darkquill's Rare Books]]
-- Related: [[Location City Great Plague of Ages Past Great Plague of Ages Past.svg]]
-- Compare with [[The Last Seeds (D&D_References)]]
+- Related: [[Location City [[Great Plague of Ages Past]] Great Plague of Ages Past.svg]]
+- Compare with [[[[The Last Seeds]] (D&D_References)]]
 - See also: [[step_072 (phase_006)]]
 - Related: [[elf-tables-drow-house-specialty-mtf (tables)]]
 - Related: [[Chimera Xmm]]
 - Parallels [[step_089 (phase_081)]]
-- Compare with [[Assets Locations Location City the Neutral Current Tavern the Neutral Current Tavern.svg]]
+- Compare with [[Assets Locations Location City the Neutral Current [[Tavern]] [[The Neutral Current Tavern]].svg]]
 - Originates from [[The Future Seer (D&D_References)]]
 - Connects to [[Gamma-Enforcement (Lore)]]
 - Affected by [[ITEM01022_Lesser_Herb_of_Fortune]]
 - Leads to [[LOC0029_Groveford]]
 - Connects to [[ITEM00973_Concentrated_Powder_of_Swiftness]]
 - Originates from [[step_080 (phase_073)]]
-- Influences [[The Bone Palace of Sorrows (D&D_References)]]
+- Influences [[[[The Bone Palace of Sorrows]] (D&D_References)]]
 - Leads to [[QUEST00019_Personal_Quest_20]]
 - See also: [[ITEM00593_Adamantine_Cloak_of_Resistance]]
 - Requires [[Portrait NPC the Bloodline Awakens the Bloodline Awakens.svg_1 (Portraits)]]
-- Connects to [[Assets Locations Location City Tymora V1 Tymora.svg]]
+- Connects to [[Assets Locations Location City [[Tymora]] V1 Tymora.svg]]
 - Connects to [[LORE00264_Legends_Entry_265]]
 - Related: [[The Great Separation]]
 - Connects to [[step_024 (phase_096)]]
-- Requires [[Location City Merchant Prince Goldwind Crysalborn Merchant Prince Goldwind Crysalborn.svg]]
+- Requires [[Location City [[[[Merchant]] Prince Goldwind Crysalborn]] Merchant Prince Goldwind Crysalborn.svg]]
 - Affected by [[LORE00141_Legends_Entry_142]]
 - Requires [[ENC00484_Combat_Encounter_485]]
-- Compare with [[Location City the Lighthouse Keepers V1 the Lighthouse Keepers.svg]]
-- Requires [[location-city-aethermoor-aethermoor.svg]]
+- Compare with [[Location City [[The Lighthouse Keepers]] V1 the Lighthouse Keepers.svg]]
+- Requires [[location-city-[[Aethermoor]]-aethermoor.svg]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.215874
+modified: 2025-08-15T16:41:44.215877
+aliases: [NPC01257 Jorah Youngblood the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gareth Stormwind the Risen (Criminal - Target)|Gareth Stormwind the Risen (Criminal - Target)]]
+- [[#Lyanna Ravenheart the Lost (Professional - Rival)|Lyanna Ravenheart the Lost (Professional - Rival)]]
+- [[#Corvus Jadeclaw the Scholar (Political - Opposition)|Corvus Jadeclaw the Scholar (Political - Opposition)]]
+
+
+---
 aliases: ["Jorah Youngblood the Wise", "jorah youngblood the wise", "Jorah Youngblood Wise", "Wise the Youngblood Jorah"]
 tags: [npc, character]
 type: npc
@@ -241,3 +262,14 @@ Has information about legendary item
 - See also: [[step_092 (phase_015)]]
 - Compare with [[step_038 (phase_005)]]
 - Compare with [[Pearl Sharpedge]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

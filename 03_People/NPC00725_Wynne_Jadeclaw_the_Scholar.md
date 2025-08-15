@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Wynne Jadeclaw the Scholar
 
 *Half-Elf Farmer (Commoners), Age 64, Female*

@@ -13,6 +13,10 @@ updated: '2025-08-13T12:34:17.358481+00:00'
 world: Aethermoor
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-iron-company-the-iron-company.svg)

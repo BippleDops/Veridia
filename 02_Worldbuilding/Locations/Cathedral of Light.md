@@ -572,3 +572,8 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]

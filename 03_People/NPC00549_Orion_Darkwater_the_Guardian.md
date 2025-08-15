@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.221478
+modified: 2025-08-15T16:41:42.221480
+aliases: [NPC00549 Orion Darkwater the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hestara Jadeclaw the Seeker (Political - Puppet)|Hestara Jadeclaw the Seeker (Political - Puppet)]]
+- [[#Baelor Grimholt the Swift (Criminal - Handler)|Baelor Grimholt the Swift (Criminal - Handler)]]
+- [[#Lyanna Voidwalker the Seeker (Personal - Love interest)|Lyanna Voidwalker the Seeker (Personal - Love interest)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Orion Darkwater the Guardian", "orion darkwater the guardian", "Orion Darkwater Guardian", "Guardian the Darkwater Orion"]
 tags: [npc, character]
@@ -150,8 +171,8 @@ Family member has gone missing
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -261,3 +282,14 @@ Family member has gone missing
 - Leads to [[Portrait NPC Sage Lysander Deepthought V2 Sage Lysander Deepthought.svg]]
 - Leads to [[LOC00195_Dungeons_Location_196]]
 - Influences [[Bloom Field Cultivation Guild]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

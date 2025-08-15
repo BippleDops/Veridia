@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 ![The Crystal Academy](../../../04_Resources/Assets/Misc/the_crystal_academy.png)
 
 ## 🔧 Deep Evaluation Improvements

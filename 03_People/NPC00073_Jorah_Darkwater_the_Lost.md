@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.353247
+modified: 2025-08-15T16:41:43.353252
+aliases: [NPC00073 Jorah Darkwater the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Kaelen Frostwhisper (Personal - Love interest)|Kaelen Frostwhisper (Personal - Love interest)]]
+- [[#Rhiannon Darkwater (Professional - Mentor)|Rhiannon Darkwater (Professional - Mentor)]]
+- [[#Hilda Oakenshield (Political - Patron)|Hilda Oakenshield (Political - Patron)]]
+
+
+---
 aliases: ["Jorah Darkwater the Lost", "jorah darkwater the lost", "Jorah Darkwater Lost", "Lost the Darkwater Jorah"]
 tags: [npc, character]
 type: npc
@@ -241,3 +262,14 @@ Wants rivals investigated
 - Leads to [[NPC0047_Hilda_Ironforge_the_Merciful]]
 - Influences [[Assets Locations Location City Navigator Flux Timewalker Navigator Flux Timewalker.svg]]
 - Affected by [[step_100 (phase_043)]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

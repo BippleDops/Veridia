@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Fiora Ravenheart the Wise
 
 *Goliath Cleric (Adventurers), Age 19, Non-binary*

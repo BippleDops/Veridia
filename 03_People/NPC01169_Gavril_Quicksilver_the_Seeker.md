@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gavril Quicksilver the Seeker
 
 *Half-Elf Trader (Merchants), Age 23, Non-binary*

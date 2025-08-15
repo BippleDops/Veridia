@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.911115
+modified: 2025-08-15T16:41:40.911118
+aliases: [NPC01827 Kaelen Ironforge the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aldric Silverleaf the Risen (Professional - Partner)|Aldric Silverleaf the Risen (Professional - Partner)]]
+- [[#Orion Crystalbrook the Wanderer (Personal - Childhood friend)|Orion Crystalbrook the Wanderer (Personal - Childhood friend)]]
+- [[#Drusilla Ironforge the Redeemed (Professional - Partner)|Drusilla Ironforge the Redeemed (Professional - Partner)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Kaelen Ironforge the Seeker", "kaelen ironforge the seeker", "Kaelen Ironforge Seeker", "Seeker the Ironforge Kaelentags: [npc, character, combat, magic, social, lore]er]
 type: npc
@@ -21,7 +42,7 @@ Above average and muscular, with Partially shaved black hair and Brown eyes. Dar
 **Clothing**: Courtier's elaborate outfit
 
 ## Personality
-- **Traits**: Believes in every conspiracy theory; Incredibly optimistic despite evidence; Compulsive liar about minor things; Laughs at the most inappropriate times
+- **Traits**: Believes in every conspiracy theory; Incredibly optimistic despite evidence; Compulsive liar about minor things; Laughs at the most inappropriate [[Time]]s
 - **Ideal**: Knowledge: Understanding the world is the key to controlling it
 - **Bond**: I seek to preserve ancient knowledge
 - **Flaw**: I drink too much and say things I shouldn't
@@ -147,32 +168,48 @@ Blackmails party into service
 - Special moves
 
 ## Combat Stats
-Base: **Bandit** (MM p.343)
+Base: **Bandit** (BC p.343)
 Modifications:
 - HP: 19
 - AC: 11
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[Archdruid Thornweaver]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC_Name_Generator.png]]
+- [[Faction_Relationship_Web]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Player_Comfort_Check]]
+- [[11 Rules Glossary]]
+- [[Character_Journal_Template]]
+- [[Ceasefire_Accord_Draft.md]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Tasha's Cauldron of Everything (TCE) p.75
-- Mordenkainen's Tome of Foes (MTF) p.291
+- Tasha's Mystical Formulae of Everything (TMF) p.75
+- Mordenkainen's Forbidden Knowledge of Foes (MFK) p.291
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -180,9 +217,9 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -200,16 +237,16 @@ Following magic item guidelines (DMG p.135-136):
 - Leads to [[ENC00408_Combat_Encounter_409]]
 - Leads to [[peryton-xmm (monstrosity)]]
 - Requires [[Quest - The Deep Alliance_1 (01_Adventures)]]
-- Requires [[Assets Locations Location City Temple Guardian Marcus the Drowned V1 Temple Guardian Marcus the Drowned.svg]]
+- Requires [[Assets Locations [[Location City [[Temple Guardian Marcus the Drowned]] V1 Temple Guardian Marcus the Drowned.svg]]]]
 - Originates from [[Ring of Regeneration Xdmg]]
-- Parallels [[Merchant Prince Coral Goldflow]]
+- Parallels [[[[Merchant]] Prince Coral Goldflow]]
 - Influences [[step_047 (phase_020)]]
 - Affected by [[step_069 (phase_073)]]
 - Parallels [[Portrait NPC Lady Cordelia Windham V2 Lady Cordelia Windham.svg]]
 - Originates from [[The Seven Shards Prophecy]]
 - Parallels [[02_Worldbuilding_Equipment_Shadow_Contamination_Scanners]]
 - See also: [[azer-pyromancer-xmm (elemental)]]
-- Affected by [[Location City the Crystal Palace Throne Room V1 the Crystal Palace Throne Room.svg]]
+- Affected by [[Location City the [[Crystal Palace]] Throne Room V1 the Crystal Palace Throne Room.svg]]
 - Leads to [[spell-scroll-level-3-xdmg (items)]]
 - Affected by [[step_049 (phase_083)]]
 - Compare with [[Establish New World Order (Orders)]]
@@ -228,7 +265,7 @@ Following magic item guidelines (DMG p.135-136):
 - Leads to [[Kingdom of Luminal Peaks (D&D_References)]]
 - Requires [[ENC00152_Combat_Encounter_153]]
 - Influences [[step_014 (phase_027)]]
-- Requires [[Location City Senator Bartholomew Bonewright Senator Bartholomew Bonewright.svg]]
+- Requires [[Location City [[Senator Bartholomew Bonewright]] Senator Bartholomew Bonewright.svg]]
 - Leads to [[Physical Variations Yuan Ti Tongue Color Vgm]]
 - See also: [[Barbarian Xphb Path of the Zealot Xphb]]
 - Parallels [[NPC01372_Orion_Dawnstrider_the_Guardian]]
@@ -250,17 +287,17 @@ Following magic item guidelines (DMG p.135-136):
 - Leads to [[Royal Intelligence Service]]
 - Affected by [[Crystal Plague Progression System (D&D_References)]]
 - Requires [[Carved Bone Statuette Xdmg]]
-- Parallels [[High Priestess Marina Oracleguard (D&D_References)]]
+- Parallels [[High Priestess [[Marina Oracleguard]] (D&D_References)]]
 - See also: [[Session 4 - The Shadow Parliament]]
 - Requires [[Item Artifact Travelers Clothes Xphb V6 Travelers Clothes Xphb.png]]
-- Affected by [[Location City Chief Engineer Marina Crystalwright V1 Chief Engineer Marina Crystalwright.svg]]
+- Affected by [[Location City [[Chief Engineer Marina Crystalwright]] V1 Chief Engineer Marina Crystalwright.svg]]
 - Parallels [[The Crystalline Citadel]]
 - Originates from [[step_086 (phase_029)]]
 - See also: [[ENC0079_Random_Encounter_80]]
 - Requires [[air-elemental-xmm]]
 - Compare with [[Pelagic Cup]]
 - Parallels [[Portrait NPC the Silhouette Surgeon Prime V1 the Silhouette Surgeon Prime.svg_1 (Portraits)]]
-- Compare with [[Pearlshell (D&D_References)]]
+- Compare with [[[[Pearlshell]] (D&D_References)]]
 - Affected by [[Young Silver Dragon Xmm]]
 - Related: [[step_052 (phase_037)]]
 - Parallels [[Spell Gem Star Ruby Oota]]
@@ -286,9 +323,20 @@ Following magic item guidelines (DMG p.135-136):
 - Compare with [[step_090]]
 - Related: [[step_061 (phase_085)]]
 - Compare with [[Sea Silk (D&D_References)]]
-- Leads to [[location-city-sahuagin-sahuagin.svg]]
+- Leads to [[location-city-[[Sahuagin]]-sahuagin.svg]]
 - Originates from [[The Identity Stabilizer]]
 - Related: [[Cross-Realm Politics]]
 - See also: [[Banker Titus Goldcurrent (D&D_References)]]
 - Requires [[step_076]]
 - See also: [[step_027]]
+
+## Visual References
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

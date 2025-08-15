@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gareth Frostwhisper the Lost
 
 *Dragonborn Wizard (Adventurers), Age 55, Non-binary*

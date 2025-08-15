@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Zephyr Dawnstrider the Bold
 
 *Tiefling Rogue (Adventurers), Age 57, Male*

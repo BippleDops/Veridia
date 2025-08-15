@@ -255,3 +255,7 @@ Ongoing situations affecting The Crystal Cathedral of Pure Light:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01151_Orion_Stormwind_the_Seeker]]

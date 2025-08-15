@@ -259,3 +259,8 @@ Mentioned in The Hidden Prophecy of Stars
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]

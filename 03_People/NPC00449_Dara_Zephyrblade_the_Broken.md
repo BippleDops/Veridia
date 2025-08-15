@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Dara Zephyrblade the Broken
 
 *Goliath Farmer (Commoners), Age 72, Female*

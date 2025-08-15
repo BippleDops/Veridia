@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Hestara Frostwhisper the Seeker
 
 *Tabaxi Fighter (Adventurers), Age 23, Non-binary*

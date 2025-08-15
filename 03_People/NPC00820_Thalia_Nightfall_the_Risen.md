@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.732782
+modified: 2025-08-15T16:41:41.732786
+aliases: [NPC00820 Thalia Nightfall the Risen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Qadim Blackstone the Strong (Personal - Best friend)|Qadim Blackstone the Strong (Personal - Best friend)]]
+- [[#Gareth Frostwhisper the Scholar (Political - Puppet)|Gareth Frostwhisper the Scholar (Political - Puppet)]]
+- [[#Vesper Ironwood the Strong (Family - Child)|Vesper Ironwood the Strong (Family - Child)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Thalia Nightfall the Risen", "thalia nightfall the risen", "Thalia Nightfall Risen", "Risen the Nightfall Thalia"]
 tags: [npc, character]
@@ -151,6 +172,37 @@ Has map to lost treasure
 - Special moves
 
 ## See Also
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[Depth_Adapted_Background]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[What You Know - Abyssos Prime.md]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[Basic_Rules]]
+- [[03 Races]]
+- [[Faction_Guide.md_1 (07_Player_Resources)]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[08 Using Ability Scores]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[16 Credits]]
+- [[10 Combat]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[Quarantine_Notice_Crystal_Plagu]]
 - [[Related_Content]]
 
 
@@ -160,9 +212,9 @@ Has map to lost treasure
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -272,3 +324,14 @@ Has map to lost treasure
 - Compare with [[step_062 (phase_015)]]
 - Influences [[Theological Warfare]]
 - Originates from [[The Void Conspiracy]]
+
+## Visual References
+![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
+![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -35,6 +35,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait-npc-the-void-watchers-shrines-v1-the-void-watchers-shrines.svg]]
+
+
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-void-watchers-the-void-watchers.svg)
 

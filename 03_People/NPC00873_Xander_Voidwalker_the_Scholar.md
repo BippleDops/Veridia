@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Xander Voidwalker the Scholar
 
 *Aasimar Appraiser (Merchants), Age 55, Female*

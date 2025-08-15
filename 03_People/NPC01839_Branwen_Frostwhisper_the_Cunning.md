@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Branwen Frostwhisper the Cunning
 
 *Aasimar Assassin (Villains), Age 48, Female*

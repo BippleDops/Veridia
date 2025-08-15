@@ -1,3 +1,24 @@
+---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:26.002168
+modified: 2025-08-15T16:41:26.002174
+aliases: [DASHBOARD LINK REPORT]
+---
+
+## Table of Contents
+- [[#Summary|Summary]]
+- [[#Dashboard Status|Dashboard Status]]
+- [[#Created Files|Created Files]]
+- [[#Dataview Queries|Dataview Queries]]
+- [[#Next Steps|Next Steps]]
+- [[#See Also|See Also]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
 -tags: [report, links, dashboard, combat]rd]
 generated: 2025-08-15T12:34:11.175743
 ---
@@ -61,18 +82,18 @@ All required folders and tags have been created for dataview queries to function
 - [[fifty_improvements_20250815_155453]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
 
 ## Connections
 
@@ -176,3 +197,8 @@ All required folders and tags have been created for dataview queries to function
 - Related: [[Portrait NPC Brother Marcus Steelbane Brother Marcus Steelbane.svg_1 (Portraits)]]
 - See also: [[step_045]]
 - Parallels [[doppelganger-xmm (monstrosity)]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_02_worldbuilding_people_portal_engineer_shade_linkwright_establishing.png]]
+![[02_Worldbuilding/locations/location_02_worldbuilding_people_portal_engineer_shade_linkwright_night.png]]
+![[02_Worldbuilding/locations/location_02_worldbuilding_people_portal_engineer_shade_linkwright_interior.png]]

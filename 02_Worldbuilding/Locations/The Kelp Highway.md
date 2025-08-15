@@ -269,3 +269,9 @@ Ongoing situations affecting The Kelp Highway:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]

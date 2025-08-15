@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.188325
+modified: 2025-08-15T16:41:42.188331
+aliases: [NPC00672 Nerys Ironwood the Fallen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Dara Jadeclaw the Wanderer (Family - Cousin)|Dara Jadeclaw the Wanderer (Family - Cousin)]]
+- [[#Aldric Oakenshield the Cunning (Personal - Ex-lover)|Aldric Oakenshield the Cunning (Personal - Ex-lover)]]
+- [[#Kaelen Oakenshield the Scholar (Family - Parent)|Kaelen Oakenshield the Scholar (Family - Parent)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Nerys Ironwood the Fallen", "nerys ironwood the fallen", "Nerys Ironwood Fallen", "Fallen the Ironwood Nerys"]
 tags: [npc, character]
@@ -152,8 +173,8 @@ Discovered something valuable
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -263,3 +284,14 @@ Discovered something valuable
 - Leads to [[boon-of-the-unfettered (rewards)]]
 - Requires [[Location City Quest the Truth Unveiled Quest the Truth Unveiled.svg]]
 - Related: [[ENC00069_Social_Encounter_70]]
+
+## Visual References
+![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
+![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
+![[03_People/portrait_commander_thrace_ironwood.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

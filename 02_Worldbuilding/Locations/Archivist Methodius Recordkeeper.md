@@ -218,3 +218,7 @@ Ongoing situations affecting Archivist Methodius Recordkeeper:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00407_Hestara_Dawnstrider]]

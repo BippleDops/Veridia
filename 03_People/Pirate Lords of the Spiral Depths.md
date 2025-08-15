@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.005032
+modified: 2025-08-15T16:41:48.005034
+aliases: [Pirate Lords of the Spiral Depths]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_pirate_lords_of_the_spiral_depths_friendly.png]]
+
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Relationships|Relationships]]
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Hospitality Improvements|Hospitality Improvements]]
+- [[#Death_Customs Improvements|Death_Customs Improvements]]
+
+
+---
 
 title: Pirate Lords of the Spiral Depths
 type: Npc

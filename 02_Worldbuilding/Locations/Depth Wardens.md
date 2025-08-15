@@ -916,3 +916,8 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
+- [[NPC00272_Rhiannon_Brightblade]]

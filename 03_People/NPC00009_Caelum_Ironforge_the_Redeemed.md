@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Caelum Ironforge the Redeemed
 
 *Elf Noble (Nobles), Age 22, Non-binary*

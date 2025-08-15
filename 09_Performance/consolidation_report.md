@@ -1,3 +1,23 @@
+---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:16.952610
+modified: 2025-08-15T16:41:16.952614
+aliases: [consolidation report]
+---
+
+## Table of Contents
+- [[#Directories Removed|Directories Removed]]
+- [[#Files Consolidated|Files Consolidated]]
+- [[#Recommended Next Steps|Recommended Next Steps]]
+- [[#Current Structure Summary|Current Structure Summary]]
+- [[#See Also|See Also]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+- [[#Visual References|Visual References]]
+
+
 -tags: [note, combat]te]
 created: 2025-08-15
 modified: 2025-08-15
@@ -55,17 +75,17 @@ Special Directories (keep these):
 
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
 
 ## Connections
 
@@ -169,3 +189,8 @@ Special Directories (keep these):
 - See also: [[The Wandering Atoll (D&D_References)]]
 - Parallels [[QUEST00192_Personal_Quest_193]]
 - Leads to [[NPC01234_Nerys_Dawnstrider_the_Strong]]
+
+## Visual References
+![[04_Resources/maps/world_reports_bidirectional_links_gm.png]]
+![[04_Resources/maps/world_reports_bidirectional_links_player.png]]
+![[04_Resources/maps/world_witness_reports_gm.png]]

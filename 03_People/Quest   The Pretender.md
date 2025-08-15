@@ -5,6 +5,10 @@ race: Human
 occupation: merchant
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-pretender-quest-the-pretender.svg]]
+
+
 # Quest   The Pretender
 
 *Human merchant*

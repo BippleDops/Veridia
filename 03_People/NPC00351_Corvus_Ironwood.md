@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.699331
+modified: 2025-08-15T16:41:40.699334
+aliases: [NPC00351 Corvus Ironwood]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Erasmus Silverleaf the Guardian (Family - Sibling)|Erasmus Silverleaf the Guardian (Family - Sibling)]]
+- [[#Brenna Zephyrblade the Risen (Criminal - Fence)|Brenna Zephyrblade the Risen (Criminal - Fence)]]
+- [[#Branwen Ashford the Redeemed (Criminal - Accomplice)|Branwen Ashford the Redeemed (Criminal - Accomplice)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Corvus Ironwood", "corvus ironwood", "Ironwood Corvustags: [npc, character, combat, social, exploration, puzzle, lore]er]
 type: npc
@@ -87,7 +108,7 @@ Deception, Athletics
 ### Special Abilities
 - Noble Bearing: Immunity to being frightened
 - Noble Bearing: Immunity to being frightened
-- Diplomatic Immunity: Cannot be arrested without evidence
+- [[Diplomatic Immunity]]: Cannot be arrested without evidence
 - Rally: Grant allies temporary hit points
 
 ## Possessions
@@ -108,7 +129,7 @@ Deception, Athletics
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- Political alliances
+- [[Political Alliances]]
 - Upcoming social events
 
 ## Plot Hook
@@ -139,13 +160,28 @@ Seeks bodyguards for dangerous journey
 - Special moves
 
 ## Combat Stats
-Base: **Bandit** (MM p.343)
+Base: **Bandit** (BC p.343)
 Modifications:
 - HP: 20
 - AC: 15
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[Reputation_Tracker]]
+- [[05 Personality and Background]]
+- [[MOC_Items]]
 - [[Related_Content]]
 
 
@@ -155,8 +191,8 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -189,7 +225,7 @@ Modifications:
 - Leads to [[ITEM00724_Divine_Crown_of_Destiny]]
 - Leads to [[QUEST00221_Side_Quest_222]]
 - Influences [[list-spells-feats-magic-initiate-xphb (lists)]]
-- Parallels [[Location City Trader Compass Rose V1 Trader Compass Rose.svg]]
+- Parallels [[Location City [[Trader Compass Rose]] V1 Trader Compass Rose.svg]]
 - Influences [[Home Embeds#Recently Modifie (D&D_References)]]
 - Related: [[LORE00178_Prophecies_Entry_179]]
 - Influences [[ITEM00845_Celestial_Scepter_of_the_Gods]]
@@ -197,23 +233,23 @@ Modifications:
 - Leads to [[dynamite-stick-xdmg (items)]]
 - Compare with [[M-103_Retroactive_Map_Draw]]
 - Requires [[step_029 (phase_055)]]
-- Affected by [[Location City Memorial Wall of Names V1 Memorial Wall of Names.png]]
+- Affected by [[Location City [[Memorial Wall of Names]] V1 Memorial Wall of Names.png]]
 - Originates from [[step_035 (phase_064)]]
 - Requires [[step_001 (phase_039)]]
 - Compare with [[step_036]]
 - Originates from [[step_064 (phase_005)]]
-- Requires [[Crimson Reef (D&D_References)]]
+- Requires [[[[Crimson Reef]] (D&D_References)]]
 - Affected by [[step_051]]
-- See also: [[The Crystal Gardens (D&D_References)]]
+- See also: [[The [[Crystal Gardens]] (D&D_References)]]
 - Originates from [[QUEST0031_Negotiate_with_the_Dragon]]
 - Originates from [[DUN00024_Dungeon_25]]
-- Leads to [[Democratic Technology Development (D&D_References)]]
+- Leads to [[[[Democratic Technology Development]] (D&D_References)]]
 - Influences [[step_083 (phase_061)]]
 - Parallels [[MON00102_Undead_Creature_103]]
 - Influences [[LORE00204_Legends_Entry_205]]
-- Requires [[Shadow Noble Districts (D&D_References)]]
+- Requires [[[[Shadow [[Noble District]]s]] (D&D_References)]]
 - Parallels [[Quest - The Kingpin's Fall]]
-- Connects to [[Location City the Depth Plague V1 the Depth Plague.svg]]
+- Connects to [[Location City the [[Depth Plague]] V1 [[The Depth Plague]].svg]]
 - Related: [[ENC00088_Environmental_Encounter_89]]
 - See also: [[Assets Portraits Portrait NPC Captain Redbeard Captain Redbeard.svg]]
 - Leads to [[LORE00142_History_Entry_143]]
@@ -226,10 +262,10 @@ Modifications:
 - Related: [[step_078]]
 - Requires [[portrait-npc-lord-bathysmal-v1-lord-bathysmal.svg]]
 - Related: [[ITEM00371_Shadow_Axe_of_Accuracy]]
-- Affected by [[Abyssos Prime - Throne of Bubbles]]
+- Affected by [[[[Abyssos Prime]] - Throne of Bubbles]]
 - Affected by [[LORE00207_Legends_Entry_208]]
 - Influences [[step_052 (phase_079)]]
-- Influences [[Location City the Pearl Markets V1 the Pearl Markets.svg]]
+- Influences [[Location City [[The Pearl Markets]] V1 the Pearl Markets.svg]]
 - Parallels [[Supernatural Mysteries (D&D_References)]]
 - Affected by [[telepathy-xphb (variant-rules)]]
 - Leads to [[Readme Future Work (D&D_References)]]
@@ -239,9 +275,9 @@ Modifications:
 - Leads to [[ITEM00882_Ancient_Scepter_of_Dominion]]
 - Parallels [[step_081 (phase_036)]]
 - Leads to [[Events Dimensional Incursions]]
-- See also: [[Assets Locations Location City Warehouse District Warehouse District.svg]]
+- See also: [[Assets Locations [[Location City [[Warehouse District]] Warehouse District.svg]]]]
 - Influences [[step_085 (phase_019)]]
-- Related: [[The Singing Shadows 2]]
+- Related: [[[[The Singing Shadows]] 2]]
 - See also: [[Terrain_Difficulty]]
 - Requires [[Assets Portraits Portrait NPC Abyssos Prime Throne of Bubbles Abyssos Prime Throne of Bubbles.svg]]
 - Parallels [[ITEM00092_Radiant_Hammer_of_Wounding]]
@@ -253,16 +289,27 @@ Modifications:
 - Related: [[melfs-acid-arrow-xphb (spells)]]
 - Originates from [[step_066]]
 - Leads to [[LOC00244_Planes_Location_245]]
-- Parallels [[Merchant Thane Goldwhisper (D&D_References)]]
+- Parallels [[[[Merchant]] Thane Goldwhisper (D&D_References)]]
 - Affected by [[step_091 (phase_079)]]
 - See also: [[step_086 (phase_013)]]
 - Leads to [[step_037 (phase_074)]]
 - Parallels [[NPC00667_Felicia_Goldleaf_the_Strong]]
-- Parallels [[Assets Locations Location City Mad Prophet Silas the Depth Touched Mad Prophet Silas the Depth Touched.svg]]
+- Parallels [[Assets Locations [[Location City Mad Prophet Silas the Depth Touched Mad Prophet Silas the Depth Touched.svg]]]]
 - Connects to [[step_014 (phase_010)]]
 - Affected by [[Naia Deepcurrent 2]]
 - See also: [[step_096]]
 - Leads to [[step_032]]
-- Leads to [[Location City Marina Clearwater Marina Clearwater.svg]]
+- Leads to [[Location City [[Marina Clearwater]] Marina Clearwater.svg]]
 - Parallels [[SHOP00008_General_Shop_9]]
 - Originates from [[Admiral Mistcurrent]]
+
+## Visual References
+![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
+![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
+![[03_People/portrait_commander_thrace_ironwood.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

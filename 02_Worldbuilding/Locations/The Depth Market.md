@@ -862,3 +862,10 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Malakai Winterborn the Bold
 
 *Half-Orc Shopkeeper (Merchants), Age 54, Non-binary*

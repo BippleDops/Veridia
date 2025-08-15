@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Kaelen Dawnstrider the Cunning
 
 *Aasimar Noble (Nobles), Age 25, Female*

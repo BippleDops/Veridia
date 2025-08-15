@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.777672
+modified: 2025-08-15T16:41:41.777676
+aliases: [NPC00844 Cedric Blackstone the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Moonshadow the Strong (Political - Puppet)|Alaric Moonshadow the Strong (Political - Puppet)]]
+- [[#Felicia Underhill the Wise (Family - Parent)|Felicia Underhill the Wise (Family - Parent)]]
+- [[#Pyria Dawnstrider the Strong (Personal - Best friend)|Pyria Dawnstrider the Strong (Personal - Best friend)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Cedric Blackstone the Fallen", "cedric blackstone the fallen", "Cedric Blackstone Fallen", "Fallen the Blackstone Cedric"]
 tags: [npc, character]
@@ -146,6 +171,31 @@ Seeks rare merchandise
 - Special moves
 
 ## See Also
+- [[Marcus Shardbreaker Grimm_1]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[The Forgotten Representative]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Faction_Guide.md]]
+- [[Player_Feedback_Form.md]]
+- [[11 Spellcasting]]
+- [[Archdruid Thornweaver]]
+- [[11 Rules Glossary]]
+- [[NPC01113_Solas_Ravenheart_the_Cunning]]
+- [[NPC00080_Branwen_Proudmore]]
 - [[Related_Content]]
 
 
@@ -155,9 +205,9 @@ Seeks rare merchandise
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -267,3 +317,8 @@ Seeks rare merchandise
 - Requires [[step_018 (phase_072)]]
 - Requires [[Light Xphb]]
 - Originates from [[Assets Portraits Portrait NPC High Priest Nereon High Priest Nereon.svg]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Delara Dawnstrider the Seeker
 
 *Dwarf Trader (Merchants), Age 23, Female*

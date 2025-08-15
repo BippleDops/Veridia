@@ -254,3 +254,9 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]

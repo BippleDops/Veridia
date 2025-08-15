@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Orion Underhill the Scholar
 
 *Elf Aristocrat (Nobles), Age 36, Male*

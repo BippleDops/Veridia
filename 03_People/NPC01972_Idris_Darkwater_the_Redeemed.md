@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Darkwater the Redeemed
 
 *Tiefling Assassin (Villains), Age 74, Male*

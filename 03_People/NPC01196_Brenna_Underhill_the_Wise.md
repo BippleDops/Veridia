@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.203350
+modified: 2025-08-15T16:41:43.203354
+aliases: [NPC01196 Brenna Underhill the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Nightfall the Lost (Personal - Childhood friend)|Ysara Nightfall the Lost (Personal - Childhood friend)]]
+- [[#Elric Frostwhisper the Swift (Family - Child)|Elric Frostwhisper the Swift (Family - Child)]]
+- [[#Delara Emberfall the Swift (Political - Spy)|Delara Emberfall the Swift (Political - Spy)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Brenna Underhill the Wise", "brenna underhill the wise", "Brenna Underhill Wise", "Wise the Underhill Brenna"]
 tags: [npc, character]
@@ -245,3 +266,14 @@ Seeks rare merchandise
 - Influences [[The Battlefield Convergence]]
 - See also: [[Military Coordinator Strong]]
 - Influences [[The Crystalline Wastes]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
+![[03_People/portrait_emperor_thalassius_the_wise.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

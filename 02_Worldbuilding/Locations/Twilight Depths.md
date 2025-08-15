@@ -246,3 +246,9 @@ Ongoing situations affecting Twilight Depths:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01283_Corvus_Hawthorne_the_Fallen]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]

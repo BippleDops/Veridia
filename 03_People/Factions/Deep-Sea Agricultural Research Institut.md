@@ -22,6 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_symbols_symbol_heraldry_deep_sea_agricultural_research_institut_deep_sea_agricultural_research_institut_svg_standard.png]]
+
+
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-deep-sea-agricultural-research-institut-deep-sea-agricultural-research-institut.svg)
 

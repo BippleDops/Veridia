@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Gavril Darkwater the Scholar
 
 *Halfling Cultist (Villains), Age 77, Non-binary*

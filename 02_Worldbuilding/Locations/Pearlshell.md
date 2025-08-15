@@ -243,3 +243,9 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]

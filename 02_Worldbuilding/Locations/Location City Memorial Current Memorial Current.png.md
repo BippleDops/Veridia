@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Memorial Current
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]

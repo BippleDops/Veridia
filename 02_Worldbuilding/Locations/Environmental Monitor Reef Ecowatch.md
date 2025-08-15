@@ -227,3 +227,7 @@ Ongoing situations affecting Environmental Monitor Reef Ecowatch:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01781_Urien_Keenblade_the_Cunning]]

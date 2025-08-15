@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Gavril Thornweave the Broken
 
 *Human Shopkeeper (Merchants), Age 68, Male*

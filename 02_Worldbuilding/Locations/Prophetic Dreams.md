@@ -214,3 +214,7 @@ Ongoing situations affecting Prophetic Dreams:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[The Silent Watcher 2]]

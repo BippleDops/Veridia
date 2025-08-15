@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.362315
+modified: 2025-08-15T16:41:46.362321
+aliases: [NPC00382 Delara Ironwood the Risen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Branwen Nightfall the Wanderer (Political - Opposition)|Branwen Nightfall the Wanderer (Political - Opposition)]]
+- [[#Malakai Crystalbrook the Mystic (Personal - Love interest)|Malakai Crystalbrook the Mystic (Personal - Love interest)]]
+- [[#Xander Frostwhisper (Professional - Partner)|Xander Frostwhisper (Professional - Partner)]]
+
+
+---
 aliases: ["Delara Ironwood the Risen", "delara ironwood the risen", "Delara Ironwood Risen", "Risen the Ironwood Delara"]
 tags: [npc, character]
 type: npc
@@ -251,3 +272,14 @@ Requires champions for trial by combat
 - Originates from [[Interactions With Others NPC Interaction]]
 - Parallels [[Portrait NPC the Deep Trade Routes V1 the Deep Trade Routes.svg]]
 - Parallels [[Diplomatic Immunity Crystals]]
+
+## Visual References
+![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
+![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
+![[03_People/portrait_commander_thrace_ironwood.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

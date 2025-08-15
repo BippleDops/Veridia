@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Idris Youngblood the Bold
 
 *Dragonborn Courtier (Nobles), Age 45, Female*

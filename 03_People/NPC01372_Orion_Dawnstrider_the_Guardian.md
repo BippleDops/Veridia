@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Orion Dawnstrider the Guardian
 
 *Aasimar Wizard (Adventurers), Age 69, Male*

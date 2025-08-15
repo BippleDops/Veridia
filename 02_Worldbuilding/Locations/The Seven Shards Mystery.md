@@ -346,3 +346,8 @@ Ongoing situations affecting The Seven Shards Mystery:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]

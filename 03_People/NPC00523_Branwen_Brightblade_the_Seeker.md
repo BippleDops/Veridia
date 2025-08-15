@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Branwen Brightblade the Seeker
 
 *Gnome Blacksmith (Commoners), Age 67, Male*

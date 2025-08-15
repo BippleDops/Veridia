@@ -27,6 +27,10 @@ wealth: Substantial (municipal taxes and port revenues)
 world: Aquabyssos
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 
 
 > [!figure] Heraldry

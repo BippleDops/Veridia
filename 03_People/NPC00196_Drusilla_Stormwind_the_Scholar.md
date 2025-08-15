@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.392819
+modified: 2025-08-15T16:41:45.392824
+aliases: [NPC00196 Drusilla Stormwind the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Goldleaf the Risen (Political - Opposition)|Alaric Goldleaf the Risen (Political - Opposition)]]
+- [[#Kaelen Silverleaf the Mystic (Personal - Ex-lover)|Kaelen Silverleaf the Mystic (Personal - Ex-lover)]]
+- [[#Orion Nightfall (Criminal - Fence)|Orion Nightfall (Criminal - Fence)]]
+
+
+---
 aliases: ["Drusilla Stormwind the Scholar", "drusilla stormwind the scholar", "Drusilla Stormwind Scholar", "Scholar the Stormwind Drusilla"]
 tags: [npc, character]
 type: npc
@@ -246,3 +267,29 @@ Needs discrete help with family scandal
 - Connects to [[Flame Tongue Xdmg]]
 - Requires [[step_062 (phase_038)]]
 - Influences [[Location City Crystal Sentinels V1 Crystal Sentinels.svg]]
+
+## Visual References
+![[03_People/portrait_merchant_captain_tobias_stormwind_dramatic.png]]
+![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
+
+
+## Realm Connections
+
+### Connection to Aethermoor
+This connects to the sky realm of Sky realm of eternal winds and floating islands.
+
+- **Ruling Power**: The Windlord Council
+- **Capital**: [[Skylance Citadel]]
+- **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
+- **Current Conflict**: The Void Incursion, Elemental Convergence
+- **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
+
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+navigate floating islands connected by bridges of solidified cloud.
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Kaelen Stormwind the Redeemed
 
 *Goliath Assassin (Villains), Age 44, Non-binary*

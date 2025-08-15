@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.154503
+modified: 2025-08-15T16:41:41.154507
+aliases: [NPC00858 Zephyr Silverleaf the Wanderer]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Felicia Lightbringer the Wise (Political - Spy)|Felicia Lightbringer the Wise (Political - Spy)]]
+- [[#Gareth Blackstone the Broken (Criminal - Accomplice)|Gareth Blackstone the Broken (Criminal - Accomplice)]]
+- [[#Orion Ironforge the Risen (Family - Parent)|Orion Ironforge the Risen (Family - Parent)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Zephyr Silverleaf the Wanderer", "zephyr silverleaf the wanderer", "Zephyr Silverleaf Wanderer", "Wanderer the Silverleaf Zephyrtags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
@@ -6,7 +27,7 @@ type: npc
 
 # Zephyr Silverleaf the Wanderer
 
-*Gnome Shopkeeper (Merchants), Age 72, Female*
+*Gnome Shopkeeper ([[Merchant]]s), Age 72, Female*
 
 **ID**: NPC00858
 
@@ -139,13 +160,37 @@ Seeks rare merchandise
 - Special moves
 
 ## Combat Stats
-Base: **Bandit** (MM p.343)
+Base: **Bandit** (BC p.343)
 Modifications:
 - HP: 10
 - AC: 15
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01113_Solas_Ravenheart_the_Cunning]]
+- [[Sage Elara]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[Party_Quests]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[Archdruid Thornweaver]]
+- [[What You Know - Abyssos Prime.md]]
+- [[Faction_Guide.md_1 (07_Player_Resources)]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
 - [[Related_Content]]
 
 
@@ -155,11 +200,11 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Death Saves**: See PHB p.197
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Death Saves**: See ACX p.197
 
 
 ## Thematic Connections
@@ -170,11 +215,11 @@ Modifications:
 ## Connections
 
 - Originates from [[location-city-the-deepmind-v1-the-deepmind.svg]]
-- Parallels [[Bexley Port Authority]]
+- Parallels [[Bexley [[Port Authority]]]]
 - Compare with [[step_068 (phase_098)]]
 - Parallels [[step_035 (phase_008)]]
 - Requires [[02_Worldbuilding_Lore_The_Memory_Trade]]
-- Compare with [[Location City Stormwind Supplies Stormwind Supplies.png]]
+- Compare with [[Location City [[Stormwind Supplies]] Stormwind Supplies.png]]
 - Related: [[NPC01956_Zephyr_Thornweave_the_Guardian]]
 - Originates from [[Depth Moss 2]]
 - Influences [[Crisis Response Centers 2]]
@@ -182,7 +227,7 @@ Modifications:
 - Influences [[ITEM0042_Cursed_Gauntlet_of_Power]]
 - See also: [[NPC1 (People)]]
 - Compare with [[Symbol Heraldry Silverscale Consortium V1 Silverscale Consortium.svg]]
-- See also: [[Assets Locations Location City Depth Merchants Depth Merchants.svg]]
+- See also: [[Assets Locations Location City [[Depth Merchants]] Depth Merchants.svg]]
 - Connects to [[baboon-xmm (beast)]]
 - Influences [[weather-precipitation (tables)]]
 - Influences [[Medium Armor Master Xphb]]
@@ -198,7 +243,7 @@ Modifications:
 - Related: [[mage-hunter-scc (monstrosity)]]
 - Related: [[ENC00095_Social_Encounter_96]]
 - Compare with [[list-spells-races-yuan-ti-pureblood-vgm (lists)]]
-- Originates from [[Handout Handout Tavern Bill of Fare V3 Tavern Bill of Fare.png]]
+- Originates from [[Handout Handout [[Tavern]] Bill of Fare V3 Tavern Bill of Fare.png]]
 - Related: [[LOC00063_Dungeons_Location_64]]
 - Influences [[QUEST00024_Side_Quest_25]]
 - Originates from [[location-city-express-racers-express-racers.svg]]
@@ -207,10 +252,10 @@ Modifications:
 - Parallels [[Assets Portraits Portrait NPC Warrior Priest Abyss Sworn V1 Warrior Priest Abyss Sworn.svg]]
 - See also: [[dragonlance-gilean-phb (deities)]]
 - See also: [[QUEST00011_Side_Quest_12]]
-- Requires [[Assets Locations Location City Tide Welcomeheart Tide Welcomeheart.svg]]
+- Requires [[Assets Locations Location City [[Tide Welcomeheart]] Tide Welcomeheart.svg]]
 - See also: [[step_021 (phase_100)]]
 - Related: [[Detailed Life Sized Dragonborn Skull Cast in Electrum Xdmg]]
-- See also: [[Assets Locations Location City Madame Rosalind Goldleaf Madame Rosalind Goldleaf.svg]]
+- See also: [[Assets Locations [[Location City Madame Rosalind Goldleaf Madame Rosalind Goldleaf.svg]]]]
 - Influences [[Quest - The Failing Magic]]
 - Compare with [[The Addicted Nobles (D&D_References)]]
 - Compare with [[Institute_of_Adaptive_Sciences (02_Worldbuilding)]]
@@ -218,24 +263,24 @@ Modifications:
 - Affected by [[Brother Matthias the Amber Bearer (People)]]
 - See also: [[step_087]]
 - Compare with [[eberron-the-keeper (deities)]]
-- See also: [[Assets Locations Location City Elena Prismweaver V1 Elena Prismweaver.svg]]
+- See also: [[Assets Locations [[Location City [[Elena Prismweaver]] V1 Elena Prismweaver.svg]]]]
 - Compare with [[Master Chef Umami Deepfeast]]
 - Originates from [[heal-xphb (spells)]]
-- Connects to [[Assets Locations Location City Mad Prophet Silas the Depth Touched Mad Prophet Silas the Depth Touched.svg]]
+- Connects to [[Assets Locations [[Location City Mad Prophet Silas the Depth Touched Mad Prophet Silas the Depth Touched.svg]]]]
 - Compare with [[Regent Thalassa]]
 - Parallels [[EVENT00052_Magical_Event_53]]
-- Originates from [[Location City Harbormaster Tidal Stormcrest V1 Harbormaster Tidal Stormcrest.svg]]
+- Originates from [[Location City [[Harbormaster [[Tidal Stormcrest]]]] V1 Harbormaster Tidal Stormcrest.svg]]
 - See also: [[step_035 (phase_050)]]
-- Parallels [[Assets Locations Location City the Purification Temples the Purification Temples.svg]]
+- Parallels [[Assets Locations Location City [[The Purification Temples]] the Purification Temples.svg]]
 - Compare with [[D_005_Shadow_Bloom]]
 - See also: [[level-and-lethality-damage-severity-by-level-xge]]
 - Originates from [[step_041 (phase_013)]]
 - Influences [[ITEM00302_Shadow_Dagger_of_Wounding]]
 - Influences [[step_057 (phase_070)]]
-- Compare with [[Location City Crown of Eternal Ice V1 Crown of Eternal Ice.svg]]
+- Compare with [[Location City [[Crown of Eternal Ice]] V1 Crown of Eternal Ice.svg]]
 - Parallels [[step_070]]
 - Influences [[step_014 (phase_088)]]
-- Connects to [[Aquabyssos Depth Caste System (D&D_References)]]
+- Connects to [[[[Aquabyssos]] Depth Caste System (D&D_References)]]
 - Related: [[step_003 (phase_069)]]
 - Requires [[07 Chapter 6 Equipment]]
 - See also: [[QUEST00107_Side_Quest_108]]
@@ -253,7 +298,7 @@ Modifications:
 - Originates from [[step_008 (phase_047)]]
 - Related: [[Quest - Shadow Medicine]]
 - Affected by [[giant-badger-xmm]]
-- Connects to [[Time's Mercy]]
+- Connects to [[[[Time]]'s Mercy]]
 - Parallels [[Armor of Vulnerability Bludgeoning Xdmg]]
 - Related: [[ENC00050_Environmental_Encounter_51]]
 - Influences [[QUEST00246_Personal_Quest_247]]
@@ -269,3 +314,14 @@ Modifications:
 - Related: [[Portrait NPC Captain Sarah Oathbound V1 Captain Sarah Oathbound.svg]]
 - Connects to [[step_097]]
 - Connects to [[step_066 (phase_082)]]
+
+## Visual References
+![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
+![[03_People/portrait_zephyr_goldwhisper_standard.png]]
+![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

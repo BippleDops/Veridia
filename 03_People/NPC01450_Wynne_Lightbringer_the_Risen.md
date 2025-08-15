@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.899969
+modified: 2025-08-15T16:41:46.899972
+aliases: [NPC01450 Wynne Lightbringer the Risen]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Brenna Ironwood the Swift (Political - Puppet)|Brenna Ironwood the Swift (Political - Puppet)]]
+- [[#Orion Ironforge the Cunning (Family - Sibling)|Orion Ironforge the Cunning (Family - Sibling)]]
+- [[#Lyanna Ironwood the Redeemed (Professional - Partner)|Lyanna Ironwood the Redeemed (Professional - Partner)]]
+
+
+---
 aliases: ["Wynne Lightbringer the Risen", "wynne lightbringer the risen", "Wynne Lightbringer Risen", "Risen the Lightbringer Wynne"]
 tags: [npc, character]
 type: npc
@@ -245,3 +266,14 @@ Needs help with personal quest
 - Leads to [[Amulet of the Planes Xdmg]]
 - Affected by [[ITEM00509_Ethereal_Plate_of_the_Guardian]]
 - See also: [[step_053 (phase_095)]]
+
+## Visual References
+![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

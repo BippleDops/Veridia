@@ -243,3 +243,8 @@ Ongoing situations affecting Ancient Crystal Technology:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01367_Lyanna_Xendar_the_Wise]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]

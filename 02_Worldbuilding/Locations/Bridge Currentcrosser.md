@@ -226,3 +226,8 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]

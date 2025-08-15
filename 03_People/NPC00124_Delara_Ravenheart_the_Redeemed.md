@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.990872
+modified: 2025-08-15T16:41:40.990876
+aliases: [NPC00124 Delara Ravenheart the Redeemed]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Pyria Thornweave (Family - Sibling)|Pyria Thornweave (Family - Sibling)]]
+- [[#Pyria Blackstone (Professional - Employer)|Pyria Blackstone (Professional - Employer)]]
+- [[#Caelum Youngblood (Professional - Employee)|Caelum Youngblood (Professional - Employee)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Delara Ravenheart the Redeemed", "delara ravenheart the redeemed", "Delara Ravenheart Redeemed", "Redeemed the Ravenheart Delaratags: [npc, character, combat, magic, social, lore]er]
 type: npc
@@ -110,7 +135,7 @@ Deception, Animal Handling
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- Political alliances
+- [[Political Alliances]]
 - Upcoming social events
 
 ## Plot Hook
@@ -141,13 +166,24 @@ Requires champions for trial by combat
 - Special moves
 
 ## Combat Stats
-Base: **Noble** (MM p.348)
+Base: **Noble** (BC p.348)
 Modifications:
 - HP: 18
 - AC: 16
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[11 Spellcasting]]
+- [[World_Primer.md]]
 - [[Related_Content]]
 
 
@@ -157,11 +193,11 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -174,16 +210,16 @@ Modifications:
 - See also: [[cambion-xmm (fiend)]]
 - Related: [[LOC0134_Hillstead]]
 - Compare with [[step_010 (phase_046)]]
-- Leads to [[Location City Royal Palace of Meridian Royal Palace of Meridian.svg]]
+- Leads to [[Location City [[Royal Palace]] of Meridian [[Royal Palace of Meridian]].svg]]
 - Affected by [[Quest - Storm Lord's Challenge]]
-- Influences [[Assets Portraits Portrait NPC Aria Lumengarde Aria Lumengarde.svg]]
+- Influences [[Assets Portraits Portrait NPC Aria [[Lumengarde]] Aria Lumengarde.svg]]
 - See also: [[ENC00393_Combat_Encounter_394]]
 - Parallels [[step_013]]
 - See also: [[Sister Morwyn]]
 - Influences [[step_066 (phase_029)]]
 - See also: [[step_095 (phase_059)]]
 - Affected by [[Portrait NPC Lord Magistrate Aldrich Thornwick V2 Lord Magistrate Aldrich Thornwick.svg]]
-- Affected by [[Ambassador Mark Exchangekeeper (D&D_References)]]
+- Affected by [[[[Ambassador Mark Exchangekeeper]] (D&D_References)]]
 - Connects to [[Alexandrite Xdmg]]
 - Requires [[step_001 (phase_060)]]
 - Originates from [[Drill Sergeant Discipline (D&D_References)]]
@@ -194,7 +230,7 @@ Modifications:
 - Influences [[NPC00762_Felicia_Nightfall_the_Seeker]]
 - Related: [[LORE00181_Legends_Entry_182]]
 - Leads to [[step_095]]
-- Compare with [[Aquabyssos Embassy]]
+- Compare with [[[[Aquabyssos]] Embassy]]
 - Related: [[Map Map Shadow Market Alley V2 Shadow Market Alley.svg]]
 - Requires [[step_057 (phase_009)]]
 - Influences [[Map Map Bioluminescent Forest Ambush V2 Bioluminescent Forest Ambush.png]]
@@ -210,20 +246,20 @@ Modifications:
 - Influences [[Moonblade Xdmg]]
 - Related: [[yuan-ti-dendar-vgm (deities)]]
 - Influences [[step_062 (phase_064)]]
-- Parallels [[Locations Crystal Shadow Storms]]
-- Originates from [[Banker Merchant]]
+- Parallels [[Locations [[Crystal Shadow Storms]]]]
+- Originates from [[Banker [[Merchant]]]]
 - Leads to [[step_045]]
 - Affected by [[NPC00871_Ysara_Ironwood_the_Scholar]]
 - Leads to [[Dimensional Travel Stress]]
 - See also: [[special-features-what-quirk-does-it-have (tables)]]
-- Originates from [[Location City Security Services Security Services.svg]]
+- Originates from [[Location City [[Security Services]] Security Services.svg]]
 - Compare with [[step_024 (phase_039)]]
 - Parallels [[step_041 (phase_099)]]
 - Parallels [[location-city-twilight-depths-twilight-depths.svg]]
 - Leads to [[Portrait NPC Otherworldly Patron Otherworldly Patron.svg_1 (Portraits)]]
 - Originates from [[QUEST00137_Personal_Quest_138]]
 - Leads to [[Jeeves]]
-- Requires [[Sage Rememberall (D&D_References)]]
+- Requires [[[[Sage Rememberall]] (D&D_References)]]
 - Affected by [[NPC00104_Dara_Darkwater]]
 - See also: [[2 Monsters a to Z]]
 - Requires [[Saving Throws Proficiency Bonus by Challenge]]
@@ -240,15 +276,15 @@ Modifications:
 - See also: [[step_065]]
 - Requires [[sword-of-kas-xdmg (items)]]
 - Compare with [[LOC00161_Dungeons_Location_162]]
-- Originates from [[Assets Locations Location City Vault Keeper Eternal Vault Keeper Eternal.svg]]
+- Originates from [[Assets Locations [[Location City [[Vault Keeper Eternal]] Vault Keeper Eternal.svg]]]]
 - Influences [[SPELL00040_Divine_Spell_41]]
 - Influences [[Location_Generator]]
 - Connects to [[Cross Realm Research Coalition]]
 - Affected by [[Gallery Guide Captain Marina Civicvoice (D&D_References)]]
-- Requires [[Assets Locations Location City Quest the Blackmail Papers Quest the Blackmail Papers.svg]]
+- Requires [[Assets Locations [[Location City Quest the Blackmail Papers Quest the Blackmail Papers.svg]]]]
 - Affected by [[step_076]]
 - Parallels [[NPC01629_Urien_Brightblade_the_Seeker]]
-- Influences [[Professor Reef Growthseeker (D&D_References)]]
+- Influences [[[[Professor Reef Growthseeker]] (D&D_References)]]
 - Parallels [[step_096]]
 - Parallels [[step_045 (phase_036)]]
 - Leads to [[Phantom Archivist Silent Catalogue]]
@@ -271,3 +307,8 @@ Modifications:
 - Compare with [[Elder Willow Moonwhisper (D&D_References)]]
 - Parallels [[04_Resources_Assets_Locations_location-city-merchant-prince-aldric-goldcurrent-merchant-prince-aldric-goldcurrent.svg]]
 - Originates from [[eberron-the-path-of-light (deities)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

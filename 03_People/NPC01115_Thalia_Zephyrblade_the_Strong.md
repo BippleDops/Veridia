@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Thalia Zephyrblade the Strong
 
 *Half-Elf Appraiser (Merchants), Age 40, Male*

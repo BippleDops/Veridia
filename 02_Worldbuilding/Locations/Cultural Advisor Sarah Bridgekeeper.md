@@ -258,3 +258,8 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]

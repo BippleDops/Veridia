@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.392468
+modified: 2025-08-15T16:41:41.392472
+aliases: [NPC00922 Wynne Youngblood the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Underhill the Seeker (Criminal - Accomplice)|Thalia Underhill the Seeker (Criminal - Accomplice)]]
+- [[#Delara Quicksilver the Guardian (Criminal - Handler)|Delara Quicksilver the Guardian (Criminal - Handler)]]
+- [[#Drusilla Underhill the Wise (Family - Cousin)|Drusilla Underhill the Wise (Family - Cousin)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Wynne Youngblood the Fallen", "wynne youngblood the fallen", "Wynne Youngblood Fallen", "Fallen the Youngblood Wynnetags: [npc, character, combat, social, exploration, lore]er]
 type: npc
@@ -6,7 +31,7 @@ type: npc
 
 # Wynne Youngblood the Fallen
 
-*Dwarf Caravan Master (Merchants), Age 28, Non-binary*
+*Dwarf Caravan Master ([[Merchant]]s), Age 28, Non-binary*
 
 **ID**: NPC00922
 
@@ -136,6 +161,58 @@ Has map to lost treasure
 - Special moves
 
 ## See Also
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC00046_Urien_Ironwood_the_Wise]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00615_Lyanna_Moonshadow_the_Lost]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC_Relationship_Web.png_1 (03_People)]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[Archdruid Thornweaver]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[Party_Inventory]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[Propaganda_Broadsheet_Syndicate.md]]
+- [[NPC00058_Elric_Nightfall]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[Wanted_Poster_Syndicate_Fenc]]
+- [[Dockworker_Union_Flyer.md]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[09 Appendix a the Multiverse]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[05 Personality and Background]]
+- [[Count_Strahd_von_Zarovich]]
+- [[MOC_NPCs]]
+- [[MOC_Rules]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[01 Introduction Welcome to Adventure]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[Combat_Encounter_Analysis]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[Master_Narrative_Web.md]]
 - [[Related_Content]]
 
 
@@ -145,11 +222,11 @@ Has map to lost treasure
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -164,14 +241,14 @@ Has map to lost treasure
 - Related: [[The Depth Compass]]
 - See also: [[step_009 (phase_097)]]
 - Requires [[ITEM00198_Thunder_Axe_of_Slaying]]
-- Compare with [[Barkeep Mira Algaebrew 2]]
+- Compare with [[[[Barkeep [[Mira Algaebrew]]]] 2]]
 - Parallels [[step_095 (phase_063)]]
 - Originates from [[step_053 (phase_056)]]
 - Affected by [[14-chapter-14-the-labyrinth (out-of-the-abyss)]]
 - Leads to [[step_070 (phase_098)]]
 - Related: [[Shadow-Child Advisory]]
 - Originates from [[MON00137_Aberrations_Creature_138]]
-- Related: [[Location City Secondary Education Secondary Education.svg]]
+- Related: [[Location City [[Secondary Education]] Secondary Education.svg]]
 - See also: [[The Great Tidal Amphitheater (D&D_References)]]
 - Connects to [[Hadal-Resistant Equipment]]
 - Leads to [[Azure Citadel]]
@@ -179,7 +256,7 @@ Has map to lost treasure
 - Leads to [[step_020 (phase_097)]]
 - See also: [[vehicles (vehicles)]]
 - Leads to [[Portrait NPC Captain Guard Peacehold V1 Captain Guard Peacehold.svg]]
-- Connects to [[Marcus Evenscale 2]]
+- Connects to [[[[Marcus Evenscale]] 2]]
 - Connects to [[ITEM01290_Concentrated_Oil_of_Clarity]]
 - Originates from [[NPC01775_Baelor_Emberfall_the_Mystic]]
 - Connects to [[Coral 2]]
@@ -191,12 +268,12 @@ Has map to lost treasure
 - Affected by [[02_Worldbuilding_Groups_The_Memory_Keepers]]
 - Related: [[darkling-elder-mpmm (fey)]]
 - Leads to [[The Inter-Guild Conference Center]]
-- See also: [[Count Viktor Pressureborn (D&D_References)]]
+- See also: [[[[Count Viktor Pressureborn]] (D&D_References)]]
 - Compare with [[Searing Smite Xphb]]
 - Parallels [[Vehicle Ship Harbor Guardian Gunboat Harbor Guardian Gunboat.svg]]
 - Affected by [[SHOP00049_General_Shop_50]]
 - Connects to [[ITEM01094_Distilled_Herb_of_Clarity]]
-- Influences [[The Whisper Island Mystery (D&D_References)]]
+- Influences [[The [[Whisper Island]] Mystery (D&D_References)]]
 - Requires [[QUEST00375_Side_Quest_376]]
 - Originates from [[black-dragon-mask-hotdq (items)]]
 - Parallels [[Greyhawk Fharlanghn Xdmg]]
@@ -204,7 +281,7 @@ Has map to lost treasure
 - Requires [[wings-of-flying-xdmg (items)]]
 - Leads to [[step_037 (phase_069)]]
 - Related: [[Crushing Depths]]
-- Connects to [[Topic_Matrix (Indexes)]]
+- Connects to [[Topic_Matrix ([[INDEX]]es)]]
 - Parallels [[Seven_Shards_Publishing_Package]]
 - Affected by [[ITEM00884_Celestial_Crown_of_Eternity]]
 - Connects to [[Session_Recaps]]
@@ -212,7 +289,7 @@ Has map to lost treasure
 - Originates from [[Adventuring Gear Container Capacity Phb]]
 - Affected by [[The Foreclosure Squad]]
 - Leads to [[Sister Thalassa the Depth-Touched]]
-- Related: [[Location City Harbormaster Tidal Stormcrest V1 Harbormaster Tidal Stormcrest.svg]]
+- Related: [[Location City [[Harbormaster [[Tidal Stormcrest]]]] V1 Harbormaster Tidal Stormcrest.svg]]
 - Originates from [[Weapons Trader Gareth Steelmerchant]]
 - Parallels [[step_064]]
 - Connects to [[Beta Leader Torres Coastalambush]]
@@ -237,19 +314,19 @@ Has map to lost treasure
 - Requires [[training-complications-xge (tables)]]
 - See also: [[step_003 (phase_079)]]
 - Leads to [[README]]
-- Compare with [[Assets Locations Location City Royal Treasury V1 Royal Treasury.svg]]
+- Compare with [[Assets Locations Location City [[Royal Treasury]] V1 Royal Treasury.svg]]
 - Parallels [[Banker Kess]]
-- Leads to [[Assets Locations Location City His Eternal Majesty Keeper of the Throne of Bubbles V1 His Eternal Majesty Keeper of the Throne of Bubbles.svg]]
+- Leads to [[Assets Locations [[Location City His Eternal Majesty Keeper of the Throne of Bubbles V1 His Eternal Majesty Keeper of the Throne of Bubbles.svg]]]]
 - Connects to [[step_054 (phase_037)]]
 - Related: [[step_041 (phase_013)]]
-- Influences [[Assets Locations Location City Palace Artificers Palace Artificers.svg]]
+- Influences [[Assets Locations Location City [[Palace [[Artificer]]s]] Palace Artificers.svg]]
 - See also: [[step_086 (phase_033)]]
 - Related: [[LORE00168_Legends_Entry_169]]
-- Leads to [[Location City Terminal Director Admiral Current Swiftflow V1 Terminal Director Admiral Current Swiftflow.svg]]
+- Leads to [[Location City [[Terminal Director Admiral Current Swiftflow]] V1 Terminal Director Admiral Current Swiftflow.svg]]
 - Affected by [[MON0014_Bone_Reaper]]
 - Originates from [[greek-aphrodite (deities)]]
 - Compare with [[ITEM0062_Glorious_Circlet_of_Power]]
-- Affected by [[Location City Merchant Quarter V1 Merchant Quarter.svg]]
+- Affected by [[Location City [[Merchant Quarter]] V1 Merchant Quarter.svg]]
 - Affected by [[Archshadow Morrigan Voidheart]]
 - Parallels [[NPC01026_Xander_Ironforge_the_Lost]]
 - Originates from [[step_053]]
@@ -259,3 +336,8 @@ Has map to lost treasure
 - Compare with [[random-traps-trap-damage-severity (tables)]]
 - Compare with [[Master_Golemancer]]
 - See also: [[NPC01407_Ysara_Blackstone_the_Mystic]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

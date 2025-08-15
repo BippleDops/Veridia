@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Urien Frostwhisper the Guardian
 
 *Aasimar Shopkeeper (Merchants), Age 59, Male*

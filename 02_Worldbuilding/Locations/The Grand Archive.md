@@ -167,3 +167,7 @@ Ongoing situations affecting The Grand Archive:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Sage Elara]]

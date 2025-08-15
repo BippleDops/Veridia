@@ -154,3 +154,8 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]

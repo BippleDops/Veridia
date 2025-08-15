@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:47.872145
+modified: 2025-08-15T16:41:47.872148
+aliases: [NPC00698 Dara Oakenshield the Swift]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Caelum Xendar the Bold (Professional - Rival)|Caelum Xendar the Bold (Professional - Rival)]]
+- [[#Faelyn Silverleaf the Bold (Family - Cousin)|Faelyn Silverleaf the Bold (Family - Cousin)]]
+- [[#Felicia Youngblood the Risen (Personal - Love interest)|Felicia Youngblood the Risen (Personal - Love interest)]]
+
+
+---
 aliases: ["Dara Oakenshield the Swift", "dara oakenshield the swift", "Dara Oakenshield Swift", "Swift the Oakenshield Dara"]
 tags: [npc, character]
 type: npc
@@ -134,3 +155,15 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_captain_dara_ironwill_friendly.png]]
+![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
+![[03_People/portrait_captain_dara_ironwill_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

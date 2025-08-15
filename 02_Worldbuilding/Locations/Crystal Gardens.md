@@ -681,3 +681,9 @@ Ongoing situations affecting Crystal Gardens:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
+- [[NPC00351_Corvus_Ironwood]]

@@ -229,3 +229,8 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]

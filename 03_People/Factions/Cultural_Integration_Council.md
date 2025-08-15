@@ -15,6 +15,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 ![Cultural Integration Council](../../04_Resources/Assets/Misc/cultural_integration_council.png)
 
 ## 🔧 Deep Evaluation Improvements

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Xander Goldleaf the Risen
 
 *Half-Elf Shopkeeper (Merchants), Age 33, Male*

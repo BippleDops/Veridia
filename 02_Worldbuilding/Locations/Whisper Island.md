@@ -422,3 +422,11 @@ Ongoing situations affecting Whisper Island:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC00922_Wynne_Youngblood_the_Fallen]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]

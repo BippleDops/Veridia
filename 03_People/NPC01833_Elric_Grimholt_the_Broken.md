@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.225861
+modified: 2025-08-15T16:41:46.225865
+aliases: [NPC01833 Elric Grimholt the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Brenna Proudmore the Strong (Criminal - Accomplice)|Brenna Proudmore the Strong (Criminal - Accomplice)]]
+- [[#Corvus Xendar the Risen (Criminal - Fence)|Corvus Xendar the Risen (Criminal - Fence)]]
+- [[#Gareth Ravenheart the Mystic (Professional - Mentor)|Gareth Ravenheart the Mystic (Professional - Mentor)]]
+
+
+---
 aliases: ["Elric Grimholt the Broken", "elric grimholt the broken", "Elric Grimholt Broken", "Broken the Grimholt Elric"]
 tags: [npc, character]
 type: npc
@@ -249,3 +274,8 @@ Provides information for a price
 - Influences [[gaming-hall (bastions)]]
 - Requires [[step_080 (phase_056)]]
 - Influences [[QUEST00011_Main_Quest_12]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

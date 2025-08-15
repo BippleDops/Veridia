@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 06_sessions]
+created: 2025-08-15T16:41:32.771521
+modified: 2025-08-15T16:41:32.771524
+aliases: [05 Personality and Background]
+---
+
+## Table of Contents
+- [[#Description|Description]]
+- [[#Notes|Notes]]
+- [[#Prep Checklist|Prep Checklist]]
+- [[#Npcs Needed|Npcs Needed]]
+- [[#Locations|Locations]]
+- [[#Encounters|Encounters]]
+- [[#Props|Props]]
+- [[#Rules|Rules]]
+- [[#Campaign Connection|Campaign Connection]]
+- [[#See Also|See Also]]
+
+
+---
 
 title: 05 Personality and Background
 type: note
@@ -25,7 +46,8 @@ tags:
 
 created: 2025-08-11
 modified: '2025-08-14'
-status: active
+statu
+*Sounds of [relevant sounds] echo in the distance.*s: active
 updated: '2025-08-13T12:34:05.213015+00:00'
 world: Both
 
@@ -68,6 +90,14 @@ world: Both
 Connected to the main villain's plan
 
 ## See Also
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[Count_Strahd_von_Zarovich]]
+- [[MOC_Rules]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
 - [[Related_Content]]
 
 
@@ -80,17 +110,17 @@ Connected to the main villain's plan
 - [[ULTIMATE_ASSET_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

@@ -239,3 +239,7 @@ Ongoing situations affecting Siren Maeve Echoborn:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]

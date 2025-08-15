@@ -225,3 +225,7 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00300_Urien_Zephyrblade]]

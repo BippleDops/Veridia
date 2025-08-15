@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Bridge Currentcr
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]

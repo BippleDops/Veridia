@@ -254,3 +254,8 @@ Ongoing situations affecting Truth and Madness:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC01781_Urien_Keenblade_the_Cunning]]

@@ -220,3 +220,9 @@ Ongoing situations affecting High Chancellor Nerissa Deepcurrent:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:38.125972
+modified: 2025-08-15T16:41:38.125979
+aliases: [What You Know - Abyssos Prime.md]
+---
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Evolution Improvements|Evolution Improvements]]
+- [[#Oral_Tradition Improvements|Oral_Tradition Improvements]]
+- [[#Contradictions Improvements|Contradictions Improvements]]
+- [[#Material_Culture Improvements|Material_Culture Improvements]]
+
+
+---
 
 title: 07_Player_Resources/Handouts/What You Know - Abyssos Prime.md
 type: lore
@@ -97,6 +118,37 @@ tags: [combat, lore]
 > Additional context or lore
 
 ## See Also
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[Archdruid Thornweaver]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[Quiet_Chapel_Oath_Scrol]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[Sanity_Quick_Reference.md]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[13 Conditions]]
+- [[09 Adventuring]]
+- [[07 Customization Options]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[MASTER_MOC]]
+- [[Item_Catalog_Complete.md]]
+- [[Ritual_Timing_Wheel_Convergenc]]
 - [[Related_Content]]
 
 
@@ -106,15 +158,15 @@ tags: [combat, lore]
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
 
 ## Connections
 

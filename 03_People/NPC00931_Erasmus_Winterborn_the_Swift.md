@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Erasmus Winterborn the Swift
 
 *Firbolg Caravan Master (Merchants), Age 75, Female*

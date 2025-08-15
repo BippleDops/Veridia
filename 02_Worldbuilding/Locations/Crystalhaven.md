@@ -404,3 +404,8 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Session 3 the Skyship Heist_1 (06_Sessions)]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.229405
+modified: 2025-08-15T16:41:41.229408
+aliases: [NPC01858 Drusilla Stormwind the Cunning]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Malakai Grimholt the Scholar (Personal - Childhood friend)|Malakai Grimholt the Scholar (Personal - Childhood friend)]]
+- [[#Jorah Ravenheart the Redeemed (Criminal - Fence)|Jorah Ravenheart the Redeemed (Criminal - Fence)]]
+- [[#Aeliana Lightbringer the Lost (Professional - Rival)|Aeliana Lightbringer the Lost (Professional - Rival)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Drusilla Stormwind the Cunning", "drusilla stormwind the cunning", "Drusilla Stormwind Cunning", "Cunning the Stormwind Drusillatags: [npc, character, combat, magic, social, puzzle, lore]er]
 type: npc
@@ -152,31 +173,44 @@ Offers deal too good to refuse
 - Special moves
 
 ## Combat Stats
-Base: **Guard** (MM p.347)
+Base: **Guard** (BC p.347)
 Modifications:
 - HP: 14
 - AC: 15
 - Notable abilities: Varies by individual
 
 ## See Also
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[Session_Recaps]]
+- [[MOC_Rules]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Mordenkainen's Tome of Foes (MTF) p.93
+- Mordenkainen's Forbidden Knowledge of Foes (MFK) p.93
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -184,10 +218,10 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -212,14 +246,14 @@ Following magic item guidelines (DMG p.135-136):
 - Affected by [[ITEM01482_Ornate_Rope_of_Quality]]
 - Connects to [[XP_Thresholds (02_Worldbuilding)]]
 - Affected by [[List Spells Optional Features Mask of Many]]
-- Influences [[Memory Merchant Headquarters]]
+- Influences [[Memory [[Merchant]] Headquarters]]
 - Leads to [[Icon of Ravenloft Cos]]
 - Parallels [[salamander-fire-snake-xmm (elemental)]]
 - Related: [[step_072 (phase_072)]]
 - Leads to [[step_087 (phase_010)]]
 - Parallels [[step_077 (phase_081)]]
 - See also: [[List Spells Classes Draconic Sorcery Xphb]]
-- Compare with [[Memory Thief (D&D_Statblocks)]]
+- Compare with [[[[Memory Thief]] (D&D_Statblocks)]]
 - Parallels [[DUN00006_Dungeon_7]]
 - Affected by [[QUEST00292_Side_Quest_293]]
 - See also: [[step_063 (phase_080)]]
@@ -228,19 +262,19 @@ Following magic item guidelines (DMG p.135-136):
 - Affected by [[LORE00310_Legends_Entry_311]]
 - Affected by [[Item Template]]
 - Compare with [[Quest - The Family Reunio_1 (01_Adventures)]]
-- See also: [[Location City the Deep Temple V1 the Deep Temple.svg]]
+- See also: [[Location City [[The Deep Temple]] V1 the Deep Temple.svg]]
 - See also: [[Norse Freya]]
 - See also: [[step_045 (phase_004)]]
 - Compare with [[The Cipher Current]]
 - Influences [[List Spells Classes Oath of the Ancients Xphb]]
 - Parallels [[Pressure Angels (D&D_References)]]
 - Connects to [[SPELL00050_Divine_Spell_51]]
-- Influences [[Location City Pressure Wraiths Pressure Wraiths.svg]]
-- Requires [[Assets Locations Location City Magnus Ledgerkeep V1 Magnus Ledgerkeep.svg]]
+- Influences [[Location City [[Pressure Wraiths]] Pressure Wraiths.svg]]
+- Requires [[Assets Locations Location City [[Magnus Ledgerkeep]] V1 Magnus Ledgerkeep.svg]]
 - Parallels [[step_086]]
 - Leads to [[step_092 (phase_010)]]
-- Related: [[Location City Registry Keeper Mordecai Truthbane V1 Registry Keeper Mordecai Truthbane.svg]]
-- See also: [[Assets Locations Location City the Constellation Mystery V1 the Constellation Mystery.png]]
+- Related: [[Location City [[Registry Keeper Mordecai Truthbane]] V1 Registry Keeper Mordecai Truthbane.svg]]
+- See also: [[Assets Locations [[Location City [[The Constellation Mystery]] V1 the Constellation Mystery.png]]]]
 - Requires [[Portrait NPC Surface Supremacists Surface Supremacists.svg]]
 - Related: [[step_028]]
 - Influences [[Great Reconciliatio 2]]
@@ -269,7 +303,7 @@ Following magic item guidelines (DMG p.135-136):
 - Parallels [[step_041]]
 - Parallels [[Abyssal Contracts 2]]
 - Connects to [[step_054 (phase_036)]]
-- Parallels [[Location City Professional Associations Professional Associations.svg]]
+- Parallels [[Location City [[Professional Associations]] Professional Associations.svg]]
 - See also: [[portrait-npc-the-pearl-heist-the-pearl-heist.svg]]
 - Related: [[Elven Erevan Ilesere Mtf]]
 - See also: [[Portrait NPC High Priestess Nerida Soulcurrent V1 High Priestess Nerida Soulcurrent.svg]]
@@ -280,10 +314,10 @@ Following magic item guidelines (DMG p.135-136):
 - Affected by [[step_026 (phase_027)]]
 - Originates from [[LORE00156_Legends_Entry_157]]
 - Requires [[location-city-market-heist-v1-market-heist.svg]]
-- Connects to [[Location City Keeper Luminous Crystalbeam V1 Keeper Luminous Crystalbeam.svg]]
+- Connects to [[Location City [[Keeper Luminous Crystalbeam]] V1 Keeper Luminous Crystalbeam.svg]]
 - Influences [[Quest - The Crystal Festival_1 (01_Adventures)]]
 - See also: [[NPC0046_Gareth_Ironforge_the_Cunning]]
-- Compare with [[The Crystal Palace - Throne Room]]
+- Compare with [[The [[Crystal Palace]] - Throne Room]]
 - Affected by [[step_095 (phase_064)]]
 - Parallels [[step_029]]
 - Originates from [[step_032 (phase_004)]]
@@ -297,3 +331,29 @@ Following magic item guidelines (DMG p.135-136):
 - Parallels [[ENC00279_Social_Encounter_280]]
 - Related: [[Location City Temple Scholar Depth Seer Temple Scholar Depth Seer.svg]]
 - See also: [[LORE00198_Prophecies_Entry_199]]
+
+## Visual References
+![[03_People/portrait_merchant_captain_tobias_stormwind_dramatic.png]]
+![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
+
+
+## Realm Connections
+
+### Connection to [[Aethermoor]]
+This connects to the sky realm of Sky realm of eternal winds and floating islands.
+
+- **Ruling Power**: The Windlord Council
+- **Capital**: [[Skylance Citadel]]
+- **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
+- **Current Conflict**: The Void Incursion, Elemental Convergence
+- **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
+
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+navigate floating islands connected by bridges of solidified cloud.
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

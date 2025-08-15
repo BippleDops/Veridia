@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.089802
+modified: 2025-08-15T16:41:43.089805
+aliases: [MASTER INDEX]
+---
+
+## Table of Contents
+- [[#Complete Asset Library|Complete Asset Library]]
+- [[#Total Assets: 900|Total Assets: 900]]
+- [[#By Category|By Category]]
+- [[#📋 NPCs (200)|📋 NPCs (200)]]
+- [[#⚔️ Magic Items (150)|⚔️ Magic Items (150)]]
+- [[#🏛️ Locations (150)|🏛️ Locations (150)]]
+- [[#📜 Quests (100)|📜 Quests (100)]]
+- [[#⚔️ Encounters (100)|⚔️ Encounters (100)]]
+- [[#📚 Lore (100)|📚 Lore (100)]]
+- [[#✨ Custom Spells (50)|✨ Custom Spells (50)]]
+
+
+---
 created: 2025-08-15
 tags: [npc, character]
 type: npc
@@ -85,35 +106,35 @@ All content has been generated with:
 
 
 ## Spell Design Notes
-Balanced against official spells (PHB p.207-289):
+Balanced against official spells (ACX p.207-289):
 - **Spell Level**: Damage/effect comparable to same-level spells
 - **Components**: V, S, M following standard conventions
 - **Duration**: Instant, Concentration, or time-based
-- **Range**: Consistent with spell level (DMG p.283-284)
+- **Range**: Consistent with spell level (WWT p.283-284)
 
 ### Similar Official Spells
 - Damage output similar to [[Fireball]] (3d6 per spell level)
-- Duration mechanics like [[Hex]] (concentration, PHB p.251)
-- Area effect comparable to [[Web]] (20-foot cube, PHB p.287)
+- Duration mechanics like [[Hex]] (concentration, ACX p.251)
+- Area effect comparable to [[Web]] (20-foot cube, ACX p.287)
 
 ## Source References
-- Volo's Guide to Monsters (VGM) p.23
+- Volo's Creature Catalog to Monsters (VCC) p.23
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Volo's Guide to Monsters (VGM) p.183
+- Volo's Creature Catalog to Monsters (VCC) p.183
 
 ## Related Content
 - [[11 Rules Glossary]]
@@ -121,7 +142,7 @@ Following magic item guidelines (DMG p.135-136):
 - [[10 Combat]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## Connections
@@ -226,3 +247,8 @@ Following magic item guidelines (DMG p.135-136):
 - Originates from [[Current Innovator (D&D_References)]]
 - Leads to [[step_082 (phase_088)]]
 - Related: [[enspelled-staff-level-5-xdmg (items)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_quartermaster_sterling_suppystone_quartermaster_sterling_suppystone_svg_friendly.png]]
+![[03_People/token_00_indexes_master_index_medium_normal.png]]
+![[03_People/portrait_assets_locations_location_city_deep_current_flowmaster_deep_current_flowmaster_svg_standard.png]]

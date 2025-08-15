@@ -247,3 +247,10 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC00287_Ysara_Underhill_the_Wise]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]

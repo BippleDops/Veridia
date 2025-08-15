@@ -1,4 +1,21 @@
 ---
+enhanced: true
+tags: [enhanced, 09_performance]
+created: 2025-08-15T16:41:26.102118
+modified: 2025-08-15T16:41:26.102123
+aliases: [THEME MUSIC MAPPING]
+---
+
+## Table of Contents
+- [[#Overview|Overview]]
+- [[#Session Prep|Session Prep]]
+- [[#Related Content|Related Content]]
+- [[#Game Mechanics|Game Mechanics]]
+- [[#D&D 5e References|D&D 5e References]]
+- [[#Connections|Connections]]
+
+
+---
 enhanced: trtags: [enhanced, 13_performance, combat, magic, exploration, lore]ce]
 created: 2025-08-15T12:24:41.114974
 modified: 2025-08-15T12:24:41.114975
@@ -34,6 +51,7 @@ type: note
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 - **Style**: underwater ambient
 - **Instruments**: synthesizer, glass harmonica, whale sounds, har
+*The [texture] surface feels [description] to the touch.*
 *The [texture] surface feels [description] to the touch.*p
 - **Mood**: mysterious, deep, flowing
 - **Tempo**: slow to medium
@@ -178,23 +196,23 @@ type: note
 - [[ULTIMATE_ASSET_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

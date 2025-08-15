@@ -228,3 +228,8 @@ Ongoing situations affecting Arts Communities:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.158511
+modified: 2025-08-15T16:41:48.158513
+aliases: [NPC01608 Drusilla Voidwalker the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Nerys Frostwhisper the Risen (Personal - Love interest)|Nerys Frostwhisper the Risen (Personal - Love interest)]]
+- [[#Gareth Proudmore the Seeker (Family - Parent)|Gareth Proudmore the Seeker (Family - Parent)]]
+- [[#Felicia Ironforge the Cunning (Family - Cousin)|Felicia Ironforge the Cunning (Family - Cousin)]]
+
+
+---
 aliases: ["Drusilla Voidwalker the Lost", "drusilla voidwalker the lost", "Drusilla Voidwalker Lost", "Lost the Voidwalker Drusilla"]
 tags: [npc, character]
 type: npc
@@ -142,3 +163,15 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
+![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
+![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

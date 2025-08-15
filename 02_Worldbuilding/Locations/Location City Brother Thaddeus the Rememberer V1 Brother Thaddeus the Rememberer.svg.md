@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Brother Thaddeus
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00083_Vesper_Xendar_the_Lost]]

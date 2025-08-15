@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.391289
+modified: 2025-08-15T16:41:43.391292
+aliases: [NPC01969 Cedric Ironforge the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Delara Zephyrblade the Seeker (Professional - Mentor)|Delara Zephyrblade the Seeker (Professional - Mentor)]]
+- [[#Wynne Grimholt the Redeemed (Criminal - Accomplice)|Wynne Grimholt the Redeemed (Criminal - Accomplice)]]
+- [[#Pyria Nightfall the Swift (Professional - Employee)|Pyria Nightfall the Swift (Professional - Employee)]]
+
+
+---
 aliases: ["Cedric Ironforge the Lost", "cedric ironforge the lost", "Cedric Ironforge Lost", "Lost the Ironforge Cedric"]
 tags: [npc, character]
 type: npc
@@ -241,3 +262,14 @@ Is secretly testing the party
 - Leads to [[Location City Treasury Department V1 Treasury Department.svg]]
 - Connects to [[fear-xphb (spells)]]
 - Leads to [[QUEST00172_Main_Quest_173]]
+
+## Visual References
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
+![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

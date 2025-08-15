@@ -249,3 +249,8 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00393_Kaelen_Grimholt]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]

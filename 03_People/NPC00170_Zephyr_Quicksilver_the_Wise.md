@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.112615
+modified: 2025-08-15T16:41:43.112620
+aliases: [NPC00170 Zephyr Quicksilver the Wise]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Cedric Lightbringer (Family - Spouse)|Cedric Lightbringer (Family - Spouse)]]
+- [[#Idris Frostwhisper (Political - Patron)|Idris Frostwhisper (Political - Patron)]]
+- [[#Urien Dawnstrider (Family - Parent)|Urien Dawnstrider (Family - Parent)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Zephyr Quicksilver the Wise", "zephyr quicksilver the wise", "Zephyr Quicksilver Wise", "Wise the Quicksilver Zephyr"]
 tags: [npc, character]
@@ -149,11 +170,11 @@ Requires champions for trial by combat
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -263,3 +284,14 @@ Requires champions for trial by combat
 - Connects to [[Random Buildings Residence]]
 - Originates from [[step_006 (phase_080)]]
 - Affected by [[Intelligence Processing Center]]
+
+## Visual References
+![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
+![[03_People/portrait_zephyr_goldwhisper_standard.png]]
+![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

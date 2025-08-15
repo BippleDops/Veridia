@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.577740
+modified: 2025-08-15T16:41:41.577744
+aliases: [NPC00812 Kaelen Jadeclaw the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Vesper Zephyrblade the Wise (Criminal - Target)|Vesper Zephyrblade the Wise (Criminal - Target)]]
+- [[#Gavril Dawnstrider the Redeemed (Personal - Best friend)|Gavril Dawnstrider the Redeemed (Personal - Best friend)]]
+- [[#Hestara Oakenshield the Mystic (Family - Cousin)|Hestara Oakenshield the Mystic (Family - Cousin)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Kaelen Jadeclaw the Seeker", "kaelen jadeclaw the seeker", "Kaelen Jadeclaw Seeker", "Seeker the Jadeclaw Kaelen"]
 tags: [npc, character]
@@ -7,7 +28,7 @@ type: npc
 
 # Kaelen Jadeclaw the Seeker
 
-*Half-Elf Caravan Master (Merchants), Age 53, Non-binary*
+*Half-Elf Caravan Master ([[Merchant]]s), Age 53, Non-binary*
 
 **ID**: NPC00812
 
@@ -139,6 +160,31 @@ Competitor sabotaging business
 - Special moves
 
 ## See Also
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01594_Fiora_Proudmore_the_Seeker]]
+- [[NPC00407_Hestara_Dawnstrider]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[Basic_Rules]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10 Combat]]
+- [[11 Rules Glossary]]
+- [[Count_Strahd_von_Zarovich]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[11 Spellcasting]]
 - [[Related_Content]]
 
 
@@ -148,11 +194,11 @@ Competitor sabotaging business
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Ability Checks**: See PHB p.174
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Ability Checks**: See ACX p.174
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -175,14 +221,14 @@ Competitor sabotaging business
 - Connects to [[Pressure Networks]]
 - Influences [[MON00116_Undead_Creature_117]]
 - Requires [[Quest - The Corruption Files]]
-- Parallels [[Assets Locations Location City Underwater Religious Practices Underwater Religious Practices.svg]]
+- Parallels [[Assets Locations [[Location City [[Underwater Religious Practices]] Underwater Religious Practices.svg]]]]
 - See also: [[QUEST00130_Personal_Quest_131]]
 - Influences [[step_063 (phase_028)]]
 - Related: [[Assets Item Artifact Whelm Xdmg V6 Whelm Xdmg.png]]
 - Requires [[Umbral Crystal Miners]]
 - See also: [[step_073 (phase_086)]]
 - Leads to [[staff-of-birdcalls-xdmg (items)]]
-- Requires [[Palace Courtyard - Crystal Garden (D&D_References)]]
+- Requires [[[[Palace Courtyard - Crystal Garden]] (D&D_References)]]
 - Leads to [[step_012 (phase_100)]]
 - Influences [[ITEM00962_Concentrated_Oil_of_Healing]]
 - Related: [[Captain Azure Windcaller]]
@@ -195,8 +241,8 @@ Competitor sabotaging business
 - Parallels [[dynamite-stick-xdmg (items)]]
 - Originates from [[step_028]]
 - Compare with [[Death Saving Throw Xphb]]
-- Parallels [[Assets Locations Location City Pressure Weighted Representation V1 Pressure Weighted Representation.svg]]
-- Related: [[Aethermoor Wind Rider Traditions (D&D_References)]]
+- Parallels [[Assets Locations [[Location City Pressure Weighted Representation V1 Pressure Weighted Representation.svg]]]]
+- Related: [[[[Aethermoor]] Wind Rider Traditions (D&D_References)]]
 - Originates from [[Tiefling Baalzebul Mtf]]
 - Influences [[Memory Pearls]]
 - Originates from [[Pearl Merchant Tidal Goldflow (D&D_References)]]
@@ -205,14 +251,14 @@ Competitor sabotaging business
 - See also: [[guard-drake-blue-mpmm (dragon)]]
 - Originates from [[step_060 (phase_087)]]
 - Originates from [[step_074 (phase_035)]]
-- Affected by [[Location City Gallery of Frozen Waves Gallery of Frozen Waves.svg]]
+- Affected by [[Location City [[Gallery of Frozen Waves]] Gallery of Frozen Waves.svg]]
 - Related: [[ENC00158_Combat_Encounter_159]]
 - Affected by [[Shard Powers and Effects]]
-- Connects to [[Assets Locations Location City Gateway Keeper Riftwalk V1 Gateway Keeper Riftwalk.svg]]
+- Connects to [[Assets Locations Location City [[Gateway Keeper Riftwalk]] V1 Gateway Keeper Riftwalk.svg]]
 - Requires [[Portrait NPC Crown Dome Conspiracy V2 Crown Dome Conspiracy.svg_1 (Portraits)]]
 - Originates from [[Portrait NPC Vespara Nightwhisper Thorne V2 Vespara Nightwhisper Thorne.svg]]
 - Requires [[step_031 (phase_098)]]
-- See also: [[Embassy Quarter 2]]
+- See also: [[[[Embassy Quarter]] 2]]
 - Parallels [[step_099 (phase_087)]]
 - Requires [[ENC00125_Social_Encounter_126]]
 - Influences [[Sahuagin]]
@@ -239,7 +285,7 @@ Competitor sabotaging business
 - Leads to [[Bexley]]
 - Related: [[LORE00033_Prophecies_Entry_34]]
 - Related: [[summon-fey-xphb (spells)]]
-- Related: [[Assets Locations Location City the Slave Markets of Tethys the Slave Markets of Tethys.svg]]
+- Related: [[Assets Locations Location City [[The Slave Markets of Tethys]] the Slave Markets of Tethys.svg]]
 - Originates from [[step_003 (phase_085)]]
 - See also: [[Silverscale Consortium 2]]
 - Related: [[step_099 (phase_038)]]
@@ -249,7 +295,7 @@ Competitor sabotaging business
 - Compare with [[step_088 (phase_004)]]
 - Originates from [[NPC0064_Yorick_Ironforge]]
 - Related: [[EVENT00082_Political_Event_83]]
-- Parallels [[Assets Locations Location City Regional Courts V1 Regional Courts.svg]]
+- Parallels [[Assets Locations [[Location City [[Regional Courts]] V1 Regional Courts.svg]]]]
 - Requires [[Leomunds Tiny Hut Xphb]]
 - Affected by [[step_065]]
 - Affected by [[Phase Shift Devices (Items)]]
@@ -262,3 +308,14 @@ Competitor sabotaging business
 - Influences [[step_057]]
 - See also: [[LORE00069_History_Entry_70]]
 - Originates from [[Portrait NPC Intelligence Services V2 Intelligence Services.svg]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

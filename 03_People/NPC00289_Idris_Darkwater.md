@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.681014
+modified: 2025-08-15T16:41:45.681017
+aliases: [NPC00289 Idris Darkwater]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Nerys Quicksilver (Personal - Love interest)|Nerys Quicksilver (Personal - Love interest)]]
+- [[#Delara Dawnstrider the Strong (Personal - Childhood friend)|Delara Dawnstrider the Strong (Personal - Childhood friend)]]
+- [[#Baelor Youngblood (Personal - Best friend)|Baelor Youngblood (Personal - Best friend)]]
+
+
+---
 aliases: ["Idris Darkwater", "idris darkwater", "Darkwater Idris"]
 tags: [npc, character]
 type: npc
@@ -238,3 +259,14 @@ Requires champions for trial by combat
 - Leads to [[Merchant Lord Cornelius Generous]]
 - Leads to [[List Spells Classes Grave Domain Xge]]
 - Originates from [[ITEM01467_Sturdy_Tool_Kit_of_Durability]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

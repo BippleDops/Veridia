@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Ewan Keenblade the Broken
 
 *Human Fighter (Adventurers), Age 41, Non-binary*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Thornweave the Seeker
 
 *Half-Elf Noble (Nobles), Age 24, Female*

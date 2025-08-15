@@ -5563,3 +5563,7 @@ Contextual improvement based on 12_Research
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01761_Idris_Moonshadow_the_Broken]]

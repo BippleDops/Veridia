@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Elric Ironforge the Fallen
 
 *Half-Elf Blacksmith (Commoners), Age 66, Male*

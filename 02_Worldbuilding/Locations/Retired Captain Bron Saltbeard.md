@@ -244,3 +244,8 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC00395_Aeliana_Thornweave]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Faelyn Voidwalker the Risen
 
 *Tiefling Rogue (Adventurers), Age 60, Non-binary*

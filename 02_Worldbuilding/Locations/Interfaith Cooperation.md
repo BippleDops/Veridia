@@ -249,3 +249,9 @@ Ongoing situations affecting Interfaith Cooperation:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]

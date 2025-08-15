@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.271339
+modified: 2025-08-15T16:41:43.271343
+aliases: [NPC01581 Faelyn Hawthorne the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Ashford the Cunning (Professional - Rival)|Alaric Ashford the Cunning (Professional - Rival)]]
+- [[#Thalia Goldleaf the Risen (Family - Sibling)|Thalia Goldleaf the Risen (Family - Sibling)]]
+- [[#Erasmus Youngblood the Cunning (Personal - Love interest)|Erasmus Youngblood the Cunning (Personal - Love interest)]]
+
+
+---
 aliases: ["Faelyn Hawthorne the Risen", "faelyn hawthorne the risen", "Faelyn Hawthorne Risen", "Risen the Hawthorne Faelyn"]
 tags: [npc, character]
 type: npc
@@ -241,3 +266,8 @@ Knows secret about major threat
 - Originates from [[The Grand Crystal Exchange]]
 - Affected by [[potion-of-healing-xdmg (items)]]
 - Affected by [[step_043 (phase_039)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,5 +1,6 @@
 ---
-title: 13_Performance/Indexes/Item_Catalog_Complete.md
+enhanced: true
+title: 13_Performance/Indexes/[[[[[[Item_Catalog_Complete.md|Item_Catalog_Complete]].md|Item_Catalog_Complete]].md|Item_Catalog_Complete]].md
 type: lore
 tags:
 - lore
@@ -72,26 +73,28 @@ FROM "02_Worldbuilding"
 WHERE contains(file.name, "Location") OR contains(tags, "location")
 ```
 ## See Also
+- [[Seven_Shards_Tracker.md]]
+- [[MOC_Items]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Player's Handbook (PHB) p.126
-- Xanathar's Guide to Everything (XGE) p.81
-- Volo's Guide to Monsters (VGM) p.175
+- Adventurer's Codex (ACX) p.126
+- Xanathar's Secrets Revealed to Everything (XSR) p.81
+- Volo's Creature Catalog to Monsters (VCC) p.175
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -99,14 +102,19 @@ Following magic item guidelines (DMG p.135-136):
 - [[fifty_improvements_20250815_155453]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+
+## Visual References
+![[04_Resources/Assets/Placeholder Images/DefaultItem.png]]
+![[04_Resources/Assets/Placeholder Images/WeaponsArmorItemsTitleBar.png]]
+![[04_Resources/Assets/Items/item-artifact-warhammer-xphb-v3-warhammer-xphb.png]]

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Alaric Voidwalker the Broken
 
 *Human Shopkeeper (Merchants), Age 69, Female*

@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Elric Winterborn the Broken
 
 *Gnome Blacksmith (Commoners), Age 43, Non-binary*

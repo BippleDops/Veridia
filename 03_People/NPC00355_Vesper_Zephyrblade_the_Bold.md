@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Zephyrblade the Bold
 
 *Human Heir (Nobles), Age 44, Non-binary*

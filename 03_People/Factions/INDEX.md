@@ -1,3 +1,7 @@
+
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_00_indexes_master_index_standard.png]]
 # Factions Index
 
 *Total: 453 entries*

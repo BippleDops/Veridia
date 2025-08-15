@@ -251,3 +251,8 @@ Key stop on spices trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00453_Idris_Grimholt]]
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]

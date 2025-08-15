@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Felicia Hawthorne the Wanderer
 
 *Goliath Appraiser (Merchants), Age 65, Non-binary*

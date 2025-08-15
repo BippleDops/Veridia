@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Banker Cornelius
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00095_Fiora_Nightfall]]

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.370393
+modified: 2025-08-15T16:41:46.370397
+aliases: [NPC00278 Urien Hawthorne the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Solas Darkwater (Family - Spouse)|Solas Darkwater (Family - Spouse)]]
+- [[#Gareth Underhill the Scholar (Family - Sibling)|Gareth Underhill the Scholar (Family - Sibling)]]
+- [[#Vesper Emberfall (Personal - Love interest)|Vesper Emberfall (Personal - Love interest)]]
+
+
+---
 aliases: ["Urien Hawthorne the Risen", "urien hawthorne the risen", "Urien Hawthorne Risen", "Risen the Hawthorne Urien"]
 tags: [npc, character]
 type: npc
@@ -238,3 +263,8 @@ Wants rivals investigated
 - Influences [[step_080 (phase_032)]]
 - Parallels [[step_057 (phase_021)]]
 - Related: [[step_092 (phase_057)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

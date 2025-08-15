@@ -241,3 +241,9 @@ Ongoing situations affecting Artist Wave Creator:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]

@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Silence Keeper M
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]

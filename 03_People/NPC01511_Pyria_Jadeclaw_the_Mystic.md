@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Pyria Jadeclaw the Mystic
 
 *Dwarf Wizard (Adventurers), Age 54, Male*

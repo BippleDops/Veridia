@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.293603
+modified: 2025-08-15T16:41:44.293608
+aliases: [NPC00553 Elric Winterborn the Fallen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gavril Dawnstrider the Mystic (Political - Puppet)|Gavril Dawnstrider the Mystic (Political - Puppet)]]
+- [[#Kaelen Jadeclaw the Redeemed (Family - Child)|Kaelen Jadeclaw the Redeemed (Family - Child)]]
+- [[#Ewan Grimholt the Seeker (Personal - Nemesis)|Ewan Grimholt the Seeker (Personal - Nemesis)]]
+
+
+---
 aliases: ["Elric Winterborn the Fallen", "elric winterborn the fallen", "Elric Winterborn Fallen", "Fallen the Winterborn Elric"]
 tags: [npc, character]
 type: npc
@@ -238,3 +263,8 @@ Family member has gone missing
 - Parallels [[Temporal_Mechanics_System]]
 - Connects to [[step_053 (phase_091)]]
 - Connects to [[#Cross-Campaign Connection Matrix]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

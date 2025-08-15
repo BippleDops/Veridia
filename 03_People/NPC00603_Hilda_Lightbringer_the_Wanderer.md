@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Hilda Lightbringer the Wanderer
 
 *Firbolg Blacksmith (Commoners), Age 74, Male*

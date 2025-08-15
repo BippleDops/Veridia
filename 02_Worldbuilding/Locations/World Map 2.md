@@ -17,6 +17,10 @@ updated: '2025-08-13T12:34:16.816734+00:00'
 world: Both
 ---
 
+## Map
+![[04_Resources/Assets/Maps/location_world_map_rain.png]]
+
+
 
 
 

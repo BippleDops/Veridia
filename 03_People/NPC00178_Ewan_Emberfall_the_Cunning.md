@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Ewan Emberfall the Cunning
 
 *Gnome Ambassador (Nobles), Age 38, Female*

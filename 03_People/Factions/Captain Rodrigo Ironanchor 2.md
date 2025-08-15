@@ -28,6 +28,10 @@ wealth: Substantial (mercenary contracts and salvage)
 world: Aethermoor
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 
 
 > [!figure] Heraldry

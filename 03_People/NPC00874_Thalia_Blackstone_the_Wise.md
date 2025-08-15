@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Thalia Blackstone the Wise
 
 *Firbolg Appraiser (Merchants), Age 23, Male*

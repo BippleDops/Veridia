@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Grove Keeper
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]

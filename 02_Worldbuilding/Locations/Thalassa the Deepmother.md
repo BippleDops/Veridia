@@ -218,3 +218,7 @@ Ongoing situations affecting Thalassa the Deepmother:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]

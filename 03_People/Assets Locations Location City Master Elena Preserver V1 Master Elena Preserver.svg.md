@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.244304
+modified: 2025-08-15T16:41:48.244307
+aliases: [Assets Locations Location City Master Elena Preserver V1 Master Elena Preserver.svg]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_assets_locations_location_city_master_elena_preserver_v1_master_elena_preserver_svg_friendly.png]]
+
+
+## Table of Contents
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#History Improvements|History Improvements]]
+- [[#Culture Improvements|Culture Improvements]]
+- [[#Economy Improvements|Economy Improvements]]
+- [[#Religion Improvements|Religion Improvements]]
+- [[#Lifestyle Improvements|Lifestyle Improvements]]
+- [[#Evolution Improvements|Evolution Improvements]]
+- [[#Death_Customs Improvements|Death_Customs Improvements]]
+- [[#Material_Culture Improvements|Material_Culture Improvements]]
+- [[#Sensory Improvements|Sensory Improvements]]
+
+
+---
 
 title: Assets Locations Location City Master Elena Preserver V1 Master Elena Preserver.svg
 aliases:

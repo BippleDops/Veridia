@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.100530
+modified: 2025-08-15T16:41:44.100532
+aliases: [NPC01064 Gareth Blackstone the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Malakai Moonshadow the Redeemed (Criminal - Informant)|Malakai Moonshadow the Redeemed (Criminal - Informant)]]
+- [[#Caelum Proudmore the Mystic (Personal - Nemesis)|Caelum Proudmore the Mystic (Personal - Nemesis)]]
+- [[#Kaelen Ashford the Seeker (Family - Sibling)|Kaelen Ashford the Seeker (Family - Sibling)]]
+
+
+---
 aliases: ["Gareth Blackstone the Strong", "gareth blackstone the strong", "Gareth Blackstone Strong", "Strong the Blackstone Gareth"]
 tags: [npc, character]
 type: npc
@@ -246,3 +267,14 @@ Has map to lost treasure
 - Affected by [[02_Worldbuilding_Lore_Dock_Worker_Tomás]]
 - Parallels [[Temporal Protection]]
 - Compare with [[System Cli Spells School Abjuration]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
+![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

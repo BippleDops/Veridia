@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Undead Rights Or
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01476_Qadim_Stormwind_the_Wise]]

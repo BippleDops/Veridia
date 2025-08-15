@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.612304
+modified: 2025-08-15T16:41:42.612307
+aliases: [NPC00824 Malakai Lightbringer the Lost]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Wynne Jadeclaw the Cunning (Personal - Ex-lover)|Wynne Jadeclaw the Cunning (Personal - Ex-lover)]]
+- [[#Brenna Brightblade the Wanderer (Professional - Partner)|Brenna Brightblade the Wanderer (Professional - Partner)]]
+- [[#Gavril Zephyrblade the Bold (Professional - Mentor)|Gavril Zephyrblade the Bold (Professional - Mentor)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Malakai Lightbringer the Lost", "malakai lightbringer the lost", "Malakai Lightbringer Lost", "Lost the Lightbringer Malakai"]
 tags: [npc, character]
@@ -151,9 +172,9 @@ Caravan needs guards
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Conditions**: See PHB p.290-292
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Conditions**: See ACX p.290-292
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -263,3 +284,14 @@ Caravan needs guards
 - Related: [[ENC0068_Random_Encounter_69]]
 - See also: [[Portrait NPC High Priestess Nerida Soulcurrent V2 High Priestess Nerida Soulcurrent.svg_1 (Portraits)]]
 - Leads to [[Captain Thornback (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
+![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

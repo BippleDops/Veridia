@@ -14,6 +14,10 @@ updated: '2025-08-13T12:34:16.727522+00:00'
 world: Both
 ---
 
+## Map
+![[04_Resources/Assets/Maps/location_the_screaming_battleground_rain.png]]
+
+
 
 
 

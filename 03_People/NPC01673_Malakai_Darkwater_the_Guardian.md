@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.434582
+modified: 2025-08-15T16:41:43.434584
+aliases: [NPC01673 Malakai Darkwater the Guardian]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Aldric Goldleaf the Swift (Personal - Nemesis)|Aldric Goldleaf the Swift (Personal - Nemesis)]]
+- [[#Malakai Goldleaf the Risen (Personal - Love interest)|Malakai Goldleaf the Risen (Personal - Love interest)]]
+- [[#Ysara Oakenshield the Fallen (Family - Spouse)|Ysara Oakenshield the Fallen (Family - Spouse)]]
+
+
+---
 aliases: ["Malakai Darkwater the Guardian", "malakai darkwater the guardian", "Malakai Darkwater Guardian", "Guardian the Darkwater Malakai"]
 tags: [npc, character]
 type: npc
@@ -255,3 +276,14 @@ Provides information for a price
 - See also: [[SPELL00047_Nature_Spell_48]]
 - Connects to [[step_045 (phase_064)]]
 - Originates from [[Location City Navigator Flux Timewalker V1 Navigator Flux Timewalker.svg]]
+
+## Visual References
+![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
+![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
+![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

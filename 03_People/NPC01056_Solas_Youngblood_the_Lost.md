@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Solas Youngblood the Lost
 
 *Dwarf Caravan Master (Merchants), Age 21, Male*

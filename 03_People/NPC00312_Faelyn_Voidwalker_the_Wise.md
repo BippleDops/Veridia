@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Faelyn Voidwalker the Wise
 
 *Half-Elf Courtier (Nobles), Age 42, Female*

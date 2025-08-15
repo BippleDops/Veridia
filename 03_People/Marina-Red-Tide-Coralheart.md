@@ -81,6 +81,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_marina_red_tide_coralheart_standard.png]]
+
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-marina-red-tide-coralheart-marina-red-tide-coralheart.svg)
 

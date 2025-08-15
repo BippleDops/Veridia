@@ -254,3 +254,7 @@ Ongoing situations affecting Shadow Trackhound:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01476_Qadim_Stormwind_the_Wise]]

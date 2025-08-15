@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 07_player_resources]
+created: 2025-08-15T16:41:34.206269
+modified: 2025-08-15T16:41:34.206274
+aliases: [Trade Route Map Aquabyssos to Aethermoor]
+---
+
+## Table of Contents
+- [[#The Great Convergence Current|The Great Convergence Current]]
+- [[#Checkpoint Stations|Checkpoint Stations]]
+- [[#Current Exchange Rates|Current Exchange Rates]]
+- [[#🔧 Deep Evaluation Improvements|🔧 Deep Evaluation Improvements]]
+- [[#Connection Improvements|Connection Improvements]]
+- [[#Enhancement Improvements|Enhancement Improvements]]
+- [[#Related|Related]]
+- [[#DM Notes|DM Notes]]
+- [[#07_Player_Resources Specific Content|07_Player_Resources Specific Content]]
+- [[#07_Player_Resources Specific Content|07_Player_Resources Specific Content]]
+
+
+---
 title: Trade_Route_Map_Aquabyssos_to_Aethermoor
 type: note
 tags:
@@ -111,6 +132,26 @@ Contextual improvement based on 07_Player_Resources
 > Hidden treasure can be found here with a DC 15 Investigation check
 
 ## See Also
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC00615_Lyanna_Moonshadow_the_Lost]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[Party_Quests]]
+- [[Basic_Rules]]
+- [[Combat_Encounter_Analysis]]
+- [[Player_Feedback_Form.md]]
+- [[Downtime_Activities]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[Character_Journal_Template]]
+- [[Master_Narrative_Web.md]]
 - [[Related_Content]]
 
 
@@ -120,17 +161,17 @@ Contextual improvement based on 07_Player_Resources
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
+- **Combat**: See ACX p.189-198
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -234,3 +275,8 @@ Contextual improvement based on 07_Player_Resources
 - Influences [[SPELL00066_Nature_Spell_67]]
 - Requires [[step_081]]
 - Parallels [[Spy Games (D&D_References)]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_master_trader_abyss_currentbinder_v1_master_trader_abyss_currentbinder_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_master_trader_abyss_currentbinder_v1_master_trader_abyss_currentbinder_svg_standard.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_ambassador_blacktrade_ambassador_blacktrade_svg_dramatic.png]]

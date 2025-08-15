@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Branwen Darkwater the Redeemed
 
 *Gnome Crime Boss (Villains), Age 72, Male*

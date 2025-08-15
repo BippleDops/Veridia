@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.191272
+modified: 2025-08-15T16:41:46.191275
+aliases: [NPC00286 Zephyr Zephyrblade]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Delara Underhill the Redeemed (Family - Child)|Delara Underhill the Redeemed (Family - Child)]]
+- [[#Idris Ashford the Mystic (Family - Cousin)|Idris Ashford the Mystic (Family - Cousin)]]
+- [[#Brenna Zephyrblade the Wise (Family - Parent)|Brenna Zephyrblade the Wise (Family - Parent)]]
+
+
+---
 aliases: ["Zephyr Zephyrblade", "zephyr zephyrblade", "Zephyrblade Zephyr"]
 tags: [npc, character]
 type: npc
@@ -253,3 +274,14 @@ Needs discrete help with family scandal
 - Originates from [[forgotten-realms-mielikki (deities)]]
 - Affected by [[step_017 (phase_073)]]
 - Compare with [[step_015 (phase_019)]]
+
+## Visual References
+![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
+![[03_People/portrait_zephyr_goldwhisper_standard.png]]
+![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

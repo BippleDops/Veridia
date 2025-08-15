@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:48.133729
+modified: 2025-08-15T16:41:48.133731
+aliases: [NPC01253 Jorah Ironwood the Redeemed]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Corvus Stormwind the Risen (Political - Patron)|Corvus Stormwind the Risen (Political - Patron)]]
+- [[#Idris Winterborn the Lost (Professional - Rival)|Idris Winterborn the Lost (Professional - Rival)]]
+- [[#Thalia Winterborn the Seeker (Family - Parent)|Thalia Winterborn the Seeker (Family - Parent)]]
+
+
+---
 aliases: ["Jorah Ironwood the Redeemed", "jorah ironwood the redeemed", "Jorah Ironwood Redeemed", "Redeemed the Ironwood Jorah"]
 tags: [npc, character]
 type: npc
@@ -150,3 +171,15 @@ Knows secret about major threat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Visual References
+![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
+![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
+![[03_People/portrait_commander_thrace_ironwood.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

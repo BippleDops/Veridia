@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.093787
+modified: 2025-08-15T16:41:46.093792
+aliases: [NPC01459 Cedric Youngblood the Seeker]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Urien Jadeclaw the Bold (Professional - Employer)|Urien Jadeclaw the Bold (Professional - Employer)]]
+- [[#Fiora Voidwalker the Broken (Criminal - Target)|Fiora Voidwalker the Broken (Criminal - Target)]]
+- [[#Dara Nightfall the Wise (Professional - Partner)|Dara Nightfall the Wise (Professional - Partner)]]
+
+
+---
 aliases: ["Cedric Youngblood the Seeker", "cedric youngblood the seeker", "Cedric Youngblood Seeker", "Seeker the Youngblood Cedric"]
 tags: [npc, character]
 type: npc
@@ -248,3 +269,14 @@ Forming expedition to dangerous location
 - Connects to [[Assets Locations Location City Aquabyssos Aquabyssos.svg]]
 - See also: [[step_070 (phase_071)]]
 - Related: [[NPC01729_Kaelen_Dawnstrider_the_Fallen]]
+
+## Visual References
+![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
+![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

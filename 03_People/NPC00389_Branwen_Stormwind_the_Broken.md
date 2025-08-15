@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:45.524900
+modified: 2025-08-15T16:41:45.524906
+aliases: [NPC00389 Branwen Stormwind the Broken]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Alaric Jadeclaw the Cunning (Professional - Rival)|Alaric Jadeclaw the Cunning (Professional - Rival)]]
+- [[#Malakai Ravenheart the Risen (Criminal - Informant)|Malakai Ravenheart the Risen (Criminal - Informant)]]
+- [[#Hilda Voidwalker the Scholar (Personal - Nemesis)|Hilda Voidwalker the Scholar (Personal - Nemesis)]]
+
+
+---
 aliases: ["Branwen Stormwind the Broken", "branwen stormwind the broken", "Branwen Stormwind Broken", "Broken the Stormwind Branwen"]
 tags: [npc, character]
 type: npc
@@ -251,3 +272,29 @@ Wants rivals investigated
 - Originates from [[Location City Sacred Historian Coral Deepscribe Sacred Historian Coral Deepscribe.svg]]
 - Related: [[Location City Aquabyssos Government V1 Aquabyssos Government.svg]]
 - Connects to [[Assets Locations Location City Healer Tide Touch V1 Healer Tide Touch.svg]]
+
+## Visual References
+![[03_People/portrait_merchant_captain_tobias_stormwind_dramatic.png]]
+![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
+
+
+## Realm Connections
+
+### Connection to Aethermoor
+This connects to the sky realm of Sky realm of eternal winds and floating islands.
+
+- **Ruling Power**: The Windlord Council
+- **Capital**: [[Skylance Citadel]]
+- **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
+- **Current Conflict**: The Void Incursion, Elemental Convergence
+- **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
+
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+navigate floating islands connected by bridges of solidified cloud.
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.025373
+modified: 2025-08-15T16:41:42.025376
+aliases: [NPC01757 Nerys Silverleaf the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Rhiannon Darkwater the Swift (Personal - Childhood friend)|Rhiannon Darkwater the Swift (Personal - Childhood friend)]]
+- [[#Aldric Emberfall the Lost (Family - Spouse)|Aldric Emberfall the Lost (Family - Spouse)]]
+- [[#Faelyn Dawnstrider the Cunning (Professional - Mentor)|Faelyn Dawnstrider the Cunning (Professional - Mentor)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Nerys Silverleaf the Strong", "nerys silverleaf the strong", "Nerys Silverleaf Strong", "Strong the Silverleaf Nerys"]
 tags: [npc, character]
@@ -138,26 +159,55 @@ Offers deal too good to refuse
 - Special moves
 
 ## See Also
+- [[NPC01831_Alaric_Frostwhisper_the_Scholar]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[Marcus Shardbreaker Grimm_1]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC00844_Cedric_Blackstone_the_Fallen]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[Parliament of Shadows Player Guide.md]]
+- [[Combat_Encounter_Analysis]]
+- [[Reputation_Tracker]]
+- [[03 Races]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[Ceasefire_Accord_Draft.md]]
+- [[07 Customization Options]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[Session_Recaps]]
+- [[MOC_Lore]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Dungeon Master's Guide (DMG) p.30
-- Volo's Guide to Monsters (VGM) p.151
-- Mordenkainen's Tome of Foes (MTF) p.30
+- Worldweaver's Tome (WWT) p.30
+- Volo's Creature Catalog to Monsters (VCC) p.151
+- Mordenkainen's Forbidden Knowledge of Foes (MFK) p.30
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -165,9 +215,9 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -277,3 +327,14 @@ Following magic item guidelines (DMG p.135-136):
 - Leads to [[Portal Mirror Mage 2]]
 - See also: [[Assets Locations Location City Magnus Ledgerkeep Magnus Ledgerkeep.svg]]
 - Influences [[Crystal-Enhanced Businesses (D&D_References)]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

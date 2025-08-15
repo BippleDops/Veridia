@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Faelyn Blackstone the Redeemed
 
 *Dwarf Cleric (Adventurers), Age 69, Male*

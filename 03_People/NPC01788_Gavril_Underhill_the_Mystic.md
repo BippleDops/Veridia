@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.084480
+modified: 2025-08-15T16:41:43.084484
+aliases: [NPC01788 Gavril Underhill the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Dara Thornweave the Scholar (Personal - Best friend)|Dara Thornweave the Scholar (Personal - Best friend)]]
+- [[#Elric Thornweave the Broken (Family - Parent)|Elric Thornweave the Broken (Family - Parent)]]
+- [[#Xander Hawthorne the Risen (Criminal - Informant)|Xander Hawthorne the Risen (Criminal - Informant)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Gavril Underhill the Mystic", "gavril underhill the mystic", "Gavril Underhill Mystic", "Mystic the Underhill Gavril"]
 tags: [npc, character]
@@ -156,9 +177,9 @@ Blackmails party into service
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -268,3 +289,14 @@ Blackmails party into service
 - Parallels [[ENC00107_Combat_Encounter_108]]
 - Affected by [[Private Investigator Rex Coldcase]]
 - Compare with [[War of Burning Skies]]
+
+## Visual References
+![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
+![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

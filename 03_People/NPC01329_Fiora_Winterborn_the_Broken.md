@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Fiora Winterborn the Broken
 
 *Genasi Wizard (Adventurers), Age 62, Male*

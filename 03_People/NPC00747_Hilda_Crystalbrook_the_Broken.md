@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:44.154497
+modified: 2025-08-15T16:41:44.154503
+aliases: [NPC00747 Hilda Crystalbrook the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Brenna Darkwater the Bold (Family - Sibling)|Brenna Darkwater the Bold (Family - Sibling)]]
+- [[#Idris Ironwood the Strong (Professional - Employer)|Idris Ironwood the Strong (Professional - Employer)]]
+- [[#Hilda Frostwhisper the Wise (Personal - Childhood friend)|Hilda Frostwhisper the Wise (Personal - Childhood friend)]]
+
+
+---
 aliases: ["Hilda Crystalbrook the Broken", "hilda crystalbrook the broken", "Hilda Crystalbrook Broken", "Broken the Crystalbrook Hilda"]
 tags: [npc, character]
 type: npc
@@ -239,3 +264,8 @@ Family member has gone missing
 - Connects to [[Animal Lord Xmm]]
 - Requires [[NPC01027_Ysara_Keenblade_the_Mystic]]
 - Affected by [[step_080 (phase_004)]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

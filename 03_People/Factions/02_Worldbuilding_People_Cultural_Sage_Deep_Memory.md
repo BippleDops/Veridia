@@ -2,6 +2,10 @@
 tags: ['faction']
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc_people_standard.png]]
+
+
 # 02 Worldbuilding/People/Cultural Sage Deep Memory
 
 ## Organization Overview

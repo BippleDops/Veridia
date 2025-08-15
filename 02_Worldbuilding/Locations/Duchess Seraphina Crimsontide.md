@@ -236,3 +236,9 @@ Key stop on textiles trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]

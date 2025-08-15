@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Jorah Youngblood the Cunning
 
 *Elf Blacksmith (Commoners), Age 76, Male*

@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.753851
+modified: 2025-08-15T16:41:41.753857
+aliases: [NPC00719 Orion Hawthorne the Cunning]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Rhiannon Voidwalker the Bold (Family - Sibling)|Rhiannon Voidwalker the Bold (Family - Sibling)]]
+- [[#Kaelen Nightfall the Strong (Personal - Nemesis)|Kaelen Nightfall the Strong (Personal - Nemesis)]]
+- [[#Vesper Xendar the Wise (Criminal - Target)|Vesper Xendar the Wise (Criminal - Target)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Orion Hawthorne the Cunning", "orion hawthorne the cunning", "Orion Hawthorne Cunning", "Cunning the Hawthorne Orion"]
 tags: [npc, character]
@@ -136,6 +161,39 @@ Witnessed a crime
 - Special moves
 
 ## See Also
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[Marcus Shardbreaker Grimm_1]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC01625_Qadim_Lightbringer_the_Swift]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[11 Spellcasting]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC_Name_Generator.png]]
+- [[14 Gods of the Multiverse]]
+- [[Session_Recaps]]
+- [[NPC01939_Orion_Nightfall_the_Bold]]
+- [[05 Personality and Background]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[11 Rules Glossary]]
+- [[MOC_Lore]]
+- [[MOC_Rules]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
 - [[Related_Content]]
 
 
@@ -145,10 +203,10 @@ Witnessed a crime
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -258,3 +316,8 @@ Witnessed a crime
 - Related: [[Shadow Operations Base]]
 - Affected by [[Tidal Memory Ceremonies]]
 - Originates from [[SPELL00105_Arcane_Spell_106]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

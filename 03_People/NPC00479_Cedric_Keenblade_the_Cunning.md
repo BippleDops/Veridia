@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.902645
+modified: 2025-08-15T16:41:42.902648
+aliases: [NPC00479 Cedric Keenblade the Cunning]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Urien Quicksilver the Guardian (Personal - Nemesis)|Urien Quicksilver the Guardian (Personal - Nemesis)]]
+- [[#Ysara Thornweave the Lost (Personal - Nemesis)|Ysara Thornweave the Lost (Personal - Nemesis)]]
+- [[#Orion Thornweave the Guardian (Political - Opposition)|Orion Thornweave the Guardian (Political - Opposition)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Cedric Keenblade the Cunning", "cedric keenblade the cunning", "Cedric Keenblade Cunning", "Cunning the Keenblade Cedric"]
 tags: [npc, character]
@@ -158,8 +183,8 @@ Discovered something valuable
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -269,3 +294,8 @@ Discovered something valuable
 - Connects to [[Instrument of the Bards Anstruth Harp Xdmg]]
 - Influences [[Dragon Slayer Xdmg]]
 - Connects to [[Portrait NPC Sir Marcus Dawnforge Sir Marcus Dawnforge.svg]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

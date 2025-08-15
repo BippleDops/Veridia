@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ewan Oakenshield the Redeemed
 
 *Dragonborn Dark Wizard (Villains), Age 63, Female*

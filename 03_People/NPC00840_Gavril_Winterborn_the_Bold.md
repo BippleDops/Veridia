@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Gavril Winterborn the Bold
 
 *Gnome Shopkeeper (Merchants), Age 56, Female*

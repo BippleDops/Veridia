@@ -228,3 +228,7 @@ Ongoing situations affecting Void-Keeper :
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Ambassador Nerida Deepcurrent]]

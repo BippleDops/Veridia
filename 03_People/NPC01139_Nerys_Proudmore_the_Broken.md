@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Nerys Proudmore the Broken
 
 *Dragonborn Trader (Merchants), Age 64, Non-binary*

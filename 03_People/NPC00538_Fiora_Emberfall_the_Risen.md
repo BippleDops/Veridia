@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.499580
+modified: 2025-08-15T16:41:42.499587
+aliases: [NPC00538 Fiora Emberfall the Risen]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Solas Keenblade the Lost (Family - Sibling)|Solas Keenblade the Lost (Family - Sibling)]]
+- [[#Dara Dawnstrider the Scholar (Political - Opposition)|Dara Dawnstrider the Scholar (Political - Opposition)]]
+- [[#Delara Keenblade the Risen (Criminal - Handler)|Delara Keenblade the Risen (Criminal - Handler)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Fiora Emberfall the Risen", "fiora emberfall the risen", "Fiora Emberfall Risen", "Risen the Emberfall Fiora"]
 tags: [npc, character]
@@ -160,10 +185,10 @@ Being extorted by criminals
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -243,7 +268,7 @@ Being extorted by criminals
 - Influences [[step_017 (phase_080)]]
 - Connects to [[mithral-armor-xdmg (items)]]
 - Requires [[FAC00068_Guilds_69]]
-- Requires [[Quest - The Deepmind Weapon_1 (01_Adventures)]]
+- Requires [[Quest - The Deepmind [[Quest - The Deepmind Weapon_1 (01_Adventures)|Weapon_1]] (01_Adventures)]]
 - Connects to [[King Torrhen Lumengarde (D&D_References)]]
 - Connects to [[step_006 (phase_075)]]
 - See also: [[step_018 (phase_100)]]
@@ -273,3 +298,8 @@ Being extorted by criminals
 - See also: [[Lord Magnus Goldspire (D&D_References)]]
 - Parallels [[step_005 (phase_055)]]
 - Requires [[Stoneskin Xphb]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

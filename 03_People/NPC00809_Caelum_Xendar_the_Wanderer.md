@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Caelum Xendar the Wanderer
 
 *Firbolg Trader (Merchants), Age 54, Male*

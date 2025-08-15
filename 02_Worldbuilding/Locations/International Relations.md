@@ -259,3 +259,7 @@ Mentioned in The Second Prophecy of Winds
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[Quest - The Missing Fleet]]

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:43.299028
+modified: 2025-08-15T16:41:43.299032
+aliases: [NPC00863 Xander Grimholt the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Baelor Stormwind the Guardian (Personal - Ex-lover)|Baelor Stormwind the Guardian (Personal - Ex-lover)]]
+- [[#Lyanna Underhill the Strong (Criminal - Informant)|Lyanna Underhill the Strong (Criminal - Informant)]]
+- [[#Brenna Lightbringer the Bold (Criminal - Fence)|Brenna Lightbringer the Bold (Criminal - Fence)]]
+
+
+---
 aliases: ["Xander Grimholt the Mystic", "xander grimholt the mystic", "Xander Grimholt Mystic", "Mystic the Grimholt Xander"]
 tags: [npc, character]
 type: npc
@@ -254,3 +275,14 @@ Caravan needs guards
 - Affected by [[step_032 (phase_010)]]
 - Compare with [[Aethermoor_Sky_Navigation_Chart]]
 - See also: [[Shadow Conspiracy Investigation]]
+
+## Visual References
+![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
+![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

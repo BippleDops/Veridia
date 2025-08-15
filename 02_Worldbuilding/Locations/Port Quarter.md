@@ -253,3 +253,8 @@ Key stop on magic items trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00763_Urien_Brightblade_the_Broken]]
+- [[NPC00395_Aeliana_Thornweave]]

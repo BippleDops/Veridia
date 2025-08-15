@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Gavril Jadeclaw the Redeemed
 
 *Firbolg Cleric (Adventurers), Age 29, Female*

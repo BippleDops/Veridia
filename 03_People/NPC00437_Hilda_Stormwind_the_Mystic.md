@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.636868
+modified: 2025-08-15T16:41:40.636871
+aliases: [NPC00437 Hilda Stormwind the Mystic]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Orion Moonshadow the Fallen (Criminal - Target)|Orion Moonshadow the Fallen (Criminal - Target)]]
+- [[#Hestara Ironforge the Guardian (Professional - Partner)|Hestara Ironforge the Guardian (Professional - Partner)]]
+- [[#Cedric Goldleaf the Strong (Professional - Partner)|Cedric Goldleaf the Strong (Professional - Partner)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Hilda Stormwind the Mystic", "hilda stormwind the mystic", "Hilda Stormwind Mystic", "Mystic the Stormwind Hildatags: [npc, character, combat, magic, exploration, puzzle, lore]er]
 type: npc
@@ -137,7 +158,7 @@ Discovered something valuable
 - Special moves
 
 ## Combat Stats
-Base: **Veteran** (MM p.350)
+Base: **Veteran** (BC p.350)
 Modifications:
 - HP: 20
 - AC: 14
@@ -148,6 +169,12 @@ Modifications:
 > Useful information for players
 
 ## See Also
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
 - [[Related_Content]]
 
 
@@ -157,8 +184,8 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -168,21 +195,21 @@ Modifications:
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Character creation: PHB p.11-15)*
-*(Ability scores: PHB p.12-13)*
-*(Backgrounds: PHB p.125-141)*
-*(Equipment: PHB p.143-161)*
-*(Weapons: PHB p.146-147)*
-*(Armor: PHB p.144-146)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Character creation: ACX p.11-15)*
+*(Ability scores: ACX p.12-13)*
+*(Backgrounds: ACX p.125-141)*
+*(Equipment: ACX p.143-161)*
+*(Weapons: ACX p.146-147)*
+*(Armor: ACX p.144-146)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 
@@ -196,14 +223,14 @@ Modifications:
 - Originates from [[step_056 (phase_016)]]
 - Related: [[Community Resource Sharing (D&D_References)]]
 - Related: [[EVENT00021_Natural_Event_22]]
-- Connects to [[Timeline]]
+- Connects to [[[[Time]]line]]
 - Affected by [[Template-Quest.md]]
 - Requires [[windvane-pota (items)]]
 - Influences [[step_050 (phase_073)]]
 - Compare with [[step_053 (phase_025)]]
 - Connects to [[Advanced Shadow Detection]]
 - Related: [[Mer-Folk Honor Codes]]
-- See also: [[Location City the Crystal Stock Exchange V1 the Crystal Stock Exchange.svg]]
+- See also: [[Location City [[The Crystal Stock Exchange]] V1 the Crystal Stock Exchange.svg]]
 - Compare with [[The Whispering Chambers (D&D_References)]]
 - Related: [[step_021 (phase_088)]]
 - Affected by [[NPC00544_Jorah_Goldleaf_the_Strong]]
@@ -224,7 +251,7 @@ Modifications:
 - Originates from [[Portrait NPC Emperor Pelagic the Last V1 Emperor Pelagic the Last.svg_1 (Portraits)]]
 - Requires [[ITEM00654_Dragon_Scale_Shield_of_Protection]]
 - Affected by [[Shadow Admiral Vex]]
-- Requires [[Infrastructure Development (D&D_References)]]
+- Requires [[[[Infrastructure Development]] (D&D_References)]]
 - Related: [[QUEST00270_Side_Quest_271]]
 - Related: [[NPC00441_Pyria_Ironforge_the_Strong]]
 - See also: [[Layers of Mount Celestia Xdmg]]
@@ -234,7 +261,7 @@ Modifications:
 - See also: [[step_022 (phase_098)]]
 - Connects to [[The_Seven_Seals.png]]
 - Leads to [[High Priest Nereon (D&D_References)]]
-- Connects to [[Healer Sage Bondseer (D&D_References)]]
+- Connects to [[[[Healer Sage Bondseer]] (D&D_References)]]
 - Connects to [[shield-master-xphb (feats)]]
 - Related: [[agonizing-blast-xphb (optional-features)]]
 - Related: [[step_084 (phase_076)]]
@@ -264,13 +291,13 @@ Modifications:
 - Originates from [[step_036 (phase_071)]]
 - Leads to [[LORE00063_History_Entry_64]]
 - Requires [[step_041]]
-- Requires [[Assets Locations Location City the Iron Pits of Malachar the Iron Pits of Malachar.svg]]
+- Requires [[Assets Locations [[Location City [[The Iron Pits of Malachar]] the Iron Pits of Malachar.svg]]]]
 - Originates from [[Sanctuary Xphb]]
 - Parallels [[step_029]]
-- Affected by [[Dream Rails 2]]
+- Affected by [[[[Dream Rails]] 2]]
 - Related: [[LOC00175_Dungeons_Location_176]]
 - Leads to [[dragonlance-lunitari-phb (deities)]]
-- Compare with [[Port Meridian - Market Square 2]]
+- Compare with [[[[Port Meridian]] - Market Square 2]]
 - Related: [[Races]]
 - Originates from [[NPC00767_Felicia_Grimholt_the_Wise]]
 - Related: [[step_072 (phase_039)]]
@@ -286,3 +313,29 @@ Modifications:
 - Compare with [[Temple Clergy]]
 - Related: [[Emperor Abyssal the Deep-Sighted (D&D_References)]]
 - Originates from [[step_087]]
+
+## Visual References
+![[03_People/portrait_[[Merchant]]_captain_tobias_stormwind_dramatic.png]]
+![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
+
+
+## Realm Connections
+
+### Connection to [[Aethermoor]]
+This connects to the sky realm of Sky realm of eternal winds and floating islands.
+
+- **Ruling Power**: The Windlord Council
+- **Capital**: [[Skylance Citadel]]
+- **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
+- **Current Conflict**: The Void Incursion, Elemental Convergence
+- **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
+
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+navigate floating islands connected by bridges of solidified cloud.
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

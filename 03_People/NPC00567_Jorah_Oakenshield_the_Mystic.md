@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Jorah Oakenshield the Mystic
 
 *Half-Elf Fisher (Commoners), Age 72, Male*

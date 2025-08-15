@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.229848
+modified: 2025-08-15T16:41:42.229850
+aliases: [NPC01570 Gareth Emberfall the Scholar]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Hestara Jadeclaw the Cunning (Family - Child)|Hestara Jadeclaw the Cunning (Family - Child)]]
+- [[#Drusilla Stormwind the Seeker (Family - Child)|Drusilla Stormwind the Seeker (Family - Child)]]
+- [[#Delara Keenblade the Fallen (Personal - Best friend)|Delara Keenblade the Fallen (Personal - Best friend)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Gareth Emberfall the Scholar", "gareth emberfall the scholar", "Gareth Emberfall Scholar", "Scholar the Emberfall Gareth"]
 tags: [npc, character]
@@ -159,21 +180,21 @@ Knows secret about major threat
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Monster Manual (MM) p.156
-- Xanathar's Guide to Everything (XGE) p.295
-- Volo's Guide to Monsters (VGM) p.291
+- Bestiary Compendium (BC) p.156
+- Xanathar's Secrets Revealed to Everything (XSR) p.295
+- Volo's Creature Catalog to Monsters (VCC) p.291
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -181,10 +202,10 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -294,3 +315,14 @@ Following magic item guidelines (DMG p.135-136):
 - Influences [[steel-wind-strike-xphb (spells)]]
 - Related: [[QUEST00031_Personal_Quest_32]]
 - Parallels [[Variant Customizing Ability Scores Ability Scores and Modifiers Phb]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
+![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

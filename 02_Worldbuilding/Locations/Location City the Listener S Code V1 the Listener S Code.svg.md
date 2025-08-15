@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City the Listener S C
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]

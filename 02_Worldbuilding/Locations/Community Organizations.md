@@ -266,3 +266,10 @@ Ongoing situations affecting Community Organizations:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]

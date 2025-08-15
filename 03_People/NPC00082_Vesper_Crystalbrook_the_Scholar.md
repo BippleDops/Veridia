@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Vesper Crystalbrook the Scholar
 
 *Genasi Ambassador (Nobles), Age 28, Male*

@@ -219,3 +219,8 @@ Ongoing situations affecting Crown of Eternal Ice:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]

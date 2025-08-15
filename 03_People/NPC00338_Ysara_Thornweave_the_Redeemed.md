@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
 # Ysara Thornweave the Redeemed
 
 *Half-Elf Aristocrat (Nobles), Age 22, Female*

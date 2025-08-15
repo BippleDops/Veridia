@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Chancellor Octav
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00276_Ysara_Youngblood]]

@@ -265,3 +265,7 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]

@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.279175
+modified: 2025-08-15T16:41:42.279181
+aliases: [NPC01493 Alaric Moonshadow the Redeemed]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Fiora Crystalbrook the Cunning (Political - Ally)|Fiora Crystalbrook the Cunning (Political - Ally)]]
+- [[#Aeliana Silverleaf the Wise (Criminal - Fence)|Aeliana Silverleaf the Wise (Criminal - Fence)]]
+- [[#Xander Oakenshield the Mystic (Professional - Partner)|Xander Oakenshield the Mystic (Professional - Partner)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Alaric Moonshadow the Redeemed", "alaric moonshadow the redeemed", "Alaric Moonshadow Redeemed", "Redeemed the Moonshadow Alaric"]
 tags: [npc, character]
@@ -142,22 +163,22 @@ Has information about legendary item
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Dungeon Master's Guide (DMG) p.155
-- Monster Manual (MM) p.263
-- Tasha's Cauldron of Everything (TCE) p.223
-- Mordenkainen's Tome of Foes (MTF) p.112
+- Worldweaver's Tome (WWT) p.155
+- Bestiary Compendium (BC) p.263
+- Tasha's Mystical Formulae of Everything (TMF) p.223
+- Mordenkainen's Forbidden Knowledge of Foes (MFK) p.112
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -165,8 +186,8 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -276,3 +297,12 @@ Following magic item guidelines (DMG p.135-136):
 - Parallels [[The Gloom Gardens (D&D_References)]]
 - Related: [[Assets Portraits Portrait NPC Master of Currents Poseidon Master of Currents Poseidon.svg]]
 - See also: [[Assets Locations Location City House Pressureborn House Pressureborn.svg]]
+
+## Visual References
+![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

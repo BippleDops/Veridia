@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:46.785496
+modified: 2025-08-15T16:41:46.785498
+aliases: [NPC0086 Gareth Goldleaf]
+---
+
+## Table of Contents
+- [[#Stats|Stats]]
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Secrets|Secrets]]
+- [[#Relationships|Relationships]]
+- [[#Roleplaying|Roleplaying]]
+
+
+---
 aliases: ["Gareth Goldleaf", "gareth goldleaf", "Goldleaf Gareth"]
 tags: [, generated]
   - npc
@@ -225,3 +246,8 @@ Deception, Persuasion, Investigation, Perception
 - Influences [[ITEM01087_Refined_Potion_of_Clarity]]
 - See also: [[Assets Locations Location City Chronomancer Paradox V1 Chronomancer Paradox.svg]]
 - Related: [[Archivist Spectrum Memorykeeper]]
+
+## Visual References
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
+![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
+![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]

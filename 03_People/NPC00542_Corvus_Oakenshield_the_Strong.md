@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:40.685087
+modified: 2025-08-15T16:41:40.685090
+aliases: [NPC00542 Corvus Oakenshield the Strong]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Thalia Ravenheart the Mystic (Political - Patron)|Thalia Ravenheart the Mystic (Political - Patron)]]
+- [[#Thalia Goldleaf the Scholar (Personal - Nemesis)|Thalia Goldleaf the Scholar (Personal - Nemesis)]]
+- [[#Baelor Frostwhisper the Lost (Political - Opposition)|Baelor Frostwhisper the Lost (Political - Opposition)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Corvus Oakenshield the Strong", "corvus oakenshield the strong", "Corvus Oakenshield Strong", "Strong the Oakenshield Corvustags: [npc, character, combat, lore]er]
 type: npc
@@ -30,7 +51,7 @@ Above average and imposing, with Carefully styled white hair and Hazel eyes. Bro
 - **Dream**: Finding inner peace
 
 ## Background
-Former soldier trying to adjust to civilian life An old debt has come due at the worst possible time.
+Former soldier trying to adjust to civilian life An old debt has come due at the worst possible [[Time]].
 
 ## Current Situation
 - **Occupation**: Farmer
@@ -139,7 +160,7 @@ Witnessed a crime
 - Special moves
 
 ## Combat Stats
-Base: **Veteran** (MM p.350)
+Base: **Veteran** (BC p.350)
 Modifications:
 - HP: 37
 - AC: 11
@@ -150,6 +171,25 @@ Modifications:
 > How this works in play
 
 ## See Also
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC00649_Corvus_Zephyrblade_the_Broken]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[Archdruid Thornweaver]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC01276_Erasmus_Keenblade_the_Wanderer]]
+- [[Downtime_Activities]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[05 Personality and Background]]
+- [[Count_Strahd_von_Zarovich]]
+- [[Character_Journal_Template]]
 - [[Related_Content]]
 
 
@@ -159,10 +199,10 @@ Modifications:
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Advantage**: See PHB p.173
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
+- **Advantage**: See ACX p.173
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -173,8 +213,8 @@ Modifications:
 ## Connections
 
 - Related: [[Consortium Security Constructs 2]]
-- Influences [[Memory Merchant Valeria]]
-- Connects to [[Assets Locations Location City Keeper Temporal Safehaven V1 Keeper Temporal Safehaven.svg]]
+- Influences [[Memory [[Merchant]] Valeria]]
+- Connects to [[Assets Locations Location City [[Keeper Temporal Safehaven]] V1 Keeper Temporal Safehaven.svg]]
 - Compare with [[imp-xmm (fiend)]]
 - Requires [[NPC01291_Xander_Thornweave_the_Risen]]
 - Affected by [[step_080 (phase_039)]]
@@ -187,7 +227,7 @@ Modifications:
 - Influences [[step_008 (phase_035)]]
 - Connects to [[The Ledger Hall]]
 - Compare with [[visibility-underwater-underwater-encounter-distance-xdmg]]
-- Leads to [[Locations the Temporal Scars]]
+- Leads to [[Locations [[The Temporal Scars]]]]
 - Affected by [[step_008]]
 - See also: [[Nonhuman Semuanya]]
 - Influences [[Underdark Encounters Levels 14 Xge]]
@@ -203,7 +243,7 @@ Modifications:
 - Originates from [[The Cosmic Library]]
 - Parallels [[Nerissa Depthsong (D&D_References)]]
 - Requires [[Bone Scribes (D&D_References)]]
-- Related: [[The Noble Quarter Market (D&D_References)]]
+- Related: [[[[The [[Noble Quarter]] Market]] (D&D_References)]]
 - Affected by [[step_074]]
 - Compare with [[Dr. Siphon Gillwater]]
 - Connects to [[step_001 (phase_078)]]
@@ -212,10 +252,10 @@ Modifications:
 - See also: [[QUEST00168_Main_Quest_169]]
 - Originates from [[Hawk Xmm]]
 - Related: [[The Original Palace]]
-- Connects to [[Harbor Pilot Captain Storm Skyreacher 2]]
+- Connects to [[[[Harbor Pilot Captain Storm Skyreacher]] 2]]
 - Originates from [[step_095 (phase_026)]]
-- Requires [[Assets Locations Location City Memorial District of Abyssos Prime V1 Memorial District of Abyssos Prime.svg]]
-- Parallels [[Location City Keeper Valdris Goldvault Keeper Valdris Goldvault.svg]]
+- Requires [[Assets Locations Location City [[Memorial District of [[Abyssos Prime]]]] V1 Memorial District of Abyssos Prime.svg]]
+- Parallels [[Location City [[Keeper Valdris Goldvault]] Keeper Valdris Goldvault.svg]]
 - Affected by [[Portrait NPC House Guard Captains V2 House Guard Captains.svg]]
 - Affected by [[step_032]]
 - Influences [[Gold Locket With a Painted Portrait Inside]]
@@ -235,7 +275,7 @@ Modifications:
 - See also: [[LORE00031_Legends_Entry_32]]
 - Connects to [[LORE00177_Legends_Entry_178]]
 - Parallels [[LORE00100_History_Entry_101]]
-- Related: [[Location City Maritime Security Chief Reef V1 Maritime Security Chief Reef.svg]]
+- Related: [[Location City [[Maritime Security Chief Reef]] V1 Maritime Security Chief Reef.svg]]
 - Connects to [[Research Institutes]]
 - Parallels [[ice-troll-rot (giant)]]
 - Influences [[step_055 (phase_019)]]
@@ -245,7 +285,7 @@ Modifications:
 - Parallels [[Abyssal Trenches (D&D_References)]]
 - Originates from [[symbol-heraldry-the-archivist-v1-the-archivist.svg]]
 - Related: [[LOC00172_Wilderness_Location_173]]
-- Compare with [[Assets Locations Location City Thalassa the Deepmother V1 Thalassa the Deepmother.svg]]
+- Compare with [[Assets Locations Location City [[Thalassa the Deepmother]] V1 Thalassa the Deepmother.svg]]
 - Originates from [[QUEST00048_Main_Quest_49]]
 - Influences [[step_039 (phase_039)]]
 - See also: [[Trader Cross-Current Jin 2]]
@@ -272,3 +312,14 @@ Modifications:
 - Parallels [[step_086 (phase_030)]]
 - Influences [[Depth_Events_Pack_B]]
 - Related: [[step_043 (phase_087)]]
+
+## Visual References
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
+![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

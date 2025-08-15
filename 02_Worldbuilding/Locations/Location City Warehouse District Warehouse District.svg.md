@@ -82,3 +82,7 @@ Recent developments have brought new attention to Location City Warehouse Distri
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC00351_Corvus_Ironwood]]

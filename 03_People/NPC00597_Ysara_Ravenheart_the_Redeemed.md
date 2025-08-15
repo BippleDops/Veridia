@@ -1,4 +1,25 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:42.604321
+modified: 2025-08-15T16:41:42.604323
+aliases: [NPC00597 Ysara Ravenheart the Redeemed]
+---
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Gavril Thornweave the Seeker (Criminal - Accomplice)|Gavril Thornweave the Seeker (Criminal - Accomplice)]]
+- [[#Ewan Dawnstrider the Mystic (Professional - Employee)|Ewan Dawnstrider the Mystic (Professional - Employee)]]
+- [[#Malakai Emberfall the Redeemed (Criminal - Accomplice)|Malakai Emberfall the Redeemed (Criminal - Accomplice)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Ysara Ravenheart the Redeemed", "ysara ravenheart the redeemed", "Ysara Ravenheart Redeemed", "Redeemed the Ravenheart Ysara"]
 tags: [npc, character]
@@ -154,8 +175,8 @@ Family member has gone missing
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Skills**: See PHB p.174-179
+- **Combat**: See ACX p.189-198
+- **Skills**: See ACX p.174-179
 
 
 ## Thematic Connections
@@ -265,3 +286,14 @@ Family member has gone missing
 - Leads to [[MON00148_Undead_Creature_149]]
 - Compare with [[NPC00678_Solas_Jadeclaw]]
 - Leads to [[LOC00236_Dungeons_Location_237]]
+
+## Visual References
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
+![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
+
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

@@ -247,3 +247,9 @@ Key stop on metals trade route
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]

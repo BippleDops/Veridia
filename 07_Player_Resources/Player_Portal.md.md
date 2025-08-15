@@ -1,4 +1,5 @@
 ---
+enhanced: true
 enhanced: trtags: [enhanced, 07_player_resources, combat, magic, exploration, lore]es]
 created: 2025-08-15T12:24:41.149651
 modified: 2025-08-15T12:24:41.149652
@@ -26,6 +27,7 @@ improvements: 20
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections 
+*The [texture] surface feels [description] to the touch.*
 *The air carries the scent of [appropriate smell].*to overarching campaign themes ## Plot Hooks - Someone is blackmailing a witness for money - Someone is searching for information for love
 - A map reveals a betrayal about a local noble
 - Strange dreams suggest ancient magic ## Historical Timeline ### The Age of Founding (1000 years ago) - The First Settlement
@@ -52,7 +54,39 @@ improvements: 20
 - 6am: Begin labor
 - Noon: Simple meal
 - 6pm: Return home
-- 8pm: Sleep ## See Also - Related content
+- 8pm: Sleep ## See Also
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Player_Feedback_Form.md]]
+- [[07 Customization Options]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[Welcome_to_Aquabyssos.md]]
+- [[World_Primer.md]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[16 Credits]]
+- [[10 Combat]]
+- [[Reputation_Tracker]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[MOC_Lore]]
+- [[Quick_Start_Guide.md]]
+- [[MOC_Sessions]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[MOC_Rules]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
+- [[NPC00719_Orion_Hawthorne_the_Cunning]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]] - Related content
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
@@ -95,21 +129,21 @@ publish: false --- -|--------|
 - [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
 
 
 ## D&D 5e References
 
-*(Combat rules: PHB p.189-198)*
-*(Attack rolls: PHB p.194)*
-*(Damage & Healing: PHB p.196-197)*
-*(Spellcasting: PHB p.201-205)*
-*(Spell slots: PHB p.201)*
-*(Ritual casting: PHB p.201-202)*
-*(Exploration: DMG p.242-243)*
-*(Travel pace: PHB p.182)*
-*(Wilderness survival: DMG p.109-112)*
+*(Combat rules: ACX p.189-198)*
+*(Attack rolls: ACX p.194)*
+*(Damage & Healing: ACX p.196-197)*
+*(Spellcasting: ACX p.201-205)*
+*(Spell slots: ACX p.201)*
+*(Ritual casting: ACX p.201-202)*
+*(Exploration: WWT p.242-243)*
+*(Travel pace: ACX p.182)*
+*(Wilderness survival: WWT p.109-112)*
 
 ## Connections
 

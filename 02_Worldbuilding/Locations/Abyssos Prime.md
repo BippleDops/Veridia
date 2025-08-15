@@ -325,3 +325,21 @@ Recommended tracks:
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## NPCs
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00494_Lyanna_Hawthorne_the_Guardian]]
+- [[Archdruid Thornweaver]]
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]
+- [[The Silent Watcher 2]]
+- [[The Coral Throne 2]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00407_Hestara_Dawnstrider]]

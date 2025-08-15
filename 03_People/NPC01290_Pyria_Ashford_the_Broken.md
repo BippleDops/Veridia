@@ -1,4 +1,29 @@
 ---
+enhanced: true
+tags: [enhanced, 03_people]
+created: 2025-08-15T16:41:41.724648
+modified: 2025-08-15T16:41:41.724651
+aliases: [NPC01290 Pyria Ashford the Broken]
+---
+
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npcs.png]]
+
+
+## Table of Contents
+- [[#Quick Reference|Quick Reference]]
+- [[#Appearance|Appearance]]
+- [[#Personality|Personality]]
+- [[#Background|Background]]
+- [[#Current Situation|Current Situation]]
+- [[#Goals|Goals]]
+- [[#Relationships|Relationships]]
+- [[#Ysara Ashford the Broken (Political - Ally)|Ysara Ashford the Broken (Political - Ally)]]
+- [[#Orion Zephyrblade the Strong (Professional - Mentor)|Orion Zephyrblade the Strong (Professional - Mentor)]]
+- [[#Hestara Lightbringer the Fallen (Criminal - Handler)|Hestara Lightbringer the Fallen (Criminal - Handler)]]
+
+
+---
 created: 2025-08-15
 aliases: ["Pyria Ashford the Broken", "pyria ashford the broken", "Pyria Ashford Broken", "Broken the Ashford Pyria"]
 tags: [npc, character]
@@ -144,25 +169,46 @@ Has information about legendary item
 - Special moves
 
 ## See Also
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]
+- [[Party_Quests]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC00407_Hestara_Dawnstrider]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[10 Combat]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[Count_Strahd_von_Zarovich]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[MOC_Lore]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
 - [[Related_Content]]
 
 
 
 ## Item Rarity & Balance
-Following magic item guidelines (DMG p.135-136):
+Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 - **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (DMG p.141)
-- **Curse**: Optional drawback (DMG p.138-139)
+- **Charges**: Limited uses per day (WWT p.141)
+- **Curse**: Optional drawback (WWT p.138-139)
 
 ### Comparable Official Items
-- Power level similar to [[Flame Tongue]] (DMG p.170)
-- Utility comparable to [[Bag of Holding]] (DMG p.153)
-- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+- Power level similar to [[Flame Tongue]] (WWT p.170)
+- Utility comparable to [[Bag of Holding]] (WWT p.153)
+- Activation like [[Wand of Magic Missiles]] (WWT p.211)
 
 ## Source References
-- Player's Handbook (PHB) p.120
-- Tasha's Cauldron of Everything (TCE) p.10
+- Adventurer's Codex (ACX) p.120
+- Tasha's Mystical Formulae of Everything (TMF) p.10
 
 ## Related Content
 - [[SYSTEM_STATUS]]
@@ -170,10 +216,10 @@ Following magic item guidelines (DMG p.135-136):
 - [[06 Equipment]]
 
 ## Game Mechanics
-- **Combat**: See PHB p.189-198
-- **Death Saves**: See PHB p.197
-- **Skills**: See PHB p.174-179
-- **Spellcasting**: See PHB p.201-205
+- **Combat**: See ACX p.189-198
+- **Death Saves**: See ACX p.197
+- **Skills**: See ACX p.174-179
+- **Spellcasting**: See ACX p.201-205
 
 
 ## Thematic Connections
@@ -283,3 +329,8 @@ Following magic item guidelines (DMG p.135-136):
 - See also: [[Warlock Xphb Fiend Patron Xphb]]
 - Connects to [[Madame Pearl Currentflow]]
 - Affected by [[LOC00255_Dungeons_Location_256]]
+
+## Plot Hooks
+- A mysterious message arrives regarding this location
+- Rumors speak of hidden treasures nearby
+- Strange occurrences have been reported recently

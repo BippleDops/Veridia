@@ -4,6 +4,10 @@ tags: [npc, character]
 type: npc
 ---
 
+## Portrait
+![[04_Resources/Assets/Portraits/portrait_npc.png]]
+
+
 # Caelum Nightfall the Wanderer
 
 *Dragonborn Wizard (Adventurers), Age 40, Male*

@@ -20,6 +20,10 @@ improvements: 20
 ---
 
 > [!figure] Asset
+![](04_Resources/Assets/Locations/location-city-the-pressure-forges-the-pressure-forges.svg)
+
+
+> [!figure] Asset
 
 ## 🔧 Deep Evaluation Improvements
 

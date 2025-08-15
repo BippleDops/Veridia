@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-crystal-refugees-quest-the-crystal-refugees.svg)
+
+
 # Quest - The Crystal Refugees
 
 ---

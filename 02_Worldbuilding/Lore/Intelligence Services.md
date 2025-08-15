@@ -7,6 +7,10 @@ tags:
 created: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Portraits/portrait-npc-intelligence-services-intelligence-services.svg)
+
+
 # Intelligence Services
 
 ## Overview

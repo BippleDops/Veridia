@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Symbols/symbol-heraldry-quest-the-family-reunion-quest-the-family-reunion.svg)
+
+
 # Quest - The Family Reunion
 
 ---

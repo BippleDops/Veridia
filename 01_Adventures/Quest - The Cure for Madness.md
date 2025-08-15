@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-cure-for-madness-quest-the-cure-for-madness.svg)
+
+
 # Quest - The Cure for Madness
 
 ---

@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Creatures/creature-creature-bearded-devil-xmm-bearded-devil-xmm.svg)
+
+
 # Bearded Devil Xmm
 
 ## Overview

@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Items/item-artifact-staff-of-power-xdmg-staff-of-power-xdmg.svg)
+
+
 # Staff of Power Xdmg
 
 ## Overview

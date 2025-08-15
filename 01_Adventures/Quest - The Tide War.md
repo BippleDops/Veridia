@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-tide-war-quest-the-tide-war.svg)
+
+
 # Quest - The Tide War
 
 ---

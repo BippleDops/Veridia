@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Creatures/creature-creature-elemental-spirit-air-xphb-elemental-spirit-air-xphb.png)
+
+
 # Elemental Spirit Air Xphb
 
 ---

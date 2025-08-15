@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Items/item-artifact-devastation-orb-of-fire-pota-devastation-orb-of-fire-pota.svg)
+
+
 # Devastation Orb of Fire Pota
 
 ## Overview

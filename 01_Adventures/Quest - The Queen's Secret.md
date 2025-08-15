@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-queen-s-secret-quest-the-queen-s-secret.svg)
+
+
 # Quest - The Queen's Secret
 
 ---

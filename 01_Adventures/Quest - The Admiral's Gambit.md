@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-admiral-s-gambit-quest-the-admiral-s-gambit.svg)
+
+
 # Quest - The Admiral's Gambit
 
 ---

@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Creatures/creature-creature-fey-spirit-tricksy-xphb-fey-spirit-tricksy-xphb.svg)
+
+
 # Fey Spirit Tricksy Xphb
 
 ## Overview

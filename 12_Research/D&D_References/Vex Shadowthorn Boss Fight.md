@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Symbols/symbol-heraldry-vex-shadowthorn-boss-fight-v1-vex-shadowthorn-boss-fight.png)
+
+
 # Vex Shadowthorn Boss Fight
 
 ---

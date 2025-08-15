@@ -33,6 +33,10 @@ improvements: 20
 ---
 
 > [!figure] Scene
+![](04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-deep-mother-s-tentacles-rising.png)
+
+
+> [!figure] Scene
 
 # The Deep Mother
 

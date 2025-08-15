@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Creatures/creature-creature-kuo-toa-archpriest-xmm-kuo-toa-archpriest-xmm.svg)
+
+
 # Kuo Toa Archpriest Xmm
 
 ## Overview

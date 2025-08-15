@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Portraits/portrait-npc-the-depth-blessed-fisherman-captain-sal-deepcurrent-the-depth-blessed-fisherman-captain-sal-deepcurrent.svg)
+
+
 # The Depth-Blessed Fisherman, Captain Sal Deepcurrent
 
 ---

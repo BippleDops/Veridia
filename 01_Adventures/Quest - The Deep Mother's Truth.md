@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-deep-mother-s-truth-quest-the-deep-mother-s-truth.svg)
+
+
 # Quest - The Deep Mother's Truth
 
 ---

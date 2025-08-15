@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Portraits/portrait-npc-abyssos-prime-throne-of-bubbles-abyssos-prime-throne-of-bubbles.svg)
+
+
 # Abyssos Prime - Throne of Bubbles
 
 ---

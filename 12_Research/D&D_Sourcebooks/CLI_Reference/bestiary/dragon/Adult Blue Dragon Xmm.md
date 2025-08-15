@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Creatures/creature-creature-adult-blue-dragon-xmm-adult-blue-dragon-xmm.svg)
+
+
 # Adult Blue Dragon Xmm
 
 ## Overview

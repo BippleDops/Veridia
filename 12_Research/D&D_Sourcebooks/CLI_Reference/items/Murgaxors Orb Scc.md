@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Items/item-artifact-murgaxors-orb-scc-murgaxors-orb-scc.svg)
+
+
 # Murgaxors Orb Scc
 
 ## Overview

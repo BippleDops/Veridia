@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Symbols/symbol-heraldry-quest-the-crystal-innovatio-quest-the-crystal-innovatio.svg)
+
+
 # Quest - The Crystal Innovatio
 
 ---

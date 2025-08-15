@@ -994,3 +994,13 @@
   • Rate: 0.0 assets/hour
 
 [worker2] Pausing 30s before next batch...
+[worker2] Processing batch 57 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Character Relationship Web Core Npcs V1 Character Relationship Web Core Npcs.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Character Relationship Web Core Npcs V2 Character Relationship Web Core Npcs.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Commander Thrace Ironwood Commander Thrace Ironwood.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Commander Thrace Ironwood V1 Commander Thrace Ironwood.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Commander Thrace Ironwood V2 Commander Thrace Ironwood.svg.md

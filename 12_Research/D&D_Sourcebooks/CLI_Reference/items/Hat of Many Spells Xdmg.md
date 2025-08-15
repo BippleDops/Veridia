@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Items/item-artifact-hat-of-many-spells-xdmg-hat-of-many-spells-xdmg.svg)
+
+
 # Hat of Many Spells Xdmg
 
 ## Overview

@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Items/item-artifact-explorers-pack-xphb-explorers-pack-xphb.png)
+
+
 # Explorers Pack Xphb
 
 ---

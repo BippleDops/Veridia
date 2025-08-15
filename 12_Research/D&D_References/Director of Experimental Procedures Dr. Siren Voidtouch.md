@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Portraits/portrait-npc-director-of-experimental-procedures-dr-siren-voidtouch-director-of-experimental-procedures-dr-siren-voidtouch.svg)
+
+
 # Director of Experimental Procedures Dr. Siren Voidtouch
 
 ---

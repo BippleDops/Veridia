@@ -10,6 +10,10 @@ type: lore
 updated: 2025-08-14
 ---
 
+> [!figure] Item
+![](04_Resources/Assets/Items/item-artifact-travelers-clothes-xphb-travelers-clothes-xphb.png)
+
+
 # #Travel
 
 ## Overview

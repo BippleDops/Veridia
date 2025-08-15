@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Creatures/creature-creature-slithering-tracker-mpmm-slithering-tracker-mpmm.svg)
+
+
 # Slithering Tracker Mpmm
 
 ## Overview

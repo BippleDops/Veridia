@@ -10,6 +10,10 @@ type: lore
 updated: 2025-08-14
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Locations/location-city-pressure-s-end-pressure-s-end.svg)
+
+
 # Pressure''s End
 
 ## Overview

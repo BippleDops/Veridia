@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-seventh-song-quest-the-seventh-song.svg)
+
+
 # Quest - The Seventh Song
 
 ---

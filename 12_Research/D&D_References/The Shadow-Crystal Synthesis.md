@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-crystal-synthesis-the-shadow-crystal-synthesis.png)
+
+
 # The Shadow-Crystal Synthesis
 
 ## Overview

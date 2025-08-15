@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Locations/location-city-quest-the-harbor-war-quest-the-harbor-war.svg)
+
+
 # Quest - The Harbor War
 
 ---

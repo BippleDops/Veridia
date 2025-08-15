@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Locations/location-city-dr-vera-spectrumseeker-dr-vera-spectrumseeker.svg)
+
+
 # Dr Vera Spectrumseeker
 
 ---

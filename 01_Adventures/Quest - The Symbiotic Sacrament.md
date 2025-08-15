@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-symbiotic-sacrament-quest-the-symbiotic-sacrament.svg)
+
+
 # Quest - The Symbiotic Sacrament
 
 ---

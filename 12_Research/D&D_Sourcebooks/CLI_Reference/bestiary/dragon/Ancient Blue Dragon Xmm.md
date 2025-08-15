@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Creatures/creature-creature-ancient-blue-dragon-xmm-ancient-blue-dragon-xmm.svg)
+
+
 # Ancient Blue Dragon Xmm
 
 ## Overview

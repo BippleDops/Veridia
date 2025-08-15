@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Symbols/symbol-heraldry-quest-the-family-reconciliatio-quest-the-family-reconciliatio.svg)
+
+
 # Quest - The Family Reconciliatio
 
 ---

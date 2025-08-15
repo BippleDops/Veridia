@@ -10,6 +10,10 @@ type: lore
 updated: 2025-08-14
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Locations/location-city-the-siren-s-rest-tavern-the-siren-s-rest-tavern.svg)
+
+
 # The Siren''s Rest Tavern
 
 ## Overview

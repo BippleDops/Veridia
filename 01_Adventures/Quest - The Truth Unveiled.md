@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Locations/location-city-quest-the-truth-unveiled-quest-the-truth-unveiled.svg)
+
+
 # Quest - The Truth Unveiled
 
 ---

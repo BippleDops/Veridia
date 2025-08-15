@@ -7,6 +7,10 @@ tags:
 created: '2025-01-15'
 ---
 
+> [!figure] Map
+![](04_Resources/Assets/Maps/map-map-aethermoor-harbor-skirmish-aethermoor-harbor-skirmish.png)
+
+
 # map
 
 ## Overview

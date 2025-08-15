@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Creatures/creature-creature-animated-flying-sword-xmm-animated-flying-sword-xmm.png)
+
+
 # Animated Flying Sword Xmm
 
 ---

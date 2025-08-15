@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Portraits/portrait-npc-quest-breaking-the-scales-quest-breaking-the-scales.svg)
+
+
 # Quest - Breaking the Scales
 
 ---

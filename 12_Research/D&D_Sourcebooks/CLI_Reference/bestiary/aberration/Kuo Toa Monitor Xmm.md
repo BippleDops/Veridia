@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Creatures/creature-creature-kuo-toa-monitor-xmm-kuo-toa-monitor-xmm.svg)
+
+
 # Kuo Toa Monitor Xmm
 
 ## Overview

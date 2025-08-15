@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Locations/location-city-master-smith-vulcan-deepforge-master-smith-vulcan-deepforge.svg)
+
+
 # Master Smith Vulcan Deepforge
 
 ---

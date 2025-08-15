@@ -21,6 +21,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Locations/location-city-seven-shards-seven-shards.svg)
+
+
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

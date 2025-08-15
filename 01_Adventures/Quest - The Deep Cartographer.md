@@ -7,6 +7,10 @@ created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-deep-cartographer-quest-the-deep-cartographer.svg)
+
+
 # Quest - The Deep Cartographer
 
 ---

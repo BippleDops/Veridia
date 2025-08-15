@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Expose the Shadow Conspiracy"]
+---
+
 # Quest   Expose The Shadow Conspiracy
 
 > *Time is running out...*

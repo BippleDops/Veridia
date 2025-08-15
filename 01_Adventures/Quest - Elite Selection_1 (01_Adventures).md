@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Elite Selection 1 (01 Adventures)"]
+---
+
 # Quest   Elite Selection 1 (01 Adventures)
 
 

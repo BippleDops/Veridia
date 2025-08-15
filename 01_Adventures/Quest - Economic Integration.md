@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Economic Integration"]
+---
+
 # Quest   Economic Integration
 
 > *Time is running out...* This remarkable element adds depth and intrigue to any campaign.

@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Father and Daughter"]
+---
+
 # Quest   Father And Daughter
 
 > *The fate of many hangs in the balance...*

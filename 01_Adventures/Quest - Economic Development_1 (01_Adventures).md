@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Economic Development 1 (01 Adventures)"]
+---
+
 # Quest   Economic Development 1 (01 Adventures)
 
 

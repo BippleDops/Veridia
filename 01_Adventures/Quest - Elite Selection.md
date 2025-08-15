@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Elite Selection"]
+---
+
 # Quest   Elite Selection
 
 

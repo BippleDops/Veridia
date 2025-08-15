@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Faith and Doubt"]
+---
+
 # Quest   Faith And Doubt
 
 

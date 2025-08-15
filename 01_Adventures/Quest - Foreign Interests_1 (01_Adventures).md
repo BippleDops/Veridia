@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Foreign Interests 1 (01 Adventures)"]
+---
+
 # Quest   Foreign Interests 1 (01 Adventures)
 
 

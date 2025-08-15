@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Hadal Expedition"]
+---
+
 # Quest   Hadal Expedition
 
 > *Time is running out...*

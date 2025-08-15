@@ -1,9 +1,3 @@
----
-tags: [item, equipment]
-type: item
-aliases: ["INDEX"]
----
-
 # Items Index
 
 *Total: 236 entries*
